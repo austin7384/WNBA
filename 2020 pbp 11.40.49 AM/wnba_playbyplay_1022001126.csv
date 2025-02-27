@@ -1,0 +1,346 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball N Ogwumike vs N Ogwumike (Leslie gains possession),0,-80,10,203014,203014,1629506,1611661322,0,0,1
+09:35,[WAS] Team Turnover : Shot Clock Turnover,-150,361,5,,0,,1611661322,0,0,1
+09:27,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,0,0,1
+09:16,[LAS] Parker Turnover : Out of Bounds - Bad Pass Turnover (1 TO),15,38,5,,201496,,1611661320,0,0,1
+09:00,[WAS] Atkins Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),126,203,5,203833,1628878,,1611661322,0,0,1
+08:57,[WAS] Leslie Foul: Shooting (1 PF) (2 FTA),-24,8,6,203014,1629506,,1611661322,0,0,1
+08:57,[LAS 1-0] N Ogwumike Free Throw 1 of 2 (1 PTS),0,-80,3,,203014,,1611661320,1,0,1
+08:57,[LAS 2-0] N Ogwumike Free Throw 2 of 2 (2 PTS),0,-80,3,,203014,,1611661320,2,0,1
+08:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,0,1
+08:32,[WAS] Atkins 3pt Shot: Missed,-113,237,2,,1628878,,1611661322,2,0,1
+08:30,[LAS] Parker Rebound (Off:0 Def:1),-113,237,4,,201496,,1611661320,2,0,1
+08:16,[LAS] Gray Turnover : Bad Pass (1 TO) Steal:Hines-Allen (1 ST),-172,143,5,1628899,203833,,1611661320,2,0,1
+08:13,[LAS] Cooper Foul: Shooting (1 PF) (2 FTA),13,32,6,201507,1630099,,1611661320,2,0,1
+08:13,[WAS 1-2] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,201507,,1611661322,2,1,1
+08:13,[WAS 2-2] Mitchell Free Throw 2 of 2 (2 PTS),0,-80,3,,201507,,1611661322,2,2,1
+07:53,[LAS] Parker Jump Shot: Missed,111,161,2,,201496,,1611661320,2,2,1
+07:51,[LAS] Gray Rebound (Off:1 Def:0),111,161,4,,203833,,1611661320,2,2,1
+07:51,[LAS] Gray Putback Layup Shot: Missed,20,11,2,,203833,,1611661320,2,2,1
+07:48,[WAS] Hines-Allen Rebound (Off:0 Def:1),20,11,4,,1628899,,1611661322,2,2,1
+07:44,[WAS] Mitchell Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-123,189,5,,201507,,1611661322,2,2,1
+07:27,[LAS] N Ogwumike 3pt Shot: Missed,-97,205,2,,203014,,1611661320,2,2,1
+07:25,[LAS] Parker Rebound (Off:1 Def:1),-97,205,4,,201496,,1611661320,2,2,1
+07:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,2,1
+07:20,[LAS 4-2] Cooper Jump Shot: Made (2 PTS) Assist: Parker (1 AST),0,194,1,,1630099,201496,1611661320,4,2,1
+07:01,[WAS 4-4] Hines-Allen Turnaround Jump Shot: Made (2 PTS) Assist: Mitchell (1 AST),109,45,1,,1628899,201507,1611661322,4,4,1
+06:57,Stoppage Other,0,-80,20,,0,,0,4,4,1
+06:44,[LAS] Parker Fadeaway Jump Shot: Missed,108,129,2,,201496,,1611661320,4,4,1
+06:42,[LAS] Sykes Rebound (Off:1 Def:0),108,129,4,,1628279,,1611661320,4,4,1
+06:36,[LAS] Sykes Layup Shot: Missed,25,15,2,1629506,1628279,,1611661320,4,4,1
+06:34,[LAS] Sykes Rebound (Off:2 Def:0),25,15,4,,1628279,,1611661320,4,4,1
+06:30,[LAS] Parker 3pt Shot: Missed,-108,219,2,,201496,,1611661320,4,4,1
+06:27,[WAS] Atkins Rebound (Off:0 Def:1),-108,219,4,,1628878,,1611661322,4,4,1
+06:22,[LAS] Sykes Foul: Shooting (1 PF) (2 FTA),19,82,6,1628878,1628279,,1611661320,4,4,1
+06:22,[WAS] Atkins Free Throw 1 of 2 Missed,0,-80,3,,1628878,,1611661322,4,4,1
+06:22,[WAS] Team Rebound,0,-80,4,,0,,1611661322,4,4,1
+06:22,[WAS] Atkins Free Throw 2 of 2 Missed,0,-80,3,,1628878,,1611661322,4,4,1
+06:20,[LAS] Parker Rebound (Off:1 Def:2),0,-80,4,,201496,,1611661320,4,4,1
+06:04,[LAS 6-4] Gray Fadeaway Jump Shot: Made (2 PTS),-3,87,1,,203833,,1611661320,6,4,1
+05:55,[WAS] Hines-Allen Turnover : Lost Ball (1 TO) Steal:N Ogwumike (1 ST),-12,155,5,203014,1628899,,1611661322,6,4,1
+05:50,[LAS 8-4] Cooper Driving Layup Shot: Made (4 PTS),11,4,1,,1630099,,1611661320,8,4,1
+05:35,[WAS 7-8] Mitchell 3pt Shot: Made (5 PTS) Assist: Leslie (1 AST),24,252,1,,201507,1629506,1611661322,8,7,1
+05:19,[LAS] Sykes 3pt Shot: Missed,218,60,2,,1628279,,1611661320,8,7,1
+05:17,[LAS] Parker Rebound (Off:2 Def:2),218,60,4,,201496,,1611661320,8,7,1
+05:15,[LAS] Parker Turnover : Bad Pass (2 TO) Steal:Atkins (1 ST),-109,13,5,1628878,201496,,1611661320,8,7,1
+05:10,[WAS 9-8] Mitchell Cutting Layup Shot: Made (7 PTS) Assist: Atkins (1 AST),14,21,1,,201507,1628878,1611661322,8,9,1
+05:10,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,8,9,1
+05:10,[LAS] Sykes Substitution replaced by Augustus,0,-80,8,,1628279,200671,1611661320,8,9,1
+05:10,[LAS] Cooper Substitution replaced by Williams,0,-80,8,,1630099,203029,1611661320,8,9,1
+04:58,[LAS 10-9] Gray Fadeaway Jump Shot: Made (4 PTS) Assist: N Ogwumike (1 AST),13,140,1,,203833,203014,1611661320,10,9,1
+04:58,[WAS] Mitchell Foul: Shooting (1 PF) (1 FTA),14,128,6,203833,201507,,1611661322,10,9,1
+04:58,[LAS 11-9] Gray Free Throw 1 of 1 (5 PTS),0,-80,3,,203833,,1611661320,11,9,1
+04:36,[WAS 11-11] Hines-Allen Hook Shot: Made (4 PTS),4,49,1,,1628899,,1611661322,11,11,1
+04:13,[LAS 14-11] Gray 3pt Shot: Made (8 PTS) Assist: Parker (2 AST),240,-4,1,,203833,201496,1611661320,14,11,1
+03:56,[WAS] Mitchell 3pt Shot: Missed,94,238,2,,201507,,1611661322,14,11,1
+03:53,[LAS] Parker Rebound (Off:2 Def:3),94,238,4,,201496,,1611661320,14,11,1
+03:42,[LAS] Williams 3pt Shot: Missed,25,239,2,,203029,,1611661320,14,11,1
+03:41,[LAS] Parker Rebound (Off:3 Def:3),25,239,4,,201496,,1611661320,14,11,1
+03:28,[LAS] Augustus Jump Shot: Missed,202,79,2,,200671,,1611661320,14,11,1
+03:25,[WAS] Mitchell Rebound (Off:0 Def:1),209,82,4,,201507,,1611661322,14,11,1
+03:07,[WAS] Atkins Running Jump Shot: Missed,-84,13,2,,1628878,,1611661322,14,11,1
+03:05,[LAS] Williams Rebound (Off:0 Def:1),-84,13,4,,203029,,1611661320,14,11,1
+03:02,[WAS] Hines-Allen Foul: Shooting (1 PF) (2 FTA),30,21,6,203029,1628899,,1611661322,14,11,1
+03:02,[LAS 15-11] Williams Free Throw 1 of 2 (1 PTS),0,-80,3,,203029,,1611661320,15,11,1
+03:02,[LAS] N Ogwumike Substitution replaced by Anigwe,0,-80,8,,203014,1629485,1611661320,15,11,1
+03:02,[WAS] Leslie Substitution replaced by Coates,0,-80,8,,1629506,1628268,1611661322,15,11,1
+03:02,[WAS] Hines-Allen Substitution replaced by Gemelos,0,-80,8,,1628899,203043,1611661322,15,11,1
+03:02,[LAS 16-11] Williams Free Throw 2 of 2 (2 PTS),0,-80,3,,203029,,1611661320,16,11,1
+02:42,[WAS] Gemelos 3pt Shot: Missed,230,27,2,,203043,,1611661322,16,11,1
+02:40,[LAS] Parker Rebound (Off:3 Def:4),230,27,4,,201496,,1611661320,16,11,1
+02:37,[LAS 18-11] Parker Driving Finger Roll Layup Shot: Made (2 PTS),18,13,1,,201496,,1611661320,18,11,1
+02:18,[WAS 13-18] Meesseman Turnaround Jump Shot: Made (2 PTS) Assist: Atkins (2 AST),74,51,1,,203416,1628878,1611661322,18,13,1
+02:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,13,1
+01:55,[LAS] Williams Jump Shot: Missed,-103,119,2,,203029,,1611661320,18,13,1
+01:54,[LAS] Williams Rebound (Off:1 Def:1),-103,119,4,,203029,,1611661320,18,13,1
+01:51,[LAS] Williams Jump Shot: Missed,-69,48,2,,203029,,1611661320,18,13,1
+01:49,[WAS] Coates Rebound (Off:0 Def:1),-69,48,4,,1628268,,1611661322,18,13,1
+01:40,[WAS 15-18] Meesseman Jump Shot: Made (4 PTS) Assist: Mitchell (2 AST),13,194,1,,203416,201507,1611661322,18,15,1
+01:24,[LAS] Parker 3pt Shot: Missed,-3,242,2,,201496,,1611661320,18,15,1
+01:21,[WAS] Coates Rebound (Off:0 Def:2),-3,242,4,,1628268,,1611661322,18,15,1
+01:15,[WAS] Mitchell Driving Layup Shot: Missed,-14,28,2,201496,201507,,1611661322,18,15,1
+01:15,[WAS] Team Rebound,-14,28,4,,0,,1611661322,18,15,1
+01:15,[LAS] Williams Substitution replaced by N Ogwumike,0,-80,8,,203029,203014,1611661320,18,15,1
+01:15,[LAS] Parker Substitution replaced by Sykes,0,-80,8,,201496,1628279,1611661320,18,15,1
+01:15,Stoppage: Blood Rule,0,-80,20,,0,,0,18,15,1
+01:08,[WAS] Atkins Jump Shot: Missed,-28,204,2,,1628878,,1611661322,18,15,1
+01:03,[LAS] Sykes Rebound (Off:2 Def:1),-28,204,4,,1628279,,1611661320,18,15,1
+00:57.8,[LAS] Sykes Turnover : Bad Pass (1 TO) Steal:Meesseman (1 ST),159,87,5,203416,1628279,,1611661320,18,15,1
+00:51.1,[WAS] Mitchell Layup Shot: Missed,-11,17,2,,201507,,1611661322,18,15,1
+00:48.4,[LAS] N Ogwumike Rebound (Off:0 Def:1),-11,17,4,,203014,,1611661320,18,15,1
+00:33.7,[LAS 20-15] Sykes Driving Layup Shot: Made (2 PTS),-17,9,1,,1628279,,1611661320,20,15,1
+00:16.9,[WAS] Meesseman 3pt Shot: Missed,8,252,2,,203416,,1611661322,20,15,1
+00:14.4,[LAS] Sykes Rebound (Off:2 Def:2),8,252,4,,1628279,,1611661320,20,15,1
+00:02.8,[LAS] Gray Pullup Jump shot: Missed,89,158,2,,203833,,1611661320,20,15,1
+00:02.8,[WAS] Coates Rebound (Off:0 Def:3),89,158,4,,1628268,,1611661322,20,15,1
+00:00.0,End Period,0,-80,13,,0,,0,20,15,1
+10:00,Start Period,0,-80,12,,0,,0,20,15,2
+09:35,[LAS] Team Turnover : Shot Clock Turnover,-156,371,5,,0,,1611661320,20,15,2
+09:25,[LAS] Cooper Foul: Personal (2 PF),49,105,6,1628899,1630099,,1611661320,20,15,2
+09:14,[WAS 17-20] Coates Cutting Layup Shot: Made (2 PTS) Assist: Hines-Allen (1 AST),28,16,1,,1628268,1628899,1611661322,20,17,2
+09:00,[LAS 22-17] Augustus Jump Shot: Made (2 PTS) Assist: Sykes (1 AST),-48,110,1,,200671,1628279,1611661320,22,17,2
+08:33,[WAS 20-22] Leslie 3pt Shot: Made (3 PTS) Assist: Sutton (1 AST),-36,255,1,,1629506,1630134,1611661322,22,20,2
+08:24,[WAS] Sutton Foul: Personal (1 PF),50,175,6,1630099,1630134,,1611661322,22,20,2
+08:09,[LAS] Sykes Pullup Jump shot: Missed,112,81,2,,1628279,,1611661320,22,20,2
+08:04,[WAS] Coates Rebound (Off:0 Def:4),112,81,4,,1628268,,1611661322,22,20,2
+07:56,[WAS] Sutton 3pt Shot: Missed,91,237,2,,1630134,,1611661322,22,20,2
+07:55,[LAS] Team Rebound,91,237,4,,0,,1611661320,22,20,2
+07:41,[LAS] Cooper Jump Shot: Missed,118,143,2,,1630099,,1611661320,22,20,2
+07:39,[WAS] Gemelos Rebound (Off:0 Def:1),118,143,4,,203043,,1611661322,22,20,2
+07:27,[WAS 22-22] Hines-Allen Turnaround Fadeaway shot: Made (6 PTS),78,33,1,,1628899,,1611661322,22,22,2
+07:10,[LAS 24-22] Sykes Driving Layup Shot: Made (4 PTS) Assist: N Ogwumike (2 AST),15,19,1,,1628279,203014,1611661320,24,22,2
+07:00,[WAS 25-24] Gemelos 3pt Shot: Made (3 PTS),163,232,1,,203043,,1611661322,24,25,2
+06:48,[LAS] N Ogwumike Driving Layup Shot: Missed,42,11,2,,203014,,1611661320,24,25,2
+06:46,[LAS] N Ogwumike Rebound (Off:1 Def:1),42,11,4,,203014,,1611661320,24,25,2
+06:45,[LAS 26-25] N Ogwumike Putback Layup Shot: Made (4 PTS),23,20,1,,203014,,1611661320,26,25,2
+06:34,[WAS] Leslie Turnover : Lost Ball (1 TO) Steal:Anigwe (1 ST),85,44,5,1629485,1629506,,1611661322,26,25,2
+06:22,[WAS] Coates Foul: Shooting (1 PF) (2 FTA),32,11,6,1628279,1628268,,1611661322,26,25,2
+06:22,[LAS 27-25] Sykes Free Throw 1 of 2 (5 PTS),0,-80,3,,1628279,,1611661320,27,25,2
+06:22,[LAS] Anigwe Substitution replaced by Parker,0,-80,8,,1629485,201496,1611661320,27,25,2
+06:22,[LAS] Cooper Substitution replaced by Gray,0,-80,8,,1630099,203833,1611661320,27,25,2
+06:22,[WAS] Coates Substitution replaced by Mitchell,0,-80,8,,1628268,201507,1611661322,27,25,2
+06:22,[WAS] Gemelos Substitution replaced by Atkins,0,-80,8,,203043,1628878,1611661322,27,25,2
+06:22,[WAS] Sutton Substitution replaced by Meesseman,0,-80,8,,1630134,203416,1611661322,27,25,2
+06:22,[LAS 28-25] Sykes Free Throw 2 of 2 (6 PTS),0,-80,3,,1628279,,1611661320,28,25,2
+05:59,[WAS] Hines-Allen Jump Shot: Missed,109,58,2,203014,1628899,,1611661322,28,25,2
+05:57,[LAS] N Ogwumike Rebound (Off:1 Def:2),109,58,4,,203014,,1611661320,28,25,2
+05:46,[LAS] Sykes Driving Layup Shot: Missed,26,21,2,,1628279,,1611661320,28,25,2
+05:44,[WAS] Atkins Rebound (Off:0 Def:2),26,21,4,,1628878,,1611661322,28,25,2
+05:35,[WAS 27-28] Hines-Allen Driving Layup Shot: Made (8 PTS) Assist: Meesseman (1 AST),37,31,1,,1628899,203416,1611661322,28,27,2
+05:23,[LAS] Augustus Pullup Jump shot: Missed,13,175,2,,200671,,1611661320,28,27,2
+05:20,[WAS] Hines-Allen Rebound (Off:0 Def:2),13,175,4,,1628899,,1611661322,28,27,2
+05:11,[WAS 29-28] Atkins Driving Layup Shot: Made (2 PTS),27,42,1,,1628878,,1611661322,28,29,2
+05:11,[LAS] Parker Foul: Shooting (1 PF) (1 FTA),39,6,6,1628878,201496,,1611661320,28,29,2
+05:11,Timeout Officials,0,-80,9,,0,,0,28,29,2
+05:11,[LAS] Sykes Substitution replaced by Williams,0,-80,8,,1628279,203029,1611661320,28,29,2
+05:11,[WAS 30-28] Atkins Free Throw 1 of 1 (3 PTS),0,-80,3,,1628878,,1611661322,28,30,2
+04:53,[WAS] Mitchell Foul: Personal (2 PF),104,140,6,201496,201507,,1611661322,28,30,2
+04:40,[LAS 30-30] Parker Cutting Layup Shot: Made (4 PTS) Assist: Williams (1 AST),-35,14,1,,201496,203029,1611661320,30,30,2
+04:24,[WAS 32-30] Hines-Allen Turnaround Fadeaway shot: Made (10 PTS) Assist: Meesseman (2 AST),58,58,1,,1628899,203416,1611661322,30,32,2
+04:09,Jump Ball Atkins vs Atkins (Gray gains possession),0,-80,10,1628878,1628878,203833,1611661320,30,32,2
+04:03,[LAS] Gray 3pt Shot: Missed,118,220,2,,203833,,1611661320,30,32,2
+04:00,[WAS] Leslie Rebound (Off:0 Def:1),118,220,4,,1629506,,1611661322,30,32,2
+03:50,[WAS] Hines-Allen Layup Shot: Missed,36,19,2,,1628899,,1611661322,30,32,2
+03:48,[LAS] Parker Rebound (Off:3 Def:5),36,19,4,,201496,,1611661320,30,32,2
+03:39,[LAS 32-32] Parker Driving Reverse Layup Shot: Made (6 PTS),-22,11,1,,201496,,1611661320,32,32,2
+03:27,[LAS] Gray Foul: Personal (1 PF),30,194,6,1628878,203833,,1611661320,32,32,2
+03:15,[WAS 34-32] Hines-Allen Jump Shot: Made (12 PTS) Assist: Atkins (3 AST),170,45,1,,1628899,1628878,1611661322,32,34,2
+02:58,[LAS 34-34] Augustus Turnaround Jump Shot: Made (4 PTS) Assist: N Ogwumike (3 AST),-144,14,1,,200671,203014,1611661320,34,34,2
+02:38,[WAS 36-34] Hines-Allen Layup Shot: Made (14 PTS) Assist: Meesseman (3 AST),20,32,1,,1628899,203416,1611661322,34,36,2
+02:19,[LAS 36-36] N Ogwumike Turnaround Hook Shot: Made (6 PTS) Assist: Gray (1 AST),-24,25,1,,203014,203833,1611661320,36,36,2
+02:09,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,36,36,2
+02:09,[LAS] Augustus Substitution replaced by Sykes,0,-80,8,,200671,1628279,1611661320,36,36,2
+01:50,[WAS] Atkins 3pt Shot: Missed,-120,254,2,,1628878,,1611661322,36,36,2
+01:48,[LAS] Sykes Rebound (Off:2 Def:3),-120,254,4,,1628279,,1611661320,36,36,2
+01:39,[LAS 38-36] N Ogwumike Layup Shot: Made (8 PTS) Assist: Gray (2 AST),22,19,1,,203014,203833,1611661320,38,36,2
+01:39,[WAS] Hines-Allen Foul: Shooting (2 PF) (1 FTA),-22,11,6,203014,1628899,,1611661322,38,36,2
+01:39,[LAS 39-36] N Ogwumike Free Throw 1 of 1 (9 PTS),0,-80,3,,203014,,1611661320,39,36,2
+01:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,36,2
+01:23,[WAS] Atkins Jump Shot: Missed,192,58,2,,1628878,,1611661322,39,36,2
+01:19,[LAS] Gray Rebound (Off:1 Def:1),192,58,4,,203833,,1611661320,39,36,2
+01:13,[LAS 41-36] Gray Floating Jump shot: Made (10 PTS),15,121,1,,203833,,1611661320,41,36,2
+01:13,[WAS] Meesseman Foul: Shooting (1 PF) (1 FTA),0,112,6,203833,203416,,1611661322,41,36,2
+01:13,[LAS 42-36] Gray Free Throw 1 of 1 (11 PTS),0,-80,3,,203833,,1611661320,42,36,2
+00:54.8,[WAS] Leslie 3pt Shot: Missed,-218,91,2,,1629506,,1611661322,42,36,2
+00:52.2,[LAS] Parker Rebound (Off:3 Def:6),-218,91,4,,201496,,1611661320,42,36,2
+00:48.1,[LAS 45-36] Williams 3pt Shot: Made (5 PTS) Assist: Parker (3 AST),207,97,1,,203029,201496,1611661320,45,36,2
+00:44.1,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,45,36,2
+00:34.2,[LAS] Parker Foul: Personal (2 PF),-78,130,6,203416,201496,,1611661320,45,36,2
+00:34.2,[LAS] Parker Substitution replaced by Anigwe,0,-80,8,,201496,1629485,1611661320,45,36,2
+00:28.1,[WAS] Atkins Jump Shot: Missed,50,180,2,,1628878,,1611661322,45,36,2
+00:26.4,[LAS] N Ogwumike Rebound (Off:1 Def:3),50,180,4,,203014,,1611661320,45,36,2
+00:21.1,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,45,36,2
+00:21.1,[LAS] Anigwe Substitution replaced by Parker,0,-80,8,,1629485,201496,1611661320,45,36,2
+00:05.4,[LAS] N Ogwumike Turnaround Hook Shot: Missed,-43,33,2,,203014,,1611661320,45,36,2
+00:03.8,[WAS] Hines-Allen Rebound (Off:0 Def:3),-43,33,4,,1628899,,1611661322,45,36,2
+00:00.2,[WAS 39-45] Hines-Allen 3pt Shot: Made (17 PTS),-30,303,1,,1628899,,1611661322,45,39,2
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,45,39,2
+00:00.0,End Period,0,-80,13,,0,,0,45,39,2
+10:00,Start Period,0,-80,12,,0,,0,45,39,3
+09:35,[LAS] Team Turnover : Shot Clock Turnover,71,376,5,,0,,1611661320,45,39,3
+09:25,[WAS] Meesseman Jump Shot: Missed,-188,33,2,,203416,,1611661322,45,39,3
+09:22,[LAS] N Ogwumike Rebound (Off:1 Def:4),-188,33,4,,203014,,1611661320,45,39,3
+09:04,[LAS 47-39] Sykes Driving Layup Shot: Made (8 PTS),-8,54,1,,1628279,,1611661320,47,39,3
+08:47,[WAS] Atkins Jump Shot: Missed,102,169,2,,1628878,,1611661322,47,39,3
+08:44,[LAS] Parker Rebound (Off:3 Def:7),102,169,4,,201496,,1611661320,47,39,3
+08:39,[LAS] Parker Turnover : Bad Pass (3 TO) Steal:Atkins (2 ST),-4,108,5,1628878,201496,,1611661320,47,39,3
+08:25,[WAS 41-47] Hines-Allen Jump Shot: Made (19 PTS) Assist: Mitchell (3 AST),4,68,1,,1628899,201507,1611661322,47,41,3
+08:10,[LAS] Cooper Turnover : Lost Ball (1 TO) Steal:Mitchell (1 ST),-79,104,5,201507,1630099,,1611661320,47,41,3
+08:04,[WAS 43-47] Meesseman Running Layup Shot: Made (6 PTS) Assist: Mitchell (4 AST),19,19,1,,203416,201507,1611661322,47,43,3
+07:47,[LAS 49-43] Gray Pullup Jump shot: Made (13 PTS),31,107,1,,203833,,1611661320,49,43,3
+07:41,[LAS] Gray Foul: Shooting (2 PF) (2 FTA),-11,46,6,1628878,203833,,1611661320,49,43,3
+07:41,[WAS 44-49] Atkins Free Throw 1 of 2 (4 PTS),0,-80,3,,1628878,,1611661322,49,44,3
+07:41,[WAS 45-49] Atkins Free Throw 2 of 2 (5 PTS),0,-80,3,,1628878,,1611661322,49,45,3
+07:22,[LAS 51-45] N Ogwumike Driving Reverse Layup Shot: Made (11 PTS) Assist: Parker (4 AST),26,24,1,,203014,201496,1611661320,51,45,3
+07:04,[WAS] Hines-Allen Jump Shot: Missed,137,72,2,,1628899,,1611661322,51,45,3
+07:01,[LAS] Parker Rebound (Off:3 Def:8),137,72,4,,201496,,1611661320,51,45,3
+06:45,[LAS] N Ogwumike Turnover : Lost Ball (1 TO) Steal:Mitchell (2 ST),-102,125,5,201507,203014,,1611661320,51,45,3
+06:40,[WAS] Meesseman 3pt Shot: Missed,-154,194,2,,203416,,1611661322,51,45,3
+06:36,[LAS] Gray Rebound (Off:1 Def:2),-154,194,4,,203833,,1611661320,51,45,3
+06:22,[LAS] Sykes Turnover : Lost Ball (2 TO) Steal:Atkins (3 ST),13,64,5,1628878,1628279,,1611661320,51,45,3
+06:22,[LAS] Sykes Foul: Personal (2 PF),-3,780,6,1628878,1628279,,1611661320,51,45,3
+06:11,[WAS 47-51] Meesseman Driving Floating Bank Jump Shot: Made (8 PTS) Assist: Atkins (4 AST),-50,72,1,,203416,1628878,1611661322,51,47,3
+05:48,[LAS] N Ogwumike 3pt Shot: Missed,231,43,2,,203014,,1611661320,51,47,3
+05:46,[LAS] Parker Rebound (Off:4 Def:8),231,43,4,,201496,,1611661320,51,47,3
+05:45,[LAS] Gray Layup Shot: Missed,37,32,2,,203833,,1611661320,51,47,3
+05:45,[LAS] Gray Rebound (Off:2 Def:2),37,32,4,,203833,,1611661320,51,47,3
+05:42,[LAS 53-47] Gray Tip Layup Shot: Made (15 PTS),0,-5,1,,203833,,1611661320,53,47,3
+05:34,[WAS 49-53] Leslie Driving Layup Shot: Made (5 PTS),15,16,1,,1629506,,1611661322,53,49,3
+05:19,[LAS] Sykes Turnover : Lost Ball (3 TO) Steal:Atkins (4 ST),70,148,5,1628878,1628279,,1611661320,53,49,3
+05:15,[WAS 51-53] Meesseman Layup Shot: Made (10 PTS) Assist: Hines-Allen (2 AST),24,-1,1,,203416,1628899,1611661322,53,51,3
+04:57,[LAS] Parker Turnover : Bad Pass (4 TO) Steal:Hines-Allen (2 ST),-51,228,5,1628899,201496,,1611661320,53,51,3
+04:53,[WAS 53-53] Hines-Allen Layup Shot: Made (21 PTS),-13,21,1,,1628899,,1611661322,53,53,3
+04:53,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,53,53,3
+04:53,[LAS] Sykes Substitution replaced by Williams,0,-80,8,,1628279,203029,1611661320,53,53,3
+04:37,[LAS] Williams 3pt Shot: Missed,208,134,2,,203029,,1611661320,53,53,3
+04:35,[WAS] Hines-Allen Rebound (Off:0 Def:4),208,134,4,,1628899,,1611661322,53,53,3
+04:16,[WAS 55-53] Meesseman Turnaround Fadeaway shot: Made (12 PTS) Assist: Hines-Allen (3 AST),97,47,1,,203416,1628899,1611661322,53,55,3
+03:58,[LAS 55-55] N Ogwumike Driving Reverse Layup Shot: Made (13 PTS) Assist: Parker (5 AST),-7,26,1,,203014,201496,1611661320,55,55,3
+03:49,[WAS 58-55] Leslie 3pt Shot: Made (8 PTS) Assist: Mitchell (5 AST),219,127,1,,1629506,201507,1611661322,55,58,3
+03:35,[LAS] Cooper Driving Reverse Layup Shot: Missed,9,33,2,,1630099,,1611661320,55,58,3
+03:32,[LAS] Gray Rebound (Off:3 Def:2),9,33,4,,203833,,1611661320,55,58,3
+03:32,[LAS] Gray Putback Layup Shot: Missed,0,-5,2,203416,203833,,1611661320,55,58,3
+03:32,[WAS] Atkins Rebound (Off:0 Def:3),0,-5,4,,1628878,,1611661322,55,58,3
+03:24,[WAS] Hines-Allen Foul: Offensive (3 PF),18,277,6,203014,1628899,,1611661322,55,58,3
+03:24,[WAS] Hines-Allen Turnover : Offensive Foul Turnover (2 TO),18,277,5,,1628899,,1611661322,55,58,3
+03:14,[LAS] N Ogwumike Jump Shot: Missed,172,67,2,,203014,,1611661320,55,58,3
+03:11,[WAS] Atkins Rebound (Off:0 Def:4),172,67,4,,1628878,,1611661322,55,58,3
+03:03,[WAS] Meesseman 3pt Shot: Missed,111,208,2,,203416,,1611661322,55,58,3
+03:00,[LAS] Gray Rebound (Off:3 Def:3),111,208,4,,203833,,1611661320,55,58,3
+02:47,[LAS] N Ogwumike Layup Shot: Missed,36,19,2,,203014,,1611661320,55,58,3
+02:46,[LAS] N Ogwumike Rebound (Off:2 Def:4),36,19,4,,203014,,1611661320,55,58,3
+02:46,[WAS] Atkins Foul: Personal (1 PF),-50,42,6,203029,1628878,,1611661322,55,58,3
+02:44,[LAS] Gray Foul: Offensive (3 PF),-123,82,6,1628878,203833,,1611661320,55,58,3
+02:44,[LAS] Gray Turnover : Offensive Foul Turnover (2 TO),-123,82,5,,203833,,1611661320,55,58,3
+02:34,[WAS] Atkins Pullup Jump shot: Missed,53,146,2,,1628878,,1611661322,55,58,3
+02:31,[LAS] Parker Rebound (Off:4 Def:9),53,146,4,,201496,,1611661320,55,58,3
+02:23,[LAS] Williams Driving Layup Shot: Missed,-11,23,2,,203029,,1611661320,55,58,3
+02:21,[WAS] Leslie Rebound (Off:0 Def:2),-11,23,4,,1629506,,1611661322,55,58,3
+02:10,[WAS 60-55] Mitchell Pullup Jump shot: Made (9 PTS),37,183,1,,201507,,1611661322,55,60,3
+01:54,[LAS] Gray Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-24,250,5,,203833,,1611661320,55,60,3
+01:54,[WAS] Leslie Substitution replaced by Coates,0,-80,8,,1629506,1628268,1611661322,55,60,3
+01:54,[WAS] Hines-Allen Substitution replaced by Gemelos,0,-80,8,,1628899,203043,1611661322,55,60,3
+01:33,[WAS 62-55] Coates Cutting Layup Shot: Made (4 PTS) Assist: Meesseman (4 AST),-25,8,1,,1628268,203416,1611661322,55,62,3
+01:20,[LAS] Cooper Layup Shot: Missed,30,32,2,,1630099,,1611661320,55,62,3
+01:18,[WAS] Mitchell Rebound (Off:0 Def:2),30,32,4,,201507,,1611661322,55,62,3
+01:13,[WAS] Mitchell Turnover : Bad Pass (2 TO) Steal:N Ogwumike (2 ST),63,59,5,203014,201507,,1611661322,55,62,3
+01:04,[LAS] Williams Jump Shot: Missed,81,124,2,,203029,,1611661320,55,62,3
+01:01,[WAS] Gemelos Rebound (Off:0 Def:2),81,124,4,,203043,,1611661322,55,62,3
+00:53.6,[LAS] Williams Foul: Personal (1 PF),-35,234,6,201507,203029,,1611661320,55,62,3
+00:42.3,[WAS] Mitchell 3pt Shot: Missed,215,119,2,,201507,,1611661322,55,62,3
+00:39.1,[LAS] Cooper Rebound (Off:0 Def:1),215,119,4,,1630099,,1611661320,55,62,3
+00:24.3,[LAS 57-62] N Ogwumike Layup Shot: Made (15 PTS) Assist: Cooper (1 AST),20,31,1,,203014,1630099,1611661320,57,62,3
+00:00.1,[WAS] Mitchell 3pt Shot: Missed,-183,159,2,,201507,,1611661322,57,62,3
+00:00.1,[LAS] Gray Rebound (Off:3 Def:4),-183,159,4,,203833,,1611661320,57,62,3
+00:00.0,End Period,0,-80,13,,0,,0,57,62,3
+10:00,Start Period,0,-80,12,,0,,0,57,62,4
+09:35,[WAS] Team Turnover : Shot Clock Turnover,-133,387,5,,0,,1611661322,57,62,4
+09:25,[LAS] Cooper Turnover : Bad Pass (2 TO) Steal:Hines-Allen (3 ST),195,239,5,1628899,1630099,,1611661320,57,62,4
+09:19,[WAS] Hines-Allen Turnaround Hook Shot: Missed,-31,11,2,,1628899,,1611661322,57,62,4
+09:16,[LAS] Williams Rebound (Off:1 Def:2),-31,11,4,,203029,,1611661320,57,62,4
+08:59,[LAS 60-62] Cooper 3pt Shot: Made (7 PTS) Assist: Sykes (2 AST),-231,31,1,,1630099,1628279,1611661320,60,62,4
+08:45,[WAS 64-60] Hines-Allen Cutting Finger Roll Layup Shot: Made (23 PTS) Assist: Mitchell (6 AST),15,20,1,,1628899,201507,1611661322,60,64,4
+08:28,[LAS 63-64] Sykes 3pt Shot: Made (11 PTS) Assist: Parker (6 AST),155,190,1,,1628279,201496,1611661320,63,64,4
+08:14,[WAS] Hines-Allen Turnover : Out of Bounds - Bad Pass Turnover (3 TO),97,210,5,,1628899,,1611661322,63,64,4
+08:01,[LAS] Cooper Driving Layup Shot: Missed,26,18,2,,1630099,,1611661320,63,64,4
+07:57,[LAS] Anigwe Rebound (Off:1 Def:0),26,18,4,,1629485,,1611661320,63,64,4
+07:57,[LAS] Anigwe Putback Layup Shot: Missed,0,-5,2,1628268,1629485,,1611661320,63,64,4
+07:56,[WAS] Coates Rebound (Off:0 Def:5),0,-5,4,,1628268,,1611661322,63,64,4
+07:45,[WAS] Gemelos 3pt Shot: Missed,196,218,2,1628279,203043,,1611661322,63,64,4
+07:43,[LAS] Anigwe Rebound (Off:1 Def:1),196,218,4,,1629485,,1611661320,63,64,4
+07:26,[LAS] Williams Jump Shot: Missed,11,214,2,,203029,,1611661320,63,64,4
+07:26,[WAS] Team Rebound,11,214,4,,0,,1611661322,63,64,4
+07:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,64,4
+07:26,[LAS] Cooper Substitution replaced by Gray,0,-80,8,,1630099,203833,1611661320,63,64,4
+07:15,[LAS] Anigwe Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,1629485,,1611661320,63,64,4
+07:15,[WAS 65-63] Mitchell Free Throw Technical (10 PTS),0,-80,3,,201507,,1611661322,63,65,4
+07:07,[WAS] Leslie Jump Shot: Missed,112,145,2,,1629506,,1611661322,63,65,4
+07:05,[WAS] Mitchell Rebound (Off:1 Def:2),112,145,4,,201507,,1611661322,63,65,4
+06:57,[WAS 68-63] Gemelos 3pt Shot: Made (6 PTS) Assist: Mitchell (7 AST),-231,0,1,,203043,201507,1611661322,63,68,4
+06:42,[LAS 65-68] Gray Jump Shot: Made (17 PTS),17,133,1,,203833,,1611661320,65,68,4
+06:26,[LAS] Sykes Foul: Shooting (3 PF) (2 FTA),25,6,6,1628268,1628279,,1611661320,65,68,4
+06:26,[WAS] Coates Free Throw 1 of 2 Missed,0,-80,3,,1628268,,1611661322,65,68,4
+06:26,[WAS] Team Rebound,0,-80,4,,0,,1611661322,65,68,4
+06:26,[LAS] Anigwe Substitution replaced by N Ogwumike,0,-80,8,,1629485,203014,1611661320,65,68,4
+06:26,[WAS] Leslie Substitution replaced by Atkins,0,-80,8,,1629506,1628878,1611661322,65,68,4
+06:26,[WAS] Coates Free Throw 2 of 2 Missed,0,-80,3,,1628268,,1611661322,65,68,4
+06:26,[LAS] Team Rebound,0,-80,4,,0,,1611661320,65,68,4
+06:15,[WAS] Coates Foul: Personal (2 PF),92,15,6,203014,1628268,,1611661322,65,68,4
+06:15,[WAS] Coates Substitution replaced by Meesseman,0,-80,8,,1628268,203416,1611661322,65,68,4
+06:07,[WAS] Hines-Allen Foul: Shooting (4 PF) (2 FTA),-20,26,6,201496,1628899,,1611661322,65,68,4
+06:07,[LAS] Parker Free Throw 1 of 2 Missed,0,-80,3,,201496,,1611661320,65,68,4
+06:07,[LAS] Team Rebound,0,-80,4,,0,,1611661320,65,68,4
+06:07,[LAS 66-68] Parker Free Throw 2 of 2 (7 PTS),0,-80,3,,201496,,1611661320,66,68,4
+05:48,[WAS] Gemelos Turnover : Bad Pass (1 TO) Steal:Parker (1 ST),-3,89,5,201496,203043,,1611661322,66,68,4
+05:37,[LAS] Gray Driving Reverse Layup Shot: Missed,-11,31,2,,203833,,1611661320,66,68,4
+05:36,[WAS] Meesseman Rebound (Off:0 Def:1),-11,31,4,,203416,,1611661322,66,68,4
+05:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,68,4
+05:34,Timeout Officials,0,-80,9,,0,,0,66,68,4
+05:34,[WAS] Gemelos Substitution replaced by Leslie,0,-80,8,,203043,1629506,1611661322,66,68,4
+05:16,[WAS] Hines-Allen Driving Layup Shot: Missed,2,27,2,,1628899,,1611661322,66,68,4
+05:13,[LAS] Parker Rebound (Off:4 Def:10),2,27,4,,201496,,1611661320,66,68,4
+05:01,[WAS] Atkins Foul: Personal (2 PF),97,156,6,1628279,1628878,,1611661322,66,68,4
+04:54,[LAS] Gray Pullup Jump shot: Missed,8,177,2,,203833,,1611661320,66,68,4
+04:50,[WAS] Leslie Rebound (Off:0 Def:3),8,177,4,,1629506,,1611661322,66,68,4
+04:29,[WAS] Hines-Allen 3pt Shot: Missed,226,56,2,,1628899,,1611661322,66,68,4
+04:27,[WAS] Meesseman Rebound (Off:1 Def:1),226,56,4,,203416,,1611661322,66,68,4
+04:20,[WAS] Mitchell 3pt Shot: Missed,42,240,2,,201507,,1611661322,66,68,4
+04:16,[LAS] Parker Rebound (Off:4 Def:11),42,240,4,,201496,,1611661320,66,68,4
+04:08,[LAS] Sykes 3pt Shot: Missed,-129,225,2,,1628279,,1611661320,66,68,4
+04:05,[WAS] Hines-Allen Rebound (Off:0 Def:5),-129,225,4,,1628899,,1611661322,66,68,4
+03:55,[WAS] Hines-Allen Fadeaway Jump Shot: Missed,-24,6,2,201496,1628899,,1611661322,66,68,4
+03:52,[LAS] Parker Rebound (Off:4 Def:12),-24,6,4,,201496,,1611661320,66,68,4
+03:46,[LAS 68-68] Parker Driving Layup Shot: Made (9 PTS),25,18,1,,201496,,1611661320,68,68,4
+03:28,[WAS] Hines-Allen Turnover : Lost Ball (4 TO) Steal:Parker (2 ST),86,52,5,201496,1628899,,1611661322,68,68,4
+03:06,[LAS] Williams Jump Shot: Missed,-78,150,2,,203029,,1611661320,68,68,4
+03:06,[WAS] Team Rebound,-78,150,4,,0,,1611661322,68,68,4
+03:06,[LAS] N Ogwumike Foul: Personal (1 PF),61,713,6,203416,203014,,1611661320,68,68,4
+03:06,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,68,68,4
+02:53,[WAS 71-68] Atkins 3pt Shot: Made (8 PTS) Assist: Meesseman (5 AST),-181,151,1,,1628878,203416,1611661322,68,71,4
+02:30,Jump Ball Mitchell vs Mitchell (Williams gains possession),0,-80,10,201507,201507,203029,1611661320,68,71,4
+02:23,[LAS] Williams 3pt Shot: Missed,-108,228,2,,203029,,1611661320,68,71,4
+02:21,[WAS] Hines-Allen Rebound (Off:0 Def:6),-108,228,4,,1628899,,1611661322,68,71,4
+02:12,[WAS] Leslie Turnover : Bad Pass (2 TO) Steal:N Ogwumike (3 ST),-163,123,5,203014,1629506,,1611661322,68,71,4
+02:01,[LAS 70-71] Gray Turnaround Fadeaway Bank Jump Shot: Made (19 PTS),-46,42,1,,203833,,1611661320,70,71,4
+01:47,[LAS] Sykes Foul: Personal (4 PF),-86,193,6,1628878,1628279,,1611661320,70,71,4
+01:38,[WAS] Meesseman Turnaround Fadeaway Bank Jump Shot: Missed,-24,132,2,,203416,,1611661322,70,71,4
+01:37,[WAS] Mitchell Rebound (Off:2 Def:2),-24,132,4,,201507,,1611661322,70,71,4
+01:28,[WAS 74-70] Hines-Allen 3pt Shot: Made (26 PTS) Assist: Mitchell (8 AST),25,240,1,,1628899,201507,1611661322,70,74,4
+01:28,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,70,74,4
+01:18,[LAS 72-74] Gray Driving Finger Roll Layup Shot: Made (21 PTS),30,26,1,,203833,,1611661320,72,74,4
+00:56.9,[WAS 77-72] Hines-Allen 3pt Shot: Made (29 PTS) Assist: Mitchell (9 AST),78,245,1,,1628899,201507,1611661322,72,77,4
+00:39.9,[LAS] Gray 3pt Shot: Missed,-73,247,2,,203833,,1611661320,72,77,4
+00:38.0,[WAS] Hines-Allen Rebound (Off:0 Def:7),-73,247,4,,1628899,,1611661322,72,77,4
+00:34.7,[WAS 79-72] Meesseman Layup Shot: Made (14 PTS) Assist: Hines-Allen (4 AST),-3,25,1,,203416,1628899,1611661322,72,79,4
+00:34.7,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,72,79,4
+00:26.8,[LAS] Williams Jump Shot: Missed,-1,212,2,,203029,,1611661320,72,79,4
+00:24.6,[WAS] Hines-Allen Rebound (Off:0 Def:8),-1,212,4,,1628899,,1611661322,72,79,4
+00:22.9,[LAS] Williams Foul: Personal (2 PF) (2 FTA),36,509,6,1628899,203029,,1611661320,72,79,4
+00:22.9,[WAS 80-72] Hines-Allen Free Throw 1 of 2 (30 PTS),0,-80,3,,1628899,,1611661322,72,80,4
+00:22.9,[WAS] Hines-Allen Free Throw 2 of 2 Missed,0,-80,3,,1628899,,1611661322,72,80,4
+00:20.7,[LAS] Parker Rebound (Off:4 Def:13),0,-80,4,,201496,,1611661320,72,80,4
+00:16.6,[LAS] Parker 3pt Shot: Missed,-70,249,2,,201496,,1611661320,72,80,4
+00:12.7,[WAS] Mitchell Rebound (Off:2 Def:3),-70,249,4,,201507,,1611661322,72,80,4
+00:00.0,End Period,0,-80,13,,0,,0,72,80,4
+00:00.0,Game End,0,-80,0,,0,,0,72,80,4

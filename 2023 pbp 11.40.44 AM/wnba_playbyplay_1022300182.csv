@@ -1,0 +1,385 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Jones vs Wilson (Laney gains possession),0,-80,10,1628932,1627673,204335,1611661313,0,0,0,1
+09:44,[NYL] Ionescu 3pt Shot: Missed,-37,253,2,,1629477,,1611661313,0,0,0,1
+09:41,[LVA] Young Rebound (Off:0 Def:1),-37,253,4,,1629498,,1611661319,0,0,0,1
+09:37,[LVA] Plum 3pt Shot: Missed,74,244,2,,1628276,,1611661319,0,0,0,1
+09:35,[NYL] Stewart Rebound (Off:0 Def:1),74,244,4,,1627668,,1611661313,0,0,0,1
+09:28,[NYL] Laney 3pt Shot: Missed,-227,40,2,,204335,,1611661313,0,0,0,1
+09:25,[LVA] Gray Rebound (Off:0 Def:1),-227,40,4,,203833,,1611661319,0,0,0,1
+09:07,[LVA] Wilson Pullup Jump shot: Missed,0,127,2,,1628932,,1611661319,0,0,0,1
+09:04,[NYL] Ionescu Rebound (Off:0 Def:1),0,127,4,,1629477,,1611661313,0,0,0,1
+08:56,[LVA] Stokes Foul: Personal (1 PF),8,43,6,1627673,204329,1628479,1611661319,0,0,0,1
+08:45,[NYL 2-0] Laney Layup Shot: Made (2 PTS) Assist: Jones (1 AST),-11,37,1,,204335,1627673,1611661313,0,2,2,1
+08:43,Stoppage Other,0,-80,20,,0,,0,0,2,0,1
+08:31,[LVA] Gray Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),-140,78,5,1627673,203833,,1611661319,0,2,0,1
+08:16,[NYL 5-0] Jones 3pt Shot: Made (3 PTS) Assist: Vandersloot (1 AST),-165,211,1,,1627673,202664,1611661313,0,5,3,1
+08:06,[LVA] Gray 3pt Shot: Missed,-200,132,2,,203833,,1611661319,0,5,0,1
+08:03,[NYL] Vandersloot Rebound (Off:0 Def:1),-200,132,4,,202664,,1611661313,0,5,0,1
+07:51,[LVA] Plum Foul: Personal (1 PF),18,53,6,1627668,1628276,1628479,1611661319,0,5,0,1
+07:40,[NYL] Ionescu 3pt Shot: Missed Block: Stokes (1 BLK),-225,61,2,204329,1629477,,1611661313,0,5,0,1
+07:39,[NYL] Team Rebound,-188,178,4,,0,,1611661313,0,5,0,1
+07:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,5,0,1
+07:37,[NYL 8-0] Ionescu 3pt Shot: Made (3 PTS) Assist: Vandersloot (2 AST),-171,198,1,,1629477,202664,1611661313,0,8,3,1
+07:36,[LVA] Team Timeout : Short,0,-80,9,,1611661319,,1611661319,0,8,0,1
+07:25,[LVA] Wilson Step Back Jump shot: Missed Block: Jones (1 BLK),-11,78,2,1627673,1628932,,1611661319,0,8,0,1
+07:23,[LVA] Team Rebound,-11,78,4,,0,,1611661319,0,8,0,1
+07:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,8,0,1
+07:18,[LVA 3-8] Plum 3pt Shot: Made (3 PTS) Assist: Wilson (1 AST),-206,150,1,,1628276,1628932,1611661319,3,8,3,1
+07:04,[NYL] Stewart Hook Shot: Missed,10,45,2,,1627668,,1611661313,3,8,0,1
+07:02,[NYL] Stewart Rebound (Off:1 Def:1),10,45,4,,1627668,,1611661313,3,8,0,1
+07:00,[NYL] Vandersloot 3pt Shot: Missed,161,194,2,,202664,,1611661313,3,8,0,1
+06:57,[LVA] Gray Rebound (Off:0 Def:2),161,194,4,,203833,,1611661319,3,8,0,1
+06:47,[LVA 5-8] Gray Pullup Jump shot: Made (2 PTS),24,74,1,,203833,,1611661319,5,8,2,1
+06:36,[NYL 11-5] Ionescu 3pt Shot: Made (6 PTS) Assist: Jones (2 AST),92,231,1,,1629477,1627673,1611661313,5,11,3,1
+06:10,[LVA 7-11] Plum Driving Layup Shot: Made (5 PTS) Assist: Young (1 AST),-40,43,1,,1628276,1629498,1611661319,7,11,2,1
+05:50,[NYL 13-7] Jones Layup Shot: Made (5 PTS) Assist: Ionescu (1 AST),27,23,1,,1627673,1629477,1611661313,7,13,2,1
+05:38,[LVA 9-13] Gray Pullup Jump shot: Made (4 PTS),-73,192,1,,203833,,1611661319,9,13,2,1
+05:27,[NYL] Stewart 3pt Shot: Missed,156,209,2,,1627668,,1611661313,9,13,0,1
+05:25,[NYL] Team Rebound,156,209,4,,0,,1611661313,9,13,0,1
+05:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,13,0,1
+05:25,[LVA] Stokes Substitution replaced by Clark,0,-80,8,,204329,202252,1611661319,9,13,0,1
+05:22,[NYL 15-9] Laney Cutting Layup Shot: Made (4 PTS) Assist: Vandersloot (3 AST),26,24,1,,204335,202664,1611661313,9,15,2,1
+05:11,[LVA 11-15] Gray Driving Finger Roll Layup Shot: Made (6 PTS),11,32,1,,203833,,1611661319,11,15,2,1
+05:00,[NYL] Vandersloot Driving Layup Shot: Missed,-1,45,2,,202664,,1611661313,11,15,0,1
+04:58,[LVA] Wilson Rebound (Off:0 Def:1),-1,45,4,,1628932,,1611661319,11,15,0,1
+04:47,[LVA] Clark 3pt Shot: Missed,1,239,2,,202252,,1611661319,11,15,0,1
+04:44,[NYL] Jones Rebound (Off:0 Def:1),1,239,4,,1627673,,1611661313,11,15,0,1
+04:41,[NYL] Stewart Running Jump Shot: Missed,68,43,2,,1627668,,1611661313,11,15,0,1
+04:39,[LVA] Wilson Rebound (Off:0 Def:2),68,43,4,,1628932,,1611661319,11,15,0,1
+04:33,[LVA 14-15] Plum 3pt Shot: Made (8 PTS) Assist: Gray (1 AST),-191,139,1,,1628276,203833,1611661319,14,15,3,1
+04:14,[NYL] Jones Cutting Layup Shot: Missed,28,31,2,,1627673,,1611661313,14,15,0,1
+04:11,[LVA] Young Rebound (Off:0 Def:2),28,31,4,,1629498,,1611661319,14,15,0,1
+04:04,[LVA] Plum 3pt Shot: Missed,110,255,2,,1628276,,1611661319,14,15,0,1
+04:01,[NYL] Jones Rebound (Off:0 Def:2),110,255,4,,1627673,,1611661313,14,15,0,1
+03:51,[NYL 18-14] Laney 3pt Shot: Made (7 PTS) Assist: Stewart (1 AST),2,259,1,,204335,1627668,1611661313,14,18,3,1
+03:33,[LVA] Gray 3pt Shot: Missed,46,250,2,,203833,,1611661319,14,18,0,1
+03:33,[NYL] Jones Rebound (Off:0 Def:3),46,250,4,,1627673,,1611661313,14,18,0,1
+03:30,[LVA] Clark Foul: Transition Take (1 PF) (1 FTA),99,453,6,1627673,202252,202679,1611661319,14,18,0,1
+03:30,Timeout Officials,0,-80,9,,0,,0,14,18,0,1
+03:30,[LVA] Gray Substitution replaced by Bell,0,-80,8,,203833,1631006,1611661319,14,18,0,1
+03:30,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,14,18,0,1
+03:30,[NYL] Vandersloot Substitution replaced by Thornton,0,-80,8,,202664,203866,1611661313,14,18,0,1
+03:30,[NYL] Jones Substitution replaced by Johannès,0,-80,8,,1627673,1629546,1611661313,14,18,0,1
+03:30,[NYL 19-14] Stewart Free Throw 1 of 1 (1 PTS),0,-80,3,,1627668,,1611661313,14,19,1,1
+03:20,[NYL] Thornton 3pt Shot: Missed,-223,66,2,,203866,,1611661313,14,19,0,1
+03:17,[LVA] Plum Rebound (Off:0 Def:1),-223,66,4,,1628276,,1611661319,14,19,0,1
+03:04,[LVA 17-19] Young 3pt Shot: Made (3 PTS) Assist: Stokes (1 AST),59,242,1,,1629498,204329,1611661319,17,19,3,1
+02:47,[NYL] Laney Turnover : 3 Second Violation (1 TO),-13,64,5,,204335,202679,1611661313,17,19,0,1
+02:28,[NYL] Laney Foul: Shooting (1 PF) (2 FTA),24,101,6,1629498,204335,202679,1611661313,17,19,0,1
+02:28,[LVA 18-19] Young Free Throw 1 of 2 (4 PTS),0,-80,3,,1629498,,1611661319,18,19,1,1
+02:28,[LVA 19-19] Young Free Throw 2 of 2 (5 PTS),0,-80,3,,1629498,,1611661319,19,19,1,1
+02:28,[LVA] Plum Substitution replaced by Gray,0,-80,8,,1628276,203833,1611661319,19,19,0,1
+02:11,[NYL] Ionescu 3pt Shot: Missed,151,231,2,,1629477,,1611661313,19,19,0,1
+02:09,[LVA] Gray Rebound (Off:0 Def:3),151,231,4,,203833,,1611661319,19,19,0,1
+01:55,[LVA 21-19] Gray Driving Finger Roll Layup Shot: Made (8 PTS) Assist: Clark (1 AST),-27,27,1,,203833,202252,1611661319,21,19,2,1
+01:50,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,21,19,0,1
+01:39,[LVA] Bell Foul: Personal (1 PF),-15,93,6,1627668,1631006,202679,1611661319,21,19,0,1
+01:30,[LVA] Young Foul: Personal (1 PF) (2 FTA),24,90,6,1629477,1629498,1629178,1611661319,21,19,0,1
+01:30,[NYL 20-21] Ionescu Free Throw 1 of 2 (7 PTS),0,-80,3,,1629477,,1611661313,21,20,1,1
+01:30,[NYL 21-21] Ionescu Free Throw 2 of 2 (8 PTS),0,-80,3,,1629477,,1611661313,21,21,1,1
+01:10,[LVA] Gray Driving Finger Roll Layup Shot: Missed,-30,31,2,,203833,,1611661319,21,21,0,1
+01:08,[NYL] Stewart Rebound (Off:1 Def:2),-30,31,4,,1627668,,1611661313,21,21,0,1
+01:04,[NYL] Stewart Running Layup Shot: Missed,28,27,2,,1627668,,1611661313,21,21,0,1
+01:02,[LVA] Team Rebound,28,27,4,,0,,1611661319,21,21,0,1
+01:02,[NYL] Laney Foul: Loose Ball (2 PF),-28,809,6,1631006,204335,1628479,1611661313,21,21,0,1
+01:02,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,21,21,0,1
+01:02,[NYL] Laney Substitution replaced by Jones,0,-80,8,,204335,1627673,1611661313,21,21,0,1
+00:48.5,[NYL] Jones Foul: Shooting (1 PF) (2 FTA),5,32,6,1629498,1627673,1629178,1611661313,21,21,0,1
+00:48.5,[LVA 22-21] Young Free Throw 1 of 2 (6 PTS),0,-80,3,,1629498,,1611661319,22,21,1,1
+00:48.5,[LVA 23-21] Young Free Throw 2 of 2 (7 PTS),0,-80,3,,1629498,,1611661319,23,21,1,1
+00:36.1,[NYL] Jones Foul: Offensive (2 PF),179,45,6,1631006,1627673,1629178,1611661313,23,21,0,1
+00:36.1,[NYL] Jones Turnover : Offensive Foul Turnover (1 TO),179,45,5,,1627673,1629178,1611661313,23,21,0,1
+00:36.1,[NYL] Jones Substitution replaced by Dolson,0,-80,8,,1627673,203828,1611661313,23,21,0,1
+00:27.8,[LVA 25-21] Bell Pullup Jump shot: Made (2 PTS) Assist: Gray (2 AST),-130,130,1,,1631006,203833,1611661319,25,21,2,1
+00:06.4,[NYL] Stewart Fadeaway Jump Shot: Missed,140,26,2,,1627668,,1611661313,25,21,0,1
+00:04.7,[LVA] Stokes Rebound (Off:0 Def:1),140,26,4,,204329,,1611661319,25,21,0,1
+00:01.0,[LVA] Young 3pt Shot: Missed,10,489,2,,1629498,,1611661319,25,21,0,1
+00:01.0,[LVA] Team Rebound,10,489,4,,0,,1611661319,25,21,0,1
+00:00.0,End Period,0,-80,13,,0,,0,25,21,0,1
+10:00,Start Period,0,-80,12,,0,,0,25,21,0,2
+09:40,[NYL] Stewart Violation:Kicked Ball,0,-80,7,,1627668,,1611661313,25,21,0,2
+09:36,[LVA] Gray Step Back Jump shot: Missed,-129,106,2,,203833,,1611661319,25,21,0,2
+09:34,[NYL] Vandersloot Rebound (Off:0 Def:2),-129,106,4,,202664,,1611661313,25,21,0,2
+09:17,[LVA] George Foul: Personal (1 PF),19,174,6,203828,204297,202679,1611661319,25,21,0,2
+09:08,[NYL] Dolson Turnaround Jump Shot: Missed,128,49,2,,203828,,1611661313,25,21,0,2
+09:05,[LVA] Wilson Rebound (Off:0 Def:3),128,49,4,,1628932,,1611661319,25,21,0,2
+08:57,[LVA] Gray Turnaround Fadeaway shot: Missed,90,103,2,,203833,,1611661319,25,21,0,2
+08:55,[NYL] Johannès Rebound (Off:0 Def:1),90,103,4,,1629546,,1611661313,25,21,0,2
+08:44,[NYL 24-25] Johannès 3pt Shot: Made (3 PTS) Assist: Dolson (1 AST),194,169,1,,1629546,203828,1611661313,25,24,3,2
+08:31,[LVA 27-24] Plum Driving Floating Bank Jump Shot: Made (10 PTS),39,62,1,,1628276,,1611661319,27,24,2,2
+08:15,[NYL] Johannès 3pt Shot: Missed,-104,232,2,,1629546,,1611661313,27,24,0,2
+08:12,[LVA] Wilson Rebound (Off:0 Def:4),-104,232,4,,1628932,,1611661319,27,24,0,2
+08:00,[LVA] George 3pt Shot: Missed,120,231,2,,204297,,1611661319,27,24,0,2
+07:57,[LVA] Bell Rebound (Off:1 Def:0),120,231,4,,1631006,,1611661319,27,24,0,2
+07:56,[LVA 29-24] Bell Putback Layup Shot: Made (4 PTS),28,22,1,,1631006,,1611661319,29,24,2,2
+07:46,[NYL] Stewart Turnover : Bad Pass (1 TO) Steal:Bell (1 ST),-122,359,5,1631006,1627668,,1611661313,29,24,0,2
+07:45,[LVA] Bell Running Layup Shot: Missed,13,31,2,,1631006,,1611661319,29,24,0,2
+07:43,[NYL] Team Rebound,13,31,4,,0,,1611661313,29,24,0,2
+07:43,[LVA] Plum Foul: Loose Ball (2 PF),51,791,6,1629546,1628276,202679,1611661319,29,24,0,2
+07:43,[LVA] Bell Substitution replaced by Young,0,-80,8,,1631006,1629498,1611661319,29,24,0,2
+07:43,[NYL] Johannès Substitution replaced by Jones,0,-80,8,,1629546,1627673,1611661313,29,24,0,2
+07:43,[NYL] Stewart Substitution replaced by Ionescu,0,-80,8,,1627668,1629477,1611661313,29,24,0,2
+07:32,[NYL] Ionescu Turnaround Fadeaway shot: Missed,5,112,2,,1629477,,1611661313,29,24,0,2
+07:29,[NYL] Ionescu Rebound (Off:1 Def:1),5,112,4,,1629477,,1611661313,29,24,0,2
+07:19,[NYL] Jones Turnover : Out of Bounds Lost Ball Turnover (2 TO),24,45,5,,1627673,1628479,1611661313,29,24,0,2
+07:06,[LVA 32-24] Gray 3pt Shot: Made (11 PTS) Assist: Young (2 AST),-211,100,1,,203833,1629498,1611661319,32,24,3,2
+06:53,[NYL 27-32] Dolson 3pt Shot: Made (3 PTS) Assist: Vandersloot (4 AST),134,211,1,,203828,202664,1611661313,32,27,3,2
+06:37,[NYL] Jones Foul: Shooting (3 PF) (2 FTA),-104,28,6,1628932,1627673,1629178,1611661313,32,27,0,2
+06:37,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,32,27,0,2
+06:37,[LVA] Team Rebound,0,-80,4,,0,,1611661319,32,27,0,2
+06:37,[LVA] George Substitution replaced by Stokes,0,-80,8,,204297,204329,1611661319,32,27,0,2
+06:37,[NYL] Thornton Substitution replaced by Stewart,0,-80,8,,203866,1627668,1611661313,32,27,0,2
+06:37,[NYL] Jones Substitution replaced by Laney,0,-80,8,,1627673,204335,1611661313,32,27,0,2
+06:37,[LVA 33-27] Wilson Free Throw 2 of 2 (1 PTS),0,-80,3,,1628932,,1611661319,33,27,1,2
+06:23,[NYL] Ionescu Cutting Layup Shot: Missed,-10,42,2,,1629477,,1611661313,33,27,0,2
+06:21,[LVA] Gray Rebound (Off:0 Def:4),-10,42,4,,203833,,1611661319,33,27,0,2
+06:15,[LVA] Wilson Layup Shot: Missed,15,26,2,,1628932,,1611661319,33,27,0,2
+06:14,[LVA] Wilson Rebound (Off:1 Def:4),15,26,4,,1628932,,1611661319,33,27,0,2
+06:12,[LVA 35-27] Wilson Putback Layup Shot: Made (3 PTS),-21,31,1,,1628932,,1611661319,35,27,2,2
+05:56,[LVA] Wilson Foul: Shooting (1 PF) (3 FTA),-177,178,6,1627668,1628932,202679,1611661319,35,27,0,2
+05:56,InstantReplay Request Stands,0,-80,18,,0,,0,35,27,0,2
+05:56,[NYL 28-35] Stewart Free Throw 1 of 3 (2 PTS),0,-80,3,,1627668,,1611661313,35,28,1,2
+05:56,[NYL] Stewart Free Throw 2 of 3 Missed,0,-80,3,,1627668,,1611661313,35,28,0,2
+05:56,[NYL] Team Rebound,0,-80,4,,0,,1611661313,35,28,0,2
+05:56,[NYL 29-35] Stewart Free Throw 3 of 3 (3 PTS),0,-80,3,,1627668,,1611661313,35,29,1,2
+05:42,[LVA] Wilson Driving Layup Shot: Missed,-27,28,2,,1628932,,1611661319,35,29,0,2
+05:40,[NYL] Stewart Rebound (Off:1 Def:3),-27,28,4,,1627668,,1611661313,35,29,0,2
+05:36,[NYL] Stewart 3pt Shot: Missed,-1,254,2,,1627668,,1611661313,35,29,0,2
+05:34,[LVA] Young Rebound (Off:0 Def:3),-1,254,4,,1629498,,1611661319,35,29,0,2
+05:28,[LVA] Young Pullup Jump shot: Missed,4,158,2,,1629498,,1611661319,35,29,0,2
+05:25,[NYL] Dolson Rebound (Off:0 Def:1),4,158,4,,203828,,1611661313,35,29,0,2
+05:15,[NYL 32-35] Laney 3pt Shot: Made (10 PTS) Assist: Ionescu (2 AST),228,3,1,,204335,1629477,1611661313,35,32,3,2
+04:57,[LVA 37-32] Gray Step Back Jump shot: Made (13 PTS),-29,196,1,,203833,,1611661319,37,32,2,2
+04:43,[NYL 34-37] Ionescu Driving Reverse Layup Shot: Made (10 PTS),-20,23,1,,1629477,,1611661313,37,34,2,2
+04:33,[LVA 39-34] Wilson Jump Shot: Made (5 PTS) Assist: Gray (3 AST),21,146,1,,1628932,203833,1611661319,39,34,2,2
+04:10,[NYL 36-39] Vandersloot Pullup Jump shot: Made (2 PTS),-32,98,1,,202664,,1611661313,39,36,2,2
+04:00,[LVA] Gray Pullup Jump shot: Missed,29,198,2,,203833,,1611661319,39,36,0,2
+03:58,[NYL] Stewart Rebound (Off:1 Def:4),29,198,4,,1627668,,1611661313,39,36,0,2
+03:53,[NYL] Vandersloot Turnover : Traveling (1 TO),164,204,5,,202664,1628479,1611661313,39,36,0,2
+03:53,[LVA] Stokes Substitution replaced by Clark,0,-80,8,,204329,202252,1611661319,39,36,0,2
+03:53,[NYL] Dolson Substitution replaced by Sabally,0,-80,8,,203828,1631055,1611661313,39,36,0,2
+03:38,[LVA 41-36] Plum Driving Layup Shot: Made (12 PTS) Assist: Gray (4 AST),15,32,1,,1628276,203833,1611661319,41,36,2,2
+03:27,[NYL 38-41] Stewart Driving Floating Jump Shot: Made (5 PTS) Assist: Vandersloot (5 AST),-11,50,1,,1627668,202664,1611661313,41,38,2,2
+03:21,[LVA] Plum Driving Layup Shot: Missed Block: Stewart (1 BLK),20,33,2,1627668,1628276,,1611661319,41,38,0,2
+03:20,[LVA] Team Rebound,20,33,4,,0,,1611661319,41,38,0,2
+03:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,38,0,2
+03:18,[LVA 43-38] Wilson Cutting Layup Shot: Made (7 PTS) Assist: Gray (5 AST),20,27,1,,1628932,203833,1611661319,43,38,2,2
+02:59,[NYL] Vandersloot Turnover : Bad Pass (2 TO) Steal:Gray (1 ST),-166,231,5,203833,202664,,1611661313,43,38,0,2
+02:55,[NYL] Sabally Foul: Shooting (1 PF) (3 FTA),-205,138,6,1629498,1631055,1628479,1611661313,43,38,0,2
+02:55,Timeout Officials,0,-80,9,,0,,0,43,38,0,2
+02:55,[NYL] Sabally Substitution replaced by Thornton,0,-80,8,,1631055,203866,1611661313,43,38,0,2
+02:55,[LVA 44-38] Young Free Throw 1 of 3 (8 PTS),0,-80,3,,1629498,,1611661319,44,38,1,2
+02:55,[LVA 45-38] Young Free Throw 2 of 3 (9 PTS),0,-80,3,,1629498,,1611661319,45,38,1,2
+02:55,[LVA 46-38] Young Free Throw 3 of 3 (10 PTS),0,-80,3,,1629498,,1611661319,46,38,1,2
+02:39,[NYL] Laney 3pt Shot: Missed,-238,66,2,,204335,,1611661313,46,38,0,2
+02:37,[LVA] Gray Rebound (Off:0 Def:5),-238,66,4,,203833,,1611661319,46,38,0,2
+02:21,[LVA] Gray Turnover : Backcourt Turnover (2 TO),-116,142,5,,203833,1628479,1611661319,46,38,0,2
+02:05,[NYL] Stewart Pullup Jump shot: Missed,102,177,2,,1627668,,1611661313,46,38,0,2
+02:03,[LVA] Wilson Rebound (Off:1 Def:5),102,177,4,,1628932,,1611661319,46,38,0,2
+01:55,[LVA] Wilson Pullup Jump shot: Missed,6,135,2,,1628932,,1611661319,46,38,0,2
+01:52,[NYL] Vandersloot Rebound (Off:0 Def:3),6,135,4,,202664,,1611661313,46,38,0,2
+01:41,[NYL] Vandersloot Cutting Layup Shot: Missed,27,32,2,,202664,,1611661313,46,38,0,2
+01:40,[LVA] Gray Rebound (Off:0 Def:6),27,32,4,,203833,,1611661319,46,38,0,2
+01:36,[LVA] Gray Running Pull-Up Jump Shot: Missed,-78,183,2,,203833,,1611661319,46,38,0,2
+01:33,[NYL] Thornton Rebound (Off:0 Def:1),-78,183,4,,203866,,1611661313,46,38,0,2
+01:19,[NYL] Stewart 3pt Shot: Missed,89,231,2,,1627668,,1611661313,46,38,0,2
+01:17,[LVA] Gray Rebound (Off:0 Def:7),89,231,4,,203833,,1611661319,46,38,0,2
+01:12,[LVA 49-38] Young 3pt Shot: Made (13 PTS) Assist: Gray (6 AST),-182,156,1,,1629498,203833,1611661319,49,38,3,2
+01:02,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,49,38,0,2
+00:56.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,38,0,2
+00:50.0,[LVA] Clark Foul: Shooting (2 PF) (2 FTA),17,77,6,1627668,202252,202679,1611661319,49,38,0,2
+00:50.0,[NYL 39-49] Stewart Free Throw 1 of 2 (6 PTS),0,-80,3,,1627668,,1611661313,49,39,1,2
+00:50.0,[NYL 40-49] Stewart Free Throw 2 of 2 (7 PTS),0,-80,3,,1627668,,1611661313,49,40,1,2
+00:40.4,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,49,40,0,2
+00:33.9,[NYL] Thornton Foul: Shooting (1 PF) (2 FTA),-19,20,6,1628932,203866,202679,1611661313,49,40,0,2
+00:33.9,[LVA 50-40] Wilson Free Throw 1 of 2 (8 PTS),0,-80,3,,1628932,,1611661319,50,40,1,2
+00:33.9,[LVA 51-40] Wilson Free Throw 2 of 2 (9 PTS),0,-80,3,,1628932,,1611661319,51,40,1,2
+00:25.0,[NYL] Thornton 3pt Shot: Missed,229,42,2,,203866,,1611661313,51,40,0,2
+00:22.4,[LVA] Gray Rebound (Off:0 Def:8),229,42,4,,203833,,1611661319,51,40,0,2
+00:21.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,40,0,2
+00:02.6,[NYL] Thornton Foul: Shooting (2 PF) (2 FTA),-40,21,6,1628932,203866,1628479,1611661313,51,40,0,2
+00:02.6,[LVA 52-40] Wilson Free Throw 1 of 2 (10 PTS),0,-80,3,,1628932,,1611661319,52,40,1,2
+00:02.6,[LVA 53-40] Wilson Free Throw 2 of 2 (11 PTS),0,-80,3,,1628932,,1611661319,53,40,1,2
+00:01.3,[NYL] Vandersloot 3pt Shot: Missed,-132,232,2,,202664,,1611661313,53,40,0,2
+00:00.3,[NYL] Team Rebound,-132,232,4,,0,,1611661313,53,40,0,2
+00:00.0,End Period,0,-80,13,,0,,0,53,40,0,2
+10:00,Start Period,0,-80,12,,0,,0,53,40,0,3
+09:35,[LVA] Plum Driving Floating Jump Shot: Missed,101,24,2,,1628276,,1611661319,53,40,0,3
+09:33,[NYL] Jones Rebound (Off:0 Def:4),101,24,4,,1627673,,1611661313,53,40,0,3
+09:13,[NYL] Stewart Turnover : Bad Pass (2 TO) Steal:Gray (2 ST),109,58,5,203833,1627668,,1611661313,53,40,0,3
+08:59,[LVA] Gray Driving Reverse Layup Shot: Missed Block: Stewart (2 BLK),27,16,2,1627668,203833,,1611661319,53,40,0,3
+08:57,[NYL] Laney Rebound (Off:0 Def:1),27,16,4,,204335,,1611661313,53,40,0,3
+08:51,[NYL] Ionescu 3pt Shot: Missed,207,124,2,,1629477,,1611661313,53,40,0,3
+08:48,[LVA] Wilson Rebound (Off:1 Def:6),207,124,4,,1628932,,1611661319,53,40,0,3
+08:39,[LVA] Plum Turnover : Out of Bounds Lost Ball Turnover (1 TO),-166,206,5,,1628276,202679,1611661319,53,40,0,3
+08:21,[NYL] Vandersloot 3pt Shot: Missed,-228,-12,2,,202664,,1611661313,53,40,0,3
+08:17,[NYL] Ionescu Rebound (Off:2 Def:1),-228,-12,4,,1629477,,1611661313,53,40,0,3
+08:08,[NYL] Stewart 3pt Shot: Missed,-43,263,2,,1627668,,1611661313,53,40,0,3
+08:05,[LVA] Stokes Rebound (Off:0 Def:2),-43,263,4,,204329,,1611661319,53,40,0,3
+07:58,[LVA] Plum Turnover : Out of Bounds - Bad Pass Turnover (2 TO),62,250,5,,1628276,202679,1611661319,53,40,0,3
+07:39,[NYL 42-53] Laney Layup Shot: Made (12 PTS) Assist: Jones (3 AST),-21,22,1,,204335,1627673,1611661313,53,42,2,3
+07:27,[LVA 55-42] Young Driving Layup Shot: Made (15 PTS),45,31,1,,1629498,,1611661319,55,42,2,3
+07:27,[NYL] Ionescu Foul: Shooting (1 PF) (1 FTA),45,31,6,1629498,1629477,202679,1611661313,55,42,0,3
+07:27,[LVA 56-42] Young Free Throw 1 of 1 (16 PTS),0,-80,3,,1629498,,1611661319,56,42,1,3
+07:14,[NYL 45-56] Ionescu 3pt Shot: Made (13 PTS) Assist: Vandersloot (6 AST),-230,0,1,,1629477,202664,1611661313,56,45,3,3
+06:58,[LVA] Young Driving Floating Jump Shot: Missed Block: Stewart (3 BLK),6,70,2,1627668,1629498,,1611661319,56,45,0,3
+06:56,[NYL] Team Rebound,6,70,4,,0,,1611661313,56,45,0,3
+06:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,45,0,3
+06:56,[LVA] Stokes Substitution replaced by Clark,0,-80,8,,204329,202252,1611661319,56,45,0,3
+06:39,[NYL] Ionescu 3pt Shot: Missed,-190,209,2,,1629477,,1611661313,56,45,0,3
+06:36,[NYL] Team Rebound,-190,209,4,,0,,1611661313,56,45,0,3
+06:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,45,0,3
+06:35,[LVA] Gray Foul: Personal (1 PF),4,49,6,1627668,203833,202679,1611661319,56,45,0,3
+06:30,[NYL 48-56] Ionescu 3pt Shot: Made (16 PTS) Assist: Vandersloot (7 AST),-201,132,1,,1629477,202664,1611661313,56,48,3,3
+06:28,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,56,48,0,3
+06:10,[LVA] Clark 3pt Shot: Missed,-229,49,2,,202252,,1611661319,56,48,0,3
+06:07,[LVA] Clark Rebound (Off:1 Def:0),-229,49,4,,202252,,1611661319,56,48,0,3
+05:58,[LVA] Wilson Driving Layup Shot: Missed Block: Jones (2 BLK),-21,35,2,1627673,1628932,,1611661319,56,48,0,3
+05:56,[LVA] Gray Rebound (Off:1 Def:8),-21,35,4,,203833,,1611661319,56,48,0,3
+05:52,[LVA 58-48] Gray Pullup Jump shot: Made (15 PTS),177,5,1,,203833,,1611661319,58,48,2,3
+05:39,[LVA] Plum Foul: Personal (3 PF),-136,123,6,1627668,1628276,1628479,1611661319,58,48,0,3
+05:27,[NYL] Vandersloot 3pt Shot: Missed,140,207,2,,202664,,1611661313,58,48,0,3
+05:24,[LVA] Clark Rebound (Off:1 Def:1),140,207,4,,202252,,1611661319,58,48,0,3
+05:16,[LVA] Clark 3pt Shot: Missed,79,238,2,,202252,,1611661319,58,48,0,3
+05:14,[NYL] Stewart Rebound (Off:1 Def:5),79,238,4,,1627668,,1611661313,58,48,0,3
+04:53,[NYL 51-58] Stewart 3pt Shot: Made (10 PTS) Assist: Laney (1 AST),4,257,1,,1627668,204335,1611661313,58,51,3,3
+04:37,[LVA] Gray Fadeaway Jump Shot: Missed,36,72,2,,203833,,1611661319,58,51,0,3
+04:34,[NYL] Laney Rebound (Off:0 Def:2),36,72,4,,204335,,1611661313,58,51,0,3
+04:15,[NYL] Jones Turnover : 3 Second Violation (3 TO),12,65,5,,1627673,1629178,1611661313,58,51,0,3
+04:15,[LVA] Gray Substitution replaced by Bell,0,-80,8,,203833,1631006,1611661319,58,51,0,3
+04:15,[NYL] Vandersloot Substitution replaced by Johannès,0,-80,8,,202664,1629546,1611661313,58,51,0,3
+04:01,[LVA 61-51] Plum 3pt Shot: Made (15 PTS) Assist: Young (3 AST),200,128,1,,1628276,1629498,1611661319,61,51,3,3
+03:50,[LVA] Young Foul: Personal (2 PF),-119,201,6,1629477,1629498,202679,1611661319,61,51,0,3
+03:44,[NYL 54-61] Ionescu 3pt Shot: Made (19 PTS) Assist: Stewart (2 AST),67,264,1,,1629477,1627668,1611661313,61,54,3,3
+03:32,[LVA 64-54] Clark 3pt Shot: Made (3 PTS) Assist: Plum (1 AST),-238,31,1,,202252,1628276,1611661319,64,54,3,3
+03:23,[LVA] Young Foul: Personal (3 PF),-39,193,6,1629477,1629498,202679,1611661319,64,54,0,3
+03:19,[NYL 56-64] Stewart Cutting Layup Shot: Made (12 PTS) Assist: Laney (2 AST),-27,22,1,,1627668,204335,1611661313,64,56,2,3
+03:19,[LVA] Wilson Foul: Shooting (2 PF) (1 FTA),-27,22,6,1627668,1628932,1629178,1611661319,64,56,0,3
+03:19,[NYL 57-64] Stewart Free Throw 1 of 1 (13 PTS),0,-80,3,,1627668,,1611661313,64,57,1,3
+03:03,[LVA 66-57] Clark Cutting Layup Shot: Made (5 PTS) Assist: Young (4 AST),35,26,1,,202252,1629498,1611661319,66,57,2,3
+02:42,[NYL] Ionescu 3pt Shot: Missed,189,239,2,,1629477,,1611661313,66,57,0,3
+02:40,[NYL] Team Rebound,189,239,4,,0,,1611661313,66,57,0,3
+02:40,[LVA] Young Foul: Loose Ball (4 PF) (2 FTA),189,239,6,1627673,1629498,202679,1611661319,66,57,0,3
+02:40,[NYL] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661313,66,57,0,3
+02:40,[NYL] Team Rebound,0,-80,4,,0,,1611661313,66,57,0,3
+02:40,[LVA] Plum Substitution replaced by Gray,0,-80,8,,1628276,203833,1611661319,66,57,0,3
+02:40,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,66,57,0,3
+02:40,[NYL 58-66] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1627673,,1611661313,66,58,1,3
+02:24,[LVA] Young Turnover : Out of Bounds - Bad Pass Turnover (1 TO),16,86,5,,1629498,202679,1611661319,66,58,0,3
+02:24,[LVA] Young Substitution replaced by Plum,0,-80,8,,1629498,1628276,1611661319,66,58,0,3
+02:14,[NYL] Ionescu Driving Layup Shot: Missed,49,52,2,,1629477,,1611661313,66,58,0,3
+02:12,[NYL] Jones Rebound (Off:1 Def:4),49,52,4,,1627673,,1611661313,66,58,0,3
+02:10,[NYL] Stewart 3pt Shot: Missed,-122,239,2,,1627668,,1611661313,66,58,0,3
+02:08,[LVA] Gray Rebound (Off:1 Def:9),-122,239,4,,203833,,1611661319,66,58,0,3
+01:59,[LVA] Plum Step Back Jump shot: Missed,-163,37,2,,1628276,,1611661319,66,58,0,3
+01:57,[NYL] Stewart Rebound (Off:1 Def:6),-163,37,4,,1627668,,1611661313,66,58,0,3
+01:49,[NYL 61-66] Laney 3pt Shot: Made (15 PTS) Assist: Stewart (3 AST),-227,-5,1,,204335,1627668,1611661313,66,61,3,3
+01:28,[NYL] Stewart Violation:Kicked Ball,0,-80,7,,1627668,,1611661313,66,61,0,3
+01:28,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,66,61,0,3
+01:24,[LVA] Plum 3pt Shot: Missed,213,121,2,,1628276,,1611661319,66,61,0,3
+01:21,[NYL] Team Rebound,213,121,4,,0,,1611661313,66,61,0,3
+01:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,61,0,3
+01:12,[NYL] Jones 3pt Shot: Missed,-10,248,2,,1627673,,1611661313,66,61,0,3
+01:10,[LVA] Bell Rebound (Off:1 Def:1),-10,248,4,,1631006,,1611661319,66,61,0,3
+00:57.4,[LVA 68-61] Gray Pullup Jump shot: Made (17 PTS),36,188,1,,203833,,1611661319,68,61,2,3
+00:44.5,[NYL 64-68] Vandersloot 3pt Shot: Made (5 PTS) Assist: Johannès (1 AST),224,83,1,,202664,1629546,1611661313,68,64,3,3
+00:29.2,[LVA] Plum Driving Floating Jump Shot: Missed Block: Stewart (4 BLK),-7,93,2,1627668,1628276,,1611661319,68,64,0,3
+00:27.2,[LVA] Bell Rebound (Off:2 Def:1),-7,93,4,,1631006,,1611661319,68,64,0,3
+00:26.4,[LVA] Bell Putback Layup Shot: Missed,8,49,2,,1631006,,1611661319,68,64,0,3
+00:25.6,[NYL] Jones Rebound (Off:1 Def:5),8,49,4,,1627673,,1611661313,68,64,0,3
+00:08.7,[NYL] Laney Pullup Jump shot: Missed,-135,130,2,,204335,,1611661313,68,64,0,3
+00:06.7,[LVA] Clark Rebound (Off:1 Def:2),-135,130,4,,202252,,1611661319,68,64,0,3
+00:02.9,[NYL] Laney Foul: Personal (3 PF),24,539,6,203833,204335,1628479,1611661313,68,64,0,3
+00:01.2,[LVA] Bell 3pt Shot: Missed,195,131,2,,1631006,,1611661319,68,64,0,3
+00:00.9,[LVA] Team Rebound,195,131,4,,0,,1611661319,68,64,0,3
+00:00.0,End Period,0,-80,13,,0,,0,68,64,0,3
+10:00,Start Period,0,-80,12,,0,,0,68,64,0,4
+09:35,[NYL] Team Turnover : Shot Clock Turnover,-158,63,5,,0,202679,1611661313,68,64,0,4
+09:26,[LVA 70-64] Wilson Cutting Layup Shot: Made (13 PTS) Assist: Gray (7 AST),-16,48,1,,1628932,203833,1611661319,70,64,2,4
+09:03,[NYL] Thornton Turnover : Out of Bounds Lost Ball Turnover (1 TO),134,47,5,,203866,202679,1611661313,70,64,0,4
+08:55,[LVA] Plum Foul: Offensive (4 PF),28,162,6,1627668,1628276,1629178,1611661319,70,64,0,4
+08:55,[LVA] Plum Turnover : Offensive Foul Turnover (3 TO),28,162,5,,1628276,1629178,1611661319,70,64,0,4
+08:46,[NYL] Vandersloot Turnover : Bad Pass (3 TO) Steal:Bell (2 ST),122,96,5,1631006,202664,,1611661313,70,64,0,4
+08:38,[LVA 72-64] Gray Step Back Jump shot: Made (19 PTS) Assist: Plum (2 AST),11,166,1,,203833,1628276,1611661319,72,64,2,4
+08:14,[NYL 67-72] Johannès 3pt Shot: Made (6 PTS) Assist: Dolson (2 AST),-223,92,1,,1629546,203828,1611661313,72,67,3,4
+07:53,[LVA 75-67] Gray 3pt Shot: Made (22 PTS) Assist: Bell (1 AST),13,279,1,,203833,1631006,1611661319,75,67,3,4
+07:45,[NYL] Johannès 3pt Shot: Missed,-218,103,2,,1629546,,1611661313,75,67,0,4
+07:42,[LVA] Team Rebound,-218,103,4,,0,,1611661319,75,67,0,4
+07:41,[NYL] Thornton Foul: Loose Ball (3 PF),77,738,6,1628932,203866,202679,1611661313,75,67,0,4
+07:41,[LVA] Plum Substitution replaced by Young,0,-80,8,,1628276,1629498,1611661319,75,67,0,4
+07:41,[NYL] Johannès Substitution replaced by Jones,0,-80,8,,1629546,1627673,1611661313,75,67,0,4
+07:41,[NYL] Dolson Substitution replaced by Laney,0,-80,8,,203828,204335,1611661313,75,67,0,4
+07:41,[NYL] Thornton Substitution replaced by Ionescu,0,-80,8,,203866,1629477,1611661313,75,67,0,4
+07:34,[LVA] Bell Foul: Offensive (2 PF),-124,109,6,1627668,1631006,202679,1611661319,75,67,0,4
+07:34,[LVA] Bell Turnover : Offensive Foul Turnover (1 TO),-124,109,5,,1631006,202679,1611661319,75,67,0,4
+07:23,[LVA] Gray Violation:Kicked Ball,0,-80,7,,203833,,1611661319,75,67,0,4
+07:14,[NYL] Ionescu Turnover : Bad Pass (1 TO) Steal:Clark (1 ST),-151,33,5,202252,1629477,,1611661313,75,67,0,4
+07:07,[LVA] Gray Driving Floating Bank Jump Shot: Missed,105,43,2,,203833,,1611661319,75,67,0,4
+07:05,[NYL] Vandersloot Rebound (Off:0 Def:4),105,43,4,,202664,,1611661313,75,67,0,4
+06:50,[NYL] Ionescu Turnover : Lost Ball (2 TO) Steal:Gray (3 ST),-51,47,5,203833,1629477,,1611661313,75,67,0,4
+06:45,[LVA] Gray Turnover : Bad Pass (3 TO) Steal:Stewart (1 ST),61,182,5,1627668,203833,,1611661319,75,67,0,4
+06:40,[NYL 70-75] Ionescu 3pt Shot: Made (22 PTS) Assist: Laney (3 AST),213,129,1,,1629477,204335,1611661313,75,70,3,4
+06:22,[LVA] Gray 3pt Shot: Missed,-139,221,2,,203833,,1611661319,75,70,0,4
+06:20,[NYL] Ionescu Rebound (Off:2 Def:2),-139,221,4,,1629477,,1611661313,75,70,0,4
+06:07,[NYL] Vandersloot Turnover : Bad Pass (4 TO) Steal:Wilson (1 ST),-29,33,5,1628932,202664,,1611661313,75,70,0,4
+05:56,[LVA] Bell 3pt Shot: Missed,-171,204,2,,1631006,,1611661319,75,70,0,4
+05:53,[NYL] Jones Rebound (Off:1 Def:6),-171,204,4,,1627673,,1611661313,75,70,0,4
+05:35,[NYL] Stewart Hook Bank Shot: Missed,15,37,2,,1627668,,1611661313,75,70,0,4
+05:33,[LVA] Clark Rebound (Off:1 Def:3),15,37,4,,202252,,1611661319,75,70,0,4
+05:10,[LVA] Gray Step Back Jump shot: Missed,118,121,2,,203833,,1611661319,75,70,0,4
+05:08,[LVA] Bell Rebound (Off:3 Def:1),118,121,4,,1631006,,1611661319,75,70,0,4
+05:02,[NYL] Ionescu Foul: Shooting (2 PF) (2 FTA),-28,61,6,1628932,1629477,202679,1611661313,75,70,0,4
+05:02,Timeout Officials,0,-80,9,,0,,0,75,70,0,4
+05:02,[LVA] Bell Substitution replaced by Plum,0,-80,8,,1631006,1628276,1611661319,75,70,0,4
+05:02,[LVA 76-70] Wilson Free Throw 1 of 2 (14 PTS),0,-80,3,,1628932,,1611661319,76,70,1,4
+05:02,[LVA 77-70] Wilson Free Throw 2 of 2 (15 PTS),0,-80,3,,1628932,,1611661319,77,70,1,4
+04:48,[NYL] Vandersloot Turnover : Bad Pass (5 TO) Steal:Young (1 ST),87,62,5,1629498,202664,,1611661313,77,70,0,4
+04:42,[LVA] Clark 3pt Shot: Missed,-113,232,2,,202252,,1611661319,77,70,0,4
+04:40,[NYL] Jones Rebound (Off:1 Def:7),-113,232,4,,1627673,,1611661313,77,70,0,4
+04:30,[NYL] Jones Turnover : Bad Pass (4 TO) Steal:Clark (2 ST),-93,239,5,202252,1627673,,1611661313,77,70,0,4
+04:09,[LVA] Clark 3pt Shot: Missed,-227,67,2,,202252,,1611661319,77,70,0,4
+04:07,[LVA] Wilson Rebound (Off:2 Def:6),-227,67,4,,1628932,,1611661319,77,70,0,4
+04:05,[LVA 79-70] Wilson Putback Layup Shot: Made (17 PTS),-24,35,1,,1628932,,1611661319,79,70,2,4
+03:49,[LVA] Gray Foul: Personal (2 PF),11,62,6,1627673,203833,202679,1611661319,79,70,0,4
+03:49,[LVA] Clark Substitution replaced by Stokes,0,-80,8,,202252,204329,1611661319,79,70,0,4
+03:36,[NYL 72-79] Jones Turnaround Fadeaway shot: Made (8 PTS) Assist: Laney (4 AST),-115,20,1,,1627673,204335,1611661313,79,72,2,4
+03:09,[LVA 82-72] Plum 3pt Shot: Made (18 PTS) Assist: Gray (8 AST),154,231,1,,1628276,203833,1611661319,82,72,3,4
+03:08,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,82,72,0,4
+02:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,82,72,0,4
+02:57,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,82,72,0,4
+02:57,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661319,82,72,0,4
+02:50,[NYL 74-82] Laney Layup Shot: Made (17 PTS) Assist: Stewart (4 AST),39,69,1,,204335,1627668,1611661313,82,74,2,4
+02:30,[LVA 84-74] Wilson Step Back Jump shot: Made (19 PTS) Assist: Gray (9 AST),-20,107,1,,1628932,203833,1611661319,84,74,2,4
+02:11,[NYL] Laney 3pt Shot: Missed,234,30,2,,204335,,1611661313,84,74,0,4
+02:08,[LVA] Gray Rebound (Off:1 Def:10),234,30,4,,203833,,1611661319,84,74,0,4
+01:49,[LVA 86-74] Wilson Driving Layup Shot: Made (21 PTS) Assist: Gray (10 AST),-15,40,1,,1628932,203833,1611661319,86,74,2,4
+01:45,[LVA] Wilson Foul: Personal Take (3 PF),-155,309,6,1629477,1628932,1628479,1611661319,86,74,0,4
+01:45,[LVA] Young Substitution replaced by Clark,0,-80,8,,1629498,202252,1611661319,86,74,0,4
+01:43,[NYL] Stewart 3pt Shot: Missed,-213,85,2,,1627668,,1611661313,86,74,0,4
+01:41,[LVA] Team Rebound,-213,85,4,,0,,1611661319,86,74,0,4
+01:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,86,74,0,4
+01:26,[NYL] Laney Foul: Personal (4 PF),-99,162,6,1628932,204335,1628479,1611661313,86,74,0,4
+01:26,[NYL] Ionescu Substitution replaced by Johannès,0,-80,8,,1629477,1629546,1611661313,86,74,0,4
+01:26,[NYL] Stewart Substitution replaced by Thornton,0,-80,8,,1627668,203866,1611661313,86,74,0,4
+01:26,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,86,74,0,4
+01:26,[NYL] Laney Substitution replaced by Willoughby,0,-80,8,,204335,1630139,1611661313,86,74,0,4
+01:26,[NYL] Vandersloot Substitution replaced by Dolson,0,-80,8,,202664,203828,1611661313,86,74,0,4
+01:21,[LVA] Stokes Layup Shot: Missed Block: Thornton (1 BLK),2,48,2,203866,204329,,1611661319,86,74,0,4
+01:19,[LVA] Team Rebound,2,48,4,,0,,1611661319,86,74,0,4
+01:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,86,74,0,4
+01:19,[LVA] Plum Substitution replaced by Bell,0,-80,8,,1628276,1631006,1611661319,86,74,0,4
+01:19,[LVA] Wilson Substitution replaced by Colson,0,-80,8,,1628932,202641,1611661319,86,74,0,4
+01:19,[LVA] Stokes Substitution replaced by Coates,0,-80,8,,204329,1628268,1611661319,86,74,0,4
+01:19,[LVA] Clark Substitution replaced by George,0,-80,8,,202252,204297,1611661319,86,74,0,4
+01:12,[LVA 88-74] George Cutting Layup Shot: Made (2 PTS) Assist: Gray (11 AST),27,26,1,,204297,203833,1611661319,88,74,2,4
+00:56.3,[LVA] Coates Foul: Shooting (1 PF) (2 FTA),6,41,6,1631055,1628268,202679,1611661319,88,74,0,4
+00:56.3,[NYL 75-88] Sabally Free Throw 1 of 2 (1 PTS),0,-80,3,,1631055,,1611661313,88,75,1,4
+00:56.3,[NYL] Sabally Free Throw 2 of 2 Missed,0,-80,3,,1631055,,1611661313,88,75,0,4
+00:52.5,[LVA] Coates Rebound (Off:0 Def:1),0,-80,4,,1628268,,1611661319,88,75,0,4
+00:43.1,[LVA] George 3pt Shot: Missed,-104,246,2,,204297,,1611661319,88,75,0,4
+00:40.6,[NYL] Team Rebound,-104,246,4,,0,,1611661313,88,75,0,4
+00:40.6,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,88,75,0,4
+00:22.2,[NYL] Dolson Pullup Jump shot: Missed,96,123,2,,203828,,1611661313,88,75,0,4
+00:19.1,[LVA] Coates Rebound (Off:0 Def:2),96,123,4,,1628268,,1611661319,88,75,0,4
+00:00.0,End Period,0,-80,13,,0,,0,88,75,0,4

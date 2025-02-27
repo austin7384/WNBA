@@ -1,0 +1,379 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Jones vs Jones (Fiebich gains possession),0,-80,10,1628280,1627673,1630142,1611661313,0,0,0,1
+09:48,[NYL 3-0] Ionescu 3pt Shot: Made (3 PTS),61,243,1,,1629477,,1611661313,3,0,3,1
+09:22,[CON] Carrington Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),45,27,5,1627673,1630096,,1611661323,3,0,0,1
+09:05,[NYL 6-0] Fiebich 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),171,190,1,,1630142,1627673,1611661313,6,0,3,1
+08:53,[CON] Carrington Turnover : Bad Pass (2 TO) Steal:Burke (1 ST),-150,189,5,1629568,1630096,,1611661323,6,0,0,1
+08:49,[CON] Harris Foul: Shooting (1 PF) (2 FTA),18,16,6,202664,1630112,203891,1611661323,6,0,0,1
+08:49,[NYL] Vandersloot Free Throw 1 of 2 Missed,0,-80,3,,202664,,1611661313,6,0,0,1
+08:49,[NYL] Team Rebound,0,-80,4,,0,,1611661313,6,0,0,1
+08:49,[NYL 7-0] Vandersloot Free Throw 2 of 2 (1 PTS),0,-80,3,,202664,,1611661313,7,0,1,1
+08:30,[CON 2-7] Bonner Turnaround Jump Shot: Made (2 PTS) Assist: Carrington (1 AST),117,32,1,,201886,1630096,1611661323,7,2,2,1
+08:17,[NYL] Ionescu Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),133,237,5,1628280,1629477,,1611661313,7,2,0,1
+08:11,[CON] Jones Running Layup Shot: Missed,4,-1,2,,1628280,,1611661323,7,2,0,1
+08:09,[NYL] Fiebich Rebound (Off:0 Def:1),4,-1,4,,1630142,,1611661313,7,2,0,1
+08:05,[NYL 9-2] Vandersloot Running Layup Shot: Made (3 PTS) Assist: Ionescu (1 AST),-22,10,1,,202664,1629477,1611661313,9,2,2,1
+07:54,[CON] Harris Pullup Jump shot: Missed,-6,170,2,,1630112,,1611661323,9,2,0,1
+07:51,[NYL] Jones Rebound (Off:0 Def:1),-6,170,4,,1627673,,1611661313,9,2,0,1
+07:43,[NYL 11-2] Jones Turnaround Jump Shot: Made (2 PTS) Assist: Vandersloot (1 AST),6,42,1,,1627673,202664,1611661313,11,2,2,1
+07:43,Timeout : Regular,0,-80,9,,1611661323,,1611661323,11,2,0,1
+07:43,[CON] Carrington Substitution replaced by Mitchell,0,-80,8,,1630096,1627676,1611661323,11,2,0,1
+07:31,[CON 4-11] Bonner Cutting Layup Shot: Made (4 PTS) Assist: Thomas (1 AST),-16,-1,1,,201886,203826,1611661323,11,4,2,1
+07:17,[CON] Bonner Foul: Shooting (1 PF) (2 FTA),-31,10,6,1630142,201886,202764,1611661323,11,4,0,1
+07:17,[NYL 12-4] Fiebich Free Throw 1 of 2 (4 PTS),0,-80,3,,1630142,,1611661313,12,4,1,1
+07:17,[NYL 13-4] Fiebich Free Throw 2 of 2 (5 PTS),0,-80,3,,1630142,,1611661313,13,4,1,1
+07:08,[CON 6-13] Jones Jump Shot: Made (2 PTS) Assist: Thomas (2 AST),171,10,1,,1628280,203826,1611661323,13,6,2,1
+06:53,[NYL] Jones Driving Layup Shot: Missed Block: Jones (1 BLK),16,37,2,1628280,1627673,,1611661313,13,6,0,1
+06:52,[NYL] Team Rebound,16,37,4,,0,,1611661313,13,6,0,1
+06:52,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,6,0,1
+06:49,[NYL 16-6] Ionescu 3pt Shot: Made (6 PTS) Assist: Vandersloot (2 AST),166,178,1,,1629477,202664,1611661313,16,6,3,1
+06:33,[CON 8-16] Thomas Cutting Layup Shot: Made (2 PTS) Assist: Harris (1 AST),-8,16,1,,203826,1630112,1611661323,16,8,2,1
+06:21,[NYL] Jones Driving Layup Shot: Missed,-17,22,2,,1627673,,1611661313,16,8,0,1
+06:17,[CON] Thomas Rebound (Off:0 Def:1),-17,22,4,,203826,,1611661323,16,8,0,1
+06:07,[CON] Harris Pullup Jump shot: Missed,68,181,2,,1630112,,1611661323,16,8,0,1
+06:03,[NYL] Fiebich Rebound (Off:0 Def:2),68,181,4,,1630142,,1611661313,16,8,0,1
+05:58,[NYL 18-8] Fiebich Running Layup Shot: Made (7 PTS) Assist: Ionescu (2 AST),-3,18,1,,1630142,1629477,1611661313,18,8,2,1
+05:43,[CON] Bonner Turnover : Bad Pass (1 TO) Steal:Jones (2 ST),-143,181,5,1627673,201886,,1611661323,18,8,0,1
+05:30,[NYL] Ionescu Turnover : Bad Pass (2 TO) Steal:Thomas (1 ST),117,108,5,203826,1629477,,1611661313,18,8,0,1
+05:21,[CON 10-18] Jones Layup Shot: Made (4 PTS) Assist: Harris (2 AST),12,5,1,,1628280,1630112,1611661323,18,10,2,1
+05:03,[NYL] Ionescu 3pt Shot: Missed,-57,248,2,,1629477,,1611661313,18,10,0,1
+04:59,[CON] Bonner Rebound (Off:0 Def:1),-57,248,4,,201886,,1611661323,18,10,0,1
+04:54,[NYL] Jones Foul: Personal (1 PF),87,127,6,201886,1627673,203891,1611661313,18,10,0,1
+04:40,[CON 13-18] Mitchell 3pt Shot: Made (3 PTS) Assist: Thomas (3 AST),-224,-13,1,,1627676,203826,1611661323,18,13,3,1
+04:20,[NYL] Jones Driving Layup Shot: Missed,24,34,2,,1627673,,1611661313,18,13,0,1
+04:18,[CON] Thomas Rebound (Off:0 Def:2),24,34,4,,203826,,1611661323,18,13,0,1
+04:13,[CON 15-18] Thomas Running Layup Shot: Made (4 PTS),11,-10,1,,203826,,1611661323,18,15,2,1
+03:57,[NYL 20-15] Vandersloot Driving Finger Roll Layup Shot: Made (5 PTS),-28,10,1,,202664,,1611661313,20,15,2,1
+03:46,[NYL] Burke Foul: Shooting (1 PF) (2 FTA),5,20,6,1630112,1629568,1627539,1611661313,20,15,0,1
+03:46,[CON 16-20] Harris Free Throw 1 of 2 (1 PTS),0,-80,3,,1630112,,1611661323,20,16,1,1
+03:46,[NYL] Vandersloot Substitution replaced by Thornton,0,-80,8,,202664,203866,1611661313,20,16,0,1
+03:46,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,20,16,0,1
+03:46,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,20,16,0,1
+03:46,[CON 17-20] Harris Free Throw 2 of 2 (2 PTS),0,-80,3,,1630112,,1611661323,20,17,1,1
+03:31,[NYL 22-17] Burke Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Ionescu (3 AST),-3,48,1,,1629568,1629477,1611661313,22,17,2,1
+03:19,[CON] Harris 3pt Shot: Missed,188,169,2,,1630112,,1611661323,22,17,0,1
+03:17,[NYL] Ionescu Rebound (Off:0 Def:1),188,169,4,,1629477,,1611661313,22,17,0,1
+03:09,[NYL] Ionescu Pullup Jump shot: Missed,-117,146,2,,1629477,,1611661313,22,17,0,1
+03:07,[NYL] Sabally Rebound (Off:1 Def:0),-117,146,4,,1631055,,1611661313,22,17,0,1
+03:04,[NYL 24-17] Ionescu Pullup Jump shot: Made (8 PTS) Assist: Sabally (1 AST),-149,105,1,,1629477,1631055,1611661313,24,17,2,1
+02:43,[CON] Nelson-Ododa Turnover : Lost Ball (1 TO) Steal:Sabally (1 ST),-47,19,5,1631055,1631135,,1611661323,24,17,0,1
+02:28,[NYL] Sabally Cutting Layup Shot: Missed Block: Nelson-Ododa (1 BLK),2,38,2,1631135,1631055,,1611661313,24,17,0,1
+02:28,[CON] Team Rebound,2,38,4,,0,,1611661323,24,17,0,1
+02:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,17,0,1
+02:28,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,24,17,0,1
+02:19,[CON] Mitchell 3pt Shot: Missed,-182,150,2,,1627676,,1611661323,24,17,0,1
+02:16,[CON] Thomas Rebound (Off:1 Def:2),-182,150,4,,203826,,1611661323,24,17,0,1
+02:09,[CON 19-24] Thomas Driving Layup Shot: Made (6 PTS) Assist: Bonner (1 AST),24,0,1,,203826,201886,1611661323,24,19,2,1
+01:57,[NYL 27-19] Ionescu 3pt Shot: Made (11 PTS) Assist: Sabally (2 AST),-120,226,1,,1629477,1631055,1611661313,27,19,3,1
+01:57,[CON] Burton Foul: Shooting (1 PF) (1 FTA),-120,226,6,1629477,1631007,202764,1611661323,27,19,0,1
+01:57,Instant Replay - Support Ruling,0,-80,18,,0,,0,27,19,0,1
+01:57,[NYL] Burke Substitution replaced by Jones,0,-80,8,,1629568,1627673,1611661313,27,19,0,1
+01:57,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,27,19,0,1
+01:57,[NYL 28-19] Ionescu Free Throw 1 of 1 (12 PTS),0,-80,3,,1629477,,1611661313,28,19,1,1
+01:45,[CON 21-28] Bonner Pullup Jump shot: Made (6 PTS) Assist: Thomas (4 AST),53,146,1,,201886,203826,1611661323,28,21,2,1
+01:29,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (3 TO),145,219,5,,1629477,1627539,1611661313,28,21,0,1
+01:29,[NYL] Fiebich Substitution replaced by Dojkić,0,-80,8,,1630142,1641602,1611661313,28,21,0,1
+01:29,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,28,21,0,1
+01:06,[CON 23-28] Burton Step Back Bank Jump Shot: Made (2 PTS),-138,137,1,,1631007,,1611661323,28,23,2,1
+00:51.4,[NYL] Dojkić 3pt Shot: Missed,183,177,2,,1641602,,1611661313,28,23,0,1
+00:48.5,[CON] Bonner Rebound (Off:0 Def:2),183,177,4,,201886,,1611661323,28,23,0,1
+00:40.9,[CON] Bonner 3pt Shot: Missed,-98,342,2,,201886,,1611661323,28,23,0,1
+00:38.2,[NYL] Sabally Rebound (Off:1 Def:1),-98,342,4,,1631055,,1611661313,28,23,0,1
+00:24.5,[NYL] Vandersloot Turnover : Lost Ball (1 TO) Steal:Mitchell (1 ST),58,56,5,1627676,202664,,1611661313,28,23,0,1
+00:03.5,[CON] Bonner Turnaround Jump Shot: Missed,127,56,2,,201886,,1611661323,28,23,0,1
+00:00.2,[NYL] Dojkić Rebound (Off:0 Def:1),127,56,4,,1641602,,1611661313,28,23,0,1
+00:00.0,End Period,0,-80,13,,0,,0,28,23,0,1
+10:00,Start Period,0,-80,12,,0,,0,28,23,0,2
+09:44,[CON 25-28] Jones Reverse Layup Shot: Made (6 PTS),-11,-1,1,,1628280,,1611661323,28,25,2,2
+09:28,[NYL 31-25] Dojkić 3pt Shot: Made (3 PTS) Assist: Jones (2 AST),228,5,1,,1641602,1627673,1611661313,31,25,3,2
+09:08,[CON] Burton 3pt Shot: Missed,173,176,2,,1631007,,1611661323,31,25,0,2
+09:06,[NYL] Jones Rebound (Off:0 Def:2),173,176,4,,1627673,,1611661313,31,25,0,2
+08:43,[NYL] Jones Cutting Layup Shot: Missed Block: Thomas (1 BLK),0,44,2,203826,1627673,,1611661313,31,25,0,2
+08:40,[CON] Jones Rebound (Off:0 Def:1),0,44,4,,1628280,,1611661323,31,25,0,2
+08:31,[CON] Jones Jump Shot: Missed,0,191,2,,1628280,,1611661323,31,25,0,2
+08:27,[CON] Burton Rebound (Off:1 Def:0),0,191,4,,1631007,,1611661323,31,25,0,2
+08:24,[CON 27-31] Thomas Cutting Layup Shot: Made (8 PTS) Assist: Burton (1 AST),-23,0,1,,203826,1631007,1611661323,31,27,2,2
+08:08,[CON] Mitchell Foul: Shooting (1 PF) (2 FTA),0,33,6,1641602,1627676,202764,1611661323,31,27,0,2
+08:08,[NYL 32-27] Dojkić Free Throw 1 of 2 (4 PTS),0,-80,3,,1641602,,1611661313,32,27,1,2
+08:08,[NYL] Vandersloot Substitution replaced by Ionescu,0,-80,8,,202664,1629477,1611661313,32,27,0,2
+08:08,[CON] Mitchell Substitution replaced by Harris,0,-80,8,,1627676,1630112,1611661323,32,27,0,2
+08:08,[CON] Burton Substitution replaced by Carrington,0,-80,8,,1631007,1630096,1611661323,32,27,0,2
+08:08,[CON] Bonner Substitution replaced by Banham,0,-80,8,,201886,1627671,1611661323,32,27,0,2
+08:08,[NYL 33-27] Dojkić Free Throw 2 of 2 (5 PTS),0,-80,3,,1641602,,1611661313,33,27,1,2
+07:56,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Burke (2 ST),-1,201,5,1629568,203826,,1611661323,33,27,0,2
+07:48,[CON] Jones Foul: Personal (1 PF),-42,51,6,1627673,1628280,1627539,1611661323,33,27,0,2
+07:42,[CON] Carrington Foul: Shooting (1 PF) (2 FTA),-33,58,6,1629477,1630096,203891,1611661323,33,27,0,2
+07:42,[NYL 34-27] Ionescu Free Throw 1 of 2 (13 PTS),0,-80,3,,1629477,,1611661313,34,27,1,2
+07:42,[NYL 35-27] Ionescu Free Throw 2 of 2 (14 PTS),0,-80,3,,1629477,,1611661313,35,27,1,2
+07:26,[CON] Jones Layup Shot: Missed,16,11,2,,1628280,,1611661323,35,27,0,2
+07:25,[NYL] Jones Rebound (Off:0 Def:3),16,11,4,,1627673,,1611661313,35,27,0,2
+07:12,[NYL] Ionescu Driving Floating Jump Shot: Missed,-55,128,2,,1629477,,1611661313,35,27,0,2
+07:12,[CON] Thomas Rebound (Off:1 Def:3),-55,128,4,,203826,,1611661323,35,27,0,2
+07:06,[CON] Banham 3pt Shot: Missed,165,191,2,,1627671,,1611661323,35,27,0,2
+07:04,[CON] Thomas Rebound (Off:2 Def:3),165,191,4,,203826,,1611661323,35,27,0,2
+07:03,[CON 29-35] Thomas Putback Layup Shot: Made (10 PTS),-8,-5,1,,203826,,1611661323,35,29,2,2
+06:57,Timeout : Regular,0,-80,9,,1611661313,,1611661313,35,29,0,2
+06:45,[NYL 37-29] Thornton Cutting Layup Shot: Made (2 PTS) Assist: Jones (3 AST),11,16,1,,203866,1627673,1611661313,37,29,2,2
+06:20,[CON] Carrington 3pt Shot: Missed,177,304,2,,1630096,,1611661323,37,29,0,2
+06:16,[CON] Thomas Rebound (Off:3 Def:3),177,304,4,,203826,,1611661323,37,29,0,2
+06:06,[NYL] Thornton Foul: Shooting (1 PF) (2 FTA),-22,43,6,1628280,203866,1627539,1611661313,37,29,0,2
+06:06,[CON 30-37] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1628280,,1611661323,37,30,1,2
+06:06,[NYL] Burke Substitution replaced by Sabally,0,-80,8,,1629568,1631055,1611661313,37,30,0,2
+06:06,[NYL] Thornton Substitution replaced by Fiebich,0,-80,8,,203866,1630142,1611661313,37,30,0,2
+06:06,[CON 31-37] Jones Free Throw 2 of 2 (8 PTS),0,-80,3,,1628280,,1611661323,37,31,1,2
+05:52,[NYL] Ionescu 3pt Shot: Missed,-181,223,2,,1629477,,1611661313,37,31,0,2
+05:48,[NYL] Fiebich Rebound (Off:1 Def:2),-181,223,4,,1630142,,1611661313,37,31,0,2
+05:45,[NYL] Jones 3pt Shot: Missed,-20,250,2,,1627673,,1611661313,37,31,0,2
+05:42,[CON] Carrington Rebound (Off:0 Def:1),-20,250,4,,1630096,,1611661323,37,31,0,2
+05:35,[NYL] Sabally Foul: Shooting (1 PF) (2 FTA),-22,-2,6,1630096,1631055,203891,1611661313,37,31,0,2
+05:35,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,37,31,0,2
+05:35,[CON] Team Rebound,0,-80,4,,0,,1611661323,37,31,0,2
+05:35,[CON 32-37] Carrington Free Throw 2 of 2 (1 PTS),0,-80,3,,1630096,,1611661323,37,32,1,2
+05:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,32,0,2
+05:16,[NYL 40-32] Ionescu 3pt Shot: Made (17 PTS) Assist: Jones (4 AST),117,235,1,,1629477,1627673,1611661313,40,32,3,2
+05:02,[CON] Banham Turnover : Out of Bounds - Bad Pass Turnover (1 TO),12,64,5,,1627671,202764,1611661323,40,32,0,2
+04:50,[NYL] Dojkić 3pt Shot: Missed,-244,23,2,,1641602,,1611661313,40,32,0,2
+04:46,[CON] Jones Rebound (Off:0 Def:2),-244,23,4,,1628280,,1611661323,40,32,0,2
+04:39,[CON] Banham 3pt Shot: Missed,-164,169,2,,1627671,,1611661323,40,32,0,2
+04:37,[NYL] Ionescu Rebound (Off:0 Def:2),-164,169,4,,1629477,,1611661313,40,32,0,2
+04:28,[NYL 42-32] Sabally Cutting Layup Shot: Made (2 PTS) Assist: Jones (5 AST),-22,19,1,,1631055,1627673,1611661313,42,32,2,2
+04:14,[CON 34-42] Jones Turnaround Hook Shot: Made (10 PTS) Assist: Harris (3 AST),-2,17,1,,1628280,1630112,1611661323,42,34,2,2
+03:58,[NYL] Fiebich Turnaround Jump Shot: Missed,78,54,2,,1630142,,1611661313,42,34,0,2
+03:55,[CON] Thomas Rebound (Off:3 Def:4),78,54,4,,203826,,1611661323,42,34,0,2
+03:43,[CON 36-42] Harris Pullup Jump shot: Made (4 PTS),-86,70,1,,1630112,,1611661323,42,36,2,2
+03:33,[NYL] Ionescu Turnover : Lost Ball (4 TO) Steal:Carrington (1 ST),-146,266,5,1630096,1629477,,1611661313,42,36,0,2
+03:29,[CON 38-42] Thomas Running Layup Shot: Made (12 PTS),22,-1,1,,203826,,1611661323,42,38,2,2
+03:16,[NYL] Fiebich Turnover : Step Out of Bounds Turnover (1 TO),101,-38,5,,1630142,203891,1611661313,42,38,0,2
+03:16,[NYL] Dojkić Substitution replaced by Vandersloot,0,-80,8,,1641602,202664,1611661313,42,38,0,2
+03:16,[CON] Thomas Substitution replaced by Bonner,0,-80,8,,203826,201886,1611661323,42,38,0,2
+03:05,[CON] Harris Driving Layup Shot: Missed Block: Sabally (1 BLK),38,17,2,1631055,1630112,,1611661323,42,38,0,2
+03:03,[CON] Team Rebound,38,17,4,,0,,1611661323,42,38,0,2
+03:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,38,0,2
+02:56,[CON] Banham Step Back Jump shot: Missed Block: Fiebich (1 BLK),183,33,2,1630142,1627671,,1611661323,42,38,0,2
+02:52,[NYL] Sabally Rebound (Off:1 Def:2),183,33,4,,1631055,,1611661313,42,38,0,2
+02:44,[NYL 45-38] Vandersloot 3pt Shot: Made (8 PTS) Assist: Fiebich (1 AST),223,15,1,,202664,1630142,1611661313,45,38,3,2
+02:30,[CON] Bonner Driving Finger Roll Layup Shot: Missed Block: Sabally (2 BLK),-46,6,2,1631055,201886,,1611661323,45,38,0,2
+02:28,[CON] Team Rebound,-46,6,4,,0,,1611661323,45,38,0,2
+02:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,38,0,2
+02:28,Timeout : Official,0,-80,9,,0,,0,45,38,0,2
+02:28,[NYL] Sabally Substitution replaced by Burke,0,-80,8,,1631055,1629568,1611661313,45,38,0,2
+02:28,[CON] Banham Substitution replaced by Mitchell,0,-80,8,,1627671,1627676,1611661323,45,38,0,2
+02:15,[CON] Harris Pullup Jump shot: Missed,-7,106,2,,1630112,,1611661323,45,38,0,2
+02:12,[CON] Carrington Rebound (Off:1 Def:1),-7,106,4,,1630096,,1611661323,45,38,0,2
+02:11,[CON] Carrington Tip Layup Shot: Missed,0,-5,2,,1630096,,1611661323,45,38,0,2
+02:09,[CON] Carrington Rebound (Off:2 Def:1),0,-5,4,,1630096,,1611661323,45,38,0,2
+02:09,[CON] Carrington Putback Layup Shot: Missed,-4,1,2,,1630096,,1611661323,45,38,0,2
+02:07,[NYL] Vandersloot Rebound (Off:0 Def:1),-4,1,4,,202664,,1611661313,45,38,0,2
+01:56,[NYL] Fiebich Turnover : Bad Pass (2 TO) Steal:Jones (2 ST),35,101,5,1628280,1630142,,1611661313,45,38,0,2
+01:52,[NYL] Fiebich Foul: Shooting (1 PF) (2 FTA),-33,8,6,1627676,1630142,203891,1611661313,45,38,0,2
+01:52,[CON 39-45] Mitchell Free Throw 1 of 2 (4 PTS),0,-80,3,,1627676,,1611661323,45,39,1,2
+01:52,[CON] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,1627676,,1611661323,45,39,0,2
+01:51,[NYL] Team Rebound,0,-80,4,,0,,1611661313,45,39,0,2
+01:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,39,0,2
+01:41,[CON] Mitchell Foul: Personal (2 PF),78,236,6,1629477,1627676,202764,1611661323,45,39,0,2
+01:26,[NYL] Jones Turnaround Fadeaway shot: Missed,-45,160,2,,1627673,,1611661313,45,39,0,2
+01:22,[CON] Bonner Rebound (Off:0 Def:3),-45,160,4,,201886,,1611661323,45,39,0,2
+01:11,[NYL] Burke Foul: Personal (2 PF) (2 FTA),40,108,6,1628280,1629568,202764,1611661313,45,39,0,2
+01:11,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,45,39,0,2
+01:11,[CON] Team Rebound,0,-80,4,,0,,1611661323,45,39,0,2
+01:11,[CON 40-45] Jones Free Throw 2 of 2 (11 PTS),0,-80,3,,1628280,,1611661323,45,40,1,2
+00:57.4,[NYL] Jones 3pt Shot: Missed,138,217,2,,1627673,,1611661313,45,40,0,2
+00:54.9,[CON] Bonner Rebound (Off:0 Def:4),138,217,4,,201886,,1611661323,45,40,0,2
+00:48.5,[CON] Jones Turnover : Out of Bounds Lost Ball Turnover (1 TO),-93,216,5,,1628280,1627539,1611661323,45,40,0,2
+00:48.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,40,0,2
+00:36.3,[NYL] Burke 3pt Shot: Missed,-193,163,2,,1629568,,1611661313,45,40,0,2
+00:33.7,[CON] Jones Rebound (Off:0 Def:3),-193,163,4,,1628280,,1611661323,45,40,0,2
+00:27.2,[CON 42-45] Harris Driving Layup Shot: Made (6 PTS),-10,0,1,,1630112,,1611661323,45,42,2,2
+00:09.8,[NYL] Ionescu 3pt Shot: Missed,-24,307,2,,1629477,,1611661313,45,42,0,2
+00:06.9,[NYL] Fiebich Rebound (Off:2 Def:2),-24,307,4,,1630142,,1611661313,45,42,0,2
+00:06.7,[NYL] Fiebich Jump Shot: Missed,97,24,2,,1630142,,1611661313,45,42,0,2
+00:00.7,[CON] Bonner Rebound (Off:0 Def:5),97,24,4,,201886,,1611661323,45,42,0,2
+00:00.0,End Period,0,-80,13,,0,,0,45,42,0,2
+10:00,Start Period,0,-80,12,,0,,0,45,42,0,3
+09:39,[CON] Jones 3pt Shot: Missed,-61,249,2,,1628280,,1611661323,45,42,0,3
+09:37,[NYL] Burke Rebound (Off:0 Def:1),-61,249,4,,1629568,,1611661313,45,42,0,3
+09:13,[NYL] Team Turnover : Shot Clock Turnover,-145,182,5,,0,,1611661313,45,42,0,3
+09:13,[NYL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661313,45,42,0,3
+09:03,[CON 44-45] Bonner Jump Shot: Made (8 PTS) Assist: Harris (4 AST),55,142,1,,201886,1630112,1611661323,45,44,2,3
+08:52,[NYL 47-44] Vandersloot Driving Finger Roll Layup Shot: Made (10 PTS),23,-2,1,,202664,,1611661313,47,44,2,3
+08:37,[CON] Carrington 3pt Shot: Missed,228,75,2,,1630096,,1611661323,47,44,0,3
+08:36,[NYL] Team Rebound,228,75,4,,0,,1611661313,47,44,0,3
+08:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,44,0,3
+08:25,[NYL] Vandersloot Turnover : Bad Pass (2 TO) Steal:Carrington (2 ST),84,231,5,1630096,202664,,1611661313,47,44,0,3
+08:18,[NYL] Vandersloot Foul: Personal (1 PF),-28,36,6,203826,202664,1627539,1611661313,47,44,0,3
+08:03,[CON] Jones Driving Layup Shot: Missed Block: Jones (1 BLK),-18,22,2,1627673,1628280,,1611661323,47,44,0,3
+08:03,[CON] Team Rebound,-18,22,4,,0,,1611661323,47,44,0,3
+08:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,44,0,3
+08:02,[CON] Thomas 3pt Shot: Missed,-166,219,2,,203826,,1611661323,47,44,0,3
+08:01,[CON] Team Rebound,-166,219,4,,0,,1611661323,47,44,0,3
+08:01,[CON] Team Turnover : Shot Clock Turnover,-198,162,5,,0,202764,1611661323,47,44,0,3
+07:46,[NYL 50-44] Burke 3pt Shot: Made (5 PTS) Assist: Vandersloot (3 AST),170,186,1,,1629568,202664,1611661313,50,44,3,3
+07:32,[CON 46-50] Thomas Layup Shot: Made (14 PTS) Assist: Jones (1 AST),-16,8,1,,203826,1628280,1611661323,50,46,2,3
+07:16,[CON] Bonner Foul: Personal (2 PF),72,43,6,1629568,201886,202764,1611661323,50,46,0,3
+07:03,[CON] Harris Foul: Shooting (2 PF) (2 FTA),1,99,6,1629477,1630112,203891,1611661323,50,46,0,3
+07:03,[NYL 51-46] Ionescu Free Throw 1 of 2 (18 PTS),0,-80,3,,1629477,,1611661313,51,46,1,3
+07:03,[NYL 52-46] Ionescu Free Throw 2 of 2 (19 PTS),0,-80,3,,1629477,,1611661313,52,46,1,3
+06:51,[CON] Bonner Jump Shot: Missed,188,11,2,,201886,,1611661323,52,46,0,3
+06:48,[NYL] Jones Rebound (Off:0 Def:4),188,11,4,,1627673,,1611661313,52,46,0,3
+06:34,[NYL] Ionescu Turnover : Traveling (5 TO),-169,166,5,,1629477,203891,1611661313,52,46,0,3
+06:18,[CON 48-52] Jones Cutting Layup Shot: Made (13 PTS) Assist: Thomas (5 AST),18,17,1,,1628280,203826,1611661323,52,48,2,3
+06:08,[NYL] Vandersloot Turnover : Lost Ball (3 TO) Steal:Carrington (3 ST),-124,210,5,1630096,202664,,1611661313,52,48,0,3
+06:06,[NYL] Vandersloot Foul: Shooting (2 PF) (2 FTA),13,18,6,1630096,202664,203891,1611661313,52,48,0,3
+06:06,[CON 49-52] Carrington Free Throw 1 of 2 (2 PTS),0,-80,3,,1630096,,1611661323,52,49,1,3
+06:06,[NYL] Vandersloot Substitution replaced by Dojkić,0,-80,8,,202664,1641602,1611661313,52,49,0,3
+06:06,[NYL] Burke Substitution replaced by Thornton,0,-80,8,,1629568,203866,1611661313,52,49,0,3
+06:06,[CON 50-52] Carrington Free Throw 2 of 2 (3 PTS),0,-80,3,,1630096,,1611661323,52,50,1,3
+05:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,50,0,3
+05:50,[CON] Carrington Foul: Shooting (2 PF) (2 FTA),149,24,6,1629477,1630096,203891,1611661323,52,50,0,3
+05:50,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661323,52,50,0,3
+05:50,Timeout : Regular,0,-80,9,,1611661323,,1611661323,52,50,0,3
+05:50,[NYL 53-50] Ionescu Free Throw 1 of 2 (20 PTS),0,-80,3,,1629477,,1611661313,53,50,1,3
+05:50,[NYL 54-50] Ionescu Free Throw 2 of 2 (21 PTS),0,-80,3,,1629477,,1611661313,54,50,1,3
+05:30,[CON] Carrington Driving Reverse Layup Shot: Missed,-12,5,2,,1630096,,1611661323,54,50,0,3
+05:30,[CON] Thomas Rebound (Off:4 Def:4),-12,5,4,,203826,,1611661323,54,50,0,3
+05:30,[CON 52-54] Thomas Putback Layup Shot: Made (16 PTS),-15,17,1,,203826,,1611661323,54,52,2,3
+05:30,[NYL] Dojkić Foul: Shooting (1 PF) (1 FTA),-15,17,6,203826,1641602,203891,1611661313,54,52,0,3
+05:30,[CON] Thomas Free Throw 1 of 1 Missed,0,-80,3,,203826,,1611661323,54,52,0,3
+05:27,[CON] Jones Rebound (Off:1 Def:3),0,-80,4,,1628280,,1611661323,54,52,0,3
+05:27,[CON] Jones Putback Layup Shot: Missed,5,16,2,,1628280,,1611661323,54,52,0,3
+05:24,[NYL] Thornton Rebound (Off:0 Def:1),5,16,4,,203866,,1611661313,54,52,0,3
+05:11,[NYL] Dojkić Turnover : Traveling (1 TO),-139,181,5,,1641602,1627539,1611661313,54,52,0,3
+05:00,[CON] Bonner Cutting Layup Shot: Missed,7,12,2,,201886,,1611661323,54,52,0,3
+04:56,[NYL] Jones Rebound (Off:0 Def:5),7,12,4,,1627673,,1611661313,54,52,0,3
+04:39,[NYL] Fiebich Driving Layup Shot: Missed Block: Bonner (1 BLK),0,41,2,201886,1630142,,1611661313,54,52,0,3
+04:38,[NYL] Team Rebound,0,41,4,,0,,1611661313,54,52,0,3
+04:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,52,0,3
+04:38,[CON] Jones Foul: Away From Play (2 PF) (1 FTA),70,31,6,1627673,1628280,203891,1611661323,54,52,0,3
+04:38,[NYL 55-52] Jones Free Throw 1 of 1 (3 PTS),0,-80,3,,1627673,,1611661313,55,52,1,3
+04:35,[NYL] Dojkić 3pt Shot: Missed,-228,-8,2,,1641602,,1611661313,55,52,0,3
+04:32,[NYL] Fiebich Rebound (Off:3 Def:2),-228,-8,4,,1630142,,1611661313,55,52,0,3
+04:30,[NYL 58-52] Ionescu 3pt Shot: Made (24 PTS) Assist: Fiebich (2 AST),162,231,1,,1629477,1630142,1611661313,58,52,3,3
+04:22,[CON] Harris Turnover : Bad Pass (1 TO) Steal:Ionescu (1 ST),60,420,5,1629477,1630112,,1611661323,58,52,0,3
+04:01,[NYL] Dojkić 3pt Shot: Missed,217,126,2,,1641602,,1611661313,58,52,0,3
+03:55,[CON] Carrington Rebound (Off:2 Def:2),217,126,4,,1630096,,1611661323,58,52,0,3
+03:54,[CON 54-58] Carrington Running Layup Shot: Made (5 PTS),-1,17,1,,1630096,,1611661323,58,54,2,3
+03:43,[CON] Carrington Foul: Personal (3 PF) (2 FTA),146,296,6,1629477,1630096,202764,1611661323,58,54,0,3
+03:43,[CON] Thomas Substitution replaced by Mitchell,0,-80,8,,203826,1627676,1611661323,58,54,0,3
+03:43,[NYL 59-54] Ionescu Free Throw 1 of 2 (25 PTS),0,-80,3,,1629477,,1611661313,59,54,1,3
+03:43,[NYL 60-54] Ionescu Free Throw 2 of 2 (26 PTS),0,-80,3,,1629477,,1611661313,60,54,1,3
+03:30,[CON 56-60] Harris Driving Layup Shot: Made (8 PTS),15,15,1,,1630112,,1611661323,60,56,2,3
+03:08,[NYL] Jones Turnover : Out of Bounds - Bad Pass Turnover (1 TO),40,116,5,,1627673,202764,1611661313,60,56,0,3
+03:08,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,60,56,0,3
+02:52,[NYL] Thornton Foul: Personal (2 PF),-160,209,6,201886,203866,1627539,1611661313,60,56,0,3
+02:52,[CON] Bonner Technical (1 FTA),0,-80,6,,201886,1627539,1611661323,60,56,0,3
+02:52,[NYL 61-56] Ionescu Free Throw Technical (27 PTS),0,-80,3,,1629477,,1611661313,61,56,1,3
+02:52,[NYL] Fiebich Substitution replaced by Burke,0,-80,8,,1630142,1629568,1611661313,61,56,0,3
+02:52,[NYL] Dojkić Substitution replaced by Vandersloot,0,-80,8,,1641602,202664,1611661313,61,56,0,3
+02:49,[NYL] Vandersloot Foul: Shooting (3 PF) (2 FTA),2,72,6,1630096,202664,202764,1611661313,61,56,0,3
+02:49,Timeout : Regular,0,-80,9,,1611661313,,1611661313,61,56,0,3
+02:49,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661313,61,56,0,3
+02:49,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,61,56,0,3
+02:49,[CON] Team Rebound,0,-80,4,,0,,1611661323,61,56,0,3
+02:49,[CON 57-61] Carrington Free Throw 2 of 2 (6 PTS),0,-80,3,,1630096,,1611661323,61,57,1,3
+02:25,[NYL] Jones Driving Finger Roll Layup Shot: Missed,13,32,2,,1627673,,1611661313,61,57,0,3
+02:22,[CON] Jones Rebound (Off:1 Def:4),13,32,4,,1628280,,1611661323,61,57,0,3
+02:16,[CON 59-61] Jones Cutting Layup Shot: Made (15 PTS) Assist: Burton (2 AST),-20,6,1,,1628280,1631007,1611661323,61,59,2,3
+02:06,[NYL] Vandersloot Turnover : Bad Pass (4 TO) Steal:Jones (3 ST),138,207,5,1628280,202664,,1611661313,61,59,0,3
+01:48,[CON 61-61] Carrington Cutting Layup Shot: Made (8 PTS) Assist: Burton (3 AST),15,16,1,,1630096,1631007,1611661323,61,61,2,3
+01:29,[NYL] Thornton Turnaround Jump Shot: Missed,23,118,2,,203866,,1611661313,61,61,0,3
+01:26,[CON] Bonner Rebound (Off:0 Def:6),23,118,4,,201886,,1611661323,61,61,0,3
+01:12,[CON] Burton 3pt Shot: Missed,-195,162,2,,1631007,,1611661323,61,61,0,3
+01:08,[NYL] Jones Rebound (Off:0 Def:6),-195,162,4,,1627673,,1611661313,61,61,0,3
+00:58.2,[NYL] Vandersloot Foul: Offensive (4 PF),-125,3,6,1627676,202664,202764,1611661313,61,61,0,3
+00:58.2,[NYL] Vandersloot Turnover : Offensive Foul Turnover (5 TO),-125,3,5,,202664,202764,1611661313,61,61,0,3
+00:43.1,[CON] Carrington Turnover : Bad Pass (3 TO) Steal:Burke (3 ST),-10,157,5,1629568,1630096,,1611661323,61,61,0,3
+00:40.1,[NYL 63-61] Burke Running Layup Shot: Made (7 PTS),0,0,1,,1629568,,1611661313,63,61,2,3
+00:24.6,[CON 63-63] Jones Cutting Layup Shot: Made (17 PTS) Assist: Burton (4 AST),-18,11,1,,1628280,1631007,1611661323,63,63,2,3
+00:00.9,[NYL] Vandersloot 3pt Shot: Missed,-188,137,2,,202664,,1611661313,63,63,0,3
+00:00.6,[NYL] Team Rebound,-188,137,4,,0,,1611661313,63,63,0,3
+00:00.6,[NYL] Team Turnover : Shot Clock Turnover,-6,0,5,,0,203891,1611661313,63,63,0,3
+00:00.6,[NYL] Thornton Substitution replaced by Fiebich,0,-80,8,,203866,1630142,1611661313,63,63,0,3
+00:00.6,[NYL] Ionescu Substitution replaced by Dojkić,0,-80,8,,1629477,1641602,1611661313,63,63,0,3
+00:00.0,End Period,0,-80,13,,0,,0,63,63,0,3
+10:00,Start Period,0,-80,12,,0,,0,63,63,0,4
+09:40,[NYL] Dojkić Pullup Jump shot: Missed,106,150,2,,1641602,,1611661313,63,63,0,4
+09:34,[CON] Burton Rebound (Off:1 Def:1),106,150,4,,1631007,,1611661323,63,63,0,4
+09:22,[CON] Burton Turnover : Bad Pass (1 TO) Steal:Burke (4 ST),93,169,5,1629568,1631007,,1611661323,63,63,0,4
+09:18,[NYL 66-63] Ionescu 3pt Shot: Made (30 PTS) Assist: Burke (1 AST),-166,169,1,,1629477,1629568,1611661313,66,63,3,4
+08:57,[CON] Carrington Driving Layup Shot: Missed,12,16,2,,1630096,,1611661323,66,63,0,4
+08:55,[NYL] Ionescu Rebound (Off:0 Def:3),12,16,4,,1629477,,1611661313,66,63,0,4
+08:48,[NYL 68-63] Burke Cutting Layup Shot: Made (9 PTS) Assist: Ionescu (4 AST),20,3,1,,1629568,1629477,1611661313,68,63,2,4
+08:47,Timeout : Regular,0,-80,9,,1611661323,,1611661323,68,63,0,4
+08:47,[CON] Burton Substitution replaced by Harris,0,-80,8,,1631007,1630112,1611661323,68,63,0,4
+08:36,[CON] Bonner Jump Shot: Missed,-72,157,2,,201886,,1611661323,68,63,0,4
+08:34,[NYL] Ionescu Rebound (Off:0 Def:4),-72,157,4,,1629477,,1611661313,68,63,0,4
+08:17,[NYL] Ionescu 3pt Shot: Missed,-160,170,2,,1629477,,1611661313,68,63,0,4
+08:13,[CON] Harris Rebound (Off:0 Def:1),-160,170,4,,1630112,,1611661323,68,63,0,4
+08:09,[NYL] Fiebich Foul: Shooting (2 PF) (2 FTA),27,31,6,1630096,1630142,202764,1611661313,68,63,0,4
+08:09,[CON 64-68] Carrington Free Throw 1 of 2 (9 PTS),0,-80,3,,1630096,,1611661323,68,64,1,4
+08:09,[CON 65-68] Carrington Free Throw 2 of 2 (10 PTS),0,-80,3,,1630096,,1611661323,68,65,1,4
+07:53,[NYL] Burke Turnover : Out of Bounds Lost Ball Turnover (1 TO),50,30,5,,1629568,202764,1611661313,68,65,0,4
+07:39,[CON] Mitchell Driving Layup Shot: Missed,16,15,2,,1627676,,1611661323,68,65,0,4
+07:37,[NYL] Thornton Rebound (Off:0 Def:2),16,15,4,,203866,,1611661313,68,65,0,4
+07:25,[NYL 71-65] Thornton 3pt Shot: Made (5 PTS) Assist: Dojkić (1 AST),177,177,1,,203866,1641602,1611661313,71,65,3,4
+07:14,[CON] Carrington 3pt Shot: Missed,-183,194,2,,1630096,,1611661323,71,65,0,4
+07:11,[NYL] Thornton Rebound (Off:0 Def:3),-183,194,4,,203866,,1611661313,71,65,0,4
+06:57,[NYL] Burke 3pt Shot: Missed,-56,229,2,,1629568,,1611661313,71,65,0,4
+06:54,[NYL] Ionescu Rebound (Off:1 Def:4),-56,229,4,,1629477,,1611661313,71,65,0,4
+06:52,[NYL] Thornton Jump Shot: Missed,-125,-3,2,,203866,,1611661313,71,65,0,4
+06:49,[CON] Carrington Rebound (Off:2 Def:3),-125,-3,4,,1630096,,1611661323,71,65,0,4
+06:39,[CON] Harris Driving Floating Jump Shot: Missed,-35,123,2,,1630112,,1611661323,71,65,0,4
+06:39,[NYL] Team Rebound,-35,123,4,,0,,1611661313,71,65,0,4
+06:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,65,0,4
+06:39,[NYL] Burke Substitution replaced by Jones,0,-80,8,,1629568,1627673,1611661313,71,65,0,4
+06:39,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,71,65,0,4
+06:21,[NYL] Thornton 3pt Shot: Missed,163,186,2,,203866,,1611661313,71,65,0,4
+06:18,[NYL] Jones Rebound (Off:1 Def:6),163,186,4,,1627673,,1611661313,71,65,0,4
+06:07,[NYL] Dojkić Driving Floating Bank Jump Shot: Missed,-50,-1,2,,1641602,,1611661313,71,65,0,4
+06:03,[CON] Bonner Rebound (Off:0 Def:7),-50,-1,4,,201886,,1611661323,71,65,0,4
+05:55,[CON] Harris 3pt Shot: Missed,-13,249,2,,1630112,,1611661323,71,65,0,4
+05:51,[NYL] Dojkić Rebound (Off:0 Def:2),-13,249,4,,1641602,,1611661313,71,65,0,4
+05:49,[NYL 73-65] Dojkić Running Layup Shot: Made (7 PTS),20,-7,1,,1641602,,1611661313,73,65,2,4
+05:30,[CON] Jones 3pt Shot: Missed,-4,262,2,,1628280,,1611661323,73,65,0,4
+05:27,[NYL] Thornton Rebound (Off:0 Def:4),-4,262,4,,203866,,1611661313,73,65,0,4
+05:07,[NYL] Jones Technical (1 FTA),0,-80,6,,1627673,1627539,1611661313,73,65,0,4
+05:07,[CON 66-73] Mitchell Free Throw Technical (5 PTS),0,-80,3,,1627676,,1611661323,73,66,1,4
+05:07,[CON] Mitchell Substitution replaced by Banham,0,-80,8,,1627676,1627671,1611661323,73,66,0,4
+05:02,[NYL] Ionescu Turnover : Bad Pass (6 TO) Steal:Carrington (4 ST),-202,311,5,1630096,1629477,,1611661313,73,66,0,4
+05:02,[NYL] Jones Foul: Shooting (3 PF) (2 FTA),7,13,6,1630096,1627673,202764,1611661313,73,66,0,4
+05:02,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,73,66,0,4
+05:02,[CON] Team Rebound,0,-80,4,,0,,1611661323,73,66,0,4
+05:02,[CON 67-73] Carrington Free Throw 2 of 2 (11 PTS),0,-80,3,,1630096,,1611661323,73,67,1,4
+04:49,[NYL] Ionescu Turnover : Lost Ball (7 TO) Steal:Carrington (5 ST),151,208,5,1630096,1629477,,1611661313,73,67,0,4
+04:44,[CON 69-73] Carrington Running Layup Shot: Made (13 PTS),-17,8,1,,1630096,,1611661323,73,69,2,4
+04:44,Timeout : Regular,0,-80,9,,1611661313,,1611661313,73,69,0,4
+04:21,[NYL 75-69] Jones Driving Layup Shot: Made (5 PTS),1,3,1,,1627673,,1611661313,75,69,2,4
+04:21,[CON] Jones Foul: Shooting (3 PF) (1 FTA),1,3,6,1627673,1628280,203891,1611661323,75,69,0,4
+04:21,[NYL 76-69] Jones Free Throw 1 of 1 (6 PTS),0,-80,3,,1627673,,1611661313,76,69,1,4
+04:01,[CON 72-76] Harris 3pt Shot: Made (11 PTS) Assist: Carrington (2 AST),232,8,1,,1630112,1630096,1611661323,76,72,3,4
+03:35,[NYL 78-72] Jones Jump Shot: Made (8 PTS),142,108,1,,1627673,,1611661313,78,72,2,4
+03:12,[CON] Banham 3pt Shot: Missed,186,167,2,,1627671,,1611661323,78,72,0,4
+03:09,[NYL] Dojkić Rebound (Off:0 Def:3),186,167,4,,1641602,,1611661313,78,72,0,4
+03:02,[NYL] Ionescu 3pt Shot: Missed,163,172,2,,1629477,,1611661313,78,72,0,4
+03:00,[CON] Banham Rebound (Off:0 Def:1),163,172,4,,1627671,,1611661323,78,72,0,4
+02:53,[CON] Carrington Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-181,185,5,,1630096,202764,1611661323,78,72,0,4
+02:32,[NYL] Dojkić 3pt Shot: Missed,-5,235,2,,1641602,,1611661313,78,72,0,4
+02:29,[CON] Carrington Rebound (Off:2 Def:4),-5,235,4,,1630096,,1611661323,78,72,0,4
+02:20,[CON] Jones Turnover : Lost Ball (2 TO) Steal:Dojkić (1 ST),-15,198,5,1641602,1628280,,1611661323,78,72,0,4
+02:16,[NYL 80-72] Thornton Running Layup Shot: Made (7 PTS) Assist: Ionescu (5 AST),15,-1,1,,203866,1629477,1611661313,80,72,2,4
+01:56,[CON] Harris Pullup Jump shot: Missed,-74,179,2,,1630112,,1611661323,80,72,0,4
+01:53,[NYL] Ionescu Rebound (Off:1 Def:5),-74,179,4,,1629477,,1611661313,80,72,0,4
+01:35,[NYL] Jones Turnaround Fadeaway shot: Missed,-40,41,2,,1627673,,1611661313,80,72,0,4
+01:33,[CON] Bonner Rebound (Off:0 Def:8),-40,41,4,,201886,,1611661323,80,72,0,4
+01:32,[CON] Bonner Turnover : Bad Pass (2 TO) Steal:Ionescu (2 ST),44,609,5,1629477,201886,,1611661323,80,72,0,4
+01:05,[NYL] Jones Turnover : Lost Ball (2 TO) Steal:Harris (1 ST),-44,226,5,1630112,1627673,,1611661313,80,72,0,4
+00:58.5,[NYL] Thornton Foul: Shooting (3 PF) (2 FTA),-162,21,6,1627671,203866,203891,1611661313,80,72,0,4
+00:58.5,[CON 73-80] Banham Free Throw 1 of 2 (1 PTS),0,-80,3,,1627671,,1611661323,80,73,1,4
+00:58.5,[CON 74-80] Banham Free Throw 2 of 2 (2 PTS),0,-80,3,,1627671,,1611661323,80,74,1,4
+00:58.5,Timeout : Reset,0,-80,9,,1611661313,,1611661313,80,74,0,4
+00:52.4,[CON] Jones Foul: Personal Take (4 PF),-117,202,6,1629477,1628280,1627539,1611661323,80,74,0,4
+00:50.9,[CON] Bonner Foul: Personal Take (4 PF) (2 FTA),-129,91,6,1630142,201886,202764,1611661323,80,74,0,4
+00:50.9,[NYL 81-74] Fiebich Free Throw 1 of 2 (8 PTS),0,-80,3,,1630142,,1611661313,81,74,1,4
+00:50.9,[NYL 82-74] Fiebich Free Throw 2 of 2 (9 PTS),0,-80,3,,1630142,,1611661313,82,74,1,4
+00:50.9,Timeout : Regular,0,-80,9,,1611661323,,1611661323,82,74,0,4
+00:43.0,[CON] Bonner 3pt Shot: Missed,-16,268,2,,201886,,1611661323,82,74,0,4
+00:41.4,[NYL] Team Rebound,-16,268,4,,0,,1611661313,82,74,0,4
+00:41.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,82,74,0,4
+00:17.4,[NYL] Team Turnover : Shot Clock Turnover,-107,353,5,,0,202764,1611661313,82,74,0,4
+00:00.0,End Period,0,-80,13,,0,,0,82,74,0,4

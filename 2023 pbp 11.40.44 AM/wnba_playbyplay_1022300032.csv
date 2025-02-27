@@ -1,0 +1,398 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Sabally vs Jones (Burton gains possession),0,-80,10,1628280,1630149,1631007,1611661321,0,0,0,1
+09:44,[DAL] Sabally 3pt Shot: Missed,134,230,2,,1630149,,1611661321,0,0,0,1
+09:41,[CON] Jones Rebound (Off:0 Def:1),134,230,4,,1628280,,1611661323,0,0,0,1
+09:18,[CON 2-0] Jones Reverse Layup Shot: Made (2 PTS),13,17,1,,1628280,,1611661323,2,0,2,1
+09:02,[DAL] Dangerfield 3pt Shot: Missed,-88,229,2,,1630101,,1611661321,2,0,0,1
+08:59,[CON] Thomas Rebound (Off:0 Def:1),-88,229,4,,203826,,1611661323,2,0,0,1
+08:41,[CON] Hiedeman 3pt Shot: Missed,230,6,2,,1629567,,1611661323,2,0,0,1
+08:38,[DAL] Howard Rebound (Off:0 Def:1),230,6,4,,203827,,1611661321,2,0,0,1
+08:21,[DAL 3-2] Burton 3pt Shot: Made (3 PTS) Assist: Ogunbowale (1 AST),210,135,1,,1631007,1629481,1611661321,2,3,3,1
+07:58,[CON] Hiedeman Turnover : Traveling (1 TO),-211,118,5,,1629567,,1611661323,2,3,0,1
+07:40,[DAL] Howard 3pt Shot: Missed,-224,72,2,,203827,,1611661321,2,3,0,1
+07:37,[CON] Hayes Rebound (Off:0 Def:1),-224,72,4,,203026,,1611661323,2,3,0,1
+07:34,[CON 4-3] Bonner Running Layup Shot: Made (2 PTS) Assist: Hayes (1 AST),34,6,1,,201886,203026,1611661323,4,3,2,1
+07:16,[DAL] Sabally Turnover : Traveling (1 TO),-78,51,5,,1630149,,1611661321,4,3,0,1
+06:59,[CON] Hayes Driving Layup Shot: Missed,-16,29,2,,203026,,1611661323,4,3,0,1
+06:57,[DAL] Howard Rebound (Off:0 Def:2),-16,29,4,,203827,,1611661321,4,3,0,1
+06:40,[DAL 5-4] Dangerfield Reverse Layup Shot: Made (2 PTS) Assist: Burton (1 AST),26,30,1,,1630101,1631007,1611661321,4,5,2,1
+06:31,[CON 6-5] Hayes Driving Floating Jump Shot: Made (2 PTS) Assist: Hiedeman (1 AST),23,38,1,,203026,1629567,1611661323,6,5,2,1
+06:16,[DAL] Ogunbowale 3pt Shot: Missed,-156,191,2,,1629481,,1611661321,6,5,0,1
+06:12,[DAL] Burton Rebound (Off:1 Def:0),-156,191,4,,1631007,,1611661321,6,5,0,1
+06:07,[DAL] Ogunbowale Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),-180,56,5,1628280,1629481,,1611661321,6,5,0,1
+06:05,[DAL] Burton Foul: Shooting (1 PF) (2 FTA),34,70,6,203826,1631007,1629770,1611661321,6,5,0,1
+06:05,[CON 7-5] Thomas Free Throw 1 of 2 (1 PTS),0,-80,3,,203826,,1611661323,7,5,1,1
+06:05,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,7,5,0,1
+06:04,[DAL] Team Rebound,0,-80,4,,0,,1611661321,7,5,0,1
+05:51,[DAL] Howard Turnaround Jump Shot: Missed,11,101,2,,203827,,1611661321,7,5,0,1
+05:48,[CON] Thomas Rebound (Off:0 Def:2),11,101,4,,203826,,1611661323,7,5,0,1
+05:43,[CON 9-5] Thomas Driving Layup Shot: Made (3 PTS),-7,22,1,,203826,,1611661323,9,5,2,1
+05:43,[DAL] Howard Foul: Shooting (1 PF) (1 FTA),-26,15,6,203826,203827,202764,1611661321,9,5,0,1
+05:43,[CON 10-5] Thomas Free Throw 1 of 1 (4 PTS),0,-80,3,,203826,,1611661323,10,5,1,1
+05:17,[DAL] Team Turnover : Shot Clock Turnover,-152,76,5,,0,,1611661321,10,5,0,1
+04:57,[CON] Hiedeman Fadeaway Jump Shot: Missed,132,29,2,,1629567,,1611661323,10,5,0,1
+04:55,[CON] Jones Rebound (Off:1 Def:1),132,29,4,,1628280,,1611661323,10,5,0,1
+04:55,[DAL] Sabally Foul: Shooting (1 PF) (2 FTA),28,8,6,1628280,1630149,202764,1611661321,10,5,0,1
+04:55,Timeout Officials,0,-80,9,,0,,0,10,5,0,1
+04:55,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,10,5,0,1
+04:55,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,10,5,0,1
+04:55,[CON] Team Rebound,0,-80,4,,0,,1611661323,10,5,0,1
+04:55,[CON 11-5] Jones Free Throw 2 of 2 (3 PTS),0,-80,3,,1628280,,1611661323,11,5,1,1
+04:39,[DAL 8-11] Dangerfield 3pt Shot: Made (5 PTS) Assist: Sabally (1 AST),232,11,1,,1630101,1630149,1611661321,11,8,3,1
+04:19,[CON] Thomas Pullup Jump shot: Missed,66,166,2,,203826,,1611661323,11,8,0,1
+04:15,[DAL] Burton Rebound (Off:1 Def:1),66,166,4,,1631007,,1611661321,11,8,0,1
+04:10,[DAL] Howard Running Layup Shot: Missed,33,49,2,,203827,,1611661321,11,8,0,1
+04:10,[CON] Bonner Rebound (Off:0 Def:1),33,49,4,,201886,,1611661323,11,8,0,1
+04:10,[DAL] Howard Foul: Personal (2 PF),-73,818,6,201886,203827,1629770,1611661321,11,8,0,1
+04:10,[DAL] Howard Substitution replaced by Brown,0,-80,8,,203827,1629480,1611661321,11,8,0,1
+03:46,[CON 13-8] Jones Driving Layup Shot: Made (5 PTS) Assist: Thomas (1 AST),-13,18,1,,1628280,203826,1611661323,13,8,2,1
+03:30,[DAL] Ogunbowale Turnover : Step Out of Bounds Turnover (2 TO),21,41,5,,1629481,,1611661321,13,8,0,1
+03:16,[CON 16-8] Bonner 3pt Shot: Made (5 PTS) Assist: Hiedeman (2 AST),-233,8,1,,201886,1629567,1611661323,16,8,3,1
+03:16,[DAL] Sabally Foul: Shooting (2 PF) (1 FTA),-234,-5,6,201886,1630149,202764,1611661321,16,8,0,1
+03:16,[CON 17-8] Bonner Free Throw 1 of 1 (6 PTS),0,-80,3,,201886,,1611661323,17,8,1,1
+03:04,[DAL] Sabally Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-191,171,5,,1630149,,1611661321,17,8,0,1
+02:43,[CON 19-8] Bonner Turnaround Jump Shot: Made (8 PTS) Assist: Jones (1 AST),-146,2,1,,201886,1628280,1611661323,19,8,2,1
+02:26,[DAL] Burton Turnover : Bad Pass (1 TO) Steal:Jones (2 ST),-135,218,5,1628280,1631007,,1611661321,19,8,0,1
+02:20,[CON] Bonner 3pt Shot: Missed,146,212,2,,201886,,1611661323,19,8,0,1
+02:17,[DAL] Sabally Rebound (Off:0 Def:1),146,212,4,,1630149,,1611661321,19,8,0,1
+02:03,[DAL] Ogunbowale Turnover : Bad Pass (3 TO) Steal:Bonner (1 ST),120,240,5,201886,1629481,,1611661321,19,8,0,1
+01:59,[CON] Hiedeman Running Layup Shot: Missed,30,3,2,,1629567,,1611661323,19,8,0,1
+01:59,[DAL] Sabally Rebound (Off:0 Def:2),30,3,4,,1630149,,1611661321,19,8,0,1
+01:59,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,19,8,0,1
+01:59,[DAL] Brown Substitution replaced by Howard,0,-80,8,,1629480,203827,1611661321,19,8,0,1
+01:59,[DAL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661321,19,8,0,1
+01:59,[CON] Team Violation : Delay Of Game,0,-80,7,,0,,1611661323,19,8,0,1
+01:48,[DAL] Ogunbowale 3pt Shot: Missed,95,239,2,,1629481,,1611661321,19,8,0,1
+01:45,[DAL] Sabally Rebound (Off:1 Def:2),95,239,4,,1630149,,1611661321,19,8,0,1
+01:44,[DAL] Sabally Driving Layup Shot: Missed,31,36,2,,1630149,,1611661321,19,8,0,1
+01:43,[CON] Hayes Rebound (Off:0 Def:2),31,36,4,,203026,,1611661323,19,8,0,1
+01:31,[CON] Jones Jump Shot: Missed,139,-11,2,,1628280,,1611661323,19,8,0,1
+01:27,[DAL] Ogunbowale Rebound (Off:0 Def:1),139,-11,4,,1629481,,1611661321,19,8,0,1
+01:26,[CON] Bonner Foul: Personal (1 PF),-139,225,6,1631007,201886,202764,1611661323,19,8,0,1
+01:20,[DAL 10-19] Ogunbowale Pullup Jump shot: Made (2 PTS) Assist: Howard (1 AST),-179,5,1,,1629481,203827,1611661321,19,10,2,1
+00:55.1,[CON] Hiedeman Fadeaway Jump Shot: Missed,4,157,2,,1629567,,1611661323,19,10,0,1
+00:53.9,[CON] Jones Rebound (Off:2 Def:1),4,157,4,,1628280,,1611661323,19,10,0,1
+00:53.9,[CON 21-10] Jones Putback Layup Shot: Made (7 PTS),0,-5,1,,1628280,,1611661323,21,10,2,1
+00:34.5,[DAL] Howard Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),-140,35,5,203826,203827,,1611661321,21,10,0,1
+00:29.0,[CON 23-10] Jones Running Layup Shot: Made (9 PTS) Assist: Thomas (2 AST),34,12,1,,1628280,203826,1611661323,23,10,2,1
+00:19.5,[DAL] Dangerfield 3pt Shot: Missed,-7,252,2,,1630101,,1611661321,23,10,0,1
+00:14.0,[CON] Bonner Rebound (Off:0 Def:2),-7,252,4,,201886,,1611661323,23,10,0,1
+00:13.0,[CON] Bonner Turnover : Out of Bounds - Bad Pass Turnover (1 TO),73,540,5,,201886,,1611661323,23,10,0,1
+00:13.0,[DAL] Dangerfield Substitution replaced by Dickey,0,-80,8,,1630101,1631029,1611661321,23,10,0,1
+00:03.0,[DAL] Burton 3pt Shot: Missed,124,219,2,,1631007,,1611661321,23,10,0,1
+00:03.0,[DAL] Sabally Rebound (Off:2 Def:2),124,219,4,,1630149,,1611661321,23,10,0,1
+00:00.2,[DAL 12-23] Sabally Putback Layup Shot: Made (2 PTS),6,14,1,,1630149,,1611661321,23,12,2,1
+00:00.2,[CON] Hayes Foul: Shooting (1 PF) (1 FTA),10,4,6,1630149,203026,100274,1611661323,23,12,0,1
+00:00.2,Instant Replay - Support Ruling,0,-80,18,,0,,0,23,12,0,1
+00:00.2,[DAL 13-23] Sabally Free Throw 1 of 1 (3 PTS),0,-80,3,,1630149,,1611661321,23,13,1,1
+00:00.0,End Period,0,-80,13,,0,,0,23,13,0,1
+10:00,Start Period,0,-80,12,,0,,0,23,13,0,2
+09:35,[CON] Thomas Jump Shot: Missed,47,131,2,,203826,,1611661323,23,13,0,2
+09:32,[DAL] Sabally Rebound (Off:2 Def:3),47,131,4,,1630149,,1611661321,23,13,0,2
+09:29,[DAL] Howard Foul: Offensive (3 PF),57,247,6,203826,203827,100274,1611661321,23,13,0,2
+09:29,[DAL] Howard Turnover : Offensive Foul Turnover (2 TO),57,247,5,,203827,,1611661321,23,13,0,2
+09:07,[CON 25-13] Thomas Driving Layup Shot: Made (6 PTS) Assist: Allen (1 AST),49,22,1,,203826,204296,1611661323,25,13,2,2
+08:52,[DAL] Ogunbowale 3pt Shot: Missed,178,158,2,,1629481,,1611661321,25,13,0,2
+08:48,[CON] Thomas Rebound (Off:0 Def:3),178,158,4,,203826,,1611661323,25,13,0,2
+08:44,[CON] Thomas Running Layup Shot: Missed,-1,40,2,,203826,,1611661323,25,13,0,2
+08:41,[DAL] Sabally Rebound (Off:2 Def:4),-1,40,4,,1630149,,1611661321,25,13,0,2
+08:35,[DAL] Dickey Running Layup Shot: Missed,43,17,2,,1631029,,1611661321,25,13,0,2
+08:32,[CON] Allen Rebound (Off:0 Def:1),43,17,4,,204296,,1611661323,25,13,0,2
+08:28,[CON] Allen Pullup Jump shot: Missed,117,15,2,,204296,,1611661323,25,13,0,2
+08:26,[CON] Team Rebound,117,15,4,,0,,1611661323,25,13,0,2
+08:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,25,13,0,2
+08:18,[CON] Allen Turnover : Traveling (1 TO),146,85,5,,204296,,1611661323,25,13,0,2
+08:18,[CON] Hiedeman Substitution replaced by Harris,0,-80,8,,1629567,1630112,1611661323,25,13,0,2
+08:09,[DAL] Burton Pullup Jump shot: Missed,-52,110,2,,1631007,,1611661321,25,13,0,2
+08:06,[CON] Harris Rebound (Off:0 Def:1),-52,110,4,,1630112,,1611661323,25,13,0,2
+08:03,[CON 27-13] Carrington Running Layup Shot: Made (2 PTS) Assist: Harris (1 AST),36,3,1,,1630096,1630112,1611661323,27,13,2,2
+07:55,[DAL] Sabally 3pt Shot: Missed,67,234,2,,1630149,,1611661321,27,13,0,2
+07:52,[CON] Carrington Rebound (Off:0 Def:1),67,234,4,,1630096,,1611661323,27,13,0,2
+07:48,[DAL] Ogunbowale Foul: Personal (1 PF),38,168,6,1630096,1629481,100274,1611661321,27,13,0,2
+07:48,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,27,13,0,2
+07:48,[DAL] Howard Substitution replaced by Kuier,0,-80,8,,203827,1630386,1611661321,27,13,0,2
+07:38,[CON] Carrington Turnover : Bad Pass (1 TO) Steal:Ogunbowale (1 ST),11,262,5,1629481,1630096,,1611661323,27,13,0,2
+07:32,[DAL 15-27] Burton Finger Roll Layup Shot: Made (5 PTS) Assist: Ogunbowale (2 AST),-28,16,1,,1631007,1629481,1611661321,27,15,2,2
+07:16,[CON] Harris Turnover : Bad Pass (1 TO) Steal:Dickey (1 ST),84,350,5,1631029,1630112,,1611661323,27,15,0,2
+07:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,15,0,2
+07:14,[DAL] Burton Substitution replaced by Dangerfield,0,-80,8,,1631007,1630101,1611661321,27,15,0,2
+07:07,[CON] Allen Foul: Personal (1 PF),77,230,6,1630149,204296,202764,1611661323,27,15,0,2
+07:04,[DAL] Ogunbowale 3pt Shot: Missed,98,266,2,,1629481,,1611661321,27,15,0,2
+06:56,[DAL] Sabally Rebound (Off:3 Def:4),98,266,4,,1630149,,1611661321,27,15,0,2
+06:52,[DAL 17-27] Ogunbowale Step Back Jump shot: Made (4 PTS) Assist: Dangerfield (1 AST),-67,138,1,,1629481,1630101,1611661321,27,17,2,2
+06:37,[CON 29-17] Allen Driving Layup Shot: Made (2 PTS),26,13,1,,204296,,1611661323,29,17,2,2
+06:19,[DAL] Dickey Driving Floating Jump Shot: Missed,95,33,2,,1631029,,1611661321,29,17,0,2
+06:15,[CON] Thomas Rebound (Off:0 Def:4),95,33,4,,203826,,1611661323,29,17,0,2
+06:11,[CON] Carrington Running Layup Shot: Missed,32,8,2,,1630096,,1611661323,29,17,0,2
+06:10,[CON] Team Rebound,32,8,4,,0,,1611661323,29,17,0,2
+06:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,29,17,0,2
+06:10,[DAL] Dickey Substitution replaced by Siegrist,0,-80,8,,1631029,1641652,1611661321,29,17,0,2
+06:10,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,29,17,0,2
+06:02,[CON 31-17] Harris Pullup Jump shot: Made (2 PTS),8,160,1,,1630112,,1611661323,31,17,2,2
+05:41,[DAL] Sabally Jump Shot: Missed,127,17,2,,1630149,,1611661321,31,17,0,2
+05:38,[DAL] Sabally Rebound (Off:4 Def:4),127,17,4,,1630149,,1611661321,31,17,0,2
+05:38,[DAL 19-31] Sabally Putback Layup Shot: Made (5 PTS),29,9,1,,1630149,,1611661321,31,19,2,2
+05:23,[CON] Nelson-Ododa Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-6,309,5,,1631135,,1611661323,31,19,0,2
+05:23,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,31,19,0,2
+05:12,[DAL] Sabally Jump Shot: Missed,68,99,2,,1630149,,1611661321,31,19,0,2
+05:12,[DAL] Kuier Rebound (Off:1 Def:0),68,99,4,,1630386,,1611661321,31,19,0,2
+05:12,[CON] Nelson-Ododa Foul: Shooting (1 PF) (2 FTA),-29,8,6,1630386,1631135,100274,1611661323,31,19,0,2
+05:12,[DAL 20-31] Kuier Free Throw 1 of 2 (1 PTS),0,-80,3,,1630386,,1611661321,31,20,1,2
+05:12,[DAL 21-31] Kuier Free Throw 2 of 2 (2 PTS),0,-80,3,,1630386,,1611661321,31,21,1,2
+04:56,[DAL] Siegrist Foul: Personal (1 PF),18,179,6,1631135,1641652,100274,1611661321,31,21,0,2
+04:49,[CON] Harris Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-122,231,5,,1630112,,1611661323,31,21,0,2
+04:31,[DAL] Ogunbowale Fadeaway Jump Shot: Missed,-45,188,2,,1629481,,1611661321,31,21,0,2
+04:30,[DAL] Siegrist Rebound (Off:1 Def:0),-45,188,4,,1641652,,1611661321,31,21,0,2
+04:30,[CON] Allen Foul: Shooting (2 PF) (2 FTA),-18,-6,6,1641652,204296,100274,1611661323,31,21,0,2
+04:30,[DAL 22-31] Siegrist Free Throw 1 of 2 (1 PTS),0,-80,3,,1641652,,1611661321,31,22,1,2
+04:30,[CON] Allen Substitution replaced by Hayes,0,-80,8,,204296,203026,1611661323,31,22,0,2
+04:30,[CON] Nelson-Ododa Substitution replaced by Bonner,0,-80,8,,1631135,201886,1611661323,31,22,0,2
+04:30,[CON] Harris Substitution replaced by Thomas,0,-80,8,,1630112,203826,1611661323,31,22,0,2
+04:30,[DAL] Ogunbowale Substitution replaced by Burton,0,-80,8,,1629481,1631007,1611661321,31,22,0,2
+04:30,[DAL 23-31] Siegrist Free Throw 2 of 2 (2 PTS),0,-80,3,,1641652,,1611661321,31,23,1,2
+04:22,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Sabally (1 ST),-94,228,5,1630149,203826,,1611661323,31,23,0,2
+04:11,[DAL] Sabally 3pt Shot: Missed,-97,230,2,,1630149,,1611661321,31,23,0,2
+04:07,[CON] Jones Rebound (Off:2 Def:2),-97,230,4,,1628280,,1611661323,31,23,0,2
+03:54,[CON 33-23] Jones Driving Layup Shot: Made (11 PTS) Assist: Bonner (1 AST),36,13,1,,1628280,201886,1611661323,33,23,2,2
+03:43,[CON] Thomas Foul: Personal (1 PF),115,134,6,1630149,203826,202764,1611661323,33,23,0,2
+03:43,[CON] Carrington Substitution replaced by Hiedeman,0,-80,8,,1630096,1629567,1611661323,33,23,0,2
+03:38,[CON] Hiedeman Foul: Personal (1 PF) (2 FTA),-65,111,6,1630149,1629567,100274,1611661323,33,23,0,2
+03:38,[DAL 24-33] Sabally Free Throw 1 of 2 (6 PTS),0,-80,3,,1630149,,1611661321,33,24,1,2
+03:38,[DAL 25-33] Sabally Free Throw 2 of 2 (7 PTS),0,-80,3,,1630149,,1611661321,33,25,1,2
+03:32,[DAL] Kuier Foul: Shooting (1 PF) (2 FTA),-28,10,6,203826,1630386,100274,1611661321,33,25,0,2
+03:32,[CON 34-25] Thomas Free Throw 1 of 2 (7 PTS),0,-80,3,,203826,,1611661323,34,25,1,2
+03:32,[CON 35-25] Thomas Free Throw 2 of 2 (8 PTS),0,-80,3,,203826,,1611661323,35,25,1,2
+03:12,[DAL] Siegrist Fadeaway Jump Shot: Missed,107,75,2,,1641652,,1611661321,35,25,0,2
+03:10,[CON] Thomas Rebound (Off:0 Def:5),107,75,4,,203826,,1611661323,35,25,0,2
+03:00,[CON 37-25] Jones Turnaround Hook Shot: Made (13 PTS) Assist: Thomas (3 AST),2,26,1,,1628280,203826,1611661323,37,25,2,2
+02:42,[DAL 27-37] Dangerfield Pullup Jump shot: Made (7 PTS),-50,149,1,,1630101,,1611661321,37,27,2,2
+02:20,[CON] Jones Jump Shot: Missed,-60,115,2,,1628280,,1611661323,37,27,0,2
+02:18,[DAL] Kuier Rebound (Off:1 Def:1),-60,115,4,,1630386,,1611661321,37,27,0,2
+02:13,[CON] Hiedeman Foul: Personal (2 PF) (2 FTA),84,183,6,1630101,1629567,1629770,1611661323,37,27,0,2
+02:13,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,37,27,0,2
+02:13,[DAL] Kuier Substitution replaced by Brown,0,-80,8,,1630386,1629480,1611661321,37,27,0,2
+02:13,[DAL] Dangerfield Free Throw 1 of 2 Missed,0,-80,3,,1630101,,1611661321,37,27,0,2
+02:13,[DAL] Team Rebound,0,-80,4,,0,,1611661321,37,27,0,2
+02:13,[DAL 28-37] Dangerfield Free Throw 2 of 2 (8 PTS),0,-80,3,,1630101,,1611661321,37,28,1,2
+01:53,[CON] Bonner Pullup Jump shot: Missed,-121,66,2,,201886,,1611661323,37,28,0,2
+01:50,[CON] Hayes Rebound (Off:1 Def:2),-121,66,4,,203026,,1611661323,37,28,0,2
+01:50,[CON 39-28] Hayes Tip Layup Shot: Made (4 PTS),0,-5,1,,203026,,1611661323,39,28,2,2
+01:34,[DAL] Brown Turnover : 3 Second Violation (1 TO),-10,28,5,,1629480,,1611661321,39,28,0,2
+01:16,[CON] Hiedeman 3pt Shot: Missed,-182,173,2,,1629567,,1611661323,39,28,0,2
+01:15,[CON] Team Rebound,-182,173,4,,0,,1611661323,39,28,0,2
+01:15,[DAL] Brown Foul: Loose Ball (1 PF),-31,29,6,1628280,1629480,1629770,1611661321,39,28,0,2
+01:09,[CON 41-28] Hayes Driving Layup Shot: Made (6 PTS) Assist: Jones (2 AST),-24,29,1,,203026,1628280,1611661323,41,28,2,2
+00:57.9,[CON] Jones Foul: Shooting (1 PF) (2 FTA),29,15,6,1630149,1628280,1629770,1611661323,41,28,0,2
+00:57.9,[DAL 29-41] Sabally Free Throw 1 of 2 (8 PTS),0,-80,3,,1630149,,1611661321,41,29,1,2
+00:57.9,[DAL 30-41] Sabally Free Throw 2 of 2 (9 PTS),0,-80,3,,1630149,,1611661321,41,30,1,2
+00:42.8,[CON] Thomas Driving Floating Jump Shot: Missed,-4,60,2,,203826,,1611661323,41,30,0,2
+00:40.5,[DAL] Sabally Rebound (Off:4 Def:5),-4,60,4,,1630149,,1611661321,41,30,0,2
+00:30.5,[DAL] Brown Turnover : Traveling (2 TO),-16,44,5,,1629480,,1611661321,41,30,0,2
+00:30.5,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,41,30,0,2
+00:16.5,[CON 44-30] Bonner 3pt Shot: Made (11 PTS) Assist: Thomas (4 AST),-224,88,1,,201886,203826,1611661323,44,30,3,2
+00:01.4,[DAL] Siegrist Turnaround Fadeaway shot: Missed,-2,63,2,,1641652,,1611661321,44,30,0,2
+00:01.4,[CON] Bonner Rebound (Off:0 Def:3),-2,63,4,,201886,,1611661323,44,30,0,2
+00:00.0,End Period,0,-80,13,,0,,0,44,30,0,2
+10:00,Start Period,0,-80,12,,0,,0,44,30,0,3
+09:44,[CON 47-30] Bonner 3pt Shot: Made (14 PTS) Assist: Jones (3 AST),230,52,1,,201886,1628280,1611661323,47,30,3,3
+09:30,[CON] Hayes Foul: Shooting (2 PF) (2 FTA),46,23,6,1629481,203026,202764,1611661323,47,30,0,3
+09:30,[DAL 31-47] Ogunbowale Free Throw 1 of 2 (5 PTS),0,-80,3,,1629481,,1611661321,47,31,1,3
+09:30,[DAL 32-47] Ogunbowale Free Throw 2 of 2 (6 PTS),0,-80,3,,1629481,,1611661321,47,32,1,3
+09:10,[CON] Bonner Turnover : Bad Pass (2 TO) Steal:Sabally (2 ST),-105,-3,5,1630149,201886,,1611661323,47,32,0,3
+09:01,[DAL] Ogunbowale Fadeaway Jump Shot: Missed,-139,7,2,,1629481,,1611661321,47,32,0,3
+08:57,[CON] Jones Rebound (Off:2 Def:3),-139,7,4,,1628280,,1611661323,47,32,0,3
+08:49,[CON 49-32] Thomas Driving Layup Shot: Made (10 PTS),28,17,1,,203826,,1611661323,49,32,2,3
+08:35,[DAL 35-49] Howard 3pt Shot: Made (3 PTS) Assist: Burton (2 AST),-200,121,1,,203827,1631007,1611661321,49,35,3,3
+08:12,[CON 52-35] Hayes 3pt Shot: Made (9 PTS) Assist: Bonner (2 AST),-217,144,1,,203026,201886,1611661323,52,35,3,3
+07:58,[DAL 38-52] Dangerfield 3pt Shot: Made (11 PTS),-150,199,1,,1630101,,1611661321,52,38,3,3
+07:34,[CON] Jones Driving Layup Shot: Missed,-28,8,2,,1628280,,1611661323,52,38,0,3
+07:31,[DAL] Sabally Rebound (Off:4 Def:6),-28,8,4,,1630149,,1611661321,52,38,0,3
+07:27,[DAL] Howard Turnover : Traveling (3 TO),115,210,5,,203827,,1611661321,52,38,0,3
+07:13,[CON] Hiedeman Cutting Layup Shot: Missed,-40,14,2,,1629567,,1611661323,52,38,0,3
+07:11,[DAL] Howard Rebound (Off:0 Def:3),-40,14,4,,203827,,1611661321,52,38,0,3
+06:59,[CON] Hayes Foul: Personal (3 PF),-102,12,6,203827,203026,1629770,1611661323,52,38,0,3
+06:50,[DAL 40-52] Sabally Driving Finger Roll Layup Shot: Made (11 PTS),-21,12,1,,1630149,,1611661321,52,40,2,3
+06:39,[CON 54-40] Bonner Pullup Jump shot: Made (16 PTS) Assist: Thomas (5 AST),-29,135,1,,201886,203826,1611661323,54,40,2,3
+06:30,[DAL 42-54] Howard Driving Floating Jump Shot: Made (5 PTS) Assist: Burton (3 AST),8,70,1,,203827,1631007,1611661321,54,42,2,3
+06:29,Delay Technical - DAL (1 FTA),0,-80,6,,1611661321,100274,1611661321,54,42,0,3
+06:29,[CON 55-42] Hayes Free Throw Technical (10 PTS),0,-80,3,,203026,,1611661323,55,42,1,3
+06:11,[CON] Bonner Pullup Jump shot: Missed,-132,85,2,,201886,,1611661323,55,42,0,3
+06:07,[DAL] Sabally Rebound (Off:4 Def:7),-132,85,4,,1630149,,1611661321,55,42,0,3
+06:06,[DAL] Ogunbowale Foul: Offensive (2 PF),-140,214,6,203026,1629481,1629770,1611661321,55,42,0,3
+06:06,[DAL] Ogunbowale Turnover : Offensive Foul Turnover (4 TO),-140,214,5,,1629481,,1611661321,55,42,0,3
+05:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,42,0,3
+05:42,[CON] Jones 3pt Shot: Missed,-110,224,2,,1628280,,1611661323,55,42,0,3
+05:39,[CON] Thomas Rebound (Off:1 Def:5),-110,224,4,,203826,,1611661323,55,42,0,3
+05:37,[CON] Hayes Turnover : Traveling (1 TO),-190,162,5,,203026,,1611661323,55,42,0,3
+05:22,[DAL 45-55] Howard 3pt Shot: Made (8 PTS) Assist: Burton (4 AST),-202,151,1,,203827,1631007,1611661321,55,45,3,3
+05:08,[CON 57-45] Jones Cutting Layup Shot: Made (15 PTS) Assist: Hayes (2 AST),18,33,1,,1628280,203026,1611661323,57,45,2,3
+04:53,[DAL 47-57] Sabally Turnaround Hook Shot: Made (13 PTS),95,12,1,,1630149,,1611661321,57,47,2,3
+04:42,[CON 60-47] Hayes 3pt Shot: Made (13 PTS) Assist: Thomas (6 AST),224,9,1,,203026,203826,1611661323,60,47,3,3
+04:40,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,60,47,0,3
+04:29,[DAL 50-60] Sabally 3pt Shot: Made (16 PTS) Assist: Burton (5 AST),106,221,1,,1630149,1631007,1611661321,60,50,3,3
+04:13,[CON] Hayes 3pt Shot: Missed,67,242,2,,203026,,1611661323,60,50,0,3
+04:10,[DAL] Sabally Rebound (Off:4 Def:8),67,242,4,,1630149,,1611661321,60,50,0,3
+03:59,[DAL] Ogunbowale Step Back Jump shot: Missed,-127,167,2,,1629481,,1611661321,60,50,0,3
+03:55,[CON] Bonner Rebound (Off:0 Def:4),-127,167,4,,201886,,1611661323,60,50,0,3
+03:37,[CON] Jones Cutting Layup Shot: Missed,29,19,2,,1628280,,1611661323,60,50,0,3
+03:35,[DAL] Howard Rebound (Off:0 Def:4),29,19,4,,203827,,1611661321,60,50,0,3
+03:27,[DAL 52-60] Dangerfield Driving Floating Jump Shot: Made (13 PTS),-70,90,1,,1630101,,1611661321,60,52,2,3
+03:27,Stoppage: Injury,0,-80,20,,0,,0,60,52,0,3
+03:27,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,60,52,0,3
+03:27,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,60,52,0,3
+03:27,[DAL] Dangerfield Substitution replaced by Siegrist,0,-80,8,,1630101,1641652,1611661321,60,52,0,3
+03:06,[CON] Bonner 3pt Shot: Missed,21,269,2,,201886,,1611661323,60,52,0,3
+03:03,[DAL] Burton Rebound (Off:1 Def:2),21,269,4,,1631007,,1611661321,60,52,0,3
+02:54,[DAL] Howard 3pt Shot: Missed,223,50,2,,203827,,1611661321,60,52,0,3
+02:52,[CON] Team Rebound,223,50,4,,0,,1611661323,60,52,0,3
+02:52,[DAL] Burton Foul: Loose Ball (2 PF),-39,750,6,203026,1631007,100274,1611661321,60,52,0,3
+02:33,[DAL] Siegrist Foul: Personal (2 PF),-50,79,6,203826,1641652,202764,1611661321,60,52,0,3
+02:31,[DAL] Siegrist Foul: Personal (3 PF),-52,14,6,201886,1641652,202764,1611661321,60,52,0,3
+02:23,[DAL] Howard Foul: Shooting (4 PF) (2 FTA),26,15,6,201886,203827,1629770,1611661321,60,52,0,3
+02:23,[CON 61-52] Bonner Free Throw 1 of 2 (17 PTS),0,-80,3,,201886,,1611661323,61,52,1,3
+02:23,[CON] Hayes Substitution replaced by Carrington,0,-80,8,,203026,1630096,1611661323,61,52,0,3
+02:23,[CON 62-52] Bonner Free Throw 2 of 2 (18 PTS),0,-80,3,,201886,,1611661323,62,52,1,3
+02:11,[DAL] Ogunbowale Foul: Offensive (3 PF),88,153,6,201886,1629481,100274,1611661321,62,52,0,3
+02:11,[DAL] Ogunbowale Turnover : Offensive Foul Turnover (5 TO),88,153,5,,1629481,,1611661321,62,52,0,3
+02:11,[CON] Bonner Substitution replaced by Allen,0,-80,8,,201886,204296,1611661323,62,52,0,3
+01:56,[CON] Carrington Cutting Layup Shot: Missed,13,11,2,,1630096,,1611661323,62,52,0,3
+01:52,[DAL] Sabally Rebound (Off:4 Def:9),13,11,4,,1630149,,1611661321,62,52,0,3
+01:48,[DAL] Howard Turnover : Traveling (4 TO),140,164,5,,203827,,1611661321,62,52,0,3
+01:35,[CON] Allen Turnover : Traveling (2 TO),-91,268,5,,204296,,1611661323,62,52,0,3
+01:17,[DAL] Burton Turnover : Bad Pass (2 TO) Steal:Jones (3 ST),-38,264,5,1628280,1631007,,1611661321,62,52,0,3
+01:14,[CON] Hiedeman Turnover : Out of Bounds - Bad Pass Turnover (2 TO),24,465,5,,1629567,,1611661323,62,52,0,3
+01:01,[DAL] Ogunbowale Driving Floating Bank Jump Shot: Missed,-1,86,2,,1629481,,1611661321,62,52,0,3
+00:59.6,[CON] Jones Rebound (Off:2 Def:4),-1,86,4,,1628280,,1611661323,62,52,0,3
+00:43.2,[DAL] Sabally Foul: Personal (3 PF) (2 FTA),-129,64,6,203826,1630149,1629770,1611661321,62,52,0,3
+00:43.2,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,62,52,0,3
+00:43.2,[CON] Team Rebound,0,-80,4,,0,,1611661323,62,52,0,3
+00:43.2,[DAL] Howard Substitution replaced by Kuier,0,-80,8,,203827,1630386,1611661321,62,52,0,3
+00:43.2,[CON 63-52] Thomas Free Throw 2 of 2 (11 PTS),0,-80,3,,203826,,1611661323,63,52,1,3
+00:20.5,[DAL] Siegrist Fadeaway Jump Shot: Missed Block: Allen (1 BLK),101,101,2,204296,1641652,,1611661321,63,52,0,3
+00:17.0,[CON] Hiedeman Rebound (Off:0 Def:1),101,101,4,,1629567,,1611661323,63,52,0,3
+00:00.4,[CON] Hiedeman 3pt Shot: Missed,155,213,2,,1629567,,1611661323,63,52,0,3
+00:00.4,[CON] Team Rebound,155,213,4,,0,,1611661323,63,52,0,3
+00:00.0,End Period,0,-80,13,,0,,0,63,52,0,3
+10:00,Start Period,0,-80,12,,0,,0,63,52,0,4
+09:46,[DAL 55-63] Sabally 3pt Shot: Made (19 PTS) Assist: Ogunbowale (3 AST),54,250,1,,1630149,1629481,1611661321,63,55,3,4
+09:25,[DAL] Sabally Foul: Personal (4 PF),170,49,6,1628280,1630149,100274,1611661321,63,55,0,4
+09:25,[DAL] Siegrist Substitution replaced by Brown,0,-80,8,,1641652,1629480,1611661321,63,55,0,4
+09:10,[CON] Carrington Driving Layup Shot: Missed Block: Brown (1 BLK),50,32,2,1629480,1630096,,1611661323,63,55,0,4
+09:10,[CON] Team Rebound,50,32,4,,0,,1611661323,63,55,0,4
+09:10,[CON] Team Turnover : Shot Clock Turnover,34,35,5,,0,,1611661323,63,55,0,4
+09:01,[DAL] Kuier 3pt Shot: Missed,74,247,2,,1630386,,1611661321,63,55,0,4
+08:57,[CON] Hiedeman Rebound (Off:0 Def:2),74,247,4,,1629567,,1611661323,63,55,0,4
+08:50,[DAL] Ogunbowale Foul: Shooting (4 PF) (2 FTA),44,37,6,1630096,1629481,202764,1611661321,63,55,0,4
+08:50,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,63,55,0,4
+08:50,[CON] Team Rebound,0,-80,4,,0,,1611661323,63,55,0,4
+08:50,[CON 64-55] Carrington Free Throw 2 of 2 (3 PTS),0,-80,3,,1630096,,1611661323,64,55,1,4
+08:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,55,0,4
+08:25,[DAL] Ogunbowale Turnover : Lost Ball (6 TO) Steal:Nelson-Ododa (1 ST),147,222,5,1631135,1629481,,1611661321,64,55,0,4
+08:20,[CON] Carrington Running Layup Shot: Missed,17,28,2,,1630096,,1611661323,64,55,0,4
+08:18,[DAL] Burton Rebound (Off:1 Def:3),17,28,4,,1631007,,1611661321,64,55,0,4
+08:18,[CON] Carrington Foul: Personal (1 PF),-53,821,6,1630149,1630096,1629770,1611661323,64,55,0,4
+08:18,[CON] Jones Substitution replaced by Thomas,0,-80,8,,1628280,203826,1611661323,64,55,0,4
+08:00,[DAL] Burton Layup Shot: Missed,34,18,2,,1631007,,1611661321,64,55,0,4
+07:58,[CON] Thomas Rebound (Off:1 Def:6),34,18,4,,203826,,1611661323,64,55,0,4
+07:55,[CON] Allen 3pt Shot: Missed,-138,207,2,,204296,,1611661323,64,55,0,4
+07:52,[CON] Allen Rebound (Off:1 Def:1),-138,207,4,,204296,,1611661323,64,55,0,4
+07:38,[CON] Team Turnover : Shot Clock Turnover,-7,68,5,,0,,1611661323,64,55,0,4
+07:27,[DAL] Sabally Layup Shot: Missed,30,7,2,,1630149,,1611661321,64,55,0,4
+07:25,[CON] Thomas Rebound (Off:1 Def:7),30,7,4,,203826,,1611661323,64,55,0,4
+07:05,[CON] Thomas Jump Shot: Missed,9,118,2,,203826,,1611661323,64,55,0,4
+07:02,[DAL] Burton Rebound (Off:1 Def:4),9,118,4,,1631007,,1611661321,64,55,0,4
+07:00,[DAL 57-64] Ogunbowale Running Layup Shot: Made (8 PTS) Assist: Burton (6 AST),-16,11,1,,1629481,1631007,1611661321,64,57,2,4
+06:59,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,64,57,0,4
+06:59,[CON] Allen Substitution replaced by Hayes,0,-80,8,,204296,203026,1611661323,64,57,0,4
+06:59,[CON] Carrington Substitution replaced by Bonner,0,-80,8,,1630096,201886,1611661323,64,57,0,4
+06:46,[CON] Thomas Driving Layup Shot: Missed Block: Kuier (1 BLK),39,30,2,1630386,203826,,1611661323,64,57,0,4
+06:45,[CON] Team Rebound,39,30,4,,0,,1611661323,64,57,0,4
+06:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,57,0,4
+06:43,[CON] Bonner 3pt Shot: Missed,-171,192,2,,201886,,1611661323,64,57,0,4
+06:39,[DAL] Burton Rebound (Off:1 Def:5),-171,192,4,,1631007,,1611661321,64,57,0,4
+06:34,[CON] Thomas Foul: Personal (2 PF),-45,55,6,1629480,203826,202764,1611661323,64,57,0,4
+06:29,[CON] Hiedeman Foul: Personal (3 PF),101,21,6,1629480,1629567,100274,1611661323,64,57,0,4
+06:26,[DAL] Ogunbowale Layup Shot: Missed,52,1,2,,1629481,,1611661321,64,57,0,4
+06:21,[DAL] Ogunbowale Rebound (Off:1 Def:1),52,1,4,,1629481,,1611661321,64,57,0,4
+06:21,[DAL] Ogunbowale Putback Layup Shot: Missed,0,-5,2,,1629481,,1611661321,64,57,0,4
+06:17,[DAL] Brown Rebound (Off:1 Def:0),0,-5,4,,1629480,,1611661321,64,57,0,4
+06:17,[DAL] Brown Putback Layup Shot: Missed,0,-5,2,,1629480,,1611661321,64,57,0,4
+06:12,[CON] Hayes Rebound (Off:1 Def:3),0,-5,4,,203026,,1611661323,64,57,0,4
+06:09,[CON] Thomas Turnover : Traveling (2 TO),-86,-12,5,,203826,,1611661323,64,57,0,4
+05:57,[DAL] Sabally Turnover : Lost Ball (3 TO) Steal:Hayes (1 ST),96,177,5,203026,1630149,,1611661321,64,57,0,4
+05:53,[CON 66-57] Hayes Running Layup Shot: Made (15 PTS) Assist: Hiedeman (3 AST),-32,3,1,,203026,1629567,1611661323,66,57,2,4
+05:34,[CON] Hayes Foul: Shooting (4 PF) (2 FTA),-29,66,6,1631007,203026,1629770,1611661323,66,57,0,4
+05:34,[DAL 58-66] Burton Free Throw 1 of 2 (6 PTS),0,-80,3,,1631007,,1611661321,66,58,1,4
+05:34,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,66,58,0,4
+05:34,[DAL 59-66] Burton Free Throw 2 of 2 (7 PTS),0,-80,3,,1631007,,1611661321,66,59,1,4
+05:24,[CON] Bonner 3pt Shot: Missed,-199,150,2,,201886,,1611661323,66,59,0,4
+05:23,[CON] Thomas Rebound (Off:2 Def:7),-199,150,4,,203826,,1611661323,66,59,0,4
+05:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,59,0,4
+05:16,[CON] Bonner Turnover : Lost Ball (3 TO) Steal:Sabally (3 ST),-67,145,5,1630149,201886,,1611661323,66,59,0,4
+05:00,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,8,160,2,,1629481,,1611661321,66,59,0,4
+04:56,[CON] Hayes Rebound (Off:1 Def:4),8,160,4,,203026,,1611661323,66,59,0,4
+04:53,[CON 68-59] Bonner Running Layup Shot: Made (20 PTS) Assist: Hayes (3 AST),9,11,1,,201886,203026,1611661323,68,59,2,4
+04:35,[CON] Jones Foul: Shooting (2 PF) (2 FTA),-39,16,6,1630149,1628280,100274,1611661323,68,59,0,4
+04:35,[DAL] Sabally Free Throw 1 of 2 Missed,0,-80,3,,1630149,,1611661321,68,59,0,4
+04:35,[DAL] Team Rebound,0,-80,4,,0,,1611661321,68,59,0,4
+04:35,[DAL 60-68] Sabally Free Throw 2 of 2 (20 PTS),0,-80,3,,1630149,,1611661321,68,60,1,4
+04:24,[CON] Hiedeman Turnover : Out of Bounds Lost Ball Turnover (3 TO),104,246,5,,1629567,,1611661323,68,60,0,4
+04:08,[DAL] Brown Driving Layup Shot: Missed,-32,33,2,,1629480,,1611661321,68,60,0,4
+04:05,[CON] Thomas Rebound (Off:2 Def:8),-32,33,4,,203826,,1611661323,68,60,0,4
+03:59,[CON] Hiedeman 3pt Shot: Missed,224,74,2,,1629567,,1611661323,68,60,0,4
+03:54,[DAL] Kuier Rebound (Off:1 Def:2),224,74,4,,1630386,,1611661321,68,60,0,4
+03:44,[DAL] Brown Substitution replaced by Howard,0,-80,8,,1629480,203827,1611661321,68,60,0,4
+03:44,[CON] Jones Violation:Jump Ball,0,-80,7,,1628280,,1611661323,68,60,0,4
+03:34,[DAL] Ogunbowale Fadeaway Bank shot: Missed,43,23,2,,1629481,,1611661321,68,60,0,4
+03:34,[CON] Team Rebound,43,23,4,,0,,1611661323,68,60,0,4
+03:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,60,0,4
+03:12,[DAL] Howard Foul: Shooting (5 PF) (2 FTA),35,57,6,203826,203827,100274,1611661321,68,60,0,4
+03:12,[CON 69-60] Thomas Free Throw 1 of 2 (12 PTS),0,-80,3,,203826,,1611661323,69,60,1,4
+03:12,[CON 70-60] Thomas Free Throw 2 of 2 (13 PTS),0,-80,3,,203826,,1611661323,70,60,1,4
+02:55,[DAL 63-70] Howard 3pt Shot: Made (11 PTS) Assist: Burton (7 AST),190,184,1,,203827,1631007,1611661321,70,63,3,4
+02:31,[CON 72-63] Jones Layup Shot: Made (17 PTS) Assist: Bonner (3 AST),28,33,1,,1628280,201886,1611661323,72,63,2,4
+02:17,[DAL 65-72] Sabally Pullup Jump shot: Made (22 PTS) Assist: Howard (2 AST),-5,184,1,,1630149,203827,1611661321,72,65,2,4
+02:00,[CON 74-65] Jones Jump Shot: Made (19 PTS) Assist: Hayes (4 AST),-147,35,1,,1628280,203026,1611661323,74,65,2,4
+01:42,[DAL] Kuier 3pt Shot: Missed,-233,51,2,,1630386,,1611661321,74,65,0,4
+01:39,[DAL] Ogunbowale Rebound (Off:2 Def:1),-233,51,4,,1629481,,1611661321,74,65,0,4
+01:36,[DAL] Ogunbowale 3pt Shot: Missed,175,205,2,,1629481,,1611661321,74,65,0,4
+01:32,[CON] Jones Rebound (Off:2 Def:5),175,205,4,,1628280,,1611661323,74,65,0,4
+01:13,[CON] Jones Layup Shot: Missed,-18,28,2,,1628280,,1611661323,74,65,0,4
+01:10,[DAL] Howard Rebound (Off:0 Def:5),-18,28,4,,203827,,1611661321,74,65,0,4
+01:06,[DAL 67-74] Kuier Running Layup Shot: Made (4 PTS) Assist: Ogunbowale (4 AST),27,10,1,,1630386,1629481,1611661321,74,67,2,4
+01:00,[DAL] Ogunbowale Foul: Personal (5 PF),183,182,6,203026,1629481,202764,1611661321,74,67,0,4
+01:00,Timeout Officials,0,-80,9,,0,,0,74,67,0,4
+00:57.6,[CON] Bonner Turnover : Bad Pass (4 TO) Steal:Burton (1 ST),87,282,5,1631007,201886,,1611661323,74,67,0,4
+00:52.1,[DAL] Howard 3pt Shot: Missed,164,198,2,,203827,,1611661321,74,67,0,4
+00:48.9,[DAL] Sabally Rebound (Off:5 Def:9),164,198,4,,1630149,,1611661321,74,67,0,4
+00:48.2,[DAL] Sabally Putback Layup Shot: Missed,-9,13,2,,1630149,,1611661321,74,67,0,4
+00:46.3,[CON] Jones Rebound (Off:2 Def:6),-9,13,4,,1628280,,1611661323,74,67,0,4
+00:46.3,[DAL] Howard Foul: Personal (6 PF) (2 FTA),24,772,6,1628280,203827,202764,1611661321,74,67,0,4
+00:46.3,[DAL] Howard Substitution replaced by Dickey,0,-80,8,,203827,1631029,1611661321,74,67,0,4
+00:46.3,[CON 75-67] Jones Free Throw 1 of 2 (20 PTS),0,-80,3,,1628280,,1611661323,75,67,1,4
+00:46.3,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,75,67,0,4
+00:46.3,[CON 76-67] Jones Free Throw 2 of 2 (21 PTS),0,-80,3,,1628280,,1611661323,76,67,1,4
+00:36.5,[CON] Jones Foul: Personal (3 PF) (2 FTA),121,107,6,1630149,1628280,100274,1611661323,76,67,0,4
+00:36.5,[DAL 68-76] Sabally Free Throw 1 of 2 (23 PTS),0,-80,3,,1630149,,1611661321,76,68,1,4
+00:36.5,[CON] Carrington Substitution replaced by Bonner,0,-80,8,,1630096,201886,1611661323,76,68,0,4
+00:36.5,[DAL 69-76] Sabally Free Throw 2 of 2 (24 PTS),0,-80,3,,1630149,,1611661321,76,69,1,4
+00:32.4,[DAL] Sabally Foul: Personal (5 PF) (2 FTA),-101,765,6,201886,1630149,202764,1611661321,76,69,0,4
+00:32.4,[CON 77-69] Bonner Free Throw 1 of 2 (21 PTS),0,-80,3,,201886,,1611661323,77,69,1,4
+00:32.4,[CON 78-69] Bonner Free Throw 2 of 2 (22 PTS),0,-80,3,,201886,,1611661323,78,69,1,4
+00:25.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,78,69,0,4
+00:16.6,[DAL 72-78] Burton 3pt Shot: Made (10 PTS) Assist: Ogunbowale (5 AST),-183,179,1,,1631007,1629481,1611661321,78,72,3,4
+00:15.3,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,78,72,0,4
+00:15.3,[CON] Hayes Foul: Offensive (5 PF),-4,268,6,1631007,203026,202764,1611661323,78,72,0,4
+00:15.3,[CON] Hayes Turnover : Offensive Foul Turnover (2 TO),-4,268,5,,203026,,1611661323,78,72,0,4
+00:09.1,[DAL 74-78] Sabally Driving Finger Roll Layup Shot: Made (26 PTS) Assist: Ogunbowale (6 AST),5,48,1,,1630149,1629481,1611661321,78,74,2,4
+00:09.1,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,78,74,0,4
+00:08.1,[DAL] Ogunbowale Foul: Personal Take (6 PF) (2 FTA),99,300,6,203026,1629481,100274,1611661321,78,74,0,4
+00:08.1,[DAL] Ogunbowale Substitution replaced by Siegrist,0,-80,8,,1629481,1641652,1611661321,78,74,0,4
+00:08.1,[CON 79-74] Hayes Free Throw 1 of 2 (16 PTS),0,-80,3,,203026,,1611661323,79,74,1,4
+00:08.1,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,79,74,0,4
+00:08.1,[CON 80-74] Hayes Free Throw 2 of 2 (17 PTS),0,-80,3,,203026,,1611661323,80,74,1,4
+00:08.1,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,80,74,0,4
+00:05.6,[DAL] Sabally 3pt Shot: Missed,-9,307,2,,1630149,,1611661321,80,74,0,4
+00:02.0,[CON] Hayes Rebound (Off:1 Def:5),-9,307,4,,203026,,1611661323,80,74,0,4
+00:00.0,End Period,0,-80,13,,0,,0,80,74,0,4

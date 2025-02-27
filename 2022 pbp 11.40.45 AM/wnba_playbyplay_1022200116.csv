@@ -1,0 +1,364 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Jones vs Meesseman (Thomas gains possession),0,-80,10,203416,1627673,203826,1611661323,0,0,1
+09:54,[CON 2-0] Thomas Driving Layup Shot: Made (2 PTS),6,15,1,,203826,,1611661323,0,2,1
+09:38,[CHI 3-2] Parker 3pt Shot: Made (3 PTS) Assist: Vandersloot (1 AST),15,245,1,,201496,202664,1611661329,3,2,1
+09:12,[CON 4-3] Jones Turnaround Jump Shot: Made (2 PTS),-112,39,1,,1627673,,1611661323,3,4,1
+08:50,Jump Ball Jones vs Meesseman (Hiedeman gains possession),0,-80,10,203416,1627673,1629567,1611661323,3,4,1
+08:50,[CHI] Vandersloot Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),24,39,5,1627673,202664,,1611661329,3,4,1
+08:33,[CON] Bonner Pullup Jump shot: Missed,175,-11,2,,201886,,1611661323,3,4,1
+08:31,[CHI] Parker Rebound (Off:0 Def:1),175,-11,4,,201496,,1611661329,3,4,1
+08:25,[CHI 6-4] Parker 3pt Shot: Made (6 PTS),-108,207,1,,201496,,1611661329,6,4,1
+07:58,[CON] Thomas Floating Jump shot: Missed,5,157,2,,203826,,1611661323,6,4,1
+07:55,[CHI] Parker Rebound (Off:0 Def:2),5,157,4,,201496,,1611661329,6,4,1
+07:42,[CON] Jones Foul: Shooting (1 PF) (2 FTA),-7,16,6,1627674,1627673,,1611661323,6,4,1
+07:42,[CHI 7-4] Copper Free Throw 1 of 2 (1 PTS),0,-80,3,,1627674,,1611661329,7,4,1
+07:42,[CHI 8-4] Copper Free Throw 2 of 2 (2 PTS),0,-80,3,,1627674,,1611661329,8,4,1
+07:26,[CON 6-8] Hiedeman Pullup Jump shot: Made (2 PTS) Assist: Thomas (1 AST),-6,124,1,,1629567,203826,1611661323,8,6,1
+07:05,[CHI] Copper 3pt Shot: Missed,-22,244,2,,1627674,,1611661329,8,6,1
+07:02,[CON] Thomas Rebound (Off:0 Def:1),-22,244,4,,203826,,1611661323,8,6,1
+06:55,[CON] Thomas Running Layup Shot: Missed,-6,12,2,,203826,,1611661323,8,6,1
+06:52,[CON] Jones Rebound (Off:1 Def:0),-6,12,4,,1627673,,1611661323,8,6,1
+06:52,[CON 8-8] Jones Putback Layup Shot: Made (4 PTS),0,-5,1,,1627673,,1611661323,8,8,1
+06:38,[CHI 10-8] Vandersloot Cutting Layup Shot: Made (2 PTS) Assist: Copper (1 AST),13,10,1,,202664,1627674,1611661329,10,8,1
+06:29,[CHI] Copper Foul: Personal (1 PF),-154,120,6,203826,1627674,,1611661329,10,8,1
+06:17,[CON 11-10] Bonner 3pt Shot: Made (3 PTS) Assist: Hiedeman (1 AST),-223,6,1,,201886,1629567,1611661323,10,11,1
+05:48,[CHI 12-11] Parker Turnaround Fadeaway shot: Made (8 PTS) Assist: Vandersloot (2 AST),-44,37,1,,201496,202664,1611661329,12,11,1
+05:38,[CON] Jones 3pt Shot: Missed,-145,209,2,,1627673,,1611661323,12,11,1
+05:35,[CHI] Parker Rebound (Off:0 Def:3),-145,209,4,,201496,,1611661329,12,11,1
+05:28,[CHI] Quigley 3pt Shot: Missed,-129,188,2,,201516,,1611661329,12,11,1
+05:25,[CON] Jones Rebound (Off:1 Def:1),-129,188,4,,1627673,,1611661323,12,11,1
+05:23,[CHI] Parker Foul: Shooting (1 PF) (2 FTA),-28,42,6,203826,201496,,1611661329,12,11,1
+05:23,[CON 12-12] Thomas Free Throw 1 of 2 (3 PTS),0,-80,3,,203826,,1611661323,12,12,1
+05:23,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,12,12,1
+05:21,[CHI] Parker Rebound (Off:0 Def:4),0,-80,4,,201496,,1611661329,12,12,1
+05:07,[CHI] Parker Driving Hook Shot: Missed,-17,54,2,,201496,,1611661329,12,12,1
+05:05,[CON] Williams Rebound (Off:0 Def:1),-17,54,4,,1627675,,1611661323,12,12,1
+05:00,[CON] Williams Running Pull-Up Jump Shot: Missed,-17,58,2,201496,1627675,,1611661323,12,12,1
+04:57,[CHI] Copper Rebound (Off:0 Def:1),-17,58,4,,1627674,,1611661329,12,12,1
+04:54,[CHI 14-12] Vandersloot Running Layup Shot: Made (4 PTS) Assist: Copper (2 AST),0,0,1,,202664,1627674,1611661329,14,12,1
+04:37,[CON] Williams Pullup Jump shot: Missed,-83,194,2,,1627675,,1611661323,14,12,1
+04:32,[CHI] Quigley Rebound (Off:0 Def:1),-83,194,4,,201516,,1611661329,14,12,1
+04:25,[CHI 16-12] Quigley Pullup Jump shot: Made (2 PTS),6,73,1,,201516,,1611661329,16,12,1
+03:57,[CON] Thomas Cutting Layup Shot: Missed,-18,8,2,,203826,,1611661323,16,12,1
+03:56,[CON] Williams Rebound (Off:1 Def:1),-18,8,4,,1627675,,1611661323,16,12,1
+03:55,[CON] Hiedeman 3pt Shot: Missed,-163,187,2,,1629567,,1611661323,16,12,1
+03:51,[CHI] Copper Rebound (Off:0 Def:2),-163,187,4,,1627674,,1611661329,16,12,1
+03:32,[CHI] Vandersloot Turnover : Bad Pass (2 TO) Steal:Jones (2 ST),61,194,5,1627673,202664,,1611661329,16,12,1
+03:25,[CON] Williams 3pt Shot: Missed,225,-22,2,,1627675,,1611661323,16,12,1
+03:22,[CHI] Copper Rebound (Off:0 Def:3),225,-22,4,,1627674,,1611661329,16,12,1
+03:13,[CHI 19-12] Parker 3pt Shot: Made (11 PTS) Assist: Meesseman (1 AST),-30,236,1,,201496,203416,1611661329,19,12,1
+03:13,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,19,12,1
+03:13,[CHI] Copper Substitution replaced by Allemand,0,-80,8,,1627674,1627700,1611661329,19,12,1
+03:13,[CHI] Meesseman Substitution replaced by Stevens,0,-80,8,,203416,1628922,1611661329,19,12,1
+03:13,[CHI] Vandersloot Substitution replaced by Gardner,0,-80,8,,202664,203822,1611661329,19,12,1
+03:13,[CON] Jones Substitution replaced by Carrington,0,-80,8,,1627673,1630096,1611661323,19,12,1
+03:13,[CON] Williams Substitution replaced by Clouden,0,-80,8,,1627675,1631002,1611661323,19,12,1
+03:13,[CON] Hiedeman Substitution replaced by Jones,0,-80,8,,1629567,1628280,1611661323,19,12,1
+02:57,[CON] Carrington 3pt Shot: Missed,-189,163,2,,1630096,,1611661323,19,12,1
+02:52,[CHI] Allemand Rebound (Off:0 Def:1),-189,163,4,,1627700,,1611661329,19,12,1
+02:34,[CHI 22-12] Stevens 3pt Shot: Made (3 PTS) Assist: Parker (1 AST),-224,-24,1,,1628922,201496,1611661329,22,12,1
+02:09,[CON 14-22] Thomas Driving Reverse Layup Shot: Made (5 PTS) Assist: Clouden (1 AST),21,5,1,,203826,1631002,1611661323,22,14,1
+01:56,[CHI] Parker Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-43,26,5,,201496,,1611661329,22,14,1
+01:45,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),6,76,5,,203826,,1611661323,22,14,1
+01:30,[CHI 24-14] Quigley Driving Floating Jump Shot: Made (4 PTS),1,85,1,,201516,,1611661329,24,14,1
+01:16,[CON] Bonner Turnaround Jump Shot: Missed,-137,15,2,,201886,,1611661323,24,14,1
+01:15,[CHI] Parker Rebound (Off:0 Def:5),-137,15,4,,201496,,1611661329,24,14,1
+01:09,[CHI 26-14] Parker Driving Layup Shot: Made (13 PTS) Assist: Quigley (1 AST),5,-1,1,,201496,201516,1611661329,26,14,1
+01:09,[CON] Bonner Foul: Shooting (1 PF) (1 FTA),5,-1,6,201496,201886,,1611661323,26,14,1
+01:09,[CON] Bonner Substitution replaced by Williams,0,-80,8,,201886,1627675,1611661323,26,14,1
+01:09,[CHI 27-14] Parker Free Throw 1 of 1 (14 PTS),0,-80,3,,201496,,1611661329,27,14,1
+00:58.1,[CON] Williams Pullup Jump shot: Missed,-18,139,2,,1627675,,1611661323,27,14,1
+00:55.5,[CON] Thomas Rebound (Off:1 Def:1),-18,139,4,,203826,,1611661323,27,14,1
+00:53.2,[CON] Carrington 3pt Shot: Missed,228,-28,2,,1630096,,1611661323,27,14,1
+00:48.1,[CHI] Quigley Rebound (Off:0 Def:2),228,-28,4,,201516,,1611661329,27,14,1
+00:35.9,[CHI 29-14] Gardner Cutting Layup Shot: Made (2 PTS) Assist: Stevens (1 AST),-19,-2,1,,203822,1628922,1611661329,29,14,1
+00:13.7,[CON] Clouden 3pt Shot: Missed,127,206,2,,1631002,,1611661323,29,14,1
+00:11.9,[CON] Jones Rebound (Off:1 Def:0),127,206,4,,1628280,,1611661323,29,14,1
+00:11.7,[CHI] Parker Foul: Shooting (2 PF) (2 FTA),11,-4,6,1628280,201496,,1611661329,29,14,1
+00:11.7,[CON 15-29] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1628280,,1611661323,29,15,1
+00:11.7,[CHI] Parker Substitution replaced by Evans,0,-80,8,,201496,1630389,1611661329,29,15,1
+00:11.7,[CHI] Quigley Substitution replaced by Meesseman,0,-80,8,,201516,203416,1611661329,29,15,1
+00:11.7,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1627673,1611661323,29,15,1
+00:11.7,[CON 16-29] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1628280,,1611661323,29,16,1
+00:00.8,[CHI 31-16] Allemand Pullup Jump shot: Made (2 PTS),-44,177,1,,1627700,,1611661329,31,16,1
+00:00.8,[CON] Clouden Foul: Shooting (1 PF) (1 FTA),-44,177,6,1627700,1631002,,1611661323,31,16,1
+00:00.8,[CHI 32-16] Allemand Free Throw 1 of 1 (3 PTS),0,-80,3,,1627700,,1611661329,32,16,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,32,16,1
+00:00.0,End Period,0,-80,13,,0,,0,32,16,1
+10:00,Start Period,0,-80,12,,0,,0,32,16,2
+09:39,[CHI] Allemand Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),96,156,5,1628280,1627700,,1611661329,32,16,2
+09:34,[CON 18-32] Jones Running Layup Shot: Made (4 PTS),6,2,1,,1628280,,1611661323,32,18,2
+09:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,18,2
+09:08,[CHI] Team Turnover : Shot Clock Turnover,-82,42,5,,0,,1611661329,32,18,2
+08:51,[CON] Carrington Cutting Layup Shot: Missed,11,2,2,,1630096,,1611661323,32,18,2
+08:47,[CHI] Team Rebound,11,2,4,,0,,1611661329,32,18,2
+08:47,Jump Ball Meesseman vs Jones (Evans gains possession),0,-80,10,1628280,203416,1630389,1611661329,32,18,2
+08:28,[CHI 34-18] Stevens Cutting Layup Shot: Made (5 PTS) Assist: Evans (1 AST),21,10,1,,1628922,1630389,1611661329,34,18,2
+08:06,[CON] Jones Turnaround Jump Shot: Missed,-120,45,2,,1627673,,1611661323,34,18,2
+08:04,[CHI] Stevens Rebound (Off:0 Def:1),-120,45,4,,1628922,,1611661329,34,18,2
+07:54,[CHI 36-18] Stevens Driving Layup Shot: Made (7 PTS) Assist: Allemand (1 AST),5,-8,1,,1628922,1627700,1611661329,36,18,2
+07:41,[CHI] Meesseman Foul: Personal (1 PF),-50,42,6,1627673,203416,,1611661329,36,18,2
+07:41,[CON] Carrington Substitution replaced by Bonner,0,-80,8,,1630096,201886,1611661323,36,18,2
+07:32,[CON] Hiedeman Pullup Jump shot: Missed,115,148,2,,1629567,,1611661323,36,18,2
+07:30,[CHI] Stevens Rebound (Off:0 Def:2),115,148,4,,1628922,,1611661329,36,18,2
+07:22,[CHI 39-18] Stevens 3pt Shot: Made (10 PTS) Assist: Evans (2 AST),143,205,1,,1628922,1630389,1611661329,39,18,2
+07:02,[CON 20-39] Jones Driving Layup Shot: Made (6 PTS) Assist: Hiedeman (2 AST),-12,-1,1,,1628280,1629567,1611661323,39,20,2
+06:48,[CHI 41-20] Evans Driving Floating Jump Shot: Made (2 PTS) Assist: Allemand (2 AST),-4,26,1,,1630389,1627700,1611661329,41,20,2
+06:27,[CON] Jones Driving Hook Shot: Missed,51,15,2,,1628280,,1611661323,41,20,2
+06:24,[CON] Jones Rebound (Off:2 Def:1),51,15,4,,1627673,,1611661323,41,20,2
+06:24,[CON 22-41] Jones Putback Layup Shot: Made (6 PTS),0,-5,1,,1627673,,1611661323,41,22,2
+06:15,[CHI] Evans Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),40,54,5,1627675,1630389,,1611661329,41,22,2
+06:01,[CON] Williams Pullup Jump shot: Missed,15,76,2,,1627675,,1611661323,41,22,2
+05:59,[CHI] Stevens Rebound (Off:0 Def:3),15,76,4,,1628922,,1611661329,41,22,2
+05:43,[CON] Bonner Foul: Personal (2 PF),-15,57,6,1630389,201886,,1611661323,41,22,2
+05:43,Timeout Officials,0,-80,9,,0,,0,41,22,2
+05:43,[CHI] Evans Substitution replaced by Vandersloot,0,-80,8,,1630389,202664,1611661329,41,22,2
+05:43,[CHI] Allemand Substitution replaced by Parker,0,-80,8,,1627700,201496,1611661329,41,22,2
+05:43,[CHI] Stevens Substitution replaced by Quigley,0,-80,8,,1628922,201516,1611661329,41,22,2
+05:43,[CHI] Gardner Substitution replaced by Copper,0,-80,8,,203822,1627674,1611661329,41,22,2
+05:43,[CON] Williams Substitution replaced by Thomas,0,-80,8,,1627675,203826,1611661323,41,22,2
+05:29,[CHI] Team Turnover : Shot Clock Turnover,-83,26,5,,0,,1611661329,41,22,2
+05:13,[CON] Jones Pullup Jump shot: Missed,141,125,2,,1627673,,1611661323,41,22,2
+05:10,[CON] Jones Rebound (Off:2 Def:0),141,125,4,,1628280,,1611661323,41,22,2
+05:10,[CHI] Meesseman Foul: Shooting (2 PF) (2 FTA),10,43,6,1628280,203416,,1611661329,41,22,2
+05:10,[CON 23-41] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1628280,,1611661323,41,23,2
+05:10,[CON 24-41] Jones Free Throw 2 of 2 (8 PTS),0,-80,3,,1628280,,1611661323,41,24,2
+04:56,[CHI] Meesseman Jump Shot: Missed,-43,92,2,,203416,,1611661329,41,24,2
+04:54,[CON] Bonner Rebound (Off:0 Def:1),-43,92,4,,201886,,1611661323,41,24,2
+04:40,[CON] Thomas Driving Layup Shot: Missed,6,16,2,,203826,,1611661323,41,24,2
+04:38,[CON] Hiedeman Rebound (Off:1 Def:0),6,16,4,,1629567,,1611661323,41,24,2
+04:35,[CON] Thomas Layup Shot: Missed,-1,19,2,,203826,,1611661323,41,24,2
+04:35,[CHI] Vandersloot Rebound (Off:0 Def:1),-1,19,4,,202664,,1611661329,41,24,2
+04:30,[CHI 44-24] Quigley 3pt Shot: Made (7 PTS) Assist: Vandersloot (3 AST),144,205,1,,201516,202664,1611661329,44,24,2
+04:18,[CON 27-44] Jones 3pt Shot: Made (9 PTS) Assist: Hiedeman (3 AST),79,227,1,,1627673,1629567,1611661323,44,27,2
+03:59,[CHI 47-27] Copper 3pt Shot: Made (5 PTS) Assist: Vandersloot (4 AST),-224,-15,1,,1627674,202664,1611661329,47,27,2
+03:41,[CON 29-47] Bonner Cutting Layup Shot: Made (5 PTS) Assist: Hiedeman (4 AST),-10,5,1,,201886,1629567,1611661323,47,29,2
+03:25,[CHI] Copper Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),-111,203,5,201886,1627674,,1611661329,47,29,2
+03:25,[CHI] Vandersloot Foul: Personal (1 PF),205,781,6,201886,202664,,1611661329,47,29,2
+03:25,[CHI] Meesseman Substitution replaced by Yueru,0,-80,8,,203416,1629574,1611661329,47,29,2
+03:09,[CHI] Copper Foul: Shooting (2 PF) (2 FTA),10,17,6,203826,1627674,,1611661329,47,29,2
+03:09,[CON 30-47] Thomas Free Throw 1 of 2 (6 PTS),0,-80,3,,203826,,1611661323,47,30,2
+03:09,[CON 31-47] Thomas Free Throw 2 of 2 (7 PTS),0,-80,3,,203826,,1611661323,47,31,2
+02:52,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,47,31,2
+02:49,Jump Ball Jones vs Yueru (Jones gains possession),0,-80,10,1629574,1627673,1628280,1611661323,47,31,2
+02:49,[CHI] Vandersloot Turnover : Bad Pass (3 TO) Steal:Jones (3 ST),-18,64,5,1627673,202664,,1611661329,47,31,2
+02:32,[CON] Jones Driving Layup Shot: Missed,-34,11,2,201496,1627673,,1611661323,47,31,2
+02:29,[CHI] Parker Rebound (Off:0 Def:6),-34,11,4,,201496,,1611661329,47,31,2
+02:22,[CHI 49-31] Copper Pullup Jump shot: Made (7 PTS) Assist: Parker (2 AST),134,9,1,,1627674,201496,1611661329,49,31,2
+02:08,[CON] Jones 3pt Shot: Missed,-112,217,2,,1627673,,1611661323,49,31,2
+02:05,[CHI] Yueru Rebound (Off:0 Def:1),-112,217,4,,1629574,,1611661329,49,31,2
+02:03,[CHI] Copper Turnover : Out of Bounds Lost Ball Turnover (2 TO),-22,8,5,,1627674,,1611661329,49,31,2
+01:48,[CON] Bonner Jump Shot: Missed,-106,142,2,,201886,,1611661323,49,31,2
+01:45,[CON] Jones Rebound (Off:3 Def:1),-106,142,4,,1627673,,1611661323,49,31,2
+01:43,[CON 33-49] Jones Layup Shot: Made (11 PTS) Assist: Thomas (2 AST),11,3,1,,1627673,203826,1611661323,49,33,2
+01:22,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),39,38,6,201496,203826,,1611661323,49,33,2
+01:22,[CHI 50-33] Parker Free Throw 1 of 2 (15 PTS),0,-80,3,,201496,,1611661329,50,33,2
+01:22,[CHI 51-33] Parker Free Throw 2 of 2 (16 PTS),0,-80,3,,201496,,1611661329,51,33,2
+01:06,[CON] Jones 3pt Shot: Missed,77,226,2,,1627673,,1611661323,51,33,2
+01:05,[CHI] Yueru Rebound (Off:0 Def:2),77,226,4,,1629574,,1611661329,51,33,2
+01:02,[CHI] Copper Turnover : Out of Bounds Lost Ball Turnover (3 TO),-35,-13,5,,1627674,,1611661329,51,33,2
+00:38.4,[CON] Jones Layup Shot: Missed,-18,12,2,,1628280,,1611661323,51,33,2
+00:36.6,[CHI] Parker Rebound (Off:0 Def:7),-18,12,4,,201496,,1611661329,51,33,2
+00:33.5,[CHI 53-33] Copper Running Layup Shot: Made (9 PTS) Assist: Parker (3 AST),-18,-2,1,,1627674,201496,1611661329,53,33,2
+00:25.5,[CON] Hiedeman Turnover : Bad Pass (1 TO) Steal:Vandersloot (1 ST),-106,356,5,202664,1629567,,1611661323,53,33,2
+00:21.2,[CON] Jones Foul: Shooting (1 PF) (2 FTA),-32,15,6,202664,1628280,,1611661323,53,33,2
+00:21.2,[CHI 54-33] Vandersloot Free Throw 1 of 2 (5 PTS),0,-80,3,,202664,,1611661329,54,33,2
+00:21.2,[CHI 55-33] Vandersloot Free Throw 2 of 2 (6 PTS),0,-80,3,,202664,,1611661329,55,33,2
+00:02.6,[CON] Jones Pullup Jump shot: Missed,51,102,2,,1627673,,1611661323,55,33,2
+00:02.0,[CON] Jones Rebound (Off:4 Def:1),51,102,4,,1627673,,1611661323,55,33,2
+00:01.6,[CON] Jones Putback Layup Shot: Missed,28,0,2,202664,1627673,,1611661323,55,33,2
+00:01.0,[CHI] Quigley Rebound (Off:0 Def:3),28,0,4,,201516,,1611661329,55,33,2
+00:00.0,End Period,0,-80,13,,0,,0,55,33,2
+10:00,Start Period,0,-80,12,,0,,0,55,33,3
+09:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,33,3
+09:36,[CHI] Parker Turnaround Jump Shot: Missed,-101,130,2,,201496,,1611661329,55,33,3
+09:34,[CON] Bonner Rebound (Off:0 Def:2),-101,130,4,,201886,,1611661323,55,33,3
+09:19,[CON 35-55] Thomas Layup Shot: Made (9 PTS) Assist: Hiedeman (5 AST),10,11,1,,203826,1629567,1611661323,55,35,3
+09:11,[CHI] Quigley Turnover : Lost Ball (1 TO) Steal:Thomas (1 ST),225,54,5,203826,201516,,1611661329,55,35,3
+09:03,[CON] Jones Turnover : Bad Pass (1 TO) Steal:Quigley (1 ST),106,209,5,201516,1627673,,1611661323,55,35,3
+08:56,[CHI] Meesseman Cutting Layup Shot: Missed,19,-4,2,,203416,,1611661329,55,35,3
+08:55,[CON] Williams Rebound (Off:1 Def:2),19,-4,4,,1627675,,1611661323,55,35,3
+08:51,[CHI] Quigley Foul: Personal (1 PF),-133,124,6,1627673,201516,,1611661329,55,35,3
+08:40,[CON] Thomas Jump Shot: Missed,0,148,2,,203826,,1611661323,55,35,3
+08:38,[CHI] Copper Rebound (Off:0 Def:4),0,148,4,,1627674,,1611661329,55,35,3
+08:25,[CON] Thomas Foul: Personal (2 PF),-38,193,6,201496,203826,,1611661323,55,35,3
+08:14,[CHI] Meesseman Turnaround Jump Shot: Missed,-78,21,2,,203416,,1611661329,55,35,3
+08:12,[CON] Jones Rebound (Off:4 Def:2),-78,21,4,,1627673,,1611661323,55,35,3
+07:50,[CON] Team Turnover : Shot Clock Turnover,43,224,5,,0,,1611661323,55,35,3
+07:38,[CHI 57-35] Meesseman Cutting Layup Shot: Made (2 PTS) Assist: Vandersloot (5 AST),23,10,1,,203416,202664,1611661329,57,35,3
+07:23,[CON] Williams Pullup Jump shot: Missed,-16,187,2,,1627675,,1611661323,57,35,3
+07:20,[CON] Jones Rebound (Off:5 Def:2),-16,187,4,,1627673,,1611661323,57,35,3
+07:20,[CON 37-57] Jones Tip Layup Shot: Made (13 PTS),0,-5,1,,1627673,,1611661323,57,37,3
+07:12,[CHI 59-37] Quigley Pullup Jump shot: Made (9 PTS) Assist: Parker (4 AST),-3,144,1,,201516,201496,1611661329,59,37,3
+07:01,[CON 40-59] Jones 3pt Shot: Made (16 PTS) Assist: Williams (1 AST),28,242,1,,1627673,1627675,1611661323,59,40,3
+06:47,[CHI] Copper Turnover : Out of Bounds - Bad Pass Turnover (4 TO),127,173,5,,1627674,,1611661329,59,40,3
+06:36,[CON] Bonner Pullup Jump shot: Missed,-56,162,2,,201886,,1611661323,59,40,3
+06:34,[CHI] Parker Rebound (Off:0 Def:8),-56,162,4,,201496,,1611661329,59,40,3
+06:17,[CHI] Copper Pullup Jump shot: Missed,26,189,2,,1627674,,1611661329,59,40,3
+06:15,[CHI] Meesseman Rebound (Off:1 Def:0),26,189,4,,203416,,1611661329,59,40,3
+06:13,[CHI] Copper Driving Layup Shot: Missed,-11,13,2,,1627674,,1611661329,59,40,3
+06:11,[CON] Thomas Rebound (Off:1 Def:2),-11,13,4,,203826,,1611661323,59,40,3
+06:01,[CON 43-59] Jones 3pt Shot: Made (19 PTS) Assist: Hiedeman (6 AST),-162,160,1,,1627673,1629567,1611661323,59,43,3
+05:39,[CHI] Quigley 3pt Shot: Missed,-228,-11,2,,201516,,1611661329,59,43,3
+05:38,[CHI] Copper Rebound (Off:1 Def:4),-228,-11,4,,1627674,,1611661329,59,43,3
+05:32,[CHI 61-43] Quigley Floating Jump shot: Made (11 PTS) Assist: Parker (5 AST),-56,7,1,,201516,201496,1611661329,61,43,3
+05:09,[CON] Bonner Layup Shot: Missed,49,-2,2,,201886,,1611661323,61,43,3
+05:08,[CHI] Copper Rebound (Off:1 Def:5),49,-2,4,,1627674,,1611661329,61,43,3
+05:08,[CON] Hiedeman Foul: Personal Take (1 PF),7,247,6,1627674,1629567,,1611661323,61,43,3
+05:08,[CHI] Quigley Substitution replaced by Stevens,0,-80,8,,201516,1628922,1611661329,61,43,3
+05:08,[CHI] Meesseman Substitution replaced by Gardner,0,-80,8,,203416,203822,1611661329,61,43,3
+05:03,[CON] Jones Foul: Shooting (2 PF) (2 FTA),19,-4,6,201496,1627673,,1611661323,61,43,3
+05:03,[CHI 62-43] Parker Free Throw 1 of 2 (17 PTS),0,-80,3,,201496,,1611661329,62,43,3
+05:03,[CHI 63-43] Parker Free Throw 2 of 2 (18 PTS),0,-80,3,,201496,,1611661329,63,43,3
+04:46,[CON] Williams Pullup Jump shot: Missed,144,135,2,,1627675,,1611661323,63,43,3
+04:45,[CON] Williams Rebound (Off:2 Def:2),144,135,4,,1627675,,1611661323,63,43,3
+04:34,[CON] Team Turnover : Shot Clock Turnover,6,198,5,,0,,1611661323,63,43,3
+04:34,Timeout Officials,0,-80,9,,0,,0,63,43,3
+04:34,[CON] Bonner Substitution replaced by Jones,0,-80,8,,201886,1628280,1611661323,63,43,3
+04:12,[CHI 66-43] Vandersloot 3pt Shot: Made (9 PTS) Assist: Copper (3 AST),-129,212,1,,202664,1627674,1611661329,66,43,3
+03:56,[CON] Jones Hook Shot: Missed,-7,15,2,,1628280,,1611661323,66,43,3
+03:56,[CHI] Team Rebound,-7,15,4,,0,,1611661329,66,43,3
+03:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,43,3
+03:42,[CHI] Parker Jump Shot: Missed,-1,136,2,,201496,,1611661329,66,43,3
+03:38,[CHI] Stevens Rebound (Off:1 Def:3),-1,136,4,,1628922,,1611661329,66,43,3
+03:38,[CHI] Stevens Putback Layup Shot: Missed,0,-5,2,1627673,1628922,,1611661329,66,43,3
+03:38,[CON] Thomas Rebound (Off:1 Def:3),0,-5,4,,203826,,1611661323,66,43,3
+03:36,[CHI] Vandersloot Foul: Shooting (2 PF) (2 FTA),9,13,6,1627675,202664,,1611661329,66,43,3
+03:36,[CON] Williams Free Throw 1 of 2 Missed,0,-80,3,,1627675,,1611661323,66,43,3
+03:36,[CON] Team Rebound,0,-80,4,,0,,1611661323,66,43,3
+03:36,[CHI] Vandersloot Substitution replaced by Allemand,0,-80,8,,202664,1627700,1611661329,66,43,3
+03:36,[CON 44-66] Williams Free Throw 2 of 2 (1 PTS),0,-80,3,,1627675,,1611661323,66,44,3
+03:24,[CHI] Allemand Turnover : Traveling (2 TO),-139,221,5,,1627700,,1611661329,66,44,3
+03:09,[CON] Jones 3pt Shot: Missed,150,183,2,,1627673,,1611661323,66,44,3
+03:05,[CON] Team Rebound,150,183,4,,0,,1611661323,66,44,3
+03:05,Jump Ball Jones vs Copper (Thomas gains possession),0,-80,10,1627674,1628280,203826,1611661323,66,44,3
+03:03,[CON 46-66] Williams Pullup Jump shot: Made (3 PTS) Assist: Thomas (3 AST),109,172,1,,1627675,203826,1611661323,66,46,3
+02:45,[CHI] Parker Turnover : Bad Pass (2 TO) Steal:Thomas (2 ST),-148,199,5,203826,201496,,1611661329,66,46,3
+02:42,[CHI] Copper Foul: Personal Take (3 PF),-158,633,6,203826,1627674,,1611661329,66,46,3
+02:42,[CHI] Copper Substitution replaced by Quigley,0,-80,8,,1627674,201516,1611661329,66,46,3
+02:42,[CHI] Parker Substitution replaced by Meesseman,0,-80,8,,201496,203416,1611661329,66,46,3
+02:29,[CHI] Gardner Foul: Shooting (1 PF) (2 FTA),53,180,6,1627675,203822,,1611661329,66,46,3
+02:29,[CON] Williams Free Throw 1 of 2 Missed,0,-80,3,,1627675,,1611661323,66,46,3
+02:29,[CON] Team Rebound,0,-80,4,,0,,1611661323,66,46,3
+02:29,[CON 47-66] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,1627675,,1611661323,66,47,3
+02:10,[CHI] Gardner Turnover : Bad Pass (1 TO) Steal:Williams (2 ST),-32,252,5,1627675,203822,,1611661329,66,47,3
+02:06,[CON 49-66] Jones Cutting Layup Shot: Made (10 PTS) Assist: Williams (2 AST),10,4,1,,1628280,1627675,1611661323,66,49,3
+02:06,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,66,49,3
+01:53,[CHI] Quigley Turnover : Bad Pass (2 TO) Steal:Jones (4 ST),-137,254,5,1627673,201516,,1611661329,66,49,3
+01:39,[CON] Thomas Turnaround Fadeaway Bank Jump Shot: Missed,0,83,2,,203826,,1611661323,66,49,3
+01:37,[CHI] Stevens Rebound (Off:1 Def:4),0,83,4,,1628922,,1611661329,66,49,3
+01:23,[CHI] Stevens 3pt Shot: Missed,-149,191,2,,1628922,,1611661329,66,49,3
+01:21,[CON] Williams Rebound (Off:2 Def:3),-149,191,4,,1627675,,1611661323,66,49,3
+01:14,[CON 51-66] Williams Driving Floating Bank Jump Shot: Made (6 PTS) Assist: Thomas (4 AST),63,90,1,,1627675,203826,1611661323,66,51,3
+00:57.0,[CHI] Stevens Jump Shot: Missed,-133,-16,2,,1628922,,1611661329,66,51,3
+00:55.2,[CHI] Gardner Rebound (Off:1 Def:0),-133,-16,4,,203822,,1611661329,66,51,3
+00:50.6,[CHI] Quigley 3pt Shot: Missed,-117,241,2,,201516,,1611661329,66,51,3
+00:48.6,[CON] Jones Rebound (Off:5 Def:3),-117,241,4,,1627673,,1611661323,66,51,3
+00:39.4,[CON 53-66] Thomas Cutting Layup Shot: Made (11 PTS) Assist: Jones (1 AST),1,11,1,,203826,1628280,1611661323,66,53,3
+00:23.0,[CHI] Allemand 3pt Shot: Missed,156,185,2,,1627700,,1611661329,66,53,3
+00:23.0,[CON] Jones Rebound (Off:2 Def:1),156,185,4,,1628280,,1611661323,66,53,3
+00:18.2,[CON 55-66] Hiedeman Running Layup Shot: Made (4 PTS),-11,-2,1,,1629567,,1611661323,66,55,3
+00:02.4,[CHI 68-55] Quigley Driving Floating Jump Shot: Made (13 PTS) Assist: Allemand (3 AST),-104,-4,1,,201516,1627700,1611661329,68,55,3
+00:00.0,End Period,0,-80,13,,0,,0,68,55,3
+10:00,Start Period,0,-80,12,,0,,0,68,55,4
+09:36,[CON] Hiedeman 3pt Shot: Missed,-183,171,2,,1629567,,1611661323,68,55,4
+09:35,[CON] Jones Rebound (Off:6 Def:3),-183,171,4,,1627673,,1611661323,68,55,4
+09:35,[CON] Jones Putback Layup Shot: Missed,9,11,2,203416,1627673,,1611661323,68,55,4
+09:34,[CHI] Parker Rebound (Off:0 Def:9),9,11,4,,201496,,1611661329,68,55,4
+09:23,[CHI 71-55] Parker 3pt Shot: Made (21 PTS) Assist: Quigley (2 AST),93,225,1,,201496,201516,1611661329,71,55,4
+09:13,[CHI] Gardner Foul: Shooting (2 PF) (2 FTA),10,6,6,203826,203822,,1611661329,71,55,4
+09:13,[CON 56-71] Thomas Free Throw 1 of 2 (12 PTS),0,-80,3,,203826,,1611661323,71,56,4
+09:13,[CON 57-71] Thomas Free Throw 2 of 2 (13 PTS),0,-80,3,,203826,,1611661323,71,57,4
+09:00,[CHI] Meesseman Turnover : Bad Pass (1 TO) Steal:Jones (2 ST),-54,166,5,1628280,203416,,1611661329,71,57,4
+08:49,[CON] Jones Turnover : Bad Pass (2 TO) Steal:Quigley (2 ST),5,43,5,201516,1627673,,1611661323,71,57,4
+08:47,[CHI 73-57] Gardner Running Layup Shot: Made (4 PTS) Assist: Quigley (3 AST),16,8,1,,203822,201516,1611661329,73,57,4
+08:47,[CON] Williams Foul: Shooting (1 PF) (1 FTA),16,8,6,203822,1627675,,1611661323,73,57,4
+08:47,[CHI 74-57] Gardner Free Throw 1 of 1 (5 PTS),0,-80,3,,203822,,1611661329,74,57,4
+08:25,[CON] Williams Turnaround Jump Shot: Missed,71,60,2,201496,1627675,,1611661323,74,57,4
+08:22,[CON] Williams Rebound (Off:3 Def:3),71,60,4,,1627675,,1611661323,74,57,4
+08:22,[CON] Team Turnover : Shot Clock Turnover,94,126,5,,0,,1611661323,74,57,4
+08:00,[CHI] Vandersloot 3pt Shot: Missed,-168,171,2,,202664,,1611661329,74,57,4
+07:58,[CON] Williams Rebound (Off:3 Def:4),-168,171,4,,1627675,,1611661323,74,57,4
+07:41,[CON 59-74] Jones Jump Shot: Made (12 PTS) Assist: Hiedeman (7 AST),112,156,1,,1628280,1629567,1611661323,74,59,4
+07:28,[CHI 76-59] Gardner Cutting Layup Shot: Made (7 PTS) Assist: Parker (6 AST),6,-3,1,,203822,201496,1611661329,76,59,4
+07:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,76,59,4
+07:15,[CON] Williams Substitution replaced by Bonner,0,-80,8,,1627675,201886,1611661323,76,59,4
+07:07,[CON] Bonner Pullup Jump shot: Missed,-56,154,2,,201886,,1611661323,76,59,4
+07:07,[CHI] Team Rebound,-56,154,4,,0,,1611661329,76,59,4
+07:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,76,59,4
+06:50,[CHI 78-59] Parker Pullup Jump shot: Made (23 PTS) Assist: Vandersloot (6 AST),-84,145,1,,201496,202664,1611661329,78,59,4
+06:50,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,78,59,4
+06:50,[CHI] Meesseman Substitution replaced by Stevens,0,-80,8,,203416,1628922,1611661329,78,59,4
+06:50,[CHI] Gardner Substitution replaced by Copper,0,-80,8,,203822,1627674,1611661329,78,59,4
+06:33,[CON 61-78] Thomas Cutting Layup Shot: Made (15 PTS) Assist: Jones (2 AST),12,14,1,,203826,1628280,1611661323,78,61,4
+06:16,[CHI] Stevens Layup Shot: Missed,-5,21,2,1627673,1628922,,1611661329,78,61,4
+06:13,[CON] Thomas Rebound (Off:1 Def:4),-5,21,4,,203826,,1611661323,78,61,4
+06:12,[CON 63-78] Thomas Running Layup Shot: Made (17 PTS),1,15,1,,203826,,1611661323,78,63,4
+05:55,[CHI] Quigley Turnover : Bad Pass (3 TO) Steal:Bonner (2 ST),12,81,5,201886,201516,,1611661329,78,63,4
+05:47,[CON] Jones Cutting Layup Shot: Missed,21,9,2,,1628280,,1611661323,78,63,4
+05:45,[CHI] Quigley Rebound (Off:0 Def:4),21,9,4,,201516,,1611661329,78,63,4
+05:34,[CHI 80-63] Copper Driving Layup Shot: Made (11 PTS) Assist: Quigley (4 AST),2,1,1,,1627674,201516,1611661329,80,63,4
+05:11,[CON] Bonner Driving Layup Shot: Missed,16,15,2,,201886,,1611661323,80,63,4
+05:07,[CON] Jones Rebound (Off:7 Def:3),16,15,4,,1627673,,1611661323,80,63,4
+05:07,[CON 65-80] Jones Putback Layup Shot: Made (21 PTS),0,-5,1,,1627673,,1611661323,80,65,4
+05:06,[CHI] Copper Layup Shot: Missed,-7,16,2,1628280,1627674,,1611661329,80,65,4
+05:06,[CHI] Team Rebound,-7,16,4,,0,,1611661329,80,65,4
+05:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,65,4
+05:06,[CON] Hiedeman Substitution replaced by Clouden,0,-80,8,,1629567,1631002,1611661323,80,65,4
+05:03,[CHI] Vandersloot Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-77,2,5,,202664,,1611661329,80,65,4
+04:46,[CON] Jones Cutting Layup Shot: Missed,5,11,2,201496,1627673,,1611661323,80,65,4
+04:44,[CHI] Parker Rebound (Off:0 Def:10),5,11,4,,201496,,1611661329,80,65,4
+04:31,[CHI] Quigley 3pt Shot: Missed,-128,204,2,,201516,,1611661329,80,65,4
+04:29,[CON] Jones Rebound (Off:2 Def:2),-128,204,4,,1628280,,1611661323,80,65,4
+04:16,[CON 67-80] Jones Jump Shot: Made (14 PTS) Assist: Bonner (1 AST),122,48,1,,1628280,201886,1611661323,80,67,4
+04:02,[CHI 82-67] Copper Driving Layup Shot: Made (13 PTS) Assist: Parker (7 AST),-3,7,1,,1627674,201496,1611661329,82,67,4
+03:45,[CON 70-82] Bonner 3pt Shot: Made (8 PTS) Assist: Jones (3 AST),123,207,1,,201886,1628280,1611661323,82,70,4
+03:31,[CHI] Vandersloot Turnover : Bad Pass (5 TO) Steal:Jones (5 ST),140,128,5,1627673,202664,,1611661329,82,70,4
+03:16,[CON 72-82] Thomas Turnaround Fadeaway Bank Jump Shot: Made (19 PTS) Assist: Jones (1 AST),76,64,1,,203826,1627673,1611661323,82,72,4
+03:16,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,82,72,4
+03:16,[CHI] Quigley Substitution replaced by Meesseman,0,-80,8,,201516,203416,1611661329,82,72,4
+03:16,[CHI] Stevens Substitution replaced by Gardner,0,-80,8,,1628922,203822,1611661329,82,72,4
+02:57,[CHI] Vandersloot 3pt Shot: Missed,-82,255,2,,202664,,1611661329,82,72,4
+02:55,[CON] Jones Rebound (Off:7 Def:4),-82,255,4,,1627673,,1611661323,82,72,4
+02:36,[CON] Bonner 3pt Shot: Missed,-205,102,2,,201886,,1611661323,82,72,4
+02:36,[CHI] Team Rebound,-205,102,4,,0,,1611661329,82,72,4
+02:36,[CON] Jones Foul: Loose Ball (2 PF),-16,827,6,203416,1628280,,1611661323,82,72,4
+02:28,[CHI] Meesseman Foul: Offensive (3 PF),-124,148,6,1631002,203416,,1611661329,82,72,4
+02:28,[CHI] Meesseman Turnover : Offensive Foul Turnover (2 TO),-124,148,5,,203416,,1611661329,82,72,4
+02:28,[CON] Clouden Substitution replaced by Hiedeman,0,-80,8,,1631002,1629567,1611661323,82,72,4
+02:18,[CON 74-82] Jones Cutting Layup Shot: Made (16 PTS) Assist: Jones (2 AST),0,10,1,,1628280,1627673,1611661323,82,74,4
+01:53,[CHI 85-74] Gardner 3pt Shot: Made (10 PTS) Assist: Copper (4 AST),222,-15,1,,203822,1627674,1611661329,85,74,4
+01:37,[CON 76-85] Thomas Driving Layup Shot: Made (21 PTS) Assist: Bonner (2 AST),-15,11,1,,203826,201886,1611661323,85,76,4
+01:15,[CON] Jones Foul: Shooting (3 PF) (2 FTA),12,3,6,203416,1627673,,1611661323,85,76,4
+01:15,[CHI 86-76] Meesseman Free Throw 1 of 2 (3 PTS),0,-80,3,,203416,,1611661329,86,76,4
+01:15,[CHI] Gardner Substitution replaced by Quigley,0,-80,8,,203822,201516,1611661329,86,76,4
+01:15,[CHI 87-76] Meesseman Free Throw 2 of 2 (4 PTS),0,-80,3,,203416,,1611661329,87,76,4
+01:15,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,87,76,4
+01:09,[CON 78-87] Jones Driving Layup Shot: Made (18 PTS),-1,11,1,,1628280,,1611661323,87,78,4
+00:47.9,[CHI] Parker 3pt Shot: Missed,-235,-16,2,,201496,,1611661329,87,78,4
+00:46.0,[CHI] Quigley Rebound (Off:1 Def:4),-235,-16,4,,201516,,1611661329,87,78,4
+00:41.4,[CHI] Vandersloot Turnover : Bad Pass (6 TO) Steal:Bonner (3 ST),17,264,5,201886,202664,,1611661329,87,78,4
+00:37.5,[CHI] Vandersloot Foul: Shooting (3 PF) (2 FTA),18,14,6,203826,202664,,1611661329,87,78,4
+00:37.5,[CON 79-87] Thomas Free Throw 1 of 2 (22 PTS),0,-80,3,,203826,,1611661323,87,79,4
+00:37.5,[CON 80-87] Thomas Free Throw 2 of 2 (23 PTS),0,-80,3,,203826,,1611661323,87,80,4
+00:26.7,[CON] Hiedeman Foul: Personal Take (2 PF) (2 FTA),-156,242,6,201496,1629567,,1611661323,87,80,4
+00:26.7,[CHI 88-80] Parker Free Throw 1 of 2 (24 PTS),0,-80,3,,201496,,1611661329,88,80,4
+00:26.7,[CHI 89-80] Parker Free Throw 2 of 2 (25 PTS),0,-80,3,,201496,,1611661329,89,80,4
+00:26.7,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,89,80,4
+00:26.7,[CHI] Quigley Substitution replaced by Gardner,0,-80,8,,201516,203822,1611661329,89,80,4
+00:18.7,[CON] Jones 3pt Shot: Missed,-128,201,2,,1627673,,1611661323,89,80,4
+00:15.6,[CON] Hiedeman Rebound (Off:2 Def:0),-128,201,4,,1629567,,1611661323,89,80,4
+00:12.6,[CON] Bonner 3pt Shot: Missed,216,103,2,,201886,,1611661323,89,80,4
+00:10.4,[CHI] Parker Rebound (Off:0 Def:11),215,84,4,,201496,,1611661329,89,80,4
+00:07.9,Jump Ball Hiedeman vs Parker (Bonner gains possession),0,-80,10,201496,1629567,201886,1611661323,89,80,4
+00:07.9,[CHI] Parker Turnover : Lost Ball (3 TO) Steal:Hiedeman (1 ST),0,-80,5,1629567,201496,,1611661329,89,80,4
+00:06.0,[CON 83-89] Jones 3pt Shot: Made (24 PTS) Assist: Bonner (3 AST),-185,133,1,,1627673,201886,1611661323,89,83,4
+00:05.1,[CON] Hiedeman Foul: Personal Take (3 PF) (2 FTA),-134,848,6,1627674,1629567,,1611661323,89,83,4
+00:05.1,[CHI 90-83] Copper Free Throw 1 of 2 (14 PTS),0,-80,3,,1627674,,1611661329,90,83,4
+00:05.1,[CHI 91-83] Copper Free Throw 2 of 2 (15 PTS),0,-80,3,,1627674,,1611661329,91,83,4
+00:05.1,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,91,83,4
+00:00.6,[CON] Jones Turnaround Fadeaway shot: Missed,-12,205,2,,1627673,,1611661323,91,83,4
+00:00.1,[CON] Team Rebound,-12,205,4,,0,,1611661323,91,83,4
+00:00.0,End Period,0,-80,13,,0,,0,91,83,4
+00:00.0,Game End,0,-80,0,,0,,0,91,83,4

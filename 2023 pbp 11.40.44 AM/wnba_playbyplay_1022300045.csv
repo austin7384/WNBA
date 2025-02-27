@@ -1,0 +1,391 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball Austin vs Magbegor (Sykes gains possession),0,-80,10,1629496,1631022,1628279,1611661322,0,0,0,1
+09:38,[WAS] Cloud Pullup Jump shot: Missed,118,145,2,,204333,,1611661322,0,0,0,1
+09:33,[WAS] Delle Donne Rebound (Off:1 Def:0),118,145,4,,203399,,1611661322,0,0,0,1
+09:30,[WAS 2-0] Delle Donne Fadeaway Jump Shot: Made (2 PTS),1,120,1,,203399,,1611661322,0,2,2,1
+09:16,[SEA] Whitcomb 3pt Shot: Missed,-157,196,2,,1628244,,1611661328,0,2,0,1
+09:12,[WAS] Austin Rebound (Off:0 Def:1),-157,196,4,,1631022,,1611661322,0,2,0,1
+08:57,[WAS] Austin Driving Layup Shot: Missed,-39,64,2,,1631022,,1611661322,0,2,0,1
+08:54,[SEA] Whitcomb Rebound (Off:0 Def:1),-39,64,4,,1628244,,1611661328,0,2,0,1
+08:48,[SEA] Turner Running Jump Shot: Missed,-185,5,2,,203389,,1611661328,0,2,0,1
+08:45,[WAS] Austin Rebound (Off:0 Def:2),-185,5,4,,1631022,,1611661322,0,2,0,1
+08:42,[WAS] Delle Donne 3pt Shot: Missed,99,227,2,,203399,,1611661322,0,2,0,1
+08:37,[WAS] Austin Rebound (Off:1 Def:2),99,227,4,,1631022,,1611661322,0,2,0,1
+08:30,[WAS] Delle Donne Driving Layup Shot: Missed,-22,17,2,,203399,,1611661322,0,2,0,1
+08:25,[SEA] Magbegor Rebound (Off:0 Def:1),-22,17,4,,1629496,,1611661328,0,2,0,1
+08:17,[SEA] Russell Jump Shot: Missed,-138,76,2,,1628920,,1611661328,0,2,0,1
+08:13,[WAS] Sykes Rebound (Off:0 Def:1),-138,76,4,,1628279,,1611661322,0,2,0,1
+08:13,[SEA] Nurse Foul: Personal (1 PF),49,130,6,1628279,1628915,1629174,1611661328,0,2,0,1
+08:03,[WAS 4-0] Delle Donne Driving Layup Shot: Made (4 PTS) Assist: Atkins (1 AST),-35,17,1,,203399,1628878,1611661322,0,4,2,1
+07:46,[SEA 2-4] Magbegor Driving Layup Shot: Made (2 PTS),-24,24,1,,1629496,,1611661328,2,4,2,1
+07:31,[WAS] Atkins 3pt Shot: Missed,-195,126,2,,1628878,,1611661322,2,4,0,1
+07:27,[SEA] Russell Rebound (Off:0 Def:1),-195,126,4,,1628920,,1611661328,2,4,0,1
+07:19,[SEA] Nurse Turnover : Bad Pass (1 TO),183,285,5,,1628915,,1611661328,2,4,0,1
+07:02,[WAS 6-2] Sykes Driving Layup Shot: Made (2 PTS) Assist: Delle Donne (1 AST),16,5,1,,1628279,203399,1611661322,2,6,2,1
+06:48,[SEA 4-6] Russell Hook Shot: Made (2 PTS),0,67,1,,1628920,,1611661328,4,6,2,1
+06:29,[WAS 8-4] Austin Cutting Layup Shot: Made (2 PTS) Assist: Cloud (1 AST),-13,8,1,,1631022,204333,1611661322,4,8,2,1
+06:09,[WAS] Atkins Foul: Personal (1 PF),0,332,6,1628915,1628878,1629174,1611661322,4,8,0,1
+05:54,[SEA] Team Turnover : Shot Clock Turnover,202,122,5,,0,,1611661328,4,8,0,1
+05:43,[WAS] Sykes Layup Shot: Missed,-20,5,2,,1628279,,1611661322,4,8,0,1
+05:39,[SEA] Whitcomb Rebound (Off:0 Def:2),-20,5,4,,1628244,,1611661328,4,8,0,1
+05:38,[SEA] Turner Turnover : Lost Ball (1 TO) Steal:Delle Donne (1 ST),-86,212,5,203399,203389,,1611661328,4,8,0,1
+05:29,[WAS 10-4] Delle Donne Turnaround Fadeaway shot: Made (6 PTS) Assist: Cloud (2 AST),-92,15,1,,203399,204333,1611661322,4,10,2,1
+05:14,[SEA] Magbegor Driving Layup Shot: Missed,-17,60,2,,1629496,,1611661328,4,10,0,1
+05:09,[WAS] Austin Rebound (Off:1 Def:3),-17,60,4,,1631022,,1611661322,4,10,0,1
+05:02,[WAS] Delle Donne 3pt Shot: Missed,117,212,2,,203399,,1611661322,4,10,0,1
+05:02,[SEA] Nurse Rebound (Off:0 Def:1),117,212,4,,1628915,,1611661328,4,10,0,1
+04:47,[SEA] Magbegor 3pt Shot: Missed,49,250,2,,1629496,,1611661328,4,10,0,1
+04:42,[WAS] Austin Rebound (Off:1 Def:4),49,250,4,,1631022,,1611661322,4,10,0,1
+04:31,[WAS] Delle Donne Turnover : Bad Pass (1 TO) Steal:Nurse (1 ST),138,237,5,1628915,203399,,1611661322,4,10,0,1
+04:14,[SEA] Magbegor Turnover : Bad Pass (1 TO) Steal:Sykes (1 ST),137,289,5,1628279,1629496,,1611661328,4,10,0,1
+03:54,[WAS 12-4] Austin Cutting Layup Shot: Made (4 PTS) Assist: Atkins (2 AST),-20,8,1,,1631022,1628878,1611661322,4,12,2,1
+03:52,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,4,12,0,1
+03:52,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,4,12,0,1
+03:52,[SEA] Russell Substitution replaced by Melbourne,0,-80,8,,1628920,1631141,1611661328,4,12,0,1
+03:52,[SEA] Turner Substitution replaced by Horston,0,-80,8,,203389,1641651,1611661328,4,12,0,1
+03:52,[WAS] Sykes Substitution replaced by Toliver,0,-80,8,,1628279,201911,1611661322,4,12,0,1
+03:52,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,4,12,0,1
+03:40,[SEA 6-12] Magbegor Driving Finger Roll Layup Shot: Made (4 PTS),-23,17,1,,1629496,,1611661328,6,12,2,1
+03:23,[SEA] Horston Foul: Personal (1 PF),62,43,6,1628899,1641651,100274,1611661328,6,12,0,1
+03:23,[SEA] Nurse Substitution replaced by Dojkić,0,-80,8,,1628915,1641602,1611661328,6,12,0,1
+03:15,[WAS] Hines-Allen Layup Shot: Missed,-45,75,2,,1628899,,1611661322,6,12,0,1
+03:11,[SEA] Horston Rebound (Off:0 Def:1),-45,75,4,,1641651,,1611661328,6,12,0,1
+03:04,[SEA] Melbourne Driving Layup Shot: Missed Block: Austin (1 BLK),0,91,2,1631022,1631141,,1611661328,6,12,0,1
+02:58,[WAS] Hines-Allen Rebound (Off:0 Def:1),0,91,4,,1628899,,1611661322,6,12,0,1
+02:57,[WAS] Toliver 3pt Shot: Missed,-166,176,2,,201911,,1611661322,6,12,0,1
+02:53,[SEA] Dojkić Rebound (Off:0 Def:1),-166,176,4,,1641602,,1611661328,6,12,0,1
+02:38,[SEA] Melbourne Driving Floating Jump Shot: Missed,60,99,2,,1631141,,1611661328,6,12,0,1
+02:34,[WAS] Austin Rebound (Off:1 Def:5),60,99,4,,1631022,,1611661322,6,12,0,1
+02:24,[WAS] Hines-Allen 3pt Shot: Missed,124,211,2,,1628899,,1611661322,6,12,0,1
+02:22,[SEA] Team Rebound,124,211,4,,0,,1611661328,6,12,0,1
+02:22,[SEA] Whitcomb Substitution replaced by Guirantes,0,-80,8,,1628244,1630441,1611661328,6,12,0,1
+02:22,[WAS] Austin Substitution replaced by Walker-Kimbrough,0,-80,8,,1631022,1628278,1611661322,6,12,0,1
+02:22,[WAS] Atkins Substitution replaced by Hawkins,0,-80,8,,1628878,203403,1611661322,6,12,0,1
+02:07,[SEA 9-12] Dojkić 3pt Shot: Made (3 PTS) Assist: Magbegor (1 AST),162,194,1,,1641602,1629496,1611661328,9,12,3,1
+01:54,[WAS 15-9] Hawkins 3pt Shot: Made (3 PTS) Assist: Cloud (3 AST),75,242,1,,203403,204333,1611661322,9,15,3,1
+01:40,[SEA 11-15] Guirantes Pullup Jump shot: Made (2 PTS) Assist: Magbegor (2 AST),122,155,1,,1630441,1629496,1611661328,11,15,2,1
+01:26,[WAS] Hawkins Cutting Layup Shot: Missed,-26,2,2,,203403,,1611661322,11,15,0,1
+01:21,[SEA] Melbourne Rebound (Off:0 Def:1),-26,2,4,,1631141,,1611661328,11,15,0,1
+01:17,[SEA 13-15] Melbourne Driving Layup Shot: Made (2 PTS),-16,19,1,,1631141,,1611661328,13,15,2,1
+01:17,[WAS] Walker-Kimbrough Foul: Shooting (1 PF) (1 FTA),-16,19,6,1631141,1628278,100308,1611661322,13,15,0,1
+01:17,[WAS] Hines-Allen Substitution replaced by Delle Donne,0,-80,8,,1628899,203399,1611661322,13,15,0,1
+01:17,[SEA 14-15] Melbourne Free Throw 1 of 1 (3 PTS),0,-80,3,,1631141,,1611661328,14,15,1,1
+01:08,[SEA] Melbourne Foul: Shooting (1 PF) (2 FTA),58,92,6,204333,1631141,100274,1611661328,14,15,0,1
+01:08,[WAS 16-14] Cloud Free Throw 1 of 2 (1 PTS),0,-80,3,,204333,,1611661322,14,16,1,1
+01:08,[WAS 17-14] Cloud Free Throw 2 of 2 (2 PTS),0,-80,3,,204333,,1611661322,14,17,1,1
+00:56.1,[SEA] Horston 3pt Shot: Missed,135,215,2,,1641651,,1611661328,14,17,0,1
+00:50.7,[WAS] Cloud Rebound (Off:0 Def:1),135,215,4,,204333,,1611661322,14,17,0,1
+00:38.6,[WAS 19-14] Delle Donne Cutting Layup Shot: Made (8 PTS) Assist: Hawkins (1 AST),-2,37,1,,203399,203403,1611661322,14,19,2,1
+00:29.9,[SEA] Guirantes Turnover : Traveling (1 TO),120,203,5,,1630441,,1611661328,14,19,0,1
+00:29.9,[WAS] Cloud Substitution replaced by Sykes,0,-80,8,,204333,1628279,1611661322,14,19,0,1
+00:09.7,[WAS] Sykes Turnover : Bad Pass (1 TO) Steal:Guirantes (1 ST),57,254,5,1630441,1628279,,1611661322,14,19,0,1
+00:07.1,[SEA 16-19] Guirantes Running Layup Shot: Made (4 PTS),20,13,1,,1630441,,1611661328,16,19,2,1
+00:00.0,End Period,0,-80,13,,0,,0,16,19,0,1
+10:00,Start Period,0,-80,12,,0,,0,16,19,0,2
+09:53,[WAS] Toliver Foul: Shooting (1 PF) (2 FTA),32,15,6,1641602,201911,100308,1611661322,16,19,0,2
+09:53,[SEA 17-19] Dojkić Free Throw 1 of 2 (4 PTS),0,-80,3,,1641602,,1611661328,17,19,1,2
+09:53,[SEA] Dojkić Free Throw 2 of 2 Missed,0,-80,3,,1641602,,1611661328,17,19,0,2
+09:51,[WAS] Sykes Rebound (Off:0 Def:2),0,-80,4,,1628279,,1611661322,17,19,0,2
+09:33,[WAS 21-17] Hawkins Layup Shot: Made (5 PTS) Assist: Toliver (1 AST),-21,1,1,,203403,201911,1611661322,17,21,2,2
+09:16,[SEA] Magbegor Turnover : Bad Pass (2 TO) Steal:Toliver (1 ST),-151,94,5,201911,1629496,,1611661328,17,21,0,2
+08:58,[WAS] Walker-Kimbrough Pullup Jump shot: Missed,-122,146,2,,1628278,,1611661322,17,21,0,2
+08:52,[WAS] Delle Donne Rebound (Off:2 Def:0),-122,146,4,,203399,,1611661322,17,21,0,2
+08:52,[WAS] Delle Donne Layup Shot: Missed Block: Magbegor (1 BLK),21,5,2,1629496,203399,,1611661322,17,21,0,2
+08:48,[SEA] Horston Rebound (Off:0 Def:2),21,5,4,,1641651,,1611661328,17,21,0,2
+08:47,[SEA] Guirantes 3pt Shot: Missed,135,223,2,,1630441,,1611661328,17,21,0,2
+08:40,[WAS] Hawkins Rebound (Off:0 Def:1),135,223,4,,203403,,1611661322,17,21,0,2
+08:31,[WAS 24-17] Toliver 3pt Shot: Made (3 PTS) Assist: Delle Donne (2 AST),232,7,1,,201911,203399,1611661322,17,24,3,2
+08:22,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,17,24,0,2
+08:22,[SEA] Magbegor Substitution replaced by Fankam Mendjiadeu,0,-80,8,,1629496,1641675,1611661328,17,24,0,2
+08:22,[WAS] Toliver Substitution replaced by Meng,0,-80,8,,201911,1641642,1611661322,17,24,0,2
+08:12,[SEA] Horston 3pt Shot: Missed,-230,28,2,,1641651,,1611661328,17,24,0,2
+08:07,[WAS] Meng Rebound (Off:0 Def:1),-230,28,4,,1641642,,1611661322,17,24,0,2
+07:44,[WAS] Delle Donne Turnover : Bad Pass (2 TO) Steal:Dojkić (1 ST),151,15,5,1641602,203399,,1611661322,17,24,0,2
+07:37,[SEA 19-24] Dojkić Running Layup Shot: Made (6 PTS),27,6,1,,1641602,,1611661328,19,24,2,2
+07:28,[SEA] Dojkić Foul: Personal (1 PF),1,210,6,203399,1641602,100308,1611661328,19,24,0,2
+07:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,24,0,2
+07:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,24,0,2
+07:10,[WAS] Sykes 3pt Shot: Missed,-224,13,2,,1628279,,1611661322,19,24,0,2
+07:02,[SEA] Horston Rebound (Off:0 Def:3),-224,13,4,,1641651,,1611661328,19,24,0,2
+06:59,[SEA] Dojkić 3pt Shot: Missed,146,257,2,,1641602,,1611661328,19,24,0,2
+06:58,[WAS] Team Rebound,146,257,4,,0,,1611661322,19,24,0,2
+06:58,[SEA] Guirantes Substitution replaced by Whitcomb,0,-80,8,,1630441,1628244,1611661328,19,24,0,2
+06:46,[SEA] Melbourne Foul: Defense 3 Second (2 PF) (1 FTA),0,-80,6,,1631141,100308,1611661328,19,24,0,2
+06:46,[WAS 25-19] Delle Donne Free Throw Technical (9 PTS),0,-80,3,,203399,,1611661322,19,25,1,2
+06:46,[SEA] Fankam Mendjiadeu Substitution replaced by Magbegor,0,-80,8,,1641675,1629496,1611661328,19,25,0,2
+06:46,[SEA] Dojkić Substitution replaced by Nurse,0,-80,8,,1641602,1628915,1611661328,19,25,0,2
+06:46,[WAS] Delle Donne Substitution replaced by Austin,0,-80,8,,203399,1631022,1611661322,19,25,0,2
+06:46,[WAS] Hawkins Substitution replaced by Hines-Allen,0,-80,8,,203403,1628899,1611661322,19,25,0,2
+06:33,[WAS 28-19] Sykes 3pt Shot: Made (5 PTS) Assist: Walker-Kimbrough (1 AST),-128,237,1,,1628279,1628278,1611661322,19,28,3,2
+06:16,[SEA 22-28] Whitcomb 3pt Shot: Made (3 PTS) Assist: Melbourne (1 AST),79,242,1,,1628244,1631141,1611661328,22,28,3,2
+06:16,Stoppage Other,0,-80,20,,0,,0,22,28,0,2
+06:05,[WAS] Austin Driving Layup Shot: Missed,35,18,2,,1631022,,1611661322,22,28,0,2
+06:00,[WAS] Hines-Allen Rebound (Off:1 Def:1),35,18,4,,1628899,,1611661322,22,28,0,2
+06:00,[WAS] Austin Turnover : Bad Pass (1 TO) Steal:Horston (1 ST),156,26,5,1641651,1631022,,1611661322,22,28,0,2
+05:50,[SEA] Nurse 3pt Shot: Missed,161,230,2,,1628915,,1611661328,22,28,0,2
+05:45,[WAS] Austin Rebound (Off:1 Def:6),161,230,4,,1631022,,1611661322,22,28,0,2
+05:38,[WAS] Austin Running Layup Shot: Missed Block: Horston (1 BLK),4,27,2,1641651,1631022,,1611661322,22,28,0,2
+05:34,[SEA] Whitcomb Rebound (Off:0 Def:3),4,27,4,,1628244,,1611661328,22,28,0,2
+05:32,[SEA] Horston Turnover : Bad Pass (1 TO) Steal:Austin (1 ST),-186,103,5,1631022,1641651,,1611661328,22,28,0,2
+05:12,[WAS] Hines-Allen Driving Layup Shot: Missed Block: Magbegor (2 BLK),17,45,2,1629496,1628899,,1611661322,22,28,0,2
+05:07,[SEA] Melbourne Rebound (Off:0 Def:2),17,45,4,,1631141,,1611661328,22,28,0,2
+05:05,[SEA 24-28] Horston Running Layup Shot: Made (2 PTS) Assist: Melbourne (2 AST),17,14,1,,1641651,1631141,1611661328,24,28,2,2
+04:57,[WAS] Sykes Substitution replaced by Cloud,0,-80,8,,1628279,204333,1611661322,24,28,0,2
+04:57,[WAS] Walker-Kimbrough Substitution replaced by Atkins,0,-80,8,,1628278,1628878,1611661322,24,28,0,2
+04:57,[WAS] Hines-Allen Substitution replaced by Delle Donne,0,-80,8,,1628899,203399,1611661322,24,28,0,2
+04:48,[WAS 31-24] Meng 3pt Shot: Made (3 PTS) Assist: Atkins (3 AST),-224,78,1,,1641642,1628878,1611661322,24,31,3,2
+04:35,[SEA] Melbourne Turnover : Bad Pass (1 TO) Steal:Austin (2 ST),23,347,5,1631022,1631141,,1611661328,24,31,0,2
+04:21,[WAS 33-24] Austin Cutting Layup Shot: Made (6 PTS) Assist: Atkins (4 AST),-24,7,1,,1631022,1628878,1611661322,24,33,2,2
+04:11,[SEA 26-33] Magbegor Driving Layup Shot: Made (6 PTS) Assist: Melbourne (3 AST),-30,15,1,,1629496,1631141,1611661328,26,33,2,2
+03:54,[WAS] Atkins 3pt Shot: Missed,-227,65,2,,1628878,,1611661322,26,33,0,2
+03:51,[SEA] Horston Rebound (Off:0 Def:4),-227,65,4,,1641651,,1611661328,26,33,0,2
+03:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,33,0,2
+03:50,[SEA] Horston Substitution replaced by Russell,0,-80,8,,1641651,1628920,1611661328,26,33,0,2
+03:37,[WAS] Austin Foul: Shooting (1 PF) (2 FTA),-19,15,6,1628244,1631022,100308,1611661322,26,33,0,2
+03:37,[SEA 27-33] Whitcomb Free Throw 1 of 2 (4 PTS),0,-80,3,,1628244,,1611661328,27,33,1,2
+03:37,[SEA] Whitcomb Free Throw 2 of 2 Missed,0,-80,3,,1628244,,1611661328,27,33,0,2
+03:32,[WAS] Delle Donne Rebound (Off:2 Def:1),0,-80,4,,203399,,1611661322,27,33,0,2
+03:22,[SEA] Russell Violation:Kicked Ball,0,-80,7,,1628920,,1611661328,27,33,0,2
+03:10,[WAS] Cloud 3pt Shot: Missed,-6,252,2,,204333,,1611661322,27,33,0,2
+03:06,[WAS] Meng Rebound (Off:1 Def:1),-6,252,4,,1641642,,1611661322,27,33,0,2
+03:03,[WAS 35-27] Austin Cutting Layup Shot: Made (8 PTS) Assist: Meng (1 AST),-18,11,1,,1631022,1641642,1611661322,27,35,2,2
+02:48,[SEA 29-35] Magbegor Driving Layup Shot: Made (8 PTS) Assist: Russell (1 AST),15,13,1,,1629496,1628920,1611661328,29,35,2,2
+02:48,[WAS] Delle Donne Foul: Shooting (1 PF) (1 FTA),15,13,6,1629496,203399,1629174,1611661322,29,35,0,2
+02:48,[SEA 30-35] Magbegor Free Throw 1 of 1 (9 PTS),0,-80,3,,1629496,,1611661328,30,35,1,2
+02:34,[WAS 37-30] Delle Donne Pullup Jump shot: Made (11 PTS) Assist: Cloud (4 AST),-72,123,1,,203399,204333,1611661322,30,37,2,2
+02:25,[WAS] Meng Foul: Personal (1 PF),189,85,6,1631141,1641642,100274,1611661322,30,37,0,2
+02:25,[WAS] Meng Substitution replaced by Sykes,0,-80,8,,1641642,1628279,1611661322,30,37,0,2
+02:20,[SEA] Melbourne 3pt Shot: Missed,-100,226,2,,1631141,,1611661328,30,37,0,2
+02:15,[WAS] Austin Rebound (Off:1 Def:7),-100,226,4,,1631022,,1611661322,30,37,0,2
+02:03,[WAS 40-30] Cloud 3pt Shot: Made (5 PTS) Assist: Atkins (5 AST),77,233,1,,204333,1628878,1611661322,30,40,3,2
+01:36,[SEA 32-40] Magbegor Fadeaway Jump Shot: Made (11 PTS) Assist: Melbourne (4 AST),51,64,1,,1629496,1631141,1611661328,32,40,2,2
+01:16,[WAS 42-32] Austin Cutting Layup Shot: Made (10 PTS) Assist: Delle Donne (3 AST),-17,0,1,,1631022,203399,1611661322,32,42,2,2
+01:03,[SEA] Magbegor 3pt Shot: Missed,-211,91,2,,1629496,,1611661328,32,42,0,2
+00:59.0,[WAS] Sykes Rebound (Off:0 Def:3),-211,91,4,,1628279,,1611661322,32,42,0,2
+00:55.1,[SEA] Magbegor Foul: Shooting (1 PF) (2 FTA),-40,23,6,1628279,1629496,100274,1611661328,32,42,0,2
+00:55.1,[WAS 43-32] Sykes Free Throw 1 of 2 (6 PTS),0,-80,3,,1628279,,1611661322,32,43,1,2
+00:55.1,[WAS 44-32] Sykes Free Throw 2 of 2 (7 PTS),0,-80,3,,1628279,,1611661322,32,44,1,2
+00:40.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,44,0,2
+00:36.2,[SEA] Melbourne 3pt Shot: Missed,-84,237,2,,1631141,,1611661328,32,44,0,2
+00:32.9,[WAS] Team Rebound,-84,237,4,,0,,1611661322,32,44,0,2
+00:20.2,[WAS 46-32] Cloud Driving Floating Jump Shot: Made (7 PTS),8,70,1,,204333,,1611661322,32,46,2,2
+00:00.6,[SEA] Russell Layup Shot: Missed Block: Austin (2 BLK),20,16,2,1631022,1628920,,1611661328,32,46,0,2
+00:00.1,[SEA] Team Rebound,20,16,4,,0,,1611661328,32,46,0,2
+00:00.0,End Period,0,-80,13,,0,,0,32,46,0,2
+10:00,Start Period,0,-80,12,,0,,0,32,46,0,3
+09:43,[SEA] Russell Turnaround Hook Shot: Missed,-3,98,2,,1628920,,1611661328,32,46,0,3
+09:38,[WAS] Atkins Rebound (Off:0 Def:1),-3,98,4,,1628878,,1611661322,32,46,0,3
+09:20,[WAS] Atkins 3pt Shot: Missed,-185,151,2,,1628878,,1611661322,32,46,0,3
+09:16,[SEA] Nurse Rebound (Off:0 Def:2),-185,151,4,,1628915,,1611661328,32,46,0,3
+09:05,[SEA 34-46] Nurse Pullup Jump shot: Made (2 PTS),-76,162,1,,1628915,,1611661328,34,46,2,3
+08:52,[WAS 48-34] Sykes Driving Layup Shot: Made (9 PTS) Assist: Austin (1 AST),-19,13,1,,1628279,1631022,1611661322,34,48,2,3
+08:40,[WAS] Atkins Foul: Personal (2 PF),106,188,6,1628244,1628878,1629174,1611661322,34,48,0,3
+08:29,[SEA 36-48] Russell Cutting Layup Shot: Made (4 PTS) Assist: Turner (1 AST),26,93,1,,1628920,203389,1611661328,36,48,2,3
+08:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,48,0,3
+08:02,[WAS] Cloud Turnaround Fadeaway shot: Missed,48,150,2,,204333,,1611661322,36,48,0,3
+07:55,[SEA] Russell Rebound (Off:0 Def:2),48,150,4,,1628920,,1611661328,36,48,0,3
+07:43,[WAS] Cloud Foul: Personal (1 PF),-167,195,6,1628244,204333,1629174,1611661322,36,48,0,3
+07:31,[SEA] Whitcomb Turnover : Lost Ball (1 TO) Steal:Atkins (1 ST),-127,250,5,1628878,1628244,,1611661328,36,48,0,3
+07:24,[WAS] Delle Donne Driving Floating Jump Shot: Missed,66,14,2,,203399,,1611661322,36,48,0,3
+07:20,[WAS] Austin Rebound (Off:2 Def:7),66,14,4,,1631022,,1611661322,36,48,0,3
+07:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,48,0,3
+07:16,[WAS] Sykes Driving Layup Shot: Missed Block: Magbegor (3 BLK),5,70,2,1629496,1628279,,1611661322,36,48,0,3
+07:04,[WAS] Austin Rebound (Off:3 Def:7),5,70,4,,1631022,,1611661322,36,48,0,3
+07:04,[WAS 50-36] Austin Putback Layup Shot: Made (12 PTS),31,19,1,,1631022,,1611661322,36,50,2,3
+07:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,50,0,3
+07:04,[SEA] Russell Substitution replaced by Horston,0,-80,8,,1628920,1641651,1611661328,36,50,0,3
+06:54,[SEA 38-50] Magbegor Driving Layup Shot: Made (13 PTS) Assist: Turner (2 AST),-21,10,1,,1629496,203389,1611661328,38,50,2,3
+06:26,[WAS] Sykes Pullup Jump shot: Missed,4,210,2,,1628279,,1611661322,38,50,0,3
+06:21,[SEA] Turner Rebound (Off:0 Def:1),4,210,4,,203389,,1611661328,38,50,0,3
+06:18,[SEA] Turner Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-70,178,5,,203389,,1611661328,38,50,0,3
+05:55,[WAS] Delle Donne 3pt Shot: Missed,201,148,2,,203399,,1611661322,38,50,0,3
+05:50,[WAS] Atkins Rebound (Off:1 Def:1),201,148,4,,1628878,,1611661322,38,50,0,3
+05:50,[WAS] Atkins Putback Layup Shot: Missed,-5,20,2,,1628878,,1611661322,38,50,0,3
+05:47,[SEA] Horston Rebound (Off:0 Def:5),-5,20,4,,1641651,,1611661328,38,50,0,3
+05:41,[SEA] Magbegor 3pt Shot: Missed,43,243,2,,1629496,,1611661328,38,50,0,3
+05:36,[WAS] Cloud Rebound (Off:0 Def:2),43,243,4,,204333,,1611661322,38,50,0,3
+05:24,[WAS] Delle Donne Turnover : Bad Pass (3 TO) Steal:Horston (2 ST),102,172,5,1641651,203399,,1611661322,38,50,0,3
+05:18,[SEA] Magbegor Layup Shot: Missed,-9,18,2,,1629496,,1611661328,38,50,0,3
+05:18,[SEA] Team Rebound,-9,18,4,,0,,1611661328,38,50,0,3
+05:18,[SEA] Magbegor Turnover : Traveling (3 TO),-6,93,5,,1629496,,1611661328,38,50,0,3
+05:18,[SEA] Nurse Substitution replaced by Melbourne,0,-80,8,,1628915,1631141,1611661328,38,50,0,3
+05:18,[SEA] Turner Substitution replaced by Guirantes,0,-80,8,,203389,1630441,1611661328,38,50,0,3
+05:18,[SEA] Whitcomb Substitution replaced by Dojkić,0,-80,8,,1628244,1641602,1611661328,38,50,0,3
+05:18,[WAS] Sykes Substitution replaced by Toliver,0,-80,8,,1628279,201911,1611661322,38,50,0,3
+04:58,[WAS] Delle Donne Turnover : Out of Bounds Lost Ball Turnover (4 TO),76,27,5,,203399,,1611661322,38,50,0,3
+04:58,Timeout Officials,0,-80,9,,0,,0,38,50,0,3
+04:58,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,38,50,0,3
+04:39,[SEA] Horston Driving Layup Shot: Missed,-28,65,2,,1641651,,1611661328,38,50,0,3
+04:35,[WAS] Hines-Allen Rebound (Off:1 Def:2),-28,65,4,,1628899,,1611661322,38,50,0,3
+04:23,[WAS] Austin Layup Shot: Missed,49,53,2,,1631022,,1611661322,38,50,0,3
+04:20,[SEA] Horston Rebound (Off:0 Def:6),49,53,4,,1641651,,1611661328,38,50,0,3
+04:14,[SEA] Melbourne Cutting Layup Shot: Missed,-18,1,2,,1631141,,1611661328,38,50,0,3
+04:10,[WAS] Toliver Rebound (Off:0 Def:1),-18,1,4,,201911,,1611661322,38,50,0,3
+04:07,[WAS] Austin Cutting Layup Shot: Missed,9,30,2,,1631022,,1611661322,38,50,0,3
+04:04,[SEA] Guirantes Rebound (Off:0 Def:1),9,30,4,,1630441,,1611661328,38,50,0,3
+03:57,[SEA 41-50] Horston 3pt Shot: Made (5 PTS) Assist: Magbegor (3 AST),-40,253,1,,1641651,1629496,1611661328,41,50,3,3
+03:41,[WAS] Hines-Allen Driving Layup Shot: Missed,54,38,2,,1628899,,1611661322,41,50,0,3
+03:37,[SEA] Magbegor Rebound (Off:0 Def:2),54,38,4,,1629496,,1611661328,41,50,0,3
+03:34,[WAS] Toliver Foul: Personal (2 PF),-196,43,6,1641602,201911,100308,1611661322,41,50,0,3
+03:31,[SEA] Magbegor Foul: Offensive (2 PF),90,259,6,201911,1629496,100274,1611661328,41,50,0,3
+03:31,[SEA] Magbegor Turnover : Offensive Foul Turnover (4 TO),90,259,5,,1629496,,1611661328,41,50,0,3
+03:18,[WAS] Atkins 3pt Shot: Missed,159,208,2,,1628878,,1611661322,41,50,0,3
+03:13,[SEA] Melbourne Rebound (Off:0 Def:3),159,208,4,,1631141,,1611661328,41,50,0,3
+02:56,[SEA 43-50] Horston Pullup Jump shot: Made (7 PTS) Assist: Dojkić (1 AST),3,159,1,,1641651,1641602,1611661328,43,50,2,3
+02:43,[WAS] Atkins Turnover : Traveling (1 TO),-95,21,5,,1628878,,1611661322,43,50,0,3
+02:43,[WAS] Austin Substitution replaced by Hawkins,0,-80,8,,1631022,203403,1611661322,43,50,0,3
+02:43,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,43,50,0,3
+02:28,[SEA 45-50] Magbegor Turnaround Jump Shot: Made (15 PTS) Assist: Horston (1 AST),2,101,1,,1629496,1641651,1611661328,45,50,2,3
+02:12,[WAS] Toliver Step Back Jump shot: Missed,-19,204,2,,201911,,1611661322,45,50,0,3
+02:08,[WAS] Hawkins Rebound (Off:1 Def:1),-19,204,4,,203403,,1611661322,45,50,0,3
+02:08,[WAS 52-45] Hawkins Putback Layup Shot: Made (7 PTS),-23,8,1,,203403,,1611661322,45,52,2,3
+01:51,[SEA] Dojkić Driving Floating Jump Shot: Missed Block: Walker-Kimbrough (1 BLK),91,58,2,1628278,1641602,,1611661328,45,52,0,3
+01:51,[SEA] Team Rebound,91,58,4,,0,,1611661328,45,52,0,3
+01:51,[WAS] Cloud Substitution replaced by Sykes,0,-80,8,,204333,1628279,1611661322,45,52,0,3
+01:47,[SEA] Horston Pullup Jump shot: Missed,115,141,2,,1641651,,1611661328,45,52,0,3
+01:42,[WAS] Hines-Allen Rebound (Off:1 Def:3),115,141,4,,1628899,,1611661322,45,52,0,3
+01:32,[WAS] Toliver Step Back Jump shot: Missed Block: Guirantes (1 BLK),-11,155,2,1630441,201911,,1611661322,45,52,0,3
+01:29,[WAS] Hawkins Rebound (Off:2 Def:1),-11,155,4,,203403,,1611661322,45,52,0,3
+01:29,[SEA] Magbegor Foul: Personal (3 PF),5,38,6,1628279,1629496,100274,1611661328,45,52,0,3
+01:29,[SEA] Magbegor Substitution replaced by Fankam Mendjiadeu,0,-80,8,,1629496,1641675,1611661328,45,52,0,3
+01:20,[WAS] Walker-Kimbrough 3pt Shot: Missed,-233,0,2,,1628278,,1611661322,45,52,0,3
+01:15,[SEA] Dojkić Rebound (Off:0 Def:2),-233,0,4,,1641602,,1611661328,45,52,0,3
+01:10,[SEA] Horston Turnover : Bad Pass (2 TO) Steal:Hines-Allen (1 ST),138,188,5,1628899,1641651,,1611661328,45,52,0,3
+00:50.8,[WAS] Toliver 3pt Shot: Missed,-229,-5,2,,201911,,1611661322,45,52,0,3
+00:47.0,[SEA] Melbourne Rebound (Off:0 Def:4),-229,-5,4,,1631141,,1611661328,45,52,0,3
+00:38.9,[SEA] Horston Turnover : Traveling (3 TO),49,114,5,,1641651,,1611661328,45,52,0,3
+00:38.9,[WAS] Hines-Allen Substitution replaced by Delle Donne,0,-80,8,,1628899,203399,1611661322,45,52,0,3
+00:27.8,[WAS] Delle Donne Jump Shot: Missed,-156,26,2,,203399,,1611661322,45,52,0,3
+00:25.7,[WAS] Walker-Kimbrough Rebound (Off:1 Def:0),-156,26,4,,1628278,,1611661322,45,52,0,3
+00:25.7,[SEA] Fankam Mendjiadeu Foul: Loose Ball (1 PF) (2 FTA),1,33,6,1628278,1641675,100308,1611661328,45,52,0,3
+00:25.7,[WAS 53-45] Walker-Kimbrough Free Throw 1 of 2 (1 PTS),0,-80,3,,1628278,,1611661322,45,53,1,3
+00:25.7,[WAS] Toliver Substitution replaced by Cloud,0,-80,8,,201911,204333,1611661322,45,53,0,3
+00:25.7,[WAS 54-45] Walker-Kimbrough Free Throw 2 of 2 (2 PTS),0,-80,3,,1628278,,1611661322,45,54,1,3
+00:09.2,[SEA 48-54] Horston 3pt Shot: Made (10 PTS) Assist: Melbourne (5 AST),-187,162,1,,1641651,1631141,1611661328,48,54,3,3
+00:02.6,[SEA] Guirantes Foul: Shooting (1 PF) (2 FTA),-90,57,6,1628279,1630441,100274,1611661328,48,54,0,3
+00:02.6,[WAS 55-48] Sykes Free Throw 1 of 2 (10 PTS),0,-80,3,,1628279,,1611661322,48,55,1,3
+00:02.6,[WAS 56-48] Sykes Free Throw 2 of 2 (11 PTS),0,-80,3,,1628279,,1611661322,48,56,1,3
+00:00.7,[SEA] Guirantes 3pt Shot: Missed,4,452,2,,1630441,,1611661328,48,56,0,3
+00:00.1,[SEA] Team Rebound,4,452,4,,0,,1611661328,48,56,0,3
+00:00.0,End Period,0,-80,13,,0,,0,48,56,0,3
+10:00,Start Period,0,-80,12,,0,,0,48,56,0,4
+09:39,[WAS] Delle Donne Turnover : Traveling (5 TO),-106,48,5,,203399,,1611661322,48,56,0,4
+09:26,[WAS] Delle Donne Foul: Personal (2 PF),-12,104,6,1641651,203399,100274,1611661322,48,56,0,4
+09:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,56,0,4
+09:20,[SEA] Horston 3pt Shot: Missed,84,236,2,,1641651,,1611661328,48,56,0,4
+09:15,[WAS] Meng Rebound (Off:1 Def:2),84,236,4,,1641642,,1611661322,48,56,0,4
+08:59,[WAS] Hawkins Foul: Offensive (1 PF),-60,8,6,1631141,203403,100274,1611661322,48,56,0,4
+08:59,[WAS] Hawkins Turnover : Offensive Foul Turnover (1 TO),-60,8,5,,203403,,1611661322,48,56,0,4
+08:48,[SEA] Dojkić 3pt Shot: Missed,124,215,2,,1641602,,1611661328,48,56,0,4
+08:47,[WAS] Team Rebound,124,215,4,,0,,1611661322,48,56,0,4
+08:23,[WAS] Sykes 3pt Shot: Missed,-144,219,2,,1628279,,1611661322,48,56,0,4
+08:20,[SEA] Magbegor Rebound (Off:0 Def:3),-144,219,4,,1629496,,1611661328,48,56,0,4
+08:14,[SEA] Guirantes 3pt Shot: Missed,-218,109,2,,1630441,,1611661328,48,56,0,4
+08:10,[WAS] Delle Donne Rebound (Off:2 Def:2),-218,109,4,,203399,,1611661322,48,56,0,4
+08:07,[WAS] Sykes Turnover : Out of Bounds - Bad Pass Turnover (2 TO),166,489,5,,1628279,,1611661322,48,56,0,4
+08:07,[WAS] Cloud Technical (1 FTA),0,-80,6,,204333,100274,1611661322,48,56,0,4
+08:07,[SEA] Guirantes Free Throw Technical Missed,0,-80,3,,1630441,,1611661328,48,56,0,4
+08:07,[SEA] Team Rebound,0,-80,4,,0,,1611661328,48,56,0,4
+07:51,[SEA] Guirantes Driving Floating Jump Shot: Missed,-63,85,2,,1630441,,1611661328,48,56,0,4
+07:46,[WAS] Delle Donne Rebound (Off:2 Def:3),-63,85,4,,203399,,1611661322,48,56,0,4
+07:35,[WAS] Hawkins Cutting Layup Shot: Missed,46,67,2,,203403,,1611661322,48,56,0,4
+07:33,[SEA] Magbegor Rebound (Off:0 Def:4),46,67,4,,1629496,,1611661328,48,56,0,4
+07:25,[SEA] Melbourne Driving Finger Roll Layup Shot: Missed,-33,23,2,,1631141,,1611661328,48,56,0,4
+07:22,[WAS] Delle Donne Rebound (Off:2 Def:4),-33,23,4,,203399,,1611661322,48,56,0,4
+07:13,[SEA] Melbourne Foul: Shooting (3 PF) (2 FTA),45,72,6,1628279,1631141,100308,1611661328,48,56,0,4
+07:13,[WAS] Sykes Free Throw 1 of 2 Missed,0,-80,3,,1628279,,1611661322,48,56,0,4
+07:13,[WAS] Team Rebound,0,-80,4,,0,,1611661322,48,56,0,4
+07:13,[SEA] Melbourne Substitution replaced by Nurse,0,-80,8,,1631141,1628915,1611661328,48,56,0,4
+07:13,[SEA] Guirantes Substitution replaced by Turner,0,-80,8,,1630441,203389,1611661328,48,56,0,4
+07:13,[WAS] Delle Donne Substitution replaced by Austin,0,-80,8,,203399,1631022,1611661322,48,56,0,4
+07:13,[WAS] Hawkins Substitution replaced by Hines-Allen,0,-80,8,,203403,1628899,1611661322,48,56,0,4
+07:13,[WAS 57-48] Sykes Free Throw 2 of 2 (12 PTS),0,-80,3,,1628279,,1611661322,48,57,1,4
+07:02,[SEA] Dojkić Turnover : Traveling (1 TO),-22,177,5,,1641602,,1611661328,48,57,0,4
+07:02,[SEA] Dojkić Substitution replaced by Whitcomb,0,-80,8,,1641602,1628244,1611661328,48,57,0,4
+07:02,[WAS] Sykes Substitution replaced by Cloud,0,-80,8,,1628279,204333,1611661322,48,57,0,4
+06:41,[WAS 59-48] Austin Turnaround Bank Hook Shot: Made (14 PTS),65,69,1,,1631022,,1611661322,48,59,2,4
+06:32,[SEA] Turner Pullup Jump shot: Missed,66,204,2,,203389,,1611661328,48,59,0,4
+06:30,[WAS] Team Rebound,66,204,4,,0,,1611661322,48,59,0,4
+06:20,[WAS] Hines-Allen Turnover : Out of Bounds - Bad Pass Turnover (1 TO),146,225,5,,1628899,,1611661322,48,59,0,4
+06:08,[SEA 51-59] Whitcomb 3pt Shot: Made (7 PTS) Assist: Turner (3 AST),-118,222,1,,1628244,203389,1611661328,51,59,3,4
+05:55,[WAS] Cloud Driving Layup Shot: Missed,53,43,2,,204333,,1611661322,51,59,0,4
+05:53,[SEA] Magbegor Rebound (Off:0 Def:5),53,43,4,,1629496,,1611661328,51,59,0,4
+05:46,[SEA] Magbegor Cutting Layup Shot: Missed,23,7,2,,1629496,,1611661328,51,59,0,4
+05:43,[WAS] Hines-Allen Rebound (Off:1 Def:4),23,7,4,,1628899,,1611661322,51,59,0,4
+05:24,[WAS 61-51] Meng Step Back Jump shot: Made (5 PTS) Assist: Hines-Allen (1 AST),133,65,1,,1641642,1628899,1611661322,51,61,2,4
+05:14,[WAS] Meng Foul: Personal (2 PF),-82,136,6,1628244,1641642,1629174,1611661322,51,61,0,4
+05:14,Timeout Officials,0,-80,9,,0,,0,51,61,0,4
+05:14,[WAS] Hines-Allen Substitution replaced by Delle Donne,0,-80,8,,1628899,203399,1611661322,51,61,0,4
+05:14,[WAS] Walker-Kimbrough Substitution replaced by Atkins,0,-80,8,,1628278,1628878,1611661322,51,61,0,4
+05:07,[SEA 53-61] Magbegor Cutting Layup Shot: Made (17 PTS) Assist: Whitcomb (1 AST),-18,-5,1,,1629496,1628244,1611661328,53,61,2,4
+04:47,[SEA] Horston Foul: Shooting (2 PF) (2 FTA),-46,11,6,1628878,1641651,100274,1611661328,53,61,0,4
+04:47,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661328,53,61,0,4
+04:47,[WAS] Atkins Free Throw 1 of 2 Missed,0,-80,3,,1628878,,1611661322,53,61,0,4
+04:47,[WAS] Team Rebound,0,-80,4,,0,,1611661322,53,61,0,4
+04:47,[WAS 62-53] Atkins Free Throw 2 of 2 (1 PTS),0,-80,3,,1628878,,1611661322,53,62,1,4
+04:33,[SEA] Horston Driving Floating Jump Shot: Missed,-4,104,2,,1641651,,1611661328,53,62,0,4
+04:28,[SEA] Horston Rebound (Off:1 Def:6),-4,104,4,,1641651,,1611661328,53,62,0,4
+04:28,[SEA] Horston Putback Layup Shot: Missed,-13,62,2,,1641651,,1611661328,53,62,0,4
+04:24,[WAS] Austin Rebound (Off:3 Def:8),-13,62,4,,1631022,,1611661322,53,62,0,4
+04:04,[WAS] Atkins 3pt Shot: Missed,-123,223,2,,1628878,,1611661322,53,62,0,4
+04:01,[WAS] Delle Donne Rebound (Off:3 Def:4),-123,223,4,,203399,,1611661322,53,62,0,4
+03:57,[SEA] Nurse Foul: Shooting (2 PF) (2 FTA),24,17,6,1631022,1628915,100308,1611661328,53,62,0,4
+03:57,[WAS] Austin Free Throw 1 of 2 Missed,0,-80,3,,1631022,,1611661322,53,62,0,4
+03:57,[WAS] Team Rebound,0,-80,4,,0,,1611661322,53,62,0,4
+03:57,[WAS] Meng Substitution replaced by Sykes,0,-80,8,,1641642,1628279,1611661322,53,62,0,4
+03:57,[WAS 63-53] Austin Free Throw 2 of 2 (15 PTS),0,-80,3,,1631022,,1611661322,53,63,1,4
+03:41,[SEA] Horston Turnover : Bad Pass (4 TO) Steal:Sykes (2 ST),74,293,5,1628279,1641651,,1611661328,53,63,0,4
+03:35,[WAS] Austin Running Reverse Layup Shot: Missed,20,11,2,,1631022,,1611661322,53,63,0,4
+03:31,[SEA] Horston Rebound (Off:1 Def:7),20,11,4,,1641651,,1611661328,53,63,0,4
+03:23,[SEA 55-63] Magbegor Cutting Layup Shot: Made (19 PTS) Assist: Whitcomb (2 AST),23,2,1,,1629496,1628244,1611661328,55,63,2,4
+03:13,[WAS 66-55] Sykes 3pt Shot: Made (15 PTS) Assist: Atkins (6 AST),223,76,1,,1628279,1628878,1611661322,55,66,3,4
+03:02,[SEA 57-66] Magbegor Driving Layup Shot: Made (21 PTS) Assist: Whitcomb (3 AST),19,12,1,,1629496,1628244,1611661328,57,66,2,4
+03:02,[WAS] Delle Donne Foul: Shooting (3 PF) (1 FTA),19,12,6,1629496,203399,100308,1611661322,57,66,0,4
+03:02,[WAS] Delle Donne Substitution replaced by Hawkins,0,-80,8,,203399,203403,1611661322,57,66,0,4
+03:02,[SEA 58-66] Magbegor Free Throw 1 of 1 (22 PTS),0,-80,3,,1629496,,1611661328,58,66,1,4
+02:55,[WAS] Atkins Turnover : Traveling (2 TO),89,279,5,,1628878,,1611661322,58,66,0,4
+02:35,[WAS] Hawkins Foul: Shooting (2 PF) (2 FTA),-26,96,6,203389,203403,100274,1611661322,58,66,0,4
+02:35,[SEA 59-66] Turner Free Throw 1 of 2 (1 PTS),0,-80,3,,203389,,1611661328,59,66,1,4
+02:35,[SEA 60-66] Turner Free Throw 2 of 2 (2 PTS),0,-80,3,,203389,,1611661328,60,66,1,4
+02:23,[WAS] Hawkins Turnover : Out of Bounds - Bad Pass Turnover (2 TO),120,266,5,,203403,,1611661322,60,66,0,4
+02:08,[SEA] Horston Hook Shot: Missed,-24,72,2,,1641651,,1611661328,60,66,0,4
+02:04,[SEA] Horston Rebound (Off:2 Def:7),-24,72,4,,1641651,,1611661328,60,66,0,4
+02:02,[SEA] Horston Putback Layup Shot: Missed,-16,8,2,,1641651,,1611661328,60,66,0,4
+02:02,[SEA] Team Rebound,-16,8,4,,0,,1611661328,60,66,0,4
+01:56,[SEA] Whitcomb Pullup Jump shot: Missed,-66,169,2,,1628244,,1611661328,60,66,0,4
+01:52,[WAS] Sykes Rebound (Off:0 Def:4),-66,169,4,,1628279,,1611661322,60,66,0,4
+01:38,[WAS] Atkins Driving Floating Jump Shot: Missed,-119,159,2,,1628878,,1611661322,60,66,0,4
+01:35,[WAS] Hawkins Rebound (Off:3 Def:1),-183,149,4,,203403,,1611661322,60,66,0,4
+01:35,[WAS 68-60] Hawkins Putback Layup Shot: Made (9 PTS),17,11,1,,203403,,1611661322,60,68,2,4
+01:35,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,60,68,0,4
+01:35,[SEA] Turner Substitution replaced by Melbourne,0,-80,8,,203389,1631141,1611661328,60,68,0,4
+01:29,[WAS] Sykes Foul: Shooting (1 PF) (2 FTA),24,18,6,1631141,1628279,100308,1611661322,60,68,0,4
+01:29,[SEA 61-68] Melbourne Free Throw 1 of 2 (4 PTS),0,-80,3,,1631141,,1611661328,61,68,1,4
+01:29,[SEA] Whitcomb Substitution replaced by Dojkić,0,-80,8,,1628244,1641602,1611661328,61,68,0,4
+01:29,[SEA] Melbourne Free Throw 2 of 2 Missed,0,-80,3,,1631141,,1611661328,61,68,0,4
+01:26,[WAS] Cloud Rebound (Off:0 Def:3),0,-80,4,,204333,,1611661322,61,68,0,4
+01:20,[SEA] Dojkić Foul: Personal (2 PF),37,19,6,1628878,1641602,100308,1611661328,61,68,0,4
+01:20,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,61,68,0,4
+01:14,[WAS 70-61] Sykes Driving Layup Shot: Made (17 PTS),34,27,1,,1628279,,1611661322,61,70,2,4
+01:14,[SEA] Melbourne Foul: Shooting (4 PF) (1 FTA),34,27,6,1628279,1631141,1629174,1611661328,61,70,0,4
+01:14,[SEA] Dojkić Substitution replaced by Whitcomb,0,-80,8,,1641602,1628244,1611661328,61,70,0,4
+01:14,[WAS] Hawkins Substitution replaced by Walker-Kimbrough,0,-80,8,,203403,1628278,1611661322,61,70,0,4
+01:14,[WAS 71-61] Sykes Free Throw 1 of 1 (18 PTS),0,-80,3,,1628279,,1611661322,61,71,1,4
+00:57.2,[WAS] Austin Foul: Shooting (2 PF) (2 FTA),-26,-1,6,1629496,1631022,1629174,1611661322,61,71,0,4
+00:57.2,[SEA 62-71] Magbegor Free Throw 1 of 2 (23 PTS),0,-80,3,,1629496,,1611661328,62,71,1,4
+00:57.2,[SEA] Whitcomb Substitution replaced by Dojkić,0,-80,8,,1628244,1641602,1611661328,62,71,0,4
+00:57.2,[SEA 63-71] Magbegor Free Throw 2 of 2 (24 PTS),0,-80,3,,1629496,,1611661328,63,71,1,4
+00:40.8,[WAS] Atkins Turnover : Traveling (3 TO),70,242,5,,1628878,,1611661322,63,71,0,4
+00:40.8,[SEA] Dojkić Substitution replaced by Whitcomb,0,-80,8,,1641602,1628244,1611661328,63,71,0,4
+00:32.3,[SEA] Melbourne Turnover : Out of Bounds - Bad Pass Turnover (2 TO),96,226,5,,1631141,,1611661328,63,71,0,4
+00:32.3,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,63,71,0,4
+00:10.7,[WAS] Sykes 3pt Shot: Missed Block: Horston (2 BLK),213,81,2,1641651,1628279,,1611661322,63,71,0,4
+00:05.7,[SEA] Nurse Rebound (Off:0 Def:3),213,81,4,,1628915,,1611661328,63,71,0,4
+00:03.1,[SEA 66-71] Nurse 3pt Shot: Made (5 PTS),-16,268,1,,1628915,,1611661328,66,71,3,4
+00:02.1,[SEA] Whitcomb Foul: Personal (1 PF) (2 FTA),-60,851,6,1628878,1628244,100308,1611661328,66,71,0,4
+00:02.1,[WAS 72-66] Atkins Free Throw 1 of 2 (2 PTS),0,-80,3,,1628878,,1611661322,66,72,1,4
+00:02.1,[WAS] Cloud Substitution replaced by Hawkins,0,-80,8,,204333,203403,1611661322,66,72,0,4
+00:02.1,[WAS] Sykes Substitution replaced by Meng,0,-80,8,,1628279,1641642,1611661322,66,72,0,4
+00:02.1,[WAS 73-66] Atkins Free Throw 2 of 2 (3 PTS),0,-80,3,,1628878,,1611661322,66,73,1,4
+00:00.0,End Period,0,-80,13,,0,,0,66,73,0,4

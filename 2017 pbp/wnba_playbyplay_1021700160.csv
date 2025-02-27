@@ -1,0 +1,421 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Jones vs Johnson (Bentley gains possession),0,-80,10,203017,1627673,203410,1611661323,0,0,1
+09:46,[CON] Jones Jump Shot: Missed,82,124,2,,1627673,,1611661323,0,0,1
+09:45,[DAL] Johnson Rebound (Off:0 Def:1),0,-80,4,,203017,,1611661321,0,0,1
+09:29,[DAL] Gray Jump Shot: Missed,-135,7,2,,1628277,,1611661321,0,0,1
+09:28,[CON] Jones Rebound (Off:0 Def:1),0,-80,4,,1627673,,1611661323,0,0,1
+09:09,[CON] Thomas Jump Shot: Missed,9,38,2,,203826,,1611661323,0,0,1
+09:08,[DAL] Gray Rebound (Off:0 Def:1),0,-80,4,,1628277,,1611661321,0,0,1
+08:56,[DAL 3-0] Johnson 3pt Shot: Made (3 PTS) Assist: Diggins-Smith (1 AST),9,237,1,,203017,203400,1611661321,0,3,1
+08:39,[DAL] Paris Foul: Shooting (1 PF) (2 FTA),10,21,6,1627673,201907,,1611661321,0,3,1
+08:39,[CON 1-3] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1627673,,1611661323,1,3,1
+08:39,[CON 2-3] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1627673,,1611661323,2,3,1
+08:24,[DAL 5-2] Paris Jump Shot: Made (2 PTS) Assist: Diggins-Smith (2 AST),2,38,1,,201907,203400,1611661321,2,5,1
+08:13,[CON] Bentley Jump Shot: Missed,-70,178,2,,203410,,1611661323,2,5,1
+08:12,[CON] Jones Rebound (Off:1 Def:1),0,-80,4,,1627673,,1611661323,2,5,1
+08:10,[CON] Stricklen 3pt Shot: Missed,-196,144,2,,203015,,1611661323,2,5,1
+08:08,[CON] Jones Rebound (Off:2 Def:1),0,-80,4,,1627673,,1611661323,2,5,1
+08:02,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Gray (1 ST),0,-80,5,1628277,1627673,,1611661323,2,5,1
+07:53,[DAL] Christmas-Kelly Jump Shot: Missed,-34,195,2,,202640,,1611661321,2,5,1
+07:52,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,203826,,1611661323,2,5,1
+07:46,[CON 4-5] Williams Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),0,11,1,,1627675,203826,1611661323,4,5,1
+07:38,[DAL] Gray Jump Shot: Missed,155,16,2,,1628277,,1611661321,4,5,1
+07:37,[CON] Thomas Rebound (Off:0 Def:2),0,-80,4,,203826,,1611661323,4,5,1
+07:31,[CON] Williams Jump Shot: Missed,153,149,2,,1627675,,1611661323,4,5,1
+07:29,[DAL] Diggins-Smith Rebound (Off:0 Def:1),0,-80,4,,203400,,1611661321,4,5,1
+07:20,[DAL 7-4] Diggins-Smith Jump Shot: Made (2 PTS),153,129,1,,203400,,1611661321,4,7,1
+07:06,[CON 6-7] Williams Step Back Bank Jump Shot: Made (4 PTS),97,13,1,,1627675,,1611661323,6,7,1
+06:48,[DAL 10-6] Diggins-Smith 3pt Shot: Made (5 PTS) Assist: Johnson (1 AST),155,193,1,,203400,203017,1611661321,6,10,1
+06:34,[DAL] Paris Foul: Shooting (2 PF) (2 FTA),60,3,6,1627673,201907,,1611661321,6,10,1
+06:34,[CON 7-10] Jones Free Throw 1 of 2 (3 PTS),0,-80,3,,1627673,,1611661323,7,10,1
+06:34,[DAL] Paris Substitution replaced by Plaisance,0,-80,8,,201907,203849,1611661321,7,10,1
+06:34,[CON 8-10] Jones Free Throw 2 of 2 (4 PTS),0,-80,3,,1627673,,1611661323,8,10,1
+06:21,[DAL] Plaisance Jump Shot: Missed,-91,149,2,,203849,,1611661321,8,10,1
+06:20,[CON] Thomas Rebound (Off:0 Def:3),0,-80,4,,203826,,1611661323,8,10,1
+06:15,[CON 10-10] Williams Jump Shot: Made (6 PTS) Assist: Thomas (2 AST),110,-6,1,,1627675,203826,1611661323,10,10,1
+05:54,[DAL] Johnson Jump Shot: Missed,30,-10,2,,203017,,1611661321,10,10,1
+05:53,[CON] Thomas Rebound (Off:0 Def:4),0,-80,4,,203826,,1611661323,10,10,1
+05:50,[CON] Thomas Foul: Offensive (1 PF),-34,105,6,203400,203826,,1611661323,10,10,1
+05:50,[CON] Thomas Turnover : Foul (1 TO),0,-80,5,,203826,,1611661323,10,10,1
+05:36,[DAL] Christmas-Kelly Jump Shot: Missed,-30,149,2,,202640,,1611661321,10,10,1
+05:34,[CON] Jones Rebound (Off:2 Def:2),0,-80,4,,1627673,,1611661323,10,10,1
+05:28,[CON 12-10] Thomas Running Jump Shot: Made (2 PTS),38,11,1,,203826,,1611661323,12,10,1
+05:18,[DAL] Diggins-Smith 3pt Shot: Missed,-148,183,2,,203400,,1611661321,12,10,1
+05:16,[DAL] Gray Rebound (Off:1 Def:1),0,-80,4,,1628277,,1611661321,12,10,1
+05:14,[DAL 12-12] Gray Layup Shot: Made (2 PTS),1,3,1,,1628277,,1611661321,12,12,1
+04:59,[DAL] Plaisance Foul: Shooting (1 PF) (2 FTA),55,92,6,1627673,203849,,1611661321,12,12,1
+04:59,Timeout : Official,0,-80,9,,0,,0,12,12,1
+04:59,[DAL] Gray Substitution replaced by Powers,0,-80,8,,1628277,1627672,1611661321,12,12,1
+04:59,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,12,12,1
+04:59,[CON] Team Rebound,0,-80,4,,0,,1611661323,12,12,1
+04:59,[CON 13-12] Jones Free Throw 2 of 2 (5 PTS),0,-80,3,,1627673,,1611661323,13,12,1
+04:36,[DAL] Powers Jump Shot: Missed,-48,85,2,,1627672,,1611661321,13,12,1
+04:34,[DAL] Johnson Rebound (Off:1 Def:1),0,-80,4,,203017,,1611661321,13,12,1
+04:33,[DAL 14-13] Johnson Jump Shot: Made (5 PTS),42,-1,1,,203017,,1611661321,13,14,1
+04:16,[DAL] Powers Foul: Shooting (1 PF) (2 FTA),86,149,6,1627675,1627672,,1611661321,13,14,1
+04:16,[CON 14-14] Williams Free Throw 1 of 2 (7 PTS),0,-80,3,,1627675,,1611661323,14,14,1
+04:16,[CON 15-14] Williams Free Throw 2 of 2 (8 PTS),0,-80,3,,1627675,,1611661323,15,14,1
+03:51,[DAL] Powers 3pt Shot: Missed,-124,205,2,,1627672,,1611661321,15,14,1
+03:50,[CON] Bentley Rebound (Off:0 Def:1),0,-80,4,,203410,,1611661323,15,14,1
+03:44,[CON 17-14] Jones Running Reverse Layup Shot: Made (7 PTS) Assist: Bentley (1 AST),24,2,1,,1627673,203410,1611661323,17,14,1
+03:36,[CON] Bentley Substitution replaced by Thomas,0,-80,8,,203410,202662,1611661323,17,14,1
+03:27,[DAL] Plaisance 3pt Shot: Missed,222,110,2,,203849,,1611661321,17,14,1
+03:26,[DAL] Team Rebound,0,-80,4,,0,,1611661321,17,14,1
+03:14,[DAL] Diggins-Smith Driving Hook Shot: Missed,-88,18,2,,203400,,1611661321,17,14,1
+03:13,[CON] Jones Rebound (Off:2 Def:3),0,-80,4,,1627673,,1611661323,17,14,1
+03:03,[CON] Thomas Jump Shot: Missed,14,57,2,,203826,,1611661323,17,14,1
+02:59,[CON] Team Rebound,0,-80,4,,0,,1611661323,17,14,1
+02:59,[DAL] Powers Foul: Loose Ball (2 PF) (2 FTA),-24,2,6,202662,1627672,,1611661321,17,14,1
+02:59,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202662,,1611661323,17,14,1
+02:59,[CON] Team Rebound,0,-80,4,,0,,1611661323,17,14,1
+02:59,[DAL] Christmas-Kelly Substitution replaced by Davis,0,-80,8,,202640,1628273,1611661321,17,14,1
+02:59,[CON 18-14] Thomas Free Throw 2 of 2 (1 PTS),0,-80,3,,202662,,1611661323,18,14,1
+02:47,[CON] Stricklen Foul: Shooting (1 PF) (2 FTA),14,31,6,1628273,203015,,1611661323,18,14,1
+02:47,[DAL 15-18] Davis Free Throw 1 of 2 (1 PTS),0,-80,3,,1628273,,1611661321,18,15,1
+02:47,[DAL] Johnson Substitution replaced by Thornton,0,-80,8,,203017,203866,1611661321,18,15,1
+02:47,[DAL 16-18] Davis Free Throw 2 of 2 (2 PTS),0,-80,3,,1628273,,1611661321,18,16,1
+02:33,[CON] Stricklen Jump Shot: Missed,-97,134,2,,203015,,1611661323,18,16,1
+02:32,[CON] Team Rebound,0,-80,4,,0,,1611661323,18,16,1
+02:32,[DAL] Plaisance Foul: Loose Ball (2 PF) (2 FTA),6,77,6,1627673,203849,,1611661321,18,16,1
+02:32,[CON 19-16] Jones Free Throw 1 of 2 (8 PTS),0,-80,3,,1627673,,1611661323,19,16,1
+02:32,[CON 20-16] Jones Free Throw 2 of 2 (9 PTS),0,-80,3,,1627673,,1611661323,20,16,1
+02:21,[DAL] Powers 3pt Shot: Missed,58,234,2,,1627672,,1611661321,20,16,1
+02:19,[CON] Jones Rebound (Off:2 Def:4),0,-80,4,,1627673,,1611661323,20,16,1
+02:14,[CON 22-16] Thomas Layup Shot: Made (4 PTS) Assist: Jones (1 AST),-9,-1,1,,203826,1627673,1611661323,22,16,1
+02:07,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,22,16,1
+02:07,[CON] Thomas Substitution replaced by Tuck,0,-80,8,,203826,1627670,1611661323,22,16,1
+01:55,[DAL] Plaisance Foul: Offensive (3 PF),-132,198,6,1627675,203849,,1611661321,22,16,1
+01:55,[DAL] Plaisance Turnover : Foul (1 TO),0,-80,5,,203849,,1611661321,22,16,1
+01:55,[DAL] Plaisance Substitution replaced by Christmas-Kelly,0,-80,8,,203849,202640,1611661321,22,16,1
+01:38,[CON 24-16] Tuck Driving Layup Shot: Made (2 PTS),15,18,1,,1627670,,1611661323,24,16,1
+01:24,[CON] Tuck Foul: Shooting (1 PF) (2 FTA),-29,11,6,1628273,1627670,,1611661323,24,16,1
+01:24,[DAL 17-24] Davis Free Throw 1 of 2 (3 PTS),0,-80,3,,1628273,,1611661321,24,17,1
+01:24,[DAL 18-24] Davis Free Throw 2 of 2 (4 PTS),0,-80,3,,1628273,,1611661321,24,18,1
+01:04,[CON 26-18] Stricklen Turnaround Fadeaway shot: Made (2 PTS),-29,65,1,,203015,,1611661323,26,18,1
+00:44.5,[DAL 20-26] Powers Jump Bank Shot: Made (2 PTS),99,11,1,,1627672,,1611661321,26,20,1
+00:33.9,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Thornton (1 ST),0,-80,5,203866,202662,,1611661323,26,20,1
+00:25.6,[DAL 22-26] Powers Pullup Jump shot: Made (4 PTS) Assist: Thornton (1 AST),101,141,1,,1627672,203866,1611661321,26,22,1
+00:04.9,[CON] Thomas Layup Shot: Missed,-12,-11,2,,202662,,1611661323,26,22,1
+00:04.1,[CON] Jones Rebound (Off:3 Def:4),0,-80,4,,1627673,,1611661323,26,22,1
+00:03.8,[CON 28-22] Jones Putback Layup Shot: Made (11 PTS),2,11,1,,1627673,,1611661323,28,22,1
+00:00.2,[DAL] Davis 3pt Shot: Missed,-165,375,2,,1628273,,1611661321,28,22,1
+00:00.0,[DAL] Team Rebound,0,-80,4,,0,,1611661321,28,22,1
+00:00.0,End Period,0,-80,13,,0,,0,28,22,1
+10:00,Start Period,0,-80,12,,0,,0,28,22,2
+09:47,[DAL 24-28] Johnson Turnaround Fadeaway shot: Made (7 PTS) Assist: Christmas-Kelly (1 AST),58,70,1,,203017,202640,1611661321,28,24,2
+09:32,[CON] Williams Pullup Jump shot: Missed,-55,170,2,,1627675,,1611661323,28,24,2
+09:31,[DAL] Johnson Rebound (Off:1 Def:2),0,-80,4,,203017,,1611661321,28,24,2
+09:16,[DAL 27-28] Powers 3pt Shot: Made (7 PTS),-60,223,1,,1627672,,1611661321,28,27,2
+09:05,[DAL] Christmas-Kelly Foul: Personal (1 PF),146,332,6,202653,202640,,1611661321,28,27,2
+09:00,[CON 31-27] Thomas 3pt Shot: Made (4 PTS),-9,234,1,,202662,,1611661323,31,27,2
+08:39,[DAL 29-31] Johnson Jump Shot: Made (9 PTS) Assist: Powers (1 AST),163,7,1,,203017,1627672,1611661321,31,29,2
+08:22,[CON] Tuck 3pt Shot: Missed,17,242,2,,1627670,,1611661323,31,29,2
+08:21,[DAL] Johnson Rebound (Off:1 Def:3),0,-80,4,,203017,,1611661321,31,29,2
+08:20,[CON] Tuck Foul: Personal (2 PF),15,355,6,1627672,1627670,,1611661323,31,29,2
+08:20,[CON] Williams Substitution replaced by Bentley,0,-80,8,,1627675,203410,1611661323,31,29,2
+08:20,[CON] Tuck Substitution replaced by Thomas,0,-80,8,,1627670,203826,1611661323,31,29,2
+08:20,[DAL] Davis Substitution replaced by Gray,0,-80,8,,1628273,1628277,1611661321,31,29,2
+08:13,[CON] Bentley Foul: Shooting (1 PF) (2 FTA),1,43,6,1628277,203410,,1611661323,31,29,2
+08:13,[DAL] Gray Free Throw 1 of 2 Missed,0,-80,3,,1628277,,1611661321,31,29,2
+08:13,[DAL] Team Rebound,0,-80,4,,0,,1611661321,31,29,2
+08:13,[DAL 30-31] Gray Free Throw 2 of 2 (3 PTS),0,-80,3,,1628277,,1611661321,31,30,2
+08:03,[CON 33-30] Thomas Driving Layup Shot: Made (6 PTS),35,2,1,,203826,,1611661323,33,30,2
+07:48,[DAL] Gray Foul: Offensive (1 PF),-4,87,6,202653,1628277,,1611661321,33,30,2
+07:48,[DAL] Gray Turnover : Foul (1 TO),0,-80,5,,1628277,,1611661321,33,30,2
+07:48,[DAL] Powers Substitution replaced by Diggins-Smith,0,-80,8,,1627672,203400,1611661321,33,30,2
+07:37,[CON] Thomas Jump Shot: Missed,58,2,2,,203826,,1611661323,33,30,2
+07:36,[CON] Pedersen Rebound (Off:1 Def:0),0,-80,4,,202653,,1611661323,33,30,2
+07:27,[CON] Bentley 3pt Shot: Missed,177,195,2,,203410,,1611661323,33,30,2
+07:23,[DAL] Gray Rebound (Off:1 Def:2),0,-80,4,,1628277,,1611661321,33,30,2
+07:14,[DAL] Diggins-Smith Jump Shot: Missed,32,-5,2,,203400,,1611661321,33,30,2
+07:12,[CON] Thomas Rebound (Off:0 Def:5),0,-80,4,,203826,,1611661323,33,30,2
+07:04,[CON] Stricklen Turnover : Bad Pass (1 TO) Steal:Chong (1 ST),0,-80,5,1628267,203015,,1611661323,33,30,2
+06:56,[DAL 32-33] Gray Layup Shot: Made (5 PTS) Assist: Johnson (2 AST),4,13,1,,1628277,203017,1611661321,33,32,2
+06:40,[CON 35-32] Bentley Driving Finger Roll Layup Shot: Made (2 PTS),15,-6,1,,203410,,1611661323,35,32,2
+06:14,[CON] Pedersen Foul: Personal (1 PF),112,-1,6,203017,202653,,1611661323,35,32,2
+06:14,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,35,32,2
+06:14,[CON] Pedersen Substitution replaced by Jones,0,-80,8,,202653,1627673,1611661323,35,32,2
+06:02,[DAL] Christmas-Kelly Turnover : Bad Pass (1 TO) Steal:Stricklen (1 ST),0,-80,5,203015,202640,,1611661321,35,32,2
+06:00,[DAL] Chong Substitution replaced by Thornton,0,-80,8,,1628267,203866,1611661321,35,32,2
+05:52,[CON 38-32] Stricklen 3pt Shot: Made (5 PTS) Assist: Bentley (2 AST),-228,38,1,,203015,203410,1611661323,38,32,2
+05:43,[DAL 34-38] Gray Driving Layup Shot: Made (7 PTS),-11,-16,1,,1628277,,1611661321,38,34,2
+05:42,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,38,34,2
+05:30,[CON] Jones Jump Shot: Missed,-104,-1,2,,1627673,,1611661323,38,34,2
+05:29,[DAL] Johnson Rebound (Off:1 Def:4),0,-80,4,,203017,,1611661321,38,34,2
+05:11,[DAL 37-38] Gray 3pt Shot: Made (10 PTS) Assist: Diggins-Smith (3 AST),-120,188,1,,1628277,203400,1611661321,38,37,2
+05:01,[CON 40-37] Banham Jump Shot: Made (2 PTS),156,-10,1,,1627671,,1611661323,40,37,2
+04:48,[DAL] Gray Jump Shot: Missed,-2,51,2,,1628277,,1611661321,40,37,2
+04:47,[CON] Thomas Rebound (Off:0 Def:6),0,-80,4,,203826,,1611661323,40,37,2
+04:40,[CON] Banham 3pt Shot: Missed,-163,203,2,,1627671,,1611661323,40,37,2
+04:39,[DAL] Christmas-Kelly Rebound (Off:0 Def:1),0,-80,4,,202640,,1611661321,40,37,2
+04:28,[DAL 40-40] Johnson 3pt Shot: Made (12 PTS) Assist: Gray (1 AST),169,180,1,,203017,1628277,1611661321,40,40,2
+04:09,[DAL] Christmas-Kelly Foul: Shooting (2 PF) (2 FTA),48,97,6,203410,202640,,1611661321,40,40,2
+04:09,[CON 41-40] Bentley Free Throw 1 of 2 (3 PTS),0,-80,3,,203410,,1611661323,41,40,2
+04:09,[CON] Banham Substitution replaced by Williams,0,-80,8,,1627671,1627675,1611661323,41,40,2
+04:09,[DAL] Christmas-Kelly Substitution replaced by Powers,0,-80,8,,202640,1627672,1611661321,41,40,2
+04:09,[DAL] Thornton Substitution replaced by Lewis,0,-80,8,,203866,1628292,1611661321,41,40,2
+04:09,[CON] Stricklen Substitution replaced by Banham,0,-80,8,,203015,1627671,1611661323,41,40,2
+04:09,[CON 42-40] Bentley Free Throw 2 of 2 (4 PTS),0,-80,3,,203410,,1611661323,42,40,2
+03:58,[DAL] Powers Jump Shot: Missed,17,120,2,,1627672,,1611661321,42,40,2
+03:57,[CON] Jones Rebound (Off:3 Def:5),0,-80,4,,1627673,,1611661323,42,40,2
+03:49,[CON] Banham 3pt Shot: Missed,-230,8,2,,1627671,,1611661323,42,40,2
+03:45,[CON] Williams Rebound (Off:1 Def:0),0,-80,4,,1627675,,1611661323,42,40,2
+03:44,[DAL] Lewis Foul: Shooting (1 PF) (2 FTA),1,-1,6,203826,1628292,,1611661321,42,40,2
+03:44,[CON 43-40] Thomas Free Throw 1 of 2 (7 PTS),0,-80,3,,203826,,1611661323,43,40,2
+03:44,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,43,40,2
+03:44,[DAL] Johnson Rebound (Off:1 Def:5),0,-80,4,,203017,,1611661321,43,40,2
+03:36,[DAL] Diggins-Smith Turnover : Lost Ball (1 TO) Steal:Jones (1 ST),0,-80,5,1627673,203400,,1611661321,43,40,2
+03:25,[CON] Bentley 3pt Shot: Missed,-7,224,2,,203410,,1611661323,43,40,2
+03:23,[DAL] Team Rebound,0,-80,4,,0,,1611661321,43,40,2
+03:08,[DAL] Lewis Turnover : Traveling (1 TO),0,-80,5,,1628292,,1611661321,43,40,2
+03:02,[DAL] Powers Foul: Personal (3 PF),64,100,6,1627673,1627672,,1611661321,43,40,2
+03:02,[DAL] Powers Substitution replaced by Davis,0,-80,8,,1627672,1628273,1611661321,43,40,2
+02:48,[CON 45-40] Thomas Layup Shot: Made (9 PTS) Assist: Bentley (3 AST),28,-6,1,,203826,203410,1611661323,45,40,2
+02:41,[CON] Banham Foul: Personal (1 PF),-140,229,6,1628277,1627671,,1611661323,45,40,2
+02:41,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,45,40,2
+02:31,[DAL] Diggins-Smith Layup Shot: Missed Block: Jones (1 BLK),-9,2,2,1627673,203400,,1611661321,45,40,2
+02:29,[CON] Williams Rebound (Off:1 Def:1),0,-80,4,,1627675,,1611661323,45,40,2
+02:24,[CON 47-40] Bentley Jump Shot: Made (6 PTS) Assist: Williams (1 AST),-201,16,1,,203410,1627675,1611661323,47,40,2
+02:06,[DAL] Lewis Jump Shot: Missed,-42,3,2,,1628292,,1611661321,47,40,2
+02:05,[DAL] Lewis Rebound (Off:1 Def:0),0,-80,4,,1628292,,1611661321,47,40,2
+02:01,[DAL 42-47] Davis Jump Shot: Made (6 PTS) Assist: Lewis (1 AST),43,7,1,,1628273,1628292,1611661321,47,42,2
+01:45,[CON] Jones Layup Shot: Missed,22,16,2,,1627673,,1611661323,47,42,2
+01:44,[CON] Jones Rebound (Off:4 Def:5),0,-80,4,,1627673,,1611661323,47,42,2
+01:43,[CON] Jones Layup Shot: Missed,6,-5,2,,1627673,,1611661323,47,42,2
+01:42,[CON] Jones Rebound (Off:5 Def:5),0,-80,4,,1627673,,1611661323,47,42,2
+01:41,[DAL] Lewis Foul: Shooting (2 PF) (2 FTA),5,14,6,1627673,1628292,,1611661321,47,42,2
+01:41,[CON 48-42] Jones Free Throw 1 of 2 (12 PTS),0,-80,3,,1627673,,1611661323,48,42,2
+01:41,[DAL] Lewis Substitution replaced by Christmas-Kelly,0,-80,8,,1628292,202640,1611661321,48,42,2
+01:41,[CON 49-42] Jones Free Throw 2 of 2 (13 PTS),0,-80,3,,1627673,,1611661323,49,42,2
+01:32,[CON] Banham Foul: Shooting (2 PF) (2 FTA),176,13,6,1628277,1627671,,1611661323,49,42,2
+01:32,[DAL 43-49] Gray Free Throw 1 of 2 (11 PTS),0,-80,3,,1628277,,1611661321,49,43,2
+01:32,[DAL 44-49] Gray Free Throw 2 of 2 (12 PTS),0,-80,3,,1628277,,1611661321,49,44,2
+01:21,[CON 51-44] Bentley Driving Layup Shot: Made (8 PTS),0,21,1,,203410,,1611661323,51,44,2
+01:13,[DAL] Davis Jump Shot: Missed,117,-11,2,,1628273,,1611661321,51,44,2
+01:12,[CON] Williams Rebound (Off:1 Def:2),0,-80,4,,1627675,,1611661323,51,44,2
+01:07,[CON] Williams Jump Shot: Missed,-138,120,2,,1627675,,1611661323,51,44,2
+01:05,[DAL] Davis Rebound (Off:0 Def:1),0,-80,4,,1628273,,1611661321,51,44,2
+00:51.9,[DAL] Davis 3pt Shot: Missed,-109,214,2,,1628273,,1611661321,51,44,2
+00:50.9,[CON] Banham Rebound (Off:0 Def:1),0,-80,4,,1627671,,1611661323,51,44,2
+00:41.9,[CON 53-44] Williams Fadeaway Jump Shot: Made (10 PTS) Assist: Thomas (3 AST),71,120,1,,1627675,203826,1611661323,53,44,2
+00:41.9,[DAL] Team Timeout : Short,0,-80,9,,0,,1611661321,53,44,2
+00:41.9,[CON] Banham Substitution replaced by Stricklen,0,-80,8,,1627671,203015,1611661323,53,44,2
+00:31.9,[DAL] Gray Layup Shot: Missed,-17,2,2,,1628277,,1611661321,53,44,2
+00:31.5,[DAL] Johnson Rebound (Off:2 Def:5),0,-80,4,,203017,,1611661321,53,44,2
+00:30.5,[CON] Thomas Foul: Shooting Block (2 PF) (2 FTA),-47,16,6,203017,203826,,1611661323,53,44,2
+00:30.5,[DAL 45-53] Johnson Free Throw 1 of 2 (13 PTS),0,-80,3,,203017,,1611661321,53,45,2
+00:30.5,[DAL 46-53] Johnson Free Throw 2 of 2 (14 PTS),0,-80,3,,203017,,1611661321,53,46,2
+00:20.3,[CON 55-46] Williams Jump Shot: Made (12 PTS) Assist: Bentley (4 AST),117,164,1,,1627675,203410,1611661323,55,46,2
+00:02.6,[DAL 48-55] Christmas-Kelly Driving Finger Roll Layup Shot: Made (2 PTS),-17,-6,1,,202640,,1611661321,55,48,2
+00:00.0,[CON] Bentley 3pt Shot: Missed,-11,350,2,,203410,,1611661323,55,48,2
+00:00.0,[CON] Team Rebound,0,-80,4,,0,,1611661323,55,48,2
+00:00.0,End Period,0,-80,13,,0,,0,55,48,2
+10:00,Start Period,0,-80,12,,0,,0,55,48,3
+09:37,[DAL 51-55] Gray 3pt Shot: Made (15 PTS) Assist: Christmas-Kelly (2 AST),-156,174,1,,1628277,202640,1611661321,55,51,3
+09:23,[CON 58-51] Stricklen 3pt Shot: Made (8 PTS) Assist: Thomas (4 AST),-147,183,1,,203015,203826,1611661323,58,51,3
+08:59,[DAL] Paris Layup Shot: Missed,0,26,2,,201907,,1611661321,58,51,3
+08:58,[DAL] Team Rebound,0,-80,4,,0,,1611661321,58,51,3
+08:52,[CON] Williams Foul: Shooting (1 PF) (2 FTA),-89,110,6,203400,1627675,,1611661323,58,51,3
+08:52,[DAL 52-58] Diggins-Smith Free Throw 1 of 2 (6 PTS),0,-80,3,,203400,,1611661321,58,52,3
+08:52,[DAL 53-58] Diggins-Smith Free Throw 2 of 2 (7 PTS),0,-80,3,,203400,,1611661321,58,53,3
+08:47,[CON] Bentley Turnover : Bad Pass (1 TO) Steal:Johnson (1 ST),0,-80,5,203017,203410,,1611661323,58,53,3
+08:43,[CON] Williams Foul: Shooting (2 PF) (2 FTA),6,2,6,1628277,1627675,,1611661323,58,53,3
+08:43,[DAL 54-58] Gray Free Throw 1 of 2 (16 PTS),0,-80,3,,1628277,,1611661321,58,54,3
+08:43,[DAL 55-58] Gray Free Throw 2 of 2 (17 PTS),0,-80,3,,1628277,,1611661321,58,55,3
+08:25,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Christmas-Kelly (1 ST),0,-80,5,202640,203826,,1611661323,58,55,3
+08:16,[DAL] Johnson Layup Shot: Missed Block: Jones (2 BLK),22,-6,2,1627673,203017,,1611661321,58,55,3
+08:15,[CON] Jones Rebound (Off:5 Def:6),0,-80,4,,1627673,,1611661323,58,55,3
+08:09,[CON] Williams Running Layup Shot: Missed,14,11,2,,1627675,,1611661323,58,55,3
+08:08,[CON] Williams Rebound (Off:2 Def:2),0,-80,4,,1627675,,1611661323,58,55,3
+08:00,[CON] Williams Turnover : Bad Pass (1 TO) Steal:Johnson (2 ST),0,-80,5,203017,1627675,,1611661323,58,55,3
+07:50,[DAL] Diggins-Smith 3pt Shot: Missed,-204,111,2,,203400,,1611661321,58,55,3
+07:49,[CON] Jones Rebound (Off:5 Def:7),0,-80,4,,1627673,,1611661323,58,55,3
+07:44,[CON 60-55] Thomas Running Reverse Layup Shot: Made (11 PTS),25,0,1,,203826,,1611661323,60,55,3
+07:23,[DAL] Johnson 3pt Shot: Missed,110,213,2,,203017,,1611661321,60,55,3
+07:22,[CON] Bentley Rebound (Off:0 Def:2),0,-80,4,,203410,,1611661323,60,55,3
+07:17,[CON] Bentley Turnover : Bad Pass (2 TO) Steal:Gray (2 ST),0,-80,5,1628277,203410,,1611661323,60,55,3
+07:13,[DAL 57-60] Gray Running Finger Roll Layup Shot: Made (19 PTS),14,3,1,,1628277,,1611661321,60,57,3
+06:52,[CON 62-57] Williams Driving Reverse Layup Shot: Made (14 PTS),-16,8,1,,1627675,,1611661323,62,57,3
+06:36,[DAL 59-62] Gray Pullup Jump shot: Made (21 PTS),12,139,1,,1628277,,1611661321,62,59,3
+06:21,[CON] Williams 3pt Shot: Missed,-222,21,2,,1627675,,1611661323,62,59,3
+06:20,[DAL] Johnson Rebound (Off:2 Def:6),0,-80,4,,203017,,1611661321,62,59,3
+06:13,[DAL] Christmas-Kelly Turnaround Hook Shot: Missed,-47,77,2,,202640,,1611661321,62,59,3
+06:12,[CON] Thomas Rebound (Off:0 Def:7),0,-80,4,,203826,,1611661323,62,59,3
+06:02,[CON] Williams Reverse Layup Shot: Missed,22,2,2,,1627675,,1611661323,62,59,3
+06:01,[DAL] Johnson Rebound (Off:2 Def:7),0,-80,4,,203017,,1611661321,62,59,3
+05:37,[DAL] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661321,62,59,3
+05:37,[CON] Williams Substitution replaced by Thomas,0,-80,8,,1627675,202662,1611661323,62,59,3
+05:37,[CON] Stricklen Substitution replaced by Tuck,0,-80,8,,203015,1627670,1611661323,62,59,3
+05:26,[CON 64-59] Bentley Driving Layup Shot: Made (10 PTS),-6,3,1,,203410,,1611661323,64,59,3
+05:10,[CON] Thomas Foul: Personal (3 PF),94,67,6,202640,203826,,1611661323,64,59,3
+04:59,[DAL 62-64] Christmas-Kelly 3pt Shot: Made (5 PTS) Assist: Diggins-Smith (4 AST),246,0,1,,202640,203400,1611661321,64,62,3
+04:45,[CON] Bentley Layup Shot: Missed,-4,-6,2,,203410,,1611661323,64,62,3
+04:43,[DAL] Diggins-Smith Rebound (Off:0 Def:2),0,-80,4,,203400,,1611661321,64,62,3
+04:38,[DAL 64-64] Johnson Jump Shot: Made (16 PTS) Assist: Diggins-Smith (5 AST),43,8,1,,203017,203400,1611661321,64,64,3
+04:38,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,64,64,3
+04:27,[CON 66-64] Jones Turnaround Jump Shot: Made (15 PTS),-119,-11,1,,1627673,,1611661323,66,64,3
+04:06,[DAL] Gray 3pt Shot: Missed,58,224,2,,1628277,,1611661321,66,64,3
+04:04,[CON] Team Rebound,0,-80,4,,0,,1611661323,66,64,3
+03:51,[CON] Jones Foul: Offensive Charge (1 PF),74,41,6,203017,1627673,,1611661323,66,64,3
+03:51,[CON] Jones Turnover : Foul (2 TO),0,-80,5,,1627673,,1611661323,66,64,3
+03:31,[DAL] Christmas-Kelly Jump Shot: Missed Block: Jones (3 BLK),-27,56,2,1627673,202640,,1611661321,66,64,3
+03:31,[DAL] Team Rebound,0,-80,4,,0,,1611661321,66,64,3
+03:26,[DAL] Diggins-Smith 3pt Shot: Missed,135,237,2,,203400,,1611661321,66,64,3
+03:25,[CON] Thomas Rebound (Off:0 Def:8),0,-80,4,,203826,,1611661323,66,64,3
+03:19,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Diggins-Smith (1 ST),0,-80,5,203400,203826,,1611661323,66,64,3
+03:16,[CON] Bentley Foul: Shooting (2 PF) (2 FTA),24,2,6,203400,203410,,1611661323,66,64,3
+03:16,[DAL 65-66] Diggins-Smith Free Throw 1 of 2 (8 PTS),0,-80,3,,203400,,1611661321,66,65,3
+03:16,[DAL] Gray Substitution replaced by Powers,0,-80,8,,1628277,1627672,1611661321,66,65,3
+03:16,[DAL 66-66] Diggins-Smith Free Throw 2 of 2 (9 PTS),0,-80,3,,203400,,1611661321,66,66,3
+03:02,[DAL] Paris Foul: Shooting (3 PF) (2 FTA),-68,2,6,1627673,201907,,1611661321,66,66,3
+03:02,[CON 67-66] Jones Free Throw 1 of 2 (16 PTS),0,-80,3,,1627673,,1611661323,67,66,3
+03:02,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1627673,,1611661323,67,66,3
+03:02,[DAL] Johnson Rebound (Off:2 Def:8),0,-80,4,,203017,,1611661321,67,66,3
+02:49,[DAL] Paris Tip Layup Shot: Missed,22,7,2,,201907,,1611661321,67,66,3
+02:48,[CON] Team Rebound,0,-80,4,,0,,1611661323,67,66,3
+02:41,[CON] Thomas Driving Finger Roll Layup Shot: Missed Block: Diggins-Smith (1 BLK),37,21,2,203400,202662,,1611661323,67,66,3
+02:41,[CON] Team Rebound,0,-80,4,,0,,1611661323,67,66,3
+02:41,[DAL] Paris Substitution replaced by Plaisance,0,-80,8,,201907,203849,1611661321,67,66,3
+02:37,[CON] Bentley Step Back Jump shot: Missed,168,90,2,,203410,,1611661323,67,66,3
+02:36,[DAL] Diggins-Smith Rebound (Off:0 Def:3),0,-80,4,,203400,,1611661321,67,66,3
+02:28,[DAL] Christmas-Kelly Turnover : Bad Pass (2 TO) Steal:Bentley (1 ST),0,-80,5,203410,202640,,1611661321,67,66,3
+02:22,[CON 69-66] Thomas Cutting Layup Shot: Made (13 PTS) Assist: Thomas (1 AST),20,11,1,,203826,202662,1611661323,69,66,3
+02:22,[DAL] Plaisance Foul: Shooting (4 PF) (1 FTA),20,11,6,203826,203849,,1611661321,69,66,3
+02:22,[DAL] Plaisance Substitution replaced by Thornton,0,-80,8,,203849,203866,1611661321,69,66,3
+02:22,[CON 70-66] Thomas Free Throw 1 of 1 (14 PTS),0,-80,3,,203826,,1611661323,70,66,3
+02:06,[DAL] Thornton Turnover : Bad Pass (1 TO) Steal:Jones (2 ST),0,-80,5,1627673,203866,,1611661321,70,66,3
+02:04,[DAL] Diggins-Smith Foul: Personal (1 PF),20,321,6,202662,203400,,1611661321,70,66,3
+02:04,[CON] Thomas Substitution replaced by Pedersen,0,-80,8,,203826,202653,1611661323,70,66,3
+01:57,[CON] Thomas 3pt Shot: Missed,-70,232,2,,202662,,1611661323,70,66,3
+01:56,[CON] Jones Rebound (Off:6 Def:7),0,-80,4,,1627673,,1611661323,70,66,3
+01:55,[CON 72-66] Jones Putback Layup Shot: Made (18 PTS),12,7,1,,1627673,,1611661323,72,66,3
+01:55,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,72,66,3
+01:38,[DAL 68-72] Johnson Jump Shot: Made (18 PTS),101,174,1,,203017,,1611661321,72,68,3
+01:23,[CON] Bentley 3pt Shot: Missed,150,193,2,,203410,,1611661323,72,68,3
+01:22,[CON] Tuck Rebound (Off:1 Def:0),0,-80,4,,1627670,,1611661323,72,68,3
+01:16,[CON] Jones Foul: Offensive Charge (2 PF),37,46,6,1627672,1627673,,1611661323,72,68,3
+01:16,[CON] Jones Turnover : Foul (3 TO),0,-80,5,,1627673,,1611661323,72,68,3
+01:06,[DAL] Johnson Turnover : Lost Ball (1 TO) Steal:Jones (3 ST),0,-80,5,1627673,203017,,1611661321,72,68,3
+01:01,[CON 74-68] Thomas Layup Shot: Made (6 PTS) Assist: Jones (2 AST),-14,0,1,,202662,1627673,1611661323,74,68,3
+00:53.2,[DAL 70-74] Diggins-Smith Pullup Jump shot: Made (11 PTS),153,131,1,,203400,,1611661321,74,70,3
+00:46.9,[CON] Thomas Turnover : Lost Ball (2 TO) Steal:Christmas-Kelly (2 ST),0,-80,5,202640,202662,,1611661323,74,70,3
+00:37.9,[DAL] Diggins-Smith Jump Shot: Missed,-187,7,2,,203400,,1611661321,74,70,3
+00:36.9,[CON] Jones Rebound (Off:6 Def:8),0,-80,4,,1627673,,1611661323,74,70,3
+00:19.9,[CON] Thomas Jump Shot: Missed,-156,-5,2,,202662,,1611661323,74,70,3
+00:18.9,[DAL] Diggins-Smith Rebound (Off:0 Def:4),0,-80,4,,203400,,1611661321,74,70,3
+00:04.7,[CON] Thomas Foul: Personal (1 PF) (2 FTA),-27,169,6,203400,202662,,1611661323,74,70,3
+00:04.7,[DAL 71-74] Diggins-Smith Free Throw 1 of 2 (12 PTS),0,-80,3,,203400,,1611661321,74,71,3
+00:04.7,[DAL 72-74] Diggins-Smith Free Throw 2 of 2 (13 PTS),0,-80,3,,203400,,1611661321,74,72,3
+00:00.2,[CON] Bentley 3pt Shot: Missed,-156,170,2,,203410,,1611661323,74,72,3
+00:00.0,[CON] Team Rebound,0,-80,4,,0,,1611661323,74,72,3
+00:00.0,End Period,0,-80,13,,0,,0,74,72,3
+10:00,Start Period,0,-80,12,,0,,0,74,72,4
+09:50,[CON] Jones 3pt Shot: Missed,20,242,2,,1627673,,1611661323,74,72,4
+09:49,[DAL] Powers Rebound (Off:0 Def:1),0,-80,4,,1627672,,1611661321,74,72,4
+09:37,[DAL 74-74] Powers Driving Reverse Layup Shot: Made (9 PTS),9,-16,1,,1627672,,1611661321,74,74,4
+09:21,[CON] Bentley Jump Shot: Missed,-117,139,2,,203410,,1611661323,74,74,4
+09:19,[DAL] Powers Rebound (Off:0 Def:2),0,-80,4,,1627672,,1611661321,74,74,4
+09:12,[DAL] Powers 3pt Shot: Missed,-132,183,2,,1627672,,1611661321,74,74,4
+09:11,[CON] Jones Rebound (Off:6 Def:9),0,-80,4,,1627673,,1611661323,74,74,4
+08:59,[CON] Thomas Jump Shot: Missed,-16,105,2,,203826,,1611661323,74,74,4
+08:58,[DAL] Team Rebound,0,-80,4,,0,,1611661321,74,74,4
+08:41,[CON] Bentley Foul: Personal (3 PF),-40,183,6,203866,203410,,1611661323,74,74,4
+08:41,[DAL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661321,74,74,4
+08:32,[DAL] Johnson 3pt Shot: Missed,0,234,2,,203017,,1611661321,74,74,4
+08:31,[CON] Team Rebound,0,-80,4,,0,,1611661323,74,74,4
+08:19,[CON 77-74] Stricklen 3pt Shot: Made (11 PTS) Assist: Jones (3 AST),236,2,1,,203015,1627673,1611661323,77,74,4
+08:02,[DAL] Powers Turnover : Bad Pass (1 TO) Steal:Stricklen (2 ST),0,-80,5,203015,1627672,,1611661321,77,74,4
+07:56,[CON] Williams Jump Shot: Missed,102,43,2,,1627675,,1611661323,77,74,4
+07:55,[DAL] Gray Rebound (Off:1 Def:3),0,-80,4,,1628277,,1611661321,77,74,4
+07:55,[CON] Williams Foul: Personal (3 PF),1,739,6,203400,1627675,,1611661323,77,74,4
+07:32,[CON] Stricklen Foul: Shooting (2 PF) (2 FTA),-2,18,6,1627672,203015,,1611661323,77,74,4
+07:32,[DAL 75-77] Powers Free Throw 1 of 2 (10 PTS),0,-80,3,,1627672,,1611661321,77,75,4
+07:32,[DAL 76-77] Powers Free Throw 2 of 2 (11 PTS),0,-80,3,,1627672,,1611661321,77,76,4
+07:21,[CON] Stricklen 3pt Shot: Missed,40,242,2,,203015,,1611661323,77,76,4
+07:20,[DAL] Johnson Rebound (Off:2 Def:9),0,-80,4,,203017,,1611661321,77,76,4
+07:12,[DAL] Diggins-Smith Jump Shot: Missed,2,183,2,,203400,,1611661321,77,76,4
+07:07,[CON] Jones Rebound (Off:6 Def:10),0,-80,4,,1627673,,1611661323,77,76,4
+07:05,[CON] Jones Turnover : Lost Ball (4 TO) Steal:Johnson (3 ST),0,-80,5,203017,1627673,,1611661323,77,76,4
+07:00,[DAL] Powers 3pt Shot: Missed,-7,228,2,,1627672,,1611661321,77,76,4
+06:59,[CON] Thomas Rebound (Off:0 Def:9),0,-80,4,,203826,,1611661323,77,76,4
+06:50,[CON 79-76] Thomas Driving Layup Shot: Made (16 PTS) Assist: Williams (2 AST),-1,8,1,,203826,1627675,1611661323,79,76,4
+06:32,[DAL] Gray Jump Shot: Missed,-106,65,2,,1628277,,1611661321,79,76,4
+06:30,[DAL] Thornton Rebound (Off:1 Def:0),0,-80,4,,203866,,1611661321,79,76,4
+06:29,[DAL] Thornton Substitution replaced by Christmas-Kelly,0,-80,8,,203866,202640,1611661321,79,76,4
+06:25,[CON] Bentley Foul: Personal Block (4 PF),25,218,6,203400,203410,,1611661323,79,76,4
+06:20,[CON] Jones Foul: Shooting (3 PF) (2 FTA),4,7,6,203400,1627673,,1611661323,79,76,4
+06:20,[DAL 77-79] Diggins-Smith Free Throw 1 of 2 (14 PTS),0,-80,3,,203400,,1611661321,79,77,4
+06:20,[DAL 78-79] Diggins-Smith Free Throw 2 of 2 (15 PTS),0,-80,3,,203400,,1611661321,79,78,4
+06:03,[CON] Bentley Layup Shot: Missed,-29,3,2,,203410,,1611661323,79,78,4
+06:02,[CON] Bentley Rebound (Off:1 Def:2),0,-80,4,,203410,,1611661323,79,78,4
+05:57,[CON] Stricklen 3pt Shot: Missed,204,121,2,,203015,,1611661323,79,78,4
+05:54,[CON] Williams Rebound (Off:3 Def:2),0,-80,4,,1627675,,1611661323,79,78,4
+05:54,Timeout : Official,0,-80,9,,0,,0,79,78,4
+05:54,Jump Ball Thomas vs Johnson (Christmas-Kelly gains possession),0,-80,10,203017,203826,202640,1611661323,79,78,4
+05:54,[CON] Thomas Turnover : Lost Ball (4 TO) Steal:Johnson (4 ST),0,-80,5,203017,203826,,1611661323,79,78,4
+05:32,[DAL] Powers Jump Shot: Missed,-61,154,2,,1627672,,1611661321,79,78,4
+05:31,[DAL] Team Rebound,0,-80,4,,0,,1611661321,79,78,4
+05:31,[CON] Thomas Foul: Personal (4 PF) (2 FTA),-101,95,6,203017,203826,,1611661323,79,78,4
+05:31,[DAL 79-79] Johnson Free Throw 1 of 2 (19 PTS),0,-80,3,,203017,,1611661321,79,79,4
+05:31,[DAL 80-79] Johnson Free Throw 2 of 2 (20 PTS),0,-80,3,,203017,,1611661321,79,80,4
+05:18,[CON 81-80] Williams Pullup Jump shot: Made (16 PTS),114,156,1,,1627675,,1611661323,81,80,4
+05:05,[DAL] Gray Turnover : Lost Ball (2 TO) Steal:Jones (4 ST),0,-80,5,1627673,1628277,,1611661321,81,80,4
+04:59,[CON 83-80] Thomas Layup Shot: Made (18 PTS),27,8,1,,203826,,1611661323,83,80,4
+04:49,[DAL] Johnson Turnaround Fadeaway shot: Missed,137,-1,2,,203017,,1611661321,83,80,4
+04:48,[DAL] Team Rebound,0,-80,4,,0,,1611661321,83,80,4
+04:48,[CON] Williams Substitution replaced by Thomas,0,-80,8,,1627675,202662,1611661323,83,80,4
+04:37,[DAL] Powers Jump Shot: Missed Block: Jones (4 BLK),-66,80,2,1627673,1627672,,1611661321,83,80,4
+04:35,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,202662,,1611661323,83,80,4
+04:31,[CON] Stricklen 3pt Shot: Missed,-176,154,2,,203015,,1611661323,83,80,4
+04:30,[CON] Team Rebound,0,-80,4,,0,,1611661323,83,80,4
+04:30,[DAL] Johnson Foul: Loose Ball (1 PF),-22,14,6,203826,203017,,1611661321,83,80,4
+04:22,[DAL] Christmas-Kelly Foul: Shooting (3 PF) (2 FTA),-61,31,6,203826,202640,,1611661321,83,80,4
+04:22,[CON 84-80] Thomas Free Throw 1 of 2 (19 PTS),0,-80,3,,203826,,1611661323,84,80,4
+04:22,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,84,80,4
+04:22,[DAL] Johnson Rebound (Off:2 Def:10),0,-80,4,,203017,,1611661321,84,80,4
+04:04,[CON] Thomas Foul: Personal (2 PF) (2 FTA),182,218,6,203400,202662,,1611661323,84,80,4
+04:04,[DAL 81-84] Diggins-Smith Free Throw 1 of 2 (16 PTS),0,-80,3,,203400,,1611661321,84,81,4
+04:04,[DAL 82-84] Diggins-Smith Free Throw 2 of 2 (17 PTS),0,-80,3,,203400,,1611661321,84,82,4
+03:52,[DAL] Gray Foul: Shooting (2 PF) (2 FTA),27,0,6,1627673,1628277,,1611661321,84,82,4
+03:52,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,84,82,4
+03:52,[CON] Team Rebound,0,-80,4,,0,,1611661323,84,82,4
+03:52,[CON] Thomas Substitution replaced by Williams,0,-80,8,,202662,1627675,1611661323,84,82,4
+03:52,[CON 85-82] Jones Free Throw 2 of 2 (19 PTS),0,-80,3,,1627673,,1611661323,85,82,4
+03:39,[DAL] Powers Jump Shot: Missed Block: Stricklen (1 BLK),-76,51,2,203015,1627672,,1611661321,85,82,4
+03:38,[CON] Thomas Rebound (Off:0 Def:10),0,-80,4,,203826,,1611661323,85,82,4
+03:33,[CON] Thomas Layup Shot: Missed Block: Powers (1 BLK),20,3,2,1627672,203826,,1611661323,85,82,4
+03:32,[CON] Team Rebound,0,-80,4,,0,,1611661323,85,82,4
+03:27,[CON 87-82] Stricklen Jump Shot: Made (13 PTS),-148,2,1,,203015,,1611661323,87,82,4
+03:08,[DAL] Powers Jump Shot: Missed,63,80,2,,1627672,,1611661321,87,82,4
+03:05,[CON] Team Rebound,0,-80,4,,0,,1611661323,87,82,4
+02:48,[CON] Thomas Jump Shot: Missed,35,7,2,,203826,,1611661323,87,82,4
+02:47,[DAL] Gray Rebound (Off:1 Def:4),0,-80,4,,1628277,,1611661321,87,82,4
+02:41,[DAL 84-87] Christmas-Kelly Layup Shot: Made (7 PTS) Assist: Gray (2 AST),17,7,1,,202640,1628277,1611661321,87,84,4
+02:21,[CON 89-84] Williams Layup Shot: Made (18 PTS) Assist: Jones (4 AST),14,-1,1,,1627675,1627673,1611661323,89,84,4
+02:21,[DAL] Gray Foul: Shooting (3 PF) (1 FTA),14,-1,6,1627675,1628277,,1611661321,89,84,4
+02:21,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,89,84,4
+02:21,[CON 90-84] Williams Free Throw 1 of 1 (19 PTS),0,-80,3,,1627675,,1611661323,90,84,4
+02:01,[DAL] Diggins-Smith Turnover : Bad Pass (2 TO) Steal:Bentley (2 ST),0,-80,5,203410,203400,,1611661321,90,84,4
+01:48,[CON 92-84] Thomas Alley Oop Layup shot: Made (21 PTS) Assist: Bentley (5 AST),32,7,1,,203826,203410,1611661323,92,84,4
+01:36,[DAL 86-92] Christmas-Kelly Cutting Layup Shot: Made (9 PTS) Assist: Powers (2 AST),-1,0,1,,202640,1627672,1611661321,92,86,4
+01:16,[CON] Stricklen Jump Shot: Missed,15,75,2,,203015,,1611661323,92,86,4
+01:15,[DAL] Christmas-Kelly Rebound (Off:0 Def:2),0,-80,4,,202640,,1611661321,92,86,4
+01:05,[DAL] Johnson 3pt Shot: Missed,166,178,2,,203017,,1611661321,92,86,4
+01:04,[CON] Thomas Rebound (Off:0 Def:11),0,-80,4,,203826,,1611661323,92,86,4
+00:49.0,[CON 94-86] Bentley Driving Finger Roll Layup Shot: Made (12 PTS),14,8,1,,203410,,1611661323,94,86,4
+00:42.6,[DAL 88-94] Diggins-Smith Driving Layup Shot: Made (19 PTS),-6,-1,1,,203400,,1611661321,94,88,4
+00:42.6,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,94,88,4
+00:40.9,[CON] Stricklen Turnover : Bad Pass (2 TO) Steal:Christmas-Kelly (3 ST),0,-80,5,202640,203015,,1611661323,94,88,4
+00:32.9,[DAL] Diggins-Smith Jump Shot: Missed Block: Jones (5 BLK),-1,61,2,1627673,203400,,1611661321,94,88,4
+00:29.8,[DAL] Team Rebound,0,-80,4,,0,,1611661321,94,88,4
+00:28.9,Jump Ball Bentley vs Christmas-Kelly (Diggins-Smith gains possession),0,-80,10,202640,203410,203400,1611661323,94,88,4
+00:27.8,[DAL] Diggins-Smith 3pt Shot: Missed,35,223,2,,203400,,1611661321,94,88,4
+00:26.8,[CON] Thomas Rebound (Off:0 Def:12),0,-80,4,,203826,,1611661323,94,88,4
+00:21.8,[DAL] Diggins-Smith Foul: Shooting (2 PF) (2 FTA),6,0,6,203015,203400,,1611661321,94,88,4
+00:21.8,[CON 95-88] Stricklen Free Throw 1 of 2 (14 PTS),0,-80,3,,203015,,1611661323,95,88,4
+00:21.8,[DAL] Christmas-Kelly Substitution replaced by Thornton,0,-80,8,,202640,203866,1611661321,95,88,4
+00:21.8,[CON 96-88] Stricklen Free Throw 2 of 2 (15 PTS),0,-80,3,,203015,,1611661323,96,88,4
+00:10.9,[DAL] Powers 3pt Shot: Missed,148,219,2,,1627672,,1611661321,96,88,4
+00:07.9,[CON] Thomas Rebound (Off:0 Def:13),0,-80,4,,203826,,1611661323,96,88,4
+00:00.0,End Period,0,-80,13,,0,,0,96,88,4

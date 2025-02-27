@@ -1,0 +1,414 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball McCowan vs McCowan (Cloud gains possession),0,-80,10,1629479,1629479,204333,1611661322,0,0,0,1
+09:42,[WAS 3-0] Hawkins 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),230,58,1,,203403,204333,1611661322,3,0,3,1
+09:24,[DAL] Sabally Turnover : Out of Bounds - Bad Pass Turnover (1 TO),172,223,5,,1630149,1629178,1611661321,3,0,0,1
+09:09,[WAS] Atkins 3pt Shot: Missed,12,251,2,,1628878,,1611661322,3,0,0,1
+09:06,[DAL] Sabally Rebound (Off:0 Def:1),12,251,4,,1630149,,1611661321,3,0,0,1
+08:56,[DAL 2-3] McCowan Layup Shot: Made (2 PTS) Assist: Sabally (1 AST),-4,49,1,,1629479,1630149,1611661321,3,2,2,1
+08:56,[WAS] Cloud Foul: Shooting (1 PF) (1 FTA),-4,17,6,1629479,204333,1628479,1611661322,3,2,0,1
+08:56,[DAL 3-3] McCowan Free Throw 1 of 1 (3 PTS),0,-80,3,,1629479,,1611661321,3,3,1,1
+08:46,[WAS] Atkins Jump Shot: Missed,-68,89,2,,1628878,,1611661322,3,3,0,1
+08:44,[DAL] Howard Rebound (Off:0 Def:1),-68,89,4,,203827,,1611661321,3,3,0,1
+08:33,[DAL] Dangerfield Pullup Jump shot: Missed,-48,50,2,,1630101,,1611661321,3,3,0,1
+08:33,[DAL] Team Rebound,-48,50,4,,0,,1611661321,3,3,0,1
+08:30,[DAL] Sabally Layup Shot: Missed,-7,39,2,,1630149,,1611661321,3,3,0,1
+08:27,[WAS] Hawkins Rebound (Off:0 Def:1),-7,39,4,,203403,,1611661322,3,3,0,1
+08:13,[WAS] Cloud Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),-36,139,5,203827,204333,,1611661322,3,3,0,1
+08:08,[DAL] Howard Running Layup Shot: Missed,-7,50,2,,203827,,1611661321,3,3,0,1
+08:05,[WAS] Hines-Allen Rebound (Off:0 Def:1),-7,50,4,,1628899,,1611661322,3,3,0,1
+08:03,[WAS] Hawkins Turnover : Traveling (1 TO),51,60,5,,203403,1629178,1611661322,3,3,0,1
+07:51,[DAL] Sabally Layup Shot: Missed,-24,32,2,,1630149,,1611661321,3,3,0,1
+07:47,[WAS] Atkins Rebound (Off:0 Def:1),-24,32,4,,1628878,,1611661322,3,3,0,1
+07:41,[WAS] Sykes 3pt Shot: Missed,-211,90,2,,1628279,,1611661322,3,3,0,1
+07:39,[DAL] McCowan Rebound (Off:0 Def:1),-211,90,4,,1629479,,1611661321,3,3,0,1
+07:30,[DAL 6-3] Ogunbowale 3pt Shot: Made (3 PTS) Assist: Sabally (2 AST),-206,157,1,,1629481,1630149,1611661321,3,6,3,1
+07:14,[WAS] Hawkins Layup Shot: Missed,-46,22,2,,203403,,1611661322,3,6,0,1
+07:14,[DAL] Dangerfield Rebound (Off:0 Def:1),-46,22,4,,1630101,,1611661321,3,6,0,1
+07:05,[DAL 8-3] Howard Turnaround Jump Shot: Made (2 PTS) Assist: Ogunbowale (1 AST),-22,34,1,,203827,1629481,1611661321,3,8,2,1
+06:50,[WAS 5-8] Cloud Driving Reverse Layup Shot: Made (2 PTS),-23,1,1,,204333,,1611661322,5,8,2,1
+06:35,[DAL] Sabally Turnover : Bad Pass (2 TO) Steal:Sykes (1 ST),5,155,5,1628279,1630149,,1611661321,5,8,0,1
+06:29,[WAS] Atkins Turnover : Bad Pass (1 TO) Steal:Sabally (1 ST),-110,114,5,1630149,1628878,,1611661322,5,8,0,1
+06:27,[DAL] Sabally Turnover : Lost Ball (3 TO) Steal:Hines-Allen (1 ST),150,751,5,1628899,1630149,,1611661321,5,8,0,1
+06:19,[WAS] Atkins Floating Jump shot: Missed,124,24,2,,1628878,,1611661322,5,8,0,1
+06:16,[WAS] Hawkins Rebound (Off:1 Def:1),124,24,4,,203403,,1611661322,5,8,0,1
+06:11,[WAS] Cloud 3pt Shot: Missed,-91,228,2,,204333,,1611661322,5,8,0,1
+06:08,[WAS] Sykes Rebound (Off:1 Def:0),-91,228,4,,1628279,,1611661322,5,8,0,1
+06:04,[WAS] Sykes Turnover : Lost Ball (1 TO) Steal:Ogunbowale (1 ST),48,116,5,1629481,1628279,,1611661322,5,8,0,1
+06:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,8,0,1
+06:04,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,5,8,0,1
+06:04,[WAS] Hines-Allen Substitution replaced by Egbo,0,-80,8,,1628899,1631031,1611661322,5,8,0,1
+05:51,[DAL 10-5] Howard Floating Jump shot: Made (4 PTS),-4,58,1,,203827,,1611661321,5,10,2,1
+05:37,[WAS 8-10] Cloud 3pt Shot: Made (5 PTS) Assist: Hawkins (1 AST),-219,38,1,,204333,203403,1611661322,8,10,3,1
+05:26,[WAS] Hawkins Foul: Shooting (1 PF) (2 FTA),-23,60,6,203827,203403,1629178,1611661322,8,10,0,1
+05:26,[DAL 11-8] Howard Free Throw 1 of 2 (5 PTS),0,-80,3,,203827,,1611661321,8,11,1,1
+05:26,[DAL] Howard Free Throw 2 of 2 Missed,0,-80,3,,203827,,1611661321,8,11,0,1
+05:26,[WAS] Team Rebound,0,-80,4,,0,,1611661322,8,11,0,1
+05:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,11,0,1
+05:10,[WAS] Sykes Turnover : Bad Pass (2 TO) Steal:Dangerfield (1 ST),27,210,5,1630101,1628279,,1611661322,8,11,0,1
+05:05,[DAL 13-8] Dangerfield Running Layup Shot: Made (2 PTS),-10,29,1,,1630101,,1611661321,8,13,2,1
+04:48,[DAL] Dangerfield Foul: Personal (1 PF),18,110,6,203403,1630101,1629178,1611661321,8,13,0,1
+04:48,Timeout Officials,0,-80,9,,0,,0,8,13,0,1
+04:48,[DAL] Howard Substitution replaced by Kuier,0,-80,8,,203827,1630386,1611661321,8,13,0,1
+04:43,[WAS] Sykes Pullup Jump shot: Missed,78,160,2,,1628279,,1611661322,8,13,0,1
+04:40,[DAL] Ogunbowale Rebound (Off:0 Def:1),78,160,4,,1629481,,1611661321,8,13,0,1
+04:39,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-4,171,5,,1629481,1629178,1611661321,8,13,0,1
+04:30,[WAS 10-13] Walker-Kimbrough Pullup Jump shot: Made (2 PTS) Assist: Hawkins (2 AST),-63,172,1,,1628278,203403,1611661322,10,13,2,1
+04:17,[DAL] Kuier Turnover : Lost Ball (1 TO) Steal:Sykes (2 ST),-133,150,5,1628279,1630386,,1611661321,10,13,0,1
+04:13,[WAS 12-13] Sykes Running Layup Shot: Made (2 PTS),7,9,1,,1628279,,1611661322,12,13,2,1
+03:51,[DAL 15-12] Ogunbowale Step Back Jump shot: Made (5 PTS),110,19,1,,1629481,,1611661321,12,15,2,1
+03:35,[WAS] Sykes Jump Shot: Missed,15,43,2,,1628279,,1611661322,12,15,0,1
+03:33,[DAL] McCowan Rebound (Off:0 Def:2),15,43,4,,1629479,,1611661321,12,15,0,1
+03:27,[DAL 18-12] Ogunbowale 3pt Shot: Made (8 PTS) Assist: Sabally (3 AST),-16,290,1,,1629481,1630149,1611661321,12,18,3,1
+03:03,[DAL] Kuier Foul: Shooting (1 PF) (2 FTA),1,36,6,204333,1630386,1628167,1611661321,12,18,0,1
+03:03,[WAS 13-18] Cloud Free Throw 1 of 2 (6 PTS),0,-80,3,,204333,,1611661322,13,18,1,1
+03:03,[WAS] Sykes Substitution replaced by Hines-Allen,0,-80,8,,1628279,1628899,1611661322,13,18,0,1
+03:03,[WAS] Hawkins Substitution replaced by Meng,0,-80,8,,203403,1641642,1611661322,13,18,0,1
+03:03,[DAL] McCowan Substitution replaced by Howard,0,-80,8,,1629479,203827,1611661321,13,18,0,1
+03:03,[DAL] Dangerfield Substitution replaced by Brown,0,-80,8,,1630101,1629480,1611661321,13,18,0,1
+03:03,[DAL] Kuier Substitution replaced by Burton,0,-80,8,,1630386,1631007,1611661321,13,18,0,1
+03:03,[WAS 14-18] Cloud Free Throw 2 of 2 (7 PTS),0,-80,3,,204333,,1611661322,14,18,1,1
+02:48,[DAL 21-14] Howard 3pt Shot: Made (8 PTS) Assist: Ogunbowale (2 AST),-230,48,1,,203827,1629481,1611661321,14,21,3,1
+02:34,[WAS 16-21] Cloud Step Back Jump shot: Made (9 PTS),23,139,1,,204333,,1611661322,16,21,2,1
+02:18,[DAL] Howard Turnover : Bad Pass (1 TO) Steal:Walker-Kimbrough (1 ST),-4,92,5,1628278,203827,,1611661321,16,21,0,1
+02:14,[DAL] Burton Foul: Shooting (1 PF) (2 FTA),20,54,6,1631031,1631007,1629178,1611661321,16,21,0,1
+02:14,[WAS] Egbo Free Throw 1 of 2 Missed,0,-80,3,,1631031,,1611661322,16,21,0,1
+02:14,[WAS] Team Rebound,0,-80,4,,0,,1611661322,16,21,0,1
+02:14,[WAS 17-21] Egbo Free Throw 2 of 2 (1 PTS),0,-80,3,,1631031,,1611661322,17,21,1,1
+01:55,[DAL] Ogunbowale 3pt Shot: Missed,-176,209,2,,1629481,,1611661321,17,21,0,1
+01:51,[DAL] Sabally Rebound (Off:1 Def:1),-176,209,4,,1630149,,1611661321,17,21,0,1
+01:48,[DAL] Ogunbowale 3pt Shot: Missed,-195,174,2,,1629481,,1611661321,17,21,0,1
+01:48,[WAS] Egbo Rebound (Off:0 Def:1),-195,174,4,,1631031,,1611661322,17,21,0,1
+01:43,[WAS] Cloud Turnover : Out of Bounds - Bad Pass Turnover (2 TO),127,115,5,,204333,1628479,1611661322,17,21,0,1
+01:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,21,0,1
+01:22,[DAL 23-17] Brown Layup Shot: Made (2 PTS) Assist: Sabally (4 AST),-10,19,1,,1629480,1630149,1611661321,17,23,2,1
+01:03,[WAS] Cloud 3pt Shot: Missed,172,205,2,,204333,,1611661322,17,23,0,1
+00:59.2,[WAS] Egbo Rebound (Off:1 Def:1),172,205,4,,1631031,,1611661322,17,23,0,1
+00:58.6,[WAS] Egbo Layup Shot: Missed,26,13,2,,1631031,,1611661322,17,23,0,1
+00:56.2,[DAL] Sabally Rebound (Off:1 Def:2),26,13,4,,1630149,,1611661321,17,23,0,1
+00:54.2,[DAL 26-17] Howard 3pt Shot: Made (11 PTS) Assist: Sabally (5 AST),-34,257,1,,203827,1630149,1611661321,17,26,3,1
+00:41.7,[WAS 20-26] Meng 3pt Shot: Made (3 PTS) Assist: Cloud (2 AST),243,25,1,,1641642,204333,1611661322,20,26,3,1
+00:32.6,[DAL] Brown Layup Shot: Missed,-17,27,2,,1629480,,1611661321,20,26,0,1
+00:30.0,[WAS] Egbo Rebound (Off:1 Def:2),-17,27,4,,1631031,,1611661322,20,26,0,1
+00:22.0,[WAS 23-26] Cloud 3pt Shot: Made (12 PTS) Assist: Walker-Kimbrough (1 AST),110,231,1,,204333,1628278,1611661322,23,26,3,1
+00:05.2,[DAL 29-23] Burton 3pt Shot: Made (3 PTS),140,214,1,,1631007,,1611661321,23,29,3,1
+00:00.0,[WAS] Cloud 3pt Shot: Missed,-106,256,2,,204333,,1611661322,23,29,0,1
+00:00.0,[WAS] Team Rebound,-106,256,4,,0,,1611661322,23,29,0,1
+00:00.0,End Period,0,-80,13,,0,,0,23,29,0,1
+10:00,Start Period,0,-80,12,,0,,0,23,29,0,2
+09:42,[DAL 31-23] Siegrist Cutting Layup Shot: Made (2 PTS) Assist: Brown (1 AST),-10,35,1,,1641652,1629480,1611661321,23,31,2,2
+09:23,[WAS] Hines-Allen Jump Shot: Missed,117,140,2,,1628899,,1611661322,23,31,0,2
+09:19,[DAL] Burton Rebound (Off:0 Def:1),117,140,4,,1631007,,1611661321,23,31,0,2
+08:59,[DAL 33-23] Siegrist Jump Shot: Made (4 PTS) Assist: Brown (2 AST),68,147,1,,1641652,1629480,1611661321,23,33,2,2
+08:42,[WAS] Sykes 3pt Shot: Missed,-86,236,2,,1628279,,1611661322,23,33,0,2
+08:39,[DAL] Brown Rebound (Off:0 Def:1),-86,236,4,,1629480,,1611661321,23,33,0,2
+08:31,[DAL] Ogunbowale Driving Layup Shot: Missed,2,23,2,,1629481,,1611661321,23,33,0,2
+08:31,[DAL] Team Rebound,2,23,4,,0,,1611661321,23,33,0,2
+08:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,33,0,2
+08:18,[DAL] Howard 3pt Shot: Missed,156,203,2,,203827,,1611661321,23,33,0,2
+08:14,[WAS] Sykes Rebound (Off:1 Def:1),156,203,4,,1628279,,1611661322,23,33,0,2
+07:59,[WAS 26-33] Atkins 3pt Shot: Made (3 PTS) Assist: Sykes (1 AST),-177,159,1,,1628878,1628279,1611661322,26,33,3,2
+07:43,[DAL] Ogunbowale 3pt Shot: Missed,-218,105,2,,1629481,,1611661321,26,33,0,2
+07:39,[WAS] Hines-Allen Rebound (Off:0 Def:2),-218,105,4,,1628899,,1611661322,26,33,0,2
+07:38,[WAS] Hines-Allen Turnover : Bad Pass (1 TO) Steal:Burton (1 ST),49,138,5,1631007,1628899,,1611661322,26,33,0,2
+07:30,[DAL] Burton Pullup Jump shot: Missed,-116,142,2,,1631007,,1611661321,26,33,0,2
+07:28,[WAS] Atkins Rebound (Off:0 Def:2),-116,142,4,,1628878,,1611661322,26,33,0,2
+07:27,[WAS 28-33] Walker-Kimbrough Running Layup Shot: Made (4 PTS) Assist: Sykes (2 AST),11,16,1,,1628278,1628279,1611661322,28,33,2,2
+07:19,[WAS] Atkins Violation:Kicked Ball,0,-80,7,,1628878,,1611661322,28,33,0,2
+07:19,[WAS] Hines-Allen Substitution replaced by Cloud,0,-80,8,,1628899,204333,1611661322,28,33,0,2
+07:19,[WAS] Atkins Substitution replaced by Egbo,0,-80,8,,1628878,1631031,1611661322,28,33,0,2
+07:19,[DAL] Burton Substitution replaced by McCowan,0,-80,8,,1631007,1629479,1611661321,28,33,0,2
+07:19,[DAL] Brown Substitution replaced by Dangerfield,0,-80,8,,1629480,1630101,1611661321,28,33,0,2
+07:11,[DAL] Siegrist Layup Shot: Missed Block: Egbo (1 BLK),-54,49,2,1631031,1641652,,1611661321,28,33,0,2
+07:11,[DAL] Siegrist Rebound (Off:1 Def:0),-54,49,4,,1641652,,1611661321,28,33,0,2
+07:11,[DAL 35-28] Siegrist Layup Shot: Made (6 PTS),-18,21,1,,1641652,,1611661321,28,35,2,2
+07:11,[WAS] Egbo Foul: Shooting (1 PF) (1 FTA),-9,29,6,1641652,1631031,1629178,1611661322,28,35,0,2
+07:11,[DAL 36-28] Siegrist Free Throw 1 of 1 (7 PTS),0,-80,3,,1641652,,1611661321,28,36,1,2
+07:11,[DAL] Howard Substitution replaced by Sabally,0,-80,8,,203827,1630149,1611661321,28,36,0,2
+06:58,[WAS] Egbo Turnover : Traveling (1 TO),3,58,5,,1631031,1628479,1611661322,28,36,0,2
+06:40,[DAL 38-28] Siegrist Jump Shot: Made (9 PTS) Assist: Sabally (6 AST),10,69,1,,1641652,1630149,1611661321,28,38,2,2
+06:21,[WAS] Hawkins Jump Shot: Missed,10,186,2,,203403,,1611661322,28,38,0,2
+06:21,[DAL] McCowan Rebound (Off:0 Def:3),10,186,4,,1629479,,1611661321,28,38,0,2
+06:11,[WAS] Cloud Foul: Shooting (2 PF) (2 FTA),-17,29,6,1629479,204333,1628167,1611661322,28,38,0,2
+06:11,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,28,38,0,2
+06:11,[WAS] Walker-Kimbrough Substitution replaced by Atkins,0,-80,8,,1628278,1628878,1611661322,28,38,0,2
+06:11,[DAL 39-28] McCowan Free Throw 1 of 2 (4 PTS),0,-80,3,,1629479,,1611661321,28,39,1,2
+06:11,[DAL 40-28] McCowan Free Throw 2 of 2 (5 PTS),0,-80,3,,1629479,,1611661321,28,40,1,2
+05:55,[WAS 30-40] Cloud Pullup Jump shot: Made (14 PTS),-21,37,1,,204333,,1611661322,30,40,2,2
+05:37,[DAL 42-30] Dangerfield Pullup Jump shot: Made (4 PTS),71,83,1,,1630101,,1611661321,30,42,2,2
+05:30,[WAS 32-42] Egbo Layup Shot: Made (3 PTS) Assist: Sykes (3 AST),17,9,1,,1631031,1628279,1611661322,32,42,2,2
+05:21,[DAL 45-32] Dangerfield 3pt Shot: Made (7 PTS) Assist: Sabally (7 AST),134,215,1,,1630101,1630149,1611661321,32,45,3,2
+05:10,[WAS 34-45] Sykes Driving Layup Shot: Made (4 PTS),3,20,1,,1628279,,1611661322,34,45,2,2
+04:58,[DAL 47-34] McCowan Layup Shot: Made (7 PTS) Assist: Sabally (8 AST),-6,33,1,,1629479,1630149,1611661321,34,47,2,2
+04:58,[WAS] Atkins Foul: Shooting (1 PF) (1 FTA),-4,18,6,1629479,1628878,1628479,1611661322,34,47,0,2
+04:58,[DAL] Siegrist Substitution replaced by Brown,0,-80,8,,1641652,1629480,1611661321,34,47,0,2
+04:58,[DAL 48-34] McCowan Free Throw 1 of 1 (8 PTS),0,-80,3,,1629479,,1611661321,34,48,1,2
+04:39,[WAS] Cloud Jump Shot: Missed,123,47,2,,204333,,1611661322,34,48,0,2
+04:36,[DAL] Dangerfield Rebound (Off:0 Def:2),123,47,4,,1630101,,1611661321,34,48,0,2
+04:33,[DAL 50-34] Brown Layup Shot: Made (4 PTS) Assist: Ogunbowale (3 AST),-10,31,1,,1629480,1629481,1611661321,34,50,2,2
+04:21,[WAS] Atkins Turnover : Lost Ball (2 TO) Steal:Sabally (2 ST),66,139,5,1630149,1628878,,1611661322,34,50,0,2
+04:16,[DAL] Ogunbowale 3pt Shot: Missed,136,203,2,,1629481,,1611661321,34,50,0,2
+04:14,[DAL] Team Rebound,136,203,4,,0,,1611661321,34,50,0,2
+04:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,50,0,2
+04:13,[DAL] Brown Foul: Offensive (1 PF),-4,35,6,1631031,1629480,1628479,1611661321,34,50,0,2
+04:13,[DAL] Brown Turnover : Offensive Foul Turnover (1 TO),-4,35,5,,1629480,1628479,1611661321,34,50,0,2
+04:03,[WAS] Cloud Layup Shot: Missed,16,27,2,,204333,,1611661322,34,50,0,2
+04:01,[DAL] Brown Rebound (Off:0 Def:2),16,27,4,,1629480,,1611661321,34,50,0,2
+04:01,[DAL] Brown Turnover : Lost Ball (2 TO) Steal:Atkins (1 ST),-4,742,5,1628878,1629480,,1611661321,34,50,0,2
+04:01,[DAL] Brown Foul: Shooting (2 PF) (2 FTA),-11,42,6,1628878,1629480,1628479,1611661321,34,50,0,2
+04:01,[WAS 35-50] Atkins Free Throw 1 of 2 (4 PTS),0,-80,3,,1628878,,1611661322,35,50,1,2
+04:01,[WAS] Egbo Substitution replaced by Hines-Allen,0,-80,8,,1631031,1628899,1611661322,35,50,0,2
+04:01,[DAL] Brown Substitution replaced by Howard,0,-80,8,,1629480,203827,1611661321,35,50,0,2
+04:01,[WAS 36-50] Atkins Free Throw 2 of 2 (5 PTS),0,-80,3,,1628878,,1611661322,36,50,1,2
+03:47,[WAS] Hines-Allen Foul: Shooting (1 PF) (2 FTA),-3,48,6,1630149,1628899,1628479,1611661322,36,50,0,2
+03:47,[DAL 51-36] Sabally Free Throw 1 of 2 (1 PTS),0,-80,3,,1630149,,1611661321,36,51,1,2
+03:47,[DAL 52-36] Sabally Free Throw 2 of 2 (2 PTS),0,-80,3,,1630149,,1611661321,36,52,1,2
+03:26,[WAS] Hawkins 3pt Shot: Missed,-36,253,2,,203403,,1611661322,36,52,0,2
+03:22,[WAS] Team Rebound,-36,253,4,,0,,1611661322,36,52,0,2
+03:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,52,0,2
+03:16,[WAS 39-52] Atkins 3pt Shot: Made (8 PTS) Assist: Hines-Allen (1 AST),-168,164,1,,1628878,1628899,1611661322,39,52,3,2
+03:02,[DAL] Howard Floating Jump shot: Missed,-22,97,2,,203827,,1611661321,39,52,0,2
+02:59,[WAS] Hines-Allen Rebound (Off:0 Def:3),-22,97,4,,1628899,,1611661322,39,52,0,2
+02:52,[WAS] Cloud Turnover : Bad Pass (3 TO) Steal:McCowan (1 ST),40,137,5,1629479,204333,,1611661322,39,52,0,2
+02:47,[DAL] Howard Driving Floating Jump Shot: Missed,-18,87,2,,203827,,1611661321,39,52,0,2
+02:47,[WAS] Hines-Allen Rebound (Off:0 Def:4),-18,87,4,,1628899,,1611661322,39,52,0,2
+02:47,[DAL] Sabally Foul: Transition Take (1 PF) (1 FTA),96,746,6,1628899,1630149,1629178,1611661321,39,52,0,2
+02:47,[DAL] Dangerfield Substitution replaced by Burton,0,-80,8,,1630101,1631007,1611661321,39,52,0,2
+02:47,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,39,52,0,2
+02:47,[WAS 40-52] Cloud Free Throw 1 of 1 (15 PTS),0,-80,3,,204333,,1611661322,40,52,1,2
+02:32,[WAS] Sykes Pullup Jump shot: Missed,-78,84,2,,1628279,,1611661322,40,52,0,2
+02:29,[WAS] Atkins Rebound (Off:1 Def:2),-78,84,4,,1628878,,1611661322,40,52,0,2
+02:25,[WAS 42-52] Atkins Fadeaway Jump Shot: Made (10 PTS),129,31,1,,1628878,,1611661322,42,52,2,2
+02:25,[DAL] Ogunbowale Foul: Shooting (1 PF) (1 FTA),113,4,6,1628878,1629481,1628479,1611661321,42,52,0,2
+02:25,[WAS] Atkins Free Throw 1 of 1 Missed,0,-80,3,,1628878,,1611661322,42,52,0,2
+02:22,[DAL] McCowan Rebound (Off:0 Def:4),0,-80,4,,1629479,,1611661321,42,52,0,2
+01:59,[DAL] McCowan Layup Shot: Missed,1,55,2,,1629479,,1611661321,42,52,0,2
+01:56,[WAS] Hines-Allen Rebound (Off:0 Def:5),1,55,4,,1628899,,1611661322,42,52,0,2
+01:56,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,42,52,0,2
+01:56,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,42,52,0,2
+01:46,[WAS] Cloud Driving Layup Shot: Missed,49,48,2,,204333,,1611661322,42,52,0,2
+01:44,[DAL] McCowan Rebound (Off:0 Def:5),49,48,4,,1629479,,1611661321,42,52,0,2
+01:42,[DAL] McCowan Turnover : Bad Pass (1 TO) Steal:Sykes (3 ST),-10,758,5,1628279,1629479,,1611661321,42,52,0,2
+01:37,[WAS] Hines-Allen 3pt Shot: Missed,105,239,2,,1628899,,1611661322,42,52,0,2
+01:32,[DAL] McCowan Rebound (Off:0 Def:6),105,239,4,,1629479,,1611661321,42,52,0,2
+01:10,[DAL] Burton 3pt Shot: Missed,-168,215,2,,1631007,,1611661321,42,52,0,2
+01:07,[WAS] Sykes Rebound (Off:1 Def:2),-168,215,4,,1628279,,1611661322,42,52,0,2
+00:59.6,[WAS 44-52] Hawkins Cutting Layup Shot: Made (5 PTS) Assist: Hines-Allen (2 AST),17,17,1,,203403,1628899,1611661322,44,52,2,2
+00:40.4,[DAL 54-44] Howard Layup Shot: Made (13 PTS) Assist: Ogunbowale (4 AST),-6,35,1,,203827,1629481,1611661321,44,54,2,2
+00:33.3,[WAS] Hines-Allen Layup Shot: Missed,6,24,2,,1628899,,1611661322,44,54,0,2
+00:30.9,[DAL] Ogunbowale Rebound (Off:0 Def:2),6,24,4,,1629481,,1611661321,44,54,0,2
+00:29.5,[DAL 56-44] Sabally Running Layup Shot: Made (4 PTS) Assist: Ogunbowale (5 AST),-5,26,1,,1630149,1629481,1611661321,44,56,2,2
+00:06.6,[WAS 46-56] Sykes Pullup Jump shot: Made (6 PTS) Assist: Hines-Allen (3 AST),68,134,1,,1628279,1628899,1611661322,46,56,2,2
+00:00.0,End Period,0,-80,13,,0,,0,46,56,0,2
+10:00,Start Period,0,-80,12,,0,,0,46,56,0,3
+09:46,[DAL 59-46] Dangerfield 3pt Shot: Made (10 PTS) Assist: Howard (1 AST),115,235,1,,1630101,203827,1611661321,46,59,3,3
+09:29,[WAS 49-59] Cloud 3pt Shot: Made (18 PTS) Assist: Hawkins (3 AST),-12,255,1,,204333,203403,1611661322,49,59,3,3
+09:04,[DAL] Howard Pullup Jump shot: Missed,-100,169,2,,203827,,1611661321,49,59,0,3
+09:01,[WAS] Atkins Rebound (Off:1 Def:3),-96,239,4,,1628878,,1611661322,49,59,0,3
+08:45,[WAS] Sykes Turnover : Lost Ball (3 TO) Steal:Ogunbowale (2 ST),-15,92,5,1629481,1628279,,1611661322,49,59,0,3
+08:28,[DAL] Ogunbowale Turnover : Bad Pass (2 TO) Steal:Sykes (4 ST),-128,56,5,1628279,1629481,,1611661321,49,59,0,3
+08:23,[WAS 51-59] Hines-Allen Running Layup Shot: Made (2 PTS) Assist: Sykes (4 AST),-5,43,1,,1628899,1628279,1611661322,51,59,2,3
+08:23,[DAL] Howard Foul: Shooting (1 PF) (1 FTA),-5,16,6,1628899,203827,1629178,1611661321,51,59,0,3
+08:23,[WAS 52-59] Hines-Allen Free Throw 1 of 1 (3 PTS),0,-80,3,,1628899,,1611661322,52,59,1,3
+08:01,Jump Ball Hines-Allen vs Hines-Allen (Dangerfield gains possession),0,-80,10,1628899,1628899,1630101,1611661321,52,59,0,3
+07:58,[DAL] Dangerfield 3pt Shot: Missed,-105,257,2,,1630101,,1611661321,52,59,0,3
+07:58,[DAL] McCowan Rebound (Off:1 Def:6),-105,257,4,,1629479,,1611661321,52,59,0,3
+07:58,[WAS] Hines-Allen Foul: Personal (2 PF),5,25,6,1629479,1628899,1629178,1611661322,52,59,0,3
+07:58,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,52,59,0,3
+07:58,[DAL] Sabally Substitution replaced by Siegrist,0,-80,8,,1630149,1641652,1611661321,52,59,0,3
+07:46,[DAL] Dangerfield Pullup Jump shot: Missed,-6,140,2,,1630101,,1611661321,52,59,0,3
+07:44,[WAS] Hawkins Rebound (Off:1 Def:2),-6,140,4,,203403,,1611661322,52,59,0,3
+07:25,[WAS] Walker-Kimbrough Jump Shot: Missed,-196,51,2,,1628278,,1611661322,52,59,0,3
+07:21,[DAL] McCowan Rebound (Off:1 Def:7),-196,51,4,,1629479,,1611661321,52,59,0,3
+07:13,[DAL 61-52] Ogunbowale Driving Floating Jump Shot: Made (10 PTS),56,51,1,,1629481,,1611661321,52,61,2,3
+07:05,[WAS] Hines-Allen Substitution replaced by Egbo,0,-80,8,,1628899,1631031,1611661322,52,61,0,3
+07:03,Jump Ball McCowan vs McCowan,0,-80,10,1629479,1629479,,1611661322,52,61,0,3
+07:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,61,0,3
+06:55,[WAS 54-61] Sykes Pullup Jump shot: Made (8 PTS),-74,166,1,,1628279,,1611661322,54,61,2,3
+06:53,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,54,61,0,3
+06:39,[DAL 63-54] McCowan Layup Shot: Made (10 PTS) Assist: Howard (2 AST),9,17,1,,1629479,203827,1611661321,54,63,2,3
+06:28,[DAL] Howard Foul: Personal (2 PF),1,81,6,1628279,203827,1628167,1611661321,54,63,0,3
+06:28,Instant Replay - Support Ruling,0,-80,18,,0,,0,54,63,0,3
+06:11,[WAS 57-63] Sykes 3pt Shot: Made (11 PTS) Assist: Walker-Kimbrough (2 AST),124,242,1,,1628279,1628278,1611661322,57,63,3,3
+05:49,[DAL] Siegrist Jump Shot: Missed,81,130,2,,1641652,,1611661321,57,63,0,3
+05:46,[DAL] McCowan Rebound (Off:2 Def:7),81,130,4,,1629479,,1611661321,57,63,0,3
+05:45,[DAL] McCowan Putback Layup Shot: Missed,7,9,2,,1629479,,1611661321,57,63,0,3
+05:43,[DAL] Siegrist Rebound (Off:2 Def:0),7,9,4,,1641652,,1611661321,57,63,0,3
+05:42,[DAL 65-57] Siegrist Putback Layup Shot: Made (11 PTS),6,19,1,,1641652,,1611661321,57,65,2,3
+05:35,[WAS 59-65] Sykes Layup Shot: Made (13 PTS),-5,37,1,,1628279,,1611661322,59,65,2,3
+05:22,[DAL] Howard 3pt Shot: Missed,-173,167,2,,203827,,1611661321,59,65,0,3
+05:20,[WAS] Egbo Rebound (Off:1 Def:3),-173,167,4,,1631031,,1611661322,59,65,0,3
+05:11,[WAS 61-65] Egbo Layup Shot: Made (5 PTS) Assist: Cloud (3 AST),2,31,1,,1631031,204333,1611661322,61,65,2,3
+05:11,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,61,65,0,3
+05:11,[DAL] Siegrist Substitution replaced by Sabally,0,-80,8,,1641652,1630149,1611661321,61,65,0,3
+04:57,[DAL 67-61] McCowan Layup Shot: Made (12 PTS) Assist: Sabally (9 AST),11,22,1,,1629479,1630149,1611661321,61,67,2,3
+04:57,[WAS] Walker-Kimbrough Foul: Shooting (1 PF) (1 FTA),3,15,6,1629479,1628278,1629178,1611661322,61,67,0,3
+04:57,Timeout Officials,0,-80,9,,0,,0,61,67,0,3
+04:57,[DAL 68-61] McCowan Free Throw 1 of 1 (13 PTS),0,-80,3,,1629479,,1611661321,61,68,1,3
+04:42,[WAS] Hawkins 3pt Shot: Missed,52,264,2,,203403,,1611661322,61,68,0,3
+04:42,[DAL] Team Rebound,52,264,4,,0,,1611661321,61,68,0,3
+04:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,68,0,3
+04:30,[DAL 70-61] Dangerfield Driving Layup Shot: Made (12 PTS),-43,28,1,,1630101,,1611661321,61,70,2,3
+04:18,[WAS] Hawkins Floating Jump shot: Missed,-68,65,2,,203403,,1611661322,61,70,0,3
+04:15,[DAL] McCowan Rebound (Off:2 Def:8),-68,65,4,,1629479,,1611661321,61,70,0,3
+04:07,[DAL 72-61] Howard Layup Shot: Made (15 PTS) Assist: Ogunbowale (6 AST),4,8,1,,203827,1629481,1611661321,61,72,2,3
+03:56,[WAS] Cloud 3pt Shot: Missed,-149,220,2,,204333,,1611661322,61,72,0,3
+03:53,[DAL] Ogunbowale Rebound (Off:0 Def:3),-149,220,4,,1629481,,1611661321,61,72,0,3
+03:46,[DAL 74-61] Ogunbowale Driving Layup Shot: Made (12 PTS),-11,8,1,,1629481,,1611661321,61,74,2,3
+03:30,[WAS] Sykes Pullup Jump shot: Missed,46,176,2,,1628279,,1611661322,61,74,0,3
+03:28,[DAL] Howard Rebound (Off:0 Def:2),46,176,4,,203827,,1611661321,61,74,0,3
+03:18,[DAL 76-61] McCowan Cutting Layup Shot: Made (15 PTS) Assist: Ogunbowale (7 AST),26,10,1,,1629479,1629481,1611661321,61,76,2,3
+03:18,[WAS] Sykes Foul: Shooting (1 PF) (1 FTA),10,8,6,1629479,1628279,1628479,1611661322,61,76,0,3
+03:18,[WAS] Sykes Substitution replaced by Hines-Allen,0,-80,8,,1628279,1628899,1611661322,61,76,0,3
+03:18,[WAS] Hawkins Substitution replaced by Meng,0,-80,8,,203403,1641642,1611661322,61,76,0,3
+03:18,[DAL] McCowan Free Throw 1 of 1 Missed,0,-80,3,,1629479,,1611661321,61,76,0,3
+03:15,[WAS] Walker-Kimbrough Rebound (Off:0 Def:1),0,-80,4,,1628278,,1611661322,61,76,0,3
+03:08,[DAL] McCowan Foul: Shooting (1 PF) (2 FTA),-15,53,6,1628278,1629479,1628167,1611661321,61,76,0,3
+03:08,[WAS 62-76] Walker-Kimbrough Free Throw 1 of 2 (5 PTS),0,-80,3,,1628278,,1611661322,62,76,1,3
+03:08,[WAS] Walker-Kimbrough Free Throw 2 of 2 Missed,0,-80,3,,1628278,,1611661322,62,76,0,3
+03:05,[DAL] Dangerfield Rebound (Off:0 Def:3),0,-80,4,,1630101,,1611661321,62,76,0,3
+02:47,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-1,73,2,,1629481,,1611661321,62,76,0,3
+02:47,[DAL] Team Rebound,-1,73,4,,0,,1611661321,62,76,0,3
+02:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,62,76,0,3
+02:40,[DAL] Dangerfield 3pt Shot: Missed,150,205,2,,1630101,,1611661321,62,76,0,3
+02:39,[DAL] Team Rebound,150,205,4,,0,,1611661321,62,76,0,3
+02:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,62,76,0,3
+02:39,[DAL] Howard Substitution replaced by Kuier,0,-80,8,,203827,1630386,1611661321,62,76,0,3
+02:36,[DAL] McCowan Jump Shot: Missed,11,84,2,,1629479,,1611661321,62,76,0,3
+02:33,[WAS] Cloud Rebound (Off:0 Def:1),11,84,4,,204333,,1611661322,62,76,0,3
+02:26,[WAS] Cloud 3pt Shot: Missed,-131,227,2,,204333,,1611661322,62,76,0,3
+02:23,[DAL] Ogunbowale Rebound (Off:0 Def:4),-131,227,4,,1629481,,1611661321,62,76,0,3
+02:18,[DAL] Sabally Turnover : Out of Bounds - Bad Pass Turnover (4 TO),16,48,5,,1630149,1628167,1611661321,62,76,0,3
+02:08,[WAS] Cloud Layup Shot: Missed Block: Kuier (1 BLK),-12,49,2,1630386,204333,,1611661322,62,76,0,3
+02:03,[DAL] Sabally Rebound (Off:1 Def:3),-12,49,4,,1630149,,1611661321,62,76,0,3
+02:03,[WAS] Cloud Foul: Shooting (3 PF) (2 FTA),22,17,6,1630101,204333,1628479,1611661322,62,76,0,3
+02:03,[DAL 77-62] Dangerfield Free Throw 1 of 2 (13 PTS),0,-80,3,,1630101,,1611661321,62,77,1,3
+02:03,[DAL 78-62] Dangerfield Free Throw 2 of 2 (14 PTS),0,-80,3,,1630101,,1611661321,62,78,1,3
+01:41,[WAS] Cloud Layup Shot: Missed,-15,42,2,,204333,,1611661322,62,78,0,3
+01:39,[DAL] McCowan Rebound (Off:2 Def:9),-15,42,4,,1629479,,1611661321,62,78,0,3
+01:32,[WAS] Cloud Foul: Personal (4 PF) (2 FTA),29,28,6,1629481,204333,1629178,1611661322,62,78,0,3
+01:32,[DAL 79-62] Ogunbowale Free Throw 1 of 2 (13 PTS),0,-80,3,,1629481,,1611661321,62,79,1,3
+01:32,[WAS] Egbo Substitution replaced by Atkins,0,-80,8,,1631031,1628878,1611661322,62,79,0,3
+01:32,[WAS] Cloud Substitution replaced by Sykes,0,-80,8,,204333,1628279,1611661322,62,79,0,3
+01:32,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,62,79,0,3
+01:32,[DAL] Ogunbowale Free Throw 2 of 2 Missed,0,-80,3,,1629481,,1611661321,62,79,0,3
+01:27,[WAS] Walker-Kimbrough Rebound (Off:0 Def:2),0,-80,4,,1628278,,1611661322,62,79,0,3
+01:21,[DAL] Kuier Foul: Personal (2 PF),23,65,6,1628878,1630386,1629178,1611661321,62,79,0,3
+01:21,[DAL] Ogunbowale Substitution replaced by Burton,0,-80,8,,1629481,1631007,1611661321,62,79,0,3
+01:12,[WAS] Sykes 3pt Shot: Missed,-31,262,2,,1628279,,1611661322,62,79,0,3
+01:08,[DAL] Brown Rebound (Off:0 Def:3),-31,262,4,,1629480,,1611661321,62,79,0,3
+01:01,[DAL 81-62] Sabally Jump Shot: Made (6 PTS),95,116,1,,1630149,,1611661321,62,81,2,3
+00:52.3,[WAS 64-81] Atkins Pullup Jump shot: Made (12 PTS) Assist: Hines-Allen (4 AST),-54,157,1,,1628878,1628899,1611661322,64,81,2,3
+00:40.2,[DAL 84-64] Sabally 3pt Shot: Made (9 PTS) Assist: Brown (3 AST),-118,205,1,,1630149,1629480,1611661321,64,84,3,3
+00:25.3,[WAS] Walker-Kimbrough 3pt Shot: Missed,193,120,2,,1628278,,1611661322,64,84,0,3
+00:22.1,[DAL] Brown Rebound (Off:0 Def:4),193,120,4,,1629480,,1611661321,64,84,0,3
+00:02.8,[DAL] Dangerfield Turnover : Bad Pass (1 TO) Steal:Meng (1 ST),82,154,5,1641642,1630101,,1611661321,64,84,0,3
+00:01.0,[WAS] Meng 3pt Shot: Missed,-7,511,2,,1641642,,1611661322,64,84,0,3
+00:01.0,[WAS] Team Rebound,-7,511,4,,0,,1611661322,64,84,0,3
+00:00.0,End Period,0,-80,13,,0,,0,64,84,0,3
+10:00,Start Period,0,-80,12,,0,,0,64,84,0,4
+09:39,[WAS 67-84] Sykes 3pt Shot: Made (16 PTS) Assist: Hines-Allen (5 AST),-232,43,1,,1628279,1628899,1611661322,67,84,3,4
+09:17,[WAS] Hines-Allen Foul: Shooting (3 PF) (2 FTA),0,22,6,1629480,1628899,1628479,1611661322,67,84,0,4
+09:17,[DAL 85-67] Brown Free Throw 1 of 2 (5 PTS),0,-80,3,,1629480,,1611661321,67,85,1,4
+09:17,[DAL 86-67] Brown Free Throw 2 of 2 (6 PTS),0,-80,3,,1629480,,1611661321,67,86,1,4
+08:58,[WAS] Sykes 3pt Shot: Missed,219,82,2,,1628279,,1611661322,67,86,0,4
+08:57,[WAS] Atkins Rebound (Off:2 Def:3),219,82,4,,1628878,,1611661322,67,86,0,4
+08:57,[DAL] Burton Foul: Shooting (2 PF) (2 FTA),-5,54,6,1628878,1631007,1628479,1611661321,67,86,0,4
+08:57,[WAS 68-86] Atkins Free Throw 1 of 2 (13 PTS),0,-80,3,,1628878,,1611661322,68,86,1,4
+08:57,[DAL] Burton Substitution replaced by Howard,0,-80,8,,1631007,203827,1611661321,68,86,0,4
+08:57,[DAL] Kuier Substitution replaced by Ogunbowale,0,-80,8,,1630386,1629481,1611661321,68,86,0,4
+08:57,[WAS] Atkins Free Throw 2 of 2 Missed,0,-80,3,,1628878,,1611661322,68,86,0,4
+08:52,[DAL] Sabally Rebound (Off:1 Def:4),0,-80,4,,1630149,,1611661321,68,86,0,4
+08:35,[DAL] Sabally 3pt Shot: Missed,173,215,2,,1630149,,1611661321,68,86,0,4
+08:32,[WAS] Hines-Allen Rebound (Off:0 Def:6),173,215,4,,1628899,,1611661322,68,86,0,4
+08:25,[WAS] Meng 3pt Shot: Missed,-217,117,2,,1641642,,1611661322,68,86,0,4
+08:23,[DAL] Howard Rebound (Off:0 Def:3),-217,117,4,,203827,,1611661321,68,86,0,4
+08:07,[DAL] Howard Reverse Layup Shot: Missed,28,14,2,,203827,,1611661321,68,86,0,4
+08:03,[WAS] Hawkins Rebound (Off:1 Def:3),28,14,4,,203403,,1611661322,68,86,0,4
+07:58,[WAS] Hawkins Turnover : Out of Bounds - Bad Pass Turnover (2 TO),174,196,5,,203403,1629178,1611661322,68,86,0,4
+07:58,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,68,86,0,4
+07:40,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (3 TO),45,42,5,,1629481,1628167,1611661321,68,86,0,4
+07:40,[WAS] Hines-Allen Substitution replaced by Egbo,0,-80,8,,1628899,1631031,1611661322,68,86,0,4
+07:25,[WAS] Sykes Pullup Jump shot: Missed,-100,121,2,,1628279,,1611661322,68,86,0,4
+07:25,[WAS] Team Rebound,-100,121,4,,0,,1611661322,68,86,0,4
+07:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,86,0,4
+07:11,[WAS] Egbo Turnaround Jump Shot: Missed,-106,56,2,,1631031,,1611661322,68,86,0,4
+07:09,[DAL] Howard Rebound (Off:0 Def:4),-106,56,4,,203827,,1611661321,68,86,0,4
+06:59,[WAS] Sykes Foul: Personal (2 PF),24,27,6,203827,1628279,1629178,1611661322,68,86,0,4
+06:54,[DAL] Ogunbowale Foul: Offensive (2 PF),45,164,6,1628279,1629481,1629178,1611661321,68,86,0,4
+06:54,[DAL] Ogunbowale Turnover : Offensive Foul Turnover (4 TO),45,164,5,,1629481,1629178,1611661321,68,86,0,4
+06:34,[WAS 70-86] Egbo Layup Shot: Made (7 PTS),-1,34,1,,1631031,,1611661322,70,86,2,4
+06:10,[DAL] Sabally Driving Layup Shot: Missed,6,67,2,,1630149,,1611661321,70,86,0,4
+06:07,[WAS] Sykes Rebound (Off:1 Def:3),6,67,4,,1628279,,1611661322,70,86,0,4
+06:00,[WAS 72-86] Meng Jump Shot: Made (5 PTS) Assist: Walker-Kimbrough (3 AST),-93,51,1,,1641642,1628278,1611661322,72,86,2,4
+06:00,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,72,86,0,4
+06:00,[WAS] Meng Substitution replaced by Cloud,0,-80,8,,1641642,204333,1611661322,72,86,0,4
+06:00,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,72,86,0,4
+05:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,86,0,4
+05:36,[DAL] Sabally Jump Shot: Missed,29,154,2,,1630149,,1611661321,72,86,0,4
+05:36,[DAL] McCowan Rebound (Off:3 Def:9),29,154,4,,1629479,,1611661321,72,86,0,4
+05:33,Jump Ball McCowan vs McCowan (Sykes gains possession),0,-80,10,1629479,1629479,1628279,1611661322,72,86,0,4
+05:33,[DAL] McCowan Turnover : Lost Ball (2 TO) Steal:Egbo (1 ST),0,-80,5,1631031,1629479,,1611661321,72,86,0,4
+05:19,[DAL] Dangerfield Foul: Shooting (2 PF) (2 FTA),-3,49,6,204333,1630101,1629178,1611661321,72,86,0,4
+05:19,[WAS] Cloud Free Throw 1 of 2 Missed,0,-80,3,,204333,,1611661322,72,86,0,4
+05:19,[WAS] Team Rebound,0,-80,4,,0,,1611661322,72,86,0,4
+05:19,[WAS 73-86] Cloud Free Throw 2 of 2 (19 PTS),0,-80,3,,204333,,1611661322,73,86,1,4
+04:59,[DAL] Ogunbowale Jump Shot: Missed,-112,52,2,,1629481,,1611661321,73,86,0,4
+04:56,[DAL] McCowan Rebound (Off:4 Def:9),-112,52,4,,1629479,,1611661321,73,86,0,4
+04:55,[DAL] McCowan Layup Shot: Missed,4,22,2,,1629479,,1611661321,73,86,0,4
+04:53,[WAS] Egbo Rebound (Off:1 Def:4),4,22,4,,1631031,,1611661322,73,86,0,4
+04:43,[WAS] Sykes Pullup Jump shot: Missed,62,157,2,,1628279,,1611661322,73,86,0,4
+04:42,[WAS] Egbo Rebound (Off:2 Def:4),62,157,4,,1631031,,1611661322,73,86,0,4
+04:35,[WAS] Sykes Driving Layup Shot: Missed,-4,54,2,,1628279,,1611661322,73,86,0,4
+04:33,[DAL] Sabally Rebound (Off:1 Def:5),-4,54,4,,1630149,,1611661321,73,86,0,4
+04:20,[DAL] Dangerfield Turnover : Bad Pass (2 TO) Steal:Cloud (1 ST),1,60,5,204333,1630101,,1611661321,73,86,0,4
+04:14,[WAS] Cloud Turnover : Bad Pass (4 TO) Steal:Dangerfield (2 ST),1,133,5,1630101,204333,,1611661322,73,86,0,4
+04:11,[WAS] Cloud Foul: Shooting (5 PF) (2 FTA),20,76,6,1629481,204333,1628167,1611661322,73,86,0,4
+04:11,[DAL 87-73] Ogunbowale Free Throw 1 of 2 (14 PTS),0,-80,3,,1629481,,1611661321,73,87,1,4
+04:11,[WAS] Egbo Substitution replaced by Hines-Allen,0,-80,8,,1631031,1628899,1611661322,73,87,0,4
+04:11,[DAL] Howard Substitution replaced by Siegrist,0,-80,8,,203827,1641652,1611661321,73,87,0,4
+04:11,[DAL] Dangerfield Substitution replaced by Burton,0,-80,8,,1630101,1631007,1611661321,73,87,0,4
+04:11,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,73,87,0,4
+04:11,[DAL 88-73] Ogunbowale Free Throw 2 of 2 (15 PTS),0,-80,3,,1629481,,1611661321,73,88,1,4
+03:51,[DAL] Brown Foul: Shooting (3 PF) (2 FTA),-13,51,6,1628278,1629480,1628479,1611661321,73,88,0,4
+03:51,[WAS 74-88] Walker-Kimbrough Free Throw 1 of 2 (6 PTS),0,-80,3,,1628278,,1611661322,74,88,1,4
+03:51,[WAS 75-88] Walker-Kimbrough Free Throw 2 of 2 (7 PTS),0,-80,3,,1628278,,1611661322,75,88,1,4
+03:35,[DAL 91-75] Burton 3pt Shot: Made (6 PTS) Assist: Ogunbowale (8 AST),-207,96,1,,1631007,1629481,1611661321,75,91,3,4
+03:33,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,75,91,0,4
+03:33,[WAS] Sykes Substitution replaced by Meng,0,-80,8,,1628279,1641642,1611661322,75,91,0,4
+03:14,[WAS 78-91] Cloud 3pt Shot: Made (22 PTS) Assist: Hines-Allen (6 AST),66,252,1,,204333,1628899,1611661322,78,91,3,4
+02:52,[DAL] Ogunbowale Turnover : Bad Pass (5 TO) Steal:Walker-Kimbrough (2 ST),56,51,5,1628278,1629481,,1611661321,78,91,0,4
+02:44,[WAS 81-91] Hawkins 3pt Shot: Made (8 PTS) Assist: Walker-Kimbrough (4 AST),99,241,1,,203403,1628278,1611661322,81,91,3,4
+02:30,[WAS] Cloud Foul: Shooting (6 PF) (2 FTA),15,33,6,1629480,204333,1629178,1611661322,81,91,0,4
+02:30,[WAS] Cloud Substitution replaced by Sykes,0,-80,8,,204333,1628279,1611661322,81,91,0,4
+02:30,[DAL 92-81] Brown Free Throw 1 of 2 (7 PTS),0,-80,3,,1629480,,1611661321,81,92,1,4
+02:30,[DAL] Burton Substitution replaced by Dangerfield,0,-80,8,,1631007,1630101,1611661321,81,92,0,4
+02:30,[DAL] Siegrist Substitution replaced by Howard,0,-80,8,,1641652,203827,1611661321,81,92,0,4
+02:30,[DAL 93-81] Brown Free Throw 2 of 2 (8 PTS),0,-80,3,,1629480,,1611661321,81,93,1,4
+02:15,[WAS] Meng 3pt Shot: Missed,-115,257,2,,1641642,,1611661322,81,93,0,4
+02:12,[WAS] Hines-Allen Rebound (Off:1 Def:6),-115,257,4,,1628899,,1611661322,81,93,0,4
+02:12,[WAS] Hawkins Substitution replaced by Egbo,0,-80,8,,203403,1631031,1611661322,81,93,0,4
+02:09,Jump Ball Hines-Allen vs Hines-Allen (Ogunbowale gains possession),0,-80,10,1628899,1628899,1629481,1611661321,81,93,0,4
+02:09,[WAS] Hines-Allen Turnover : Lost Ball (2 TO) Steal:Sabally (3 ST),0,-80,5,1630149,1628899,,1611661322,81,93,0,4
+02:05,[DAL 95-81] Ogunbowale Running Layup Shot: Made (17 PTS) Assist: Sabally (10 AST),6,47,1,,1629481,1630149,1611661321,81,95,2,4
+01:50,[WAS] Egbo Layup Shot: Missed,-5,37,2,,1631031,,1611661322,81,95,0,4
+01:47,[DAL] Howard Rebound (Off:0 Def:5),-5,37,4,,203827,,1611661321,81,95,0,4
+01:28,[DAL] Dangerfield 3pt Shot: Missed,-127,199,2,,1630101,,1611661321,81,95,0,4
+01:27,[DAL] Brown Rebound (Off:1 Def:4),-127,199,4,,1629480,,1611661321,81,95,0,4
+01:27,[WAS] Egbo Foul: Shooting (2 PF) (2 FTA),-1,74,6,1629480,1631031,1628479,1611661322,81,95,0,4
+01:27,[DAL 96-81] Brown Free Throw 1 of 2 (9 PTS),0,-80,3,,1629480,,1611661321,81,96,1,4
+01:27,[DAL] Sabally Substitution replaced by Siegrist,0,-80,8,,1630149,1641652,1611661321,81,96,0,4
+01:27,[DAL] Howard Substitution replaced by Kuier,0,-80,8,,203827,1630386,1611661321,81,96,0,4
+01:27,[DAL] Ogunbowale Substitution replaced by Burton,0,-80,8,,1629481,1631007,1611661321,81,96,0,4
+01:27,[DAL 97-81] Brown Free Throw 2 of 2 (10 PTS),0,-80,3,,1629480,,1611661321,81,97,1,4
+01:09,[WAS] Hines-Allen Turnover : Lost Ball (3 TO) Steal:Burton (2 ST),-11,105,5,1631007,1628899,,1611661322,81,97,0,4
+01:04,[DAL] Dangerfield Pullup Jump shot: Missed,70,137,2,,1630101,,1611661321,81,97,0,4
+01:02,[WAS] Egbo Rebound (Off:2 Def:5),70,137,4,,1631031,,1611661322,81,97,0,4
+00:56.6,[WAS 84-97] Hines-Allen 3pt Shot: Made (6 PTS) Assist: Walker-Kimbrough (5 AST),217,83,1,,1628899,1628278,1611661322,84,97,3,4
+00:43.3,[DAL] Kuier 3pt Shot: Missed,40,252,2,,1630386,,1611661321,84,97,0,4
+00:38.1,[WAS] Hines-Allen Rebound (Off:1 Def:7),40,252,4,,1628899,,1611661322,84,97,0,4
+00:28.3,[WAS] Hines-Allen Jump Shot: Missed,-3,65,2,,1628899,,1611661322,84,97,0,4
+00:25.3,[DAL] Burton Rebound (Off:0 Def:2),-3,65,4,,1631007,,1611661321,84,97,0,4
+00:16.2,[DAL] Dangerfield Turnover : Bad Pass (3 TO) Steal:Sykes (5 ST),24,58,5,1628279,1630101,,1611661321,84,97,0,4
+00:16.2,[DAL] Brown Foul: Personal (4 PF),-16,800,6,1628279,1629480,1628167,1611661321,84,97,0,4
+00:00.0,End Period,0,-80,13,,0,,0,84,97,0,4

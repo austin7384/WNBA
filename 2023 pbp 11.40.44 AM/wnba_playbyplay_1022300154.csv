@@ -1,0 +1,382 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:50,Jump Ball Stevens vs Jones (Canada gains possession),0,-80,10,1627673,1628922,1628886,1611661320,0,0,0,1
+09:44,[LAS] Canada Driving Finger Roll Layup Shot: Missed,3,9,2,,1628886,,1611661320,0,0,0,1
+09:40,[NYL] Jones Rebound (Off:0 Def:1),3,9,4,,1627673,,1611661313,0,0,0,1
+09:26,[NYL 2-0] Jones Driving Reverse Layup Shot: Made (2 PTS) Assist: Ionescu (1 AST),18,12,1,,1627673,1629477,1611661313,0,2,2,1
+09:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,2,0,1
+09:01,[LAS 2-2] N Ogwumike Pullup Jump shot: Made (2 PTS) Assist: Samuelson (1 AST),13,172,1,,203014,1628317,1611661320,2,2,2,1
+08:51,[NYL] Ionescu 3pt Shot: Missed,-43,271,2,,1629477,,1611661313,2,2,0,1
+08:46,[LAS] Samuelson Rebound (Off:0 Def:1),-43,271,4,,1628317,,1611661320,2,2,0,1
+08:33,[LAS 5-2] Stevens 3pt Shot: Made (3 PTS) Assist: Clarendon (1 AST),191,130,1,,1628922,203406,1611661320,5,2,3,1
+08:15,[NYL 4-5] Laney Cutting Layup Shot: Made (2 PTS) Assist: Jones (1 AST),-15,21,1,,204335,1627673,1611661313,5,4,2,1
+08:02,[LAS] Clarendon Pullup Jump shot: Missed,-50,143,2,,203406,,1611661320,5,4,0,1
+07:58,[NYL] Vandersloot Rebound (Off:0 Def:1),-50,143,4,,202664,,1611661313,5,4,0,1
+07:56,[LAS] N Ogwumike Foul: Personal (1 PF),-123,194,6,202664,203014,100697,1611661320,5,4,0,1
+07:45,[NYL 7-5] Ionescu 3pt Shot: Made (3 PTS) Assist: Laney (1 AST),228,11,1,,1629477,204335,1611661313,5,7,3,1
+07:24,[LAS] N Ogwumike Turnaround Jump Shot: Missed,-65,86,2,,203014,,1611661320,5,7,0,1
+07:20,[NYL] Vandersloot Rebound (Off:0 Def:2),-65,86,4,,202664,,1611661313,5,7,0,1
+07:10,[NYL] Vandersloot 3pt Shot: Missed,228,12,2,,202664,,1611661313,5,7,0,1
+07:06,[LAS] Samuelson Rebound (Off:0 Def:2),228,12,4,,1628317,,1611661320,5,7,0,1
+06:58,[LAS] N Ogwumike Driving Layup Shot: Missed,18,9,2,,203014,,1611661320,5,7,0,1
+06:55,[NYL] Jones Rebound (Off:0 Def:2),18,9,4,,1627673,,1611661313,5,7,0,1
+06:52,[NYL] Stewart 3pt Shot: Missed,143,199,2,,1627668,,1611661313,5,7,0,1
+06:47,[LAS] Samuelson Rebound (Off:0 Def:3),143,199,4,,1628317,,1611661320,5,7,0,1
+06:43,[LAS] Canada Running Finger Roll Layup Shot: Missed,-24,-1,2,,1628886,,1611661320,5,7,0,1
+06:40,[NYL] Jones Rebound (Off:0 Def:3),-24,-1,4,,1627673,,1611661313,5,7,0,1
+06:36,[NYL] Laney 3pt Shot: Missed,-227,59,2,,204335,,1611661313,5,7,0,1
+06:35,[LAS] Team Rebound,-227,59,4,,0,,1611661320,5,7,0,1
+06:35,[NYL] Ionescu Foul: Loose Ball (1 PF),0,783,6,203406,1629477,1629176,1611661313,5,7,0,1
+06:20,[LAS 7-7] Samuelson Cutting Layup Shot: Made (2 PTS) Assist: N Ogwumike (1 AST),12,4,1,,1628317,203014,1611661320,7,7,2,1
+06:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,7,0,1
+05:54,[NYL 9-7] Laney Driving Layup Shot: Made (4 PTS),21,12,1,,204335,,1611661313,7,9,2,1
+05:39,[LAS] N Ogwumike Hook Shot: Missed,-4,35,2,,203014,,1611661320,7,9,0,1
+05:36,[NYL] Stewart Rebound (Off:0 Def:1),-4,35,4,,1627668,,1611661313,7,9,0,1
+05:26,[NYL] Vandersloot Pullup Jump shot: Missed,-40,128,2,,202664,,1611661313,7,9,0,1
+05:22,[NYL] Jones Rebound (Off:1 Def:3),-40,128,4,,1627673,,1611661313,7,9,0,1
+05:15,[NYL] Laney 3pt Shot: Missed,230,24,2,,204335,,1611661313,7,9,0,1
+05:11,[LAS] N Ogwumike Rebound (Off:0 Def:1),230,24,4,,203014,,1611661320,7,9,0,1
+04:49,[LAS 9-9] Clarendon Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Stevens (1 AST),12,13,1,,203406,1628922,1611661320,9,9,2,1
+04:34,[NYL 11-9] Ionescu Reverse Layup Shot: Made (5 PTS) Assist: Vandersloot (1 AST),19,12,1,,1629477,202664,1611661313,9,11,2,1
+04:12,[LAS] Clarendon 3pt Shot: Missed,206,115,2,,203406,,1611661320,9,11,0,1
+04:08,[NYL] Stewart Rebound (Off:0 Def:2),206,115,4,,1627668,,1611661313,9,11,0,1
+03:59,[LAS] Clarendon Foul: Personal (1 PF),81,31,6,1627673,203406,100697,1611661320,9,11,0,1
+03:59,Timeout Officials,0,-80,9,,0,,0,9,11,0,1
+03:59,[LAS] Stevens Substitution replaced by Thomas,0,-80,8,,1628922,202662,1611661320,9,11,0,1
+03:59,[LAS] Clarendon Substitution replaced by Hamby,0,-80,8,,203406,204324,1611661320,9,11,0,1
+03:59,[NYL] Jones Substitution replaced by Johannès,0,-80,8,,1627673,1629546,1611661313,9,11,0,1
+03:59,[NYL] Vandersloot Substitution replaced by Thornton,0,-80,8,,202664,203866,1611661313,9,11,0,1
+03:46,[NYL] Johannès 3pt Shot: Missed,-223,47,2,,1629546,,1611661313,9,11,0,1
+03:43,[LAS] Thomas Rebound (Off:0 Def:1),-223,47,4,,202662,,1611661320,9,11,0,1
+03:37,[LAS 11-11] Hamby Cutting Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),16,5,1,,204324,202662,1611661320,11,11,2,1
+03:37,[NYL] Johannès Foul: Shooting (1 PF) (1 FTA),16,5,6,204324,1629546,1629176,1611661313,11,11,0,1
+03:37,[LAS 12-11] Hamby Free Throw 1 of 1 (3 PTS),0,-80,3,,204324,,1611661320,12,11,1,1
+03:16,[NYL] Ionescu 3pt Shot: Missed,127,235,2,,1629477,,1611661313,12,11,0,1
+03:11,[NYL] Stewart Rebound (Off:1 Def:2),127,235,4,,1627668,,1611661313,12,11,0,1
+03:06,[NYL 14-12] Thornton 3pt Shot: Made (3 PTS) Assist: Ionescu (2 AST),22,252,1,,203866,1629477,1611661313,12,14,3,1
+02:39,[LAS 14-14] N Ogwumike Turnaround Jump Shot: Made (4 PTS) Assist: Thomas (2 AST),46,127,1,,203014,202662,1611661320,14,14,2,1
+02:29,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-44,-21,5,,1629477,1629176,1611661313,14,14,0,1
+02:16,[LAS] N Ogwumike Turnaround Jump Shot: Missed,124,6,2,,203014,,1611661320,14,14,0,1
+02:12,[NYL] Johannès Rebound (Off:0 Def:1),124,6,4,,1629546,,1611661313,14,14,0,1
+02:07,[LAS] Canada Foul: Personal (1 PF),-46,155,6,1627668,1628886,100697,1611661320,14,14,0,1
+02:07,[NYL] Laney Substitution replaced by Willoughby,0,-80,8,,204335,1630139,1611661313,14,14,0,1
+02:04,[NYL] Ionescu Turnover : Bad Pass (2 TO) Steal:N Ogwumike (1 ST),-127,360,5,203014,1629477,,1611661313,14,14,0,1
+02:00,[LAS 16-14] Canada Running Finger Roll Layup Shot: Made (2 PTS),4,4,1,,1628886,,1611661320,16,14,2,1
+01:50,[LAS] Thomas Violation:Kicked Ball,0,-80,7,,202662,,1611661320,16,14,0,1
+01:50,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,16,14,0,1
+01:45,[NYL] Johannès 3pt Shot: Missed,26,257,2,,1629546,,1611661313,16,14,0,1
+01:40,[LAS] Hamby Rebound (Off:0 Def:1),26,257,4,,204324,,1611661320,16,14,0,1
+01:35,[LAS 18-14] N Ogwumike Running Layup Shot: Made (6 PTS) Assist: Samuelson (2 AST),15,1,1,,203014,1628317,1611661320,18,14,2,1
+01:09,[NYL] Vandersloot Floating Jump shot: Missed,-4,66,2,,202664,,1611661313,18,14,0,1
+01:05,[NYL] Vandersloot Rebound (Off:1 Def:2),-4,66,4,,202664,,1611661313,18,14,0,1
+01:04,[NYL] Stewart 3pt Shot: Missed,227,56,2,,1627668,,1611661313,18,14,0,1
+01:00,[LAS] Hamby Rebound (Off:0 Def:2),227,56,4,,204324,,1611661320,18,14,0,1
+00:52.0,[LAS] Thomas Turnover : Bad Pass (1 TO) Steal:Stewart (1 ST),39,52,5,1627668,202662,,1611661320,18,14,0,1
+00:38.8,[NYL] Stewart Pullup Jump shot: Missed,-29,65,2,,1627668,,1611661313,18,14,0,1
+00:36.0,[LAS] Samuelson Rebound (Off:0 Def:4),-29,65,4,,1628317,,1611661320,18,14,0,1
+00:29.4,[LAS] Canada Driving Finger Roll Layup Shot: Missed,-24,5,2,,1628886,,1611661320,18,14,0,1
+00:28.3,[LAS] Hamby Rebound (Off:1 Def:2),-24,5,4,,204324,,1611661320,18,14,0,1
+00:28.3,[NYL] Johannès Foul: Shooting (2 PF) (2 FTA),9,48,6,204324,1629546,100697,1611661313,18,14,0,1
+00:28.3,[LAS 19-14] Hamby Free Throw 1 of 2 (4 PTS),0,-80,3,,204324,,1611661320,19,14,1,1
+00:28.3,[LAS] N Ogwumike Substitution replaced by Stevens,0,-80,8,,203014,1628922,1611661320,19,14,0,1
+00:28.3,[LAS] Samuelson Substitution replaced by Burrell,0,-80,8,,1628317,1630996,1611661320,19,14,0,1
+00:28.3,[NYL] Stewart Substitution replaced by Jones,0,-80,8,,1627668,1627673,1611661313,19,14,0,1
+00:28.3,[LAS] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661320,19,14,0,1
+00:25.5,[NYL] Thornton Rebound (Off:0 Def:1),0,-80,4,,203866,,1611661313,19,14,0,1
+00:02.2,[NYL] Team Turnover : Shot Clock Turnover,21,17,5,,0,1629177,1611661313,19,14,0,1
+00:00.0,[LAS] Canada 3pt Shot: Missed,66,379,2,,1628886,,1611661320,19,14,0,1
+00:00.0,[LAS] Team Rebound,66,379,4,,0,,1611661320,19,14,0,1
+00:00.0,End Period,0,-80,13,,0,,0,19,14,0,1
+10:00,Start Period,0,-80,12,,0,,0,19,14,0,2
+09:49,[NYL] Thornton 3pt Shot: Missed,227,60,2,,203866,,1611661313,19,14,0,2
+09:43,[LAS] Stevens Rebound (Off:0 Def:1),227,60,4,,1628922,,1611661320,19,14,0,2
+09:22,[LAS 22-14] Thomas 3pt Shot: Made (3 PTS) Assist: Canada (1 AST),10,231,1,,202662,1628886,1611661320,22,14,3,2
+09:03,[NYL 16-22] Jones Layup Shot: Made (4 PTS) Assist: Thornton (1 AST),-20,47,1,,1627673,203866,1611661313,22,16,2,2
+09:03,[LAS] Stevens Foul: Shooting (1 PF) (1 FTA),-20,47,6,1627673,1628922,1629176,1611661320,22,16,0,2
+09:03,[NYL 17-22] Jones Free Throw 1 of 1 (5 PTS),0,-80,3,,1627673,,1611661313,22,17,1,2
+08:40,[LAS] Hamby Finger Roll Layup Shot: Missed,31,5,2,,204324,,1611661320,22,17,0,2
+08:37,[NYL] Thornton Rebound (Off:0 Def:2),31,5,4,,203866,,1611661313,22,17,0,2
+08:19,[NYL] Jones 3pt Shot: Missed,-215,102,2,,1627673,,1611661313,22,17,0,2
+08:15,[LAS] Hamby Rebound (Off:1 Def:3),-215,102,4,,204324,,1611661320,22,17,0,2
+08:04,[NYL] Thornton Foul: Shooting (1 PF) (2 FTA),43,43,6,1628886,203866,1629176,1611661313,22,17,0,2
+08:04,[LAS 23-17] Canada Free Throw 1 of 2 (3 PTS),0,-80,3,,1628886,,1611661320,23,17,1,2
+08:04,[NYL] Thornton Substitution replaced by Laney,0,-80,8,,203866,204335,1611661313,23,17,0,2
+08:04,[NYL] Willoughby Substitution replaced by Ionescu,0,-80,8,,1630139,1629477,1611661313,23,17,0,2
+08:04,[NYL] Johannès Substitution replaced by Stewart,0,-80,8,,1629546,1627668,1611661313,23,17,0,2
+08:04,[LAS 24-17] Canada Free Throw 2 of 2 (4 PTS),0,-80,3,,1628886,,1611661320,24,17,1,2
+07:51,[LAS] Stevens Foul: Shooting (2 PF) (2 FTA),-16,21,6,1627673,1628922,1629176,1611661320,24,17,0,2
+07:51,[NYL 18-24] Jones Free Throw 1 of 2 (6 PTS),0,-80,3,,1627673,,1611661313,24,18,1,2
+07:51,[NYL 19-24] Jones Free Throw 2 of 2 (7 PTS),0,-80,3,,1627673,,1611661313,24,19,1,2
+07:34,[LAS] Burrell Pullup Jump shot: Missed,-28,170,2,,1630996,,1611661320,24,19,0,2
+07:30,[LAS] Hamby Rebound (Off:2 Def:3),-28,170,4,,204324,,1611661320,24,19,0,2
+07:27,[LAS] Burrell 3pt Shot: Missed,230,10,2,,1630996,,1611661320,24,19,0,2
+07:22,[NYL] Laney Rebound (Off:0 Def:1),230,10,4,,204335,,1611661313,24,19,0,2
+07:17,[NYL 22-24] Vandersloot 3pt Shot: Made (3 PTS) Assist: Laney (2 AST),-142,200,1,,202664,204335,1611661313,24,22,3,2
+06:52,[LAS] Thomas 3pt Shot: Missed Block: Stewart (1 BLK),181,150,2,1627668,202662,,1611661320,24,22,0,2
+06:52,[NYL] Ionescu Rebound (Off:0 Def:1),181,150,4,,1629477,,1611661313,24,22,0,2
+06:45,[NYL] Stewart Running Layup Shot: Missed,-20,39,2,,1627668,,1611661313,24,22,0,2
+06:43,[LAS] Thomas Rebound (Off:0 Def:2),-20,39,4,,202662,,1611661320,24,22,0,2
+06:37,[LAS] Thomas 3pt Shot: Missed,-121,202,2,,202662,,1611661320,24,22,0,2
+06:35,[NYL] Team Rebound,-121,202,4,,0,,1611661313,24,22,0,2
+06:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,22,0,2
+06:35,[LAS] Burrell Substitution replaced by Samuelson,0,-80,8,,1630996,1628317,1611661320,24,22,0,2
+06:17,[NYL] Stewart Turnaround Fadeaway shot: Missed,82,91,2,,1627668,,1611661313,24,22,0,2
+06:17,[NYL] Team Rebound,82,91,4,,0,,1611661313,24,22,0,2
+06:17,[LAS] Stevens Foul: Loose Ball (3 PF),0,34,6,1627673,1628922,1629177,1611661320,24,22,0,2
+06:17,[LAS] Thomas Substitution replaced by Clarendon,0,-80,8,,202662,203406,1611661320,24,22,0,2
+06:17,[LAS] Stevens Substitution replaced by N Ogwumike,0,-80,8,,1628922,203014,1611661320,24,22,0,2
+06:07,[NYL 25-24] Stewart 3pt Shot: Made (3 PTS) Assist: Laney (3 AST),-40,247,1,,1627668,204335,1611661313,24,25,3,2
+05:52,[LAS] Clarendon Turnover : Step Out of Bounds Turnover (1 TO),232,25,5,,203406,1629176,1611661320,24,25,0,2
+05:52,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,24,25,0,2
+05:31,[NYL] Ionescu 3pt Shot: Missed,-73,302,2,,1629477,,1611661313,24,25,0,2
+05:27,[NYL] Jones Rebound (Off:2 Def:3),-73,302,4,,1627673,,1611661313,24,25,0,2
+05:27,[NYL] Team Turnover : Shot Clock Turnover,62,279,5,,0,1629177,1611661313,24,25,0,2
+05:22,[LAS] Canada Turnover : Traveling (1 TO),-90,165,5,,1628886,100697,1611661320,24,25,0,2
+05:11,[LAS] Hamby Foul: Personal (1 PF),30,76,6,1627673,204324,100697,1611661320,24,25,0,2
+04:57,[NYL] Team Turnover : Shot Clock Turnover,-12,153,5,,0,100697,1611661313,24,25,0,2
+04:37,[LAS] N Ogwumike Driving Layup Shot: Missed,33,16,2,,203014,,1611661320,24,25,0,2
+04:32,[NYL] Vandersloot Rebound (Off:1 Def:3),33,16,4,,202664,,1611661313,24,25,0,2
+04:30,[NYL] Ionescu Turnover : Bad Pass (3 TO) Steal:Canada (1 ST),69,287,5,1628886,1629477,,1611661313,24,25,0,2
+04:24,[LAS 26-25] Hamby Running Layup Shot: Made (6 PTS) Assist: Canada (2 AST),17,5,1,,204324,1628886,1611661320,26,25,2,2
+04:11,[NYL] Vandersloot Foul: Offensive (1 PF),50,146,6,203014,202664,100697,1611661313,26,25,0,2
+04:11,[NYL] Vandersloot Turnover : Offensive Foul Turnover (1 TO),50,146,5,,202664,100697,1611661313,26,25,0,2
+04:11,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,26,25,0,2
+04:11,[NYL] Vandersloot Substitution replaced by Johannès,0,-80,8,,202664,1629546,1611661313,26,25,0,2
+03:53,[LAS] Samuelson 3pt Shot: Missed,143,191,2,,1628317,,1611661320,26,25,0,2
+03:49,[NYL] Stewart Rebound (Off:1 Def:3),143,191,4,,1627668,,1611661313,26,25,0,2
+03:37,[NYL 27-26] Laney Cutting Layup Shot: Made (6 PTS) Assist: Johannès (1 AST),-16,18,1,,204335,1629546,1611661313,26,27,2,2
+03:23,[NYL] Jones Foul: Personal (1 PF),54,48,6,203014,1627673,1629177,1611661313,26,27,0,2
+03:16,[LAS 28-27] Canada Driving Finger Roll Layup Shot: Made (6 PTS),-18,8,1,,1628886,,1611661320,28,27,2,2
+03:02,[NYL] Ionescu Turnover : Bad Pass (4 TO) Steal:Canada (2 ST),-79,23,5,1628886,1629477,,1611661313,28,27,0,2
+02:55,[NYL] Laney Foul: Personal (1 PF),40,26,6,1628886,204335,1629176,1611661313,28,27,0,2
+02:50,[LAS 31-27] Canada 3pt Shot: Made (9 PTS),31,240,1,,1628886,,1611661320,31,27,3,2
+02:24,[NYL] Ionescu Turnover : Bad Pass (5 TO) Steal:Samuelson (1 ST),7,77,5,1628317,1629477,,1611661313,31,27,0,2
+02:24,[NYL] Laney Foul: Personal (2 PF),42,595,6,1628317,204335,100697,1611661313,31,27,0,2
+02:24,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,31,27,0,2
+02:13,[LAS] Canada Step Back Jump shot: Missed,-105,181,2,,1628886,,1611661320,31,27,0,2
+02:07,[NYL] Laney Rebound (Off:0 Def:2),-105,181,4,,204335,,1611661313,31,27,0,2
+01:57,[NYL 29-31] Stewart Turnaround Jump Shot: Made (5 PTS),-11,72,1,,1627668,,1611661313,31,29,2,2
+01:39,[LAS] Hamby 3pt Shot: Missed,18,244,2,,204324,,1611661320,31,29,0,2
+01:34,[NYL] Stewart Rebound (Off:1 Def:4),18,244,4,,1627668,,1611661313,31,29,0,2
+01:31,[NYL] Ionescu 3pt Shot: Missed,180,168,2,,1629477,,1611661313,31,29,0,2
+01:27,[LAS] Samuelson Rebound (Off:0 Def:5),180,168,4,,1628317,,1611661320,31,29,0,2
+01:16,[NYL] Laney Foul: Shooting (3 PF) (3 FTA),227,19,6,1628317,204335,1629177,1611661313,31,29,0,2
+01:16,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,31,29,0,2
+01:16,[NYL] Laney Substitution replaced by Willoughby,0,-80,8,,204335,1630139,1611661313,31,29,0,2
+01:16,[LAS 32-29] Samuelson Free Throw 1 of 3 (3 PTS),0,-80,3,,1628317,,1611661320,32,29,1,2
+01:16,[LAS 33-29] Samuelson Free Throw 2 of 3 (4 PTS),0,-80,3,,1628317,,1611661320,33,29,1,2
+01:16,[LAS 34-29] Samuelson Free Throw 3 of 3 (5 PTS),0,-80,3,,1628317,,1611661320,34,29,1,2
+01:02,[NYL 32-34] Johannès 3pt Shot: Made (3 PTS) Assist: Stewart (1 AST),-188,151,1,,1629546,1627668,1611661313,34,32,3,2
+00:42.5,[LAS] Clarendon Turnover : Bad Pass (2 TO) Steal:Stewart (2 ST),-69,76,5,1627668,203406,,1611661320,34,32,0,2
+00:34.8,[NYL] Ionescu Running Pull-Up Jump Shot: Missed,4,131,2,,1629477,,1611661313,34,32,0,2
+00:31.6,[LAS] N Ogwumike Rebound (Off:0 Def:2),4,131,4,,203014,,1611661320,34,32,0,2
+00:09.4,[LAS] N Ogwumike Layup Shot: Missed Block: Ionescu (1 BLK),17,8,2,1629477,203014,,1611661320,34,32,0,2
+00:09.4,[LAS] Team Rebound,17,8,4,,0,,1611661320,34,32,0,2
+00:09.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,32,0,2
+00:09.4,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,34,32,0,2
+00:09.4,[NYL] Ionescu Substitution replaced by Jones,0,-80,8,,1629477,1627673,1611661313,34,32,0,2
+00:09.4,[LAS] Canada Foul: Offensive (2 PF),-54,60,6,1627668,1628886,1629177,1611661320,34,32,0,2
+00:09.4,[LAS] Canada Turnover : Offensive Foul Turnover (2 TO),-54,60,5,,1628886,1629177,1611661320,34,32,0,2
+00:01.6,[NYL] Stewart 3pt Shot: Missed Block: N Ogwumike (1 BLK),140,211,2,203014,1627668,,1611661313,34,32,0,2
+00:01.6,[LAS] Canada Rebound (Off:0 Def:1),140,211,4,,1628886,,1611661320,34,32,0,2
+00:00.2,[LAS] Canada 3pt Shot: Missed,95,390,2,,1628886,,1611661320,34,32,0,2
+00:00.2,[LAS] Team Rebound,95,390,4,,0,,1611661320,34,32,0,2
+00:00.0,End Period,0,-80,13,,0,,0,34,32,0,2
+10:00,Start Period,0,-80,12,,0,,0,34,32,0,3
+09:49,[NYL] Jones Turnover : Bad Pass (1 TO) Steal:Clarendon (1 ST),-75,344,5,203406,1627673,,1611661313,34,32,0,3
+09:45,[LAS 36-32] Clarendon Running Finger Roll Layup Shot: Made (4 PTS),-3,29,1,,203406,,1611661320,36,32,2,3
+09:21,[NYL 34-36] Stewart Turnaround Jump Shot: Made (7 PTS) Assist: Vandersloot (2 AST),133,3,1,,1627668,202664,1611661313,36,34,2,3
+08:59,[NYL] Vandersloot Foul: Shooting (2 PF) (2 FTA),-18,155,6,203014,202664,1629177,1611661313,36,34,0,3
+08:59,[LAS 37-34] N Ogwumike Free Throw 1 of 2 (7 PTS),0,-80,3,,203014,,1611661320,37,34,1,3
+08:59,[LAS 38-34] N Ogwumike Free Throw 2 of 2 (8 PTS),0,-80,3,,203014,,1611661320,38,34,1,3
+08:46,[NYL] Ionescu 3pt Shot: Missed,-129,240,2,,1629477,,1611661313,38,34,0,3
+08:45,[NYL] Stewart Rebound (Off:2 Def:4),-129,240,4,,1627668,,1611661313,38,34,0,3
+08:42,[NYL] Vandersloot Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-91,-37,5,,202664,1629177,1611661313,38,34,0,3
+08:18,[LAS] Canada Pullup Jump shot: Missed,124,104,2,,1628886,,1611661320,38,34,0,3
+08:13,[LAS] N Ogwumike Rebound (Off:1 Def:2),124,104,4,,203014,,1611661320,38,34,0,3
+08:13,[LAS 40-34] N Ogwumike Putback Layup Shot: Made (10 PTS),0,-5,1,,203014,,1611661320,40,34,2,3
+08:06,[NYL] Vandersloot Driving Reverse Layup Shot: Missed,16,1,2,,202664,,1611661313,40,34,0,3
+08:02,[LAS] Stevens Rebound (Off:0 Def:2),16,1,4,,1628922,,1611661320,40,34,0,3
+08:01,[LAS] Clarendon Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-223,217,5,,203406,1629177,1611661320,40,34,0,3
+07:39,[NYL] Stewart 3pt Shot: Missed,230,3,2,,1627668,,1611661313,40,34,0,3
+07:36,[LAS] N Ogwumike Rebound (Off:1 Def:3),230,3,4,,203014,,1611661320,40,34,0,3
+07:28,[LAS] N Ogwumike Turnover : Bad Pass (1 TO) Steal:Stewart (3 ST),-45,117,5,1627668,203014,,1611661320,40,34,0,3
+07:14,[NYL 36-40] Stewart Cutting Layup Shot: Made (9 PTS) Assist: Vandersloot (3 AST),-16,9,1,,1627668,202664,1611661313,40,36,2,3
+06:56,[LAS 43-36] Samuelson 3pt Shot: Made (8 PTS) Assist: Clarendon (2 AST),-176,184,1,,1628317,203406,1611661320,43,36,3,3
+06:43,[NYL 38-43] Vandersloot Cutting Layup Shot: Made (5 PTS) Assist: Stewart (2 AST),15,15,1,,202664,1627668,1611661313,43,38,2,3
+06:39,[LAS] Stevens Turnover : Bad Pass (1 TO) Steal:Vandersloot (1 ST),30,806,5,202664,1628922,,1611661320,43,38,0,3
+06:35,[NYL 40-43] Vandersloot Layup Shot: Made (7 PTS),-7,16,1,,202664,,1611661313,43,40,2,3
+06:24,[LAS 45-40] Clarendon Driving Layup Shot: Made (6 PTS) Assist: Stevens (2 AST),-20,22,1,,203406,1628922,1611661320,45,40,2,3
+06:04,[NYL 42-45] Stewart Turnaround Jump Shot: Made (11 PTS) Assist: Vandersloot (4 AST),140,83,1,,1627668,202664,1611661313,45,42,2,3
+05:41,[LAS 47-42] N Ogwumike Step Back Jump shot: Made (12 PTS) Assist: Canada (3 AST),8,65,1,,203014,1628886,1611661320,47,42,2,3
+05:31,[NYL] Laney Turnover : Out of Bounds Lost Ball Turnover (1 TO),224,62,5,,204335,1629177,1611661313,47,42,0,3
+05:13,[LAS 49-42] N Ogwumike Cutting Layup Shot: Made (14 PTS) Assist: Stevens (3 AST),-15,19,1,,203014,1628922,1611661320,49,42,2,3
+05:12,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,49,42,0,3
+05:12,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,49,42,0,3
+04:51,[NYL 44-49] Stewart Driving Finger Roll Layup Shot: Made (13 PTS),-7,17,1,,1627668,,1611661313,49,44,2,3
+04:28,[LAS 51-44] Stevens Jump Shot: Made (5 PTS) Assist: Canada (4 AST),-143,19,1,,1628922,1628886,1611661320,51,44,2,3
+04:12,[NYL 47-51] Vandersloot 3pt Shot: Made (10 PTS) Assist: Laney (4 AST),107,209,1,,202664,204335,1611661313,51,47,3,3
+04:02,[LAS] Canada Driving Floating Jump Shot: Missed,36,38,2,,1628886,,1611661320,51,47,0,3
+03:59,[NYL] Vandersloot Rebound (Off:1 Def:4),36,38,4,,202664,,1611661313,51,47,0,3
+03:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,47,0,3
+03:58,[NYL] Ionescu Substitution replaced by Johannès,0,-80,8,,1629477,1629546,1611661313,51,47,0,3
+03:52,[NYL] Stewart Foul: Offensive (1 PF),-63,159,6,1628886,1627668,100697,1611661313,51,47,0,3
+03:52,[NYL] Stewart Turnover : Offensive Foul Turnover (1 TO),-63,159,5,,1627668,100697,1611661313,51,47,0,3
+03:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,47,0,3
+03:35,[LAS] Stevens Cutting Layup Shot: Missed Block: Stewart (2 BLK),23,23,2,1627668,1628922,,1611661320,51,47,0,3
+03:34,[LAS] Team Rebound,23,23,4,,0,,1611661320,51,47,0,3
+03:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,47,0,3
+03:30,[LAS] Clarendon Driving Layup Shot: Missed Block: Vandersloot (1 BLK),-81,71,2,202664,203406,,1611661320,51,47,0,3
+03:29,[LAS] Clarendon Rebound (Off:1 Def:0),-81,71,4,,203406,,1611661320,51,47,0,3
+03:24,[LAS] Clarendon Turnaround Jump Shot: Missed,-105,21,2,,203406,,1611661320,51,47,0,3
+03:20,[NYL] Vandersloot Rebound (Off:1 Def:5),-105,21,4,,202664,,1611661313,51,47,0,3
+03:12,[NYL 49-51] Sabally Driving Layup Shot: Made (2 PTS),-7,20,1,,1631055,,1611661313,51,49,2,3
+03:00,[LAS] Stevens Driving Floating Jump Shot: Missed,35,44,2,,1628922,,1611661320,51,49,0,3
+02:57,[NYL] Stewart Rebound (Off:2 Def:5),35,44,4,,1627668,,1611661313,51,49,0,3
+02:45,[NYL] Stewart 3pt Shot: Missed,49,242,2,,1627668,,1611661313,51,49,0,3
+02:40,[LAS] Stevens Rebound (Off:0 Def:3),49,242,4,,1628922,,1611661320,51,49,0,3
+02:34,[LAS 54-49] Stevens 3pt Shot: Made (8 PTS) Assist: Canada (5 AST),-92,252,1,,1628922,1628886,1611661320,54,49,3,3
+02:21,[LAS] N Ogwumike Foul: Shooting (2 PF) (2 FTA),34,75,6,1627668,203014,1629177,1611661320,54,49,0,3
+02:21,[NYL] Stewart Free Throw 1 of 2 Missed,0,-80,3,,1627668,,1611661313,54,49,0,3
+02:21,[NYL] Team Rebound,0,-80,4,,0,,1611661313,54,49,0,3
+02:21,[LAS] Clarendon Substitution replaced by Thomas,0,-80,8,,203406,202662,1611661320,54,49,0,3
+02:21,[NYL] Vandersloot Substitution replaced by Ionescu,0,-80,8,,202664,1629477,1611661313,54,49,0,3
+02:21,[NYL 50-54] Stewart Free Throw 2 of 2 (14 PTS),0,-80,3,,1627668,,1611661313,54,50,1,3
+02:05,[LAS] Canada Turnover : Lost Ball (3 TO) Steal:Sabally (1 ST),-31,67,5,1631055,1628886,,1611661320,54,50,0,3
+01:56,[NYL] Laney Floating Jump shot: Missed,-1,95,2,,204335,,1611661313,54,50,0,3
+01:51,[NYL] Sabally Rebound (Off:1 Def:0),-1,95,4,,1631055,,1611661313,54,50,0,3
+01:41,[NYL] Johannès Turnover : Lost Ball (1 TO) Steal:Canada (3 ST),131,176,5,1628886,1629546,,1611661313,54,50,0,3
+01:32,[LAS] Stevens 3pt Shot: Missed,-65,268,2,,1628922,,1611661320,54,50,0,3
+01:28,[NYL] Stewart Rebound (Off:2 Def:6),-65,268,4,,1627668,,1611661313,54,50,0,3
+01:24,[LAS] Samuelson Foul: Personal (1 PF),-133,177,6,1629477,1628317,100697,1611661320,54,50,0,3
+01:24,[LAS] Stevens Substitution replaced by Hamby,0,-80,8,,1628922,204324,1611661320,54,50,0,3
+01:19,[NYL] Stewart 3pt Shot: Missed,-135,202,2,,1627668,,1611661313,54,50,0,3
+01:14,[NYL] Johannès Rebound (Off:1 Def:1),-135,202,4,,1629546,,1611661313,54,50,0,3
+01:12,[NYL] Laney 3pt Shot: Missed,-225,53,2,,204335,,1611661313,54,50,0,3
+01:10,[NYL] Stewart Rebound (Off:3 Def:6),-225,53,4,,1627668,,1611661313,54,50,0,3
+01:04,[NYL] Sabally 3pt Shot: Missed,-15,235,2,,1631055,,1611661313,54,50,0,3
+01:00,[LAS] N Ogwumike Rebound (Off:1 Def:4),-15,235,4,,203014,,1611661320,54,50,0,3
+00:50.7,[LAS] Hamby Reverse Layup Shot: Missed Block: Sabally (1 BLK),-37,31,2,1631055,204324,,1611661320,54,50,0,3
+00:45.5,[NYL] Sabally Rebound (Off:1 Def:1),-37,31,4,,1631055,,1611661313,54,50,0,3
+00:42.2,[NYL] Laney Driving Layup Shot: Missed,-12,11,2,,204335,,1611661313,54,50,0,3
+00:38.7,[NYL] Ionescu Rebound (Off:1 Def:1),-12,11,4,,1629477,,1611661313,54,50,0,3
+00:31.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,50,0,3
+00:31.2,[LAS] Samuelson Substitution replaced by Burrell,0,-80,8,,1628317,1630996,1611661320,54,50,0,3
+00:29.7,[NYL] Laney Turnover : Bad Pass (2 TO) Steal:N Ogwumike (2 ST),-30,139,5,203014,204335,,1611661313,54,50,0,3
+00:12.9,Jump Ball N Ogwumike vs Laney (Burrell gains possession),0,-80,10,204335,203014,1630996,1611661320,54,50,0,3
+00:08.3,[LAS] Canada 3pt Shot: Missed,4,250,2,,1628886,,1611661320,54,50,0,3
+00:03.4,[NYL] Johannès Rebound (Off:1 Def:2),4,250,4,,1629546,,1611661313,54,50,0,3
+00:00.2,[NYL] Ionescu 3pt Shot: Missed,126,208,2,,1629477,,1611661313,54,50,0,3
+00:00.2,[NYL] Team Rebound,126,208,4,,0,,1611661313,54,50,0,3
+00:00.0,End Period,0,-80,13,,0,,0,54,50,0,3
+10:00,Start Period,0,-80,12,,0,,0,54,50,0,4
+09:37,[LAS] Canada 3pt Shot: Missed,166,188,2,,1628886,,1611661320,54,50,0,4
+09:32,[NYL] Ionescu Rebound (Off:1 Def:2),166,188,4,,1629477,,1611661313,54,50,0,4
+09:22,[NYL 53-54] Vandersloot 3pt Shot: Made (13 PTS) Assist: Ionescu (3 AST),-17,231,1,,202664,1629477,1611661313,54,53,3,4
+08:57,[LAS] Thomas Pullup Jump shot: Missed,-127,162,2,,202662,,1611661320,54,53,0,4
+08:56,[NYL] Team Rebound,-127,162,4,,0,,1611661313,54,53,0,4
+08:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,53,0,4
+08:45,[NYL 55-54] Stewart Turnaround Fadeaway shot: Made (16 PTS) Assist: Vandersloot (5 AST),-95,14,1,,1627668,202664,1611661313,54,55,2,4
+08:28,[LAS] Stevens Jump Shot: Missed,113,15,2,,1628922,,1611661320,54,55,0,4
+08:25,[LAS] Burrell Rebound (Off:1 Def:0),113,15,4,,1630996,,1611661320,54,55,0,4
+08:24,[LAS] Canada 3pt Shot: Missed,-109,225,2,,1628886,,1611661320,54,55,0,4
+08:16,[NYL] Jones Rebound (Off:2 Def:4),-109,225,4,,1627673,,1611661313,54,55,0,4
+08:13,[NYL] Stewart 3pt Shot: Missed,-30,242,2,,1627668,,1611661313,54,55,0,4
+08:11,[LAS] Stevens Rebound (Off:0 Def:4),-30,242,4,,1628922,,1611661320,54,55,0,4
+08:11,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,54,55,0,4
+08:11,[LAS] Burrell Substitution replaced by Clarendon,0,-80,8,,1630996,203406,1611661320,54,55,0,4
+07:52,[NYL] Jones Foul: Shooting (2 PF) (2 FTA),-12,22,6,1628886,1627673,1629177,1611661313,54,55,0,4
+07:52,[LAS 55-55] Canada Free Throw 1 of 2 (10 PTS),0,-80,3,,1628886,,1611661320,55,55,1,4
+07:52,[LAS 56-55] Canada Free Throw 2 of 2 (11 PTS),0,-80,3,,1628886,,1611661320,56,55,1,4
+07:36,[NYL 57-56] Vandersloot Driving Layup Shot: Made (15 PTS) Assist: Stewart (3 AST),-23,10,1,,202664,1627668,1611661313,56,57,2,4
+07:13,[LAS] Stevens Pullup Jump shot: Missed,-65,107,2,,1628922,,1611661320,56,57,0,4
+07:11,[LAS] Hamby Rebound (Off:3 Def:3),-65,107,4,,204324,,1611661320,56,57,0,4
+07:08,[NYL] Ionescu Foul: Shooting (2 PF) (2 FTA),6,44,6,203406,1629477,100697,1611661313,56,57,0,4
+07:08,[LAS 57-57] Clarendon Free Throw 1 of 2 (7 PTS),0,-80,3,,203406,,1611661320,57,57,1,4
+07:08,[LAS] Thomas Substitution replaced by N Ogwumike,0,-80,8,,202662,203014,1611661320,57,57,0,4
+07:08,[LAS] Stevens Substitution replaced by Samuelson,0,-80,8,,1628922,1628317,1611661320,57,57,0,4
+07:08,[LAS 58-57] Clarendon Free Throw 2 of 2 (8 PTS),0,-80,3,,203406,,1611661320,58,57,1,4
+06:50,[NYL] Vandersloot Floating Jump shot: Missed,57,127,2,,202664,,1611661313,58,57,0,4
+06:45,[NYL] Stewart Rebound (Off:4 Def:6),57,127,4,,1627668,,1611661313,58,57,0,4
+06:45,[NYL] Stewart Putback Layup Shot: Missed,-18,13,2,,1627668,,1611661313,58,57,0,4
+06:43,[LAS] N Ogwumike Rebound (Off:1 Def:5),-18,13,4,,203014,,1611661320,58,57,0,4
+06:38,[NYL] Vandersloot Foul: Personal (3 PF),-137,135,6,203406,202664,100697,1611661313,58,57,0,4
+06:38,[NYL] Willoughby Substitution replaced by Laney,0,-80,8,,1630139,204335,1611661313,58,57,0,4
+06:26,[LAS] Hamby Layup Shot: Missed Block: Stewart (3 BLK),17,18,2,1627668,204324,,1611661320,58,57,0,4
+06:23,[LAS] N Ogwumike Rebound (Off:2 Def:5),17,18,4,,203014,,1611661320,58,57,0,4
+06:22,[LAS] N Ogwumike Fadeaway Jump Shot: Missed,-7,126,2,,203014,,1611661320,58,57,0,4
+06:16,[LAS] Clarendon Rebound (Off:2 Def:0),-7,126,4,,203406,,1611661320,58,57,0,4
+06:13,[LAS] Canada Driving Floating Jump Shot: Missed,23,69,2,,1628886,,1611661320,58,57,0,4
+06:05,[NYL] Vandersloot Rebound (Off:1 Def:6),23,69,4,,202664,,1611661313,58,57,0,4
+05:59,[NYL 59-58] Ionescu Driving Floating Jump Shot: Made (7 PTS) Assist: Vandersloot (6 AST),-6,70,1,,1629477,202664,1611661313,58,59,2,4
+05:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,59,0,4
+05:33,[LAS] Samuelson 3pt Shot: Missed,-179,206,2,,1628317,,1611661320,58,59,0,4
+05:33,[LAS] Team Rebound,-179,206,4,,0,,1611661320,58,59,0,4
+05:33,[LAS] Team Turnover : Shot Clock Turnover,35,-5,5,,0,100697,1611661320,58,59,0,4
+05:23,[NYL] Ionescu Driving Floating Jump Shot: Missed,32,79,2,,1629477,,1611661313,58,59,0,4
+05:22,[NYL] Jones Rebound (Off:3 Def:4),32,79,4,,1627673,,1611661313,58,59,0,4
+05:22,[LAS] Hamby Foul: Shooting (2 PF) (2 FTA),-1,5,6,1627673,204324,100697,1611661320,58,59,0,4
+05:22,[NYL 60-58] Jones Free Throw 1 of 2 (8 PTS),0,-80,3,,1627673,,1611661313,58,60,1,4
+05:22,[NYL 61-58] Jones Free Throw 2 of 2 (9 PTS),0,-80,3,,1627673,,1611661313,58,61,1,4
+05:00,[LAS] Hamby Jump Shot: Missed,26,193,2,,204324,,1611661320,58,61,0,4
+04:55,[LAS] Hamby Rebound (Off:4 Def:3),26,193,4,,204324,,1611661320,58,61,0,4
+04:48,[LAS 60-61] Canada Driving Floating Jump Shot: Made (13 PTS),-16,77,1,,1628886,,1611661320,60,61,2,4
+04:34,[NYL 63-60] Vandersloot Driving Layup Shot: Made (17 PTS),-13,26,1,,202664,,1611661313,60,63,2,4
+04:14,[LAS] Clarendon Driving Layup Shot: Missed,-20,48,2,,203406,,1611661320,60,63,0,4
+04:14,[LAS] Clarendon Rebound (Off:3 Def:0),-20,48,4,,203406,,1611661320,60,63,0,4
+04:14,[NYL] Stewart Foul: Personal (2 PF),49,22,6,203406,1627668,1629177,1611661313,60,63,0,4
+04:05,[LAS 63-63] Clarendon 3pt Shot: Made (11 PTS) Assist: Canada (6 AST),-187,153,1,,203406,1628886,1611661320,63,63,3,4
+03:50,[LAS] N Ogwumike Foul: Personal (3 PF),127,186,6,1627668,203014,100697,1611661320,63,63,0,4
+03:38,[NYL] Laney Pullup Jump shot: Missed,-75,60,2,,204335,,1611661313,63,63,0,4
+03:36,[LAS] Samuelson Rebound (Off:0 Def:6),-75,60,4,,1628317,,1611661320,63,63,0,4
+03:31,[LAS 65-63] N Ogwumike Layup Shot: Made (16 PTS) Assist: Hamby (1 AST),18,18,1,,203014,204324,1611661320,65,63,2,4
+03:16,[NYL 66-65] Vandersloot 3pt Shot: Made (20 PTS) Assist: Stewart (4 AST),-191,135,1,,202664,1627668,1611661313,65,66,3,4
+02:58,[NYL] Stewart Foul: Personal (3 PF) (2 FTA),-59,78,6,203014,1627668,1629177,1611661313,65,66,0,4
+02:58,Timeout Officials,0,-80,9,,0,,0,65,66,0,4
+02:58,[LAS 66-66] N Ogwumike Free Throw 1 of 2 (17 PTS),0,-80,3,,203014,,1611661320,66,66,1,4
+02:58,[LAS 67-66] N Ogwumike Free Throw 2 of 2 (18 PTS),0,-80,3,,203014,,1611661320,67,66,1,4
+02:37,[LAS] Samuelson Foul: Shooting (2 PF) (2 FTA),-29,189,6,204335,1628317,100697,1611661320,67,66,0,4
+02:37,[NYL] Laney Free Throw 1 of 2 Missed,0,-80,3,,204335,,1611661313,67,66,0,4
+02:37,[NYL] Team Rebound,0,-80,4,,0,,1611661313,67,66,0,4
+02:37,[NYL 67-67] Laney Free Throw 2 of 2 (7 PTS),0,-80,3,,204335,,1611661313,67,67,1,4
+02:13,[LAS] N Ogwumike Turnaround Jump Shot: Missed,107,148,2,,203014,,1611661320,67,67,0,4
+02:08,[NYL] Stewart Rebound (Off:4 Def:7),107,148,4,,1627668,,1611661313,67,67,0,4
+01:53,[NYL] Ionescu 3pt Shot: Missed,112,230,2,,1629477,,1611661313,67,67,0,4
+01:51,[NYL] Laney Rebound (Off:1 Def:2),112,230,4,,204335,,1611661313,67,67,0,4
+01:51,[NYL 69-67] Laney Putback Layup Shot: Made (9 PTS),0,-5,1,,204335,,1611661313,67,69,2,4
+01:36,[LAS] Canada Turnover : Bad Pass (4 TO) Steal:Stewart (4 ST),99,236,5,1627668,1628886,,1611661320,67,69,0,4
+01:20,[NYL] Laney 3pt Shot: Missed,229,33,2,,204335,,1611661313,67,69,0,4
+01:15,[NYL] Stewart Rebound (Off:5 Def:7),229,33,4,,1627668,,1611661313,67,69,0,4
+01:08,[NYL 71-67] Vandersloot Driving Finger Roll Layup Shot: Made (22 PTS),-15,14,1,,202664,,1611661313,67,71,2,4
+01:08,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,67,71,0,4
+01:00,[LAS] Canada Driving Reverse Layup Shot: Missed,15,18,2,,1628886,,1611661320,67,71,0,4
+00:57.9,[LAS] Canada Rebound (Off:1 Def:1),15,18,4,,1628886,,1611661320,67,71,0,4
+00:57.1,[LAS] Canada Putback Layup Shot: Missed,23,32,2,,1628886,,1611661320,67,71,0,4
+00:57.1,[NYL] Jones Rebound (Off:3 Def:5),23,32,4,,1627673,,1611661313,67,71,0,4
+00:32.7,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,67,71,0,4
+00:29.9,[NYL] Stewart 3pt Shot: Missed,-224,20,2,,1627668,,1611661313,67,71,0,4
+00:26.2,[LAS] N Ogwumike Rebound (Off:2 Def:6),-224,20,4,,203014,,1611661320,67,71,0,4
+00:26.2,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,67,71,0,4
+00:22.6,[LAS] Canada Turnover : Out of Bounds - Bad Pass Turnover (5 TO),-224,-21,5,,1628886,1629177,1611661320,67,71,0,4
+00:22.6,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,67,71,0,4
+00:16.5,[LAS] Samuelson Foul: Personal (3 PF),13,236,6,1627668,1628317,1629177,1611661320,67,71,0,4
+00:15.6,[LAS] Canada Foul: Personal (3 PF) (2 FTA),-136,368,6,1629477,1628886,1629177,1611661320,67,71,0,4
+00:15.6,[NYL 72-67] Ionescu Free Throw 1 of 2 (8 PTS),0,-80,3,,1629477,,1611661313,67,72,1,4
+00:15.6,[NYL 73-67] Ionescu Free Throw 2 of 2 (9 PTS),0,-80,3,,1629477,,1611661313,67,73,1,4
+00:15.6,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,67,73,0,4
+00:14.3,[LAS 69-73] N Ogwumike Cutting Layup Shot: Made (20 PTS) Assist: Clarendon (3 AST),8,19,1,,203014,203406,1611661320,69,73,2,4
+00:12.7,[LAS] Clarendon Foul: Personal Take (2 PF) (2 FTA),-189,599,6,202664,203406,1629176,1611661320,69,73,0,4
+00:12.7,[NYL 74-69] Vandersloot Free Throw 1 of 2 (23 PTS),0,-80,3,,202664,,1611661313,69,74,1,4
+00:12.7,[NYL] Vandersloot Free Throw 2 of 2 Missed,0,-80,3,,202664,,1611661313,69,74,0,4
+00:10.3,[LAS] Canada Rebound (Off:1 Def:2),0,-80,4,,1628886,,1611661320,69,74,0,4
+00:09.5,[LAS] Canada Turnover : Step Out of Bounds Turnover (6 TO),-230,528,5,,1628886,1629177,1611661320,69,74,0,4
+00:09.5,[LAS] Team Violation : Delay Of Game,0,-80,7,,0,,1611661320,69,74,0,4
+00:09.5,[LAS] Samuelson Substitution replaced by Burrell,0,-80,8,,1628317,1630996,1611661320,69,74,0,4
+00:07.0,[LAS] Clarendon Foul: Personal Take (3 PF) (2 FTA),-1,358,6,1629477,203406,1629177,1611661320,69,74,0,4
+00:07.0,[NYL 75-69] Ionescu Free Throw 1 of 2 (10 PTS),0,-80,3,,1629477,,1611661313,69,75,1,4
+00:07.0,[NYL 76-69] Ionescu Free Throw 2 of 2 (11 PTS),0,-80,3,,1629477,,1611661313,69,76,1,4
+00:02.5,[LAS] Canada 3pt Shot: Missed,57,239,2,,1628886,,1611661320,69,76,0,4
+00:02.5,[LAS] Burrell Rebound (Off:2 Def:0),57,239,4,,1630996,,1611661320,69,76,0,4
+00:00.2,[LAS] Burrell Jump Shot: Missed,75,85,2,,1630996,,1611661320,69,76,0,4
+00:00.1,[LAS] Team Rebound,75,85,4,,0,,1611661320,69,76,0,4
+00:00.0,End Period,0,-80,13,,0,,0,69,76,0,4

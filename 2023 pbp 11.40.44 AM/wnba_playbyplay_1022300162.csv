@@ -1,0 +1,408 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Parker vs Parker (Cannon gains possession),0,-80,10,204323,204323,1628242,1611661325,0,0,0,1
+09:47,[IND] Boston Driving Layup Shot: Missed Block: Parker (1 BLK),8,16,2,204323,1641648,,1611661325,0,0,0,1
+09:46,[IND] Boston Rebound (Off:1 Def:0),8,16,4,,1641648,,1611661325,0,0,0,1
+09:40,[IND 2-0] Boston Putback Layup Shot: Made (2 PTS),-5,15,1,,1641648,,1611661325,0,2,2,1
+09:17,[ATL 2-2] Parker Turnaround Jump Shot: Made (2 PTS) Assist: Coffey (1 AST),-106,43,1,,204323,1628269,1611661330,2,2,2,1
+09:00,[IND] Cannon Jump Shot: Missed,-121,158,2,,1628242,,1611661325,2,2,0,1
+09:00,[ATL] Howard Rebound (Off:0 Def:1),-121,158,4,,1631009,,1611661330,2,2,0,1
+08:44,[ATL] Gray Driving Floating Jump Shot: Missed,44,76,2,,1628277,,1611661330,2,2,0,1
+08:40,[IND] Wheeler Rebound (Off:0 Def:1),44,76,4,,204365,,1611661325,2,2,0,1
+08:30,[IND 4-2] Boston Cutting Layup Shot: Made (4 PTS) Assist: Cannon (1 AST),1,12,1,,1641648,1628242,1611661325,2,4,2,1
+08:17,[ATL] Parker Driving Layup Shot: Missed Block: Boston (1 BLK),-18,64,2,1641648,204323,,1611661330,2,4,0,1
+08:16,[ATL] Team Rebound,-18,64,4,,0,,1611661330,2,4,0,1
+08:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,4,0,1
+08:16,[ATL] McDonald Substitution replaced by Robinson,0,-80,8,,1630462,202658,1611661330,2,4,0,1
+08:10,[ATL] Howard Pullup Jump shot: Missed,5,192,2,,1631009,,1611661330,2,4,0,1
+08:06,[ATL] Parker Rebound (Off:1 Def:0),5,192,4,,204323,,1611661330,2,4,0,1
+07:58,[ATL] Robinson Pullup Jump shot: Missed,-145,-3,2,,202658,,1611661330,2,4,0,1
+07:56,[IND] Mitchell Rebound (Off:0 Def:1),-145,-3,4,,1628909,,1611661325,2,4,0,1
+07:45,[IND] Cannon Foul: Offensive (1 PF),86,167,6,202658,1628242,1629174,1611661325,2,4,0,1
+07:45,[IND] Cannon Turnover : Offensive Foul Turnover (1 TO),86,167,5,,1628242,1629174,1611661325,2,4,0,1
+07:38,[ATL 4-4] Gray Driving Layup Shot: Made (2 PTS) Assist: Robinson (1 AST),13,15,1,,1628277,202658,1611661330,4,4,2,1
+07:15,[IND] Hull 3pt Shot: Missed,229,-31,2,,1631086,,1611661325,4,4,0,1
+07:10,[IND] Hull Rebound (Off:1 Def:0),229,-31,4,,1631086,,1611661325,4,4,0,1
+07:02,[IND] Wheeler Driving Layup Shot: Missed,-5,47,2,,204365,,1611661325,4,4,0,1
+07:00,[ATL] Parker Rebound (Off:1 Def:1),-5,47,4,,204323,,1611661330,4,4,0,1
+06:55,[ATL] Howard 3pt Shot: Missed,-223,54,2,,1631009,,1611661330,4,4,0,1
+06:53,[IND] Boston Rebound (Off:1 Def:1),-223,54,4,,1641648,,1611661325,4,4,0,1
+06:34,[IND] Boston Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),8,21,5,1628277,1641648,,1611661325,4,4,0,1
+06:25,[ATL 7-4] Coffey 3pt Shot: Made (3 PTS) Assist: Gray (1 AST),128,202,1,,1628269,1628277,1611661330,7,4,3,1
+06:03,[IND] Wheeler Driving Layup Shot: Missed,-22,33,2,,204365,,1611661325,7,4,0,1
+06:02,[IND] Boston Rebound (Off:2 Def:1),-22,33,4,,1641648,,1611661325,7,4,0,1
+06:02,[ATL] Howard Foul: Shooting (1 PF) (2 FTA),-3,12,6,1641648,1631009,1627539,1611661330,7,4,0,1
+06:02,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,7,4,0,1
+06:02,[IND] Team Rebound,0,-80,4,,0,,1611661325,7,4,0,1
+06:02,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,7,4,0,1
+06:02,[IND 5-7] Boston Free Throw 2 of 2 (5 PTS),0,-80,3,,1641648,,1611661325,7,5,1,1
+05:51,[IND] Hull Foul: Shooting (1 PF) (2 FTA),4,129,6,1628277,1631086,1629174,1611661325,7,5,0,1
+05:51,[ATL 8-5] Gray Free Throw 1 of 2 (3 PTS),0,-80,3,,1628277,,1611661330,8,5,1,1
+05:51,[ATL 9-5] Gray Free Throw 2 of 2 (4 PTS),0,-80,3,,1628277,,1611661330,9,5,1,1
+05:34,[IND] Boston Driving Layup Shot: Missed,-29,27,2,,1641648,,1611661325,9,5,0,1
+05:31,[ATL] Howard Rebound (Off:0 Def:2),-29,27,4,,1631009,,1611661330,9,5,0,1
+05:22,[ATL 11-5] Howard Driving Layup Shot: Made (2 PTS),-15,24,1,,1631009,,1611661330,11,5,2,1
+05:07,[IND] Cannon Driving Layup Shot: Missed Block: Coffey (1 BLK),21,28,2,1628269,1628242,,1611661325,11,5,0,1
+05:05,[ATL] Billings Rebound (Off:0 Def:1),21,28,4,,1628881,,1611661330,11,5,0,1
+04:56,[ATL 13-5] Coffey Pullup Jump shot: Made (5 PTS) Assist: Howard (1 AST),-4,171,1,,1628269,1631009,1611661330,13,5,2,1
+04:31,[IND 7-13] Wheeler Driving Layup Shot: Made (2 PTS),-7,48,1,,204365,,1611661325,13,7,2,1
+04:21,[ATL] Gray Driving Layup Shot: Missed,-6,44,2,,1628277,,1611661330,13,7,0,1
+04:19,[IND] Wheeler Rebound (Off:0 Def:2),-6,44,4,,204365,,1611661325,13,7,0,1
+04:10,[IND] Wheeler Turnover : Bad Pass (1 TO) Steal:Coffey (1 ST),-15,198,5,1628269,204365,,1611661325,13,7,0,1
+04:06,[ATL 15-7] Coffey Running Layup Shot: Made (7 PTS),7,13,1,,1628269,,1611661330,15,7,2,1
+04:03,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,15,7,0,1
+04:03,[ATL] Robinson Substitution replaced by McDonald,0,-80,8,,202658,1630462,1611661330,15,7,0,1
+04:03,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,15,7,0,1
+04:03,[IND] Cannon Substitution replaced by Vivians,0,-80,8,,1628242,1628927,1611661325,15,7,0,1
+03:41,[IND] Hull Driving Layup Shot: Missed,19,24,2,,1631086,,1611661325,15,7,0,1
+03:39,[IND] Team Rebound,19,24,4,,0,,1611661325,15,7,0,1
+03:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,7,0,1
+03:39,[ATL] McDonald Foul: Away From Play (1 PF) (1 FTA),43,135,6,1628909,1630462,1627539,1611661330,15,7,0,1
+03:39,[IND 8-15] Mitchell Free Throw 1 of 1 (1 PTS),0,-80,3,,1628909,,1611661325,15,8,1,1
+03:37,[IND 10-15] Vivians Jump Shot: Made (2 PTS) Assist: Wheeler (1 AST),86,145,1,,1628927,204365,1611661325,15,10,2,1
+03:20,[ATL] Howard 3pt Shot: Missed,159,182,2,,1631009,,1611661330,15,10,0,1
+03:17,[ATL] McDonald Rebound (Off:1 Def:0),159,182,4,,1630462,,1611661330,15,10,0,1
+03:15,[IND] Boston Foul: Personal (1 PF),-125,35,6,1628881,1641648,1627539,1611661325,15,10,0,1
+03:09,[ATL] McDonald Turnover : Out of Bounds - Bad Pass Turnover (1 TO),56,9,5,,1630462,100698,1611661330,15,10,0,1
+02:52,[IND] Boston Layup Shot: Missed,-7,8,2,,1641648,,1611661325,15,10,0,1
+02:51,[IND] Boston Rebound (Off:3 Def:1),-7,8,4,,1641648,,1611661325,15,10,0,1
+02:51,[IND 12-15] Boston Putback Layup Shot: Made (7 PTS),-5,18,1,,1641648,,1611661325,15,12,2,1
+02:51,[ATL] Billings Foul: Shooting (1 PF) (1 FTA),-5,18,6,1641648,1628881,1627539,1611661330,15,12,0,1
+02:51,[ATL] Billings Substitution replaced by Parker,0,-80,8,,1628881,204323,1611661330,15,12,0,1
+02:51,[IND] Mitchell Substitution replaced by Wallace,0,-80,8,,1628909,1628929,1611661325,15,12,0,1
+02:51,[IND] Boston Free Throw 1 of 1 Missed,0,-80,3,,1641648,,1611661325,15,12,0,1
+02:49,[ATL] Parker Rebound (Off:1 Def:2),0,-80,4,,204323,,1611661330,15,12,0,1
+02:32,[ATL 18-12] Gray 3pt Shot: Made (7 PTS) Assist: McDonald (1 AST),-72,232,1,,1628277,1630462,1611661330,18,12,3,1
+02:17,[IND] Wheeler Driving Layup Shot: Missed,10,16,2,,204365,,1611661325,18,12,0,1
+02:13,[ATL] Gray Rebound (Off:0 Def:1),10,16,4,,1628277,,1611661330,18,12,0,1
+02:10,[ATL] Gray Turnover : Bad Pass (1 TO) Steal:Boston (1 ST),-6,75,5,1641648,1628277,,1611661330,18,12,0,1
+02:06,[IND 14-18] Vivians Running Pull-Up Jump Shot: Made (4 PTS) Assist: Wallace (1 AST),145,21,1,,1628927,1628929,1611661325,18,14,2,1
+01:46,[ATL 20-14] Howard Pullup Jump shot: Made (4 PTS),-118,76,1,,1631009,,1611661330,20,14,2,1
+01:34,[IND 16-20] Wallace Pullup Jump shot: Made (2 PTS) Assist: Wheeler (2 AST),28,158,1,,1628929,204365,1611661325,20,16,2,1
+01:18,[ATL 23-16] Howard 3pt Shot: Made (7 PTS) Assist: Hillmon (1 AST),-186,162,1,,1631009,1631044,1611661330,23,16,3,1
+01:03,[IND] Wheeler Pullup Jump shot: Missed,-128,144,2,,204365,,1611661325,23,16,0,1
+00:59.5,[ATL] Howard Rebound (Off:0 Def:3),-128,144,4,,1631009,,1611661330,23,16,0,1
+00:57.3,[ATL] Parker Running Layup Shot: Missed,-36,59,2,,204323,,1611661330,23,16,0,1
+00:55.3,[IND] Boston Rebound (Off:3 Def:2),-36,59,4,,1641648,,1611661325,23,16,0,1
+00:34.4,[IND 18-23] Wheeler Pullup Jump shot: Made (4 PTS),133,161,1,,204365,,1611661325,23,18,2,1
+00:19.9,[IND] Vivians Foul: Shooting (1 PF) (2 FTA),-50,17,6,1631044,1628927,1629174,1611661325,23,18,0,1
+00:19.9,[ATL] Hillmon Free Throw 1 of 2 Missed,0,-80,3,,1631044,,1611661330,23,18,0,1
+00:19.9,[ATL] Team Rebound,0,-80,4,,0,,1611661330,23,18,0,1
+00:19.9,[ATL] Howard Substitution replaced by Jones,0,-80,8,,1631009,1641650,1611661330,23,18,0,1
+00:19.9,[IND] Wheeler Substitution replaced by Berger,0,-80,8,,204365,1641658,1611661325,23,18,0,1
+00:19.9,[ATL] Hillmon Free Throw 2 of 2 Missed,0,-80,3,,1631044,,1611661330,23,18,0,1
+00:17.5,[IND] Team Rebound,0,-80,4,,0,,1611661325,23,18,0,1
+00:17.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,18,0,1
+00:00.4,[IND] Vivians 3pt Shot: Missed,18,244,2,,1628927,,1611661325,23,18,0,1
+00:00.4,[IND] Team Rebound,18,244,4,,0,,1611661325,23,18,0,1
+00:00.0,End Period,0,-80,13,,0,,0,23,18,0,1
+10:00,Start Period,0,-80,12,,0,,0,23,18,0,2
+09:49,[ATL] Jones Driving Layup Shot: Missed Block: Wallace (1 BLK),36,33,2,1628929,1641650,,1611661330,23,18,0,2
+09:49,[ATL] Team Rebound,36,33,4,,0,,1611661330,23,18,0,2
+09:49,Jump Ball Wallace vs Wallace (Gray gains possession),0,-80,10,1628929,1628929,1628277,1611661330,23,18,0,2
+09:42,[ATL 25-18] Parker Jump Shot: Made (4 PTS) Assist: Gray (2 AST),-94,165,1,,204323,1628277,1611661330,25,18,2,2
+09:23,[ATL] Jones Foul: Shooting (1 PF) (2 FTA),84,8,6,1628929,1641650,1627539,1611661330,25,18,0,2
+09:23,[IND] Wallace Free Throw 1 of 2 Missed,0,-80,3,,1628929,,1611661325,25,18,0,2
+09:23,[IND] Team Rebound,0,-80,4,,0,,1611661325,25,18,0,2
+09:23,[ATL] Gray Substitution replaced by Howard,0,-80,8,,1628277,1631009,1611661330,25,18,0,2
+09:23,[IND 19-25] Wallace Free Throw 2 of 2 (3 PTS),0,-80,3,,1628929,,1611661325,25,19,1,2
+09:02,[ATL 27-19] Howard Turnaround Fadeaway shot: Made (9 PTS) Assist: Parker (1 AST),116,167,1,,1631009,204323,1611661330,27,19,2,2
+08:49,[IND] Vivians 3pt Shot: Missed,-171,202,2,,1628927,,1611661325,27,19,0,2
+08:47,[ATL] Team Rebound,-171,202,4,,0,,1611661330,27,19,0,2
+08:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,19,0,2
+08:35,[ATL] Coffey 3pt Shot: Missed,-225,33,2,,1628269,,1611661330,27,19,0,2
+08:33,[IND] Zahui B Rebound (Off:0 Def:1),-225,33,4,,204320,,1611661325,27,19,0,2
+08:26,[IND] Berger Turnover : Out of Bounds - Bad Pass Turnover (1 TO),196,174,5,,1641658,1629174,1611661325,27,19,0,2
+08:26,[IND] Team Violation : Delay Of Game,0,-80,7,,0,,1611661325,27,19,0,2
+08:14,[ATL] Robinson Turnover : Bad Pass (1 TO) Steal:Caldwell (1 ST),155,108,5,1630471,202658,,1611661330,27,19,0,2
+08:10,[IND] Caldwell Turnover : Out of Bounds Lost Ball Turnover (1 TO),-39,21,5,,1630471,1629174,1611661325,27,19,0,2
+08:10,[IND] Berger Substitution replaced by Mitchell,0,-80,8,,1641658,1628909,1611661325,27,19,0,2
+07:56,[ATL 29-19] Parker Driving Layup Shot: Made (6 PTS) Assist: Robinson (2 AST),13,21,1,,204323,202658,1611661330,29,19,2,2
+07:47,[IND] Wallace Turnover : Lost Ball (1 TO) Steal:Coffey (2 ST),-152,173,5,1628269,1628929,,1611661325,29,19,0,2
+07:34,[ATL] Coffey 3pt Shot: Missed,-174,172,2,,1628269,,1611661330,29,19,0,2
+07:32,[ATL] Parker Rebound (Off:2 Def:2),-174,172,4,,204323,,1611661330,29,19,0,2
+07:32,[IND] Vivians Foul: Personal (2 PF),12,36,6,204323,1628927,100698,1611661325,29,19,0,2
+07:32,[IND] Wallace Substitution replaced by Wheeler,0,-80,8,,1628929,204365,1611661325,29,19,0,2
+07:32,[IND] Vivians Substitution replaced by Boston,0,-80,8,,1628927,1641648,1611661325,29,19,0,2
+07:32,[IND] Zahui B Substitution replaced by Cannon,0,-80,8,,204320,1628242,1611661325,29,19,0,2
+07:23,[ATL] Howard 3pt Shot: Missed,127,223,2,,1631009,,1611661330,29,19,0,2
+07:20,[IND] Wheeler Rebound (Off:0 Def:3),127,223,4,,204365,,1611661325,29,19,0,2
+07:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,29,19,0,2
+06:56,[IND] Team Turnover : Shot Clock Turnover,-3,268,5,,0,1627539,1611661325,29,19,0,2
+06:42,[ATL] Coffey Pullup Jump shot: Missed,27,170,2,,1628269,,1611661330,29,19,0,2
+06:37,[IND] Mitchell Rebound (Off:0 Def:2),27,170,4,,1628909,,1611661325,29,19,0,2
+06:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,29,19,0,2
+06:28,[ATL] Robinson Substitution replaced by Gray,0,-80,8,,202658,1628277,1611661330,29,19,0,2
+06:20,[IND 21-29] Boston Turnaround Hook Shot: Made (9 PTS),28,60,1,,1641648,,1611661325,29,21,2,2
+06:04,[ATL 31-21] Parker Driving Layup Shot: Made (8 PTS),22,32,1,,204323,,1611661330,31,21,2,2
+05:56,[IND] Boston 3pt Shot: Missed,178,157,2,,1641648,,1611661325,31,21,0,2
+05:54,[ATL] Coffey Rebound (Off:0 Def:1),178,157,4,,1628269,,1611661330,31,21,0,2
+05:35,[ATL] Howard Driving Layup Shot: Missed,11,64,2,,1631009,,1611661330,31,21,0,2
+05:33,[IND] Mitchell Rebound (Off:0 Def:3),11,64,4,,1628909,,1611661325,31,21,0,2
+05:12,[IND 24-31] Wheeler 3pt Shot: Made (7 PTS),-107,215,1,,204365,,1611661325,31,24,3,2
+05:03,[IND] Boston Foul: Personal (2 PF),-86,40,6,204323,1641648,1627539,1611661325,31,24,0,2
+05:03,Timeout Officials,0,-80,9,,0,,0,31,24,0,2
+05:03,[ATL] Jones Substitution replaced by Billings,0,-80,8,,1641650,1628881,1611661330,31,24,0,2
+05:03,[ATL] Parker Substitution replaced by McDonald,0,-80,8,,204323,1630462,1611661330,31,24,0,2
+04:57,[ATL 34-24] McDonald 3pt Shot: Made (3 PTS) Assist: Billings (1 AST),-182,160,1,,1630462,1628881,1611661330,34,24,3,2
+04:43,[IND 26-34] Mitchell Pullup Jump shot: Made (3 PTS),149,-10,1,,1628909,,1611661325,34,26,2,2
+04:33,[ATL] McDonald Driving Layup Shot: Missed,-27,10,2,,1630462,,1611661330,34,26,0,2
+04:32,[ATL] Team Rebound,-27,10,4,,0,,1611661330,34,26,0,2
+04:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,26,0,2
+04:20,[ATL] Gray Pullup Jump shot: Missed,-124,72,2,,1628277,,1611661330,34,26,0,2
+04:18,[IND] Cannon Rebound (Off:0 Def:1),-124,72,4,,1628242,,1611661325,34,26,0,2
+04:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,26,0,2
+04:03,[IND] Caldwell Substitution replaced by Hull,0,-80,8,,1630471,1631086,1611661325,34,26,0,2
+03:58,[ATL] McDonald Foul: Personal (2 PF),-84,231,6,204365,1630462,1629174,1611661330,34,26,0,2
+03:58,[ATL] McDonald Substitution replaced by Robinson,0,-80,8,,1630462,202658,1611661330,34,26,0,2
+03:53,[ATL] Coffey Foul: Personal (1 PF),-23,72,6,1641648,1628269,100698,1611661330,34,26,0,2
+03:48,[ATL] Gray Foul: Shooting (1 PF) (2 FTA),-28,16,6,1628909,1628277,1627539,1611661330,34,26,0,2
+03:48,[IND 27-34] Mitchell Free Throw 1 of 2 (4 PTS),0,-80,3,,1628909,,1611661325,34,27,1,2
+03:48,[IND 28-34] Mitchell Free Throw 2 of 2 (5 PTS),0,-80,3,,1628909,,1611661325,34,28,1,2
+03:48,Delay Technical - IND (1 FTA),0,-80,6,,1611661325,100698,1611661325,34,28,0,2
+03:48,[ATL] Gray Free Throw Technical Missed,0,-80,3,,1628277,,1611661330,34,28,0,2
+03:48,[ATL] Team Rebound,0,-80,4,,0,,1611661330,34,28,0,2
+03:31,[ATL] Howard Turnover : Bad Pass (1 TO) Steal:Wheeler (1 ST),155,244,5,204365,1631009,,1611661330,34,28,0,2
+03:28,[IND 30-34] Wheeler Running Layup Shot: Made (9 PTS),1,10,1,,204365,,1611661325,34,30,2,2
+03:15,[ATL 36-30] Howard Pullup Jump shot: Made (11 PTS) Assist: Gray (3 AST),12,118,1,,1631009,1628277,1611661330,36,30,2,2
+03:13,[ATL] Wright Technical (1 FTA),0,-80,6,,101030,1627539,1611661330,36,30,0,2
+03:13,[IND 31-36] Mitchell Free Throw Technical (6 PTS),0,-80,3,,1628909,,1611661325,36,31,1,2
+02:56,[IND] Cannon Foul: Offensive (2 PF),-66,228,6,202658,1628242,1627539,1611661325,36,31,0,2
+02:56,[IND] Cannon Turnover : Offensive Foul Turnover (2 TO),-66,228,5,,1628242,1627539,1611661325,36,31,0,2
+02:56,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,36,31,0,2
+02:56,[IND] Cannon Substitution replaced by Vivians,0,-80,8,,1628242,1628927,1611661325,36,31,0,2
+02:34,[ATL 38-31] Coffey Pullup Jump shot: Made (9 PTS) Assist: Gray (4 AST),-89,159,1,,1628269,1628277,1611661330,38,31,2,2
+02:15,[IND] Vivians Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),136,-1,5,1631009,1628927,,1611661325,38,31,0,2
+02:09,[ATL] Robinson 3pt Shot: Missed,-227,24,2,,202658,,1611661330,38,31,0,2
+02:07,[ATL] Gray Rebound (Off:1 Def:1),-227,24,4,,1628277,,1611661330,38,31,0,2
+02:06,[IND] Boston Foul: Shooting (3 PF) (2 FTA),7,16,6,1628277,1641648,1627539,1611661325,38,31,0,2
+02:06,[ATL 39-31] Gray Free Throw 1 of 2 (8 PTS),0,-80,3,,1628277,,1611661330,39,31,1,2
+02:06,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,39,31,0,2
+02:06,[ATL] Billings Substitution replaced by Parker,0,-80,8,,1628881,204323,1611661330,39,31,0,2
+02:06,[IND] Boston Substitution replaced by Zahui B,0,-80,8,,1641648,204320,1611661325,39,31,0,2
+02:06,[ATL 40-31] Gray Free Throw 2 of 2 (9 PTS),0,-80,3,,1628277,,1611661330,40,31,1,2
+01:54,[IND] Zahui B 3pt Shot: Missed,-207,113,2,,204320,,1611661325,40,31,0,2
+01:51,[IND] Hull Rebound (Off:2 Def:0),-207,113,4,,1631086,,1611661325,40,31,0,2
+01:43,Jump Ball Zahui B vs Zahui B,0,-80,10,204320,204320,,1611661330,40,31,0,2
+01:40,[IND] Zahui B Turnover : Lost Ball (1 TO),137,39,5,,204320,,1611661325,40,31,0,2
+01:40,[IND] Wheeler Foul: Loose Ball (1 PF),21,299,6,1631009,204365,1627539,1611661325,40,31,0,2
+01:32,[ATL] Gray Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-65,15,5,,1628277,1627539,1611661330,40,31,0,2
+01:21,[IND] Mitchell Driving Layup Shot: Missed,1,8,2,,1628909,,1611661325,40,31,0,2
+01:20,[IND] Team Rebound,1,8,4,,0,,1611661325,40,31,0,2
+01:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,31,0,2
+01:09,[IND] Hull Driving Layup Shot: Missed Block: Howard (1 BLK),-12,19,2,1631009,1631086,,1611661325,40,31,0,2
+01:06,[ATL] Hillmon Rebound (Off:0 Def:1),-12,19,4,,1631044,,1611661330,40,31,0,2
+00:58.7,[ATL] Parker Turnaround Jump Shot: Missed,-8,64,2,,204323,,1611661330,40,31,0,2
+00:56.5,[IND] Zahui B Rebound (Off:0 Def:2),-8,64,4,,204320,,1611661325,40,31,0,2
+00:52.8,[ATL] Hillmon Foul: Shooting (1 PF) (2 FTA),-1,13,6,204365,1631044,1629174,1611661330,40,31,0,2
+00:52.8,[IND] Wheeler Free Throw 1 of 2 Missed,0,-80,3,,204365,,1611661325,40,31,0,2
+00:52.8,[IND] Team Rebound,0,-80,4,,0,,1611661325,40,31,0,2
+00:52.8,[IND 32-40] Wheeler Free Throw 2 of 2 (10 PTS),0,-80,3,,204365,,1611661325,40,32,1,2
+00:45.7,[ATL 42-32] Robinson Driving Layup Shot: Made (2 PTS) Assist: Parker (2 AST),18,16,1,,202658,204323,1611661330,42,32,2,2
+00:45.7,[IND] Mitchell Foul: Shooting (1 PF) (1 FTA),18,16,6,202658,1628909,100698,1611661325,42,32,0,2
+00:45.7,[ATL 43-32] Robinson Free Throw 1 of 1 (3 PTS),0,-80,3,,202658,,1611661330,43,32,1,2
+00:26.8,[IND 34-43] Mitchell Driving Layup Shot: Made (8 PTS),-26,31,1,,1628909,,1611661325,43,34,2,2
+00:06.2,[ATL] Howard Turnaround Fadeaway shot: Missed,145,152,2,,1631009,,1611661330,43,34,0,2
+00:04.2,[IND] Mitchell Rebound (Off:0 Def:4),145,152,4,,1628909,,1611661325,43,34,0,2
+00:00.4,[IND] Mitchell 3pt Shot: Missed,2,330,2,,1628909,,1611661325,43,34,0,2
+00:00.4,[IND] Team Rebound,2,330,4,,0,,1611661325,43,34,0,2
+00:00.0,End Period,0,-80,13,,0,,0,43,34,0,2
+10:00,Start Period,0,-80,12,,0,,0,43,34,0,3
+09:40,[ATL] Robinson 3pt Shot: Missed,-237,-11,2,,202658,,1611661330,43,34,0,3
+09:36,[IND] Wheeler Rebound (Off:0 Def:4),-237,-11,4,,204365,,1611661325,43,34,0,3
+09:34,[IND] Wheeler Turnover : Bad Pass (2 TO) Steal:Howard (2 ST),143,639,5,1631009,204365,,1611661325,43,34,0,3
+09:28,[ATL 46-34] Parker 3pt Shot: Made (11 PTS) Assist: Howard (2 AST),0,238,1,,204323,1631009,1611661330,46,34,3,3
+09:08,[IND 36-46] Boston Pullup Jump shot: Made (11 PTS) Assist: Wheeler (3 AST),-36,121,1,,1641648,204365,1611661325,46,36,2,3
+08:45,[ATL] Gray 3pt Shot: Missed,-134,206,2,,1628277,,1611661330,46,36,0,3
+08:41,[IND] Hull Rebound (Off:2 Def:1),-134,206,4,,1631086,,1611661325,46,36,0,3
+08:20,[IND] Wheeler 3pt Shot: Missed,-88,225,2,,204365,,1611661325,46,36,0,3
+08:16,[ATL] Robinson Rebound (Off:0 Def:1),-88,225,4,,202658,,1611661330,46,36,0,3
+07:59,[ATL] Parker Turnover : Bad Pass (1 TO) Steal:Boston (2 ST),-6,180,5,1641648,204323,,1611661330,46,36,0,3
+07:47,[IND] Mitchell Pullup Jump shot: Missed,-201,19,2,,1628909,,1611661325,46,36,0,3
+07:43,[IND] Cannon Rebound (Off:1 Def:1),-201,19,4,,1628242,,1611661325,46,36,0,3
+07:39,[IND] Boston Driving Layup Shot: Missed,32,31,2,,1641648,,1611661325,46,36,0,3
+07:37,[ATL] Coffey Rebound (Off:0 Def:2),32,31,4,,1628269,,1611661330,46,36,0,3
+07:32,[IND] Cannon Foul: Personal (3 PF),-191,257,6,204323,1628242,1627539,1611661325,46,36,0,3
+07:32,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,46,36,0,3
+07:25,[ATL 48-36] Robinson Pullup Jump shot: Made (5 PTS) Assist: Billings (2 AST),17,176,1,,202658,1628881,1611661330,48,36,2,3
+07:14,[ATL] Gray Foul: Personal (2 PF),53,69,6,1628909,1628277,1629174,1611661330,48,36,0,3
+07:07,[IND 38-48] Boston Layup Shot: Made (13 PTS),37,24,1,,1641648,,1611661325,48,38,2,3
+06:58,[IND] Hull Foul: Shooting (2 PF) (2 FTA),-16,118,6,1631009,1631086,100698,1611661325,48,38,0,3
+06:58,[ATL] Howard Free Throw 1 of 2 Missed,0,-80,3,,1631009,,1611661330,48,38,0,3
+06:58,[ATL] Team Rebound,0,-80,4,,0,,1611661330,48,38,0,3
+06:58,[ATL 49-38] Howard Free Throw 2 of 2 (12 PTS),0,-80,3,,1631009,,1611661330,49,38,1,3
+06:39,[IND] Mitchell Foul: Offensive Charge (2 PF),12,89,6,1628277,1628909,1627539,1611661325,49,38,0,3
+06:39,[IND] Mitchell Turnover : Offensive Foul Turnover (1 TO),12,89,5,,1628909,1627539,1611661325,49,38,0,3
+06:39,[ATL] Gray Substitution replaced by McDonald,0,-80,8,,1628277,1630462,1611661330,49,38,0,3
+06:25,[ATL] Coffey Pullup Jump shot: Missed,154,77,2,,1628269,,1611661330,49,38,0,3
+06:21,[IND] Boston Rebound (Off:3 Def:3),154,77,4,,1641648,,1611661325,49,38,0,3
+06:15,[IND] Boston Jump Shot: Missed,12,122,2,,1641648,,1611661325,49,38,0,3
+06:11,[ATL] Coffey Rebound (Off:0 Def:3),12,122,4,,1628269,,1611661330,49,38,0,3
+06:03,[ATL 52-38] Howard 3pt Shot: Made (15 PTS) Assist: Coffey (2 AST),232,-11,1,,1631009,1628269,1611661330,52,38,3,3
+05:43,[ATL] Billings Foul: Shooting (2 PF) (2 FTA),37,38,6,1641648,1628881,100698,1611661330,52,38,0,3
+05:43,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,52,38,0,3
+05:43,[IND] Team Rebound,0,-80,4,,0,,1611661325,52,38,0,3
+05:43,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,52,38,0,3
+05:43,[IND] Boston Free Throw 2 of 2 Missed,0,-80,3,,1641648,,1611661325,52,38,0,3
+05:41,[ATL] Billings Rebound (Off:0 Def:2),0,-80,4,,1628881,,1611661330,52,38,0,3
+05:28,[ATL] McDonald Turnover : Bad Pass (2 TO) Steal:Boston (3 ST),65,102,5,1641648,1630462,,1611661330,52,38,0,3
+05:17,[IND 40-52] Boston Jump Shot: Made (15 PTS) Assist: Wheeler (4 AST),-55,207,1,,1641648,204365,1611661325,52,40,2,3
+05:05,[IND] Hull Foul: Personal (3 PF),139,125,6,202658,1631086,100698,1611661325,52,40,0,3
+05:05,[IND] Mitchell Substitution replaced by Caldwell,0,-80,8,,1628909,1630471,1611661325,52,40,0,3
+05:05,[IND] Hull Substitution replaced by Wallace,0,-80,8,,1631086,1628929,1611661325,52,40,0,3
+05:05,[ATL] Robinson Substitution replaced by Jones,0,-80,8,,202658,1641650,1611661330,52,40,0,3
+05:00,[ATL] McDonald 3pt Shot: Missed,193,144,2,,1630462,,1611661330,52,40,0,3
+04:57,[IND] Team Rebound,193,144,4,,0,,1611661325,52,40,0,3
+04:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,40,0,3
+04:57,Timeout Officials,0,-80,9,,0,,0,52,40,0,3
+04:37,[IND] Boston Driving Layup Shot: Missed,31,31,2,,1641648,,1611661325,52,40,0,3
+04:35,[IND] Boston Rebound (Off:4 Def:3),31,31,4,,1641648,,1611661325,52,40,0,3
+04:32,[IND 42-52] Boston Putback Layup Shot: Made (17 PTS),15,14,1,,1641648,,1611661325,52,42,2,3
+04:14,[ATL 55-42] Howard 3pt Shot: Made (18 PTS) Assist: Billings (3 AST),60,232,1,,1631009,1628881,1611661330,55,42,3,3
+03:52,[IND] Boston Driving Layup Shot: Missed Block: Howard (2 BLK),-8,11,2,1631009,1641648,,1611661325,55,42,0,3
+03:51,[ATL] McDonald Rebound (Off:1 Def:1),-8,11,4,,1630462,,1611661330,55,42,0,3
+03:41,[ATL] Hillmon Driving Floating Jump Shot: Missed,86,-3,2,,1631044,,1611661330,55,42,0,3
+03:39,[IND] Team Rebound,86,-3,4,,0,,1611661325,55,42,0,3
+03:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,42,0,3
+03:39,[ATL] Billings Substitution replaced by Parker,0,-80,8,,1628881,204323,1611661330,55,42,0,3
+03:39,[IND] Cannon Substitution replaced by Vivians,0,-80,8,,1628242,1628927,1611661325,55,42,0,3
+03:24,[IND 44-55] Wallace Driving Floating Jump Shot: Made (5 PTS),16,72,1,,1628929,,1611661325,55,44,2,3
+02:58,[ATL] Hillmon Driving Layup Shot: Missed Block: Vivians (1 BLK),-35,30,2,1628927,1631044,,1611661330,55,44,0,3
+02:57,[IND] Vivians Rebound (Off:0 Def:1),-35,30,4,,1628927,,1611661325,55,44,0,3
+02:51,[ATL] McDonald Foul: Shooting (3 PF) (2 FTA),-81,38,6,204365,1630462,100698,1611661330,55,44,0,3
+02:51,[IND 45-55] Wheeler Free Throw 1 of 2 (11 PTS),0,-80,3,,204365,,1611661325,55,45,1,3
+02:51,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,55,45,0,3
+02:51,[ATL] Howard Substitution replaced by Gray,0,-80,8,,1631009,1628277,1611661330,55,45,0,3
+02:51,[IND 46-55] Wheeler Free Throw 2 of 2 (12 PTS),0,-80,3,,204365,,1611661325,55,46,1,3
+02:39,[IND] Wheeler Foul: Personal (2 PF),-93,82,6,204323,204365,1627539,1611661325,55,46,0,3
+02:39,[IND] Wheeler Substitution replaced by Berger,0,-80,8,,204365,1641658,1611661325,55,46,0,3
+02:35,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,55,46,0,3
+02:31,[ATL 57-46] Gray Driving Floating Jump Shot: Made (11 PTS),-84,24,1,,1628277,,1611661330,57,46,2,3
+02:31,[IND] Vivians Foul: Shooting (3 PF) (1 FTA),-104,101,6,1628277,1628927,1627539,1611661325,57,46,0,3
+02:31,[ATL] Gray Free Throw 1 of 1 Missed,0,-80,3,,1628277,,1611661330,57,46,0,3
+02:29,[IND] Vivians Rebound (Off:0 Def:2),0,-80,4,,1628927,,1611661325,57,46,0,3
+02:06,[IND] Team Turnover : Shot Clock Turnover,151,56,5,,0,1627539,1611661325,57,46,0,3
+01:53,[ATL] Coffey Turnover : Bad Pass (1 TO) Steal:Boston (4 ST),7,107,5,1641648,1628269,,1611661330,57,46,0,3
+01:44,[IND] Caldwell Turnover : Lost Ball (2 TO) Steal:Jones (1 ST),0,31,5,1641650,1630471,,1611661325,57,46,0,3
+01:38,[ATL 60-46] Gray 3pt Shot: Made (14 PTS) Assist: Jones (1 AST),227,-21,1,,1628277,1641650,1611661330,60,46,3,3
+01:28,[ATL] Parker Foul: Personal (1 PF),20,43,6,1641648,204323,1629174,1611661330,60,46,0,3
+01:28,[IND] Caldwell Substitution replaced by Hull,0,-80,8,,1630471,1631086,1611661325,60,46,0,3
+01:11,[IND 48-60] Vivians Turnaround Jump Shot: Made (6 PTS) Assist: Boston (1 AST),21,35,1,,1628927,1641648,1611661325,60,48,2,3
+00:51.0,[ATL] McDonald Turnover : Bad Pass (3 TO) Steal:Vivians (1 ST),-1,32,5,1628927,1630462,,1611661330,60,48,0,3
+00:46.1,[IND] Vivians Running Pull-Up Jump Shot: Missed,77,155,2,,1628927,,1611661325,60,48,0,3
+00:42.6,[IND] Vivians Rebound (Off:1 Def:2),77,155,4,,1628927,,1611661325,60,48,0,3
+00:34.7,[ATL] Coffey Foul: Shooting (2 PF) (2 FTA),6,40,6,1641648,1628269,1627539,1611661330,60,48,0,3
+00:34.7,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,60,48,0,3
+00:34.7,[IND] Team Rebound,0,-80,4,,0,,1611661325,60,48,0,3
+00:34.7,[IND] Boston Free Throw 2 of 2 Missed,0,-80,3,,1641648,,1611661325,60,48,0,3
+00:32.2,[ATL] Parker Rebound (Off:2 Def:3),0,-80,4,,204323,,1611661330,60,48,0,3
+00:18.5,[IND] Wallace Foul: Shooting (1 PF) (2 FTA),-24,40,6,1628277,1628929,1629174,1611661325,60,48,0,3
+00:18.5,[ATL 61-48] Gray Free Throw 1 of 2 (15 PTS),0,-80,3,,1628277,,1611661330,61,48,1,3
+00:18.5,[ATL 62-48] Gray Free Throw 2 of 2 (16 PTS),0,-80,3,,1628277,,1611661330,62,48,1,3
+00:01.8,[IND 50-62] Berger Driving Floating Jump Shot: Made (2 PTS) Assist: Hull (1 AST),33,107,1,,1641658,1631086,1611661325,62,50,2,3
+00:00.0,End Period,0,-80,13,,0,,0,62,50,0,3
+10:00,Start Period,0,-80,12,,0,,0,62,50,0,4
+09:47,[IND 52-62] Boston Layup Shot: Made (19 PTS) Assist: Berger (1 AST),10,9,1,,1641648,1641658,1611661325,62,52,2,4
+09:22,[ATL] Jones 3pt Shot: Missed,127,207,2,,1641650,,1611661330,62,52,0,4
+09:18,[IND] Boston Rebound (Off:4 Def:4),127,207,4,,1641648,,1611661325,62,52,0,4
+08:59,[IND 54-62] Boston Driving Layup Shot: Made (21 PTS),0,30,1,,1641648,,1611661325,62,54,2,4
+08:46,[ATL] Howard Driving Floating Jump Shot: Missed,-34,123,2,,1631009,,1611661330,62,54,0,4
+08:44,[IND] Boston Rebound (Off:4 Def:5),-34,123,4,,1641648,,1611661325,62,54,0,4
+08:28,[IND] Vivians Driving Layup Shot: Missed Block: Coffey (2 BLK),21,26,2,1628269,1628927,,1611661325,62,54,0,4
+08:26,[ATL] Jones Rebound (Off:0 Def:1),21,26,4,,1641650,,1611661330,62,54,0,4
+08:21,[ATL 65-54] Gray 3pt Shot: Made (19 PTS) Assist: Jones (2 AST),-187,139,1,,1628277,1641650,1611661330,65,54,3,4
+08:08,[IND 56-65] Mitchell Driving Layup Shot: Made (10 PTS) Assist: Boston (2 AST),-16,11,1,,1628909,1641648,1611661325,65,56,2,4
+08:08,[ATL] Parker Foul: Shooting (2 PF) (1 FTA),-16,11,6,1628909,204323,1627539,1611661330,65,56,0,4
+08:08,[ATL] Jones Substitution replaced by Robinson,0,-80,8,,1641650,202658,1611661330,65,56,0,4
+08:08,[IND] Mitchell Free Throw 1 of 1 Missed,0,-80,3,,1628909,,1611661325,65,56,0,4
+08:06,[ATL] Parker Rebound (Off:2 Def:4),0,-80,4,,204323,,1611661330,65,56,0,4
+07:57,[ATL] Parker Driving Layup Shot: Missed,-12,26,2,,204323,,1611661330,65,56,0,4
+07:53,[IND] Boston Rebound (Off:4 Def:6),-12,26,4,,1641648,,1611661325,65,56,0,4
+07:44,[IND 59-65] Mitchell 3pt Shot: Made (13 PTS),102,220,1,,1628909,,1611661325,65,59,3,4
+07:22,[ATL 67-59] Parker Jump Shot: Made (13 PTS) Assist: Robinson (3 AST),-113,133,1,,204323,202658,1611661330,67,59,2,4
+06:55,[IND 62-67] Mitchell 3pt Shot: Made (16 PTS),-140,204,1,,1628909,,1611661325,67,62,3,4
+06:43,[IND] Boston Foul: Shooting (4 PF) (2 FTA),-1,44,6,204323,1641648,1627539,1611661325,67,62,0,4
+06:43,[ATL] Parker Free Throw 1 of 2 Missed,0,-80,3,,204323,,1611661330,67,62,0,4
+06:43,[ATL] Team Rebound,0,-80,4,,0,,1611661330,67,62,0,4
+06:43,[IND] Boston Substitution replaced by Zahui B,0,-80,8,,1641648,204320,1611661325,67,62,0,4
+06:43,[ATL 68-62] Parker Free Throw 2 of 2 (14 PTS),0,-80,3,,204323,,1611661330,68,62,1,4
+06:28,[IND] Vivians 3pt Shot: Missed,140,220,2,,1628927,,1611661325,68,62,0,4
+06:25,[ATL] Robinson Rebound (Off:0 Def:2),140,220,4,,202658,,1611661330,68,62,0,4
+06:20,[IND] Zahui B Foul: Shooting (1 PF) (2 FTA),6,18,6,1631009,204320,1629174,1611661325,68,62,0,4
+06:20,[ATL 69-62] Howard Free Throw 1 of 2 (19 PTS),0,-80,3,,1631009,,1611661330,69,62,1,4
+06:20,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,69,62,0,4
+06:20,[IND] Berger Substitution replaced by Wheeler,0,-80,8,,1641658,204365,1611661325,69,62,0,4
+06:20,[ATL 70-62] Howard Free Throw 2 of 2 (20 PTS),0,-80,3,,1631009,,1611661330,70,62,1,4
+06:00,[IND 65-70] Wheeler 3pt Shot: Made (15 PTS),-116,208,1,,204365,,1611661325,70,65,3,4
+05:32,[ATL] Howard 3pt Shot: Missed,108,212,2,,1631009,,1611661330,70,65,0,4
+05:28,[IND] Hull Rebound (Off:2 Def:2),108,212,4,,1631086,,1611661325,70,65,0,4
+05:26,[IND] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-189,198,5,,204365,1627539,1611661325,70,65,0,4
+05:26,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,70,65,0,4
+05:26,Instant Replay - Support Ruling,0,-80,18,,0,,0,70,65,0,4
+05:26,[ATL] Billings Substitution replaced by Parker,0,-80,8,,1628881,204323,1611661330,70,65,0,4
+05:26,[IND] Zahui B Substitution replaced by Boston,0,-80,8,,204320,1641648,1611661325,70,65,0,4
+05:16,[IND] Wheeler Foul: Personal (3 PF),-196,110,6,1628277,204365,100698,1611661325,70,65,0,4
+05:14,[ATL] Howard Driving Layup Shot: Missed Block: Boston (2 BLK),2,12,2,1641648,1631009,,1611661330,70,65,0,4
+05:12,[IND] Vivians Rebound (Off:1 Def:3),2,12,4,,1628927,,1611661325,70,65,0,4
+05:05,[IND 67-70] Mitchell Running Layup Shot: Made (18 PTS),10,14,1,,1628909,,1611661325,70,67,2,4
+04:50,[ATL] Coffey Turnover : Bad Pass (2 TO) Steal:Wheeler (2 ST),-150,76,5,204365,1628269,,1611661330,70,67,0,4
+04:47,[IND] Wheeler Running Layup Shot: Missed Block: Gray (1 BLK),15,21,2,1628277,204365,,1611661325,70,67,0,4
+04:46,[IND] Team Rebound,15,21,4,,0,,1611661325,70,67,0,4
+04:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,67,0,4
+04:39,[IND] Boston Layup Shot: Missed Block: Parker (2 BLK),29,25,2,204323,1641648,,1611661325,70,67,0,4
+04:38,[IND] Team Rebound,29,25,4,,0,,1611661325,70,67,0,4
+04:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,67,0,4
+04:35,[IND] Mitchell Driving Hook Shot: Missed,17,68,2,,1628909,,1611661325,70,67,0,4
+04:33,[ATL] Gray Rebound (Off:1 Def:2),17,68,4,,1628277,,1611661330,70,67,0,4
+04:19,[ATL 72-67] Gray Turnaround Jump Shot: Made (21 PTS),-40,126,1,,1628277,,1611661330,72,67,2,4
+04:09,[ATL] Parker Foul: Personal (3 PF),31,140,6,1641648,204323,1629174,1611661330,72,67,0,4
+03:53,[IND] Wheeler Driving Layup Shot: Missed,7,17,2,,204365,,1611661325,72,67,0,4
+03:51,[ATL] Robinson Rebound (Off:0 Def:3),7,17,4,,202658,,1611661330,72,67,0,4
+03:32,[IND] Boston Foul: Personal (5 PF),32,144,6,204323,1641648,1627539,1611661325,72,67,0,4
+03:24,[ATL] Parker Jump Shot: Missed,138,1,2,,204323,,1611661330,72,67,0,4
+03:19,[IND] Wheeler Rebound (Off:0 Def:5),138,1,4,,204365,,1611661325,72,67,0,4
+03:02,[IND] Wheeler Pullup Jump shot: Missed,144,19,2,,204365,,1611661325,72,67,0,4
+03:00,[ATL] Howard Rebound (Off:0 Def:4),144,19,4,,1631009,,1611661330,72,67,0,4
+02:45,[ATL 74-67] Howard Jump Shot: Made (22 PTS) Assist: Parker (3 AST),-138,148,1,,1631009,204323,1611661330,74,67,2,4
+02:43,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,74,67,0,4
+02:43,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,74,67,0,4
+02:24,[IND 69-74] Boston Jump Shot: Made (23 PTS) Assist: Wheeler (5 AST),-119,13,1,,1641648,204365,1611661325,74,69,2,4
+01:59,[ATL 76-69] Howard Turnaround Fadeaway shot: Made (24 PTS),-132,114,1,,1631009,,1611661330,76,69,2,4
+01:45,[IND] Boston Fadeaway Jump Shot: Missed,-21,99,2,,1641648,,1611661325,76,69,0,4
+01:43,[ATL] Hillmon Rebound (Off:0 Def:2),-21,99,4,,1631044,,1611661330,76,69,0,4
+01:34,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,76,69,0,4
+01:34,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,76,69,0,4
+01:27,[ATL] Parker Jump Shot: Missed,39,195,2,,204323,,1611661330,76,69,0,4
+01:25,[IND] Vivians Rebound (Off:1 Def:4),39,195,4,,1628927,,1611661325,76,69,0,4
+01:11,[IND 71-76] Boston Jump Shot: Made (25 PTS) Assist: Mitchell (1 AST),90,4,1,,1641648,1628909,1611661325,76,71,2,4
+00:54.2,[ATL 78-71] Robinson Driving Floating Bank Jump Shot: Made (7 PTS) Assist: Howard (3 AST),63,47,1,,202658,1631009,1611661330,78,71,2,4
+00:49.0,[IND] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (4 TO),77,11,5,,204365,100698,1611661325,78,71,0,4
+00:49.0,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,78,71,0,4
+00:49.0,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661325,78,71,0,4
+00:49.0,[IND] Boston Substitution replaced by Saxton,0,-80,8,,1641648,1641687,1611661325,78,71,0,4
+00:43.2,[ATL 80-71] Parker Driving Layup Shot: Made (16 PTS) Assist: Coffey (3 AST),2,12,1,,204323,1628269,1611661330,80,71,2,4
+00:35.5,[IND] Wheeler Driving Layup Shot: Missed,23,30,2,,204365,,1611661325,80,71,0,4
+00:31.4,[ATL] Coffey Rebound (Off:0 Def:4),23,30,4,,1628269,,1611661330,80,71,0,4
+00:31.4,[IND] Hull Foul: Personal Take (4 PF) (2 FTA),-199,489,6,1631009,1631086,100698,1611661325,80,71,0,4
+00:31.4,[ATL] Howard Free Throw 1 of 2 Missed,0,-80,3,,1631009,,1611661330,80,71,0,4
+00:31.4,[ATL] Team Rebound,0,-80,4,,0,,1611661330,80,71,0,4
+00:31.4,[IND] Saxton Substitution replaced by Boston,0,-80,8,,1641687,1641648,1611661325,80,71,0,4
+00:31.4,[ATL] Howard Free Throw 2 of 2 Missed,0,-80,3,,1631009,,1611661330,80,71,0,4
+00:31.1,[IND] Hull Rebound (Off:2 Def:3),0,-80,4,,1631086,,1611661325,80,71,0,4
+00:31.1,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,80,71,0,4
+00:31.1,[ATL] Robinson Substitution replaced by Billings,0,-80,8,,202658,1628881,1611661330,80,71,0,4
+00:31.1,[IND] Hull Substitution replaced by Wallace,0,-80,8,,1631086,1628929,1611661325,80,71,0,4
+00:26.7,[ATL] Gray Foul: Shooting (3 PF) (2 FTA),-1,14,6,1628909,1628277,1629174,1611661330,80,71,0,4
+00:26.7,[IND 72-80] Mitchell Free Throw 1 of 2 (19 PTS),0,-80,3,,1628909,,1611661325,80,72,1,4
+00:26.7,[ATL] Billings Substitution replaced by Robinson,0,-80,8,,1628881,202658,1611661330,80,72,0,4
+00:26.7,[IND] Boston Substitution replaced by Hull,0,-80,8,,1641648,1631086,1611661325,80,72,0,4
+00:26.7,[IND 73-80] Mitchell Free Throw 2 of 2 (20 PTS),0,-80,3,,1628909,,1611661325,80,73,1,4
+00:18.8,[IND] Hull Foul: Personal Take (5 PF) (2 FTA),-126,330,6,202658,1631086,1627539,1611661325,80,73,0,4
+00:18.8,[ATL 81-73] Robinson Free Throw 1 of 2 (8 PTS),0,-80,3,,202658,,1611661330,81,73,1,4
+00:18.8,[IND] Wallace Substitution replaced by Boston,0,-80,8,,1628929,1641648,1611661325,81,73,0,4
+00:18.8,[ATL 82-73] Robinson Free Throw 2 of 2 (9 PTS),0,-80,3,,202658,,1611661330,82,73,1,4
+00:18.8,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,82,73,0,4
+00:18.8,[IND] Hull Substitution replaced by Wallace,0,-80,8,,1631086,1628929,1611661325,82,73,0,4
+00:16.3,[IND] Mitchell 3pt Shot: Missed,222,62,2,,1628909,,1611661325,82,73,0,4
+00:13.5,[ATL] Coffey Rebound (Off:0 Def:5),222,62,4,,1628269,,1611661330,82,73,0,4
+00:00.0,End Period,0,-80,13,,0,,0,82,73,0,4

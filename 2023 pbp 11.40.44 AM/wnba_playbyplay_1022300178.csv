@@ -1,0 +1,390 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Sykes vs Sykes (Mabrey gains possession),0,-80,10,1628279,1628279,1629497,1611661329,0,0,0,1
+09:45,[CHI] Mabrey Turnover : Bad Pass (1 TO) Steal:Sykes (1 ST),-7,133,5,1628279,1629497,,1611661329,0,0,0,1
+09:42,[WAS] Sykes 3pt Shot: Missed,166,202,2,,1628279,,1611661322,0,0,0,1
+09:40,[CHI] Smith Rebound (Off:0 Def:1),166,202,4,,1629501,,1611661329,0,0,0,1
+09:25,[CHI 2-0] Williams Hook Shot: Made (2 PTS) Assist: Williams (1 AST),1,65,1,,204322,1627675,1611661329,0,2,2,1
+09:04,[WAS 2-2] Hines-Allen Floating Jump shot: Made (2 PTS) Assist: Cloud (1 AST),15,80,1,,1628899,204333,1611661322,2,2,2,1
+08:55,[CHI] Williams Fadeaway Jump Shot: Missed,-7,121,2,,204322,,1611661329,2,2,0,1
+08:52,[CHI] Mabrey Rebound (Off:1 Def:0),-7,121,4,,1629497,,1611661329,2,2,0,1
+08:46,[CHI] Mabrey Step Back Jump shot: Missed,81,131,2,,1629497,,1611661329,2,2,0,1
+08:43,[WAS] Hines-Allen Rebound (Off:0 Def:1),81,131,4,,1628899,,1611661322,2,2,0,1
+08:39,[WAS 4-2] Hawkins Running Layup Shot: Made (2 PTS) Assist: Hines-Allen (1 AST),3,28,1,,203403,1628899,1611661322,4,2,2,1
+08:14,[WAS] Hines-Allen Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (1 PF) (1 FTA),0,-80,6,,1628899,202764,1611661322,4,2,0,1
+08:14,[CHI] Mabrey Free Throw Technical Missed,0,-80,3,,1629497,,1611661329,4,2,0,1
+08:14,[CHI] Team Rebound,0,-80,4,,0,,1611661329,4,2,0,1
+08:05,[CHI] Williams Turnaround Bank Hook Shot: Missed,81,18,2,,204322,,1611661329,4,2,0,1
+08:02,[WAS] Team Rebound,81,18,4,,0,,1611661322,4,2,0,1
+08:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,2,0,1
+07:53,[CHI] Copper Foul: Shooting (1 PF) (2 FTA),37,14,6,1628279,1627674,202764,1611661329,4,2,0,1
+07:53,[WAS 5-2] Sykes Free Throw 1 of 2 (1 PTS),0,-80,3,,1628279,,1611661322,5,2,1,1
+07:53,[WAS 6-2] Sykes Free Throw 2 of 2 (2 PTS),0,-80,3,,1628279,,1611661322,6,2,1,1
+07:40,Jump Ball Walker-Kimbrough vs Walker-Kimbrough (Williams gains possession),0,-80,10,1628278,1628278,1627675,1611661329,6,2,0,1
+07:30,[CHI 4-6] Williams Pullup Jump shot: Made (2 PTS),-109,171,1,,1627675,,1611661329,6,4,2,1
+07:09,[WAS] Sykes 3pt Shot: Missed,-219,65,2,,1628279,,1611661322,6,4,0,1
+07:06,[CHI] Williams Rebound (Off:0 Def:1),-219,65,4,,204322,,1611661329,6,4,0,1
+06:53,[CHI 7-6] Williams 3pt Shot: Made (5 PTS) Assist: Mabrey (1 AST),143,205,1,,1627675,1629497,1611661329,6,7,3,1
+06:38,[WAS] Cloud Cutting Layup Shot: Missed,-43,43,2,,204333,,1611661322,6,7,0,1
+06:37,[WAS] Hawkins Rebound (Off:1 Def:0),-43,43,4,,203403,,1611661322,6,7,0,1
+06:36,[WAS 8-7] Hawkins Putback Layup Shot: Made (4 PTS),1,40,1,,203403,,1611661322,8,7,2,1
+06:21,[CHI] Williams Jump Shot: Missed,96,32,2,,204322,,1611661329,8,7,0,1
+06:19,[WAS] Cloud Rebound (Off:0 Def:1),96,32,4,,204333,,1611661322,8,7,0,1
+06:01,[WAS] Sykes Pullup Jump shot: Missed,-73,139,2,,1628279,,1611661322,8,7,0,1
+05:59,[CHI] Team Rebound,-73,139,4,,0,,1611661329,8,7,0,1
+05:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,7,0,1
+05:59,[WAS] Hines-Allen Substitution replaced by Austin,0,-80,8,,1628899,1631022,1611661322,8,7,0,1
+05:45,[CHI 9-8] Copper Pullup Jump shot: Made (2 PTS) Assist: Williams (1 AST),-16,156,1,,1627674,204322,1611661329,8,9,2,1
+05:31,[CHI] Williams Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (1 PF) (1 FTA),0,-80,6,,204322,202764,1611661329,8,9,0,1
+05:31,[WAS 9-9] Walker-Kimbrough Free Throw Technical (1 PTS),0,-80,3,,1628278,,1611661322,9,9,1,1
+05:27,[WAS] Cloud Fadeaway Jump Shot: Missed,-82,81,2,,204333,,1611661322,9,9,0,1
+05:24,[CHI] Williams Rebound (Off:0 Def:2),-82,81,4,,204322,,1611661329,9,9,0,1
+05:11,[CHI] Williams Turnover : Bad Pass (1 TO) Steal:Sykes (2 ST),33,285,5,1628279,204322,,1611661329,9,9,0,1
+05:07,[WAS 11-9] Sykes Driving Layup Shot: Made (4 PTS),9,38,1,,1628279,,1611661322,11,9,2,1
+05:03,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,11,9,0,1
+04:51,[CHI 12-11] Williams 3pt Shot: Made (8 PTS) Assist: Copper (1 AST),105,246,1,,1627675,1627674,1611661329,11,12,3,1
+04:23,[WAS] Cloud 3pt Shot: Missed,-134,216,2,,204333,,1611661322,11,12,0,1
+04:20,[CHI] Williams Rebound (Off:0 Def:3),-134,216,4,,204322,,1611661329,11,12,0,1
+04:11,[WAS] Hawkins Violation:Kicked Ball,0,-80,7,,203403,,1611661322,11,12,0,1
+04:11,[WAS] Walker-Kimbrough Substitution replaced by Egbo,0,-80,8,,1628278,1631031,1611661322,11,12,0,1
+04:11,[WAS] Austin Substitution replaced by Meng,0,-80,8,,1631022,1641642,1611661322,11,12,0,1
+03:56,[CHI] Copper Jump Shot: Missed Block: Egbo (1 BLK),10,77,2,1631031,1627674,,1611661329,11,12,0,1
+03:56,[CHI] Team Rebound,10,77,4,,0,,1611661329,11,12,0,1
+03:55,[CHI] Team Turnover : Shot Clock Turnover,16,85,5,,0,203800,1611661329,11,12,0,1
+03:45,[WAS] Hawkins 3pt Shot: Missed,104,239,2,,203403,,1611661322,11,12,0,1
+03:41,[WAS] Sykes Rebound (Off:1 Def:0),104,239,4,,1628279,,1611661322,11,12,0,1
+03:39,[WAS] Meng 3pt Shot: Missed,176,193,2,,1641642,,1611661322,11,12,0,1
+03:39,[CHI] Williams Rebound (Off:0 Def:4),176,193,4,,204322,,1611661329,11,12,0,1
+03:22,[CHI] Mabrey 3pt Shot: Missed,-3,270,2,,1629497,,1611661329,11,12,0,1
+03:20,[WAS] Team Rebound,-3,270,4,,0,,1611661322,11,12,0,1
+03:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,12,0,1
+03:20,[CHI] Mabrey Substitution replaced by Evans,0,-80,8,,1629497,1630389,1611661329,11,12,0,1
+03:02,[WAS] Cloud Driving Floating Jump Shot: Missed,10,128,2,,204333,,1611661322,11,12,0,1
+03:00,[WAS] Hawkins Rebound (Off:2 Def:0),10,128,4,,203403,,1611661322,11,12,0,1
+02:56,[WAS 13-12] Egbo Layup Shot: Made (2 PTS),17,17,1,,1631031,,1611661322,13,12,2,1
+02:42,[CHI] Copper 3pt Shot: Missed,-185,198,2,,1627674,,1611661329,13,12,0,1
+02:39,[WAS] Cloud Rebound (Off:0 Def:2),-185,198,4,,204333,,1611661322,13,12,0,1
+02:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,12,0,1
+02:35,[CHI] Williams Substitution replaced by Hebard,0,-80,8,,204322,1630113,1611661329,13,12,0,1
+02:21,[CHI] Copper Foul: Shooting (2 PF) (2 FTA),7,54,6,1628279,1627674,202764,1611661329,13,12,0,1
+02:21,[WAS 14-12] Sykes Free Throw 1 of 2 (5 PTS),0,-80,3,,1628279,,1611661322,14,12,1,1
+02:21,[WAS] Cloud Substitution replaced by Walker-Kimbrough,0,-80,8,,204333,1628278,1611661322,14,12,0,1
+02:21,[WAS] Hawkins Substitution replaced by Hines-Allen,0,-80,8,,203403,1628899,1611661322,14,12,0,1
+02:21,[WAS 15-12] Sykes Free Throw 2 of 2 (6 PTS),0,-80,3,,1628279,,1611661322,15,12,1,1
+02:09,[CHI 15-15] Evans 3pt Shot: Made (3 PTS),-105,248,1,,1630389,,1611661329,15,15,3,1
+01:56,[WAS] Hines-Allen Turnover : Bad Pass (1 TO) Steal:Hebard (1 ST),20,117,5,1630113,1628899,,1611661322,15,15,0,1
+01:52,[CHI 17-15] Copper Running Layup Shot: Made (4 PTS) Assist: Evans (1 AST),-11,23,1,,1627674,1630389,1611661329,15,17,2,1
+01:40,[WAS 17-17] Egbo Layup Shot: Made (4 PTS) Assist: Meng (1 AST),22,43,1,,1631031,1641642,1611661322,17,17,2,1
+01:29,[CHI] Williams Turnover : Lost Ball (1 TO) Steal:Sykes (3 ST),-3,99,5,1628279,1627675,,1611661329,17,17,0,1
+01:27,[CHI] Hebard Foul: Transition Take (1 PF) (1 FTA),24,48,6,1628279,1630113,1629771,1611661329,17,17,0,1
+01:27,[WAS 18-17] Meng Free Throw 1 of 1 (1 PTS),0,-80,3,,1641642,,1611661322,18,17,1,1
+01:27,[CHI] Copper Substitution replaced by Parks,0,-80,8,,1627674,1641641,1611661329,18,17,0,1
+01:18,[WAS 20-17] Sykes Driving Layup Shot: Made (8 PTS),9,59,1,,1628279,,1611661322,20,17,2,1
+01:18,[CHI] Parks Foul: Shooting (1 PF) (1 FTA),16,72,6,1628279,1641641,203800,1611661329,20,17,0,1
+01:18,[WAS 21-17] Sykes Free Throw 1 of 1 (9 PTS),0,-80,3,,1628279,,1611661322,21,17,1,1
+01:05,[CHI] Hebard Jump Shot: Missed,-27,168,2,,1630113,,1611661329,21,17,0,1
+01:01,[CHI] Smith Rebound (Off:1 Def:1),-27,168,4,,1629501,,1611661329,21,17,0,1
+01:00,[CHI 19-21] Smith Putback Layup Shot: Made (2 PTS),-7,21,1,,1629501,,1611661329,21,19,2,1
+00:48.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,21,19,0,1
+00:46.1,[WAS] Sykes Turnover : Out of Bounds Lost Ball Turnover (1 TO),215,50,5,,1628279,1629771,1611661322,21,19,0,1
+00:27.5,[CHI] Hebard Floating Jump shot: Missed,-18,50,2,,1630113,,1611661329,21,19,0,1
+00:24.9,[WAS] Hines-Allen Rebound (Off:0 Def:2),-18,50,4,,1628899,,1611661322,21,19,0,1
+00:22.9,[CHI] Evans Foul: Personal (1 PF) (2 FTA),35,44,6,1631031,1630389,1629771,1611661329,21,19,0,1
+00:22.9,[WAS 22-19] Egbo Free Throw 1 of 2 (5 PTS),0,-80,3,,1631031,,1611661322,22,19,1,1
+00:22.9,[WAS] Egbo Free Throw 2 of 2 Missed,0,-80,3,,1631031,,1611661322,22,19,0,1
+00:20.7,[CHI] Parks Rebound (Off:0 Def:1),0,-80,4,,1641641,,1611661329,22,19,0,1
+00:02.8,[CHI] Williams Driving Floating Jump Shot: Missed,7,88,2,,1627675,,1611661329,22,19,0,1
+00:01.3,[CHI] Hebard Rebound (Off:1 Def:0),7,88,4,,1630113,,1611661329,22,19,0,1
+00:00.0,[CHI 21-22] Hebard Tip Layup Shot: Made (2 PTS),0,18,1,,1630113,,1611661329,22,21,2,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,22,21,0,1
+00:00.0,End Period,0,-80,13,,0,,0,22,21,0,1
+10:00,Start Period,0,-80,12,,0,,0,22,21,0,2
+09:48,[WAS] Sykes Foul: Offensive (1 PF),110,59,6,1629497,1628279,203800,1611661322,22,21,0,2
+09:48,[WAS] Sykes Turnover : Offensive Foul Turnover (2 TO),110,59,5,,1628279,203800,1611661322,22,21,0,2
+09:33,[CHI] Mabrey Turnover : Bad Pass (2 TO) Steal:Hines-Allen (1 ST),-10,78,5,1628899,1629497,,1611661329,22,21,0,2
+09:27,[WAS] Meng Running Reverse Layup Shot: Missed,16,22,2,,1641642,,1611661322,22,21,0,2
+09:25,[WAS] Team Rebound,16,22,4,,0,,1611661322,22,21,0,2
+09:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,21,0,2
+09:23,[WAS 24-21] Egbo Hook Shot: Made (7 PTS) Assist: Sykes (1 AST),0,30,1,,1631031,1628279,1611661322,24,21,2,2
+09:23,[CHI] Hebard Foul: Shooting (2 PF) (1 FTA),18,42,6,1631031,1630113,1629771,1611661329,24,21,0,2
+09:23,[CHI] Hebard Substitution replaced by Williams,0,-80,8,,1630113,204322,1611661329,24,21,0,2
+09:23,[WAS] Egbo Free Throw 1 of 1 Missed,0,-80,3,,1631031,,1611661322,24,21,0,2
+09:21,[CHI] Smith Rebound (Off:1 Def:2),0,-80,4,,1629501,,1611661329,24,21,0,2
+09:04,[CHI] Mabrey Turnover : Lost Ball (3 TO) Steal:Sykes (4 ST),-15,92,5,1628279,1629497,,1611661329,24,21,0,2
+08:58,[WAS 26-21] Hines-Allen Running Layup Shot: Made (4 PTS) Assist: Sykes (2 AST),16,32,1,,1628899,1628279,1611661322,26,21,2,2
+08:46,[CHI] Evans 3pt Shot: Missed,-139,247,2,,1630389,,1611661329,26,21,0,2
+08:43,[CHI] Evans Rebound (Off:1 Def:0),-139,247,4,,1630389,,1611661329,26,21,0,2
+08:39,[CHI] Parks 3pt Shot: Missed,-179,199,2,,1641641,,1611661329,26,21,0,2
+08:37,[WAS] Sykes Rebound (Off:1 Def:1),-179,199,4,,1628279,,1611661322,26,21,0,2
+08:31,[WAS] Walker-Kimbrough 3pt Shot: Missed,166,183,2,,1628278,,1611661322,26,21,0,2
+08:28,[CHI] Smith Rebound (Off:1 Def:3),166,183,4,,1629501,,1611661329,26,21,0,2
+08:18,[WAS] Hines-Allen Foul: Shooting (2 PF) (2 FTA),-5,44,6,1629497,1628899,203800,1611661322,26,21,0,2
+08:18,[CHI 22-26] Mabrey Free Throw 1 of 2 (1 PTS),0,-80,3,,1629497,,1611661329,26,22,1,2
+08:18,[WAS] Egbo Substitution replaced by Cloud,0,-80,8,,1631031,204333,1611661322,26,22,0,2
+08:18,[WAS] Sykes Substitution replaced by Austin,0,-80,8,,1628279,1631022,1611661322,26,22,0,2
+08:18,[CHI 23-26] Mabrey Free Throw 2 of 2 (2 PTS),0,-80,3,,1629497,,1611661329,26,23,1,2
+08:10,[WAS] Cloud 3pt Shot: Missed,73,237,2,,204333,,1611661322,26,23,0,2
+08:06,[CHI] Mabrey Rebound (Off:1 Def:1),73,237,4,,1629497,,1611661329,26,23,0,2
+08:00,[CHI] Mabrey Driving Layup Shot: Missed Block: Austin (1 BLK),-13,58,2,1631022,1629497,,1611661329,26,23,0,2
+07:58,[WAS] Austin Rebound (Off:0 Def:1),-13,58,4,,1631022,,1611661322,26,23,0,2
+07:48,[WAS] Walker-Kimbrough 3pt Shot: Missed,229,38,2,,1628278,,1611661322,26,23,0,2
+07:45,[WAS] Hines-Allen Rebound (Off:1 Def:2),229,38,4,,1628899,,1611661322,26,23,0,2
+07:35,[WAS] Hines-Allen 3pt Shot: Missed,123,232,2,,1628899,,1611661322,26,23,0,2
+07:31,[WAS] Austin Rebound (Off:1 Def:1),123,232,4,,1631022,,1611661322,26,23,0,2
+07:30,[WAS 28-23] Walker-Kimbrough Layup Shot: Made (3 PTS) Assist: Austin (1 AST),24,5,1,,1628278,1631022,1611661322,28,23,2,2
+07:18,[WAS] Walker-Kimbrough Foul: Personal (1 PF),-77,280,6,1630389,1628278,203800,1611661322,28,23,0,2
+07:18,[WAS] Hines-Allen Substitution replaced by Hawkins,0,-80,8,,1628899,203403,1611661322,28,23,0,2
+07:18,[CHI] Parks Substitution replaced by Copper,0,-80,8,,1641641,1627674,1611661329,28,23,0,2
+07:08,[CHI] Mabrey Turnover : Lost Ball (4 TO) Steal:Walker-Kimbrough (1 ST),0,86,5,1628278,1629497,,1611661329,28,23,0,2
+07:05,[WAS] Walker-Kimbrough Running Layup Shot: Missed,62,12,2,,1628278,,1611661322,28,23,0,2
+07:03,[CHI] Copper Rebound (Off:0 Def:1),62,12,4,,1627674,,1611661329,28,23,0,2
+06:54,[WAS] Hawkins Foul: Shooting (1 PF) (2 FTA),-4,39,6,1629501,203403,1629771,1611661322,28,23,0,2
+06:54,[CHI 24-28] Smith Free Throw 1 of 2 (3 PTS),0,-80,3,,1629501,,1611661329,28,24,1,2
+06:54,[CHI] Mabrey Substitution replaced by Williams,0,-80,8,,1629497,1627675,1611661329,28,24,0,2
+06:54,[CHI 25-28] Smith Free Throw 2 of 2 (4 PTS),0,-80,3,,1629501,,1611661329,28,25,1,2
+06:40,[WAS] Austin Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-21,36,5,,1631022,202764,1611661322,28,25,0,2
+06:28,[CHI 28-28] Williams 3pt Shot: Made (11 PTS) Assist: Williams (2 AST),234,-1,1,,1627675,204322,1611661329,28,28,3,2
+06:05,[WAS 30-28] Walker-Kimbrough Jump Shot: Made (5 PTS) Assist: Cloud (2 AST),199,80,1,,1628278,204333,1611661322,30,28,2,2
+05:49,[CHI] Smith 3pt Shot: Missed,200,135,2,,1629501,,1611661329,30,28,0,2
+05:46,[WAS] Austin Rebound (Off:1 Def:2),200,135,4,,1631022,,1611661322,30,28,0,2
+05:45,[WAS] Austin Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-29,74,5,,1631022,203800,1611661322,30,28,0,2
+05:45,Instant Replay - Support Ruling,0,-80,18,,0,,0,30,28,0,2
+05:45,[WAS] Meng Substitution replaced by Sykes,0,-80,8,,1641642,1628279,1611661322,30,28,0,2
+05:45,[CHI] Smith Substitution replaced by Bertsch,0,-80,8,,1629501,1629571,1611661329,30,28,0,2
+05:30,[CHI] Williams Turnover : Bad Pass (2 TO) Steal:Walker-Kimbrough (2 ST),91,128,5,1628278,1627675,,1611661329,30,28,0,2
+05:30,[CHI] Copper Foul: Personal (3 PF),-16,688,6,1631022,1627674,202764,1611661329,30,28,0,2
+05:30,[CHI] Copper Substitution replaced by Parks,0,-80,8,,1627674,1641641,1611661329,30,28,0,2
+05:08,[WAS] Cloud 3pt Shot: Missed,163,196,2,,204333,,1611661322,30,28,0,2
+05:06,[CHI] Williams Rebound (Off:0 Def:5),163,196,4,,204322,,1611661329,30,28,0,2
+05:01,[CHI] Williams Running Pull-Up Jump Shot: Missed,-85,147,2,,1627675,,1611661329,30,28,0,2
+04:58,[WAS] Hawkins Rebound (Off:2 Def:1),-85,147,4,,203403,,1611661322,30,28,0,2
+04:49,[WAS 32-28] Austin Jump Shot: Made (2 PTS) Assist: Hawkins (1 AST),123,52,1,,1631022,203403,1611661322,32,28,2,2
+04:30,[CHI 30-32] Bertsch Jump Shot: Made (2 PTS) Assist: Evans (2 AST),82,55,1,,1629571,1630389,1611661329,32,30,2,2
+04:16,[WAS] Cloud Driving Layup Shot: Missed,-30,73,2,,204333,,1611661322,32,30,0,2
+04:15,[WAS] Hawkins Rebound (Off:3 Def:1),-30,73,4,,203403,,1611661322,32,30,0,2
+04:14,[WAS 34-30] Hawkins Putback Layup Shot: Made (6 PTS),5,15,1,,203403,,1611661322,34,30,2,2
+04:01,[CHI] Evans 3pt Shot: Missed,-70,255,2,,1630389,,1611661329,34,30,0,2
+03:59,[WAS] Team Rebound,-70,255,4,,0,,1611661322,34,30,0,2
+03:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,30,0,2
+03:59,[WAS] Austin Substitution replaced by Meng,0,-80,8,,1631022,1641642,1611661322,34,30,0,2
+03:59,[WAS] Walker-Kimbrough Substitution replaced by Egbo,0,-80,8,,1628278,1631031,1611661322,34,30,0,2
+03:42,[WAS 36-30] Sykes Driving Layup Shot: Made (11 PTS),6,19,1,,1628279,,1611661322,36,30,2,2
+03:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,30,0,2
+03:30,[CHI] Evans 3pt Shot: Missed,88,259,2,,1630389,,1611661329,36,30,0,2
+03:27,[WAS] Egbo Rebound (Off:0 Def:1),88,259,4,,1631031,,1611661322,36,30,0,2
+03:15,[CHI] Williams Foul: Shooting (2 PF) (2 FTA),-2,56,6,203403,204322,203800,1611661329,36,30,0,2
+03:15,[WAS] Hawkins Free Throw 1 of 2 Missed,0,-80,3,,203403,,1611661322,36,30,0,2
+03:15,[WAS] Team Rebound,0,-80,4,,0,,1611661322,36,30,0,2
+03:15,[CHI] Evans Substitution replaced by Mabrey,0,-80,8,,1630389,1629497,1611661329,36,30,0,2
+03:15,[WAS 37-30] Hawkins Free Throw 2 of 2 (7 PTS),0,-80,3,,203403,,1611661322,37,30,1,2
+02:59,[CHI] Parks Pullup Jump shot: Missed,-133,69,2,,1641641,,1611661329,37,30,0,2
+02:56,[WAS] Egbo Rebound (Off:0 Def:2),-133,69,4,,1631031,,1611661322,37,30,0,2
+02:54,[CHI] Bertsch Foul: Shooting (1 PF) (2 FTA),27,24,6,204333,1629571,1629771,1611661329,37,30,0,2
+02:54,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,37,30,0,2
+02:54,[CHI] Bertsch Substitution replaced by Smith,0,-80,8,,1629571,1629501,1611661329,37,30,0,2
+02:54,[WAS 38-30] Cloud Free Throw 1 of 2 (1 PTS),0,-80,3,,204333,,1611661322,38,30,1,2
+02:54,[WAS 39-30] Cloud Free Throw 2 of 2 (2 PTS),0,-80,3,,204333,,1611661322,39,30,1,2
+02:34,[WAS] Hawkins Foul: Personal (2 PF),1,76,6,204322,203403,1629771,1611661322,39,30,0,2
+02:29,[CHI 32-39] Mabrey Pullup Jump shot: Made (4 PTS),77,126,1,,1629497,,1611661329,39,32,2,2
+02:12,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,39,32,0,2
+02:12,[WAS] Egbo Substitution replaced by Hines-Allen,0,-80,8,,1631031,1628899,1611661322,39,32,0,2
+02:05,[CHI] Smith Foul: Shooting (1 PF) (2 FTA),9,85,6,203403,1629501,203800,1611661329,39,32,0,2
+02:05,[WAS] Hawkins Free Throw 1 of 2 Missed,0,-80,3,,203403,,1611661322,39,32,0,2
+02:05,[WAS] Team Rebound,0,-80,4,,0,,1611661322,39,32,0,2
+02:05,[WAS 40-32] Hawkins Free Throw 2 of 2 (8 PTS),0,-80,3,,203403,,1611661322,40,32,1,2
+01:44,[CHI] Parks Driving Layup Shot: Missed,-46,64,2,,1641641,,1611661329,40,32,0,2
+01:42,[WAS] Hawkins Rebound (Off:3 Def:2),-46,64,4,,203403,,1611661322,40,32,0,2
+01:35,[WAS] Hines-Allen Turnover : Bad Pass (2 TO) Steal:Parks (1 ST),4,118,5,1641641,1628899,,1611661322,40,32,0,2
+01:25,[CHI 34-40] Smith Layup Shot: Made (6 PTS) Assist: Mabrey (2 AST),0,53,1,,1629501,1629497,1611661329,40,34,2,2
+01:07,[WAS] Cloud Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),-2,102,5,204322,204333,,1611661322,40,34,0,2
+00:58.3,[CHI] Williams Cutting Layup Shot: Missed,-11,31,2,,204322,,1611661329,40,34,0,2
+00:56.4,[CHI] Williams Rebound (Off:1 Def:5),-11,31,4,,204322,,1611661329,40,34,0,2
+00:54.3,[CHI 36-40] Williams Putback Layup Shot: Made (4 PTS),-12,10,1,,204322,,1611661329,40,36,2,2
+00:40.7,[WAS] Hines-Allen Turnover : Bad Pass (3 TO) Steal:Williams (1 ST),63,130,5,1627675,1628899,,1611661322,40,36,0,2
+00:36.6,[CHI] Williams Running Pull-Up Jump Shot: Missed,-55,96,2,,1627675,,1611661329,40,36,0,2
+00:32.3,[WAS] Meng Rebound (Off:0 Def:1),-55,96,4,,1641642,,1611661322,40,36,0,2
+00:07.8,[WAS] Meng Turnover : Bad Pass (1 TO) Steal:Smith (1 ST),31,91,5,1629501,1641642,,1611661322,40,36,0,2
+00:02.4,[CHI 39-40] Mabrey 3pt Shot: Made (7 PTS) Assist: Williams (2 AST),-228,14,1,,1629497,1627675,1611661329,40,39,3,2
+00:00.0,[WAS] Cloud 3pt Shot: Missed,-139,809,2,,204333,,1611661322,40,39,0,2
+00:00.0,[WAS] Team Rebound,-139,809,4,,0,,1611661322,40,39,0,2
+00:00.0,End Period,0,-80,13,,0,,0,40,39,0,2
+10:00,Start Period,0,-80,12,,0,,0,40,39,0,3
+09:44,[WAS 43-39] Sykes 3pt Shot: Made (14 PTS) Assist: Hines-Allen (2 AST),-107,236,1,,1628279,1628899,1611661322,43,39,3,3
+09:23,[CHI 41-43] Mabrey Pullup Jump shot: Made (9 PTS),16,110,1,,1629497,,1611661329,43,41,2,3
+09:07,[WAS] Hines-Allen Jump Shot: Missed,-34,142,2,,1628899,,1611661322,43,41,0,3
+09:04,[CHI] Williams Rebound (Off:0 Def:1),-34,142,4,,1627675,,1611661329,43,41,0,3
+08:55,[WAS] Cloud Foul: Personal (1 PF),12,48,6,1629501,204333,1629771,1611661322,43,41,0,3
+08:40,[CHI 43-43] Smith Layup Shot: Made (8 PTS) Assist: Williams (3 AST),5,25,1,,1629501,204322,1611661329,43,43,2,3
+08:29,[WAS] Hines-Allen Layup Shot: Missed Block: Williams (1 BLK),1,81,2,204322,1628899,,1611661322,43,43,0,3
+08:26,[WAS] Walker-Kimbrough Rebound (Off:1 Def:0),1,81,4,,1628278,,1611661322,43,43,0,3
+08:17,[WAS] Hawkins 3pt Shot: Missed,168,193,2,,203403,,1611661322,43,43,0,3
+08:14,[CHI] Williams Rebound (Off:0 Def:2),168,193,4,,1627675,,1611661329,43,43,0,3
+08:09,[WAS] Sykes Violation:Kicked Ball,0,-80,7,,1628279,,1611661322,43,43,0,3
+08:02,[WAS] Hines-Allen Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (3 PF) (1 FTA),0,-80,6,,1628899,202764,1611661322,43,43,0,3
+08:02,[CHI 44-43] Mabrey Free Throw Technical (10 PTS),0,-80,3,,1629497,,1611661329,43,44,1,3
+07:56,[CHI] Smith Turnover : Bad Pass (1 TO) Steal:Walker-Kimbrough (3 ST),-23,68,5,1628278,1629501,,1611661329,43,44,0,3
+07:49,[WAS] Sykes Pullup Jump shot: Missed,52,164,2,,1628279,,1611661322,43,44,0,3
+07:47,[CHI] Williams Rebound (Off:1 Def:6),52,164,4,,204322,,1611661329,43,44,0,3
+07:35,[CHI] Mabrey Turnover : Bad Pass (5 TO) Steal:Walker-Kimbrough (4 ST),10,122,5,1628278,1629497,,1611661329,43,44,0,3
+07:33,[CHI] Williams Foul: Shooting (1 PF) (2 FTA),-7,40,6,1628278,1627675,202764,1611661329,43,44,0,3
+07:33,[WAS 44-44] Walker-Kimbrough Free Throw 1 of 2 (6 PTS),0,-80,3,,1628278,,1611661322,44,44,1,3
+07:33,[WAS 45-44] Walker-Kimbrough Free Throw 2 of 2 (7 PTS),0,-80,3,,1628278,,1611661322,45,44,1,3
+07:17,[CHI] Copper Pullup Jump shot: Missed,-99,59,2,,1627674,,1611661329,45,44,0,3
+07:14,[CHI] Williams Rebound (Off:2 Def:6),-99,59,4,,204322,,1611661329,45,44,0,3
+07:12,[CHI] Mabrey 3pt Shot: Missed,181,192,2,,1629497,,1611661329,45,44,0,3
+07:09,[WAS] Hines-Allen Rebound (Off:1 Def:3),181,192,4,,1628899,,1611661322,45,44,0,3
+07:01,[WAS] Cloud Turnover : Out of Bounds Lost Ball Turnover (2 TO),-11,62,5,,204333,1629771,1611661322,45,44,0,3
+06:41,[WAS] Hines-Allen Foul: Shooting (4 PF) (2 FTA),6,44,6,204322,1628899,202764,1611661322,45,44,0,3
+06:41,[CHI 45-45] Williams Free Throw 1 of 2 (5 PTS),0,-80,3,,204322,,1611661329,45,45,1,3
+06:41,[WAS] Hines-Allen Substitution replaced by Austin,0,-80,8,,1628899,1631022,1611661322,45,45,0,3
+06:41,[CHI] Williams Free Throw 2 of 2 Missed,0,-80,3,,204322,,1611661329,45,45,0,3
+06:40,[WAS] Austin Rebound (Off:1 Def:3),0,-80,4,,1631022,,1611661322,45,45,0,3
+06:40,[CHI] Smith Foul: Personal (2 PF),-13,779,6,1631022,1629501,202764,1611661329,45,45,0,3
+06:31,[WAS 47-45] Sykes Pullup Jump shot: Made (16 PTS) Assist: Cloud (3 AST),-73,147,1,,1628279,204333,1611661322,47,45,2,3
+06:08,[CHI] Copper 3pt Shot: Missed,189,158,2,,1627674,,1611661329,47,45,0,3
+06:06,[CHI] Williams Rebound (Off:3 Def:6),189,158,4,,204322,,1611661329,47,45,0,3
+06:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,45,0,3
+05:58,Jump Ball Copper vs Copper (Sykes gains possession),0,-80,10,1627674,1627674,1628279,1611661322,47,45,0,3
+05:57,[CHI] Copper Turnover : Lost Ball (1 TO) Steal:Cloud (1 ST),-93,49,5,204333,1627674,,1611661329,47,45,0,3
+05:40,[WAS 49-45] Sykes Cutting Layup Shot: Made (18 PTS) Assist: Austin (2 AST),4,54,1,,1628279,1631022,1611661322,49,45,2,3
+05:27,[CHI] Mabrey 3pt Shot: Missed,-186,135,2,,1629497,,1611661329,49,45,0,3
+05:26,[WAS] Cloud Rebound (Off:0 Def:3),-186,135,4,,204333,,1611661322,49,45,0,3
+05:22,[WAS] Cloud Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-13,85,5,,204333,202764,1611661322,49,45,0,3
+05:09,[CHI] Copper Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-158,180,5,,1627674,203800,1611661329,49,45,0,3
+05:09,[CHI] Mabrey Substitution replaced by Parks,0,-80,8,,1629497,1641641,1611661329,49,45,0,3
+05:05,[CHI] Copper Foul: Personal (4 PF),-37,376,6,1628279,1627674,1629771,1611661329,49,45,0,3
+05:05,[CHI] Copper Substitution replaced by Mabrey,0,-80,8,,1627674,1629497,1611661329,49,45,0,3
+05:00,[WAS 51-45] Sykes Driving Layup Shot: Made (20 PTS),-3,28,1,,1628279,,1611661322,51,45,2,3
+04:48,[CHI] Parks 3pt Shot: Missed,226,100,2,,1641641,,1611661329,51,45,0,3
+04:44,[WAS] Cloud Rebound (Off:0 Def:4),226,100,4,,204333,,1611661322,51,45,0,3
+04:40,[CHI] Mabrey Foul: Shooting (1 PF) (2 FTA),-4,48,6,204333,1629497,203800,1611661329,51,45,0,3
+04:40,Timeout Officials,0,-80,9,,0,,0,51,45,0,3
+04:40,[WAS 52-45] Cloud Free Throw 1 of 2 (3 PTS),0,-80,3,,204333,,1611661322,52,45,1,3
+04:40,[WAS 53-45] Cloud Free Throw 2 of 2 (4 PTS),0,-80,3,,204333,,1611661322,53,45,1,3
+04:28,[WAS] Cloud Foul: Shooting (2 PF) (2 FTA),5,47,6,204322,204333,203800,1611661322,53,45,0,3
+04:28,[CHI 46-53] Williams Free Throw 1 of 2 (6 PTS),0,-80,3,,204322,,1611661329,53,46,1,3
+04:28,[CHI 47-53] Williams Free Throw 2 of 2 (7 PTS),0,-80,3,,204322,,1611661329,53,47,1,3
+04:13,[WAS] Sykes 3pt Shot: Missed,-133,233,2,,1628279,,1611661322,53,47,0,3
+04:11,[CHI] Williams Rebound (Off:3 Def:7),-133,233,4,,204322,,1611661329,53,47,0,3
+04:02,[CHI] Williams Turnover : Lost Ball (3 TO) Steal:Cloud (2 ST),26,67,5,204333,1627675,,1611661329,53,47,0,3
+03:58,[WAS 55-47] Sykes Running Layup Shot: Made (22 PTS) Assist: Cloud (4 AST),-7,35,1,,1628279,204333,1611661322,55,47,2,3
+03:40,[CHI 49-55] Mabrey Pullup Jump shot: Made (12 PTS) Assist: Williams (3 AST),42,182,1,,1629497,1627675,1611661329,55,49,2,3
+03:28,[CHI] Williams Foul: Personal (3 PF) (2 FTA),-15,60,6,1631022,204322,203800,1611661329,55,49,0,3
+03:28,[WAS 56-49] Austin Free Throw 1 of 2 (3 PTS),0,-80,3,,1631022,,1611661322,56,49,1,3
+03:28,[WAS] Walker-Kimbrough Substitution replaced by Meng,0,-80,8,,1628278,1641642,1611661322,56,49,0,3
+03:28,[CHI] Williams Substitution replaced by Evans,0,-80,8,,1627675,1630389,1611661329,56,49,0,3
+03:28,[WAS 57-49] Austin Free Throw 2 of 2 (4 PTS),0,-80,3,,1631022,,1611661322,57,49,1,3
+03:05,[CHI] Mabrey 3pt Shot: Missed,-234,23,2,,1629497,,1611661329,57,49,0,3
+03:02,[WAS] Hawkins Rebound (Off:3 Def:3),-234,23,4,,203403,,1611661322,57,49,0,3
+02:44,[WAS] Austin Fadeaway Jump Shot: Missed,10,139,2,,1631022,,1611661322,57,49,0,3
+02:42,[CHI] Smith Rebound (Off:1 Def:4),10,139,4,,1629501,,1611661329,57,49,0,3
+02:32,[CHI 51-57] Williams Floating Jump shot: Made (9 PTS) Assist: Evans (3 AST),-57,30,1,,204322,1630389,1611661329,57,51,2,3
+02:14,[WAS] Hawkins 3pt Shot: Missed,-135,244,2,,203403,,1611661322,57,51,0,3
+02:11,[CHI] Parks Rebound (Off:0 Def:2),-135,244,4,,1641641,,1611661329,57,51,0,3
+02:01,[CHI] Mabrey Foul: Offensive Charge (2 PF),23,122,6,1628279,1629497,202764,1611661329,57,51,0,3
+02:01,[CHI] Mabrey Turnover : Offensive Foul Turnover (6 TO),23,122,5,,1629497,202764,1611661329,57,51,0,3
+02:01,[WAS] Austin Substitution replaced by Hines-Allen,0,-80,8,,1631022,1628899,1611661322,57,51,0,3
+02:01,[WAS] Cloud Substitution replaced by Egbo,0,-80,8,,204333,1631031,1611661322,57,51,0,3
+02:01,[WAS] Hawkins Substitution replaced by Walker-Kimbrough,0,-80,8,,203403,1628278,1611661322,57,51,0,3
+02:01,[CHI] Williams Substitution replaced by Copper,0,-80,8,,204322,1627674,1611661329,57,51,0,3
+02:01,[CHI] Mabrey Substitution replaced by Hebard,0,-80,8,,1629497,1630113,1611661329,57,51,0,3
+01:43,[WAS 59-51] Egbo Jump Shot: Made (9 PTS) Assist: Sykes (3 AST),101,48,1,,1631031,1628279,1611661322,59,51,2,3
+01:22,[CHI] Evans 3pt Shot: Missed,-109,251,2,,1630389,,1611661329,59,51,0,3
+01:19,[CHI] Smith Rebound (Off:2 Def:4),-109,251,4,,1629501,,1611661329,59,51,0,3
+01:18,[CHI 53-59] Smith Putback Layup Shot: Made (10 PTS),4,8,1,,1629501,,1611661329,59,53,2,3
+00:59.9,[WAS] Walker-Kimbrough 3pt Shot: Missed,-115,230,2,,1628278,,1611661322,59,53,0,3
+00:57.2,[CHI] Copper Rebound (Off:0 Def:2),-115,230,4,,1627674,,1611661329,59,53,0,3
+00:50.6,[WAS] Egbo Foul: Shooting (1 PF) (2 FTA),-18,22,6,1627674,1631031,203800,1611661322,59,53,0,3
+00:50.6,[CHI 54-59] Copper Free Throw 1 of 2 (5 PTS),0,-80,3,,1627674,,1611661329,59,54,1,3
+00:50.6,[CHI 55-59] Copper Free Throw 2 of 2 (6 PTS),0,-80,3,,1627674,,1611661329,59,55,1,3
+00:37.8,[WAS] Walker-Kimbrough Jump Shot: Missed,-17,223,2,,1628278,,1611661322,59,55,0,3
+00:34.0,[CHI] Smith Rebound (Off:2 Def:5),-17,223,4,,1629501,,1611661329,59,55,0,3
+00:28.3,[CHI] Evans 3pt Shot: Missed,-21,237,2,,1630389,,1611661329,59,55,0,3
+00:25.6,[WAS] Sykes Rebound (Off:1 Def:2),-21,237,4,,1628279,,1611661322,59,55,0,3
+00:04.6,[WAS] Sykes Driving Layup Shot: Missed Block: Smith (1 BLK),41,33,2,1629501,1628279,,1611661322,59,55,0,3
+00:03.5,[WAS] Sykes Rebound (Off:2 Def:2),41,33,4,,1628279,,1611661322,59,55,0,3
+00:02.4,[WAS 61-55] Sykes Putback Layup Shot: Made (24 PTS),1,31,1,,1628279,,1611661322,61,55,2,3
+00:00.0,End Period,0,-80,13,,0,,0,61,55,0,3
+10:00,Start Period,0,-80,12,,0,,0,61,55,0,4
+09:47,[CHI] Williams Turnover : Bad Pass (4 TO) Steal:Egbo (1 ST),22,96,5,1631031,1627675,,1611661329,61,55,0,4
+09:39,[WAS] Egbo Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-17,66,5,,1631031,1629771,1611661322,61,55,0,4
+09:30,[WAS] Egbo Foul: Personal (2 PF),28,44,6,1627674,1631031,203800,1611661322,61,55,0,4
+09:26,[CHI] Evans Turnover : Bad Pass (1 TO) Steal:Egbo (2 ST),20,76,5,1631031,1630389,,1611661329,61,55,0,4
+09:07,[WAS] Cloud Turnover : Bad Pass (4 TO) Steal:Smith (2 ST),-7,98,5,1629501,204333,,1611661322,61,55,0,4
+09:02,[WAS] Cloud Foul: Shooting (3 PF) (2 FTA),3,46,6,1627674,204333,202764,1611661322,61,55,0,4
+09:02,[CHI] Copper Free Throw 1 of 2 Missed,0,-80,3,,1627674,,1611661329,61,55,0,4
+09:02,[CHI] Team Rebound,0,-80,4,,0,,1611661329,61,55,0,4
+09:02,[CHI 56-61] Copper Free Throw 2 of 2 (7 PTS),0,-80,3,,1627674,,1611661329,61,56,1,4
+08:51,[WAS 63-56] Egbo Cutting Layup Shot: Made (11 PTS) Assist: Hines-Allen (3 AST),-3,45,1,,1631031,1628899,1611661322,63,56,2,4
+08:51,[CHI] Hebard Foul: Shooting (3 PF) (1 FTA),-7,19,6,1631031,1630113,202764,1611661329,63,56,0,4
+08:51,[CHI] Hebard Substitution replaced by Williams,0,-80,8,,1630113,204322,1611661329,63,56,0,4
+08:51,[WAS 64-56] Egbo Free Throw 1 of 1 (12 PTS),0,-80,3,,1631031,,1611661322,64,56,1,4
+08:38,[WAS] Cloud Foul: Personal (4 PF),7,59,6,1629501,204333,202764,1611661322,64,56,0,4
+08:32,[CHI 58-64] Williams Pullup Jump shot: Made (13 PTS),126,133,1,,1627675,,1611661329,64,58,2,4
+08:12,[WAS 66-58] Hines-Allen Turnaround Fadeaway Bank Jump Shot: Made (6 PTS) Assist: Cloud (5 AST),-15,69,1,,1628899,204333,1611661322,66,58,2,4
+08:03,[CHI] Williams Pullup Jump shot: Missed,155,60,2,,1627675,,1611661329,66,58,0,4
+08:01,[WAS] Hines-Allen Rebound (Off:1 Def:4),155,60,4,,1628899,,1611661322,66,58,0,4
+07:53,[WAS 68-58] Meng Cutting Layup Shot: Made (3 PTS) Assist: Hines-Allen (4 AST),-9,42,1,,1641642,1628899,1611661322,68,58,2,4
+07:53,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,68,58,0,4
+07:53,[WAS] Meng Substitution replaced by Austin,0,-80,8,,1641642,1631022,1611661322,68,58,0,4
+07:53,[WAS] Egbo Substitution replaced by Sykes,0,-80,8,,1631031,1628279,1611661322,68,58,0,4
+07:53,[CHI] Evans Substitution replaced by Mabrey,0,-80,8,,1630389,1629497,1611661329,68,58,0,4
+07:29,[CHI] Williams Pullup Jump shot: Missed,76,189,2,,1627675,,1611661329,68,58,0,4
+07:27,[CHI] Smith Rebound (Off:3 Def:5),76,189,4,,1629501,,1611661329,68,58,0,4
+07:26,[CHI] Smith Putback Layup Shot: Missed,1,28,2,,1629501,,1611661329,68,58,0,4
+07:25,[CHI] Smith Rebound (Off:4 Def:5),1,28,4,,1629501,,1611661329,68,58,0,4
+07:19,[CHI 61-68] Mabrey 3pt Shot: Made (15 PTS) Assist: Smith (1 AST),95,239,1,,1629497,1629501,1611661329,68,61,3,4
+06:58,[WAS 71-61] Sykes 3pt Shot: Made (27 PTS) Assist: Cloud (6 AST),-149,233,1,,1628279,204333,1611661322,71,61,3,4
+06:39,[CHI] Mabrey 3pt Shot: Missed,10,256,2,,1629497,,1611661329,71,61,0,4
+06:36,[WAS] Walker-Kimbrough Rebound (Off:1 Def:1),10,256,4,,1628278,,1611661322,71,61,0,4
+06:18,[WAS] Hines-Allen Turnover : Out of Bounds Lost Ball Turnover (4 TO),-23,72,5,,1628899,1629771,1611661322,71,61,0,4
+06:18,[WAS] Hines-Allen Substitution replaced by Hawkins,0,-80,8,,1628899,203403,1611661322,71,61,0,4
+06:18,[CHI] Smith Substitution replaced by Bertsch,0,-80,8,,1629501,1629571,1611661329,71,61,0,4
+05:58,[CHI 63-71] Williams Driving Reverse Layup Shot: Made (11 PTS),44,17,1,,204322,,1611661329,71,63,2,4
+05:46,[WAS 73-63] Hawkins Floating Jump shot: Made (10 PTS) Assist: Sykes (4 AST),-12,42,1,,203403,1628279,1611661322,73,63,2,4
+05:32,[CHI] Copper Pullup Jump shot: Missed,73,171,2,,1627674,,1611661329,73,63,0,4
+05:30,[WAS] Cloud Rebound (Off:0 Def:5),73,171,4,,204333,,1611661322,73,63,0,4
+05:11,[WAS 75-63] Sykes Driving Layup Shot: Made (29 PTS),-20,48,1,,1628279,,1611661322,75,63,2,4
+05:10,[CHI] Team Timeout : Short,0,-80,9,,1611661329,,1611661329,75,63,0,4
+05:10,[WAS] Austin Substitution replaced by Egbo,0,-80,8,,1631022,1631031,1611661322,75,63,0,4
+04:58,[CHI] Williams Pullup Jump shot: Missed,-57,129,2,,1627675,,1611661329,75,63,0,4
+04:56,[WAS] Team Rebound,-57,129,4,,0,,1611661322,75,63,0,4
+04:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,75,63,0,4
+04:49,[WAS] Egbo Turnover : Lost Ball (2 TO) Steal:Mabrey (1 ST),-10,76,5,1629497,1631031,,1611661322,75,63,0,4
+04:39,[CHI 66-75] Copper 3pt Shot: Made (10 PTS) Assist: Williams (4 AST),-72,232,1,,1627674,1627675,1611661329,75,66,3,4
+04:14,[WAS] Sykes Turnover : Lost Ball (3 TO) Steal:Mabrey (2 ST),1,98,5,1629497,1628279,,1611661322,75,66,0,4
+04:09,[CHI 69-75] Copper 3pt Shot: Made (13 PTS) Assist: Williams (5 AST),230,89,1,,1627674,1627675,1611661329,75,69,3,4
+04:09,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,75,69,0,4
+04:09,[CHI] Bertsch Substitution replaced by Smith,0,-80,8,,1629571,1629501,1611661329,75,69,0,4
+03:57,[WAS] Sykes Turnover : Out of Bounds Lost Ball Turnover (4 TO),-16,29,5,,1628279,203800,1611661322,75,69,0,4
+03:57,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,75,69,0,4
+03:57,[CHI] Mabrey Technical (1 FTA),0,-80,6,,1629497,203800,1611661329,75,69,0,4
+03:57,[WAS 76-69] Sykes Free Throw Technical (30 PTS),0,-80,3,,1628279,,1611661322,76,69,1,4
+03:40,[CHI] Copper 3pt Shot: Missed,-188,150,2,,1627674,,1611661329,76,69,0,4
+03:36,[WAS] Walker-Kimbrough Rebound (Off:1 Def:2),-188,150,4,,1628278,,1611661322,76,69,0,4
+03:33,[WAS] Hawkins Running Layup Shot: Missed,-17,23,2,,203403,,1611661322,76,69,0,4
+03:30,[CHI] Williams Rebound (Off:3 Def:8),-17,23,4,,204322,,1611661329,76,69,0,4
+03:24,[WAS] Cloud Foul: Personal (5 PF),5,25,6,1629501,204333,1629771,1611661322,76,69,0,4
+03:12,[CHI 71-76] Williams Layup Shot: Made (13 PTS) Assist: Williams (6 AST),32,38,1,,204322,1627675,1611661329,76,71,2,4
+02:56,[WAS 78-71] Egbo Driving Floating Bank Jump Shot: Made (14 PTS) Assist: Sykes (5 AST),60,36,1,,1631031,1628279,1611661322,78,71,2,4
+02:49,[WAS] Hawkins Foul: Personal (3 PF) (2 FTA),0,65,6,204322,203403,203800,1611661322,78,71,0,4
+02:49,[CHI 72-78] Williams Free Throw 1 of 2 (14 PTS),0,-80,3,,204322,,1611661329,78,72,1,4
+02:49,[CHI] Williams Free Throw 2 of 2 Missed,0,-80,3,,204322,,1611661329,78,72,0,4
+02:47,[CHI] Williams Rebound (Off:1 Def:2),0,-80,4,,1627675,,1611661329,78,72,0,4
+02:43,[CHI] Williams Pullup Jump shot: Missed,142,35,2,,1627675,,1611661329,78,72,0,4
+02:40,[WAS] Cloud Rebound (Off:0 Def:6),142,35,4,,204333,,1611661322,78,72,0,4
+02:25,[WAS 81-72] Hawkins 3pt Shot: Made (13 PTS) Assist: Egbo (1 AST),-234,56,1,,203403,1631031,1611661322,81,72,3,4
+02:06,[CHI] Mabrey Driving Floating Jump Shot: Missed,60,81,2,,1629497,,1611661329,81,72,0,4
+02:03,[CHI] Williams Rebound (Off:4 Def:8),60,81,4,,204322,,1611661329,81,72,0,4
+01:59,[CHI] Williams 3pt Shot: Missed,-217,56,2,,1627675,,1611661329,81,72,0,4
+01:57,[WAS] Egbo Rebound (Off:0 Def:3),-217,56,4,,1631031,,1611661322,81,72,0,4
+01:42,[CHI] Williams Foul: Personal (2 PF),-115,297,6,1628279,1627675,203800,1611661329,81,72,0,4
+01:30,[WAS] Sykes Step Back Jump shot: Missed,93,135,2,,1628279,,1611661322,81,72,0,4
+01:27,[CHI] Smith Rebound (Off:4 Def:6),93,135,4,,1629501,,1611661329,81,72,0,4
+01:19,[CHI 74-81] Copper Driving Layup Shot: Made (15 PTS),20,28,1,,1627674,,1611661329,81,74,2,4
+01:05,[WAS 83-74] Egbo Cutting Layup Shot: Made (16 PTS) Assist: Sykes (6 AST),-6,47,1,,1631031,1628279,1611661322,83,74,2,4
+00:43.0,[CHI 76-83] Copper Driving Layup Shot: Made (17 PTS) Assist: Williams (7 AST),6,19,1,,1627674,1627675,1611661329,83,76,2,4
+00:24.3,[WAS] Cloud Driving Layup Shot: Missed Block: Smith (2 BLK),-7,60,2,1629501,204333,,1611661322,83,76,0,4
+00:22.7,[CHI] Mabrey Rebound (Off:1 Def:2),-7,60,4,,1629497,,1611661329,83,76,0,4
+00:17.5,[CHI] Mabrey Turnover : Lost Ball (7 TO) Steal:Sykes (5 ST),-1,67,5,1628279,1629497,,1611661329,83,76,0,4
+00:00.0,End Period,0,-80,13,,0,,0,83,76,0,4

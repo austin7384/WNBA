@@ -1,0 +1,411 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Wilson vs Shepard (Parker gains possession),0,-80,10,1629491,1628932,201496,1611661319,0,0,0,1
+09:47,[LVA] Young 3pt Shot: Missed,150,201,2,,1629498,,1611661319,0,0,0,1
+09:41,[MIN] Mitchell Rebound (Off:0 Def:1),150,201,4,,1627676,,1611661324,0,0,0,1
+09:31,[MIN 3-0] Collier 3pt Shot: Made (3 PTS) Assist: Allen (1 AST),-109,243,1,,1629483,1628263,1611661324,0,3,3,1
+09:15,[LVA 2-3] Wilson Pullup Jump shot: Made (2 PTS) Assist: Gray (1 AST),-41,11,1,,1628932,203833,1611661319,2,3,2,1
+09:02,[MIN] Mitchell Turnover : Traveling (1 TO),74,177,5,,1627676,,1611661324,2,3,0,1
+08:44,[LVA] Wilson Reverse Layup Shot: Missed Block: Collier (1 BLK),-50,53,2,1629483,1628932,,1611661319,2,3,0,1
+08:40,[MIN] Shepard Rebound (Off:0 Def:1),-50,53,4,,1629491,,1611661324,2,3,0,1
+08:28,[MIN] Allen Alley Oop Layup shot: Missed,66,87,2,,1628263,,1611661324,2,3,0,1
+08:28,[LVA] Parker Rebound (Off:0 Def:1),66,87,4,,201496,,1611661319,2,3,0,1
+08:20,[LVA] Young Reverse Layup Shot: Missed,29,17,2,,1629498,,1611661319,2,3,0,1
+08:17,[LVA] Wilson Rebound (Off:1 Def:0),29,17,4,,1628932,,1611661319,2,3,0,1
+08:16,[LVA 4-3] Wilson Putback Layup Shot: Made (4 PTS),-24,27,1,,1628932,,1611661319,4,3,2,1
+07:57,[MIN] Allen Turnover : Bad Pass (1 TO) Steal:Wilson (1 ST),-48,177,5,1628932,1628263,,1611661324,4,3,0,1
+07:41,[LVA] Parker Layup Shot: Missed,38,37,2,,201496,,1611661319,4,3,0,1
+07:39,[MIN] Collier Rebound (Off:0 Def:1),38,37,4,,1629483,,1611661324,4,3,0,1
+07:35,[MIN] Miller 3pt Shot: Missed,-235,-8,2,,1641649,,1611661324,4,3,0,1
+07:32,[LVA] Young Rebound (Off:0 Def:1),-235,-8,4,,1629498,,1611661319,4,3,0,1
+07:25,[LVA 7-3] Gray 3pt Shot: Made (3 PTS) Assist: Wilson (1 AST),195,177,1,,203833,1628932,1611661319,7,3,3,1
+07:06,[MIN 5-7] Collier Step Back Bank Jump Shot: Made (5 PTS) Assist: Mitchell (1 AST),72,42,1,,1629483,1627676,1611661324,7,5,2,1
+06:55,[LVA 9-5] Wilson Pullup Jump shot: Made (6 PTS) Assist: Gray (2 AST),-73,41,1,,1628932,203833,1611661319,9,5,2,1
+06:37,[MIN] Allen Pullup Jump shot: Missed,19,166,2,,1628263,,1611661324,9,5,0,1
+06:34,[LVA] Parker Rebound (Off:0 Def:2),19,166,4,,201496,,1611661319,9,5,0,1
+06:31,[LVA] Young Reverse Layup Shot: Missed,33,38,2,,1629498,,1611661319,9,5,0,1
+06:28,[MIN] Allen Rebound (Off:0 Def:1),33,38,4,,1628263,,1611661324,9,5,0,1
+06:25,[MIN] Miller Pullup Jump shot: Missed,-95,43,2,,1641649,,1611661324,9,5,0,1
+06:21,[MIN] Shepard Rebound (Off:1 Def:1),-95,43,4,,1629491,,1611661324,9,5,0,1
+06:20,[MIN 8-9] Mitchell 3pt Shot: Made (3 PTS) Assist: Shepard (1 AST),156,209,1,,1627676,1629491,1611661324,9,8,3,1
+06:06,[LVA] Plum Turnover : Bad Pass (1 TO) Steal:Collier (1 ST),173,720,5,1629483,1628276,,1611661319,9,8,0,1
+06:01,[MIN 10-9] Collier Reverse Layup Shot: Made (7 PTS),-24,24,1,,1629483,,1611661324,9,10,2,1
+05:52,[LVA 11-10] Wilson Layup Shot: Made (8 PTS) Assist: Plum (1 AST),22,32,1,,1628932,1628276,1611661319,11,10,2,1
+05:41,[MIN] Collier 3pt Shot: Missed,-157,209,2,,1629483,,1611661324,11,10,0,1
+05:41,[LVA] Gray Rebound (Off:0 Def:1),-157,209,4,,203833,,1611661319,11,10,0,1
+05:27,[LVA 14-10] Parker 3pt Shot: Made (3 PTS) Assist: Gray (3 AST),-82,251,1,,201496,203833,1611661319,14,10,3,1
+05:10,[MIN] Allen Turnover : Bad Pass (2 TO) Steal:Parker (1 ST),-179,157,5,201496,1628263,,1611661324,14,10,0,1
+05:02,[LVA 16-10] Plum Pullup Jump shot: Made (2 PTS) Assist: Young (1 AST),94,72,1,,1628276,1629498,1611661319,16,10,2,1
+04:34,[MIN] Miller Floating Jump shot: Missed,-93,102,2,,1641649,,1611661324,16,10,0,1
+04:31,[LVA] Gray Rebound (Off:0 Def:2),-93,102,4,,203833,,1611661319,16,10,0,1
+04:28,[LVA] Gray 3pt Shot: Missed,-60,240,2,,203833,,1611661319,16,10,0,1
+04:25,[MIN] Shepard Rebound (Off:1 Def:2),-60,240,4,,1629491,,1611661324,16,10,0,1
+04:21,[MIN] Allen Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-66,67,5,,1628263,,1611661324,16,10,0,1
+04:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,10,0,1
+04:21,Timeout Officials,0,-80,9,,0,,0,16,10,0,1
+04:21,[LVA] Parker Substitution replaced by Clark,0,-80,8,,201496,202252,1611661319,16,10,0,1
+04:21,[MIN] Miller Substitution replaced by Banham,0,-80,8,,1641649,1627671,1611661324,16,10,0,1
+04:21,[MIN] Allen Substitution replaced by Powers,0,-80,8,,1628263,1627672,1611661324,16,10,0,1
+03:59,[LVA 18-10] Wilson Driving Finger Roll Layup Shot: Made (10 PTS) Assist: Gray (4 AST),-50,19,1,,1628932,203833,1611661319,18,10,2,1
+03:48,[MIN] Powers Pullup Jump shot: Missed,26,169,2,,1627672,,1611661324,18,10,0,1
+03:46,[LVA] Gray Rebound (Off:0 Def:3),26,169,4,,203833,,1611661319,18,10,0,1
+03:40,[LVA] Plum 3pt Shot: Missed,-236,-26,2,,1628276,,1611661319,18,10,0,1
+03:35,[MIN] Mitchell Rebound (Off:0 Def:2),-236,-26,4,,1627676,,1611661324,18,10,0,1
+03:31,[MIN 12-18] Mitchell Pullup Jump shot: Made (5 PTS),69,150,1,,1627676,,1611661324,18,12,2,1
+03:21,[LVA 20-12] Plum Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Gray (5 AST),50,16,1,,1628276,203833,1611661319,20,12,2,1
+03:06,[MIN] Powers Pullup Jump shot: Missed,-79,124,2,,1627672,,1611661324,20,12,0,1
+03:04,[LVA] Wilson Rebound (Off:1 Def:1),-79,124,4,,1628932,,1611661319,20,12,0,1
+02:59,[LVA] Young 3pt Shot: Missed,-235,-7,2,,1629498,,1611661319,20,12,0,1
+02:55,[MIN] Collier Rebound (Off:0 Def:2),-235,-7,4,,1629483,,1611661324,20,12,0,1
+02:49,[MIN] Collier Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),-92,232,5,203833,1629483,,1611661324,20,12,0,1
+02:40,[LVA 22-12] Clark Layup Shot: Made (2 PTS) Assist: Gray (6 AST),-39,17,1,,202252,203833,1611661319,22,12,2,1
+02:32,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,22,12,0,1
+02:32,[LVA] Gray Substitution replaced by Stokes,0,-80,8,,203833,204329,1611661319,22,12,0,1
+02:32,[MIN] Shepard Substitution replaced by Milic,0,-80,8,,1629491,1631263,1611661324,22,12,0,1
+02:18,[MIN] Mitchell Driving Layup Shot: Missed,49,22,2,,1627676,,1611661324,22,12,0,1
+02:17,[LVA] Team Rebound,49,22,4,,0,,1611661319,22,12,0,1
+02:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,12,0,1
+01:57,[MIN] Collier Foul: Shooting (1 PF) (2 FTA),-51,17,6,1628932,1629483,100274,1611661324,22,12,0,1
+01:57,[LVA 23-12] Wilson Free Throw 1 of 2 (11 PTS),0,-80,3,,1628932,,1611661319,23,12,1,1
+01:57,[LVA 24-12] Wilson Free Throw 2 of 2 (12 PTS),0,-80,3,,1628932,,1611661319,24,12,1,1
+01:48,[MIN] Banham Pullup Jump shot: Missed,107,47,2,,1627671,,1611661324,24,12,0,1
+01:45,[LVA] Young Rebound (Off:0 Def:2),107,47,4,,1629498,,1611661319,24,12,0,1
+01:36,[LVA] Plum Floating Jump shot: Missed,-66,64,2,,1628276,,1611661319,24,12,0,1
+01:34,[MIN] Collier Rebound (Off:0 Def:3),-66,64,4,,1629483,,1611661324,24,12,0,1
+01:25,[MIN] Powers Driving Layup Shot: Missed,41,13,2,,1627672,,1611661324,24,12,0,1
+01:23,[LVA] Young Rebound (Off:0 Def:3),41,13,4,,1629498,,1611661319,24,12,0,1
+01:17,[LVA] Clark 3pt Shot: Missed,215,110,2,,202252,,1611661319,24,12,0,1
+01:13,[MIN] Banham Rebound (Off:0 Def:1),215,110,4,,1627671,,1611661324,24,12,0,1
+01:06,[MIN 15-24] Banham 3pt Shot: Made (3 PTS) Assist: Powers (1 AST),162,210,1,,1627671,1627672,1611661324,24,15,3,1
+00:49.8,[LVA] Wilson 3pt Shot: Missed,-233,62,2,,1628932,,1611661319,24,15,0,1
+00:48.3,[MIN] Team Rebound,-233,62,4,,0,,1611661324,24,15,0,1
+00:48.3,[LVA] Clark Foul: Loose Ball (1 PF),41,816,6,1627672,202252,1628169,1611661319,24,15,0,1
+00:40.7,[MIN 17-24] Mitchell Cutting Layup Shot: Made (7 PTS) Assist: Milic (1 AST),36,13,1,,1627676,1631263,1611661324,24,17,2,1
+00:28.5,[LVA] Young 3pt Shot: Missed,-199,148,2,,1629498,,1611661319,24,17,0,1
+00:24.9,[MIN] Banham Rebound (Off:0 Def:2),-199,148,4,,1627671,,1611661324,24,17,0,1
+00:04.8,[MIN] Mitchell Driving Layup Shot: Missed Block: Stokes (1 BLK),-48,22,2,204329,1627676,,1611661324,24,17,0,1
+00:03.8,[LVA] Stokes Rebound (Off:0 Def:1),-48,22,4,,204329,,1611661319,24,17,0,1
+00:01.0,[LVA] Stokes Turnover : Out of Bounds - Bad Pass Turnover (1 TO),104,289,5,,204329,,1611661319,24,17,0,1
+00:00.0,End Period,0,-80,13,,0,,0,24,17,0,1
+10:00,Start Period,0,-80,12,,0,,0,24,17,0,2
+09:51,[MIN] Milic Turnover : Traveling (1 TO),-56,58,5,,1631263,,1611661324,24,17,0,2
+09:32,[LVA] Parker 3pt Shot: Missed,131,228,2,,201496,,1611661319,24,17,0,2
+09:29,[MIN] Powers Rebound (Off:0 Def:1),131,228,4,,1627672,,1611661324,24,17,0,2
+09:19,[MIN] Powers Driving Layup Shot: Missed,-40,29,2,,1627672,,1611661324,24,17,0,2
+09:17,[LVA] Parker Rebound (Off:0 Def:3),-40,29,4,,201496,,1611661319,24,17,0,2
+09:16,[LVA] Parker Turnover : Bad Pass (1 TO) Steal:Collier (2 ST),163,506,5,1629483,201496,,1611661319,24,17,0,2
+09:11,[MIN] Powers 3pt Shot: Missed,-230,-11,2,,1627672,,1611661324,24,17,0,2
+09:08,[LVA] Young Rebound (Off:0 Def:4),-230,-11,4,,1629498,,1611661319,24,17,0,2
+08:59,[LVA] Gray Turnover : Out of Bounds - Bad Pass Turnover (1 TO),33,237,5,,203833,,1611661319,24,17,0,2
+08:59,[MIN] Powers Substitution replaced by Carleton,0,-80,8,,1627672,1629524,1611661324,24,17,0,2
+08:45,[MIN] Milic Layup Shot: Missed,-31,23,2,,1631263,,1611661324,24,17,0,2
+08:43,[LVA] Parker Rebound (Off:0 Def:4),-31,23,4,,201496,,1611661319,24,17,0,2
+08:34,[LVA 27-17] Young 3pt Shot: Made (3 PTS) Assist: Clark (1 AST),162,199,1,,1629498,202252,1611661319,27,17,3,2
+08:15,[MIN] Carleton Turnover : Lost Ball (1 TO) Steal:Parker (2 ST),-66,54,5,201496,1629524,,1611661324,27,17,0,2
+08:07,[LVA 29-17] Gray Driving Layup Shot: Made (5 PTS),68,13,1,,203833,,1611661319,29,17,2,2
+07:58,[MIN] Banham Turnover : Bad Pass (1 TO) Steal:Young (1 ST),-92,171,5,1629498,1627671,,1611661324,29,17,0,2
+07:53,[LVA 31-17] Young Layup Shot: Made (5 PTS) Assist: Stokes (1 AST),-43,8,1,,1629498,204329,1611661319,31,17,2,2
+07:41,[MIN 20-31] Mitchell 3pt Shot: Made (10 PTS),-113,223,1,,1627676,,1611661324,31,20,3,2
+07:28,[LVA] Clark 3pt Shot: Missed,-235,-6,2,,202252,,1611661319,31,20,0,2
+07:25,[MIN] Mitchell Rebound (Off:0 Def:3),-235,-6,4,,1627676,,1611661324,31,20,0,2
+07:22,[LVA] Stokes Foul: Personal (1 PF),46,101,6,1627676,204329,1628169,1611661319,31,20,0,2
+07:22,[LVA] Young Substitution replaced by Plum,0,-80,8,,1629498,1628276,1611661319,31,20,0,2
+07:22,[MIN] Banham Substitution replaced by Allen,0,-80,8,,1627671,1628263,1611661324,31,20,0,2
+07:22,[MIN] Milic Substitution replaced by Shepard,0,-80,8,,1631263,1629491,1611661324,31,20,0,2
+07:16,[LVA] Gray Foul: Personal (1 PF),-5,145,6,1629483,203833,1629770,1611661319,31,20,0,2
+07:11,[MIN 22-31] Collier Jump Shot: Made (9 PTS) Assist: Shepard (2 AST),24,64,1,,1629483,1629491,1611661324,31,22,2,2
+06:56,[LVA] Parker 3pt Shot: Missed,-214,129,2,,201496,,1611661319,31,22,0,2
+06:52,[LVA] Clark Rebound (Off:1 Def:0),-214,129,4,,202252,,1611661319,31,22,0,2
+06:42,[LVA 34-22] Clark 3pt Shot: Made (5 PTS) Assist: Gray (7 AST),-239,-7,1,,202252,203833,1611661319,34,22,3,2
+06:36,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,34,22,0,2
+06:36,[LVA] Stokes Substitution replaced by Wilson,0,-80,8,,204329,1628932,1611661319,34,22,0,2
+06:28,[LVA] Parker Foul: Shooting (1 PF) (2 FTA),54,39,6,1628263,201496,100274,1611661319,34,22,0,2
+06:28,[MIN] Allen Free Throw 1 of 2 Missed,0,-80,3,,1628263,,1611661324,34,22,0,2
+06:28,[MIN] Team Rebound,0,-80,4,,0,,1611661324,34,22,0,2
+06:28,[MIN] Allen Free Throw 2 of 2 Missed,0,-80,3,,1628263,,1611661324,34,22,0,2
+06:24,[LVA] Wilson Rebound (Off:1 Def:2),0,-80,4,,1628932,,1611661319,34,22,0,2
+06:14,[LVA] Clark 3pt Shot: Missed,78,245,2,,202252,,1611661319,34,22,0,2
+06:11,[LVA] Parker Rebound (Off:1 Def:4),78,245,4,,201496,,1611661319,34,22,0,2
+06:07,[LVA] Parker Hook Shot: Missed,-4,36,2,,201496,,1611661319,34,22,0,2
+06:05,[MIN] Mitchell Rebound (Off:0 Def:4),-4,36,4,,1627676,,1611661324,34,22,0,2
+06:01,[LVA] Clark Foul: Shooting (2 PF) (2 FTA),-43,24,6,1627676,202252,1628169,1611661319,34,22,0,2
+06:01,[MIN 23-34] Mitchell Free Throw 1 of 2 (11 PTS),0,-80,3,,1627676,,1611661324,34,23,1,2
+06:01,[LVA] Clark Substitution replaced by Bell,0,-80,8,,202252,1631006,1611661319,34,23,0,2
+06:01,[MIN] Collier Substitution replaced by Milic,0,-80,8,,1629483,1631263,1611661324,34,23,0,2
+06:01,[MIN 24-34] Mitchell Free Throw 2 of 2 (12 PTS),0,-80,3,,1627676,,1611661324,34,24,1,2
+05:56,[LVA] Plum Cutting Layup Shot: Missed,-37,13,2,,1628276,,1611661319,34,24,0,2
+05:54,[MIN] Milic Rebound (Off:0 Def:1),-37,13,4,,1631263,,1611661324,34,24,0,2
+05:48,[MIN] Carleton 3pt Shot: Missed,230,-29,2,,1629524,,1611661324,34,24,0,2
+05:47,[MIN] Milic Rebound (Off:1 Def:1),230,-29,4,,1631263,,1611661324,34,24,0,2
+05:45,[MIN] Milic Putback Layup Shot: Missed Block: Parker (1 BLK),34,16,2,201496,1631263,,1611661324,34,24,0,2
+05:43,[MIN] Shepard Rebound (Off:2 Def:2),34,16,4,,1629491,,1611661324,34,24,0,2
+05:41,[MIN] Shepard Turnover : Traveling (1 TO),30,37,5,,1629491,,1611661324,34,24,0,2
+05:41,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,34,24,0,2
+05:41,Timeout Officials,0,-80,9,,0,,0,34,24,0,2
+05:41,[MIN] Allen Substitution replaced by Banham,0,-80,8,,1628263,1627671,1611661324,34,24,0,2
+05:21,[LVA 36-24] Gray Jump Shot: Made (7 PTS),-90,166,1,,203833,,1611661319,36,24,2,2
+05:04,[MIN 26-36] Mitchell Step Back Jump shot: Made (14 PTS) Assist: Shepard (3 AST),-182,-12,1,,1627676,1629491,1611661324,36,26,2,2
+04:58,[LVA] Plum 3pt Shot: Missed,-107,225,2,,1628276,,1611661319,36,26,0,2
+04:58,[MIN] Shepard Rebound (Off:2 Def:3),-107,225,4,,1629491,,1611661324,36,26,0,2
+04:49,[MIN] Mitchell Turnover : Bad Pass (2 TO) Steal:Gray (2 ST),95,64,5,203833,1627676,,1611661324,36,26,0,2
+04:44,[MIN] Milic Foul: Personal (1 PF),-23,30,6,1628932,1631263,1628169,1611661324,36,26,0,2
+04:44,[LVA] Gray Substitution replaced by Young,0,-80,8,,203833,1629498,1611661319,36,26,0,2
+04:36,[LVA] Plum 3pt Shot: Missed,110,248,2,,1628276,,1611661319,36,26,0,2
+04:32,[MIN] Carleton Rebound (Off:0 Def:1),110,248,4,,1629524,,1611661324,36,26,0,2
+04:25,[MIN 28-36] Carleton Pullup Jump shot: Made (2 PTS),-32,97,1,,1629524,,1611661324,36,28,2,2
+04:13,[LVA 39-28] Bell 3pt Shot: Made (3 PTS) Assist: Young (2 AST),120,229,1,,1631006,1629498,1611661319,39,28,3,2
+03:57,[MIN] Mitchell Pullup Jump shot: Missed,-45,94,2,,1627676,,1611661324,39,28,0,2
+03:54,[LVA] Young Rebound (Off:0 Def:5),-45,94,4,,1629498,,1611661319,39,28,0,2
+03:51,[MIN] Carleton Foul: Personal (1 PF),-93,113,6,1628276,1629524,1629770,1611661324,39,28,0,2
+03:51,[LVA] Parker Substitution replaced by Stokes,0,-80,8,,201496,204329,1611661319,39,28,0,2
+03:51,[MIN] Mitchell Substitution replaced by Powers,0,-80,8,,1627676,1627672,1611661324,39,28,0,2
+03:48,[MIN] Powers Foul: Personal (1 PF),-58,54,6,1628932,1627672,100274,1611661324,39,28,0,2
+03:38,[LVA 41-28] Plum Driving Layup Shot: Made (6 PTS),-43,11,1,,1628276,,1611661319,41,28,2,2
+03:25,[MIN] Milic 3pt Shot: Missed,-145,214,2,,1631263,,1611661324,41,28,0,2
+03:22,[MIN] Shepard Rebound (Off:3 Def:3),-145,214,4,,1629491,,1611661324,41,28,0,2
+03:20,[MIN 30-41] Milic Cutting Layup Shot: Made (2 PTS) Assist: Shepard (4 AST),-42,11,1,,1631263,1629491,1611661324,41,30,2,2
+03:14,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,41,30,0,2
+03:14,[MIN] Carleton Substitution replaced by Collier,0,-80,8,,1629524,1629483,1611661324,41,30,0,2
+03:02,[LVA] Bell 3pt Shot: Missed,201,173,2,,1631006,,1611661319,41,30,0,2
+02:59,[MIN] Collier Rebound (Off:0 Def:4),201,173,4,,1629483,,1611661324,41,30,0,2
+02:51,[LVA] Plum Foul: Personal (1 PF) (2 FTA),-44,27,6,1629491,1628276,100274,1611661319,41,30,0,2
+02:51,[MIN 31-41] Shepard Free Throw 1 of 2 (1 PTS),0,-80,3,,1629491,,1611661324,41,31,1,2
+02:51,[MIN 32-41] Shepard Free Throw 2 of 2 (2 PTS),0,-80,3,,1629491,,1611661324,41,32,1,2
+02:38,[LVA] Plum 3pt Shot: Missed,55,262,2,,1628276,,1611661319,41,32,0,2
+02:35,[LVA] Wilson Rebound (Off:2 Def:2),55,262,4,,1628932,,1611661319,41,32,0,2
+02:32,[LVA] Wilson Turnover : Bad Pass (1 TO) Steal:Powers (1 ST),37,41,5,1627672,1628932,,1611661319,41,32,0,2
+02:27,[MIN] Powers Turnover : Bad Pass (1 TO) Steal:Plum (1 ST),-131,198,5,1628276,1627672,,1611661324,41,32,0,2
+02:23,[LVA 43-32] Young Layup Shot: Made (7 PTS) Assist: Plum (2 AST),-21,16,1,,1629498,1628276,1611661319,43,32,2,2
+02:10,[LVA] Bell Foul: Personal (1 PF) (2 FTA),-54,40,6,1629483,1631006,1629770,1611661319,43,32,0,2
+02:10,[MIN 33-43] Collier Free Throw 1 of 2 (10 PTS),0,-80,3,,1629483,,1611661324,43,33,1,2
+02:10,[LVA] Bell Substitution replaced by Parker,0,-80,8,,1631006,201496,1611661319,43,33,0,2
+02:10,[LVA] Stokes Substitution replaced by Gray,0,-80,8,,204329,203833,1611661319,43,33,0,2
+02:10,[MIN 34-43] Collier Free Throw 2 of 2 (11 PTS),0,-80,3,,1629483,,1611661324,43,34,1,2
+01:55,[LVA 46-34] Plum 3pt Shot: Made (9 PTS) Assist: Young (3 AST),-233,6,1,,1628276,1629498,1611661319,46,34,3,2
+01:31,[MIN] Banham Pullup Jump shot: Missed,32,156,2,,1627671,,1611661324,46,34,0,2
+01:29,[MIN] Team Rebound,32,156,4,,0,,1611661324,46,34,0,2
+01:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,34,0,2
+01:23,[MIN] Powers Step Back Jump shot: Missed,166,51,2,,1627672,,1611661324,46,34,0,2
+01:22,[LVA] Team Rebound,166,51,4,,0,,1611661319,46,34,0,2
+01:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,34,0,2
+01:14,[MIN] Milic Foul: Personal (2 PF),-28,40,6,1628932,1631263,1629770,1611661324,46,34,0,2
+01:07,[LVA] Parker Hook Shot: Missed,-74,5,2,,201496,,1611661319,46,34,0,2
+01:04,[MIN] Shepard Rebound (Off:3 Def:4),-74,5,4,,1629491,,1611661324,46,34,0,2
+01:01,Jump Ball Shepard vs Young (Shepard gains possession),0,-80,10,1629498,1629491,1629491,1611661324,46,34,0,2
+01:01,[LVA] Plum Violation:Jump Ball,0,-80,7,,1628276,,1611661319,46,34,0,2
+01:01,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,46,34,0,2
+01:01,[MIN] Powers Substitution replaced by Mitchell,0,-80,8,,1627672,1627676,1611661324,46,34,0,2
+00:47.8,[LVA] Young Foul: Shooting (1 PF) (2 FTA),18,130,6,1629483,1629498,1628169,1611661319,46,34,0,2
+00:47.8,[MIN 35-46] Collier Free Throw 1 of 2 (12 PTS),0,-80,3,,1629483,,1611661324,46,35,1,2
+00:47.8,[MIN 36-46] Collier Free Throw 2 of 2 (13 PTS),0,-80,3,,1629483,,1611661324,46,36,1,2
+00:35.0,[MIN] Collier Foul: Personal (2 PF) (2 FTA),-28,43,6,1629498,1629483,1629770,1611661324,46,36,0,2
+00:35.0,[LVA 47-36] Young Free Throw 1 of 2 (8 PTS),0,-80,3,,1629498,,1611661319,47,36,1,2
+00:35.0,[LVA 48-36] Young Free Throw 2 of 2 (9 PTS),0,-80,3,,1629498,,1611661319,48,36,1,2
+00:16.2,[MIN 38-48] Collier Driving Layup Shot: Made (15 PTS) Assist: Mitchell (2 AST),4,28,1,,1629483,1627676,1611661324,48,38,2,2
+00:00.4,[MIN] Collier Foul: Shooting (3 PF) (2 FTA),-15,65,6,1628932,1629483,100274,1611661324,48,38,0,2
+00:00.4,[LVA 49-38] Wilson Free Throw 1 of 2 (13 PTS),0,-80,3,,1628932,,1611661319,49,38,1,2
+00:00.4,[LVA 50-38] Wilson Free Throw 2 of 2 (14 PTS),0,-80,3,,1628932,,1611661319,50,38,1,2
+00:00.0,End Period,0,-80,13,,0,,0,50,38,0,2
+10:00,Start Period,0,-80,12,,0,,0,50,38,0,3
+09:48,[MIN] Collier 3pt Shot: Missed,-129,220,2,,1629483,,1611661324,50,38,0,3
+09:45,[LVA] Plum Rebound (Off:0 Def:1),-129,220,4,,1628276,,1611661319,50,38,0,3
+09:40,[LVA] Young Turnover : Lost Ball (1 TO) Steal:Miller (1 ST),-107,196,5,1641649,1629498,,1611661319,50,38,0,3
+09:35,[MIN 40-50] Miller Running Layup Shot: Made (2 PTS),38,25,1,,1641649,,1611661324,50,40,2,3
+09:23,[MIN] Mitchell Foul: Personal (1 PF),-89,110,6,203833,1627676,1628169,1611661324,50,40,0,3
+09:13,[LVA] Wilson Jump Shot: Missed,-49,13,2,,1628932,,1611661319,50,40,0,3
+09:10,[MIN] Collier Rebound (Off:0 Def:5),-49,13,4,,1629483,,1611661324,50,40,0,3
+09:04,[MIN] Collier Layup Shot: Missed,-28,37,2,,1629483,,1611661324,50,40,0,3
+09:03,[MIN] Collier Rebound (Off:1 Def:5),-28,37,4,,1629483,,1611661324,50,40,0,3
+09:03,[MIN] Collier Putback Layup Shot: Missed,-29,41,2,,1629483,,1611661324,50,40,0,3
+09:02,[MIN] Collier Rebound (Off:2 Def:5),-29,41,4,,1629483,,1611661324,50,40,0,3
+09:00,[MIN 42-50] Collier Tip Layup Shot: Made (17 PTS),0,-5,1,,1629483,,1611661324,50,42,2,3
+08:39,[LVA] Parker Layup Shot: Missed Block: Miller (1 BLK),-37,27,2,1641649,201496,,1611661319,50,42,0,3
+08:39,[LVA] Team Rebound,-37,27,4,,0,,1611661319,50,42,0,3
+08:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,42,0,3
+08:34,[LVA 52-42] Wilson Jump Shot: Made (16 PTS) Assist: Gray (8 AST),-26,38,1,,1628932,203833,1611661319,52,42,2,3
+08:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,42,0,3
+08:24,[MIN] Allen Substitution replaced by Banham,0,-80,8,,1628263,1627671,1611661324,52,42,0,3
+08:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,42,0,3
+08:09,[MIN] Mitchell 3pt Shot: Missed,-232,-7,2,,1627676,,1611661324,52,42,0,3
+08:06,[LVA] Parker Rebound (Off:1 Def:5),-232,-7,4,,201496,,1611661319,52,42,0,3
+07:55,[LVA 55-42] Young 3pt Shot: Made (12 PTS) Assist: Wilson (2 AST),-191,156,1,,1629498,1628932,1611661319,55,42,3,3
+07:34,[LVA] Gray Foul: Shooting (2 PF) (2 FTA),-74,24,6,1641649,203833,1629770,1611661319,55,42,0,3
+07:34,[MIN 43-55] Miller Free Throw 1 of 2 (3 PTS),0,-80,3,,1641649,,1611661324,55,43,1,3
+07:34,[MIN 44-55] Miller Free Throw 2 of 2 (4 PTS),0,-80,3,,1641649,,1611661324,55,44,1,3
+07:08,[LVA 57-44] Plum Floating Jump shot: Made (11 PTS),-22,77,1,,1628276,,1611661319,57,44,2,3
+06:53,[MIN] Miller Jump Shot: Missed,-47,177,2,,1641649,,1611661324,57,44,0,3
+06:49,[LVA] Gray Rebound (Off:0 Def:4),-47,177,4,,203833,,1611661319,57,44,0,3
+06:39,[LVA] Young 3pt Shot: Missed,-230,18,2,,1629498,,1611661319,57,44,0,3
+06:37,[MIN] Shepard Rebound (Off:3 Def:5),-230,18,4,,1629491,,1611661324,57,44,0,3
+06:34,[MIN 46-57] Miller Layup Shot: Made (6 PTS) Assist: Shepard (5 AST),40,31,1,,1641649,1629491,1611661324,57,46,2,3
+06:34,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,57,46,0,3
+06:24,[LVA] Plum 3pt Shot: Missed,73,249,2,,1628276,,1611661319,57,46,0,3
+06:22,[MIN] Mitchell Rebound (Off:0 Def:5),73,249,4,,1627676,,1611661324,57,46,0,3
+06:10,[MIN] Collier Turnaround Jump Shot: Missed,4,74,2,,1629483,,1611661324,57,46,0,3
+06:08,[LVA] Parker Rebound (Off:1 Def:6),4,74,4,,201496,,1611661319,57,46,0,3
+06:01,[LVA] Gray Jump Shot: Missed,-148,31,2,,203833,,1611661319,57,46,0,3
+05:55,[MIN] Shepard Rebound (Off:3 Def:6),-148,31,4,,1629491,,1611661324,57,46,0,3
+05:49,[MIN 48-57] Miller Driving Layup Shot: Made (8 PTS),-38,57,1,,1641649,,1611661324,57,48,2,3
+05:32,[LVA] Parker 3pt Shot: Missed,-230,21,2,,201496,,1611661319,57,48,0,3
+05:32,[LVA] Team Rebound,-230,21,4,,0,,1611661319,57,48,0,3
+05:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,48,0,3
+05:32,[LVA] Parker Substitution replaced by Clark,0,-80,8,,201496,202252,1611661319,57,48,0,3
+05:32,[LVA] Gray Substitution replaced by Stokes,0,-80,8,,203833,204329,1611661319,57,48,0,3
+05:23,[LVA 60-48] Clark 3pt Shot: Made (8 PTS) Assist: Plum (3 AST),230,-16,1,,202252,1628276,1611661319,60,48,3,3
+05:08,Jump Ball Young vs Mitchell (Stokes gains possession),0,-80,10,1627676,1629498,204329,1611661319,60,48,0,3
+05:08,[MIN] Mitchell Turnover : Lost Ball (3 TO) Steal:Young (2 ST),0,-80,5,1629498,1627676,,1611661324,60,48,0,3
+04:49,[LVA] Wilson Step Back Jump shot: Missed,74,137,2,,1628932,,1611661319,60,48,0,3
+04:45,[MIN] Miller Rebound (Off:0 Def:1),74,137,4,,1641649,,1611661324,60,48,0,3
+04:26,Jump Ball Plum vs Collier (Plum gains possession),0,-80,10,1629483,1628276,1628276,1611661319,60,48,0,3
+04:26,[MIN] Collier Turnover : Lost Ball (2 TO) Steal:Plum (2 ST),0,-80,5,1628276,1629483,,1611661324,60,48,0,3
+04:21,[LVA] Clark 3pt Shot: Missed,-226,17,2,,202252,,1611661319,60,48,0,3
+04:18,[MIN] Shepard Rebound (Off:3 Def:7),-226,17,4,,1629491,,1611661324,60,48,0,3
+04:08,[MIN] Collier 3pt Shot: Missed,-233,57,2,,1629483,,1611661324,60,48,0,3
+04:05,[LVA] Stokes Rebound (Off:0 Def:2),-233,57,4,,204329,,1611661319,60,48,0,3
+04:02,[LVA] Plum Foul: Offensive (2 PF),102,50,6,1627671,1628276,1629770,1611661319,60,48,0,3
+04:02,[LVA] Plum Turnover : Offensive Foul Turnover (2 TO),102,50,5,,1628276,,1611661319,60,48,0,3
+03:47,[MIN 50-60] Miller Cutting Layup Shot: Made (10 PTS) Assist: Shepard (6 AST),-11,27,1,,1641649,1629491,1611661324,60,50,2,3
+03:47,[LVA] Stokes Foul: Shooting (2 PF) (1 FTA),0,59,6,1641649,204329,1628169,1611661319,60,50,0,3
+03:47,[MIN 51-60] Miller Free Throw 1 of 1 (11 PTS),0,-80,3,,1641649,,1611661324,60,51,1,3
+03:33,[LVA 63-51] Young 3pt Shot: Made (15 PTS) Assist: Plum (4 AST),174,189,1,,1629498,1628276,1611661319,63,51,3,3
+03:19,[MIN] Collier 3pt Shot: Missed,50,253,2,,1629483,,1611661324,63,51,0,3
+03:17,[LVA] Young Rebound (Off:0 Def:6),50,253,4,,1629498,,1611661319,63,51,0,3
+03:05,[MIN] Mitchell Foul: Shooting (2 PF) (2 FTA),-84,37,6,1628932,1627676,1629770,1611661324,63,51,0,3
+03:05,[LVA 64-51] Wilson Free Throw 1 of 2 (17 PTS),0,-80,3,,1628932,,1611661319,64,51,1,3
+03:05,[MIN] Banham Substitution replaced by Allen,0,-80,8,,1627671,1628263,1611661324,64,51,0,3
+03:05,[MIN] Collier Substitution replaced by Carleton,0,-80,8,,1629483,1629524,1611661324,64,51,0,3
+03:05,[LVA 65-51] Wilson Free Throw 2 of 2 (18 PTS),0,-80,3,,1628932,,1611661319,65,51,1,3
+02:49,[MIN] Miller Driving Layup Shot: Missed,-40,20,2,,1641649,,1611661324,65,51,0,3
+02:46,[LVA] Stokes Rebound (Off:0 Def:3),-40,20,4,,204329,,1611661319,65,51,0,3
+02:36,[LVA 68-51] Young 3pt Shot: Made (18 PTS) Assist: Plum (5 AST),-162,191,1,,1629498,1628276,1611661319,68,51,3,3
+02:33,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,68,51,0,3
+02:33,[LVA] Wilson Substitution replaced by Gray,0,-80,8,,1628932,203833,1611661319,68,51,0,3
+02:14,[MIN] Carleton 3pt Shot: Missed,-175,199,2,,1629524,,1611661324,68,51,0,3
+02:13,[MIN] Shepard Rebound (Off:4 Def:7),-175,199,4,,1629491,,1611661324,68,51,0,3
+02:12,[MIN] Shepard Jump Shot: Missed Block: Stokes (2 BLK),82,28,2,204329,1629491,,1611661324,68,51,0,3
+02:11,[LVA] Stokes Rebound (Off:0 Def:4),82,28,4,,204329,,1611661319,68,51,0,3
+02:03,[MIN] Allen Foul: Personal (1 PF),-173,93,6,1628276,1628263,1628169,1611661324,68,51,0,3
+02:03,Stoppage: Blood Rule,0,-80,20,,0,,0,68,51,0,3
+01:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,51,0,3
+01:42,[LVA] Plum 3pt Shot: Missed,-228,118,2,,1628276,,1611661319,68,51,0,3
+01:40,[MIN] Carleton Rebound (Off:0 Def:2),-168,82,4,,1629524,,1611661324,68,51,0,3
+01:34,[LVA] Stokes Foul: Personal (3 PF),24,60,6,1629491,204329,100274,1611661319,68,51,0,3
+01:34,[LVA] Plum Substitution replaced by Parker,0,-80,8,,1628276,201496,1611661319,68,51,0,3
+01:21,[MIN] Mitchell Jump Shot: Missed,32,167,2,,1627676,,1611661324,68,51,0,3
+01:21,[MIN] Shepard Rebound (Off:5 Def:7),32,167,4,,1629491,,1611661324,68,51,0,3
+01:11,[MIN] Shepard Jump Shot: Missed Block: Stokes (3 BLK),149,31,2,204329,1629491,,1611661324,68,51,0,3
+01:11,[LVA] Team Rebound,149,31,4,,0,,1611661319,68,51,0,3
+01:11,[MIN] Shepard Foul: Loose Ball (1 PF),-51,711,6,204329,1629491,1628169,1611661324,68,51,0,3
+01:11,InstantReplay Request Stands,0,-80,18,,0,,0,68,51,0,3
+01:11,[MIN] Carleton Substitution replaced by Collier,0,-80,8,,1629524,1629483,1611661324,68,51,0,3
+00:53.9,[LVA 71-51] Clark 3pt Shot: Made (11 PTS) Assist: Stokes (2 AST),-189,176,1,,202252,204329,1611661319,71,51,3,3
+00:37.0,[MIN 53-71] Shepard Driving Layup Shot: Made (4 PTS) Assist: Allen (2 AST),34,49,1,,1629491,1628263,1611661324,71,53,2,3
+00:25.9,[LVA 73-53] Gray Pullup Jump shot: Made (9 PTS),82,189,1,,203833,,1611661319,73,53,2,3
+00:05.6,[MIN] Mitchell Jump Shot: Missed,53,192,2,,1627676,,1611661324,73,53,0,3
+00:00.6,[LVA] Clark Rebound (Off:1 Def:1),53,192,4,,202252,,1611661319,73,53,0,3
+00:00.0,[LVA] Parker 3pt Shot: Missed,128,309,2,,201496,,1611661319,73,53,0,3
+00:00.0,[LVA] Team Rebound,128,309,4,,0,,1611661319,73,53,0,3
+00:00.0,End Period,0,-80,13,,0,,0,73,53,0,3
+10:00,Start Period,0,-80,12,,0,,0,73,53,0,4
+09:36,[LVA] Gray Pullup Jump shot: Missed,-23,182,2,,203833,,1611661319,73,53,0,4
+09:34,[MIN] Collier Rebound (Off:2 Def:6),-23,182,4,,1629483,,1611661324,73,53,0,4
+09:25,[LVA] Clark Foul: Personal (3 PF),-39,22,6,1641649,202252,1629770,1611661319,73,53,0,4
+09:13,[MIN] Banham 3pt Shot: Missed,-143,208,2,,1627671,,1611661324,73,53,0,4
+09:09,[LVA] Bell Rebound (Off:0 Def:1),-143,208,4,,1631006,,1611661319,73,53,0,4
+09:03,[LVA] Bell 3pt Shot: Missed,-181,182,2,,1631006,,1611661319,73,53,0,4
+08:59,[MIN] Shepard Rebound (Off:5 Def:8),-181,182,4,,1629491,,1611661324,73,53,0,4
+08:50,[MIN] Miller Step Back Jump shot: Missed,-179,-1,2,,1641649,,1611661324,73,53,0,4
+08:46,[LVA] Bell Rebound (Off:0 Def:2),-179,-1,4,,1631006,,1611661319,73,53,0,4
+08:40,[LVA] Gray Foul: Offensive (3 PF),71,22,6,1627676,203833,1629770,1611661319,73,53,0,4
+08:40,[LVA] Gray Turnover : Offensive Foul Turnover (2 TO),71,22,5,,203833,,1611661319,73,53,0,4
+08:40,[LVA] Parker Substitution replaced by Young,0,-80,8,,201496,1629498,1611661319,73,53,0,4
+08:40,[LVA] Stokes Substitution replaced by Wilson,0,-80,8,,204329,1628932,1611661319,73,53,0,4
+08:20,[MIN 56-73] Banham 3pt Shot: Made (6 PTS) Assist: Mitchell (3 AST),157,241,1,,1627671,1627676,1611661324,73,56,3,4
+08:03,[MIN] Banham Foul: Shooting (1 PF) (2 FTA),-18,39,6,1628932,1627671,1629770,1611661324,73,56,0,4
+08:03,[LVA 74-56] Wilson Free Throw 1 of 2 (19 PTS),0,-80,3,,1628932,,1611661319,74,56,1,4
+08:03,[LVA] Bell Substitution replaced by Plum,0,-80,8,,1631006,1628276,1611661319,74,56,0,4
+08:03,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,74,56,0,4
+08:01,[MIN] Collier Rebound (Off:2 Def:7),0,-80,4,,1629483,,1611661324,74,56,0,4
+07:41,[MIN 58-74] Collier Layup Shot: Made (19 PTS) Assist: Miller (1 AST),-43,21,1,,1629483,1641649,1611661324,74,58,2,4
+07:24,[MIN] Miller Foul: Personal (1 PF),97,279,6,1628932,1641649,1629770,1611661324,74,58,0,4
+07:24,[MIN] Mitchell Substitution replaced by Carleton,0,-80,8,,1627676,1629524,1611661324,74,58,0,4
+07:08,[LVA] Plum Driving Layup Shot: Missed,43,17,2,,1628276,,1611661319,74,58,0,4
+07:06,[MIN] Shepard Rebound (Off:5 Def:9),43,17,4,,1629491,,1611661324,74,58,0,4
+06:59,[MIN 60-74] Collier Driving Layup Shot: Made (21 PTS),-32,15,1,,1629483,,1611661324,74,60,2,4
+06:47,[LVA] Wilson Foul: Offensive (1 PF),-156,118,6,1627671,1628932,100274,1611661319,74,60,0,4
+06:47,[LVA] Wilson Turnover : Offensive Foul Turnover (2 TO),-156,118,5,,1628932,,1611661319,74,60,0,4
+06:34,[MIN] Shepard Layup Shot: Missed Block: Wilson (1 BLK),-28,41,2,1628932,1629491,,1611661324,74,60,0,4
+06:34,[LVA] Team Rebound,-28,41,4,,0,,1611661319,74,60,0,4
+06:15,[LVA 76-60] Gray Driving Layup Shot: Made (11 PTS),30,23,1,,203833,,1611661319,76,60,2,4
+05:57,[MIN] Collier Pullup Jump shot: Missed,-127,-12,2,,1629483,,1611661324,76,60,0,4
+05:54,[LVA] Clark Rebound (Off:1 Def:2),-127,-12,4,,202252,,1611661319,76,60,0,4
+05:48,[MIN] Miller Foul: Shooting (2 PF) (2 FTA),30,6,6,1628932,1641649,100274,1611661324,76,60,0,4
+05:48,Timeout Officials,0,-80,9,,0,,0,76,60,0,4
+05:48,[LVA] Clark Substitution replaced by Stokes,0,-80,8,,202252,204329,1611661319,76,60,0,4
+05:48,[MIN] Miller Substitution replaced by Mitchell,0,-80,8,,1641649,1627676,1611661324,76,60,0,4
+05:48,[LVA 77-60] Wilson Free Throw 1 of 2 (20 PTS),0,-80,3,,1628932,,1611661319,77,60,1,4
+05:48,[LVA 78-60] Wilson Free Throw 2 of 2 (21 PTS),0,-80,3,,1628932,,1611661319,78,60,1,4
+05:41,[LVA] Plum Foul: Personal (3 PF),51,169,6,1627676,1628276,1628169,1611661319,78,60,0,4
+05:31,[MIN 63-78] Banham 3pt Shot: Made (9 PTS),-184,193,1,,1627671,,1611661324,78,63,3,4
+05:07,[LVA 81-63] Gray 3pt Shot: Made (14 PTS) Assist: Young (4 AST),110,243,1,,203833,1629498,1611661319,81,63,3,4
+04:45,[MIN] Banham 3pt Shot: Missed,210,117,2,,1627671,,1611661324,81,63,0,4
+04:42,[LVA] Wilson Rebound (Off:2 Def:3),210,117,4,,1628932,,1611661319,81,63,0,4
+04:34,[LVA] Plum 3pt Shot: Missed,122,226,2,,1628276,,1611661319,81,63,0,4
+04:30,[MIN] Collier Rebound (Off:2 Def:8),122,226,4,,1629483,,1611661324,81,63,0,4
+04:26,[MIN 66-81] Banham 3pt Shot: Made (12 PTS) Assist: Shepard (7 AST),181,192,1,,1627671,1629491,1611661324,81,66,3,4
+04:25,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,81,66,0,4
+04:09,[LVA] Plum 3pt Shot: Missed,134,230,2,,1628276,,1611661319,81,66,0,4
+04:09,[MIN] Team Rebound,134,230,4,,0,,1611661324,81,66,0,4
+04:09,[LVA] Plum Foul: Loose Ball (4 PF),-90,629,6,1629483,1628276,1628169,1611661319,81,66,0,4
+03:55,[MIN] Collier Turnaround Fadeaway shot: Missed Block: Stokes (4 BLK),-97,10,2,204329,1629483,,1611661324,81,66,0,4
+03:54,[LVA] Stokes Rebound (Off:0 Def:5),-97,10,4,,204329,,1611661319,81,66,0,4
+03:48,[LVA] Young Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-63,169,5,,1629498,,1611661319,81,66,0,4
+03:48,[LVA] Stokes Substitution replaced by Parker,0,-80,8,,204329,201496,1611661319,81,66,0,4
+03:39,[MIN] Banham Pullup Jump shot: Missed Block: Wilson (2 BLK),72,158,2,1628932,1627671,,1611661324,81,66,0,4
+03:37,[LVA] Parker Rebound (Off:1 Def:7),72,158,4,,201496,,1611661319,81,66,0,4
+03:28,[MIN] Banham Foul: Personal (2 PF),146,233,6,203833,1627671,1629770,1611661324,81,66,0,4
+03:19,[LVA 83-66] Young Jump Shot: Made (20 PTS) Assist: Gray (9 AST),6,121,1,,1629498,203833,1611661319,83,66,2,4
+03:19,[MIN] Shepard Foul: Shooting (2 PF) (1 FTA),7,134,6,1629498,1629491,1628169,1611661324,83,66,0,4
+03:19,[MIN] Carleton Substitution replaced by Milic,0,-80,8,,1629524,1631263,1611661324,83,66,0,4
+03:19,[LVA 84-66] Young Free Throw 1 of 1 (21 PTS),0,-80,3,,1629498,,1611661319,84,66,1,4
+03:19,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,84,66,0,4
+02:59,[MIN] Banham Jump Shot: Missed,-29,194,2,,1627671,,1611661324,84,66,0,4
+02:55,[LVA] Gray Rebound (Off:0 Def:5),-29,194,4,,203833,,1611661319,84,66,0,4
+02:50,[MIN] Shepard Foul: Personal (3 PF) (2 FTA),-95,184,6,1629498,1629491,1628169,1611661324,84,66,0,4
+02:50,[LVA 85-66] Young Free Throw 1 of 2 (22 PTS),0,-80,3,,1629498,,1611661319,85,66,1,4
+02:50,[LVA 86-66] Young Free Throw 2 of 2 (23 PTS),0,-80,3,,1629498,,1611661319,86,66,1,4
+02:38,[MIN] Banham 3pt Shot: Missed,-214,130,2,,1627671,,1611661324,86,66,0,4
+02:36,[LVA] Team Rebound,-214,130,4,,0,,1611661319,86,66,0,4
+02:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,86,66,0,4
+02:22,[MIN] Mitchell Foul: Personal (3 PF) (2 FTA),44,40,6,203833,1627676,1628169,1611661324,86,66,0,4
+02:22,[LVA 87-66] Gray Free Throw 1 of 2 (15 PTS),0,-80,3,,203833,,1611661319,87,66,1,4
+02:22,[LVA] Young Substitution replaced by Bell,0,-80,8,,1629498,1631006,1611661319,87,66,0,4
+02:22,[LVA] Parker Substitution replaced by George,0,-80,8,,201496,204297,1611661319,87,66,0,4
+02:22,[LVA] Plum Substitution replaced by Colson,0,-80,8,,1628276,202641,1611661319,87,66,0,4
+02:22,[LVA] Wilson Substitution replaced by Clark,0,-80,8,,1628932,202252,1611661319,87,66,0,4
+02:22,[MIN] Banham Substitution replaced by Allen,0,-80,8,,1627671,1628263,1611661324,87,66,0,4
+02:22,[LVA 88-66] Gray Free Throw 2 of 2 (16 PTS),0,-80,3,,203833,,1611661319,88,66,1,4
+02:08,[MIN 68-88] Mitchell Pullup Jump shot: Made (16 PTS),-90,156,1,,1627676,,1611661324,88,68,2,4
+01:56,[LVA] Bell 3pt Shot: Missed,-184,183,2,,1631006,,1611661319,88,68,0,4
+01:53,[MIN] Shepard Rebound (Off:5 Def:10),-184,183,4,,1629491,,1611661324,88,68,0,4
+01:41,[MIN 70-88] Milic Jump Shot: Made (4 PTS) Assist: Mitchell (4 AST),110,36,1,,1631263,1627676,1611661324,88,70,2,4
+01:23,[LVA 91-70] Gray 3pt Shot: Made (19 PTS) Assist: Bell (1 AST),-154,223,1,,203833,1631006,1611661319,91,70,3,4
+01:13,[LVA] George Violation:Kicked Ball,0,-80,7,,204297,,1611661319,91,70,0,4
+01:13,[MIN] Shepard Substitution replaced by Miller,0,-80,8,,1629491,1641649,1611661324,91,70,0,4
+01:13,[MIN] Collier Substitution replaced by Juhász,0,-80,8,,1629483,1641657,1611661324,91,70,0,4
+01:13,[MIN] Mitchell Substitution replaced by Carleton,0,-80,8,,1627676,1629524,1611661324,91,70,0,4
+01:05,[LVA] Bell Foul: Personal (2 PF),81,6,6,1631263,1631006,1628169,1611661319,91,70,0,4
+00:58.1,[MIN] Carleton 3pt Shot: Missed,-196,169,2,,1629524,,1611661324,91,70,0,4
+00:55.8,[LVA] George Rebound (Off:0 Def:1),-196,169,4,,204297,,1611661319,91,70,0,4
+00:48.6,[LVA 94-70] George 3pt Shot: Made (3 PTS) Assist: Gray (10 AST),-93,235,1,,204297,203833,1611661319,94,70,3,4
+00:48.0,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,94,70,0,4
+00:36.8,[LVA] George Foul: Shooting (1 PF) (2 FTA),1,44,6,1641649,204297,100274,1611661319,94,70,0,4
+00:36.8,[MIN] Miller Free Throw 1 of 2 Missed,0,-80,3,,1641649,,1611661324,94,70,0,4
+00:36.8,[MIN] Team Rebound,0,-80,4,,0,,1611661324,94,70,0,4
+00:36.8,[MIN 71-94] Miller Free Throw 2 of 2 (12 PTS),0,-80,3,,1641649,,1611661324,94,71,1,4
+00:17.2,[LVA] George Reverse Layup Shot: Missed,47,19,2,,204297,,1611661319,94,71,0,4
+00:15.5,[MIN] Carleton Rebound (Off:0 Def:3),47,19,4,,1629524,,1611661324,94,71,0,4
+00:07.6,[LVA] Colson Foul: Personal (1 PF) (2 FTA),74,117,6,1641649,202641,1628169,1611661319,94,71,0,4
+00:07.6,[MIN 72-94] Miller Free Throw 1 of 2 (13 PTS),0,-80,3,,1641649,,1611661324,94,72,1,4
+00:07.6,[MIN 73-94] Miller Free Throw 2 of 2 (14 PTS),0,-80,3,,1641649,,1611661324,94,73,1,4
+00:00.0,End Period,0,-80,13,,0,,0,94,73,0,4

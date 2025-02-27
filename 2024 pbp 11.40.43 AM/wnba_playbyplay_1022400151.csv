@@ -1,0 +1,395 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Stevens vs Jones (Nurse gains possession),0,-80,10,1627673,1628922,1628915,1611661320,0,0,0,1
+09:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:35,[LAS] Jackson Fadeaway Jump Shot: Missed,-118,3,2,,1642288,,1611661320,0,0,0,1
+09:35,[NYL] Fiebich Rebound (Off:0 Def:1),-118,3,4,,1630142,,1611661313,0,0,0,1
+09:09,[NYL 2-0] Jones Turnaround Fadeaway shot: Made (2 PTS) Assist: Fiebich (1 AST),-102,19,1,,1627673,1630142,1611661313,0,2,2,1
+08:44,[LAS] Hamby Driving Floating Bank Jump Shot: Missed,46,26,2,,204324,,1611661320,0,2,0,1
+08:39,[NYL] Jones Rebound (Off:0 Def:1),46,26,4,,1627673,,1611661313,0,2,0,1
+08:30,[NYL 5-0] Jones 3pt Shot: Made (5 PTS) Assist: Stewart (1 AST),90,222,1,,1627673,1627668,1611661313,0,5,3,1
+08:10,[LAS] Jackson Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),78,169,5,1627673,1642288,,1611661320,0,5,0,1
+07:59,[NYL] Stewart Floating Jump shot: Missed,84,104,2,,1627668,,1611661313,0,5,0,1
+07:55,[LAS] Hamby Rebound (Off:0 Def:1),84,104,4,,204324,,1611661320,0,5,0,1
+07:49,[LAS] Hamby Turnover : Bad Pass (1 TO) Steal:Fiebich (1 ST),-2,22,5,1630142,204324,,1611661320,0,5,0,1
+07:43,[NYL] Stewart Running Jump Shot: Missed,-63,51,2,,1627668,,1611661313,0,5,0,1
+07:40,[NYL] Stewart Rebound (Off:1 Def:0),-63,51,4,,1627668,,1611661313,0,5,0,1
+07:38,[NYL 8-0] Vandersloot 3pt Shot: Made (3 PTS) Assist: Stewart (2 AST),-129,226,1,,202664,1627668,1611661313,0,8,3,1
+07:19,[LAS] Stevens Driving Layup Shot: Missed,-23,8,2,,1628922,,1611661320,0,8,0,1
+07:17,[NYL] Jones Rebound (Off:0 Def:2),-23,8,4,,1627673,,1611661313,0,8,0,1
+07:13,[NYL 10-0] Stewart Running Layup Shot: Made (2 PTS) Assist: Vandersloot (1 AST),19,3,1,,1627668,202664,1611661313,0,10,2,1
+07:13,Timeout : Regular,0,-80,9,,1611661320,,1611661320,0,10,0,1
+07:13,[LAS] Clarendon Substitution replaced by Dangerfield,0,-80,8,,203406,1630101,1611661320,0,10,0,1
+07:13,[LAS] Stevens Substitution replaced by Yueru,0,-80,8,,1628922,1629574,1611661320,0,10,0,1
+06:59,[NYL] Jones Foul: Shooting (1 PF) (2 FTA),48,60,6,1629574,1627673,203891,1611661313,0,10,0,1
+06:59,[LAS] Yueru Free Throw 1 of 2 Missed,0,-80,3,,1629574,,1611661320,0,10,0,1
+06:59,[LAS] Team Rebound,0,-80,4,,0,,1611661320,0,10,0,1
+06:59,[LAS 1-10] Yueru Free Throw 2 of 2 (1 PTS),0,-80,3,,1629574,,1611661320,1,10,1,1
+06:49,[NYL] Ionescu 3pt Shot: Missed,21,246,2,,1629477,,1611661313,1,10,0,1
+06:44,[LAS] Hamby Rebound (Off:0 Def:2),21,246,4,,204324,,1611661320,1,10,0,1
+06:37,[LAS 3-10] Dangerfield Pullup Jump shot: Made (2 PTS),135,135,1,,1630101,,1611661320,3,10,2,1
+06:23,[NYL] Fiebich Pullup Jump shot: Missed,-124,161,2,,1630142,,1611661313,3,10,0,1
+06:15,[LAS] Team Rebound,-124,161,4,,0,,1611661320,3,10,0,1
+06:15,Jump Ball Dangerfield vs Vandersloot (Yueru gains possession),0,-80,10,202664,1630101,1629574,1611661320,3,10,0,1
+06:09,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,3,10,0,1
+06:00,[LAS] Nurse Turnover : Lost Ball (1 TO) Steal:Ionescu (1 ST),142,213,5,1629477,1628915,,1611661320,3,10,0,1
+05:56,[NYL 12-3] Fiebich Running Layup Shot: Made (2 PTS) Assist: Jones (1 AST),4,12,1,,1630142,1627673,1611661313,3,12,2,1
+05:45,[LAS] Hamby Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-93,255,5,,204324,203891,1611661320,3,12,0,1
+05:26,[LAS] Hamby Foul: Shooting (1 PF) (2 FTA),-51,33,6,1627668,204324,203891,1611661320,3,12,0,1
+05:26,[NYL] Stewart Free Throw 1 of 2 Missed,0,-80,3,,1627668,,1611661313,3,12,0,1
+05:26,[NYL] Team Rebound,0,-80,4,,0,,1611661313,3,12,0,1
+05:26,[LAS] Nurse Substitution replaced by Burrell,0,-80,8,,1628915,1630996,1611661320,3,12,0,1
+05:26,[NYL 13-3] Stewart Free Throw 2 of 2 (3 PTS),0,-80,3,,1627668,,1611661313,3,13,1,1
+05:14,[LAS] Yueru 3pt Shot: Missed,-235,-17,2,,1629574,,1611661320,3,13,0,1
+05:09,[NYL] Vandersloot Rebound (Off:0 Def:1),-235,-17,4,,202664,,1611661313,3,13,0,1
+04:53,[NYL 15-3] Ionescu Driving Bank Hook Shot: Made (2 PTS),-23,55,1,,1629477,,1611661313,3,15,2,1
+04:53,[LAS] Yueru Foul: Shooting (1 PF) (1 FTA),-37,45,6,1629477,1629574,202297,1611661320,3,15,0,1
+04:53,[NYL] Fiebich Substitution replaced by Thornton,0,-80,8,,1630142,203866,1611661313,3,15,0,1
+04:53,[NYL] Ionescu Free Throw 1 of 1 Missed,0,-80,3,,1629477,,1611661313,3,15,0,1
+04:50,[LAS] Hamby Rebound (Off:0 Def:3),0,-80,4,,204324,,1611661320,3,15,0,1
+04:38,[LAS] Dangerfield Pullup Jump shot: Missed,107,130,2,,1630101,,1611661320,3,15,0,1
+04:34,[NYL] Jones Rebound (Off:0 Def:3),107,130,4,,1627673,,1611661313,3,15,0,1
+04:23,[NYL 17-3] Stewart Turnaround Bank shot: Made (5 PTS) Assist: Vandersloot (2 AST),24,17,1,,1627668,202664,1611661313,3,17,2,1
+04:04,[LAS] Burrell Jump Shot: Missed,143,20,2,,1630996,,1611661320,3,17,0,1
+04:02,[LAS] Yueru Rebound (Off:1 Def:0),143,20,4,,1629574,,1611661320,3,17,0,1
+04:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,3,17,0,1
+04:02,[LAS] Hamby Substitution replaced by Stevens,0,-80,8,,204324,1628922,1611661320,3,17,0,1
+04:02,[NYL] Ionescu Substitution replaced by Dojkić,0,-80,8,,1629477,1641602,1611661313,3,17,0,1
+04:02,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,3,17,0,1
+03:56,[NYL] Dojkić Foul: Shooting (1 PF) (2 FTA),18,15,6,1630996,1641602,203891,1611661313,3,17,0,1
+03:56,[LAS 4-17] Burrell Free Throw 1 of 2 (1 PTS),0,-80,3,,1630996,,1611661320,4,17,1,1
+03:56,[LAS 5-17] Burrell Free Throw 2 of 2 (2 PTS),0,-80,3,,1630996,,1611661320,5,17,1,1
+03:47,[NYL 19-5] Stewart Cutting Layup Shot: Made (7 PTS) Assist: Vandersloot (3 AST),16,16,1,,1627668,202664,1611661313,5,19,2,1
+03:28,[LAS 7-19] Stevens Pullup Jump shot: Made (2 PTS) Assist: Burrell (1 AST),-39,92,1,,1628922,1630996,1611661320,7,19,2,1
+03:13,[NYL 22-7] Vandersloot 3pt Shot: Made (6 PTS) Assist: Dojkić (1 AST),69,233,1,,202664,1641602,1611661313,7,22,3,1
+02:58,[LAS] Stevens Turnover : Out of Bounds - Bad Pass Turnover (1 TO),39,239,5,,1628922,1628168,1611661320,7,22,0,1
+02:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,22,0,1
+02:42,[NYL] Stewart Substitution replaced by Burke,0,-80,8,,1627668,1629568,1611661313,7,22,0,1
+02:37,[NYL] Sabally Foul: Offensive (1 PF),-128,144,6,1630101,1631055,1628168,1611661313,7,22,0,1
+02:37,[NYL] Sabally Turnover : Offensive Foul Turnover (1 TO),-128,144,5,,1631055,1628168,1611661313,7,22,0,1
+02:25,[LAS] Dangerfield Driving Layup Shot: Missed,20,13,2,,1630101,,1611661320,7,22,0,1
+02:19,[NYL] Sabally Rebound (Off:0 Def:1),20,13,4,,1631055,,1611661313,7,22,0,1
+02:17,[NYL] Burke 3pt Shot: Missed,224,-8,2,,1629568,,1611661313,7,22,0,1
+02:13,[NYL] Vandersloot Rebound (Off:1 Def:1),224,-8,4,,202664,,1611661313,7,22,0,1
+02:03,[NYL] Dojkić Turnover : Bad Pass (1 TO) Steal:Stevens (1 ST),75,64,5,1628922,1641602,,1611661313,7,22,0,1
+01:55,[LAS 9-22] Jackson Cutting Layup Shot: Made (2 PTS) Assist: Burrell (2 AST),18,15,1,,1642288,1630996,1611661320,9,22,2,1
+01:40,[LAS] Burrell Foul: Personal (1 PF),46,235,6,1631055,1630996,1628168,1611661320,9,22,0,1
+01:40,[NYL] Vandersloot Substitution replaced by Ionescu,0,-80,8,,202664,1629477,1611661313,9,22,0,1
+01:30,[NYL 24-9] Thornton Step Back Jump shot: Made (2 PTS) Assist: Ionescu (1 AST),-60,201,1,,203866,1629477,1611661313,9,24,2,1
+01:12,[LAS] Jackson Driving Layup Shot: Missed Block: Burke (1 BLK),5,24,2,1629568,1642288,,1611661320,9,24,0,1
+01:12,[NYL] Burke Rebound (Off:0 Def:1),5,24,4,,1629568,,1611661313,9,24,0,1
+01:01,[NYL 26-9] Ionescu Driving Floating Jump Shot: Made (4 PTS),-99,62,1,,1629477,,1611661313,9,26,2,1
+00:50.3,[LAS] Stevens 3pt Shot: Missed,120,223,2,,1628922,,1611661320,9,26,0,1
+00:47.1,[NYL] Team Rebound,120,223,4,,0,,1611661313,9,26,0,1
+00:47.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,26,0,1
+00:31.0,[NYL] Ionescu 3pt Shot: Missed,-87,254,2,,1629477,,1611661313,9,26,0,1
+00:27.3,[LAS] Stevens Rebound (Off:0 Def:1),-87,254,4,,1628922,,1611661320,9,26,0,1
+00:16.6,[NYL] Sabally Foul: Shooting (2 PF) (2 FTA),29,11,6,1630996,1631055,1628168,1611661313,9,26,0,1
+00:16.6,[LAS] Burrell Free Throw 1 of 2 Missed,0,-80,3,,1630996,,1611661320,9,26,0,1
+00:16.6,[LAS] Team Rebound,0,-80,4,,0,,1611661320,9,26,0,1
+00:16.6,[LAS] Jackson Substitution replaced by Cooke,0,-80,8,,1642288,1641660,1611661320,9,26,0,1
+00:16.6,[NYL] Sabally Substitution replaced by Jones,0,-80,8,,1631055,1627673,1611661313,9,26,0,1
+00:16.6,[LAS 10-26] Burrell Free Throw 2 of 2 (3 PTS),0,-80,3,,1630996,,1611661320,10,26,1,1
+00:01.1,[NYL 29-10] Thornton 3pt Shot: Made (5 PTS) Assist: Ionescu (2 AST),-230,-5,1,,203866,1629477,1611661313,10,29,3,1
+00:00.0,InstantReplay Request Stands,0,-80,18,,0,,0,10,29,0,1
+00:00.0,End Period,0,-80,13,,0,,0,10,29,0,1
+10:00,Start Period,0,-80,12,,0,,0,10,29,0,2
+09:46,[NYL] Jones 3pt Shot: Missed,-156,203,2,,1627673,,1611661313,10,29,0,2
+09:43,[NYL] Burke Rebound (Off:1 Def:1),-156,203,4,,1629568,,1611661313,10,29,0,2
+09:41,[NYL 32-10] Ionescu 3pt Shot: Made (7 PTS) Assist: Burke (1 AST),-105,254,1,,1629477,1629568,1611661313,10,32,3,2
+09:22,[LAS] Burrell Turnover : Bad Pass (1 TO) Steal:Burke (1 ST),92,205,5,1629568,1630996,,1611661320,10,32,0,2
+09:19,[LAS] Burrell Foul: Shooting (2 PF) (2 FTA),5,6,6,1629477,1630996,1628168,1611661320,10,32,0,2
+09:19,[NYL 33-10] Ionescu Free Throw 1 of 2 (8 PTS),0,-80,3,,1629477,,1611661313,10,33,1,2
+09:19,[NYL 34-10] Ionescu Free Throw 2 of 2 (9 PTS),0,-80,3,,1629477,,1611661313,10,34,1,2
+09:05,[NYL] Ionescu Foul: Personal (1 PF),-85,334,6,1641660,1629477,202297,1611661313,10,34,0,2
+08:57,[LAS] Cooke 3pt Shot: Missed,113,220,2,,1641660,,1611661320,10,34,0,2
+08:53,[NYL] Jones Rebound (Off:0 Def:4),113,220,4,,1627673,,1611661313,10,34,0,2
+08:45,[NYL 36-10] Jones Cutting Layup Shot: Made (7 PTS) Assist: Ionescu (3 AST),-16,12,1,,1627673,1629477,1611661313,10,36,2,2
+08:18,[LAS] Cooke Driving Layup Shot: Missed,-24,13,2,,1641660,,1611661320,10,36,0,2
+08:15,[NYL] Ionescu Rebound (Off:0 Def:1),-24,13,4,,1629477,,1611661313,10,36,0,2
+08:01,[NYL 38-10] Burke Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Thornton (1 AST),-12,17,1,,1629568,203866,1611661313,10,38,2,2
+08:00,Timeout : Regular,0,-80,9,,1611661320,,1611661320,10,38,0,2
+08:00,[LAS] Cooke Substitution replaced by Clarendon,0,-80,8,,1641660,203406,1611661320,10,38,0,2
+08:00,[LAS] Burrell Substitution replaced by Nurse,0,-80,8,,1630996,1628915,1611661320,10,38,0,2
+08:00,[LAS] Dangerfield Substitution replaced by Jackson,0,-80,8,,1630101,1642288,1611661320,10,38,0,2
+07:48,[LAS 12-38] Nurse Driving Layup Shot: Made (2 PTS) Assist: Hamby (1 AST),29,-5,1,,1628915,204324,1611661320,12,38,2,2
+07:47,[LAS] Nurse Foul: Away From Play (1 PF) (1 FTA),-17,829,6,1629477,1628915,203891,1611661320,12,38,0,2
+07:47,[NYL 39-12] Ionescu Free Throw 1 of 1 (10 PTS),0,-80,3,,1629477,,1611661313,12,39,1,2
+07:27,[NYL] Thornton Layup Shot: Missed,-43,6,2,,203866,,1611661313,12,39,0,2
+07:23,[LAS] Stevens Rebound (Off:0 Def:2),-43,6,4,,1628922,,1611661320,12,39,0,2
+07:19,[LAS 14-39] Hamby Running Layup Shot: Made (2 PTS) Assist: Clarendon (1 AST),-8,13,1,,204324,203406,1611661320,14,39,2,2
+07:09,[NYL 41-14] Ionescu Cutting Layup Shot: Made (12 PTS) Assist: Burke (2 AST),5,17,1,,1629477,1629568,1611661313,14,41,2,2
+06:54,[LAS 16-41] Jackson Pullup Jump shot: Made (4 PTS) Assist: Hamby (2 AST),74,159,1,,1642288,204324,1611661320,16,41,2,2
+06:37,[NYL 44-16] Thornton 3pt Shot: Made (8 PTS) Assist: Jones (2 AST),228,38,1,,203866,1627673,1611661313,16,44,3,2
+06:24,[LAS] Hamby Driving Layup Shot: Missed Block: Burke (2 BLK),45,41,2,1629568,204324,,1611661320,16,44,0,2
+06:24,[NYL] Burke Rebound (Off:1 Def:2),45,41,4,,1629568,,1611661313,16,44,0,2
+06:06,[NYL] Jones Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),5,39,5,204324,1627673,,1611661313,16,44,0,2
+06:02,[LAS 18-44] Nurse Running Layup Shot: Made (4 PTS) Assist: Hamby (3 AST),-2,11,1,,1628915,204324,1611661320,18,44,2,2
+05:35,[NYL] Team Turnover : Shot Clock Turnover,94,101,5,,0,202297,1611661313,18,44,0,2
+05:35,[LAS] Jackson Substitution replaced by Burrell,0,-80,8,,1642288,1630996,1611661320,18,44,0,2
+05:35,[NYL] Burke Substitution replaced by Vandersloot,0,-80,8,,1629568,202664,1611661313,18,44,0,2
+05:35,[NYL] Thornton Substitution replaced by Sabally,0,-80,8,,203866,1631055,1611661313,18,44,0,2
+05:35,[NYL] Jones Substitution replaced by Stewart,0,-80,8,,1627673,1627668,1611661313,18,44,0,2
+05:15,[LAS 20-44] Hamby Driving Layup Shot: Made (4 PTS),21,19,1,,204324,,1611661320,20,44,2,2
+05:10,Timeout : Regular,0,-80,9,,1611661313,,1611661313,20,44,0,2
+05:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,44,0,2
+04:59,[NYL 46-20] Stewart Turnaround Fadeaway shot: Made (9 PTS) Assist: Ionescu (4 AST),71,59,1,,1627668,1629477,1611661313,20,46,2,2
+04:45,[LAS] Stevens 3pt Shot: Missed,46,245,2,,1628922,,1611661320,20,46,0,2
+04:41,[LAS] Hamby Rebound (Off:1 Def:3),46,245,4,,204324,,1611661320,20,46,0,2
+04:39,[LAS] Stevens Turnover : Out of Bounds - Bad Pass Turnover (2 TO),53,247,5,,1628922,203891,1611661320,20,46,0,2
+04:39,[NYL] Ionescu Substitution replaced by Dojkić,0,-80,8,,1629477,1641602,1611661313,20,46,0,2
+04:20,[NYL] Stewart Turnaround Jump Shot: Missed,-134,26,2,,1627668,,1611661313,20,46,0,2
+04:16,[NYL] Sabally Rebound (Off:1 Def:1),-134,26,4,,1631055,,1611661313,20,46,0,2
+04:10,[NYL] Dojkić Pullup Jump shot: Missed,111,39,2,,1641602,,1611661313,20,46,0,2
+04:09,[NYL] Team Rebound,111,39,4,,0,,1611661313,20,46,0,2
+04:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,46,0,2
+04:07,[NYL] Fiebich Jump Shot: Missed,112,18,2,,1630142,,1611661313,20,46,0,2
+04:02,[LAS] Clarendon Rebound (Off:0 Def:1),112,18,4,,203406,,1611661320,20,46,0,2
+03:57,[NYL] Sabally Foul: Personal (3 PF),63,10,6,203406,1631055,202297,1611661313,20,46,0,2
+03:57,[LAS] Stevens Substitution replaced by Yueru,0,-80,8,,1628922,1629574,1611661320,20,46,0,2
+03:57,[NYL] Sabally Substitution replaced by Jones,0,-80,8,,1631055,1627673,1611661313,20,46,0,2
+03:49,[NYL] Fiebich Foul: Shooting (1 PF) (2 FTA),-2,33,6,1630996,1630142,203891,1611661313,20,46,0,2
+03:49,Stoppage: Blood Rule,0,-80,20,,0,,0,20,46,0,2
+03:49,[LAS 21-46] Burrell Free Throw 1 of 2 (4 PTS),0,-80,3,,1630996,,1611661320,21,46,1,2
+03:49,[LAS 22-46] Burrell Free Throw 2 of 2 (5 PTS),0,-80,3,,1630996,,1611661320,22,46,1,2
+03:38,[NYL] Vandersloot Driving Layup Shot: Missed,36,15,2,,202664,,1611661313,22,46,0,2
+03:35,[LAS] Yueru Rebound (Off:1 Def:1),36,15,4,,1629574,,1611661320,22,46,0,2
+03:29,[LAS] Yueru Jump Shot: Missed,-27,205,2,,1629574,,1611661320,22,46,0,2
+03:28,[LAS] Hamby Rebound (Off:2 Def:3),-27,205,4,,204324,,1611661320,22,46,0,2
+03:28,[LAS 24-46] Hamby Putback Layup Shot: Made (6 PTS),17,3,1,,204324,,1611661320,24,46,2,2
+03:28,[NYL] Vandersloot Foul: Shooting (1 PF) (1 FTA),23,-3,6,204324,202664,202297,1611661313,24,46,0,2
+03:28,[LAS] Hamby Free Throw 1 of 1 Missed,0,-80,3,,204324,,1611661320,24,46,0,2
+03:26,[LAS] Team Rebound,0,-80,4,,0,,1611661320,24,46,0,2
+03:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,46,0,2
+03:21,[NYL] Vandersloot Foul: Shooting (2 PF) (2 FTA),-17,10,6,1630996,202664,203891,1611661313,24,46,0,2
+03:21,[LAS 25-46] Burrell Free Throw 1 of 2 (6 PTS),0,-80,3,,1630996,,1611661320,25,46,1,2
+03:21,[LAS 26-46] Burrell Free Throw 2 of 2 (7 PTS),0,-80,3,,1630996,,1611661320,26,46,1,2
+03:13,[NYL] Stewart Driving Floating Jump Shot: Missed,28,38,2,,1627668,,1611661313,26,46,0,2
+03:10,[LAS] Yueru Rebound (Off:1 Def:2),28,38,4,,1629574,,1611661320,26,46,0,2
+03:04,[LAS] Clarendon Turnover : Bad Pass (1 TO) Steal:Fiebich (2 ST),121,511,5,1630142,203406,,1611661320,26,46,0,2
+03:00,[NYL] Fiebich 3pt Shot: Missed,193,139,2,,1630142,,1611661313,26,46,0,2
+02:59,[LAS] Team Rebound,193,139,4,,0,,1611661320,26,46,0,2
+02:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,46,0,2
+02:59,[NYL] Vandersloot Substitution replaced by Thornton,0,-80,8,,202664,203866,1611661313,26,46,0,2
+02:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,46,0,2
+02:48,[LAS] Burrell Turnover : Bad Pass (2 TO) Steal:Dojkić (1 ST),226,386,5,1641602,1630996,,1611661320,26,46,0,2
+02:43,[NYL 48-26] Dojkić Running Layup Shot: Made (2 PTS),-3,16,1,,1641602,,1611661313,26,48,2,2
+02:32,[LAS 28-48] Hamby Cutting Layup Shot: Made (8 PTS) Assist: Burrell (3 AST),23,11,1,,204324,1630996,1611661320,28,48,2,2
+02:13,[NYL] Jones Turnover : Lost Ball (2 TO) Steal:Yueru (1 ST),106,217,5,1629574,1627673,,1611661313,28,48,0,2
+02:10,[LAS] Burrell Turnover : Bad Pass (3 TO) Steal:Dojkić (2 ST),-49,267,5,1641602,1630996,,1611661320,28,48,0,2
+02:10,[LAS] Clarendon Foul: Transition Take (1 PF) (1 FTA),118,548,6,1641602,203406,1628168,1611661320,28,48,0,2
+02:10,[NYL 49-28] Stewart Free Throw 1 of 1 (10 PTS),0,-80,3,,1627668,,1611661313,28,49,1,2
+02:10,[LAS] Burrell Substitution replaced by Dangerfield,0,-80,8,,1630996,1630101,1611661320,28,49,0,2
+02:10,[LAS] Clarendon Substitution replaced by Jackson,0,-80,8,,203406,1642288,1611661320,28,49,0,2
+01:58,[NYL 51-28] Stewart Cutting Layup Shot: Made (12 PTS) Assist: Jones (3 AST),-21,21,1,,1627668,1627673,1611661313,28,51,2,2
+01:39,[LAS] Hamby Turnover : Bad Pass (3 TO) Steal:Thornton (1 ST),67,59,5,203866,204324,,1611661320,28,51,0,2
+01:33,[NYL 53-28] Dojkić Running Pull-Up Jump Shot: Made (4 PTS) Assist: Jones (4 AST),-163,126,1,,1641602,1627673,1611661313,28,53,2,2
+01:12,[LAS] Jackson Turnover : Bad Pass (2 TO) Steal:Jones (2 ST),-75,194,5,1627673,1642288,,1611661320,28,53,0,2
+01:07,[NYL] Thornton 3pt Shot: Missed,-233,44,2,,203866,,1611661313,28,53,0,2
+01:05,[NYL] Fiebich Rebound (Off:1 Def:1),-233,44,4,,1630142,,1611661313,28,53,0,2
+01:02,[NYL 55-28] Fiebich Putback Layup Shot: Made (4 PTS),2,17,1,,1630142,,1611661313,28,55,2,2
+00:56.6,[LAS] Nurse Foul: Offensive (2 PF),105,255,6,203866,1628915,202297,1611661320,28,55,0,2
+00:56.6,[LAS] Nurse Turnover : Offensive Foul Turnover (2 TO),105,255,5,,1628915,202297,1611661320,28,55,0,2
+00:56.6,[NYL] Dojkić Substitution replaced by Ionescu,0,-80,8,,1641602,1629477,1611661313,28,55,0,2
+00:51.8,[NYL] Ionescu Turnover : Out of Bounds Lost Ball Turnover (1 TO),-213,329,5,,1629477,203891,1611661313,28,55,0,2
+00:32.7,[LAS] Jackson Driving Layup Shot: Missed,20,14,2,,1642288,,1611661320,28,55,0,2
+00:31.9,[LAS] Team Rebound,20,14,4,,0,,1611661320,28,55,0,2
+00:31.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,55,0,2
+00:30.5,[LAS] Nurse 3pt Shot: Missed,-207,99,2,,1628915,,1611661320,28,55,0,2
+00:26.0,[NYL] Stewart Rebound (Off:1 Def:1),-207,99,4,,1627668,,1611661313,28,55,0,2
+00:10.9,[LAS] Hamby Foul: Shooting (2 PF) (2 FTA),-85,51,6,1627668,204324,202297,1611661320,28,55,0,2
+00:10.9,[NYL 56-28] Stewart Free Throw 1 of 2 (13 PTS),0,-80,3,,1627668,,1611661313,28,56,1,2
+00:10.9,[NYL 57-28] Stewart Free Throw 2 of 2 (14 PTS),0,-80,3,,1627668,,1611661313,28,57,1,2
+00:01.0,[LAS] Hamby Driving Layup Shot: Missed,46,8,2,,204324,,1611661320,28,57,0,2
+00:01.0,[NYL] Fiebich Rebound (Off:1 Def:2),46,8,4,,1630142,,1611661313,28,57,0,2
+00:00.0,End Period,0,-80,13,,0,,0,28,57,0,2
+10:00,Start Period,0,-80,12,,0,,0,28,57,0,3
+09:46,[NYL 59-28] Jones Cutting Layup Shot: Made (9 PTS) Assist: Vandersloot (4 AST),-16,8,1,,1627673,202664,1611661313,28,59,2,3
+09:33,[LAS] Jackson Turnover : Step Out of Bounds Turnover (3 TO),-234,172,5,,1642288,203891,1611661320,28,59,0,3
+09:20,[NYL] Jones 3pt Shot: Missed,81,223,2,,1627673,,1611661313,28,59,0,3
+09:14,[LAS] Clarendon Rebound (Off:0 Def:2),81,223,4,,203406,,1611661320,28,59,0,3
+09:10,[LAS] Hamby Running Layup Shot: Missed Block: Jones (1 BLK),-17,13,2,1627673,204324,,1611661320,28,59,0,3
+09:07,[LAS] Hamby Rebound (Off:3 Def:3),-17,13,4,,204324,,1611661320,28,59,0,3
+09:05,[LAS] Clarendon Cutting Layup Shot: Missed,-22,6,2,,203406,,1611661320,28,59,0,3
+09:03,[NYL] Vandersloot Rebound (Off:1 Def:2),-22,6,4,,202664,,1611661313,28,59,0,3
+09:01,[NYL] Stewart 3pt Shot: Missed,157,185,2,,1627668,,1611661313,28,59,0,3
+08:57,[LAS] Clarendon Rebound (Off:0 Def:3),157,185,4,,203406,,1611661320,28,59,0,3
+08:51,[NYL] Stewart Foul: Shooting (1 PF) (2 FTA),17,-1,6,1628915,1627668,1628168,1611661313,28,59,0,3
+08:51,[LAS 29-59] Nurse Free Throw 1 of 2 (5 PTS),0,-80,3,,1628915,,1611661320,29,59,1,3
+08:51,[LAS 30-59] Nurse Free Throw 2 of 2 (6 PTS),0,-80,3,,1628915,,1611661320,30,59,1,3
+08:40,[NYL 61-30] Vandersloot Driving Layup Shot: Made (8 PTS),7,9,1,,202664,,1611661313,30,61,2,3
+08:27,[LAS 33-61] Stevens 3pt Shot: Made (5 PTS) Assist: Nurse (1 AST),91,228,1,,1628922,1628915,1611661320,33,61,3,3
+08:13,[NYL 64-33] Ionescu 3pt Shot: Made (15 PTS) Assist: Vandersloot (5 AST),-229,-24,1,,1629477,202664,1611661313,33,64,3,3
+08:02,[LAS 35-64] Jackson Reverse Layup Shot: Made (6 PTS) Assist: Stevens (1 AST),11,15,1,,1642288,1628922,1611661320,35,64,2,3
+07:44,[NYL] Jones Turnover : 3 Second Violation (3 TO),-4,43,5,,1627673,1628168,1611661313,35,64,0,3
+07:31,[LAS] Nurse Turnover : Bad Pass (3 TO) Steal:Fiebich (3 ST),-205,87,5,1630142,1628915,,1611661320,35,64,0,3
+07:24,[NYL] Ionescu Running Layup Shot: Missed Block: Stevens (1 BLK),-12,17,2,1628922,1629477,,1611661313,35,64,0,3
+07:24,[NYL] Team Rebound,-12,17,4,,0,,1611661313,35,64,0,3
+07:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,64,0,3
+07:24,[LAS] Clarendon Substitution replaced by Dangerfield,0,-80,8,,203406,1630101,1611661320,35,64,0,3
+07:14,[NYL] Vandersloot Cutting Layup Shot: Missed Block: Stevens (2 BLK),20,14,2,1628922,202664,,1611661313,35,64,0,3
+07:09,[LAS] Hamby Rebound (Off:3 Def:4),20,14,4,,204324,,1611661320,35,64,0,3
+07:09,[NYL] Vandersloot Foul: Personal (3 PF),19,42,6,1628915,202664,203891,1611661313,35,64,0,3
+07:06,[NYL] Ionescu Foul: Personal (2 PF),-160,104,6,1628915,1629477,202297,1611661313,35,64,0,3
+07:01,[LAS] Hamby 3pt Shot: Missed,166,195,2,,204324,,1611661320,35,64,0,3
+07:00,[NYL] Team Rebound,166,195,4,,0,,1611661313,35,64,0,3
+07:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,64,0,3
+06:48,[NYL] Ionescu Cutting Layup Shot: Missed Block: Stevens (3 BLK),23,8,2,1628922,1629477,,1611661313,35,64,0,3
+06:44,[NYL] Ionescu Rebound (Off:1 Def:1),23,8,4,,1629477,,1611661313,35,64,0,3
+06:42,[NYL 66-35] Stewart Driving Layup Shot: Made (16 PTS) Assist: Ionescu (5 AST),11,4,1,,1627668,1629477,1611661313,35,66,2,3
+06:30,[LAS 38-66] Jackson 3pt Shot: Made (9 PTS) Assist: Hamby (4 AST),100,223,1,,1642288,204324,1611661320,38,66,3,3
+06:11,[NYL] Ionescu Driving Floating Jump Shot: Missed,54,89,2,,1629477,,1611661313,38,66,0,3
+06:08,[LAS] Stevens Rebound (Off:0 Def:3),54,89,4,,1628922,,1611661320,38,66,0,3
+06:04,[LAS] Stevens Running Pull-Up Jump Shot: Missed,40,153,2,,1628922,,1611661320,38,66,0,3
+06:00,[NYL] Stewart Rebound (Off:1 Def:2),40,153,4,,1627668,,1611661313,38,66,0,3
+05:54,[NYL] Fiebich 3pt Shot: Missed,-235,-29,2,,1630142,,1611661313,38,66,0,3
+05:53,[LAS] Team Rebound,-235,-29,4,,0,,1611661320,38,66,0,3
+05:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,66,0,3
+05:34,[LAS] Jackson Turnover : Lost Ball (4 TO) Steal:Fiebich (4 ST),-117,243,5,1630142,1642288,,1611661320,38,66,0,3
+05:22,[NYL] Ionescu 3pt Shot: Missed,-223,-7,2,,1629477,,1611661313,38,66,0,3
+05:14,[NYL] Fiebich Rebound (Off:2 Def:2),-223,-7,4,,1630142,,1611661313,38,66,0,3
+05:14,[NYL] Fiebich Turnover : Bad Pass (1 TO) Steal:Nurse (1 ST),3,75,5,1628915,1630142,,1611661313,38,66,0,3
+05:05,[LAS] Dangerfield Pullup Jump shot: Missed,112,105,2,,1630101,,1611661320,38,66,0,3
+05:00,[NYL] Ionescu Rebound (Off:1 Def:2),112,105,4,,1629477,,1611661313,38,66,0,3
+04:55,[NYL 68-38] Stewart Driving Layup Shot: Made (18 PTS) Assist: Ionescu (6 AST),23,1,1,,1627668,1629477,1611661313,38,68,2,3
+04:41,[LAS] Stevens 3pt Shot: Missed,-44,252,2,,1628922,,1611661320,38,68,0,3
+04:36,[NYL] Ionescu Rebound (Off:1 Def:3),-44,252,4,,1629477,,1611661313,38,68,0,3
+04:30,[NYL] Jones 3pt Shot: Missed,120,216,2,,1627673,,1611661313,38,68,0,3
+04:27,[LAS] Stevens Rebound (Off:0 Def:4),120,216,4,,1628922,,1611661320,38,68,0,3
+04:21,[LAS] Dangerfield Driving Layup Shot: Missed,-34,21,2,,1630101,,1611661320,38,68,0,3
+04:18,[NYL] Jones Rebound (Off:0 Def:5),-34,21,4,,1627673,,1611661313,38,68,0,3
+04:13,[NYL] Ionescu 3pt Shot: Missed,163,189,2,,1629477,,1611661313,38,68,0,3
+04:10,[LAS] Hamby Rebound (Off:3 Def:5),163,189,4,,204324,,1611661320,38,68,0,3
+04:03,[LAS 40-68] Nurse Step Back Jump shot: Made (8 PTS),-13,129,1,,1628915,,1611661320,40,68,2,3
+04:00,Timeout : Regular,0,-80,9,,1611661313,,1611661313,40,68,0,3
+04:00,[LAS] Jackson Substitution replaced by Cooke,0,-80,8,,1642288,1641660,1611661320,40,68,0,3
+04:00,[LAS] Hamby Substitution replaced by Yueru,0,-80,8,,204324,1629574,1611661320,40,68,0,3
+04:00,[LAS] Nurse Substitution replaced by Burrell,0,-80,8,,1628915,1630996,1611661320,40,68,0,3
+04:00,[NYL] Fiebich Substitution replaced by Sabally,0,-80,8,,1630142,1631055,1611661313,40,68,0,3
+04:00,[NYL] Ionescu Substitution replaced by Thornton,0,-80,8,,1629477,203866,1611661313,40,68,0,3
+04:00,[NYL] Jones Substitution replaced by Dojkić,0,-80,8,,1627673,1641602,1611661313,40,68,0,3
+03:49,[NYL 71-40] Stewart 3pt Shot: Made (21 PTS) Assist: Sabally (1 AST),148,196,1,,1627668,1631055,1611661313,40,71,3,3
+03:32,[LAS] Dangerfield Driving Layup Shot: Missed,23,12,2,,1630101,,1611661320,40,71,0,3
+03:30,[LAS] Burrell Rebound (Off:1 Def:0),23,12,4,,1630996,,1611661320,40,71,0,3
+03:27,[LAS] Burrell Jump Shot: Missed,-67,53,2,,1630996,,1611661320,40,71,0,3
+03:26,[NYL] Stewart Rebound (Off:1 Def:3),-67,53,4,,1627668,,1611661313,40,71,0,3
+03:21,[NYL 74-40] Stewart 3pt Shot: Made (24 PTS),98,224,1,,1627668,,1611661313,40,74,3,3
+03:04,[LAS] Yueru Driving Hook Shot: Missed,-43,-5,2,,1629574,,1611661320,40,74,0,3
+03:00,[NYL] Vandersloot Rebound (Off:1 Def:3),-43,-5,4,,202664,,1611661313,40,74,0,3
+02:56,[NYL 77-40] Stewart 3pt Shot: Made (27 PTS) Assist: Sabally (2 AST),-94,231,1,,1627668,1631055,1611661313,40,77,3,3
+02:56,Timeout : Regular,0,-80,9,,1611661320,,1611661320,40,77,0,3
+02:35,[LAS] Dangerfield Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-4,133,5,,1630101,202297,1611661320,40,77,0,3
+02:35,[NYL] Stewart Substitution replaced by Burke,0,-80,8,,1627668,1629568,1611661313,40,77,0,3
+02:18,[NYL 80-40] Thornton 3pt Shot: Made (11 PTS) Assist: Burke (3 AST),230,25,1,,203866,1629568,1611661313,40,80,3,3
+02:00,[LAS 43-80] Burrell 3pt Shot: Made (10 PTS) Assist: Dangerfield (1 AST),173,164,1,,1630996,1630101,1611661320,43,80,3,3
+01:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,80,0,3
+01:41,[LAS] Burrell Foul: Shooting (3 PF) (2 FTA),-22,32,6,203866,1630996,202297,1611661320,43,80,0,3
+01:41,[NYL 81-43] Thornton Free Throw 1 of 2 (12 PTS),0,-80,3,,203866,,1611661313,43,81,1,3
+01:41,[NYL 82-43] Thornton Free Throw 2 of 2 (13 PTS),0,-80,3,,203866,,1611661313,43,82,1,3
+01:27,[LAS] Cooke 3pt Shot: Missed,-161,198,2,,1641660,,1611661320,43,82,0,3
+01:21,[NYL] Thornton Rebound (Off:0 Def:1),-161,198,4,,203866,,1611661313,43,82,0,3
+01:15,[NYL] Thornton 3pt Shot: Missed,4,251,2,,203866,,1611661313,43,82,0,3
+01:12,[LAS] Burrell Rebound (Off:1 Def:1),4,251,4,,1630996,,1611661320,43,82,0,3
+01:06,[NYL] Sabally Foul: Shooting (4 PF) (2 FTA),-3,21,6,1630996,1631055,202297,1611661313,43,82,0,3
+01:06,[LAS 44-82] Burrell Free Throw 1 of 2 (11 PTS),0,-80,3,,1630996,,1611661320,44,82,1,3
+01:06,[LAS] Stevens Substitution replaced by Hamby,0,-80,8,,1628922,204324,1611661320,44,82,0,3
+01:06,[NYL] Vandersloot Substitution replaced by Davis,0,-80,8,,202664,1642301,1611661313,44,82,0,3
+01:06,[LAS 45-82] Burrell Free Throw 2 of 2 (12 PTS),0,-80,3,,1630996,,1611661320,45,82,1,3
+00:54.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,82,0,3
+00:49.4,[NYL] Thornton Turnover : Step Out of Bounds Turnover (1 TO),-235,75,5,,203866,1628168,1611661313,45,82,0,3
+00:33.5,[LAS] Burrell Pullup Jump shot: Missed Block: Davis (1 BLK),-61,94,2,1642301,1630996,,1611661320,45,82,0,3
+00:28.5,[NYL] Sabally Rebound (Off:1 Def:2),-61,94,4,,1631055,,1611661313,45,82,0,3
+00:10.1,[NYL] Thornton Step Back Jump shot: Missed,73,191,2,,203866,,1611661313,45,82,0,3
+00:07.2,[LAS] Hamby Rebound (Off:3 Def:6),68,231,4,,204324,,1611661320,45,82,0,3
+00:00.8,[NYL] Thornton Foul: Shooting (1 PF) (3 FTA),-179,160,6,1630996,203866,202297,1611661313,45,82,0,3
+00:00.8,InstantReplay Request Stands,0,-80,18,,0,,0,45,82,0,3
+00:00.8,[LAS 46-82] Burrell Free Throw 1 of 3 (13 PTS),0,-80,3,,1630996,,1611661320,46,82,1,3
+00:00.8,[LAS 47-82] Burrell Free Throw 2 of 3 (14 PTS),0,-80,3,,1630996,,1611661320,47,82,1,3
+00:00.8,[LAS 48-82] Burrell Free Throw 3 of 3 (15 PTS),0,-80,3,,1630996,,1611661320,48,82,1,3
+00:00.0,End Period,0,-80,13,,0,,0,48,82,0,3
+10:00,Start Period,0,-80,12,,0,,0,48,82,0,4
+09:44,[LAS] Yueru Hook Shot: Missed,-16,16,2,,1629574,,1611661320,48,82,0,4
+09:38,[NYL] Burke Rebound (Off:1 Def:3),-16,16,4,,1629568,,1611661313,48,82,0,4
+09:37,[NYL] Ionescu Turnover : Bad Pass (2 TO) Steal:Hamby (2 ST),-52,121,5,204324,1629477,,1611661313,48,82,0,4
+09:32,[LAS 51-82] Hamby 3pt Shot: Made (11 PTS) Assist: Cooke (1 AST),-12,248,1,,204324,1641660,1611661320,51,82,3,4
+09:10,[NYL 85-51] Ionescu 3pt Shot: Made (18 PTS),20,247,1,,1629477,,1611661313,51,85,3,4
+08:48,[LAS] Hamby Layup Shot: Missed,22,7,2,,204324,,1611661320,51,85,0,4
+08:43,[NYL] Sabally Rebound (Off:1 Def:3),22,7,4,,1631055,,1611661313,51,85,0,4
+08:36,[NYL] Burke 3pt Shot: Missed,-232,-12,2,,1629568,,1611661313,51,85,0,4
+08:30,[LAS] Dangerfield Rebound (Off:0 Def:1),-232,-12,4,,1630101,,1611661320,51,85,0,4
+08:27,[LAS 54-85] Dangerfield 3pt Shot: Made (5 PTS),-121,249,1,,1630101,,1611661320,54,85,3,4
+08:00,[NYL] Team Turnover : Shot Clock Turnover,140,193,5,,0,203891,1611661313,54,85,0,4
+08:00,[LAS] Yueru Substitution replaced by Jackson,0,-80,8,,1629574,1642288,1611661320,54,85,0,4
+07:41,[LAS] Jackson Driving Layup Shot: Missed,18,51,2,,1642288,,1611661320,54,85,0,4
+07:39,[NYL] Sabally Rebound (Off:1 Def:4),18,51,4,,1631055,,1611661313,54,85,0,4
+07:29,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-190,180,5,,1629477,202297,1611661313,54,85,0,4
+07:15,[LAS] Burrell Driving Floating Jump Shot: Missed Block: Thornton (1 BLK),24,54,2,203866,1630996,,1611661320,54,85,0,4
+07:15,[NYL] Team Rebound,24,54,4,,0,,1611661313,54,85,0,4
+07:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,85,0,4
+07:03,[NYL] Burke Turnover : Bad Pass (1 TO) Steal:Dangerfield (1 ST),46,252,5,1630101,1629568,,1611661313,54,85,0,4
+06:59,[LAS] Hamby Turnover : Out of Bounds Lost Ball Turnover (4 TO),-50,8,5,,204324,203891,1611661320,54,85,0,4
+06:59,[NYL] Ionescu Substitution replaced by Dojkić,0,-80,8,,1629477,1641602,1611661313,54,85,0,4
+06:33,[NYL] Davis Turnaround Jump Shot: Missed,-30,89,2,,1642301,,1611661313,54,85,0,4
+06:30,[LAS] Hamby Rebound (Off:3 Def:7),-30,89,4,,204324,,1611661320,54,85,0,4
+06:26,[LAS] Burrell 3pt Shot: Missed,-168,172,2,,1630996,,1611661320,54,85,0,4
+06:22,[NYL] Sabally Rebound (Off:1 Def:5),-168,172,4,,1631055,,1611661313,54,85,0,4
+06:22,[NYL] Sabally Turnover : Out of Bounds Lost Ball Turnover (2 TO),-163,644,5,,1631055,1628168,1611661313,54,85,0,4
+06:22,[LAS] Burrell Substitution replaced by Nurse,0,-80,8,,1630996,1628915,1611661320,54,85,0,4
+06:14,[LAS 56-85] Dangerfield Driving Floating Bank Jump Shot: Made (7 PTS),-4,10,1,,1630101,,1611661320,56,85,2,4
+06:06,[NYL] Dojkić Foul: Offensive (2 PF),187,119,6,1630101,1641602,202297,1611661313,56,85,0,4
+06:06,[NYL] Dojkić Turnover : Offensive Foul Turnover (2 TO),187,119,5,,1641602,202297,1611661313,56,85,0,4
+06:06,[NYL] Davis Substitution replaced by Sherrod,0,-80,8,,1642301,1642320,1611661313,56,85,0,4
+05:55,[LAS 58-85] Jackson Pullup Jump shot: Made (11 PTS) Assist: Dangerfield (2 AST),-100,185,1,,1642288,1630101,1611661320,58,85,2,4
+05:55,Timeout : Regular,0,-80,9,,1611661313,,1611661313,58,85,0,4
+05:43,[NYL 88-58] Thornton 3pt Shot: Made (16 PTS) Assist: Burke (4 AST),200,133,1,,203866,1629568,1611661313,58,88,3,4
+05:30,[LAS] Jackson 3pt Shot: Missed,-189,171,2,,1642288,,1611661320,58,88,0,4
+05:25,[NYL] Sabally Rebound (Off:1 Def:6),-189,171,4,,1631055,,1611661313,58,88,0,4
+05:19,[NYL] Sabally Driving Layup Shot: Missed,-15,3,2,,1631055,,1611661313,58,88,0,4
+05:14,[LAS] Hamby Rebound (Off:3 Def:8),-15,3,4,,204324,,1611661320,58,88,0,4
+05:09,[LAS 60-88] Hamby Driving Layup Shot: Made (13 PTS) Assist: Jackson (1 AST),5,13,1,,204324,1642288,1611661320,60,88,2,4
+04:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,88,0,4
+04:52,[NYL 91-60] Burke 3pt Shot: Made (5 PTS) Assist: Sabally (3 AST),99,248,1,,1629568,1631055,1611661313,60,91,3,4
+04:32,[LAS] Jackson Fadeaway Jump Shot: Missed,-89,31,2,,1642288,,1611661320,60,91,0,4
+04:29,[NYL] Sabally Rebound (Off:1 Def:7),-89,31,4,,1631055,,1611661313,60,91,0,4
+04:18,[NYL] Dojkić Pullup Jump shot: Missed,90,181,2,,1641602,,1611661313,60,91,0,4
+04:15,[LAS] Hamby Rebound (Off:3 Def:9),90,181,4,,204324,,1611661320,60,91,0,4
+04:10,[LAS 63-91] Cooke 3pt Shot: Made (3 PTS),121,220,1,,1641660,,1611661320,63,91,3,4
+03:56,[NYL 93-63] Sabally Cutting Layup Shot: Made (2 PTS) Assist: Dojkić (2 AST),15,36,1,,1631055,1641602,1611661313,63,93,2,4
+03:45,[NYL] Sabally Foul: Shooting (5 PF) (2 FTA),22,13,6,204324,1631055,203891,1611661313,63,93,0,4
+03:45,[LAS 64-93] Hamby Free Throw 1 of 2 (14 PTS),0,-80,3,,204324,,1611661320,64,93,1,4
+03:45,[LAS] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661320,64,93,0,4
+03:43,[LAS] Nurse Rebound (Off:1 Def:0),0,-80,4,,1628915,,1611661320,64,93,0,4
+03:28,[LAS] Hamby Turnover : Lost Ball (5 TO) Steal:Thornton (2 ST),-20,2,5,203866,204324,,1611661320,64,93,0,4
+03:18,[NYL] Burke Driving Layup Shot: Missed,-10,-10,2,,1629568,,1611661313,64,93,0,4
+03:09,[LAS] Hamby Rebound (Off:3 Def:10),-10,-10,4,,204324,,1611661320,64,93,0,4
+03:08,[LAS 66-93] Nurse Running Layup Shot: Made (10 PTS) Assist: Hamby (5 AST),12,13,1,,1628915,204324,1611661320,66,93,2,4
+02:53,[NYL 95-66] Sabally Driving Layup Shot: Made (4 PTS) Assist: Dojkić (3 AST),18,4,1,,1631055,1641602,1611661313,66,95,2,4
+02:52,Timeout : Regular,0,-80,9,,1611661320,,1611661320,66,95,0,4
+02:52,[LAS] Hamby Substitution replaced by Yueru,0,-80,8,,204324,1629574,1611661320,66,95,0,4
+02:34,[LAS] Cooke Turnover : Lost Ball (1 TO) Steal:Sherrod (1 ST),-12,115,5,1642320,1641660,,1611661320,66,95,0,4
+02:30,[LAS] Yueru Foul: Shooting (2 PF) (2 FTA),-24,-1,6,1629568,1629574,203891,1611661320,66,95,0,4
+02:30,[NYL] Burke Free Throw 1 of 2 Missed,0,-80,3,,1629568,,1611661313,66,95,0,4
+02:30,[NYL] Team Rebound,0,-80,4,,0,,1611661313,66,95,0,4
+02:30,[NYL] Thornton Substitution replaced by Davis,0,-80,8,,203866,1642301,1611661313,66,95,0,4
+02:30,[NYL 96-66] Burke Free Throw 2 of 2 (6 PTS),0,-80,3,,1629568,,1611661313,66,96,1,4
+02:07,[LAS] Jackson 3pt Shot: Missed,201,115,2,,1642288,,1611661320,66,96,0,4
+02:00,[NYL] Davis Rebound (Off:0 Def:1),201,115,4,,1642301,,1611661313,66,96,0,4
+01:54,[NYL] Burke Driving Finger Roll Layup Shot: Missed Block: Dangerfield (1 BLK),-23,37,2,1630101,1629568,,1611661313,66,96,0,4
+01:54,[NYL] Team Rebound,-23,37,4,,0,,1611661313,66,96,0,4
+01:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,96,0,4
+01:49,[NYL 99-66] Dojkić 3pt Shot: Made (7 PTS) Assist: Sherrod (1 AST),-132,207,1,,1641602,1642320,1611661313,66,99,3,4
+01:40,[LAS] Dangerfield 3pt Shot: Missed,-129,236,2,,1630101,,1611661320,66,99,0,4
+01:36,[LAS] Yueru Rebound (Off:2 Def:2),-129,236,4,,1629574,,1611661320,66,99,0,4
+01:35,[LAS] Yueru Layup Shot: Missed,4,8,2,,1629574,,1611661320,66,99,0,4
+01:28,[NYL] Sabally Rebound (Off:1 Def:8),4,8,4,,1631055,,1611661313,66,99,0,4
+01:25,[NYL 101-66] Davis Driving Layup Shot: Made (2 PTS),3,-3,1,,1642301,,1611661313,66,101,2,4
+01:24,[NYL] Davis Foul: Personal (1 PF),138,457,6,1628915,1642301,1628168,1611661313,66,101,0,4
+01:13,[LAS] Yueru Layup Shot: Missed,17,13,2,,1629574,,1611661320,66,101,0,4
+01:10,[NYL] Dojkić Rebound (Off:0 Def:1),17,13,4,,1641602,,1611661313,66,101,0,4
+01:05,[NYL 103-66] Sabally Cutting Layup Shot: Made (6 PTS) Assist: Sherrod (2 AST),21,14,1,,1631055,1642320,1611661313,66,103,2,4
+00:45.3,[LAS 68-103] Jackson Turnaround Jump Shot: Made (13 PTS) Assist: Cooke (2 AST),46,61,1,,1642288,1641660,1611661320,68,103,2,4
+00:28.9,[NYL] Sherrod 3pt Shot: Missed,176,150,2,,1642320,,1611661313,68,103,0,4
+00:26.7,[LAS] Cooke Rebound (Off:0 Def:1),176,150,4,,1641660,,1611661320,68,103,0,4
+00:18.2,[LAS] Cooke Pullup Jump shot: Missed,60,119,2,,1641660,,1611661320,68,103,0,4
+00:14.1,[NYL] Burke Rebound (Off:1 Def:4),60,119,4,,1629568,,1611661313,68,103,0,4
+00:00.0,End Period,0,-80,13,,0,,0,68,103,0,4

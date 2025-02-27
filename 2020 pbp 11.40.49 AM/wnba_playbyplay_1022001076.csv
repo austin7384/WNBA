@@ -1,0 +1,361 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball McCowan vs Dolson (Allemand gains possession),0,-80,10,203828,1629479,1627700,1611661325,0,0,1
+09:37,[IND] Mitchell Jump Shot: Missed,121,12,2,,1628909,,1611661325,0,0,1
+09:34,[CHI] Copper Rebound (Off:0 Def:1),121,12,4,,1627674,,1611661329,0,0,1
+09:12,[CHI] Quigley Layup Shot: Missed,-82,-18,2,,201516,,1611661329,0,0,1
+09:12,[CHI] Team Rebound,-82,-18,4,,0,,1611661329,0,0,1
+09:12,[CHI] Team Turnover : Shot Clock Turnover,-69,40,5,,0,,1611661329,0,0,1
+09:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,1
+09:01,[IND] McCowan Jump Shot: Missed,116,38,2,,1629479,,1611661325,0,0,1
+09:00,[CHI] Williams Rebound (Off:0 Def:1),116,38,4,,1628931,,1611661329,0,0,1
+08:54,[CHI 3-0] Dolson 3pt Shot: Made (3 PTS) Assist: Williams (1 AST),7,258,1,,203828,1628931,1611661329,3,0,1
+08:38,[IND] Burke Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),143,124,5,1628931,1629568,,1611661325,3,0,1
+08:22,[CHI] Vandersloot 3pt Shot: Missed,176,158,2,,202664,,1611661329,3,0,1
+08:20,[IND] Mitchell Rebound (Off:0 Def:1),176,158,4,,1628909,,1611661325,3,0,1
+08:14,[IND 3-3] Allemand 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),-160,185,1,,1627700,1628909,1611661325,3,3,1
+07:59,[CHI 5-3] Quigley Layup Shot: Made (2 PTS) Assist: Vandersloot (1 AST),13,14,1,,201516,202664,1611661329,5,3,1
+07:34,[IND] Dupree Jump Shot: Missed,-23,15,2,,200676,,1611661325,5,3,1
+07:32,[CHI] Williams Rebound (Off:0 Def:2),-23,15,4,,1628931,,1611661329,5,3,1
+07:29,[CHI 7-3] Copper Layup Shot: Made (2 PTS) Assist: Williams (2 AST),11,27,1,,1627674,1628931,1611661329,7,3,1
+07:08,[IND] Mitchell Layup Shot: Missed,-23,16,2,,1628909,,1611661325,7,3,1
+07:08,[CHI] Copper Rebound (Off:0 Def:2),-23,16,4,,1627674,,1611661329,7,3,1
+07:06,Jump Ball Burke vs Copper (Allemand gains possession),0,-80,10,1627674,1629568,1627700,1611661325,7,3,1
+07:06,[CHI] Copper Turnover : Lost Ball (1 TO) Steal:Burke (1 ST),0,-80,5,1629568,1627674,,1611661329,7,3,1
+07:00,[IND] Allemand Jump Shot: Missed,-86,174,2,,1627700,,1611661325,7,3,1
+06:58,[CHI] Vandersloot Rebound (Off:0 Def:1),-86,174,4,,202664,,1611661329,7,3,1
+06:51,[CHI] Copper Jump Shot: Missed,-88,186,2,,1627674,,1611661329,7,3,1
+06:50,[IND] Dupree Rebound (Off:0 Def:1),-88,186,4,,200676,,1611661325,7,3,1
+06:43,[IND] McCowan Turnover : Traveling (1 TO),42,64,5,,1629479,,1611661325,7,3,1
+06:30,[CHI 9-3] Quigley Jump Shot: Made (4 PTS),136,17,1,,201516,,1611661329,9,3,1
+06:18,[IND 5-9] McCowan Jump Shot: Made (2 PTS) Assist: Dupree (1 AST),35,21,1,,1629479,200676,1611661325,9,5,1
+06:12,[IND] Allemand Foul: Shooting (1 PF) (2 FTA),-31,26,6,202664,1627700,,1611661325,9,5,1
+06:12,[CHI 10-5] Vandersloot Free Throw 1 of 2 (1 PTS),0,-80,3,,202664,,1611661329,10,5,1
+06:12,[CHI 11-5] Vandersloot Free Throw 2 of 2 (2 PTS),0,-80,3,,202664,,1611661329,11,5,1
+06:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,5,1
+05:46,[IND] Dupree Jump Shot: Missed,147,47,2,,200676,,1611661325,11,5,1
+05:44,[IND] McCowan Rebound (Off:1 Def:0),147,47,4,,1629479,,1611661325,11,5,1
+05:42,[IND] McCowan Jump Shot: Missed,19,59,2,,1629479,,1611661325,11,5,1
+05:42,[CHI] Williams Rebound (Off:0 Def:3),19,59,4,,1628931,,1611661329,11,5,1
+05:27,[CHI] Dolson 3pt Shot: Missed,1,237,2,,203828,,1611661329,11,5,1
+05:25,[CHI] Quigley Rebound (Off:1 Def:0),1,237,4,,201516,,1611661329,11,5,1
+05:17,[CHI] Dolson Jump Shot: Missed,-49,20,2,,203828,,1611661329,11,5,1
+05:16,[CHI] Copper Rebound (Off:1 Def:2),-49,20,4,,1627674,,1611661329,11,5,1
+05:11,[CHI 13-5] Vandersloot Jump Shot: Made (4 PTS) Assist: Copper (1 AST),81,151,1,,202664,1627674,1611661329,13,5,1
+04:55,[CHI] Dolson Foul: Shooting (1 PF) (2 FTA),49,11,6,1628909,203828,,1611661329,13,5,1
+04:55,Timeout Officials,0,-80,9,,0,,0,13,5,1
+04:55,[CHI] Dolson Substitution replaced by Parker,0,-80,8,,203828,204323,1611661329,13,5,1
+04:55,[IND] Burke Substitution replaced by Doyle,0,-80,8,,1629568,1630104,1611661325,13,5,1
+04:55,[IND] McCowan Substitution replaced by Achonwa,0,-80,8,,1629479,203831,1611661325,13,5,1
+04:55,[IND 6-13] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,1628909,,1611661325,13,6,1
+04:55,[IND 7-13] Mitchell Free Throw 2 of 2 (2 PTS),0,-80,3,,1628909,,1611661325,13,7,1
+04:35,[CHI 15-7] Quigley Jump Shot: Made (6 PTS) Assist: Parker (1 AST),157,113,1,,201516,204323,1611661329,15,7,1
+04:21,[IND] Achonwa Turnover : Bad Pass (1 TO) Steal:Vandersloot (1 ST),-2,284,5,202664,203831,,1611661325,15,7,1
+04:17,[CHI 17-7] Vandersloot Layup Shot: Made (6 PTS),11,20,1,,202664,,1611661329,17,7,1
+03:58,[IND] Dupree Turnover : Traveling (1 TO),69,39,5,,200676,,1611661325,17,7,1
+03:43,[CHI] Parker Jump Shot: Missed,-77,5,2,,204323,,1611661329,17,7,1
+03:41,[IND] Achonwa Rebound (Off:0 Def:1),-77,5,4,,203831,,1611661325,17,7,1
+03:36,[IND 9-17] Achonwa Jump Shot: Made (2 PTS) Assist: Allemand (1 AST),-139,131,1,,203831,1627700,1611661325,17,9,1
+03:24,[CHI 19-9] Vandersloot Jump Shot: Made (8 PTS),32,196,1,,202664,,1611661329,19,9,1
+03:06,[CHI] Parker Foul: Shooting (1 PF) (2 FTA),-58,5,6,203831,204323,,1611661329,19,9,1
+03:06,[IND] Achonwa Free Throw 1 of 2 Missed,0,-80,3,,203831,,1611661325,19,9,1
+03:06,[IND] Team Rebound,0,-80,4,,0,,1611661325,19,9,1
+03:06,[IND 10-19] Achonwa Free Throw 2 of 2 (3 PTS),0,-80,3,,203831,,1611661325,19,10,1
+02:53,[CHI 21-10] Vandersloot Layup Shot: Made (10 PTS),-25,17,1,,202664,,1611661329,21,10,1
+02:41,[IND] Mitchell Turnover : Lost Ball (1 TO),-215,223,5,,1628909,,1611661325,21,10,1
+02:23,[CHI 23-10] Quigley Jump Shot: Made (8 PTS),68,132,1,,201516,,1611661329,23,10,1
+02:10,[IND] Dupree Turnover : Bad Pass (2 TO),75,271,5,,200676,,1611661325,23,10,1
+01:58,[IND] Doyle Foul: Shooting (1 PF) (2 FTA),31,43,6,1627674,1630104,,1611661325,23,10,1
+01:58,[CHI 24-10] Copper Free Throw 1 of 2 (3 PTS),0,-80,3,,1627674,,1611661329,24,10,1
+01:58,[CHI] Quigley Substitution replaced by Hebard,0,-80,8,,201516,1630113,1611661329,24,10,1
+01:58,[IND] Dupree Substitution replaced by Cox,0,-80,8,,200676,1630100,1611661325,24,10,1
+01:58,[IND] Doyle Substitution replaced by Burke,0,-80,8,,1630104,1629568,1611661325,24,10,1
+01:58,[CHI 25-10] Copper Free Throw 2 of 2 (4 PTS),0,-80,3,,1627674,,1611661329,25,10,1
+01:40,[IND] Cox Jump Shot: Missed,132,153,2,,1630100,,1611661325,25,10,1
+01:39,[CHI] Williams Rebound (Off:0 Def:4),132,153,4,,1628931,,1611661329,25,10,1
+01:31,[CHI] Williams Jump Shot: Missed,-46,21,2,,1628931,,1611661329,25,10,1
+01:29,[IND] Burke Rebound (Off:0 Def:1),-46,21,4,,1629568,,1611661325,25,10,1
+01:27,[IND] Burke Turnover : Lost Ball (2 TO) Steal:Williams (2 ST),-73,233,5,1628931,1629568,,1611661325,25,10,1
+01:19,[CHI 27-10] Copper Layup Shot: Made (6 PTS) Assist: Vandersloot (2 AST),-28,10,1,,1627674,202664,1611661329,27,10,1
+01:14,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,27,10,1
+01:14,[CHI] Vandersloot Substitution replaced by Dolson,0,-80,8,,202664,203828,1611661329,27,10,1
+01:14,[CHI] Parker Substitution replaced by Colson,0,-80,8,,204323,202641,1611661329,27,10,1
+01:04,[IND] Achonwa Turnover : Backcourt Turnover (2 TO),-74,451,5,,203831,,1611661325,27,10,1
+00:53.6,[CHI] Copper 3pt Shot: Missed,-119,214,2,,1627674,,1611661329,27,10,1
+00:53.6,[IND] Team Rebound,-119,214,4,,0,,1611661325,27,10,1
+00:36.4,[IND] Allemand 3pt Shot: Missed,-109,221,2,,1627700,,1611661325,27,10,1
+00:35.0,[IND] Cox Rebound (Off:1 Def:0),-109,221,4,,1630100,,1611661325,27,10,1
+00:30.6,[CHI] Dolson Foul: Shooting (2 PF) (2 FTA),20,59,6,203831,203828,,1611661329,27,10,1
+00:30.6,[IND 11-27] Achonwa Free Throw 1 of 2 (4 PTS),0,-80,3,,203831,,1611661325,27,11,1
+00:30.6,[CHI] Hebard Violation:Lane,0,-80,7,,1630113,,1611661329,27,11,1
+00:30.6,[IND 12-27] Achonwa Free Throw 2 of 2 (5 PTS),0,-80,3,,203831,,1611661325,27,12,1
+00:06.3,[CHI] Dolson Jump Shot: Missed,-36,19,2,,203828,,1611661329,27,12,1
+00:04.3,[IND] Mitchell Rebound (Off:0 Def:2),-36,19,4,,1628909,,1611661325,27,12,1
+00:00.0,[IND] Mitchell 3pt Shot: Missed,-1,258,2,,1628909,,1611661325,27,12,1
+00:00.0,[CHI] Team Rebound,-1,258,4,,0,,1611661329,27,12,1
+00:00.0,End Period,0,-80,13,,0,,0,27,12,1
+10:00,Start Period,0,-80,12,,0,,0,27,12,2
+09:41,[CHI] Hebard Jump Shot: Missed,47,20,2,203831,1630113,,1611661329,27,12,2
+09:37,[IND] Allemand Rebound (Off:0 Def:1),47,20,4,,1627700,,1611661325,27,12,2
+09:32,[CHI] Colson Foul: Personal (1 PF),-39,38,6,203831,202641,,1611661329,27,12,2
+09:18,[IND 14-27] Mitchell Jump Shot: Made (4 PTS),-8,200,1,,1628909,,1611661325,27,14,2
+09:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,14,2
+08:55,[CHI] Quigley 3pt Shot: Missed,-224,112,2,,201516,,1611661329,27,14,2
+08:54,[IND] Achonwa Rebound (Off:0 Def:2),-224,112,4,,203831,,1611661325,27,14,2
+08:53,[IND] Burke Foul: Offensive (1 PF),-223,140,6,1628931,1629568,,1611661325,27,14,2
+08:53,[IND] Burke Turnover : Offensive Foul Turnover (3 TO),-223,140,5,,1629568,,1611661325,27,14,2
+08:53,[CHI] Williams Substitution replaced by Vandersloot,0,-80,8,,1628931,202664,1611661329,27,14,2
+08:53,[CHI] Colson Substitution replaced by Copper,0,-80,8,,202641,1627674,1611661329,27,14,2
+08:41,[CHI] Quigley Turnover : Bad Pass (1 TO),37,107,5,,201516,,1611661329,27,14,2
+08:22,[CHI] Dolson Foul: Personal (3 PF),59,48,6,1630100,203828,,1611661329,27,14,2
+08:22,[CHI] Dolson Substitution replaced by Parker,0,-80,8,,203828,204323,1611661329,27,14,2
+08:13,[IND 16-27] Cox Jump Shot: Made (2 PTS) Assist: Allemand (2 AST),-53,209,1,,1630100,1627700,1611661325,27,16,2
+07:53,[CHI] Quigley Jump Shot: Missed,30,15,2,203831,201516,,1611661329,27,16,2
+07:51,[IND] Allemand Rebound (Off:0 Def:2),30,15,4,,1627700,,1611661325,27,16,2
+07:42,[IND 19-27] Cox 3pt Shot: Made (5 PTS) Assist: Allemand (3 AST),-13,246,1,,1630100,1627700,1611661325,27,19,2
+07:42,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,27,19,2
+07:42,[CHI] Hebard Substitution replaced by Williams,0,-80,8,,1630113,1628931,1611661329,27,19,2
+07:27,[CHI 29-19] Parker Driving Layup Shot: Made (2 PTS),-14,40,1,,204323,,1611661329,29,19,2
+07:27,[IND] Cox Foul: Shooting (1 PF) (1 FTA),-14,40,6,204323,1630100,,1611661325,29,19,2
+07:27,[CHI 30-19] Parker Free Throw 1 of 1 (3 PTS),0,-80,3,,204323,,1611661329,30,19,2
+07:09,[IND 21-30] Mitchell Driving Layup Shot: Made (6 PTS),10,17,1,,1628909,,1611661325,30,21,2
+06:51,[CHI] Copper Layup Shot: Missed,-37,24,2,,1627674,,1611661329,30,21,2
+06:49,[IND] Cox Rebound (Off:1 Def:1),-37,24,4,,1630100,,1611661325,30,21,2
+06:40,[CHI] Vandersloot Foul: Personal (1 PF),-107,117,6,1627700,202664,,1611661329,30,21,2
+06:28,[IND] Mitchell 3pt Shot: Missed,-182,176,2,,1628909,,1611661325,30,21,2
+06:25,[IND] Cox Rebound (Off:2 Def:1),-182,176,4,,1630100,,1611661325,30,21,2
+06:14,[IND] Allemand 3pt Shot: Missed,-86,235,2,,1627700,,1611661325,30,21,2
+06:12,[CHI] Parker Rebound (Off:0 Def:1),-86,235,4,,204323,,1611661329,30,21,2
+06:04,[CHI 33-21] Vandersloot 3pt Shot: Made (13 PTS) Assist: Quigley (1 AST),160,172,1,,202664,201516,1611661329,33,21,2
+05:47,[CHI] Williams Foul: Shooting (1 PF) (2 FTA),-34,21,6,1628909,1628931,,1611661329,33,21,2
+05:47,[IND 22-33] Mitchell Free Throw 1 of 2 (7 PTS),0,-80,3,,1628909,,1611661325,33,22,2
+05:47,[IND] Achonwa Substitution replaced by Dupree,0,-80,8,,203831,200676,1611661325,33,22,2
+05:47,[IND] Cox Substitution replaced by McCowan,0,-80,8,,1630100,1629479,1611661325,33,22,2
+05:47,[IND 23-33] Mitchell Free Throw 2 of 2 (8 PTS),0,-80,3,,1628909,,1611661325,33,23,2
+05:33,[CHI] Williams 3pt Shot: Missed,170,202,2,,1628931,,1611661329,33,23,2
+05:31,[CHI] Copper Rebound (Off:2 Def:2),170,202,4,,1627674,,1611661329,33,23,2
+05:25,[CHI] Copper 3pt Shot: Missed,224,64,2,,1627674,,1611661329,33,23,2
+05:25,[IND] Team Rebound,224,64,4,,0,,1611661325,33,23,2
+05:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,23,2
+05:13,[IND] Dupree Turnover : Bad Pass (3 TO) Steal:Williams (3 ST),-74,239,5,1628931,200676,,1611661325,33,23,2
+05:09,[CHI] Copper Layup Shot: Missed,50,16,2,200676,1627674,,1611661329,33,23,2
+05:09,[CHI] Team Rebound,50,16,4,,0,,1611661329,33,23,2
+05:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,23,2
+05:06,[CHI] Vandersloot Turnover : Bad Pass (1 TO) Steal:Dupree (1 ST),-76,-10,5,200676,202664,,1611661329,33,23,2
+04:51,[IND] McCowan Jump Shot: Missed,-12,51,2,,1629479,,1611661325,33,23,2
+04:50,[IND] Burke Rebound (Off:1 Def:1),-12,51,4,,1629568,,1611661325,33,23,2
+04:50,[IND] Burke Turnover : Bad Pass (4 TO),8,27,5,,1629568,,1611661325,33,23,2
+04:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,23,2
+04:40,[CHI] Vandersloot 3pt Shot: Missed,-3,262,2,,202664,,1611661329,33,23,2
+04:38,[CHI] Parker Rebound (Off:1 Def:1),-3,262,4,,204323,,1611661329,33,23,2
+04:35,[CHI] Parker Jump Shot: Missed,-37,112,2,,204323,,1611661329,33,23,2
+04:33,[IND] McCowan Rebound (Off:1 Def:1),-37,112,4,,1629479,,1611661325,33,23,2
+04:21,[IND] Mitchell 3pt Shot: Missed,-4,262,2,,1628909,,1611661325,33,23,2
+04:20,[CHI] Williams Rebound (Off:0 Def:5),-4,262,4,,1628931,,1611661329,33,23,2
+04:06,[CHI] Copper Layup Shot: Missed,12,35,2,,1627674,,1611661329,33,23,2
+04:04,[IND] Dupree Rebound (Off:0 Def:2),12,35,4,,200676,,1611661325,33,23,2
+03:56,[IND] Allemand Turnover : Lost Ball (1 TO) Steal:Copper (1 ST),-193,121,5,1627674,1627700,,1611661325,33,23,2
+03:48,[CHI] Parker Turnover : Lost Ball (1 TO) Steal:Burke (2 ST),30,22,5,1629568,204323,,1611661329,33,23,2
+03:33,[CHI] Parker Foul: Shooting (2 PF) (2 FTA),-23,35,6,1627700,204323,,1611661329,33,23,2
+03:33,[IND] Allemand Free Throw 1 of 2 Missed,0,-80,3,,1627700,,1611661325,33,23,2
+03:33,[IND] Team Rebound,0,-80,4,,0,,1611661325,33,23,2
+03:33,[CHI] Parker Substitution replaced by Hebard,0,-80,8,,204323,1630113,1611661329,33,23,2
+03:33,[IND] Burke Substitution replaced by Doyle,0,-80,8,,1629568,1630104,1611661325,33,23,2
+03:33,[IND 24-33] Allemand Free Throw 2 of 2 (4 PTS),0,-80,3,,1627700,,1611661325,33,24,2
+03:19,[CHI 35-24] Vandersloot Jump Shot: Made (15 PTS),-132,135,1,,202664,,1611661329,35,24,2
+03:13,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,35,24,2
+02:59,[IND 26-35] Dupree Driving Layup Shot: Made (2 PTS) Assist: Mitchell (2 AST),-13,13,1,,200676,1628909,1611661325,35,26,2
+02:39,[CHI 37-26] Copper Layup Shot: Made (8 PTS),25,35,1,,1627674,,1611661329,37,26,2
+02:15,[IND] Mitchell 3pt Shot: Missed,-68,239,2,,1628909,,1611661325,37,26,2
+02:13,[CHI] Hebard Rebound (Off:0 Def:1),-68,239,4,,1630113,,1611661329,37,26,2
+01:54,[CHI] Williams Jump Shot: Missed,-124,81,2,,1628931,,1611661329,37,26,2
+01:51,[IND] Allemand Rebound (Off:0 Def:3),-124,81,4,,1627700,,1611661325,37,26,2
+01:45,[IND 28-37] Dupree Jump Shot: Made (4 PTS) Assist: Allemand (4 AST),43,217,1,,200676,1627700,1611661325,37,28,2
+01:23,[CHI 39-28] Quigley Jump Shot: Made (10 PTS),23,186,1,,201516,,1611661329,39,28,2
+01:17,[CHI] Hebard Foul: Personal (1 PF) (2 FTA),-22,32,6,1629479,1630113,,1611661329,39,28,2
+01:17,[IND 29-39] McCowan Free Throw 1 of 2 (3 PTS),0,-80,3,,1629479,,1611661325,39,29,2
+01:17,[IND 30-39] McCowan Free Throw 2 of 2 (4 PTS),0,-80,3,,1629479,,1611661325,39,30,2
+01:04,[CHI] Quigley Jump Shot: Missed,-110,112,2,,201516,,1611661329,39,30,2
+01:02,[CHI] Hebard Rebound (Off:1 Def:1),-110,112,4,,1630113,,1611661329,39,30,2
+01:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,30,2
+01:02,[IND] McCowan Substitution replaced by Achonwa,0,-80,8,,1629479,203831,1611661325,39,30,2
+00:55.4,[IND] Doyle Foul: Shooting (2 PF) (2 FTA),31,-1,6,202664,1630104,,1611661325,39,30,2
+00:55.4,[CHI 40-30] Vandersloot Free Throw 1 of 2 (16 PTS),0,-80,3,,202664,,1611661329,40,30,2
+00:55.4,[CHI 41-30] Vandersloot Free Throw 2 of 2 (17 PTS),0,-80,3,,202664,,1611661329,41,30,2
+00:38.0,[IND 32-41] Achonwa Jump Shot: Made (7 PTS) Assist: Allemand (5 AST),0,200,1,,203831,1627700,1611661325,41,32,2
+00:30.8,[CHI 43-32] Hebard Layup Shot: Made (2 PTS) Assist: Vandersloot (3 AST),31,16,1,,1630113,202664,1611661329,43,32,2
+00:08.1,[IND 34-43] Achonwa Layup Shot: Made (9 PTS) Assist: Doyle (1 AST),-3,42,1,,203831,1630104,1611661325,43,34,2
+00:03.2,[CHI] Vandersloot Turnover : Out of Bounds Lost Ball Turnover (2 TO),-72,58,5,,202664,,1611661329,43,34,2
+00:03.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,34,2
+00:03.2,[CHI] Vandersloot Substitution replaced by Colson,0,-80,8,,202664,202641,1611661329,43,34,2
+00:00.2,[IND] Allemand 3pt Shot: Missed,-23,461,2,,1627700,,1611661325,43,34,2
+00:00.1,[IND] Team Rebound,-23,461,4,,0,,1611661325,43,34,2
+00:00.0,End Period,0,-80,13,,0,,0,43,34,2
+10:00,Start Period,0,-80,12,,0,,0,43,34,3
+09:44,[CHI] Dolson 3pt Shot: Missed,145,206,2,,203828,,1611661329,43,34,3
+09:41,[IND] Burke Rebound (Off:1 Def:2),145,206,4,,1629568,,1611661325,43,34,3
+09:20,[IND 36-43] McCowan Jump Shot: Made (6 PTS),6,53,1,,1629479,,1611661325,43,36,3
+09:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,36,3
+09:04,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),-81,178,6,201516,1628909,,1611661325,43,36,3
+09:04,[CHI 44-36] Quigley Free Throw 1 of 2 (11 PTS),0,-80,3,,201516,,1611661329,44,36,3
+09:04,[CHI 45-36] Quigley Free Throw 2 of 2 (12 PTS),0,-80,3,,201516,,1611661329,45,36,3
+08:46,[IND 38-45] Dupree Jump Shot: Made (6 PTS) Assist: Mitchell (3 AST),123,135,1,,200676,1628909,1611661325,45,38,3
+08:31,[CHI 48-38] Copper 3pt Shot: Made (11 PTS) Assist: Dolson (1 AST),-159,196,1,,1627674,203828,1611661329,48,38,3
+08:07,[IND] Allemand Jump Shot: Missed,-10,149,2,,1627700,,1611661325,48,38,3
+08:07,[IND] Team Rebound,-10,149,4,,0,,1611661325,48,38,3
+08:07,[CHI] Dolson Foul: Loose Ball (4 PF),22,67,6,1629479,203828,,1611661329,48,38,3
+08:07,[CHI] Dolson Substitution replaced by Parker,0,-80,8,,203828,204323,1611661329,48,38,3
+07:57,[IND 40-48] Dupree Jump Shot: Made (8 PTS) Assist: Mitchell (4 AST),-74,92,1,,200676,1628909,1611661325,48,40,3
+07:41,[CHI] Copper Turnover : Traveling (2 TO),128,164,5,,1627674,,1611661329,48,40,3
+07:20,[IND] McCowan Turnover : 3 Second Violation (2 TO),8,48,5,,1629479,,1611661325,48,40,3
+07:06,[CHI] Parker Turnover : Lost Ball (2 TO) Steal:Dupree (2 ST),109,51,5,200676,204323,,1611661329,48,40,3
+06:56,[IND] McCowan Turnover : Traveling (3 TO),-3,41,5,,1629479,,1611661325,48,40,3
+06:39,[CHI] Quigley 3pt Shot: Missed,158,201,2,,201516,,1611661329,48,40,3
+06:38,[IND] Dupree Rebound (Off:0 Def:3),158,201,4,,200676,,1611661325,48,40,3
+06:30,[IND] Burke Turnover : Bad Pass (5 TO),-165,183,5,,1629568,,1611661325,48,40,3
+06:17,[CHI 50-40] Williams Layup Shot: Made (2 PTS) Assist: Vandersloot (4 AST),57,27,1,,1628931,202664,1611661329,50,40,3
+06:02,[IND] Burke Layup Shot: Missed,-53,25,2,1627674,1629568,,1611661325,50,40,3
+05:59,[CHI] Copper Rebound (Off:2 Def:3),-53,25,4,,1627674,,1611661329,50,40,3
+05:59,[IND] Mitchell Foul: Shooting (2 PF) (2 FTA),77,29,6,1627674,1628909,,1611661325,50,40,3
+05:59,[CHI 51-40] Copper Free Throw 1 of 2 (12 PTS),0,-80,3,,1627674,,1611661329,51,40,3
+05:59,[CHI 52-40] Copper Free Throw 2 of 2 (13 PTS),0,-80,3,,1627674,,1611661329,52,40,3
+05:32,[IND 42-52] Dupree Jump Shot: Made (10 PTS),37,69,1,,200676,,1611661325,52,42,3
+05:20,[CHI 55-42] Parker 3pt Shot: Made (6 PTS) Assist: Vandersloot (5 AST),-24,247,1,,204323,202664,1611661329,55,42,3
+05:01,[IND] Mitchell 3pt Shot: Missed,-182,172,2,,1628909,,1611661325,55,42,3
+05:01,[IND] Team Rebound,-182,172,4,,0,,1611661325,55,42,3
+05:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,42,3
+05:01,[IND] McCowan Substitution replaced by Achonwa,0,-80,8,,1629479,203831,1611661325,55,42,3
+04:57,[IND 45-55] Mitchell 3pt Shot: Made (11 PTS) Assist: Allemand (6 AST),3,260,1,,1628909,1627700,1611661325,55,45,3
+04:43,[IND] Allemand Foul: Shooting (2 PF) (2 FTA),48,21,6,202664,1627700,,1611661325,55,45,3
+04:43,Timeout Officials,0,-80,9,,0,,0,55,45,3
+04:43,[IND] Mitchell Substitution replaced by Doyle,0,-80,8,,1628909,1630104,1611661325,55,45,3
+04:43,[CHI 56-45] Vandersloot Free Throw 1 of 2 (18 PTS),0,-80,3,,202664,,1611661329,56,45,3
+04:43,[CHI 57-45] Vandersloot Free Throw 2 of 2 (19 PTS),0,-80,3,,202664,,1611661329,57,45,3
+04:26,[IND] Burke Layup Shot: Missed,-49,-5,2,,1629568,,1611661325,57,45,3
+04:24,[CHI] Parker Rebound (Off:1 Def:2),-49,-5,4,,204323,,1611661329,57,45,3
+04:20,[CHI 59-45] Williams Layup Shot: Made (4 PTS) Assist: Vandersloot (6 AST),30,12,1,,1628931,202664,1611661329,59,45,3
+04:08,[CHI] Vandersloot Violation:Kicked Ball,0,-80,7,,202664,,1611661329,59,45,3
+03:57,[CHI] Williams Foul: Shooting (2 PF) (2 FTA),20,47,6,200676,1628931,,1611661329,59,45,3
+03:57,[IND 46-59] Dupree Free Throw 1 of 2 (11 PTS),0,-80,3,,200676,,1611661325,59,46,3
+03:57,[IND 47-59] Dupree Free Throw 2 of 2 (12 PTS),0,-80,3,,200676,,1611661325,59,47,3
+03:45,[CHI 61-47] Vandersloot Jump Shot: Made (21 PTS),114,135,1,,202664,,1611661329,61,47,3
+03:44,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,61,47,3
+03:44,[IND] Allemand Substitution replaced by Cox,0,-80,8,,1627700,1630100,1611661325,61,47,3
+03:44,[IND] Doyle Substitution replaced by Allemand,0,-80,8,,1630104,1627700,1611661325,61,47,3
+03:24,[IND] Burke 3pt Shot: Missed,79,244,2,,1629568,,1611661325,61,47,3
+03:22,[CHI] Williams Rebound (Off:0 Def:6),79,244,4,,1628931,,1611661329,61,47,3
+03:11,[CHI] Quigley Jump Shot: Missed,-113,112,2,,201516,,1611661329,61,47,3
+03:10,[IND] Cox Rebound (Off:2 Def:2),-113,112,4,,1630100,,1611661325,61,47,3
+02:57,[CHI] Williams Foul: Personal (3 PF),48,15,6,203831,1628931,,1611661329,61,47,3
+02:45,[IND 49-61] Achonwa Jump Shot: Made (11 PTS),-10,44,1,,203831,,1611661325,61,49,3
+02:32,[CHI] Williams 3pt Shot: Missed,221,77,2,,1628931,,1611661329,61,49,3
+02:32,[CHI] Parker Rebound (Off:2 Def:2),221,77,4,,204323,,1611661329,61,49,3
+02:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,49,3
+02:31,[CHI] Quigley Substitution replaced by Hebard,0,-80,8,,201516,1630113,1611661329,61,49,3
+02:20,[CHI 63-49] Copper Jump Shot: Made (15 PTS) Assist: Vandersloot (7 AST),-191,-11,1,,1627674,202664,1611661329,63,49,3
+02:06,[IND 51-63] Dupree Jump Shot: Made (14 PTS) Assist: Achonwa (1 AST),-121,-8,1,,200676,203831,1611661325,63,51,3
+01:58,[CHI 65-51] Vandersloot Layup Shot: Made (23 PTS),-25,15,1,,202664,,1611661329,65,51,3
+01:36,[IND 53-65] Allemand Jump Shot: Made (6 PTS),29,193,1,,1627700,,1611661325,65,53,3
+01:23,[CHI 67-53] Copper Jump Shot: Made (17 PTS),-120,168,1,,1627674,,1611661329,67,53,3
+01:09,[IND] Cox Turnover : Bad Pass (1 TO) Steal:Copper (2 ST),2,267,5,1627674,1630100,,1611661325,67,53,3
+01:02,[CHI] Copper Jump Shot: Missed,-15,78,2,,1627674,,1611661329,67,53,3
+00:59.7,[IND] Cox Rebound (Off:2 Def:3),-15,78,4,,1630100,,1611661325,67,53,3
+00:51.8,[IND 55-67] Allemand Layup Shot: Made (8 PTS),14,15,1,,1627700,,1611661325,67,55,3
+00:32.3,[CHI] Vandersloot Layup Shot: Missed,-23,11,2,,202664,,1611661329,67,55,3
+00:30.5,[IND] Achonwa Rebound (Off:0 Def:3),-23,11,4,,203831,,1611661325,67,55,3
+00:21.7,[IND] Cox 3pt Shot: Missed,62,239,2,,1630100,,1611661325,67,55,3
+00:19.7,[CHI] Parker Rebound (Off:2 Def:3),62,239,4,,204323,,1611661329,67,55,3
+00:00.0,[CHI] Parker 3pt Shot: Missed,-143,226,2,,204323,,1611661329,67,55,3
+00:00.0,[CHI] Copper Rebound (Off:3 Def:3),-143,226,4,,1627674,,1611661329,67,55,3
+00:00.0,End Period,0,-80,13,,0,,0,67,55,3
+10:00,Start Period,0,-80,12,,0,,0,67,55,4
+09:36,[CHI] Dolson Foul: Personal (5 PF),106,61,6,1630100,203828,,1611661329,67,55,4
+09:36,[IND 58-67] Mitchell 3pt Shot: Made (14 PTS) Assist: Achonwa (2 AST),171,219,1,,1628909,203831,1611661325,67,58,4
+09:17,[IND] Cox Foul: Shooting (2 PF) (2 FTA),32,28,6,202641,1630100,,1611661325,67,58,4
+09:17,[CHI] Dolson Substitution replaced by Parker,0,-80,8,,203828,204323,1611661329,67,58,4
+09:17,[CHI 68-58] Colson Free Throw 1 of 2 (1 PTS),0,-80,3,,202641,,1611661329,68,58,4
+09:17,[CHI] Colson Free Throw 2 of 2 Missed,0,-80,3,,202641,,1611661329,68,58,4
+09:15,[IND] Cox Rebound (Off:2 Def:4),0,-80,4,,1630100,,1611661325,68,58,4
+09:02,[IND] Achonwa Foul: Offensive Charge (1 PF),42,41,6,1630113,203831,,1611661325,68,58,4
+09:02,[IND] Achonwa Turnover : Offensive Foul Turnover (3 TO),42,41,5,,203831,,1611661325,68,58,4
+08:50,[CHI] Quigley Turnover : Bad Pass (2 TO),-197,222,5,,201516,,1611661329,68,58,4
+08:36,[CHI] Colson Foul: Personal (2 PF),-91,100,6,203831,202641,,1611661329,68,58,4
+08:29,[IND] Doyle Jump Shot: Missed,1,63,2,,1630104,,1611661325,68,58,4
+08:24,[CHI] Hebard Rebound (Off:1 Def:2),1,63,4,,1630113,,1611661329,68,58,4
+08:22,[CHI 71-58] Quigley 3pt Shot: Made (15 PTS),32,258,1,,201516,,1611661329,71,58,4
+08:22,[IND] Mitchell Foul: Shooting (3 PF) (1 FTA),54,146,6,204323,1628909,,1611661325,71,58,4
+08:22,InstantReplay Request Stands,0,-80,18,,0,,0,71,58,4
+08:22,[CHI 72-58] Parker Free Throw 1 of 1 (7 PTS),0,-80,3,,204323,,1611661329,72,58,4
+08:22,[IND] Doyle Substitution replaced by Burke,0,-80,8,,1630104,1629568,1611661325,72,58,4
+07:59,[IND] Mitchell 3pt Shot: Missed,4,248,2,,1628909,,1611661325,72,58,4
+07:57,[CHI] Hebard Rebound (Off:1 Def:3),4,248,4,,1630113,,1611661329,72,58,4
+07:42,[CHI] Colson Turnover : Bad Pass (1 TO) Steal:Achonwa (1 ST),2,259,5,203831,202641,,1611661329,72,58,4
+07:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,58,4
+07:32,[CHI] Williams Substitution replaced by Copper,0,-80,8,,1628931,1627674,1611661329,72,58,4
+07:23,[IND 60-72] Allemand Jump Shot: Made (10 PTS) Assist: Burke (1 AST),0,102,1,,1627700,1629568,1611661325,72,60,4
+07:08,[CHI] Quigley Turnover : Out of Bounds Lost Ball Turnover (3 TO),138,136,5,,201516,,1611661329,72,60,4
+07:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,60,4
+06:47,[IND 62-72] Achonwa Jump Shot: Made (13 PTS) Assist: Mitchell (5 AST),-122,40,1,,203831,1628909,1611661325,72,62,4
+06:33,[CHI 74-62] Copper Jump Shot: Made (19 PTS) Assist: Parker (2 AST),9,176,1,,1627674,204323,1611661329,74,62,4
+06:15,[IND 64-74] Allemand Jump Shot: Made (12 PTS),20,11,1,,1627700,,1611661325,74,64,4
+05:49,[CHI] Parker Jump Shot: Missed,25,48,2,,204323,,1611661329,74,64,4
+05:49,[CHI] Parker Rebound (Off:3 Def:3),25,48,4,,204323,,1611661329,74,64,4
+05:49,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,74,64,4
+05:49,[CHI] Colson Substitution replaced by Vandersloot,0,-80,8,,202641,202664,1611661329,74,64,4
+05:46,Jump Ball Cox vs Parker (Mitchell gains possession),0,-80,10,204323,1630100,1628909,1611661325,74,64,4
+05:46,[CHI] Parker Turnover : Lost Ball (3 TO) Steal:Cox (1 ST),0,-80,5,1630100,204323,,1611661329,74,64,4
+05:46,[CHI] Copper Foul: Personal (1 PF),198,284,6,1628909,1627674,,1611661329,74,64,4
+05:28,[IND] Allemand Turnover : Bad Pass (2 TO) Steal:Parker (1 ST),-80,100,5,204323,1627700,,1611661325,74,64,4
+05:08,[CHI] Vandersloot Layup Shot: Missed,41,24,2,,202664,,1611661329,74,64,4
+05:07,[CHI] Parker Rebound (Off:4 Def:3),41,24,4,,204323,,1611661329,74,64,4
+05:05,[CHI] Parker Layup Shot: Missed,-29,16,2,,204323,,1611661329,74,64,4
+05:05,[CHI] Parker Rebound (Off:5 Def:3),-29,16,4,,204323,,1611661329,74,64,4
+05:05,[IND] Cox Foul: Shooting (3 PF) (2 FTA),-14,35,6,204323,1630100,,1611661325,74,64,4
+05:05,[CHI] Parker Free Throw 1 of 2 Missed,0,-80,3,,204323,,1611661329,74,64,4
+05:05,[CHI] Team Rebound,0,-80,4,,0,,1611661329,74,64,4
+05:05,[CHI] Hebard Substitution replaced by Williams,0,-80,8,,1630113,1628931,1611661329,74,64,4
+05:05,[IND] Cox Substitution replaced by Dupree,0,-80,8,,1630100,200676,1611661325,74,64,4
+05:05,[CHI 75-64] Parker Free Throw 2 of 2 (8 PTS),0,-80,3,,204323,,1611661329,75,64,4
+04:53,[IND] Mitchell Turnover : Bad Pass (2 TO),-197,432,5,,1628909,,1611661325,75,64,4
+04:53,[CHI] Parker Substitution replaced by Dolson,0,-80,8,,204323,203828,1611661329,75,64,4
+04:38,[CHI 78-64] Copper 3pt Shot: Made (22 PTS) Assist: Williams (3 AST),228,53,1,,1627674,1628931,1611661329,78,64,4
+04:22,[IND] Mitchell Turnover : Lost Ball (3 TO) Steal:Williams (4 ST),0,244,5,1628931,1628909,,1611661325,78,64,4
+04:22,[IND] Achonwa Foul: Loose Ball (2 PF),-1,641,6,1628931,203831,,1611661325,78,64,4
+04:10,[CHI 80-64] Copper Layup Shot: Made (24 PTS) Assist: Vandersloot (8 AST),-20,13,1,,1627674,202664,1611661329,80,64,4
+04:02,[IND] Allemand Turnover : Lost Ball (3 TO) Steal:Quigley (1 ST),59,186,5,201516,1627700,,1611661325,80,64,4
+03:47,[CHI] Quigley Jump Shot: Missed,-108,65,2,,201516,,1611661329,80,64,4
+03:46,[IND] Allemand Rebound (Off:0 Def:4),-108,65,4,,1627700,,1611661325,80,64,4
+03:37,[IND 66-80] Dupree Jump Shot: Made (16 PTS),-36,31,1,,200676,,1611661325,80,66,4
+03:18,[CHI] Copper Layup Shot: Missed,-22,24,2,,1627674,,1611661329,80,66,4
+03:14,[IND] Mitchell Rebound (Off:0 Def:3),-22,24,4,,1628909,,1611661325,80,66,4
+03:11,[IND 68-80] Mitchell Layup Shot: Made (16 PTS),-27,-7,1,,1628909,,1611661325,80,68,4
+02:52,[CHI] Vandersloot Layup Shot: Missed,67,11,2,,202664,,1611661329,80,68,4
+02:51,[IND] Dupree Rebound (Off:0 Def:4),67,11,4,,200676,,1611661325,80,68,4
+02:47,[CHI] Quigley Foul: Personal (1 PF),28,246,6,1628909,201516,,1611661329,80,68,4
+02:47,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,80,68,4
+02:29,[IND] Team Turnover : Shot Clock Turnover,47,13,5,,0,,1611661325,80,68,4
+02:09,[CHI] Vandersloot Jump Shot: Missed,-28,26,2,,202664,,1611661329,80,68,4
+02:06,[IND] Achonwa Rebound (Off:0 Def:4),-28,26,4,,203831,,1611661325,80,68,4
+02:03,[IND] Mitchell 3pt Shot: Missed,-11,247,2,,1628909,,1611661325,80,68,4
+02:03,[CHI] Copper Rebound (Off:3 Def:4),-11,247,4,,1627674,,1611661329,80,68,4
+01:53,[CHI 82-68] Dolson Jump Shot: Made (5 PTS) Assist: Quigley (2 AST),-69,196,1,,203828,201516,1611661329,82,68,4
+01:52,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,82,68,4
+01:41,[IND 70-82] Dupree Layup Shot: Made (18 PTS) Assist: Burke (2 AST),2,40,1,,200676,1629568,1611661325,82,70,4
+01:40,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,82,70,4
+01:27,[CHI 85-70] Dolson 3pt Shot: Made (8 PTS) Assist: Vandersloot (9 AST),124,210,1,,203828,202664,1611661329,85,70,4
+01:13,[IND 72-85] Achonwa Jump Shot: Made (15 PTS) Assist: Allemand (7 AST),12,20,1,,203831,1627700,1611661325,85,72,4
+01:13,[CHI] Team Timeout : Short,0,-80,9,,1611661329,,1611661329,85,72,4
+01:13,[CHI] Williams Substitution replaced by Hebard,0,-80,8,,1628931,1630113,1611661329,85,72,4
+01:13,[CHI] Vandersloot Substitution replaced by Colson,0,-80,8,,202664,202641,1611661329,85,72,4
+01:13,[IND] Mitchell Substitution replaced by Doyle,0,-80,8,,1628909,1630104,1611661325,85,72,4
+01:01,[CHI] Copper Layup Shot: Missed,-6,209,2,,1627674,,1611661329,85,72,4
+00:59.5,[IND] Allemand Rebound (Off:0 Def:5),-6,209,4,,1627700,,1611661325,85,72,4
+00:47.9,[IND 74-85] Burke Driving Layup Shot: Made (2 PTS),-10,-3,1,,1629568,,1611661325,85,74,4
+00:25.8,[CHI 87-74] Copper Driving Layup Shot: Made (26 PTS),42,21,1,,1627674,,1611661329,87,74,4
+00:16.8,[CHI] Colson Foul: Personal (3 PF) (2 FTA),37,258,6,1629568,202641,,1611661329,87,74,4
+00:16.8,Stoppage: Injury,0,-80,20,,0,,0,87,74,4
+00:16.8,[IND 75-87] Burke Free Throw 1 of 2 (3 PTS),0,-80,3,,1629568,,1611661325,87,75,4
+00:16.8,[IND 76-87] Burke Free Throw 2 of 2 (4 PTS),0,-80,3,,1629568,,1611661325,87,76,4
+00:01.2,[CHI] Copper Turnover : Lost Ball (3 TO) Steal:Doyle (1 ST),131,114,5,1630104,1627674,,1611661329,87,76,4
+00:00.0,End Period,0,-80,13,,0,,0,87,76,4
+00:00.0,Game End,0,-80,0,,0,,0,87,76,4

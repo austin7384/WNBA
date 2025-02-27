@@ -1,0 +1,415 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Wilson vs Austin (Stokes gains possession),0,-80,10,1631022,1628932,204329,1611661319,0,0,0,1
+09:36,[LVA] Plum 3pt Shot: Missed,-91,232,2,,1628276,,1611661319,0,0,0,1
+09:34,[LVA] Team Rebound,-91,232,4,,0,,1611661319,0,0,0,1
+09:34,[LVA] Team Turnover : Shot Clock Turnover,-19,0,5,,0,1629176,1611661319,0,0,0,1
+09:14,[WAS] Sykes 3pt Shot: Missed,-235,-16,2,,1628279,,1611661322,0,0,0,1
+09:09,[WAS] Austin Rebound (Off:1 Def:0),-235,-16,4,,1631022,,1611661322,0,0,0,1
+09:06,[WAS 2-0] Delle Donne Jump Shot: Made (2 PTS) Assist: Sykes (1 AST),-85,94,1,,203399,1628279,1611661322,2,0,2,1
+08:46,[LVA] Young 3pt Shot: Missed,206,100,2,,1629498,,1611661319,2,0,0,1
+08:43,[WAS] Cloud Rebound (Off:0 Def:1),206,100,4,,204333,,1611661322,2,0,0,1
+08:38,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),-18,140,6,203399,1628932,1629770,1611661319,2,0,0,1
+08:38,[WAS 3-0] Delle Donne Free Throw 1 of 2 (3 PTS),0,-80,3,,203399,,1611661322,3,0,1,1
+08:38,[WAS 4-0] Delle Donne Free Throw 2 of 2 (4 PTS),0,-80,3,,203399,,1611661322,4,0,1,1
+08:25,[LVA] Plum 3pt Shot: Missed,-18,255,2,,1628276,,1611661319,4,0,0,1
+08:21,[WAS] Austin Rebound (Off:1 Def:1),-18,255,4,,1631022,,1611661322,4,0,0,1
+08:14,[WAS] Cloud Driving Layup Shot: Missed Block: Stokes (1 BLK),12,-5,2,204329,204333,,1611661322,4,0,0,1
+08:14,[WAS] Team Rebound,12,-5,4,,0,,1611661322,4,0,0,1
+08:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,0,0,1
+08:04,[WAS] Cloud 3pt Shot: Missed,116,207,2,,204333,,1611661322,4,0,0,1
+08:00,[LVA] Stokes Rebound (Off:0 Def:1),116,207,4,,204329,,1611661319,4,0,0,1
+07:53,[LVA 2-4] Wilson Jump Shot: Made (2 PTS) Assist: Gray (1 AST),132,56,1,,1628932,203833,1611661319,4,2,2,1
+07:35,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,4,2,0,1
+07:34,[LVA] Young Foul: Flagrant Type 1 (1 PF) (3 FTA),-6,239,6,1628878,1629498,1629176,1611661319,4,2,0,1
+07:34,[WAS 5-2] Atkins Free Throw Flagrant 1 of 3 (1 PTS),0,-80,3,,1628878,,1611661322,5,2,1,1
+07:34,[WAS 6-2] Atkins Free Throw Flagrant 2 of 3 (2 PTS),0,-80,3,,1628878,,1611661322,6,2,1,1
+07:34,[WAS 7-2] Atkins Free Throw Flagrant 3 of 3 (3 PTS),0,-80,3,,1628878,,1611661322,7,2,1,1
+07:25,[WAS 9-2] Austin Fadeaway Jump Shot: Made (2 PTS) Assist: Cloud (1 AST),4,86,1,,1631022,204333,1611661322,9,2,2,1
+07:07,[LVA] Plum Turnover : Lost Ball (1 TO),21,54,5,,1628276,,1611661319,9,2,0,1
+06:53,[WAS 11-2] Delle Donne Fadeaway Jump Shot: Made (6 PTS) Assist: Sykes (2 AST),-22,50,1,,203399,1628279,1611661322,11,2,2,1
+06:53,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,11,2,0,1
+06:42,[LVA] Wilson Turnaround Jump Shot: Missed,-41,40,2,,1628932,,1611661319,11,2,0,1
+06:38,[WAS] Cloud Rebound (Off:0 Def:2),-41,40,4,,204333,,1611661322,11,2,0,1
+06:25,[WAS] Sykes Jump Shot: Missed,145,140,2,,1628279,,1611661322,11,2,0,1
+06:22,[LVA] Young Rebound (Off:0 Def:1),145,140,4,,1629498,,1611661319,11,2,0,1
+06:13,[LVA] Young Foul: Offensive (2 PF),-179,84,6,1628878,1629498,1629770,1611661319,11,2,0,1
+06:13,[LVA] Young Turnover : Offensive Foul Turnover (1 TO),-179,84,5,,1629498,1629770,1611661319,11,2,0,1
+05:56,[WAS 13-2] Atkins Pullup Jump shot: Made (5 PTS),-133,28,1,,1628878,,1611661322,13,2,2,1
+05:45,[LVA 4-13] Gray Jump Shot: Made (2 PTS) Assist: Plum (1 AST),157,16,1,,203833,1628276,1611661319,13,4,2,1
+05:25,[WAS] Atkins 3pt Shot: Missed,-210,124,2,,1628878,,1611661322,13,4,0,1
+05:22,[LVA] Gray Rebound (Off:0 Def:1),-210,124,4,,203833,,1611661319,13,4,0,1
+05:19,[WAS] Sykes Foul: Personal (1 PF),-169,25,6,1628276,1628279,100698,1611661322,13,4,0,1
+05:19,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,13,4,0,1
+05:19,[WAS] Delle Donne Substitution replaced by Hawkins,0,-80,8,,203399,203403,1611661322,13,4,0,1
+05:19,[WAS] Austin Substitution replaced by Hines-Allen,0,-80,8,,1631022,1628899,1611661322,13,4,0,1
+05:19,[LVA] Young Substitution replaced by Clark,0,-80,8,,1629498,202252,1611661319,13,4,0,1
+05:11,[WAS] Hines-Allen Foul: Shooting (1 PF) (2 FTA),-1,49,6,1628932,1628899,1629176,1611661322,13,4,0,1
+05:11,[LVA 5-13] Wilson Free Throw 1 of 2 (3 PTS),0,-80,3,,1628932,,1611661319,13,5,1,1
+05:11,[LVA] Stokes Substitution replaced by George,0,-80,8,,204329,204297,1611661319,13,5,0,1
+05:11,[LVA 6-13] Wilson Free Throw 2 of 2 (4 PTS),0,-80,3,,1628932,,1611661319,13,6,1,1
+04:58,[WAS] Hines-Allen Foul: Offensive (2 PF),-118,114,6,1628276,1628899,100698,1611661322,13,6,0,1
+04:58,[WAS] Hines-Allen Turnover : Offensive Foul Turnover (1 TO),-118,114,5,,1628899,100698,1611661322,13,6,0,1
+04:46,[WAS] Cloud Foul: Personal (1 PF),-102,59,6,1628276,204333,1629176,1611661322,13,6,0,1
+04:41,[LVA 8-13] Wilson Jump Shot: Made (6 PTS) Assist: Plum (2 AST),-89,165,1,,1628932,1628276,1611661319,13,8,2,1
+04:16,[WAS 15-8] Hines-Allen Turnaround Jump Shot: Made (2 PTS) Assist: Cloud (2 AST),50,7,1,,1628899,204333,1611661322,15,8,2,1
+04:03,[LVA 10-15] Wilson Jump Shot: Made (8 PTS) Assist: Gray (2 AST),31,172,1,,1628932,203833,1611661319,15,10,2,1
+03:52,[WAS] Hawkins Turnover : Lost Ball (1 TO) Steal:Plum (1 ST),-84,51,5,1628276,203403,,1611661322,15,10,0,1
+03:47,[LVA] Plum Running Layup Shot: Missed,-28,19,2,,1628276,,1611661319,15,10,0,1
+03:45,[WAS] Cloud Rebound (Off:0 Def:3),-28,19,4,,204333,,1611661322,15,10,0,1
+03:41,[LVA] George Foul: Shooting (1 PF) (2 FTA),-54,94,6,1628899,204297,1629176,1611661319,15,10,0,1
+03:41,[WAS 16-10] Hines-Allen Free Throw 1 of 2 (3 PTS),0,-80,3,,1628899,,1611661322,16,10,1,1
+03:41,[WAS] Sykes Substitution replaced by Meng,0,-80,8,,1628279,1641642,1611661322,16,10,0,1
+03:41,[WAS 17-10] Hines-Allen Free Throw 2 of 2 (4 PTS),0,-80,3,,1628899,,1611661322,17,10,1,1
+03:29,[LVA 13-17] Plum 3pt Shot: Made (3 PTS) Assist: Clark (1 AST),230,-21,1,,1628276,202252,1611661319,17,13,3,1
+03:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,13,0,1
+03:12,[LVA] Gray Substitution replaced by Bell,0,-80,8,,203833,1631006,1611661319,17,13,0,1
+03:06,[WAS] Hines-Allen Turnover : Bad Pass (2 TO) Steal:Wilson (1 ST),-31,188,5,1628932,1628899,,1611661322,17,13,0,1
+02:57,[LVA] George 3pt Shot: Missed,-17,263,2,,204297,,1611661319,17,13,0,1
+02:53,[WAS] Hines-Allen Rebound (Off:0 Def:1),-17,263,4,,1628899,,1611661322,17,13,0,1
+02:35,[WAS] Meng 3pt Shot: Missed,235,-14,2,,1641642,,1611661322,17,13,0,1
+02:32,[LVA] Clark Rebound (Off:0 Def:1),235,-14,4,,202252,,1611661319,17,13,0,1
+02:26,[LVA] George 3pt Shot: Missed,-127,214,2,,204297,,1611661319,17,13,0,1
+02:23,[WAS] Hines-Allen Rebound (Off:0 Def:2),-127,214,4,,1628899,,1611661322,17,13,0,1
+02:16,[WAS] Cloud 3pt Shot: Missed,38,241,2,,204333,,1611661322,17,13,0,1
+02:12,[LVA] George Rebound (Off:0 Def:1),38,241,4,,204297,,1611661319,17,13,0,1
+02:05,[LVA] George Turnover : Out of Bounds - Bad Pass Turnover (1 TO),124,199,5,,204297,100698,1611661319,17,13,0,1
+01:50,[WAS] Walker-Kimbrough Floating Jump shot: Missed Block: Wilson (1 BLK),-51,115,2,1628932,1628278,,1611661322,17,13,0,1
+01:48,[LVA] Plum Rebound (Off:0 Def:1),-51,115,4,,1628276,,1611661319,17,13,0,1
+01:37,[LVA 15-17] Plum Driving Layup Shot: Made (5 PTS),-28,5,1,,1628276,,1611661319,17,15,2,1
+01:21,[WAS] Cloud Driving Layup Shot: Missed,-33,-6,2,,204333,,1611661322,17,15,0,1
+01:19,[LVA] George Rebound (Off:0 Def:2),-33,-6,4,,204297,,1611661319,17,15,0,1
+01:14,[LVA] Wilson Jump Shot: Missed,143,26,2,,1628932,,1611661319,17,15,0,1
+01:12,[LVA] Team Rebound,143,26,4,,0,,1611661319,17,15,0,1
+01:12,[LVA] George Foul: Loose Ball (2 PF),-63,33,6,204333,204297,1629770,1611661319,17,15,0,1
+01:12,[LVA] George Turnover :   (2 TO),-63,33,5,,204297,1629770,1611661319,17,15,0,1
+01:12,[WAS] Hines-Allen Substitution replaced by Sykes,0,-80,8,,1628899,1628279,1611661322,17,15,0,1
+01:12,[WAS] Cloud Substitution replaced by Delle Donne,0,-80,8,,204333,203399,1611661322,17,15,0,1
+01:12,[WAS] Walker-Kimbrough Substitution replaced by Atkins,0,-80,8,,1628278,1628878,1611661322,17,15,0,1
+01:12,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,17,15,0,1
+01:00,[WAS] Atkins 3pt Shot: Missed,89,244,2,,1628878,,1611661322,17,15,0,1
+00:57.6,[LVA] Stokes Rebound (Off:0 Def:2),89,244,4,,204329,,1611661319,17,15,0,1
+00:49.1,[LVA 17-17] George Cutting Layup Shot: Made (2 PTS) Assist: Clark (2 AST),17,-3,1,,204297,202252,1611661319,17,17,2,1
+00:40.9,[LVA] Clark Foul: Shooting (1 PF) (2 FTA),-29,12,6,1641642,202252,1629176,1611661319,17,17,0,1
+00:40.9,[WAS 18-17] Meng Free Throw 1 of 2 (1 PTS),0,-80,3,,1641642,,1611661322,18,17,1,1
+00:40.9,[LVA] Plum Substitution replaced by Gray,0,-80,8,,1628276,203833,1611661319,18,17,0,1
+00:40.9,[WAS 19-17] Meng Free Throw 2 of 2 (2 PTS),0,-80,3,,1641642,,1611661322,19,17,1,1
+00:30.5,[LVA] Gray Pullup Jump shot: Missed,-6,169,2,,203833,,1611661319,19,17,0,1
+00:26.9,[WAS] Hawkins Rebound (Off:0 Def:1),-6,169,4,,203403,,1611661322,19,17,0,1
+00:09.1,[WAS] Meng 3pt Shot: Missed,-156,191,2,,1641642,,1611661322,19,17,0,1
+00:08.7,[LVA] Team Rebound,-156,191,4,,0,,1611661319,19,17,0,1
+00:08.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,17,0,1
+00:00.1,[LVA] Gray Turnover : Bad Pass (1 TO) Steal:Delle Donne (1 ST),46,72,5,203399,203833,,1611661319,19,17,0,1
+00:00.0,End Period,0,-80,13,,0,,0,19,17,0,1
+10:00,Start Period,0,-80,12,,0,,0,19,17,0,2
+09:43,[WAS] Delle Donne Jump Shot: Missed,-135,40,2,,203399,,1611661322,19,17,0,2
+09:39,[LVA] George Rebound (Off:0 Def:3),-135,40,4,,204297,,1611661319,19,17,0,2
+09:25,[LVA] Clark 3pt Shot: Missed,76,245,2,,202252,,1611661319,19,17,0,2
+09:22,[WAS] Delle Donne Rebound (Off:0 Def:1),76,245,4,,203399,,1611661322,19,17,0,2
+09:09,[WAS] Austin Driving Layup Shot: Missed,46,27,2,,1631022,,1611661322,19,17,0,2
+09:06,[LVA] Clark Rebound (Off:0 Def:2),46,27,4,,202252,,1611661319,19,17,0,2
+09:01,[LVA] Clark 3pt Shot: Missed,-162,175,2,,202252,,1611661319,19,17,0,2
+09:01,[LVA] Clark Rebound (Off:1 Def:2),-162,175,4,,202252,,1611661319,19,17,0,2
+08:57,[LVA] George 3pt Shot: Missed,-222,-23,2,,204297,,1611661319,19,17,0,2
+08:57,[WAS] Delle Donne Rebound (Off:0 Def:2),-222,-23,4,,203399,,1611661322,19,17,0,2
+08:43,[WAS] Delle Donne 3pt Shot: Missed,-11,242,2,,203399,,1611661322,19,17,0,2
+08:40,[LVA] Gray Rebound (Off:0 Def:2),-11,242,4,,203833,,1611661319,19,17,0,2
+08:26,[LVA] Clark 3pt Shot: Missed,-201,116,2,,202252,,1611661319,19,17,0,2
+08:22,[WAS] Austin Rebound (Off:1 Def:2),-201,116,4,,1631022,,1611661322,19,17,0,2
+08:16,[WAS] Sykes Driving Layup Shot: Missed,23,-8,2,,1628279,,1611661322,19,17,0,2
+08:14,[LVA] Stokes Rebound (Off:0 Def:3),23,-8,4,,204329,,1611661319,19,17,0,2
+08:02,[LVA] Gray Turnover : Bad Pass (2 TO) Steal:Meng (1 ST),-104,201,5,1641642,203833,,1611661319,19,17,0,2
+07:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,17,0,2
+07:58,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,19,17,0,2
+07:58,[LVA] Clark Substitution replaced by Wilson,0,-80,8,,202252,1628932,1611661319,19,17,0,2
+07:58,[LVA] George Substitution replaced by Young,0,-80,8,,204297,1629498,1611661319,19,17,0,2
+07:50,[WAS] Meng Foul: Offensive (1 PF),63,5,6,203833,1641642,1629176,1611661322,19,17,0,2
+07:50,[WAS] Meng Turnover : Offensive Foul Turnover (1 TO),63,5,5,,1641642,1629176,1611661322,19,17,0,2
+07:50,[LVA] Bell Substitution replaced by Plum,0,-80,8,,1631006,1628276,1611661319,19,17,0,2
+07:41,[LVA] Stokes Foul: Offensive (1 PF),71,245,6,1641642,204329,1629176,1611661319,19,17,0,2
+07:41,[LVA] Stokes Turnover : Offensive Foul Turnover (1 TO),71,245,5,,204329,1629176,1611661319,19,17,0,2
+07:25,[WAS] Sykes Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),-68,246,5,203833,1628279,,1611661322,19,17,0,2
+07:18,[LVA 19-19] Young Driving Layup Shot: Made (2 PTS),44,11,1,,1629498,,1611661319,19,19,2,2
+07:18,[WAS] Meng Foul: Shooting (2 PF) (1 FTA),56,-17,6,1629498,1641642,1629176,1611661322,19,19,0,2
+07:18,[WAS] Meng Substitution replaced by Cloud,0,-80,8,,1641642,204333,1611661322,19,19,0,2
+07:18,[LVA 20-19] Young Free Throw 1 of 1 (3 PTS),0,-80,3,,1629498,,1611661319,19,20,1,2
+07:06,[WAS] Cloud 3pt Shot: Missed,-170,178,2,,204333,,1611661322,19,20,0,2
+07:03,[LVA] Gray Rebound (Off:0 Def:3),-170,178,4,,203833,,1611661319,19,20,0,2
+06:55,[LVA 23-19] Young 3pt Shot: Made (6 PTS) Assist: Stokes (1 AST),146,201,1,,1629498,204329,1611661319,19,23,3,2
+06:54,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,19,23,0,2
+06:38,[WAS] Cloud Turnover : Bad Pass (1 TO) Steal:Gray (2 ST),-157,144,5,203833,204333,,1611661322,19,23,0,2
+06:31,[LVA] Stokes Turnover : Lost Ball (2 TO) Steal:Austin (1 ST),-11,209,5,1631022,204329,,1611661319,19,23,0,2
+06:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,23,0,2
+06:22,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,19,23,0,2
+06:06,[WAS 21-23] Austin Pullup Jump shot: Made (4 PTS) Assist: Sykes (3 AST),21,112,1,,1631022,1628279,1611661322,21,23,2,2
+05:51,[LVA] Gray 3pt Shot: Missed,-193,126,2,,203833,,1611661319,21,23,0,2
+05:50,[WAS] Team Rebound,-193,126,4,,0,,1611661322,21,23,0,2
+05:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,21,23,0,2
+05:50,[WAS] Austin Substitution replaced by Delle Donne,0,-80,8,,1631022,203399,1611661322,21,23,0,2
+05:41,[WAS] Walker-Kimbrough 3pt Shot: Missed,-232,-1,2,,1628278,,1611661322,21,23,0,2
+05:37,[LVA] Young Rebound (Off:0 Def:2),-232,-1,4,,1629498,,1611661319,21,23,0,2
+05:20,[LVA] Plum Turnover : Traveling (2 TO),-52,28,5,,1628276,1629770,1611661319,21,23,0,2
+05:03,[WAS] Sykes 3pt Shot: Missed,-137,215,2,,1628279,,1611661322,21,23,0,2
+05:01,[LVA] Wilson Rebound (Off:0 Def:1),-137,215,4,,1628932,,1611661319,21,23,0,2
+04:45,[LVA] Young Floating Jump shot: Missed,31,43,2,,1629498,,1611661319,21,23,0,2
+04:42,[WAS] Delle Donne Rebound (Off:0 Def:3),31,43,4,,203399,,1611661322,21,23,0,2
+04:35,[LVA] Young Foul: Shooting (3 PF) (2 FTA),-77,133,6,203399,1629498,100698,1611661319,21,23,0,2
+04:35,[WAS 22-23] Delle Donne Free Throw 1 of 2 (7 PTS),0,-80,3,,203399,,1611661322,22,23,1,2
+04:35,[WAS] Hines-Allen Substitution replaced by Hawkins,0,-80,8,,1628899,203403,1611661322,22,23,0,2
+04:35,[LVA] Stokes Substitution replaced by Clark,0,-80,8,,204329,202252,1611661319,22,23,0,2
+04:35,[WAS 23-23] Delle Donne Free Throw 2 of 2 (8 PTS),0,-80,3,,203399,,1611661322,23,23,1,2
+04:19,[LVA] Plum 3pt Shot: Missed,194,170,2,,1628276,,1611661319,23,23,0,2
+04:16,[WAS] Hawkins Rebound (Off:0 Def:2),194,170,4,,203403,,1611661322,23,23,0,2
+04:01,[WAS] Delle Donne Fadeaway Jump Shot: Missed,-102,119,2,,203399,,1611661322,23,23,0,2
+04:00,[LVA] Gray Rebound (Off:0 Def:4),-102,119,4,,203833,,1611661319,23,23,0,2
+03:57,[WAS] Hawkins Foul: Personal (1 PF),-30,48,6,1628932,203403,100698,1611661322,23,23,0,2
+03:57,[WAS] Thibault Technical (1 FTA),0,-80,6,,203455,100698,1611661322,23,23,0,2
+03:57,[LVA 24-23] Gray Free Throw Technical (3 PTS),0,-80,3,,203833,,1611661319,23,24,1,2
+03:42,[LVA] Young Turnover : Bad Pass (2 TO) Steal:Sykes (1 ST),62,229,5,1628279,1629498,,1611661319,23,24,0,2
+03:23,[WAS] Hawkins 3pt Shot: Missed,-230,35,2,,203403,,1611661322,23,24,0,2
+03:22,[LVA] Clark Rebound (Off:1 Def:3),-230,35,4,,202252,,1611661319,23,24,0,2
+03:12,[LVA] Gray Turnover : Bad Pass (3 TO) Steal:Hawkins (1 ST),-124,31,5,203403,203833,,1611661319,23,24,0,2
+03:07,[WAS 25-24] Walker-Kimbrough Running Layup Shot: Made (2 PTS) Assist: Cloud (3 AST),34,2,1,,1628278,204333,1611661322,25,24,2,2
+03:05,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,25,24,0,2
+03:05,[WAS] Delle Donne Substitution replaced by Austin,0,-80,8,,203399,1631022,1611661322,25,24,0,2
+02:52,[LVA] Wilson Jump Shot: Missed,33,102,2,,1628932,,1611661319,25,24,0,2
+02:49,[WAS] Austin Rebound (Off:1 Def:3),33,102,4,,1631022,,1611661322,25,24,0,2
+02:36,[WAS] Sykes Layup Shot: Missed,-28,-1,2,,1628279,,1611661322,25,24,0,2
+02:33,[LVA] Wilson Rebound (Off:0 Def:2),-28,-1,4,,1628932,,1611661319,25,24,0,2
+02:29,[WAS] Walker-Kimbrough Foul: Shooting (1 PF) (2 FTA),31,1,6,203833,1628278,1629176,1611661322,25,24,0,2
+02:29,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,25,24,0,2
+02:29,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661322,25,24,0,2
+02:29,[LVA 25-25] Gray Free Throw 1 of 2 (4 PTS),0,-80,3,,203833,,1611661319,25,25,1,2
+02:29,[LVA 26-25] Gray Free Throw 2 of 2 (5 PTS),0,-80,3,,203833,,1611661319,25,26,1,2
+02:10,[WAS] Walker-Kimbrough Jump Shot: Missed,172,87,2,,1628278,,1611661322,25,26,0,2
+02:07,[LVA] Young Rebound (Off:0 Def:3),172,87,4,,1629498,,1611661319,25,26,0,2
+02:03,[WAS] Hawkins Foul: Personal (2 PF),87,149,6,1628932,203403,1629770,1611661322,25,26,0,2
+01:55,[LVA] Plum 3pt Shot: Missed,82,239,2,,1628276,,1611661319,25,26,0,2
+01:55,[WAS] Team Rebound,82,239,4,,0,,1611661322,25,26,0,2
+01:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,25,26,0,2
+01:40,[LVA] Wilson Foul: Shooting (2 PF) (2 FTA),-104,83,6,1631022,1628932,1629176,1611661319,25,26,0,2
+01:40,[WAS] Austin Free Throw 1 of 2 Missed,0,-80,3,,1631022,,1611661322,25,26,0,2
+01:40,[WAS] Team Rebound,0,-80,4,,0,,1611661322,25,26,0,2
+01:40,[WAS] Austin Free Throw 2 of 2 Missed,0,-80,3,,1631022,,1611661322,25,26,0,2
+01:37,[LVA] Gray Rebound (Off:0 Def:5),0,-80,4,,203833,,1611661319,25,26,0,2
+01:20,[LVA] Gray Turnover : Step Out of Bounds Turnover (4 TO),60,-34,5,,203833,1629176,1611661319,25,26,0,2
+01:06,[WAS] Sykes Reverse Layup Shot: Missed,-23,7,2,,1628279,,1611661322,25,26,0,2
+01:02,[LVA] Wilson Rebound (Off:0 Def:3),-23,7,4,,1628932,,1611661319,25,26,0,2
+00:51.9,[LVA] Wilson Fadeaway Jump Shot: Missed Block: Austin (1 BLK),-51,0,2,1631022,1628932,,1611661319,25,26,0,2
+00:47.9,[WAS] Hawkins Rebound (Off:0 Def:3),-51,0,4,,203403,,1611661322,25,26,0,2
+00:46.7,[WAS 27-26] Sykes Running Layup Shot: Made (2 PTS) Assist: Cloud (4 AST),-20,5,1,,1628279,204333,1611661322,27,26,2,2
+00:41.6,[LVA 29-27] Plum 3pt Shot: Made (8 PTS) Assist: Young (1 AST),-199,133,1,,1628276,1629498,1611661319,27,29,3,2
+00:34.7,[WAS] Sykes Turnover : Lost Ball (2 TO) Steal:Young (1 ST),-79,107,5,1629498,1628279,,1611661322,27,29,0,2
+00:34.4,[WAS] Sykes Foul: Transition Take (2 PF) (1 FTA),-39,524,6,1628276,1628279,100698,1611661322,27,29,0,2
+00:34.4,[LVA 30-27] Plum Free Throw 1 of 1 (9 PTS),0,-80,3,,1628276,,1611661319,27,30,1,2
+00:34.4,[WAS] Austin Substitution replaced by Hines-Allen,0,-80,8,,1631022,1628899,1611661322,27,30,0,2
+00:15.8,[LVA] Young 3pt Shot: Missed,-44,244,2,,1629498,,1611661319,27,30,0,2
+00:11.3,[WAS] Sykes Rebound (Off:0 Def:1),-44,244,4,,1628279,,1611661322,27,30,0,2
+00:00.1,[WAS] Sykes 3pt Shot: Missed,19,244,2,,1628279,,1611661322,27,30,0,2
+00:00.1,[WAS] Team Rebound,19,244,4,,0,,1611661322,27,30,0,2
+00:00.0,End Period,0,-80,13,,0,,0,27,30,0,2
+10:00,Start Period,0,-80,12,,0,,0,27,30,0,3
+09:37,[WAS] Delle Donne Fadeaway Jump Shot: Missed,90,73,2,,203399,,1611661322,27,30,0,3
+09:35,[LVA] Plum Rebound (Off:0 Def:2),90,73,4,,1628276,,1611661319,27,30,0,3
+09:19,[WAS] Delle Donne Foul: Shooting (1 PF) (2 FTA),-45,6,6,1628276,203399,1629176,1611661322,27,30,0,3
+09:19,[LVA 31-27] Plum Free Throw 1 of 2 (10 PTS),0,-80,3,,1628276,,1611661319,27,31,1,3
+09:19,[LVA 32-27] Plum Free Throw 2 of 2 (11 PTS),0,-80,3,,1628276,,1611661319,27,32,1,3
+09:01,[WAS 30-32] Atkins 3pt Shot: Made (8 PTS) Assist: Delle Donne (1 AST),-224,87,1,,1628878,203399,1611661322,30,32,3,3
+08:48,[WAS] Austin Foul: Personal (1 PF),90,50,6,1628932,1631022,100698,1611661322,30,32,0,3
+08:42,[LVA] Stokes 3pt Shot: Missed,235,-12,2,,204329,,1611661319,30,32,0,3
+08:39,[WAS] Austin Rebound (Off:1 Def:4),235,-12,4,,1631022,,1611661322,30,32,0,3
+08:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,32,0,3
+08:16,[WAS] Team Turnover : Shot Clock Turnover,-32,-1,5,,0,100698,1611661322,30,32,0,3
+07:58,[LVA] Young Jump Shot: Missed,-85,129,2,,1629498,,1611661319,30,32,0,3
+07:56,[LVA] Young Rebound (Off:1 Def:3),-85,129,4,,1629498,,1611661319,30,32,0,3
+07:49,[LVA] Gray Turnaround Fadeaway shot: Missed,-83,119,2,,203833,,1611661319,30,32,0,3
+07:45,[WAS] Austin Rebound (Off:1 Def:5),-83,119,4,,1631022,,1611661322,30,32,0,3
+07:38,[WAS 32-32] Sykes Step Back Jump shot: Made (4 PTS),9,43,1,,1628279,,1611661322,32,32,2,3
+07:22,[LVA] Young 3pt Shot: Missed,227,-22,2,,1629498,,1611661319,32,32,0,3
+07:19,[WAS] Sykes Rebound (Off:0 Def:2),227,-22,4,,1628279,,1611661322,32,32,0,3
+07:13,[LVA] Stokes Foul: Shooting (2 PF) (2 FTA),-81,1,6,203399,204329,100698,1611661319,32,32,0,3
+07:13,[WAS 33-32] Delle Donne Free Throw 1 of 2 (9 PTS),0,-80,3,,203399,,1611661322,33,32,1,3
+07:13,[WAS 34-32] Delle Donne Free Throw 2 of 2 (10 PTS),0,-80,3,,203399,,1611661322,34,32,1,3
+07:01,[WAS] Austin Foul: Personal (2 PF),35,60,6,1628932,1631022,100698,1611661322,34,32,0,3
+07:01,[WAS] Austin Technical (1 FTA),0,-80,6,,1631022,100698,1611661322,34,32,0,3
+07:01,[LVA] Gray Free Throw Technical Missed,0,-80,3,,203833,,1611661319,34,32,0,3
+07:01,[LVA] Team Rebound,0,-80,4,,0,,1611661319,34,32,0,3
+07:01,[WAS] Austin Substitution replaced by Hines-Allen,0,-80,8,,1631022,1628899,1611661322,34,32,0,3
+06:57,[LVA 34-34] Plum Driving Layup Shot: Made (13 PTS),-22,26,1,,1628276,,1611661319,34,34,2,3
+06:57,[WAS] Cloud Foul: Shooting (2 PF) (1 FTA),-31,23,6,1628276,204333,1629770,1611661322,34,34,0,3
+06:57,[LVA 35-34] Plum Free Throw 1 of 1 (14 PTS),0,-80,3,,1628276,,1611661319,34,35,1,3
+06:46,[WAS] Cloud 3pt Shot: Missed,140,215,2,,204333,,1611661322,34,35,0,3
+06:42,[LVA] Stokes Rebound (Off:0 Def:4),140,215,4,,204329,,1611661319,34,35,0,3
+06:30,[LVA] Wilson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),130,210,5,,1628932,1629770,1611661319,34,35,0,3
+06:30,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,34,35,0,3
+06:30,[WAS] Delle Donne Substitution replaced by Hawkins,0,-80,8,,203399,203403,1611661322,34,35,0,3
+06:20,[WAS] Hines-Allen Driving Layup Shot: Missed,12,26,2,,1628899,,1611661322,34,35,0,3
+06:17,[LVA] Wilson Rebound (Off:0 Def:4),12,26,4,,1628932,,1611661319,34,35,0,3
+06:13,[LVA 37-34] Wilson Jump Shot: Made (10 PTS) Assist: Gray (3 AST),-4,205,1,,1628932,203833,1611661319,34,37,2,3
+05:57,[WAS] Hines-Allen Turnaround Fadeaway shot: Missed,-44,21,2,,1628899,,1611661322,34,37,0,3
+05:55,[WAS] Hawkins Rebound (Off:1 Def:3),-44,21,4,,203403,,1611661322,34,37,0,3
+05:50,[WAS] Sykes Layup Shot: Missed Block: Wilson (2 BLK),48,4,2,1628932,1628279,,1611661322,34,37,0,3
+05:46,[LVA] Plum Rebound (Off:0 Def:3),48,4,4,,1628276,,1611661319,34,37,0,3
+05:46,[LVA] Plum Turnover : Bad Pass (3 TO) Steal:Walker-Kimbrough (1 ST),-5,279,5,1628278,1628276,,1611661319,34,37,0,3
+05:43,[WAS 36-37] Sykes Running Layup Shot: Made (6 PTS) Assist: Walker-Kimbrough (1 AST),-15,5,1,,1628279,1628278,1611661322,36,37,2,3
+05:28,[LVA 39-36] Plum Driving Floating Bank Jump Shot: Made (16 PTS),-32,18,1,,1628276,,1611661319,36,39,2,3
+05:07,[WAS 38-39] Sykes Jump Shot: Made (8 PTS) Assist: Hines-Allen (1 AST),-93,48,1,,1628279,1628899,1611661322,38,39,2,3
+04:57,[LVA 41-38] Young Floating Jump shot: Made (8 PTS) Assist: Plum (3 AST),86,102,1,,1629498,1628276,1611661319,38,41,2,3
+04:49,[WAS 41-41] Cloud 3pt Shot: Made (3 PTS) Assist: Sykes (4 AST),170,204,1,,204333,1628279,1611661322,41,41,3,3
+04:26,[LVA] Wilson Jump Shot: Missed,74,151,2,,1628932,,1611661319,41,41,0,3
+04:23,[WAS] Hines-Allen Rebound (Off:0 Def:3),74,151,4,,1628899,,1611661322,41,41,0,3
+04:17,[LVA] Plum Foul: Personal (1 PF),67,204,6,1628899,1628276,1629770,1611661319,41,41,0,3
+04:17,Timeout Officials,0,-80,9,,0,,0,41,41,0,3
+04:17,[LVA] Stokes Substitution replaced by Clark,0,-80,8,,204329,202252,1611661319,41,41,0,3
+04:08,[WAS] Sykes 3pt Shot: Missed,-219,102,2,,1628279,,1611661322,41,41,0,3
+04:04,[LVA] Wilson Rebound (Off:0 Def:5),-219,102,4,,1628932,,1611661319,41,41,0,3
+03:45,[LVA] Wilson Jump Shot: Missed,15,76,2,,1628932,,1611661319,41,41,0,3
+03:44,[LVA] Wilson Rebound (Off:1 Def:5),15,76,4,,1628932,,1611661319,41,41,0,3
+03:44,[LVA] Wilson Fadeaway Jump Shot: Missed,41,78,2,,1628932,,1611661319,41,41,0,3
+03:42,[WAS] Hines-Allen Rebound (Off:0 Def:4),41,78,4,,1628899,,1611661322,41,41,0,3
+03:34,[WAS] Hines-Allen Turnover : Lost Ball (3 TO) Steal:Clark (1 ST),54,188,5,202252,1628899,,1611661322,41,41,0,3
+03:22,[WAS] Hines-Allen Foul: Personal (3 PF) (2 FTA),-90,75,6,1628932,1628899,1629770,1611661322,41,41,0,3
+03:22,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,41,41,0,3
+03:22,[LVA] Team Rebound,0,-80,4,,0,,1611661319,41,41,0,3
+03:22,[LVA 42-41] Wilson Free Throw 2 of 2 (11 PTS),0,-80,3,,1628932,,1611661319,41,42,1,3
+03:09,[WAS 43-42] Cloud Jump Shot: Made (5 PTS) Assist: Hines-Allen (2 AST),-111,92,1,,204333,1628899,1611661322,43,42,2,3
+02:56,[LVA 45-43] Plum 3pt Shot: Made (19 PTS) Assist: Young (2 AST),186,146,1,,1628276,1629498,1611661319,43,45,3,3
+02:42,[WAS] Cloud Layup Shot: Missed,23,-1,2,,204333,,1611661322,43,45,0,3
+02:39,[LVA] Wilson Rebound (Off:1 Def:6),23,-1,4,,1628932,,1611661319,43,45,0,3
+02:35,[LVA] Plum Layup Shot: Missed,-7,16,2,,1628276,,1611661319,43,45,0,3
+02:33,[WAS] Hines-Allen Rebound (Off:0 Def:5),-7,16,4,,1628899,,1611661322,43,45,0,3
+02:29,[WAS] Walker-Kimbrough 3pt Shot: Missed,216,83,2,,1628278,,1611661322,43,45,0,3
+02:29,[LVA] Wilson Rebound (Off:1 Def:7),216,83,4,,1628932,,1611661319,43,45,0,3
+02:18,[WAS] Hawkins Foul: Personal (3 PF) (2 FTA),6,48,6,1628932,203403,100698,1611661322,43,45,0,3
+02:18,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,43,45,0,3
+02:18,[LVA] Team Rebound,0,-80,4,,0,,1611661319,43,45,0,3
+02:18,[WAS] Hines-Allen Substitution replaced by Meng,0,-80,8,,1628899,1641642,1611661322,43,45,0,3
+02:18,[WAS] Sykes Substitution replaced by Atkins,0,-80,8,,1628279,1628878,1611661322,43,45,0,3
+02:18,[WAS] Walker-Kimbrough Substitution replaced by Delle Donne,0,-80,8,,1628278,203399,1611661322,43,45,0,3
+02:18,[LVA] Gray Substitution replaced by Bell,0,-80,8,,203833,1631006,1611661319,43,45,0,3
+02:18,[LVA 46-43] Wilson Free Throw 2 of 2 (12 PTS),0,-80,3,,1628932,,1611661319,43,46,1,3
+02:06,[WAS 46-46] Atkins 3pt Shot: Made (11 PTS) Assist: Hawkins (1 AST),176,216,1,,1628878,203403,1611661322,46,46,3,3
+01:51,[LVA] Young Driving Layup Shot: Missed Block: Hawkins (1 BLK),36,1,2,203403,1629498,,1611661319,46,46,0,3
+01:51,[LVA] Team Rebound,36,1,4,,0,,1611661319,46,46,0,3
+01:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,46,0,3
+01:46,[LVA] Wilson Turnover : Lost Ball (2 TO) Steal:Hawkins (2 ST),115,107,5,203403,1628932,,1611661319,46,46,0,3
+01:39,[WAS 49-46] Atkins 3pt Shot: Made (14 PTS) Assist: Cloud (5 AST),-33,253,1,,1628878,204333,1611661322,49,46,3,3
+01:38,[LVA] Team Timeout : Short,0,-80,9,,1611661319,,1611661319,49,46,0,3
+01:27,[WAS] Hawkins Foul: Personal (4 PF) (2 FTA),-49,53,6,1628932,203403,1629770,1611661322,49,46,0,3
+01:27,[LVA 47-49] Wilson Free Throw 1 of 2 (13 PTS),0,-80,3,,1628932,,1611661319,49,47,1,3
+01:27,[WAS] Hawkins Substitution replaced by Austin,0,-80,8,,203403,1631022,1611661322,49,47,0,3
+01:27,[LVA] Young Substitution replaced by George,0,-80,8,,1629498,204297,1611661319,49,47,0,3
+01:27,[LVA 48-49] Wilson Free Throw 2 of 2 (14 PTS),0,-80,3,,1628932,,1611661319,49,48,1,3
+01:08,[WAS] Meng 3pt Shot: Missed,221,80,2,,1641642,,1611661322,49,48,0,3
+01:05,[LVA] George Rebound (Off:0 Def:4),221,80,4,,204297,,1611661319,49,48,0,3
+00:56.5,[LVA] Wilson Jump Shot: Missed,71,94,2,,1628932,,1611661319,49,48,0,3
+00:54.6,[WAS] Atkins Rebound (Off:0 Def:1),71,94,4,,1628878,,1611661322,49,48,0,3
+00:39.5,[WAS 51-48] Delle Donne Turnaround Jump Shot: Made (12 PTS),-71,101,1,,203399,,1611661322,51,48,2,3
+00:22.7,[LVA] Bell 3pt Shot: Missed,233,-17,2,,1631006,,1611661319,51,48,0,3
+00:20.8,[WAS] Delle Donne Rebound (Off:0 Def:4),233,-17,4,,203399,,1611661322,51,48,0,3
+00:16.7,[LVA] Clark Foul: Shooting (2 PF) (2 FTA),32,19,6,1631022,202252,1629770,1611661319,51,48,0,3
+00:16.7,[WAS] Austin Free Throw 1 of 2 Missed,0,-80,3,,1631022,,1611661322,51,48,0,3
+00:16.7,[WAS] Team Rebound,0,-80,4,,0,,1611661322,51,48,0,3
+00:16.7,[LVA] Clark Substitution replaced by Gray,0,-80,8,,202252,203833,1611661319,51,48,0,3
+00:16.7,[WAS 52-48] Austin Free Throw 2 of 2 (5 PTS),0,-80,3,,1631022,,1611661322,52,48,1,3
+00:02.2,[LVA] Bell 3pt Shot: Missed,-223,193,2,,1631006,,1611661319,52,48,0,3
+00:02.2,[WAS] Delle Donne Rebound (Off:0 Def:5),-223,193,4,,203399,,1611661322,52,48,0,3
+00:00.0,End Period,0,-80,13,,0,,0,52,48,0,3
+10:00,Start Period,0,-80,12,,0,,0,52,48,0,4
+09:36,[LVA] Gray Fadeaway Jump Shot: Missed,-37,126,2,,203833,,1611661319,52,48,0,4
+09:32,[WAS] Austin Rebound (Off:1 Def:6),-37,126,4,,1631022,,1611661322,52,48,0,4
+09:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,48,0,4
+09:09,[WAS] Team Turnover : Shot Clock Turnover,-66,11,5,,0,1629176,1611661322,52,48,0,4
+08:59,[LVA] Bell Jump Shot: Missed,-90,166,2,,1631006,,1611661319,52,48,0,4
+08:55,[WAS] Meng Rebound (Off:0 Def:1),-90,166,4,,1641642,,1611661322,52,48,0,4
+08:50,[WAS 54-48] Meng Layup Shot: Made (4 PTS),16,10,1,,1641642,,1611661322,54,48,2,4
+08:29,[LVA] Stokes 3pt Shot: Missed,225,16,2,,204329,,1611661319,54,48,0,4
+08:28,[LVA] Team Rebound,225,16,4,,0,,1611661319,54,48,0,4
+08:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,48,0,4
+08:28,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,54,48,0,4
+08:28,[LVA] Bell Substitution replaced by Young,0,-80,8,,1631006,1629498,1611661319,54,48,0,4
+08:28,[LVA] George Substitution replaced by Wilson,0,-80,8,,204297,1628932,1611661319,54,48,0,4
+08:16,[LVA] Clark Floating Jump shot: Missed,-53,83,2,,202252,,1611661319,54,48,0,4
+08:15,[LVA] Wilson Rebound (Off:2 Def:7),-53,83,4,,1628932,,1611661319,54,48,0,4
+08:12,Jump Ball Wilson vs Walker-Kimbrough (Clark gains possession),0,-80,10,1628278,1628932,202252,1611661319,54,48,0,4
+08:12,[LVA] Clark 3pt Shot: Missed,180,160,2,,202252,,1611661319,54,48,0,4
+08:12,[LVA] Team Rebound,180,160,4,,0,,1611661319,54,48,0,4
+08:12,[LVA] Team Turnover : Shot Clock Turnover,116,126,5,,0,1629176,1611661319,54,48,0,4
+07:59,[WAS 57-48] Delle Donne 3pt Shot: Made (15 PTS) Assist: Sykes (5 AST),117,230,1,,203399,1628279,1611661322,57,48,3,4
+07:41,[LVA 50-57] Stokes Layup Shot: Made (2 PTS) Assist: Gray (4 AST),41,12,1,,204329,203833,1611661319,57,50,2,4
+07:34,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,57,50,0,4
+07:34,[WAS] Austin Substitution replaced by Hawkins,0,-80,8,,1631022,203403,1611661322,57,50,0,4
+07:34,[WAS] Meng Substitution replaced by Hines-Allen,0,-80,8,,1641642,1628899,1611661322,57,50,0,4
+07:34,[WAS] Delle Donne Substitution replaced by Cloud,0,-80,8,,203399,204333,1611661322,57,50,0,4
+07:34,[LVA] Clark Substitution replaced by Plum,0,-80,8,,202252,1628276,1611661319,57,50,0,4
+07:25,[WAS] Cloud 3pt Shot: Missed,-182,175,2,,204333,,1611661322,57,50,0,4
+07:20,[WAS] Hawkins Rebound (Off:2 Def:3),-182,175,4,,203403,,1611661322,57,50,0,4
+07:19,[WAS] Sykes Jump Shot: Missed,42,211,2,,1628279,,1611661322,57,50,0,4
+07:19,[LVA] Wilson Rebound (Off:2 Def:8),38,253,4,,1628932,,1611661319,57,50,0,4
+06:53,[LVA] Plum 3pt Shot: Missed,-204,134,2,,1628276,,1611661319,57,50,0,4
+06:51,[LVA] Stokes Rebound (Off:1 Def:4),-204,134,4,,204329,,1611661319,57,50,0,4
+06:49,[LVA] Stokes Putback Layup Shot: Missed,-54,23,2,,204329,,1611661319,57,50,0,4
+06:46,[WAS] Hawkins Rebound (Off:2 Def:4),-54,23,4,,203403,,1611661322,57,50,0,4
+06:29,[WAS] Walker-Kimbrough Jump Shot: Missed,159,96,2,,1628278,,1611661322,57,50,0,4
+06:27,[LVA] Gray Rebound (Off:0 Def:6),159,96,4,,203833,,1611661319,57,50,0,4
+06:17,[LVA 52-57] Gray Fadeaway Jump Shot: Made (7 PTS),-128,54,1,,203833,,1611661319,57,52,2,4
+05:58,[WAS] Hawkins Jump Shot: Missed,-57,150,2,,203403,,1611661322,57,52,0,4
+05:54,[WAS] Cloud Rebound (Off:1 Def:3),-57,150,4,,204333,,1611661322,57,52,0,4
+05:52,[WAS 59-52] Sykes Cutting Layup Shot: Made (10 PTS) Assist: Cloud (6 AST),20,8,1,,1628279,204333,1611661322,59,52,2,4
+05:43,[LVA] Wilson Turnover : Out of Bounds - Bad Pass Turnover (3 TO),46,141,5,,1628932,100698,1611661319,59,52,0,4
+05:43,[LVA] Stokes Substitution replaced by Clark,0,-80,8,,204329,202252,1611661319,59,52,0,4
+05:27,[WAS 61-52] Hawkins Cutting Layup Shot: Made (2 PTS) Assist: Walker-Kimbrough (2 AST),3,4,1,,203403,1628278,1611661322,61,52,2,4
+05:20,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,61,52,0,4
+05:16,[LVA] Young Floating Jump shot: Missed,135,44,2,,1629498,,1611661319,61,52,0,4
+05:13,[WAS] Cloud Rebound (Off:1 Def:4),135,44,4,,204333,,1611661322,61,52,0,4
+05:00,[WAS 63-52] Sykes Pullup Jump shot: Made (12 PTS),-19,175,1,,1628279,,1611661322,63,52,2,4
+04:38,[WAS] Hines-Allen Foul: Shooting (4 PF) (2 FTA),56,-11,6,1629498,1628899,1629176,1611661322,63,52,0,4
+04:38,[LVA 53-63] Young Free Throw 1 of 2 (9 PTS),0,-80,3,,1629498,,1611661319,63,53,1,4
+04:38,[LVA 54-63] Young Free Throw 2 of 2 (10 PTS),0,-80,3,,1629498,,1611661319,63,54,1,4
+04:23,[WAS] Sykes Jump Shot: Missed,94,78,2,,1628279,,1611661322,63,54,0,4
+04:20,[LVA] Young Rebound (Off:1 Def:4),94,78,4,,1629498,,1611661319,63,54,0,4
+04:09,[LVA] Plum Driving Layup Shot: Missed,43,17,2,,1628276,,1611661319,63,54,0,4
+04:05,[WAS] Hines-Allen Rebound (Off:0 Def:6),43,17,4,,1628899,,1611661322,63,54,0,4
+04:01,[WAS] Sykes Layup Shot: Missed,-32,28,2,,1628279,,1611661322,63,54,0,4
+03:58,[WAS] Hawkins Rebound (Off:3 Def:4),-32,28,4,,203403,,1611661322,63,54,0,4
+03:57,[WAS] Hawkins Layup Shot: Missed,22,11,2,,203403,,1611661322,63,54,0,4
+03:55,[LVA] Wilson Rebound (Off:2 Def:9),22,11,4,,1628932,,1611661319,63,54,0,4
+03:50,[LVA] Gray Jump Shot: Missed,-79,135,2,,203833,,1611661319,63,54,0,4
+03:50,[WAS] Sykes Rebound (Off:0 Def:3),-79,135,4,,1628279,,1611661322,63,54,0,4
+03:36,[WAS] Walker-Kimbrough 3pt Shot: Missed,-229,-23,2,,1628278,,1611661322,63,54,0,4
+03:33,[LVA] Clark Rebound (Off:1 Def:4),-229,-23,4,,202252,,1611661319,63,54,0,4
+03:25,[LVA] Gray 3pt Shot: Missed,144,212,2,,203833,,1611661319,63,54,0,4
+03:22,[WAS] Sykes Rebound (Off:0 Def:4),144,212,4,,1628279,,1611661322,63,54,0,4
+03:04,[WAS 66-54] Hawkins 3pt Shot: Made (5 PTS) Assist: Cloud (7 AST),-233,-16,1,,203403,204333,1611661322,66,54,3,4
+03:04,[LVA] Team Timeout : Short,0,-80,9,,1611661319,,1611661319,66,54,0,4
+03:04,[WAS] Hines-Allen Substitution replaced by Austin,0,-80,8,,1628899,1631022,1611661322,66,54,0,4
+03:04,[WAS] Hawkins Substitution replaced by Delle Donne,0,-80,8,,203403,203399,1611661322,66,54,0,4
+03:04,[WAS] Walker-Kimbrough Substitution replaced by Atkins,0,-80,8,,1628278,1628878,1611661322,66,54,0,4
+03:04,[LVA] Young Substitution replaced by Bell,0,-80,8,,1629498,1631006,1611661319,66,54,0,4
+03:04,[LVA] Gray Substitution replaced by George,0,-80,8,,203833,204297,1611661319,66,54,0,4
+03:04,[LVA] Wilson Substitution replaced by Coates,0,-80,8,,1628932,1628268,1611661319,66,54,0,4
+03:04,[LVA] Clark Substitution replaced by Colson,0,-80,8,,202252,202641,1611661319,66,54,0,4
+02:51,[LVA 57-66] George 3pt Shot: Made (5 PTS) Assist: Colson (1 AST),-172,206,1,,204297,202641,1611661319,66,57,3,4
+02:24,[WAS 68-57] Delle Donne Turnaround Jump Shot: Made (17 PTS) Assist: Sykes (6 AST),-24,144,1,,203399,1628279,1611661322,68,57,2,4
+02:06,[LVA 60-68] Colson 3pt Shot: Made (3 PTS) Assist: Bell (1 AST),-232,-22,1,,202641,1631006,1611661319,68,60,3,4
+01:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,60,0,4
+01:42,[LVA] George Foul: Away From Play (3 PF) (1 FTA),-72,118,6,1628878,204297,1629770,1611661319,68,60,0,4
+01:42,[WAS 69-60] Delle Donne Free Throw 1 of 1 (18 PTS),0,-80,3,,203399,,1611661322,69,60,1,4
+01:36,[WAS 71-60] Cloud Layup Shot: Made (7 PTS) Assist: Atkins (1 AST),24,0,1,,204333,1628878,1611661322,71,60,2,4
+01:27,[WAS] Atkins Foul: Shooting (1 PF) (2 FTA),-24,16,6,1628268,1628878,1629770,1611661322,71,60,0,4
+01:27,[LVA] Coates Free Throw 1 of 2 Missed,0,-80,3,,1628268,,1611661319,71,60,0,4
+01:27,[LVA] Team Rebound,0,-80,4,,0,,1611661319,71,60,0,4
+01:27,[LVA] Coates Free Throw 2 of 2 Missed,0,-80,3,,1628268,,1611661319,71,60,0,4
+01:24,[WAS] Delle Donne Rebound (Off:0 Def:6),0,-80,4,,203399,,1611661322,71,60,0,4
+01:09,[WAS 74-60] Delle Donne 3pt Shot: Made (21 PTS) Assist: Cloud (8 AST),-45,242,1,,203399,204333,1611661322,74,60,3,4
+00:58.6,[LVA] Bell 3pt Shot: Missed,-240,-14,2,,1631006,,1611661319,74,60,0,4
+00:55.8,[LVA] Coates Rebound (Off:1 Def:0),-240,-14,4,,1628268,,1611661319,74,60,0,4
+00:53.4,[LVA] Bell Turnover : Bad Pass (1 TO) Steal:Austin (2 ST),-200,195,5,1631022,1631006,,1611661319,74,60,0,4
+00:49.7,[WAS] Austin Running Layup Shot: Missed,-8,-8,2,,1631022,,1611661322,74,60,0,4
+00:49.7,[WAS] Atkins Rebound (Off:1 Def:1),-8,-8,4,,1628878,,1611661322,74,60,0,4
+00:49.7,[WAS 76-60] Atkins Putback Layup Shot: Made (16 PTS),-21,0,1,,1628878,,1611661322,76,60,2,4
+00:39.3,[LVA 62-76] Plum Floating Jump shot: Made (21 PTS),-70,26,1,,1628276,,1611661319,76,62,2,4
+00:25.0,[WAS 78-62] Sykes Cutting Layup Shot: Made (14 PTS) Assist: Cloud (9 AST),-30,0,1,,1628279,204333,1611661322,78,62,2,4
+00:11.6,[LVA] Colson 3pt Shot: Missed,-179,180,2,,202641,,1611661319,78,62,0,4
+00:08.7,[WAS] Delle Donne Rebound (Off:0 Def:7),-179,180,4,,203399,,1611661322,78,62,0,4
+00:00.0,End Period,0,-80,13,,0,,0,78,62,0,4

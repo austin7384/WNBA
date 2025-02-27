@@ -1,0 +1,405 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball Boston vs Austin (Mitchell gains possession),0,-80,10,1631022,1641648,1628909,1611661325,0,0,0,1
+09:40,[IND] Wheeler Reverse Layup Shot: Missed Block: Austin (1 BLK),13,-3,2,1631022,204365,,1611661325,0,0,0,1
+09:38,[WAS] Cloud Rebound (Off:0 Def:1),13,-3,4,,204333,,1611661322,0,0,0,1
+09:34,[WAS] Cloud Running Layup Shot: Missed,9,22,2,,204333,,1611661322,0,0,0,1
+09:34,[IND] Team Rebound,9,22,4,,0,,1611661325,0,0,0,1
+09:34,[WAS] Austin Foul: Loose Ball (1 PF),-26,840,6,1631086,1631022,200667,1611661322,0,0,0,1
+09:18,[IND] Smith Turnaround Fadeaway shot: Missed,-120,101,2,,1631019,,1611661325,0,0,0,1
+09:17,[WAS] Team Rebound,-120,101,4,,0,,1611661322,0,0,0,1
+09:17,[IND] Boston Foul: Loose Ball (1 PF),-96,817,6,1631022,1641648,200667,1611661325,0,0,0,1
+09:08,[WAS] Cloud Turnover : Bad Pass (1 TO) Steal:Boston (1 ST),-135,214,5,1641648,204333,,1611661322,0,0,0,1
+08:56,[IND] Boston Cutting Layup Shot: Missed,-1,6,2,,1641648,,1611661325,0,0,0,1
+08:53,[WAS] Delle Donne Rebound (Off:0 Def:1),-1,6,4,,203399,,1611661322,0,0,0,1
+08:45,[WAS] Sykes Turnover : Lost Ball (1 TO) Steal:Hull (1 ST),28,205,5,1631086,1628279,,1611661322,0,0,0,1
+08:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+08:41,[IND] Team Turnover : 5 Second Violation,143,-21,5,,0,,1611661325,0,0,0,1
+08:25,[WAS] Delle Donne Driving Floating Jump Shot: Missed,9,117,2,,203399,,1611661322,0,0,0,1
+08:22,[IND] Boston Rebound (Off:0 Def:1),9,117,4,,1641648,,1611661325,0,0,0,1
+08:11,[IND] Smith Reverse Layup Shot: Missed Block: Delle Donne (1 BLK),5,1,2,203399,1631019,,1611661325,0,0,0,1
+08:09,[IND] Boston Rebound (Off:1 Def:1),5,1,4,,1641648,,1611661325,0,0,0,1
+08:08,[IND 2-0] Boston Putback Layup Shot: Made (2 PTS),7,23,1,,1641648,,1611661325,2,0,2,1
+07:53,[WAS] Sykes 3pt Shot: Missed,-219,101,2,,1628279,,1611661322,2,0,0,1
+07:51,[IND] Wheeler Rebound (Off:0 Def:1),-219,101,4,,204365,,1611661325,2,0,0,1
+07:31,[IND 4-0] Boston Layup Shot: Made (4 PTS) Assist: Smith (1 AST),5,-8,1,,1641648,1631019,1611661325,4,0,2,1
+07:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,0,0,1
+07:10,[IND] Wheeler Foul: Shooting (1 PF) (2 FTA),-17,20,6,204333,204365,1629771,1611661325,4,0,0,1
+07:10,[WAS 1-4] Cloud Free Throw 1 of 2 (1 PTS),0,-80,3,,204333,,1611661322,4,1,1,1
+07:10,[WAS 2-4] Cloud Free Throw 2 of 2 (2 PTS),0,-80,3,,204333,,1611661322,4,2,1,1
+06:58,[IND] Mitchell Driving Finger Roll Layup Shot: Missed,6,2,2,,1628909,,1611661325,4,2,0,1
+06:55,[WAS] Austin Rebound (Off:0 Def:1),6,2,4,,1631022,,1611661322,4,2,0,1
+06:39,[IND] Hull Foul: Shooting (1 PF) (3 FTA),-147,207,6,1628878,1631086,1629771,1611661325,4,2,0,1
+06:39,[WAS] Atkins Free Throw 1 of 3 Missed,0,-80,3,,1628878,,1611661322,4,2,0,1
+06:39,[WAS] Team Rebound,0,-80,4,,0,,1611661322,4,2,0,1
+06:39,[WAS] Atkins Free Throw 2 of 3 Missed,0,-80,3,,1628878,,1611661322,4,2,0,1
+06:39,[WAS] Team Rebound,0,-80,4,,0,,1611661322,4,2,0,1
+06:39,[WAS 3-4] Atkins Free Throw 3 of 3 (1 PTS),0,-80,3,,1628878,,1611661322,4,3,1,1
+06:29,[IND] Hull 3pt Shot: Missed,-229,8,2,,1631086,,1611661325,4,3,0,1
+06:25,[WAS] Cloud Rebound (Off:0 Def:2),-229,8,4,,204333,,1611661322,4,3,0,1
+06:20,[WAS] Atkins Running Jump Shot: Missed,42,47,2,,1628878,,1611661322,4,3,0,1
+06:18,[WAS] Austin Rebound (Off:1 Def:1),42,47,4,,1631022,,1611661322,4,3,0,1
+06:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,3,0,1
+06:14,[WAS 5-4] Delle Donne Jump Shot: Made (2 PTS) Assist: Sykes (1 AST),132,49,1,,203399,1628279,1611661322,4,5,2,1
+05:54,[IND 6-5] Hull Cutting Layup Shot: Made (2 PTS) Assist: Wheeler (1 AST),18,-5,1,,1631086,204365,1611661325,6,5,2,1
+05:43,[WAS 8-6] Atkins 3pt Shot: Made (4 PTS) Assist: Cloud (1 AST),198,142,1,,1628878,204333,1611661322,6,8,3,1
+05:21,[IND] Mitchell Turnover : Step Out of Bounds Turnover (1 TO),234,88,5,,1628909,,1611661325,6,8,0,1
+05:05,[WAS 10-6] Austin Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Cloud (2 AST),3,22,1,,1631022,204333,1611661322,6,10,2,1
+04:52,[IND] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (1 TO),106,290,5,,204365,,1611661325,6,10,0,1
+04:52,Timeout Officials,0,-80,9,,0,,0,6,10,0,1
+04:52,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,6,10,0,1
+04:52,[WAS] Cloud Substitution replaced by Meng,0,-80,8,,204333,1641642,1611661322,6,10,0,1
+04:30,[WAS] Sykes 3pt Shot: Missed,-84,237,2,,1628279,,1611661322,6,10,0,1
+04:27,[IND] Wallace Rebound (Off:0 Def:1),-84,237,4,,1628929,,1611661325,6,10,0,1
+04:21,[IND] Mitchell 3pt Shot: Missed,208,140,2,,1628909,,1611661325,6,10,0,1
+04:19,[IND] Boston Rebound (Off:2 Def:1),208,140,4,,1641648,,1611661325,6,10,0,1
+04:19,[WAS] Atkins Foul: Shooting (1 PF) (2 FTA),-3,17,6,1641648,1628878,1629771,1611661322,6,10,0,1
+04:19,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,6,10,0,1
+04:19,[IND] Team Rebound,0,-80,4,,0,,1611661325,6,10,0,1
+04:19,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,6,10,0,1
+04:19,[IND 7-10] Boston Free Throw 2 of 2 (5 PTS),0,-80,3,,1641648,,1611661325,7,10,1,1
+04:11,[WAS] Sykes Driving Finger Roll Layup Shot: Missed,4,21,2,,1628279,,1611661322,7,10,0,1
+04:07,[IND] Smith Rebound (Off:0 Def:1),4,21,4,,1631019,,1611661325,7,10,0,1
+04:03,[IND 9-10] Smith Running Layup Shot: Made (2 PTS),2,-15,1,,1631019,,1611661325,9,10,2,1
+03:56,[IND] Hull Foul: Personal (2 PF),73,122,6,1628878,1631086,1629771,1611661325,9,10,0,1
+03:52,[WAS] Atkins 3pt Shot: Missed,170,199,2,,1628878,,1611661322,9,10,0,1
+03:48,[WAS] Hines-Allen Rebound (Off:1 Def:0),170,199,4,,1628899,,1611661322,9,10,0,1
+03:42,[WAS] Meng 3pt Shot: Missed,235,78,2,,1641642,,1611661322,9,10,0,1
+03:35,[IND] Mitchell Rebound (Off:0 Def:1),235,78,4,,1628909,,1611661325,9,10,0,1
+03:25,[IND 11-10] Wallace Pullup Jump shot: Made (2 PTS),-18,157,1,,1628929,,1611661325,11,10,2,1
+03:04,[WAS 12-11] Hines-Allen Driving Layup Shot: Made (2 PTS) Assist: Atkins (1 AST),-13,24,1,,1628899,1628878,1611661322,11,12,2,1
+02:50,[IND] Smith 3pt Shot: Missed,39,249,2,,1631019,,1611661325,11,12,0,1
+02:47,[WAS] Sykes Rebound (Off:0 Def:1),39,249,4,,1628279,,1611661322,11,12,0,1
+02:39,[WAS] Atkins Pullup Jump shot: Missed,84,176,2,,1628878,,1611661322,11,12,0,1
+02:37,[WAS] Sykes Rebound (Off:1 Def:1),84,176,4,,1628279,,1611661322,11,12,0,1
+02:36,[WAS] Sykes Putback Layup Shot: Missed,0,-5,2,,1628279,,1611661322,11,12,0,1
+02:34,[WAS] Sykes Rebound (Off:2 Def:1),0,-5,4,,1628279,,1611661322,11,12,0,1
+02:33,[WAS] Sykes Putback Layup Shot: Missed,10,4,2,,1628279,,1611661322,11,12,0,1
+02:31,[IND] Hull Rebound (Off:0 Def:1),10,4,4,,1631086,,1611661325,11,12,0,1
+02:25,[WAS] Atkins Foul: Shooting (2 PF) (2 FTA),11,5,6,1631086,1628878,1629771,1611661322,11,12,0,1
+02:25,[IND 12-12] Hull Free Throw 1 of 2 (3 PTS),0,-80,3,,1631086,,1611661325,12,12,1,1
+02:25,[IND] Boston Substitution replaced by Egbo,0,-80,8,,1641648,1631031,1611661325,12,12,0,1
+02:25,[WAS] Austin Substitution replaced by Hawkins,0,-80,8,,1631022,203403,1611661322,12,12,0,1
+02:25,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,12,12,0,1
+02:25,[IND 13-12] Hull Free Throw 2 of 2 (4 PTS),0,-80,3,,1631086,,1611661325,13,12,1,1
+02:08,[WAS] Hines-Allen Pullup Jump shot: Missed,60,143,2,,1628899,,1611661322,13,12,0,1
+02:06,[IND] Team Rebound,60,143,4,,0,,1611661325,13,12,0,1
+02:06,[WAS] Hines-Allen Foul: Loose Ball (1 PF),-4,827,6,1631086,1628899,1629771,1611661322,13,12,0,1
+02:06,[IND] Hull Substitution replaced by Vivians,0,-80,8,,1631086,1628927,1611661325,13,12,0,1
+01:57,[IND] Wallace Pullup Jump shot: Missed,74,156,2,,1628929,,1611661325,13,12,0,1
+01:54,[IND] Vivians Rebound (Off:1 Def:0),74,156,4,,1628927,,1611661325,13,12,0,1
+01:44,[IND 15-12] Smith Pullup Jump shot: Made (4 PTS) Assist: Wallace (1 AST),-4,141,1,,1631019,1628929,1611661325,15,12,2,1
+01:27,[WAS 15-15] Meng 3pt Shot: Made (3 PTS) Assist: Sykes (2 AST),-188,166,1,,1641642,1628279,1611661322,15,15,3,1
+01:12,[IND 17-15] Mitchell Pullup Jump shot: Made (2 PTS),152,75,1,,1628909,,1611661325,17,15,2,1
+01:02,[WAS] Walker-Kimbrough Jump Shot: Missed,161,135,2,,1628278,,1611661322,17,15,0,1
+00:59.2,[IND] Egbo Rebound (Off:0 Def:1),161,135,4,,1631031,,1611661325,17,15,0,1
+00:50.4,[IND] Smith Layup Shot: Missed,-4,3,2,,1631019,,1611661325,17,15,0,1
+00:48.5,[WAS] Meng Rebound (Off:0 Def:1),-4,3,4,,1641642,,1611661322,17,15,0,1
+00:34.2,[WAS] Hawkins Reverse Layup Shot: Missed,6,41,2,,203403,,1611661322,17,15,0,1
+00:31.5,[IND] Egbo Rebound (Off:0 Def:2),6,41,4,,1631031,,1611661325,17,15,0,1
+00:19.3,[IND] Egbo Turnover : Lost Ball (1 TO) Steal:Sykes (1 ST),17,117,5,1628279,1631031,,1611661325,17,15,0,1
+00:15.7,[WAS 17-17] Sykes Running Finger Roll Layup Shot: Made (2 PTS) Assist: Hawkins (1 AST),-5,19,1,,1628279,203403,1611661322,17,17,2,1
+00:00.5,[IND 19-17] Mitchell Driving Finger Roll Layup Shot: Made (4 PTS),11,-1,1,,1628909,,1611661325,19,17,2,1
+00:00.0,End Period,0,-80,13,,0,,0,19,17,0,1
+10:00,Start Period,0,-80,12,,0,,0,19,17,0,2
+09:45,[WAS 19-19] Delle Donne Pullup Jump shot: Made (4 PTS),-127,49,1,,203399,,1611661322,19,19,2,2
+09:26,[IND] Wallace Pullup Jump shot: Missed,-101,168,2,,1628929,,1611661325,19,19,0,2
+09:22,[IND] Egbo Rebound (Off:1 Def:2),-101,168,4,,1631031,,1611661325,19,19,0,2
+09:20,[IND] Egbo Layup Shot: Missed Block: Delle Donne (2 BLK),2,16,2,203399,1631031,,1611661325,19,19,0,2
+09:19,[WAS] Cloud Rebound (Off:0 Def:3),2,16,4,,204333,,1611661322,19,19,0,2
+09:17,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,19,19,0,2
+09:08,[WAS] Hawkins Foul: Offensive (1 PF),-5,64,6,204365,203403,200667,1611661322,19,19,0,2
+09:08,[WAS] Hawkins Turnover : Offensive Foul Turnover (1 TO),-5,64,5,,203403,,1611661322,19,19,0,2
+08:53,[IND] Caldwell Turnover : Bad Pass (1 TO) Steal:Hawkins (1 ST),-137,228,5,203403,1630471,,1611661325,19,19,0,2
+08:44,[WAS 22-19] Meng 3pt Shot: Made (6 PTS) Assist: Cloud (3 AST),189,193,1,,1641642,204333,1611661322,19,22,3,2
+08:28,[IND] Egbo Layup Shot: Missed,5,-6,2,,1631031,,1611661325,19,22,0,2
+08:25,[IND] Egbo Rebound (Off:2 Def:2),5,-6,4,,1631031,,1611661325,19,22,0,2
+08:25,[IND 21-22] Egbo Tip Layup Shot: Made (2 PTS),0,-5,1,,1631031,,1611661325,21,22,2,2
+08:21,[IND] Wallace Foul: Personal (1 PF),-146,171,6,1628278,1628929,1628479,1611661325,21,22,0,2
+08:15,[IND] Wheeler Foul: Shooting (2 PF) (2 FTA),-7,20,6,204333,204365,200667,1611661325,21,22,0,2
+08:15,[WAS 23-21] Cloud Free Throw 1 of 2 (3 PTS),0,-80,3,,204333,,1611661322,21,23,1,2
+08:15,[IND] Wheeler Substitution replaced by Berger,0,-80,8,,204365,1641658,1611661325,21,23,0,2
+08:15,[WAS 24-21] Cloud Free Throw 2 of 2 (4 PTS),0,-80,3,,204333,,1611661322,21,24,1,2
+08:05,[WAS] Meng Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,1641642,1628479,1611661322,21,24,0,2
+08:05,[IND] Wallace Free Throw Technical Missed,0,-80,3,,1628929,,1611661325,21,24,0,2
+08:05,[IND] Team Rebound,0,-80,4,,0,,1611661325,21,24,0,2
+08:01,[IND 23-24] Egbo Reverse Layup Shot: Made (4 PTS) Assist: Caldwell (1 AST),-6,-4,1,,1631031,1630471,1611661325,23,24,2,2
+07:50,[WAS] Hawkins Pullup Jump shot: Missed,32,62,2,,203403,,1611661322,23,24,0,2
+07:49,[IND] Egbo Rebound (Off:2 Def:3),32,62,4,,1631031,,1611661325,23,24,0,2
+07:42,[WAS] Meng Foul: Personal (2 PF),134,115,6,1631031,1641642,200667,1611661322,23,24,0,2
+07:31,[IND 25-24] Egbo Jump Shot: Made (6 PTS) Assist: Berger (1 AST),154,51,1,,1631031,1641658,1611661325,25,24,2,2
+07:18,[WAS] Delle Donne 3pt Shot: Missed,161,236,2,,203399,,1611661322,25,24,0,2
+07:16,[IND] Wallace Rebound (Off:0 Def:2),161,236,4,,1628929,,1611661325,25,24,0,2
+07:12,[IND 27-24] Vivians Running Layup Shot: Made (2 PTS) Assist: Wallace (2 AST),12,8,1,,1628927,1628929,1611661325,27,24,2,2
+06:58,[IND] Vivians Foul: Personal (1 PF),133,47,6,203399,1628927,200667,1611661325,27,24,0,2
+06:58,[WAS] Meng Substitution replaced by Austin,0,-80,8,,1641642,1631022,1611661322,27,24,0,2
+06:58,[WAS] Hawkins Substitution replaced by Atkins,0,-80,8,,203403,1628878,1611661322,27,24,0,2
+06:58,[IND] Egbo Substitution replaced by Boston,0,-80,8,,1631031,1641648,1611661325,27,24,0,2
+06:51,[IND] Vivians Foul: Shooting (2 PF) (2 FTA),-122,24,6,203399,1628927,1628479,1611661325,27,24,0,2
+06:51,[WAS 25-27] Delle Donne Free Throw 1 of 2 (5 PTS),0,-80,3,,203399,,1611661322,27,25,1,2
+06:51,[WAS 26-27] Delle Donne Free Throw 2 of 2 (6 PTS),0,-80,3,,203399,,1611661322,27,26,1,2
+06:32,[WAS] Atkins Foul: Shooting (3 PF) (2 FTA),5,27,6,1628927,1628878,1628479,1611661322,27,26,0,2
+06:32,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,27,26,0,2
+06:32,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661322,27,26,0,2
+06:32,[WAS] Atkins Substitution replaced by Sykes,0,-80,8,,1628878,1628279,1611661322,27,26,0,2
+06:32,[WAS] Cloud Substitution replaced by Toliver,0,-80,8,,204333,201911,1611661322,27,26,0,2
+06:32,[IND 28-26] Vivians Free Throw 1 of 2 (3 PTS),0,-80,3,,1628927,,1611661325,28,26,1,2
+06:32,[IND 29-26] Vivians Free Throw 2 of 2 (4 PTS),0,-80,3,,1628927,,1611661325,29,26,1,2
+06:12,[WAS] Walker-Kimbrough Jump Shot: Missed,190,67,2,,1628278,,1611661322,29,26,0,2
+06:09,[IND] Vivians Rebound (Off:1 Def:1),190,67,4,,1628927,,1611661325,29,26,0,2
+06:06,[IND] Caldwell 3pt Shot: Missed,-239,-5,2,,1630471,,1611661325,29,26,0,2
+06:02,[IND] Berger Rebound (Off:1 Def:0),-239,-5,4,,1641658,,1611661325,29,26,0,2
+05:54,[IND 31-26] Boston Layup Shot: Made (7 PTS) Assist: Berger (2 AST),6,-10,1,,1641648,1641658,1611661325,31,26,2,2
+05:42,[WAS] Sykes Turnover : Out of Bounds - Bad Pass Turnover (2 TO),45,237,5,,1628279,,1611661322,31,26,0,2
+05:42,[IND] Vivians Substitution replaced by Smith,0,-80,8,,1628927,1631019,1611661325,31,26,0,2
+05:22,[IND 33-26] Boston Layup Shot: Made (9 PTS),7,7,1,,1641648,,1611661325,33,26,2,2
+05:16,[WAS 28-33] Sykes Driving Layup Shot: Made (4 PTS),6,13,1,,1628279,,1611661322,33,28,2,2
+05:16,[IND] Caldwell Foul: Shooting (1 PF) (1 FTA),6,13,6,1628279,1630471,1629771,1611661325,33,28,0,2
+05:16,[WAS 29-33] Sykes Free Throw 1 of 1 (5 PTS),0,-80,3,,1628279,,1611661322,33,29,1,2
+04:59,[IND 35-29] Smith Driving Floating Bank Jump Shot: Made (6 PTS),47,-17,1,,1631019,,1611661325,35,29,2,2
+04:53,[WAS] Sykes Turnover : Traveling (3 TO),124,124,5,,1628279,,1611661322,35,29,0,2
+04:31,[IND 37-29] Berger Pullup Jump shot: Made (2 PTS) Assist: Boston (1 AST),47,147,1,,1641658,1641648,1611661325,37,29,2,2
+04:09,[WAS] Delle Donne Driving Layup Shot: Missed,-1,25,2,,203399,,1611661322,37,29,0,2
+04:08,[WAS] Delle Donne Rebound (Off:1 Def:1),-1,25,4,,203399,,1611661322,37,29,0,2
+04:07,[WAS] Delle Donne Tip Layup Shot: Missed,0,-5,2,,203399,,1611661322,37,29,0,2
+04:05,[WAS] Team Rebound,0,-5,4,,0,,1611661322,37,29,0,2
+04:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,29,0,2
+03:56,[WAS] Toliver Turnover : Lost Ball (1 TO) Steal:Wallace (1 ST),-133,216,5,1628929,201911,,1611661322,37,29,0,2
+03:52,[WAS] Walker-Kimbrough Foul: Shooting (1 PF) (2 FTA),16,32,6,1628929,1628278,200667,1611661322,37,29,0,2
+03:52,[IND] Wallace Free Throw 1 of 2 Missed,0,-80,3,,1628929,,1611661325,37,29,0,2
+03:52,[IND] Team Rebound,0,-80,4,,0,,1611661325,37,29,0,2
+03:52,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,37,29,0,2
+03:52,[WAS] Walker-Kimbrough Substitution replaced by Cloud,0,-80,8,,1628278,204333,1611661322,37,29,0,2
+03:52,[IND 38-29] Wallace Free Throw 2 of 2 (3 PTS),0,-80,3,,1628929,,1611661325,38,29,1,2
+03:42,[WAS] Cloud Driving Layup Shot: Missed Block: Wallace (1 BLK),2,52,2,1628929,204333,,1611661322,38,29,0,2
+03:42,[IND] Wallace Rebound (Off:0 Def:3),2,52,4,,1628929,,1611661325,38,29,0,2
+03:32,[IND] Smith Floating Jump shot: Missed,147,-19,2,,1631019,,1611661325,38,29,0,2
+03:30,[WAS] Austin Rebound (Off:1 Def:2),147,-19,4,,1631022,,1611661322,38,29,0,2
+03:21,[WAS 32-38] Toliver 3pt Shot: Made (3 PTS) Assist: Cloud (4 AST),-230,-26,1,,201911,204333,1611661322,38,32,3,2
+03:04,[WAS] Sykes Foul: Shooting (1 PF) (2 FTA),-18,11,6,1641658,1628279,1628479,1611661322,38,32,0,2
+03:04,[IND 39-32] Berger Free Throw 1 of 2 (3 PTS),0,-80,3,,1641658,,1611661325,39,32,1,2
+03:04,[IND] Caldwell Substitution replaced by Mitchell,0,-80,8,,1630471,1628909,1611661325,39,32,0,2
+03:04,[IND 40-32] Berger Free Throw 2 of 2 (4 PTS),0,-80,3,,1641658,,1611661325,40,32,1,2
+02:53,[WAS 34-40] Hines-Allen Driving Layup Shot: Made (4 PTS) Assist: Sykes (3 AST),-4,4,1,,1628899,1628279,1611661322,40,34,2,2
+02:53,[IND] Smith Foul: Shooting (1 PF) (1 FTA),-4,4,6,1628899,1631019,200667,1611661325,40,34,0,2
+02:53,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,40,34,0,2
+02:53,[WAS 35-40] Hines-Allen Free Throw 1 of 1 (5 PTS),0,-80,3,,1628899,,1611661322,40,35,1,2
+02:36,[IND] Wallace Pullup Jump shot: Missed,36,155,2,,1628929,,1611661325,40,35,0,2
+02:33,[IND] Boston Rebound (Off:3 Def:1),36,155,4,,1641648,,1611661325,40,35,0,2
+02:29,[IND] Boston Layup Shot: Missed,4,6,2,,1641648,,1611661325,40,35,0,2
+02:27,[WAS] Austin Rebound (Off:1 Def:3),4,6,4,,1631022,,1611661322,40,35,0,2
+02:10,[WAS 38-40] Toliver 3pt Shot: Made (6 PTS) Assist: Hines-Allen (1 AST),238,4,1,,201911,1628899,1611661322,40,38,3,2
+01:47,[IND] Boston Turnover : Traveling (1 TO),-73,34,5,,1641648,,1611661325,40,38,0,2
+01:47,[WAS] Hines-Allen Substitution replaced by Delle Donne,0,-80,8,,1628899,203399,1611661322,40,38,0,2
+01:28,[WAS] Toliver 3pt Shot: Missed,233,14,2,,201911,,1611661322,40,38,0,2
+01:25,[IND] Wallace Rebound (Off:0 Def:4),233,14,4,,1628929,,1611661325,40,38,0,2
+01:03,[IND] Wallace 3pt Shot: Missed,171,190,2,,1628929,,1611661325,40,38,0,2
+01:01,[WAS] Delle Donne Rebound (Off:1 Def:2),171,190,4,,203399,,1611661322,40,38,0,2
+00:51.6,[WAS] Austin Turnaround Fadeaway shot: Missed,155,4,2,,1631022,,1611661322,40,38,0,2
+00:49.0,[IND] Boston Rebound (Off:3 Def:2),155,4,4,,1641648,,1611661325,40,38,0,2
+00:41.5,[WAS] Delle Donne Foul: Personal (1 PF) (2 FTA),0,11,6,1628909,203399,200667,1611661322,40,38,0,2
+00:41.5,[IND 41-38] Mitchell Free Throw 1 of 2 (5 PTS),0,-80,3,,1628909,,1611661325,41,38,1,2
+00:41.5,[IND] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,1628909,,1611661325,41,38,0,2
+00:38.6,[WAS] Cloud Rebound (Off:0 Def:4),0,-80,4,,204333,,1611661322,41,38,0,2
+00:27.3,[WAS] Toliver 3pt Shot: Missed,-221,54,2,,201911,,1611661322,41,38,0,2
+00:24.2,[IND] Boston Rebound (Off:3 Def:3),-221,54,4,,1641648,,1611661325,41,38,0,2
+00:04.3,[IND] Smith 3pt Shot: Missed,166,178,2,,1631019,,1611661325,41,38,0,2
+00:00.7,[WAS] Sykes Rebound (Off:2 Def:2),166,178,4,,1628279,,1611661322,41,38,0,2
+00:00.0,[WAS] Sykes 3pt Shot: Missed,-5,518,2,,1628279,,1611661322,41,38,0,2
+00:00.0,[WAS] Team Rebound,-5,518,4,,0,,1611661322,41,38,0,2
+00:00.0,End Period,0,-80,13,,0,,0,41,38,0,2
+10:00,Start Period,0,-80,12,,0,,0,41,38,0,3
+09:43,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),-126,48,6,203399,1628909,200667,1611661325,41,38,0,3
+09:43,[WAS 39-41] Delle Donne Free Throw 1 of 2 (7 PTS),0,-80,3,,203399,,1611661322,41,39,1,3
+09:43,[WAS 40-41] Delle Donne Free Throw 2 of 2 (8 PTS),0,-80,3,,203399,,1611661322,41,40,1,3
+09:38,[IND] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (2 TO),123,288,5,,204365,,1611661325,41,40,0,3
+09:20,[WAS] Atkins Turnover : Traveling (1 TO),-131,271,5,,1628878,,1611661322,41,40,0,3
+09:00,[IND] Smith Turnover : Out of Bounds Lost Ball Turnover (1 TO),143,189,5,,1631019,,1611661325,41,40,0,3
+08:49,[WAS 42-41] Delle Donne Pullup Jump shot: Made (10 PTS) Assist: Atkins (2 AST),141,13,1,,203399,1628878,1611661322,41,42,2,3
+08:32,[IND] Mitchell Turnover : Bad Pass (2 TO) Steal:Cloud (1 ST),-68,225,5,204333,1628909,,1611661325,41,42,0,3
+08:23,[WAS 45-41] Atkins 3pt Shot: Made (7 PTS) Assist: Sykes (4 AST),-145,253,1,,1628878,1628279,1611661322,41,45,3,3
+08:22,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,41,45,0,3
+08:06,[IND 43-45] Boston Jump Shot: Made (11 PTS) Assist: Wheeler (2 AST),-63,133,1,,1641648,204365,1611661325,43,45,2,3
+07:51,[WAS] Delle Donne Turnover : Traveling (1 TO),123,148,5,,203399,,1611661322,43,45,0,3
+07:28,[IND 46-45] Wheeler 3pt Shot: Made (3 PTS) Assist: Boston (2 AST),-95,239,1,,204365,1641648,1611661325,46,45,3,3
+07:11,[IND] Wheeler Foul: Shooting (3 PF) (2 FTA),13,23,6,204333,204365,1629771,1611661325,46,45,0,3
+07:11,[WAS 46-46] Cloud Free Throw 1 of 2 (5 PTS),0,-80,3,,204333,,1611661322,46,46,1,3
+07:11,[WAS] Cloud Free Throw 2 of 2 Missed,0,-80,3,,204333,,1611661322,46,46,0,3
+07:11,[IND] Hull Rebound (Off:0 Def:2),0,-80,4,,1631086,,1611661325,46,46,0,3
+06:51,Jump Ball Smith vs Austin (Hull gains possession),0,-80,10,1631022,1631019,1631086,1611661325,46,46,0,3
+06:47,[IND 48-46] Boston Turnaround Bank Hook Shot: Made (13 PTS) Assist: Wheeler (3 AST),-49,30,1,,1641648,204365,1611661325,48,46,2,3
+06:30,[WAS] Atkins 3pt Shot: Missed,169,191,2,,1628878,,1611661322,48,46,0,3
+06:27,[IND] Boston Rebound (Off:3 Def:4),169,191,4,,1641648,,1611661325,48,46,0,3
+06:14,[IND] Wheeler 3pt Shot: Missed,-68,258,2,,204365,,1611661325,48,46,0,3
+06:11,[WAS] Cloud Rebound (Off:0 Def:5),-68,258,4,,204333,,1611661322,48,46,0,3
+06:01,[WAS] Delle Donne Pullup Jump shot: Missed,-140,119,2,,203399,,1611661322,48,46,0,3
+05:58,[IND] Boston Rebound (Off:3 Def:5),-140,119,4,,1641648,,1611661325,48,46,0,3
+05:49,[IND 50-46] Mitchell Step Back Jump shot: Made (7 PTS),3,154,1,,1628909,,1611661325,50,46,2,3
+05:31,[WAS] Atkins Driving Floating Jump Shot: Missed,-21,48,2,,1628878,,1611661322,50,46,0,3
+05:29,[IND] Smith Rebound (Off:0 Def:2),-21,48,4,,1631019,,1611661325,50,46,0,3
+05:17,[IND] Boston Jump Shot: Missed,-151,64,2,,1641648,,1611661325,50,46,0,3
+05:12,[WAS] Sykes Rebound (Off:2 Def:3),-151,64,4,,1628279,,1611661322,50,46,0,3
+05:08,[WAS] Delle Donne Turnover : Lost Ball (2 TO) Steal:Hull (2 ST),-88,54,5,1631086,203399,,1611661322,50,46,0,3
+05:07,[WAS] Delle Donne Foul: Personal (2 PF),79,789,6,1631086,203399,200667,1611661322,50,46,0,3
+05:07,[WAS] Sykes Substitution replaced by Meng,0,-80,8,,1628279,1641642,1611661322,50,46,0,3
+04:52,[IND] Mitchell 3pt Shot: Missed,220,133,2,,1628909,,1611661325,50,46,0,3
+04:49,[WAS] Atkins Rebound (Off:0 Def:1),220,133,4,,1628878,,1611661322,50,46,0,3
+04:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,46,0,3
+04:48,[WAS] Thibault Technical (1 FTA),0,-80,6,,203455,1628479,1611661322,50,46,0,3
+04:48,[IND 51-46] Mitchell Free Throw Technical (8 PTS),0,-80,3,,1628909,,1611661325,51,46,1,3
+04:40,[WAS] Cloud Driving Layup Shot: Missed Block: Boston (1 BLK),-6,7,2,1641648,204333,,1611661322,51,46,0,3
+04:39,[WAS] Team Rebound,-6,7,4,,0,,1611661322,51,46,0,3
+04:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,46,0,3
+04:39,[IND] Smith Substitution replaced by Vivians,0,-80,8,,1631019,1628927,1611661325,51,46,0,3
+04:39,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,51,46,0,3
+04:35,[WAS] Hines-Allen Layup Shot: Missed,-4,5,2,,1628899,,1611661322,51,46,0,3
+04:33,[IND] Boston Rebound (Off:3 Def:6),-4,5,4,,1641648,,1611661325,51,46,0,3
+04:29,[IND 53-46] Hull Running Pull-Up Jump Shot: Made (6 PTS) Assist: Wheeler (4 AST),143,11,1,,1631086,204365,1611661325,53,46,2,3
+04:15,[WAS] Cloud Turnover : Bad Pass (2 TO) Steal:Mitchell (1 ST),-193,205,5,1628909,204333,,1611661322,53,46,0,3
+04:04,[WAS] Hines-Allen Foul: Shooting (2 PF) (2 FTA),3,0,6,1628909,1628899,200667,1611661322,53,46,0,3
+04:04,[IND] Mitchell Free Throw 1 of 2 Missed,0,-80,3,,1628909,,1611661325,53,46,0,3
+04:04,[IND] Team Rebound,0,-80,4,,0,,1611661325,53,46,0,3
+04:04,[IND 54-46] Mitchell Free Throw 2 of 2 (9 PTS),0,-80,3,,1628909,,1611661325,54,46,1,3
+04:04,Stoppage: Blood Rule,0,-80,20,,0,,0,54,46,0,3
+03:41,[WAS] Austin Driving Floating Jump Shot: Missed,-4,55,2,,1631022,,1611661322,54,46,0,3
+03:37,[IND] Wheeler Rebound (Off:0 Def:2),-4,55,4,,204365,,1611661325,54,46,0,3
+03:29,[IND 56-46] Boston Layup Shot: Made (15 PTS),4,-7,1,,1641648,,1611661325,56,46,2,3
+03:29,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,56,46,0,3
+03:29,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,56,46,0,3
+03:29,[WAS] Cloud Substitution replaced by Sykes,0,-80,8,,204333,1628279,1611661322,56,46,0,3
+03:18,[IND] Vivians Foul: Shooting (3 PF) (2 FTA),-3,5,6,1628899,1628927,200667,1611661325,56,46,0,3
+03:18,[WAS 47-56] Hines-Allen Free Throw 1 of 2 (6 PTS),0,-80,3,,1628899,,1611661322,56,47,1,3
+03:18,[WAS] Hines-Allen Free Throw 2 of 2 Missed,0,-80,3,,1628899,,1611661322,56,47,0,3
+03:17,[IND] Hull Rebound (Off:0 Def:3),0,-80,4,,1631086,,1611661325,56,47,0,3
+03:05,[IND 59-47] Mitchell 3pt Shot: Made (12 PTS) Assist: Boston (3 AST),185,171,1,,1628909,1641648,1611661325,59,47,3,3
+02:42,[WAS 49-59] Austin Finger Roll Layup Shot: Made (4 PTS) Assist: Meng (1 AST),-9,5,1,,1631022,1641642,1611661322,59,49,2,3
+02:27,[IND 61-49] Vivians Pullup Jump shot: Made (6 PTS) Assist: Boston (4 AST),13,170,1,,1628927,1641648,1611661325,61,49,2,3
+02:13,[WAS] Hines-Allen Layup Shot: Missed,17,6,2,,1628899,,1611661322,61,49,0,3
+02:10,[WAS] Austin Rebound (Off:2 Def:3),17,6,4,,1631022,,1611661322,61,49,0,3
+02:10,[WAS 51-61] Austin Tip Layup Shot: Made (6 PTS),0,-5,1,,1631022,,1611661322,61,51,2,3
+02:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,51,0,3
+02:00,[IND] Boston Substitution replaced by Egbo,0,-80,8,,1641648,1631031,1611661325,61,51,0,3
+01:57,[WAS] Austin Foul: Personal (2 PF),59,32,6,1631086,1631022,200667,1611661322,61,51,0,3
+01:43,[IND] Wallace Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-175,257,5,,1628929,,1611661325,61,51,0,3
+01:43,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,61,51,0,3
+01:30,[WAS] Meng 3pt Shot: Missed,-238,94,2,,1641642,,1611661322,61,51,0,3
+01:26,[IND] Egbo Rebound (Off:2 Def:4),-238,94,4,,1631031,,1611661325,61,51,0,3
+01:22,[IND] Mitchell 3pt Shot: Missed,-124,239,2,,1628909,,1611661325,61,51,0,3
+01:18,[WAS] Sykes Rebound (Off:2 Def:4),-124,239,4,,1628279,,1611661322,61,51,0,3
+01:18,[IND] Hull Foul: Personal (3 PF),-33,751,6,1628279,1631086,1629771,1611661325,61,51,0,3
+01:18,[WAS] Austin Substitution replaced by Delle Donne,0,-80,8,,1631022,203399,1611661322,61,51,0,3
+01:18,[IND] Vivians Substitution replaced by Smith,0,-80,8,,1628927,1631019,1611661325,61,51,0,3
+01:17,[IND] Wallace Foul: Personal (2 PF) (2 FTA),-27,797,6,1628279,1628929,1628479,1611661325,61,51,0,3
+01:17,[WAS 52-61] Sykes Free Throw 1 of 2 (6 PTS),0,-80,3,,1628279,,1611661322,61,52,1,3
+01:17,[WAS 53-61] Sykes Free Throw 2 of 2 (7 PTS),0,-80,3,,1628279,,1611661322,61,53,1,3
+01:08,[IND] Smith Foul: Offensive Charge (2 PF),53,16,6,1628899,1631019,1628479,1611661325,61,53,0,3
+01:08,[IND] Smith Turnover : Offensive Foul Turnover (2 TO),53,16,5,,1631019,,1611661325,61,53,0,3
+01:08,Stoppage: Blood Rule,0,-80,20,,0,,0,61,53,0,3
+00:49.8,[WAS] Meng 3pt Shot: Missed,200,147,2,,1641642,,1611661322,61,53,0,3
+00:47.2,[IND] Smith Rebound (Off:0 Def:3),200,147,4,,1631019,,1611661325,61,53,0,3
+00:35.1,[IND] Mitchell Pullup Jump shot: Missed,13,160,2,,1628909,,1611661325,61,53,0,3
+00:32.6,[WAS] Delle Donne Rebound (Off:1 Def:3),13,160,4,,203399,,1611661322,61,53,0,3
+00:19.2,[WAS] Delle Donne 3pt Shot: Missed,141,201,2,,203399,,1611661322,61,53,0,3
+00:16.2,[IND] Egbo Rebound (Off:2 Def:5),141,201,4,,1631031,,1611661325,61,53,0,3
+00:10.1,[IND] Wallace Fadeaway Jump Shot: Missed,10,43,2,,1628929,,1611661325,61,53,0,3
+00:06.3,[IND] Egbo Rebound (Off:3 Def:5),10,43,4,,1631031,,1611661325,61,53,0,3
+00:04.8,[IND] Egbo Layup Shot: Missed Block: Delle Donne (3 BLK),-4,13,2,203399,1631031,,1611661325,61,53,0,3
+00:04.8,[WAS] Delle Donne Rebound (Off:1 Def:4),-4,13,4,,203399,,1611661322,61,53,0,3
+00:00.0,[WAS] Delle Donne Running Pull-Up Jump Shot: Missed,-127,150,2,,203399,,1611661322,61,53,0,3
+00:00.0,[WAS] Team Rebound,-127,150,4,,0,,1611661322,61,53,0,3
+00:00.0,End Period,0,-80,13,,0,,0,61,53,0,3
+10:00,Start Period,0,-80,12,,0,,0,61,53,0,4
+09:39,[IND] Egbo Jump Shot: Missed,151,4,2,,1631031,,1611661325,61,53,0,4
+09:35,[WAS] Meng Rebound (Off:0 Def:2),151,4,4,,1641642,,1611661322,61,53,0,4
+09:22,[WAS] Meng 3pt Shot: Missed,-135,230,2,,1641642,,1611661322,61,53,0,4
+09:19,[IND] Egbo Rebound (Off:3 Def:6),-135,230,4,,1631031,,1611661325,61,53,0,4
+09:02,[IND] Smith Jump Shot: Missed,46,149,2,,1631019,,1611661325,61,53,0,4
+09:00,[IND] Hull Rebound (Off:1 Def:3),46,149,4,,1631086,,1611661325,61,53,0,4
+08:50,[IND] Wallace Pullup Jump shot: Missed,151,100,2,,1628929,,1611661325,61,53,0,4
+08:46,[WAS] Walker-Kimbrough Rebound (Off:0 Def:1),151,100,4,,1628278,,1611661322,61,53,0,4
+08:31,[WAS 55-61] Delle Donne Pullup Jump shot: Made (12 PTS),-118,-16,1,,203399,,1611661322,61,55,2,4
+08:22,[IND 64-55] Mitchell 3pt Shot: Made (15 PTS) Assist: Wallace (3 AST),-219,107,1,,1628909,1628929,1611661325,64,55,3,4
+08:08,[IND] Mitchell Foul: Personal (2 PF),2,152,6,201911,1628909,1629771,1611661325,64,55,0,4
+08:08,[IND] Hull Substitution replaced by Wheeler,0,-80,8,,1631086,204365,1611661325,64,55,0,4
+07:57,[WAS 57-64] Hawkins Layup Shot: Made (2 PTS),-7,3,1,,203403,,1611661322,64,57,2,4
+07:47,[IND] Smith Driving Layup Shot: Missed,6,9,2,,1631019,,1611661325,64,57,0,4
+07:46,[IND] Team Rebound,6,9,4,,0,,1611661325,64,57,0,4
+07:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,57,0,4
+07:44,[IND] Mitchell 3pt Shot: Missed,142,216,2,,1628909,,1611661325,64,57,0,4
+07:42,[IND] Egbo Rebound (Off:4 Def:6),142,216,4,,1631031,,1611661325,64,57,0,4
+07:40,[WAS] Hawkins Foul: Personal (2 PF),-56,14,6,1631031,203403,200667,1611661322,64,57,0,4
+07:40,[IND] Egbo Substitution replaced by Boston,0,-80,8,,1631031,1641648,1611661325,64,57,0,4
+07:34,[IND 66-57] Boston Turnaround Hook Shot: Made (17 PTS),10,47,1,,1641648,,1611661325,66,57,2,4
+07:20,[WAS] Hawkins Cutting Layup Shot: Missed,4,2,2,,203403,,1611661322,66,57,0,4
+07:18,[IND] Boston Rebound (Off:3 Def:7),4,2,4,,1641648,,1611661325,66,57,0,4
+07:03,[WAS] Hawkins Foul: Personal (3 PF),54,121,6,1641648,203403,1628479,1611661322,66,57,0,4
+07:03,[WAS] Meng Substitution replaced by Austin,0,-80,8,,1641642,1631022,1611661322,66,57,0,4
+07:03,[WAS] Toliver Substitution replaced by Atkins,0,-80,8,,201911,1628878,1611661322,66,57,0,4
+07:03,[WAS] Hawkins Substitution replaced by Cloud,0,-80,8,,203403,204333,1611661322,66,57,0,4
+07:03,[WAS] Walker-Kimbrough Substitution replaced by Sykes,0,-80,8,,1628278,1628279,1611661322,66,57,0,4
+06:54,[IND] Smith Foul: Offensive Charge (3 PF),7,90,6,1628878,1631019,200667,1611661325,66,57,0,4
+06:54,[IND] Smith Turnover : Offensive Foul Turnover (3 TO),7,90,5,,1631019,,1611661325,66,57,0,4
+06:32,[WAS] Atkins Driving Floating Jump Shot: Missed,23,16,2,,1628878,,1611661322,66,57,0,4
+06:31,[IND] Boston Rebound (Off:3 Def:8),23,16,4,,1641648,,1611661325,66,57,0,4
+06:25,[IND] Smith Foul: Offensive (4 PF),202,160,6,1628279,1631019,1628479,1611661325,66,57,0,4
+06:25,[IND] Smith Turnover : Offensive Foul Turnover (4 TO),202,160,5,,1631019,,1611661325,66,57,0,4
+06:13,[WAS] Austin Turnover : Traveling (1 TO),-17,121,5,,1631022,,1611661322,66,57,0,4
+05:56,[IND] Wheeler 3pt Shot: Missed,126,224,2,,204365,,1611661325,66,57,0,4
+05:54,[IND] Boston Rebound (Off:4 Def:8),126,224,4,,1641648,,1611661325,66,57,0,4
+05:52,[IND 68-57] Boston Putback Layup Shot: Made (19 PTS),-5,0,1,,1641648,,1611661325,68,57,2,4
+05:41,[WAS] Sykes 3pt Shot: Missed,-238,-3,2,,1628279,,1611661322,68,57,0,4
+05:37,[IND] Mitchell Rebound (Off:0 Def:2),-238,-3,4,,1628909,,1611661325,68,57,0,4
+05:30,[IND 70-57] Mitchell Driving Reverse Layup Shot: Made (17 PTS),12,13,1,,1628909,,1611661325,70,57,2,4
+05:19,[WAS 60-70] Delle Donne 3pt Shot: Made (15 PTS) Assist: Austin (1 AST),82,262,1,,203399,1631022,1611661322,70,60,3,4
+04:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,60,0,4
+04:56,Timeout Officials,0,-80,9,,0,,0,70,60,0,4
+04:56,[IND] Mitchell Substitution replaced by Hull,0,-80,8,,1628909,1631086,1611661325,70,60,0,4
+04:49,[IND 72-60] Boston Layup Shot: Made (21 PTS),3,20,1,,1641648,,1611661325,72,60,2,4
+04:37,[IND] Wheeler Foul: Personal (4 PF),46,153,6,204333,204365,1629771,1611661325,72,60,0,4
+04:32,[WAS 62-72] Delle Donne Jump Shot: Made (17 PTS) Assist: Cloud (5 AST),4,174,1,,203399,204333,1611661322,72,62,2,4
+04:05,[IND 74-62] Smith Turnaround Jump Shot: Made (8 PTS) Assist: Boston (5 AST),-21,43,1,,1631019,1641648,1611661325,74,62,2,4
+03:52,[WAS 64-74] Cloud Pullup Jump shot: Made (7 PTS),-117,105,1,,204333,,1611661322,74,64,2,4
+03:41,[IND] Hull 3pt Shot: Missed,-144,207,2,,1631086,,1611661325,74,64,0,4
+03:38,[WAS] Delle Donne Rebound (Off:1 Def:5),-144,207,4,,203399,,1611661322,74,64,0,4
+03:33,[WAS 66-74] Sykes Running Layup Shot: Made (9 PTS) Assist: Delle Donne (1 AST),0,24,1,,1628279,203399,1611661322,74,66,2,4
+03:16,[IND] Wallace 3pt Shot: Missed,-234,-27,2,,1628929,,1611661325,74,66,0,4
+03:13,[IND] Hull Rebound (Off:2 Def:3),-234,-27,4,,1631086,,1611661325,74,66,0,4
+03:02,[WAS] Austin Foul: Shooting (3 PF) (2 FTA),28,3,6,1631086,1631022,1629771,1611661322,74,66,0,4
+03:02,[IND 75-66] Hull Free Throw 1 of 2 (7 PTS),0,-80,3,,1631086,,1611661325,75,66,1,4
+03:02,[IND 76-66] Hull Free Throw 2 of 2 (8 PTS),0,-80,3,,1631086,,1611661325,76,66,1,4
+02:53,[WAS] Cloud Pullup Jump shot: Missed,-117,126,2,,204333,,1611661322,76,66,0,4
+02:50,[IND] Wheeler Rebound (Off:0 Def:3),-117,126,4,,204365,,1611661325,76,66,0,4
+02:40,[WAS] Sykes Foul: Shooting (2 PF) (2 FTA),28,6,6,204365,1628279,200667,1611661322,76,66,0,4
+02:40,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,76,66,0,4
+02:40,[IND] Hull Substitution replaced by Mitchell,0,-80,8,,1631086,1628909,1611661325,76,66,0,4
+02:40,[IND 77-66] Wheeler Free Throw 1 of 2 (4 PTS),0,-80,3,,204365,,1611661325,77,66,1,4
+02:40,[IND 78-66] Wheeler Free Throw 2 of 2 (5 PTS),0,-80,3,,204365,,1611661325,78,66,1,4
+02:16,[WAS] Delle Donne 3pt Shot: Missed,81,362,2,,203399,,1611661322,78,66,0,4
+02:14,[WAS] Team Rebound,81,362,4,,0,,1611661322,78,66,0,4
+02:14,[WAS] Team Turnover : Shot Clock Turnover,-12,76,5,,0,,1611661322,78,66,0,4
+01:55,[IND 81-66] Wallace 3pt Shot: Made (6 PTS) Assist: Boston (6 AST),-213,110,1,,1628929,1641648,1611661325,81,66,3,4
+01:55,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,81,66,0,4
+01:55,[WAS] Austin Substitution replaced by Meng,0,-80,8,,1631022,1641642,1611661322,81,66,0,4
+01:55,[WAS] Cloud Substitution replaced by Hawkins,0,-80,8,,204333,203403,1611661322,81,66,0,4
+01:55,[WAS] Delle Donne Substitution replaced by Walker-Kimbrough,0,-80,8,,203399,1628278,1611661322,81,66,0,4
+01:55,[WAS] Sykes Substitution replaced by Zahui B,0,-80,8,,1628279,204320,1611661322,81,66,0,4
+01:44,[WAS] Meng 3pt Shot: Missed,63,242,2,,1641642,,1611661322,81,66,0,4
+01:40,[IND] Wheeler Rebound (Off:0 Def:4),63,242,4,,204365,,1611661325,81,66,0,4
+01:26,[WAS] Atkins Foul: Personal (4 PF) (2 FTA),160,284,6,1628929,1628878,1629771,1611661322,81,66,0,4
+01:26,[IND 82-66] Wallace Free Throw 1 of 2 (7 PTS),0,-80,3,,1628929,,1611661325,82,66,1,4
+01:26,[IND 83-66] Wallace Free Throw 2 of 2 (8 PTS),0,-80,3,,1628929,,1611661325,83,66,1,4
+01:15,[WAS] Hawkins Turnover : Out of Bounds Lost Ball Turnover (2 TO),211,161,5,,203403,,1611661322,83,66,0,4
+01:05,[IND] Mitchell Pullup Jump shot: Missed,-26,167,2,,1628909,,1611661325,83,66,0,4
+01:00,[IND] Wheeler Rebound (Off:1 Def:4),-26,167,4,,204365,,1611661325,83,66,0,4
+00:52.9,[IND] Wheeler Driving Finger Roll Layup Shot: Missed,9,8,2,,204365,,1611661325,83,66,0,4
+00:51.9,[IND] Boston Rebound (Off:5 Def:8),9,8,4,,1641648,,1611661325,83,66,0,4
+00:51.9,[IND 85-66] Boston Putback Layup Shot: Made (23 PTS),0,-5,1,,1641648,,1611661325,85,66,2,4
+00:44.5,[IND] Wheeler Foul: Personal (5 PF),-128,236,6,1628878,204365,1628479,1611661325,85,66,0,4
+00:33.4,[WAS] Walker-Kimbrough 3pt Shot: Missed,-191,171,2,,1628278,,1611661322,85,66,0,4
+00:29.7,[IND] Boston Rebound (Off:5 Def:9),-191,171,4,,1641648,,1611661325,85,66,0,4
+00:07.8,[WAS] Walker-Kimbrough Foul: Personal (2 PF) (2 FTA),63,151,6,1628909,1628278,200667,1611661322,85,66,0,4
+00:07.8,[IND 86-66] Mitchell Free Throw 1 of 2 (18 PTS),0,-80,3,,1628909,,1611661325,86,66,1,4
+00:07.8,[IND 87-66] Mitchell Free Throw 2 of 2 (19 PTS),0,-80,3,,1628909,,1611661325,87,66,1,4
+00:02.0,[WAS] Atkins 3pt Shot: Missed,-100,253,2,,1628878,,1611661322,87,66,0,4
+00:02.0,[WAS] Team Rebound,-100,253,4,,0,,1611661322,87,66,0,4
+00:00.0,End Period,0,-80,13,,0,,0,87,66,0,4

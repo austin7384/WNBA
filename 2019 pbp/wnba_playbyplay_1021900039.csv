@@ -1,0 +1,421 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Cambage vs Charles (Wilson gains possession),0,-80,10,202250,202633,1628932,1611661319,0,0,1
+09:46,[LVA 2-0] Cambage Layup Shot: Made (2 PTS) Assist: Wilson (1 AST),22,4,1,,202633,1628932,1611661319,2,0,1
+09:30,[NYL] Nurse 3pt Shot: Missed,-224,112,2,,1628915,,1611661313,2,0,1
+09:23,[LVA] Plum Rebound (Off:0 Def:1),-224,112,4,,1628276,,1611661319,2,0,1
+09:20,[LVA 4-0] Wilson Turnaround Jump Shot: Made (2 PTS),75,16,1,,1628932,,1611661319,4,0,1
+09:06,[NYL] Boyd Driving Layup Shot: Missed,-26,18,2,,204327,,1611661313,4,0,1
+09:02,[LVA] Wilson Rebound (Off:0 Def:1),50,33,4,,1628932,,1611661319,4,0,1
+08:56,[LVA] Plum Turnover : Bad Pass (1 TO) Steal:Zahui B (1 ST),-26,42,5,204320,1628276,,1611661319,4,0,1
+08:50,[NYL] Nurse 3pt Shot: Missed,200,147,2,,1628915,,1611661313,4,0,1
+08:49,[LVA] Team Rebound,200,147,4,,0,,1611661319,4,0,1
+08:41,[LVA 6-0] Cambage Layup Shot: Made (4 PTS) Assist: Plum (1 AST),17,12,1,,202633,1628276,1611661319,6,0,1
+08:29,[NYL 2-6] Zahui B Cutting Layup Shot: Made (2 PTS) Assist: Durr (1 AST),-28,20,1,,204320,1629476,1611661313,6,2,1
+08:17,[LVA 8-2] Cambage Driving Layup Shot: Made (6 PTS) Assist: Young (1 AST),52,4,1,,202633,1629498,1611661319,8,2,1
+08:17,[NYL] Zahui B Foul: Shooting (1 PF) (1 FTA),52,4,6,202633,204320,,1611661313,8,2,1
+08:17,[LVA 9-2] Cambage Free Throw 1 of 1 (7 PTS),0,-80,3,,202633,,1611661319,9,2,1
+08:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,2,1
+08:03,[NYL] Charles Turnover : Lost Ball (1 TO) Steal:Cambage (1 ST),-8,252,5,202633,202250,,1611661313,9,2,1
+07:48,[LVA 12-2] McBride 3pt Shot: Made (3 PTS) Assist: Plum (2 AST),229,78,1,,203825,1628276,1611661319,12,2,1
+07:32,[NYL] Boyd Turnover : Lost Ball (1 TO) Steal:Plum (1 ST),22,252,5,1628276,204327,,1611661313,12,2,1
+07:31,[NYL] Boyd Foul: Shooting (1 PF) (2 FTA),-111,87,6,1629498,204327,,1611661313,12,2,1
+07:31,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,12,2,1
+07:31,[LVA] Young Free Throw 1 of 2 Missed,0,-80,3,,1629498,,1611661319,12,2,1
+07:31,[LVA] Team Rebound,0,-80,4,,0,,1611661319,12,2,1
+07:31,[LVA 13-2] Young Free Throw 2 of 2 (1 PTS),0,-80,3,,1629498,,1611661319,13,2,1
+07:16,[NYL 4-13] Charles Step Back Jump shot: Made (2 PTS),127,34,1,,202250,,1611661313,13,4,1
+07:04,[LVA 15-4] Young Cutting Layup Shot: Made (3 PTS) Assist: Cambage (1 AST),-26,9,1,,1629498,202633,1611661319,15,4,1
+06:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,4,1
+06:48,[NYL] Boyd Substitution replaced by Wright,0,-80,8,,204327,101030,1611661313,15,4,1
+06:44,[NYL 6-15] Charles Driving Layup Shot: Made (4 PTS),-45,48,1,,202250,,1611661313,15,6,1
+06:32,[LVA] McBride Turnover : Bad Pass (1 TO) Steal:Durr (1 ST),-143,226,5,1629476,203825,,1611661319,15,6,1
+06:28,[NYL 8-15] Durr Driving Layup Shot: Made (2 PTS),29,9,1,,1629476,,1611661313,15,8,1
+06:11,[LVA 17-8] Wilson Driving Layup Shot: Made (4 PTS) Assist: McBride (1 AST),-16,3,1,,1628932,203825,1611661319,17,8,1
+06:03,[NYL] Charles Jump Shot: Missed,57,109,2,,202250,,1611661313,17,8,1
+06:03,[LVA] McBride Rebound (Off:0 Def:1),57,109,4,,203825,,1611661319,17,8,1
+05:57,[NYL] Charles Foul: Personal (1 PF),36,10,6,202633,202250,,1611661313,17,8,1
+05:47,[LVA 20-8] Plum 3pt Shot: Made (3 PTS) Assist: Cambage (2 AST),-64,237,1,,1628276,202633,1611661319,20,8,1
+05:28,[NYL] Nurse 3pt Shot: Missed,-230,64,2,,1628915,,1611661313,20,8,1
+05:24,[LVA] McBride Rebound (Off:0 Def:2),-230,64,4,,203825,,1611661319,20,8,1
+05:23,[NYL] Wright Foul: Shooting (1 PF) (2 FTA),-59,43,6,203825,101030,,1611661313,20,8,1
+05:23,[LVA 21-8] McBride Free Throw 1 of 2 (4 PTS),0,-80,3,,203825,,1611661319,21,8,1
+05:23,[LVA 22-8] McBride Free Throw 2 of 2 (5 PTS),0,-80,3,,203825,,1611661319,22,8,1
+05:00,[NYL] Charles Jump Shot: Missed,57,206,2,,202250,,1611661313,22,8,1
+04:56,[LVA] Plum Rebound (Off:0 Def:2),57,206,4,,1628276,,1611661319,22,8,1
+04:45,[LVA] Cambage 3pt Shot: Missed,-239,17,2,,202633,,1611661319,22,8,1
+04:42,[NYL] Wright Rebound (Off:0 Def:1),-239,17,4,,101030,,1611661313,22,8,1
+04:38,[NYL] Zahui B 3pt Shot: Missed,136,211,2,,204320,,1611661313,22,8,1
+04:34,[LVA] Cambage Rebound (Off:0 Def:1),136,211,4,,202633,,1611661319,22,8,1
+04:30,[LVA 24-8] Young Cutting Layup Shot: Made (5 PTS) Assist: McBride (2 AST),56,-29,1,,1629498,203825,1611661319,24,8,1
+04:08,[NYL] Durr 3pt Shot: Missed,149,201,2,,1629476,,1611661313,24,8,1
+04:04,[LVA] Cambage Rebound (Off:0 Def:2),149,201,4,,202633,,1611661319,24,8,1
+03:59,[LVA 26-8] Cambage Cutting Layup Shot: Made (9 PTS) Assist: McBride (3 AST),45,-6,1,,202633,203825,1611661319,26,8,1
+03:46,[NYL] Nurse 3pt Shot: Missed,-220,110,2,,1628915,,1611661313,26,8,1
+03:42,[LVA] Plum Rebound (Off:0 Def:3),-220,110,4,,1628276,,1611661319,26,8,1
+03:32,[LVA] Cambage Turnaround Jump Shot: Missed,120,-2,2,,202633,,1611661319,26,8,1
+03:31,[NYL] Nurse Rebound (Off:0 Def:1),120,-2,4,,1628915,,1611661313,26,8,1
+03:31,[LVA] Cambage Foul: Personal (1 PF),-120,838,6,1628915,202633,,1611661319,26,8,1
+03:31,[NYL] Zahui B Substitution replaced by Gray,0,-80,8,,204320,204334,1611661313,26,8,1
+03:31,[LVA] Cambage Substitution replaced by Hamby,0,-80,8,,202633,204324,1611661319,26,8,1
+03:18,[NYL 10-26] Gray Driving Layup Shot: Made (2 PTS) Assist: Wright (1 AST),-53,10,1,,204334,101030,1611661313,26,10,1
+03:03,[LVA 29-10] Plum 3pt Shot: Made (6 PTS),112,212,1,,1628276,,1611661319,29,10,1
+02:47,[NYL 12-29] Nurse Turnaround Fadeaway shot: Made (2 PTS) Assist: Gray (1 AST),14,51,1,,1628915,204334,1611661313,29,12,1
+02:36,[LVA] Wilson Turnaround Jump Shot: Missed,34,59,2,,1628932,,1611661319,29,12,1
+02:36,[LVA] Team Rebound,34,59,4,,0,,1611661319,29,12,1
+02:34,[NYL] Durr Foul: Shooting (1 PF) (2 FTA),-132,56,6,203825,1629476,,1611661313,29,12,1
+02:34,[LVA 30-12] McBride Free Throw 1 of 2 (6 PTS),0,-80,3,,203825,,1611661319,30,12,1
+02:34,[LVA] Young Substitution replaced by Young,0,-80,8,,1629498,201477,1611661319,30,12,1
+02:34,[LVA 31-12] McBride Free Throw 2 of 2 (7 PTS),0,-80,3,,203825,,1611661319,31,12,1
+02:15,[NYL] Gray Step Back Jump shot: Missed,120,28,2,1628932,204334,,1611661313,31,12,1
+02:10,[LVA] Wilson Rebound (Off:0 Def:2),120,28,4,,1628932,,1611661319,31,12,1
+02:04,[NYL] Gray Foul: Personal (1 PF) (2 FTA),-105,54,6,204324,204334,,1611661313,31,12,1
+02:04,[LVA 32-12] Hamby Free Throw 1 of 2 (1 PTS),0,-80,3,,204324,,1611661319,32,12,1
+02:04,[LVA] Plum Substitution replaced by Rodgers,0,-80,8,,1628276,203411,1611661319,32,12,1
+02:04,[LVA 33-12] Hamby Free Throw 2 of 2 (2 PTS),0,-80,3,,204324,,1611661319,33,12,1
+01:53,[LVA] Hamby Foul: Personal (1 PF),94,205,6,202250,204324,,1611661319,33,12,1
+01:49,[LVA] Young Foul: Shooting (1 PF) (2 FTA),-3,77,6,1629476,201477,,1611661319,33,12,1
+01:49,[NYL 13-33] Durr Free Throw 1 of 2 (3 PTS),0,-80,3,,1629476,,1611661313,33,13,1
+01:49,[NYL] Durr Free Throw 2 of 2 Missed,0,-80,3,,1629476,,1611661313,33,13,1
+01:46,[LVA] Wilson Rebound (Off:0 Def:3),0,-80,4,,1628932,,1611661319,33,13,1
+01:44,[LVA] Hamby Foul: Offensive Charge (2 PF),-38,42,6,1628915,204324,,1611661319,33,13,1
+01:44,[LVA] Hamby Turnover : Offensive Foul Turnover (1 TO),-38,42,5,,204324,,1611661319,33,13,1
+01:44,[LVA] Hamby Substitution replaced by Park,0,-80,8,,204324,1628917,1611661319,33,13,1
+01:32,[NYL] Charles Pullup Jump shot: Missed,-134,58,2,,202250,,1611661313,33,13,1
+01:28,[LVA] Rodgers Rebound (Off:0 Def:1),-134,58,4,,203411,,1611661319,33,13,1
+01:21,[NYL] Gray Foul: Shooting (2 PF) (2 FTA),-120,21,6,1628932,204334,,1611661313,33,13,1
+01:21,[LVA 34-13] Wilson Free Throw 1 of 2 (5 PTS),0,-80,3,,1628932,,1611661319,34,13,1
+01:21,[NYL] Gray Substitution replaced by Xu,0,-80,8,,204334,1629566,1611661313,34,13,1
+01:21,[LVA 35-13] Wilson Free Throw 2 of 2 (6 PTS),0,-80,3,,1628932,,1611661319,35,13,1
+01:02,[NYL] Xu Jump Shot: Missed,-132,136,2,,1629566,,1611661313,35,13,1
+00:58.8,[LVA] Young Rebound (Off:0 Def:1),-132,136,4,,201477,,1611661319,35,13,1
+00:54.2,[LVA] McBride 3pt Shot: Missed,220,117,2,,203825,,1611661319,35,13,1
+00:51.8,[NYL] Xu Rebound (Off:0 Def:1),220,117,4,,1629566,,1611661313,35,13,1
+00:51.8,[LVA] Young Foul: Personal (2 PF) (2 FTA),-220,719,6,101030,201477,,1611661319,35,13,1
+00:51.8,[NYL 14-35] Wright Free Throw 1 of 2 (1 PTS),0,-80,3,,101030,,1611661313,35,14,1
+00:51.8,[LVA] Young Substitution replaced by Plum,0,-80,8,,201477,1628276,1611661319,35,14,1
+00:51.8,[NYL 15-35] Wright Free Throw 2 of 2 (2 PTS),0,-80,3,,101030,,1611661313,35,15,1
+00:42.8,[LVA] Plum Turnover : Bad Pass (2 TO) Steal:Charles (1 ST),-131,15,5,202250,1628276,,1611661319,35,15,1
+00:36.7,[NYL] Durr Pullup Jump shot: Missed,39,59,2,,1629476,,1611661313,35,15,1
+00:33.6,[LVA] Wilson Rebound (Off:0 Def:4),39,59,4,,1628932,,1611661319,35,15,1
+00:25.5,[LVA] Plum Driving Layup Shot: Missed,-46,19,2,,1628276,,1611661319,35,15,1
+00:22.8,[NYL] Wright Rebound (Off:0 Def:2),-46,19,4,,101030,,1611661313,35,15,1
+00:03.5,[NYL] Charles Jump Shot: Missed,111,176,2,,202250,,1611661313,35,15,1
+00:01.0,[LVA] Wilson Rebound (Off:0 Def:5),111,176,4,,1628932,,1611661319,35,15,1
+00:00.0,[LVA] Wilson 3pt Shot: Missed,-9,459,2,,1628932,,1611661319,35,15,1
+00:00.0,[LVA] Team Rebound,-9,459,4,,0,,1611661319,35,15,1
+00:00.0,End Period,0,-80,13,,0,,0,35,15,1
+10:00,Start Period,0,-80,12,,0,,0,35,15,2
+09:36,[LVA] Rodgers Foul: Shooting (1 PF) (2 FTA),0,180,6,101030,203411,,1611661319,35,15,2
+09:36,[NYL 16-35] Wright Free Throw 1 of 2 (3 PTS),0,-80,3,,101030,,1611661313,35,16,2
+09:36,[NYL 17-35] Wright Free Throw 2 of 2 (4 PTS),0,-80,3,,101030,,1611661313,35,17,2
+09:26,[LVA] Swords Turnover : Out of Bounds Lost Ball Turnover (1 TO),-80,58,5,,202670,,1611661319,35,17,2
+09:05,[NYL] Xu Pullup Jump shot: Missed,43,152,2,,1629566,,1611661313,35,17,2
+09:02,[NYL] Zahui B Rebound (Off:1 Def:0),43,152,4,,204320,,1611661313,35,17,2
+08:59,[NYL] Xu Pullup Jump shot: Missed,-30,130,2,,1629566,,1611661313,35,17,2
+08:56,[LVA] Rodgers Rebound (Off:0 Def:2),-30,130,4,,203411,,1611661319,35,17,2
+08:48,[LVA] Swords Cutting Layup Shot: Missed,-46,-7,2,,202670,,1611661319,35,17,2
+08:46,[NYL] Xu Rebound (Off:0 Def:2),-46,-7,4,,1629566,,1611661313,35,17,2
+08:44,[LVA] Rodgers Foul: Shooting (2 PF) (2 FTA),44,-8,6,1628915,203411,,1611661319,35,17,2
+08:44,[NYL 18-35] Nurse Free Throw 1 of 2 (3 PTS),0,-80,3,,1628915,,1611661313,35,18,2
+08:44,[LVA] Swords Substitution replaced by Cambage,0,-80,8,,202670,202633,1611661319,35,18,2
+08:44,[NYL 19-35] Nurse Free Throw 2 of 2 (4 PTS),0,-80,3,,1628915,,1611661313,35,19,2
+08:31,[LVA 37-19] Cambage Driving Layup Shot: Made (11 PTS),50,-7,1,,202633,,1611661319,37,19,2
+08:16,[NYL] Wright Turnover : Out of Bounds - Bad Pass Turnover (1 TO),148,92,5,,101030,,1611661313,37,19,2
+08:01,[LVA 39-19] Park Jump Shot: Made (2 PTS) Assist: Cambage (3 AST),90,89,1,,1628917,202633,1611661319,39,19,2
+07:39,[NYL] Nurse 3pt Shot: Missed,-201,157,2,,1628915,,1611661313,39,19,2
+07:37,[LVA] Rodgers Rebound (Off:0 Def:3),-201,157,4,,203411,,1611661319,39,19,2
+07:31,[LVA 42-19] Plum 3pt Shot: Made (9 PTS) Assist: Rodgers (1 AST),-182,181,1,,1628276,203411,1611661319,42,19,2
+07:19,[NYL 21-42] Xu Cutting Layup Shot: Made (2 PTS) Assist: Wright (2 AST),-61,13,1,,1629566,101030,1611661313,42,21,2
+07:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,21,2
+07:06,[NYL] Nurse Substitution replaced by Raincock-Ekunwe,0,-80,8,,1628915,1628248,1611661313,42,21,2
+07:06,[NYL] Xu Substitution replaced by Charles,0,-80,8,,1629566,202250,1611661313,42,21,2
+07:06,[NYL] Wright Substitution replaced by Durr,0,-80,8,,101030,1629476,1611661313,42,21,2
+07:00,[LVA 44-21] Plum Pullup Jump shot: Made (11 PTS),-110,139,1,,1628276,,1611661319,44,21,2
+06:59,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,44,21,2
+06:59,[LVA] Rodgers Substitution replaced by McBride,0,-80,8,,203411,203825,1611661319,44,21,2
+06:59,[LVA] Park Substitution replaced by Wilson,0,-80,8,,1628917,1628932,1611661319,44,21,2
+06:39,Jump Ball Zahui B vs Young (Raincock-Ekunwe gains possession),0,-80,10,1629498,204320,1628248,1611661313,44,21,2
+06:30,[NYL] Charles Jump Shot: Missed,114,118,2,,202250,,1611661313,44,21,2
+06:28,[LVA] Wilson Rebound (Off:0 Def:6),114,118,4,,1628932,,1611661319,44,21,2
+06:22,[LVA] Wilson Foul: Offensive Charge (1 PF),-87,161,6,1628248,1628932,,1611661319,44,21,2
+06:22,[LVA] Wilson Turnover : Offensive Foul Turnover (1 TO),-87,161,5,,1628932,,1611661319,44,21,2
+06:13,[NYL] Boyd Driving Layup Shot: Missed,61,-3,2,1628932,204327,,1611661313,44,21,2
+06:09,[LVA] Plum Rebound (Off:0 Def:4),61,-3,4,,1628276,,1611661319,44,21,2
+06:07,[LVA] McBride Driving Layup Shot: Missed,-49,-8,2,,203825,,1611661319,44,21,2
+06:03,[NYL] Raincock-Ekunwe Rebound (Off:0 Def:1),-49,-8,4,,1628248,,1611661313,44,21,2
+05:55,[NYL] Durr Pullup Jump shot: Missed,5,166,2,,1629476,,1611661313,44,21,2
+05:51,[LVA] Cambage Rebound (Off:0 Def:3),5,166,4,,202633,,1611661319,44,21,2
+05:41,[LVA 46-21] Wilson Turnaround Jump Shot: Made (8 PTS) Assist: Young (2 AST),132,16,1,,1628932,1629498,1611661319,46,21,2
+05:21,[LVA] Plum Foul: Shooting (1 PF) (2 FTA),-81,34,6,204327,1628276,,1611661319,46,21,2
+05:21,[NYL 22-46] Boyd Free Throw 1 of 2 (1 PTS),0,-80,3,,204327,,1611661313,46,22,2
+05:21,[NYL] Raincock-Ekunwe Substitution replaced by Nurse,0,-80,8,,1628248,1628915,1611661313,46,22,2
+05:21,[NYL 23-46] Boyd Free Throw 2 of 2 (2 PTS),0,-80,3,,204327,,1611661313,46,23,2
+05:08,[LVA 48-23] Plum Cutting Layup Shot: Made (13 PTS) Assist: Wilson (2 AST),-38,0,1,,1628276,1628932,1611661319,48,23,2
+04:51,[NYL] Nurse Turnover : Bad Pass (1 TO) Steal:Young (1 ST),-180,329,5,1629498,1628915,,1611661313,48,23,2
+04:49,[NYL] Durr Foul: Shooting (2 PF) (2 FTA),61,17,6,1629498,1629476,,1611661313,48,23,2
+04:49,[LVA] Young Free Throw 1 of 2 Missed,0,-80,3,,1629498,,1611661319,48,23,2
+04:49,[LVA] Team Rebound,0,-80,4,,0,,1611661319,48,23,2
+04:49,[NYL] Charles Substitution replaced by Gray,0,-80,8,,202250,204334,1611661313,48,23,2
+04:49,[LVA 49-23] Young Free Throw 2 of 2 (6 PTS),0,-80,3,,1629498,,1611661319,49,23,2
+04:36,[NYL] Nurse Jump Shot: Missed,-12,157,2,,1628915,,1611661313,49,23,2
+04:33,[LVA] Plum Rebound (Off:0 Def:5),-12,157,4,,1628276,,1611661319,49,23,2
+04:31,[LVA 51-23] McBride Driving Layup Shot: Made (9 PTS),-1,46,1,,203825,,1611661319,51,23,2
+04:31,[NYL] Durr Foul: Shooting (3 PF) (1 FTA),12,-1,6,203825,1629476,,1611661313,51,23,2
+04:31,[LVA 52-23] McBride Free Throw 1 of 1 (10 PTS),0,-80,3,,203825,,1611661319,52,23,2
+04:16,[NYL] Boyd 3pt Shot: Missed,-232,27,2,,204327,,1611661313,52,23,2
+04:11,[LVA] Young Rebound (Off:0 Def:1),-232,27,4,,1629498,,1611661319,52,23,2
+04:05,[LVA 54-23] Wilson Jump Shot: Made (10 PTS) Assist: Young (3 AST),-20,170,1,,1628932,1629498,1611661319,54,23,2
+04:00,[NYL] Nurse Turnover : Bad Pass (2 TO) Steal:Plum (2 ST),-111,687,5,1628276,1628915,,1611661313,54,23,2
+03:59,[LVA 56-23] Plum Layup Shot: Made (15 PTS),-45,17,1,,1628276,,1611661319,56,23,2
+03:58,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,56,23,2
+03:58,[LVA] Cambage Substitution replaced by Hamby,0,-80,8,,202633,204324,1611661319,56,23,2
+03:58,[NYL] Boyd Substitution replaced by Bias,0,-80,8,,204327,203839,1611661313,56,23,2
+03:58,[NYL] Zahui B Substitution replaced by Raincock-Ekunwe,0,-80,8,,204320,1628248,1611661313,56,23,2
+03:47,[NYL] Bias Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),64,279,5,204324,203839,,1611661313,56,23,2
+03:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,23,2
+03:40,[LVA] Wilson Jump Shot: Missed,3,86,2,,1628932,,1611661319,56,23,2
+03:37,[NYL] Gray Rebound (Off:0 Def:1),3,86,4,,204334,,1611661313,56,23,2
+03:25,[LVA] Young Foul: Shooting (1 PF) (2 FTA),-85,58,6,1628915,1629498,,1611661319,56,23,2
+03:25,[NYL 24-56] Nurse Free Throw 1 of 2 (5 PTS),0,-80,3,,1628915,,1611661313,56,24,2
+03:25,[NYL 25-56] Nurse Free Throw 2 of 2 (6 PTS),0,-80,3,,1628915,,1611661313,56,25,2
+03:14,[LVA 58-25] McBride Jump Shot: Made (12 PTS) Assist: Young (4 AST),-125,6,1,,203825,1629498,1611661319,58,25,2
+03:02,[NYL] Bias 3pt Shot: Missed,-224,29,2,,203839,,1611661313,58,25,2
+02:59,[NYL] Nurse Rebound (Off:1 Def:1),-224,29,4,,1628915,,1611661313,58,25,2
+02:52,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,58,25,2
+02:52,[NYL] Nurse Substitution replaced by Boyd,0,-80,8,,1628915,204327,1611661313,58,25,2
+02:48,Jump Ball McBride vs Raincock-Ekunwe (Wilson gains possession),0,-80,10,1628248,203825,1628932,1611661319,58,25,2
+02:48,[NYL] Raincock-Ekunwe Turnover : Lost Ball (1 TO) Steal:McBride (1 ST),0,-80,5,203825,1628248,,1611661313,58,25,2
+02:45,[LVA] Young Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-100,115,5,,1629498,,1611661319,58,25,2
+02:27,[NYL 27-58] Bias Pullup Jump shot: Made (2 PTS),176,93,1,,203839,,1611661313,58,27,2
+02:16,[NYL] Bias Foul: Personal (1 PF),-77,117,6,203825,203839,,1611661313,58,27,2
+02:16,[LVA] Team Turnover : 5 Second Violation,-193,128,5,,0,,1611661319,58,27,2
+02:03,[NYL] Durr 3pt Shot: Missed,-46,247,2,,1629476,,1611661313,58,27,2
+02:00,[LVA] Plum Rebound (Off:0 Def:6),-46,247,4,,1628276,,1611661319,58,27,2
+01:49,[LVA 60-27] Plum Driving Layup Shot: Made (17 PTS) Assist: Young (5 AST),-25,13,1,,1628276,1629498,1611661319,60,27,2
+01:40,[NYL 29-60] Boyd Driving Layup Shot: Made (4 PTS) Assist: Bias (1 AST),21,7,1,,204327,203839,1611661313,60,29,2
+01:27,[LVA 62-29] Young Driving Layup Shot: Made (8 PTS),2,17,1,,1629498,,1611661319,62,29,2
+01:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,62,29,2
+01:10,[LVA] Hamby Substitution replaced by Park,0,-80,8,,204324,1628917,1611661319,62,29,2
+01:07,[LVA] McBride Foul: Shooting (1 PF) (3 FTA),186,187,6,203839,203825,,1611661319,62,29,2
+01:07,[NYL 30-62] Bias Free Throw 1 of 3 (3 PTS),0,-80,3,,203839,,1611661313,62,30,2
+01:07,[NYL 31-62] Bias Free Throw 2 of 3 (4 PTS),0,-80,3,,203839,,1611661313,62,31,2
+01:07,[NYL] Bias Free Throw 3 of 3 Missed,0,-80,3,,203839,,1611661313,62,31,2
+01:04,[NYL] Team Rebound,0,-80,4,,0,,1611661313,62,31,2
+00:58.6,[NYL] Bias 3pt Shot: Missed,-107,231,2,,203839,,1611661313,62,31,2
+00:58.6,[LVA] Team Rebound,-107,231,4,,0,,1611661319,62,31,2
+00:44.7,[LVA] Young Turnaround Jump Shot: Missed,-35,87,2,,1629498,,1611661319,62,31,2
+00:41.5,[LVA] McBride Rebound (Off:1 Def:2),-35,87,4,,203825,,1611661319,62,31,2
+00:39.7,[LVA] Plum 3pt Shot: Missed,-85,231,2,,1628276,,1611661319,62,31,2
+00:37.7,[LVA] Wilson Rebound (Off:1 Def:6),-85,231,4,,1628932,,1611661319,62,31,2
+00:37.7,[NYL] Gray Foul: Personal (3 PF),-85,231,6,1628932,204334,,1611661313,62,31,2
+00:32.4,[NYL] Gray Foul: Personal (4 PF) (2 FTA),-14,75,6,1628932,204334,,1611661313,62,31,2
+00:32.4,[LVA 63-31] Wilson Free Throw 1 of 2 (11 PTS),0,-80,3,,1628932,,1611661319,63,31,2
+00:32.4,[NYL] Gray Substitution replaced by Xu,0,-80,8,,204334,1629566,1611661313,63,31,2
+00:32.4,[LVA 64-31] Wilson Free Throw 2 of 2 (12 PTS),0,-80,3,,1628932,,1611661319,64,31,2
+00:20.6,[NYL] Boyd Turnover : Traveling (2 TO),-78,99,5,,204327,,1611661313,64,31,2
+00:02.7,[LVA 66-31] Plum Driving Layup Shot: Made (19 PTS),-29,14,1,,1628276,,1611661319,66,31,2
+00:01.7,[NYL] Boyd 3pt Shot: Missed,44,471,2,,204327,,1611661313,66,31,2
+00:01.7,[NYL] Team Rebound,44,471,4,,0,,1611661313,66,31,2
+00:00.0,End Period,0,-80,13,,0,,0,66,31,2
+10:00,Start Period,0,-80,12,,0,,0,66,31,3
+09:49,[LVA] Young Foul: Personal (2 PF),96,20,6,202250,1629498,,1611661319,66,31,3
+09:43,Stoppage Other,0,-80,20,,0,,0,66,31,3
+09:32,[NYL] Charles Turnover : Bad Pass (2 TO) Steal:Wilson (1 ST),-22,160,5,1628932,202250,,1611661313,66,31,3
+09:21,[LVA] Wilson Jump Shot: Missed,99,48,2,,1628932,,1611661319,66,31,3
+09:18,[NYL] Zahui B Rebound (Off:1 Def:1),99,48,4,,204320,,1611661313,66,31,3
+09:08,[NYL] Charles Turnaround Fadeaway shot: Missed,-115,68,2,,202250,,1611661313,66,31,3
+09:07,[LVA] Team Rebound,-115,68,4,,0,,1611661319,66,31,3
+08:54,[LVA] Young Driving Layup Shot: Missed,0,56,2,,1629498,,1611661319,66,31,3
+08:51,[NYL] Zahui B Rebound (Off:1 Def:2),0,56,4,,204320,,1611661313,66,31,3
+08:41,[NYL 33-66] Zahui B Jump Shot: Made (4 PTS) Assist: Boyd (1 AST),24,151,1,,204320,204327,1611661313,66,33,3
+08:34,[LVA] Cambage Foul: Offensive Charge (2 PF),47,51,6,204320,202633,,1611661319,66,33,3
+08:34,[LVA] Cambage Turnover : Offensive Foul Turnover (1 TO),47,51,5,,202633,,1611661319,66,33,3
+08:24,[NYL] Durr Turnover : Lost Ball (1 TO) Steal:Young (2 ST),115,231,5,1629498,1629476,,1611661313,66,33,3
+08:19,[LVA] Young Driving Layup Shot: Missed,-42,13,2,,1629498,,1611661319,66,33,3
+08:18,[LVA] Team Rebound,-48,-12,4,,0,,1611661319,66,33,3
+08:06,[LVA 68-33] Cambage Layup Shot: Made (13 PTS) Assist: Wilson (3 AST),25,8,1,,202633,1628932,1611661319,68,33,3
+07:47,[NYL 35-68] Zahui B Cutting Layup Shot: Made (6 PTS) Assist: Boyd (2 AST),36,-8,1,,204320,204327,1611661313,68,35,3
+07:35,[LVA] Cambage Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-6,99,5,,202633,,1611661319,68,35,3
+07:16,[NYL 37-68] Boyd Hook Bank Shot: Made (6 PTS),-19,67,1,,204327,,1611661313,68,37,3
+07:05,[LVA] McBride 3pt Shot: Missed,-124,239,2,,203825,,1611661319,68,37,3
+07:01,[NYL] Nurse Rebound (Off:1 Def:2),-124,239,4,,1628915,,1611661313,68,37,3
+06:54,[NYL] Durr Pullup Jump shot: Missed,118,154,2,,1629476,,1611661313,68,37,3
+06:51,[LVA] Cambage Rebound (Off:0 Def:4),118,154,4,,202633,,1611661319,68,37,3
+06:45,[NYL] Zahui B Foul: Shooting (2 PF) (2 FTA),-51,80,6,1628932,204320,,1611661313,68,37,3
+06:45,[LVA 69-37] Wilson Free Throw 1 of 2 (13 PTS),0,-80,3,,1628932,,1611661319,69,37,3
+06:45,[LVA 70-37] Wilson Free Throw 2 of 2 (14 PTS),0,-80,3,,1628932,,1611661319,70,37,3
+06:32,[NYL 40-70] Durr 3pt Shot: Made (6 PTS) Assist: Boyd (3 AST),168,182,1,,1629476,204327,1611661313,70,40,3
+06:21,[NYL] Zahui B Foul: Shooting (3 PF) (2 FTA),5,71,6,202633,204320,,1611661313,70,40,3
+06:21,[LVA] Cambage Free Throw 1 of 2 Missed,0,-80,3,,202633,,1611661319,70,40,3
+06:21,[LVA] Team Rebound,0,-80,4,,0,,1611661319,70,40,3
+06:21,[LVA 71-40] Cambage Free Throw 2 of 2 (14 PTS),0,-80,3,,202633,,1611661319,71,40,3
+06:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,40,3
+06:11,[NYL] Boyd Turnover : Step Out of Bounds Turnover (3 TO),-177,68,5,,204327,,1611661313,71,40,3
+05:52,[LVA] Plum 3pt Shot: Missed,147,193,2,,1628276,,1611661319,71,40,3
+05:49,[NYL] Nurse Rebound (Off:1 Def:3),147,193,4,,1628915,,1611661313,71,40,3
+05:39,[NYL 42-71] Charles Turnaround Hook Shot: Made (6 PTS) Assist: Nurse (1 AST),3,65,1,,202250,1628915,1611661313,71,42,3
+05:27,[LVA 73-42] Cambage Driving Layup Shot: Made (16 PTS) Assist: Plum (3 AST),42,17,1,,202633,1628276,1611661319,73,42,3
+05:27,[NYL] Zahui B Foul: Shooting (4 PF) (1 FTA),42,17,6,202633,204320,,1611661313,73,42,3
+05:27,[LVA 74-42] Cambage Free Throw 1 of 1 (17 PTS),0,-80,3,,202633,,1611661319,74,42,3
+05:14,[NYL] Charles Jump Shot: Missed,-136,3,2,,202250,,1611661313,74,42,3
+05:11,[LVA] McBride Rebound (Off:1 Def:3),-136,3,4,,203825,,1611661319,74,42,3
+05:09,[LVA] McBride Turnover : Out of Bounds - Bad Pass Turnover (2 TO),2,196,5,,203825,,1611661319,74,42,3
+05:09,[NYL] Zahui B Substitution replaced by Gray,0,-80,8,,204320,204334,1611661313,74,42,3
+04:53,[NYL] Durr 3pt Shot: Missed,-3,248,2,,1629476,,1611661313,74,42,3
+04:49,[LVA] Young Rebound (Off:0 Def:2),-3,248,4,,1629498,,1611661319,74,42,3
+04:45,[LVA] Young Turnover : Bad Pass (2 TO) Steal:Durr (2 ST),149,107,5,1629476,1629498,,1611661319,74,42,3
+04:43,[NYL] Durr Driving Layup Shot: Missed,-49,0,2,1628276,1629476,,1611661313,74,42,3
+04:43,[NYL] Team Rebound,-49,0,4,,0,,1611661313,74,42,3
+04:43,Timeout Officials,0,-80,9,,0,,0,74,42,3
+04:43,[LVA] Young Substitution replaced by Young,0,-80,8,,1629498,201477,1611661319,74,42,3
+04:43,[LVA] Cambage Substitution replaced by Hamby,0,-80,8,,202633,204324,1611661319,74,42,3
+04:43,[NYL] Charles Substitution replaced by Raincock-Ekunwe,0,-80,8,,202250,1628248,1611661313,74,42,3
+04:40,[NYL] Nurse Cutting Layup Shot: Missed,-43,16,2,,1628915,,1611661313,74,42,3
+04:37,[LVA] Wilson Rebound (Off:1 Def:7),-43,16,4,,1628932,,1611661319,74,42,3
+04:26,[LVA] Hamby Foul: Offensive Charge (3 PF),52,-1,6,1628915,204324,,1611661319,74,42,3
+04:26,[LVA] Hamby Turnover : Offensive Foul Turnover (2 TO),52,-1,5,,204324,,1611661319,74,42,3
+04:06,[NYL] Gray Turnover : Bad Pass (1 TO) Steal:Plum (3 ST),92,3,5,1628276,204334,,1611661313,74,42,3
+03:54,[NYL] Durr Foul: Shooting (4 PF) (2 FTA),20,164,6,203825,1629476,,1611661313,74,42,3
+03:54,[LVA 75-42] McBride Free Throw 1 of 2 (13 PTS),0,-80,3,,203825,,1611661319,75,42,3
+03:54,[NYL] Durr Substitution replaced by Bias,0,-80,8,,1629476,203839,1611661313,75,42,3
+03:54,[LVA 76-42] McBride Free Throw 2 of 2 (14 PTS),0,-80,3,,203825,,1611661319,76,42,3
+03:36,[NYL 44-76] Nurse Driving Layup Shot: Made (8 PTS),44,18,1,,1628915,,1611661313,76,44,3
+03:17,[LVA] Wilson Turnover : Out of Bounds Lost Ball Turnover (2 TO),102,55,5,,1628932,,1611661319,76,44,3
+03:00,[NYL] Nurse 3pt Shot: Missed,-144,210,2,,1628915,,1611661313,76,44,3
+02:56,[LVA] McBride Rebound (Off:1 Def:4),-144,210,4,,203825,,1611661319,76,44,3
+02:52,[LVA] Young Turnover : Bad Pass (1 TO) Steal:Raincock-Ekunwe (1 ST),177,196,5,1628248,201477,,1611661319,76,44,3
+02:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,76,44,3
+02:40,[NYL] Nurse Driving Finger Roll Layup Shot: Missed,50,53,2,,1628915,,1611661313,76,44,3
+02:38,[LVA] Young Rebound (Off:0 Def:2),50,53,4,,201477,,1611661319,76,44,3
+02:29,[LVA 78-44] Young Pullup Jump shot: Made (2 PTS) Assist: Hamby (1 AST),127,59,1,,201477,204324,1611661319,78,44,3
+02:23,[LVA] McBride Foul: Personal (2 PF),104,51,6,1628915,203825,,1611661319,78,44,3
+02:23,[NYL] Nurse Substitution replaced by Xu,0,-80,8,,1628915,1629566,1611661313,78,44,3
+02:23,[LVA] Wilson Substitution replaced by Park,0,-80,8,,1628932,1628917,1611661319,78,44,3
+02:23,[LVA] Plum Substitution replaced by Rodgers,0,-80,8,,1628276,203411,1611661319,78,44,3
+02:20,[LVA] Hamby Foul: Shooting (4 PF) (2 FTA),-132,41,6,204334,204324,,1611661319,78,44,3
+02:20,[NYL 45-78] Gray Free Throw 1 of 2 (3 PTS),0,-80,3,,204334,,1611661313,78,45,3
+02:20,[NYL 46-78] Gray Free Throw 2 of 2 (4 PTS),0,-80,3,,204334,,1611661313,78,46,3
+02:06,[NYL] Boyd Foul: Shooting (2 PF) (2 FTA),125,69,6,203825,204327,,1611661313,78,46,3
+02:06,[LVA 79-46] McBride Free Throw 1 of 2 (15 PTS),0,-80,3,,203825,,1611661319,79,46,3
+02:06,[LVA 80-46] McBride Free Throw 2 of 2 (16 PTS),0,-80,3,,203825,,1611661319,80,46,3
+01:52,[NYL 48-80] Raincock-Ekunwe Layup Shot: Made (2 PTS) Assist: Boyd (4 AST),42,-6,1,,1628248,204327,1611661313,80,48,3
+01:31,[LVA] Hamby Driving Layup Shot: Missed,37,31,2,,204324,,1611661319,80,48,3
+01:28,[NYL] Gray Rebound (Off:0 Def:2),37,31,4,,204334,,1611661313,80,48,3
+01:21,[NYL] Boyd Turnover : Bad Pass (4 TO) Steal:Park (1 ST),82,225,5,1628917,204327,,1611661313,80,48,3
+01:17,[LVA 83-48] Rodgers 3pt Shot: Made (3 PTS) Assist: McBride (4 AST),174,184,1,,203411,203825,1611661319,83,48,3
+00:57.7,[NYL] Gray Turnaround Jump Shot: Missed,119,22,2,,204334,,1611661313,83,48,3
+00:55.4,[LVA] McBride Rebound (Off:1 Def:5),119,22,4,,203825,,1611661319,83,48,3
+00:52.4,[LVA] Young Jump Shot: Missed,135,133,2,,201477,,1611661319,83,48,3
+00:52.4,[NYL] Boyd Rebound (Off:0 Def:1),135,133,4,,204327,,1611661313,83,48,3
+00:38.9,[NYL 50-83] Xu Jump Shot: Made (4 PTS) Assist: Boyd (5 AST),20,175,1,,1629566,204327,1611661313,83,50,3
+00:22.7,[NYL] Bias Foul: Shooting (2 PF) (2 FTA),96,55,6,203825,203839,,1611661313,83,50,3
+00:22.7,[LVA 84-50] McBride Free Throw 1 of 2 (17 PTS),0,-80,3,,203825,,1611661319,84,50,3
+00:22.7,[NYL] Boyd Substitution replaced by Durr,0,-80,8,,204327,1629476,1611661313,84,50,3
+00:22.7,[LVA 85-50] McBride Free Throw 2 of 2 (18 PTS),0,-80,3,,203825,,1611661319,85,50,3
+00:02.1,[NYL] Durr Pullup Jump shot: Missed,-36,142,2,,1629476,,1611661313,85,50,3
+00:02.1,[NYL] Team Rebound,-36,142,4,,0,,1611661313,85,50,3
+00:00.0,End Period,0,-80,13,,0,,0,85,50,3
+10:00,Start Period,0,-80,12,,0,,0,85,50,4
+09:49,[LVA 87-50] Hamby Driving Layup Shot: Made (4 PTS) Assist: Young (6 AST),49,1,1,,204324,1629498,1611661319,87,50,4
+09:24,[NYL] Raincock-Ekunwe Driving Layup Shot: Missed,-52,-5,2,201477,1628248,,1611661313,87,50,4
+09:18,[NYL] Gray Rebound (Off:1 Def:2),-52,-5,4,,204334,,1611661313,87,50,4
+09:17,[NYL 52-87] Gray Layup Shot: Made (6 PTS),-44,-3,1,,204334,,1611661313,87,52,4
+09:06,[LVA] Young Pullup Jump shot: Missed,36,86,2,,201477,,1611661319,87,52,4
+09:04,[NYL] Gray Rebound (Off:1 Def:3),36,86,4,,204334,,1611661313,87,52,4
+08:59,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,87,52,4
+08:59,[LVA] Park Substitution replaced by Swords,0,-80,8,,1628917,202670,1611661319,87,52,4
+08:59,[NYL] Gray Substitution replaced by Zahui B,0,-80,8,,204334,204320,1611661313,87,52,4
+08:48,[NYL] Bias Turnover : Bad Pass (2 TO) Steal:Hamby (2 ST),-144,139,5,204324,203839,,1611661313,87,52,4
+08:45,[LVA 89-52] Hamby Driving Layup Shot: Made (6 PTS),39,14,1,,204324,,1611661319,89,52,4
+08:45,[NYL] Bias Foul: Shooting (3 PF) (1 FTA),30,-12,6,204324,203839,,1611661313,89,52,4
+08:45,[LVA 90-52] Hamby Free Throw 1 of 1 (7 PTS),0,-80,3,,204324,,1611661319,90,52,4
+08:29,[NYL] Xu Pullup Jump shot: Missed,111,69,2,,1629566,,1611661313,90,52,4
+08:26,[LVA] Young Rebound (Off:0 Def:3),111,69,4,,201477,,1611661319,90,52,4
+08:16,[LVA] Hamby 3pt Shot: Missed,43,239,2,,204324,,1611661319,90,52,4
+08:13,[LVA] Young Rebound (Off:1 Def:2),43,239,4,,1629498,,1611661319,90,52,4
+08:11,[LVA 92-52] Swords Jump Shot: Made (2 PTS) Assist: Young (7 AST),-121,19,1,,202670,1629498,1611661319,92,52,4
+07:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,92,52,4
+07:52,[NYL] Bias Step Back Jump shot: Missed,93,165,2,,203839,,1611661313,92,52,4
+07:48,[LVA] Young Rebound (Off:1 Def:3),93,165,4,,1629498,,1611661319,92,52,4
+07:37,[LVA] Hamby Turnover : Lost Ball (3 TO) Steal:Zahui B (2 ST),-53,34,5,204320,204324,,1611661319,92,52,4
+07:34,[LVA] Hamby Foul: Shooting (5 PF) (2 FTA),-39,17,6,1629476,204324,,1611661319,92,52,4
+07:34,[NYL 53-92] Durr Free Throw 1 of 2 (7 PTS),0,-80,3,,1629476,,1611661313,92,53,4
+07:34,[NYL 54-92] Durr Free Throw 2 of 2 (8 PTS),0,-80,3,,1629476,,1611661313,92,54,4
+07:13,[LVA] Young Driving Layup Shot: Missed,66,5,2,204320,1629498,,1611661319,92,54,4
+07:13,[NYL] Team Rebound,66,5,4,,0,,1611661313,92,54,4
+06:48,[NYL] Zahui B Floating Jump shot: Missed,-75,65,2,,204320,,1611661313,92,54,4
+06:46,[LVA] Hamby Rebound (Off:0 Def:1),-75,65,4,,204324,,1611661319,92,54,4
+06:38,[LVA] Swords Jump Shot: Missed,-134,5,2,,202670,,1611661319,92,54,4
+06:35,[NYL] Zahui B Rebound (Off:1 Def:3),-134,5,4,,204320,,1611661313,92,54,4
+06:27,[NYL 57-92] Bias 3pt Shot: Made (7 PTS),-20,239,1,,203839,,1611661313,92,57,4
+06:01,[LVA 94-57] Hamby Driving Layup Shot: Made (9 PTS) Assist: Young (8 AST),26,10,1,,204324,1629498,1611661319,94,57,4
+05:34,[NYL] Raincock-Ekunwe 3pt Shot: Missed,139,214,2,,1628248,,1611661313,94,57,4
+05:30,[LVA] Hamby Rebound (Off:0 Def:2),139,214,4,,204324,,1611661319,94,57,4
+05:22,[LVA] Hamby Step Back Jump shot: Missed,119,-1,2,,204324,,1611661319,94,57,4
+05:20,[LVA] Swords Rebound (Off:1 Def:0),119,-1,4,,202670,,1611661319,94,57,4
+05:20,[LVA 96-57] Swords Putback Layup Shot: Made (4 PTS),-47,-12,1,,202670,,1611661319,96,57,4
+05:20,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,96,57,4
+05:20,[LVA] Hamby Substitution replaced by Park,0,-80,8,,204324,1628917,1611661319,96,57,4
+05:20,[NYL] Xu Substitution replaced by Nurse,0,-80,8,,1629566,1628915,1611661313,96,57,4
+05:20,[NYL] Durr Substitution replaced by Gray,0,-80,8,,1629476,204334,1611661313,96,57,4
+05:01,[NYL] Zahui B 3pt Shot: Missed,-22,260,2,,204320,,1611661313,96,57,4
+04:57,[LVA] Park Rebound (Off:0 Def:1),-22,260,4,,1628917,,1611661319,96,57,4
+04:45,[NYL] Raincock-Ekunwe Foul: Shooting (1 PF) (2 FTA),119,24,6,201477,1628248,,1611661313,96,57,4
+04:45,[LVA 97-57] Young Free Throw 1 of 2 (3 PTS),0,-80,3,,201477,,1611661319,97,57,4
+04:45,[LVA 98-57] Young Free Throw 2 of 2 (4 PTS),0,-80,3,,201477,,1611661319,98,57,4
+04:35,[NYL] Nurse 3pt Shot: Missed,-85,240,2,,1628915,,1611661313,98,57,4
+04:31,[LVA] Swords Rebound (Off:1 Def:1),-85,240,4,,202670,,1611661319,98,57,4
+04:24,[LVA] Swords Foul: Offensive Charge (1 PF),-71,62,6,204320,202670,,1611661319,98,57,4
+04:24,[LVA] Swords Turnover : Offensive Foul Turnover (2 TO),-71,62,5,,202670,,1611661319,98,57,4
+04:24,[NYL] Zahui B Substitution replaced by Xu,0,-80,8,,204320,1629566,1611661313,98,57,4
+04:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,98,57,4
+03:59,[NYL] Team Turnover : Shot Clock Turnover,104,38,5,,0,,1611661313,98,57,4
+03:46,[LVA] Rodgers 3pt Shot: Missed,-170,219,2,,203411,,1611661319,98,57,4
+03:44,[LVA] Park Rebound (Off:1 Def:1),-170,219,4,,1628917,,1611661319,98,57,4
+03:44,[NYL] Xu Foul: Shooting (1 PF) (2 FTA),-170,219,6,1628917,1629566,,1611661313,98,57,4
+03:44,[LVA 99-57] Park Free Throw 1 of 2 (3 PTS),0,-80,3,,1628917,,1611661319,99,57,4
+03:44,[LVA] Park Free Throw 2 of 2 Missed,0,-80,3,,1628917,,1611661319,99,57,4
+03:41,[NYL] Gray Rebound (Off:1 Def:4),0,-80,4,,204334,,1611661313,99,57,4
+03:30,[LVA] Park Foul: Personal (1 PF),91,51,6,204334,1628917,,1611661319,99,57,4
+03:26,[LVA] Park Foul: Shooting (2 PF) (2 FTA),86,60,6,1628915,1628917,,1611661319,99,57,4
+03:26,[NYL 58-99] Nurse Free Throw 1 of 2 (9 PTS),0,-80,3,,1628915,,1611661313,99,58,4
+03:26,[NYL] Nurse Free Throw 2 of 2 Missed,0,-80,3,,1628915,,1611661313,99,58,4
+03:23,[LVA] Swords Rebound (Off:1 Def:2),0,-80,4,,202670,,1611661319,99,58,4
+03:18,[NYL] Raincock-Ekunwe Foul: Shooting (2 PF) (2 FTA),-71,16,6,201477,1628248,,1611661313,99,58,4
+03:18,[LVA] Young Free Throw 1 of 2 Missed,0,-80,3,,201477,,1611661319,99,58,4
+03:18,[LVA] Team Rebound,0,-80,4,,0,,1611661319,99,58,4
+03:18,[LVA] Young Free Throw 2 of 2 Missed,0,-80,3,,201477,,1611661319,99,58,4
+03:15,[LVA] Park Rebound (Off:2 Def:1),0,-80,4,,1628917,,1611661319,99,58,4
+03:08,Jump Ball Gray vs Park (Raincock-Ekunwe gains possession),0,-80,10,1628917,204334,1628248,1611661313,99,58,4
+03:08,[LVA] Park Turnover : Lost Ball (1 TO) Steal:Gray (1 ST),0,-80,5,204334,1628917,,1611661319,99,58,4
+03:08,[NYL] Bias Driving Layup Shot: Missed,-47,4,2,203411,203839,,1611661313,99,58,4
+03:08,[NYL] Team Rebound,-47,4,4,,0,,1611661313,99,58,4
+03:03,[NYL] Raincock-Ekunwe Driving Layup Shot: Missed,42,-21,2,202670,1628248,,1611661313,99,58,4
+02:58,[LVA] Swords Rebound (Off:1 Def:3),42,-21,4,,202670,,1611661319,99,58,4
+02:51,[LVA] Swords Cutting Layup Shot: Missed,-95,6,2,1629566,202670,,1611661319,99,58,4
+02:46,[LVA] Young Rebound (Off:1 Def:3),-95,6,4,,201477,,1611661319,99,58,4
+02:45,[LVA] Young Turnover : Bad Pass (2 TO) Steal:Bias (1 ST),119,10,5,203839,201477,,1611661319,99,58,4
+02:42,[NYL 61-99] Nurse 3pt Shot: Made (12 PTS) Assist: Bias (2 AST),143,208,1,,1628915,203839,1611661313,99,61,4
+02:26,[LVA] Young Driving Layup Shot: Missed,27,7,2,,201477,,1611661319,99,61,4
+02:23,[NYL] Raincock-Ekunwe Rebound (Off:0 Def:2),27,7,4,,1628248,,1611661313,99,61,4
+02:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,99,61,4
+02:17,Timeout Officials,0,-80,9,,0,,0,99,61,4
+02:17,[NYL] Nurse Substitution replaced by Durr,0,-80,8,,1628915,1629476,1611661313,99,61,4
+02:14,[NYL 63-99] Xu Jump Shot: Made (6 PTS) Assist: Raincock-Ekunwe (1 AST),-131,65,1,,1629566,1628248,1611661313,99,63,4
+01:58,[LVA] Rodgers 3pt Shot: Missed,-208,156,2,,203411,,1611661319,99,63,4
+01:58,[NYL] Bias Rebound (Off:0 Def:1),-208,156,4,,203839,,1611661313,99,63,4
+01:49,[NYL 65-99] Bias Driving Layup Shot: Made (9 PTS),3,36,1,,203839,,1611661313,99,65,4
+01:32,[LVA] Rodgers Pullup Jump shot: Missed,-40,158,2,,203411,,1611661319,99,65,4
+01:28,[LVA] Park Rebound (Off:3 Def:1),-40,158,4,,1628917,,1611661319,99,65,4
+01:23,Jump Ball Park vs Xu (Swords gains possession),0,-80,10,1629566,1628917,202670,1611661319,99,65,4
+01:07,[NYL] Gray Foul: Shooting (5 PF) (2 FTA),-92,99,6,201477,204334,,1611661313,99,65,4
+01:07,[LVA] Young Free Throw 1 of 2 Missed,0,-80,3,,201477,,1611661319,99,65,4
+01:07,[LVA] Team Rebound,0,-80,4,,0,,1611661319,99,65,4
+01:07,[LVA 100-65] Young Free Throw 2 of 2 (5 PTS),0,-80,3,,201477,,1611661319,100,65,4
+00:49.3,[NYL] Xu 3pt Shot: Missed,22,263,2,,1629566,,1611661313,100,65,4
+00:46.4,[LVA] Park Rebound (Off:3 Def:2),22,263,4,,1628917,,1611661319,100,65,4
+00:29.7,[LVA] Park Turnover : Bad Pass (2 TO) Steal:Gray (2 ST),26,226,5,204334,1628917,,1611661319,100,65,4
+00:23.2,[NYL] Bias Turnover : Bad Pass (3 TO) Steal:Rodgers (1 ST),115,231,5,203411,203839,,1611661313,100,65,4
+00:00.0,End Period,0,-80,13,,0,,0,100,65,4
+00:00.0,Game End,0,-80,0,,0,,0,100,65,4

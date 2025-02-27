@@ -1,0 +1,372 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Austin vs Meesseman,0,-80,10,203416,1631022,,1611661322,0,0,1
+09:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,1
+09:36,[WAS] Burke 3pt Shot: Missed,-13,256,2,,1629568,,1611661322,0,0,1
+09:31,[CHI] Quigley Rebound (Off:0 Def:1),-13,256,4,,201516,,1611661329,0,0,1
+09:24,[CHI] Copper 3pt Shot: Missed,-215,133,2,,1627674,,1611661329,0,0,1
+09:20,[CHI] Parker Rebound (Off:1 Def:0),-215,133,4,,201496,,1611661329,0,0,1
+09:15,[CHI 2-0] Vandersloot Driving Layup Shot: Made (2 PTS) Assist: Parker (1 AST),-9,35,1,,202664,201496,1611661329,0,2,1
+09:05,[WAS 2-2] Atkins Cutting Layup Shot: Made (2 PTS) Assist: Austin (1 AST),1,6,1,,1628878,1631022,1611661322,2,2,1
+08:56,[CHI] Quigley Pullup Jump shot: Missed,-7,75,2,,201516,,1611661329,2,2,1
+08:51,[WAS] Delle Donne Rebound (Off:0 Def:1),-7,75,4,,203399,,1611661322,2,2,1
+08:49,[WAS 5-2] Delle Donne 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),-101,226,1,,203399,204333,1611661322,5,2,1
+08:30,[CHI] Parker Pullup Jump shot: Missed,6,183,2,,201496,,1611661329,5,2,1
+08:26,[WAS] Atkins Rebound (Off:0 Def:1),6,183,4,,1628878,,1611661322,5,2,1
+08:20,[WAS] Delle Donne Pullup Jump shot: Missed,110,37,2,,203399,,1611661322,5,2,1
+08:16,[CHI] Meesseman Rebound (Off:0 Def:1),110,37,4,,203416,,1611661329,5,2,1
+08:07,[CHI 4-5] Meesseman Jump Shot: Made (2 PTS) Assist: Parker (2 AST),93,53,1,,203416,201496,1611661329,5,4,1
+07:55,[WAS 8-4] Atkins 3pt Shot: Made (5 PTS) Assist: Delle Donne (1 AST),120,220,1,,1628878,203399,1611661322,8,4,1
+07:40,[CHI] Quigley Cutting Layup Shot: Missed,5,110,2,,201516,,1611661329,8,4,1
+07:37,[CHI] Quigley Rebound (Off:1 Def:1),5,110,4,,201516,,1611661329,8,4,1
+07:35,[CHI 6-8] Quigley Putback Layup Shot: Made (2 PTS),2,44,1,,201516,,1611661329,8,6,1
+07:26,[WAS] Cloud Turnover : Traveling (1 TO),3,64,5,,204333,,1611661322,8,6,1
+07:11,[CHI] Meesseman Driving Floating Jump Shot: Missed,-90,21,2,,203416,,1611661329,8,6,1
+07:08,[WAS] Delle Donne Rebound (Off:0 Def:2),-90,21,4,,203399,,1611661322,8,6,1
+06:56,[WAS 10-6] Austin Pullup Jump shot: Made (2 PTS) Assist: Cloud (2 AST),-11,130,1,,1631022,204333,1611661322,10,6,1
+06:32,[CHI 8-10] Parker Driving Layup Shot: Made (2 PTS),-4,51,1,,201496,,1611661329,10,8,1
+06:18,[CHI] Meesseman Foul: Shooting (1 PF) (2 FTA),15,123,6,1631022,203416,,1611661329,10,8,1
+06:18,[WAS 11-8] Austin Free Throw 1 of 2 (3 PTS),0,-80,3,,1631022,,1611661322,11,8,1
+06:18,[WAS 12-8] Austin Free Throw 2 of 2 (4 PTS),0,-80,3,,1631022,,1611661322,12,8,1
+06:06,[CHI] Vandersloot Turnover : Bad Pass (1 TO) Steal:Austin (1 ST),84,205,5,1631022,202664,,1611661329,12,8,1
+05:55,[WAS 14-8] Austin Layup Shot: Made (6 PTS) Assist: Cloud (3 AST),4,46,1,,1631022,204333,1611661322,14,8,1
+05:38,[WAS] Atkins Foul: Personal (1 PF),12,72,6,201496,1628878,,1611661322,14,8,1
+05:38,[CHI] Quigley Substitution replaced by Gardner,0,-80,8,,201516,203822,1611661329,14,8,1
+05:38,[CHI] Vandersloot Substitution replaced by Evans,0,-80,8,,202664,1630389,1611661329,14,8,1
+05:31,[CHI] Parker 3pt Shot: Missed,104,282,2,,201496,,1611661329,14,8,1
+05:27,[WAS] Burke Rebound (Off:0 Def:1),104,282,4,,1629568,,1611661322,14,8,1
+05:20,[WAS] Burke Driving Layup Shot: Missed,-21,72,2,,1629568,,1611661322,14,8,1
+05:16,[WAS] Atkins Rebound (Off:1 Def:1),-21,72,4,,1628878,,1611661322,14,8,1
+05:15,[WAS 16-8] Atkins Putback Layup Shot: Made (7 PTS),-5,14,1,,1628878,,1611661322,16,8,1
+05:02,[CHI] Gardner Turnover : Bad Pass (1 TO) Steal:Delle Donne (1 ST),117,216,5,203399,203822,,1611661329,16,8,1
+04:57,[CHI] Gardner Foul: Personal (1 PF),-86,96,6,203399,203822,,1611661329,16,8,1
+04:57,Timeout Officials,0,-80,9,,0,,0,16,8,1
+04:57,[WAS] Burke Substitution replaced by Machida,0,-80,8,,1629568,1630957,1611661322,16,8,1
+04:57,[CHI] Parker Substitution replaced by Stevens,0,-80,8,,201496,1628922,1611661329,16,8,1
+04:50,[WAS] Cloud Driving Layup Shot: Missed,16,35,2,,204333,,1611661322,16,8,1
+04:46,[CHI] Copper Rebound (Off:0 Def:1),16,35,4,,1627674,,1611661329,16,8,1
+04:38,[CHI] Copper Turnover : Lost Ball (1 TO) Steal:Atkins (1 ST),54,275,5,1628878,1627674,,1611661329,16,8,1
+04:27,[WAS] Delle Donne Turnover : Bad Pass (1 TO) Steal:Meesseman (1 ST),15,54,5,203416,203399,,1611661322,16,8,1
+04:17,[CHI 10-16] Stevens Driving Layup Shot: Made (2 PTS) Assist: Copper (1 AST),16,80,1,,1628922,1627674,1611661329,16,10,1
+03:51,[WAS] Delle Donne Turnaround Fadeaway Bank Jump Shot: Missed,-46,67,2,,203399,,1611661322,16,10,1
+03:46,[CHI] Evans Rebound (Off:0 Def:1),-46,67,4,,1630389,,1611661329,16,10,1
+03:40,[CHI] Evans Turnover : Lost Ball (1 TO) Steal:Machida (1 ST),-77,91,5,1630957,1630389,,1611661329,16,10,1
+03:34,[WAS] Delle Donne Running Pull-Up Jump Shot: Missed,-52,35,2,,203399,,1611661322,16,10,1
+03:32,[CHI] Copper Rebound (Off:0 Def:2),-52,35,4,,1627674,,1611661329,16,10,1
+03:28,[CHI 12-16] Copper Running Pull-Up Jump Shot: Made (2 PTS),10,199,1,,1627674,,1611661329,16,12,1
+03:05,[CHI] Gardner Foul: Personal (2 PF),-97,229,6,1628878,203822,,1611661329,16,12,1
+03:05,[WAS] Austin Substitution replaced by Williams,0,-80,8,,1631022,204322,1611661322,16,12,1
+03:05,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,16,12,1
+03:05,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,16,12,1
+02:59,[WAS 18-12] Williams Driving Layup Shot: Made (2 PTS) Assist: Machida (1 AST),4,20,1,,204322,1630957,1611661322,18,12,1
+02:45,[WAS] Walker-Kimbrough Foul: Personal (1 PF),-140,201,6,1627674,1628278,,1611661322,18,12,1
+02:45,[WAS] Cloud Substitution replaced by Hawkins,0,-80,8,,204333,203403,1611661322,18,12,1
+02:45,[CHI] Copper Substitution replaced by Quigley,0,-80,8,,1627674,201516,1611661329,18,12,1
+02:37,[CHI] Stevens 3pt Shot: Missed,230,87,2,,1628922,,1611661329,18,12,1
+02:34,[WAS] Hines-Allen Rebound (Off:0 Def:1),230,87,4,,1628899,,1611661322,18,12,1
+02:26,[WAS] Hines-Allen Turnover : Traveling (1 TO),140,68,5,,1628899,,1611661322,18,12,1
+02:26,[CHI] Meesseman Substitution replaced by Parker,0,-80,8,,203416,201496,1611661329,18,12,1
+02:14,[WAS] Williams Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,204322,,1611661322,18,12,1
+02:14,[CHI 13-18] Quigley Free Throw Technical (3 PTS),0,-80,3,,201516,,1611661329,18,13,1
+02:08,[CHI 16-18] Parker 3pt Shot: Made (5 PTS) Assist: Evans (1 AST),-84,246,1,,201496,1630389,1611661329,18,16,1
+01:53,[WAS] Walker-Kimbrough Turnover : Bad Pass (1 TO) Steal:Gardner (1 ST),-19,339,5,203822,1628278,,1611661322,18,16,1
+01:51,[WAS] Hines-Allen Foul: Shooting (1 PF) (2 FTA),7,83,6,203822,1628899,,1611661322,18,16,1
+01:51,[CHI 17-18] Gardner Free Throw 1 of 2 (1 PTS),0,-80,3,,203822,,1611661329,18,17,1
+01:51,[CHI 18-18] Gardner Free Throw 2 of 2 (2 PTS),0,-80,3,,203822,,1611661329,18,18,1
+01:26,[WAS] Williams Driving Hook Shot: Missed,3,53,2,,204322,,1611661322,18,18,1
+01:21,[CHI] Quigley Rebound (Off:1 Def:2),3,53,4,,201516,,1611661329,18,18,1
+01:09,[CHI] Quigley Turnover : Traveling (1 TO),-3,158,5,,201516,,1611661329,18,18,1
+00:56.8,[WAS] Hawkins 3pt Shot: Missed,223,63,2,,203403,,1611661322,18,18,1
+00:54.7,[CHI] Parker Rebound (Off:1 Def:1),223,63,4,,201496,,1611661329,18,18,1
+00:51.6,[CHI 20-18] Stevens Running Layup Shot: Made (4 PTS) Assist: Parker (3 AST),6,38,1,,1628922,201496,1611661329,18,20,1
+00:35.2,[WAS] Hines-Allen Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-17,75,5,,1628899,,1611661322,18,20,1
+00:18.6,[CHI 22-18] Parker Fadeaway Jump Shot: Made (7 PTS),-101,49,1,,201496,,1611661329,18,22,1
+00:00.0,[WAS] Walker-Kimbrough Pullup Jump shot: Missed,-93,52,2,,1628278,,1611661322,18,22,1
+00:00.0,[CHI] Gardner Rebound (Off:0 Def:1),-93,52,4,,203822,,1611661329,18,22,1
+00:00.0,End Period,0,-80,13,,0,,0,18,22,1
+10:00,Start Period,0,-80,12,,0,,0,18,22,2
+09:41,[CHI] Gardner Turnover : Traveling (2 TO),-92,139,5,,203822,,1611661329,18,22,2
+09:28,[WAS 21-22] Atkins 3pt Shot: Made (10 PTS) Assist: Cloud (4 AST),165,194,1,,1628878,204333,1611661322,21,22,2
+09:06,[CHI 24-21] Stevens Jump Shot: Made (6 PTS) Assist: Gardner (1 AST),0,87,1,,1628922,203822,1611661329,21,24,2
+08:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,21,24,2
+08:55,[WAS] Hines-Allen Substitution replaced by Delle Donne,0,-80,8,,1628899,203399,1611661322,21,24,2
+08:47,[WAS] Cloud Driving Layup Shot: Missed,15,103,2,202664,204333,,1611661322,21,24,2
+08:45,[CHI] Vandersloot Rebound (Off:0 Def:1),15,103,4,,202664,,1611661329,21,24,2
+08:45,[WAS] Atkins Foul: Personal (2 PF),33,319,6,202664,1628878,,1611661322,21,24,2
+08:23,[CHI 26-21] Gardner Cutting Layup Shot: Made (4 PTS) Assist: Parker (4 AST),-10,49,1,,203822,201496,1611661329,21,26,2
+08:11,[WAS] Atkins Pullup Jump shot: Missed,-89,41,2,,1628878,,1611661322,21,26,2
+08:10,[WAS] Williams Rebound (Off:1 Def:0),-89,41,4,,204322,,1611661322,21,26,2
+08:09,[WAS 23-26] Williams Putback Layup Shot: Made (4 PTS),1,14,1,,204322,,1611661322,23,26,2
+07:51,[CHI] Stevens 3pt Shot: Missed,44,285,2,,1628922,,1611661329,23,26,2
+07:48,[WAS] Cloud Rebound (Off:0 Def:1),44,285,4,,204333,,1611661322,23,26,2
+07:39,[WAS] Walker-Kimbrough Pullup Jump shot: Missed,-45,160,2,,1628278,,1611661322,23,26,2
+07:37,[CHI] Parker Rebound (Off:1 Def:2),-45,160,4,,201496,,1611661329,23,26,2
+07:32,[WAS] Williams Foul: Shooting (2 PF) (2 FTA),17,60,6,1628922,204322,,1611661322,23,26,2
+07:32,[CHI 27-23] Stevens Free Throw 1 of 2 (7 PTS),0,-80,3,,1628922,,1611661329,23,27,2
+07:32,[WAS] Walker-Kimbrough Substitution replaced by Burke,0,-80,8,,1628278,1629568,1611661322,23,27,2
+07:32,[CHI] Gardner Substitution replaced by Copper,0,-80,8,,203822,1627674,1611661329,23,27,2
+07:32,[CHI 28-23] Stevens Free Throw 2 of 2 (8 PTS),0,-80,3,,1628922,,1611661329,23,28,2
+07:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,28,2
+07:15,[WAS] Delle Donne Turnaround Jump Shot: Missed,-63,105,2,,203399,,1611661322,23,28,2
+07:13,[WAS] Williams Rebound (Off:2 Def:0),-63,105,4,,204322,,1611661322,23,28,2
+07:13,[WAS 25-28] Williams Putback Layup Shot: Made (6 PTS),4,14,1,,204322,,1611661322,25,28,2
+07:13,[CHI] Parker Foul: Shooting (1 PF) (1 FTA),9,9,6,204322,201496,,1611661329,25,28,2
+07:13,[CHI] Parker Substitution replaced by Meesseman,0,-80,8,,201496,203416,1611661329,25,28,2
+07:13,[WAS 26-28] Williams Free Throw 1 of 1 (7 PTS),0,-80,3,,204322,,1611661322,26,28,2
+06:58,[CHI] Meesseman Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-105,238,5,,203416,,1611661329,26,28,2
+06:58,[WAS] Williams Substitution replaced by Austin,0,-80,8,,204322,1631022,1611661322,26,28,2
+06:40,[WAS] Burke Layup Shot: Missed,16,19,2,,1629568,,1611661322,26,28,2
+06:37,[WAS] Burke Rebound (Off:1 Def:1),16,19,4,,1629568,,1611661322,26,28,2
+06:36,[WAS] Burke Putback Layup Shot: Missed,20,24,2,,1629568,,1611661322,26,28,2
+06:34,[CHI] Vandersloot Rebound (Off:0 Def:2),20,24,4,,202664,,1611661329,26,28,2
+06:28,[CHI] Stevens Turnover : Bad Pass (1 TO) Steal:Delle Donne (2 ST),-92,219,5,203399,1628922,,1611661329,26,28,2
+06:18,[WAS] Cloud Turnover : Bad Pass (2 TO) Steal:Meesseman (2 ST),101,176,5,203416,204333,,1611661322,26,28,2
+06:11,[CHI] Stevens Running Layup Shot: Missed,-44,37,2,1631022,1628922,,1611661329,26,28,2
+06:07,[WAS] Austin Rebound (Off:0 Def:1),-44,37,4,,1631022,,1611661322,26,28,2
+05:52,[WAS 28-28] Austin Cutting Layup Shot: Made (8 PTS) Assist: Delle Donne (2 AST),7,28,1,,1631022,203399,1611661322,28,28,2
+05:32,[CHI 30-28] Copper Driving Layup Shot: Made (4 PTS) Assist: Vandersloot (1 AST),6,40,1,,1627674,202664,1611661329,28,30,2
+05:20,[WAS 31-30] Delle Donne 3pt Shot: Made (6 PTS) Assist: Cloud (5 AST),171,204,1,,203399,204333,1611661322,31,30,2
+05:08,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,31,30,2
+05:08,[CHI] Stevens Substitution replaced by Parker,0,-80,8,,1628922,201496,1611661329,31,30,2
+04:58,[CHI 32-31] Quigley Cutting Layup Shot: Made (5 PTS) Assist: Vandersloot (2 AST),1,38,1,,201516,202664,1611661329,31,32,2
+04:42,[WAS] Atkins 3pt Shot: Missed,-5,273,2,,1628878,,1611661322,31,32,2
+04:39,[CHI] Copper Rebound (Off:0 Def:3),-5,273,4,,1627674,,1611661329,31,32,2
+04:34,[CHI] Copper Running Layup Shot: Missed,-3,66,2,,1627674,,1611661329,31,32,2
+04:32,[WAS] Delle Donne Rebound (Off:0 Def:3),-3,66,4,,203399,,1611661322,31,32,2
+04:25,[WAS] Atkins 3pt Shot: Missed,-130,219,2,,1628878,,1611661322,31,32,2
+04:22,[CHI] Parker Rebound (Off:1 Def:3),-130,219,4,,201496,,1611661329,31,32,2
+04:16,[CHI] Meesseman Turnover : Bad Pass (2 TO) Steal:Delle Donne (3 ST),17,87,5,203399,203416,,1611661329,31,32,2
+04:05,[WAS 33-32] Delle Donne Driving Layup Shot: Made (8 PTS) Assist: Atkins (1 AST),-33,72,1,,203399,1628878,1611661322,33,32,2
+03:53,[WAS] Austin Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,1631022,,1611661322,33,32,2
+03:53,[CHI 33-33] Quigley Free Throw Technical (6 PTS),0,-80,3,,201516,,1611661329,33,33,2
+03:53,[CHI] Quigley Substitution replaced by Gardner,0,-80,8,,201516,203822,1611661329,33,33,2
+03:49,[CHI] Parker 3pt Shot: Missed,-132,225,2,,201496,,1611661329,33,33,2
+03:47,[WAS] Team Rebound,-132,225,4,,0,,1611661322,33,33,2
+03:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,33,2
+03:38,[WAS 35-33] Austin Jump Shot: Made (10 PTS) Assist: Burke (1 AST),139,36,1,,1631022,1629568,1611661322,35,33,2
+03:27,[CHI] Vandersloot 3pt Shot: Missed,-112,254,2,,202664,,1611661329,35,33,2
+03:24,[WAS] Cloud Rebound (Off:0 Def:2),-112,254,4,,204333,,1611661322,35,33,2
+03:21,[WAS 37-33] Austin Running Layup Shot: Made (12 PTS) Assist: Cloud (6 AST),26,22,1,,1631022,204333,1611661322,37,33,2
+03:10,[WAS] Burke Foul: Shooting (1 PF) (2 FTA),1,62,6,203416,1629568,,1611661322,37,33,2
+03:10,[CHI 34-37] Meesseman Free Throw 1 of 2 (3 PTS),0,-80,3,,203416,,1611661329,37,34,2
+03:10,[WAS] Atkins Substitution replaced by Machida,0,-80,8,,1628878,1630957,1611661322,37,34,2
+03:10,[CHI] Vandersloot Substitution replaced by Evans,0,-80,8,,202664,1630389,1611661329,37,34,2
+03:10,[CHI] Meesseman Free Throw 2 of 2 Missed,0,-80,3,,203416,,1611661329,37,34,2
+03:09,[WAS] Team Rebound,0,-80,4,,0,,1611661322,37,34,2
+03:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,34,2
+02:48,[WAS] Austin Pullup Jump shot: Missed,104,111,2,,1631022,,1611661322,37,34,2
+02:45,[WAS] Team Rebound,104,111,4,,0,,1611661322,37,34,2
+02:45,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,37,34,2
+02:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,34,2
+02:36,[WAS] Machida Turnover : Bad Pass (1 TO) Steal:Evans (1 ST),-88,261,5,1630389,1630957,,1611661322,37,34,2
+02:23,[CHI 36-37] Evans Pullup Jump shot: Made (2 PTS) Assist: Parker (5 AST),-62,134,1,,1630389,201496,1611661329,37,36,2
+02:12,[WAS 39-36] Cloud Driving Layup Shot: Made (2 PTS) Assist: Austin (2 AST),0,36,1,,204333,1631022,1611661322,39,36,2
+01:54,[CHI 38-39] Parker Jump Shot: Made (9 PTS) Assist: Evans (2 AST),-5,169,1,,201496,1630389,1611661329,39,38,2
+01:27,[WAS] Delle Donne Turnover : Lost Ball (2 TO) Steal:Gardner (2 ST),3,173,5,203822,203399,,1611661322,39,38,2
+01:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,38,2
+01:25,[WAS] Austin Substitution replaced by Williams,0,-80,8,,1631022,204322,1611661322,39,38,2
+01:25,[CHI] Meesseman Substitution replaced by Stevens,0,-80,8,,203416,1628922,1611661329,39,38,2
+01:17,[CHI] Gardner Turnover : Lost Ball (3 TO) Steal:Cloud (1 ST),-4,32,5,204333,203822,,1611661329,39,38,2
+01:03,[WAS 42-38] Burke 3pt Shot: Made (3 PTS) Assist: Cloud (7 AST),-154,193,1,,1629568,204333,1611661322,42,38,2
+00:56.3,[CHI] Copper Pullup Jump shot: Missed,-109,147,2,,1627674,,1611661329,42,38,2
+00:53.5,[WAS] Burke Rebound (Off:1 Def:2),-109,147,4,,1629568,,1611661322,42,38,2
+00:48.3,[CHI] Evans Foul: Personal (1 PF),49,144,6,204322,1630389,,1611661329,42,38,2
+00:48.3,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,42,38,2
+00:48.3,[CHI] Evans Substitution replaced by Vandersloot,0,-80,8,,1630389,202664,1611661329,42,38,2
+00:34.9,[WAS] Cloud Turnaround Fadeaway shot: Missed,-21,177,2,,204333,,1611661322,42,38,2
+00:32.7,[CHI] Parker Rebound (Off:1 Def:4),-21,177,4,,201496,,1611661329,42,38,2
+00:27.8,[CHI] Parker Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),-51,194,5,204322,201496,,1611661329,42,38,2
+00:22.6,[WAS] Williams Running Layup Shot: Missed,31,20,2,,204322,,1611661322,42,38,2
+00:20.0,[CHI] Vandersloot Rebound (Off:0 Def:3),31,20,4,,202664,,1611661329,42,38,2
+00:00.0,[CHI] Parker Step Back Jump shot: Missed,32,194,2,,201496,,1611661329,42,38,2
+00:00.0,[CHI] Team Rebound,32,194,4,,0,,1611661329,42,38,2
+00:00.0,End Period,0,-80,13,,0,,0,42,38,2
+10:00,Start Period,0,-80,12,,0,,0,42,38,3
+09:39,[WAS] Atkins Foul: Shooting (3 PF) (2 FTA),17,56,6,1627674,1628878,,1611661322,42,38,3
+09:39,[CHI 39-42] Copper Free Throw 1 of 2 (5 PTS),0,-80,3,,1627674,,1611661329,42,39,3
+09:39,[CHI] Copper Free Throw 2 of 2 Missed,0,-80,3,,1627674,,1611661329,42,39,3
+09:36,[WAS] Burke Rebound (Off:1 Def:3),0,-80,4,,1629568,,1611661322,42,39,3
+09:21,[WAS] Delle Donne Cutting Layup Shot: Missed,30,87,2,203416,203399,,1611661322,42,39,3
+09:16,[CHI] Meesseman Rebound (Off:0 Def:2),30,87,4,,203416,,1611661329,42,39,3
+09:11,[CHI] Quigley Driving Floating Jump Shot: Missed,-19,49,2,,201516,,1611661329,42,39,3
+09:09,[WAS] Austin Rebound (Off:0 Def:2),-19,49,4,,1631022,,1611661322,42,39,3
+09:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,39,3
+08:54,[WAS] Atkins Turnover : Bad Pass (1 TO) Steal:Vandersloot (1 ST),7,136,5,202664,1628878,,1611661322,42,39,3
+08:44,[CHI 41-42] Meesseman Cutting Layup Shot: Made (5 PTS) Assist: Parker (6 AST),-10,38,1,,203416,201496,1611661329,42,41,3
+08:25,[WAS] Cloud Driving Floating Jump Shot: Missed,6,72,2,,204333,,1611661322,42,41,3
+08:23,[CHI] Parker Rebound (Off:1 Def:5),6,72,4,,201496,,1611661329,42,41,3
+08:16,[CHI] Copper Driving Layup Shot: Missed,-24,51,2,204333,1627674,,1611661329,42,41,3
+08:16,[CHI] Team Rebound,-24,51,4,,0,,1611661329,42,41,3
+08:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,41,3
+08:12,[CHI 43-42] Quigley Pullup Jump shot: Made (8 PTS) Assist: Vandersloot (3 AST),-71,67,1,,201516,202664,1611661329,42,43,3
+07:50,[WAS] Delle Donne Pullup Jump shot: Missed,-34,162,2,,203399,,1611661322,42,43,3
+07:48,[CHI] Parker Rebound (Off:1 Def:6),-34,162,4,,201496,,1611661329,42,43,3
+07:39,[CHI 46-42] Copper 3pt Shot: Made (8 PTS) Assist: Vandersloot (4 AST),-213,99,1,,1627674,202664,1611661329,42,46,3
+07:39,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,42,46,3
+07:30,[WAS] Atkins Pullup Jump shot: Missed,-10,219,2,,1628878,,1611661322,42,46,3
+07:27,[CHI] Parker Rebound (Off:1 Def:7),-10,219,4,,201496,,1611661329,42,46,3
+07:19,[CHI] Quigley 3pt Shot: Missed,-22,256,2,,201516,,1611661329,42,46,3
+07:15,[WAS] Delle Donne Rebound (Off:0 Def:4),-22,256,4,,203399,,1611661322,42,46,3
+07:06,[WAS] Austin Driving Layup Shot: Missed,-17,75,2,,1631022,,1611661322,42,46,3
+07:03,[CHI] Parker Rebound (Off:1 Def:8),-17,75,4,,201496,,1611661329,42,46,3
+07:01,[CHI] Vandersloot Turnover : Out of Bounds - Bad Pass Turnover (2 TO),39,218,5,,202664,,1611661329,42,46,3
+06:48,[WAS 45-46] Delle Donne 3pt Shot: Made (11 PTS) Assist: Cloud (8 AST),-157,204,1,,203399,204333,1611661322,45,46,3
+06:31,[CHI] Copper Pullup Jump shot: Missed,106,58,2,,1627674,,1611661329,45,46,3
+06:29,[WAS] Austin Rebound (Off:0 Def:3),106,58,4,,1631022,,1611661322,45,46,3
+06:20,[WAS 48-46] Delle Donne 3pt Shot: Made (14 PTS) Assist: Cloud (9 AST),-96,275,1,,203399,204333,1611661322,48,46,3
+05:59,[CHI 49-48] Parker 3pt Shot: Made (12 PTS) Assist: Quigley (1 AST),-58,246,1,,201496,201516,1611661329,48,49,3
+05:51,[CHI] Copper Foul: Personal (1 PF),-68,281,6,1628878,1627674,,1611661329,48,49,3
+05:51,[CHI] Parker Substitution replaced by Stevens,0,-80,8,,201496,1628922,1611661329,48,49,3
+05:51,[CHI] Vandersloot Substitution replaced by Gardner,0,-80,8,,202664,203822,1611661329,48,49,3
+05:51,[CHI] Quigley Substitution replaced by Evans,0,-80,8,,201516,1630389,1611661329,48,49,3
+05:41,[WAS] Atkins Pullup Jump shot: Missed,83,76,2,203822,1628878,,1611661322,48,49,3
+05:41,[WAS] Team Rebound,83,76,4,,0,,1611661322,48,49,3
+05:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,49,3
+05:38,[CHI] Gardner Foul: Personal (3 PF),91,83,6,1628878,203822,,1611661329,48,49,3
+05:22,[WAS] Cloud Pullup Jump shot: Missed,33,183,2,,204333,,1611661322,48,49,3
+05:20,[CHI] Copper Rebound (Off:0 Def:4),33,183,4,,1627674,,1611661329,48,49,3
+05:07,[CHI] Meesseman Jump Shot: Missed,81,115,2,,203416,,1611661329,48,49,3
+05:05,[WAS] Austin Rebound (Off:0 Def:4),81,115,4,,1631022,,1611661322,48,49,3
+04:56,[CHI] Meesseman Foul: Shooting (2 PF) (2 FTA),11,77,6,1629568,203416,,1611661329,48,49,3
+04:56,[WAS 49-49] Burke Free Throw 1 of 2 (4 PTS),0,-80,3,,1629568,,1611661322,49,49,3
+04:56,[WAS] Austin Substitution replaced by Williams,0,-80,8,,1631022,204322,1611661322,49,49,3
+04:56,[WAS 50-49] Burke Free Throw 2 of 2 (5 PTS),0,-80,3,,1629568,,1611661322,50,49,3
+04:32,[CHI] Gardner Driving Layup Shot: Missed,-19,113,2,1629568,203822,,1611661329,50,49,3
+04:21,[CHI] Meesseman Rebound (Off:1 Def:2),-19,113,4,,203416,,1611661329,50,49,3
+04:18,[CHI 51-50] Meesseman Fadeaway Jump Shot: Made (7 PTS),-16,48,1,,203416,,1611661329,50,51,3
+04:09,[WAS] Atkins Fadeaway Jump Shot: Missed,-61,64,2,,1628878,,1611661322,50,51,3
+04:07,[CHI] Evans Rebound (Off:0 Def:2),-61,64,4,,1630389,,1611661329,50,51,3
+03:58,[CHI] Evans 3pt Shot: Missed,31,255,2,,1630389,,1611661329,50,51,3
+03:58,[WAS] Team Rebound,31,255,4,,0,,1611661322,50,51,3
+03:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,51,3
+03:58,[WAS] Burke Substitution replaced by Walker-Kimbrough,0,-80,8,,1629568,1628278,1611661322,50,51,3
+03:36,[WAS 53-51] Atkins 3pt Shot: Made (13 PTS) Assist: Cloud (10 AST),194,183,1,,1628878,204333,1611661322,53,51,3
+03:21,[CHI] Evans Turnover : Bad Pass (2 TO) Steal:Walker-Kimbrough (1 ST),98,226,5,1628278,1630389,,1611661329,53,51,3
+03:09,[WAS] Walker-Kimbrough Turnover : Out of Bounds - Bad Pass Turnover (2 TO),81,185,5,,1628278,,1611661322,53,51,3
+03:09,[CHI] Copper Substitution replaced by Quigley,0,-80,8,,1627674,201516,1611661329,53,51,3
+02:47,[CHI 53-53] Gardner Layup Shot: Made (6 PTS),3,56,1,,203822,,1611661329,53,53,3
+02:28,[WAS 55-53] Williams Layup Shot: Made (9 PTS) Assist: Atkins (2 AST),12,50,1,,204322,1628878,1611661322,55,53,3
+02:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,53,3
+02:16,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,55,53,3
+02:16,[CHI] Meesseman Substitution replaced by Parker,0,-80,8,,203416,201496,1611661329,55,53,3
+02:09,[WAS] Atkins Foul: Shooting (4 PF) (2 FTA),-6,54,6,1630389,1628878,,1611661322,55,53,3
+02:09,[CHI] Evans Free Throw 1 of 2 Missed,0,-80,3,,1630389,,1611661329,55,53,3
+02:09,[CHI] Team Rebound,0,-80,4,,0,,1611661329,55,53,3
+02:09,[WAS] Atkins Substitution replaced by Burke,0,-80,8,,1628878,1629568,1611661322,55,53,3
+02:09,[CHI 54-55] Evans Free Throw 2 of 2 (3 PTS),0,-80,3,,1630389,,1611661329,55,54,3
+01:49,[WAS] Cloud Pullup Jump shot: Missed,56,183,2,,204333,,1611661322,55,54,3
+01:47,[CHI] Evans Rebound (Off:0 Def:3),56,183,4,,1630389,,1611661329,55,54,3
+01:40,[CHI 56-55] Stevens Cutting Layup Shot: Made (10 PTS) Assist: Parker (7 AST),-17,49,1,,1628922,201496,1611661329,55,56,3
+01:17,[WAS] Hines-Allen Jump Shot: Missed,-72,71,2,,1628899,,1611661322,55,56,3
+01:16,[CHI] Parker Rebound (Off:1 Def:9),-72,71,4,,201496,,1611661329,55,56,3
+01:11,[WAS] Hines-Allen Foul: Personal (2 PF),101,60,6,201496,1628899,,1611661322,55,56,3
+00:59.0,[CHI 58-55] Parker Jump Shot: Made (14 PTS) Assist: Evans (3 AST),-54,201,1,,201496,1630389,1611661329,55,58,3
+00:39.8,[WAS] Walker-Kimbrough Jump Shot: Missed,-135,166,2,,1628278,,1611661322,55,58,3
+00:37.8,[CHI] Parker Rebound (Off:1 Def:10),-135,166,4,,201496,,1611661329,55,58,3
+00:29.2,[CHI 61-55] Gardner 3pt Shot: Made (9 PTS) Assist: Quigley (2 AST),-208,117,1,,203822,201516,1611661329,55,61,3
+00:12.6,[CHI] Quigley Foul: Personal (1 PF),108,244,6,1629568,201516,,1611661329,55,61,3
+00:10.8,[WAS] Walker-Kimbrough Turnover : Bad Pass (3 TO) Steal:Evans (2 ST),125,209,5,1630389,1628278,,1611661322,55,61,3
+00:00.0,[CHI] Gardner 3pt Shot: Missed,218,89,2,,203822,,1611661329,55,61,3
+00:00.0,[CHI] Gardner Rebound (Off:1 Def:1),218,89,4,,203822,,1611661329,55,61,3
+00:00.0,End Period,0,-80,13,,0,,0,55,61,3
+10:00,Start Period,0,-80,12,,0,,0,55,61,4
+09:42,[WAS] Hines-Allen Layup Shot: Missed,-18,75,2,,1628899,,1611661322,55,61,4
+09:40,[CHI] Parker Rebound (Off:1 Def:11),-18,75,4,,201496,,1611661329,55,61,4
+09:32,[CHI] Quigley Foul: Offensive (2 PF),-17,162,6,1628278,201516,,1611661329,55,61,4
+09:32,[CHI] Quigley Turnover : Offensive Foul Turnover (2 TO),-17,162,5,,201516,,1611661329,55,61,4
+09:19,[CHI] Quigley Foul: Personal (3 PF),-66,269,6,203399,201516,,1611661329,55,61,4
+09:05,[WAS] Hines-Allen Pullup Jump shot: Missed,44,37,2,,1628899,,1611661322,55,61,4
+09:05,[WAS] Team Rebound,44,37,4,,0,,1611661322,55,61,4
+09:05,[WAS] Team Turnover : Shot Clock Turnover,21,110,5,,0,,1611661322,55,61,4
+08:53,[WAS] Burke Foul: Personal (2 PF),117,193,6,201516,1629568,,1611661322,55,61,4
+08:53,[WAS] Cloud Substitution replaced by Machida,0,-80,8,,204333,1630957,1611661322,55,61,4
+08:45,[CHI] Parker 3pt Shot: Missed,9,237,2,,201496,,1611661329,55,61,4
+08:45,[WAS] Walker-Kimbrough Rebound (Off:0 Def:1),9,237,4,,1628278,,1611661322,55,61,4
+08:45,[CHI] Gardner Foul: Personal (4 PF),-27,803,6,1628278,203822,,1611661329,55,61,4
+08:32,[WAS] Walker-Kimbrough 3pt Shot: Missed,227,114,2,,1628278,,1611661322,55,61,4
+08:30,[CHI] Quigley Rebound (Off:1 Def:3),227,114,4,,201516,,1611661329,55,61,4
+08:16,[CHI 64-55] Stevens 3pt Shot: Made (13 PTS) Assist: Parker (8 AST),228,97,1,,1628922,201496,1611661329,55,64,4
+08:16,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,55,64,4
+08:16,[WAS] Walker-Kimbrough Substitution replaced by Atkins,0,-80,8,,1628278,1628878,1611661322,55,64,4
+07:56,[WAS 57-64] Burke Driving Layup Shot: Made (7 PTS) Assist: Atkins (3 AST),0,51,1,,1629568,1628878,1611661322,57,64,4
+07:41,[CHI 66-57] Evans Driving Layup Shot: Made (5 PTS),10,36,1,,1630389,,1611661329,57,66,4
+07:30,[WAS 59-66] Delle Donne Pullup Jump shot: Made (16 PTS) Assist: Machida (2 AST),-107,61,1,,203399,1630957,1611661322,59,66,4
+07:13,[CHI 68-59] Gardner Jump Shot: Made (11 PTS),112,75,1,,203822,,1611661329,59,68,4
+06:53,[WAS] Burke 3pt Shot: Missed,-168,219,2,,1629568,,1611661322,59,68,4
+06:51,[CHI] Parker Rebound (Off:1 Def:12),-168,219,4,,201496,,1611661329,59,68,4
+06:36,[CHI] Evans 3pt Shot: Missed,-113,236,2,,1630389,,1611661329,59,68,4
+06:30,[WAS] Delle Donne Rebound (Off:0 Def:5),-113,236,4,,203399,,1611661322,59,68,4
+06:27,[WAS] Delle Donne 3pt Shot: Missed,52,276,2,,203399,,1611661322,59,68,4
+06:23,[CHI] Stevens Rebound (Off:0 Def:1),52,276,4,,1628922,,1611661329,59,68,4
+06:11,[CHI] Parker 3pt Shot: Missed,-79,242,2,,201496,,1611661329,59,68,4
+06:09,[CHI] Gardner Rebound (Off:2 Def:1),-79,242,4,,203822,,1611661329,59,68,4
+05:55,[CHI 70-59] Parker Step Back Jump shot: Made (16 PTS),-118,145,1,,201496,,1611661329,59,70,4
+05:38,[WAS] Machida Turnover : Bad Pass (2 TO) Steal:Gardner (3 ST),-9,249,5,203822,1630957,,1611661322,59,70,4
+05:30,[CHI] Quigley 3pt Shot: Missed,-227,94,2,,201516,,1611661329,59,70,4
+05:27,[WAS] Delle Donne Rebound (Off:0 Def:6),-227,94,4,,203399,,1611661322,59,70,4
+05:20,[CHI] Parker Foul: Shooting (2 PF) (2 FTA),-4,72,6,203399,201496,,1611661329,59,70,4
+05:20,Timeout Officials,0,-80,9,,0,,0,59,70,4
+05:20,[WAS] Hines-Allen Substitution replaced by Austin,0,-80,8,,1628899,1631022,1611661322,59,70,4
+05:20,[WAS] Machida Substitution replaced by Cloud,0,-80,8,,1630957,204333,1611661322,59,70,4
+05:20,[CHI] Parker Substitution replaced by Meesseman,0,-80,8,,201496,203416,1611661329,59,70,4
+05:20,[CHI] Evans Substitution replaced by Hebard,0,-80,8,,1630389,1630113,1611661329,59,70,4
+05:20,[CHI] Stevens Substitution replaced by Vandersloot,0,-80,8,,1628922,202664,1611661329,59,70,4
+05:20,[CHI] Gardner Substitution replaced by Copper,0,-80,8,,203822,1627674,1611661329,59,70,4
+05:20,[WAS] Delle Donne Free Throw 1 of 2 Missed,0,-80,3,,203399,,1611661322,59,70,4
+05:20,[WAS] Team Rebound,0,-80,4,,0,,1611661322,59,70,4
+05:20,[WAS 60-70] Delle Donne Free Throw 2 of 2 (17 PTS),0,-80,3,,203399,,1611661322,60,70,4
+05:00,[CHI 72-60] Copper Pullup Jump shot: Made (10 PTS),82,172,1,,1627674,,1611661329,60,72,4
+04:45,[WAS] Atkins 3pt Shot: Missed,102,249,2,,1628878,,1611661322,60,72,4
+04:42,[CHI] Vandersloot Rebound (Off:0 Def:4),102,249,4,,202664,,1611661329,60,72,4
+04:29,[CHI] Copper 3pt Shot: Missed,-179,192,2,,1627674,,1611661329,60,72,4
+04:27,[WAS] Burke Rebound (Off:1 Def:4),-179,192,4,,1629568,,1611661322,60,72,4
+04:24,[CHI] Quigley Foul: Personal (4 PF),-4,26,6,1629568,201516,,1611661329,60,72,4
+04:13,[WAS] Delle Donne 3pt Shot: Missed,-143,231,2,,203399,,1611661322,60,72,4
+04:13,[CHI] Vandersloot Rebound (Off:0 Def:5),-143,231,4,,202664,,1611661329,60,72,4
+04:13,[WAS] Atkins Foul: Personal (5 PF),183,612,6,202664,1628878,,1611661322,60,72,4
+03:55,[CHI 74-60] Meesseman Layup Shot: Made (9 PTS) Assist: Vandersloot (5 AST),16,15,1,,203416,202664,1611661329,60,74,4
+03:43,[WAS] Austin Pullup Jump shot: Missed,-12,87,2,,1631022,,1611661322,60,74,4
+03:42,[WAS] Atkins Rebound (Off:2 Def:1),-12,87,4,,1628878,,1611661322,60,74,4
+03:42,[CHI] Meesseman Foul: Shooting (3 PF) (2 FTA),0,44,6,1628878,203416,,1611661329,60,74,4
+03:42,[WAS 61-74] Atkins Free Throw 1 of 2 (14 PTS),0,-80,3,,1628878,,1611661322,61,74,4
+03:42,[CHI] Meesseman Substitution replaced by Parker,0,-80,8,,203416,201496,1611661329,61,74,4
+03:42,[WAS 62-74] Atkins Free Throw 2 of 2 (15 PTS),0,-80,3,,1628878,,1611661322,62,74,4
+03:27,[CHI] Quigley Turnover : Bad Pass (3 TO) Steal:Burke (1 ST),-86,377,5,1629568,201516,,1611661329,62,74,4
+03:27,[WAS] Burke Running Layup Shot: Missed,10,81,2,201516,1629568,,1611661322,62,74,4
+03:27,[WAS] Team Rebound,10,81,4,,0,,1611661322,62,74,4
+03:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,62,74,4
+03:27,[CHI] Hebard Substitution replaced by Meesseman,0,-80,8,,1630113,203416,1611661329,62,74,4
+03:14,[WAS 65-74] Atkins 3pt Shot: Made (18 PTS) Assist: Austin (3 AST),-101,243,1,,1628878,1631022,1611661322,65,74,4
+03:02,[CHI 76-65] Quigley Driving Finger Roll Layup Shot: Made (10 PTS),-5,46,1,,201516,,1611661329,65,76,4
+02:44,[WAS] Austin Driving Floating Jump Shot: Missed,-1,49,2,,1631022,,1611661322,65,76,4
+02:41,[WAS] Burke Rebound (Off:2 Def:4),-1,49,4,,1629568,,1611661322,65,76,4
+02:40,[WAS 67-76] Burke Putback Layup Shot: Made (9 PTS),6,38,1,,1629568,,1611661322,67,76,4
+02:16,[CHI] Quigley Driving Layup Shot: Missed,-22,80,2,203399,201516,,1611661329,67,76,4
+02:11,[WAS] Austin Rebound (Off:0 Def:5),-22,80,4,,1631022,,1611661322,67,76,4
+02:10,[CHI] Parker Foul: Shooting (3 PF) (2 FTA),-7,53,6,1628878,201496,,1611661329,67,76,4
+02:10,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,67,76,4
+02:10,[WAS] Burke Substitution replaced by Walker-Kimbrough,0,-80,8,,1629568,1628278,1611661322,67,76,4
+02:10,[WAS 68-76] Atkins Free Throw 1 of 2 (19 PTS),0,-80,3,,1628878,,1611661322,68,76,4
+02:10,[WAS 69-76] Atkins Free Throw 2 of 2 (20 PTS),0,-80,3,,1628878,,1611661322,69,76,4
+01:55,[CHI 78-69] Copper Cutting Layup Shot: Made (12 PTS) Assist: Parker (9 AST),-2,22,1,,1627674,201496,1611661329,69,78,4
+01:37,[WAS] Cloud 3pt Shot: Missed,-127,238,2,,204333,,1611661322,69,78,4
+01:37,[WAS] Walker-Kimbrough Rebound (Off:1 Def:1),-127,238,4,,1628278,,1611661322,69,78,4
+01:37,[WAS 71-78] Walker-Kimbrough Putback Layup Shot: Made (2 PTS),-4,24,1,,1628278,,1611661322,71,78,4
+01:12,[CHI] Quigley 3pt Shot: Missed,-207,126,2,,201516,,1611661329,71,78,4
+01:09,[WAS] Cloud Rebound (Off:0 Def:3),-207,126,4,,204333,,1611661322,71,78,4
+01:03,[WAS] Atkins 3pt Shot: Missed,-150,221,2,,1628878,,1611661322,71,78,4
+01:01,[WAS] Delle Donne Rebound (Off:1 Def:6),-150,221,4,,203399,,1611661322,71,78,4
+00:58.0,[WAS] Atkins Fadeaway Jump Shot: Missed,-93,131,2,,1628878,,1611661322,71,78,4
+00:58.0,[CHI] Meesseman Rebound (Off:1 Def:3),-93,131,4,,203416,,1611661329,71,78,4
+00:38.9,[CHI 80-71] Meesseman Fadeaway Jump Shot: Made (11 PTS) Assist: Vandersloot (6 AST),-99,53,1,,203416,202664,1611661329,71,80,4
+00:38.9,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,71,80,4
+00:33.8,[WAS] Atkins 3pt Shot: Missed,22,280,2,,1628878,,1611661322,71,80,4
+00:32.3,[CHI] Team Rebound,22,280,4,,0,,1611661329,71,80,4
+00:32.3,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,80,4
+00:31.2,[WAS] Delle Donne Foul: Personal Take (1 PF),122,712,6,203416,203399,,1611661322,71,80,4
+00:31.2,[WAS] Cloud Substitution replaced by Machida,0,-80,8,,204333,1630957,1611661322,71,80,4
+00:31.2,[WAS] Delle Donne Substitution replaced by Hawkins,0,-80,8,,203399,203403,1611661322,71,80,4
+00:21.2,[CHI 82-71] Vandersloot Cutting Layup Shot: Made (4 PTS) Assist: Parker (10 AST),-7,51,1,,202664,201496,1611661329,71,82,4
+00:07.5,[WAS 73-82] Austin Jump Shot: Made (14 PTS),5,160,1,,1631022,,1611661322,73,82,4
+00:00.0,End Period,0,-80,13,,0,,0,73,82,4
+00:00.0,Game End,0,-80,0,,0,,0,73,82,4

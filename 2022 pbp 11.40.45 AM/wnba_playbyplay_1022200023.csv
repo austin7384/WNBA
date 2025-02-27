@@ -1,0 +1,412 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Jones vs Dolson,0,-80,10,203828,1627673,,1611661323,0,0,1
+09:45,[CON] Williams Pullup Jump shot: Missed,140,78,2,,1627675,,1611661323,0,0,1
+09:44,[NYL] Ionescu Rebound (Off:0 Def:1),140,78,4,,1629477,,1611661313,0,0,1
+09:39,[NYL] Ionescu Turnover : Backcourt Turnover (1 TO),94,457,5,,1629477,,1611661313,0,0,1
+09:22,[CON] Bonner Turnaround Jump Shot: Missed,-116,22,2,,201886,,1611661323,0,0,1
+09:21,[NYL] Ionescu Rebound (Off:0 Def:2),-116,22,4,,1629477,,1611661313,0,0,1
+09:12,[NYL 3-0] Laney 3pt Shot: Made (3 PTS) Assist: Whitcomb (1 AST),-230,50,1,,204335,1628244,1611661313,3,0,1
+08:58,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-67,9,5,,202662,,1611661323,3,0,1
+08:43,[NYL] Howard Turnover : Lost Ball (1 TO) Steal:Thomas (1 ST),-33,201,5,203826,203827,,1611661313,3,0,1
+08:39,[NYL] Howard Foul: Shooting (1 PF) (2 FTA),15,25,6,203826,203827,,1611661313,3,0,1
+08:39,[CON 1-3] Thomas Free Throw 1 of 2 (1 PTS),0,-80,3,,203826,,1611661323,3,1,1
+08:39,[CON 2-3] Thomas Free Throw 2 of 2 (2 PTS),0,-80,3,,203826,,1611661323,3,2,1
+08:26,[NYL] Ionescu 3pt Shot: Missed,219,93,2,,1629477,,1611661313,3,2,1
+08:25,[CON] Thomas Rebound (Off:0 Def:1),219,93,4,,203826,,1611661323,3,2,1
+08:14,[CON] Jones Driving Layup Shot: Missed,-8,20,2,,1627673,,1611661323,3,2,1
+08:13,[NYL] Laney Rebound (Off:0 Def:1),-8,20,4,,204335,,1611661313,3,2,1
+08:05,[NYL] Laney Turnover : Lost Ball (1 TO) Steal:Thomas (2 ST),-17,51,5,203826,204335,,1611661313,3,2,1
+08:01,[CON] Williams Running Layup Shot: Missed,-10,15,2,,1627675,,1611661323,3,2,1
+08:00,[NYL] Ionescu Rebound (Off:0 Def:3),-10,15,4,,1629477,,1611661313,3,2,1
+07:45,[NYL 5-2] Dolson Turnaround Fadeaway shot: Made (2 PTS),19,45,1,,203828,,1611661313,5,2,1
+07:17,[CON] Thomas 3pt Shot: Missed,-195,137,2,,202662,,1611661323,5,2,1
+07:16,[NYL] Dolson Rebound (Off:0 Def:1),-195,137,4,,203828,,1611661313,5,2,1
+07:10,[NYL] Laney Turnover : Bad Pass (2 TO) Steal:Thomas (3 ST),33,40,5,203826,204335,,1611661313,5,2,1
+06:52,[CON] Bonner Turnover : Bad Pass (1 TO) Steal:Ionescu (1 ST),90,78,5,1629477,201886,,1611661323,5,2,1
+06:46,[NYL 7-2] Ionescu Running Layup Shot: Made (2 PTS),-17,24,1,,1629477,,1611661313,7,2,1
+06:34,[CON] Thomas Pullup Jump shot: Missed,113,115,2,,202662,,1611661323,7,2,1
+06:33,[NYL] Ionescu Rebound (Off:0 Def:4),113,115,4,,1629477,,1611661313,7,2,1
+06:22,[NYL 10-2] Laney 3pt Shot: Made (6 PTS) Assist: Howard (1 AST),-145,209,1,,204335,203827,1611661313,10,2,1
+06:20,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,10,2,1
+06:20,[CON] Bonner Substitution replaced by Hiedeman,0,-80,8,,201886,1629567,1611661323,10,2,1
+06:20,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,10,2,1
+06:20,[CON] Thomas Substitution replaced by Carrington,0,-80,8,,202662,1630096,1611661323,10,2,1
+06:09,[CON] Hiedeman Driving Floating Jump Shot: Missed,-63,89,2,,1629567,,1611661323,10,2,1
+06:08,[NYL] Dolson Rebound (Off:0 Def:2),-63,89,4,,203828,,1611661313,10,2,1
+06:00,[NYL] Dolson Turnover : Traveling (1 TO),146,215,5,,203828,,1611661313,10,2,1
+05:44,[CON 4-10] Thomas Turnaround Bank Hook Shot: Made (4 PTS) Assist: Hiedeman (1 AST),61,20,1,,203826,1629567,1611661323,10,4,1
+05:27,[NYL] Laney Turnover : Lost Ball (3 TO),-61,262,5,,204335,,1611661313,10,4,1
+05:27,[NYL] Laney Foul: Loose Ball (1 PF),74,565,6,1630096,204335,,1611661313,10,4,1
+05:27,[NYL] Ionescu Substitution replaced by Allen,0,-80,8,,1629477,204296,1611661313,10,4,1
+05:13,[CON 6-10] Thomas Driving Layup Shot: Made (6 PTS) Assist: Williams (1 AST),16,24,1,,203826,1627675,1611661323,10,6,1
+04:56,[CON] Carrington Foul: Personal (1 PF),152,92,6,204335,1630096,,1611661323,10,6,1
+04:46,[NYL] Laney Driving Reverse Layup Shot: Missed,4,29,2,,204335,,1611661313,10,6,1
+04:45,[CON] Carrington Rebound (Off:0 Def:1),4,29,4,,1630096,,1611661323,10,6,1
+04:40,[NYL] Howard Foul: Shooting (2 PF) (2 FTA),13,36,6,1630096,203827,,1611661313,10,6,1
+04:40,[CON 7-10] Carrington Free Throw 1 of 2 (1 PTS),0,-80,3,,1630096,,1611661323,10,7,1
+04:40,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,10,7,1
+04:40,[CON 8-10] Carrington Free Throw 2 of 2 (2 PTS),0,-80,3,,1630096,,1611661323,10,8,1
+04:30,[NYL] Allen Turnover : Traveling (1 TO),122,222,5,,204296,,1611661313,10,8,1
+04:18,[CON] Williams Pullup Jump shot: Missed,-117,137,2,,1627675,,1611661323,10,8,1
+04:17,[NYL] Dolson Rebound (Off:0 Def:3),-117,137,4,,203828,,1611661313,10,8,1
+04:02,[NYL 12-8] Whitcomb Driving Floating Jump Shot: Made (2 PTS) Assist: Dolson (1 AST),28,99,1,,1628244,203828,1611661313,12,8,1
+03:44,[CON] Jones Cutting Layup Shot: Missed,13,26,2,203828,1628280,,1611661323,12,8,1
+03:43,[NYL] Onyenwere Rebound (Off:0 Def:1),13,26,4,,1630446,,1611661313,12,8,1
+03:37,[NYL] Laney 3pt Shot: Missed,156,188,2,,204335,,1611661313,12,8,1
+03:36,[CON] Carrington Rebound (Off:0 Def:2),156,188,4,,1630096,,1611661323,12,8,1
+03:26,[CON] Carrington Driving Layup Shot: Missed,11,28,2,,1630096,,1611661323,12,8,1
+03:25,[NYL] Dolson Rebound (Off:0 Def:4),11,28,4,,203828,,1611661313,12,8,1
+03:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,8,1
+03:08,[NYL] Laney Substitution replaced by Ionescu,0,-80,8,,204335,1629477,1611661313,12,8,1
+03:08,[NYL] Dolson Substitution replaced by Cubaj,0,-80,8,,203828,1631032,1611661313,12,8,1
+03:08,[CON] Thomas Substitution replaced by Bonner,0,-80,8,,203826,201886,1611661323,12,8,1
+03:08,[CON] Williams Substitution replaced by Jones,0,-80,8,,1627675,1627673,1611661323,12,8,1
+03:05,[NYL] Cubaj Turnover : Bad Pass (1 TO) Steal:Hiedeman (1 ST),-149,236,5,1629567,1631032,,1611661313,12,8,1
+03:01,[CON 10-12] Hiedeman Running Layup Shot: Made (2 PTS),12,17,1,,1629567,,1611661323,12,10,1
+03:01,[NYL] Onyenwere Foul: Shooting (1 PF) (1 FTA),12,17,6,1629567,1630446,,1611661313,12,10,1
+03:01,[CON 11-12] Hiedeman Free Throw 1 of 1 (3 PTS),0,-80,3,,1629567,,1611661323,12,11,1
+02:48,[NYL 15-11] Onyenwere 3pt Shot: Made (3 PTS) Assist: Ionescu (1 AST),-35,257,1,,1630446,1629477,1611661313,15,11,1
+02:21,[CON] Team Turnover : Shot Clock Turnover,37,25,5,,0,,1611661323,15,11,1
+02:07,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-33,16,5,,1629477,,1611661313,15,11,1
+01:50,[CON] Carrington Cutting Layup Shot: Missed,18,15,2,,1630096,,1611661323,15,11,1
+01:49,[CON] Carrington Rebound (Off:1 Def:2),18,15,4,,1630096,,1611661323,15,11,1
+01:48,[CON] Carrington Tip Layup Shot: Missed,11,25,2,,1630096,,1611661323,15,11,1
+01:47,[CON] Jones Rebound (Off:1 Def:0),11,25,4,,1628280,,1611661323,15,11,1
+01:46,[CON 13-15] Jones Putback Layup Shot: Made (2 PTS),23,51,1,,1628280,,1611661323,15,13,1
+01:31,[NYL] Whitcomb Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),-48,55,5,201886,1628244,,1611661313,15,13,1
+01:26,[CON 16-15] Hiedeman 3pt Shot: Made (6 PTS) Assist: Bonner (1 AST),-199,112,1,,1629567,201886,1611661323,15,16,1
+01:17,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,15,16,1
+01:17,[NYL] Whitcomb Substitution replaced by Dolson,0,-80,8,,1628244,203828,1611661313,15,16,1
+01:17,[NYL] Cubaj Substitution replaced by Laney,0,-80,8,,1631032,204335,1611661313,15,16,1
+01:17,[CON] Carrington Substitution replaced by Thomas,0,-80,8,,1630096,202662,1611661323,15,16,1
+01:15,[NYL] Laney Turnover : Bad Pass (4 TO) Steal:Hiedeman (2 ST),124,273,5,1629567,204335,,1611661313,15,16,1
+01:11,[CON 18-15] Hiedeman Running Layup Shot: Made (8 PTS),-6,17,1,,1629567,,1611661323,15,18,1
+00:50.0,[NYL] Allen Turnover : Traveling (2 TO),-4,177,5,,204296,,1611661313,15,18,1
+00:50.0,[NYL] Onyenwere Substitution replaced by Howard,0,-80,8,,1630446,203827,1611661313,15,18,1
+00:35.3,[CON] Hiedeman Turnover : Out of Bounds - Bad Pass Turnover (1 TO),20,26,5,,1629567,,1611661323,15,18,1
+00:21.7,[NYL] Allen 3pt Shot: Missed,222,72,2,,204296,,1611661313,15,18,1
+00:20.5,[CON] Hiedeman Rebound (Off:0 Def:1),222,72,4,,1629567,,1611661323,15,18,1
+00:04.8,[CON] Hiedeman Step Back Jump shot: Missed,44,196,2,,1629567,,1611661323,15,18,1
+00:03.6,[CON] Jones Rebound (Off:1 Def:0),44,196,4,,1627673,,1611661323,15,18,1
+00:01.3,[CON] Jones Jump Shot: Missed,-100,38,2,,1627673,,1611661323,15,18,1
+00:00.1,[CON] Team Rebound,-100,38,4,,0,,1611661323,15,18,1
+00:00.0,End Period,0,-80,13,,0,,0,15,18,1
+10:00,Start Period,0,-80,12,,0,,0,15,18,2
+09:42,[NYL] Dolson Turnover : Bad Pass (2 TO) Steal:Bonner (2 ST),-115,74,5,201886,203828,,1611661313,15,18,2
+09:37,[CON 20-15] Bonner Running Jump Shot: Made (2 PTS) Assist: Thomas (1 AST),133,83,1,,201886,202662,1611661323,15,20,2
+09:20,[NYL] Ionescu Turnover : Bad Pass (3 TO) Steal:Thomas (1 ST),63,301,5,202662,1629477,,1611661313,15,20,2
+09:15,[CON 22-15] Thomas Running Pull-Up Jump Shot: Made (2 PTS),-128,86,1,,202662,,1611661323,15,22,2
+09:09,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,15,22,2
+09:09,[NYL] Allen Substitution replaced by Whitcomb,0,-80,8,,204296,1628244,1611661313,15,22,2
+09:02,[NYL] Ionescu Turnover : Traveling (4 TO),27,56,5,,1629477,,1611661313,15,22,2
+08:46,[NYL] Laney Foul: Shooting (2 PF) (2 FTA),-136,64,6,201886,204335,,1611661313,15,22,2
+08:46,[CON 23-15] Bonner Free Throw 1 of 2 (3 PTS),0,-80,3,,201886,,1611661323,15,23,2
+08:46,[CON] Hiedeman Substitution replaced by Thomas,0,-80,8,,1629567,203826,1611661323,15,23,2
+08:46,[CON 24-15] Bonner Free Throw 2 of 2 (4 PTS),0,-80,3,,201886,,1611661323,15,24,2
+08:33,[CON] Thomas Foul: Personal (1 PF),4,115,6,203827,203826,,1611661323,15,24,2
+08:33,[NYL] Team Turnover : 5 Second Violation,-218,146,5,,0,,1611661313,15,24,2
+08:15,[CON 27-15] Jones 3pt Shot: Made (3 PTS) Assist: Thomas (1 AST),55,246,1,,1627673,203826,1611661323,15,27,2
+07:56,[NYL] Laney Turnover : Lost Ball (5 TO) Steal:Jones (1 ST),-106,227,5,1627673,204335,,1611661313,15,27,2
+07:51,[CON 29-15] Thomas Running Layup Shot: Made (8 PTS) Assist: Jones (1 AST),16,17,1,,203826,1627673,1611661323,15,29,2
+07:39,[CON] Thomas Foul: Personal (1 PF),112,148,6,1629477,202662,,1611661323,15,29,2
+07:39,[NYL] Ionescu Substitution replaced by Allen,0,-80,8,,1629477,204296,1611661313,15,29,2
+07:39,[NYL] Dolson Substitution replaced by Cubaj,0,-80,8,,203828,1631032,1611661313,15,29,2
+07:39,[NYL] Laney Substitution replaced by Durr,0,-80,8,,204335,1629476,1611661313,15,29,2
+07:28,[NYL] Allen Pullup Jump shot: Missed,130,113,2,,204296,,1611661313,15,29,2
+07:27,[CON] Jones Rebound (Off:1 Def:1),130,113,4,,1627673,,1611661323,15,29,2
+07:11,[CON] Thomas Turnover : Traveling (1 TO),40,42,5,,203826,,1611661323,15,29,2
+06:58,[NYL] Howard Driving Hook Shot: Missed,33,37,2,,203827,,1611661313,15,29,2
+06:57,[CON] Jones Rebound (Off:1 Def:1),33,37,4,,1628280,,1611661323,15,29,2
+06:47,[CON] Bonner Pullup Jump shot: Missed,-116,64,2,204296,201886,,1611661323,15,29,2
+06:46,[CON] Team Rebound,-116,64,4,,0,,1611661323,15,29,2
+06:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,29,2
+06:46,[NYL] Durr Substitution replaced by Onyenwere,0,-80,8,,1629476,1630446,1611661313,15,29,2
+06:41,[CON] Jones Driving Layup Shot: Missed,-10,21,2,,1627673,,1611661323,15,29,2
+06:40,[NYL] Allen Rebound (Off:0 Def:1),-10,21,4,,204296,,1611661313,15,29,2
+06:37,[CON] Bonner Violation:Kicked Ball,0,-80,7,,201886,,1611661323,15,29,2
+06:33,[CON] Jones Foul: Personal (1 PF),63,59,6,204296,1627673,,1611661323,15,29,2
+06:25,[NYL 18-29] Whitcomb 3pt Shot: Made (5 PTS),130,201,1,,1628244,,1611661313,18,29,2
+06:12,[NYL] Whitcomb Foul: Shooting (1 PF) (2 FTA),-7,31,6,1628280,1628244,,1611661313,18,29,2
+06:12,[CON 30-18] Jones Free Throw 1 of 2 (3 PTS),0,-80,3,,1628280,,1611661323,18,30,2
+06:12,[CON] Jones Substitution replaced by Williams,0,-80,8,,1627673,1627675,1611661323,18,30,2
+06:12,[CON 31-18] Jones Free Throw 2 of 2 (4 PTS),0,-80,3,,1628280,,1611661323,18,31,2
+06:03,[NYL] Whitcomb Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-23,33,5,,1628244,,1611661313,18,31,2
+05:45,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Howard (1 ST),17,43,5,203827,1628280,,1611661323,18,31,2
+05:41,[NYL] Onyenwere Turnover : Bad Pass (1 TO) Steal:Bonner (3 ST),-26,136,5,201886,1630446,,1611661313,18,31,2
+05:35,[CON 34-18] Bonner 3pt Shot: Made (7 PTS) Assist: Thomas (2 AST),234,36,1,,201886,203826,1611661323,18,34,2
+05:21,[NYL] Onyenwere Cutting Layup Shot: Missed,11,27,2,1628280,1630446,,1611661313,18,34,2
+05:20,[CON] Bonner Rebound (Off:0 Def:1),11,27,4,,201886,,1611661323,18,34,2
+05:12,[CON 36-18] Bonner Pullup Jump shot: Made (9 PTS),135,140,1,,201886,,1611661323,18,36,2
+05:08,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,18,36,2
+05:08,[NYL] Whitcomb Substitution replaced by Ionescu,0,-80,8,,1628244,1629477,1611661313,18,36,2
+05:08,[NYL] Onyenwere Substitution replaced by Laney,0,-80,8,,1630446,204335,1611661313,18,36,2
+04:56,[NYL] Laney 3pt Shot: Missed,-162,191,2,,204335,,1611661313,18,36,2
+04:55,[NYL] Howard Rebound (Off:1 Def:0),-162,191,4,,203827,,1611661313,18,36,2
+04:51,[NYL 20-36] Laney Cutting Layup Shot: Made (8 PTS) Assist: Howard (2 AST),-12,23,1,,204335,203827,1611661313,20,36,2
+04:41,[NYL] Howard Foul: Personal (3 PF),148,223,6,203826,203827,,1611661313,20,36,2
+04:41,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,20,36,2
+04:32,[CON 38-20] Thomas Driving Layup Shot: Made (10 PTS),13,27,1,,203826,,1611661323,20,38,2
+04:17,[CON] Bonner Foul: Shooting (1 PF) (2 FTA),-29,76,6,204296,201886,,1611661323,20,38,2
+04:17,[NYL 21-38] Allen Free Throw 1 of 2 (1 PTS),0,-80,3,,204296,,1611661313,21,38,2
+04:17,[NYL 22-38] Allen Free Throw 2 of 2 (2 PTS),0,-80,3,,204296,,1611661313,22,38,2
+04:05,[CON] Bonner Alley Oop Layup shot: Missed,-5,25,2,,201886,,1611661323,22,38,2
+04:04,[NYL] Cubaj Rebound (Off:0 Def:1),-5,25,4,,1631032,,1611661313,22,38,2
+03:58,[NYL] Ionescu Turnover : Lost Ball (5 TO) Steal:Thomas (2 ST),111,324,5,202662,1629477,,1611661313,22,38,2
+03:54,[NYL] Ionescu Foul: Shooting (1 PF) (2 FTA),-12,20,6,202662,1629477,,1611661313,22,38,2
+03:54,[CON 39-22] Thomas Free Throw 1 of 2 (3 PTS),0,-80,3,,202662,,1611661323,22,39,2
+03:54,[NYL] Cubaj Substitution replaced by Dolson,0,-80,8,,1631032,203828,1611661313,22,39,2
+03:54,[CON 40-22] Thomas Free Throw 2 of 2 (4 PTS),0,-80,3,,202662,,1611661323,22,40,2
+03:35,[NYL] Onyenwere 3pt Shot: Missed,17,247,2,,1630446,,1611661313,22,40,2
+03:34,[CON] Team Rebound,17,247,4,,0,,1611661323,22,40,2
+03:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,40,2
+03:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,40,2
+03:18,[CON 42-22] Bonner Jump Shot: Made (11 PTS) Assist: Thomas (2 AST),143,80,1,,201886,202662,1611661323,22,42,2
+03:18,[NYL] Laney Foul: Shooting (3 PF) (1 FTA),143,80,6,201886,204335,,1611661313,22,42,2
+03:18,[CON 43-22] Bonner Free Throw 1 of 1 (12 PTS),0,-80,3,,201886,,1611661323,22,43,2
+02:55,[NYL] Allen Jump Shot: Missed,-182,74,2,,204296,,1611661313,22,43,2
+02:54,[CON] Jones Rebound (Off:1 Def:2),-182,74,4,,1628280,,1611661323,22,43,2
+02:46,[CON] Bonner 3pt Shot: Missed,237,17,2,,201886,,1611661323,22,43,2
+02:45,[NYL] Ionescu Rebound (Off:0 Def:5),237,17,4,,1629477,,1611661313,22,43,2
+02:37,[NYL 25-43] Dolson 3pt Shot: Made (5 PTS) Assist: Ionescu (2 AST),117,212,1,,203828,1629477,1611661313,25,43,2
+02:30,[NYL] Dolson Foul: Personal (1 PF) (2 FTA),-96,57,6,1628280,203828,,1611661313,25,43,2
+02:30,Timeout Officials,0,-80,9,,0,,0,25,43,2
+02:30,[CON] Bonner Substitution replaced by Jones,0,-80,8,,201886,1627673,1611661323,25,43,2
+02:30,[CON 44-25] Jones Free Throw 1 of 2 (5 PTS),0,-80,3,,1628280,,1611661323,25,44,2
+02:30,[CON 45-25] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1628280,,1611661323,25,45,2
+02:19,[NYL 27-45] Onyenwere Driving Layup Shot: Made (5 PTS) Assist: Laney (1 AST),-22,27,1,,1630446,204335,1611661313,27,45,2
+02:19,[CON] Williams Foul: Shooting (1 PF) (1 FTA),-22,27,6,1630446,1627675,,1611661323,27,45,2
+02:19,[NYL 28-45] Onyenwere Free Throw 1 of 1 (6 PTS),0,-80,3,,1630446,,1611661313,28,45,2
+02:05,[CON 48-28] Williams 3pt Shot: Made (3 PTS) Assist: Thomas (3 AST),-40,232,1,,1627675,202662,1611661323,28,48,2
+01:51,[NYL] Allen Pullup Jump shot: Missed,19,184,2,,204296,,1611661313,28,48,2
+01:50,[CON] Team Rebound,19,184,4,,0,,1611661323,28,48,2
+01:50,[NYL] Onyenwere Foul: Loose Ball (2 PF) (2 FTA),11,805,6,1627675,1630446,,1611661313,28,48,2
+01:50,[CON] Williams Free Throw 1 of 2 Missed,0,-80,3,,1627675,,1611661323,28,48,2
+01:50,[CON] Team Rebound,0,-80,4,,0,,1611661323,28,48,2
+01:50,[CON 49-28] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,1627675,,1611661323,28,49,2
+01:30,[NYL 30-49] Allen Cutting Layup Shot: Made (4 PTS) Assist: Laney (2 AST),5,29,1,,204296,204335,1611661313,30,49,2
+01:19,[CON] Jones Cutting Finger Roll Layup Shot: Missed,13,35,2,,1628280,,1611661323,30,49,2
+01:18,[NYL] Dolson Rebound (Off:0 Def:5),13,35,4,,203828,,1611661313,30,49,2
+01:01,[NYL 32-49] Dolson Driving Layup Shot: Made (7 PTS) Assist: Ionescu (3 AST),-18,27,1,,203828,1629477,1611661313,32,49,2
+00:39.7,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Onyenwere (1 ST),-42,96,5,1630446,203826,,1611661323,32,49,2
+00:31.5,[NYL] Allen 3pt Shot: Missed,171,174,2,,204296,,1611661313,32,49,2
+00:30.3,[CON] Jones Rebound (Off:1 Def:2),171,174,4,,1627673,,1611661323,32,49,2
+00:28.7,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,32,49,2
+00:28.7,[CON] Williams Substitution replaced by Bonner,0,-80,8,,1627675,201886,1611661323,32,49,2
+00:28.7,[NYL] Ionescu Substitution replaced by Whitcomb,0,-80,8,,1629477,1628244,1611661313,32,49,2
+00:28.7,[CON] Team Violation : Delay Of Game,0,-80,7,,0,,1611661323,32,49,2
+00:07.9,[CON 51-32] Jones Hook Shot: Made (8 PTS),20,35,1,,1628280,,1611661323,32,51,2
+00:01.7,[NYL] Laney 3pt Shot: Missed,63,257,2,,204335,,1611661313,32,51,2
+00:00.5,[NYL] Whitcomb Rebound (Off:1 Def:0),63,257,4,,1628244,,1611661313,32,51,2
+00:00.0,End Period,0,-80,13,,0,,0,32,51,2
+10:00,Start Period,0,-80,12,,0,,0,32,51,3
+10:00,[NYL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661313,32,51,3
+09:42,[NYL 34-51] Laney Driving Reverse Layup Shot: Made (10 PTS),-16,25,1,,204335,,1611661313,34,51,3
+09:28,[CON 53-34] Jones Layup Shot: Made (5 PTS) Assist: Thomas (3 AST),-10,27,1,,1627673,203826,1611661323,34,53,3
+09:14,[CON] Bonner Foul: Personal (2 PF),121,162,6,203828,201886,,1611661323,34,53,3
+09:00,[NYL] Team Turnover : Shot Clock Turnover,81,162,5,,0,,1611661313,34,53,3
+08:51,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-213,94,5,,203826,,1611661323,34,53,3
+08:37,[NYL] Laney Jump Shot: Missed,109,142,2,,204335,,1611661313,34,53,3
+08:36,[CON] Thomas Rebound (Off:0 Def:2),109,142,4,,203826,,1611661323,34,53,3
+08:32,[CON] Thomas Foul: Offensive (2 PF),83,156,6,203827,203826,,1611661323,34,53,3
+08:32,[CON] Thomas Turnover : Offensive Foul Turnover (4 TO),83,156,5,,203826,,1611661323,34,53,3
+08:19,[NYL] Whitcomb 3pt Shot: Missed,-202,121,2,,1628244,,1611661313,34,53,3
+08:18,[CON] Team Rebound,-202,121,4,,0,,1611661323,34,53,3
+08:18,[NYL] Dolson Foul: Loose Ball (2 PF),-5,802,6,201886,203828,,1611661313,34,53,3
+08:05,[CON] Thomas Driving Floating Bank Jump Shot: Missed,-56,53,2,,203826,,1611661323,34,53,3
+08:04,[NYL] Dolson Rebound (Off:0 Def:6),-56,53,4,,203828,,1611661313,34,53,3
+07:52,[NYL] Ionescu 3pt Shot: Missed,-221,49,2,,1629477,,1611661313,34,53,3
+07:51,[CON] Thomas Rebound (Off:0 Def:3),-221,49,4,,203826,,1611661323,34,53,3
+07:50,[NYL] Ionescu Foul: Personal (2 PF),-10,792,6,203826,1629477,,1611661313,34,53,3
+07:40,[CON] Jones Layup Shot: Missed,11,27,2,,1627673,,1611661323,34,53,3
+07:39,[CON] Jones Rebound (Off:2 Def:2),11,27,4,,1627673,,1611661323,34,53,3
+07:38,[NYL] Whitcomb Foul: Shooting (2 PF) (2 FTA),-1,29,6,1627673,1628244,,1611661313,34,53,3
+07:38,[CON 54-34] Jones Free Throw 1 of 2 (6 PTS),0,-80,3,,1627673,,1611661323,34,54,3
+07:38,[CON 55-34] Jones Free Throw 2 of 2 (7 PTS),0,-80,3,,1627673,,1611661323,34,55,3
+07:17,[NYL] Dolson Driving Layup Shot: Missed,16,19,2,,203828,,1611661313,34,55,3
+07:16,[NYL] Howard Rebound (Off:2 Def:0),16,19,4,,203827,,1611661313,34,55,3
+07:15,[NYL 36-55] Howard Putback Layup Shot: Made (2 PTS),0,-5,1,,203827,,1611661313,36,55,3
+06:55,[CON] Thomas Driving Layup Shot: Missed,6,23,2,,202662,,1611661323,36,55,3
+06:54,[CON] Jones Rebound (Off:3 Def:2),6,23,4,,1627673,,1611661323,36,55,3
+06:53,[CON 57-36] Jones Putback Layup Shot: Made (9 PTS),-9,27,1,,1627673,,1611661323,36,57,3
+06:40,[NYL] Laney Turnover : Bad Pass (6 TO),-18,33,5,,204335,,1611661313,36,57,3
+06:40,[NYL] Laney Foul: Loose Ball (4 PF),2,796,6,1627673,204335,,1611661313,36,57,3
+06:40,Instant Replay - Support Ruling,0,-80,18,,0,,0,36,57,3
+06:40,[CON] Jones Technical (1 FTA),0,-80,6,,1627673,,1611661323,36,57,3
+06:40,[NYL] Laney Free Throw Technical Missed,0,-80,3,,204335,,1611661313,36,57,3
+06:40,[CON] Team Rebound,0,-80,4,,0,,1611661323,36,57,3
+06:24,[CON] Thomas 3pt Shot: Missed,194,148,2,,202662,,1611661323,36,57,3
+06:23,[NYL] Dolson Rebound (Off:0 Def:7),194,148,4,,203828,,1611661313,36,57,3
+06:09,[NYL] Whitcomb Turnover : Lost Ball (3 TO) Steal:Thomas (4 ST),48,255,5,203826,1628244,,1611661313,36,57,3
+06:04,[CON 59-36] Thomas Running Layup Shot: Made (12 PTS),4,26,1,,203826,,1611661323,36,59,3
+05:47,[NYL 39-59] Laney 3pt Shot: Made (13 PTS) Assist: Ionescu (4 AST),-225,-17,1,,204335,1629477,1611661313,39,59,3
+05:34,[CON 61-39] Jones Layup Shot: Made (11 PTS) Assist: Bonner (2 AST),5,28,1,,1627673,201886,1611661323,39,61,3
+05:15,[NYL] Laney 3pt Shot: Missed,-217,87,2,,204335,,1611661313,39,61,3
+05:14,[CON] Thomas Rebound (Off:0 Def:4),-217,87,4,,203826,,1611661323,39,61,3
+05:06,[CON] Bonner Pullup Jump shot: Missed,156,98,2,,201886,,1611661323,39,61,3
+05:05,[NYL] Howard Rebound (Off:2 Def:1),156,98,4,,203827,,1611661313,39,61,3
+04:49,[NYL 41-61] Howard Reverse Layup Shot: Made (4 PTS) Assist: Laney (3 AST),12,26,1,,203827,204335,1611661313,41,61,3
+04:39,[CON] Jones 3pt Shot: Missed,82,231,2,,1627673,,1611661323,41,61,3
+04:38,[NYL] Team Rebound,82,231,4,,0,,1611661313,41,61,3
+04:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,61,3
+04:37,Timeout Officials,0,-80,9,,0,,0,41,61,3
+04:37,[NYL] Dolson Substitution replaced by Allen,0,-80,8,,203828,204296,1611661313,41,61,3
+04:37,[NYL] Whitcomb Substitution replaced by Durr,0,-80,8,,1628244,1629476,1611661313,41,61,3
+04:37,[NYL] Ionescu Substitution replaced by Onyenwere,0,-80,8,,1629477,1630446,1611661313,41,61,3
+04:37,[CON] Thomas Substitution replaced by Jones,0,-80,8,,202662,1628280,1611661323,41,61,3
+04:37,[CON] Jones Substitution replaced by Hiedeman,0,-80,8,,1627673,1629567,1611661323,41,61,3
+04:37,[CON] Williams Substitution replaced by Carrington,0,-80,8,,1627675,1630096,1611661323,41,61,3
+04:22,[NYL] Howard Fadeaway Jump Shot: Missed,78,65,2,,203827,,1611661313,41,61,3
+04:19,[CON] Thomas Rebound (Off:0 Def:5),78,65,4,,203826,,1611661323,41,61,3
+04:12,[CON] Bonner Driving Layup Shot: Missed,4,28,2,,201886,,1611661323,41,61,3
+04:11,[NYL] Howard Rebound (Off:2 Def:2),4,28,4,,203827,,1611661313,41,61,3
+04:06,[CON] Jones Foul: Shooting (1 PF) (2 FTA),20,26,6,1630446,1628280,,1611661323,41,61,3
+04:06,[NYL 42-61] Onyenwere Free Throw 1 of 2 (7 PTS),0,-80,3,,1630446,,1611661313,42,61,3
+04:06,[NYL 43-61] Onyenwere Free Throw 2 of 2 (8 PTS),0,-80,3,,1630446,,1611661313,43,61,3
+03:51,[CON] Thomas Turnover : Bad Pass (5 TO) Steal:Allen (1 ST),-127,77,5,204296,203826,,1611661323,43,61,3
+03:41,[NYL] Laney Driving Reverse Layup Shot: Missed,20,26,2,,204335,,1611661313,43,61,3
+03:40,[CON] Thomas Rebound (Off:0 Def:6),20,26,4,,203826,,1611661323,43,61,3
+03:32,[NYL] Onyenwere Foul: Shooting (3 PF) (2 FTA),8,37,6,201886,1630446,,1611661313,43,61,3
+03:32,[CON 62-43] Bonner Free Throw 1 of 2 (13 PTS),0,-80,3,,201886,,1611661323,43,62,3
+03:32,[CON 63-43] Bonner Free Throw 2 of 2 (14 PTS),0,-80,3,,201886,,1611661323,43,63,3
+03:14,[NYL] Durr Driving Layup Shot: Missed,-27,16,2,,1629476,,1611661313,43,63,3
+03:13,[NYL] Howard Rebound (Off:3 Def:2),-27,16,4,,203827,,1611661313,43,63,3
+03:12,[NYL 45-63] Howard Putback Layup Shot: Made (6 PTS),-5,26,1,,203827,,1611661313,45,63,3
+02:53,[CON 65-45] Jones Layup Shot: Made (10 PTS) Assist: Hiedeman (2 AST),-13,28,1,,1628280,1629567,1611661323,45,65,3
+02:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,65,3
+02:29,[NYL] Onyenwere 3pt Shot: Missed,172,181,2,,1630446,,1611661313,45,65,3
+02:28,[CON] Carrington Rebound (Off:1 Def:3),172,181,4,,1630096,,1611661323,45,65,3
+02:09,[CON] Jones Foul: Offensive (2 PF),12,42,6,1630446,1628280,,1611661323,45,65,3
+02:09,[CON] Jones Turnover : Offensive Foul Turnover (2 TO),12,42,5,,1628280,,1611661323,45,65,3
+02:09,Instant Replay - Support Ruling,0,-80,18,,0,,0,45,65,3
+01:59,[NYL] Onyenwere Turnover : Out of Bounds - Bad Pass Turnover (2 TO),31,9,5,,1630446,,1611661313,45,65,3
+01:44,[NYL] Durr Foul: Personal (1 PF) (2 FTA),-79,64,6,1629567,1629476,,1611661313,45,65,3
+01:44,[CON 66-45] Hiedeman Free Throw 1 of 2 (9 PTS),0,-80,3,,1629567,,1611661323,45,66,3
+01:44,[CON 67-45] Hiedeman Free Throw 2 of 2 (10 PTS),0,-80,3,,1629567,,1611661323,45,67,3
+01:44,[NYL] Laney Substitution replaced by Dolson,0,-80,8,,204335,203828,1611661313,45,67,3
+01:44,[NYL] Howard Substitution replaced by Whitcomb,0,-80,8,,203827,1628244,1611661313,45,67,3
+01:44,[NYL] Onyenwere Substitution replaced by Cubaj,0,-80,8,,1630446,1631032,1611661313,45,67,3
+01:44,[CON] Thomas Substitution replaced by Holmes,0,-80,8,,203826,1630115,1611661323,45,67,3
+01:29,[NYL] Dolson Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-216,205,5,,203828,,1611661313,45,67,3
+01:29,[NYL] Durr Substitution replaced by Ionescu,0,-80,8,,1629476,1629477,1611661313,45,67,3
+01:15,[CON 69-45] Bonner Driving Finger Roll Layup Shot: Made (16 PTS),18,31,1,,201886,,1611661323,45,69,3
+01:04,[NYL] Whitcomb Turnover : Bad Pass (4 TO) Steal:Bonner (4 ST),-39,260,5,201886,1628244,,1611661313,45,69,3
+00:59.1,[CON 71-45] Carrington Running Layup Shot: Made (4 PTS) Assist: Bonner (3 AST),8,29,1,,1630096,201886,1611661323,45,71,3
+00:59.1,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,45,71,3
+00:59.1,[NYL] Whitcomb Substitution replaced by Laney,0,-80,8,,1628244,204335,1611661313,45,71,3
+00:59.1,[CON] Bonner Substitution replaced by Clouden,0,-80,8,,201886,1631002,1611661323,45,71,3
+00:47.9,[NYL] Allen Pullup Jump shot: Missed,30,117,2,,204296,,1611661313,45,71,3
+00:44.9,[CON] Holmes Rebound (Off:0 Def:1),-18,90,4,,1630115,,1611661323,45,71,3
+00:31.1,[CON] Hiedeman 3pt Shot: Missed,-173,184,2,,1629567,,1611661323,45,71,3
+00:27.4,[NYL] Ionescu Rebound (Off:0 Def:6),-173,184,4,,1629477,,1611661313,45,71,3
+00:16.0,[CON] Carrington Foul: Personal (2 PF),-224,0,6,204335,1630096,,1611661323,45,71,3
+00:14.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,71,3
+00:02.0,[NYL] Team Turnover : Shot Clock Turnover,-136,389,5,,0,,1611661313,45,71,3
+00:00.2,[CON] Hiedeman 3pt Shot: Missed,-134,209,2,,1629567,,1611661323,45,71,3
+00:00.1,[CON] Team Rebound,-134,209,4,,0,,1611661323,45,71,3
+00:00.0,End Period,0,-80,13,,0,,0,45,71,3
+10:00,Start Period,0,-80,12,,0,,0,45,71,4
+09:45,[NYL] Dolson Foul: Personal (3 PF),12,33,6,1628280,203828,,1611661313,45,71,4
+09:39,[NYL] Cubaj Foul: Shooting (1 PF) (2 FTA),4,28,6,1630115,1631032,,1611661313,45,71,4
+09:39,[CON 72-45] Holmes Free Throw 1 of 2 (1 PTS),0,-80,3,,1630115,,1611661323,45,72,4
+09:39,[CON 73-45] Holmes Free Throw 2 of 2 (2 PTS),0,-80,3,,1630115,,1611661323,45,73,4
+09:26,[CON] Jones Foul: Personal (3 PF),-73,156,6,204335,1628280,,1611661323,45,73,4
+09:23,[CON] Clouden Foul: Personal (1 PF),13,27,6,204335,1631002,,1611661323,45,73,4
+09:14,[NYL] Ionescu 3pt Shot: Missed,-211,81,2,,1629477,,1611661313,45,73,4
+09:13,[CON] Holmes Rebound (Off:0 Def:2),-211,81,4,,1630115,,1611661323,45,73,4
+09:02,[CON 75-45] Jones Cutting Layup Shot: Made (12 PTS) Assist: Hiedeman (3 AST),-20,28,1,,1628280,1629567,1611661323,45,75,4
+08:48,[NYL] Dolson Pullup Jump shot: Missed,20,173,2,,203828,,1611661313,45,75,4
+08:47,[NYL] Team Rebound,20,173,4,,0,,1611661313,45,75,4
+08:47,[CON] Holmes Foul: Loose Ball (1 PF),9,27,6,1631032,1630115,,1611661323,45,75,4
+08:47,[NYL] Allen Substitution replaced by Onyenwere,0,-80,8,,204296,1630446,1611661313,45,75,4
+08:47,[NYL] Dolson Substitution replaced by Whitcomb,0,-80,8,,203828,1628244,1611661313,45,75,4
+08:47,[NYL] Cubaj Substitution replaced by Howard,0,-80,8,,1631032,203827,1611661313,45,75,4
+08:47,Instant Replay - Support Ruling,0,-80,18,,0,,0,45,75,4
+08:34,[NYL] Howard Jump Shot: Missed,-110,160,2,,203827,,1611661313,45,75,4
+08:33,[CON] Holmes Rebound (Off:0 Def:3),-110,160,4,,1630115,,1611661323,45,75,4
+08:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,75,4
+08:13,[CON] Jones Turnover : Bad Pass (3 TO) Steal:Howard (2 ST),21,189,5,203827,1628280,,1611661323,45,75,4
+08:09,[CON] Hiedeman Foul: Personal (1 PF),-62,187,6,203827,1629567,,1611661323,45,75,4
+08:00,[NYL 47-75] Howard Fadeaway Jump Shot: Made (8 PTS),53,115,1,,203827,,1611661313,47,75,4
+07:35,[CON 77-47] Jones Layup Shot: Made (14 PTS),17,39,1,,1628280,,1611661323,47,77,4
+07:23,[NYL 50-77] Laney 3pt Shot: Made (16 PTS) Assist: Whitcomb (2 AST),-227,1,1,,204335,1628244,1611661313,50,77,4
+07:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,77,4
+07:06,[NYL] Ionescu Substitution replaced by Durr,0,-80,8,,1629477,1629476,1611661313,50,77,4
+06:55,[CON 80-50] Carrington 3pt Shot: Made (7 PTS),175,169,1,,1630096,,1611661323,50,80,4
+06:40,[NYL] Howard Turnover : Traveling (2 TO),39,78,5,,203827,,1611661313,50,80,4
+06:26,[CON] Holmes Turnover : Out of Bounds Lost Ball Turnover (1 TO),-29,38,5,,1630115,,1611661323,50,80,4
+06:10,[NYL] Onyenwere 3pt Shot: Missed,223,47,2,,1630446,,1611661313,50,80,4
+06:09,[CON] Hiedeman Rebound (Off:0 Def:2),223,47,4,,1629567,,1611661323,50,80,4
+05:57,[CON 83-50] Hiedeman 3pt Shot: Made (13 PTS),136,215,1,,1629567,,1611661323,50,83,4
+05:47,[CON] Jones Foul: Personal (4 PF) (2 FTA),-67,235,6,1629476,1628280,,1611661323,50,83,4
+05:47,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,50,83,4
+05:47,[CON] Jones Substitution replaced by Anderson,0,-80,8,,1628280,1628304,1611661323,50,83,4
+05:47,[CON] Carrington Substitution replaced by Jones,0,-80,8,,1630096,1627673,1611661323,50,83,4
+05:47,[NYL] Durr Free Throw 1 of 2 Missed,0,-80,3,,1629476,,1611661313,50,83,4
+05:47,[NYL] Team Rebound,0,-80,4,,0,,1611661313,50,83,4
+05:47,[NYL 51-83] Durr Free Throw 2 of 2 (1 PTS),0,-80,3,,1629476,,1611661313,51,83,4
+05:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,83,4
+05:28,[CON] Holmes Turnaround Jump Shot: Missed,-67,82,2,,1630115,,1611661323,51,83,4
+05:27,[NYL] Howard Rebound (Off:3 Def:3),-67,82,4,,203827,,1611661313,51,83,4
+05:13,[CON] Holmes Foul: Shooting (2 PF) (2 FTA),-21,19,6,1629476,1630115,,1611661323,51,83,4
+05:13,[NYL 52-83] Durr Free Throw 1 of 2 (2 PTS),0,-80,3,,1629476,,1611661313,52,83,4
+05:13,[NYL 53-83] Durr Free Throw 2 of 2 (3 PTS),0,-80,3,,1629476,,1611661313,53,83,4
+05:01,[CON] Anderson Turnover : Bad Pass (1 TO) Steal:Howard (3 ST),128,77,5,203827,1628304,,1611661323,53,83,4
+04:57,[NYL] Howard Turnover : Bad Pass (3 TO) Steal:Holmes (1 ST),-26,69,5,1630115,203827,,1611661313,53,83,4
+04:38,[NYL] Onyenwere Foul: Shooting (4 PF) (2 FTA),-68,61,6,1631002,1630446,,1611661313,53,83,4
+04:38,[CON] Clouden Free Throw 1 of 2 Missed,0,-80,3,,1631002,,1611661323,53,83,4
+04:38,[CON] Team Rebound,0,-80,4,,0,,1611661323,53,83,4
+04:38,[CON 84-53] Clouden Free Throw 2 of 2 (1 PTS),0,-80,3,,1631002,,1611661323,53,84,4
+04:25,[NYL] Whitcomb Driving Floating Bank Jump Shot: Missed,-30,73,2,,1628244,,1611661313,53,84,4
+04:24,[CON] Jones Rebound (Off:3 Def:3),-30,73,4,,1627673,,1611661323,53,84,4
+04:03,[CON] Clouden Turnover : Lost Ball (1 TO) Steal:Durr (1 ST),-13,65,5,1629476,1631002,,1611661323,53,84,4
+03:59,[NYL 55-84] Durr Running Pull-Up Jump Shot: Made (5 PTS),-27,75,1,,1629476,,1611661313,55,84,4
+03:58,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,55,84,4
+03:45,[CON] Anderson Turnover : Bad Pass (2 TO) Steal:Howard (4 ST),-63,171,5,203827,1628304,,1611661323,55,84,4
+03:40,[NYL] Howard Turnover : Lost Ball (4 TO) Steal:Hiedeman (3 ST),40,76,5,1629567,203827,,1611661313,55,84,4
+03:30,[CON 87-55] Anderson 3pt Shot: Made (3 PTS) Assist: Jones (2 AST),-223,58,1,,1628304,1627673,1611661323,55,87,4
+03:16,[NYL] Howard 3pt Shot: Missed,-183,149,2,,203827,,1611661313,55,87,4
+03:15,[CON] Hiedeman Rebound (Off:0 Def:3),-183,149,4,,1629567,,1611661323,55,87,4
+03:08,[CON 89-55] Jones Layup Shot: Made (13 PTS) Assist: Anderson (1 AST),10,28,1,,1627673,1628304,1611661323,55,89,4
+02:56,[CON] Hiedeman Violation:Kicked Ball,0,-80,7,,1629567,,1611661323,55,89,4
+02:56,[NYL] Laney Substitution replaced by Allen,0,-80,8,,204335,204296,1611661313,55,89,4
+02:56,[NYL] Howard Substitution replaced by Dolson,0,-80,8,,203827,203828,1611661313,55,89,4
+02:49,[NYL] Dolson Foul: Offensive (4 PF),-115,54,6,1631002,203828,,1611661313,55,89,4
+02:49,[NYL] Dolson Turnover : Offensive Foul Turnover (4 TO),-115,54,5,,203828,,1611661313,55,89,4
+02:49,[CON] Jones Substitution replaced by Carrington,0,-80,8,,1627673,1630096,1611661323,55,89,4
+02:38,[CON] Anderson 3pt Shot: Missed,-184,171,2,,1628304,,1611661323,55,89,4
+02:37,[NYL] Allen Rebound (Off:0 Def:2),-184,171,4,,204296,,1611661313,55,89,4
+02:16,[NYL 57-89] Dolson Turnaround Hook Shot: Made (9 PTS) Assist: Whitcomb (3 AST),20,51,1,,203828,1628244,1611661313,57,89,4
+01:53,[CON] Holmes 3pt Shot: Missed,150,203,2,,1630115,,1611661323,57,89,4
+01:52,[NYL] Allen Rebound (Off:0 Def:3),150,203,4,,204296,,1611661313,57,89,4
+01:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,89,4
+01:39,[NYL 59-89] Dolson Hook Shot: Made (11 PTS),10,49,1,,203828,,1611661313,59,89,4
+01:28,[CON 91-59] Hiedeman Driving Floating Jump Shot: Made (15 PTS),17,66,1,,1629567,,1611661323,59,91,4
+01:21,[NYL] Onyenwere Turnover : Lost Ball (3 TO) Steal:Carrington (1 ST),38,376,5,1630096,1630446,,1611661313,59,91,4
+01:17,[CON] Carrington Layup Shot: Missed,5,35,2,,1630096,,1611661323,59,91,4
+01:16,[NYL] Onyenwere Rebound (Off:0 Def:2),5,35,4,,1630446,,1611661313,59,91,4
+01:15,[CON] Clouden Foul: Personal (2 PF) (2 FTA),6,792,6,1630446,1631002,,1611661323,59,91,4
+01:15,[NYL] Onyenwere Free Throw 1 of 2 Missed,0,-80,3,,1630446,,1611661313,59,91,4
+01:15,[NYL] Team Rebound,0,-80,4,,0,,1611661313,59,91,4
+01:15,[NYL 60-91] Onyenwere Free Throw 2 of 2 (9 PTS),0,-80,3,,1630446,,1611661313,60,91,4
+01:03,[NYL] Allen Foul: Shooting (1 PF) (2 FTA),40,39,6,1630096,204296,,1611661313,60,91,4
+01:03,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,60,91,4
+01:03,[CON] Team Rebound,0,-80,4,,0,,1611661323,60,91,4
+01:03,[CON 92-60] Carrington Free Throw 2 of 2 (8 PTS),0,-80,3,,1630096,,1611661323,60,92,4
+00:53.8,[CON] Hiedeman Foul: Shooting (2 PF) (2 FTA),-16,22,6,1628244,1629567,,1611661323,60,92,4
+00:53.8,[NYL] Whitcomb Free Throw 1 of 2 Missed,0,-80,3,,1628244,,1611661313,60,92,4
+00:53.8,[NYL] Team Rebound,0,-80,4,,0,,1611661313,60,92,4
+00:53.8,[NYL 61-92] Whitcomb Free Throw 2 of 2 (6 PTS),0,-80,3,,1628244,,1611661313,61,92,4
+00:34.8,Jump Ball Whitcomb vs Clouden (Durr gains possession),0,-80,10,1631002,1628244,1629476,1611661313,61,92,4
+00:34.8,[CON] Clouden Turnover : Lost Ball (2 TO) Steal:Whitcomb (1 ST),0,-80,5,1628244,1631002,,1611661323,61,92,4
+00:34.8,[CON] Hiedeman Foul: Personal (3 PF) (2 FTA),-41,585,6,1629476,1629567,,1611661323,61,92,4
+00:34.8,[NYL 62-92] Durr Free Throw 1 of 2 (6 PTS),0,-80,3,,1629476,,1611661313,62,92,4
+00:34.8,[NYL 63-92] Durr Free Throw 2 of 2 (7 PTS),0,-80,3,,1629476,,1611661313,63,92,4
+00:27.4,[CON] Carrington Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-216,117,5,,1630096,,1611661323,63,92,4
+00:17.4,[NYL] Allen 3pt Shot: Missed,-208,126,2,1630115,204296,,1611661313,63,92,4
+00:16.2,[NYL] Allen Rebound (Off:1 Def:3),-208,126,4,,204296,,1611661313,63,92,4
+00:14.9,[CON] Anderson Foul: Personal (1 PF) (2 FTA),60,100,6,203828,1628304,,1611661323,63,92,4
+00:14.9,[NYL 64-92] Dolson Free Throw 1 of 2 (12 PTS),0,-80,3,,203828,,1611661313,64,92,4
+00:14.9,[NYL 65-92] Dolson Free Throw 2 of 2 (13 PTS),0,-80,3,,203828,,1611661313,65,92,4
+00:00.0,End Period,0,-80,13,,0,,0,65,92,4
+00:00.0,Game End,0,-80,0,,0,,0,65,92,4

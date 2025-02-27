@@ -1,0 +1,412 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Stokes vs Fowles (Zellous gains possession),0,-80,10,201480,204329,201919,1611661313,0,0,1
+09:39,[NYL] Zellous Jump Shot: Missed,-70,147,2,,201919,,1611661313,0,0,1
+09:35,[MIN] Whalen Rebound (Off:0 Def:1),-70,147,4,,100915,,1611661324,0,0,1
+09:32,[MIN] Whalen Foul: Offensive Charge (1 PF),-142,224,6,201919,100915,,1611661324,0,0,1
+09:32,[MIN] Whalen Turnover : Offensive Foul Turnover (1 TO),-142,224,5,,100915,,1611661324,0,0,1
+09:15,[NYL] Coleman 3pt Shot: Missed,-224,12,2,,201889,,1611661313,0,0,1
+09:11,[MIN] Brunson Rebound (Off:0 Def:1),-224,12,4,,100944,,1611661324,0,0,1
+08:59,[NYL] Coleman Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,201889,,1611661313,0,0,1
+08:59,[MIN 1-0] Moore Free Throw Technical (1 PTS),0,-80,3,,202632,,1611661324,0,1,1
+08:54,[MIN 3-0] Augustus Jump Shot: Made (2 PTS) Assist: Whalen (1 AST),71,158,1,,200671,100915,1611661324,0,3,1
+08:33,[NYL] Hartley 3pt Shot: Missed,-174,173,2,,203829,,1611661313,0,3,1
+08:31,[MIN] Whalen Rebound (Off:0 Def:2),-174,173,4,,100915,,1611661324,0,3,1
+08:19,[MIN 5-0] Augustus Jump Shot: Made (4 PTS),80,140,1,,200671,,1611661324,0,5,1
+07:59,[NYL 2-5] Coleman Jump Shot: Made (2 PTS),75,87,1,,201889,,1611661313,2,5,1
+07:49,[MIN] Augustus Turnover : Out of Bounds - Bad Pass Turnover (1 TO),111,-22,5,,200671,,1611661324,2,5,1
+07:34,[NYL] Hartley Running Layup Shot: Missed,7,19,2,202632,203829,,1611661313,2,5,1
+07:28,[NYL] Charles Rebound (Off:1 Def:0),7,19,4,,202250,,1611661313,2,5,1
+07:27,[NYL 5-5] Charles 3pt Shot: Made (3 PTS),-184,180,1,,202250,,1611661313,5,5,1
+07:02,[MIN 7-5] Fowles Layup Shot: Made (2 PTS) Assist: Moore (1 AST),-13,19,1,,201480,202632,1611661324,5,7,1
+06:47,[NYL] Coleman Jump Shot: Missed,205,-27,2,,201889,,1611661313,5,7,1
+06:44,[NYL] Charles Rebound (Off:2 Def:0),205,-27,4,,202250,,1611661313,5,7,1
+06:43,[NYL 7-7] Charles Layup Shot: Made (5 PTS),-2,10,1,,202250,,1611661313,7,7,1
+06:31,[NYL] Zellous Foul: Shooting (1 PF) (2 FTA),1,30,6,201480,201919,,1611661313,7,7,1
+06:31,[MIN 8-7] Fowles Free Throw 1 of 2 (3 PTS),0,-80,3,,201480,,1611661324,7,8,1
+06:31,[MIN] Fowles Free Throw 2 of 2 Missed,0,-80,3,,201480,,1611661324,7,8,1
+06:29,[NYL] Charles Rebound (Off:2 Def:1),0,-80,4,,202250,,1611661313,7,8,1
+06:20,[NYL 9-8] Hartley Jump Shot: Made (2 PTS),9,114,1,,203829,,1611661313,9,8,1
+06:06,[MIN] Brunson 3pt Shot: Missed,-99,221,2,,100944,,1611661324,9,8,1
+06:02,[NYL] Zellous Rebound (Off:0 Def:1),-99,221,4,,201919,,1611661313,9,8,1
+05:58,[MIN] Brunson Foul: Shooting (1 PF) (2 FTA),10,-4,6,201919,100944,,1611661324,9,8,1
+05:58,[NYL 10-8] Zellous Free Throw 1 of 2 (1 PTS),0,-80,3,,201919,,1611661313,10,8,1
+05:58,[NYL] Coleman Substitution replaced by Nurse,0,-80,8,,201889,1628915,1611661313,10,8,1
+05:58,[NYL 11-8] Zellous Free Throw 2 of 2 (2 PTS),0,-80,3,,201919,,1611661313,11,8,1
+05:41,[MIN] Moore 3pt Shot: Missed,95,226,2,,202632,,1611661324,11,8,1
+05:38,[NYL] Hartley Rebound (Off:0 Def:1),95,226,4,,203829,,1611661313,11,8,1
+05:32,[NYL] Zellous 3pt Shot: Missed,163,180,2,,201919,,1611661313,11,8,1
+05:29,[NYL] Stokes Rebound (Off:1 Def:0),163,180,4,,204329,,1611661313,11,8,1
+05:28,[NYL 13-8] Stokes Jump Shot: Made (2 PTS),-119,100,1,,204329,,1611661313,13,8,1
+05:10,[MIN] Augustus Jump Shot: Missed,-124,115,2,,200671,,1611661324,13,8,1
+05:08,[NYL] Charles Rebound (Off:2 Def:2),-124,115,4,,202250,,1611661313,13,8,1
+04:59,[NYL] Nurse 3pt Shot: Missed,235,30,2,,1628915,,1611661313,13,8,1
+04:59,[MIN] Team Rebound,220,35,4,,0,,1611661324,13,8,1
+04:59,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,13,8,1
+04:59,[MIN] Whalen Substitution replaced by Robinson,0,-80,8,,100915,202658,1611661324,13,8,1
+04:59,[MIN] Augustus Substitution replaced by Wright,0,-80,8,,200671,101030,1611661324,13,8,1
+04:46,[NYL] Zellous Foul: Shooting (2 PF) (2 FTA),-89,123,6,202632,201919,,1611661313,13,8,1
+04:46,[MIN 9-13] Moore Free Throw 1 of 2 (2 PTS),0,-80,3,,202632,,1611661324,13,9,1
+04:46,[MIN 10-13] Moore Free Throw 2 of 2 (3 PTS),0,-80,3,,202632,,1611661324,13,10,1
+04:34,[MIN] Brunson Foul: Personal (2 PF),46,17,6,202250,100944,,1611661324,13,10,1
+04:34,[MIN] Brunson Substitution replaced by Kizer,0,-80,8,,100944,203041,1611661324,13,10,1
+04:28,[NYL] Hartley 3pt Shot: Missed,170,175,2,,203829,,1611661313,13,10,1
+04:26,[MIN] Moore Rebound (Off:0 Def:1),31,39,4,,202632,,1611661324,13,10,1
+04:17,[MIN] Moore Turnover : Bad Pass (1 TO) Steal:Hartley (1 ST),-136,40,5,203829,202632,,1611661324,13,10,1
+04:12,[NYL] Nurse 3pt Shot: Missed,-201,163,2,,1628915,,1611661313,13,10,1
+04:09,[MIN] Moore Rebound (Off:0 Def:2),-201,163,4,,202632,,1611661324,13,10,1
+04:05,[MIN] Kizer Layup Shot: Missed,7,24,2,,203041,,1611661324,13,10,1
+04:05,[MIN] Team Rebound,7,24,4,,0,,1611661324,13,10,1
+04:01,Jump Ball Robinson vs Zellous (Wright gains possession),0,-80,10,201919,202658,101030,1611661324,13,10,1
+03:51,[MIN] Robinson Running Layup Shot: Missed,25,27,2,,202658,,1611661324,13,10,1
+03:48,[MIN] Fowles Rebound (Off:1 Def:0),25,27,4,,201480,,1611661324,13,10,1
+03:47,[MIN 12-13] Fowles Layup Shot: Made (5 PTS),11,21,1,,201480,,1611661324,13,12,1
+03:28,[NYL] Zellous 3pt Shot: Missed,71,226,2,,201919,,1611661313,13,12,1
+03:26,[MIN] Robinson Rebound (Off:0 Def:1),71,226,4,,202658,,1611661324,13,12,1
+03:21,[MIN] Moore 3pt Shot: Missed,113,215,2,,202632,,1611661324,13,12,1
+03:17,[NYL] Charles Rebound (Off:2 Def:3),113,215,4,,202250,,1611661313,13,12,1
+03:10,[NYL] Hartley Layup Shot: Missed,-15,23,2,101030,203829,,1611661313,13,12,1
+03:07,[MIN] Wright Rebound (Off:0 Def:1),-15,23,4,,101030,,1611661324,13,12,1
+03:01,[NYL] Zellous Foul: Personal (3 PF),-85,169,6,202632,201919,,1611661313,13,12,1
+03:01,[NYL] Stokes Substitution replaced by Zahui B,0,-80,8,,204329,204320,1611661313,13,12,1
+03:01,[MIN] Fowles Substitution replaced by Augustus,0,-80,8,,201480,200671,1611661324,13,12,1
+03:01,[NYL] Zellous Substitution replaced by Coleman,0,-80,8,,201919,201889,1611661313,13,12,1
+03:01,[MIN] Moore Substitution replaced by Fowles,0,-80,8,,202632,201480,1611661324,13,12,1
+03:01,[NYL] Zahui B Substitution replaced by Stokes,0,-80,8,,204320,204329,1611661313,13,12,1
+02:53,[MIN] Wright Layup Shot: Missed,-2,33,2,,101030,,1611661324,13,12,1
+02:50,[MIN] Kizer Rebound (Off:1 Def:0),-2,33,4,,203041,,1611661324,13,12,1
+02:43,[MIN 14-13] Robinson Layup Shot: Made (2 PTS),-13,9,1,,202658,,1611661324,13,14,1
+02:28,[NYL] Stokes Jump Shot: Missed,-129,136,2,,204329,,1611661313,13,14,1
+02:28,[MIN] Robinson Rebound (Off:0 Def:2),-129,136,4,,202658,,1611661324,13,14,1
+02:15,[MIN] Kizer Jump Shot: Missed,45,171,2,,203041,,1611661324,13,14,1
+02:12,[NYL] Nurse Rebound (Off:0 Def:1),45,171,4,,1628915,,1611661313,13,14,1
+02:01,[NYL 15-14] Charles Turnaround Fadeaway Bank Jump Shot: Made (7 PTS),-67,129,1,,202250,,1611661313,15,14,1
+02:01,[MIN] Fowles Foul: Shooting (1 PF) (1 FTA),-62,699,6,202250,201480,,1611661324,15,14,1
+02:01,[NYL] Charles Free Throw 1 of 1 Missed,0,-80,3,,202250,,1611661313,15,14,1
+02:01,[MIN] Kizer Rebound (Off:1 Def:1),0,-80,4,,203041,,1611661324,15,14,1
+02:01,[NYL] Stokes Substitution replaced by Zahui B,0,-80,8,,204329,204320,1611661313,15,14,1
+02:01,[MIN] Fowles Substitution replaced by Moore,0,-80,8,,201480,202632,1611661324,15,14,1
+01:42,[MIN] Robinson Jump Shot: Missed,154,3,2,,202658,,1611661324,15,14,1
+01:38,[NYL] Zahui B Rebound (Off:0 Def:1),154,3,4,,204320,,1611661313,15,14,1
+01:30,[NYL] Nurse Turnover : Bad Pass (1 TO) Steal:Robinson (1 ST),-100,-21,5,202658,1628915,,1611661313,15,14,1
+01:25,[MIN 16-15] Moore Layup Shot: Made (5 PTS),-10,3,1,,202632,,1611661324,15,16,1
+01:04,[NYL 17-16] Charles Jump Shot: Made (9 PTS) Assist: Hartley (1 AST),-1,60,1,,202250,203829,1611661313,17,16,1
+00:48.3,[MIN 18-17] Moore Jump Shot: Made (7 PTS),-9,171,1,,202632,,1611661324,17,18,1
+00:35.7,[MIN] Kizer Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,203041,,1611661324,17,18,1
+00:35.7,[NYL 18-18] Nurse Free Throw Technical (1 PTS),0,-80,3,,1628915,,1611661313,18,18,1
+00:26.5,[NYL] Zahui B 3pt Shot: Missed,-131,206,2,,204320,,1611661313,18,18,1
+00:22.0,[NYL] Charles Rebound (Off:3 Def:3),-131,206,4,,202250,,1611661313,18,18,1
+00:20.8,[MIN] Augustus Foul: Shooting (1 PF) (2 FTA),10,22,6,202250,200671,,1611661324,18,18,1
+00:20.8,[NYL] Charles Free Throw 1 of 2 Missed,0,-80,3,,202250,,1611661313,18,18,1
+00:20.8,[NYL] Team Rebound,0,-80,4,,0,,1611661313,18,18,1
+00:20.8,[NYL 19-18] Charles Free Throw 2 of 2 (10 PTS),0,-80,3,,202250,,1611661313,19,18,1
+00:10.1,[MIN 21-19] Moore 3pt Shot: Made (10 PTS) Assist: Kizer (1 AST),-142,212,1,,202632,203041,1611661324,19,21,1
+00:06.9,[NYL] Zahui B Turnover : Bad Pass (1 TO) Steal:Robinson (2 ST),21,797,5,202658,204320,,1611661313,19,21,1
+00:00.0,[MIN] Augustus 3pt Shot: Missed,-136,237,2,,200671,,1611661324,19,21,1
+00:00.0,[MIN] Team Rebound,-136,237,4,,0,,1611661324,19,21,1
+00:00.0,End Period,0,-80,13,,0,,0,19,21,1
+10:00,Start Period,0,-80,12,,0,,0,19,21,2
+09:40,[MIN 23-19] Robinson Driving Finger Roll Layup Shot: Made (4 PTS),-4,27,1,,202658,,1611661324,19,23,2
+09:18,[NYL] Zahui B 3pt Shot: Missed,-63,233,2,,204320,,1611661313,19,23,2
+09:15,[MIN] Moore Rebound (Off:0 Def:3),-63,233,4,,202632,,1611661324,19,23,2
+09:10,[MIN 25-19] Robinson Jump Shot: Made (6 PTS) Assist: Moore (2 AST),-86,139,1,,202658,202632,1611661324,19,25,2
+08:55,[NYL] Hartley Jump Shot: Missed,-129,83,2,,203829,,1611661313,19,25,2
+08:55,[NYL] Nurse Rebound (Off:1 Def:1),-129,83,4,,1628915,,1611661313,19,25,2
+08:49,[NYL 21-25] Nurse Layup Shot: Made (3 PTS),16,13,1,,1628915,,1611661313,21,25,2
+08:37,[MIN] Robinson Jump Shot: Missed,75,150,2,,202658,,1611661324,21,25,2
+08:37,[MIN] Team Rebound,75,150,4,,0,,1611661324,21,25,2
+08:35,[NYL] Zahui B Foul: Loose Ball (1 PF),62,137,6,201480,204320,,1611661313,21,25,2
+08:29,[MIN 27-21] Brunson Jump Shot: Made (2 PTS) Assist: Robinson (1 AST),-83,172,1,,100944,202658,1611661324,21,27,2
+08:14,[NYL] Charles 3pt Shot: Missed,-2,244,2,,202250,,1611661313,21,27,2
+08:14,[MIN] Moore Rebound (Off:0 Def:4),-2,244,4,,202632,,1611661324,21,27,2
+08:04,[MIN] Moore Pullup Jump shot: Missed,118,15,2,,202632,,1611661324,21,27,2
+08:02,[NYL] Nurse Rebound (Off:1 Def:2),118,15,4,,1628915,,1611661313,21,27,2
+07:54,[NYL 23-27] Coleman Jump Shot: Made (4 PTS) Assist: Nurse (1 AST),-212,15,1,,201889,1628915,1611661313,23,27,2
+07:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,27,2
+07:44,[NYL] Hartley Substitution replaced by Russell,0,-80,8,,203829,1628920,1611661313,23,27,2
+07:44,[NYL] Charles Substitution replaced by Allen,0,-80,8,,202250,204296,1611661313,23,27,2
+07:27,[MIN] Jones 3pt Shot: Missed,-143,203,2,,1628283,,1611661324,23,27,2
+07:22,[MIN] Brunson Rebound (Off:1 Def:1),-143,203,4,,100944,,1611661324,23,27,2
+07:20,[NYL] Coleman Foul: Personal (2 PF),97,116,6,202632,201889,,1611661313,23,27,2
+07:20,[MIN] Robinson Substitution replaced by Whalen,0,-80,8,,202658,100915,1611661324,23,27,2
+07:13,[NYL] Zahui B Foul: Shooting (2 PF) (2 FTA),0,40,6,201480,204320,,1611661313,23,27,2
+07:13,[MIN] Fowles Free Throw 1 of 2 Missed,0,-80,3,,201480,,1611661324,23,27,2
+07:13,[MIN] Team Rebound,0,-80,4,,0,,1611661324,23,27,2
+07:13,[MIN 28-23] Fowles Free Throw 2 of 2 (6 PTS),0,-80,3,,201480,,1611661324,23,28,2
+06:54,[NYL 25-28] Allen Jump Shot: Made (2 PTS),-108,124,1,,204296,,1611661313,25,28,2
+06:27,[MIN] Whalen Driving Finger Roll Layup Shot: Missed,23,40,2,,100915,,1611661324,25,28,2
+06:25,[NYL] Russell Rebound (Off:0 Def:1),23,40,4,,1628920,,1611661313,25,28,2
+06:21,[NYL 28-28] Allen 3pt Shot: Made (5 PTS) Assist: Nurse (2 AST),197,118,1,,204296,1628915,1611661313,28,28,2
+06:10,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,28,28,2
+05:57,[NYL] Nurse Foul: Shooting (1 PF) (2 FTA),9,19,6,201480,1628915,,1611661313,28,28,2
+05:57,[MIN] Fowles Free Throw 1 of 2 Missed,0,-80,3,,201480,,1611661324,28,28,2
+05:57,[MIN] Team Rebound,0,-80,4,,0,,1611661324,28,28,2
+05:57,[MIN 29-28] Fowles Free Throw 2 of 2 (7 PTS),0,-80,3,,201480,,1611661324,28,29,2
+05:44,[NYL] Nurse 3pt Shot: Missed,124,199,2,,1628915,,1611661313,28,29,2
+05:40,[NYL] Coleman Rebound (Off:1 Def:0),124,199,4,,201889,,1611661313,28,29,2
+05:31,[NYL] Nurse Driving Floating Jump Shot: Missed,42,43,2,,1628915,,1611661313,28,29,2
+05:24,[NYL] Zahui B Rebound (Off:1 Def:1),42,43,4,,204320,,1611661313,28,29,2
+05:23,[NYL 30-29] Zahui B Tip Layup Shot: Made (2 PTS),-12,5,1,,204320,,1611661313,30,29,2
+05:10,[MIN] Jones Turnover : Out of Bounds - Bad Pass Turnover (1 TO),109,-33,5,,1628283,,1611661324,30,29,2
+05:10,[MIN] Jones Substitution replaced by Augustus,0,-80,8,,1628283,200671,1611661324,30,29,2
+04:55,[MIN] Fowles Foul: Shooting (2 PF) (2 FTA),-1,16,6,204320,201480,,1611661324,30,29,2
+04:55,[NYL 31-29] Zahui B Free Throw 1 of 2 (3 PTS),0,-80,3,,204320,,1611661313,31,29,2
+04:55,[NYL 32-29] Zahui B Free Throw 2 of 2 (4 PTS),0,-80,3,,204320,,1611661313,32,29,2
+04:45,[MIN 31-32] Augustus Jump Shot: Made (6 PTS),-46,197,1,,200671,,1611661324,32,31,2
+04:29,[NYL] Zahui B Layup Shot: Missed,-11,15,2,,204320,,1611661313,32,31,2
+04:27,[MIN] Brunson Rebound (Off:1 Def:2),-11,15,4,,100944,,1611661324,32,31,2
+04:22,[MIN 33-32] Moore Jump Shot: Made (12 PTS),-121,84,1,,202632,,1611661324,32,33,2
+04:10,[NYL] Nurse Pullup Jump shot: Missed,-28,130,2,,1628915,,1611661313,32,33,2
+04:06,[MIN] Fowles Rebound (Off:1 Def:1),-28,130,4,,201480,,1611661324,32,33,2
+03:55,[MIN 35-32] Augustus Fadeaway Jump Shot: Made (8 PTS),-99,62,1,,200671,,1611661324,32,35,2
+03:49,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,32,35,2
+03:49,[NYL] Zahui B Substitution replaced by Charles,0,-80,8,,204320,202250,1611661313,32,35,2
+03:37,[NYL] Nurse Cutting Layup Shot: Missed,-14,6,2,,1628915,,1611661313,32,35,2
+03:35,[NYL] Charles Rebound (Off:4 Def:3),-14,6,4,,202250,,1611661313,32,35,2
+03:33,[NYL] Charles Layup Shot: Missed,-4,12,2,,202250,,1611661313,32,35,2
+03:31,[MIN] Brunson Rebound (Off:1 Def:3),-4,12,4,,100944,,1611661324,32,35,2
+03:17,[MIN] Brunson 3pt Shot: Missed,230,20,2,,100944,,1611661324,32,35,2
+03:13,[MIN] Fowles Rebound (Off:2 Def:1),230,20,4,,201480,,1611661324,32,35,2
+03:12,[NYL] Charles Foul: Shooting (1 PF) (2 FTA),11,20,6,201480,202250,,1611661313,32,35,2
+03:12,[MIN 36-32] Fowles Free Throw 1 of 2 (8 PTS),0,-80,3,,201480,,1611661324,32,36,2
+03:12,[MIN 37-32] Fowles Free Throw 2 of 2 (9 PTS),0,-80,3,,201480,,1611661324,32,37,2
+02:59,[NYL] Charles 3pt Shot: Missed,109,210,2,,202250,,1611661313,32,37,2
+02:57,[MIN] Fowles Rebound (Off:2 Def:2),109,210,4,,201480,,1611661324,32,37,2
+02:44,[NYL] Charles Violation:Kicked Ball,0,-80,7,,202250,,1611661313,32,37,2
+02:44,[NYL] Russell Substitution replaced by Stokes,0,-80,8,,1628920,204329,1611661313,32,37,2
+02:31,[MIN] Augustus 3pt Shot: Missed,-233,-1,2,,200671,,1611661324,32,37,2
+02:30,[MIN] Team Rebound,-233,-1,4,,0,,1611661324,32,37,2
+02:30,[MIN] Team Turnover : Shot Clock Turnover,0,13,5,,0,,1611661324,32,37,2
+02:20,[NYL] Allen 3pt Shot: Missed,122,206,2,,204296,,1611661313,32,37,2
+02:19,[MIN] Team Rebound,122,206,4,,0,,1611661324,32,37,2
+02:04,[MIN] Fowles Turnaround Jump Shot: Missed,19,41,2,,201480,,1611661324,32,37,2
+02:02,[NYL] Charles Rebound (Off:4 Def:4),19,41,4,,202250,,1611661313,32,37,2
+01:54,[NYL 34-37] Coleman Jump Shot: Made (6 PTS),24,200,1,,201889,,1611661313,34,37,2
+01:28,[MIN] Whalen 3pt Shot: Missed,-147,197,2,,100915,,1611661324,34,37,2
+01:26,[MIN] Team Rebound,-147,197,4,,0,,1611661324,34,37,2
+01:26,[MIN] Whalen Substitution replaced by Robinson,0,-80,8,,100915,202658,1611661324,34,37,2
+01:17,[MIN] Augustus 3pt Shot: Missed,232,64,2,,200671,,1611661324,34,37,2
+01:15,[NYL] Team Rebound,232,64,4,,0,,1611661313,34,37,2
+00:59.8,[NYL] Coleman Jump Shot: Missed,-145,165,2,,201889,,1611661313,34,37,2
+00:59.8,[MIN] Fowles Rebound (Off:2 Def:3),-145,165,4,,201480,,1611661324,34,37,2
+00:52.6,[MIN 39-34] Robinson Layup Shot: Made (8 PTS),-3,16,1,,202658,,1611661324,34,39,2
+00:39.1,[NYL] Allen Jump Shot: Missed,-209,-11,2,,204296,,1611661313,34,39,2
+00:37.4,[NYL] Charles Rebound (Off:5 Def:4),-209,-11,4,,202250,,1611661313,34,39,2
+00:36.2,[NYL 36-39] Charles Hook Shot: Made (12 PTS),-6,15,1,,202250,,1611661313,36,39,2
+00:23.6,[NYL] Allen Foul: Shooting (1 PF) (2 FTA),7,176,6,200671,204296,,1611661313,36,39,2
+00:23.6,[MIN 40-36] Augustus Free Throw 1 of 2 (9 PTS),0,-80,3,,200671,,1611661324,36,40,2
+00:23.6,[MIN 41-36] Augustus Free Throw 2 of 2 (10 PTS),0,-80,3,,200671,,1611661324,36,41,2
+00:04.0,[NYL] Nurse Running Layup Shot: Missed,17,5,2,,1628915,,1611661313,36,41,2
+00:02.1,[MIN] Brunson Rebound (Off:1 Def:4),17,5,4,,100944,,1611661324,36,41,2
+00:00.3,[MIN] Moore 3pt Shot: Missed,-117,441,2,,202632,,1611661324,36,41,2
+00:00.1,[MIN] Team Rebound,-117,441,4,,0,,1611661324,36,41,2
+00:00.0,End Period,0,-80,13,,0,,0,36,41,2
+10:00,Start Period,0,-80,12,,0,,0,36,41,3
+09:43,[NYL] Hartley Foul: Shooting (1 PF) (2 FTA),-36,49,6,100915,203829,,1611661313,36,41,3
+09:43,[MIN] Whalen Free Throw 1 of 2 Missed,0,-80,3,,100915,,1611661324,36,41,3
+09:43,[MIN] Team Rebound,0,-80,4,,0,,1611661324,36,41,3
+09:43,[MIN 42-36] Whalen Free Throw 2 of 2 (1 PTS),0,-80,3,,100915,,1611661324,36,42,3
+09:31,[NYL 38-42] Hartley Driving Finger Roll Layup Shot: Made (4 PTS),-16,15,1,,203829,,1611661313,38,42,3
+09:10,[MIN 44-38] Moore Jump Shot: Made (14 PTS),158,56,1,,202632,,1611661324,38,44,3
+08:54,[NYL] Charles 3pt Shot: Missed,-94,236,2,,202250,,1611661313,38,44,3
+08:51,[MIN] Whalen Rebound (Off:0 Def:3),-94,236,4,,100915,,1611661324,38,44,3
+08:48,[NYL] Stokes Foul: Personal (1 PF),-41,135,6,202632,204329,,1611661313,38,44,3
+08:41,[MIN] Moore Fadeaway Jump Shot: Missed,-126,-1,2,,202632,,1611661324,38,44,3
+08:37,[NYL] Zellous Rebound (Off:0 Def:2),-126,-1,4,,201919,,1611661313,38,44,3
+08:26,[NYL 40-44] Charles Driving Floating Bank Jump Shot: Made (14 PTS) Assist: Coleman (1 AST),-10,26,1,,202250,201889,1611661313,40,44,3
+08:04,[NYL] Zellous Foul: Shooting (4 PF) (2 FTA),-39,28,6,100944,201919,,1611661313,40,44,3
+08:04,[MIN 45-40] Brunson Free Throw 1 of 2 (3 PTS),0,-80,3,,100944,,1611661324,40,45,3
+08:04,[NYL] Zellous Substitution replaced by Nurse,0,-80,8,,201919,1628915,1611661313,40,45,3
+08:04,[MIN 46-40] Brunson Free Throw 2 of 2 (4 PTS),0,-80,3,,100944,,1611661324,40,46,3
+07:53,[NYL 42-46] Charles Driving Hook Shot: Made (16 PTS) Assist: Hartley (2 AST),29,67,1,,202250,203829,1611661313,42,46,3
+07:29,[MIN] Moore Turnaround Jump Shot: Missed,-121,-22,2,,202632,,1611661324,42,46,3
+07:27,[NYL] Team Rebound,-121,-22,4,,0,,1611661313,42,46,3
+07:16,[NYL] Charles Jump Shot: Missed,-61,204,2,,202250,,1611661313,42,46,3
+07:14,[NYL] Hartley Rebound (Off:1 Def:1),-61,204,4,,203829,,1611661313,42,46,3
+07:05,[MIN] Fowles Foul: Personal (3 PF),-111,-22,6,202250,201480,,1611661324,42,46,3
+06:58,[NYL 44-46] Coleman Turnaround Jump Shot: Made (8 PTS) Assist: Charles (1 AST),4,68,1,,201889,202250,1611661313,44,46,3
+06:39,[MIN] Whalen Jump Shot: Missed,-217,-4,2,,100915,,1611661324,44,46,3
+06:36,[NYL] Charles Rebound (Off:5 Def:5),-217,-4,4,,202250,,1611661313,44,46,3
+06:30,[NYL 47-46] Nurse 3pt Shot: Made (6 PTS) Assist: Hartley (3 AST),-222,67,1,,1628915,203829,1611661313,47,46,3
+06:28,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,47,46,3
+06:28,[MIN] Brunson Substitution replaced by Robinson,0,-80,8,,100944,202658,1611661324,47,46,3
+06:28,[MIN] Whalen Substitution replaced by Kizer,0,-80,8,,100915,203041,1611661324,47,46,3
+06:16,[MIN 48-47] Augustus Jump Shot: Made (12 PTS) Assist: Robinson (2 AST),-56,194,1,,200671,202658,1611661324,47,48,3
+05:54,[NYL] Coleman 3pt Shot: Missed,147,198,2,,201889,,1611661313,47,48,3
+05:51,[NYL] Stokes Rebound (Off:2 Def:0),147,198,4,,204329,,1611661313,47,48,3
+05:49,[NYL 49-48] Stokes Putback Layup Shot: Made (4 PTS),11,15,1,,204329,,1611661313,49,48,3
+05:27,[MIN] Robinson Foul: Offensive Charge (1 PF),66,141,6,203829,202658,,1611661324,49,48,3
+05:27,[MIN] Robinson Turnover : Offensive Foul Turnover (1 TO),66,141,5,,202658,,1611661324,49,48,3
+05:15,[NYL 52-48] Nurse 3pt Shot: Made (9 PTS) Assist: Charles (2 AST),119,220,1,,1628915,202250,1611661313,52,48,3
+04:52,[MIN] Kizer 3pt Shot: Missed,0,247,2,,203041,,1611661324,52,48,3
+04:50,[MIN] Robinson Rebound (Off:1 Def:2),0,247,4,,202658,,1611661324,52,48,3
+04:43,[MIN] Robinson Driving Layup Shot: Missed,32,18,2,,202658,,1611661324,52,48,3
+04:41,[MIN] Kizer Rebound (Off:2 Def:1),32,18,4,,203041,,1611661324,52,48,3
+04:41,[MIN] Kizer Putback Layup Shot: Missed,-3,17,2,204329,203041,,1611661324,52,48,3
+04:41,[MIN] Team Rebound,-3,17,4,,0,,1611661324,52,48,3
+04:29,[MIN] Kizer Jump Shot: Missed,60,5,2,,203041,,1611661324,52,48,3
+04:28,[MIN] Moore Rebound (Off:1 Def:4),60,5,4,,202632,,1611661324,52,48,3
+04:27,[MIN] Moore Putback Layup Shot: Missed,17,13,2,,202632,,1611661324,52,48,3
+04:23,[MIN] Moore Rebound (Off:2 Def:4),17,13,4,,202632,,1611661324,52,48,3
+04:19,[MIN] Kizer Jump Shot: Missed,83,157,2,,203041,,1611661324,52,48,3
+04:17,[NYL] Charles Rebound (Off:5 Def:6),83,157,4,,202250,,1611661313,52,48,3
+04:10,[MIN] Fowles Foul: Personal (4 PF),-61,1,6,204329,201480,,1611661324,52,48,3
+04:10,[NYL] Charles Substitution replaced by Russell,0,-80,8,,202250,1628920,1611661313,52,48,3
+04:10,[NYL] Stokes Substitution replaced by Zahui B,0,-80,8,,204329,204320,1611661313,52,48,3
+04:10,[MIN] Augustus Substitution replaced by Wright,0,-80,8,,200671,101030,1611661324,52,48,3
+04:10,[NYL] Coleman Substitution replaced by Allen,0,-80,8,,201889,204296,1611661313,52,48,3
+04:10,[MIN] Fowles Substitution replaced by Jones,0,-80,8,,201480,1628283,1611661324,52,48,3
+04:08,[NYL] Allen Turnover : Bad Pass (1 TO) Steal:Moore (1 ST),-106,107,5,202632,204296,,1611661313,52,48,3
+04:08,[NYL] Hartley Foul: Loose Ball (2 PF),-73,794,6,202658,203829,,1611661313,52,48,3
+03:59,[MIN] Robinson Driving Layup Shot: Missed,-9,13,2,,202658,,1611661324,52,48,3
+03:57,[NYL] Zahui B Rebound (Off:1 Def:2),-9,13,4,,204320,,1611661313,52,48,3
+03:43,[MIN] Kizer Foul: Personal (2 PF),71,63,6,204320,203041,,1611661324,52,48,3
+03:36,[NYL] Hartley Driving Finger Roll Layup Shot: Missed,-13,15,2,,203829,,1611661313,52,48,3
+03:33,[MIN] Wright Rebound (Off:0 Def:2),-13,15,4,,101030,,1611661324,52,48,3
+03:30,[MIN 51-52] Moore 3pt Shot: Made (17 PTS) Assist: Wright (1 AST),-168,185,1,,202632,101030,1611661324,52,51,3
+03:18,[MIN] Moore Foul: Personal (1 PF),-25,32,6,204320,202632,,1611661324,52,51,3
+03:11,[NYL] Hartley Driving Layup Shot: Missed,-11,24,2,,203829,,1611661313,52,51,3
+03:08,[MIN] Kizer Rebound (Off:2 Def:2),-11,24,4,,203041,,1611661324,52,51,3
+03:01,[MIN] Moore Driving Floating Jump Shot: Missed,-96,0,2,,202632,,1611661324,52,51,3
+02:58,[NYL] Nurse Rebound (Off:1 Def:3),-96,0,4,,1628915,,1611661313,52,51,3
+02:48,[NYL 54-51] Russell Layup Shot: Made (2 PTS) Assist: Zahui B (1 AST),-15,15,1,,1628920,204320,1611661313,54,51,3
+02:20,[MIN 53-54] Robinson Jump Shot: Made (10 PTS) Assist: Moore (3 AST),154,-3,1,,202658,202632,1611661324,54,53,3
+02:04,[NYL] Russell Foul: Offensive Charge (1 PF),0,239,6,202658,1628920,,1611661313,54,53,3
+02:04,[NYL] Russell Turnover : Offensive Foul Turnover (1 TO),0,239,5,,1628920,,1611661313,54,53,3
+02:04,[NYL] Hartley Substitution replaced by Zellous,0,-80,8,,203829,201919,1611661313,54,53,3
+02:04,[MIN] Moore Substitution replaced by Fagbenle,0,-80,8,,202632,1627701,1611661324,54,53,3
+01:51,[MIN] Jones Jump Shot: Missed,-104,58,2,,1628283,,1611661324,54,53,3
+01:48,[NYL] Zahui B Rebound (Off:1 Def:3),-104,58,4,,204320,,1611661313,54,53,3
+01:44,[MIN] Robinson Foul: Personal (2 PF) (2 FTA),-67,235,6,201919,202658,,1611661324,54,53,3
+01:44,[NYL] Zellous Free Throw 1 of 2 Missed,0,-80,3,,201919,,1611661313,54,53,3
+01:44,[NYL] Team Rebound,0,-80,4,,0,,1611661313,54,53,3
+01:44,[NYL 55-53] Zellous Free Throw 2 of 2 (3 PTS),0,-80,3,,201919,,1611661313,55,53,3
+01:26,Jump Ball Allen vs Fagbenle (Zellous gains possession),0,-80,10,1627701,204296,201919,1611661313,55,53,3
+01:26,[MIN] Fagbenle Turnover : No Turnover (1 TO) Steal:Allen (1 ST),0,-80,5,204296,1627701,,1611661324,55,53,3
+01:10,[NYL 57-53] Zellous Jump Shot: Made (5 PTS),147,133,1,,201919,,1611661313,57,53,3
+00:55.8,[MIN] Kizer 3pt Shot: Missed,226,2,2,,203041,,1611661324,57,53,3
+00:53.4,[NYL] Zellous Rebound (Off:0 Def:3),226,2,4,,201919,,1611661313,57,53,3
+00:47.3,[NYL 59-53] Allen Jump Shot: Made (7 PTS) Assist: Zellous (1 AST),-206,-8,1,,204296,201919,1611661313,59,53,3
+00:33.8,[MIN 55-59] Kizer Jump Shot: Made (2 PTS) Assist: Robinson (3 AST),-121,158,1,,203041,202658,1611661324,59,55,3
+00:15.2,[NYL] Allen Jump Shot: Missed,-14,180,2,,204296,,1611661313,59,55,3
+00:12.9,[MIN] Robinson Rebound (Off:1 Def:3),-14,180,4,,202658,,1611661324,59,55,3
+00:02.3,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,55,3
+00:01.7,[MIN] Jones Jump Shot: Missed,-163,135,2,1628915,1628283,,1611661324,59,55,3
+00:01.0,[MIN] Jones Rebound (Off:1 Def:0),-163,135,4,,1628283,,1611661324,59,55,3
+00:00.0,End Period,0,-80,13,,0,,0,59,55,3
+10:00,Start Period,0,-80,12,,0,,0,59,55,4
+09:50,[MIN] Augustus Foul: Shooting (2 PF) (2 FTA),12,16,6,201919,200671,,1611661324,59,55,4
+09:50,[NYL] Zellous Free Throw 1 of 2 Missed,0,-80,3,,201919,,1611661313,59,55,4
+09:50,[NYL] Team Rebound,0,-80,4,,0,,1611661313,59,55,4
+09:50,[NYL] Zellous Free Throw 2 of 2 Missed,0,-80,3,,201919,,1611661313,59,55,4
+09:48,[MIN] Fowles Rebound (Off:2 Def:4),0,-80,4,,201480,,1611661324,59,55,4
+09:41,[MIN 57-59] Augustus Jump Bank Shot: Made (14 PTS) Assist: Whalen (2 AST),0,200,1,,200671,100915,1611661324,59,57,4
+09:26,[MIN] Whalen Foul: Shooting (2 PF) (2 FTA),-3,27,6,204296,100915,,1611661324,59,57,4
+09:26,[NYL 60-57] Allen Free Throw 1 of 2 (8 PTS),0,-80,3,,204296,,1611661313,60,57,4
+09:26,[NYL 61-57] Allen Free Throw 2 of 2 (9 PTS),0,-80,3,,204296,,1611661313,61,57,4
+09:13,[MIN 59-61] Fowles Cutting Layup Shot: Made (11 PTS) Assist: Brunson (1 AST),-3,13,1,,201480,100944,1611661324,61,59,4
+08:48,[NYL] Zahui B 3pt Shot: Missed,37,258,2,,204320,,1611661313,61,59,4
+08:46,[MIN] Moore Rebound (Off:2 Def:5),37,258,4,,202632,,1611661324,61,59,4
+08:33,[MIN] Fowles Turnaround Jump Shot: Missed,-23,21,2,,201480,,1611661324,61,59,4
+08:31,[NYL] Zahui B Rebound (Off:1 Def:4),-23,21,4,,204320,,1611661313,61,59,4
+08:15,[NYL] Allen 3pt Shot: Missed,226,-10,2,,204296,,1611661313,61,59,4
+08:12,[MIN] Brunson Rebound (Off:1 Def:5),226,-10,4,,100944,,1611661324,61,59,4
+08:06,[NYL] Zahui B Foul: Personal (3 PF),144,43,6,200671,204320,,1611661313,61,59,4
+08:06,[NYL] Zahui B Substitution replaced by Charles,0,-80,8,,204320,202250,1611661313,61,59,4
+07:58,[MIN] Moore Turnover : Lost Ball (2 TO) Steal:Russell (1 ST),-86,-12,5,1628920,202632,,1611661324,61,59,4
+07:52,[MIN] Moore Foul: Personal (2 PF),40,247,6,201919,202632,,1611661324,61,59,4
+07:45,[NYL] Russell Jump Shot: Missed,-175,-10,2,,1628920,,1611661313,61,59,4
+07:40,[MIN] Brunson Rebound (Off:1 Def:6),-175,-10,4,,100944,,1611661324,61,59,4
+07:23,[MIN] Moore Turnover : Bad Pass (3 TO) Steal:Russell (2 ST),126,-5,5,1628920,202632,,1611661324,61,59,4
+07:18,[NYL] Zellous Layup Shot: Missed,0,15,2,,201919,,1611661313,61,59,4
+07:16,[MIN] Whalen Rebound (Off:0 Def:4),0,15,4,,100915,,1611661324,61,59,4
+07:04,[MIN] Brunson 3pt Shot: Missed,155,180,2,,100944,,1611661324,61,59,4
+07:01,[NYL] Allen Rebound (Off:0 Def:1),155,180,4,,204296,,1611661313,61,59,4
+06:54,[NYL] Charles Turnover : Traveling (1 TO),-35,47,5,,202250,,1611661313,61,59,4
+06:54,[MIN] Augustus Substitution replaced by Wright,0,-80,8,,200671,101030,1611661324,61,59,4
+06:54,[MIN] Moore Substitution replaced by Jones,0,-80,8,,202632,1628283,1611661324,61,59,4
+06:30,[MIN] Whalen Jump Shot: Missed,58,35,2,,100915,,1611661324,61,59,4
+06:29,[MIN] Team Rebound,58,35,4,,0,,1611661324,61,59,4
+06:29,[MIN] Team Turnover : Shot Clock Turnover,0,2,5,,0,,1611661324,61,59,4
+06:10,[NYL 63-59] Zellous Jump Shot: Made (7 PTS),-92,150,1,,201919,,1611661313,63,59,4
+05:49,[MIN] Fowles Turnover : Traveling (1 TO),-11,12,5,,201480,,1611661324,63,59,4
+05:49,Timeout Officials,0,-80,9,,0,,0,63,59,4
+05:49,[MIN] Whalen Substitution replaced by Robinson,0,-80,8,,100915,202658,1611661324,63,59,4
+05:49,[MIN] Jones Substitution replaced by Moore,0,-80,8,,1628283,202632,1611661324,63,59,4
+05:29,[NYL] Charles Step Back Jump shot: Missed,-39,208,2,,202250,,1611661313,63,59,4
+05:25,[MIN] Robinson Rebound (Off:1 Def:4),-39,208,4,,202658,,1611661324,63,59,4
+05:08,[MIN] Moore Turnaround Jump Shot: Missed,-65,136,2,,202632,,1611661324,63,59,4
+05:06,[NYL] Nurse Rebound (Off:1 Def:4),-65,136,4,,1628915,,1611661313,63,59,4
+05:00,[MIN] Brunson Foul: Shooting (3 PF) (2 FTA),28,15,6,1628915,100944,,1611661324,63,59,4
+05:00,[NYL 64-59] Nurse Free Throw 1 of 2 (10 PTS),0,-80,3,,1628915,,1611661313,64,59,4
+05:00,[NYL] Allen Substitution replaced by Coleman,0,-80,8,,204296,201889,1611661313,64,59,4
+05:00,[MIN] Moore Substitution replaced by Augustus,0,-80,8,,202632,200671,1611661324,64,59,4
+05:00,[NYL 65-59] Nurse Free Throw 2 of 2 (11 PTS),0,-80,3,,1628915,,1611661313,65,59,4
+04:46,[MIN 61-65] Augustus Jump Shot: Made (16 PTS),-102,136,1,,200671,,1611661324,65,61,4
+04:28,[NYL] Zellous Jump Shot: Missed,-67,140,2,,201919,,1611661313,65,61,4
+04:25,[MIN] Fowles Rebound (Off:2 Def:5),-67,140,4,,201480,,1611661324,65,61,4
+04:13,[MIN] Wright 3pt Shot: Missed,-234,-12,2,,101030,,1611661324,65,61,4
+04:11,[NYL] Zellous Rebound (Off:0 Def:4),-234,-12,4,,201919,,1611661313,65,61,4
+04:11,[MIN] Brunson Foul: Personal (4 PF) (2 FTA),234,848,6,201919,100944,,1611661324,65,61,4
+04:11,[NYL 66-61] Zellous Free Throw 1 of 2 (8 PTS),0,-80,3,,201919,,1611661313,66,61,4
+04:11,[NYL 67-61] Zellous Free Throw 2 of 2 (9 PTS),0,-80,3,,201919,,1611661313,67,61,4
+03:55,[MIN 63-67] Augustus Jump Shot: Made (18 PTS),-134,120,1,,200671,,1611661324,67,63,4
+03:27,[NYL] Coleman Turnover : Bad Pass (1 TO) Steal:Brunson (1 ST),-131,35,5,100944,201889,,1611661313,67,63,4
+03:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,63,4
+03:23,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,67,63,4
+03:14,[MIN] Augustus Jump Shot: Missed,-73,196,2,,200671,,1611661324,67,63,4
+03:11,[NYL] Charles Rebound (Off:5 Def:7),-73,196,4,,202250,,1611661313,67,63,4
+02:56,[NYL] Charles Jump Shot: Missed,48,197,2,,202250,,1611661313,67,63,4
+02:53,[MIN] Brunson Rebound (Off:1 Def:7),48,197,4,,100944,,1611661324,67,63,4
+02:48,[MIN 65-67] Wright Layup Shot: Made (2 PTS) Assist: Robinson (4 AST),0,12,1,,101030,202658,1611661324,67,65,4
+02:32,[NYL] Coleman 3pt Shot: Missed,228,-11,2,,201889,,1611661313,67,65,4
+02:28,[MIN] Fowles Rebound (Off:2 Def:6),228,-11,4,,201480,,1611661324,67,65,4
+02:26,[NYL] Nurse Foul: Shooting (2 PF) (2 FTA),-9,11,6,202658,1628915,,1611661313,67,65,4
+02:26,[MIN] Robinson Free Throw 1 of 2 Missed,0,-80,3,,202658,,1611661324,67,65,4
+02:26,[MIN] Team Rebound,0,-80,4,,0,,1611661324,67,65,4
+02:26,[NYL] Coleman Substitution replaced by Hartley,0,-80,8,,201889,203829,1611661313,67,65,4
+02:26,[MIN 66-67] Robinson Free Throw 2 of 2 (11 PTS),0,-80,3,,202658,,1611661324,67,66,4
+02:03,[NYL] Hartley Driving Layup Shot: Missed,13,16,2,,203829,,1611661313,67,66,4
+02:00,[MIN] Augustus Rebound (Off:0 Def:1),13,16,4,,200671,,1611661324,67,66,4
+01:46,[MIN] Brunson Jump Shot: Missed,-123,32,2,,100944,,1611661324,67,66,4
+01:44,[NYL] Russell Rebound (Off:0 Def:2),-123,32,4,,1628920,,1611661313,67,66,4
+01:39,[NYL 70-66] Nurse 3pt Shot: Made (14 PTS) Assist: Zellous (2 AST),-167,181,1,,1628915,201919,1611661313,70,66,4
+01:21,[NYL] Zellous Foul: Personal (5 PF),126,28,6,200671,201919,,1611661313,70,66,4
+01:21,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,70,66,4
+01:16,[MIN 69-70] Augustus 3pt Shot: Made (21 PTS) Assist: Robinson (5 AST),-231,-11,1,,200671,202658,1611661324,70,69,4
+00:55.7,[NYL] Zellous Driving Floating Jump Shot: Missed,-69,101,2,,201919,,1611661313,70,69,4
+00:54.6,[MIN] Fowles Rebound (Off:2 Def:7),-69,101,4,,201480,,1611661324,70,69,4
+00:54.6,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,70,69,4
+00:54.6,[MIN] Wright Substitution replaced by Moore,0,-80,8,,101030,202632,1611661324,70,69,4
+00:44.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,69,4
+00:44.8,Instant Replay - Support Ruling,0,-80,18,,0,,0,70,69,4
+00:37.1,[MIN] Moore Jump Shot: Missed,48,104,2,,202632,,1611661324,70,69,4
+00:35.1,[MIN] Fowles Rebound (Off:3 Def:7),48,104,4,,201480,,1611661324,70,69,4
+00:34.2,[NYL] Charles Foul: Shooting (2 PF) (2 FTA),20,15,6,201480,202250,,1611661313,70,69,4
+00:34.2,[MIN 70-70] Fowles Free Throw 1 of 2 (12 PTS),0,-80,3,,201480,,1611661324,70,70,4
+00:34.2,[MIN 71-70] Fowles Free Throw 2 of 2 (13 PTS),0,-80,3,,201480,,1611661324,70,71,4
+00:34.2,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,70,71,4
+00:34.2,[MIN] Augustus Substitution replaced by Wright,0,-80,8,,200671,101030,1611661324,70,71,4
+00:23.5,[NYL 72-71] Charles Driving Floating Bank Jump Shot: Made (18 PTS),41,64,1,,202250,,1611661313,72,71,4
+00:23.5,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,72,71,4
+00:23.5,[NYL] Russell Substitution replaced by Stokes,0,-80,8,,1628920,204329,1611661313,72,71,4
+00:23.5,[MIN] Robinson Substitution replaced by Augustus,0,-80,8,,202658,200671,1611661324,72,71,4
+00:23.5,[MIN] Wright Substitution replaced by Whalen,0,-80,8,,101030,100915,1611661324,72,71,4
+00:19.5,[MIN 74-72] Moore 3pt Shot: Made (20 PTS),14,241,1,,202632,,1611661324,72,74,4
+00:19.5,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,72,74,4
+00:19.5,[NYL] Stokes Substitution replaced by Allen,0,-80,8,,204329,204296,1611661313,72,74,4
+00:19.5,[MIN] Augustus Substitution replaced by Robinson,0,-80,8,,200671,202658,1611661324,72,74,4
+00:19.5,[MIN] Whalen Substitution replaced by Wright,0,-80,8,,100915,101030,1611661324,72,74,4
+00:19.5,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,72,74,4
+00:15.5,[NYL] Nurse Jump Shot: Missed,123,126,2,,1628915,,1611661313,72,74,4
+00:12.9,[MIN] Fowles Rebound (Off:3 Def:8),123,126,4,,201480,,1611661324,72,74,4
+00:12.9,[NYL] Charles Foul: Personal Take (3 PF) (2 FTA),-123,710,6,201480,202250,,1611661313,72,74,4
+00:12.9,[MIN 75-72] Fowles Free Throw 1 of 2 (14 PTS),0,-80,3,,201480,,1611661324,72,75,4
+00:12.9,[MIN 76-72] Fowles Free Throw 2 of 2 (15 PTS),0,-80,3,,201480,,1611661324,72,76,4
+00:05.0,[NYL] Charles 3pt Shot: Missed,-86,228,2,,202250,,1611661313,72,76,4
+00:01.6,[MIN] Brunson Rebound (Off:1 Def:8),-86,228,4,,100944,,1611661324,72,76,4
+00:01.6,[NYL] Hartley Foul: Personal Take (3 PF) (2 FTA),97,834,6,202658,203829,,1611661313,72,76,4
+00:01.6,[MIN 77-72] Robinson Free Throw 1 of 2 (12 PTS),0,-80,3,,202658,,1611661324,72,77,4
+00:01.6,[MIN 78-72] Robinson Free Throw 2 of 2 (13 PTS),0,-80,3,,202658,,1611661324,72,78,4
+00:00.0,End Period,0,-80,13,,0,,0,72,78,4
+00:00.0,Game End,0,-80,0,,0,,0,72,78,4

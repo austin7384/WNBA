@@ -1,0 +1,374 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Parker vs Fowles (Howard gains possession),0,-80,10,201480,204323,1631009,1611661330,0,0,1
+09:37,[ATL] Howard Pullup Jump shot: Missed,29,161,2,,1631009,,1611661330,0,0,1
+09:34,[MIN] Shepard Rebound (Off:0 Def:1),29,161,4,,1629491,,1611661324,0,0,1
+09:20,[ATL] Caldwell Foul: Personal (1 PF),10,68,6,203825,1630471,,1611661330,0,0,1
+09:15,[MIN 3-0] Jefferson 3pt Shot: Made (3 PTS) Assist: Shepard (1 AST),-188,138,1,,1627669,1629491,1611661324,3,0,1
+08:59,[ATL] Caldwell Driving Layup Shot: Missed,-17,5,2,,1630471,,1611661330,3,0,1
+08:56,[MIN] Jefferson Rebound (Off:0 Def:1),-17,5,4,,1627669,,1611661324,3,0,1
+08:53,[MIN 6-0] McBride 3pt Shot: Made (3 PTS) Assist: Jefferson (1 AST),-207,112,1,,203825,1627669,1611661324,6,0,1
+08:32,[ATL] Parker Turnover : Out of Bounds Lost Ball Turnover (1 TO),22,16,5,,204323,,1611661330,6,0,1
+08:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,0,1
+08:17,[MIN 8-0] Shepard Layup Shot: Made (2 PTS) Assist: Fowles (1 AST),22,-1,1,,1629491,201480,1611661324,8,0,1
+08:02,[ATL 2-8] Caldwell Pullup Jump shot: Made (2 PTS) Assist: Howard (1 AST),32,146,1,,1630471,1631009,1611661330,8,2,1
+07:51,[ATL] Caldwell Foul: Personal (2 PF),122,209,6,1627669,1630471,,1611661330,8,2,1
+07:48,[MIN] Fowles Foul: Offensive (1 PF),-166,101,6,204365,201480,,1611661324,8,2,1
+07:48,[MIN] Fowles Turnover : Offensive Foul Turnover (1 TO),-166,101,5,,201480,,1611661324,8,2,1
+07:28,[MIN] Fowles Foul: Shooting (2 PF) (2 FTA),113,58,6,204323,201480,,1611661324,8,2,1
+07:28,[ATL] Parker Free Throw 1 of 2 Missed,0,-80,3,,204323,,1611661330,8,2,1
+07:28,[ATL] Team Rebound,0,-80,4,,0,,1611661330,8,2,1
+07:28,[ATL 3-8] Parker Free Throw 2 of 2 (1 PTS),0,-80,3,,204323,,1611661330,8,3,1
+07:28,[MIN] Fowles Substitution replaced by Milic,0,-80,8,,201480,1631263,1611661324,8,3,1
+07:10,[MIN] Jefferson Running Pull-Up Jump Shot: Missed,29,70,2,,1627669,,1611661324,8,3,1
+07:09,[MIN] Milic Rebound (Off:1 Def:0),29,70,4,,1631263,,1611661324,8,3,1
+07:07,[MIN] Shepard Turnover : Traveling (1 TO),-4,54,5,,1629491,,1611661324,8,3,1
+07:07,[MIN] Collier Substitution replaced by Carleton,0,-80,8,,1629483,1629524,1611661324,8,3,1
+06:52,[ATL] Wheeler 3pt Shot: Missed,143,193,2,,204365,,1611661330,8,3,1
+06:51,[MIN] Team Rebound,143,193,4,,0,,1611661324,8,3,1
+06:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,3,1
+06:36,[MIN 10-3] McBride Step Back Jump shot: Made (5 PTS) Assist: Carleton (1 AST),42,191,1,,203825,1629524,1611661324,10,3,1
+06:18,[ATL 5-10] Parker Layup Shot: Made (3 PTS) Assist: Howard (2 AST),11,11,1,,204323,1631009,1611661330,10,5,1
+06:18,[MIN] Milic Foul: Shooting (1 PF) (1 FTA),11,11,6,204323,1631263,,1611661324,10,5,1
+06:18,[ATL] Parker Free Throw 1 of 1 Missed,0,-80,3,,204323,,1611661330,10,5,1
+06:15,[MIN] Jefferson Rebound (Off:0 Def:2),0,-80,4,,1627669,,1611661324,10,5,1
+05:55,[MIN] McBride Step Back Jump shot: Missed,-130,148,2,,203825,,1611661324,10,5,1
+05:54,[ATL] Team Rebound,-130,148,4,,0,,1611661330,10,5,1
+05:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,5,1
+05:38,[ATL] Caldwell Pullup Jump shot: Missed,5,157,2,,1630471,,1611661330,10,5,1
+05:34,[ATL] Parker Rebound (Off:1 Def:0),5,157,4,,204323,,1611661330,10,5,1
+05:33,[ATL 7-10] Parker Putback Layup Shot: Made (5 PTS),11,11,1,,204323,,1611661330,10,7,1
+05:17,[MIN] McBride 3pt Shot: Missed,-206,132,2,,203825,,1611661324,10,7,1
+05:11,[ATL] Hillmon Rebound (Off:0 Def:1),-206,132,4,,1631044,,1611661330,10,7,1
+05:08,[ATL] Howard Running Pull-Up Jump Shot: Missed,123,157,2,,1631009,,1611661330,10,7,1
+05:08,[MIN] Shepard Rebound (Off:0 Def:2),123,157,4,,1629491,,1611661324,10,7,1
+04:48,[MIN 13-7] Carleton 3pt Shot: Made (3 PTS) Assist: McBride (1 AST),-233,28,1,,1629524,203825,1611661324,13,7,1
+04:34,[ATL] Howard 3pt Shot: Missed,-182,150,2,,1631009,,1611661330,13,7,1
+04:31,[ATL] Hillmon Rebound (Off:1 Def:1),-182,150,4,,1631044,,1611661330,13,7,1
+04:27,[ATL 9-13] Hillmon Driving Layup Shot: Made (2 PTS),11,8,1,,1631044,,1611661330,13,9,1
+04:09,[MIN 15-9] Milic Layup Shot: Made (2 PTS) Assist: McBride (2 AST),16,-1,1,,1631263,203825,1611661324,15,9,1
+03:46,[ATL] Hillmon Layup Shot: Missed,-3,27,2,,1631044,,1611661330,15,9,1
+03:42,[MIN] Milic Rebound (Off:1 Def:1),-3,27,4,,1631263,,1611661324,15,9,1
+03:36,[MIN 17-9] Jefferson Turnaround Jump Shot: Made (5 PTS),9,83,1,,1627669,,1611661324,17,9,1
+03:23,[ATL] Wheeler Driving Layup Shot: Missed,21,39,2,,204365,,1611661330,17,9,1
+03:20,[MIN] Shepard Rebound (Off:0 Def:3),21,39,4,,1629491,,1611661324,17,9,1
+03:15,[MIN] Carleton 3pt Shot: Missed,-189,132,2,,1629524,,1611661324,17,9,1
+03:12,[ATL] Parker Rebound (Off:1 Def:1),-189,132,4,,204323,,1611661330,17,9,1
+02:55,[ATL 11-17] Parker Jump Shot: Made (7 PTS) Assist: Wheeler (1 AST),-51,200,1,,204323,204365,1611661330,17,11,1
+02:35,[MIN] Milic Driving Layup Shot: Missed,7,13,2,,1631263,,1611661324,17,11,1
+02:32,[MIN] McBride Rebound (Off:1 Def:0),7,13,4,,203825,,1611661324,17,11,1
+02:31,[MIN] McBride Turnaround Jump Shot: Missed,-134,5,2,,203825,,1611661324,17,11,1
+02:31,[ATL] Wheeler Rebound (Off:0 Def:1),-134,5,4,,204365,,1611661330,17,11,1
+02:23,[ATL] Howard 3pt Shot: Missed,-143,222,2,,1631009,,1611661330,17,11,1
+02:20,[MIN] Jefferson Rebound (Off:0 Def:3),-143,222,4,,1627669,,1611661324,17,11,1
+02:14,[MIN 20-11] McBride 3pt Shot: Made (8 PTS) Assist: Carleton (2 AST),-225,28,1,,203825,1629524,1611661324,20,11,1
+02:06,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,20,11,1
+02:06,[MIN] Jefferson Substitution replaced by Achonwa,0,-80,8,,1627669,203831,1611661324,20,11,1
+02:06,[MIN] Shepard Substitution replaced by Allen,0,-80,8,,1629491,1628263,1611661324,20,11,1
+02:06,[MIN] McBride Substitution replaced by Banham,0,-80,8,,203825,1627671,1611661324,20,11,1
+02:06,[MIN] Milic Substitution replaced by Collier,0,-80,8,,1631263,1629483,1611661324,20,11,1
+02:06,[ATL] Parker Substitution replaced by McDonald,0,-80,8,,204323,1630462,1611661330,20,11,1
+02:06,[ATL] Caldwell Substitution replaced by Vaughn,0,-80,8,,1630471,201913,1611661330,20,11,1
+01:47,[ATL] Hillmon Jump Shot: Missed,-150,8,2,,1631044,,1611661330,20,11,1
+01:44,[MIN] Achonwa Rebound (Off:0 Def:1),-150,8,4,,203831,,1611661324,20,11,1
+01:32,[MIN] Collier Layup Shot: Missed,-6,-5,2,,1629483,,1611661324,20,11,1
+01:31,[ATL] McDonald Rebound (Off:0 Def:1),-6,-5,4,,1630462,,1611661330,20,11,1
+01:31,[MIN] Allen Foul: Personal Take (1 PF),-170,642,6,1630462,1628263,,1611661324,20,11,1
+01:20,[ATL] Wheeler Driving Layup Shot: Missed,-15,11,2,,204365,,1611661330,20,11,1
+01:16,[ATL] Vaughn Rebound (Off:1 Def:0),-15,11,4,,201913,,1611661330,20,11,1
+01:11,[ATL] Wheeler Turnover : Bad Pass (1 TO) Steal:Achonwa (1 ST),0,246,5,203831,204365,,1611661330,20,11,1
+01:01,[MIN] Achonwa 3pt Shot: Missed,-161,165,2,,203831,,1611661324,20,11,1
+00:59.1,[ATL] Team Rebound,-161,165,4,,0,,1611661330,20,11,1
+00:59.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,11,1
+00:43.5,[MIN] Collier Foul: Shooting (1 PF) (2 FTA),-13,13,6,1631009,1629483,,1611661324,20,11,1
+00:43.5,[ATL 12-20] Howard Free Throw 1 of 2 (1 PTS),0,-80,3,,1631009,,1611661330,20,12,1
+00:43.5,[ATL] Howard Free Throw 2 of 2 Missed,0,-80,3,,1631009,,1611661330,20,12,1
+00:41.1,[MIN] Banham Rebound (Off:0 Def:1),0,-80,4,,1627671,,1611661324,20,12,1
+00:37.0,[MIN] Allen Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),145,301,5,1631009,1628263,,1611661324,20,12,1
+00:33.5,[ATL 14-20] Howard Running Layup Shot: Made (3 PTS),13,13,1,,1631009,,1611661330,20,14,1
+00:19.9,[MIN] Allen Turnover : Bad Pass (2 TO) Steal:McDonald (1 ST),45,245,5,1630462,1628263,,1611661324,20,14,1
+00:14.8,[MIN] Achonwa Foul: Shooting (1 PF) (2 FTA),13,8,6,1631044,203831,,1611661324,20,14,1
+00:14.8,[ATL 15-20] Hillmon Free Throw 1 of 2 (3 PTS),0,-80,3,,1631044,,1611661330,20,15,1
+00:14.8,[MIN] Allen Substitution replaced by Jefferson,0,-80,8,,1628263,1627669,1611661324,20,15,1
+00:14.8,[ATL 16-20] Hillmon Free Throw 2 of 2 (4 PTS),0,-80,3,,1631044,,1611661330,20,16,1
+00:00.0,[MIN] Jefferson Step Back Jump shot: Missed,10,208,2,,1627669,,1611661324,20,16,1
+00:00.0,[MIN] Team Rebound,10,208,4,,0,,1611661324,20,16,1
+00:00.0,End Period,0,-80,13,,0,,0,20,16,1
+10:00,Start Period,0,-80,12,,0,,0,20,16,2
+09:44,[MIN] Banham Turnaround Jump Shot: Missed,121,69,2,,1627671,,1611661324,20,16,2
+09:36,[ATL] Vaughn Rebound (Off:1 Def:1),121,69,4,,201913,,1611661330,20,16,2
+09:29,[ATL] Howard Driving Layup Shot: Missed,22,11,2,,1631009,,1611661330,20,16,2
+09:25,[MIN] Collier Rebound (Off:0 Def:1),22,11,4,,1629483,,1611661324,20,16,2
+09:16,[MIN 23-16] Collier 3pt Shot: Made (3 PTS) Assist: Jefferson (2 AST),-205,112,1,,1629483,1627669,1611661324,23,16,2
+09:01,Jump Ball Carleton vs Parker,0,-80,10,204323,1629524,,1611661324,23,16,2
+09:01,[ATL] Parker Turnover : Lost Ball (2 TO) Steal:Carleton (1 ST),0,-80,5,1629524,204323,,1611661330,23,16,2
+09:01,[ATL] McDonald Foul: Loose Ball (1 PF),-6,541,6,1627669,1630462,,1611661330,23,16,2
+08:51,[MIN 26-16] Banham 3pt Shot: Made (3 PTS) Assist: Jefferson (3 AST),44,245,1,,1627671,1627669,1611661324,26,16,2
+08:41,[ATL] Vaughn Foul: Offensive (1 PF),1,50,6,1627671,201913,,1611661330,26,16,2
+08:41,[ATL] Vaughn Turnover : Offensive Foul Turnover (1 TO),1,50,5,,201913,,1611661330,26,16,2
+08:29,[ATL] Howard Foul: Personal (1 PF),87,244,6,1627669,1631009,,1611661330,26,16,2
+08:29,[ATL] McDonald Substitution replaced by Wheeler,0,-80,8,,1630462,204365,1611661330,26,16,2
+08:20,[MIN] Fowles Turnaround Hook Shot: Missed,15,81,2,,201480,,1611661324,26,16,2
+08:17,[ATL] Wheeler Rebound (Off:0 Def:2),15,81,4,,204365,,1611661330,26,16,2
+08:17,[ATL] Wheeler Turnover : Double Dribble (2 TO),-79,177,5,,204365,,1611661330,26,16,2
+08:17,[ATL] Howard Substitution replaced by McDonald,0,-80,8,,1631009,1630462,1611661330,26,16,2
+08:00,[MIN] Carleton Pullup Jump shot: Missed,15,159,2,,1629524,,1611661324,26,16,2
+07:56,[ATL] Parker Rebound (Off:1 Def:2),15,159,4,,204323,,1611661330,26,16,2
+07:46,[ATL 19-26] McDonald 3pt Shot: Made (3 PTS) Assist: Parker (1 AST),116,226,1,,1630462,204323,1611661330,26,19,2
+07:34,[MIN] Banham 3pt Shot: Missed,156,193,2,,1627671,,1611661324,26,19,2
+07:31,[ATL] Vaughn Rebound (Off:1 Def:2),156,193,4,,201913,,1611661330,26,19,2
+07:25,[MIN] Collier Foul: Personal (2 PF),-6,32,6,204323,1629483,,1611661324,26,19,2
+07:25,[MIN] Carleton Substitution replaced by Shepard,0,-80,8,,1629524,1629491,1611661324,26,19,2
+07:25,[MIN] Collier Substitution replaced by McBride,0,-80,8,,1629483,203825,1611661324,26,19,2
+07:25,[ATL] Vaughn Substitution replaced by Hillmon,0,-80,8,,201913,1631044,1611661330,26,19,2
+07:10,[ATL] Parker Driving Layup Shot: Missed,-12,32,2,,204323,,1611661330,26,19,2
+07:06,[ATL] Parker Rebound (Off:2 Def:2),-12,32,4,,204323,,1611661330,26,19,2
+07:06,[ATL 21-26] Parker Tip Layup Shot: Made (9 PTS),-11,17,1,,204323,,1611661330,26,21,2
+06:49,[MIN 28-21] Banham Cutting Layup Shot: Made (5 PTS) Assist: Shepard (2 AST),10,3,1,,1627671,1629491,1611661324,28,21,2
+06:30,[ATL] McDonald 3pt Shot: Missed,-151,209,2,,1630462,,1611661330,28,21,2
+06:28,[ATL] Hillmon Rebound (Off:2 Def:1),-151,209,4,,1631044,,1611661330,28,21,2
+06:23,[ATL 23-28] McDonald Driving Layup Shot: Made (5 PTS) Assist: Parker (2 AST),-12,11,1,,1630462,204323,1611661330,28,23,2
+06:03,[MIN 30-23] Jefferson Pullup Jump shot: Made (7 PTS) Assist: Fowles (2 AST),-1,75,1,,1627669,201480,1611661324,30,23,2
+05:40,[ATL] Parker 3pt Shot: Missed,223,75,2,,204323,,1611661330,30,23,2
+05:36,[MIN] McBride Rebound (Off:1 Def:1),223,75,4,,203825,,1611661324,30,23,2
+05:28,[MIN 32-23] Fowles Layup Shot: Made (2 PTS) Assist: McBride (3 AST),11,-3,1,,201480,203825,1611661324,32,23,2
+05:11,[ATL 25-32] Caldwell Pullup Jump shot: Made (4 PTS) Assist: Parker (3 AST),63,185,1,,1630471,204323,1611661330,32,25,2
+04:46,[MIN] Shepard Layup Shot: Missed,11,-1,2,,1629491,,1611661324,32,25,2
+04:43,[ATL] Parker Rebound (Off:2 Def:3),11,-1,4,,204323,,1611661330,32,25,2
+04:35,[MIN] Banham Foul: Shooting (1 PF) (2 FTA),-12,26,6,1631044,1627671,,1611661324,32,25,2
+04:35,Timeout Officials,0,-80,9,,0,,0,32,25,2
+04:35,[MIN] Jefferson Substitution replaced by Allen,0,-80,8,,1627669,1628263,1611661324,32,25,2
+04:35,[ATL] Caldwell Substitution replaced by Howard,0,-80,8,,1630471,1631009,1611661330,32,25,2
+04:35,[ATL 26-32] Hillmon Free Throw 1 of 2 (5 PTS),0,-80,3,,1631044,,1611661330,32,26,2
+04:35,[ATL 27-32] Hillmon Free Throw 2 of 2 (6 PTS),0,-80,3,,1631044,,1611661330,32,27,2
+04:17,[MIN] McBride Pullup Jump shot: Missed,-35,175,2,,203825,,1611661324,32,27,2
+04:15,[ATL] Team Rebound,-35,175,4,,0,,1611661330,32,27,2
+04:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,27,2
+04:02,[ATL] Wheeler Pullup Jump shot: Missed,-67,151,2,,204365,,1611661330,32,27,2
+03:58,[MIN] Fowles Rebound (Off:0 Def:1),-67,151,4,,201480,,1611661324,32,27,2
+03:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,27,2
+03:52,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,27,2
+03:47,[MIN 34-27] McBride Driving Floating Jump Shot: Made (10 PTS) Assist: Allen (1 AST),0,47,1,,203825,1628263,1611661324,34,27,2
+03:28,[ATL] Howard 3pt Shot: Missed,28,237,2,,1631009,,1611661330,34,27,2
+03:25,[MIN] Fowles Rebound (Off:0 Def:2),28,237,4,,201480,,1611661324,34,27,2
+03:17,[MIN] Fowles Foul: Offensive Charge (3 PF),-28,-1,6,1631044,201480,,1611661324,34,27,2
+03:17,[MIN] Fowles Turnover : Offensive Foul Turnover (2 TO),-28,-1,5,,201480,,1611661324,34,27,2
+02:59,[ATL 29-34] Parker Turnaround Jump Shot: Made (11 PTS) Assist: Wheeler (2 AST),121,39,1,,204323,204365,1611661330,34,29,2
+02:53,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,34,29,2
+02:53,[MIN] Reeve Technical (1 FTA),0,-80,6,,100631,,1611661324,34,29,2
+02:53,[MIN] Fowles Substitution replaced by Achonwa,0,-80,8,,201480,203831,1611661324,34,29,2
+02:53,[ATL 30-34] McDonald Free Throw Technical (6 PTS),0,-80,3,,1630462,,1611661330,34,30,2
+02:40,[ATL] Wheeler Foul: Personal (1 PF),3,81,6,203831,204365,,1611661330,34,30,2
+02:37,[MIN 37-30] Banham 3pt Shot: Made (8 PTS) Assist: McBride (4 AST),218,116,1,,1627671,203825,1611661324,37,30,2
+02:15,[MIN] Achonwa Foul: Shooting (2 PF) (2 FTA),-28,19,6,204323,203831,,1611661324,37,30,2
+02:15,[ATL 31-37] Parker Free Throw 1 of 2 (12 PTS),0,-80,3,,204323,,1611661330,37,31,2
+02:15,[ATL] Wheeler Substitution replaced by Caldwell,0,-80,8,,204365,1630471,1611661330,37,31,2
+02:15,[ATL] Parker Free Throw 2 of 2 Missed,0,-80,3,,204323,,1611661330,37,31,2
+02:11,[MIN] Allen Rebound (Off:0 Def:1),0,-80,4,,1628263,,1611661324,37,31,2
+02:05,[MIN] Achonwa Layup Shot: Missed,-15,-1,2,,203831,,1611661324,37,31,2
+02:03,[MIN] Shepard Rebound (Off:1 Def:3),-15,-1,4,,1629491,,1611661324,37,31,2
+01:56,[MIN 39-31] Allen Pullup Jump shot: Made (2 PTS),117,145,1,,1628263,,1611661324,39,31,2
+01:42,[ATL] Parker Foul: Offensive Charge (1 PF),35,7,6,203831,204323,,1611661330,39,31,2
+01:42,[ATL] Parker Turnover : Offensive Foul Turnover (3 TO),35,7,5,,204323,,1611661330,39,31,2
+01:42,[ATL] Parker Substitution replaced by Vaughn,0,-80,8,,204323,201913,1611661330,39,31,2
+01:32,[MIN] Allen Foul: Offensive (2 PF),-88,193,6,1630462,1628263,,1611661324,39,31,2
+01:32,[MIN] Allen Turnover : Offensive Foul Turnover (3 TO),-88,193,5,,1628263,,1611661324,39,31,2
+01:14,[ATL 34-39] McDonald 3pt Shot: Made (9 PTS) Assist: Caldwell (1 AST),-145,203,1,,1630462,1630471,1611661330,39,34,2
+01:00,[MIN] Achonwa Jump Shot: Missed,-125,134,2,,203831,,1611661324,39,34,2
+00:58.7,[ATL] Caldwell Rebound (Off:0 Def:1),-125,134,4,,1630471,,1611661330,39,34,2
+00:49.5,[ATL 36-39] Howard Turnaround Jump Shot: Made (5 PTS),-3,98,1,,1631009,,1611661330,39,36,2
+00:44.3,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,39,36,2
+00:44.3,[ATL] Caldwell Substitution replaced by Wheeler,0,-80,8,,1630471,204365,1611661330,39,36,2
+00:33.8,[MIN 41-36] Achonwa Layup Shot: Made (2 PTS) Assist: Allen (2 AST),-2,-3,1,,203831,1628263,1611661324,41,36,2
+00:27.9,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,41,36,2
+00:27.9,[MIN] Banham Substitution replaced by Collier,0,-80,8,,1627671,1629483,1611661324,41,36,2
+00:27.9,[ATL] Vaughn Substitution replaced by Parker,0,-80,8,,201913,204323,1611661330,41,36,2
+00:20.5,[ATL] McDonald 3pt Shot: Missed,11,253,2,,1630462,,1611661330,41,36,2
+00:17.4,[ATL] Hillmon Rebound (Off:3 Def:1),11,253,4,,1631044,,1611661330,41,36,2
+00:07.0,[ATL] Wheeler Pullup Jump shot: Missed,-93,17,2,,204365,,1611661330,41,36,2
+00:03.6,[MIN] Achonwa Rebound (Off:0 Def:2),-93,17,4,,203831,,1611661324,41,36,2
+00:00.0,[MIN] McBride 3pt Shot: Missed,-171,258,2,,203825,,1611661324,41,36,2
+00:00.0,[MIN] Team Rebound,-171,258,4,,0,,1611661324,41,36,2
+00:00.0,End Period,0,-80,13,,0,,0,41,36,2
+10:00,Start Period,0,-80,12,,0,,0,41,36,3
+09:39,[MIN] McBride Driving Floating Jump Shot: Missed,4,39,2,,203825,,1611661324,41,36,3
+09:37,[MIN] McBride Rebound (Off:2 Def:1),4,39,4,,203825,,1611661324,41,36,3
+09:36,[MIN 43-36] McBride Turnaround Jump Shot: Made (12 PTS),-20,31,1,,203825,,1611661324,43,36,3
+09:27,[ATL 39-43] Howard 3pt Shot: Made (8 PTS) Assist: Wheeler (3 AST),166,203,1,,1631009,204365,1611661330,43,39,3
+09:07,[MIN 46-39] Jefferson 3pt Shot: Made (10 PTS) Assist: McBride (5 AST),58,238,1,,1627669,203825,1611661324,46,39,3
+08:49,[ATL] Caldwell Driving Layup Shot: Missed,-10,14,2,1629483,1630471,,1611661330,46,39,3
+08:48,[ATL] Caldwell Rebound (Off:1 Def:1),-10,14,4,,1630471,,1611661330,46,39,3
+08:48,[ATL] Caldwell Jump Shot: Missed,30,6,2,201480,1630471,,1611661330,46,39,3
+08:46,[MIN] Fowles Rebound (Off:0 Def:3),30,6,4,,201480,,1611661324,46,39,3
+08:39,[MIN] Collier Turnover : Out of Bounds - Bad Pass Turnover (1 TO),144,232,5,,1629483,,1611661324,46,39,3
+08:21,[ATL 42-46] Caldwell 3pt Shot: Made (7 PTS) Assist: Parker (4 AST),-25,238,1,,1630471,204323,1611661330,46,42,3
+08:06,[MIN] Collier 3pt Shot: Missed,-220,101,2,,1629483,,1611661324,46,42,3
+08:03,[MIN] Shepard Rebound (Off:2 Def:3),-220,101,4,,1629491,,1611661324,46,42,3
+08:01,[MIN 49-42] Jefferson 3pt Shot: Made (13 PTS) Assist: Shepard (3 AST),99,216,1,,1627669,1629491,1611661324,49,42,3
+07:45,[ATL] Wheeler Driving Layup Shot: Missed,-16,-1,2,,204365,,1611661330,49,42,3
+07:42,[MIN] McBride Rebound (Off:2 Def:2),-16,-1,4,,203825,,1611661324,49,42,3
+07:28,[MIN] Shepard Turnover : Lost Ball (2 TO) Steal:Howard (2 ST),-59,204,5,1631009,1629491,,1611661324,49,42,3
+07:10,[ATL 45-49] Howard 3pt Shot: Made (11 PTS) Assist: Hillmon (1 AST),182,159,1,,1631009,1631044,1611661330,49,45,3
+07:08,[ATL] Howard Technical (1 FTA),0,-80,6,,1631009,,1611661330,49,45,3
+07:08,[MIN 50-45] McBride Free Throw Technical (13 PTS),0,-80,3,,203825,,1611661324,50,45,3
+07:08,[ATL] Wheeler Substitution replaced by McDonald,0,-80,8,,204365,1630462,1611661330,50,45,3
+06:56,[MIN] Shepard Turnover : Bad Pass (3 TO) Steal:Hillmon (1 ST),16,163,5,1631044,1629491,,1611661324,50,45,3
+06:49,[ATL] McDonald Turnover : Bad Pass (1 TO) Steal:Jefferson (1 ST),35,26,5,1627669,1630462,,1611661330,50,45,3
+06:43,[ATL] Caldwell Foul: Shooting (3 PF) (2 FTA),-10,19,6,201480,1630471,,1611661330,50,45,3
+06:43,[MIN 51-45] Fowles Free Throw 1 of 2 (3 PTS),0,-80,3,,201480,,1611661324,51,45,3
+06:43,[MIN 52-45] Fowles Free Throw 2 of 2 (4 PTS),0,-80,3,,201480,,1611661324,52,45,3
+06:21,[MIN] Collier Substitution replaced by Banham,0,-80,8,,1629483,1627671,1611661324,52,45,3
+06:21,Jump Ball McDonald vs Shepard (Hillmon gains possession),0,-80,10,1629491,1630462,1631044,1611661330,52,45,3
+06:19,[ATL] Howard 3pt Shot: Missed,96,248,2,,1631009,,1611661330,52,45,3
+06:16,[ATL] Team Rebound,96,248,4,,0,,1611661330,52,45,3
+06:16,[ATL] Team Turnover : Shot Clock Turnover,220,-43,5,,0,,1611661330,52,45,3
+06:07,[MIN 55-45] Jefferson 3pt Shot: Made (16 PTS) Assist: Shepard (4 AST),63,238,1,,1627669,1629491,1611661324,55,45,3
+05:52,[ATL] McDonald 3pt Shot: Missed,131,213,2,,1630462,,1611661330,55,45,3
+05:52,[MIN] Team Rebound,131,213,4,,0,,1611661324,55,45,3
+05:52,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,45,3
+05:33,[MIN] Fowles Jump Shot: Missed,91,167,2,,201480,,1611661324,55,45,3
+05:30,[ATL] Hillmon Rebound (Off:3 Def:2),91,167,4,,1631044,,1611661330,55,45,3
+05:16,[ATL 47-55] Hillmon Jump Shot: Made (8 PTS) Assist: Parker (5 AST),-138,122,1,,1631044,204323,1611661330,55,47,3
+04:59,[MIN] McBride 3pt Shot: Missed,-148,221,2,,203825,,1611661324,55,47,3
+04:56,[ATL] McDonald Rebound (Off:0 Def:2),-148,221,4,,1630462,,1611661330,55,47,3
+04:51,[ATL] Howard 3pt Shot: Missed,-2,232,2,,1631009,,1611661330,55,47,3
+04:49,[ATL] Hillmon Rebound (Off:4 Def:2),-2,232,4,,1631044,,1611661330,55,47,3
+04:48,[ATL] Hillmon Putback Layup Shot: Missed,-29,-8,2,,1631044,,1611661330,55,47,3
+04:47,[MIN] Fowles Rebound (Off:0 Def:4),-29,-8,4,,201480,,1611661324,55,47,3
+04:29,[MIN] Shepard Jump Shot: Missed,166,71,2,,1629491,,1611661324,55,47,3
+04:29,[ATL] Team Rebound,166,71,4,,0,,1611661330,55,47,3
+04:29,[MIN] Shepard Foul: Loose Ball (1 PF),-2,784,6,204323,1629491,,1611661324,55,47,3
+04:29,Timeout Officials,0,-80,9,,0,,0,55,47,3
+04:29,Instant Replay - Support Ruling,0,-80,18,,0,,0,55,47,3
+04:29,[MIN] Jefferson Substitution replaced by Allen,0,-80,8,,1627669,1628263,1611661324,55,47,3
+04:29,[MIN] Shepard Substitution replaced by Achonwa,0,-80,8,,1629491,203831,1611661324,55,47,3
+04:29,[ATL] Parker Substitution replaced by Vaughn,0,-80,8,,204323,201913,1611661330,55,47,3
+04:12,[ATL] Caldwell Pullup Jump shot: Missed,-58,151,2,,1630471,,1611661330,55,47,3
+04:08,[MIN] Fowles Rebound (Off:0 Def:5),-58,151,4,,201480,,1611661324,55,47,3
+03:51,[MIN] Allen Pullup Jump shot: Missed,-62,178,2,1630471,1628263,,1611661324,55,47,3
+03:49,[ATL] Howard Rebound (Off:0 Def:1),-62,178,4,,1631009,,1611661330,55,47,3
+03:36,[ATL 49-55] Howard Cutting Layup Shot: Made (13 PTS) Assist: Hillmon (2 AST),-12,-2,1,,1631009,1631044,1611661330,55,49,3
+03:20,[ATL] Howard Foul: Shooting (3 PF) (2 FTA),129,76,6,203825,1631009,,1611661330,55,49,3
+03:20,[MIN 56-49] McBride Free Throw 1 of 2 (14 PTS),0,-80,3,,203825,,1611661324,56,49,3
+03:20,[ATL] Howard Substitution replaced by Wheeler,0,-80,8,,1631009,204365,1611661330,56,49,3
+03:20,[MIN 57-49] McBride Free Throw 2 of 2 (15 PTS),0,-80,3,,203825,,1611661324,57,49,3
+02:58,[ATL 51-57] Hillmon Jump Shot: Made (10 PTS) Assist: McDonald (1 AST),-156,76,1,,1631044,1630462,1611661330,57,51,3
+02:40,[MIN] Achonwa Turnover : Lost Ball (1 TO) Steal:Hillmon (2 ST),44,278,5,1631044,203831,,1611661324,57,51,3
+02:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,51,3
+02:37,[MIN] McBride Substitution replaced by Collier,0,-80,8,,203825,1629483,1611661324,57,51,3
+02:37,[MIN] Fowles Substitution replaced by Shepard,0,-80,8,,201480,1629491,1611661324,57,51,3
+02:37,[ATL] Hillmon Substitution replaced by Parker,0,-80,8,,1631044,204323,1611661330,57,51,3
+02:20,[ATL 54-57] Wheeler 3pt Shot: Made (3 PTS) Assist: McDonald (2 AST),117,220,1,,204365,1630462,1611661330,57,54,3
+01:59,[MIN 60-54] Allen 3pt Shot: Made (5 PTS) Assist: Collier (1 AST),227,51,1,,1628263,1629483,1611661324,60,54,3
+01:48,[ATL] Caldwell Turnover : Bad Pass (1 TO) Steal:Collier (1 ST),-127,208,5,1629483,1630471,,1611661330,60,54,3
+01:43,[MIN] Banham 3pt Shot: Missed,-162,195,2,,1627671,,1611661324,60,54,3
+01:37,[ATL] Vaughn Rebound (Off:1 Def:3),-162,195,4,,201913,,1611661330,60,54,3
+01:36,[MIN] Allen Foul: Shooting (3 PF) (2 FTA),9,32,6,1630462,1628263,,1611661324,60,54,3
+01:36,[ATL 55-60] McDonald Free Throw 1 of 2 (10 PTS),0,-80,3,,1630462,,1611661330,60,55,3
+01:36,[ATL] Caldwell Substitution replaced by Howard,0,-80,8,,1630471,1631009,1611661330,60,55,3
+01:36,[ATL 56-60] McDonald Free Throw 2 of 2 (11 PTS),0,-80,3,,1630462,,1611661330,60,56,3
+01:30,[MIN] Banham 3pt Shot: Missed,-144,214,2,,1627671,,1611661324,60,56,3
+01:27,[ATL] Vaughn Rebound (Off:1 Def:4),-144,214,4,,201913,,1611661330,60,56,3
+01:11,[ATL] Wheeler 3pt Shot: Missed,135,197,2,,204365,,1611661330,60,56,3
+01:07,[MIN] Shepard Rebound (Off:2 Def:4),135,197,4,,1629491,,1611661324,60,56,3
+00:56.8,[MIN] Shepard Jump Shot: Missed,71,161,2,,1629491,,1611661324,60,56,3
+00:53.8,[ATL] Parker Rebound (Off:2 Def:4),71,161,4,,204323,,1611661330,60,56,3
+00:49.4,[MIN] Allen Foul: Personal (4 PF) (2 FTA),-52,96,6,1630462,1628263,,1611661324,60,56,3
+00:49.4,[ATL] McDonald Free Throw 1 of 2 Missed,0,-80,3,,1630462,,1611661330,60,56,3
+00:49.4,[ATL] Team Rebound,0,-80,4,,0,,1611661330,60,56,3
+00:49.4,[ATL 57-60] McDonald Free Throw 2 of 2 (12 PTS),0,-80,3,,1630462,,1611661330,60,57,3
+00:35.6,[MIN] Banham Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-227,49,5,,1627671,,1611661324,60,57,3
+00:29.4,[ATL] Parker Turnaround Hook Shot: Missed,-11,40,2,203831,204323,,1611661330,60,57,3
+00:25.5,[MIN] Team Rebound,-11,40,4,,0,,1611661324,60,57,3
+00:25.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,57,3
+00:06.8,[ATL] McDonald Foul: Personal Take (2 PF),-50,270,6,1628263,1630462,,1611661330,60,57,3
+00:03.0,[MIN] Collier 3pt Shot: Missed,-57,243,2,,1629483,,1611661324,60,57,3
+00:03.0,[ATL] Vaughn Rebound (Off:1 Def:5),-57,243,4,,201913,,1611661330,60,57,3
+00:00.0,End Period,0,-80,13,,0,,0,60,57,3
+10:00,Start Period,0,-80,12,,0,,0,60,57,4
+09:42,[ATL 59-60] Howard Pullup Jump shot: Made (15 PTS),139,151,1,,1631009,,1611661330,60,59,4
+09:21,[MIN] McBride Turnover : Bad Pass (1 TO) Steal:Vaughn (1 ST),-116,147,5,201913,203825,,1611661324,60,59,4
+09:14,[ATL] Howard 3pt Shot: Missed,-182,171,2,,1631009,,1611661330,60,59,4
+09:14,[MIN] Fowles Rebound (Off:0 Def:6),-182,171,4,,201480,,1611661324,60,59,4
+09:00,[MIN 62-59] Jefferson Pullup Jump shot: Made (18 PTS),18,124,1,,1627669,,1611661324,62,59,4
+08:37,[ATL] McDonald 3pt Shot: Missed,-24,252,2,,1630462,,1611661330,62,59,4
+08:33,[MIN] Jefferson Rebound (Off:0 Def:4),-24,252,4,,1627669,,1611661324,62,59,4
+08:28,[MIN 64-59] Banham Running Layup Shot: Made (10 PTS) Assist: Jefferson (4 AST),10,10,1,,1627671,1627669,1611661324,64,59,4
+08:11,[ATL] Vaughn Jump Shot: Missed,166,46,2,,201913,,1611661330,64,59,4
+08:08,[ATL] Wheeler Rebound (Off:1 Def:2),166,46,4,,204365,,1611661330,64,59,4
+08:06,[ATL] Wheeler Floating Jump shot: Missed,-2,87,2,,204365,,1611661330,64,59,4
+08:03,[MIN] Fowles Rebound (Off:0 Def:7),-2,43,4,,201480,,1611661324,64,59,4
+07:51,[MIN 66-59] Collier Driving Finger Roll Layup Shot: Made (5 PTS) Assist: McBride (6 AST),-13,11,1,,1629483,203825,1611661324,66,59,4
+07:51,[ATL] Parker Foul: Shooting (2 PF) (1 FTA),-13,11,6,1629483,204323,,1611661330,66,59,4
+07:51,[ATL] McDonald Substitution replaced by Caldwell,0,-80,8,,1630462,1630471,1611661330,66,59,4
+07:51,[ATL] Parker Violation:Lane,0,-80,7,,204323,,1611661330,66,59,4
+07:51,[MIN 67-59] Collier Free Throw 1 of 1 (6 PTS),0,-80,3,,1629483,,1611661324,67,59,4
+07:39,[ATL] Parker 3pt Shot: Missed,95,226,2,,204323,,1611661330,67,59,4
+07:35,[MIN] Collier Rebound (Off:0 Def:2),95,226,4,,1629483,,1611661324,67,59,4
+07:35,[ATL] Howard Foul: Personal (4 PF),-55,843,6,1629483,1631009,,1611661330,67,59,4
+07:35,[MIN] Collier Substitution replaced by Achonwa,0,-80,8,,1629483,203831,1611661324,67,59,4
+07:19,[MIN 70-59] McBride 3pt Shot: Made (18 PTS) Assist: Jefferson (5 AST),-104,231,1,,203825,1627669,1611661324,70,59,4
+07:17,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,70,59,4
+07:17,Instant Replay - Support Ruling,0,-80,18,,0,,0,70,59,4
+07:17,[ATL] Wheeler Substitution replaced by McDonald,0,-80,8,,204365,1630462,1611661330,70,59,4
+07:00,[ATL] Howard Jump Shot: Missed,46,186,2,,1631009,,1611661330,70,59,4
+06:57,[MIN] Team Rebound,46,186,4,,0,,1611661324,70,59,4
+06:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,59,4
+06:39,[MIN] Achonwa Jump Shot: Missed,12,134,2,,203831,,1611661324,70,59,4
+06:36,[ATL] Caldwell Rebound (Off:1 Def:2),12,134,4,,1630471,,1611661330,70,59,4
+06:25,[ATL 62-70] Caldwell 3pt Shot: Made (10 PTS) Assist: Howard (3 AST),-229,33,1,,1630471,1631009,1611661330,70,62,4
+05:59,[MIN 72-62] Achonwa Cutting Layup Shot: Made (4 PTS) Assist: Jefferson (6 AST),26,22,1,,203831,1627669,1611661324,72,62,4
+05:59,[ATL] Vaughn Foul: Shooting (2 PF) (1 FTA),4,11,6,203831,201913,,1611661330,72,62,4
+05:59,[ATL] Vaughn Substitution replaced by Hillmon,0,-80,8,,201913,1631044,1611661330,72,62,4
+05:59,[MIN 73-62] Achonwa Free Throw 1 of 1 (5 PTS),0,-80,3,,203831,,1611661324,73,62,4
+05:35,[ATL] Parker Turnaround Jump Shot: Missed,-2,60,2,201480,204323,,1611661330,73,62,4
+05:31,[MIN] Achonwa Rebound (Off:0 Def:3),-2,60,4,,203831,,1611661324,73,62,4
+05:28,[MIN 75-62] Banham Running Pull-Up Jump Shot: Made (12 PTS) Assist: Achonwa (1 AST),-4,133,1,,1627671,203831,1611661324,75,62,4
+05:16,[MIN] McBride Foul: Personal (1 PF),-121,62,6,1631009,203825,,1611661324,75,62,4
+05:16,[MIN] Achonwa Substitution replaced by Collier,0,-80,8,,203831,1629483,1611661324,75,62,4
+05:09,[MIN] Collier Foul: Shooting (3 PF) (2 FTA),11,1,6,1630462,1629483,,1611661324,75,62,4
+05:09,[ATL 63-75] McDonald Free Throw 1 of 2 (13 PTS),0,-80,3,,1630462,,1611661330,75,63,4
+05:09,[ATL 64-75] McDonald Free Throw 2 of 2 (14 PTS),0,-80,3,,1630462,,1611661330,75,64,4
+04:52,[MIN] McBride 3pt Shot: Missed,128,217,2,,203825,,1611661324,75,64,4
+04:49,[MIN] Fowles Rebound (Off:1 Def:7),128,217,4,,201480,,1611661324,75,64,4
+04:47,[MIN 77-64] Fowles Putback Layup Shot: Made (6 PTS),23,12,1,,201480,,1611661324,77,64,4
+04:40,[ATL] Howard Turnover : Out of Bounds - Bad Pass Turnover (1 TO),73,-18,5,,1631009,,1611661330,77,64,4
+04:23,[MIN] Jefferson Pullup Jump shot: Missed,-145,38,2,,1627669,,1611661324,77,64,4
+04:19,[ATL] Howard Rebound (Off:0 Def:2),-145,38,4,,1631009,,1611661330,77,64,4
+04:14,[ATL] Caldwell Turnover : Out of Bounds - Bad Pass Turnover (2 TO),15,-1,5,,1630471,,1611661330,77,64,4
+04:14,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,77,64,4
+04:14,[MIN] Banham Substitution replaced by Carleton,0,-80,8,,1627671,1629524,1611661324,77,64,4
+04:02,[MIN] Carleton 3pt Shot: Missed,85,220,2,,1629524,,1611661324,77,64,4
+04:00,[ATL] Hillmon Rebound (Off:4 Def:3),85,220,4,,1631044,,1611661330,77,64,4
+03:42,[ATL 66-77] McDonald Driving Layup Shot: Made (16 PTS),-5,-15,1,,1630462,,1611661330,77,66,4
+03:23,[MIN 79-66] McBride Jump Shot: Made (20 PTS) Assist: Carleton (3 AST),46,62,1,,203825,1629524,1611661324,79,66,4
+03:05,[ATL] McDonald Driving Layup Shot: Missed,-5,63,2,201480,1630462,,1611661330,79,66,4
+03:05,[MIN] Team Rebound,-5,63,4,,0,,1611661324,79,66,4
+03:04,[ATL] McDonald Violation:Jump Ball,0,-80,7,,1630462,,1611661330,79,66,4
+02:46,[MIN 81-66] Fowles Jump Shot: Made (8 PTS) Assist: Carleton (4 AST),23,158,1,,201480,1629524,1611661324,81,66,4
+02:34,[MIN] Carleton Foul: Shooting (1 PF) (2 FTA),83,0,6,1631009,1629524,,1611661324,81,66,4
+02:34,[ATL] Howard Free Throw 1 of 2 Missed,0,-80,3,,1631009,,1611661330,81,66,4
+02:34,[ATL] Team Rebound,0,-80,4,,0,,1611661330,81,66,4
+02:34,[ATL] Parker Substitution replaced by Mompremier,0,-80,8,,204323,1629492,1611661330,81,66,4
+02:34,[ATL 67-81] Howard Free Throw 2 of 2 (16 PTS),0,-80,3,,1631009,,1611661330,81,67,4
+02:26,[ATL] McDonald Foul: Personal (3 PF),101,177,6,203825,1630462,,1611661330,81,67,4
+02:26,[ATL] Hillmon Substitution replaced by Vaughn,0,-80,8,,1631044,201913,1611661330,81,67,4
+02:26,[ATL] Howard Substitution replaced by Wheeler,0,-80,8,,1631009,204365,1611661330,81,67,4
+02:10,[MIN] Collier Pullup Jump shot: Missed,-46,103,2,,1629483,,1611661324,81,67,4
+02:06,[ATL] Caldwell Rebound (Off:1 Def:3),-46,103,4,,1630471,,1611661330,81,67,4
+01:53,[ATL] Mompremier Jump Shot: Missed,166,44,2,,1629492,,1611661330,81,67,4
+01:50,[MIN] Carleton Rebound (Off:0 Def:1),166,44,4,,1629524,,1611661324,81,67,4
+01:35,[MIN] Collier 3pt Shot: Missed,-42,241,2,,1629483,,1611661324,81,67,4
+01:33,[ATL] Mompremier Rebound (Off:0 Def:1),-42,241,4,,1629492,,1611661330,81,67,4
+01:10,[ATL 69-81] Wheeler Step Back Jump shot: Made (5 PTS) Assist: Vaughn (1 AST),-127,187,1,,204365,201913,1611661330,81,69,4
+01:08,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,81,69,4
+01:08,[MIN] Collier Substitution replaced by Achonwa,0,-80,8,,1629483,203831,1611661324,81,69,4
+01:08,[MIN] Fowles Substitution replaced by Shepard,0,-80,8,,201480,1629491,1611661324,81,69,4
+01:01,[MIN] Achonwa Turnover : Out of Bounds - Bad Pass Turnover (2 TO),145,140,5,,203831,,1611661324,81,69,4
+00:45.3,[ATL 71-81] Wheeler Driving Floating Jump Shot: Made (7 PTS) Assist: Vaughn (2 AST),-2,47,1,,204365,201913,1611661330,81,71,4
+00:23.0,[MIN] Jefferson 3pt Shot: Missed,-79,235,2,,1627669,,1611661324,81,71,4
+00:19.4,[ATL] Wheeler Rebound (Off:1 Def:3),-79,235,4,,204365,,1611661330,81,71,4
+00:14.1,[ATL] McDonald 3pt Shot: Missed,134,224,2,,1630462,,1611661330,81,71,4
+00:08.8,[MIN] Achonwa Rebound (Off:0 Def:4),134,224,4,,203831,,1611661324,81,71,4
+00:00.0,End Period,0,-80,13,,0,,0,81,71,4
+00:00.0,Game End,0,-80,0,,0,,0,81,71,4

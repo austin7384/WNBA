@@ -1,0 +1,378 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Howard vs Williams (Whitcomb gains possession),0,-80,10,204322,203827,1628244,1611661328,0,0,1
+09:45,[SEA 2-0] Howard Floating Jump shot: Made (2 PTS) Assist: Whitcomb (1 AST),-46,68,1,,203827,1628244,1611661328,2,0,1
+09:27,[ATL] Breland Jump Shot: Missed,59,99,2,,202638,,1611661330,2,0,1
+09:23,[SEA] Russell Rebound (Off:0 Def:1),59,99,4,,1628920,,1611661328,2,0,1
+09:11,[SEA 4-0] Howard Floating Jump shot: Made (4 PTS) Assist: Whitcomb (2 AST),62,126,1,,203827,1628244,1611661328,4,0,1
+08:52,[ATL] Sykes 3pt Shot: Missed,117,227,2,,1628279,,1611661330,4,0,1
+08:48,[SEA] Russell Rebound (Off:0 Def:2),117,227,4,,1628920,,1611661328,4,0,1
+08:43,[SEA 6-0] Canada Pullup Jump shot: Made (2 PTS),54,119,1,,1628886,,1611661328,6,0,1
+08:41,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,6,0,1
+08:19,[ATL] Sykes 3pt Shot: Missed,-231,23,2,,1628279,,1611661330,6,0,1
+08:16,[SEA] Team Rebound,-231,23,4,,0,,1611661328,6,0,1
+08:16,[ATL] Breland Foul: Loose Ball (1 PF),197,800,6,1628244,202638,,1611661330,6,0,1
+08:00,[SEA] Canada 3pt Shot: Missed,-204,126,2,,1628886,,1611661328,6,0,1
+07:56,[SEA] Whitcomb Rebound (Off:1 Def:0),-204,126,4,,1628244,,1611661328,6,0,1
+07:55,[SEA] Howard Layup Shot: Missed,-44,15,2,,203827,,1611661328,6,0,1
+07:51,[SEA] Howard Rebound (Off:1 Def:0),-44,15,4,,203827,,1611661328,6,0,1
+07:49,[SEA 8-0] Howard Layup Shot: Made (6 PTS),-14,13,1,,203827,,1611661328,8,0,1
+07:41,[ATL] Montgomery Jump Shot: Missed,70,158,2,,201904,,1611661330,8,0,1
+07:38,[SEA] Team Rebound,70,158,4,,0,,1611661328,8,0,1
+07:27,[SEA] Canada Driving Layup Shot: Missed,-8,52,2,,1628886,,1611661328,8,0,1
+07:23,[SEA] Team Rebound,-8,52,4,,0,,1611661328,8,0,1
+07:10,[SEA 11-0] Howard 3pt Shot: Made (9 PTS) Assist: Whitcomb (3 AST),-54,236,1,,203827,1628244,1611661328,11,0,1
+06:51,[ATL] Montgomery 3pt Shot: Missed,206,113,2,,201904,,1611661330,11,0,1
+06:47,[SEA] Whitcomb Rebound (Off:1 Def:1),206,113,4,,1628244,,1611661328,11,0,1
+06:44,[SEA] Howard Driving Layup Shot: Missed,24,17,2,,203827,,1611661328,11,0,1
+06:41,[ATL] Sykes Rebound (Off:0 Def:1),24,17,4,,1628279,,1611661330,11,0,1
+06:31,[ATL] Hayes 3pt Shot: Missed,-65,265,2,,203026,,1611661330,11,0,1
+06:27,[ATL] Sykes Rebound (Off:1 Def:1),-65,265,4,,1628279,,1611661330,11,0,1
+06:17,[ATL 2-11] Williams Layup Shot: Made (2 PTS) Assist: Sykes (1 AST),10,13,1,,204322,1628279,1611661330,11,2,1
+06:10,[ATL] Williams Foul: Personal (1 PF),-208,137,6,1628886,204322,,1611661330,11,2,1
+06:05,[SEA] Howard Turnover : Out of Bounds - Bad Pass Turnover (1 TO),106,113,5,,203827,,1611661328,11,2,1
+05:52,[ATL 4-11] Breland Jump Shot: Made (2 PTS) Assist: Sykes (2 AST),-24,216,1,,202638,1628279,1611661330,11,4,1
+05:36,[SEA] Whitcomb 3pt Shot: Missed,0,237,2,,1628244,,1611661328,11,4,1
+05:36,[ATL] Breland Rebound (Off:0 Def:1),0,237,4,,202638,,1611661330,11,4,1
+05:23,[ATL] Williams Layup Shot: Missed,31,21,2,203827,204322,,1611661330,11,4,1
+05:23,[ATL] Williams Rebound (Off:1 Def:0),31,21,4,,204322,,1611661330,11,4,1
+05:22,[ATL] Williams Layup Shot: Missed,15,27,2,203827,204322,,1611661330,11,4,1
+05:21,[ATL] Breland Rebound (Off:1 Def:1),15,27,4,,202638,,1611661330,11,4,1
+05:21,[ATL] Breland Layup Shot: Missed,15,2,2,,202638,,1611661330,11,4,1
+05:20,[ATL] Team Rebound,15,2,4,,0,,1611661330,11,4,1
+05:20,[ATL] Team Turnover : 5 Second Violation,156,-28,5,,0,,1611661330,11,4,1
+04:59,[SEA] Canada Turnover : Bad Pass (1 TO) Steal:Hayes (1 ST),75,81,5,203026,1628886,,1611661328,11,4,1
+04:46,[ATL] Williams Turnover : 3 Second Violation (1 TO),-6,76,5,,204322,,1611661330,11,4,1
+04:36,[SEA] Howard Foul: Offensive Charge (1 PF),-154,27,6,203026,203827,,1611661328,11,4,1
+04:36,[SEA] Howard Turnover : Offensive Foul Turnover (2 TO),-154,27,5,,203827,,1611661328,11,4,1
+04:17,[ATL] Breland Turnover : Lost Ball (1 TO) Steal:Howard (1 ST),-28,124,5,203827,202638,,1611661330,11,4,1
+04:07,[SEA] Whitcomb Jump Shot: Missed,76,40,2,,1628244,,1611661328,11,4,1
+04:03,[ATL] Montgomery Rebound (Off:0 Def:1),76,40,4,,201904,,1611661330,11,4,1
+03:52,[SEA] Clark Foul: Personal (1 PF),-30,15,6,201904,202252,,1611661328,11,4,1
+03:52,[ATL] Montgomery Substitution replaced by Bentley,0,-80,8,,201904,203410,1611661330,11,4,1
+03:41,Jump Ball Sykes vs Whitcomb (Bentley gains possession),0,-80,10,1628244,1628279,203410,1611661330,11,4,1
+03:38,[ATL] Bentley Fadeaway Jump Shot: Missed,155,38,2,,203410,,1611661330,11,4,1
+03:35,[ATL] Breland Rebound (Off:2 Def:1),155,38,4,,202638,,1611661330,11,4,1
+03:27,[ATL] Williams Turnaround Hook Shot: Missed,13,13,2,,204322,,1611661330,11,4,1
+03:25,[SEA] Russell Rebound (Off:0 Def:3),13,13,4,,1628920,,1611661328,11,4,1
+03:20,[SEA] Whitcomb 3pt Shot: Missed,-144,193,2,,1628244,,1611661328,11,4,1
+03:16,[ATL] Sykes Rebound (Off:1 Def:2),-144,193,4,,1628279,,1611661330,11,4,1
+03:11,[ATL 7-11] Bentley 3pt Shot: Made (3 PTS) Assist: Sykes (3 AST),-218,88,1,,203410,1628279,1611661330,11,7,1
+02:55,[SEA] Canada Turnover : Bad Pass (2 TO) Steal:Breland (1 ST),-126,247,5,202638,1628886,,1611661328,11,7,1
+02:50,[ATL 9-11] Hayes Running Finger Roll Layup Shot: Made (2 PTS) Assist: Bentley (1 AST),-24,35,1,,203026,203410,1611661330,11,9,1
+02:43,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,11,9,1
+02:43,[SEA] Russell Substitution replaced by Langhorne,0,-80,8,,1628920,201518,1611661328,11,9,1
+02:43,[SEA] Whitcomb Substitution replaced by Zellous,0,-80,8,,1628244,201919,1611661328,11,9,1
+02:43,[ATL] Breland Substitution replaced by Billings,0,-80,8,,202638,1628881,1611661330,11,9,1
+02:27,[SEA] Clark Layup Shot: Missed,2,65,2,,202252,,1611661328,11,9,1
+02:25,[SEA] Team Rebound,2,65,4,,0,,1611661328,11,9,1
+02:25,[SEA] Team Turnover : Shot Clock Turnover,126,-22,5,,0,,1611661328,11,9,1
+02:07,[ATL 11-11] Billings Jump Shot: Made (2 PTS) Assist: Sykes (4 AST),-7,157,1,,1628881,1628279,1611661330,11,11,1
+01:57,[SEA 13-11] Zellous Pullup Jump shot: Made (2 PTS),68,161,1,,201919,,1611661328,13,11,1
+01:36,[ATL] Sykes Jump Shot: Missed,-52,37,2,203827,1628279,,1611661330,13,11,1
+01:33,[SEA] Howard Rebound (Off:1 Def:1),-52,37,4,,203827,,1611661328,13,11,1
+01:29,[SEA] Zellous Turnover : Out of Bounds - Bad Pass Turnover (1 TO),195,241,5,,201919,,1611661328,13,11,1
+01:29,[SEA] Canada Substitution replaced by Dietrick,0,-80,8,,1628886,204355,1611661328,13,11,1
+01:20,[ATL 13-13] Hayes Pullup Jump shot: Made (4 PTS),104,115,1,,203026,,1611661330,13,13,1
+00:53.9,[SEA] Clark 3pt Shot: Missed,153,197,2,,202252,,1611661328,13,13,1
+00:52.0,[SEA] Team Rebound,153,197,4,,0,,1611661328,13,13,1
+00:52.0,[SEA] Team Turnover : Shot Clock Turnover,42,-32,5,,0,,1611661328,13,13,1
+00:51.0,[ATL] Sykes Substitution replaced by Cazorla,0,-80,8,,1628279,1629569,1611661330,13,13,1
+00:38.9,[ATL] Bentley 3pt Shot: Missed,188,161,2,,203410,,1611661330,13,13,1
+00:35.3,[SEA] Howard Rebound (Off:1 Def:2),188,161,4,,203827,,1611661328,13,13,1
+00:29.3,[SEA] Zellous Turnover : Lost Ball (2 TO) Steal:Bentley (1 ST),-178,166,5,203410,201919,,1611661328,13,13,1
+00:13.3,[ATL] Hayes Layup Shot: Missed,-76,75,2,,203026,,1611661330,13,13,1
+00:11.6,[ATL] Williams Rebound (Off:2 Def:0),-76,75,4,,204322,,1611661330,13,13,1
+00:10.8,[ATL 15-13] Williams Jump Shot: Made (4 PTS),21,8,1,,204322,,1611661330,13,15,1
+00:00.5,[SEA] Clark 3pt Shot: Missed,230,27,2,,202252,,1611661328,13,15,1
+00:00.1,[SEA] Team Rebound,230,27,4,,0,,1611661328,13,15,1
+00:00.0,End Period,0,-80,13,,0,,0,13,15,1
+10:00,Start Period,0,-80,12,,0,,0,13,15,2
+09:41,[ATL] Billings Turnover : Bad Pass (1 TO) Steal:Whitcomb (1 ST),-25,60,5,1628244,1628881,,1611661330,13,15,2
+09:30,[SEA] Langhorne Turnaround Hook Shot: Missed,30,51,2,,201518,,1611661328,13,15,2
+09:27,[ATL] Hayes Rebound (Off:0 Def:1),30,51,4,,203026,,1611661330,13,15,2
+09:20,[ATL 17-13] Billings Jump Shot: Made (4 PTS) Assist: Hayes (1 AST),-100,-5,1,,1628881,203026,1611661330,13,17,2
+08:53,[SEA] Zellous 3pt Shot: Missed,219,76,2,,201919,,1611661328,13,17,2
+08:49,[SEA] Langhorne Rebound (Off:1 Def:0),219,76,4,,201518,,1611661328,13,17,2
+08:49,[SEA] Langhorne Turnover : Traveling (1 TO),-63,199,5,,201518,,1611661328,13,17,2
+08:36,[ATL] Hayes 3pt Shot: Missed,74,244,2,,203026,,1611661330,13,17,2
+08:33,[SEA] Whitcomb Rebound (Off:1 Def:2),74,244,4,,1628244,,1611661328,13,17,2
+08:28,[SEA] Whitcomb Driving Layup Shot: Missed,40,17,2,204322,1628244,,1611661328,13,17,2
+08:24,[ATL] Billings Rebound (Off:0 Def:1),40,17,4,,1628881,,1611661330,13,17,2
+08:15,[ATL] Cazorla Driving Finger Roll Layup Shot: Missed,8,45,2,,1629569,,1611661330,13,17,2
+08:12,[SEA] Paris Rebound (Off:0 Def:1),8,45,4,,201907,,1611661328,13,17,2
+08:03,[ATL] Hayes Foul: Shooting (1 PF) (2 FTA),-47,26,6,201919,203026,,1611661330,13,17,2
+08:03,[SEA] Zellous Free Throw 1 of 2 Missed,0,-80,3,,201919,,1611661328,13,17,2
+08:03,[SEA] Team Rebound,0,-80,4,,0,,1611661328,13,17,2
+08:03,[SEA] Dietrick Substitution replaced by Canada,0,-80,8,,204355,1628886,1611661328,13,17,2
+08:03,[ATL] Williams Substitution replaced by Breland,0,-80,8,,204322,202638,1611661330,13,17,2
+08:03,[SEA] Zellous Free Throw 2 of 2 Missed,0,-80,3,,201919,,1611661328,13,17,2
+08:01,[SEA] Paris Rebound (Off:1 Def:1),0,-80,4,,201907,,1611661328,13,17,2
+08:00,[SEA 15-17] Paris Putback Layup Shot: Made (2 PTS),-27,10,1,,201907,,1611661328,15,17,2
+07:37,[ATL] Hayes Driving Layup Shot: Missed,-50,38,2,,203026,,1611661330,15,17,2
+07:34,[SEA] Langhorne Rebound (Off:1 Def:1),-50,38,4,,201518,,1611661328,15,17,2
+07:25,[SEA] Whitcomb 3pt Shot: Missed,-231,13,2,,1628244,,1611661328,15,17,2
+07:21,[ATL] Breland Rebound (Off:2 Def:2),-231,13,4,,202638,,1611661330,15,17,2
+07:11,[ATL 20-15] Cazorla 3pt Shot: Made (3 PTS) Assist: Bentley (2 AST),227,-1,1,,1629569,203410,1611661330,15,20,2
+06:49,[SEA] Canada 3pt Shot: Missed,137,196,2,,1628886,,1611661328,15,20,2
+06:46,[ATL] Hayes Rebound (Off:0 Def:2),137,196,4,,203026,,1611661330,15,20,2
+06:35,[ATL 22-15] Hayes Driving Floating Jump Shot: Made (6 PTS),-11,76,1,,203026,,1611661330,15,22,2
+06:29,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,15,22,2
+06:29,[SEA] Langhorne Substitution replaced by Howard,0,-80,8,,201518,203827,1611661328,15,22,2
+06:29,[ATL] Hayes Substitution replaced by Montgomery,0,-80,8,,203026,201904,1611661330,15,22,2
+06:12,[SEA] Howard Hook Shot: Missed,6,63,2,202638,203827,,1611661328,15,22,2
+06:10,[ATL] Billings Rebound (Off:0 Def:2),6,63,4,,1628881,,1611661330,15,22,2
+06:08,[ATL] Billings Turnover : Bad Pass (2 TO) Steal:Paris (1 ST),-26,760,5,201907,1628881,,1611661330,15,22,2
+06:03,[SEA] Canada Jump Shot: Missed,74,135,2,,1628886,,1611661328,15,22,2
+05:59,[SEA] Paris Rebound (Off:2 Def:1),74,135,4,,201907,,1611661328,15,22,2
+05:59,[ATL] Breland Foul: Shooting (2 PF) (2 FTA),-24,3,6,201907,202638,,1611661330,15,22,2
+05:59,[SEA] Paris Free Throw 1 of 2 Missed,0,-80,3,,201907,,1611661328,15,22,2
+05:59,[SEA] Team Rebound,0,-80,4,,0,,1611661328,15,22,2
+05:59,[SEA] Zellous Substitution replaced by Clark,0,-80,8,,201919,202252,1611661328,15,22,2
+05:59,[ATL] Breland Substitution replaced by Williams,0,-80,8,,202638,204322,1611661330,15,22,2
+05:59,[SEA] Paris Free Throw 2 of 2 Missed,0,-80,3,,201907,,1611661328,15,22,2
+05:58,[SEA] Team Rebound,0,-80,4,,0,,1611661328,15,22,2
+05:58,[SEA] Paris Substitution replaced by Russell,0,-80,8,,201907,1628920,1611661328,15,22,2
+05:58,[SEA] Clark Layup Shot: Missed,0,27,2,,202252,,1611661328,15,22,2
+05:55,[ATL] Cazorla Rebound (Off:0 Def:1),0,27,4,,1629569,,1611661330,15,22,2
+05:35,[ATL 24-15] Billings Turnaround Fadeaway Bank Jump Shot: Made (6 PTS),-63,78,1,,1628881,,1611661330,15,24,2
+05:14,[SEA] Russell Turnover : Lost Ball (1 TO) Steal:Billings (1 ST),0,199,5,1628881,1628920,,1611661328,15,24,2
+05:04,[ATL] Bentley Turnover : Bad Pass (1 TO) Steal:Whitcomb (2 ST),-195,162,5,1628244,203410,,1611661330,15,24,2
+04:59,[SEA] Whitcomb Driving Layup Shot: Missed,23,14,2,,1628244,,1611661328,15,24,2
+04:55,[ATL] Billings Rebound (Off:0 Def:3),23,14,4,,1628881,,1611661330,15,24,2
+04:51,[ATL 26-15] Billings Cutting Layup Shot: Made (8 PTS) Assist: Cazorla (1 AST),-47,51,1,,1628881,1629569,1611661330,15,26,2
+04:30,[SEA] Russell Jump Shot: Missed,-177,3,2,,1628920,,1611661328,15,26,2
+04:26,[ATL] Bentley Rebound (Off:0 Def:1),-177,3,4,,203410,,1611661330,15,26,2
+04:20,[ATL] Bentley Pullup Jump shot: Missed,-47,125,2,,203410,,1611661330,15,26,2
+04:17,[SEA] Clark Rebound (Off:0 Def:1),-47,125,4,,202252,,1611661328,15,26,2
+04:05,[ATL] Billings Substitution replaced by Gülich,0,-80,8,,1628881,1628895,1611661330,15,26,2
+04:05,[SEA] Howard Turnover : Traveling (3 TO),112,43,5,,203827,,1611661328,15,26,2
+03:55,[ATL] Bentley Foul: Offensive Charge (1 PF),-1,164,6,1628886,203410,,1611661330,15,26,2
+03:55,[ATL] Bentley Turnover : Offensive Foul Turnover (2 TO),-1,164,5,,203410,,1611661330,15,26,2
+03:30,[SEA] Canada Turnover : Lost Ball (3 TO) Steal:Cazorla (1 ST),-116,161,5,1629569,1628886,,1611661328,15,26,2
+03:26,[ATL] Cazorla Turnover : Lost Ball (1 TO) Steal:Canada (1 ST),144,735,5,1628886,1629569,,1611661330,15,26,2
+03:23,[SEA 17-26] Howard Hook Bank Shot: Made (11 PTS) Assist: Canada (1 AST),-16,8,1,,203827,1628886,1611661328,17,26,2
+03:18,[ATL] Bentley Turnover : Lost Ball (3 TO) Steal:Canada (2 ST),67,601,5,1628886,203410,,1611661330,17,26,2
+03:15,[SEA 19-26] Howard Layup Shot: Made (13 PTS),26,16,1,,203827,,1611661328,19,26,2
+02:53,[ATL] Bentley Turnover : Bad Pass (4 TO) Steal:Whitcomb (3 ST),170,216,5,1628244,203410,,1611661330,19,26,2
+02:49,[SEA 21-26] Whitcomb Driving Layup Shot: Made (2 PTS),-16,10,1,,1628244,,1611661328,21,26,2
+02:49,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,21,26,2
+02:49,[ATL] Cazorla Substitution replaced by Hayes,0,-80,8,,1629569,203026,1611661330,21,26,2
+02:49,[ATL] Bentley Substitution replaced by Sykes,0,-80,8,,203410,1628279,1611661330,21,26,2
+02:34,[ATL] Gülich Turnover : 3 Second Violation (1 TO),16,34,5,,1628895,,1611661330,21,26,2
+02:26,[ATL] Hayes Foul: Personal (2 PF),3,64,6,202252,203026,,1611661330,21,26,2
+02:13,[SEA] Whitcomb 3pt Shot: Missed,40,247,2,,1628244,,1611661328,21,26,2
+02:09,[ATL] Williams Rebound (Off:2 Def:1),40,247,4,,204322,,1611661330,21,26,2
+01:58,[ATL 29-21] Gülich 3pt Shot: Made (3 PTS) Assist: Montgomery (1 AST),-100,246,1,,1628895,201904,1611661330,21,29,2
+01:41,[SEA] Canada 3pt Shot: Missed,-219,109,2,,1628886,,1611661328,21,29,2
+01:37,[SEA] Clark Rebound (Off:1 Def:1),-209,101,4,,202252,,1611661328,21,29,2
+01:28,[SEA 24-29] Clark 3pt Shot: Made (3 PTS) Assist: Canada (2 AST),19,246,1,,202252,1628886,1611661328,24,29,2
+01:04,[ATL] Gülich Jump Shot: Missed,-25,211,2,,1628895,,1611661330,24,29,2
+01:00,[ATL] Williams Rebound (Off:3 Def:1),-25,211,4,,204322,,1611661330,24,29,2
+00:59.0,[ATL] Williams Jump Shot: Missed,55,15,2,,204322,,1611661330,24,29,2
+00:57.0,[SEA] Howard Rebound (Off:1 Def:3),55,15,4,,203827,,1611661328,24,29,2
+00:47.9,[SEA] Clark Turnover : Out of Bounds - Bad Pass Turnover (1 TO),71,260,5,,202252,,1611661328,24,29,2
+00:32.9,[ATL 32-24] Montgomery 3pt Shot: Made (3 PTS) Assist: Hayes (2 AST),-15,238,1,,201904,203026,1611661330,24,32,2
+00:10.4,[SEA] Clark 3pt Shot: Missed,-226,-8,2,,202252,,1611661328,24,32,2
+00:06.6,[ATL] Montgomery Rebound (Off:0 Def:2),-226,-8,4,,201904,,1611661330,24,32,2
+00:00.2,[ATL] Montgomery 3pt Shot: Missed,178,183,2,,201904,,1611661330,24,32,2
+00:00.1,[ATL] Team Rebound,178,183,4,,0,,1611661330,24,32,2
+00:00.0,End Period,0,-80,13,,0,,0,24,32,2
+10:00,Start Period,0,-80,12,,0,,0,24,32,3
+09:42,[SEA] Russell Foul: Shooting (1 PF) (2 FTA),-13,9,6,204322,1628920,,1611661328,24,32,3
+09:42,[ATL 33-24] Williams Free Throw 1 of 2 (5 PTS),0,-80,3,,204322,,1611661330,24,33,3
+09:42,[ATL 34-24] Williams Free Throw 2 of 2 (6 PTS),0,-80,3,,204322,,1611661330,24,34,3
+09:29,[SEA 27-34] Howard 3pt Shot: Made (16 PTS) Assist: Whitcomb (4 AST),226,60,1,,203827,1628244,1611661328,27,34,3
+09:05,[ATL 37-27] Hayes 3pt Shot: Made (9 PTS) Assist: Montgomery (2 AST),8,240,1,,203026,201904,1611661330,27,37,3
+08:46,[SEA] Russell Layup Shot: Missed,-19,6,2,,1628920,,1611661328,27,37,3
+08:43,[ATL] Breland Rebound (Off:2 Def:3),-19,6,4,,202638,,1611661330,27,37,3
+08:33,[ATL] Hayes 3pt Shot: Missed,-226,63,2,,203026,,1611661330,27,37,3
+08:31,[ATL] Sykes Rebound (Off:2 Def:2),-226,63,4,,1628279,,1611661330,27,37,3
+08:30,[ATL 39-27] Sykes Layup Shot: Made (2 PTS),-19,15,1,,1628279,,1611661330,27,39,3
+08:15,[SEA 30-39] Clark 3pt Shot: Made (6 PTS),178,172,1,,202252,,1611661328,30,39,3
+08:01,[ATL] Montgomery Turnover : Out of Bounds Lost Ball Turnover (1 TO),3,31,5,,201904,,1611661330,30,39,3
+07:45,[SEA] Clark Reverse Layup Shot: Missed,20,21,2,,202252,,1611661328,30,39,3
+07:41,[SEA] Howard Rebound (Off:2 Def:3),20,21,4,,203827,,1611661328,30,39,3
+07:37,[SEA] Howard Pullup Jump shot: Missed,-39,88,2,,203827,,1611661328,30,39,3
+07:33,[ATL] Breland Rebound (Off:2 Def:4),-39,88,4,,202638,,1611661330,30,39,3
+07:21,[ATL] Hayes Pullup Jump shot: Missed,58,126,2,,203026,,1611661330,30,39,3
+07:19,[SEA] Russell Rebound (Off:0 Def:4),58,126,4,,1628920,,1611661328,30,39,3
+07:15,[SEA] Canada Driving Layup Shot: Missed,-17,22,2,,1628886,,1611661328,30,39,3
+07:12,[ATL] Sykes Rebound (Off:2 Def:3),-17,22,4,,1628279,,1611661330,30,39,3
+07:08,[ATL 41-30] Sykes Driving Layup Shot: Made (4 PTS),29,15,1,,1628279,,1611661330,30,41,3
+06:56,[SEA] Howard 3pt Shot: Missed,-139,221,2,,203827,,1611661328,30,41,3
+06:53,[ATL] Sykes Rebound (Off:2 Def:4),-139,221,4,,1628279,,1611661330,30,41,3
+06:42,[ATL] Williams Step Back Jump shot: Missed,-145,0,2,,204322,,1611661330,30,41,3
+06:40,[ATL] Hayes Rebound (Off:1 Def:2),-145,0,4,,203026,,1611661330,30,41,3
+06:40,[ATL 43-30] Hayes Tip Layup Shot: Made (11 PTS),0,-5,1,,203026,,1611661330,30,43,3
+06:40,[SEA] Whitcomb Foul: Shooting (1 PF) (1 FTA),0,-5,6,203026,1628244,,1611661328,30,43,3
+06:40,[ATL 44-30] Hayes Free Throw 1 of 1 (12 PTS),0,-80,3,,203026,,1611661330,30,44,3
+06:21,[SEA 32-44] Canada Driving Layup Shot: Made (4 PTS),10,29,1,,1628886,,1611661328,32,44,3
+06:04,[ATL] Breland Jump Shot: Missed,-33,9,2,,202638,,1611661330,32,44,3
+06:02,[ATL] Team Rebound,-33,9,4,,0,,1611661330,32,44,3
+06:02,[SEA] Russell Foul: Loose Ball (2 PF),2,40,6,203026,1628920,,1611661328,32,44,3
+05:53,[SEA] Whitcomb Foul: Shooting (2 PF) (2 FTA),15,22,6,1628279,1628244,,1611661328,32,44,3
+05:53,[ATL 45-32] Sykes Free Throw 1 of 2 (5 PTS),0,-80,3,,1628279,,1611661330,32,45,3
+05:53,[ATL 46-32] Sykes Free Throw 2 of 2 (6 PTS),0,-80,3,,1628279,,1611661330,32,46,3
+05:53,[SEA] Whitcomb Substitution replaced by Zellous,0,-80,8,,1628244,201919,1611661328,32,46,3
+05:31,[SEA] Clark Turnover : Out of Bounds - Bad Pass Turnover (2 TO),55,258,5,,202252,,1611661328,32,46,3
+05:21,[ATL 48-32] Breland Jump Shot: Made (4 PTS) Assist: Williams (1 AST),-103,183,1,,202638,204322,1611661330,32,48,3
+05:13,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,32,48,3
+05:03,[SEA 34-48] Clark Layup Shot: Made (8 PTS) Assist: Canada (3 AST),-7,72,1,,202252,1628886,1611661328,34,48,3
+04:42,[ATL] Sykes 3pt Shot: Missed,-227,4,2,,1628279,,1611661330,34,48,3
+04:37,[SEA] Zellous Rebound (Off:0 Def:1),-227,4,4,,201919,,1611661328,34,48,3
+04:33,[SEA] Zellous Turnover : Lost Ball (3 TO) Steal:Montgomery (1 ST),5,75,5,201904,201919,,1611661328,34,48,3
+04:14,[ATL 50-34] Williams Cutting Layup Shot: Made (8 PTS) Assist: Sykes (5 AST),2,17,1,,204322,1628279,1611661330,34,50,3
+03:51,[SEA] Canada Turnover : Out of Bounds - Bad Pass Turnover (4 TO),148,62,5,,1628886,,1611661328,34,50,3
+03:29,[ATL] Hayes 3pt Shot: Missed,-131,223,2,,203026,,1611661330,34,50,3
+03:26,[SEA] Team Rebound,-131,223,4,,0,,1611661328,34,50,3
+03:26,[SEA] Russell Substitution replaced by Langhorne,0,-80,8,,1628920,201518,1611661328,34,50,3
+03:26,[SEA] Canada Substitution replaced by Whitcomb,0,-80,8,,1628886,1628244,1611661328,34,50,3
+03:15,[SEA] Clark Cutting Layup Shot: Missed,-14,12,2,,202252,,1611661328,34,50,3
+03:13,[ATL] Breland Rebound (Off:2 Def:5),-14,12,4,,202638,,1611661330,34,50,3
+02:58,[ATL] Williams Turnover : Lost Ball (2 TO) Steal:Whitcomb (4 ST),18,92,5,1628244,204322,,1611661330,34,50,3
+02:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,50,3
+02:53,[ATL] Montgomery Substitution replaced by Bentley,0,-80,8,,201904,203410,1611661330,34,50,3
+02:40,[SEA 36-50] Howard Turnaround Bank Hook Shot: Made (18 PTS) Assist: Langhorne (1 AST),58,34,1,,203827,201518,1611661328,36,50,3
+02:31,[ATL] Bentley Turnover : Out of Bounds - Bad Pass Turnover (5 TO),125,213,5,,203410,,1611661330,36,50,3
+02:21,[ATL] Breland Foul: Personal (3 PF),64,39,6,203827,202638,,1611661330,36,50,3
+02:15,[SEA] Whitcomb 3pt Shot: Missed,169,174,2,,1628244,,1611661328,36,50,3
+02:15,[ATL] Williams Rebound (Off:3 Def:2),169,174,4,,204322,,1611661330,36,50,3
+02:07,Jump Ball Hayes vs Zellous (Sykes gains possession),0,-80,10,201919,203026,1628279,1611661330,36,50,3
+01:56,[SEA] Clark Foul: Personal (2 PF) (2 FTA),14,43,6,204322,202252,,1611661328,36,50,3
+01:56,[ATL 51-36] Williams Free Throw 1 of 2 (9 PTS),0,-80,3,,204322,,1611661330,36,51,3
+01:56,[ATL 52-36] Williams Free Throw 2 of 2 (10 PTS),0,-80,3,,204322,,1611661330,36,52,3
+01:41,[SEA] Langhorne Foul: Offensive Charge (1 PF),17,50,6,202638,201518,,1611661328,36,52,3
+01:41,[SEA] Langhorne Turnover : Offensive Foul Turnover (2 TO),17,50,5,,201518,,1611661328,36,52,3
+01:41,[SEA] Zellous Technical (1 FTA),0,-80,6,,201919,,1611661328,36,52,3
+01:41,[ATL 53-36] Hayes Free Throw Technical (13 PTS),0,-80,3,,203026,,1611661330,36,53,3
+01:41,[SEA] Hughes Technical (1 FTA),0,-80,6,,100996,,1611661328,36,53,3
+01:41,[ATL] Hayes Free Throw Technical Missed,0,-80,3,,203026,,1611661330,36,53,3
+01:41,[ATL] Team Rebound,0,-80,4,,0,,1611661330,36,53,3
+01:41,[SEA] Hughes Technical (1 FTA),0,-80,6,,100996,,1611661328,36,53,3
+01:41,[ATL 54-36] Hayes Free Throw Technical (14 PTS),0,-80,3,,203026,,1611661330,36,54,3
+01:41,[SEA] Hughes Ejection:Other,0,-80,11,,100996,,1611661328,36,54,3
+01:41,[SEA] Howard Substitution replaced by Paris,0,-80,8,,203827,201907,1611661328,36,54,3
+01:29,[ATL] Breland 3pt Shot: Missed,-33,246,2,,202638,,1611661330,36,54,3
+01:25,[SEA] Langhorne Rebound (Off:1 Def:2),-33,246,4,,201518,,1611661328,36,54,3
+01:16,[SEA] Langhorne Jump Shot: Missed,-56,207,2,,201518,,1611661328,36,54,3
+01:13,[ATL] Hayes Rebound (Off:1 Def:3),-56,207,4,,203026,,1611661330,36,54,3
+00:54.7,[ATL] Breland Jump Shot: Missed,-87,167,2,,202638,,1611661330,36,54,3
+00:51.4,[SEA] Zellous Rebound (Off:0 Def:2),-87,167,4,,201919,,1611661328,36,54,3
+00:36.7,[SEA 38-54] Langhorne Jump Shot: Made (2 PTS) Assist: Whitcomb (5 AST),180,16,1,,201518,1628244,1611661328,38,54,3
+00:15.0,[ATL 56-38] Breland Jump Shot: Made (6 PTS),97,186,1,,202638,,1611661330,38,56,3
+00:05.3,[ATL] Bentley Foul: Personal (2 PF),159,289,6,201919,203410,,1611661330,38,56,3
+00:01.9,[SEA] Zellous Pullup Jump shot: Missed,114,161,2,,201919,,1611661328,38,56,3
+00:00.6,[ATL] Williams Rebound (Off:3 Def:3),114,161,4,,204322,,1611661330,38,56,3
+00:00.0,End Period,0,-80,13,,0,,0,38,56,3
+10:00,Start Period,0,-80,12,,0,,0,38,56,4
+09:48,[SEA 40-56] Langhorne Jump Shot: Made (4 PTS) Assist: Zellous (1 AST),189,60,1,,201518,201919,1611661328,40,56,4
+09:30,[ATL 58-40] Bentley Fadeaway Jump Shot: Made (5 PTS) Assist: Hayes (3 AST),-161,17,1,,203410,203026,1611661330,40,58,4
+09:22,[SEA 42-58] Clark Driving Layup Shot: Made (10 PTS) Assist: Zellous (2 AST),-7,12,1,,202252,201919,1611661328,42,58,4
+09:22,[ATL] Hayes Foul: Shooting (3 PF) (1 FTA),-7,12,6,202252,203026,,1611661330,42,58,4
+09:22,[SEA] Paris Substitution replaced by Howard,0,-80,8,,201907,203827,1611661328,42,58,4
+09:22,[SEA 43-58] Clark Free Throw 1 of 1 (11 PTS),0,-80,3,,202252,,1611661328,43,58,4
+09:17,[ATL 60-43] Breland Jump Shot: Made (8 PTS) Assist: Bentley (3 AST),-148,79,1,,202638,203410,1611661330,43,60,4
+09:00,[SEA] Howard Turnover : Out of Bounds Lost Ball Turnover (4 TO),98,23,5,,203827,,1611661328,43,60,4
+08:45,[ATL 63-43] Hayes 3pt Shot: Made (17 PTS) Assist: Breland (1 AST),150,207,1,,203026,202638,1611661330,43,63,4
+08:32,[SEA] Howard Driving Floating Jump Shot: Missed,27,64,2,,203827,,1611661328,43,63,4
+08:30,[ATL] Team Rebound,27,64,4,,0,,1611661330,43,63,4
+08:21,[ATL] Bentley Jump Shot: Missed,-17,189,2,,203410,,1611661330,43,63,4
+08:16,[SEA] Zellous Rebound (Off:0 Def:3),-17,189,4,,201919,,1611661328,43,63,4
+08:08,[SEA] Zellous Jump Shot: Missed,63,124,2,203410,201919,,1611661328,43,63,4
+08:03,[ATL] Sykes Rebound (Off:2 Def:5),63,124,4,,1628279,,1611661330,43,63,4
+08:01,[ATL] Bentley Pullup Jump shot: Missed,-130,132,2,,203410,,1611661330,43,63,4
+08:00,[SEA] Zellous Rebound (Off:0 Def:4),-130,132,4,,201919,,1611661328,43,63,4
+07:58,[ATL] Bentley Foul: Personal (3 PF),143,625,6,201919,203410,,1611661330,43,63,4
+07:55,[ATL] Breland Substitution replaced by Williams,0,-80,8,,202638,204322,1611661330,43,63,4
+07:41,[ATL] Hayes Foul: Defense 3 Second (4 PF) (1 FTA),0,-80,6,,203026,,1611661330,43,63,4
+07:41,[SEA 44-63] Whitcomb Free Throw Technical (3 PTS),0,-80,3,,1628244,,1611661328,44,63,4
+07:41,[ATL] Sykes Substitution replaced by Cazorla,0,-80,8,,1628279,1629569,1611661330,44,63,4
+07:31,[ATL] Williams Foul: Shooting (2 PF) (2 FTA),46,97,6,203827,204322,,1611661330,44,63,4
+07:31,[SEA 45-63] Howard Free Throw 1 of 2 (19 PTS),0,-80,3,,203827,,1611661328,45,63,4
+07:31,[SEA 46-63] Howard Free Throw 2 of 2 (20 PTS),0,-80,3,,203827,,1611661328,46,63,4
+07:13,[ATL 65-46] Hayes Pullup Jump shot: Made (19 PTS) Assist: Bentley (4 AST),-42,20,1,,203026,203410,1611661330,46,65,4
+06:53,[SEA 49-65] Zellous 3pt Shot: Made (5 PTS) Assist: Langhorne (2 AST),192,133,1,,201919,201518,1611661328,49,65,4
+06:35,[ATL 67-49] Hayes Layup Shot: Made (21 PTS) Assist: Cazorla (2 AST),-22,11,1,,203026,1629569,1611661330,49,67,4
+06:24,[ATL] Hayes Foul: Personal (5 PF),67,94,6,202252,203026,,1611661330,49,67,4
+06:24,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,49,67,4
+06:24,[ATL] Hayes Substitution replaced by Sykes,0,-80,8,,203026,1628279,1611661330,49,67,4
+06:21,[SEA 52-67] Whitcomb 3pt Shot: Made (6 PTS) Assist: Langhorne (3 AST),224,56,1,,1628244,201518,1611661328,52,67,4
+06:02,[ATL] Billings Driving Layup Shot: Missed,-32,16,2,,1628881,,1611661330,52,67,4
+06:00,[ATL] Williams Rebound (Off:4 Def:3),-32,16,4,,204322,,1611661330,52,67,4
+05:58,Jump Ball Williams vs Whitcomb (Sykes gains possession),0,-80,10,1628244,204322,1628279,1611661330,52,67,4
+05:55,[ATL] Sykes 3pt Shot: Missed,-163,252,2,,1628279,,1611661330,52,67,4
+05:51,[ATL] Williams Rebound (Off:5 Def:3),-163,252,4,,204322,,1611661330,52,67,4
+05:50,[ATL 70-52] Cazorla 3pt Shot: Made (6 PTS) Assist: Williams (2 AST),-226,11,1,,1629569,204322,1611661330,52,70,4
+05:41,[SEA] Whitcomb 3pt Shot: Missed,-147,217,2,,1628244,,1611661328,52,70,4
+05:35,[SEA] Langhorne Rebound (Off:2 Def:2),-147,217,4,,201518,,1611661328,52,70,4
+05:34,[SEA] Langhorne Turnover : Bad Pass (3 TO) Steal:Billings (2 ST),13,75,5,1628881,201518,,1611661328,52,70,4
+05:22,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,52,70,4
+05:22,[SEA] Langhorne Substitution replaced by Russell,0,-80,8,,201518,1628920,1611661328,52,70,4
+05:22,[SEA] Zellous Substitution replaced by Canada,0,-80,8,,201919,1628886,1611661328,52,70,4
+05:16,[ATL 72-52] Sykes Driving Layup Shot: Made (8 PTS),-30,11,1,,1628279,,1611661330,52,72,4
+05:02,[SEA 54-72] Canada Driving Layup Shot: Made (6 PTS),-24,13,1,,1628886,,1611661328,54,72,4
+05:02,[ATL] Williams Foul: Shooting (3 PF) (1 FTA),-24,13,6,1628886,204322,,1611661330,54,72,4
+05:02,[SEA] Canada Free Throw 1 of 1 Missed,0,-80,3,,1628886,,1611661328,54,72,4
+05:00,[ATL] Sykes Rebound (Off:2 Def:6),0,-80,4,,1628279,,1611661330,54,72,4
+04:41,[ATL] Billings Jump Shot: Missed,-150,38,2,,1628881,,1611661330,54,72,4
+04:38,[SEA] Howard Rebound (Off:2 Def:4),-150,38,4,,203827,,1611661328,54,72,4
+04:21,[SEA] Whitcomb 3pt Shot: Missed,185,169,2,,1628244,,1611661328,54,72,4
+04:17,[SEA] Whitcomb Rebound (Off:2 Def:2),185,169,4,,1628244,,1611661328,54,72,4
+04:14,[SEA] Russell Hook Shot: Missed,-50,96,2,,1628920,,1611661328,54,72,4
+04:11,[ATL] Billings Rebound (Off:0 Def:4),-50,96,4,,1628881,,1611661330,54,72,4
+03:57,[ATL] Sykes Driving Layup Shot: Missed,22,-5,2,,1628279,,1611661330,54,72,4
+03:55,[SEA] Russell Rebound (Off:0 Def:5),22,-5,4,,1628920,,1611661328,54,72,4
+03:48,[SEA] Canada Turnover : Lost Ball (5 TO) Steal:Williams (1 ST),-54,65,5,204322,1628886,,1611661328,54,72,4
+03:33,[ATL 75-54] Sykes 3pt Shot: Made (11 PTS) Assist: Bentley (5 AST),-226,-7,1,,1628279,203410,1611661330,54,75,4
+03:22,[SEA] Howard 3pt Shot: Missed,-141,232,2,,203827,,1611661328,54,75,4
+03:19,[ATL] Bentley Rebound (Off:0 Def:2),-141,232,4,,203410,,1611661330,54,75,4
+03:01,[ATL] Cazorla Substitution replaced by Breland,0,-80,8,,1629569,202638,1611661330,54,75,4
+03:01,[ATL] Billings Substitution replaced by Hayes,0,-80,8,,1628881,203026,1611661330,54,75,4
+03:01,Jump Ball Russell vs Sykes (Whitcomb gains possession),0,-80,10,1628279,1628920,1628244,1611661328,54,75,4
+03:01,[ATL] Sykes Turnover : Lost Ball (1 TO) Steal:Russell (1 ST),0,-80,5,1628920,1628279,,1611661330,54,75,4
+02:38,[SEA] Canada 3pt Shot: Missed,-208,147,2,,1628886,,1611661328,54,75,4
+02:32,[SEA] Clark Rebound (Off:2 Def:1),-171,114,4,,202252,,1611661328,54,75,4
+02:30,[SEA] Clark 3pt Shot: Missed,-235,51,2,,202252,,1611661328,54,75,4
+02:28,[SEA] Russell Rebound (Off:1 Def:5),-235,51,4,,1628920,,1611661328,54,75,4
+02:24,[SEA 57-75] Canada 3pt Shot: Made (9 PTS) Assist: Russell (1 AST),91,221,1,,1628886,1628920,1611661328,57,75,4
+02:08,[SEA] Canada Foul: Personal (1 PF),-33,60,6,203410,1628886,,1611661328,57,75,4
+02:08,[SEA] Whitcomb Substitution replaced by Zellous,0,-80,8,,1628244,201919,1611661328,57,75,4
+02:01,[ATL] Breland Jump Shot: Missed,-64,203,2,,202638,,1611661330,57,75,4
+01:59,[SEA] Russell Rebound (Off:1 Def:6),-64,203,4,,1628920,,1611661328,57,75,4
+01:49,[ATL] Breland Foul: Personal (4 PF) (2 FTA),-108,273,6,1628886,202638,,1611661330,57,75,4
+01:49,[ATL] Hayes Technical (1 FTA),0,-80,6,,203026,,1611661330,57,75,4
+01:49,[SEA 58-75] Clark Free Throw Technical (12 PTS),0,-80,3,,202252,,1611661328,58,75,4
+01:49,Instant Replay - Support Ruling,0,-80,18,,0,,0,58,75,4
+01:49,[SEA 59-75] Canada Free Throw 1 of 2 (10 PTS),0,-80,3,,1628886,,1611661328,59,75,4
+01:49,[SEA 60-75] Canada Free Throw 2 of 2 (11 PTS),0,-80,3,,1628886,,1611661328,60,75,4
+01:40,[ATL] Hayes Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-117,-28,5,,203026,,1611661330,60,75,4
+01:36,[SEA 62-75] Canada Jump Shot: Made (13 PTS),65,16,1,,1628886,,1611661328,62,75,4
+01:15,[ATL] Bentley Jump Shot: Missed,-153,4,2,,203410,,1611661330,62,75,4
+01:15,[SEA] Canada Rebound (Off:0 Def:1),-153,4,4,,1628886,,1611661328,62,75,4
+01:09,[ATL] Bentley Foul: Shooting (4 PF) (2 FTA),-62,33,6,1628886,203410,,1611661330,62,75,4
+01:09,[SEA 63-75] Canada Free Throw 1 of 2 (14 PTS),0,-80,3,,1628886,,1611661328,63,75,4
+01:09,[SEA 64-75] Canada Free Throw 2 of 2 (15 PTS),0,-80,3,,1628886,,1611661328,64,75,4
+01:09,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,64,75,4
+00:46.7,[ATL] Breland Jump Shot: Missed,-65,133,2,,202638,,1611661330,64,75,4
+00:46.1,[SEA] Russell Rebound (Off:1 Def:7),-65,133,4,,1628920,,1611661328,64,75,4
+00:46.1,[ATL] Hayes Foul: Personal (7 PF) (2 FTA),2,797,6,1628920,203026,,1611661330,64,75,4
+00:46.1,[SEA 65-75] Russell Free Throw 1 of 2 (1 PTS),0,-80,3,,1628920,,1611661328,65,75,4
+00:46.1,[SEA 66-75] Russell Free Throw 2 of 2 (2 PTS),0,-80,3,,1628920,,1611661328,66,75,4
+00:44.4,[SEA] Howard Foul: Personal (2 PF),-17,832,6,203410,203827,,1611661328,66,75,4
+00:34.4,[SEA] Zellous Foul: Shooting (2 PF) (2 FTA),3,43,6,202638,201919,,1611661328,66,75,4
+00:34.4,[ATL 76-66] Breland Free Throw 1 of 2 (9 PTS),0,-80,3,,202638,,1611661330,66,76,4
+00:34.4,[ATL 77-66] Breland Free Throw 2 of 2 (10 PTS),0,-80,3,,202638,,1611661330,66,77,4
+00:34.4,[SEA] Zellous Substitution replaced by Whitcomb,0,-80,8,,201919,1628244,1611661328,66,77,4
+00:34.4,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,66,77,4
+00:33.8,[SEA] Whitcomb Turnover : Bad Pass (1 TO) Steal:Williams (2 ST),21,99,5,204322,1628244,,1611661328,66,77,4
+00:16.8,[ATL] Williams Layup Shot: Missed,-31,3,2,,204322,,1611661330,66,77,4
+00:14.5,[ATL] Williams Rebound (Off:6 Def:3),-31,3,4,,204322,,1611661330,66,77,4
+00:13.6,[ATL] Williams Layup Shot: Missed,-14,13,2,1628244,204322,,1611661330,66,77,4
+00:10.6,[SEA] Howard Rebound (Off:2 Def:5),-14,13,4,,203827,,1611661328,66,77,4
+00:09.1,[SEA] Whitcomb 3pt Shot: Missed,131,206,2,,1628244,,1611661328,66,77,4
+00:05.4,[SEA] Russell Rebound (Off:2 Def:7),131,206,4,,1628920,,1611661328,66,77,4
+00:04.3,[SEA] Clark 3pt Shot: Missed,-123,219,2,,202252,,1611661328,66,77,4
+00:00.2,[ATL] Team Rebound,-123,219,4,,0,,1611661330,66,77,4
+00:00.0,End Period,0,-80,13,,0,,0,66,77,4
+00:00.0,Game End,0,-80,0,,0,,0,66,77,4

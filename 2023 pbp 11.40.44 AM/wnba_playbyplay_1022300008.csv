@@ -1,0 +1,415 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Jones vs Jones (Boston gains possession),0,-80,10,1627673,1627673,1641648,1611661325,0,0,0,1
+09:47,[IND] Wheeler Pullup Jump shot: Missed,66,146,2,,204365,,1611661325,0,0,0,1
+09:43,[NYL] Stewart Rebound (Off:0 Def:1),66,146,4,,1627668,,1611661313,0,0,0,1
+09:38,[NYL 2-0] Jones Running Layup Shot: Made (2 PTS) Assist: Stewart (1 AST),-10,-3,1,,1627673,1627668,1611661313,2,0,2,1
+09:31,[IND] Wheeler Foul: Offensive (1 PF),134,115,6,1629477,204365,1628702,1611661325,2,0,0,1
+09:31,[IND] Wheeler Turnover : Offensive Foul Turnover (1 TO),134,115,5,,204365,,1611661325,2,0,0,1
+09:11,[NYL 5-0] Stewart 3pt Shot: Made (3 PTS) Assist: Ionescu (1 AST),156,193,1,,1627668,1629477,1611661313,5,0,3,1
+08:44,[IND] Vivians 3pt Shot: Missed,232,27,2,,1628927,,1611661325,5,0,0,1
+08:42,[IND] Smith Rebound (Off:1 Def:0),232,27,4,,1631019,,1611661325,5,0,0,1
+08:40,[IND 2-5] Smith Putback Layup Shot: Made (2 PTS),-22,0,1,,1631019,,1611661325,5,2,2,1
+08:31,[NYL 7-2] Vandersloot Driving Reverse Layup Shot: Made (2 PTS),-13,1,1,,202664,,1611661313,7,2,2,1
+08:18,[IND] Smith Pullup Jump shot: Missed,-94,166,2,,1631019,,1611661325,7,2,0,1
+08:15,[NYL] Ionescu Rebound (Off:0 Def:1),-94,166,4,,1629477,,1611661313,7,2,0,1
+08:06,[NYL] Laney 3pt Shot: Missed,-232,-1,2,,204335,,1611661313,7,2,0,1
+08:05,[NYL] Team Rebound,-232,-1,4,,0,,1611661313,7,2,0,1
+08:05,[IND] Boston Foul: Loose Ball (1 PF),1,45,6,1627673,1641648,100308,1611661325,7,2,0,1
+07:56,[NYL 10-2] Stewart 3pt Shot: Made (6 PTS) Assist: Ionescu (2 AST),182,160,1,,1627668,1629477,1611661313,10,2,3,1
+07:41,[IND] Smith Turnaround Jump Shot: Missed,59,103,2,,1631019,,1611661325,10,2,0,1
+07:38,[NYL] Ionescu Rebound (Off:0 Def:2),59,103,4,,1629477,,1611661313,10,2,0,1
+07:34,[NYL] Jones Running Alley Oop Layup Shot: Missed,19,5,2,,1627673,,1611661313,10,2,0,1
+07:32,[NYL] Jones Rebound (Off:1 Def:0),19,5,4,,1627673,,1611661313,10,2,0,1
+07:30,[NYL 12-2] Jones Putback Layup Shot: Made (4 PTS),15,7,1,,1627673,,1611661313,12,2,2,1
+07:11,[IND 4-12] Boston Driving Layup Shot: Made (2 PTS),17,-6,1,,1641648,,1611661325,12,4,2,1
+06:55,[NYL 15-4] Ionescu 3pt Shot: Made (3 PTS) Assist: Laney (1 AST),-139,200,1,,1629477,204335,1611661313,15,4,3,1
+06:48,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,15,4,0,1
+06:38,[NYL] Jones Foul: Shooting (1 PF) (2 FTA),1,32,6,1641648,1627673,100308,1611661313,15,4,0,1
+06:38,[IND 5-15] Boston Free Throw 1 of 2 (3 PTS),0,-80,3,,1641648,,1611661325,15,5,1,1
+06:38,[IND 6-15] Boston Free Throw 2 of 2 (4 PTS),0,-80,3,,1641648,,1611661325,15,6,1,1
+06:28,[NYL] Jones Foul: Offensive (2 PF),141,123,6,204365,1627673,100308,1611661313,15,6,0,1
+06:28,[NYL] Jones Turnover : Offensive Foul Turnover (1 TO),141,123,5,,1627673,,1611661313,15,6,0,1
+06:28,[IND] Vivians Substitution replaced by Hull,0,-80,8,,1628927,1631086,1611661325,15,6,0,1
+06:28,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,15,6,0,1
+06:28,[NYL] Jones Substitution replaced by Dolson,0,-80,8,,1627673,203828,1611661313,15,6,0,1
+06:15,[IND] Boston Driving Layup Shot: Missed Block: Dolson (1 BLK),18,17,2,203828,1641648,,1611661325,15,6,0,1
+06:12,[NYL] Laney Rebound (Off:0 Def:1),18,17,4,,204335,,1611661313,15,6,0,1
+06:04,[NYL 17-6] Laney Turnaround Jump Shot: Made (2 PTS) Assist: Vandersloot (1 AST),-126,13,1,,204335,202664,1611661313,17,6,2,1
+05:48,[IND 9-17] Smith 3pt Shot: Made (5 PTS) Assist: Mitchell (1 AST),-101,214,1,,1631019,1628909,1611661325,17,9,3,1
+05:32,[NYL 20-9] Laney 3pt Shot: Made (5 PTS) Assist: Vandersloot (2 AST),-233,-1,1,,204335,202664,1611661313,20,9,3,1
+05:07,[IND] Smith Turnaround Jump Shot: Missed,-138,54,2,,1631019,,1611661325,20,9,0,1
+05:05,[NYL] Stewart Rebound (Off:0 Def:2),-138,54,4,,1627668,,1611661313,20,9,0,1
+04:59,[NYL] Ionescu 3pt Shot: Missed,155,179,2,,1629477,,1611661313,20,9,0,1
+04:55,[IND] Mitchell Rebound (Off:0 Def:1),155,179,4,,1628909,,1611661325,20,9,0,1
+04:52,[IND] Smith Turnover : Bad Pass (1 TO) Steal:Stewart (1 ST),-29,54,5,1627668,1631019,,1611661325,20,9,0,1
+04:47,[NYL 22-9] Vandersloot Running Pull-Up Jump Shot: Made (4 PTS) Assist: Stewart (2 AST),58,49,1,,202664,1627668,1611661313,22,9,2,1
+04:28,[IND] Hull 3pt Shot: Missed,-230,6,2,,1631086,,1611661325,22,9,0,1
+04:24,[NYL] Laney Rebound (Off:0 Def:2),-230,6,4,,204335,,1611661313,22,9,0,1
+04:19,[NYL] Stewart 3pt Shot: Missed,180,152,2,,1627668,,1611661313,22,9,0,1
+04:16,[NYL] Laney Rebound (Off:1 Def:2),180,152,4,,204335,,1611661313,22,9,0,1
+04:10,[NYL] Laney Turnover : Traveling (1 TO),-198,115,5,,204335,,1611661313,22,9,0,1
+04:10,[NYL] Vandersloot Substitution replaced by Prince,0,-80,8,,202664,202259,1611661313,22,9,0,1
+04:10,[IND] Smith Substitution replaced by Cannon,0,-80,8,,1631019,1628242,1611661325,22,9,0,1
+03:58,[IND] Wallace Pullup Jump shot: Missed,-74,128,2,,1628929,,1611661325,22,9,0,1
+03:54,[NYL] Ionescu Rebound (Off:0 Def:3),-74,128,4,,1629477,,1611661313,22,9,0,1
+03:50,[NYL] Ionescu Running Layup Shot: Missed,-7,21,2,,1629477,,1611661313,22,9,0,1
+03:48,[IND] Cannon Rebound (Off:0 Def:1),-7,21,4,,1628242,,1611661325,22,9,0,1
+03:42,[IND 11-22] Hull Running Layup Shot: Made (2 PTS) Assist: Mitchell (2 AST),-22,5,1,,1631086,1628909,1611661325,22,11,2,1
+03:32,[IND] Cannon Foul: Personal (1 PF),-29,56,6,1627668,1628242,100308,1611661325,22,11,0,1
+03:32,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1628909,204365,1611661325,22,11,0,1
+03:19,[NYL] Laney Driving Layup Shot: Missed Block: Boston (1 BLK),40,19,2,1641648,204335,,1611661313,22,11,0,1
+03:17,[NYL] Dolson Rebound (Off:1 Def:0),40,19,4,,203828,,1611661313,22,11,0,1
+03:16,[NYL 25-11] Stewart 3pt Shot: Made (9 PTS) Assist: Dolson (1 AST),161,189,1,,1627668,203828,1611661313,25,11,3,1
+03:03,[IND] Cannon Jump Shot: Missed,-22,148,2,,1628242,,1611661325,25,11,0,1
+03:00,[NYL] Stewart Rebound (Off:0 Def:3),-22,148,4,,1627668,,1611661313,25,11,0,1
+02:55,[NYL 27-11] Stewart Running Layup Shot: Made (11 PTS) Assist: Ionescu (3 AST),-4,16,1,,1627668,1629477,1611661313,27,11,2,1
+02:47,[NYL] Laney Foul: Personal (1 PF),-79,16,6,1631086,204335,100308,1611661313,27,11,0,1
+02:47,[NYL] Laney Substitution replaced by Thornton,0,-80,8,,204335,203866,1611661313,27,11,0,1
+02:47,[IND] Boston Substitution replaced by Egbo,0,-80,8,,1641648,1631031,1611661325,27,11,0,1
+02:39,[IND] Hull 3pt Shot: Missed,-232,27,2,,1631086,,1611661325,27,11,0,1
+02:37,[IND] Hull Rebound (Off:1 Def:0),-232,27,4,,1631086,,1611661325,27,11,0,1
+02:35,[IND 14-27] Cannon 3pt Shot: Made (3 PTS) Assist: Hull (1 AST),-96,220,1,,1628242,1631086,1611661325,27,14,3,1
+02:17,[IND] Hull Foul: Personal (1 PF),99,131,6,1627668,1631086,1628702,1611661325,27,14,0,1
+02:08,[IND] Wallace Foul: Shooting (1 PF) (2 FTA),-31,7,6,203828,1628929,1629174,1611661325,27,14,0,1
+02:08,[NYL] Dolson Free Throw 1 of 2 Missed,0,-80,3,,203828,,1611661313,27,14,0,1
+02:08,[NYL] Team Rebound,0,-80,4,,0,,1611661313,27,14,0,1
+02:08,[NYL 28-14] Dolson Free Throw 2 of 2 (1 PTS),0,-80,3,,203828,,1611661313,28,14,1,1
+01:55,[IND] Egbo Layup Shot: Missed,18,0,2,,1631031,,1611661325,28,14,0,1
+01:52,[NYL] Stewart Rebound (Off:0 Def:4),18,0,4,,1627668,,1611661313,28,14,0,1
+01:52,[NYL] Thornton Turnover : Out of Bounds Lost Ball Turnover (1 TO),239,176,5,,203866,,1611661313,28,14,0,1
+01:39,[IND] Cannon Jump Shot: Missed,-146,92,2,,1628242,,1611661325,28,14,0,1
+01:37,[IND] Egbo Rebound (Off:1 Def:0),-146,92,4,,1631031,,1611661325,28,14,0,1
+01:36,[IND] Egbo Putback Layup Shot: Missed,-16,4,2,,1631031,,1611661325,28,14,0,1
+01:36,[NYL] Thornton Rebound (Off:0 Def:1),-16,4,4,,203866,,1611661313,28,14,0,1
+01:23,[NYL 30-14] Stewart Fadeaway Jump Shot: Made (13 PTS) Assist: Ionescu (4 AST),117,-9,1,,1627668,1629477,1611661313,30,14,2,1
+01:03,[IND] Hull 3pt Shot: Missed,221,69,2,,1631086,,1611661325,30,14,0,1
+01:00,[NYL] Prince Rebound (Off:0 Def:1),221,69,4,,202259,,1611661313,30,14,0,1
+00:56.0,[NYL 33-14] Stewart 3pt Shot: Made (16 PTS) Assist: Prince (1 AST),184,163,1,,1627668,202259,1611661313,33,14,3,1
+00:53.6,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,33,14,0,1
+00:38.6,[IND] Egbo Turnover : Lost Ball (1 TO) Steal:Thornton (1 ST),1,54,5,203866,1631031,,1611661325,33,14,0,1
+00:24.6,[NYL] Prince 3pt Shot: Missed,-235,38,2,,202259,,1611661313,33,14,0,1
+00:21.5,[NYL] Ionescu Rebound (Off:1 Def:3),-235,38,4,,1629477,,1611661313,33,14,0,1
+00:09.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,14,0,1
+00:08.9,[IND] Wheeler Foul: Shooting (2 PF) (3 FTA),135,241,6,1627668,204365,1628702,1611661325,33,14,0,1
+00:08.9,Instant Replay - Support Ruling,0,-80,18,,0,,0,33,14,0,1
+00:08.9,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,33,14,0,1
+00:08.9,[IND] Cannon Substitution replaced by Smith,0,-80,8,,1628242,1631019,1611661325,33,14,0,1
+00:08.9,[IND] Egbo Substitution replaced by Boston,0,-80,8,,1631031,1641648,1611661325,33,14,0,1
+00:08.9,[NYL 34-14] Stewart Free Throw 1 of 3 (17 PTS),0,-80,3,,1627668,,1611661313,34,14,1,1
+00:08.9,[NYL 35-14] Stewart Free Throw 2 of 3 (18 PTS),0,-80,3,,1627668,,1611661313,35,14,1,1
+00:08.9,[NYL 36-14] Stewart Free Throw 3 of 3 (19 PTS),0,-80,3,,1627668,,1611661313,36,14,1,1
+00:04.0,[IND] Wheeler Driving Layup Shot: Missed,18,9,2,,204365,,1611661325,36,14,0,1
+00:01.4,[IND] Hull Rebound (Off:2 Def:0),18,9,4,,1631086,,1611661325,36,14,0,1
+00:00.0,[IND] Hull Jump Shot: Missed,29,11,2,,1631086,,1611661325,36,14,0,1
+00:00.0,[IND] Team Rebound,29,11,4,,0,,1611661325,36,14,0,1
+00:00.0,End Period,0,-80,13,,0,,0,36,14,0,1
+10:00,Start Period,0,-80,12,,0,,0,36,14,0,2
+09:42,[NYL 38-14] Jones Layup Shot: Made (6 PTS) Assist: Vandersloot (3 AST),19,1,1,,1627673,202664,1611661313,38,14,2,2
+09:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,14,0,2
+09:25,[NYL] Thornton Foul: Personal (1 PF),-65,108,6,1628909,203866,1628702,1611661313,38,14,0,2
+09:21,[NYL] Laney Foul: Flagrant Type 1 (2 PF) (2 FTA),-58,156,6,1641648,204335,1628702,1611661313,38,14,0,2
+09:21,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,38,14,0,2
+09:21,[IND 15-38] Boston Free Throw Flagrant 1 of 2 (5 PTS),0,-80,3,,1641648,,1611661325,38,15,1,2
+09:21,[IND 16-38] Boston Free Throw Flagrant 2 of 2 (6 PTS),0,-80,3,,1641648,,1611661325,38,16,1,2
+09:15,[NYL] Vandersloot Foul: Shooting (1 PF) (2 FTA),21,14,6,1628929,202664,1628702,1611661313,38,16,0,2
+09:15,[IND] Wallace Free Throw 1 of 2 Missed,0,-80,3,,1628929,,1611661325,38,16,0,2
+09:15,[IND] Team Rebound,0,-80,4,,0,,1611661325,38,16,0,2
+09:15,[IND] Wallace Free Throw 2 of 2 Missed,0,-80,3,,1628929,,1611661325,38,16,0,2
+09:12,[NYL] Thornton Rebound (Off:0 Def:2),0,-80,4,,203866,,1611661313,38,16,0,2
+09:00,[NYL 41-16] Jones 3pt Shot: Made (9 PTS) Assist: Laney (2 AST),13,241,1,,1627673,204335,1611661313,41,16,3,2
+08:40,[IND] Mitchell 3pt Shot: Missed,-151,186,2,,1628909,,1611661325,41,16,0,2
+08:39,[IND] Smith Rebound (Off:2 Def:0),-151,186,4,,1631019,,1611661325,41,16,0,2
+08:36,[IND] Smith Putback Layup Shot: Missed,21,6,2,,1631019,,1611661325,41,16,0,2
+08:36,[IND] Smith Rebound (Off:3 Def:0),21,6,4,,1631019,,1611661325,41,16,0,2
+08:36,[IND 18-41] Smith Putback Layup Shot: Made (7 PTS),16,6,1,,1631019,,1611661325,41,18,2,2
+08:36,[NYL] Thornton Foul: Shooting (2 PF) (1 FTA),21,8,6,1631019,203866,1629174,1611661313,41,18,0,2
+08:36,[IND 19-41] Smith Free Throw 1 of 1 (8 PTS),0,-80,3,,1631019,,1611661325,41,19,1,2
+08:22,[NYL] Vandersloot Cutting Finger Roll Layup Shot: Missed,0,27,2,,202664,,1611661313,41,19,0,2
+08:20,[IND] Smith Rebound (Off:3 Def:1),0,27,4,,1631019,,1611661325,41,19,0,2
+08:12,[IND 21-41] Boston Driving Layup Shot: Made (8 PTS),26,-2,1,,1641648,,1611661325,41,21,2,2
+07:50,[NYL] Vandersloot 3pt Shot: Missed,2,242,2,,202664,,1611661313,41,21,0,2
+07:48,[NYL] Team Rebound,2,242,4,,0,,1611661313,41,21,0,2
+07:48,[IND] Smith Foul: Loose Ball (1 PF),-129,28,6,204335,1631019,100308,1611661325,41,21,0,2
+07:48,[NYL] Thornton Substitution replaced by Stewart,0,-80,8,,203866,1627668,1611661313,41,21,0,2
+07:43,[NYL] Vandersloot Turnover : Traveling (1 TO),67,133,5,,202664,,1611661313,41,21,0,2
+07:43,[NYL] Prince Substitution replaced by Ionescu,0,-80,8,,202259,1629477,1611661313,41,21,0,2
+07:22,[IND] Caldwell Driving Floating Jump Shot: Missed,-79,39,2,,1630471,,1611661325,41,21,0,2
+07:19,[IND] Smith Rebound (Off:4 Def:1),-79,39,4,,1631019,,1611661325,41,21,0,2
+07:18,[IND 23-41] Smith Floating Jump shot: Made (10 PTS),2,50,1,,1631019,,1611661325,41,23,2,2
+06:58,[NYL 43-23] Stewart Cutting Layup Shot: Made (21 PTS) Assist: Vandersloot (4 AST),7,12,1,,1627668,202664,1611661313,43,23,2,2
+06:47,[IND] Wallace Driving Layup Shot: Missed,20,-5,2,,1628929,,1611661325,43,23,0,2
+06:43,[NYL] Stewart Rebound (Off:0 Def:5),20,-5,4,,1627668,,1611661313,43,23,0,2
+06:38,[NYL 46-23] Ionescu 3pt Shot: Made (6 PTS) Assist: Vandersloot (5 AST),-230,1,1,,1629477,202664,1611661313,46,23,3,2
+06:17,[IND] Mitchell 3pt Shot: Missed,-140,198,2,,1628909,,1611661325,46,23,0,2
+06:14,[NYL] Ionescu Rebound (Off:1 Def:4),-140,198,4,,1629477,,1611661313,46,23,0,2
+06:08,[NYL] Vandersloot Turnover : Lost Ball (2 TO) Steal:Smith (1 ST),-162,10,5,1631019,202664,,1611661313,46,23,0,2
+05:54,[IND 25-46] Smith Driving Layup Shot: Made (12 PTS),27,5,1,,1631019,,1611661325,46,25,2,2
+05:54,[NYL] Vandersloot Foul: Shooting (2 PF) (1 FTA),-30,31,6,1631019,202664,1629174,1611661313,46,25,0,2
+05:54,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,46,25,0,2
+05:54,[NYL] Jones Substitution replaced by Dolson,0,-80,8,,1627673,203828,1611661313,46,25,0,2
+05:54,[IND] Caldwell Substitution replaced by Hull,0,-80,8,,1630471,1631086,1611661325,46,25,0,2
+05:54,[IND 26-46] Smith Free Throw 1 of 1 (13 PTS),0,-80,3,,1631019,,1611661325,46,26,1,2
+05:34,[NYL] Dolson 3pt Shot: Missed,33,237,2,,203828,,1611661313,46,26,0,2
+05:32,[IND] Team Rebound,33,237,4,,0,,1611661325,46,26,0,2
+05:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,26,0,2
+05:14,[IND] Mitchell Pullup Jump shot: Missed,-197,12,2,,1628909,,1611661325,46,26,0,2
+05:12,[IND] Hull Rebound (Off:3 Def:0),-197,12,4,,1631086,,1611661325,46,26,0,2
+05:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,26,0,2
+05:10,[NYL] Laney Substitution replaced by Thornton,0,-80,8,,204335,203866,1611661313,46,26,0,2
+05:05,[IND] Hull Jump Shot: Missed,-10,81,2,,1631086,,1611661325,46,26,0,2
+05:04,[IND] Team Rebound,-10,81,4,,0,,1611661325,46,26,0,2
+05:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,26,0,2
+04:55,[IND] Boston Hook Shot: Missed,5,32,2,,1641648,,1611661325,46,26,0,2
+04:48,[IND] Boston Rebound (Off:1 Def:0),5,32,4,,1641648,,1611661325,46,26,0,2
+04:47,[IND] Boston Turnover : Bad Pass (1 TO) Steal:Ionescu (1 ST),72,28,5,1629477,1641648,,1611661325,46,26,0,2
+04:44,[NYL] Stewart 3pt Shot: Missed,-165,187,2,,1627668,,1611661313,46,26,0,2
+04:40,[IND] Smith Rebound (Off:4 Def:2),-165,187,4,,1631019,,1611661325,46,26,0,2
+04:35,[NYL] Stewart Foul: Shooting (1 PF) (2 FTA),-38,14,6,1628929,1627668,1628702,1611661313,46,26,0,2
+04:35,[IND 27-46] Wallace Free Throw 1 of 2 (1 PTS),0,-80,3,,1628929,,1611661325,46,27,1,2
+04:35,[IND 28-46] Wallace Free Throw 2 of 2 (2 PTS),0,-80,3,,1628929,,1611661325,46,28,1,2
+04:19,[NYL] Ionescu Jump Shot: Missed,38,69,2,,1629477,,1611661313,46,28,0,2
+04:17,[IND] Smith Rebound (Off:4 Def:3),38,69,4,,1631019,,1611661325,46,28,0,2
+04:11,[NYL] Vandersloot Foul: Shooting (3 PF) (2 FTA),-44,9,6,1631019,202664,1629174,1611661313,46,28,0,2
+04:11,[IND 29-46] Smith Free Throw 1 of 2 (14 PTS),0,-80,3,,1631019,,1611661325,46,29,1,2
+04:11,[NYL] Vandersloot Substitution replaced by Prince,0,-80,8,,202664,202259,1611661313,46,29,0,2
+04:11,[IND] Wallace Substitution replaced by Wheeler,0,-80,8,,1628929,204365,1611661325,46,29,0,2
+04:11,[IND] Smith Free Throw 2 of 2 Missed,0,-80,3,,1631019,,1611661325,46,29,0,2
+04:10,[NYL] Stewart Rebound (Off:0 Def:6),0,-80,4,,1627668,,1611661313,46,29,0,2
+03:54,[NYL 48-29] Stewart Alley Oop Layup shot: Made (23 PTS) Assist: Dolson (2 AST),28,-1,1,,1627668,203828,1611661313,48,29,2,2
+03:40,[IND] Mitchell Driving Layup Shot: Missed Block: Prince (1 BLK),20,73,2,202259,1628909,,1611661325,48,29,0,2
+03:40,[NYL] Stewart Rebound (Off:0 Def:7),20,73,4,,1627668,,1611661313,48,29,0,2
+03:33,[NYL 50-29] Stewart Running Layup Shot: Made (25 PTS) Assist: Ionescu (5 AST),-21,15,1,,1627668,1629477,1611661313,50,29,2,2
+03:15,[IND] Mitchell Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-57,-24,5,,1628909,,1611661325,50,29,0,2
+02:57,[IND] Smith Foul: Shooting (2 PF) (2 FTA),19,16,6,1627668,1631019,1629174,1611661325,50,29,0,2
+02:57,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,50,29,0,2
+02:57,[NYL 51-29] Stewart Free Throw 1 of 2 (26 PTS),0,-80,3,,1627668,,1611661313,51,29,1,2
+02:57,[NYL 52-29] Stewart Free Throw 2 of 2 (27 PTS),0,-80,3,,1627668,,1611661313,52,29,1,2
+02:47,[IND 31-52] Boston Layup Shot: Made (10 PTS),-28,-1,1,,1641648,,1611661325,52,31,2,2
+02:35,[IND] Wheeler Foul: Personal (3 PF),-143,258,6,1627668,204365,1629174,1611661325,52,31,0,2
+02:35,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,52,31,0,2
+02:26,[NYL 54-31] Stewart Layup Shot: Made (29 PTS) Assist: Ionescu (6 AST),-16,5,1,,1627668,1629477,1611661313,54,31,2,2
+02:15,[IND] Mitchell Pullup Jump shot: Missed,116,169,2,,1628909,,1611661325,54,31,0,2
+02:13,[IND] Smith Rebound (Off:5 Def:3),116,169,4,,1631019,,1611661325,54,31,0,2
+02:09,[IND] Wallace 3pt Shot: Missed,-160,180,2,,1628929,,1611661325,54,31,0,2
+02:07,[NYL] Ionescu Rebound (Off:1 Def:5),-160,180,4,,1629477,,1611661313,54,31,0,2
+01:58,[NYL 56-31] Thornton Layup Shot: Made (2 PTS) Assist: Ionescu (7 AST),-22,5,1,,203866,1629477,1611661313,56,31,2,2
+01:43,[IND] Hull Driving Layup Shot: Missed,-22,4,2,,1631086,,1611661325,56,31,0,2
+01:40,[NYL] Thornton Rebound (Off:0 Def:3),-22,4,4,,203866,,1611661313,56,31,0,2
+01:27,[NYL 59-31] Prince 3pt Shot: Made (3 PTS) Assist: Ionescu (8 AST),143,201,1,,202259,1629477,1611661313,59,31,3,2
+01:26,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,59,31,0,2
+01:26,[NYL] Dolson Substitution replaced by Jones,0,-80,8,,203828,1627673,1611661313,59,31,0,2
+01:05,[IND 33-59] Boston Driving Layup Shot: Made (12 PTS),-33,8,1,,1641648,,1611661325,59,33,2,2
+00:52.8,[NYL] Jones Turnover : Bad Pass (2 TO) Steal:Boston (1 ST),62,55,5,1641648,1627673,,1611661313,59,33,0,2
+00:48.9,[IND] Mitchell Turnover : Lost Ball (2 TO) Steal:Prince (1 ST),-4,720,5,202259,1628909,,1611661325,59,33,0,2
+00:45.1,[NYL 62-33] Ionescu 3pt Shot: Made (9 PTS) Assist: Prince (2 AST),102,221,1,,1629477,202259,1611661313,62,33,3,2
+00:35.8,[NYL] Thornton Foul: Personal (3 PF) (2 FTA),-69,44,6,1628929,203866,1629174,1611661313,62,33,0,2
+00:35.8,[IND 34-62] Wallace Free Throw 1 of 2 (3 PTS),0,-80,3,,1628929,,1611661325,62,34,1,2
+00:35.8,[IND] Smith Substitution replaced by Vivians,0,-80,8,,1631019,1628927,1611661325,62,34,0,2
+00:35.8,[IND 35-62] Wallace Free Throw 2 of 2 (4 PTS),0,-80,3,,1628929,,1611661325,62,35,1,2
+00:24.4,[IND] Mitchell Foul: Personal (1 PF),-62,-14,6,1627668,1628909,1628702,1611661325,62,35,0,2
+00:14.3,[NYL] Prince 3pt Shot: Missed,-228,81,2,,202259,,1611661313,62,35,0,2
+00:10.3,[NYL] Jones Rebound (Off:2 Def:0),-228,81,4,,1627673,,1611661313,62,35,0,2
+00:09.2,[NYL] Jones Putback Layup Shot: Missed,26,5,2,,1627673,,1611661313,62,35,0,2
+00:06.9,[IND] Boston Rebound (Off:1 Def:1),26,5,4,,1641648,,1611661325,62,35,0,2
+00:00.0,End Period,0,-80,13,,0,,0,62,35,0,2
+10:00,Start Period,0,-80,12,,0,,0,62,35,0,3
+09:35,[NYL] Team Turnover : Shot Clock Turnover,-94,62,5,,0,,1611661313,62,35,0,3
+09:21,[IND] Mitchell Turnover : Out of Bounds - Bad Pass Turnover (3 TO),19,206,5,,1628909,,1611661325,62,35,0,3
+09:03,[NYL] Laney Pullup Jump shot: Missed,-78,133,2,,204335,,1611661313,62,35,0,3
+09:01,[IND] Smith Rebound (Off:5 Def:4),-78,133,4,,1631019,,1611661325,62,35,0,3
+08:49,[IND] Smith Pullup Jump shot: Missed,124,0,2,,1631019,,1611661325,62,35,0,3
+08:47,[NYL] Stewart Rebound (Off:0 Def:8),124,0,4,,1627668,,1611661313,62,35,0,3
+08:40,[IND] Boston Foul: Shooting (2 PF) (2 FTA),-51,32,6,1627668,1641648,100308,1611661325,62,35,0,3
+08:40,[NYL 63-35] Stewart Free Throw 1 of 2 (30 PTS),0,-80,3,,1627668,,1611661313,63,35,1,3
+08:40,[NYL 64-35] Stewart Free Throw 2 of 2 (31 PTS),0,-80,3,,1627668,,1611661313,64,35,1,3
+08:27,[IND 38-64] Mitchell 3pt Shot: Made (3 PTS) Assist: Boston (1 AST),-155,194,1,,1628909,1641648,1611661325,64,38,3,3
+08:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,38,0,3
+07:59,[NYL] Ionescu Driving Hook Shot: Missed,6,58,2,,1629477,,1611661313,64,38,0,3
+07:57,[IND] Smith Rebound (Off:5 Def:5),6,58,4,,1631019,,1611661325,64,38,0,3
+07:50,[IND 40-64] Wheeler Driving Layup Shot: Made (2 PTS),11,0,1,,204365,,1611661325,64,40,2,3
+07:32,[NYL 66-40] Vandersloot Driving Finger Roll Layup Shot: Made (6 PTS),-15,40,1,,202664,,1611661313,66,40,2,3
+07:26,[IND 42-66] Mitchell Pullup Jump shot: Made (5 PTS) Assist: Wheeler (1 AST),68,151,1,,1628909,204365,1611661325,66,42,2,3
+07:14,[NYL 68-42] Vandersloot Cutting Layup Shot: Made (8 PTS) Assist: Stewart (3 AST),15,11,1,,202664,1627668,1611661313,68,42,2,3
+07:02,[IND] Wheeler Driving Layup Shot: Missed Block: Stewart (1 BLK),17,5,2,1627668,204365,,1611661325,68,42,0,3
+07:00,[NYL] Stewart Rebound (Off:0 Def:9),17,5,4,,1627668,,1611661313,68,42,0,3
+06:57,[NYL 70-42] Stewart Running Layup Shot: Made (33 PTS) Assist: Vandersloot (6 AST),18,10,1,,1627668,202664,1611661313,70,42,2,3
+06:57,[IND] Smith Foul: Shooting (3 PF) (1 FTA),23,6,6,1627668,1631019,1629174,1611661325,70,42,0,3
+06:57,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,70,42,0,3
+06:57,[NYL 71-42] Stewart Free Throw 1 of 1 (34 PTS),0,-80,3,,1627668,,1611661313,71,42,1,3
+06:42,[IND 44-71] Mitchell Driving Reverse Layup Shot: Made (7 PTS),-29,-6,1,,1628909,,1611661325,71,44,2,3
+06:24,[NYL 74-44] Jones 3pt Shot: Made (12 PTS) Assist: Laney (3 AST),35,241,1,,1627673,204335,1611661313,74,44,3,3
+06:15,[IND 47-74] Vivians 3pt Shot: Made (3 PTS) Assist: Wallace (1 AST),227,-10,1,,1628927,1628929,1611661325,74,47,3,3
+06:00,[NYL] Stewart Driving Layup Shot: Missed,-45,15,2,,1627668,,1611661313,74,47,0,3
+05:57,[IND] Smith Rebound (Off:5 Def:6),-45,15,4,,1631019,,1611661325,74,47,0,3
+05:50,[IND 50-74] Wallace 3pt Shot: Made (7 PTS) Assist: Vivians (1 AST),39,235,1,,1628929,1628927,1611661325,74,50,3,3
+05:49,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,74,50,0,3
+05:49,[IND] Boston Substitution replaced by Egbo,0,-80,8,,1641648,1631031,1611661325,74,50,0,3
+05:47,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,74,50,0,3
+05:38,[NYL] Vandersloot Driving Layup Shot: Missed,-27,5,2,,202664,,1611661313,74,50,0,3
+05:36,[IND] Wallace Rebound (Off:0 Def:1),-27,5,4,,1628929,,1611661325,74,50,0,3
+05:22,[IND] Smith Driving Floating Jump Shot: Missed,44,10,2,,1631019,,1611661325,74,50,0,3
+05:20,[NYL] Ionescu Rebound (Off:1 Def:6),44,10,4,,1629477,,1611661313,74,50,0,3
+05:12,[NYL 77-50] Stewart 3pt Shot: Made (37 PTS) Assist: Vandersloot (7 AST),7,234,1,,1627668,202664,1611661313,77,50,3,3
+04:54,[IND] Mitchell Turnover : Bad Pass (4 TO) Steal:Laney (1 ST),-85,75,5,204335,1628909,,1611661325,77,50,0,3
+04:51,[NYL] Ionescu 3pt Shot: Missed,-183,167,2,,1629477,,1611661313,77,50,0,3
+04:47,[IND] Vivians Rebound (Off:0 Def:1),-183,167,4,,1628927,,1611661325,77,50,0,3
+04:37,[IND 52-77] Wallace Driving Floating Bank Jump Shot: Made (9 PTS),-72,60,1,,1628929,,1611661325,77,52,2,3
+04:22,[IND] Egbo Foul: Personal (1 PF),-51,56,6,1627673,1631031,1628702,1611661325,77,52,0,3
+04:22,[NYL] Vandersloot Substitution replaced by Prince,0,-80,8,,202664,202259,1611661313,77,52,0,3
+04:22,[NYL] Jones Substitution replaced by Dolson,0,-80,8,,1627673,203828,1611661313,77,52,0,3
+04:22,[IND] Mitchell Substitution replaced by Caldwell,0,-80,8,,1628909,1630471,1611661325,77,52,0,3
+04:22,[IND] Smith Substitution replaced by Hull,0,-80,8,,1631019,1631086,1611661325,77,52,0,3
+04:10,[NYL] Laney Turnover : Lost Ball (2 TO) Steal:Hull (1 ST),-69,32,5,1631086,204335,,1611661313,77,52,0,3
+04:06,[IND] Wallace Foul: Offensive Charge (2 PF),49,5,6,1629477,1628929,1628702,1611661325,77,52,0,3
+04:06,[IND] Wallace Turnover : Offensive Foul Turnover (1 TO),49,5,5,,1628929,,1611661325,77,52,0,3
+04:06,[NYL] Laney Substitution replaced by Thornton,0,-80,8,,204335,203866,1611661313,77,52,0,3
+03:51,[NYL] Dolson Foul: Offensive (1 PF),92,148,6,1631086,203828,1629174,1611661313,77,52,0,3
+03:51,[NYL] Dolson Turnover : Offensive Foul Turnover (1 TO),92,148,5,,203828,,1611661313,77,52,0,3
+03:45,[NYL] Dolson Foul: Personal (2 PF),44,157,6,1631031,203828,1628702,1611661313,77,52,0,3
+03:33,[IND] Caldwell 3pt Shot: Missed,-162,187,2,,1630471,,1611661325,77,52,0,3
+03:30,[NYL] Stewart Rebound (Off:0 Def:10),-162,187,4,,1627668,,1611661313,77,52,0,3
+03:24,[NYL] Thornton 3pt Shot: Missed,201,159,2,,203866,,1611661313,77,52,0,3
+03:21,[NYL] Dolson Rebound (Off:2 Def:0),201,159,4,,203828,,1611661313,77,52,0,3
+03:17,[NYL 79-52] Stewart Turnaround Jump Shot: Made (39 PTS) Assist: Dolson (3 AST),-32,144,1,,1627668,203828,1611661313,79,52,2,3
+03:01,[IND] Caldwell Turnover : Bad Pass (1 TO) Steal:Ionescu (2 ST),-26,16,5,1629477,1630471,,1611661325,79,52,0,3
+02:52,[NYL] Ionescu Turnover : Bad Pass (1 TO) Steal:Wallace (1 ST),20,111,5,1628929,1629477,,1611661313,79,52,0,3
+02:49,[IND] Caldwell Running Layup Shot: Missed Block: Ionescu (1 BLK),-50,-15,2,1629477,1630471,,1611661325,79,52,0,3
+02:47,[IND] Team Rebound,-50,-15,4,,0,,1611661325,79,52,0,3
+02:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,79,52,0,3
+02:47,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,79,52,0,3
+02:47,[IND] Wallace Substitution replaced by Boston,0,-80,8,,1628929,1641648,1611661325,79,52,0,3
+02:47,[IND] Egbo Substitution replaced by Wheeler,0,-80,8,,1631031,204365,1611661325,79,52,0,3
+02:47,[IND] Vivians Substitution replaced by Cannon,0,-80,8,,1628927,1628242,1611661325,79,52,0,3
+02:39,[IND] Wheeler Pullup Jump shot: Missed,-55,160,2,,204365,,1611661325,79,52,0,3
+02:37,[NYL] Team Rebound,-55,160,4,,0,,1611661313,79,52,0,3
+02:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,79,52,0,3
+02:19,[NYL] Vandersloot Jump Shot: Missed,54,72,2,,202664,,1611661313,79,52,0,3
+02:18,[NYL] Team Rebound,54,72,4,,0,,1611661313,79,52,0,3
+02:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,79,52,0,3
+02:13,[NYL 81-52] Stewart Turnaround Fadeaway shot: Made (41 PTS),95,91,1,,1627668,,1611661313,81,52,2,3
+02:13,[IND] Caldwell Foul: Shooting (1 PF) (1 FTA),83,85,6,1627668,1630471,1629174,1611661325,81,52,0,3
+02:13,[NYL 82-52] Stewart Free Throw 1 of 1 (42 PTS),0,-80,3,,1627668,,1611661313,82,52,1,3
+01:56,[NYL] Prince Foul: Personal (1 PF),29,124,6,1641648,202259,1628702,1611661313,82,52,0,3
+01:43,[IND 54-82] Boston Layup Shot: Made (14 PTS) Assist: Caldwell (1 AST),13,11,1,,1641648,1630471,1611661325,82,54,2,3
+01:37,[NYL 85-54] Stewart 3pt Shot: Made (45 PTS) Assist: Vandersloot (8 AST),117,268,1,,1627668,202664,1611661313,85,54,3,3
+01:23,[IND] Wheeler 3pt Shot: Missed,219,120,2,,204365,,1611661325,85,54,0,3
+01:20,[IND] Hull Rebound (Off:4 Def:0),219,120,4,,1631086,,1611661325,85,54,0,3
+01:20,[IND] Hull Turnover : Out of Bounds Lost Ball Turnover (1 TO),-248,124,5,,1631086,,1611661325,85,54,0,3
+01:10,[NYL] Prince Foul: Offensive (2 PF),-117,69,6,1631086,202259,1628702,1611661313,85,54,0,3
+01:10,[NYL] Prince Turnover : Offensive Foul Turnover (1 TO),-117,69,5,,202259,,1611661313,85,54,0,3
+00:50.6,[IND] Caldwell 3pt Shot: Missed,180,163,2,,1630471,,1611661325,85,54,0,3
+00:47.6,[NYL] Dolson Rebound (Off:2 Def:1),180,163,4,,203828,,1611661313,85,54,0,3
+00:28.5,[NYL] Stewart Jump Shot: Missed Block: Hull (1 BLK),45,129,2,1631086,1627668,,1611661313,85,54,0,3
+00:28.5,[IND] Hull Rebound (Off:4 Def:1),45,129,4,,1631086,,1611661325,85,54,0,3
+00:28.5,[NYL] Stewart Foul: Loose Ball (2 PF) (2 FTA),-18,805,6,1631086,1627668,100308,1611661313,85,54,0,3
+00:28.5,[IND] Hull Free Throw 1 of 2 Missed,0,-80,3,,1631086,,1611661325,85,54,0,3
+00:28.5,[IND] Team Rebound,0,-80,4,,0,,1611661325,85,54,0,3
+00:28.5,[IND 55-85] Hull Free Throw 2 of 2 (3 PTS),0,-80,3,,1631086,,1611661325,85,55,1,3
+00:06.7,[NYL] Stewart Jump Shot: Missed,120,102,2,,1627668,,1611661313,85,55,0,3
+00:04.7,[IND] Hull Rebound (Off:4 Def:2),120,102,4,,1631086,,1611661325,85,55,0,3
+00:00.8,[IND] Hull Running Jump Shot: Missed,-21,206,2,,1631086,,1611661325,85,55,0,3
+00:00.8,[IND] Team Rebound,-21,206,4,,0,,1611661325,85,55,0,3
+00:00.0,End Period,0,-80,13,,0,,0,85,55,0,3
+10:00,Start Period,0,-80,12,,0,,0,85,55,0,4
+09:49,[IND] Caldwell Substitution replaced by Mitchell,0,-80,8,,1630471,1628909,1611661325,85,55,0,4
+09:49,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,85,55,0,4
+09:45,Jump Ball Thornton vs Thornton (Cannon gains possession),0,-80,10,203866,203866,1628242,1611661325,85,55,0,4
+09:38,[IND] Wallace Foul: Offensive (3 PF),210,62,6,202259,1628929,1629174,1611661325,85,55,0,4
+09:38,[IND] Wallace Turnover : Offensive Foul Turnover (2 TO),210,62,5,,1628929,,1611661325,85,55,0,4
+09:16,[NYL] Jones Turnaround Jump Shot: Missed Block: Boston (2 BLK),63,27,2,1641648,1627673,,1611661313,85,55,0,4
+09:13,[IND] Mitchell Rebound (Off:0 Def:2),63,27,4,,1628909,,1611661325,85,55,0,4
+09:10,[IND] Cannon Running Pull-Up Jump Shot: Missed,-123,108,2,,1628242,,1611661325,85,55,0,4
+09:07,[NYL] Thornton Rebound (Off:0 Def:4),-123,108,4,,203866,,1611661313,85,55,0,4
+08:57,[NYL] Jones Layup Shot: Missed,-19,0,2,,1627673,,1611661313,85,55,0,4
+08:56,[NYL] Jones Rebound (Off:3 Def:0),-19,0,4,,1627673,,1611661313,85,55,0,4
+08:55,[NYL 87-55] Jones Putback Layup Shot: Made (14 PTS),-29,-2,1,,1627673,,1611661313,87,55,2,4
+08:43,[IND] Hull 3pt Shot: Missed,152,196,2,,1631086,,1611661325,87,55,0,4
+08:41,[NYL] Team Rebound,152,196,4,,0,,1611661313,87,55,0,4
+08:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,87,55,0,4
+08:41,[IND] Cannon Substitution replaced by Smith,0,-80,8,,1628242,1631019,1611661325,87,55,0,4
+08:41,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,87,55,0,4
+08:17,[NYL] Laney 3pt Shot: Missed,228,22,2,,204335,,1611661313,87,55,0,4
+08:14,[IND] Boston Rebound (Off:1 Def:2),228,22,4,,1641648,,1611661325,87,55,0,4
+07:56,[IND 57-87] Smith Driving Floating Jump Shot: Made (16 PTS) Assist: Boston (2 AST),-72,110,1,,1631019,1641648,1611661325,87,57,2,4
+07:39,Jump Ball Hull vs Hull (Vandersloot gains possession),0,-80,10,1631086,1631086,202664,1611661313,87,57,0,4
+07:32,[NYL] Laney Pullup Jump shot: Missed,-167,58,2,,204335,,1611661313,87,57,0,4
+07:30,[IND] Wallace Rebound (Off:0 Def:2),-167,58,4,,1628929,,1611661325,87,57,0,4
+07:26,[IND] Wallace Turnover : Bad Pass (3 TO) Steal:Prince (2 ST),-148,205,5,202259,1628929,,1611661325,87,57,0,4
+07:14,[NYL] Jones Turnover : Bad Pass (3 TO) Steal:Mitchell (1 ST),-16,124,5,1628909,1627673,,1611661313,87,57,0,4
+07:04,[NYL] Prince Foul: Shooting (3 PF) (2 FTA),13,10,6,1641648,202259,1629174,1611661313,87,57,0,4
+07:04,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,87,57,0,4
+07:04,[IND] Team Rebound,0,-80,4,,0,,1611661325,87,57,0,4
+07:04,[NYL] Vandersloot Substitution replaced by Xu,0,-80,8,,202664,1629566,1611661313,87,57,0,4
+07:04,[NYL] Jones Substitution replaced by Ionescu,0,-80,8,,1627673,1629477,1611661313,87,57,0,4
+07:04,[IND 58-87] Boston Free Throw 2 of 2 (15 PTS),0,-80,3,,1641648,,1611661325,87,58,1,4
+06:52,[NYL] Laney Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-102,31,5,,204335,,1611661313,87,58,0,4
+06:52,[NYL] Laney Substitution replaced by Willoughby,0,-80,8,,204335,1630139,1611661313,87,58,0,4
+06:39,[IND 60-87] Mitchell Pullup Jump shot: Made (9 PTS),71,193,1,,1628909,,1611661325,87,60,2,4
+06:25,[NYL] Xu 3pt Shot: Missed,-113,221,2,,1629566,,1611661313,87,60,0,4
+06:22,[IND] Smith Rebound (Off:5 Def:7),-113,221,4,,1631019,,1611661325,87,60,0,4
+06:01,[IND] Hull 3pt Shot: Missed,205,126,2,,1631086,,1611661325,87,60,0,4
+05:58,[NYL] Prince Rebound (Off:0 Def:2),205,126,4,,202259,,1611661313,87,60,0,4
+05:39,[NYL] Thornton Fadeaway Jump Shot: Missed,-121,11,2,,203866,,1611661313,87,60,0,4
+05:38,[IND] Mitchell Rebound (Off:0 Def:3),-121,11,4,,1628909,,1611661325,87,60,0,4
+05:28,[IND] Smith Driving Layup Shot: Missed,-29,3,2,,1631019,,1611661325,87,60,0,4
+05:26,[NYL] Ionescu Rebound (Off:1 Def:7),-29,3,4,,1629477,,1611661313,87,60,0,4
+05:22,[NYL] Xu 3pt Shot: Missed,15,237,2,,1629566,,1611661313,87,60,0,4
+05:19,[IND] Wallace Rebound (Off:0 Def:3),15,237,4,,1628929,,1611661325,87,60,0,4
+05:04,[IND] Mitchell 3pt Shot: Missed,-148,194,2,,1628909,,1611661325,87,60,0,4
+05:02,[IND] Boston Rebound (Off:2 Def:2),-148,194,4,,1641648,,1611661325,87,60,0,4
+04:54,[IND] Wallace Turnover : Out of Bounds Lost Ball Turnover (4 TO),73,5,5,,1628929,,1611661325,87,60,0,4
+04:54,Timeout Officials,0,-80,9,,0,,0,87,60,0,4
+04:54,[NYL] Thornton Substitution replaced by Stewart,0,-80,8,,203866,1627668,1611661313,87,60,0,4
+04:54,[IND] Smith Substitution replaced by Vivians,0,-80,8,,1631019,1628927,1611661325,87,60,0,4
+04:54,[IND] Boston Substitution replaced by Cannon,0,-80,8,,1641648,1628242,1611661325,87,60,0,4
+04:54,[IND] Hull Substitution replaced by Egbo,0,-80,8,,1631086,1631031,1611661325,87,60,0,4
+04:38,[NYL] Xu Jump Shot: Missed,24,138,2,,1629566,,1611661313,87,60,0,4
+04:34,[IND] Cannon Rebound (Off:0 Def:2),24,138,4,,1628242,,1611661325,87,60,0,4
+04:19,[IND] Mitchell 3pt Shot: Missed,-209,118,2,,1628909,,1611661325,87,60,0,4
+04:19,[IND] Team Rebound,-209,118,4,,0,,1611661325,87,60,0,4
+04:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,87,60,0,4
+04:19,[IND] Wallace Turnover : Out of Bounds - Bad Pass Turnover (5 TO),-238,136,5,,1628929,,1611661325,87,60,0,4
+04:05,[NYL] Willoughby 3pt Shot: Missed,117,218,2,,1630139,,1611661313,87,60,0,4
+04:02,[IND] Cannon Rebound (Off:0 Def:3),117,218,4,,1628242,,1611661325,87,60,0,4
+03:49,[IND] Egbo Jump Shot: Missed,-123,75,2,,1631031,,1611661325,87,60,0,4
+03:47,[NYL] Stewart Rebound (Off:0 Def:11),-123,75,4,,1627668,,1611661313,87,60,0,4
+03:41,[NYL] Stewart 3pt Shot: Missed,102,226,2,,1627668,,1611661313,87,60,0,4
+03:38,[IND] Egbo Rebound (Off:1 Def:1),102,226,4,,1631031,,1611661325,87,60,0,4
+03:27,[IND 62-87] Wallace Pullup Jump shot: Made (11 PTS),124,90,1,,1628929,,1611661325,87,62,2,4
+03:11,[NYL] Stewart Turnover : Bad Pass (1 TO) Steal:Mitchell (2 ST),46,56,5,1628909,1627668,,1611661313,87,62,0,4
+03:09,[NYL] Stewart Foul: Transition Take (3 PF) (1 FTA),200,253,6,1628909,1627668,1628702,1611661313,87,62,0,4
+03:09,[NYL] Prince Substitution replaced by Vandersloot,0,-80,8,,202259,202664,1611661313,87,62,0,4
+03:09,[IND 63-87] Mitchell Free Throw 1 of 1 (10 PTS),0,-80,3,,1628909,,1611661325,87,63,1,4
+03:09,[IND] Wallace Substitution replaced by Berger,0,-80,8,,1628929,1641658,1611661325,87,63,0,4
+02:59,[IND] Mitchell 3pt Shot: Missed,-241,-4,2,,1628909,,1611661325,87,63,0,4
+02:54,[NYL] Stewart Rebound (Off:0 Def:12),-241,-4,4,,1627668,,1611661313,87,63,0,4
+02:52,[NYL] Ionescu Turnover : Bad Pass (2 TO) Steal:Mitchell (3 ST),73,73,5,1628909,1629477,,1611661313,87,63,0,4
+02:48,[IND 65-87] Vivians Running Layup Shot: Made (5 PTS) Assist: Mitchell (3 AST),19,5,1,,1628927,1628909,1611661325,87,65,2,4
+02:28,[NYL] Willoughby Turnover : Step Out of Bounds Turnover (1 TO),-100,-48,5,,1630139,,1611661313,87,65,0,4
+02:28,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,87,65,0,4
+02:28,[NYL] Stewart Substitution replaced by Thornton,0,-80,8,,1627668,203866,1611661313,87,65,0,4
+02:28,[IND] Mitchell Substitution replaced by Caldwell,0,-80,8,,1628909,1630471,1611661325,87,65,0,4
+02:10,[IND 67-87] Berger Driving Reverse Layup Shot: Made (2 PTS),21,2,1,,1641658,,1611661325,87,67,2,4
+01:52,[NYL] Thornton Turnover : Out of Bounds - Bad Pass Turnover (2 TO),99,870,5,,203866,,1611661313,87,67,0,4
+01:52,[NYL] Ionescu Substitution replaced by Laney,0,-80,8,,1629477,204335,1611661313,87,67,0,4
+01:50,[NYL] Laney Foul: Personal (3 PF),-122,65,6,1630471,204335,100308,1611661313,87,67,0,4
+01:44,[IND] Berger Pullup Jump shot: Missed,100,140,2,,1641658,,1611661325,87,67,0,4
+01:41,[NYL] Thornton Rebound (Off:0 Def:5),100,140,4,,203866,,1611661313,87,67,0,4
+01:33,[NYL] Xu Turnover : Bad Pass (1 TO) Steal:Berger (1 ST),-46,11,5,1641658,1629566,,1611661313,87,67,0,4
+01:24,[NYL] Xu Foul: Shooting (1 PF) (2 FTA),-16,19,6,1631031,1629566,1628702,1611661313,87,67,0,4
+01:24,[IND 68-87] Egbo Free Throw 1 of 2 (1 PTS),0,-80,3,,1631031,,1611661325,87,68,1,4
+01:24,[IND] Cannon Substitution replaced by Saxton,0,-80,8,,1628242,1641687,1611661325,87,68,0,4
+01:24,[IND 69-87] Egbo Free Throw 2 of 2 (2 PTS),0,-80,3,,1631031,,1611661325,87,69,1,4
+01:07,[NYL] Vandersloot Driving Layup Shot: Missed Block: Berger (1 BLK),-36,11,2,1641658,202664,,1611661313,87,69,0,4
+01:06,[NYL] Team Rebound,-36,11,4,,0,,1611661313,87,69,0,4
+01:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,87,69,0,4
+00:59.7,[NYL] Laney Pullup Jump shot: Missed,59,106,2,,204335,,1611661313,87,69,0,4
+00:56.7,[IND] Saxton Rebound (Off:0 Def:1),59,106,4,,1641687,,1611661325,87,69,0,4
+00:50.0,[IND 71-87] Egbo Layup Shot: Made (4 PTS) Assist: Berger (1 AST),11,7,1,,1631031,1641658,1611661325,87,71,2,4
+00:33.1,[NYL 90-71] Vandersloot 3pt Shot: Made (11 PTS) Assist: Willoughby (1 AST),-154,194,1,,202664,1630139,1611661313,90,71,3,4
+00:19.5,[IND] Egbo Layup Shot: Missed Block: Xu (1 BLK),13,16,2,1629566,1631031,,1611661325,90,71,0,4
+00:19.5,[IND] Team Rebound,13,16,4,,0,,1611661325,90,71,0,4
+00:19.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,90,71,0,4
+00:14.1,[IND 73-90] Caldwell Pullup Jump shot: Made (2 PTS),-57,151,1,,1630471,,1611661325,90,73,2,4
+00:00.0,End Period,0,-80,13,,0,,0,90,73,0,4

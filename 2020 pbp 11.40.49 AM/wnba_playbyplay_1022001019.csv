@@ -1,0 +1,423 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Fowles vs Thomas (Dangerfield gains possession),0,-80,10,203826,201480,1630101,1611661324,0,0,1
+09:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,1
+09:46,[MIN] Fowles Turnover : Traveling (1 TO),-6,62,5,,201480,,1611661324,0,0,1
+09:31,[CON] Bonner Jump Shot: Missed,75,11,2,,201886,,1611661323,0,0,1
+09:29,[MIN] Johnson Rebound (Off:0 Def:1),75,11,4,,203018,,1611661324,0,0,1
+09:25,[MIN] Dantas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),3,255,5,,203024,,1611661324,0,0,1
+09:07,[CON] Bonner Turnover : Bad Pass (1 TO) Steal:Dantas (1 ST),96,69,5,203024,201886,,1611661323,0,0,1
+08:56,[MIN] Fowles Hook Shot: Missed,-14,58,2,,201480,,1611661324,0,0,1
+08:50,[CON] Thomas Rebound (Off:0 Def:1),-14,58,4,,203826,,1611661323,0,0,1
+08:48,[MIN] Fowles Foul: Shooting (1 PF) (2 FTA),-9,57,6,201886,201480,,1611661324,0,0,1
+08:48,[CON 1-0] Bonner Free Throw 1 of 2 (1 PTS),0,-80,3,,201886,,1611661323,1,0,1
+08:48,[CON 2-0] Bonner Free Throw 2 of 2 (2 PTS),0,-80,3,,201886,,1611661323,2,0,1
+08:33,[MIN] Collier Turnover : Lost Ball (1 TO) Steal:Bonner (1 ST),-67,238,5,201886,1629483,,1611661324,2,0,1
+08:27,[MIN] Dantas Foul: Personal (1 PF),73,59,6,202662,203024,,1611661324,2,0,1
+08:20,[CON 4-0] Thomas Driving Layup Shot: Made (2 PTS),24,13,1,,202662,,1611661323,4,0,1
+08:00,[MIN] Johnson Floating Jump shot: Missed,-18,96,2,,203018,,1611661324,4,0,1
+07:57,[CON] Thomas Rebound (Off:0 Def:2),-18,96,4,,203826,,1611661323,4,0,1
+07:53,[CON] Thomas 3pt Shot: Missed,229,78,2,,202662,,1611661323,4,0,1
+07:53,[MIN] Dantas Rebound (Off:0 Def:1),229,78,4,,203024,,1611661324,4,0,1
+07:43,[MIN 2-4] Fowles Layup Shot: Made (2 PTS) Assist: Dantas (1 AST),21,17,1,,201480,203024,1611661324,4,2,1
+07:23,[CON 7-2] Holmes 3pt Shot: Made (3 PTS),-27,257,1,,1627678,,1611661323,7,2,1
+07:04,[MIN] Fowles Reverse Layup Shot: Missed,-39,28,2,,201480,,1611661324,7,2,1
+07:00,[MIN] Collier Rebound (Off:1 Def:0),-39,28,4,,1629483,,1611661324,7,2,1
+07:00,[MIN 4-7] Collier Putback Layup Shot: Made (2 PTS),0,-5,1,,1629483,,1611661324,7,4,1
+06:56,[MIN] Fowles Foul: Personal (2 PF),-37,5,6,202662,201480,,1611661324,7,4,1
+06:56,[MIN] Fowles Substitution replaced by Herbert Harrigan,0,-80,8,,201480,1630114,1611661324,7,4,1
+06:56,[MIN] Johnson Substitution replaced by Banham,0,-80,8,,203018,1627671,1611661324,7,4,1
+06:50,[CON 9-4] Holmes Driving Layup Shot: Made (5 PTS),39,6,1,,1627678,,1611661323,9,4,1
+06:28,[CON] Bonner Foul: Shooting (1 PF) (2 FTA),-43,18,6,1629483,201886,,1611661323,9,4,1
+06:28,[MIN 5-9] Collier Free Throw 1 of 2 (3 PTS),0,-80,3,,1629483,,1611661324,9,5,1
+06:28,[MIN 6-9] Collier Free Throw 2 of 2 (4 PTS),0,-80,3,,1629483,,1611661324,9,6,1
+06:12,[CON] Thomas Layup Shot: Missed,-48,31,2,1630114,203826,,1611661323,9,6,1
+06:09,[MIN] Dangerfield Rebound (Off:0 Def:1),-48,31,4,,1630101,,1611661324,9,6,1
+06:04,[MIN] Banham Layup Shot: Missed,30,54,2,1628280,1627671,,1611661324,9,6,1
+06:02,[CON] Thomas Rebound (Off:0 Def:3),30,54,4,,203826,,1611661323,9,6,1
+05:54,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Dangerfield (1 ST),-9,84,5,1630101,203826,,1611661323,9,6,1
+05:50,[MIN] Collier Turnover : Bad Pass (2 TO) Steal:Holmes (1 ST),169,27,5,1627678,1629483,,1611661324,9,6,1
+05:43,[MIN] Banham Foul: Shooting (1 PF) (2 FTA),-35,22,6,1628280,1627671,,1611661324,9,6,1
+05:43,[CON 10-6] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1628280,,1611661323,10,6,1
+05:43,[CON 11-6] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1628280,,1611661323,11,6,1
+05:28,[MIN] Collier Turnover : Bad Pass (3 TO) Steal:Thomas (1 ST),10,259,5,203826,1629483,,1611661324,11,6,1
+05:26,[MIN] Dantas Foul: Personal (2 PF) (2 FTA),160,744,6,201886,203024,,1611661324,11,6,1
+05:26,[CON 12-6] Bonner Free Throw 1 of 2 (3 PTS),0,-80,3,,201886,,1611661323,12,6,1
+05:26,[MIN] Collier Substitution replaced by Carleton,0,-80,8,,1629483,1629524,1611661324,12,6,1
+05:26,[MIN] Dantas Substitution replaced by McCall,0,-80,8,,203024,1628286,1611661324,12,6,1
+05:26,[CON 13-6] Bonner Free Throw 2 of 2 (4 PTS),0,-80,3,,201886,,1611661323,13,6,1
+05:11,[MIN] Banham Pullup Jump shot: Missed,-45,163,2,,1627671,,1611661324,13,6,1
+05:11,[MIN] Team Rebound,-45,163,4,,0,,1611661324,13,6,1
+05:11,[CON] Thomas Foul: Personal (1 PF),-45,163,6,1629524,203826,,1611661323,13,6,1
+05:00,[MIN] Dangerfield 3pt Shot: Missed,-23,263,2,,1630101,,1611661324,13,6,1
+04:58,[MIN] Carleton Rebound (Off:1 Def:0),-23,263,4,,1629524,,1611661324,13,6,1
+04:56,[MIN 8-13] Carleton Turnaround Jump Shot: Made (2 PTS),105,67,1,,1629524,,1611661324,13,8,1
+04:43,[CON] Holmes Driving Layup Shot: Missed,-72,21,2,,1627678,,1611661323,13,8,1
+04:43,[MIN] Team Rebound,-72,21,4,,0,,1611661324,13,8,1
+04:43,[CON] Holmes Foul: Personal (1 PF),-73,764,6,1628286,1627678,,1611661323,13,8,1
+04:43,Timeout Officials,0,-80,9,,0,,0,13,8,1
+04:43,[CON] Bonner Substitution replaced by Mosqueda-Lewis,0,-80,8,,201886,204321,1611661323,13,8,1
+04:30,[MIN] Banham 3pt Shot: Missed,2,274,2,,1627671,,1611661324,13,8,1
+04:29,[CON] Thomas Rebound (Off:0 Def:4),2,274,4,,203826,,1611661323,13,8,1
+04:27,[CON] Thomas Turnover : Traveling (1 TO),234,33,5,,202662,,1611661323,13,8,1
+04:17,[MIN] Dangerfield 3pt Shot: Missed,0,268,2,,1630101,,1611661324,13,8,1
+04:17,[CON] Team Rebound,0,268,4,,0,,1611661323,13,8,1
+04:05,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Carleton (1 ST),206,134,5,1629524,202662,,1611661323,13,8,1
+04:02,[CON] Mosqueda-Lewis Foul: Shooting (1 PF) (2 FTA),-35,16,6,1629524,204321,,1611661323,13,8,1
+04:02,[MIN] Carleton Free Throw 1 of 2 Missed,0,-80,3,,1629524,,1611661324,13,8,1
+04:02,[MIN] Team Rebound,0,-80,4,,0,,1611661324,13,8,1
+04:02,[MIN] Dangerfield Substitution replaced by Johnson,0,-80,8,,1630101,203018,1611661324,13,8,1
+04:02,[MIN 9-13] Carleton Free Throw 2 of 2 (3 PTS),0,-80,3,,1629524,,1611661324,13,9,1
+03:44,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,13,9,1
+03:41,Jump Ball Jones vs McCall (Hiedeman gains possession),0,-80,10,1628286,1628280,1629567,1611661323,13,9,1
+03:36,[CON] Hiedeman Driving Layup Shot: Missed,-96,102,2,,1629567,,1611661323,13,9,1
+03:33,[MIN] McCall Rebound (Off:0 Def:1),-96,102,4,,1628286,,1611661324,13,9,1
+03:22,[MIN] Herbert Harrigan 3pt Shot: Missed,-214,65,2,,1630114,,1611661324,13,9,1
+03:19,[CON] Mosqueda-Lewis Rebound (Off:0 Def:1),-214,65,4,,204321,,1611661323,13,9,1
+03:18,[CON] Holmes Turnover : Bad Pass (1 TO),39,396,5,,1627678,,1611661323,13,9,1
+03:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,9,1
+03:18,[CON] Jones Substitution replaced by Bonner,0,-80,8,,1628280,201886,1611661323,13,9,1
+03:10,[CON] Hiedeman Foul: Personal (1 PF) (2 FTA),-121,214,6,1627671,1629567,,1611661323,13,9,1
+03:10,[MIN 10-13] Banham Free Throw 1 of 2 (1 PTS),0,-80,3,,1627671,,1611661324,13,10,1
+03:10,[MIN] Herbert Harrigan Substitution replaced by Collier,0,-80,8,,1630114,1629483,1611661324,13,10,1
+03:10,[MIN] Banham Free Throw 2 of 2 Missed,0,-80,3,,1627671,,1611661324,13,10,1
+03:09,[MIN] Team Rebound,0,-80,4,,0,,1611661324,13,10,1
+03:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,10,1
+02:59,[CON] Hiedeman Foul: Shooting (2 PF) (2 FTA),57,33,6,1628286,1629567,,1611661323,13,10,1
+02:59,[MIN] McCall Free Throw 1 of 2 Missed,0,-80,3,,1628286,,1611661324,13,10,1
+02:59,[MIN] Team Rebound,0,-80,4,,0,,1611661324,13,10,1
+02:59,Stoppage: Blood Rule,0,-80,20,,0,,0,13,10,1
+02:59,[MIN 11-13] McCall Free Throw 2 of 2 (1 PTS),0,-80,3,,1628286,,1611661324,13,11,1
+02:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,11,1
+02:42,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,13,11,1
+02:38,[MIN] McCall Foul: Shooting (1 PF) (2 FTA),-22,62,6,203826,1628286,,1611661324,13,11,1
+02:38,[CON 14-11] Thomas Free Throw 1 of 2 (1 PTS),0,-80,3,,203826,,1611661323,14,11,1
+02:38,[CON 15-11] Thomas Free Throw 2 of 2 (2 PTS),0,-80,3,,203826,,1611661323,15,11,1
+02:15,[MIN 13-15] Banham Pullup Jump shot: Made (3 PTS),-64,142,1,,1627671,,1611661324,15,13,1
+02:10,[MIN] Banham Foul: Personal (2 PF) (2 FTA),143,524,6,1629567,1627671,,1611661324,15,13,1
+02:10,Stoppage: Injury,0,-80,20,,0,,0,15,13,1
+02:10,[MIN] Johnson Substitution replaced by Dangerfield,0,-80,8,,203018,1630101,1611661324,15,13,1
+02:10,[CON] Hiedeman Free Throw 1 of 2 Missed,0,-80,3,,1629567,,1611661323,15,13,1
+02:10,[CON] Team Rebound,0,-80,4,,0,,1611661323,15,13,1
+02:10,[CON 16-13] Hiedeman Free Throw 2 of 2 (1 PTS),0,-80,3,,1629567,,1611661323,16,13,1
+01:52,[MIN] Dangerfield Turnover : Lost Ball (1 TO) Steal:Thomas (2 ST),-2,227,5,203826,1630101,,1611661324,16,13,1
+01:52,[MIN] Banham Foul: Personal (3 PF) (2 FTA),-3,463,6,203826,1627671,,1611661324,16,13,1
+01:52,[CON 17-13] Thomas Free Throw 1 of 2 (3 PTS),0,-80,3,,203826,,1611661323,17,13,1
+01:52,[MIN] Banham Substitution replaced by Herbert Harrigan,0,-80,8,,1627671,1630114,1611661324,17,13,1
+01:52,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,17,13,1
+01:49,[MIN] McCall Rebound (Off:0 Def:2),0,-80,4,,1628286,,1611661324,17,13,1
+01:36,[MIN] Carleton Turnover : Out of Bounds Lost Ball Turnover (1 TO),-218,88,5,,1629524,,1611661324,17,13,1
+01:20,[CON] Thomas Turnaround Jump Shot: Missed,13,73,2,,203826,,1611661323,17,13,1
+01:18,[MIN] McCall Rebound (Off:0 Def:3),13,73,4,,1628286,,1611661324,17,13,1
+01:13,[MIN 15-17] Collier Fadeaway Jump Shot: Made (6 PTS),-95,35,1,,1629483,,1611661324,17,15,1
+01:00,[CON] Holmes Jump Shot: Missed,31,84,2,1629483,1627678,,1611661323,17,15,1
+00:56.3,[CON] Bonner Rebound (Off:1 Def:0),31,84,4,,201886,,1611661323,17,15,1
+00:51.3,[CON] Mosqueda-Lewis 3pt Shot: Missed,176,207,2,,204321,,1611661323,17,15,1
+00:49.0,[MIN] Collier Rebound (Off:1 Def:1),176,207,4,,1629483,,1611661324,17,15,1
+00:42.7,[MIN] Dangerfield Layup Shot: Missed,-75,7,2,,1630101,,1611661324,17,15,1
+00:42.3,[MIN] Collier Rebound (Off:2 Def:1),-75,7,4,,1629483,,1611661324,17,15,1
+00:42.3,[MIN 17-17] Collier Putback Layup Shot: Made (8 PTS),0,-5,1,,1629483,,1611661324,17,17,1
+00:22.0,[CON] Mosqueda-Lewis 3pt Shot: Missed,121,194,2,,204321,,1611661323,17,17,1
+00:20.2,[MIN] Herbert Harrigan Rebound (Off:0 Def:1),121,194,4,,1630114,,1611661324,17,17,1
+00:04.3,[CON] Holmes Foul: Personal (2 PF) (2 FTA),-73,243,6,1629483,1627678,,1611661323,17,17,1
+00:04.3,[MIN] Collier Free Throw 1 of 2 Missed,0,-80,3,,1629483,,1611661324,17,17,1
+00:04.3,[MIN] Team Rebound,0,-80,4,,0,,1611661324,17,17,1
+00:04.3,[MIN 18-17] Collier Free Throw 2 of 2 (9 PTS),0,-80,3,,1629483,,1611661324,17,18,1
+00:00.0,[CON] Bonner 3pt Shot: Missed,178,290,2,,201886,,1611661323,17,18,1
+00:00.0,[CON] Team Rebound,178,290,4,,0,,1611661323,17,18,1
+00:00.0,End Period,0,-80,13,,0,,0,17,18,1
+10:00,Start Period,0,-80,12,,0,,0,17,18,2
+09:45,[CON] Holmes Turnover : Traveling (2 TO),170,22,5,,1627678,,1611661323,17,18,2
+09:31,[MIN] Dantas 3pt Shot: Missed,13,264,2,,203024,,1611661324,17,18,2
+09:27,[MIN] Fowles Rebound (Off:1 Def:0),13,264,4,,201480,,1611661324,17,18,2
+09:27,[MIN 20-17] Fowles Putback Layup Shot: Made (4 PTS),0,-5,1,,201480,,1611661324,17,20,2
+09:14,[CON] Holmes 3pt Shot: Missed,-87,244,2,,1627678,,1611661323,17,20,2
+09:12,[MIN] Fowles Rebound (Off:1 Def:1),-87,244,4,,201480,,1611661324,17,20,2
+09:07,[MIN 22-17] Collier Layup Shot: Made (11 PTS) Assist: Dangerfield (1 AST),-32,10,1,,1629483,1630101,1611661324,17,22,2
+08:49,[CON 20-22] Bonner 3pt Shot: Made (7 PTS),18,267,1,,201886,,1611661323,20,22,2
+08:23,[MIN] Dangerfield Turnaround Jump Shot: Missed,114,7,2,,1630101,,1611661324,20,22,2
+08:21,[CON] Thomas Rebound (Off:0 Def:5),114,7,4,,203826,,1611661323,20,22,2
+08:12,[CON 23-22] Mosqueda-Lewis 3pt Shot: Made (3 PTS) Assist: Bonner (1 AST),8,280,1,,204321,201886,1611661323,23,22,2
+07:55,[CON] Mosqueda-Lewis Foul: Shooting (2 PF) (2 FTA),27,31,6,201480,204321,,1611661323,23,22,2
+07:55,[MIN 23-23] Fowles Free Throw 1 of 2 (5 PTS),0,-80,3,,201480,,1611661324,23,23,2
+07:55,[CON] Mosqueda-Lewis Substitution replaced by Gemelos,0,-80,8,,204321,203043,1611661323,23,23,2
+07:55,[CON] Holmes Substitution replaced by Jones,0,-80,8,,1627678,1628280,1611661323,23,23,2
+07:55,[MIN 24-23] Fowles Free Throw 2 of 2 (6 PTS),0,-80,3,,201480,,1611661324,23,24,2
+07:38,[CON] Gemelos Turnover : Lost Ball (1 TO) Steal:Dantas (2 ST),185,-5,5,203024,203043,,1611661323,23,24,2
+07:24,[MIN] Fowles Jump Shot: Missed,133,53,2,,201480,,1611661324,23,24,2
+07:24,[CON] Team Rebound,133,53,4,,0,,1611661323,23,24,2
+07:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,24,2
+07:15,[MIN] Dangerfield Foul: Shooting (1 PF) (2 FTA),-71,38,6,1629567,1630101,,1611661324,23,24,2
+07:15,[CON] Hiedeman Free Throw 1 of 2 Missed,0,-80,3,,1629567,,1611661323,23,24,2
+07:15,[CON] Team Rebound,0,-80,4,,0,,1611661323,23,24,2
+07:15,[CON] Hiedeman Free Throw 2 of 2 Missed,0,-80,3,,1629567,,1611661323,23,24,2
+07:13,[MIN] Fowles Rebound (Off:1 Def:2),0,-80,4,,201480,,1611661324,23,24,2
+07:05,[MIN] Dangerfield Turnover : Lost Ball (2 TO) Steal:Hiedeman (1 ST),-145,203,5,1629567,1630101,,1611661324,23,24,2
+07:05,[MIN] Collier Foul: Personal (1 PF),196,465,6,201886,1629483,,1611661324,23,24,2
+06:54,[CON 26-24] Bonner 3pt Shot: Made (10 PTS),209,117,1,,201886,,1611661323,26,24,2
+06:36,[MIN 26-26] Fowles Turnaround Jump Shot: Made (8 PTS) Assist: Collier (1 AST),-35,34,1,,201480,1629483,1611661324,26,26,2
+06:12,[CON] Bonner Turnaround Jump Shot: Missed,-11,176,2,,201886,,1611661323,26,26,2
+06:10,[MIN] Collier Rebound (Off:2 Def:2),-11,176,4,,1629483,,1611661324,26,26,2
+06:02,[MIN] Dantas Turnover : Lost Ball (2 TO) Steal:Thomas (3 ST),-22,43,5,203826,203024,,1611661324,26,26,2
+05:55,[CON] Gemelos 3pt Shot: Missed,-213,91,2,,203043,,1611661323,26,26,2
+05:53,[CON] Jones Rebound (Off:1 Def:0),-213,91,4,,1628280,,1611661323,26,26,2
+05:52,[CON 28-26] Jones Putback Layup Shot: Made (4 PTS),-16,11,1,,1628280,,1611661323,28,26,2
+05:36,[MIN] Dantas Turnover : Bad Pass (3 TO) Steal:Jones (1 ST),2,244,5,1628280,203024,,1611661324,28,26,2
+05:31,[CON] Hiedeman Turnover : Bad Pass (1 TO),96,220,5,,1629567,,1611661323,28,26,2
+05:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,26,2
+05:31,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,28,26,2
+05:31,[CON] Hiedeman Substitution replaced by Thomas,0,-80,8,,1629567,202662,1611661323,28,26,2
+05:11,[MIN] Dantas Layup Shot: Missed,49,58,2,,203024,,1611661324,28,26,2
+05:09,[MIN] Fowles Rebound (Off:2 Def:2),49,58,4,,201480,,1611661324,28,26,2
+05:09,[MIN] Fowles Turnaround Hook Shot: Missed,-31,24,2,,201480,,1611661324,28,26,2
+05:07,[CON] Jones Rebound (Off:1 Def:1),-31,24,4,,1628280,,1611661323,28,26,2
+04:51,[CON 31-26] Bonner 3pt Shot: Made (13 PTS) Assist: Thomas (1 AST),-70,262,1,,201886,202662,1611661323,31,26,2
+04:29,[MIN] Dangerfield 3pt Shot: Missed,187,195,2,,1630101,,1611661324,31,26,2
+04:27,[MIN] Collier Rebound (Off:3 Def:2),187,195,4,,1629483,,1611661324,31,26,2
+04:20,[MIN] Fowles Turnaround Hook Shot: Missed,-46,48,2,,201480,,1611661324,31,26,2
+04:18,[CON] Thomas Rebound (Off:0 Def:6),-46,48,4,,203826,,1611661323,31,26,2
+04:08,[CON] Thomas 3pt Shot: Missed,195,160,2,,202662,,1611661323,31,26,2
+04:07,[CON] Bonner Rebound (Off:2 Def:0),195,160,4,,201886,,1611661323,31,26,2
+04:02,[CON 33-26] Jones Driving Reverse Layup Shot: Made (6 PTS),32,11,1,,1628280,,1611661323,33,26,2
+04:02,[MIN] Fowles Foul: Shooting (3 PF) (1 FTA),32,11,6,1628280,201480,,1611661324,33,26,2
+04:02,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,33,26,2
+04:02,[MIN] Fowles Substitution replaced by Herbert Harrigan,0,-80,8,,201480,1630114,1611661324,33,26,2
+04:02,[CON 34-26] Jones Free Throw 1 of 1 (7 PTS),0,-80,3,,1628280,,1611661323,34,26,2
+03:46,[MIN 28-34] Herbert Harrigan Jump Shot: Made (2 PTS) Assist: Carleton (1 AST),67,155,1,,1630114,1629524,1611661324,34,28,2
+03:24,[CON 37-28] Bonner 3pt Shot: Made (16 PTS),95,221,1,,201886,,1611661323,37,28,2
+03:04,[CON] Gemelos Foul: Shooting (1 PF) (2 FTA),-73,23,6,1629524,203043,,1611661323,37,28,2
+03:04,Stoppage Other,0,-80,20,,0,,0,37,28,2
+03:04,[MIN 29-37] Carleton Free Throw 1 of 2 (4 PTS),0,-80,3,,1629524,,1611661324,37,29,2
+03:04,[MIN] Carleton Free Throw 2 of 2 Missed,0,-80,3,,1629524,,1611661324,37,29,2
+03:02,[CON] Jones Rebound (Off:1 Def:2),0,-80,4,,1628280,,1611661323,37,29,2
+02:46,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Herbert Harrigan (1 ST),2,100,5,1630114,203826,,1611661323,37,29,2
+02:35,[MIN] Herbert Harrigan 3pt Shot: Missed,132,211,2,,1630114,,1611661324,37,29,2
+02:33,[CON] Thomas Rebound (Off:0 Def:1),132,211,4,,202662,,1611661323,37,29,2
+02:27,[MIN] Collier Foul: Shooting (2 PF) (2 FTA),-46,15,6,201886,1629483,,1611661324,37,29,2
+02:27,[CON 38-29] Bonner Free Throw 1 of 2 (17 PTS),0,-80,3,,201886,,1611661323,38,29,2
+02:27,[CON] Gemelos Substitution replaced by Charles,0,-80,8,,203043,1630097,1611661323,38,29,2
+02:27,[CON 39-29] Bonner Free Throw 2 of 2 (18 PTS),0,-80,3,,201886,,1611661323,39,29,2
+02:23,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,39,29,2
+02:11,[MIN] Dantas 3pt Shot: Missed,156,204,2,,203024,,1611661324,39,29,2
+02:11,[CON] Team Rebound,156,204,4,,0,,1611661323,39,29,2
+02:03,[CON] Thomas Driving Layup Shot: Missed,40,21,2,1629483,202662,,1611661323,39,29,2
+02:03,[MIN] Team Rebound,40,21,4,,0,,1611661324,39,29,2
+01:53,[MIN] Herbert Harrigan Layup Shot: Missed,60,29,2,1630097,1630114,,1611661324,39,29,2
+01:46,[MIN] Collier Rebound (Off:4 Def:2),60,29,4,,1629483,,1611661324,39,29,2
+01:46,[MIN 31-39] Collier Putback Layup Shot: Made (13 PTS),0,-5,1,,1629483,,1611661324,39,31,2
+01:40,[CON] Thomas Jump Shot: Missed,2,59,2,1629483,203826,,1611661323,39,31,2
+01:40,[MIN] Team Rebound,2,59,4,,0,,1611661324,39,31,2
+01:28,[CON] Charles Foul: Personal (1 PF),127,184,6,1630114,1630097,,1611661323,39,31,2
+01:11,[MIN] Herbert Harrigan Pullup Jump shot: Missed,13,203,2,,1630114,,1611661324,39,31,2
+01:09,[CON] Bonner Rebound (Off:2 Def:1),13,203,4,,201886,,1611661323,39,31,2
+01:00,[CON] Thomas Driving Layup Shot: Missed,26,24,2,,202662,,1611661323,39,31,2
+00:59.0,[CON] Thomas Rebound (Off:1 Def:1),26,24,4,,202662,,1611661323,39,31,2
+00:58.1,[CON 41-31] Thomas Driving Layup Shot: Made (4 PTS),30,27,1,,202662,,1611661323,41,31,2
+00:44.2,[MIN] Collier Turnover : Lost Ball (4 TO) Steal:Charles (1 ST),-24,93,5,1630097,1629483,,1611661324,41,31,2
+00:38.7,[CON] Charles Jump Shot: Missed,39,30,2,,1630097,,1611661323,41,31,2
+00:37.0,[MIN] Carleton Rebound (Off:1 Def:1),39,30,4,,1629524,,1611661324,41,31,2
+00:31.6,[MIN 33-41] Dangerfield Floating Jump shot: Made (2 PTS),16,45,1,,1630101,,1611661324,41,33,2
+00:19.7,[MIN] Collier Foul: Personal (3 PF) (2 FTA),124,132,6,1628280,1629483,,1611661324,41,33,2
+00:19.7,[CON 42-33] Jones Free Throw 1 of 2 (8 PTS),0,-80,3,,1628280,,1611661323,42,33,2
+00:19.7,[CON] Charles Substitution replaced by Holmes,0,-80,8,,1630097,1627678,1611661323,42,33,2
+00:19.7,[MIN] Collier Substitution replaced by Huff,0,-80,8,,1629483,1629570,1611661324,42,33,2
+00:19.7,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,42,33,2
+00:19.7,[MIN] Dantas Rebound (Off:0 Def:2),0,-80,4,,203024,,1611661324,42,33,2
+00:05.0,[CON] Holmes Foul: Shooting (3 PF) (2 FTA),58,38,6,1630101,1627678,,1611661323,42,33,2
+00:05.0,[MIN 34-42] Dangerfield Free Throw 1 of 2 (3 PTS),0,-80,3,,1630101,,1611661324,42,34,2
+00:05.0,[MIN 35-42] Dangerfield Free Throw 2 of 2 (4 PTS),0,-80,3,,1630101,,1611661324,42,35,2
+00:00.0,[CON] Bonner 3pt Shot: Missed,4,371,2,,201886,,1611661323,42,35,2
+00:00.0,[CON] Team Rebound,4,371,4,,0,,1611661323,42,35,2
+00:00.0,End Period,0,-80,13,,0,,0,42,35,2
+10:00,Start Period,0,-80,12,,0,,0,42,35,3
+09:48,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Fowles (1 ST),64,255,5,201480,203826,,1611661323,42,35,3
+09:29,[MIN 37-42] Fowles Reverse Layup Shot: Made (10 PTS) Assist: Collier (2 AST),13,22,1,,201480,1629483,1611661324,42,37,3
+09:12,[MIN] Fowles Foul: Shooting (4 PF) (2 FTA),-48,42,6,1628280,201480,,1611661324,42,37,3
+09:12,Stoppage Other,0,-80,20,,0,,0,42,37,3
+09:12,[CON 43-37] Jones Free Throw 1 of 2 (9 PTS),0,-80,3,,1628280,,1611661323,43,37,3
+09:12,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,43,37,3
+09:08,[MIN] Dantas Rebound (Off:0 Def:3),0,-80,4,,203024,,1611661324,43,37,3
+08:51,[MIN 39-43] Carleton Turnaround Fadeaway Bank Jump Shot: Made (6 PTS),50,37,1,,1629524,,1611661324,43,39,3
+08:35,[CON] Jones Jump Shot: Missed,-132,31,2,,1628280,,1611661323,43,39,3
+08:32,[MIN] Collier Rebound (Off:4 Def:3),-132,31,4,,1629483,,1611661324,43,39,3
+08:21,[MIN] Dantas Jump Shot: Missed,2,70,2,,203024,,1611661324,43,39,3
+08:20,[CON] Bonner Rebound (Off:2 Def:2),2,70,4,,201886,,1611661323,43,39,3
+08:13,[CON 45-39] Jones Jump Shot: Made (11 PTS) Assist: Thomas (2 AST),108,80,1,,1628280,202662,1611661323,45,39,3
+07:52,[MIN 41-45] Fowles Layup Shot: Made (12 PTS) Assist: Collier (3 AST),-28,10,1,,201480,1629483,1611661324,45,41,3
+07:37,[CON 47-41] Jones Turnaround Jump Shot: Made (13 PTS) Assist: Thomas (3 AST),-24,35,1,,1628280,202662,1611661323,47,41,3
+07:15,[MIN] Dantas Turnaround Jump Shot: Missed,-120,3,2,,203024,,1611661324,47,41,3
+07:10,[MIN] Fowles Rebound (Off:3 Def:2),-120,3,4,,201480,,1611661324,47,41,3
+07:10,[MIN 43-47] Fowles Putback Layup Shot: Made (14 PTS),0,-5,1,,201480,,1611661324,47,43,3
+07:05,[MIN] Dantas Foul: Personal (3 PF),117,147,6,203826,203024,,1611661324,47,43,3
+06:57,[CON] Bonner 3pt Shot: Missed,97,257,2,,201886,,1611661323,47,43,3
+06:55,[MIN] Dantas Rebound (Off:0 Def:4),97,257,4,,203024,,1611661324,47,43,3
+06:40,[MIN 46-47] Dangerfield 3pt Shot: Made (7 PTS) Assist: Collier (4 AST),-143,232,1,,1630101,1629483,1611661324,47,46,3
+06:30,[CON 49-46] Thomas Pullup Jump shot: Made (6 PTS),16,164,1,,202662,,1611661323,49,46,3
+06:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,46,3
+06:07,[MIN 48-49] Carleton Driving Layup Shot: Made (8 PTS) Assist: Dangerfield (2 AST),-32,35,1,,1629524,1630101,1611661324,49,48,3
+05:50,[CON] Holmes 3pt Shot: Missed,194,164,2,,1627678,,1611661323,49,48,3
+05:48,[CON] Thomas Rebound (Off:1 Def:6),194,164,4,,203826,,1611661323,49,48,3
+05:46,[CON 51-48] Holmes Hook Shot: Made (7 PTS) Assist: Thomas (1 AST),-46,15,1,,1627678,203826,1611661323,51,48,3
+05:28,[MIN 51-51] Dangerfield 3pt Shot: Made (10 PTS) Assist: Dantas (2 AST),56,241,1,,1630101,203024,1611661324,51,51,3
+05:14,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Dangerfield (2 ST),88,166,5,1630101,202662,,1611661323,51,51,3
+05:13,Stoppage: Injury,0,-80,20,,0,,0,51,51,3
+05:13,Jump Ball Dantas vs Jones (Dangerfield gains possession),0,-80,10,1628280,203024,1630101,1611661324,51,51,3
+05:07,[MIN 53-51] Dangerfield Running Layup Shot: Made (12 PTS),3,9,1,,1630101,,1611661324,51,53,3
+04:48,[CON] Thomas 3pt Shot: Missed,-195,164,2,,202662,,1611661323,51,53,3
+04:46,[MIN] Collier Rebound (Off:4 Def:4),-195,164,4,,1629483,,1611661324,51,53,3
+04:26,[MIN] Fowles Turnaround Jump Shot: Missed,-8,72,2,,201480,,1611661324,51,53,3
+04:24,[CON] Jones Rebound (Off:1 Def:3),-8,72,4,,1628280,,1611661323,51,53,3
+04:16,[CON 54-53] Bonner 3pt Shot: Made (21 PTS) Assist: Holmes (1 AST),-218,42,1,,201886,1627678,1611661323,54,53,3
+03:59,[MIN] Dangerfield Layup Shot: Missed,-16,11,2,,1630101,,1611661324,54,53,3
+03:59,[MIN] Fowles Rebound (Off:4 Def:2),-16,11,4,,201480,,1611661324,54,53,3
+03:59,[CON] Holmes Foul: Shooting (4 PF) (2 FTA),-16,11,6,201480,1627678,,1611661323,54,53,3
+03:59,Timeout Officials,0,-80,9,,0,,0,54,53,3
+03:59,[MIN] Fowles Free Throw 1 of 2 Missed,0,-80,3,,201480,,1611661324,54,53,3
+03:59,[MIN] Team Rebound,0,-80,4,,0,,1611661324,54,53,3
+03:59,[MIN 54-54] Fowles Free Throw 2 of 2 (15 PTS),0,-80,3,,201480,,1611661324,54,54,3
+03:59,Stoppage Other,0,-80,20,,0,,0,54,54,3
+03:42,[CON] Thomas Hook Shot: Missed,-56,29,2,,203826,,1611661323,54,54,3
+03:39,[MIN] Dantas Rebound (Off:0 Def:5),-56,29,4,,203024,,1611661324,54,54,3
+03:24,[MIN] Dantas 3pt Shot: Missed,-2,250,2,,203024,,1611661324,54,54,3
+03:24,[MIN] Team Rebound,-2,250,4,,0,,1611661324,54,54,3
+03:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,54,3
+03:24,[MIN] Dangerfield Substitution replaced by Banham,0,-80,8,,1630101,1627671,1611661324,54,54,3
+03:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,54,3
+03:13,[CON] Bonner Foul: Personal (2 PF),35,183,6,1629524,201886,,1611661323,54,54,3
+02:56,[MIN] Banham 3pt Shot: Missed,-7,294,2,,1627671,,1611661324,54,54,3
+02:56,[CON] Jones Rebound (Off:1 Def:4),-7,294,4,,1628280,,1611661323,54,54,3
+02:53,Jump Ball Fowles vs Jones (Collier gains possession),0,-80,10,1628280,201480,1629483,1611661324,54,54,3
+02:53,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Fowles (2 ST),0,-80,5,201480,1628280,,1611661323,54,54,3
+02:39,[MIN 56-54] Collier Pullup Jump shot: Made (15 PTS),-115,-2,1,,1629483,,1611661324,54,56,3
+02:20,[CON 56-56] Bonner Jump Shot: Made (23 PTS) Assist: Thomas (4 AST),-132,-16,1,,201886,202662,1611661323,56,56,3
+02:07,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),74,31,6,1627671,202662,,1611661323,56,56,3
+02:07,[MIN 57-56] Banham Free Throw 1 of 2 (4 PTS),0,-80,3,,1627671,,1611661324,56,57,3
+02:07,[MIN] Carleton Substitution replaced by Dangerfield,0,-80,8,,1629524,1630101,1611661324,56,57,3
+02:07,[MIN 58-56] Banham Free Throw 2 of 2 (5 PTS),0,-80,3,,1627671,,1611661324,56,58,3
+01:48,[CON] Jones Hook Shot: Missed,108,44,2,,1628280,,1611661323,56,58,3
+01:46,[MIN] Dantas Rebound (Off:0 Def:6),108,44,4,,203024,,1611661324,56,58,3
+01:36,[MIN] Fowles Layup Shot: Missed,40,47,2,,201480,,1611661324,56,58,3
+01:34,[CON] Jones Rebound (Off:1 Def:5),40,47,4,,1628280,,1611661323,56,58,3
+01:24,[CON] Jones Turnover : Lost Ball (2 TO) Steal:Dangerfield (3 ST),-71,90,5,1630101,1628280,,1611661323,56,58,3
+01:18,[MIN] Dangerfield Turnover : Lost Ball (3 TO) Steal:Thomas (4 ST),90,96,5,203826,1630101,,1611661324,56,58,3
+01:07,[CON] Bonner Layup Shot: Missed,-56,29,2,,201886,,1611661323,56,58,3
+01:03,[CON] Jones Rebound (Off:2 Def:5),-56,29,4,,1628280,,1611661323,56,58,3
+01:03,[CON 58-58] Jones Putback Layup Shot: Made (15 PTS),0,-5,1,,1628280,,1611661323,58,58,3
+00:55.2,[CON] Thomas Foul: Personal (2 PF),-136,177,6,203024,203826,,1611661323,58,58,3
+00:55.2,Stoppage: Injury,0,-80,20,,0,,0,58,58,3
+00:55.2,[CON] Holmes Substitution replaced by Mosqueda-Lewis,0,-80,8,,1627678,204321,1611661323,58,58,3
+00:55.2,[CON] Jones Substitution replaced by Plaisance,0,-80,8,,1628280,203849,1611661323,58,58,3
+00:55.2,[MIN] Fowles Substitution replaced by McCall,0,-80,8,,201480,1628286,1611661324,58,58,3
+00:55.2,Timeout Officials,0,-80,9,,0,,0,58,58,3
+00:38.9,[MIN] Dantas 3pt Shot: Missed,-58,298,2,,203024,,1611661324,58,58,3
+00:38.9,[MIN] Team Rebound,-58,298,4,,0,,1611661324,58,58,3
+00:38.9,[MIN] Team Turnover : Shot Clock Turnover,-93,246,5,,0,,1611661324,58,58,3
+00:29.8,[CON] Thomas Jump Shot: Missed,-71,66,2,,202662,,1611661323,58,58,3
+00:28.0,[MIN] McCall Rebound (Off:0 Def:4),-71,66,4,,1628286,,1611661324,58,58,3
+00:21.6,[MIN] Collier Turnover : Lost Ball (5 TO) Steal:Bonner (2 ST),-124,242,5,201886,1629483,,1611661324,58,58,3
+00:18.2,[CON 60-58] Bonner Running Layup Shot: Made (25 PTS),35,6,1,,201886,,1611661323,60,58,3
+00:05.7,[MIN 61-60] Dangerfield 3pt Shot: Made (15 PTS),98,230,1,,1630101,,1611661324,60,61,3
+00:05.7,Stoppage Other,0,-80,20,,0,,0,60,61,3
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,60,61,3
+00:00.0,End Period,0,-80,13,,0,,0,60,61,3
+10:00,Start Period,0,-80,12,,0,,0,60,61,4
+09:37,[CON] Thomas Foul: Shooting (3 PF) (2 FTA),86,140,6,1627671,203826,,1611661323,60,61,4
+09:37,[MIN 62-60] Banham Free Throw 1 of 2 (6 PTS),0,-80,3,,1627671,,1611661324,60,62,4
+09:37,[MIN 63-60] Banham Free Throw 2 of 2 (7 PTS),0,-80,3,,1627671,,1611661324,60,63,4
+09:20,[CON 62-63] Plaisance Turnaround Jump Shot: Made (2 PTS) Assist: Bonner (2 AST),37,64,1,,203849,201886,1611661323,62,63,4
+09:00,[MIN] Dangerfield 3pt Shot: Missed,-8,252,2,,1630101,,1611661324,62,63,4
+09:00,[CON] Team Rebound,-8,252,4,,0,,1611661323,62,63,4
+09:00,[MIN] McCall Foul: Personal (2 PF),-15,823,6,201886,1628286,,1611661324,62,63,4
+09:00,[MIN] McCall Substitution replaced by Fowles,0,-80,8,,1628286,201480,1611661324,62,63,4
+08:37,[CON] Thomas Pullup Jump shot: Missed,-125,38,2,,202662,,1611661323,62,63,4
+08:35,[MIN] Fowles Rebound (Off:4 Def:3),-125,38,4,,201480,,1611661324,62,63,4
+08:25,[MIN] Collier Turnover : Kicked Ball Violation (6 TO),-163,94,5,,1629483,,1611661324,62,63,4
+08:15,[MIN] Collier Foul: Personal (4 PF),121,263,6,201886,1629483,,1611661324,62,63,4
+08:11,[MIN] Dangerfield Foul: Personal (2 PF),116,34,6,201886,1630101,,1611661324,62,63,4
+08:05,[CON] Thomas Turnover : Bad Pass (4 TO) Steal:Collier (1 ST),191,182,5,1629483,203826,,1611661323,62,63,4
+07:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,62,63,4
+07:41,[MIN] Banham 3pt Shot: Missed,24,315,2,,1627671,,1611661324,62,63,4
+07:39,[CON] Thomas Rebound (Off:1 Def:2),24,315,4,,202662,,1611661323,62,63,4
+07:37,[CON] Thomas Layup Shot: Missed,-45,58,2,1627671,203826,,1611661323,62,63,4
+07:36,[CON] Team Rebound,-5,825,4,,0,,1611661323,62,63,4
+07:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,62,63,4
+07:32,[CON] Bonner 3pt Shot: Missed,181,205,2,,201886,,1611661323,62,63,4
+07:29,[MIN] Dantas Rebound (Off:0 Def:7),181,205,4,,203024,,1611661324,62,63,4
+07:10,[MIN] Dangerfield 3pt Shot: Missed,150,273,2,,1630101,,1611661324,62,63,4
+07:06,[MIN] Fowles Rebound (Off:5 Def:3),150,273,4,,201480,,1611661324,62,63,4
+07:06,[MIN 65-62] Fowles Putback Layup Shot: Made (17 PTS),0,-5,1,,201480,,1611661324,62,65,4
+06:50,[CON 65-65] Thomas 3pt Shot: Made (9 PTS) Assist: Thomas (2 AST),115,231,1,,202662,203826,1611661323,65,65,4
+06:29,[MIN 67-65] Collier Jump Shot: Made (17 PTS) Assist: Dantas (3 AST),-8,59,1,,1629483,203024,1611661324,65,67,4
+06:03,[CON] Thomas Jump Shot: Missed,-58,171,2,,202662,,1611661323,65,67,4
+06:03,[MIN] Fowles Rebound (Off:5 Def:4),-58,171,4,,201480,,1611661324,65,67,4
+05:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,65,67,4
+05:56,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,65,67,4
+05:56,[CON] Plaisance Substitution replaced by Jones,0,-80,8,,203849,1628280,1611661323,65,67,4
+05:45,[MIN] Banham Layup Shot: Missed,42,38,2,204321,1627671,,1611661324,65,67,4
+05:41,[CON] Mosqueda-Lewis Rebound (Off:0 Def:2),42,38,4,,204321,,1611661323,65,67,4
+05:34,[CON] Thomas Turnover : Bad Pass (4 TO),167,188,5,,202662,,1611661323,65,67,4
+05:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,65,67,4
+05:22,Stoppage Other,0,-80,20,,0,,0,65,67,4
+05:21,Jump Ball Thomas vs Banham (Thomas gains possession),0,-80,10,1627671,203826,202662,1611661323,65,67,4
+05:21,[MIN] Banham Turnover : Lost Ball (1 TO) Steal:Thomas (5 ST),0,-80,5,203826,1627671,,1611661324,65,67,4
+05:16,[CON] Thomas Layup Shot: Missed,67,34,2,,202662,,1611661323,65,67,4
+05:16,[MIN] Team Rebound,67,34,4,,0,,1611661324,65,67,4
+05:04,[MIN] Dantas Jump Shot: Missed,-187,-33,2,,203024,,1611661324,65,67,4
+05:02,[CON] Thomas Rebound (Off:1 Def:3),-187,-33,4,,202662,,1611661323,65,67,4
+04:37,[CON] Mosqueda-Lewis Layup Shot: Missed,-25,34,2,1629483,204321,,1611661323,65,67,4
+04:33,[MIN] Fowles Rebound (Off:5 Def:5),-25,34,4,,201480,,1611661324,65,67,4
+04:32,[MIN] Dangerfield Layup Shot: Missed,26,1,2,,1630101,,1611661324,65,67,4
+04:32,[MIN] Fowles Rebound (Off:6 Def:5),26,1,4,,201480,,1611661324,65,67,4
+04:32,[CON] Thomas Foul: Shooting (2 PF) (2 FTA),-5,47,6,201480,202662,,1611661323,65,67,4
+04:32,[MIN 68-65] Fowles Free Throw 1 of 2 (18 PTS),0,-80,3,,201480,,1611661324,65,68,4
+04:32,[MIN 69-65] Fowles Free Throw 2 of 2 (19 PTS),0,-80,3,,201480,,1611661324,65,69,4
+04:17,[CON] Mosqueda-Lewis Jump Shot: Missed,-167,125,2,,204321,,1611661323,65,69,4
+04:17,[MIN] Team Rebound,-193,153,4,,0,,1611661324,65,69,4
+03:48,[MIN] Dantas Jump Shot: Missed,75,197,2,,203024,,1611661324,65,69,4
+03:46,[MIN] Collier Rebound (Off:5 Def:4),75,197,4,,1629483,,1611661324,65,69,4
+03:43,[MIN 72-65] Dantas 3pt Shot: Made (3 PTS) Assist: Dangerfield (3 AST),145,207,1,,203024,1630101,1611661324,65,72,4
+03:42,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,65,72,4
+03:42,[CON] Mosqueda-Lewis Substitution replaced by Holmes,0,-80,8,,204321,1627678,1611661323,65,72,4
+03:31,[CON] Holmes Turnover : Bad Pass (3 TO) Steal:Banham (1 ST),-40,250,5,1627671,1627678,,1611661323,65,72,4
+03:09,[MIN 74-65] Dantas Step Back Jump shot: Made (5 PTS) Assist: Banham (1 AST),26,43,1,,203024,1627671,1611661324,65,74,4
+02:45,[CON] Bonner 3pt Shot: Missed,-147,225,2,,201886,,1611661323,65,74,4
+02:42,[MIN] Banham Rebound (Off:0 Def:1),-147,225,4,,1627671,,1611661324,65,74,4
+02:27,[MIN 76-65] Fowles Cutting Layup Shot: Made (21 PTS) Assist: Banham (2 AST),-22,10,1,,201480,1627671,1611661324,65,76,4
+02:23,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,65,76,4
+02:23,[CON] Jones Substitution replaced by Gemelos,0,-80,8,,1628280,203043,1611661323,65,76,4
+02:08,[CON] Bonner Layup Shot: Missed,52,55,2,201480,201886,,1611661323,65,76,4
+02:03,[CON] Thomas Rebound (Off:2 Def:3),52,55,4,,202662,,1611661323,65,76,4
+02:00,[CON] Gemelos Running Jump Shot: Missed,-121,178,2,,203043,,1611661323,65,76,4
+01:57,[MIN] Fowles Rebound (Off:6 Def:6),-121,178,4,,201480,,1611661324,65,76,4
+01:42,[MIN] Banham 3pt Shot: Missed,-114,245,2,,1627671,,1611661324,65,76,4
+01:40,[CON] Gemelos Rebound (Off:0 Def:1),-114,245,4,,203043,,1611661323,65,76,4
+01:34,[CON 67-76] Bonner Layup Shot: Made (27 PTS) Assist: Holmes (2 AST),26,33,1,,201886,1627678,1611661323,67,76,4
+01:34,[MIN] Fowles Foul: Shooting (5 PF) (1 FTA),26,33,6,201886,201480,,1611661324,67,76,4
+01:34,[CON 68-76] Bonner Free Throw 1 of 1 (28 PTS),0,-80,3,,201886,,1611661323,68,76,4
+01:34,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,68,76,4
+01:31,[MIN] Collier Turnover : Step Out of Bounds Turnover (7 TO),224,256,5,,1629483,,1611661324,68,76,4
+01:17,[CON] Thomas 3pt Shot: Missed,-225,7,2,,202662,,1611661323,68,76,4
+01:15,[MIN] Fowles Rebound (Off:6 Def:7),-225,7,4,,201480,,1611661324,68,76,4
+00:57.2,[MIN] Dangerfield Turnover : Bad Pass (4 TO) Steal:Thomas (1 ST),120,153,5,202662,1630101,,1611661324,68,76,4
+00:52.4,[CON] Bonner 3pt Shot: Missed,-39,238,2,,201886,,1611661323,68,76,4
+00:49.3,[MIN] Dantas Rebound (Off:0 Def:8),-39,238,4,,203024,,1611661324,68,76,4
+00:32.3,[CON] Thomas Foul: Shooting (3 PF) (2 FTA),-31,-7,6,1630101,202662,,1611661323,68,76,4
+00:32.3,[MIN 77-68] Dangerfield Free Throw 1 of 2 (16 PTS),0,-80,3,,1630101,,1611661324,68,77,4
+00:32.3,[CON] Bonner Substitution replaced by Mompremier,0,-80,8,,201886,1629492,1611661323,68,77,4
+00:32.3,[CON] Thomas Substitution replaced by Plaisance,0,-80,8,,203826,203849,1611661323,68,77,4
+00:32.3,[MIN] Fowles Substitution replaced by Alexander,0,-80,8,,201480,203405,1611661324,68,77,4
+00:32.3,[MIN 78-68] Dangerfield Free Throw 2 of 2 (17 PTS),0,-80,3,,1630101,,1611661324,68,78,4
+00:32.3,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,68,78,4
+00:32.3,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,68,78,4
+00:23.5,[CON] Plaisance 3pt Shot: Missed,210,164,2,,203849,,1611661323,68,78,4
+00:23.5,[CON] Team Rebound,210,164,4,,0,,1611661323,68,78,4
+00:23.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,78,4
+00:13.8,[CON] Plaisance Jump Shot: Missed,72,58,2,,203849,,1611661323,68,78,4
+00:13.8,[CON] Mompremier Rebound (Off:1 Def:0),72,58,4,,1629492,,1611661323,68,78,4
+00:13.8,[MIN] Banham Foul: Shooting (4 PF) (2 FTA),-29,29,6,1629492,1627671,,1611661324,68,78,4
+00:13.8,[CON] Mompremier Free Throw 1 of 2 Missed,0,-80,3,,1629492,,1611661323,68,78,4
+00:13.8,[CON] Team Rebound,0,-80,4,,0,,1611661323,68,78,4
+00:13.8,[MIN] Dantas Substitution replaced by McCall,0,-80,8,,203024,1628286,1611661324,68,78,4
+00:13.8,[CON 69-78] Mompremier Free Throw 2 of 2 (1 PTS),0,-80,3,,1629492,,1611661323,69,78,4
+00:00.0,End Period,0,-80,13,,0,,0,69,78,4
+00:00.0,Game End,0,-80,0,,0,,0,69,78,4

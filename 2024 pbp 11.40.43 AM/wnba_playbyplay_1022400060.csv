@@ -1,0 +1,356 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:58,Jump Ball Jones vs Jones (Laney-Hamilton gains possession),0,-80,10,1628280,1627673,204335,1611661313,0,0,0,1
+09:43,[NYL 2-0] Jones Layup Shot: Made (2 PTS) Assist: Ionescu (1 AST),1,33,1,,1627673,1629477,1611661313,0,2,2,1
+09:25,[CON] Bonner Pullup Jump shot: Missed,12,168,2,,201886,,1611661323,0,2,0,1
+09:19,[NYL] Laney-Hamilton Rebound (Off:0 Def:1),12,168,4,,204335,,1611661313,0,2,0,1
+09:05,[NYL 4-0] Ionescu Turnaround Jump Shot: Made (2 PTS) Assist: Jones (1 AST),34,72,1,,1629477,1627673,1611661313,0,4,2,1
+08:54,[CON] Harris Turnover : Bad Pass (1 TO) Steal:Laney-Hamilton (1 ST),-190,225,5,204335,1630112,,1611661323,0,4,0,1
+08:46,[NYL 6-0] Stewart Cutting Layup Shot: Made (2 PTS) Assist: Laney-Hamilton (1 AST),-19,17,1,,1627668,204335,1611661313,0,6,2,1
+08:23,[CON] Jones Reverse Layup Shot: Missed,-38,27,2,,1628280,,1611661323,0,6,0,1
+08:20,[NYL] Jones Rebound (Off:0 Def:1),-38,27,4,,1627673,,1611661313,0,6,0,1
+08:11,[NYL] Thornton Driving Layup Shot: Missed,29,35,2,,203866,,1611661313,0,6,0,1
+08:08,[CON] Carrington Rebound (Off:0 Def:1),29,35,4,,1630096,,1611661323,0,6,0,1
+08:04,[CON] Carrington Running Layup Shot: Missed,7,43,2,,1630096,,1611661323,0,6,0,1
+08:00,[NYL] Laney-Hamilton Rebound (Off:0 Def:2),7,43,4,,204335,,1611661313,0,6,0,1
+07:53,[CON] Bonner Foul: Shooting (1 PF) (2 FTA),-17,35,6,204335,201886,1629171,1611661323,0,6,0,1
+07:53,[NYL 7-0] Laney-Hamilton Free Throw 1 of 2 (1 PTS),0,-80,3,,204335,,1611661313,0,7,1,1
+07:53,[NYL 8-0] Laney-Hamilton Free Throw 2 of 2 (2 PTS),0,-80,3,,204335,,1611661313,0,8,1,1
+07:34,[CON] Carrington Layup Shot: Missed Block: Jones (1 BLK),-38,19,2,1627673,1630096,,1611661323,0,8,0,1
+07:33,[CON] Carrington Rebound (Off:1 Def:1),-38,19,4,,1630096,,1611661323,0,8,0,1
+07:32,[CON 2-8] Carrington Putback Layup Shot: Made (2 PTS),-28,28,1,,1630096,,1611661323,2,8,2,1
+07:18,[NYL] Laney-Hamilton Turnover : Traveling (1 TO),-173,167,5,,204335,1629171,1611661313,2,8,0,1
+07:05,[CON] Thomas Layup Shot: Missed,15,19,2,,203826,,1611661323,2,8,0,1
+07:01,[CON] Jones Rebound (Off:1 Def:0),15,19,4,,1628280,,1611661323,2,8,0,1
+07:01,[CON] Jones Hook Shot: Missed,-37,27,2,,1628280,,1611661323,2,8,0,1
+07:01,[NYL] Team Rebound,-37,27,4,,0,,1611661313,2,8,0,1
+07:00,[CON] Jones Foul: Loose Ball (1 PF),-11,788,6,1627673,1628280,1629171,1611661323,2,8,0,1
+06:49,[NYL 11-2] Ionescu 3pt Shot: Made (5 PTS) Assist: Jones (2 AST),-138,209,1,,1629477,1627673,1611661313,2,11,3,1
+06:39,[CON 4-11] Carrington Driving Layup Shot: Made (4 PTS) Assist: Harris (1 AST),-35,23,1,,1630096,1630112,1611661323,4,11,2,1
+06:25,[NYL] Jones Turnover : Lost Ball (1 TO) Steal:Bonner (1 ST),-26,32,5,201886,1627673,,1611661313,4,11,0,1
+06:21,[CON 7-11] Bonner 3pt Shot: Made (3 PTS) Assist: Thomas (1 AST),161,188,1,,201886,203826,1611661323,7,11,3,1
+05:56,[NYL 13-7] Laney-Hamilton Driving Layup Shot: Made (4 PTS),-22,10,1,,204335,,1611661313,7,13,2,1
+05:45,[CON] Harris Pullup Jump shot: Missed,13,189,2,,1630112,,1611661323,7,13,0,1
+05:41,[NYL] Thornton Rebound (Off:0 Def:1),13,189,4,,203866,,1611661313,7,13,0,1
+05:39,[NYL] Laney-Hamilton Foul: Offensive (1 PF),-101,204,6,1630096,204335,1629171,1611661313,7,13,0,1
+05:39,[NYL] Laney-Hamilton Turnover : Offensive Foul Turnover (2 TO),-101,204,5,,204335,1629171,1611661313,7,13,0,1
+05:18,[CON] Bonner Driving Layup Shot: Missed,-17,38,2,,201886,,1611661323,7,13,0,1
+05:15,[CON] Bonner Rebound (Off:1 Def:0),-17,38,4,,201886,,1611661323,7,13,0,1
+05:14,[CON] Bonner Driving Layup Shot: Missed Block: Stewart (1 BLK),17,21,2,1627668,201886,,1611661323,7,13,0,1
+05:13,[NYL] Stewart Rebound (Off:0 Def:1),17,21,4,,1627668,,1611661313,7,13,0,1
+05:07,[NYL 15-7] Jones Running Layup Shot: Made (4 PTS) Assist: Stewart (1 AST),22,28,1,,1627673,1627668,1611661313,7,15,2,1
+05:06,Timeout : Regular,0,-80,9,,1611661323,,1611661323,7,15,0,1
+04:40,[CON 9-15] Jones Cutting Layup Shot: Made (2 PTS) Assist: Bonner (1 AST),-22,28,1,,1628280,201886,1611661323,9,15,2,1
+04:14,[NYL] Laney-Hamilton 3pt Shot: Missed,209,101,2,,204335,,1611661313,9,15,0,1
+04:12,[CON] Team Rebound,209,101,4,,0,,1611661323,9,15,0,1
+04:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,15,0,1
+03:54,[CON 11-15] Carrington Pullup Jump shot: Made (6 PTS) Assist: Jones (1 AST),101,141,1,,1630096,1628280,1611661323,11,15,2,1
+03:39,[NYL] Thornton Driving Floating Jump Shot: Missed,93,-13,2,,203866,,1611661313,11,15,0,1
+03:36,[CON] Thomas Rebound (Off:0 Def:1),93,-13,4,,203826,,1611661323,11,15,0,1
+03:32,[CON] Thomas Running Layup Shot: Missed,6,21,2,,203826,,1611661323,11,15,0,1
+03:28,[NYL] Stewart Rebound (Off:0 Def:2),6,21,4,,1627668,,1611661313,11,15,0,1
+03:26,[NYL 18-11] Thornton 3pt Shot: Made (3 PTS) Assist: Stewart (2 AST),211,132,1,,203866,1627668,1611661313,11,18,3,1
+03:05,[NYL] Jones Foul: Shooting (1 PF) (2 FTA),-5,64,6,201886,1627673,202297,1611661313,11,18,0,1
+03:05,[CON 12-18] Bonner Free Throw 1 of 2 (4 PTS),0,-80,3,,201886,,1611661323,12,18,1,1
+03:05,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,12,18,0,1
+03:05,[NYL] Thornton Substitution replaced by Fiebich,0,-80,8,,203866,1630142,1611661313,12,18,0,1
+03:05,[CON 13-18] Bonner Free Throw 2 of 2 (5 PTS),0,-80,3,,201886,,1611661323,13,18,1,1
+02:54,[NYL 20-13] Ionescu Cutting Layup Shot: Made (7 PTS) Assist: Laney-Hamilton (2 AST),35,28,1,,1629477,204335,1611661313,13,20,2,1
+02:39,[CON] Harris 3pt Shot: Missed,-178,178,2,,1630112,,1611661323,13,20,0,1
+02:36,[CON] Nelson-Ododa Rebound (Off:1 Def:0),-178,178,4,,1631135,,1611661323,13,20,0,1
+02:36,[NYL] Fiebich Foul: Shooting (1 PF) (2 FTA),-24,18,6,1631135,1630142,202297,1611661313,13,20,0,1
+02:36,[CON] Nelson-Ododa Free Throw 1 of 2 Missed,0,-80,3,,1631135,,1611661323,13,20,0,1
+02:36,[CON] Team Rebound,0,-80,4,,0,,1611661323,13,20,0,1
+02:36,[CON] Carrington Substitution replaced by Mitchell,0,-80,8,,1630096,1627676,1611661323,13,20,0,1
+02:36,[CON 14-20] Nelson-Ododa Free Throw 2 of 2 (1 PTS),0,-80,3,,1631135,,1611661323,14,20,1,1
+02:15,[NYL 23-14] Fiebich 3pt Shot: Made (3 PTS) Assist: Laney-Hamilton (3 AST),-228,3,1,,1630142,204335,1611661313,14,23,3,1
+01:57,[CON] Nelson-Ododa Driving Reverse Layup Shot: Missed,-29,15,2,,1631135,,1611661323,14,23,0,1
+01:53,[CON] Nelson-Ododa Rebound (Off:2 Def:0),-29,15,4,,1631135,,1611661323,14,23,0,1
+01:52,[CON] Nelson-Ododa Putback Layup Shot: Missed,-15,21,2,,1631135,,1611661323,14,23,0,1
+01:52,[NYL] Jones Rebound (Off:0 Def:2),-15,21,4,,1627673,,1611661313,14,23,0,1
+01:41,[NYL] Fiebich 3pt Shot: Missed,234,9,2,,1630142,,1611661313,14,23,0,1
+01:41,[NYL] Team Rebound,234,9,4,,0,,1611661313,14,23,0,1
+01:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,23,0,1
+01:41,[NYL] Jones Substitution replaced by Burke,0,-80,8,,1627673,1629568,1611661313,14,23,0,1
+01:37,[NYL 26-14] Ionescu 3pt Shot: Made (10 PTS) Assist: Laney-Hamilton (4 AST),-228,19,1,,1629477,204335,1611661313,14,26,3,1
+01:22,[CON 16-26] Mitchell Driving Layup Shot: Made (2 PTS) Assist: Harris (2 AST),-33,29,1,,1627676,1630112,1611661323,16,26,2,1
+01:11,[NYL 28-16] Laney-Hamilton Cutting Layup Shot: Made (6 PTS) Assist: Burke (1 AST),26,24,1,,204335,1629568,1611661313,16,28,2,1
+00:51.8,[CON 18-28] Mitchell Driving Reverse Layup Shot: Made (4 PTS) Assist: Thomas (2 AST),-24,22,1,,1627676,203826,1611661323,18,28,2,1
+00:45.5,[NYL] Stewart 3pt Shot: Missed,143,197,2,,1627668,,1611661313,18,28,0,1
+00:42.2,[CON] Thomas Rebound (Off:0 Def:2),143,197,4,,203826,,1611661323,18,28,0,1
+00:29.5,[CON] Mitchell Jump Shot: Missed,-73,108,2,,1627676,,1611661323,18,28,0,1
+00:26.8,[CON] Thomas Rebound (Off:1 Def:2),-73,108,4,,203826,,1611661323,18,28,0,1
+00:26.2,[NYL] Burke Foul: Shooting (1 PF) (2 FTA),-55,19,6,203826,1629568,101044,1611661313,18,28,0,1
+00:26.2,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,18,28,0,1
+00:26.2,[CON] Team Rebound,0,-80,4,,0,,1611661323,18,28,0,1
+00:26.2,[CON] Nelson-Ododa Substitution replaced by Banham,0,-80,8,,1631135,1627671,1611661323,18,28,0,1
+00:26.2,[NYL] Ionescu Substitution replaced by Thornton,0,-80,8,,1629477,203866,1611661313,18,28,0,1
+00:26.2,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,18,28,0,1
+00:26.2,[NYL] Burke Rebound (Off:0 Def:1),0,-80,4,,1629568,,1611661313,18,28,0,1
+00:08.7,[NYL] Laney-Hamilton Foul: Offensive (2 PF),87,37,6,1627671,204335,202297,1611661313,18,28,0,1
+00:08.7,[NYL] Laney-Hamilton Turnover : Offensive Foul Turnover (3 TO),87,37,5,,204335,202297,1611661313,18,28,0,1
+00:08.7,[NYL] Laney-Hamilton Substitution replaced by Dojkić,0,-80,8,,204335,1641602,1611661313,18,28,0,1
+00:00.7,[CON] Harris Step Back Jump shot: Missed,2,182,2,,1630112,,1611661323,18,28,0,1
+00:00.1,[CON] Team Rebound,2,182,4,,0,,1611661323,18,28,0,1
+00:00.0,End Period,0,-80,13,,0,,0,18,28,0,1
+10:00,Start Period,0,-80,12,,0,,0,18,28,0,2
+09:52,[CON] Banham Foul: Offensive (1 PF),35,244,6,1630142,1627671,1629171,1611661323,18,28,0,2
+09:52,[CON] Banham Turnover : Offensive Foul Turnover (1 TO),35,244,5,,1627671,1629171,1611661323,18,28,0,2
+09:43,[NYL] Thornton Foul: Offensive (1 PF),162,193,6,203826,203866,101044,1611661313,18,28,0,2
+09:43,[NYL] Thornton Turnover : Offensive Foul Turnover (1 TO),162,193,5,,203866,101044,1611661313,18,28,0,2
+09:27,[CON 20-28] Thomas Cutting Layup Shot: Made (2 PTS) Assist: Jones (2 AST),2,21,1,,203826,1628280,1611661323,20,28,2,2
+09:13,[NYL 30-20] Fiebich Driving Finger Roll Layup Shot: Made (5 PTS),-12,31,1,,1630142,,1611661313,20,30,2,2
+09:13,[CON] Mitchell Foul: Shooting (1 PF) (1 FTA),-8,32,6,1630142,1627676,1629171,1611661323,20,30,0,2
+09:13,[NYL] Stewart Substitution replaced by Jones,0,-80,8,,1627668,1627673,1611661313,20,30,0,2
+09:13,[NYL] Fiebich Free Throw 1 of 1 Missed,0,-80,3,,1630142,,1611661313,20,30,0,2
+09:13,[CON] Thomas Rebound (Off:1 Def:3),0,-80,4,,203826,,1611661323,20,30,0,2
+08:54,[CON 23-30] Mitchell 3pt Shot: Made (7 PTS) Assist: Thomas (3 AST),227,38,1,,1627676,203826,1611661323,23,30,3,2
+08:26,[NYL] Team Turnover : Shot Clock Turnover,204,132,5,,0,101044,1611661313,23,30,0,2
+08:26,[CON] Burton Substitution replaced by Harris,0,-80,8,,1631007,1630112,1611661323,23,30,0,2
+08:26,[NYL] Dojkić Substitution replaced by Ionescu,0,-80,8,,1641602,1629477,1611661313,23,30,0,2
+08:09,[CON 25-30] Jones Driving Layup Shot: Made (4 PTS) Assist: Mitchell (1 AST),-39,23,1,,1628280,1627676,1611661323,25,30,2,2
+08:02,[NYL] Ionescu Turnover : Lost Ball (1 TO) Steal:Harris (1 ST),179,219,5,1630112,1629477,,1611661313,25,30,0,2
+07:58,[CON] Harris Running Layup Shot: Missed,-27,21,2,,1630112,,1611661323,25,30,0,2
+07:56,[CON] Banham Rebound (Off:1 Def:0),-27,21,4,,1627671,,1611661323,25,30,0,2
+07:48,[CON] Harris 3pt Shot: Missed,230,-1,2,,1630112,,1611661323,25,30,0,2
+07:46,[NYL] Ionescu Rebound (Off:0 Def:1),230,-1,4,,1629477,,1611661313,25,30,0,2
+07:38,[NYL] Ionescu 3pt Shot: Missed,89,271,2,,1629477,,1611661313,25,30,0,2
+07:36,[CON] Team Rebound,89,271,4,,0,,1611661323,25,30,0,2
+07:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,25,30,0,2
+07:36,[CON] Banham Substitution replaced by Bonner,0,-80,8,,1627671,201886,1611661323,25,30,0,2
+07:36,[NYL] Burke Substitution replaced by Stewart,0,-80,8,,1629568,1627668,1611661313,25,30,0,2
+07:36,[NYL] Thornton Substitution replaced by Laney-Hamilton,0,-80,8,,203866,204335,1611661313,25,30,0,2
+07:12,[CON 27-30] Bonner Driving Finger Roll Layup Shot: Made (7 PTS),-65,44,1,,201886,,1611661323,27,30,2,2
+07:10,Timeout : Regular,0,-80,9,,1611661313,,1611661313,27,30,0,2
+06:51,[NYL] Ionescu Driving Floating Jump Shot: Missed,65,111,2,,1629477,,1611661313,27,30,0,2
+06:48,[CON] Harris Rebound (Off:0 Def:1),65,111,4,,1630112,,1611661323,27,30,0,2
+06:48,[CON] Harris Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-46,855,5,,1630112,101044,1611661323,27,30,0,2
+06:37,[NYL] Laney-Hamilton 3pt Shot: Missed,-223,10,2,,204335,,1611661313,27,30,0,2
+06:33,[CON] Thomas Rebound (Off:1 Def:4),-223,10,4,,203826,,1611661323,27,30,0,2
+06:21,[CON 29-30] Mitchell Driving Layup Shot: Made (9 PTS),17,35,1,,1627676,,1611661323,29,30,2,2
+06:21,[NYL] Stewart Foul: Shooting (1 PF) (1 FTA),15,32,6,1627676,1627668,101044,1611661313,29,30,0,2
+06:21,[CON 30-30] Mitchell Free Throw 1 of 1 (10 PTS),0,-80,3,,1627676,,1611661323,30,30,1,2
+06:09,[NYL] Ionescu 3pt Shot: Missed,-107,205,2,,1629477,,1611661313,30,30,0,2
+06:06,[CON] Bonner Rebound (Off:1 Def:1),-107,205,4,,201886,,1611661323,30,30,0,2
+06:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,30,0,2
+05:51,[CON] Bonner 3pt Shot: Missed,-68,247,2,,201886,,1611661323,30,30,0,2
+05:48,[NYL] Jones Rebound (Off:0 Def:3),-68,247,4,,1627673,,1611661313,30,30,0,2
+05:35,[NYL] Stewart Turnover : Out of Bounds Lost Ball Turnover (1 TO),211,118,5,,1627668,101044,1611661313,30,30,0,2
+05:26,[NYL] Laney-Hamilton Foul: Shooting (3 PF) (2 FTA),23,32,6,201886,204335,202297,1611661313,30,30,0,2
+05:26,[CON 31-30] Bonner Free Throw 1 of 2 (8 PTS),0,-80,3,,201886,,1611661323,31,30,1,2
+05:26,[NYL] Fiebich Substitution replaced by Thornton,0,-80,8,,1630142,203866,1611661313,31,30,0,2
+05:26,[CON 32-30] Bonner Free Throw 2 of 2 (9 PTS),0,-80,3,,201886,,1611661323,32,30,1,2
+05:15,[CON] Jones Foul: Shooting (2 PF) (2 FTA),-58,9,6,1629477,1628280,202297,1611661323,32,30,0,2
+05:15,[NYL 31-32] Ionescu Free Throw 1 of 2 (11 PTS),0,-80,3,,1629477,,1611661313,32,31,1,2
+05:15,[NYL 32-32] Ionescu Free Throw 2 of 2 (12 PTS),0,-80,3,,1629477,,1611661313,32,32,1,2
+05:00,[CON] Jones Pullup Jump shot: Missed,-94,67,2,,1628280,,1611661323,32,32,0,2
+04:58,[NYL] Stewart Rebound (Off:0 Def:3),-94,67,4,,1627668,,1611661313,32,32,0,2
+04:49,[NYL] Thornton 3pt Shot: Missed,218,121,2,,203866,,1611661313,32,32,0,2
+04:46,[CON] Bonner Rebound (Off:1 Def:2),218,121,4,,201886,,1611661323,32,32,0,2
+04:30,[CON 34-32] Harris Pullup Jump shot: Made (2 PTS) Assist: Thomas (4 AST),-157,19,1,,1630112,203826,1611661323,34,32,2,2
+04:29,[CON] Team Violation : Delay Of Game,0,-80,7,,0,,1611661323,34,32,0,2
+04:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,32,0,2
+04:21,[CON] Mitchell Substitution replaced by Carrington,0,-80,8,,1627676,1630096,1611661323,34,32,0,2
+04:13,[NYL 34-34] Laney-Hamilton Pullup Jump shot: Made (8 PTS),-69,107,1,,204335,,1611661313,34,34,2,2
+03:54,[CON] Thomas Jump Shot: Missed,52,70,2,,203826,,1611661323,34,34,0,2
+03:53,[CON] Team Rebound,52,70,4,,0,,1611661323,34,34,0,2
+03:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,34,0,2
+03:50,[CON] Harris Pullup Jump shot: Missed,-3,167,2,,1630112,,1611661323,34,34,0,2
+03:45,[CON] Thomas Rebound (Off:2 Def:4),-3,167,4,,203826,,1611661323,34,34,0,2
+03:44,[CON] Harris 3pt Shot: Missed,41,253,2,,1630112,,1611661323,34,34,0,2
+03:41,[NYL] Stewart Rebound (Off:0 Def:4),41,253,4,,1627668,,1611661313,34,34,0,2
+03:31,[NYL] Ionescu 3pt Shot: Missed,-63,266,2,,1629477,,1611661313,34,34,0,2
+03:29,[CON] Team Rebound,-63,266,4,,0,,1611661323,34,34,0,2
+03:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,34,0,2
+03:17,[CON 37-34] Bonner 3pt Shot: Made (12 PTS) Assist: Carrington (1 AST),213,86,1,,201886,1630096,1611661323,37,34,3,2
+03:04,[NYL] Ionescu Driving Layup Shot: Missed,-82,8,2,,1629477,,1611661313,37,34,0,2
+03:02,[CON] Bonner Rebound (Off:1 Def:3),-82,8,4,,201886,,1611661323,37,34,0,2
+02:55,[CON] Bonner 3pt Shot: Missed Block: Jones (2 BLK),205,119,2,1627673,201886,,1611661323,37,34,0,2
+02:53,[NYL] Laney-Hamilton Rebound (Off:0 Def:3),205,119,4,,204335,,1611661313,37,34,0,2
+02:42,[NYL 36-37] Jones Cutting Layup Shot: Made (6 PTS) Assist: Stewart (3 AST),-33,32,1,,1627673,1627668,1611661313,37,36,2,2
+02:26,[CON] Bonner 3pt Shot: Missed,-237,0,2,,201886,,1611661323,37,36,0,2
+02:23,[NYL] Stewart Rebound (Off:0 Def:5),-237,0,4,,1627668,,1611661313,37,36,0,2
+02:10,[NYL] Stewart Turnaround Jump Shot: Missed,-119,6,2,,1627668,,1611661313,37,36,0,2
+02:08,[CON] Thomas Rebound (Off:2 Def:5),-119,6,4,,203826,,1611661323,37,36,0,2
+02:02,[CON] Carrington Turnover : Out of Bounds Lost Ball Turnover (1 TO),-24,290,5,,1630096,1629171,1611661323,37,36,0,2
+02:02,Timeout : Official,0,-80,9,,0,,0,37,36,0,2
+01:46,[NYL] Stewart Turnaround Jump Shot: Missed,-1,99,2,,1627668,,1611661313,37,36,0,2
+01:44,[CON] Jones Rebound (Off:1 Def:1),-1,99,4,,1628280,,1611661323,37,36,0,2
+01:37,[CON] Thomas Driving Layup Shot: Missed,22,16,2,,203826,,1611661323,37,36,0,2
+01:35,[NYL] Jones Rebound (Off:0 Def:4),22,16,4,,1627673,,1611661313,37,36,0,2
+01:22,[NYL 39-37] Jones 3pt Shot: Made (9 PTS) Assist: Thornton (1 AST),98,224,1,,1627673,203866,1611661313,37,39,3,2
+00:58.2,[CON] Thomas Jump Shot: Missed Block: Jones (3 BLK),88,28,2,1627673,203826,,1611661323,37,39,0,2
+00:55.6,[NYL] Laney-Hamilton Rebound (Off:0 Def:4),88,28,4,,204335,,1611661313,37,39,0,2
+00:47.2,[NYL] Laney-Hamilton 3pt Shot: Missed,142,203,2,,204335,,1611661313,37,39,0,2
+00:44.7,[CON] Team Rebound,142,203,4,,0,,1611661323,37,39,0,2
+00:44.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,39,0,2
+00:44.7,[NYL] Laney-Hamilton Substitution replaced by Fiebich,0,-80,8,,204335,1630142,1611661313,37,39,0,2
+00:28.7,[CON 39-39] Jones Cutting Layup Shot: Made (6 PTS) Assist: Thomas (5 AST),-57,39,1,,1628280,203826,1611661323,39,39,2,2
+00:05.7,[NYL] Jones 3pt Shot: Missed,157,196,2,,1627673,,1611661313,39,39,0,2
+00:03.2,[CON] Thomas Rebound (Off:2 Def:6),157,196,4,,203826,,1611661323,39,39,0,2
+00:02.1,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Ionescu (1 ST),-82,526,5,1629477,203826,,1611661323,39,39,0,2
+00:00.2,[NYL] Ionescu 3pt Shot: Missed,-182,187,2,,1629477,,1611661313,39,39,0,2
+00:00.1,[NYL] Team Rebound,-182,187,4,,0,,1611661313,39,39,0,2
+00:00.0,End Period,0,-80,13,,0,,0,39,39,0,2
+10:00,Start Period,0,-80,12,,0,,0,39,39,0,3
+09:36,[CON] Carrington 3pt Shot: Missed,216,220,2,,1630096,,1611661323,39,39,0,3
+09:34,[CON] Jones Rebound (Off:2 Def:1),216,220,4,,1628280,,1611661323,39,39,0,3
+09:33,[CON 41-39] Jones Putback Layup Shot: Made (8 PTS),-11,30,1,,1628280,,1611661323,41,39,2,3
+09:33,[NYL] Ionescu Foul: Shooting (1 PF) (1 FTA),11,36,6,1628280,1629477,202297,1611661313,41,39,0,3
+09:33,[CON 42-39] Jones Free Throw 1 of 1 (9 PTS),0,-80,3,,1628280,,1611661323,42,39,1,3
+09:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,39,0,3
+09:08,[NYL 41-42] Thornton Cutting Layup Shot: Made (5 PTS) Assist: Jones (3 AST),34,27,1,,203866,1627673,1611661313,42,41,2,3
+08:58,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Laney-Hamilton (2 ST),-27,32,5,204335,203826,,1611661323,42,41,0,3
+08:54,[NYL] Jones Foul: Offensive Charge (2 PF),-7,12,6,1628280,1627673,202297,1611661313,42,41,0,3
+08:54,[NYL] Jones Turnover : Offensive Foul Turnover (2 TO),-7,12,5,,1627673,101044,1611661313,42,41,0,3
+08:54,Timeout : Official,0,-80,9,,0,,0,42,41,0,3
+08:54,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661323,42,41,0,3
+08:41,[NYL] Stewart Violation:Kicked Ball,0,-80,7,,1627668,,1611661313,42,41,0,3
+08:28,[CON] Jones 3pt Shot: Missed,149,204,2,,1628280,,1611661323,42,41,0,3
+08:23,[NYL] Laney-Hamilton Rebound (Off:0 Def:5),149,204,4,,204335,,1611661313,42,41,0,3
+08:05,[NYL 43-42] Stewart Driving Floating Jump Shot: Made (4 PTS) Assist: Thornton (2 AST),-83,58,1,,1627668,203866,1611661313,42,43,2,3
+07:53,[CON 44-43] Harris Step Back Jump shot: Made (4 PTS),-66,128,1,,1630112,,1611661323,44,43,2,3
+07:36,[CON] Bonner Foul: Shooting (2 PF) (2 FTA),-65,40,6,1629477,201886,1629171,1611661323,44,43,0,3
+07:36,[NYL 44-44] Ionescu Free Throw 1 of 2 (13 PTS),0,-80,3,,1629477,,1611661313,44,44,1,3
+07:36,[NYL 45-44] Ionescu Free Throw 2 of 2 (14 PTS),0,-80,3,,1629477,,1611661313,44,45,1,3
+07:18,[CON 46-45] Carrington Driving Hook Shot: Made (8 PTS) Assist: Thomas (6 AST),62,81,1,,1630096,203826,1611661323,46,45,2,3
+07:10,[NYL] Stewart Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-193,190,5,,1627668,202297,1611661313,46,45,0,3
+06:57,[CON 48-45] Thomas Driving Layup Shot: Made (4 PTS),-23,30,1,,203826,,1611661323,48,45,2,3
+06:45,[NYL] Jones Driving Layup Shot: Missed,-71,47,2,,1627673,,1611661313,48,45,0,3
+06:42,[CON] Jones Rebound (Off:2 Def:2),-71,47,4,,1628280,,1611661323,48,45,0,3
+06:38,[CON 50-45] Harris Running Layup Shot: Made (6 PTS),18,22,1,,1630112,,1611661323,50,45,2,3
+06:38,[NYL] Ionescu Foul: Shooting (2 PF) (1 FTA),28,30,6,1630112,1629477,101044,1611661313,50,45,0,3
+06:38,[CON] Harris Free Throw 1 of 1 Missed,0,-80,3,,1630112,,1611661323,50,45,0,3
+06:34,[NYL] Jones Rebound (Off:0 Def:5),0,-80,4,,1627673,,1611661313,50,45,0,3
+06:25,[NYL] Ionescu Cutting Layup Shot: Missed,27,26,2,,1629477,,1611661313,50,45,0,3
+06:23,[CON] Bonner Rebound (Off:1 Def:4),27,26,4,,201886,,1611661323,50,45,0,3
+06:10,[CON] Bonner 3pt Shot: Missed,144,201,2,,201886,,1611661323,50,45,0,3
+06:07,[NYL] Ionescu Rebound (Off:0 Def:2),144,201,4,,1629477,,1611661313,50,45,0,3
+06:03,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),-61,32,6,1629477,203826,101044,1611661323,50,45,0,3
+06:03,[NYL 46-50] Ionescu Free Throw 1 of 2 (15 PTS),0,-80,3,,1629477,,1611661313,50,46,1,3
+06:03,[NYL 47-50] Ionescu Free Throw 2 of 2 (16 PTS),0,-80,3,,1629477,,1611661313,50,47,1,3
+05:43,[CON 52-47] Jones Driving Hook Shot: Made (11 PTS) Assist: Bonner (2 AST),-13,41,1,,1628280,201886,1611661323,52,47,2,3
+05:25,[NYL] Ionescu Turnover : Bad Pass (2 TO) Steal:Thomas (1 ST),-139,211,5,203826,1629477,,1611661313,52,47,0,3
+05:22,[CON 54-47] Thomas Running Layup Shot: Made (6 PTS),23,19,1,,203826,,1611661323,54,47,2,3
+05:21,Timeout : Regular,0,-80,9,,1611661313,,1611661313,54,47,0,3
+05:21,[NYL] Ionescu Substitution replaced by Fiebich,0,-80,8,,1629477,1630142,1611661313,54,47,0,3
+05:07,[NYL] Jones Turnover : 3 Second Violation (3 TO),43,42,5,,1627673,202297,1611661313,54,47,0,3
+05:07,[NYL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661313,54,47,0,3
+04:56,[CON] Bonner Step Back Jump shot: Missed,-152,117,2,,201886,,1611661323,54,47,0,3
+04:53,[NYL] Jones Rebound (Off:0 Def:6),-152,117,4,,1627673,,1611661313,54,47,0,3
+04:33,[NYL 49-54] Stewart Cutting Layup Shot: Made (6 PTS) Assist: Jones (4 AST),-3,40,1,,1627668,1627673,1611661313,54,49,2,3
+04:15,[CON] Thomas Driving Layup Shot: Missed,31,24,2,,203826,,1611661323,54,49,0,3
+04:13,[NYL] Jones Rebound (Off:0 Def:7),31,24,4,,1627673,,1611661313,54,49,0,3
+04:11,[CON] Bonner Foul: Personal (3 PF),46,2,6,1627668,201886,202297,1611661323,54,49,0,3
+04:11,[CON] Carrington Substitution replaced by Mitchell,0,-80,8,,1630096,1627676,1611661323,54,49,0,3
+04:03,[NYL] Jones 3pt Shot: Missed,173,168,2,,1627673,,1611661313,54,49,0,3
+04:00,[CON] Bonner Rebound (Off:1 Def:5),173,168,4,,201886,,1611661323,54,49,0,3
+03:48,[NYL] Fiebich Foul: Personal (2 PF),-12,25,6,203826,1630142,202297,1611661313,54,49,0,3
+03:36,[CON] Jones Driving Layup Shot: Missed Block: Jones (4 BLK),-49,17,2,1627673,1628280,,1611661323,54,49,0,3
+03:34,[NYL] Fiebich Rebound (Off:0 Def:1),-49,17,4,,1630142,,1611661313,54,49,0,3
+03:26,[NYL 51-54] Jones Driving Layup Shot: Made (11 PTS) Assist: Fiebich (1 AST),6,28,1,,1627673,1630142,1611661313,54,51,2,3
+03:11,[CON] Harris Turnover : Bad Pass (3 TO) Steal:Laney-Hamilton (3 ST),16,277,5,204335,1630112,,1611661323,54,51,0,3
+02:48,[NYL] Jones 3pt Shot: Missed,229,16,2,,1627673,,1611661313,54,51,0,3
+02:46,[CON] Thomas Rebound (Off:2 Def:7),229,16,4,,203826,,1611661323,54,51,0,3
+02:32,[CON] Mitchell Turnover : Bad Pass (1 TO) Steal:Fiebich (1 ST),44,218,5,1630142,1627676,,1611661323,54,51,0,3
+02:25,[NYL] Fiebich 3pt Shot: Missed,91,230,2,,1630142,,1611661313,54,51,0,3
+02:25,[CON] Thomas Rebound (Off:2 Def:8),91,230,4,,203826,,1611661323,54,51,0,3
+02:25,Timeout : Regular,0,-80,9,,1611661323,,1611661323,54,51,0,3
+02:25,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,54,51,0,3
+02:09,[CON 56-51] Mitchell Jump Shot: Made (12 PTS) Assist: Thomas (7 AST),-113,146,1,,1627676,203826,1611661323,56,51,2,3
+01:59,[CON] Bonner Foul: Personal (4 PF),11,50,6,204335,201886,202297,1611661323,56,51,0,3
+01:47,[NYL 53-56] Stewart Driving Floating Jump Shot: Made (8 PTS) Assist: Fiebich (2 AST),-13,92,1,,1627668,1630142,1611661313,56,53,2,3
+01:32,[NYL] Fiebich Foul: Shooting (3 PF) (2 FTA),34,17,6,201886,1630142,202297,1611661313,56,53,0,3
+01:32,[CON 57-53] Bonner Free Throw 1 of 2 (13 PTS),0,-80,3,,201886,,1611661323,57,53,1,3
+01:32,[NYL] Thornton Substitution replaced by Ionescu,0,-80,8,,203866,1629477,1611661313,57,53,0,3
+01:32,[CON 58-53] Bonner Free Throw 2 of 2 (14 PTS),0,-80,3,,201886,,1611661323,58,53,1,3
+01:21,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,58,53,0,3
+01:21,Jump Ball Stewart vs Thomas (Fiebich gains possession),0,-80,10,203826,1627668,1630142,1611661313,58,53,0,3
+01:09,[NYL 55-58] Jones Layup Shot: Made (13 PTS),21,33,1,,1627673,,1611661313,58,55,2,3
+01:00,[CON 60-55] Harris Driving Layup Shot: Made (8 PTS),15,24,1,,1630112,,1611661323,60,55,2,3
+00:48.7,[NYL] Ionescu Driving Layup Shot: Missed,24,24,2,,1629477,,1611661313,60,55,0,3
+00:47.4,[CON] Carrington Rebound (Off:1 Def:2),24,24,4,,1630096,,1611661323,60,55,0,3
+00:47.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,55,0,3
+00:37.9,[CON] Harris 3pt Shot: Missed,176,192,2,,1630112,,1611661323,60,55,0,3
+00:34.6,[NYL] Stewart Rebound (Off:0 Def:6),176,192,4,,1627668,,1611661313,60,55,0,3
+00:23.0,[CON] Thomas Foul: Shooting (2 PF) (2 FTA),33,22,6,1627668,203826,101044,1611661323,60,55,0,3
+00:23.0,[NYL 56-60] Stewart Free Throw 1 of 2 (9 PTS),0,-80,3,,1627668,,1611661313,60,56,1,3
+00:23.0,[NYL 57-60] Stewart Free Throw 2 of 2 (10 PTS),0,-80,3,,1627668,,1611661313,60,57,1,3
+00:00.5,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Jones (1 ST),-90,47,5,1627673,203826,,1611661323,60,57,0,3
+00:00.0,End Period,0,-80,13,,0,,0,60,57,0,3
+10:00,Start Period,0,-80,12,,0,,0,60,57,0,4
+09:38,[NYL] Fiebich 3pt Shot: Missed Block: Carrington (1 BLK),119,214,2,1630096,1630142,,1611661313,60,57,0,4
+09:35,[CON] Thomas Rebound (Off:2 Def:9),119,214,4,,203826,,1611661323,60,57,0,4
+09:30,[CON 62-57] Thomas Running Layup Shot: Made (8 PTS),-5,26,1,,203826,,1611661323,62,57,2,4
+09:14,[CON] Carrington Foul: Personal (1 PF),-65,147,6,1627668,1630096,202297,1611661323,62,57,0,4
+09:00,[NYL] Stewart 3pt Shot: Missed,-26,271,2,,1627668,,1611661313,62,57,0,4
+08:55,[CON] Mitchell Rebound (Off:0 Def:1),-26,271,4,,1627676,,1611661323,62,57,0,4
+08:32,[CON] Harris Fadeaway Jump Shot: Missed,139,13,2,,1630112,,1611661323,62,57,0,4
+08:28,[NYL] Laney-Hamilton Rebound (Off:0 Def:6),139,13,4,,204335,,1611661313,62,57,0,4
+08:22,[NYL 59-62] Laney-Hamilton Cutting Layup Shot: Made (10 PTS) Assist: Ionescu (2 AST),19,10,1,,204335,1629477,1611661313,62,59,2,4
+07:59,[CON] Thomas Turnover : Discontinue Dribble (4 TO),137,173,5,,203826,1629171,1611661323,62,59,0,4
+07:59,[CON] Mitchell Substitution replaced by Bonner,0,-80,8,,1627676,201886,1611661323,62,59,0,4
+07:44,[NYL 62-62] Jones 3pt Shot: Made (16 PTS) Assist: Ionescu (3 AST),-230,16,1,,1627673,1629477,1611661313,62,62,3,4
+07:17,[CON] Carrington Turnover : Lost Ball (2 TO) Steal:Ionescu (2 ST),56,81,5,1629477,1630096,,1611661323,62,62,0,4
+07:09,[NYL 64-62] Fiebich Turnaround Jump Shot: Made (7 PTS) Assist: Ionescu (4 AST),-142,21,1,,1630142,1629477,1611661313,62,64,2,4
+06:53,[NYL] Fiebich Foul: Personal (4 PF),112,80,6,1630096,1630142,202297,1611661313,62,64,0,4
+06:46,[NYL] Fiebich Foul: Personal (5 PF),95,239,6,201886,1630142,202297,1611661313,62,64,0,4
+06:46,[NYL] Fiebich Substitution replaced by Thornton,0,-80,8,,1630142,203866,1611661313,62,64,0,4
+06:33,[CON] Jones Layup Shot: Missed,15,40,2,,1628280,,1611661323,62,64,0,4
+06:31,[CON] Carrington Rebound (Off:2 Def:2),15,40,4,,1630096,,1611661323,62,64,0,4
+06:30,[NYL] Stewart Foul: Shooting (2 PF) (2 FTA),-46,20,6,1630096,1627668,101044,1611661313,62,64,0,4
+06:30,[CON 63-64] Carrington Free Throw 1 of 2 (9 PTS),0,-80,3,,1630096,,1611661323,63,64,1,4
+06:30,[CON 64-64] Carrington Free Throw 2 of 2 (10 PTS),0,-80,3,,1630096,,1611661323,64,64,1,4
+06:08,[NYL 66-64] Ionescu Driving Floating Jump Shot: Made (18 PTS) Assist: Thornton (3 AST),-138,16,1,,1629477,203866,1611661313,64,66,2,4
+05:48,[CON] Carrington Jump Shot: Missed,-158,25,2,,1630096,,1611661323,64,66,0,4
+05:47,[CON] Team Rebound,-158,25,4,,0,,1611661323,64,66,0,4
+05:47,[NYL] Ionescu Foul: Personal (3 PF),-29,69,6,1628280,1629477,202297,1611661313,64,66,0,4
+05:47,Timeout : Regular,0,-80,9,,1611661323,,1611661323,64,66,0,4
+05:39,[CON] Thomas Turnover : Bad Pass (5 TO) Steal:Stewart (1 ST),104,232,5,1627668,203826,,1611661323,64,66,0,4
+05:23,[NYL 69-64] Stewart 3pt Shot: Made (13 PTS) Assist: Ionescu (5 AST),234,17,1,,1627668,1629477,1611661313,64,69,3,4
+04:57,[CON 66-69] Thomas Driving Layup Shot: Made (10 PTS) Assist: Carrington (2 AST),-30,-7,1,,203826,1630096,1611661323,66,69,2,4
+04:34,[NYL] Stewart Jump Shot: Missed,1,137,2,,1627668,,1611661313,66,69,0,4
+04:31,[CON] Thomas Rebound (Off:2 Def:10),1,137,4,,203826,,1611661323,66,69,0,4
+04:18,[CON] Bonner Jump Shot: Missed,-74,156,2,,201886,,1611661323,66,69,0,4
+04:15,[NYL] Jones Rebound (Off:0 Def:8),-74,156,4,,1627673,,1611661313,66,69,0,4
+03:58,[NYL 71-66] Ionescu Cutting Layup Shot: Made (20 PTS) Assist: Laney-Hamilton (5 AST),-42,27,1,,1629477,204335,1611661313,66,71,2,4
+03:44,[NYL] Stewart Foul: Shooting (3 PF) (2 FTA),24,31,6,1628280,1627668,1629171,1611661313,66,71,0,4
+03:44,[CON 67-71] Jones Free Throw 1 of 2 (12 PTS),0,-80,3,,1628280,,1611661323,67,71,1,4
+03:44,[CON 68-71] Jones Free Throw 2 of 2 (13 PTS),0,-80,3,,1628280,,1611661323,68,71,1,4
+03:44,Timeout : Regular,0,-80,9,,1611661313,,1611661313,68,71,0,4
+03:23,[NYL 74-68] Jones 3pt Shot: Made (19 PTS) Assist: Stewart (4 AST),-137,222,1,,1627673,1627668,1611661313,68,74,3,4
+02:58,[CON] Bonner Driving Finger Roll Layup Shot: Missed,0,46,2,,201886,,1611661323,68,74,0,4
+02:56,[CON] Bonner Rebound (Off:2 Def:5),0,46,4,,201886,,1611661323,68,74,0,4
+02:55,[CON 70-74] Bonner Putback Layup Shot: Made (16 PTS),20,36,1,,201886,,1611661323,70,74,2,4
+02:37,[NYL] Laney-Hamilton Driving Layup Shot: Missed,-71,58,2,,204335,,1611661313,70,74,0,4
+02:34,[CON] Bonner Rebound (Off:2 Def:6),-71,58,4,,201886,,1611661323,70,74,0,4
+02:25,[CON] Jones Turnaround Hook Shot: Missed,12,40,2,,1628280,,1611661323,70,74,0,4
+02:22,[NYL] Stewart Rebound (Off:0 Def:7),12,40,4,,1627668,,1611661313,70,74,0,4
+02:08,[NYL] Stewart Cutting Layup Shot: Missed,35,17,2,,1627668,,1611661313,70,74,0,4
+02:06,[CON] Harris Rebound (Off:0 Def:2),35,17,4,,1630112,,1611661323,70,74,0,4
+01:59,[CON 72-74] Carrington Driving Layup Shot: Made (12 PTS),23,30,1,,1630096,,1611661323,72,74,2,4
+01:59,Timeout : Regular,0,-80,9,,1611661313,,1611661313,72,74,0,4
+01:50,[NYL 76-72] Ionescu Driving Finger Roll Layup Shot: Made (22 PTS) Assist: Jones (5 AST),-23,23,1,,1629477,1627673,1611661313,72,76,2,4
+01:33,[CON 75-76] Harris 3pt Shot: Made (11 PTS) Assist: Bonner (3 AST),174,177,1,,1630112,201886,1611661323,75,76,3,4
+01:15,[NYL 79-75] Jones 3pt Shot: Made (22 PTS) Assist: Stewart (5 AST),-204,137,1,,1627673,1627668,1611661313,75,79,3,4
+01:06,[CON] Harris 3pt Shot: Missed,189,151,2,,1630112,,1611661323,75,79,0,4
+01:03,[NYL] Ionescu Rebound (Off:0 Def:3),189,151,4,,1629477,,1611661313,75,79,0,4
+01:01,[NYL] Jones Running Layup Shot: Missed Block: Bonner (1 BLK),5,24,2,201886,1627673,,1611661313,75,79,0,4
+01:00,[CON] Harris Rebound (Off:0 Def:3),5,24,4,,1630112,,1611661323,75,79,0,4
+00:54.9,[CON] Carrington Foul: Offensive Charge (2 PF),-27,20,6,1629477,1630096,101044,1611661323,75,79,0,4
+00:54.9,[CON] Carrington Turnover : Offensive Foul Turnover (3 TO),-27,20,5,,1630096,101044,1611661323,75,79,0,4
+00:43.0,[NYL 81-75] Ionescu Cutting Layup Shot: Made (24 PTS) Assist: Laney-Hamilton (6 AST),18,45,1,,1629477,204335,1611661313,75,81,2,4
+00:43.0,Timeout : Regular,0,-80,9,,1611661323,,1611661323,75,81,0,4
+00:36.7,[CON] Carrington 3pt Shot: Missed,-141,209,2,,1630096,,1611661323,75,81,0,4
+00:33.3,[NYL] Laney-Hamilton Rebound (Off:0 Def:7),-141,209,4,,204335,,1611661313,75,81,0,4
+00:29.9,[CON] Carrington Foul: Personal (3 PF),-118,474,6,204335,1630096,202297,1611661323,75,81,0,4
+00:29.9,Timeout : Reset,0,-80,9,,1611661313,,1611661313,75,81,0,4
+00:29.1,[CON] Harris Foul: Personal (1 PF) (2 FTA),-189,16,6,203866,1630112,101044,1611661323,75,81,0,4
+00:29.1,[NYL] Thornton Free Throw 1 of 2 Missed,0,-80,3,,203866,,1611661313,75,81,0,4
+00:29.1,[NYL] Team Rebound,0,-80,4,,0,,1611661313,75,81,0,4
+00:29.1,[NYL 82-75] Thornton Free Throw 2 of 2 (6 PTS),0,-80,3,,203866,,1611661313,75,82,1,4
+00:29.1,Timeout : Regular,0,-80,9,,1611661323,,1611661323,75,82,0,4
+00:24.2,[CON] Harris Jump Shot: Missed,207,-33,2,,1630112,,1611661323,75,82,0,4
+00:23.2,[NYL] Team Rebound,207,-33,4,,0,,1611661313,75,82,0,4
+00:23.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,75,82,0,4
+00:00.0,End Period,0,-80,13,,0,,0,75,82,0,4

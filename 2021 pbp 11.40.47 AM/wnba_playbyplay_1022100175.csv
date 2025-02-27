@@ -1,0 +1,366 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Howard vs Alarie (Allen gains possession),0,-80,10,1630093,203827,204296,1611661313,0,0,1
+09:44,[NYL] Allen 3pt Shot: Missed,106,219,2,,204296,,1611661313,0,0,1
+09:36,[NYL] Allen Rebound (Off:1 Def:0),106,219,4,,204296,,1611661313,0,0,1
+09:34,[NYL 2-0] Howard Layup Shot: Made (2 PTS) Assist: Ionescu (1 AST),27,33,1,,203827,1629477,1611661313,0,2,1
+09:08,[DAL] Alarie Turnover : Lost Ball (1 TO) Steal:Howard (1 ST),109,36,5,203827,1630093,,1611661321,0,2,1
+09:01,[NYL] Howard Jump Shot: Missed,67,142,2,,203827,,1611661313,0,2,1
+08:50,[DAL] Alarie Rebound (Off:0 Def:1),67,142,4,,1630093,,1611661321,0,2,1
+08:47,[DAL 3-2] Ogunbowale 3pt Shot: Made (3 PTS),5,256,1,,1629481,,1611661321,3,2,1
+08:34,[NYL 4-3] Ionescu Layup Shot: Made (2 PTS),-13,24,1,,1629477,,1611661313,3,4,1
+08:34,[DAL] Gray Foul: Shooting (1 PF) (1 FTA),-61,38,6,1629477,1628277,,1611661321,3,4,1
+08:34,[NYL 5-3] Ionescu Free Throw 1 of 1 (3 PTS),0,-80,3,,1629477,,1611661313,3,5,1
+08:15,[DAL] Ogunbowale 3pt Shot: Missed,-207,170,2,,1629481,,1611661321,3,5,1
+08:09,[NYL] Whitcomb Rebound (Off:0 Def:1),-207,170,4,,1628244,,1611661313,3,5,1
+08:07,[NYL 7-3] Laney Layup Shot: Made (2 PTS) Assist: Whitcomb (1 AST),22,12,1,,204335,1628244,1611661313,3,7,1
+07:55,[DAL] Jefferson 3pt Shot: Missed,-99,232,2,,1627669,,1611661321,3,7,1
+07:55,[NYL] Whitcomb Rebound (Off:0 Def:2),-99,232,4,,1628244,,1611661313,3,7,1
+07:46,[NYL] Allen Layup Shot: Missed,-55,71,2,,204296,,1611661313,3,7,1
+07:43,[NYL] Howard Rebound (Off:1 Def:0),-55,71,4,,203827,,1611661313,3,7,1
+07:30,[NYL] Team Turnover : Shot Clock Turnover,-79,162,5,,0,,1611661313,3,7,1
+07:12,[DAL] Gray 3pt Shot: Missed,-158,196,2,,1628277,,1611661321,3,7,1
+07:12,[NYL] Laney Rebound (Off:0 Def:1),-158,196,4,,204335,,1611661313,3,7,1
+07:04,[NYL] Ionescu 3pt Shot: Missed,22,262,2,,1629477,,1611661313,3,7,1
+06:59,[DAL] Gray Rebound (Off:0 Def:1),22,262,4,,1628277,,1611661321,3,7,1
+06:57,[DAL 5-7] Gray Running Layup Shot: Made (2 PTS),-24,16,1,,1628277,,1611661321,5,7,1
+06:49,[NYL] Laney Turnover : Bad Pass (1 TO) Steal:Ogunbowale (1 ST),-20,80,5,1629481,204335,,1611661313,5,7,1
+06:42,[DAL 7-7] Jefferson Jump Shot: Made (2 PTS),5,52,1,,1627669,,1611661321,7,7,1
+06:32,[NYL 9-7] Laney Jump Shot: Made (4 PTS) Assist: Howard (1 AST),65,205,1,,204335,203827,1611661313,7,9,1
+06:11,[DAL 9-9] Ogunbowale Jump Shot: Made (5 PTS) Assist: Jefferson (1 AST),74,154,1,,1629481,1627669,1611661321,9,9,1
+05:58,[NYL] Howard 3pt Shot: Missed,90,237,2,,203827,,1611661313,9,9,1
+05:58,[DAL] Ogunbowale Rebound (Off:0 Def:1),90,237,4,,1629481,,1611661321,9,9,1
+05:48,[DAL] Ogunbowale Jump Shot: Missed,-47,133,2,,1629481,,1611661321,9,9,1
+05:48,[NYL] Howard Rebound (Off:1 Def:1),-47,133,4,,203827,,1611661313,9,9,1
+05:40,[NYL] Whitcomb 3pt Shot: Missed,225,56,2,,1628244,,1611661313,9,9,1
+05:37,[NYL] Howard Rebound (Off:2 Def:1),225,56,4,,203827,,1611661313,9,9,1
+05:35,[NYL 12-9] Whitcomb 3pt Shot: Made (3 PTS) Assist: Howard (2 AST),232,62,1,,1628244,203827,1611661313,9,12,1
+05:13,[DAL] Thornton Jump Shot: Missed,17,108,2,,203866,,1611661321,9,12,1
+05:13,[NYL] Howard Rebound (Off:2 Def:2),17,108,4,,203827,,1611661313,9,12,1
+05:02,[NYL] Laney Layup Shot: Missed,-11,34,2,,204335,,1611661313,9,12,1
+04:59,[DAL] Gray Rebound (Off:0 Def:2),-11,34,4,,1628277,,1611661321,9,12,1
+04:58,[DAL] Thornton Layup Shot: Missed,17,37,2,1629477,203866,,1611661321,9,12,1
+04:58,[DAL] Team Rebound,17,37,4,,0,,1611661321,9,12,1
+04:58,Timeout Officials,0,-80,9,,0,,0,9,12,1
+04:58,[DAL] Jefferson Substitution replaced by Mabrey,0,-80,8,,1627669,1629497,1611661321,9,12,1
+04:58,[DAL] Alarie Substitution replaced by Sabally,0,-80,8,,1630093,1630149,1611661321,9,12,1
+04:58,[NYL] Laney Substitution replaced by Richards,0,-80,8,,204335,1630459,1611661313,9,12,1
+04:56,[DAL 11-12] Gray Layup Shot: Made (4 PTS) Assist: Mabrey (1 AST),-23,11,1,,1628277,1629497,1611661321,11,12,1
+04:46,[NYL] Whitcomb 3pt Shot: Missed,218,101,2,,1628244,,1611661313,11,12,1
+04:46,[DAL] Mabrey Rebound (Off:0 Def:1),218,101,4,,1629497,,1611661321,11,12,1
+04:37,[NYL] Richards Foul: Shooting (1 PF) (2 FTA),-12,70,6,1630149,1630459,,1611661313,11,12,1
+04:37,[DAL 12-12] Sabally Free Throw 1 of 2 (1 PTS),0,-80,3,,1630149,,1611661321,12,12,1
+04:37,[DAL 13-12] Sabally Free Throw 2 of 2 (2 PTS),0,-80,3,,1630149,,1611661321,13,12,1
+04:25,[NYL] Allen 3pt Shot: Missed,-165,214,2,,204296,,1611661313,13,12,1
+04:18,[DAL] Mabrey Rebound (Off:0 Def:2),-165,214,4,,1629497,,1611661321,13,12,1
+04:14,[DAL] Mabrey Layup Shot: Missed,88,58,2,,1629497,,1611661321,13,12,1
+04:12,[NYL] Team Rebound,88,58,4,,0,,1611661313,13,12,1
+04:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,12,1
+03:55,[DAL] Sabally Foul: Shooting (1 PF) (2 FTA),33,59,6,203827,1630149,,1611661321,13,12,1
+03:55,[NYL] Howard Free Throw 1 of 2 Missed,0,-80,3,,203827,,1611661313,13,12,1
+03:55,[NYL] Team Rebound,0,-80,4,,0,,1611661313,13,12,1
+03:55,[NYL] Howard Free Throw 2 of 2 Missed,0,-80,3,,203827,,1611661313,13,12,1
+03:52,[DAL] Sabally Rebound (Off:0 Def:1),0,-80,4,,1630149,,1611661321,13,12,1
+03:42,[NYL] Whitcomb Foul: Personal (1 PF),-50,257,6,1629497,1628244,,1611661313,13,12,1
+03:42,[NYL] Whitcomb Substitution replaced by Jones,0,-80,8,,1628244,1630119,1611661313,13,12,1
+03:34,[DAL] Sabally Jump Shot: Missed,-22,72,2,,1630149,,1611661321,13,12,1
+03:30,[NYL] Jones Rebound (Off:0 Def:1),-22,72,4,,1630119,,1611661313,13,12,1
+03:12,[NYL] Jones Jump Shot: Missed,-56,70,2,,1630119,,1611661313,13,12,1
+03:08,[DAL] Thornton Rebound (Off:0 Def:1),-56,70,4,,203866,,1611661321,13,12,1
+03:03,[DAL] Mabrey 3pt Shot: Missed,-157,199,2,,1629497,,1611661321,13,12,1
+02:58,[DAL] Gray Rebound (Off:1 Def:2),-157,199,4,,1628277,,1611661321,13,12,1
+02:54,[DAL] Ogunbowale Jump Shot: Missed,-41,31,2,,1629481,,1611661321,13,12,1
+02:50,[NYL] Allen Rebound (Off:1 Def:1),-41,31,4,,204296,,1611661313,13,12,1
+02:47,[NYL 14-13] Howard Hook Shot: Made (4 PTS) Assist: Richards (1 AST),1,15,1,,203827,1630459,1611661313,13,14,1
+02:26,[DAL] Gray Jump Shot: Missed,-43,73,2,,1628277,,1611661321,13,14,1
+02:23,[NYL] Howard Rebound (Off:2 Def:3),-43,73,4,,203827,,1611661313,13,14,1
+02:13,[NYL] Ionescu Turnover : Bad Pass (1 TO) Steal:Thornton (1 ST),-70,93,5,203866,1629477,,1611661313,13,14,1
+02:10,[DAL 15-14] Mabrey Layup Shot: Made (2 PTS) Assist: Gray (1 AST),-17,11,1,,1629497,1628277,1611661321,15,14,1
+02:10,[NYL] Jones Foul: Shooting (1 PF) (1 FTA),-17,11,6,1629497,1630119,,1611661313,15,14,1
+02:10,[DAL] Thornton Substitution replaced by Collier,0,-80,8,,203866,1630454,1611661321,15,14,1
+02:10,[NYL] Howard Substitution replaced by Laney,0,-80,8,,203827,204335,1611661313,15,14,1
+02:10,[NYL] Jones Substitution replaced by Gray,0,-80,8,,1630119,204334,1611661313,15,14,1
+02:10,[DAL 16-14] Mabrey Free Throw 1 of 1 (3 PTS),0,-80,3,,1629497,,1611661321,16,14,1
+01:56,[NYL] Ionescu 3pt Shot: Missed,163,200,2,,1629477,,1611661313,16,14,1
+01:56,[NYL] Allen Rebound (Off:2 Def:1),163,200,4,,204296,,1611661313,16,14,1
+01:49,[NYL] Richards Jump Shot: Missed,-87,131,2,,1630459,,1611661313,16,14,1
+01:45,[DAL] Collier Rebound (Off:0 Def:1),-87,131,4,,1630454,,1611661321,16,14,1
+01:30,[DAL 18-14] Sabally Jump Shot: Made (4 PTS),55,111,1,,1630149,,1611661321,18,14,1
+01:30,[NYL] Allen Foul: Shooting (1 PF) (1 FTA),61,129,6,1630149,204296,,1611661313,18,14,1
+01:30,[DAL] Sabally Free Throw 1 of 1 Missed,0,-80,3,,1630149,,1611661321,18,14,1
+01:28,[DAL] Sabally Rebound (Off:1 Def:1),0,-80,4,,1630149,,1611661321,18,14,1
+01:25,[DAL 21-14] Gray 3pt Shot: Made (7 PTS) Assist: Mabrey (2 AST),212,130,1,,1628277,1629497,1611661321,21,14,1
+01:23,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,21,14,1
+01:23,[DAL] Gray Substitution replaced by Jefferson,0,-80,8,,1628277,1627669,1611661321,21,14,1
+01:04,[DAL] Mabrey Foul: Personal (1 PF),55,76,6,204334,1629497,,1611661321,21,14,1
+00:59.1,[NYL] Laney 3pt Shot: Missed,-166,214,2,,204335,,1611661313,21,14,1
+00:54.4,[NYL] Gray Rebound (Off:1 Def:0),-166,214,4,,204334,,1611661313,21,14,1
+00:54.1,[NYL 16-21] Laney Layup Shot: Made (6 PTS) Assist: Gray (1 AST),-16,21,1,,204335,204334,1611661313,21,16,1
+00:37.0,[DAL] Mabrey Step Back Jump shot: Missed,-182,36,2,,1629497,,1611661321,21,16,1
+00:33.2,[DAL] Jefferson Rebound (Off:1 Def:0),-182,36,4,,1627669,,1611661321,21,16,1
+00:31.7,[DAL 23-16] Jefferson Pullup Jump shot: Made (4 PTS),85,99,1,,1627669,,1611661321,23,16,1
+00:23.1,[NYL 18-23] Ionescu Pullup Jump shot: Made (5 PTS),-61,98,1,,1629477,,1611661313,23,18,1
+00:00.7,[DAL] Sabally Driving Floating Bank Jump Shot: Missed,60,106,2,,1630149,,1611661321,23,18,1
+00:00.7,[DAL] Team Rebound,60,106,4,,0,,1611661321,23,18,1
+00:00.0,End Period,0,-80,13,,0,,0,23,18,1
+10:00,Start Period,0,-80,12,,0,,0,23,18,2
+09:44,[DAL] Mabrey 3pt Shot: Missed,173,182,2,,1629497,,1611661321,23,18,2
+09:39,[NYL] Gray Rebound (Off:1 Def:1),173,182,4,,204334,,1611661313,23,18,2
+09:26,[NYL 20-23] Laney Cutting Layup Shot: Made (8 PTS) Assist: Gray (2 AST),19,15,1,,204335,204334,1611661313,23,20,2
+09:08,[NYL] Gray Foul: Personal (1 PF),-10,201,6,1629497,204334,,1611661313,23,20,2
+08:58,[DAL] Gray 3pt Shot: Missed,142,199,2,,1628277,,1611661321,23,20,2
+08:54,[DAL] Jefferson Rebound (Off:2 Def:0),142,199,4,,1627669,,1611661321,23,20,2
+08:48,[DAL] Jefferson Pullup Jump shot: Missed,-112,119,2,,1627669,,1611661321,23,20,2
+08:44,[NYL] Onyenwere Rebound (Off:0 Def:1),-112,119,4,,1630446,,1611661313,23,20,2
+08:36,[NYL 23-23] Laney 3pt Shot: Made (11 PTS),-94,249,1,,204335,,1611661313,23,23,2
+08:13,[DAL] Thornton Driving Layup Shot: Missed,9,11,2,,203866,,1611661321,23,23,2
+08:10,[NYL] Gray Rebound (Off:1 Def:2),9,11,4,,204334,,1611661313,23,23,2
+08:05,[NYL] Allen 3pt Shot: Missed,227,3,2,,204296,,1611661313,23,23,2
+08:00,[DAL] Jefferson Rebound (Off:2 Def:1),227,3,4,,1627669,,1611661321,23,23,2
+07:53,[DAL 26-23] Mabrey 3pt Shot: Made (6 PTS) Assist: Jefferson (2 AST),-115,225,1,,1629497,1627669,1611661321,26,23,2
+07:29,[NYL 26-26] Whitcomb 3pt Shot: Made (6 PTS) Assist: Laney (1 AST),147,203,1,,1628244,204335,1611661313,26,26,2
+07:06,[DAL] Gray 3pt Shot: Missed,187,167,2,,1628277,,1611661321,26,26,2
+07:02,[NYL] Laney Rebound (Off:0 Def:2),187,167,4,,204335,,1611661313,26,26,2
+06:55,[NYL 28-26] Gray Layup Shot: Made (2 PTS) Assist: Laney (2 AST),1,17,1,,204334,204335,1611661313,26,28,2
+06:48,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,26,28,2
+06:48,[DAL] Mabrey Substitution replaced by Ogunbowale,0,-80,8,,1629497,1629481,1611661321,26,28,2
+06:48,[DAL] Jefferson Substitution replaced by Harris,0,-80,8,,1627669,1630112,1611661321,26,28,2
+06:48,[DAL] Kuier Substitution replaced by Alarie,0,-80,8,,1630386,1630093,1611661321,26,28,2
+06:48,[NYL] Gray Substitution replaced by Ionescu,0,-80,8,,204334,1629477,1611661313,26,28,2
+06:48,[NYL] Allen Substitution replaced by Howard,0,-80,8,,204296,203827,1611661313,26,28,2
+06:33,[DAL 29-28] Ogunbowale 3pt Shot: Made (8 PTS),-141,196,1,,1629481,,1611661321,29,28,2
+06:10,[NYL 30-29] Onyenwere Turnaround Fadeaway shot: Made (2 PTS) Assist: Whitcomb (2 AST),134,26,1,,1630446,1628244,1611661313,29,30,2
+05:56,[NYL] Howard Foul: Personal (1 PF),-102,228,6,1628277,203827,,1611661313,29,30,2
+05:42,[DAL] Ogunbowale 3pt Shot: Missed,-5,248,2,,1629481,,1611661321,29,30,2
+05:40,[DAL] Team Rebound,-5,248,4,,0,,1611661321,29,30,2
+05:40,[NYL] Onyenwere Foul: Loose Ball (1 PF),-35,86,6,203866,1630446,,1611661313,29,30,2
+05:34,[DAL] Harris Driving Layup Shot: Missed,17,22,2,,1630112,,1611661321,29,30,2
+05:30,[NYL] Onyenwere Rebound (Off:0 Def:2),17,22,4,,1630446,,1611661313,29,30,2
+05:16,[DAL] Harris Foul: Personal (1 PF),54,40,6,204335,1630112,,1611661321,29,30,2
+05:07,[NYL] Laney Floating Jump shot: Missed,-20,37,2,,204335,,1611661313,29,30,2
+05:03,[DAL] Gray Rebound (Off:1 Def:3),-20,37,4,,1628277,,1611661321,29,30,2
+04:57,[DAL] Ogunbowale Layup Shot: Missed,-13,94,2,,1629481,,1611661321,29,30,2
+04:57,[DAL] Alarie Rebound (Off:1 Def:1),-13,94,4,,1630093,,1611661321,29,30,2
+04:43,[DAL] Ogunbowale Jump Shot: Missed,-157,58,2,,1629481,,1611661321,29,30,2
+04:41,[DAL] Gray Rebound (Off:2 Def:3),-157,58,4,,1628277,,1611661321,29,30,2
+04:41,[NYL] Whitcomb Foul: Loose Ball (2 PF) (2 FTA),-121,134,6,1628277,1628244,,1611661313,29,30,2
+04:41,[DAL] Gray Free Throw 1 of 2 Missed,0,-80,3,,1628277,,1611661321,29,30,2
+04:41,[DAL] Team Rebound,0,-80,4,,0,,1611661321,29,30,2
+04:41,[DAL] Gray Free Throw 2 of 2 Missed,0,-80,3,,1628277,,1611661321,29,30,2
+04:41,[NYL] Ionescu Rebound (Off:0 Def:1),0,-80,4,,1629477,,1611661313,29,30,2
+04:41,[NYL] Whitcomb Substitution replaced by Jones,0,-80,8,,1628244,1630119,1611661313,29,30,2
+04:23,[NYL] Ionescu Turnover : Bad Pass (2 TO) Steal:Alarie (1 ST),117,81,5,1630093,1629477,,1611661313,29,30,2
+04:03,[DAL] Gray Turnaround Fadeaway shot: Missed,-124,1,2,,1628277,,1611661321,29,30,2
+03:59,[NYL] Ionescu Rebound (Off:0 Def:2),-124,1,4,,1629477,,1611661313,29,30,2
+03:48,[NYL] Howard Layup Shot: Missed,-7,29,2,,203827,,1611661313,29,30,2
+03:45,[DAL] Harris Rebound (Off:0 Def:1),-7,29,4,,1630112,,1611661321,29,30,2
+03:40,[DAL 31-30] Gray Layup Shot: Made (9 PTS) Assist: Harris (1 AST),-15,6,1,,1628277,1630112,1611661321,31,30,2
+03:26,[NYL 32-31] Ionescu Driving Layup Shot: Made (7 PTS),41,22,1,,1629477,,1611661313,31,32,2
+03:09,[DAL] Ogunbowale Layup Shot: Missed,-1,27,2,,1629481,,1611661321,31,32,2
+03:06,[NYL] Laney Rebound (Off:0 Def:3),-1,27,4,,204335,,1611661313,31,32,2
+02:52,[NYL] Laney Driving Layup Shot: Missed,-1,15,2,,204335,,1611661313,31,32,2
+02:48,[DAL] Harris Rebound (Off:0 Def:2),-1,15,4,,1630112,,1611661321,31,32,2
+02:46,[DAL 34-32] Ogunbowale 3pt Shot: Made (11 PTS) Assist: Harris (2 AST),-164,185,1,,1629481,1630112,1611661321,34,32,2
+02:35,[NYL] Ionescu Layup Shot: Missed,24,34,2,1630112,1629477,,1611661313,34,32,2
+02:33,[NYL] Team Rebound,24,34,4,,0,,1611661313,34,32,2
+02:33,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,34,32,2
+02:33,[DAL] Gray Substitution replaced by Mabrey,0,-80,8,,1628277,1629497,1611661321,34,32,2
+02:33,[DAL] Alarie Substitution replaced by Sabally,0,-80,8,,1630093,1630149,1611661321,34,32,2
+02:27,[NYL 34-34] Howard Cutting Layup Shot: Made (6 PTS) Assist: Ionescu (2 AST),11,8,1,,203827,1629477,1611661313,34,34,2
+02:13,[DAL 36-34] Mabrey Driving Layup Shot: Made (8 PTS) Assist: Harris (3 AST),-21,10,1,,1629497,1630112,1611661321,36,34,2
+01:57,[NYL 37-36] Ionescu 3pt Shot: Made (10 PTS) Assist: Laney (3 AST),201,141,1,,1629477,204335,1611661313,36,37,2
+01:40,[DAL 38-37] Ogunbowale Driving Layup Shot: Made (13 PTS) Assist: Harris (4 AST),-24,11,1,,1629481,1630112,1611661321,38,37,2
+01:25,[NYL 39-38] Howard Driving Floating Jump Shot: Made (8 PTS) Assist: Ionescu (3 AST),-29,70,1,,203827,1629477,1611661313,38,39,2
+01:07,[DAL] Sabally Layup Shot: Missed,23,62,2,,1630149,,1611661321,38,39,2
+01:04,[NYL] Ionescu Rebound (Off:0 Def:3),23,62,4,,1629477,,1611661313,38,39,2
+00:52.8,[NYL 41-38] Laney Jump Shot: Made (13 PTS) Assist: Howard (3 AST),129,2,1,,204335,203827,1611661313,38,41,2
+00:31.2,[DAL] Harris Driving Layup Shot: Missed,35,54,2,,1630112,,1611661321,38,41,2
+00:29.8,[DAL] Team Rebound,35,54,4,,0,,1611661321,38,41,2
+00:29.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,41,2
+00:29.8,[NYL] Jones Substitution replaced by Whitcomb,0,-80,8,,1630119,1628244,1611661313,38,41,2
+00:29.8,[NYL] Onyenwere Substitution replaced by Allen,0,-80,8,,1630446,204296,1611661313,38,41,2
+00:19.1,[DAL] Ogunbowale Layup Shot: Missed,10,19,2,,1629481,,1611661321,38,41,2
+00:18.4,[DAL] Team Rebound,10,19,4,,0,,1611661321,38,41,2
+00:18.4,[NYL] Ionescu Foul: Loose Ball (1 PF) (2 FTA),28,48,6,203866,1629477,,1611661313,38,41,2
+00:18.4,[DAL 39-41] Thornton Free Throw 1 of 2 (1 PTS),0,-80,3,,203866,,1611661321,39,41,2
+00:18.4,[DAL 40-41] Thornton Free Throw 2 of 2 (2 PTS),0,-80,3,,203866,,1611661321,40,41,2
+00:04.2,[NYL] Ionescu 3pt Shot: Missed,-71,259,2,,1629477,,1611661313,40,41,2
+00:00.7,[DAL] Mabrey Rebound (Off:0 Def:3),-71,259,4,,1629497,,1611661321,40,41,2
+00:00.0,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,40,41,2
+00:00.0,"Double Technical - Mabrey, Howard",0,-80,6,203827,1629497,,1611661321,40,41,2
+00:00.0,End Period,0,-80,13,,0,,0,40,41,2
+10:00,Start Period,0,-80,12,,0,,0,40,41,3
+09:37,[DAL] Ogunbowale 3pt Shot: Missed,-138,238,2,,1629481,,1611661321,40,41,3
+09:32,[NYL] Howard Rebound (Off:2 Def:4),-138,238,4,,203827,,1611661313,40,41,3
+09:14,[NYL 44-40] Whitcomb 3pt Shot: Made (9 PTS) Assist: Ionescu (4 AST),176,175,1,,1628244,1629477,1611661313,40,44,3
+08:49,[DAL] Ogunbowale 3pt Shot: Missed,-150,215,2,,1629481,,1611661321,40,44,3
+08:45,[NYL] Ionescu Rebound (Off:0 Def:4),-150,215,4,,1629477,,1611661313,40,44,3
+08:35,[NYL] Howard Turnaround Hook Shot: Missed,29,63,2,,203827,,1611661313,40,44,3
+08:30,[DAL] Alarie Rebound (Off:1 Def:2),29,63,4,,1630093,,1611661321,40,44,3
+08:13,[NYL] Whitcomb Foul: Shooting (3 PF) (2 FTA),-32,40,6,1628277,1628244,,1611661313,40,44,3
+08:13,[DAL 41-44] Gray Free Throw 1 of 2 (10 PTS),0,-80,3,,1628277,,1611661321,41,44,3
+08:13,[DAL 42-44] Gray Free Throw 2 of 2 (11 PTS),0,-80,3,,1628277,,1611661321,42,44,3
+08:07,[NYL 47-42] Whitcomb 3pt Shot: Made (12 PTS) Assist: Laney (4 AST),198,170,1,,1628244,204335,1611661313,42,47,3
+07:51,[DAL] Gray Turnover : Out of Bounds Lost Ball Turnover (1 TO),-202,133,5,,1628277,,1611661321,42,47,3
+07:40,[NYL 49-42] Ionescu Layup Shot: Made (12 PTS) Assist: Laney (5 AST),7,15,1,,1629477,204335,1611661313,42,49,3
+07:33,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,42,49,3
+07:33,[DAL] Jefferson Substitution replaced by Mabrey,0,-80,8,,1627669,1629497,1611661321,42,49,3
+07:33,[DAL] Alarie Substitution replaced by Sabally,0,-80,8,,1630093,1630149,1611661321,42,49,3
+07:18,[DAL 44-49] Sabally Layup Shot: Made (6 PTS) Assist: Mabrey (3 AST),-30,24,1,,1630149,1629497,1611661321,44,49,3
+07:01,[NYL] Whitcomb 3pt Shot: Missed,88,251,2,,1628244,,1611661313,44,49,3
+06:56,[DAL] Gray Rebound (Off:2 Def:4),88,251,4,,1628277,,1611661321,44,49,3
+06:45,[DAL] Sabally Driving Layup Shot: Missed,2,31,2,,1630149,,1611661321,44,49,3
+06:42,[NYL] Howard Rebound (Off:2 Def:5),2,31,4,,203827,,1611661313,44,49,3
+06:33,[DAL] Gray Foul: Shooting (2 PF) (2 FTA),21,43,6,204335,1628277,,1611661321,44,49,3
+06:33,[NYL 50-44] Laney Free Throw 1 of 2 (14 PTS),0,-80,3,,204335,,1611661313,44,50,3
+06:33,[NYL 51-44] Laney Free Throw 2 of 2 (15 PTS),0,-80,3,,204335,,1611661313,44,51,3
+06:20,[NYL] Howard Foul: Shooting (3 PF) (2 FTA),-31,54,6,1630149,203827,,1611661313,44,51,3
+06:20,[DAL 45-51] Sabally Free Throw 1 of 2 (7 PTS),0,-80,3,,1630149,,1611661321,45,51,3
+06:20,[DAL 46-51] Sabally Free Throw 2 of 2 (8 PTS),0,-80,3,,1630149,,1611661321,46,51,3
+06:02,[NYL 53-46] Howard Driving Floating Bank Jump Shot: Made (10 PTS),-38,100,1,,203827,,1611661313,46,53,3
+05:40,[DAL] Ogunbowale 3pt Shot: Missed,106,235,2,,1629481,,1611661321,46,53,3
+05:34,[NYL] Ionescu Rebound (Off:0 Def:5),106,235,4,,1629477,,1611661313,46,53,3
+05:27,[NYL] Laney 3pt Shot: Missed,-141,203,2,,204335,,1611661313,46,53,3
+05:23,[DAL] Mabrey Rebound (Off:0 Def:4),-141,203,4,,1629497,,1611661321,46,53,3
+05:18,[DAL] Sabally Foul: Offensive (2 PF),127,80,6,204335,1630149,,1611661321,46,53,3
+05:18,[DAL] Sabally Turnover : Offensive Foul Turnover (1 TO),127,80,5,,1630149,,1611661321,46,53,3
+05:02,[NYL] Ionescu Pullup Jump shot: Missed,19,144,2,,1629477,,1611661313,46,53,3
+04:58,[DAL] Gray Rebound (Off:2 Def:5),19,144,4,,1628277,,1611661321,46,53,3
+04:53,[DAL 49-53] Mabrey 3pt Shot: Made (11 PTS),-185,201,1,,1629497,,1611661321,49,53,3
+04:39,[NYL] Howard Turnover : Lost Ball (1 TO) Steal:Thornton (2 ST),40,87,5,203866,203827,,1611661313,49,53,3
+04:34,[DAL] Gray Turnover : Traveling (2 TO),-85,48,5,,1628277,,1611661321,49,53,3
+04:21,[NYL 55-49] Laney Pullup Jump shot: Made (17 PTS) Assist: Howard (4 AST),118,178,1,,204335,203827,1611661313,49,55,3
+04:05,[DAL 51-55] Mabrey Turnaround Fadeaway shot: Made (13 PTS) Assist: Sabally (1 AST),55,55,1,,1629497,1630149,1611661321,51,55,3
+03:55,[NYL 57-51] Howard Cutting Layup Shot: Made (12 PTS) Assist: Laney (6 AST),6,13,1,,203827,204335,1611661313,51,57,3
+03:34,[DAL] Sabally Jump Shot: Missed,-18,131,2,,1630149,,1611661321,51,57,3
+03:31,[NYL] Howard Rebound (Off:2 Def:6),-18,131,4,,203827,,1611661313,51,57,3
+03:19,[NYL] Howard Turnover : Bad Pass (2 TO) Steal:Mabrey (1 ST),-62,105,5,1629497,203827,,1611661313,51,57,3
+03:14,[DAL 54-57] Mabrey 3pt Shot: Made (16 PTS) Assist: Ogunbowale (1 AST),201,145,1,,1629497,1629481,1611661321,54,57,3
+02:57,[NYL] Howard Turnover : Bad Pass (3 TO),-27,43,5,,203827,,1611661313,54,57,3
+02:57,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,54,57,3
+02:57,[DAL] Gray Substitution replaced by Alarie,0,-80,8,,1628277,1630093,1611661321,54,57,3
+02:57,[DAL] Sabally Substitution replaced by Harris,0,-80,8,,1630149,1630112,1611661321,54,57,3
+02:57,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,54,57,3
+02:57,[NYL] Whitcomb Substitution replaced by Gray,0,-80,8,,1628244,204334,1611661313,54,57,3
+02:44,[DAL] Mabrey 3pt Shot: Missed,133,211,2,,1629497,,1611661321,54,57,3
+02:39,[NYL] Laney Rebound (Off:0 Def:4),133,211,4,,204335,,1611661313,54,57,3
+02:17,[NYL 59-54] Ionescu Layup Shot: Made (14 PTS),-15,10,1,,1629477,,1611661313,54,59,3
+01:59,[DAL] Harris 3pt Shot: Missed,133,212,2,,1630112,,1611661321,54,59,3
+01:57,[DAL] Thornton Rebound (Off:1 Def:1),133,212,4,,203866,,1611661321,54,59,3
+01:56,[DAL] Mabrey 3pt Shot: Missed,4,250,2,,1629497,,1611661321,54,59,3
+01:56,[NYL] Ionescu Rebound (Off:0 Def:6),4,250,4,,1629477,,1611661313,54,59,3
+01:42,[NYL] Gray Layup Shot: Missed,-44,17,2,1630093,204334,,1611661313,54,59,3
+01:39,[DAL] Mabrey Rebound (Off:0 Def:5),-44,17,4,,1629497,,1611661321,54,59,3
+01:35,[DAL] Ogunbowale Layup Shot: Missed,19,22,2,,1629481,,1611661321,54,59,3
+01:35,[NYL] Onyenwere Rebound (Off:0 Def:3),19,22,4,,1630446,,1611661313,54,59,3
+01:22,[NYL] Onyenwere 3pt Shot: Missed,232,58,2,,1630446,,1611661313,54,59,3
+01:19,[NYL] Ionescu Rebound (Off:1 Def:6),232,58,4,,1629477,,1611661313,54,59,3
+01:18,[NYL 61-54] Ionescu Putback Layup Shot: Made (16 PTS),-4,14,1,,1629477,,1611661313,54,61,3
+01:11,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,54,61,3
+01:11,[DAL] Alarie Substitution replaced by Gray,0,-80,8,,1630093,1628277,1611661321,54,61,3
+01:11,[DAL] Harris Substitution replaced by Sabally,0,-80,8,,1630112,1630149,1611661321,54,61,3
+01:04,[DAL] Gray Jump Shot: Missed,41,55,2,1629477,1628277,,1611661321,54,61,3
+01:04,[DAL] Gray Rebound (Off:3 Def:5),41,55,4,,1628277,,1611661321,54,61,3
+01:04,[NYL] Ionescu Foul: Shooting (2 PF) (2 FTA),-34,39,6,1628277,1629477,,1611661313,54,61,3
+01:04,[DAL 55-61] Gray Free Throw 1 of 2 (12 PTS),0,-80,3,,1628277,,1611661321,55,61,3
+01:04,[DAL 56-61] Gray Free Throw 2 of 2 (13 PTS),0,-80,3,,1628277,,1611661321,56,61,3
+00:51.6,[NYL] Allen 3pt Shot: Missed,-125,213,2,,204296,,1611661313,56,61,3
+00:48.6,[NYL] Onyenwere Rebound (Off:1 Def:3),-125,213,4,,1630446,,1611661313,56,61,3
+00:48.6,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,56,61,3
+00:39.3,[DAL] Sabally Foul: Shooting (3 PF) (2 FTA),82,51,6,204335,1630149,,1611661321,56,61,3
+00:39.3,[NYL 62-56] Laney Free Throw 1 of 2 (18 PTS),0,-80,3,,204335,,1611661313,56,62,3
+00:39.3,[NYL 63-56] Laney Free Throw 2 of 2 (19 PTS),0,-80,3,,204335,,1611661313,56,63,3
+00:28.6,[DAL] Sabally Turnover : Lost Ball (2 TO) Steal:Onyenwere (1 ST),75,39,5,1630446,1630149,,1611661321,56,63,3
+00:04.9,[NYL 66-56] Allen 3pt Shot: Made (3 PTS) Assist: Ionescu (5 AST),-217,102,1,,204296,1629477,1611661313,56,66,3
+00:00.0,End Period,0,-80,13,,0,,0,56,66,3
+10:00,Start Period,0,-80,12,,0,,0,56,66,4
+09:49,[DAL] Sabally Foul: Shooting (4 PF) (2 FTA),-57,49,6,1630446,1630149,,1611661321,56,66,4
+09:49,[NYL 67-56] Onyenwere Free Throw 1 of 2 (3 PTS),0,-80,3,,1630446,,1611661313,56,67,4
+09:49,[NYL 68-56] Onyenwere Free Throw 2 of 2 (4 PTS),0,-80,3,,1630446,,1611661313,56,68,4
+09:33,[NYL] Onyenwere Foul: Shooting (2 PF) (2 FTA),57,28,6,203866,1630446,,1611661313,56,68,4
+09:33,[DAL 57-68] Thornton Free Throw 1 of 2 (3 PTS),0,-80,3,,203866,,1611661321,57,68,4
+09:33,[DAL] Thornton Free Throw 2 of 2 Missed,0,-80,3,,203866,,1611661321,57,68,4
+09:30,[NYL] Gray Rebound (Off:1 Def:3),0,-80,4,,204334,,1611661313,57,68,4
+09:19,[NYL 70-57] Onyenwere Driving Finger Roll Layup Shot: Made (6 PTS) Assist: Jones (1 AST),-15,11,1,,1630446,1630119,1611661313,57,70,4
+08:56,[DAL 60-70] Thornton 3pt Shot: Made (6 PTS) Assist: Sabally (2 AST),-4,253,1,,203866,1630149,1611661321,60,70,4
+08:27,[NYL] Ionescu Layup Shot: Missed,-18,21,2,,1629477,,1611661313,60,70,4
+08:25,[NYL] Gray Rebound (Off:2 Def:3),-18,21,4,,204334,,1611661313,60,70,4
+08:25,[NYL] Gray Tip Layup Shot: Missed,-29,17,2,,204334,,1611661313,60,70,4
+08:22,[DAL] Mabrey Rebound (Off:0 Def:6),-29,17,4,,1629497,,1611661321,60,70,4
+08:19,[DAL] Harris Foul: Offensive (2 PF),41,54,6,204334,1630112,,1611661321,60,70,4
+08:19,[DAL] Harris Turnover : Offensive Foul Turnover (1 TO),41,54,5,,1630112,,1611661321,60,70,4
+08:19,[DAL] Harris Substitution replaced by Ogunbowale,0,-80,8,,1630112,1629481,1611661321,60,70,4
+08:19,[NYL] Gray Substitution replaced by Howard,0,-80,8,,204334,203827,1611661313,60,70,4
+08:04,[NYL] Howard Layup Shot: Missed,-6,16,2,,203827,,1611661313,60,70,4
+08:02,[DAL] Sabally Rebound (Off:1 Def:2),-6,16,4,,1630149,,1611661321,60,70,4
+07:44,[DAL] Ogunbowale Jump Shot: Missed,-151,128,2,,1629481,,1611661321,60,70,4
+07:40,[NYL] Jones Rebound (Off:0 Def:2),-151,128,4,,1630119,,1611661313,60,70,4
+07:30,[NYL] Ionescu Driving Layup Shot: Missed,13,14,2,,1629477,,1611661313,60,70,4
+07:26,[DAL] Gray Rebound (Off:3 Def:6),13,14,4,,1628277,,1611661321,60,70,4
+07:22,[DAL 62-70] Thornton Running Layup Shot: Made (8 PTS) Assist: Mabrey (4 AST),11,8,1,,203866,1629497,1611661321,62,70,4
+07:22,[NYL] Howard Foul: Shooting (4 PF) (1 FTA),12,7,6,203866,203827,,1611661313,62,70,4
+07:22,[DAL 63-70] Thornton Free Throw 1 of 1 (9 PTS),0,-80,3,,203866,,1611661321,63,70,4
+07:07,[NYL] Allen 3pt Shot: Missed,-212,112,2,,204296,,1611661313,63,70,4
+07:04,[DAL] Team Rebound,-212,112,4,,0,,1611661321,63,70,4
+07:04,[NYL] Onyenwere Foul: Loose Ball (3 PF),166,855,6,203866,1630446,,1611661313,63,70,4
+07:04,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,63,70,4
+07:04,[NYL] Ionescu Substitution replaced by Laney,0,-80,8,,1629477,204335,1611661313,63,70,4
+06:50,[DAL 66-70] Mabrey 3pt Shot: Made (19 PTS) Assist: Sabally (3 AST),180,162,1,,1629497,1630149,1611661321,66,70,4
+06:32,[NYL] Howard Turnover : Out of Bounds - Bad Pass Turnover (4 TO),85,91,5,,203827,,1611661313,66,70,4
+06:32,[NYL] Jones Substitution replaced by Ionescu,0,-80,8,,1630119,1629477,1611661313,66,70,4
+06:18,[DAL] Mabrey Jump Shot: Missed,85,185,2,,1629497,,1611661321,66,70,4
+06:15,[NYL] Howard Rebound (Off:2 Def:7),85,185,4,,203827,,1611661313,66,70,4
+06:00,[NYL] Ionescu 3pt Shot: Missed,-5,260,2,,1629477,,1611661313,66,70,4
+05:57,[DAL] Thornton Rebound (Off:1 Def:2),-5,260,4,,203866,,1611661321,66,70,4
+05:41,[DAL 68-70] Thornton Jump Shot: Made (11 PTS) Assist: Mabrey (5 AST),77,208,1,,203866,1629497,1611661321,68,70,4
+05:18,[NYL] Laney Jump Shot: Missed,-44,144,2,,204335,,1611661313,68,70,4
+05:13,[DAL] Gray Rebound (Off:3 Def:7),-44,144,4,,1628277,,1611661321,68,70,4
+05:03,[DAL] Mabrey Layup Shot: Missed,-16,31,2,,1629497,,1611661321,68,70,4
+05:01,[DAL] Thornton Rebound (Off:2 Def:2),-16,31,4,,203866,,1611661321,68,70,4
+05:01,[DAL 70-70] Thornton Layup Shot: Made (13 PTS),-11,17,1,,203866,,1611661321,70,70,4
+05:00,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,70,70,4
+05:00,InstantReplay Request Stands,0,-80,18,,0,,0,70,70,4
+05:00,[NYL] Onyenwere Substitution replaced by Whitcomb,0,-80,8,,1630446,1628244,1611661313,70,70,4
+04:43,[NYL] Whitcomb Driving Floating Jump Shot: Missed,55,107,2,,1628244,,1611661313,70,70,4
+04:40,[DAL] Gray Rebound (Off:3 Def:8),55,107,4,,1628277,,1611661321,70,70,4
+04:17,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,4,107,2,,1629481,,1611661321,70,70,4
+04:15,[NYL] Team Rebound,4,107,4,,0,,1611661313,70,70,4
+04:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,70,4
+03:56,[DAL] Gray Foul: Personal (3 PF),-56,69,6,203827,1628277,,1611661321,70,70,4
+03:49,[DAL] Thornton Violation:Kicked Ball,0,-80,7,,203866,,1611661321,70,70,4
+03:38,[NYL] Howard Turnover : Out of Bounds - Bad Pass Turnover (5 TO),205,46,5,,203827,,1611661313,70,70,4
+03:20,[DAL] Mabrey 3pt Shot: Missed,-88,241,2,,1629497,,1611661321,70,70,4
+03:16,[NYL] Howard Rebound (Off:2 Def:8),-88,241,4,,203827,,1611661313,70,70,4
+03:01,[NYL 72-70] Howard Cutting Layup Shot: Made (14 PTS) Assist: Ionescu (6 AST),-2,10,1,,203827,1629477,1611661313,70,72,4
+02:45,[NYL] Allen Foul: Shooting (2 PF) (2 FTA),19,15,6,1629497,204296,,1611661313,70,72,4
+02:45,Timeout Officials,0,-80,9,,0,,0,70,72,4
+02:45,[DAL 71-72] Mabrey Free Throw 1 of 2 (20 PTS),0,-80,3,,1629497,,1611661321,71,72,4
+02:45,[DAL 72-72] Mabrey Free Throw 2 of 2 (21 PTS),0,-80,3,,1629497,,1611661321,72,72,4
+02:33,[NYL] Ionescu Turnover : Lost Ball (3 TO) Steal:Gray (1 ST),-110,231,5,1628277,1629477,,1611661313,72,72,4
+02:29,[DAL] Gray Running Layup Shot: Missed,-31,26,2,,1628277,,1611661321,72,72,4
+02:29,[NYL] Team Rebound,-31,26,4,,0,,1611661313,72,72,4
+02:29,[DAL] Mabrey Foul: Loose Ball (3 PF),79,817,6,1629477,1629497,,1611661321,72,72,4
+02:21,[DAL] Sabally Foul: Personal (5 PF),-61,194,6,1628244,1630149,,1611661321,72,72,4
+02:17,[DAL] Gray Foul: Shooting (4 PF) (2 FTA),35,53,6,1629477,1628277,,1611661321,72,72,4
+02:17,[NYL 73-72] Ionescu Free Throw 1 of 2 (17 PTS),0,-80,3,,1629477,,1611661313,72,73,4
+02:17,[NYL 74-72] Ionescu Free Throw 2 of 2 (18 PTS),0,-80,3,,1629477,,1611661313,72,74,4
+02:00,[DAL 75-74] Sabally 3pt Shot: Made (11 PTS) Assist: Ogunbowale (2 AST),4,235,1,,1630149,1629481,1611661321,75,74,4
+01:46,[NYL] Howard Driving Hook Shot: Missed,-43,22,2,,203827,,1611661313,75,74,4
+01:44,[DAL] Mabrey Rebound (Off:0 Def:7),-43,22,4,,1629497,,1611661321,75,74,4
+01:25,[DAL] Ogunbowale Driving Hook Shot: Missed,27,18,2,,1629481,,1611661321,75,74,4
+01:20,[DAL] Thornton Rebound (Off:3 Def:2),27,18,4,,203866,,1611661321,75,74,4
+01:12,[DAL] Mabrey 3pt Shot: Missed,63,255,2,,1629497,,1611661321,75,74,4
+01:08,[NYL] Ionescu Rebound (Off:1 Def:7),63,255,4,,1629477,,1611661313,75,74,4
+00:58.8,[NYL] Ionescu 3pt Shot: Missed,-100,234,2,,1629477,,1611661313,75,74,4
+00:55.7,[DAL] Mabrey Rebound (Off:0 Def:8),-100,234,4,,1629497,,1611661321,75,74,4
+00:38.0,[DAL 77-74] Sabally Driving Finger Roll Layup Shot: Made (13 PTS) Assist: Mabrey (6 AST),7,15,1,,1630149,1629497,1611661321,77,74,4
+00:38.0,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,77,74,4
+00:38.0,[DAL] Sabally Substitution replaced by Dungee,0,-80,8,,1630149,1630440,1611661321,77,74,4
+00:29.4,[NYL 76-77] Howard Layup Shot: Made (16 PTS),4,11,1,,203827,,1611661313,77,76,4
+00:08.7,[DAL] Ogunbowale 3pt Shot: Missed,-95,241,2,,1629481,,1611661321,77,76,4
+00:05.7,[NYL] Howard Rebound (Off:2 Def:9),-95,241,4,,203827,,1611661313,77,76,4
+00:05.7,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,77,76,4
+00:01.0,[NYL] Ionescu Driving Floating Jump Shot: Missed,12,170,2,1628277,1629477,,1611661313,77,76,4
+00:01.0,[NYL] Team Rebound,12,170,4,,0,,1611661313,77,76,4
+00:00.0,End Period,0,-80,13,,0,,0,77,76,4
+00:00.0,Game End,0,-80,0,,0,,0,77,76,4

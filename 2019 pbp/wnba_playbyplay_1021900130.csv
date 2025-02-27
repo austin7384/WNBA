@@ -1,0 +1,365 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Howard vs Ogwumike (Loyd gains possession),0,-80,10,203014,203827,204319,1611661328,0,0,1
+09:42,[SEA] Canada Pullup Jump shot: Missed,-162,69,2,,1628886,,1611661328,0,0,1
+09:39,[LAS] Parker Rebound (Off:0 Def:1),-162,69,4,,201496,,1611661320,0,0,1
+09:31,[LAS 2-0] Ruffin-Pratt Driving Layup Shot: Made (2 PTS),0,19,1,,203437,,1611661320,2,0,1
+09:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,0,1
+09:02,[SEA] Canada Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-47,222,5,,1628886,,1611661328,2,0,1
+08:43,[LAS 4-0] Parker Jump Shot: Made (2 PTS),45,113,1,,201496,,1611661320,4,0,1
+08:26,[SEA 2-4] Howard Turnaround Hook Shot: Made (2 PTS),-36,110,1,,203827,,1611661328,4,2,1
+08:15,[LAS] Parker 3pt Shot: Missed,-111,212,2,,201496,,1611661320,4,2,1
+08:11,[SEA] Loyd Rebound (Off:0 Def:1),-111,212,4,,204319,,1611661328,4,2,1
+08:04,[SEA 5-4] Clark 3pt Shot: Made (3 PTS) Assist: Loyd (1 AST),230,48,1,,202252,204319,1611661328,4,5,1
+07:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,5,1
+07:38,[LAS] Parker Pullup Jump shot: Missed,108,62,2,,201496,,1611661320,4,5,1
+07:34,[SEA] Clark Rebound (Off:0 Def:1),108,62,4,,202252,,1611661328,4,5,1
+07:27,[LAS] Ruffin-Pratt Foul: Shooting (1 PF) (2 FTA),19,60,6,204319,203437,,1611661320,4,5,1
+07:27,[SEA 6-4] Loyd Free Throw 1 of 2 (1 PTS),0,-80,3,,204319,,1611661328,4,6,1
+07:27,[SEA 7-4] Loyd Free Throw 2 of 2 (2 PTS),0,-80,3,,204319,,1611661328,4,7,1
+07:16,[LAS 7-7] Wiese 3pt Shot: Made (3 PTS) Assist: Ruffin-Pratt (1 AST),-150,204,1,,1628282,203437,1611661320,7,7,1
+06:58,[LAS] Ruffin-Pratt Foul: Shooting (2 PF) (2 FTA),-24,63,6,1628886,203437,,1611661320,7,7,1
+06:58,[SEA 8-7] Canada Free Throw 1 of 2 (1 PTS),0,-80,3,,1628886,,1611661328,7,8,1
+06:58,[LAS] Ruffin-Pratt Substitution replaced by Jones,0,-80,8,,203437,1628283,1611661320,7,8,1
+06:58,[SEA 9-7] Canada Free Throw 2 of 2 (2 PTS),0,-80,3,,1628886,,1611661328,7,9,1
+06:47,[LAS 9-9] Parker Cutting Layup Shot: Made (4 PTS) Assist: Gray (1 AST),9,14,1,,201496,203833,1611661320,9,9,1
+06:39,[SEA] Loyd Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-19,259,5,,204319,,1611661328,9,9,1
+06:17,[LAS] Gray Reverse Layup Shot: Missed,19,14,2,,203833,,1611661320,9,9,1
+06:17,[LAS] Parker Rebound (Off:1 Def:1),19,14,4,,201496,,1611661320,9,9,1
+06:17,[LAS 11-9] Parker Putback Layup Shot: Made (6 PTS),0,-5,1,,201496,,1611661320,11,9,1
+06:17,[SEA] Russell Foul: Shooting (1 PF) (1 FTA),0,-5,6,201496,1628920,,1611661328,11,9,1
+06:17,[LAS 12-9] Parker Free Throw 1 of 1 (7 PTS),0,-80,3,,201496,,1611661320,12,9,1
+05:55,[SEA 11-12] Russell Cutting Layup Shot: Made (2 PTS) Assist: Canada (1 AST),3,27,1,,1628920,1628886,1611661328,12,11,1
+05:42,[LAS] Parker Turnaround Hook Shot: Missed,-21,86,2,,201496,,1611661320,12,11,1
+05:38,[SEA] Howard Rebound (Off:0 Def:1),-21,86,4,,203827,,1611661328,12,11,1
+05:32,[SEA] Howard Jump Shot: Missed,111,150,2,,203827,,1611661328,12,11,1
+05:29,[LAS] Ogwumike Rebound (Off:0 Def:1),111,150,4,,203014,,1611661320,12,11,1
+05:15,[LAS 15-11] Gray 3pt Shot: Made (3 PTS),97,234,1,,203833,,1611661320,15,11,1
+05:01,[SEA 14-15] Howard 3pt Shot: Made (5 PTS) Assist: Loyd (2 AST),60,236,1,,203827,204319,1611661328,15,14,1
+04:45,[LAS] Parker Turnover : Lost Ball (1 TO) Steal:Howard (1 ST),12,255,5,203827,201496,,1611661320,15,14,1
+04:42,[SEA 16-15] Howard Running Layup Shot: Made (7 PTS),0,11,1,,203827,,1611661328,15,16,1
+04:26,[SEA] Howard Foul: Personal (1 PF),-47,172,6,203014,203827,,1611661328,15,16,1
+04:26,Timeout Officials,0,-80,9,,0,,0,15,16,1
+04:19,[LAS] Jones Turnover : Bad Pass (1 TO) Steal:Russell (1 ST),-66,223,5,1628920,1628283,,1611661320,15,16,1
+04:11,[SEA] Canada 3pt Shot: Missed,148,189,2,,1628886,,1611661328,15,16,1
+04:07,[SEA] Russell Rebound (Off:1 Def:0),148,189,4,,1628920,,1611661328,15,16,1
+04:06,[SEA] Russell Jump Shot: Missed,-4,86,2,,1628920,,1611661328,15,16,1
+04:04,[SEA] Russell Rebound (Off:2 Def:0),-4,86,4,,1628920,,1611661328,15,16,1
+04:03,[SEA] Russell Putback Layup Shot: Missed,4,19,2,,1628920,,1611661328,15,16,1
+03:59,[LAS] Jones Rebound (Off:0 Def:1),4,19,4,,1628283,,1611661320,15,16,1
+03:57,[LAS] Jones Floating Jump shot: Missed,-5,54,2,,1628283,,1611661320,15,16,1
+03:53,[SEA] Canada Rebound (Off:0 Def:1),-5,54,4,,1628886,,1611661328,15,16,1
+03:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,16,1
+03:48,[LAS] Parker Substitution replaced by Vadeeva,0,-80,8,,201496,1628926,1611661320,15,16,1
+03:43,[SEA] Loyd Jump Shot: Missed,0,153,2,,204319,,1611661328,15,16,1
+03:40,[LAS] Ogwumike Rebound (Off:0 Def:2),0,153,4,,203014,,1611661320,15,16,1
+03:24,[LAS 18-16] Gray 3pt Shot: Made (6 PTS) Assist: Jones (1 AST),-161,197,1,,203833,1628283,1611661320,18,16,1
+03:08,[SEA] Canada Driving Layup Shot: Missed,-24,39,2,1628283,1628886,,1611661328,18,16,1
+03:07,[SEA] Team Rebound,-24,39,4,,0,,1611661328,18,16,1
+03:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,16,1
+03:04,[SEA] Canada Turnover : Bad Pass (2 TO) Steal:Gray (1 ST),93,27,5,203833,1628886,,1611661328,18,16,1
+02:59,[LAS 20-16] Vadeeva Layup Shot: Made (2 PTS) Assist: Gray (2 AST),-15,14,1,,1628926,203833,1611661320,20,16,1
+02:46,[SEA 19-20] Clark 3pt Shot: Made (6 PTS) Assist: Howard (1 AST),-153,184,1,,202252,203827,1611661328,20,19,1
+02:34,[LAS] Gray Jump Shot: Missed,-15,171,2,,203833,,1611661320,20,19,1
+02:29,[SEA] Howard Rebound (Off:0 Def:2),-15,171,4,,203827,,1611661328,20,19,1
+02:19,[SEA 21-20] Clark Driving Layup Shot: Made (8 PTS),-6,29,1,,202252,,1611661328,20,21,1
+02:11,[LAS] Wiese 3pt Shot: Missed,-210,133,2,,1628282,,1611661320,20,21,1
+02:10,[LAS] Team Rebound,-210,133,4,,0,,1611661320,20,21,1
+02:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,21,1
+02:10,[SEA] Russell Substitution replaced by Whitcomb,0,-80,8,,1628920,1628244,1611661328,20,21,1
+02:10,[SEA] Loyd Substitution replaced by Langhorne,0,-80,8,,204319,201518,1611661328,20,21,1
+01:59,[LAS 22-21] Vadeeva Layup Shot: Made (4 PTS) Assist: Wiese (1 AST),-8,32,1,,1628926,1628282,1611661320,22,21,1
+01:56,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,22,21,1
+01:52,[SEA] Clark Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),-151,355,5,1628283,202252,,1611661328,22,21,1
+01:49,[LAS 24-21] Jones Running Layup Shot: Made (2 PTS),2,20,1,,1628283,,1611661320,24,21,1
+01:34,[SEA] Howard Layup Shot: Missed,19,58,2,,203827,,1611661328,24,21,1
+01:32,[LAS] Vadeeva Rebound (Off:0 Def:1),19,58,4,,1628926,,1611661320,24,21,1
+01:17,[LAS] Ogwumike Turnaround Bank Hook Shot: Missed,22,41,2,,203014,,1611661320,24,21,1
+01:15,[LAS] Vadeeva Rebound (Off:1 Def:1),22,41,4,,1628926,,1611661320,24,21,1
+01:15,[SEA] Howard Foul: Personal (2 PF),71,84,6,1628926,203827,,1611661328,24,21,1
+01:15,[SEA] Howard Substitution replaced by Paris,0,-80,8,,203827,201907,1611661328,24,21,1
+01:15,[SEA] Canada Substitution replaced by Zellous,0,-80,8,,1628886,201919,1611661328,24,21,1
+01:15,[LAS] Ogwumike Substitution replaced by Brown,0,-80,8,,203014,1629480,1611661320,24,21,1
+01:10,[SEA] Paris Foul: Shooting (1 PF) (2 FTA),-38,8,6,1628926,201907,,1611661328,24,21,1
+01:10,[LAS 25-21] Vadeeva Free Throw 1 of 2 (5 PTS),0,-80,3,,1628926,,1611661320,25,21,1
+01:10,[LAS 26-21] Vadeeva Free Throw 2 of 2 (6 PTS),0,-80,3,,1628926,,1611661320,26,21,1
+00:52.3,[SEA 24-26] Whitcomb 3pt Shot: Made (3 PTS) Assist: Paris (1 AST),-230,5,1,,1628244,201907,1611661328,26,24,1
+00:36.6,[SEA] Zellous Foul: Shooting (1 PF) (2 FTA),12,42,6,203833,201919,,1611661328,26,24,1
+00:36.6,[LAS] Gray Free Throw 1 of 2 Missed,0,-80,3,,203833,,1611661320,26,24,1
+00:36.6,[LAS] Team Rebound,0,-80,4,,0,,1611661320,26,24,1
+00:36.6,[LAS 27-24] Gray Free Throw 2 of 2 (7 PTS),0,-80,3,,203833,,1611661320,27,24,1
+00:22.2,[SEA] Langhorne Turnover : Out of Bounds Lost Ball Turnover (1 TO),-22,53,5,,201518,,1611661328,27,24,1
+00:00.0,End Period,0,-80,13,,0,,0,27,24,1
+10:00,Start Period,0,-80,12,,0,,0,27,24,2
+09:44,[LAS 30-24] Gray 3pt Shot: Made (10 PTS) Assist: Jones (2 AST),224,30,1,,203833,1628283,1611661320,30,24,2
+09:33,[SEA] Zellous Foul: Offensive Charge (2 PF),7,45,6,1629497,201919,,1611661328,30,24,2
+09:33,[SEA] Zellous Turnover : Offensive Foul Turnover (1 TO),7,45,5,,201919,,1611661328,30,24,2
+09:19,[LAS] Vadeeva Layup Shot: Missed,-4,53,2,,1628926,,1611661320,30,24,2
+09:15,[SEA] Paris Rebound (Off:0 Def:1),-4,53,4,,201907,,1611661328,30,24,2
+09:02,[SEA 26-30] Zellous Cutting Layup Shot: Made (2 PTS) Assist: Whitcomb (1 AST),-12,23,1,,201919,1628244,1611661328,30,26,2
+08:46,[LAS 32-26] Brown Turnaround Bank Hook Shot: Made (2 PTS) Assist: Vadeeva (1 AST),-28,21,1,,1629480,1628926,1611661320,32,26,2
+08:37,[LAS] Vadeeva Foul: Personal (1 PF),-96,199,6,201518,1628926,,1611661320,32,26,2
+08:37,[SEA] Langhorne Substitution replaced by Russell,0,-80,8,,201518,1628920,1611661328,32,26,2
+08:37,[SEA] Paris Substitution replaced by Howard,0,-80,8,,201907,203827,1611661328,32,26,2
+08:34,[SEA] Whitcomb 3pt Shot: Missed,-208,113,2,,1628244,,1611661328,32,26,2
+08:29,[SEA] Russell Rebound (Off:3 Def:0),-208,113,4,,1628920,,1611661328,32,26,2
+08:27,[SEA 28-32] Russell Putback Layup Shot: Made (4 PTS),-12,13,1,,1628920,,1611661328,32,28,2
+08:04,[LAS] Gray Turnover : Bad Pass (1 TO) Steal:Russell (2 ST),46,122,5,1628920,203833,,1611661320,32,28,2
+08:01,[SEA] Howard Foul: Offensive Charge (3 PF),0,60,6,203833,203827,,1611661328,32,28,2
+08:01,[SEA] Howard Turnover : Offensive Foul Turnover (1 TO),0,60,5,,203827,,1611661328,32,28,2
+08:01,[LAS] Vadeeva Substitution replaced by Parker,0,-80,8,,1628926,201496,1611661320,32,28,2
+08:01,[SEA] Howard Substitution replaced by Langhorne,0,-80,8,,203827,201518,1611661328,32,28,2
+07:50,[LAS] Jones Turnover : Lost Ball (2 TO) Steal:Whitcomb (1 ST),-10,74,5,1628244,1628283,,1611661320,32,28,2
+07:48,[LAS] Jones Foul: Clear Path (1 PF) (2 FTA),-70,541,6,1628244,1628283,,1611661320,32,28,2
+07:48,Instant Replay - Support Ruling,0,-80,18,,0,,0,32,28,2
+07:48,[SEA 29-32] Whitcomb Free Throw Clear Path 1 of 2 (4 PTS),0,-80,3,,1628244,,1611661328,32,29,2
+07:48,[SEA 30-32] Whitcomb Free Throw Clear Path 2 of 2 (5 PTS),0,-80,3,,1628244,,1611661328,32,30,2
+07:29,[SEA] Whitcomb 3pt Shot: Missed,-57,246,2,,1628244,,1611661328,32,30,2
+07:29,[LAS] Team Rebound,-57,246,4,,0,,1611661320,32,30,2
+07:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,30,2
+07:16,[LAS] Gray Turnover : Bad Pass (2 TO) Steal:Whitcomb (2 ST),6,89,5,1628244,203833,,1611661320,32,30,2
+07:13,[SEA] Whitcomb Running Layup Shot: Missed,-11,18,2,,1628244,,1611661328,32,30,2
+07:10,[LAS] Jones Rebound (Off:0 Def:2),-11,18,4,,1628283,,1611661320,32,30,2
+07:08,[LAS 34-30] Brown Layup Shot: Made (4 PTS) Assist: Parker (1 AST),-15,16,1,,1629480,201496,1611661320,34,30,2
+06:54,[SEA 32-34] Mosqueda-Lewis Jump Shot: Made (2 PTS) Assist: Russell (1 AST),-131,40,1,,204321,1628920,1611661328,34,32,2
+06:42,[LAS] Mabrey 3pt Shot: Missed,217,105,2,,1629497,,1611661320,34,32,2
+06:42,[SEA] Whitcomb Rebound (Off:0 Def:1),217,105,4,,1628244,,1611661328,34,32,2
+06:30,[SEA 34-34] Zellous Pullup Jump shot: Made (4 PTS),98,112,1,,201919,,1611661328,34,34,2
+06:11,[SEA] Russell Foul: Shooting (2 PF) (2 FTA),-4,52,6,201496,1628920,,1611661328,34,34,2
+06:11,[LAS 35-34] Parker Free Throw 1 of 2 (8 PTS),0,-80,3,,201496,,1611661320,35,34,2
+06:11,[LAS] Jones Substitution replaced by Wiese,0,-80,8,,1628283,1628282,1611661320,35,34,2
+06:11,[LAS] Gray Substitution replaced by Ruffin-Pratt,0,-80,8,,203833,203437,1611661320,35,34,2
+06:11,[LAS 36-34] Parker Free Throw 2 of 2 (9 PTS),0,-80,3,,201496,,1611661320,36,34,2
+06:00,[SEA] Whitcomb 3pt Shot: Missed,148,199,2,,1628244,,1611661328,36,34,2
+05:56,[LAS] Parker Rebound (Off:1 Def:2),148,199,4,,201496,,1611661320,36,34,2
+05:48,[LAS 38-34] Parker Driving Floating Bank Jump Shot: Made (11 PTS),-27,46,1,,201496,,1611661320,38,34,2
+05:35,[SEA] Russell Jump Shot: Missed,143,97,2,,1628920,,1611661328,38,34,2
+05:31,[LAS] Ruffin-Pratt Rebound (Off:0 Def:1),143,97,4,,203437,,1611661320,38,34,2
+05:28,[LAS] Mabrey 3pt Shot: Missed,-236,46,2,,1629497,,1611661320,38,34,2
+05:26,[SEA] Langhorne Rebound (Off:0 Def:1),-236,46,4,,201518,,1611661328,38,34,2
+05:12,[SEA] Langhorne 3pt Shot: Missed,-191,155,2,,201518,,1611661328,38,34,2
+05:05,[LAS] Mabrey Rebound (Off:0 Def:1),-191,155,4,,1629497,,1611661320,38,34,2
+05:05,[SEA] Whitcomb Foul: Personal (1 PF),48,26,6,1629497,1628244,,1611661328,38,34,2
+05:05,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,38,34,2
+05:05,[LAS] Brown Substitution replaced by Ogwumike,0,-80,8,,1629480,203014,1611661320,38,34,2
+05:05,[SEA] Zellous Substitution replaced by Canada,0,-80,8,,201919,1628886,1611661328,38,34,2
+05:05,[SEA] Whitcomb Substitution replaced by Loyd,0,-80,8,,1628244,204319,1611661328,38,34,2
+04:54,[SEA] Mosqueda-Lewis Foul: Shooting (1 PF) (2 FTA),-27,41,6,203437,204321,,1611661328,38,34,2
+04:54,[LAS 39-34] Ruffin-Pratt Free Throw 1 of 2 (3 PTS),0,-80,3,,203437,,1611661320,39,34,2
+04:54,[SEA] Langhorne Substitution replaced by Clark,0,-80,8,,201518,202252,1611661328,39,34,2
+04:54,[LAS 40-34] Ruffin-Pratt Free Throw 2 of 2 (4 PTS),0,-80,3,,203437,,1611661320,40,34,2
+04:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,34,2
+04:40,[SEA] Clark Foul: Offensive Charge (1 PF),8,260,6,203437,202252,,1611661328,40,34,2
+04:40,[SEA] Clark Turnover : Offensive Foul Turnover (2 TO),8,260,5,,202252,,1611661328,40,34,2
+04:25,[LAS] Parker Driving Layup Shot: Missed,13,24,2,,201496,,1611661320,40,34,2
+04:22,[SEA] Loyd Rebound (Off:0 Def:2),13,24,4,,204319,,1611661328,40,34,2
+04:05,[SEA 36-40] Canada Turnaround Jump Shot: Made (4 PTS),31,64,1,,1628886,,1611661328,40,36,2
+04:04,[SEA] Team Violation : Delay Of Game,0,-80,7,,0,,1611661328,40,36,2
+03:55,[LAS 42-36] Parker Cutting Layup Shot: Made (13 PTS) Assist: Wiese (2 AST),18,22,1,,201496,1628282,1611661320,42,36,2
+03:40,[SEA 38-42] Russell Cutting Layup Shot: Made (6 PTS) Assist: Clark (1 AST),-4,6,1,,1628920,202252,1611661328,42,38,2
+03:27,[LAS 44-38] Ogwumike Turnaround Hook Shot: Made (2 PTS),-43,87,1,,203014,,1611661320,44,38,2
+03:18,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,44,38,2
+03:18,[LAS] Mabrey Substitution replaced by Gray,0,-80,8,,1629497,203833,1611661320,44,38,2
+03:18,[SEA] Mosqueda-Lewis Substitution replaced by Langhorne,0,-80,8,,204321,201518,1611661328,44,38,2
+03:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,38,2
+02:59,[SEA] Clark Turnover : Bad Pass (3 TO) Steal:Parker (1 ST),-70,28,5,201496,202252,,1611661328,44,38,2
+02:54,[LAS] Ruffin-Pratt Pullup Jump shot: Missed,-127,112,2,,203437,,1611661320,44,38,2
+02:53,[SEA] Russell Rebound (Off:3 Def:1),-127,112,4,,1628920,,1611661328,44,38,2
+02:35,[SEA] Loyd Turnover : Bad Pass (2 TO) Steal:Parker (2 ST),-57,113,5,201496,204319,,1611661328,44,38,2
+02:30,[SEA] Canada Foul: Personal (1 PF),-24,134,6,203833,1628886,,1611661328,44,38,2
+02:21,[LAS] Parker 3pt Shot: Missed,18,257,2,,201496,,1611661320,44,38,2
+02:18,[SEA] Loyd Rebound (Off:0 Def:3),18,257,4,,204319,,1611661328,44,38,2
+02:12,[SEA] Loyd Driving Floating Bank Jump Shot: Missed,46,37,2,,204319,,1611661328,44,38,2
+02:11,[LAS] Parker Rebound (Off:1 Def:3),46,37,4,,201496,,1611661320,44,38,2
+02:04,[LAS 46-38] Parker Cutting Layup Shot: Made (15 PTS) Assist: Gray (3 AST),-2,14,1,,201496,203833,1611661320,46,38,2
+01:44,[SEA] Canada Driving Finger Roll Layup Shot: Missed,-22,39,2,,1628886,,1611661328,46,38,2
+01:42,[SEA] Team Rebound,-22,39,4,,0,,1611661328,46,38,2
+01:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,38,2
+01:42,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,46,38,2
+01:42,[SEA] Loyd Substitution replaced by Whitcomb,0,-80,8,,204319,1628244,1611661328,46,38,2
+01:35,[SEA] Canada Turnover : Bad Pass (3 TO) Steal:Ogwumike (1 ST),-35,260,5,203014,1628886,,1611661328,46,38,2
+01:31,[LAS] Ruffin-Pratt Turnover : Out of Bounds Lost Ball Turnover (1 TO),-87,180,5,,203437,,1611661320,46,38,2
+01:31,[SEA] Langhorne Substitution replaced by Loyd,0,-80,8,,201518,204319,1611661328,46,38,2
+01:11,[SEA] Canada Fadeaway Jump Shot: Missed,-35,90,2,203014,1628886,,1611661328,46,38,2
+01:07,[LAS] Parker Rebound (Off:1 Def:4),-35,90,4,,201496,,1611661320,46,38,2
+01:04,[LAS 48-38] Ogwumike Jump Shot: Made (4 PTS) Assist: Gray (4 AST),181,21,1,,203014,203833,1611661320,48,38,2
+00:45.9,[LAS] Ruffin-Pratt Foul: Personal (3 PF),48,39,6,202252,203437,,1611661320,48,38,2
+00:45.9,[LAS] Ruffin-Pratt Substitution replaced by Mabrey,0,-80,8,,203437,1629497,1611661320,48,38,2
+00:37.7,[SEA] Canada Jump Shot: Missed,-81,158,2,,1628886,,1611661328,48,38,2
+00:32.4,[LAS] Ogwumike Rebound (Off:0 Def:3),-81,158,4,,203014,,1611661320,48,38,2
+00:26.2,[LAS 50-38] Ogwumike Cutting Layup Shot: Made (6 PTS) Assist: Gray (5 AST),-2,14,1,,203014,203833,1611661320,50,38,2
+00:04.5,[SEA 41-50] Whitcomb 3pt Shot: Made (8 PTS) Assist: Canada (2 AST),197,185,1,,1628244,1628886,1611661328,50,41,2
+00:00.0,End Period,0,-80,13,,0,,0,50,41,2
+10:00,Start Period,0,-80,12,,0,,0,50,41,3
+09:42,[LAS] Parker 3pt Shot: Missed,-108,214,2,,201496,,1611661320,50,41,3
+09:38,[SEA] Canada Rebound (Off:0 Def:2),-108,214,4,,1628886,,1611661328,50,41,3
+09:23,[SEA] Canada Pullup Jump shot: Missed,-31,74,2,,1628886,,1611661328,50,41,3
+09:18,[LAS] Ogwumike Rebound (Off:0 Def:4),-31,74,4,,203014,,1611661320,50,41,3
+09:13,[LAS 52-41] Parker Driving Floating Bank Jump Shot: Made (17 PTS) Assist: Wiese (3 AST),36,28,1,,201496,1628282,1611661320,52,41,3
+08:57,[SEA] Howard Jump Shot: Missed,30,175,2,,203827,,1611661328,52,41,3
+08:53,[LAS] Ogwumike Rebound (Off:0 Def:5),30,175,4,,203014,,1611661320,52,41,3
+08:48,[LAS 54-41] Parker Driving Finger Roll Layup Shot: Made (19 PTS) Assist: Gray (6 AST),-11,37,1,,201496,203833,1611661320,54,41,3
+08:36,[SEA] Loyd 3pt Shot: Missed,-193,162,2,,204319,,1611661328,54,41,3
+08:32,[LAS] Parker Rebound (Off:1 Def:5),-193,162,4,,201496,,1611661320,54,41,3
+08:27,[LAS] Gray Turnover : Bad Pass (3 TO) Steal:Clark (1 ST),53,196,5,202252,203833,,1611661320,54,41,3
+08:17,[SEA 43-54] Russell Cutting Layup Shot: Made (8 PTS) Assist: Howard (2 AST),-15,13,1,,1628920,203827,1611661328,54,43,3
+07:57,[LAS 56-43] Ogwumike Pullup Jump shot: Made (8 PTS),65,107,1,,203014,,1611661320,56,43,3
+07:41,[SEA] Howard Driving Layup Shot: Missed,-28,19,2,,203827,,1611661328,56,43,3
+07:39,[LAS] Ogwumike Rebound (Off:0 Def:6),-28,19,4,,203014,,1611661320,56,43,3
+07:33,[LAS] Parker Turnover : Out of Bounds - Bad Pass Turnover (2 TO),126,184,5,,201496,,1611661320,56,43,3
+07:17,[LAS] Ogwumike Foul: Personal (1 PF),35,68,6,203827,203014,,1611661320,56,43,3
+07:12,[SEA] Canada Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-135,164,5,,1628886,,1611661328,56,43,3
+06:55,[LAS] Parker Turnover : Bad Pass (3 TO) Steal:Clark (2 ST),-4,253,5,202252,201496,,1611661320,56,43,3
+06:46,[SEA] Loyd Driving Floating Jump Shot: Missed,32,40,2,,204319,,1611661328,56,43,3
+06:42,[SEA] Russell Rebound (Off:4 Def:1),32,40,4,,1628920,,1611661328,56,43,3
+06:42,[SEA] Russell Putback Layup Shot: Missed,0,-5,2,,1628920,,1611661328,56,43,3
+06:40,[LAS] Wiese Rebound (Off:0 Def:1),0,-5,4,,1628282,,1611661320,56,43,3
+06:33,[SEA] Howard Foul: Personal (4 PF),-30,15,6,201496,203827,,1611661328,56,43,3
+06:26,[LAS 58-43] Ogwumike Jump Shot: Made (10 PTS) Assist: Gray (7 AST),-96,5,1,,203014,203833,1611661320,58,43,3
+06:14,[SEA] Loyd Foul: Offensive Charge (1 PF),-100,232,6,203437,204319,,1611661328,58,43,3
+06:14,[SEA] Loyd Turnover : Offensive Foul Turnover (3 TO),-100,232,5,,204319,,1611661328,58,43,3
+06:14,[SEA] Loyd Substitution replaced by Whitcomb,0,-80,8,,204319,1628244,1611661328,58,43,3
+06:01,[LAS 60-43] Ruffin-Pratt Cutting Layup Shot: Made (6 PTS) Assist: Parker (2 AST),-17,8,1,,203437,201496,1611661320,60,43,3
+05:38,[SEA] Canada Layup Shot: Missed,-7,19,2,,1628886,,1611661328,60,43,3
+05:34,[SEA] Russell Rebound (Off:5 Def:1),-7,19,4,,1628920,,1611661328,60,43,3
+05:34,[SEA 45-60] Russell Tip Layup Shot: Made (10 PTS),0,-5,1,,1628920,,1611661328,60,45,3
+05:18,[LAS] Gray 3pt Shot: Missed,99,214,2,,203833,,1611661320,60,45,3
+05:16,[SEA] Team Rebound,99,214,4,,0,,1611661328,60,45,3
+05:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,45,3
+05:02,[SEA 48-60] Clark 3pt Shot: Made (11 PTS) Assist: Whitcomb (2 AST),-232,81,1,,202252,1628244,1611661328,60,48,3
+05:01,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,60,48,3
+04:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,48,3
+04:40,[LAS] Parker 3pt Shot: Missed,78,235,2,,201496,,1611661320,60,48,3
+04:36,[LAS] Gray Rebound (Off:1 Def:0),78,235,4,,203833,,1611661320,60,48,3
+04:25,[LAS 62-48] Parker Cutting Layup Shot: Made (21 PTS) Assist: Ogwumike (1 AST),3,19,1,,201496,203014,1611661320,62,48,3
+03:59,[SEA 50-62] Howard Turnaround Hook Shot: Made (9 PTS) Assist: Whitcomb (3 AST),-30,99,1,,203827,1628244,1611661328,62,50,3
+03:45,[LAS] Ruffin-Pratt Turnaround Fadeaway shot: Missed,13,49,2,,203437,,1611661320,62,50,3
+03:42,[SEA] Howard Rebound (Off:0 Def:3),13,49,4,,203827,,1611661328,62,50,3
+03:34,[LAS] Ruffin-Pratt Foul: Personal (4 PF),125,37,6,202252,203437,,1611661320,62,50,3
+03:34,[LAS] Parker Substitution replaced by Vadeeva,0,-80,8,,201496,1628926,1611661320,62,50,3
+03:34,[LAS] Ruffin-Pratt Substitution replaced by Jones,0,-80,8,,203437,1628283,1611661320,62,50,3
+03:23,[SEA] Whitcomb Turnover : Bad Pass (1 TO) Steal:Vadeeva (1 ST),-185,91,5,1628926,1628244,,1611661328,62,50,3
+03:15,[LAS 64-50] Vadeeva Jump Shot: Made (8 PTS) Assist: Jones (3 AST),122,137,1,,1628926,1628283,1611661320,64,50,3
+03:02,[SEA 52-64] Canada Driving Layup Shot: Made (6 PTS),18,15,1,,1628886,,1611661328,64,52,3
+02:44,[LAS 66-52] Vadeeva Jump Shot: Made (10 PTS) Assist: Jones (4 AST),-120,24,1,,1628926,1628283,1611661320,66,52,3
+02:33,[SEA] Howard Turnover : Traveling (2 TO),9,219,5,,203827,,1611661328,66,52,3
+02:24,[SEA] Russell Foul: Personal (3 PF),-50,76,6,1628926,1628920,,1611661328,66,52,3
+02:24,[SEA] Canada Substitution replaced by Mosqueda-Lewis,0,-80,8,,1628886,204321,1611661328,66,52,3
+02:15,[SEA] Russell Foul: Shooting (4 PF) (2 FTA),-56,236,6,1628926,1628920,,1611661328,66,52,3
+02:15,[LAS 67-52] Vadeeva Free Throw 1 of 2 (11 PTS),0,-80,3,,1628926,,1611661320,67,52,3
+02:15,[SEA] Russell Substitution replaced by Langhorne,0,-80,8,,1628920,201518,1611661328,67,52,3
+02:15,[LAS 68-52] Vadeeva Free Throw 2 of 2 (12 PTS),0,-80,3,,1628926,,1611661320,68,52,3
+01:55,[SEA 54-68] Langhorne Driving Layup Shot: Made (2 PTS) Assist: Clark (2 AST),-26,20,1,,201518,202252,1611661328,68,54,3
+01:45,[LAS] Ogwumike Driving Layup Shot: Missed,30,23,2,,203014,,1611661320,68,54,3
+01:41,[LAS] Ogwumike Rebound (Off:1 Def:6),30,23,4,,203014,,1611661320,68,54,3
+01:35,[LAS] Jones Turnover : Bad Pass (3 TO) Steal:Clark (3 ST),-37,215,5,202252,1628283,,1611661320,68,54,3
+01:20,[SEA 56-68] Whitcomb Cutting Layup Shot: Made (10 PTS) Assist: Howard (3 AST),-22,16,1,,1628244,203827,1611661328,68,56,3
+01:07,[LAS 70-56] Vadeeva Jump Shot: Made (14 PTS) Assist: Gray (8 AST),-84,156,1,,1628926,203833,1611661320,70,56,3
+00:39.9,[SEA] Whitcomb 3pt Shot: Missed,201,173,2,,1628244,,1611661328,70,56,3
+00:35.4,[SEA] Langhorne Rebound (Off:1 Def:1),201,173,4,,201518,,1611661328,70,56,3
+00:33.1,[SEA] Whitcomb Turnover : Bad Pass (2 TO) Steal:Ogwumike (2 ST),92,220,5,203014,1628244,,1611661328,70,56,3
+00:15.1,[LAS] Gray 3pt Shot: Missed,-95,228,2,,203833,,1611661320,70,56,3
+00:11.8,[SEA] Whitcomb Rebound (Off:0 Def:2),-95,228,4,,1628244,,1611661328,70,56,3
+00:02.1,[SEA] Howard Jump Bank Shot: Missed,31,41,2,,203827,,1611661328,70,56,3
+00:02.1,[LAS] Ogwumike Rebound (Off:1 Def:7),31,41,4,,203014,,1611661320,70,56,3
+00:00.0,End Period,0,-80,13,,0,,0,70,56,3
+10:00,Start Period,0,-80,12,,0,,0,70,56,4
+09:49,[SEA] Mosqueda-Lewis Jump Shot: Missed,13,63,2,203014,204321,,1611661328,70,56,4
+09:45,[SEA] Whitcomb Rebound (Off:1 Def:2),13,63,4,,1628244,,1611661328,70,56,4
+09:44,[SEA 59-70] Whitcomb 3pt Shot: Made (13 PTS),118,228,1,,1628244,,1611661328,70,59,4
+09:25,[LAS] Ogwumike Layup Shot: Missed,41,12,2,,203014,,1611661320,70,59,4
+09:23,[SEA] Howard Rebound (Off:0 Def:4),41,12,4,,203827,,1611661328,70,59,4
+09:23,[SEA] Howard Turnover : Bad Pass (3 TO) Steal:Ogwumike (3 ST),9,551,5,203014,203827,,1611661328,70,59,4
+09:20,[LAS 72-59] Ogwumike Layup Shot: Made (12 PTS),0,15,1,,203014,,1611661320,72,59,4
+09:02,[SEA] Mosqueda-Lewis Jump Shot: Missed,-11,165,2,,204321,,1611661328,72,59,4
+08:59,[LAS] Gray Rebound (Off:1 Def:1),-11,165,4,,203833,,1611661320,72,59,4
+08:53,[LAS] Jones 3pt Shot: Missed,198,161,2,,1628283,,1611661320,72,59,4
+08:50,[LAS] Vadeeva Rebound (Off:2 Def:1),198,161,4,,1628926,,1611661320,72,59,4
+08:32,[LAS] Gray Turnover : Bad Pass (4 TO) Steal:Whitcomb (3 ST),28,236,5,1628244,203833,,1611661320,72,59,4
+08:25,[SEA 62-72] Whitcomb 3pt Shot: Made (16 PTS) Assist: Mosqueda-Lewis (1 AST),-124,237,1,,1628244,204321,1611661328,72,62,4
+08:07,[LAS] Vadeeva Turnover : Traveling (1 TO),-29,109,5,,1628926,,1611661320,72,62,4
+08:07,[LAS] Wiese Substitution replaced by Mabrey,0,-80,8,,1628282,1629497,1611661320,72,62,4
+08:07,[LAS] Ogwumike Substitution replaced by Brown,0,-80,8,,203014,1629480,1611661320,72,62,4
+07:56,[SEA] Whitcomb 3pt Shot: Missed,217,87,2,,1628244,,1611661328,72,62,4
+07:55,[SEA] Team Rebound,217,87,4,,0,,1611661328,72,62,4
+07:55,[LAS] Brown Foul: Loose Ball (1 PF),-27,40,6,201518,1629480,,1611661320,72,62,4
+07:45,[SEA] Langhorne Driving Layup Shot: Missed,-24,54,2,1629480,201518,,1611661328,72,62,4
+07:42,[LAS] Vadeeva Rebound (Off:2 Def:2),-24,54,4,,1628926,,1611661320,72,62,4
+07:34,[LAS 74-62] Mabrey Step Back Jump shot: Made (2 PTS) Assist: Vadeeva (2 AST),166,96,1,,1629497,1628926,1611661320,74,62,4
+07:18,[SEA] Howard Jump Shot: Missed,156,32,2,,203827,,1611661328,74,62,4
+07:15,[LAS] Brown Rebound (Off:0 Def:1),156,32,4,,1629480,,1611661320,74,62,4
+07:11,[SEA] Zellous Foul: Personal (3 PF),-178,103,6,1628283,201919,,1611661328,74,62,4
+07:11,[SEA] Howard Substitution replaced by Russell,0,-80,8,,203827,1628920,1611661328,74,62,4
+07:03,[LAS 77-62] Mabrey 3pt Shot: Made (5 PTS) Assist: Brown (1 AST),236,29,1,,1629497,1629480,1611661320,77,62,4
+06:48,[SEA] Mosqueda-Lewis Turnover : Lost Ball (1 TO) Steal:Jones (2 ST),-36,185,5,1628283,204321,,1611661328,77,62,4
+06:42,[LAS] Brown Turnover : Bad Pass (1 TO) Steal:Whitcomb (4 ST),-101,462,5,1628244,1629480,,1611661320,77,62,4
+06:21,[SEA] Russell Jump Shot: Missed,150,38,2,,1628920,,1611661328,77,62,4
+06:17,[SEA] Langhorne Rebound (Off:2 Def:1),150,38,4,,201518,,1611661328,77,62,4
+06:17,[SEA 64-77] Russell Cutting Layup Shot: Made (12 PTS) Assist: Langhorne (1 AST),13,19,1,,1628920,201518,1611661328,77,64,4
+06:01,[LAS 80-64] Mabrey 3pt Shot: Made (8 PTS) Assist: Vadeeva (3 AST),-221,49,1,,1629497,1628926,1611661320,80,64,4
+05:44,[SEA] Whitcomb 3pt Shot: Missed,-104,221,2,,1628244,,1611661328,80,64,4
+05:41,[LAS] Brown Rebound (Off:0 Def:2),-104,221,4,,1629480,,1611661320,80,64,4
+05:28,[LAS] Brown Foul: Offensive Charge (2 PF),-20,65,6,201518,1629480,,1611661320,80,64,4
+05:28,[LAS] Brown Turnover : Offensive Foul Turnover (2 TO),-20,65,5,,1629480,,1611661320,80,64,4
+05:28,Timeout Officials,0,-80,9,,0,,0,80,64,4
+05:28,[LAS] Gray Substitution replaced by Ruffin-Pratt,0,-80,8,,203833,203437,1611661320,80,64,4
+05:28,[SEA] Whitcomb Substitution replaced by Loyd,0,-80,8,,1628244,204319,1611661328,80,64,4
+05:14,[SEA] Russell Layup Shot: Missed,-26,22,2,,1628920,,1611661328,80,64,4
+05:11,[LAS] Mabrey Rebound (Off:0 Def:2),-26,22,4,,1629497,,1611661320,80,64,4
+05:05,[LAS] Mabrey Turnover : Bad Pass (1 TO) Steal:Russell (3 ST),3,187,5,1628920,1629497,,1611661320,80,64,4
+05:01,[SEA] Loyd Layup Shot: Missed,25,17,2,1629497,204319,,1611661328,80,64,4
+05:01,[SEA] Team Rebound,25,17,4,,0,,1611661328,80,64,4
+05:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,64,4
+04:47,[SEA] Zellous Turnover : Bad Pass (2 TO) Steal:Vadeeva (2 ST),46,205,5,1628926,201919,,1611661328,80,64,4
+04:44,[LAS] Vadeeva Foul: Offensive Charge (2 PF),3,87,6,201919,1628926,,1611661320,80,64,4
+04:44,[LAS] Vadeeva Turnover : Offensive Foul Turnover (2 TO),3,87,5,,1628926,,1611661320,80,64,4
+04:44,[SEA] Langhorne Substitution replaced by Howard,0,-80,8,,201518,203827,1611661328,80,64,4
+04:44,[SEA] Zellous Substitution replaced by Whitcomb,0,-80,8,,201919,1628244,1611661328,80,64,4
+04:27,[SEA 66-80] Loyd Floating Jump shot: Made (4 PTS) Assist: Whitcomb (4 AST),-67,15,1,,204319,1628244,1611661328,80,66,4
+04:07,[LAS] Brown Floating Jump shot: Missed,19,43,2,,1629480,,1611661320,80,66,4
+04:05,[SEA] Team Rebound,19,43,4,,0,,1611661328,80,66,4
+04:05,[LAS] Brown Foul: Loose Ball (3 PF),-36,808,6,1628920,1629480,,1611661320,80,66,4
+04:05,[LAS] Jones Substitution replaced by Parker,0,-80,8,,1628283,201496,1611661320,80,66,4
+04:05,[LAS] Vadeeva Substitution replaced by Gray,0,-80,8,,1628926,203833,1611661320,80,66,4
+04:05,[LAS] Brown Substitution replaced by Ogwumike,0,-80,8,,1629480,203014,1611661320,80,66,4
+04:05,[SEA] Mosqueda-Lewis Substitution replaced by Canada,0,-80,8,,204321,1628886,1611661328,80,66,4
+03:52,[SEA] Whitcomb 3pt Shot: Missed,35,293,2,,1628244,,1611661328,80,66,4
+03:50,[LAS] Team Rebound,35,293,4,,0,,1611661320,80,66,4
+03:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,66,4
+03:37,[SEA] Whitcomb Foul: Shooting (2 PF) (2 FTA),25,5,6,203014,1628244,,1611661328,80,66,4
+03:37,[LAS] Ogwumike Free Throw 1 of 2 Missed,0,-80,3,,203014,,1611661320,80,66,4
+03:37,[LAS] Team Rebound,0,-80,4,,0,,1611661320,80,66,4
+03:37,[LAS 81-66] Ogwumike Free Throw 2 of 2 (13 PTS),0,-80,3,,203014,,1611661320,81,66,4
+03:13,[SEA] Russell Layup Shot: Missed,-36,17,2,,1628920,,1611661328,81,66,4
+03:09,[LAS] Ogwumike Rebound (Off:1 Def:8),-36,17,4,,203014,,1611661320,81,66,4
+03:05,[LAS] Mabrey 3pt Shot: Missed,-215,119,2,,1629497,,1611661320,81,66,4
+03:01,[SEA] Loyd Rebound (Off:0 Def:4),-215,119,4,,204319,,1611661328,81,66,4
+02:54,[SEA] Canada Driving Layup Shot: Missed,18,24,2,,1628886,,1611661328,81,66,4
+02:53,[LAS] Ogwumike Rebound (Off:1 Def:9),18,24,4,,203014,,1611661320,81,66,4
+02:50,[SEA] Loyd Foul: Shooting (2 PF) (2 FTA),24,16,6,1629497,204319,,1611661328,81,66,4
+02:50,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,81,66,4
+02:50,[SEA] Canada Substitution replaced by Clark,0,-80,8,,1628886,202252,1611661328,81,66,4
+02:50,[LAS 82-66] Mabrey Free Throw 1 of 2 (9 PTS),0,-80,3,,1629497,,1611661320,82,66,4
+02:50,[LAS 83-66] Mabrey Free Throw 2 of 2 (10 PTS),0,-80,3,,1629497,,1611661320,83,66,4
+02:40,[LAS] Parker Foul: Personal (1 PF),-163,148,6,204319,201496,,1611661320,83,66,4
+02:34,[SEA 68-83] Howard Cutting Layup Shot: Made (11 PTS) Assist: Clark (3 AST),-11,27,1,,203827,202252,1611661328,83,68,4
+02:18,[LAS] Mabrey Cutting Layup Shot: Missed,24,13,2,,1629497,,1611661320,83,68,4
+02:15,[SEA] Russell Rebound (Off:5 Def:2),24,13,4,,1628920,,1611661328,83,68,4
+01:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,83,68,4
+01:55,[SEA] Whitcomb Jump Shot: Missed,-132,127,2,,1628244,,1611661328,83,68,4
+01:51,[LAS] Parker Rebound (Off:1 Def:6),-132,127,4,,201496,,1611661320,83,68,4
+01:29,[LAS] Gray 3pt Shot: Missed,-119,242,2,,203833,,1611661320,83,68,4
+01:26,[SEA] Howard Rebound (Off:0 Def:5),-119,242,4,,203827,,1611661328,83,68,4
+01:21,[SEA 71-83] Clark 3pt Shot: Made (14 PTS) Assist: Howard (4 AST),197,122,1,,202252,203827,1611661328,83,71,4
+01:08,[LAS] Ogwumike Cutting Layup Shot: Missed,25,24,2,,203014,,1611661320,83,71,4
+01:05,[SEA] Russell Rebound (Off:5 Def:3),25,24,4,,1628920,,1611661328,83,71,4
+00:54.5,[SEA 73-83] Clark Cutting Layup Shot: Made (16 PTS) Assist: Howard (5 AST),-2,24,1,,202252,203827,1611661328,83,73,4
+00:40.2,[LAS] Ogwumike 3pt Shot: Missed,-6,247,2,,203014,,1611661320,83,73,4
+00:36.8,[SEA] Russell Rebound (Off:5 Def:4),-6,247,4,,1628920,,1611661328,83,73,4
+00:25.3,[SEA 75-83] Howard Layup Shot: Made (13 PTS) Assist: Clark (4 AST),-16,26,1,,203827,202252,1611661328,83,75,4
+00:03.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,83,75,4
+00:01.6,[LAS] Ogwumike 3pt Shot: Missed,2,237,2,,203014,,1611661320,83,75,4
+00:00.4,[LAS] Team Rebound,2,237,4,,0,,1611661320,83,75,4
+00:00.0,[LAS] Team Turnover : Shot Clock Turnover,14,77,5,,0,,1611661320,83,75,4
+00:00.0,End Period,0,-80,13,,0,,0,83,75,4
+00:00.0,Game End,0,-80,0,,0,,0,83,75,4

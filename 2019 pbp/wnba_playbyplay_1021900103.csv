@@ -1,0 +1,367 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Fowles vs Howard (Sims gains possession),0,-80,10,203827,201480,203824,1611661324,0,0,1
+09:45,[MIN] Sims Turnover : Bad Pass (1 TO) Steal:Clark (1 ST),-89,107,5,202252,203824,,1611661324,0,0,1
+09:38,[SEA 3-0] Howard 3pt Shot: Made (3 PTS) Assist: Clark (1 AST),176,157,1,,203827,202252,1611661328,0,3,1
+09:23,[MIN 2-3] Robinson Jump Shot: Made (2 PTS) Assist: Collier (1 AST),-154,31,1,,202658,1629483,1611661324,2,3,1
+09:07,[SEA 6-2] Whitcomb 3pt Shot: Made (3 PTS) Assist: Russell (1 AST),-47,255,1,,1628244,1628920,1611661328,2,6,1
+08:48,[MIN 4-6] Fowles Layup Shot: Made (2 PTS) Assist: Collier (2 AST),3,11,1,,201480,1629483,1611661324,4,6,1
+08:26,[SEA 9-4] Whitcomb 3pt Shot: Made (6 PTS),131,210,1,,1628244,,1611661328,4,9,1
+08:06,[MIN] Robinson Jump Shot: Missed,-150,48,2,,202658,,1611661324,4,9,1
+08:02,[SEA] Clark Rebound (Off:0 Def:1),-150,48,4,,202252,,1611661328,4,9,1
+07:53,[SEA 11-4] Clark Pullup Jump shot: Made (2 PTS),-20,189,1,,202252,,1611661328,4,11,1
+07:43,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,4,11,1
+07:36,[SEA] Russell Foul: Personal (1 PF),-59,49,6,201480,1628920,,1611661328,4,11,1
+07:32,[MIN] Robinson Driving Layup Shot: Missed,18,-3,2,,202658,,1611661324,4,11,1
+07:29,[MIN] Fowles Rebound (Off:1 Def:0),18,-3,4,,201480,,1611661324,4,11,1
+07:27,[MIN] Fowles Layup Shot: Missed,-7,-5,2,,201480,,1611661324,4,11,1
+07:25,[MIN] Collier Rebound (Off:1 Def:0),-7,-5,4,,1629483,,1611661324,4,11,1
+07:22,Jump Ball Canada vs Collier (Clark gains possession),0,-80,10,1629483,1628886,202252,1611661328,4,11,1
+07:22,[MIN] Collier Turnover : Lost Ball (1 TO) Steal:Canada (1 ST),0,-80,5,1628886,1629483,,1611661324,4,11,1
+07:17,[SEA 13-4] Howard Cutting Layup Shot: Made (5 PTS) Assist: Whitcomb (1 AST),16,11,1,,203827,1628244,1611661328,4,13,1
+07:06,[MIN] Sims Floating Jump shot: Missed,-5,64,2,,203824,,1611661324,4,13,1
+07:03,[SEA] Russell Rebound (Off:0 Def:1),-5,64,4,,1628920,,1611661328,4,13,1
+06:57,[SEA] Canada Pullup Jump shot: Missed,155,114,2,,1628886,,1611661328,4,13,1
+06:55,[MIN] Collier Rebound (Off:1 Def:1),155,114,4,,1629483,,1611661324,4,13,1
+06:51,[MIN] Collier Jump Shot: Missed,3,73,2,203827,1629483,,1611661324,4,13,1
+06:48,[SEA] Team Rebound,3,73,4,,0,,1611661328,4,13,1
+06:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,13,1
+06:48,[MIN] Talbot Substitution replaced by Fagbenle,0,-80,8,,203855,1627701,1611661324,4,13,1
+06:40,[SEA 15-4] Howard Driving Layup Shot: Made (7 PTS),9,11,1,,203827,,1611661328,4,15,1
+06:18,[MIN] Sims 3pt Shot: Missed,-226,49,2,,203824,,1611661324,4,15,1
+06:15,[MIN] Fagbenle Rebound (Off:1 Def:0),-226,49,4,,1627701,,1611661324,4,15,1
+06:10,[MIN 6-15] Fowles Jump Shot: Made (4 PTS) Assist: Sims (1 AST),-43,139,1,,201480,203824,1611661324,6,15,1
+05:58,[SEA 17-6] Russell Layup Shot: Made (2 PTS) Assist: Canada (1 AST),2,26,1,,1628920,1628886,1611661328,6,17,1
+05:36,[MIN] Robinson Substitution replaced by Brown,0,-80,8,,202658,1628882,1611661324,6,17,1
+05:33,Jump Ball Howard vs Sims (Clark gains possession),0,-80,10,203824,203827,202252,1611661328,6,17,1
+05:33,[MIN] Sims Turnover : Lost Ball (2 TO) Steal:Howard (1 ST),0,-80,5,203827,203824,,1611661324,6,17,1
+05:31,[SEA] Whitcomb 3pt Shot: Missed,156,179,2,,1628244,,1611661328,6,17,1
+05:26,[MIN] Brown Rebound (Off:0 Def:1),156,179,4,,1628882,,1611661324,6,17,1
+05:20,[SEA] Clark Foul: Shooting (1 PF) (2 FTA),-3,74,6,1629483,202252,,1611661328,6,17,1
+05:20,[MIN 7-17] Collier Free Throw 1 of 2 (1 PTS),0,-80,3,,1629483,,1611661324,7,17,1
+05:20,[MIN 8-17] Collier Free Throw 2 of 2 (2 PTS),0,-80,3,,1629483,,1611661324,8,17,1
+05:03,[SEA 19-8] Clark Layup Shot: Made (4 PTS),-15,17,1,,202252,,1611661328,8,19,1
+04:40,[MIN] Collier Turnaround Fadeaway Bank Jump Shot: Missed,-70,72,2,,1629483,,1611661324,8,19,1
+04:38,[SEA] Team Rebound,-70,72,4,,0,,1611661328,8,19,1
+04:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,19,1
+04:25,[SEA] Howard Layup Shot: Missed,-28,85,2,,203827,,1611661328,8,19,1
+04:21,[MIN] Fowles Rebound (Off:1 Def:1),-28,85,4,,201480,,1611661324,8,19,1
+04:16,[MIN] Sims Driving Layup Shot: Missed,-14,81,2,,203824,,1611661324,8,19,1
+04:13,[SEA] Canada Rebound (Off:0 Def:1),-14,81,4,,1628886,,1611661328,8,19,1
+04:08,[SEA] Howard 3pt Shot: Missed,-150,199,2,,203827,,1611661328,8,19,1
+04:07,[MIN] Team Rebound,-150,199,4,,0,,1611661324,8,19,1
+04:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,19,1
+04:07,[MIN] Sims Substitution replaced by Robinson,0,-80,8,,203824,202658,1611661324,8,19,1
+03:58,[MIN] Brown 3pt Shot: Missed,-192,132,2,,1628882,,1611661324,8,19,1
+03:56,[MIN] Team Rebound,-192,132,4,,0,,1611661324,8,19,1
+03:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,19,1
+03:53,[MIN] Collier 3pt Shot: Missed,-163,158,2,,1629483,,1611661324,8,19,1
+03:49,[SEA] Howard Rebound (Off:0 Def:1),-163,158,4,,203827,,1611661328,8,19,1
+03:43,[SEA] Howard 3pt Shot: Missed,155,203,2,,203827,,1611661328,8,19,1
+03:39,[MIN] Robinson Rebound (Off:0 Def:1),155,203,4,,202658,,1611661324,8,19,1
+03:27,[MIN] Collier Jump Shot: Missed,-98,16,2,1628920,1629483,,1611661324,8,19,1
+03:24,[SEA] Russell Rebound (Off:0 Def:2),-98,16,4,,1628920,,1611661328,8,19,1
+03:13,[SEA] Clark Layup Shot: Missed,-2,22,2,,202252,,1611661328,8,19,1
+03:10,[SEA] Howard Rebound (Off:1 Def:1),-2,22,4,,203827,,1611661328,8,19,1
+03:10,[MIN] Collier Foul: Shooting (1 PF) (2 FTA),-15,18,6,203827,1629483,,1611661324,8,19,1
+03:10,[SEA 20-8] Howard Free Throw 1 of 2 (8 PTS),0,-80,3,,203827,,1611661328,8,20,1
+03:10,[MIN] Collier Substitution replaced by Taylor,0,-80,8,,1629483,203859,1611661324,8,20,1
+03:10,[MIN] Fowles Substitution replaced by Talbot,0,-80,8,,201480,203855,1611661324,8,20,1
+03:10,[SEA] Whitcomb Substitution replaced by Mosqueda-Lewis,0,-80,8,,1628244,204321,1611661328,8,20,1
+03:10,[SEA 21-8] Howard Free Throw 2 of 2 (9 PTS),0,-80,3,,203827,,1611661328,8,21,1
+02:55,[MIN 10-21] Robinson Driving Layup Shot: Made (4 PTS),-5,-2,1,,202658,,1611661324,10,21,1
+02:45,[SEA] Clark Turnover : Traveling (1 TO),-176,194,5,,202252,,1611661328,10,21,1
+02:45,[SEA] Russell Substitution replaced by Langhorne,0,-80,8,,1628920,201518,1611661328,10,21,1
+02:31,[MIN] Brown 3pt Shot: Missed,74,256,2,,1628882,,1611661324,10,21,1
+02:28,[MIN] Taylor Rebound (Off:1 Def:0),74,256,4,,203859,,1611661324,10,21,1
+02:23,[MIN 12-21] Robinson Driving Layup Shot: Made (6 PTS),19,-5,1,,202658,,1611661324,12,21,1
+02:14,[MIN] Taylor Foul: Personal (1 PF),5,295,6,203827,203859,,1611661324,12,21,1
+02:14,[SEA] Clark Substitution replaced by Zellous,0,-80,8,,202252,201919,1611661328,12,21,1
+02:03,[SEA] Mosqueda-Lewis Pullup Jump shot: Missed,144,21,2,,204321,,1611661328,12,21,1
+02:02,[MIN] Team Rebound,144,21,4,,0,,1611661324,12,21,1
+02:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,21,1
+01:49,[MIN 14-21] Brown Jump Shot: Made (2 PTS) Assist: Taylor (1 AST),136,101,1,,1628882,203859,1611661324,14,21,1
+01:38,[SEA 23-14] Canada Pullup Jump shot: Made (2 PTS),4,184,1,,1628886,,1611661328,14,23,1
+01:08,[MIN] Robinson Jump Shot: Missed,-143,22,2,,202658,,1611661324,14,23,1
+01:05,[SEA] Canada Rebound (Off:0 Def:2),-143,22,4,,1628886,,1611661328,14,23,1
+01:02,[SEA] Zellous Layup Shot: Missed,-20,7,2,,201919,,1611661328,14,23,1
+01:00,[MIN] Taylor Rebound (Off:1 Def:1),-20,7,4,,203859,,1611661324,14,23,1
+00:57.6,[SEA] Mosqueda-Lewis Foul: Shooting (1 PF) (2 FTA),-17,-11,6,203859,204321,,1611661328,14,23,1
+00:57.6,[MIN 15-23] Taylor Free Throw 1 of 2 (1 PTS),0,-80,3,,203859,,1611661324,15,23,1
+00:57.6,[MIN] Robinson Substitution replaced by Sims,0,-80,8,,202658,203824,1611661324,15,23,1
+00:57.6,[SEA] Mosqueda-Lewis Substitution replaced by Dietrick,0,-80,8,,204321,204355,1611661328,15,23,1
+00:57.6,[MIN 16-23] Taylor Free Throw 2 of 2 (2 PTS),0,-80,3,,203859,,1611661324,16,23,1
+00:35.5,[SEA] Dietrick 3pt Shot: Missed,205,115,2,,204355,,1611661328,16,23,1
+00:32.4,[MIN] Talbot Rebound (Off:0 Def:1),205,115,4,,203855,,1611661324,16,23,1
+00:22.5,[MIN] Sims 3pt Shot: Missed,-4,234,2,,203824,,1611661324,16,23,1
+00:19.1,[SEA] Howard Rebound (Off:1 Def:2),-4,234,4,,203827,,1611661328,16,23,1
+00:01.4,[SEA 26-16] Zellous 3pt Shot: Made (3 PTS) Assist: Langhorne (1 AST),-111,227,1,,201919,201518,1611661328,16,26,1
+00:00.0,End Period,0,-80,13,,0,,0,16,26,1
+10:00,Start Period,0,-80,12,,0,,0,16,26,2
+09:38,[SEA] Langhorne Turnover : Lost Ball (1 TO) Steal:Talbot (1 ST),-67,80,5,203855,201518,,1611661328,16,26,2
+09:32,[MIN 19-26] Talbot 3pt Shot: Made (3 PTS) Assist: Sims (2 AST),229,79,1,,203855,203824,1611661324,19,26,2
+09:05,[SEA 28-19] Zellous Pullup Jump shot: Made (5 PTS),-95,166,1,,201919,,1611661328,19,28,2
+08:50,[SEA] Paris Foul: Personal (1 PF),-156,181,6,203824,201907,,1611661328,19,28,2
+08:43,[MIN] Taylor Jump Shot: Missed,6,171,2,,203859,,1611661324,19,28,2
+08:39,[SEA] Zellous Rebound (Off:0 Def:1),6,171,4,,201919,,1611661328,19,28,2
+08:30,[SEA] Langhorne 3pt Shot: Missed,-100,231,2,,201518,,1611661328,19,28,2
+08:26,[MIN] Talbot Rebound (Off:0 Def:2),-100,231,4,,203855,,1611661324,19,28,2
+08:21,[MIN] Sims Turnaround Jump Shot: Missed,-59,33,2,,203824,,1611661324,19,28,2
+08:17,[SEA] Dietrick Rebound (Off:0 Def:1),-59,33,4,,204355,,1611661328,19,28,2
+08:10,[SEA] Whitcomb Turnover : Bad Pass (1 TO) Steal:Taylor (1 ST),109,198,5,203859,1628244,,1611661328,19,28,2
+08:06,[MIN] Taylor Turnover : Bad Pass (1 TO) Steal:Langhorne (1 ST),68,692,5,201518,203859,,1611661324,19,28,2
+08:01,[SEA 30-19] Langhorne Layup Shot: Made (2 PTS),-15,7,1,,201518,,1611661328,19,30,2
+07:52,[MIN] Taylor Turnover : Bad Pass (2 TO) Steal:Paris (1 ST),75,149,5,201907,203859,,1611661324,19,30,2
+07:45,[SEA 33-19] Whitcomb 3pt Shot: Made (9 PTS) Assist: Zellous (1 AST),-3,242,1,,1628244,201919,1611661328,19,33,2
+07:35,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,19,33,2
+07:35,[MIN] Brown Substitution replaced by Robinson,0,-80,8,,1628882,202658,1611661324,19,33,2
+07:35,[MIN] Taylor Substitution replaced by Collier,0,-80,8,,203859,1629483,1611661324,19,33,2
+07:22,[SEA] Paris Foul: Personal (2 PF),25,25,6,201480,201907,,1611661328,19,33,2
+07:15,[MIN] Talbot 3pt Shot: Missed,-187,140,2,,203855,,1611661324,19,33,2
+07:12,[SEA] Paris Rebound (Off:0 Def:1),-187,140,4,,201907,,1611661328,19,33,2
+06:59,[SEA] Zellous Turnover : Out of Bounds Lost Ball Turnover (1 TO),-25,7,5,,201919,,1611661328,19,33,2
+06:53,[MIN 21-33] Sims Pullup Jump shot: Made (2 PTS) Assist: Robinson (1 AST),67,74,1,,203824,202658,1611661324,21,33,2
+06:36,[SEA] Whitcomb Turnover : Bad Pass (2 TO) Steal:Sims (1 ST),2,98,5,203824,1628244,,1611661328,21,33,2
+06:36,[SEA] Zellous Foul: Personal (1 PF),118,671,6,202658,201919,,1611661328,21,33,2
+06:36,[SEA] Paris Substitution replaced by Clark,0,-80,8,,201907,202252,1611661328,21,33,2
+06:36,[SEA] Dietrick Substitution replaced by Howard,0,-80,8,,204355,203827,1611661328,21,33,2
+06:26,[MIN 23-33] Fowles Layup Shot: Made (6 PTS) Assist: Sims (3 AST),-2,-3,1,,201480,203824,1611661324,23,33,2
+06:20,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,23,33,2
+06:20,[SEA] Langhorne Substitution replaced by Russell,0,-80,8,,201518,1628920,1611661328,23,33,2
+06:20,[SEA] Zellous Substitution replaced by Canada,0,-80,8,,201919,1628886,1611661328,23,33,2
+06:07,[MIN] Fowles Foul: Personal (1 PF),-51,31,6,1628920,201480,,1611661324,23,33,2
+06:00,[SEA 35-23] Russell Cutting Layup Shot: Made (4 PTS) Assist: Clark (2 AST),-12,11,1,,1628920,202252,1611661328,23,35,2
+05:38,[MIN] Robinson Jump Shot: Missed,1,25,2,1628886,202658,,1611661324,23,35,2
+05:34,[MIN] Robinson Rebound (Off:1 Def:1),1,25,4,,202658,,1611661324,23,35,2
+05:32,[MIN] Fowles Fadeaway Jump Shot: Missed,-55,10,2,,201480,,1611661324,23,35,2
+05:32,[MIN] Team Rebound,-55,10,4,,0,,1611661324,23,35,2
+05:32,[MIN] Team Turnover : Shot Clock Turnover,130,-18,5,,0,,1611661324,23,35,2
+05:17,[SEA] Whitcomb 3pt Shot: Missed,120,204,2,,1628244,,1611661328,23,35,2
+05:13,[MIN] Robinson Rebound (Off:1 Def:2),120,204,4,,202658,,1611661324,23,35,2
+05:10,[MIN 25-35] Robinson Layup Shot: Made (8 PTS),12,-1,1,,202658,,1611661324,25,35,2
+04:51,[SEA] Whitcomb Turnover : Out of Bounds - Bad Pass Turnover (3 TO),119,216,5,,1628244,,1611661328,25,35,2
+04:39,[MIN] Robinson Jump Shot: Missed,-69,148,2,,202658,,1611661324,25,35,2
+04:36,[MIN] Collier Rebound (Off:2 Def:1),-69,148,4,,1629483,,1611661324,25,35,2
+04:32,[MIN] Collier Jump Shot: Missed,131,-2,2,,1629483,,1611661324,25,35,2
+04:30,[SEA] Howard Rebound (Off:1 Def:3),131,-2,4,,203827,,1611661328,25,35,2
+04:29,[MIN] Talbot Foul: Shooting (1 PF) (2 FTA),-22,27,6,1628920,203855,,1611661324,25,35,2
+04:29,[SEA 36-25] Russell Free Throw 1 of 2 (5 PTS),0,-80,3,,1628920,,1611661328,25,36,2
+04:29,[SEA 37-25] Russell Free Throw 2 of 2 (6 PTS),0,-80,3,,1628920,,1611661328,25,37,2
+04:17,[MIN] Collier Turnover : Bad Pass (2 TO) Steal:Clark (2 ST),-71,133,5,202252,1629483,,1611661324,25,37,2
+04:09,[SEA 40-25] Clark 3pt Shot: Made (7 PTS) Assist: Whitcomb (2 AST),-117,219,1,,202252,1628244,1611661328,25,40,2
+03:55,[MIN 27-40] Robinson Cutting Layup Shot: Made (10 PTS) Assist: Fowles (1 AST),-10,-1,1,,202658,201480,1611661324,27,40,2
+03:39,[SEA] Howard Layup Shot: Missed,10,16,2,,203827,,1611661328,27,40,2
+03:36,[MIN] Collier Rebound (Off:2 Def:2),10,16,4,,1629483,,1611661324,27,40,2
+03:32,[MIN] Sims Jump Shot: Missed,-114,46,2,,203824,,1611661324,27,40,2
+03:32,[MIN] Fowles Rebound (Off:2 Def:1),-114,46,4,,201480,,1611661324,27,40,2
+03:31,[MIN 29-40] Fowles Putback Layup Shot: Made (8 PTS),-7,-5,1,,201480,,1611661324,29,40,2
+03:31,[SEA] Whitcomb Foul: Shooting (1 PF) (1 FTA),-14,-6,6,201480,1628244,,1611661328,29,40,2
+03:31,[MIN] Collier Substitution replaced by Fagbenle,0,-80,8,,1629483,1627701,1611661324,29,40,2
+03:31,[MIN 30-40] Fowles Free Throw 1 of 1 (9 PTS),0,-80,3,,201480,,1611661324,30,40,2
+03:17,[SEA 42-30] Howard Floating Jump shot: Made (11 PTS) Assist: Whitcomb (3 AST),-52,103,1,,203827,1628244,1611661328,30,42,2
+03:08,[SEA] Russell Foul: Personal (2 PF) (2 FTA),25,47,6,201480,1628920,,1611661328,30,42,2
+03:08,[MIN] Fowles Free Throw 1 of 2 Missed,0,-80,3,,201480,,1611661324,30,42,2
+03:08,[MIN] Team Rebound,0,-80,4,,0,,1611661324,30,42,2
+03:08,[MIN 31-42] Fowles Free Throw 2 of 2 (10 PTS),0,-80,3,,201480,,1611661324,31,42,2
+03:01,[SEA] Canada Turnaround Jump Shot: Missed,-7,72,2,,1628886,,1611661328,31,42,2
+02:59,[SEA] Howard Rebound (Off:2 Def:3),-7,72,4,,203827,,1611661328,31,42,2
+02:59,[SEA] Howard Turnover : Out of Bounds - Bad Pass Turnover (1 TO),48,17,5,,203827,,1611661328,31,42,2
+02:44,[MIN 34-42] Talbot 3pt Shot: Made (6 PTS) Assist: Fowles (2 AST),-109,201,1,,203855,201480,1611661324,34,42,2
+02:34,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,34,42,2
+02:34,[SEA] Team Turnover : 5 Second Violation,-218,266,5,,0,,1611661328,34,42,2
+02:24,[MIN 36-42] Fowles Layup Shot: Made (12 PTS) Assist: Robinson (2 AST),11,24,1,,201480,202658,1611661324,36,42,2
+02:15,[SEA 44-36] Canada Driving Finger Roll Layup Shot: Made (4 PTS),5,24,1,,1628886,,1611661328,36,44,2
+02:08,[MIN] Robinson Turnover : Bad Pass (1 TO) Steal:Clark (3 ST),-104,123,5,202252,202658,,1611661324,36,44,2
+01:54,[SEA] Howard Jump Shot: Missed,-181,86,2,,203827,,1611661328,36,44,2
+01:51,[MIN] Sims Rebound (Off:0 Def:1),-181,86,4,,203824,,1611661324,36,44,2
+01:47,[MIN] Sims Driving Layup Shot: Missed,17,10,2,1628244,203824,,1611661324,36,44,2
+01:47,[MIN] Team Rebound,17,10,4,,0,,1611661324,36,44,2
+01:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,44,2
+01:43,[MIN] Sims 3pt Shot: Missed,-36,239,2,,203824,,1611661324,36,44,2
+01:41,[SEA] Canada Rebound (Off:0 Def:3),-32,221,4,,1628886,,1611661328,36,44,2
+01:34,[MIN] Talbot Foul: Personal (2 PF),-6,179,6,202252,203855,,1611661324,36,44,2
+01:34,[MIN] Sims Substitution replaced by Brown,0,-80,8,,203824,1628882,1611661324,36,44,2
+01:26,[SEA] Russell Cutting Layup Shot: Missed,-17,16,2,,1628920,,1611661328,36,44,2
+01:23,[MIN] Fagbenle Rebound (Off:1 Def:1),-17,16,4,,1627701,,1611661324,36,44,2
+01:17,[MIN] Robinson Turnover : Bad Pass (2 TO) Steal:Howard (2 ST),73,269,5,203827,202658,,1611661324,36,44,2
+01:09,[SEA 46-36] Howard Layup Shot: Made (13 PTS) Assist: Canada (2 AST),9,7,1,,203827,1628886,1611661328,36,46,2
+00:55.7,[MIN 38-46] Brown Pullup Jump shot: Made (4 PTS) Assist: Fagbenle (1 AST),-32,198,1,,1628882,1627701,1611661324,38,46,2
+00:47.9,[SEA 49-38] Whitcomb 3pt Shot: Made (12 PTS),-59,239,1,,1628244,,1611661328,38,49,2
+00:31.2,[MIN 40-49] Talbot Pullup Jump shot: Made (8 PTS),75,192,1,,203855,,1611661324,40,49,2
+00:13.9,[MIN] Fowles Foul: Personal (2 PF) (2 FTA),-7,169,6,1628920,201480,,1611661324,40,49,2
+00:13.9,[SEA] Russell Free Throw 1 of 2 Missed,0,-80,3,,1628920,,1611661328,40,49,2
+00:13.9,[SEA] Team Rebound,0,-80,4,,0,,1611661328,40,49,2
+00:13.9,[SEA] Canada Substitution replaced by Dietrick,0,-80,8,,1628886,204355,1611661328,40,49,2
+00:13.9,[SEA 50-40] Russell Free Throw 2 of 2 (7 PTS),0,-80,3,,1628920,,1611661328,40,50,2
+00:06.1,[MIN] Robinson Layup Shot: Missed,8,-1,2,1628920,202658,,1611661324,40,50,2
+00:02.3,[SEA] Clark Rebound (Off:0 Def:2),8,-1,4,,202252,,1611661328,40,50,2
+00:00.5,[SEA] Whitcomb 3pt Shot: Missed,-165,457,2,,1628244,,1611661328,40,50,2
+00:00.5,[SEA] Team Rebound,-165,457,4,,0,,1611661328,40,50,2
+00:00.0,End Period,0,-80,13,,0,,0,40,50,2
+10:00,Start Period,0,-80,12,,0,,0,40,50,3
+09:43,[MIN] Fowles Foul: Personal (3 PF),54,67,6,203827,201480,,1611661324,40,50,3
+09:31,[SEA] Russell Layup Shot: Missed,-39,1,2,,1628920,,1611661328,40,50,3
+09:28,[MIN] Talbot Rebound (Off:0 Def:3),-39,1,4,,203855,,1611661324,40,50,3
+09:10,[MIN 42-50] Collier Cutting Layup Shot: Made (4 PTS) Assist: Fowles (3 AST),-22,27,1,,1629483,201480,1611661324,42,50,3
+08:58,[SEA 52-42] Howard Driving Layup Shot: Made (15 PTS),-7,-3,1,,203827,,1611661328,42,52,3
+08:45,[MIN] Collier 3pt Shot: Missed,-22,243,2,,1629483,,1611661324,42,52,3
+08:43,[MIN] Robinson Rebound (Off:2 Def:2),-22,243,4,,202658,,1611661324,42,52,3
+08:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,52,3
+08:29,[MIN] Talbot Jump Shot: Missed,41,23,2,,203855,,1611661324,42,52,3
+08:25,[SEA] Russell Rebound (Off:0 Def:3),41,23,4,,1628920,,1611661328,42,52,3
+08:18,[SEA 54-42] Howard Cutting Layup Shot: Made (17 PTS) Assist: Canada (3 AST),-5,-10,1,,203827,1628886,1611661328,42,54,3
+08:02,[MIN] Collier Jump Shot: Missed,172,66,2,,1629483,,1611661324,42,54,3
+07:58,[SEA] Russell Rebound (Off:0 Def:4),172,66,4,,1628920,,1611661328,42,54,3
+07:50,[SEA] Clark 3pt Shot: Missed,-180,148,2,,202252,,1611661328,42,54,3
+07:47,[MIN] Robinson Rebound (Off:2 Def:3),-180,148,4,,202658,,1611661324,42,54,3
+07:41,[MIN] Robinson Driving Layup Shot: Missed,5,1,2,203827,202658,,1611661324,42,54,3
+07:38,[SEA] Russell Rebound (Off:0 Def:5),5,1,4,,1628920,,1611661328,42,54,3
+07:34,[SEA] Canada Driving Layup Shot: Missed,24,9,2,,1628886,,1611661328,42,54,3
+07:32,[SEA] Clark Rebound (Off:1 Def:2),24,9,4,,202252,,1611661328,42,54,3
+07:19,[SEA] Howard Running Layup Shot: Missed,-86,67,2,,203827,,1611661328,42,54,3
+07:18,[MIN] Talbot Rebound (Off:0 Def:4),-86,67,4,,203855,,1611661324,42,54,3
+07:01,[MIN] Collier 3pt Shot: Missed,5,243,2,,1629483,,1611661324,42,54,3
+06:59,[SEA] Russell Rebound (Off:0 Def:6),5,243,4,,1628920,,1611661328,42,54,3
+06:52,[SEA] Clark 3pt Shot: Missed,-4,230,2,,202252,,1611661328,42,54,3
+06:49,[SEA] Howard Rebound (Off:3 Def:3),-4,230,4,,203827,,1611661328,42,54,3
+06:39,[SEA 56-42] Howard Layup Shot: Made (19 PTS) Assist: Whitcomb (4 AST),6,9,1,,203827,1628244,1611661328,42,56,3
+06:39,[MIN] Robinson Foul: Shooting (1 PF) (1 FTA),4,-5,6,203827,202658,,1611661324,42,56,3
+06:39,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,42,56,3
+06:39,[MIN] Robinson Substitution replaced by Brown,0,-80,8,,202658,1628882,1611661324,42,56,3
+06:39,[MIN] Collier Substitution replaced by Fagbenle,0,-80,8,,1629483,1627701,1611661324,42,56,3
+06:39,[SEA 57-42] Howard Free Throw 1 of 1 (20 PTS),0,-80,3,,203827,,1611661328,42,57,3
+06:18,[MIN] Fagbenle 3pt Shot: Missed,228,58,2,,1627701,,1611661324,42,57,3
+06:15,[SEA] Clark Rebound (Off:1 Def:3),228,58,4,,202252,,1611661328,42,57,3
+06:00,[SEA 60-42] Canada 3pt Shot: Made (7 PTS) Assist: Clark (3 AST),-155,173,1,,1628886,202252,1611661328,42,60,3
+05:42,[MIN 44-60] Fowles Layup Shot: Made (14 PTS) Assist: Sims (4 AST),13,13,1,,201480,203824,1611661324,44,60,3
+05:31,[SEA] Russell Foul: Offensive Charge (3 PF),-38,59,6,203855,1628920,,1611661328,44,60,3
+05:31,[SEA] Russell Turnover : Offensive Foul Turnover (1 TO),-38,59,5,,1628920,,1611661328,44,60,3
+05:19,[MIN] Sims Turnover : Bad Pass (3 TO) Steal:Whitcomb (1 ST),-84,293,5,1628244,203824,,1611661324,44,60,3
+05:16,[SEA] Howard Foul: Offensive Charge (1 PF),-28,20,6,203824,203827,,1611661328,44,60,3
+05:16,[SEA] Howard Turnover : Offensive Foul Turnover (2 TO),-28,20,5,,203827,,1611661328,44,60,3
+04:57,[MIN 47-60] Brown 3pt Shot: Made (7 PTS) Assist: Fowles (4 AST),-162,182,1,,1628882,201480,1611661324,47,60,3
+04:43,[SEA 63-47] Canada 3pt Shot: Made (10 PTS) Assist: Whitcomb (5 AST),118,219,1,,1628886,1628244,1611661328,47,63,3
+04:31,[MIN] Sims Driving Layup Shot: Missed,7,32,2,,203824,,1611661324,47,63,3
+04:28,[MIN] Fowles Rebound (Off:3 Def:1),7,32,4,,201480,,1611661324,47,63,3
+04:28,[MIN] Fowles Putback Layup Shot: Missed,4,6,2,,201480,,1611661324,47,63,3
+04:26,[MIN] Fowles Rebound (Off:4 Def:1),4,6,4,,201480,,1611661324,47,63,3
+04:25,[MIN] Fowles Putback Layup Shot: Missed,10,6,2,,201480,,1611661324,47,63,3
+04:23,[SEA] Clark Rebound (Off:1 Def:4),10,6,4,,202252,,1611661328,47,63,3
+04:17,[SEA 65-47] Howard Driving Layup Shot: Made (22 PTS) Assist: Whitcomb (6 AST),12,-1,1,,203827,1628244,1611661328,47,65,3
+03:56,[MIN] Fagbenle Jump Shot: Missed,-2,168,2,,1627701,,1611661324,47,65,3
+03:54,[SEA] Russell Rebound (Off:0 Def:7),-2,168,4,,1628920,,1611661328,47,65,3
+03:44,[SEA] Whitcomb 3pt Shot: Missed,-211,86,2,,1628244,,1611661328,47,65,3
+03:41,[MIN] Fowles Rebound (Off:4 Def:2),-211,86,4,,201480,,1611661324,47,65,3
+03:21,[MIN] Talbot Driving Layup Shot: Missed,-2,96,2,,203855,,1611661324,47,65,3
+03:18,[SEA] Russell Rebound (Off:0 Def:8),-2,96,4,,1628920,,1611661328,47,65,3
+03:07,[SEA 68-47] Clark 3pt Shot: Made (10 PTS) Assist: Howard (1 AST),-161,171,1,,202252,203827,1611661328,47,68,3
+03:07,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,47,68,3
+03:07,[MIN] Sims Substitution replaced by Robinson,0,-80,8,,203824,202658,1611661324,47,68,3
+03:07,[MIN] Fowles Substitution replaced by Taylor,0,-80,8,,201480,203859,1611661324,47,68,3
+02:56,[MIN 49-68] Talbot Jump Shot: Made (10 PTS) Assist: Robinson (3 AST),-114,0,1,,203855,202658,1611661324,49,68,3
+02:48,[SEA] Canada Turnover : Out of Bounds Lost Ball Turnover (1 TO),-97,10,5,,1628886,,1611661328,49,68,3
+02:48,[SEA] Russell Substitution replaced by Langhorne,0,-80,8,,1628920,201518,1611661328,49,68,3
+02:44,[MIN] Robinson Turnover : Bad Pass (3 TO) Steal:Whitcomb (2 ST),-117,344,5,1628244,202658,,1611661324,49,68,3
+02:40,[SEA] Whitcomb Turnover : Bad Pass (4 TO) Steal:Robinson (1 ST),-192,321,5,202658,1628244,,1611661328,49,68,3
+02:22,[MIN 52-68] Brown 3pt Shot: Made (10 PTS) Assist: Robinson (4 AST),66,238,1,,1628882,202658,1611661324,52,68,3
+02:04,[SEA] Whitcomb Turnover : Bad Pass (5 TO) Steal:Robinson (2 ST),37,46,5,202658,1628244,,1611661328,52,68,3
+01:59,[MIN] Talbot 3pt Shot: Missed,-150,214,2,,203855,,1611661324,52,68,3
+01:55,[MIN] Taylor Rebound (Off:2 Def:1),-150,214,4,,203859,,1611661324,52,68,3
+01:47,[MIN] Taylor Layup Shot: Missed,-20,8,2,203827,203859,,1611661324,52,68,3
+01:47,[SEA] Clark Rebound (Off:1 Def:5),-20,8,4,,202252,,1611661328,52,68,3
+01:32,[MIN] Talbot Foul: Personal (3 PF),104,216,6,202252,203855,,1611661324,52,68,3
+01:32,[SEA] Canada Substitution replaced by Zellous,0,-80,8,,1628886,201919,1611661328,52,68,3
+01:32,[SEA] Whitcomb Substitution replaced by Dietrick,0,-80,8,,1628244,204355,1611661328,52,68,3
+01:19,[SEA] Langhorne Turnover : Step Out of Bounds Turnover (2 TO),-238,43,5,,201518,,1611661328,52,68,3
+00:54.7,[MIN] Team Turnover : Shot Clock Turnover,139,142,5,,0,,1611661324,52,68,3
+00:43.4,[SEA] Dietrick Jump Shot: Missed,-70,166,2,,204355,,1611661328,52,68,3
+00:40.9,[SEA] Clark Rebound (Off:2 Def:5),-70,166,4,,202252,,1611661328,52,68,3
+00:35.7,[SEA] Langhorne Layup Shot: Missed,6,44,2,,201518,,1611661328,52,68,3
+00:33.2,[MIN] Taylor Rebound (Off:2 Def:2),6,44,4,,203859,,1611661324,52,68,3
+00:25.2,[MIN 54-68] Taylor Jump Shot: Made (4 PTS) Assist: Robinson (5 AST),-6,193,1,,203859,202658,1611661324,54,68,3
+00:01.4,[SEA 71-54] Howard 3pt Shot: Made (25 PTS),104,207,1,,203827,,1611661328,54,71,3
+00:00.0,End Period,0,-80,13,,0,,0,54,71,3
+10:00,Start Period,0,-80,12,,0,,0,54,71,4
+09:47,[SEA] Paris Foul: Personal (3 PF),-32,39,6,201480,201907,,1611661328,54,71,4
+09:37,[MIN 56-71] Brown Pullup Jump shot: Made (12 PTS) Assist: Taylor (2 AST),96,162,1,,1628882,203859,1611661324,56,71,4
+09:13,[SEA 73-56] Zellous Jump Shot: Made (7 PTS) Assist: Dietrick (1 AST),85,154,1,,201919,204355,1611661328,56,73,4
+08:56,[MIN 58-73] Collier Turnaround Jump Shot: Made (6 PTS),57,118,1,,1629483,,1611661324,58,73,4
+08:32,[SEA] Whitcomb 3pt Shot: Missed,70,231,2,,1628244,,1611661328,58,73,4
+08:28,[MIN] Taylor Rebound (Off:2 Def:3),70,231,4,,203859,,1611661324,58,73,4
+08:22,[MIN 60-73] Taylor Layup Shot: Made (6 PTS) Assist: Robinson (6 AST),11,12,1,,203859,202658,1611661324,60,73,4
+08:05,[SEA 76-60] Whitcomb 3pt Shot: Made (15 PTS) Assist: Paris (1 AST),203,96,1,,1628244,201907,1611661328,60,76,4
+07:46,[MIN] Taylor 3pt Shot: Missed,35,238,2,,203859,,1611661324,60,76,4
+07:43,[SEA] Paris Rebound (Off:0 Def:2),35,238,4,,201907,,1611661328,60,76,4
+07:38,[SEA] Dietrick Turnover : Lost Ball (1 TO) Steal:Robinson (3 ST),-172,321,5,202658,204355,,1611661328,60,76,4
+07:35,[MIN 62-76] Brown Layup Shot: Made (14 PTS) Assist: Robinson (7 AST),10,7,1,,1628882,202658,1611661324,62,76,4
+07:27,[SEA] Dietrick Turnover : Lost Ball (2 TO) Steal:Robinson (4 ST),-81,563,5,202658,204355,,1611661328,62,76,4
+07:27,[SEA] Dietrick Foul: Flagrant Type 1 (1 PF) (2 FTA),16,3,6,202658,204355,,1611661328,62,76,4
+07:27,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,62,76,4
+07:27,[MIN 63-76] Robinson Free Throw Flagrant 1 of 2 (11 PTS),0,-80,3,,202658,,1611661324,63,76,4
+07:27,[MIN 64-76] Robinson Free Throw Flagrant 2 of 2 (12 PTS),0,-80,3,,202658,,1611661324,64,76,4
+07:27,[MIN] Taylor Substitution replaced by Sims,0,-80,8,,203859,203824,1611661324,64,76,4
+07:27,[SEA] Dietrick Substitution replaced by Howard,0,-80,8,,204355,203827,1611661328,64,76,4
+07:27,[SEA] Paris Substitution replaced by Canada,0,-80,8,,201907,1628886,1611661328,64,76,4
+07:12,[MIN 66-76] Fowles Layup Shot: Made (16 PTS) Assist: Robinson (8 AST),10,7,1,,201480,202658,1611661324,66,76,4
+06:50,[SEA] Howard Turnover : Bad Pass (3 TO) Steal:Fowles (1 ST),85,161,5,201480,203827,,1611661328,66,76,4
+06:38,[MIN] Fowles Layup Shot: Missed,-14,17,2,,201480,,1611661324,66,76,4
+06:38,[SEA] Team Rebound,-14,17,4,,0,,1611661328,66,76,4
+06:36,[MIN] Collier Foul: Loose Ball (2 PF),30,811,6,201518,1629483,,1611661324,66,76,4
+06:36,[SEA] Langhorne Substitution replaced by Russell,0,-80,8,,201518,1628920,1611661328,66,76,4
+06:36,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,66,76,4
+06:36,[SEA] Zellous Substitution replaced by Clark,0,-80,8,,201919,202252,1611661328,66,76,4
+06:25,[SEA 78-66] Canada Driving Layup Shot: Made (12 PTS) Assist: Howard (2 AST),18,-5,1,,1628886,203827,1611661328,66,78,4
+06:07,[MIN 69-78] Brown 3pt Shot: Made (17 PTS) Assist: Robinson (9 AST),219,113,1,,1628882,202658,1611661324,69,78,4
+05:49,[SEA] Canada Turnover : Bad Pass (2 TO) Steal:Collier (1 ST),59,69,5,1629483,1628886,,1611661328,69,78,4
+05:43,[MIN 72-78] Brown 3pt Shot: Made (20 PTS) Assist: Sims (5 AST),111,216,1,,1628882,203824,1611661324,72,78,4
+05:40,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,72,78,4
+05:40,[SEA] Canada Substitution replaced by Zellous,0,-80,8,,1628886,201919,1611661328,72,78,4
+05:34,[SEA] Zellous Foul: Offensive Charge (2 PF),128,303,6,203824,201919,,1611661328,72,78,4
+05:34,[SEA] Zellous Turnover : Offensive Foul Turnover (2 TO),128,303,5,,201919,,1611661328,72,78,4
+05:19,[MIN 75-78] Sims 3pt Shot: Made (5 PTS) Assist: Collier (3 AST),-193,148,1,,203824,1629483,1611661324,75,78,4
+05:06,[SEA] Zellous Foul: Offensive Charge (3 PF),112,32,6,203824,201919,,1611661328,75,78,4
+05:06,[SEA] Zellous Turnover : Offensive Foul Turnover (3 TO),-112,803,5,,201919,,1611661328,75,78,4
+04:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,75,78,4
+04:50,[MIN] Fowles Foul: Offensive Charge (4 PF),32,13,6,201919,201480,,1611661324,75,78,4
+04:50,[MIN] Fowles Turnover : Offensive Foul Turnover (1 TO),32,13,5,,201480,,1611661324,75,78,4
+04:27,[SEA] Whitcomb 3pt Shot: Missed,82,251,2,,1628244,,1611661328,75,78,4
+04:26,[SEA] Team Rebound,82,251,4,,0,,1611661328,75,78,4
+04:26,[SEA] Team Turnover : Shot Clock Turnover,137,-11,5,,0,,1611661328,75,78,4
+04:12,[MIN 77-78] Collier Pullup Jump shot: Made (8 PTS) Assist: Robinson (10 AST),-64,182,1,,1629483,202658,1611661324,77,78,4
+03:53,[SEA 80-77] Howard Hook Shot: Made (27 PTS),2,22,1,,203827,,1611661328,77,80,4
+03:33,[MIN 79-80] Robinson Jump Shot: Made (14 PTS) Assist: Sims (6 AST),-151,35,1,,202658,203824,1611661324,79,80,4
+03:15,[SEA] Howard Step Back Jump shot: Missed,-94,76,2,,203827,,1611661328,79,80,4
+03:12,[MIN] Fowles Rebound (Off:4 Def:3),-94,76,4,,201480,,1611661324,79,80,4
+03:08,[MIN] Robinson Pullup Jump shot: Missed,-3,158,2,,202658,,1611661324,79,80,4
+03:06,[SEA] Zellous Rebound (Off:0 Def:2),-3,158,4,,201919,,1611661328,79,80,4
+02:48,[SEA 82-79] Howard Turnaround Hook Shot: Made (29 PTS) Assist: Whitcomb (7 AST),2,6,1,,203827,1628244,1611661328,79,82,4
+02:23,[MIN] Brown Driving Layup Shot: Missed,-2,70,2,1628920,1628882,,1611661324,79,82,4
+02:21,[SEA] Whitcomb Rebound (Off:0 Def:1),-2,70,4,,1628244,,1611661328,79,82,4
+02:00,[SEA 84-79] Clark Layup Shot: Made (12 PTS) Assist: Whitcomb (8 AST),-14,-12,1,,202252,1628244,1611661328,79,84,4
+02:00,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,79,84,4
+02:00,[MIN] Collier Substitution replaced by Talbot,0,-80,8,,1629483,203855,1611661324,79,84,4
+01:40,[MIN] Fowles Turnaround Jump Shot: Missed,19,15,2,,201480,,1611661324,79,84,4
+01:37,[SEA] Howard Rebound (Off:3 Def:4),19,15,4,,203827,,1611661328,79,84,4
+01:28,[MIN] Brown Foul: Shooting (1 PF) (2 FTA),28,9,6,203827,1628882,,1611661324,79,84,4
+01:28,[SEA 85-79] Howard Free Throw 1 of 2 (30 PTS),0,-80,3,,203827,,1611661328,79,85,4
+01:28,[SEA 86-79] Howard Free Throw 2 of 2 (31 PTS),0,-80,3,,203827,,1611661328,79,86,4
+01:09,[MIN] Sims 3pt Shot: Missed,108,214,2,,203824,,1611661324,79,86,4
+01:05,[SEA] Whitcomb Rebound (Off:0 Def:2),108,214,4,,1628244,,1611661328,79,86,4
+01:02,[MIN] Brown Foul: Personal Take (2 PF) (2 FTA),203,207,6,201919,1628882,,1611661324,79,86,4
+01:02,[SEA 87-79] Zellous Free Throw 1 of 2 (8 PTS),0,-80,3,,201919,,1611661328,79,87,4
+01:02,[SEA 88-79] Zellous Free Throw 2 of 2 (9 PTS),0,-80,3,,201919,,1611661328,79,88,4
+01:02,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,79,88,4
+01:02,[MIN] Team Violation : Delay Of Game,0,-80,7,,0,,1611661324,79,88,4
+01:02,[MIN] Fowles Substitution replaced by Collier,0,-80,8,,201480,1629483,1611661324,79,88,4
+01:00,[MIN] Robinson Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-103,17,5,,202658,,1611661324,79,88,4
+01:00,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,79,88,4
+00:57.6,[MIN] Collier Foul: Personal Take (3 PF) (2 FTA),101,794,6,203827,1629483,,1611661324,79,88,4
+00:57.6,[SEA 89-79] Howard Free Throw 1 of 2 (32 PTS),0,-80,3,,203827,,1611661328,79,89,4
+00:57.6,[SEA 90-79] Howard Free Throw 2 of 2 (33 PTS),0,-80,3,,203827,,1611661328,79,90,4
+00:49.0,[MIN] Robinson Turnover : Bad Pass (5 TO) Steal:Zellous (1 ST),-40,88,5,201919,202658,,1611661324,79,90,4
+00:26.9,[SEA] Howard 3pt Shot: Missed,42,224,2,,203827,,1611661328,79,90,4
+00:24.2,[SEA] Russell Rebound (Off:1 Def:8),42,224,4,,1628920,,1611661328,79,90,4
+00:11.0,[SEA] Howard Turnaround Jump Shot: Missed,-28,71,2,,203827,,1611661328,79,90,4
+00:08.7,[MIN] Talbot Rebound (Off:0 Def:5),18,43,4,,203855,,1611661324,79,90,4
+00:00.0,End Period,0,-80,13,,0,,0,79,90,4
+00:00.0,Game End,0,-80,0,,0,,0,79,90,4

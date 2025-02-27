@@ -1,0 +1,405 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Jones vs Fowles (Thomas gains possession),0,-80,10,201480,1627673,202662,1611661323,0,0,1
+09:45,[MIN] Fowles Foul: Personal (1 PF),-52,-6,6,203826,201480,,1611661324,0,0,1
+09:37,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Fowles (1 ST),-76,35,5,201480,202662,,1611661323,0,0,1
+09:25,[MIN 2-0] Fowles Layup Shot: Made (2 PTS) Assist: Dantas (1 AST),4,-3,1,,201480,203024,1611661324,2,0,1
+09:06,[CON] Thomas Driving Layup Shot: Missed,0,0,2,,202662,,1611661323,2,0,1
+09:03,[MIN] Fowles Rebound (Off:0 Def:1),0,0,4,,201480,,1611661324,2,0,1
+08:59,[MIN] Sims Turnover : Lost Ball (1 TO) Steal:Thomas (1 ST),-5,149,5,203826,203824,,1611661324,2,0,1
+08:55,[CON 2-2] Thomas Layup Shot: Made (2 PTS),9,7,1,,203826,,1611661323,2,2,1
+08:40,[MIN 5-2] Dantas 3pt Shot: Made (3 PTS) Assist: Sims (1 AST),179,145,1,,203024,203824,1611661324,5,2,1
+08:25,[CON 4-5] Jones Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),9,8,1,,1627673,203826,1611661323,5,4,1
+08:12,[MIN 8-4] Sims 3pt Shot: Made (3 PTS) Assist: Augustus (1 AST),-222,-1,1,,203824,200671,1611661324,8,4,1
+07:54,[CON] Williams Pullup Jump shot: Missed,43,164,2,,1627675,,1611661323,8,4,1
+07:50,[MIN] Sims Rebound (Off:0 Def:1),43,164,4,,203824,,1611661324,8,4,1
+07:41,[MIN] Augustus Floating Jump shot: Missed,-30,95,2,,200671,,1611661324,8,4,1
+07:41,[MIN] Team Rebound,-30,95,4,,0,,1611661324,8,4,1
+07:39,[CON] Thomas Foul: Loose Ball (1 PF),6,53,6,201480,202662,,1611661323,8,4,1
+07:31,[MIN 10-4] Augustus Floating Jump shot: Made (2 PTS) Assist: Sims (2 AST),23,70,1,,200671,203824,1611661324,10,4,1
+07:21,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Collier (1 ST),-37,173,5,1629483,202662,,1611661323,10,4,1
+07:09,[MIN] Collier Layup Shot: Missed,-5,15,2,,1629483,,1611661324,10,4,1
+07:05,[CON] Jones Rebound (Off:0 Def:1),-5,15,4,,1627673,,1611661323,10,4,1
+06:50,[MIN] Dantas Foul: Personal (1 PF),-32,216,6,1627673,203024,,1611661324,10,4,1
+06:44,[CON] Williams Pullup Jump shot: Missed,-11,148,2,,1627675,,1611661323,10,4,1
+06:40,[MIN] Fowles Rebound (Off:0 Def:2),-11,148,4,,201480,,1611661324,10,4,1
+06:33,[MIN] Sims Jump Shot: Missed,-71,171,2,,203824,,1611661324,10,4,1
+06:30,[MIN] Fowles Rebound (Off:1 Def:2),-71,171,4,,201480,,1611661324,10,4,1
+06:22,[MIN] Dantas Step Back Jump shot: Missed,-116,9,2,,203024,,1611661324,10,4,1
+06:18,[CON] Jones Rebound (Off:0 Def:2),-116,9,4,,1627673,,1611661323,10,4,1
+06:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,4,1
+06:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,4,1
+06:00,[CON] Thomas Jump Shot: Missed,42,123,2,,202662,,1611661323,10,4,1
+05:56,[MIN] Fowles Rebound (Off:1 Def:3),42,123,4,,201480,,1611661324,10,4,1
+05:52,[MIN] Augustus Turnover : Lost Ball (1 TO) Steal:Stricklen (1 ST),192,425,5,203015,200671,,1611661324,10,4,1
+05:36,[CON 6-10] Thomas Layup Shot: Made (4 PTS) Assist: Jones (1 AST),-58,51,1,,203826,1627673,1611661323,10,6,1
+05:16,[CON] Thomas Foul: Personal (2 PF),118,143,6,203824,202662,,1611661323,10,6,1
+05:16,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,10,6,1
+05:16,[MIN] Augustus Substitution replaced by Robinson,0,-80,8,,200671,202658,1611661324,10,6,1
+05:10,[MIN] Sims Jump Shot: Missed,101,171,2,,203824,,1611661324,10,6,1
+05:08,[MIN] Robinson Rebound (Off:1 Def:0),101,171,4,,202658,,1611661324,10,6,1
+05:04,[MIN 12-6] Fowles Pullup Jump shot: Made (4 PTS) Assist: Robinson (1 AST),85,128,1,,201480,202658,1611661324,12,6,1
+04:48,[CON] Stricklen Jump Shot: Missed,-31,190,2,,203015,,1611661323,12,6,1
+04:45,[MIN] Robinson Rebound (Off:1 Def:1),-31,190,4,,202658,,1611661324,12,6,1
+04:39,[MIN 14-6] Fowles Layup Shot: Made (6 PTS),1,-2,1,,201480,,1611661324,14,6,1
+04:25,[MIN] Collier Foul: Personal (1 PF),21,62,6,1627673,1629483,,1611661324,14,6,1
+04:25,Timeout Officials,0,-80,9,,0,,0,14,6,1
+04:20,[MIN] Collier Violation:Kicked Ball,0,-80,7,,1629483,,1611661324,14,6,1
+04:15,[CON] Hiedeman 3pt Shot: Missed,230,15,2,,1629567,,1611661323,14,6,1
+04:10,[CON] Stricklen Rebound (Off:1 Def:0),230,15,4,,203015,,1611661323,14,6,1
+04:10,[CON 8-14] Stricklen Layup Shot: Made (2 PTS),-6,16,1,,203015,,1611661323,14,8,1
+03:51,[MIN] Robinson Pullup Jump shot: Missed,43,144,2,,202658,,1611661324,14,8,1
+03:46,[CON] Hiedeman Rebound (Off:0 Def:1),43,144,4,,1629567,,1611661323,14,8,1
+03:40,[CON 10-14] Hiedeman Running Layup Shot: Made (2 PTS),-3,-6,1,,1629567,,1611661323,14,10,1
+03:22,[MIN] Collier Pullup Jump shot: Missed,121,44,2,,1629483,,1611661324,14,10,1
+03:18,[CON] Hiedeman Rebound (Off:0 Def:2),121,44,4,,1629567,,1611661323,14,10,1
+03:12,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Sims (1 ST),-17,58,5,203824,203826,,1611661323,14,10,1
+03:08,[MIN 16-10] Robinson Driving Layup Shot: Made (2 PTS) Assist: Sims (3 AST),1,-5,1,,202658,203824,1611661324,16,10,1
+02:45,[CON] Hiedeman 3pt Shot: Missed,204,125,2,,1629567,,1611661323,16,10,1
+02:40,[MIN] Fowles Rebound (Off:1 Def:4),204,125,4,,201480,,1611661324,16,10,1
+02:34,[MIN] Sims Pullup Jump shot: Missed,-24,153,2,,203824,,1611661324,16,10,1
+02:30,[CON] Jones Rebound (Off:0 Def:3),-24,153,4,,1627673,,1611661323,16,10,1
+02:22,[CON 12-16] Williams Driving Layup Shot: Made (2 PTS),2,6,1,,1627675,,1611661323,16,12,1
+02:07,[MIN 19-12] Dantas 3pt Shot: Made (6 PTS) Assist: Robinson (2 AST),-104,205,1,,203024,202658,1611661324,19,12,1
+01:46,[CON 14-19] Williams Pullup Jump shot: Made (4 PTS) Assist: Thomas (2 AST),133,23,1,,1627675,203826,1611661323,19,14,1
+01:40,[CON] Jones Foul: Personal (1 PF),-7,28,6,201480,1627673,,1611661323,19,14,1
+01:40,[MIN] Collier Substitution replaced by Talbot,0,-80,8,,1629483,203855,1611661324,19,14,1
+01:40,[CON] Williams Substitution replaced by Banham,0,-80,8,,1627675,1627671,1611661323,19,14,1
+01:40,[CON] Stricklen Substitution replaced by Holmes,0,-80,8,,203015,1627678,1611661323,19,14,1
+01:40,[MIN] Sims Substitution replaced by Brown,0,-80,8,,203824,1628882,1611661324,19,14,1
+01:28,[MIN] Fowles Turnover : Bad Pass (1 TO) Steal:Thomas (2 ST),18,47,5,203826,201480,,1611661324,19,14,1
+01:25,[CON] Thomas Foul: Offensive Charge (1 PF),2,37,6,201480,203826,,1611661323,19,14,1
+01:25,[CON] Thomas Turnover : Offensive Foul Turnover (2 TO),2,37,5,,203826,,1611661323,19,14,1
+01:14,[MIN 21-14] Dantas Jump Shot: Made (8 PTS) Assist: Talbot (1 AST),-70,169,1,,203024,203855,1611661324,21,14,1
+00:59.4,[CON] Hiedeman Turnover : Lost Ball (1 TO) Steal:Brown (1 ST),142,636,5,1628882,1629567,,1611661323,21,14,1
+00:42.1,[MIN] Talbot Turnover : Bad Pass (1 TO) Steal:Holmes (1 ST),-142,199,5,1627678,203855,,1611661324,21,14,1
+00:37.3,[CON] Holmes Layup Shot: Missed,21,7,2,,1627678,,1611661323,21,14,1
+00:34.7,[CON] Thomas Rebound (Off:1 Def:0),21,7,4,,203826,,1611661323,21,14,1
+00:32.7,[CON] Thomas Layup Shot: Missed,20,18,2,202658,203826,,1611661323,21,14,1
+00:28.9,[CON] Thomas Rebound (Off:2 Def:0),20,18,4,,203826,,1611661323,21,14,1
+00:26.7,[CON] Banham 3pt Shot: Missed,57,243,2,,1627671,,1611661323,21,14,1
+00:24.2,[CON] Thomas Rebound (Off:3 Def:0),57,243,4,,203826,,1611661323,21,14,1
+00:21.1,[CON] Jones 3pt Shot: Missed,189,144,2,,1627673,,1611661323,21,14,1
+00:18.4,[CON] Thomas Rebound (Off:4 Def:0),189,144,4,,203826,,1611661323,21,14,1
+00:18.2,[MIN] Dantas Foul: Shooting (2 PF) (2 FTA),21,33,6,203826,203024,,1611661324,21,14,1
+00:18.2,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,21,14,1
+00:18.2,[CON] Team Rebound,0,-80,4,,0,,1611661323,21,14,1
+00:18.2,[MIN] Dantas Substitution replaced by Collier,0,-80,8,,203024,1629483,1611661324,21,14,1
+00:18.2,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,21,14,1
+00:18.2,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,21,14,1
+00:18.2,[MIN] Collier Rebound (Off:0 Def:1),0,-80,4,,1629483,,1611661324,21,14,1
+00:12.1,[CON] Holmes Foul: Personal (1 PF) (2 FTA),-104,4,6,203855,1627678,,1611661323,21,14,1
+00:12.1,[MIN 22-14] Talbot Free Throw 1 of 2 (1 PTS),0,-80,3,,203855,,1611661324,22,14,1
+00:12.1,[MIN] Talbot Free Throw 2 of 2 Missed,0,-80,3,,203855,,1611661324,22,14,1
+00:12.1,[CON] Thomas Rebound (Off:4 Def:1),0,-80,4,,203826,,1611661323,22,14,1
+00:04.2,[CON] Hiedeman Turnover : Bad Pass (2 TO) Steal:Talbot (1 ST),153,123,5,203855,1629567,,1611661323,22,14,1
+00:00.1,[MIN] Talbot Layup Shot: Missed,-9,24,2,,203855,,1611661324,22,14,1
+00:00.1,[MIN] Robinson Rebound (Off:2 Def:1),-9,24,4,,202658,,1611661324,22,14,1
+00:00.0,[MIN 24-14] Robinson Tip Layup Shot: Made (4 PTS),0,-5,1,,202658,,1611661324,24,14,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,24,14,1
+00:00.0,End Period,0,-80,13,,0,,0,24,14,1
+10:00,Start Period,0,-80,12,,0,,0,24,14,2
+09:40,[MIN 26-14] Robinson Running Layup Shot: Made (6 PTS),4,3,1,,202658,,1611661324,26,14,2
+09:26,[MIN] Fagbenle Foul: Personal (1 PF),53,29,6,1628280,1627701,,1611661324,26,14,2
+09:12,[CON] Tuck Turnover : Lost Ball (1 TO) Steal:Collier (2 ST),59,40,5,1629483,1627670,,1611661323,26,14,2
+09:07,[MIN 28-14] Talbot Driving Layup Shot: Made (3 PTS),1,-2,1,,203855,,1611661324,28,14,2
+08:52,[CON] Jones Layup Shot: Missed,-1,10,2,,1628280,,1611661323,28,14,2
+08:50,[MIN] Fagbenle Rebound (Off:0 Def:1),-1,10,4,,1627701,,1611661324,28,14,2
+08:44,[MIN 31-14] Collier 3pt Shot: Made (3 PTS) Assist: Talbot (2 AST),151,198,1,,1629483,203855,1611661324,31,14,2
+08:41,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,31,14,2
+08:23,[CON] Thomas 3pt Shot: Missed,176,168,2,,202662,,1611661323,31,14,2
+08:21,[CON] Team Rebound,176,168,4,,0,,1611661323,31,14,2
+08:21,[MIN] Fagbenle Foul: Personal (2 PF),-117,78,6,1628280,1627701,,1611661324,31,14,2
+08:17,[MIN] Robinson Foul: Personal (1 PF),-139,190,6,202662,202658,,1611661324,31,14,2
+08:17,[MIN] Fagbenle Substitution replaced by Fowles,0,-80,8,,1627701,201480,1611661324,31,14,2
+08:10,[CON] Tuck Foul: Offensive Charge (1 PF),-165,94,6,202658,1627670,,1611661323,31,14,2
+08:10,[CON] Tuck Turnover : Offensive Foul Turnover (2 TO),-165,94,5,,1627670,,1611661323,31,14,2
+08:01,[MIN 34-14] Talbot 3pt Shot: Made (6 PTS) Assist: Collier (1 AST),-234,3,1,,203855,1629483,1611661324,34,14,2
+07:47,[CON] Tuck Layup Shot: Missed,-28,43,2,201480,1627670,,1611661323,34,14,2
+07:44,[CON] Jones Rebound (Off:1 Def:0),-28,43,4,,1628280,,1611661323,34,14,2
+07:35,[CON] Holmes Turnover : Lost Ball (1 TO) Steal:Fowles (2 ST),43,23,5,201480,1627678,,1611661323,34,14,2
+07:32,[MIN] Brown Layup Shot: Missed,54,19,2,,1628882,,1611661324,34,14,2
+07:28,[MIN] Team Rebound,54,19,4,,0,,1611661324,34,14,2
+07:28,Jump Ball Fowles vs Jones (Brown gains possession),0,-80,10,1628280,201480,1628882,1611661324,34,14,2
+07:10,[MIN] Brown 3pt Shot: Missed,-192,121,2,,1628882,,1611661324,34,14,2
+07:08,[MIN] Talbot Rebound (Off:1 Def:0),-192,121,4,,203855,,1611661324,34,14,2
+06:57,[MIN] Collier 3pt Shot: Missed,95,219,2,,1629483,,1611661324,34,14,2
+06:54,[CON] Thomas Rebound (Off:0 Def:1),95,219,4,,202662,,1611661323,34,14,2
+06:48,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Talbot (2 ST),-151,225,5,203855,202662,,1611661323,34,14,2
+06:35,[MIN] Brown Cutting Layup Shot: Missed,-7,-1,2,,1628882,,1611661324,34,14,2
+06:32,[CON] Jones Rebound (Off:1 Def:1),-7,-1,4,,1628280,,1611661323,34,14,2
+06:25,[CON] Banham 3pt Shot: Missed,-224,28,2,,1627671,,1611661323,34,14,2
+06:22,[MIN] Collier Rebound (Off:0 Def:2),-224,28,4,,1629483,,1611661324,34,14,2
+06:14,[MIN 36-14] Robinson Cutting Layup Shot: Made (8 PTS) Assist: Fowles (1 AST),-4,-1,1,,202658,201480,1611661324,36,14,2
+06:01,[CON] Holmes Jump Shot: Missed,-132,66,2,,1627678,,1611661323,36,14,2
+05:59,[CON] Jones Rebound (Off:2 Def:1),-132,66,4,,1628280,,1611661323,36,14,2
+05:57,[CON] Jones Layup Shot: Missed,5,12,2,201480,1628280,,1611661323,36,14,2
+05:54,[CON] Jones Rebound (Off:3 Def:1),5,12,4,,1628280,,1611661323,36,14,2
+05:54,[CON 17-36] Holmes 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),-174,176,1,,1627678,1628280,1611661323,36,17,2
+05:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,17,2
+05:47,[MIN] Talbot Substitution replaced by Augustus,0,-80,8,,203855,200671,1611661324,36,17,2
+05:47,[CON] Banham Substitution replaced by Williams,0,-80,8,,1627671,1627675,1611661323,36,17,2
+05:47,[CON] Holmes Substitution replaced by Stricklen,0,-80,8,,1627678,203015,1611661323,36,17,2
+05:47,[CON] Tuck Substitution replaced by Thomas,0,-80,8,,1627670,203826,1611661323,36,17,2
+05:47,[CON] Jones Substitution replaced by Jones,0,-80,8,,1628280,1627673,1611661323,36,17,2
+05:40,[CON] Stricklen Foul: Personal (1 PF),-94,181,6,200671,203015,,1611661323,36,17,2
+05:26,[MIN] Fowles Running Jump Shot: Missed,143,44,2,,201480,,1611661324,36,17,2
+05:26,[MIN] Team Rebound,143,44,4,,0,,1611661324,36,17,2
+05:26,[MIN] Team Turnover : Shot Clock Turnover,126,3,5,,0,,1611661324,36,17,2
+05:11,[CON] Thomas 3pt Shot: Missed,-210,117,2,,202662,,1611661323,36,17,2
+05:07,[MIN] Fowles Rebound (Off:1 Def:5),-210,117,4,,201480,,1611661324,36,17,2
+04:59,[MIN] Collier Layup Shot: Missed,4,24,2,1627673,1629483,,1611661324,36,17,2
+04:59,[MIN] Team Rebound,4,24,4,,0,,1611661324,36,17,2
+04:59,[MIN] Brown Substitution replaced by Sims,0,-80,8,,1628882,203824,1611661324,36,17,2
+04:59,[MIN] Collier Substitution replaced by Dantas,0,-80,8,,1629483,203024,1611661324,36,17,2
+04:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,17,2
+04:48,[MIN 39-17] Dantas 3pt Shot: Made (11 PTS) Assist: Sims (4 AST),-94,207,1,,203024,203824,1611661324,39,17,2
+04:33,[CON] Stricklen 3pt Shot: Missed,124,216,2,,203015,,1611661323,39,17,2
+04:30,[CON] Jones Rebound (Off:1 Def:3),124,216,4,,1627673,,1611661323,39,17,2
+04:26,[CON 19-39] Williams Pullup Jump shot: Made (6 PTS),-22,183,1,,1627675,,1611661323,39,19,2
+04:06,[MIN] Sims Turnover : Bad Pass (2 TO) Steal:Stricklen (2 ST),51,177,5,203015,203824,,1611661324,39,19,2
+04:04,[MIN] Sims Foul: Shooting (1 PF) (2 FTA),-3,19,6,203826,203824,,1611661324,39,19,2
+04:04,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,39,19,2
+04:04,[CON] Team Rebound,0,-80,4,,0,,1611661323,39,19,2
+04:04,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,39,19,2
+04:00,[CON] Jones Rebound (Off:2 Def:3),0,-80,4,,1627673,,1611661323,39,19,2
+03:56,[CON] Stricklen Turnover : Bad Pass (1 TO) Steal:Sims (2 ST),-150,18,5,203824,203015,,1611661323,39,19,2
+03:53,[MIN 41-19] Sims Driving Layup Shot: Made (5 PTS),4,15,1,,203824,,1611661324,41,19,2
+03:53,[CON] Thomas Foul: Shooting (3 PF) (1 FTA),4,15,6,203824,202662,,1611661323,41,19,2
+03:53,[MIN 42-19] Sims Free Throw 1 of 1 (6 PTS),0,-80,3,,203824,,1611661324,42,19,2
+03:39,[CON] Jones Turnover : 3 Second Violation (1 TO),-34,27,5,,1627673,,1611661323,42,19,2
+03:39,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,42,19,2
+03:28,[CON] Thomas Foul: Shooting (2 PF) (2 FTA),-16,22,6,201480,203826,,1611661323,42,19,2
+03:28,[MIN] Fowles Free Throw 1 of 2 Missed,0,-80,3,,201480,,1611661324,42,19,2
+03:28,[MIN] Team Rebound,0,-80,4,,0,,1611661324,42,19,2
+03:28,[MIN 43-19] Fowles Free Throw 2 of 2 (7 PTS),0,-80,3,,201480,,1611661324,43,19,2
+03:18,[CON] Williams Pullup Jump shot: Missed,121,155,2,,1627675,,1611661323,43,19,2
+03:14,[MIN] Fowles Rebound (Off:1 Def:6),121,155,4,,201480,,1611661324,43,19,2
+03:07,[MIN 45-19] Fowles Reverse Layup Shot: Made (9 PTS) Assist: Robinson (3 AST),4,-5,1,,201480,202658,1611661324,45,19,2
+02:57,[MIN] Dantas Foul: Personal (3 PF) (2 FTA),2,64,6,1627673,203024,,1611661324,45,19,2
+02:57,[CON 20-45] Jones Free Throw 1 of 2 (3 PTS),0,-80,3,,1627673,,1611661323,45,20,2
+02:57,[MIN] Dantas Substitution replaced by Collier,0,-80,8,,203024,1629483,1611661324,45,20,2
+02:57,[CON 21-45] Jones Free Throw 2 of 2 (4 PTS),0,-80,3,,1627673,,1611661323,45,21,2
+02:46,[MIN] Augustus Jump Shot: Missed,42,99,2,,200671,,1611661324,45,21,2
+02:46,[MIN] Team Rebound,42,99,4,,0,,1611661324,45,21,2
+02:46,[CON] Jones Foul: Loose Ball (2 PF),7,28,6,201480,1627673,,1611661323,45,21,2
+02:34,[MIN 47-21] Fowles Cutting Layup Shot: Made (11 PTS) Assist: Sims (5 AST),7,9,1,,201480,203824,1611661324,47,21,2
+02:24,[CON] Thomas Turnover : Lost Ball (4 TO) Steal:Robinson (1 ST),10,56,5,202658,202662,,1611661323,47,21,2
+02:19,[MIN 49-21] Augustus Driving Layup Shot: Made (4 PTS) Assist: Robinson (4 AST),3,1,1,,200671,202658,1611661324,49,21,2
+02:09,[MIN] Augustus Foul: Shooting (1 PF) (2 FTA),-15,32,6,1627673,200671,,1611661324,49,21,2
+02:09,[CON 22-49] Jones Free Throw 1 of 2 (5 PTS),0,-80,3,,1627673,,1611661323,49,22,2
+02:09,[CON 23-49] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1627673,,1611661323,49,23,2
+01:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,23,2
+01:48,[CON] Thomas Foul: Shooting (3 PF) (2 FTA),-20,41,6,1629483,203826,,1611661323,49,23,2
+01:48,[MIN] Collier Free Throw 1 of 2 Missed,0,-80,3,,1629483,,1611661324,49,23,2
+01:48,[MIN] Team Rebound,0,-80,4,,0,,1611661324,49,23,2
+01:48,[MIN 50-23] Collier Free Throw 2 of 2 (4 PTS),0,-80,3,,1629483,,1611661324,50,23,2
+01:30,[CON] Jones Foul: Offensive Charge (3 PF),80,55,6,202658,1627673,,1611661323,50,23,2
+01:30,[CON] Jones Turnover : Offensive Foul Turnover (2 TO),80,55,5,,1627673,,1611661323,50,23,2
+01:30,[CON] Thomas Substitution replaced by Tuck,0,-80,8,,203826,1627670,1611661323,50,23,2
+01:17,[MIN 52-23] Sims Floating Jump shot: Made (8 PTS),-20,63,1,,203824,,1611661324,52,23,2
+00:56.1,[MIN] Collier Foul: Personal (2 PF) (2 FTA),46,24,6,1627673,1629483,,1611661324,52,23,2
+00:56.1,[CON 24-52] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1627673,,1611661323,52,24,2
+00:56.1,[MIN] Augustus Substitution replaced by Talbot,0,-80,8,,200671,203855,1611661324,52,24,2
+00:56.1,[CON 25-52] Jones Free Throw 2 of 2 (8 PTS),0,-80,3,,1627673,,1611661323,52,25,2
+00:43.9,[MIN] Fowles Layup Shot: Missed,-19,19,2,1627675,201480,,1611661324,52,25,2
+00:39.7,[CON] Tuck Rebound (Off:0 Def:1),-19,19,4,,1627670,,1611661323,52,25,2
+00:35.9,[CON] Williams Turnover : Lost Ball (1 TO) Steal:Sims (3 ST),2,206,5,203824,1627675,,1611661323,52,25,2
+00:32.1,[MIN 54-25] Fowles Layup Shot: Made (13 PTS) Assist: Sims (6 AST),-5,-1,1,,201480,203824,1611661324,54,25,2
+00:21.5,[CON] Thomas Turnover : Out of Bounds Lost Ball Turnover (5 TO),180,166,5,,202662,,1611661323,54,25,2
+00:04.7,[MIN] Collier Turnover : Lost Ball (1 TO) Steal:Stricklen (3 ST),-70,208,5,203015,1629483,,1611661324,54,25,2
+00:00.5,[CON] Stricklen Turnover : Lost Ball (2 TO) Steal:Collier (3 ST),136,176,5,1629483,203015,,1611661323,54,25,2
+00:00.0,End Period,0,-80,13,,0,,0,54,25,2
+10:00,Start Period,0,-80,12,,0,,0,54,25,3
+09:45,[MIN] Dantas Turnaround Jump Shot: Missed,50,118,2,,203024,,1611661324,54,25,3
+09:41,[CON] Thomas Rebound (Off:4 Def:2),50,118,4,,203826,,1611661323,54,25,3
+09:36,[CON] Stricklen 3pt Shot: Missed,86,212,2,,203015,,1611661323,54,25,3
+09:33,[MIN] Fowles Rebound (Off:1 Def:7),86,212,4,,201480,,1611661324,54,25,3
+09:21,[MIN] Augustus Turnover : Lost Ball (2 TO) Steal:Thomas (1 ST),-15,139,5,202662,200671,,1611661324,54,25,3
+09:17,[CON 27-54] Stricklen Driving Layup Shot: Made (4 PTS) Assist: Thomas (1 AST),2,-3,1,,203015,202662,1611661323,54,27,3
+09:17,[MIN] Sims Foul: Shooting (2 PF) (1 FTA),2,-3,6,203015,203824,,1611661324,54,27,3
+09:17,[CON] Stricklen Free Throw 1 of 1 Missed,0,-80,3,,203015,,1611661323,54,27,3
+09:14,[MIN] Fowles Rebound (Off:1 Def:8),0,-80,4,,201480,,1611661324,54,27,3
+09:01,[MIN] Fowles Jump Shot: Missed,-100,97,2,,201480,,1611661324,54,27,3
+08:58,[CON] Thomas Rebound (Off:4 Def:3),-100,97,4,,203826,,1611661323,54,27,3
+08:51,[MIN] Fowles Foul: Shooting (2 PF) (2 FTA),-46,13,6,203826,201480,,1611661324,54,27,3
+08:51,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,54,27,3
+08:51,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,54,27,3
+08:51,[CON] Team Rebound,0,-80,4,,0,,1611661323,54,27,3
+08:51,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,54,27,3
+08:47,[CON] Jones Rebound (Off:3 Def:3),0,-80,4,,1627673,,1611661323,54,27,3
+08:45,[CON 29-54] Williams Jump Shot: Made (8 PTS),11,188,1,,1627675,,1611661323,54,29,3
+08:21,[MIN 56-29] Fowles Layup Shot: Made (15 PTS) Assist: Dantas (2 AST),-3,18,1,,201480,203024,1611661324,56,29,3
+08:05,[CON] Jones Layup Shot: Missed,2,9,2,201480,1627673,,1611661323,56,29,3
+08:03,[MIN] Dantas Rebound (Off:0 Def:1),2,9,4,,203024,,1611661324,56,29,3
+08:01,[CON] Thomas Foul: Personal (4 PF),47,11,6,1629483,202662,,1611661323,56,29,3
+08:01,[MIN] Augustus Substitution replaced by Robinson,0,-80,8,,200671,202658,1611661324,56,29,3
+07:56,[CON] Stricklen Foul: Shooting (2 PF) (2 FTA),-25,45,6,1629483,203015,,1611661323,56,29,3
+07:56,[MIN 57-29] Collier Free Throw 1 of 2 (5 PTS),0,-80,3,,1629483,,1611661324,57,29,3
+07:56,[MIN 58-29] Collier Free Throw 2 of 2 (6 PTS),0,-80,3,,1629483,,1611661324,58,29,3
+07:42,[CON] Stricklen 3pt Shot: Missed,-76,220,2,,203015,,1611661323,58,29,3
+07:38,[MIN] Fowles Rebound (Off:1 Def:9),-76,220,4,,201480,,1611661324,58,29,3
+07:30,[MIN] Collier 3pt Shot: Missed,-198,141,2,,1629483,,1611661324,58,29,3
+07:27,[MIN] Fowles Rebound (Off:2 Def:9),-198,141,4,,201480,,1611661324,58,29,3
+07:26,[MIN 60-29] Fowles Reverse Layup Shot: Made (17 PTS),-3,5,1,,201480,,1611661324,60,29,3
+07:10,[CON] Williams Pullup Jump shot: Missed,-103,145,2,,1627675,,1611661323,60,29,3
+07:07,[MIN] Robinson Rebound (Off:2 Def:2),-103,145,4,,202658,,1611661324,60,29,3
+06:57,[MIN 62-29] Sims Layup Shot: Made (10 PTS),21,93,1,,203824,,1611661324,62,29,3
+06:36,[CON] Williams Jump Shot: Missed,-83,1,2,,1627675,,1611661323,62,29,3
+06:33,[MIN] Collier Rebound (Off:0 Def:3),-83,1,4,,1629483,,1611661324,62,29,3
+06:20,[MIN 64-29] Collier Cutting Layup Shot: Made (8 PTS) Assist: Fowles (2 AST),4,7,1,,1629483,201480,1611661324,64,29,3
+06:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,29,3
+06:06,[MIN] Fowles Substitution replaced by Fagbenle,0,-80,8,,201480,1627701,1611661324,64,29,3
+05:57,[CON 32-64] Thomas 3pt Shot: Made (3 PTS),112,213,1,,202662,,1611661323,64,32,3
+05:43,[MIN 66-32] Robinson Jump Shot: Made (10 PTS) Assist: Sims (7 AST),-184,44,1,,202658,203824,1611661324,66,32,3
+05:26,[MIN] Robinson Foul: Personal (2 PF),-99,172,6,203015,202658,,1611661324,66,32,3
+05:26,[CON] Stricklen Substitution replaced by Holmes,0,-80,8,,203015,1627678,1611661323,66,32,3
+05:16,[CON] Holmes 3pt Shot: Missed,31,230,2,,1627678,,1611661323,66,32,3
+05:12,[MIN] Sims Rebound (Off:0 Def:2),31,230,4,,203824,,1611661324,66,32,3
+05:05,[MIN 68-32] Sims Jump Shot: Made (12 PTS),2,65,1,,203824,,1611661324,68,32,3
+05:04,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,68,32,3
+05:04,[CON] Williams Substitution replaced by Banham,0,-80,8,,1627675,1627671,1611661323,68,32,3
+04:57,[MIN] Fagbenle Foul: Personal (3 PF),-49,116,6,203826,1627701,,1611661324,68,32,3
+04:51,[CON] Thomas 3pt Shot: Missed,-119,202,2,,202662,,1611661323,68,32,3
+04:44,[MIN] Sims Rebound (Off:0 Def:3),-119,202,4,,203824,,1611661324,68,32,3
+04:29,[MIN 70-32] Fagbenle Jump Shot: Made (2 PTS) Assist: Robinson (5 AST),-146,75,1,,1627701,202658,1611661324,70,32,3
+04:18,[CON] Holmes Layup Shot: Missed,7,5,2,,1627678,,1611661323,70,32,3
+04:14,[MIN] Dantas Rebound (Off:0 Def:2),7,5,4,,203024,,1611661324,70,32,3
+04:01,[MIN] Dantas 3pt Shot: Missed,-174,174,2,,203024,,1611661324,70,32,3
+03:57,[CON] Thomas Rebound (Off:0 Def:2),-174,174,4,,202662,,1611661323,70,32,3
+03:53,[CON 34-70] Thomas Layup Shot: Made (6 PTS) Assist: Holmes (1 AST),-3,21,1,,203826,1627678,1611661323,70,34,3
+03:40,[MIN] Sims 3pt Shot: Missed,-223,69,2,,203824,,1611661324,70,34,3
+03:36,[CON] Holmes Rebound (Off:0 Def:1),-223,69,4,,1627678,,1611661323,70,34,3
+03:29,[CON] Banham Turnover : Bad Pass (1 TO) Steal:Collier (4 ST),18,172,5,1629483,1627671,,1611661323,70,34,3
+03:21,[MIN 72-34] Fagbenle Jump Shot: Made (4 PTS) Assist: Sims (8 AST),0,168,1,,1627701,203824,1611661324,72,34,3
+03:03,[MIN] Collier Foul: Shooting (3 PF) (2 FTA),2,119,6,202662,1629483,,1611661324,72,34,3
+03:03,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202662,,1611661323,72,34,3
+03:03,[CON] Team Rebound,0,-80,4,,0,,1611661323,72,34,3
+03:03,[MIN] Dantas Substitution replaced by Fowles,0,-80,8,,203024,201480,1611661324,72,34,3
+03:03,[CON] Jones Substitution replaced by Plaisance,0,-80,8,,1627673,203849,1611661323,72,34,3
+03:03,[MIN] Collier Substitution replaced by Talbot,0,-80,8,,1629483,203855,1611661324,72,34,3
+03:03,[CON 35-72] Thomas Free Throw 2 of 2 (4 PTS),0,-80,3,,202662,,1611661323,72,35,3
+02:43,[MIN] Sims Cutting Layup Shot: Missed,-9,18,2,,203824,,1611661324,72,35,3
+02:41,[CON] Plaisance Rebound (Off:0 Def:1),-9,18,4,,203849,,1611661323,72,35,3
+02:34,[CON 38-72] Banham 3pt Shot: Made (3 PTS) Assist: Thomas (2 AST),-200,110,1,,1627671,202662,1611661323,72,38,3
+02:27,Stoppage Other,0,-80,20,,0,,0,72,38,3
+02:18,[MIN 74-38] Robinson Jump Shot: Made (12 PTS) Assist: Sims (9 AST),-170,19,1,,202658,203824,1611661324,74,38,3
+02:04,[CON] Holmes Driving Layup Shot: Missed,4,4,2,,1627678,,1611661323,74,38,3
+02:02,[MIN] Fowles Rebound (Off:2 Def:10),4,4,4,,201480,,1611661324,74,38,3
+01:59,[MIN] Sims Foul: Offensive Charge (3 PF),8,43,6,202662,203824,,1611661324,74,38,3
+01:59,[MIN] Sims Turnover : Offensive Foul Turnover (3 TO),8,43,5,,203824,,1611661324,74,38,3
+01:59,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,74,38,3
+01:59,[CON] Thomas Substitution replaced by Tuck,0,-80,8,,203826,1627670,1611661323,74,38,3
+01:48,[MIN] Fowles Violation:Kicked Ball,0,-80,7,,201480,,1611661324,74,38,3
+01:48,[MIN] Sims Substitution replaced by Brown,0,-80,8,,203824,1628882,1611661324,74,38,3
+01:39,[CON] Holmes 3pt Shot: Missed,81,223,2,203855,1627678,,1611661323,74,38,3
+01:35,[MIN] Fagbenle Rebound (Off:0 Def:2),81,223,4,,1627701,,1611661324,74,38,3
+01:33,[MIN] Robinson Turnover : Bad Pass (1 TO),-17,504,5,,202658,,1611661324,74,38,3
+01:16,[MIN] Fagbenle Foul: Personal (4 PF) (2 FTA),95,9,6,203849,1627701,,1611661324,74,38,3
+01:16,[CON 39-74] Plaisance Free Throw 1 of 2 (1 PTS),0,-80,3,,203849,,1611661323,74,39,3
+01:16,[MIN] Fagbenle Substitution replaced by Collier,0,-80,8,,1627701,1629483,1611661324,74,39,3
+01:16,[CON 40-74] Plaisance Free Throw 2 of 2 (2 PTS),0,-80,3,,203849,,1611661323,74,40,3
+00:56.8,[MIN 77-40] Talbot 3pt Shot: Made (9 PTS) Assist: Brown (1 AST),241,10,1,,203855,1628882,1611661324,77,40,3
+00:45.2,[CON] Banham Pullup Jump shot: Missed,18,180,2,,1627671,,1611661323,77,40,3
+00:42.7,[MIN] Talbot Rebound (Off:1 Def:1),18,180,4,,203855,,1611661324,77,40,3
+00:33.1,[MIN] Fowles Turnover : Backcourt Turnover (2 TO),-24,7,5,,201480,,1611661324,77,40,3
+00:22.5,[CON 43-77] Hiedeman 3pt Shot: Made (5 PTS) Assist: Tuck (1 AST),-87,214,1,,1629567,1627670,1611661323,77,43,3
+00:08.7,[CON] Hiedeman Foul: Personal (1 PF),-48,155,6,202658,1629567,,1611661323,77,43,3
+00:00.8,[MIN] Brown Jump Shot: Missed,-111,18,2,,1628882,,1611661324,77,43,3
+00:00.8,[CON] Plaisance Rebound (Off:0 Def:2),-111,18,4,,203849,,1611661323,77,43,3
+00:00.0,End Period,0,-80,13,,0,,0,77,43,3
+10:00,Start Period,0,-80,12,,0,,0,77,43,4
+09:50,[CON] Hiedeman Layup Shot: Missed,4,-1,2,,1629567,,1611661323,77,43,4
+09:48,[MIN] Collier Rebound (Off:0 Def:4),4,-1,4,,1629483,,1611661324,77,43,4
+09:48,[CON] Hiedeman Foul: Personal (2 PF),128,641,6,1629483,1629567,,1611661323,77,43,4
+09:36,[MIN] Talbot Turnover : Bad Pass (2 TO) Steal:Plaisance (1 ST),-179,123,5,203849,203855,,1611661324,77,43,4
+09:21,[CON] Banham 3pt Shot: Missed,169,173,2,,1627671,,1611661323,77,43,4
+09:19,[MIN] Collier Rebound (Off:0 Def:5),169,173,4,,1629483,,1611661324,77,43,4
+09:10,[MIN] Brown Turnover : Lost Ball (1 TO) Steal:Tuck (1 ST),-78,243,5,1627670,1628882,,1611661324,77,43,4
+09:06,[CON 45-77] Tuck Layup Shot: Made (2 PTS),2,-8,1,,1627670,,1611661323,77,45,4
+08:50,[MIN 80-45] Talbot 3pt Shot: Made (12 PTS) Assist: Collier (2 AST),-214,83,1,,203855,1629483,1611661324,80,45,4
+08:39,[CON] Plaisance Jump Shot: Missed,-58,13,2,,203849,,1611661323,80,45,4
+08:36,[CON] Plaisance Rebound (Off:1 Def:2),-58,13,4,,203849,,1611661323,80,45,4
+08:34,[CON] Plaisance Layup Shot: Missed,2,4,2,,203849,,1611661323,80,45,4
+08:34,[CON] Plaisance Rebound (Off:2 Def:2),2,4,4,,203849,,1611661323,80,45,4
+08:25,[CON 47-80] Holmes Driving Layup Shot: Made (5 PTS),3,-7,1,,1627678,,1611661323,80,47,4
+07:59,[MIN 82-47] Collier Jump Shot: Made (10 PTS) Assist: Talbot (3 AST),32,167,1,,1629483,203855,1611661324,82,47,4
+07:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,82,47,4
+07:44,[MIN] Fowles Substitution replaced by Fagbenle,0,-80,8,,201480,1627701,1611661324,82,47,4
+07:29,[CON] Plaisance Jump Shot: Missed,154,6,2,,203849,,1611661323,82,47,4
+07:27,[MIN] Talbot Rebound (Off:1 Def:2),154,6,4,,203855,,1611661324,82,47,4
+07:23,[MIN] Robinson Jump Shot: Missed,-157,51,2,,202658,,1611661324,82,47,4
+07:22,[CON] Team Rebound,-157,51,4,,0,,1611661323,82,47,4
+07:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,82,47,4
+07:08,[CON] Banham 3pt Shot: Missed,-233,27,2,,1627671,,1611661323,82,47,4
+07:04,[CON] Holmes Rebound (Off:1 Def:1),-233,27,4,,1627678,,1611661323,82,47,4
+07:02,[CON] Tuck Foul: Offensive Charge (2 PF),153,156,6,202658,1627670,,1611661323,82,47,4
+07:02,[CON] Tuck Turnover : Offensive Foul Turnover (3 TO),153,156,5,,1627670,,1611661323,82,47,4
+06:45,[MIN 85-47] Brown 3pt Shot: Made (3 PTS) Assist: Robinson (6 AST),200,115,1,,1628882,202658,1611661324,85,47,4
+06:31,[CON] Tuck Layup Shot: Missed,-7,-1,2,,1627670,,1611661323,85,47,4
+06:29,[MIN] Collier Rebound (Off:0 Def:6),-7,-1,4,,1629483,,1611661324,85,47,4
+06:16,[MIN] Brown 3pt Shot: Missed,138,209,2,,1628882,,1611661324,85,47,4
+06:12,[CON] Banham Rebound (Off:0 Def:1),138,209,4,,1627671,,1611661323,85,47,4
+06:08,[CON] Hiedeman Layup Shot: Missed,-5,-1,2,,1629567,,1611661323,85,47,4
+06:06,[CON] Tuck Rebound (Off:1 Def:1),-5,-1,4,,1627670,,1611661323,85,47,4
+06:06,[CON 49-85] Tuck Layup Shot: Made (4 PTS),3,-8,1,,1627670,,1611661323,85,49,4
+05:43,[MIN] Fagbenle 3pt Shot: Missed,155,182,2,,1627701,,1611661324,85,49,4
+05:40,[CON] Plaisance Rebound (Off:2 Def:3),155,182,4,,203849,,1611661323,85,49,4
+05:30,[CON 51-85] Plaisance Layup Shot: Made (4 PTS) Assist: Hiedeman (1 AST),12,6,1,,203849,1629567,1611661323,85,51,4
+05:30,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,85,51,4
+05:14,[MIN] Brown Turnover : Out of Bounds Lost Ball Turnover (2 TO),-7,56,5,,1628882,,1611661324,85,51,4
+05:01,[CON] Tuck Layup Shot: Missed,-20,9,2,,1627670,,1611661323,85,51,4
+04:58,[MIN] Collier Rebound (Off:0 Def:7),-20,9,4,,1629483,,1611661324,85,51,4
+04:48,[MIN] Talbot 3pt Shot: Missed,-198,133,2,,203855,,1611661324,85,51,4
+04:44,[MIN] Talbot Rebound (Off:2 Def:2),-198,133,4,,203855,,1611661324,85,51,4
+04:34,[MIN] Collier 3pt Shot: Missed,138,200,2,,1629483,,1611661324,85,51,4
+04:30,[CON] Holmes Rebound (Off:1 Def:2),138,200,4,,1627678,,1611661323,85,51,4
+04:22,[CON] Hiedeman 3pt Shot: Missed,-200,111,2,,1629567,,1611661323,85,51,4
+04:19,[MIN] Collier Rebound (Off:0 Def:8),-200,111,4,,1629483,,1611661324,85,51,4
+04:01,[MIN] Brown Jump Shot: Missed,78,206,2,,1628882,,1611661324,85,51,4
+03:58,[CON] Tuck Rebound (Off:1 Def:2),78,206,4,,1627670,,1611661323,85,51,4
+03:53,[CON] Plaisance Jump Shot: Missed,143,-2,2,,203849,,1611661323,85,51,4
+03:50,[MIN] Brown Rebound (Off:0 Def:1),143,-2,4,,1628882,,1611661324,85,51,4
+03:39,[MIN 87-51] Robinson Pullup Jump shot: Made (14 PTS) Assist: Brown (2 AST),-148,24,1,,202658,1628882,1611661324,87,51,4
+03:21,[CON] Holmes Driving Layup Shot: Missed,8,8,2,,1627678,,1611661323,87,51,4
+03:20,[MIN] Talbot Rebound (Off:2 Def:3),8,8,4,,203855,,1611661324,87,51,4
+03:04,[MIN] Fagbenle Foul: Offensive Charge (5 PF),115,31,6,1627671,1627701,,1611661324,87,51,4
+03:04,[MIN] Fagbenle Turnover : Offensive Foul Turnover (1 TO),115,31,5,,1627701,,1611661324,87,51,4
+03:04,[MIN] Collier Substitution replaced by Alleyne,0,-80,8,,1629483,1627687,1611661324,87,51,4
+02:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,87,51,4
+02:58,Timeout Officials,0,-80,9,,0,,0,87,51,4
+02:56,[CON 53-87] Holmes Cutting Layup Shot: Made (7 PTS) Assist: Tuck (2 AST),-3,-1,1,,1627678,1627670,1611661323,87,53,4
+02:39,[MIN] Fagbenle Foul: Offensive Charge (6 PF),-30,232,6,1627678,1627701,,1611661324,87,53,4
+02:39,[MIN] Fagbenle Turnover : Offensive Foul Turnover (2 TO),-30,232,5,,1627701,,1611661324,87,53,4
+02:39,[MIN] Fagbenle Substitution replaced by Collier,0,-80,8,,1627701,1629483,1611661324,87,53,4
+02:30,[CON] Plaisance 3pt Shot: Missed,67,224,2,,203849,,1611661323,87,53,4
+02:27,[MIN] Robinson Rebound (Off:2 Def:3),67,224,4,,202658,,1611661324,87,53,4
+02:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,87,53,4
+02:07,[MIN] Alleyne Layup Shot: Missed,9,22,2,1629567,1627687,,1611661324,87,53,4
+02:07,[MIN] Team Rebound,9,22,4,,0,,1611661324,87,53,4
+02:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,87,53,4
+02:07,[MIN] Collier Foul: Offensive Charge (4 PF),46,51,6,1629567,1629483,,1611661324,87,53,4
+02:07,[MIN] Collier Turnover : Offensive Foul Turnover (2 TO),46,51,5,,1629483,,1611661324,87,53,4
+01:55,[MIN] Robinson Foul: Shooting (3 PF) (2 FTA),-7,20,6,1629567,202658,,1611661324,87,53,4
+01:55,[CON] Hiedeman Free Throw 1 of 2 Missed,0,-80,3,,1629567,,1611661323,87,53,4
+01:55,[CON] Team Rebound,0,-80,4,,0,,1611661323,87,53,4
+01:55,[CON 54-87] Hiedeman Free Throw 2 of 2 (6 PTS),0,-80,3,,1629567,,1611661323,87,54,4
+01:42,[MIN] Collier Turnover : Lost Ball (3 TO) Steal:Banham (1 ST),96,66,5,1627671,1629483,,1611661324,87,54,4
+01:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,87,54,4
+01:27,[CON 57-87] Holmes 3pt Shot: Made (10 PTS),104,242,1,,1627678,,1611661323,87,57,4
+01:11,[CON] Plaisance Foul: Shooting (1 PF) (2 FTA),14,18,6,203855,203849,,1611661323,87,57,4
+01:11,[MIN 88-57] Talbot Free Throw 1 of 2 (13 PTS),0,-80,3,,203855,,1611661324,88,57,4
+01:11,[MIN 89-57] Talbot Free Throw 2 of 2 (14 PTS),0,-80,3,,203855,,1611661324,89,57,4
+00:56.2,[CON] Holmes 3pt Shot: Missed,-181,148,2,,1627678,,1611661323,89,57,4
+00:53.3,[MIN] Brown Rebound (Off:0 Def:2),-181,148,4,,1628882,,1611661324,89,57,4
+00:48.4,[MIN] Robinson Turnover : Bad Pass (2 TO) Steal:Plaisance (2 ST),-178,456,5,203849,202658,,1611661324,89,57,4
+00:35.7,[CON] Holmes Foul: Offensive Charge (2 PF),126,135,6,203855,1627678,,1611661323,89,57,4
+00:35.7,[CON] Holmes Turnover : Offensive Foul Turnover (2 TO),126,135,5,,1627678,,1611661323,89,57,4
+00:20.0,[MIN] Talbot Turnover : Bad Pass (3 TO) Steal:Hiedeman (1 ST),38,45,5,1629567,203855,,1611661324,89,57,4
+00:13.8,[CON] Plaisance Layup Shot: Missed,-32,22,2,1627687,203849,,1611661323,89,57,4
+00:13.8,[CON] Team Rebound,-32,22,4,,0,,1611661323,89,57,4
+00:13.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,89,57,4
+00:11.5,[CON] Holmes Layup Shot: Missed,58,44,2,,1627678,,1611661323,89,57,4
+00:09.4,[MIN] Alleyne Rebound (Off:0 Def:1),58,44,4,,1627687,,1611661324,89,57,4
+00:00.0,End Period,0,-80,13,,0,,0,89,57,4
+00:00.0,Game End,0,-80,0,,0,,0,89,57,4

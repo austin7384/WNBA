@@ -1,0 +1,391 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Jones vs Mack (Vandersloot gains possession),0,-80,10,1630442,1627673,202664,1611661313,0,0,0,1
+09:49,[NYL] Vandersloot Driving Layup Shot: Missed Block: Mack (1 BLK),27,32,2,1630442,202664,,1611661313,0,0,0,1
+09:48,[NYL] Team Rebound,27,32,4,,0,,1611661313,0,0,0,1
+09:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:38,[NYL] Stewart Pullup Jump shot: Missed,-45,174,2,,1627668,,1611661313,0,0,0,1
+09:37,[PHO] Copper Rebound (Off:0 Def:1),-45,174,4,,1627674,,1611661317,0,0,0,1
+09:22,[PHO] Copper Pullup Jump shot: Missed,92,63,2,,1627674,,1611661317,0,0,0,1
+09:21,[NYL] Laney-Hamilton Rebound (Off:0 Def:1),92,63,4,,204335,,1611661313,0,0,0,1
+09:08,[NYL 3-0] Vandersloot 3pt Shot: Made (3 PTS) Assist: Laney-Hamilton (1 AST),206,130,1,,202664,204335,1611661313,3,0,3,1
+08:45,[PHO] Copper Pullup Jump shot: Missed,-154,42,2,,1627674,,1611661317,3,0,0,1
+08:44,[NYL] Vandersloot Rebound (Off:0 Def:1),-154,42,4,,202664,,1611661313,3,0,0,1
+08:38,[NYL] Laney-Hamilton 3pt Shot: Missed,227,97,2,,204335,,1611661313,3,0,0,1
+08:37,[NYL] Stewart Rebound (Off:1 Def:0),227,97,4,,1627668,,1611661313,3,0,0,1
+08:34,[PHO] Copper Foul: Shooting (1 PF) (2 FTA),-21,37,6,1627668,1627674,1641525,1611661317,3,0,0,1
+08:34,[NYL 4-0] Stewart Free Throw 1 of 2 (1 PTS),0,-80,3,,1627668,,1611661313,4,0,1,1
+08:34,[NYL 5-0] Stewart Free Throw 2 of 2 (2 PTS),0,-80,3,,1627668,,1611661313,5,0,1,1
+08:11,[PHO] Cloud Driving Layup Shot: Missed,23,17,2,,204333,,1611661317,5,0,0,1
+08:10,[PHO] Copper Rebound (Off:1 Def:1),23,17,4,,1627674,,1611661317,5,0,0,1
+08:08,[PHO 2-5] Copper Reverse Layup Shot: Made (2 PTS),17,16,1,,1627674,,1611661317,5,2,2,1
+08:08,[NYL] Jones Foul: Shooting (1 PF) (1 FTA),17,16,6,1627674,1627673,1641525,1611661313,5,2,0,1
+08:08,[PHO 3-5] Copper Free Throw 1 of 1 (3 PTS),0,-80,3,,1627674,,1611661317,5,3,1,1
+07:58,[NYL] Stewart Driving Floating Bank Jump Shot: Missed,19,34,2,,1627668,,1611661313,5,3,0,1
+07:57,[PHO] Mack Rebound (Off:0 Def:1),19,34,4,,1630442,,1611661317,5,3,0,1
+07:43,[PHO] Taurasi 3pt Shot: Missed Block: Vandersloot (1 BLK),-173,175,2,202664,100940,,1611661317,5,3,0,1
+07:42,[NYL] Ionescu Rebound (Off:0 Def:1),-173,175,4,,1629477,,1611661313,5,3,0,1
+07:36,[NYL] Stewart 3pt Shot: Missed,211,147,2,,1627668,,1611661313,5,3,0,1
+07:35,[PHO] Copper Rebound (Off:1 Def:2),211,147,4,,1627674,,1611661317,5,3,0,1
+07:24,[PHO 6-5] Cunningham 3pt Shot: Made (3 PTS),120,220,1,,1629482,,1611661317,5,6,3,1
+07:04,[NYL 8-6] Jones 3pt Shot: Made (3 PTS) Assist: Ionescu (1 AST),164,196,1,,1627673,1629477,1611661313,8,6,3,1
+06:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,6,0,1
+06:42,[PHO] Taurasi Cutting Layup Shot: Missed,11,15,2,,100940,,1611661317,8,6,0,1
+06:41,[NYL] Stewart Rebound (Off:1 Def:1),11,15,4,,1627668,,1611661313,8,6,0,1
+06:36,[NYL 11-6] Ionescu 3pt Shot: Made (3 PTS) Assist: Vandersloot (1 AST),-128,232,1,,1629477,202664,1611661313,11,6,3,1
+06:18,[PHO] Copper 3pt Shot: Missed,-221,89,2,,1627674,,1611661317,11,6,0,1
+06:17,[NYL] Jones Rebound (Off:0 Def:1),-221,89,4,,1627673,,1611661313,11,6,0,1
+06:08,[NYL 14-6] Laney-Hamilton 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),221,87,1,,204335,1627673,1611661313,14,6,3,1
+05:53,[PHO] Copper Foul: Offensive (2 PF),39,160,6,204335,1627674,101044,1611661317,14,6,0,1
+05:53,[PHO] Copper Turnover : Offensive Foul Turnover (1 TO),39,160,5,,1627674,101044,1611661317,14,6,0,1
+05:53,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,14,6,0,1
+05:40,[NYL 16-6] Laney-Hamilton Pullup Jump shot: Made (5 PTS) Assist: Ionescu (2 AST),-38,133,1,,204335,1629477,1611661313,16,6,2,1
+05:29,[PHO] Cloud Driving Reverse Layup Shot: Missed,-16,10,2,,204333,,1611661317,16,6,0,1
+05:28,[PHO] Dixon Rebound (Off:1 Def:0),-16,10,4,,1641700,,1611661317,16,6,0,1
+05:26,[PHO] Cunningham Turnover : Out of Bounds - Bad Pass Turnover (1 TO),54,-2,5,,1629482,1629422,1611661317,16,6,0,1
+05:08,[NYL 19-6] Jones 3pt Shot: Made (6 PTS) Assist: Ionescu (3 AST),169,184,1,,1627673,1629477,1611661313,19,6,3,1
+04:47,[PHO 8-19] Taurasi Step Back Jump shot: Made (2 PTS) Assist: Dixon (1 AST),81,123,1,,100940,1641700,1611661317,19,8,2,1
+04:35,[PHO] Taurasi Foul: Personal (1 PF),18,44,6,204335,100940,1641525,1611661317,19,8,0,1
+04:35,Timeout : Official,0,-80,9,,0,,0,19,8,0,1
+04:35,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,19,8,0,1
+04:22,[NYL 21-8] Stewart Driving Layup Shot: Made (4 PTS) Assist: Ionescu (4 AST),-13,40,1,,1627668,1629477,1611661313,21,8,2,1
+04:22,[PHO] Dixon Foul: Shooting (1 PF) (1 FTA),-13,40,6,1627668,1641700,1629422,1611661317,21,8,0,1
+04:22,[NYL 22-8] Stewart Free Throw 1 of 1 (5 PTS),0,-80,3,,1627668,,1611661313,22,8,1,1
+03:58,[PHO] Sutton Driving Floating Jump Shot: Missed,60,28,2,,1630134,,1611661317,22,8,0,1
+03:57,[NYL] Ionescu Rebound (Off:0 Def:2),60,28,4,,1629477,,1611661313,22,8,0,1
+03:40,[NYL] Laney-Hamilton Turnover : Lost Ball (1 TO) Steal:Sutton (1 ST),6,105,5,1630134,204335,,1611661313,22,8,0,1
+03:34,[PHO 11-22] Cunningham 3pt Shot: Made (6 PTS) Assist: Copper (1 AST),-202,133,1,,1629482,1627674,1611661317,22,11,3,1
+03:19,[NYL 24-11] Laney-Hamilton Driving Layup Shot: Made (7 PTS),-29,45,1,,204335,,1611661313,24,11,2,1
+03:01,[PHO] Sutton 3pt Shot: Missed,111,213,2,,1630134,,1611661317,24,11,0,1
+03:00,[PHO] Team Rebound,111,213,4,,0,,1611661317,24,11,0,1
+03:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,11,0,1
+03:00,[NYL] Vandersloot Substitution replaced by Fiebich,0,-80,8,,202664,1630142,1611661313,24,11,0,1
+03:00,[PHO] Cunningham Substitution replaced by Bertsch,0,-80,8,,1629482,1629571,1611661317,24,11,0,1
+02:50,[PHO] Bertsch 3pt Shot: Missed,171,161,2,,1629571,,1611661317,24,11,0,1
+02:49,[NYL] Fiebich Rebound (Off:0 Def:1),171,161,4,,1630142,,1611661313,24,11,0,1
+02:33,[NYL] Laney-Hamilton 3pt Shot: Missed,-230,85,2,,204335,,1611661313,24,11,0,1
+02:32,[PHO] Copper Rebound (Off:1 Def:3),-230,85,4,,1627674,,1611661317,24,11,0,1
+02:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,11,0,1
+02:27,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,24,11,0,1
+02:18,[NYL] Sabally Violation:Kicked Ball,0,-80,7,,1631055,,1611661313,24,11,0,1
+02:18,[PHO] Copper Substitution replaced by Taurasi,0,-80,8,,1627674,100940,1611661317,24,11,0,1
+02:10,[PHO 14-24] Bertsch 3pt Shot: Made (3 PTS) Assist: Sutton (1 AST),-174,154,1,,1629571,1630134,1611661317,24,14,3,1
+01:56,[NYL 26-14] Ionescu Pullup Jump shot: Made (5 PTS) Assist: Sabally (1 AST),77,145,1,,1629477,1631055,1611661313,26,14,2,1
+01:36,[PHO 17-26] Cloud 3pt Shot: Made (3 PTS) Assist: Bertsch (1 AST),-208,126,1,,204333,1629571,1611661317,26,17,3,1
+01:18,[NYL 28-17] Ionescu Pullup Jump shot: Made (7 PTS),-39,92,1,,1629477,,1611661313,28,17,2,1
+01:18,[NYL] Ionescu Technical (1 FTA),0,-80,6,,1629477,101044,1611661313,28,17,0,1
+01:18,[PHO 18-28] Taurasi Free Throw Technical (3 PTS),0,-80,3,,100940,,1611661317,28,18,1,1
+01:18,[NYL] Laney-Hamilton Substitution replaced by Thornton,0,-80,8,,204335,203866,1611661313,28,18,0,1
+01:07,[PHO] Bertsch Turnover : Bad Pass (1 TO) Steal:Stewart (1 ST),-26,75,5,1627668,1629571,,1611661317,28,18,0,1
+01:03,[PHO] Bertsch Foul: Personal (1 PF),-63,139,6,1627668,1629571,1629422,1611661317,28,18,0,1
+00:57.2,[NYL 31-18] Ionescu 3pt Shot: Made (10 PTS) Assist: Stewart (1 AST),-113,232,1,,1629477,1627668,1611661313,31,18,3,1
+00:47.8,[PHO] Cloud Step Back Jump shot: Missed,54,173,2,,204333,,1611661317,31,18,0,1
+00:46.6,[NYL] Sabally Rebound (Off:0 Def:1),54,173,4,,1631055,,1611661313,31,18,0,1
+00:40.8,[NYL 33-18] Stewart Running Layup Shot: Made (7 PTS) Assist: Ionescu (5 AST),15,33,1,,1627668,1629477,1611661313,33,18,2,1
+00:31.1,[PHO] Sutton 3pt Shot: Missed,88,228,2,,1630134,,1611661317,33,18,0,1
+00:29.9,[NYL] Sabally Rebound (Off:0 Def:2),88,228,4,,1631055,,1611661313,33,18,0,1
+00:20.6,[NYL] Team Turnover : 8 Second Violation,162,450,5,,0,1629422,1611661313,33,18,0,1
+00:03.6,[PHO] Bertsch 3pt Shot: Missed,237,13,2,,1629571,,1611661317,33,18,0,1
+00:02.4,[PHO] Sutton Rebound (Off:1 Def:0),237,13,4,,1630134,,1611661317,33,18,0,1
+00:00.9,[PHO 20-33] Cloud Jump Shot: Made (5 PTS) Assist: Sutton (2 AST),48,73,1,,204333,1630134,1611661317,33,20,2,1
+00:00.0,End Period,0,-80,13,,0,,0,33,20,0,1
+10:00,Start Period,0,-80,12,,0,,0,33,20,0,2
+09:45,[NYL] Fiebich Foul: Shooting (1 PF) (2 FTA),12,15,6,1629482,1630142,101044,1611661313,33,20,0,2
+09:45,[PHO] Cunningham Free Throw 1 of 2 Missed,0,-80,3,,1629482,,1611661317,33,20,0,2
+09:45,[PHO] Team Rebound,0,-80,4,,0,,1611661317,33,20,0,2
+09:45,[PHO 21-33] Cunningham Free Throw 2 of 2 (7 PTS),0,-80,3,,1629482,,1611661317,33,21,1,2
+09:26,[NYL] Sabally Floating Jump shot: Missed,-34,98,2,,1631055,,1611661313,33,21,0,2
+09:25,[PHO] Mack Rebound (Off:0 Def:2),-34,98,4,,1630442,,1611661317,33,21,0,2
+09:07,[PHO] Bertsch Pullup Jump shot: Missed,-27,64,2,,1629571,,1611661317,33,21,0,2
+09:06,[NYL] Vandersloot Rebound (Off:0 Def:2),-27,64,4,,202664,,1611661313,33,21,0,2
+08:55,[NYL] Thornton Hook Shot: Missed,-5,80,2,,203866,,1611661313,33,21,0,2
+08:54,[PHO] Cunningham Rebound (Off:0 Def:1),-5,80,4,,1629482,,1611661317,33,21,0,2
+08:44,[PHO] Taurasi 3pt Shot: Missed,56,236,2,,100940,,1611661317,33,21,0,2
+08:43,[NYL] Vandersloot Rebound (Off:0 Def:3),56,236,4,,202664,,1611661313,33,21,0,2
+08:37,[NYL] Fiebich 3pt Shot: Missed,-211,150,2,,1630142,,1611661313,33,21,0,2
+08:36,[PHO] Team Rebound,-211,150,4,,0,,1611661317,33,21,0,2
+08:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,21,0,2
+08:21,[PHO] Taurasi Driving Layup Shot: Missed,23,17,2,,100940,,1611661317,33,21,0,2
+08:20,[NYL] Laney-Hamilton Rebound (Off:0 Def:2),23,17,4,,204335,,1611661313,33,21,0,2
+08:10,[NYL 36-21] Thornton 3pt Shot: Made (3 PTS) Assist: Fiebich (1 AST),230,33,1,,203866,1630142,1611661313,36,21,3,2
+07:54,[PHO 23-36] Mack Jump Shot: Made (2 PTS) Assist: Sutton (3 AST),-94,21,1,,1630442,1630134,1611661317,36,23,2,2
+07:41,[NYL] Vandersloot 3pt Shot: Missed,119,231,2,,202664,,1611661313,36,23,0,2
+07:40,[PHO] Mack Rebound (Off:0 Def:3),119,231,4,,1630442,,1611661317,36,23,0,2
+07:26,[PHO 25-36] Mack Cutting Layup Shot: Made (4 PTS) Assist: Sutton (4 AST),17,1,1,,1630442,1630134,1611661317,36,25,2,2
+07:16,[NYL] Thornton 3pt Shot: Missed,228,44,2,,203866,,1611661313,36,25,0,2
+07:15,[PHO] Mack Rebound (Off:0 Def:4),228,44,4,,1630442,,1611661317,36,25,0,2
+07:04,[PHO] Cunningham 3pt Shot: Missed,-234,0,2,,1629482,,1611661317,36,25,0,2
+07:03,[NYL] Team Rebound,-234,0,4,,0,,1611661313,36,25,0,2
+07:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,25,0,2
+07:03,[NYL] Sabally Substitution replaced by Jones,0,-80,8,,1631055,1627673,1611661313,36,25,0,2
+07:03,[NYL] Fiebich Substitution replaced by Ionescu,0,-80,8,,1630142,1629477,1611661313,36,25,0,2
+07:03,[PHO] Taurasi Substitution replaced by Dixon,0,-80,8,,100940,1641700,1611661317,36,25,0,2
+07:03,[PHO] Mack Substitution replaced by Copper,0,-80,8,,1630442,1627674,1611661317,36,25,0,2
+06:51,[NYL] Ionescu Driving Floating Jump Shot: Missed,-65,109,2,,1629477,,1611661313,36,25,0,2
+06:50,[PHO] Bertsch Rebound (Off:0 Def:1),-65,109,4,,1629571,,1611661317,36,25,0,2
+06:36,[PHO 27-36] Cunningham Cutting Layup Shot: Made (9 PTS) Assist: Bertsch (2 AST),-24,6,1,,1629482,1629571,1611661317,36,27,2,2
+06:32,Timeout : Regular,0,-80,9,,1611661313,,1611661313,36,27,0,2
+06:32,[NYL] Thornton Substitution replaced by Stewart,0,-80,8,,203866,1627668,1611661313,36,27,0,2
+06:21,[NYL] Ionescu Turnover : Bad Pass (1 TO) Steal:Sutton (2 ST),-39,71,5,1630134,1629477,,1611661313,36,27,0,2
+06:17,[PHO 29-36] Bertsch Running Layup Shot: Made (5 PTS) Assist: Sutton (5 AST),-12,8,1,,1629571,1630134,1611661317,36,29,2,2
+06:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,29,0,2
+06:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,29,0,2
+05:49,[NYL] Vandersloot 3pt Shot: Missed,202,156,2,,202664,,1611661313,36,29,0,2
+05:47,[PHO] Team Rebound,202,156,4,,0,,1611661317,36,29,0,2
+05:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,29,0,2
+05:47,[PHO] Bertsch Substitution replaced by Cloud,0,-80,8,,1629571,204333,1611661317,36,29,0,2
+05:33,[PHO 31-36] Copper Fadeaway Bank shot: Made (5 PTS),37,24,1,,1627674,,1611661317,36,31,2,2
+05:11,[NYL] Vandersloot Driving Layup Shot: Missed Block: Cloud (1 BLK),-16,58,2,204333,202664,,1611661313,36,31,0,2
+05:10,[NYL] Vandersloot Rebound (Off:1 Def:3),-16,58,4,,202664,,1611661313,36,31,0,2
+05:09,[NYL] Vandersloot Putback Layup Shot: Missed,-34,-5,2,,202664,,1611661313,36,31,0,2
+05:08,[PHO] Team Rebound,-34,-5,4,,0,,1611661317,36,31,0,2
+05:08,[NYL] Jones Foul: Loose Ball (2 PF),85,777,6,1641700,1627673,1641525,1611661313,36,31,0,2
+04:52,[PHO 33-36] Cloud Driving Hook Shot: Made (7 PTS) Assist: Dixon (2 AST),21,38,1,,204333,1641700,1611661317,36,33,2,2
+04:40,[NYL] Ionescu Driving Layup Shot: Missed,5,38,2,,1629477,,1611661313,36,33,0,2
+04:39,[NYL] Jones Rebound (Off:1 Def:1),5,38,4,,1627673,,1611661313,36,33,0,2
+04:38,[NYL 38-33] Jones Putback Layup Shot: Made (8 PTS),-1,33,1,,1627673,,1611661313,38,33,2,2
+04:23,[PHO] Copper 3pt Shot: Missed,173,161,2,,1627674,,1611661317,38,33,0,2
+04:22,[NYL] Jones Rebound (Off:1 Def:2),173,161,4,,1627673,,1611661313,38,33,0,2
+04:17,[NYL 40-33] Stewart Running Reverse Layup Shot: Made (9 PTS) Assist: Ionescu (6 AST),-18,35,1,,1627668,1629477,1611661313,40,33,2,2
+04:16,Timeout : Regular,0,-80,9,,1611661317,,1611661317,40,33,0,2
+04:16,[NYL] Vandersloot Substitution replaced by Fiebich,0,-80,8,,202664,1630142,1611661313,40,33,0,2
+04:16,[PHO] Sutton Substitution replaced by Taurasi,0,-80,8,,1630134,100940,1611661317,40,33,0,2
+04:16,[PHO] Cunningham Substitution replaced by Mack,0,-80,8,,1629482,1630442,1611661317,40,33,0,2
+04:16,[PHO] Dixon Substitution replaced by Herbert Harrigan,0,-80,8,,1641700,1630114,1611661317,40,33,0,2
+04:02,[PHO] Taurasi 3pt Shot: Missed,-85,225,2,,100940,,1611661317,40,33,0,2
+04:01,[NYL] Stewart Rebound (Off:1 Def:2),-85,225,4,,1627668,,1611661313,40,33,0,2
+03:46,[NYL] Jones 3pt Shot: Missed,-34,253,2,,1627673,,1611661313,40,33,0,2
+03:45,[PHO] Taurasi Rebound (Off:0 Def:1),-34,253,4,,100940,,1611661317,40,33,0,2
+03:24,[PHO] Copper Pullup Jump shot: Missed,104,149,2,,1627674,,1611661317,40,33,0,2
+03:23,[NYL] Fiebich Rebound (Off:0 Def:2),104,149,4,,1630142,,1611661313,40,33,0,2
+03:18,[NYL] Ionescu 3pt Shot: Missed,-135,227,2,,1629477,,1611661313,40,33,0,2
+03:17,[PHO] Taurasi Rebound (Off:0 Def:2),-135,227,4,,100940,,1611661317,40,33,0,2
+03:03,[PHO] Copper Driving Reverse Layup Shot: Missed Block: Jones (1 BLK),-24,4,2,1627673,1627674,,1611661317,40,33,0,2
+03:02,[PHO] Copper Rebound (Off:2 Def:3),-24,4,4,,1627674,,1611661317,40,33,0,2
+02:56,[PHO] Cloud 3pt Shot: Missed,133,196,2,,204333,,1611661317,40,33,0,2
+02:55,[NYL] Team Rebound,133,196,4,,0,,1611661313,40,33,0,2
+02:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,33,0,2
+02:38,[NYL] Fiebich 3pt Shot: Missed,228,29,2,,1630142,,1611661313,40,33,0,2
+02:37,[PHO] Copper Rebound (Off:2 Def:4),228,29,4,,1627674,,1611661317,40,33,0,2
+02:25,[PHO 36-40] Herbert Harrigan 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),221,94,1,,1630114,204333,1611661317,40,36,3,2
+02:05,[NYL 43-36] Ionescu 3pt Shot: Made (13 PTS) Assist: Laney-Hamilton (2 AST),-129,247,1,,1629477,204335,1611661313,43,36,3,2
+01:37,[PHO 39-43] Cloud 3pt Shot: Made (10 PTS),22,245,1,,204333,,1611661317,43,39,3,2
+01:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,39,0,2
+01:24,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,43,39,0,2
+01:20,[NYL] Jones 3pt Shot: Missed,-198,162,2,,1627673,,1611661313,43,39,0,2
+01:19,[PHO] Cunningham Rebound (Off:0 Def:2),-198,162,4,,1629482,,1611661317,43,39,0,2
+01:13,[PHO 41-43] Copper Running Layup Shot: Made (7 PTS) Assist: Cloud (2 AST),24,14,1,,1627674,204333,1611661317,43,41,2,2
+01:01,[NYL 45-41] Stewart Cutting Layup Shot: Made (11 PTS) Assist: Ionescu (7 AST),8,27,1,,1627668,1629477,1611661313,45,41,2,2
+00:50.9,[PHO 44-45] Cloud 3pt Shot: Made (13 PTS),-81,223,1,,204333,,1611661317,45,44,3,2
+00:38.6,[NYL] Laney-Hamilton Driving Layup Shot: Missed,-18,35,2,,204335,,1611661313,45,44,0,2
+00:37.4,[PHO] Cunningham Rebound (Off:0 Def:3),-18,35,4,,1629482,,1611661317,45,44,0,2
+00:19.8,[PHO] Copper 3pt Shot: Missed,-194,150,2,,1627674,,1611661317,45,44,0,2
+00:18.6,[NYL] Fiebich Rebound (Off:0 Def:3),-194,150,4,,1630142,,1611661313,45,44,0,2
+00:02.8,[NYL 47-44] Laney-Hamilton Driving Layup Shot: Made (9 PTS),-13,37,1,,204335,,1611661313,47,44,2,2
+00:00.0,End Period,0,-80,13,,0,,0,47,44,0,2
+10:00,Start Period,0,-80,12,,0,,0,47,44,0,3
+09:36,[PHO] Team Turnover : Shot Clock Turnover,72,31,5,,0,1629422,1611661317,47,44,0,3
+09:19,[NYL 49-44] Ionescu Driving Layup Shot: Made (15 PTS) Assist: Vandersloot (2 AST),-41,15,1,,1629477,202664,1611661313,49,44,2,3
+09:03,[PHO] Mack Jump Bank Shot: Missed,-59,56,2,,1630442,,1611661317,49,44,0,3
+09:02,[NYL] Stewart Rebound (Off:1 Def:3),-59,56,4,,1627668,,1611661313,49,44,0,3
+08:50,[NYL] Ionescu Pullup Jump shot: Missed,48,134,2,,1629477,,1611661313,49,44,0,3
+08:49,[PHO] Cunningham Rebound (Off:0 Def:4),48,134,4,,1629482,,1611661317,49,44,0,3
+08:26,[PHO] Cloud Turnaround Jump Shot: Missed,-136,17,2,,204333,,1611661317,49,44,0,3
+08:25,[NYL] Vandersloot Rebound (Off:1 Def:4),-136,17,4,,202664,,1611661313,49,44,0,3
+08:13,[NYL] Laney-Hamilton 3pt Shot: Missed,235,4,2,,204335,,1611661313,49,44,0,3
+08:12,[NYL] Stewart Rebound (Off:2 Def:3),235,4,4,,1627668,,1611661313,49,44,0,3
+08:11,[PHO] Cunningham Foul: Personal (1 PF),-29,24,6,1627668,1629482,101044,1611661317,49,44,0,3
+07:58,[NYL 51-44] Jones Driving Layup Shot: Made (10 PTS),11,15,1,,1627673,,1611661313,51,44,2,3
+07:37,[PHO] Cloud 3pt Shot: Missed,86,246,2,,204333,,1611661317,51,44,0,3
+07:36,[PHO] Cunningham Rebound (Off:1 Def:4),86,246,4,,1629482,,1611661317,51,44,0,3
+07:32,[PHO 47-51] Taurasi 3pt Shot: Made (6 PTS) Assist: Cunningham (1 AST),-107,232,1,,100940,1629482,1611661317,51,47,3,3
+07:16,[NYL 54-47] Ionescu 3pt Shot: Made (18 PTS),53,236,1,,1629477,,1611661313,54,47,3,3
+07:02,[PHO 49-54] Cloud Driving Layup Shot: Made (15 PTS),10,37,1,,204333,,1611661317,54,49,2,3
+06:51,[NYL] Jones 3pt Shot: Missed,-166,183,2,,1627673,,1611661313,54,49,0,3
+06:50,[PHO] Cunningham Rebound (Off:1 Def:5),-166,183,4,,1629482,,1611661317,54,49,0,3
+06:36,[PHO] Taurasi 3pt Shot: Missed,-93,230,2,,100940,,1611661317,54,49,0,3
+06:35,[NYL] Stewart Rebound (Off:2 Def:4),-93,230,4,,1627668,,1611661313,54,49,0,3
+06:29,[NYL] Ionescu Running Jump Shot: Missed,77,40,2,,1629477,,1611661313,54,49,0,3
+06:28,[NYL] Ionescu Rebound (Off:1 Def:2),77,40,4,,1629477,,1611661313,54,49,0,3
+06:22,[NYL] Vandersloot 3pt Shot: Missed,-221,92,2,,202664,,1611661313,54,49,0,3
+06:19,[PHO] Mack Rebound (Off:0 Def:5),-221,92,4,,1630442,,1611661317,54,49,0,3
+06:09,[PHO] Cloud 3pt Shot: Missed,-204,134,2,,204333,,1611661317,54,49,0,3
+06:06,[NYL] Jones Rebound (Off:1 Def:3),-204,134,4,,1627673,,1611661313,54,49,0,3
+05:57,[NYL] Stewart Turnover : Out of Bounds - Bad Pass Turnover (1 TO),216,551,5,,1627668,1629422,1611661313,54,49,0,3
+05:57,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,54,49,0,3
+05:57,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,54,49,0,3
+05:47,[PHO] Copper Turnover : Bad Pass (2 TO) Steal:Sabally (1 ST),-1,48,5,1631055,1627674,,1611661317,54,49,0,3
+05:43,[NYL] Ionescu Turnover : Bad Pass (2 TO) Steal:Cloud (1 ST),76,160,5,204333,1629477,,1611661313,54,49,0,3
+05:27,[PHO 51-54] Copper Pullup Jump shot: Made (9 PTS),-53,118,1,,1627674,,1611661317,54,51,2,3
+05:13,[NYL] Laney-Hamilton Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-158,-11,5,,204335,1629422,1611661313,54,51,0,3
+05:13,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,54,51,0,3
+04:49,[PHO] Team Turnover : Shot Clock Turnover,11,131,5,,0,1629422,1611661317,54,51,0,3
+04:49,[NYL] Laney-Hamilton Substitution replaced by Fiebich,0,-80,8,,204335,1630142,1611661313,54,51,0,3
+04:49,Timeout : Official,0,-80,9,,0,,0,54,51,0,3
+04:44,[PHO] Cloud Foul: Personal (1 PF),37,235,6,1627668,204333,101044,1611661317,54,51,0,3
+04:33,[NYL] Ionescu Pullup Jump shot: Missed,-147,52,2,,1629477,,1611661313,54,51,0,3
+04:32,[PHO] Team Rebound,-147,52,4,,0,,1611661317,54,51,0,3
+04:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,51,0,3
+04:20,[PHO] Cloud Turnover : Bad Pass (1 TO) Steal:Fiebich (1 ST),-99,142,5,1630142,204333,,1611661317,54,51,0,3
+04:11,[NYL] Ionescu 3pt Shot: Missed,-177,155,2,,1629477,,1611661313,54,51,0,3
+04:10,[PHO] Cloud Rebound (Off:0 Def:1),-177,155,4,,204333,,1611661317,54,51,0,3
+03:54,[PHO] Cunningham Turnover : Bad Pass (2 TO) Steal:Stewart (2 ST),-32,39,5,1627668,1629482,,1611661317,54,51,0,3
+03:48,[NYL] Vandersloot 3pt Shot: Missed,229,5,2,,202664,,1611661313,54,51,0,3
+03:47,[NYL] Sabally Rebound (Off:1 Def:2),229,5,4,,1631055,,1611661313,54,51,0,3
+03:39,[PHO] Sutton Foul: Personal (1 PF),72,165,6,1627668,1630134,1641525,1611661317,54,51,0,3
+03:39,[PHO] Cunningham Substitution replaced by Bertsch,0,-80,8,,1629482,1629571,1611661317,54,51,0,3
+03:33,[PHO] Dixon Foul: Shooting (2 PF) (2 FTA),51,16,6,1629477,1641700,101044,1611661317,54,51,0,3
+03:33,[NYL 55-51] Ionescu Free Throw 1 of 2 (19 PTS),0,-80,3,,1629477,,1611661313,55,51,1,3
+03:33,[NYL 56-51] Ionescu Free Throw 2 of 2 (20 PTS),0,-80,3,,1629477,,1611661313,56,51,1,3
+03:20,[NYL] Stewart Foul: Personal (1 PF),-55,49,6,1627674,1627668,1641525,1611661313,56,51,0,3
+03:06,[PHO 53-56] Dixon Turnaround Jump Shot: Made (2 PTS) Assist: Sutton (6 AST),-23,39,1,,1641700,1630134,1611661317,56,53,2,3
+02:57,[NYL] Fiebich 3pt Shot: Missed,148,204,2,,1630142,,1611661313,56,53,0,3
+02:53,[NYL] Sabally Rebound (Off:2 Def:2),148,204,4,,1631055,,1611661313,56,53,0,3
+02:53,[NYL 58-53] Sabally Putback Layup Shot: Made (2 PTS),13,27,1,,1631055,,1611661313,58,53,2,3
+02:45,[PHO 55-58] Cloud Driving Layup Shot: Made (17 PTS),10,28,1,,204333,,1611661317,58,55,2,3
+02:45,[NYL] Ionescu Foul: Shooting (2 PF) (1 FTA),10,28,6,204333,1629477,1629422,1611661313,58,55,0,3
+02:45,[NYL] Sabally Substitution replaced by Laney-Hamilton,0,-80,8,,1631055,204335,1611661313,58,55,0,3
+02:45,[NYL] Vandersloot Substitution replaced by Jones,0,-80,8,,202664,1627673,1611661313,58,55,0,3
+02:45,[PHO] Cloud Free Throw 1 of 1 Missed,0,-80,3,,204333,,1611661317,58,55,0,3
+02:42,[NYL] Ionescu Rebound (Off:1 Def:3),0,-80,4,,1629477,,1611661313,58,55,0,3
+02:33,[NYL] Ionescu 3pt Shot: Missed,129,210,2,,1629477,,1611661313,58,55,0,3
+02:32,[PHO] Sutton Rebound (Off:1 Def:1),129,210,4,,1630134,,1611661317,58,55,0,3
+02:25,[PHO] Dixon Reverse Layup Shot: Missed Block: Jones (2 BLK),15,37,2,1627673,1641700,,1611661317,58,55,0,3
+02:24,[NYL] Jones Rebound (Off:1 Def:4),15,37,4,,1627673,,1611661313,58,55,0,3
+02:07,[NYL] Laney-Hamilton Turnover : Traveling (3 TO),-190,-15,5,,204335,1629422,1611661313,58,55,0,3
+01:55,[PHO 57-58] Copper Driving Layup Shot: Made (11 PTS) Assist: Sutton (7 AST),5,32,1,,1627674,1630134,1611661317,58,57,2,3
+01:42,[NYL] Stewart Turnaround Jump Shot: Missed,84,63,2,,1627668,,1611661313,58,57,0,3
+01:38,[PHO] Dixon Rebound (Off:1 Def:1),84,63,4,,1641700,,1611661317,58,57,0,3
+01:31,[PHO] Sutton Driving Floating Bank Jump Shot: Missed,-73,77,2,,1630134,,1611661317,58,57,0,3
+01:28,[NYL] Stewart Rebound (Off:2 Def:5),-73,77,4,,1627668,,1611661313,58,57,0,3
+01:19,[NYL] Jones 3pt Shot: Missed,71,232,2,,1627673,,1611661313,58,57,0,3
+01:18,[PHO] Copper Rebound (Off:2 Def:5),71,232,4,,1627674,,1611661317,58,57,0,3
+01:12,[PHO] Copper 3pt Shot: Missed,47,237,2,,1627674,,1611661317,58,57,0,3
+01:11,[PHO] Bertsch Rebound (Off:1 Def:1),47,237,4,,1629571,,1611661317,58,57,0,3
+01:03,[PHO 59-58] Copper Cutting Layup Shot: Made (13 PTS) Assist: Dixon (3 AST),12,31,1,,1627674,1641700,1611661317,58,59,2,3
+01:03,Timeout : Regular,0,-80,9,,1611661313,,1611661313,58,59,0,3
+01:03,[NYL] Fiebich Substitution replaced by Vandersloot,0,-80,8,,1630142,202664,1611661313,58,59,0,3
+01:03,[NYL] Ionescu Substitution replaced by Thornton,0,-80,8,,1629477,203866,1611661313,58,59,0,3
+01:03,[PHO] Dixon Substitution replaced by Taurasi,0,-80,8,,1641700,100940,1611661317,58,59,0,3
+01:03,[PHO] Bertsch Substitution replaced by Mack,0,-80,8,,1629571,1630442,1611661317,58,59,0,3
+00:45.8,[NYL] Vandersloot Turnover : Bad Pass (1 TO) Steal:Taurasi (1 ST),-130,91,5,100940,202664,,1611661313,58,59,0,3
+00:31.4,[PHO] Copper Turnaround Jump Shot: Missed,-37,83,2,,1627674,,1611661317,58,59,0,3
+00:30.2,[NYL] Jones Rebound (Off:1 Def:5),-37,83,4,,1627673,,1611661313,58,59,0,3
+00:23.5,[NYL 60-59] Vandersloot Running Layup Shot: Made (5 PTS),24,17,1,,202664,,1611661313,60,59,2,3
+00:00.0,End Period,0,-80,13,,0,,0,60,59,0,3
+10:00,Start Period,0,-80,12,,0,,0,60,59,0,4
+09:42,[PHO] Sutton Foul: Personal (2 PF),9,60,6,1627668,1630134,1641525,1611661317,60,59,0,4
+09:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,59,0,4
+09:29,[NYL] Vandersloot Driving Layup Shot: Missed,-19,8,2,,202664,,1611661313,60,59,0,4
+09:28,[NYL] Jones Rebound (Off:2 Def:5),-19,8,4,,1627673,,1611661313,60,59,0,4
+09:23,[NYL] Stewart 3pt Shot: Missed,-112,214,2,,1627668,,1611661313,60,59,0,4
+09:22,[PHO] Sutton Rebound (Off:1 Def:2),-112,214,4,,1630134,,1611661317,60,59,0,4
+09:05,[NYL] Stewart Foul: Personal (2 PF),228,91,6,1629482,1627668,101044,1611661313,60,59,0,4
+09:05,[PHO] Mack Substitution replaced by Bertsch,0,-80,8,,1630442,1629571,1611661317,60,59,0,4
+08:57,[PHO] Cloud 3pt Shot: Missed,-156,205,2,,204333,,1611661317,60,59,0,4
+08:56,[NYL] Thornton Rebound (Off:0 Def:1),-156,205,4,,203866,,1611661313,60,59,0,4
+08:41,[NYL] Laney-Hamilton Driving Layup Shot: Missed,-28,9,2,,204335,,1611661313,60,59,0,4
+08:40,[PHO] Team Rebound,-28,9,4,,0,,1611661317,60,59,0,4
+08:40,[NYL] Laney-Hamilton Foul: Loose Ball (1 PF),8,818,6,1629571,204335,101044,1611661313,60,59,0,4
+08:40,InstantReplay Request Stands,0,-80,18,,0,,0,60,59,0,4
+08:40,[NYL] Vandersloot Substitution replaced by Ionescu,0,-80,8,,202664,1629477,1611661313,60,59,0,4
+08:29,[PHO 62-60] Taurasi 3pt Shot: Made (9 PTS) Assist: Cloud (3 AST),-56,246,1,,100940,204333,1611661317,60,62,3,4
+08:12,[NYL] Ionescu 3pt Shot: Missed,87,225,2,,1629477,,1611661313,60,62,0,4
+08:11,[PHO] Team Rebound,87,225,4,,0,,1611661317,60,62,0,4
+08:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,62,0,4
+07:57,[PHO] Bertsch Driving Layup Shot: Missed Block: Laney-Hamilton (1 BLK),-13,35,2,204335,1629571,,1611661317,60,62,0,4
+07:56,[PHO] Taurasi Rebound (Off:1 Def:2),-13,35,4,,100940,,1611661317,60,62,0,4
+07:52,[PHO 65-60] Taurasi 3pt Shot: Made (12 PTS),-122,228,1,,100940,,1611661317,60,65,3,4
+07:26,[NYL] Thornton 3pt Shot: Missed,-229,33,2,,203866,,1611661313,60,65,0,4
+07:25,[PHO] Taurasi Rebound (Off:1 Def:3),-229,33,4,,100940,,1611661317,60,65,0,4
+07:09,[PHO] Cloud Turnover : Bad Pass (2 TO) Steal:Laney-Hamilton (1 ST),-23,184,5,204335,204333,,1611661317,60,65,0,4
+07:05,[NYL 62-65] Laney-Hamilton Running Layup Shot: Made (11 PTS),-13,13,1,,204335,,1611661313,62,65,2,4
+07:04,Timeout : Regular,0,-80,9,,1611661317,,1611661317,62,65,0,4
+07:04,[PHO] Cloud Substitution replaced by Copper,0,-80,8,,204333,1627674,1611661317,62,65,0,4
+06:44,[NYL] Laney-Hamilton Foul: Personal (2 PF),-138,217,6,1627674,204335,1629422,1611661313,62,65,0,4
+06:37,[PHO] Copper 3pt Shot: Missed,191,179,2,,1627674,,1611661317,62,65,0,4
+06:36,[NYL] Thornton Rebound (Off:0 Def:2),191,179,4,,203866,,1611661313,62,65,0,4
+06:25,[NYL 64-65] Jones Reverse Layup Shot: Made (12 PTS) Assist: Laney-Hamilton (3 AST),12,17,1,,1627673,204335,1611661313,64,65,2,4
+06:25,[PHO] Bertsch Foul: Shooting (2 PF) (1 FTA),12,17,6,1627673,1629571,1641525,1611661317,64,65,0,4
+06:25,[PHO] Taurasi Substitution replaced by Cloud,0,-80,8,,100940,204333,1611661317,64,65,0,4
+06:25,[NYL 65-65] Jones Free Throw 1 of 1 (13 PTS),0,-80,3,,1627673,,1611661313,65,65,1,4
+06:06,"Double Technical - Thornton, Sutton",0,-80,6,1630134,203866,101044,1611661313,65,65,0,4
+06:06,Jump Ball Laney-Hamilton vs Bertsch (Ionescu gains possession),0,-80,10,1629571,204335,1629477,1611661313,65,65,0,4
+06:03,[PHO] Bertsch Turnover : Lost Ball (2 TO) Steal:Laney-Hamilton (2 ST),0,-80,5,204335,1629571,,1611661317,65,65,0,4
+06:02,[PHO] Cloud Foul: Personal (2 PF),218,85,6,1629477,204333,1629422,1611661317,65,65,0,4
+06:02,[PHO] Bertsch Substitution replaced by Dixon,0,-80,8,,1629571,1641700,1611661317,65,65,0,4
+05:58,[NYL] Stewart Cutting Layup Shot: Missed,-24,10,2,,1627668,,1611661313,65,65,0,4
+05:57,[NYL] Stewart Rebound (Off:3 Def:5),-24,10,4,,1627668,,1611661313,65,65,0,4
+05:56,[PHO] Copper Foul: Shooting (3 PF) (2 FTA),-4,26,6,1627668,1627674,101044,1611661317,65,65,0,4
+05:56,[NYL 66-65] Stewart Free Throw 1 of 2 (12 PTS),0,-80,3,,1627668,,1611661313,66,65,1,4
+05:56,[NYL 67-65] Stewart Free Throw 2 of 2 (13 PTS),0,-80,3,,1627668,,1611661313,67,65,1,4
+05:34,[PHO] Cunningham 3pt Shot: Missed,-110,241,2,,1629482,,1611661317,67,65,0,4
+05:33,[NYL] Laney-Hamilton Rebound (Off:0 Def:3),-110,241,4,,204335,,1611661313,67,65,0,4
+05:18,[NYL 69-65] Jones Cutting Layup Shot: Made (15 PTS) Assist: Ionescu (8 AST),-16,10,1,,1627673,1629477,1611661313,69,65,2,4
+05:17,Timeout : Regular,0,-80,9,,1611661317,,1611661317,69,65,0,4
+05:17,[PHO] Sutton Substitution replaced by Taurasi,0,-80,8,,1630134,100940,1611661317,69,65,0,4
+05:17,[PHO] Dixon Substitution replaced by Mack,0,-80,8,,1641700,1630442,1611661317,69,65,0,4
+05:03,[NYL] Laney-Hamilton Foul: Shooting (3 PF) (2 FTA),15,33,6,1627674,204335,1629422,1611661313,69,65,0,4
+05:03,Timeout : Regular,0,-80,9,,1611661313,,1611661313,69,65,0,4
+05:03,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661313,69,65,0,4
+05:03,[PHO 66-69] Copper Free Throw 1 of 2 (14 PTS),0,-80,3,,1627674,,1611661317,69,66,1,4
+05:03,[PHO 67-69] Copper Free Throw 2 of 2 (15 PTS),0,-80,3,,1627674,,1611661317,69,67,1,4
+04:51,[NYL] Ionescu Turnover : Bad Pass (3 TO) Steal:Copper (1 ST),13,54,5,1627674,1629477,,1611661313,69,67,0,4
+04:46,[NYL] Ionescu Foul: Personal (3 PF) (2 FTA),-120,131,6,1627674,1629477,1641525,1611661313,69,67,0,4
+04:46,[PHO 68-69] Copper Free Throw 1 of 2 (16 PTS),0,-80,3,,1627674,,1611661317,69,68,1,4
+04:46,[PHO] Copper Free Throw 2 of 2 Missed,0,-80,3,,1627674,,1611661317,69,68,0,4
+04:45,[PHO] Copper Rebound (Off:3 Def:5),0,-80,4,,1627674,,1611661317,69,68,0,4
+04:28,[PHO 70-69] Cloud Driving Layup Shot: Made (19 PTS),21,35,1,,204333,,1611661317,69,70,2,4
+04:13,[NYL] Ionescu 3pt Shot: Missed,144,219,2,,1629477,,1611661313,69,70,0,4
+04:12,[PHO] Mack Rebound (Off:0 Def:6),144,219,4,,1630442,,1611661317,69,70,0,4
+03:48,[PHO] Team Turnover : Shot Clock Turnover,-24,39,5,,0,1629422,1611661317,69,70,0,4
+03:48,[NYL] Thornton Substitution replaced by Vandersloot,0,-80,8,,203866,202664,1611661313,69,70,0,4
+03:36,[NYL] Stewart Turnover : Bad Pass (2 TO) Steal:Copper (2 ST),-95,250,5,1627674,1627668,,1611661313,69,70,0,4
+03:32,[PHO 72-69] Copper Running Layup Shot: Made (18 PTS),4,33,1,,1627674,,1611661317,69,72,2,4
+03:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,72,0,4
+03:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,72,0,4
+03:09,[PHO] Taurasi Foul: Shooting (2 PF) (2 FTA),-78,173,6,204335,100940,1629422,1611661317,69,72,0,4
+03:09,[NYL 70-72] Laney-Hamilton Free Throw 1 of 2 (12 PTS),0,-80,3,,204335,,1611661313,70,72,1,4
+03:09,[NYL 71-72] Laney-Hamilton Free Throw 2 of 2 (13 PTS),0,-80,3,,204335,,1611661313,71,72,1,4
+02:54,[NYL] Jones Foul: Personal (3 PF) (2 FTA),-34,82,6,100940,1627673,1629422,1611661313,71,72,0,4
+02:54,[PHO 73-71] Taurasi Free Throw 1 of 2 (13 PTS),0,-80,3,,100940,,1611661317,71,73,1,4
+02:54,[PHO 74-71] Taurasi Free Throw 2 of 2 (14 PTS),0,-80,3,,100940,,1611661317,71,74,1,4
+02:42,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-167,165,5,,1629477,101044,1611661313,71,74,0,4
+02:42,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661317,71,74,0,4
+02:42,Timeout : Regular,0,-80,9,,1611661317,,1611661317,71,74,0,4
+02:26,[PHO] Copper Pullup Jump shot: Missed,-129,123,2,,1627674,,1611661317,71,74,0,4
+02:25,[NYL] Ionescu Rebound (Off:1 Def:4),-129,123,4,,1629477,,1611661313,71,74,0,4
+02:12,[NYL 73-74] Jones Layup Shot: Made (17 PTS) Assist: Ionescu (9 AST),1,8,1,,1627673,1629477,1611661313,73,74,2,4
+01:58,[PHO] Copper Turnover : Bad Pass (3 TO) Steal:Vandersloot (1 ST),-128,231,5,202664,1627674,,1611661317,73,74,0,4
+01:54,[PHO] Copper Foul: Shooting (4 PF) (2 FTA),20,17,6,202664,1627674,1629422,1611661317,73,74,0,4
+01:54,[NYL 74-74] Vandersloot Free Throw 1 of 2 (6 PTS),0,-80,3,,202664,,1611661313,74,74,1,4
+01:54,[NYL] Vandersloot Free Throw 2 of 2 Missed,0,-80,3,,202664,,1611661313,74,74,0,4
+01:53,[PHO] Cloud Rebound (Off:0 Def:2),0,-80,4,,204333,,1611661317,74,74,0,4
+01:33,[PHO] Cunningham 3pt Shot: Missed Block: Vandersloot (2 BLK),-146,211,2,202664,1629482,,1611661317,74,74,0,4
+01:32,[NYL] Ionescu Rebound (Off:1 Def:5),-146,211,4,,1629477,,1611661313,74,74,0,4
+01:25,Timeout : Regular,0,-80,9,,1611661317,,1611661317,74,74,0,4
+01:25,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661317,74,74,0,4
+01:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,74,0,4
+01:09,[PHO] Mack Foul: Shooting (1 PF) (2 FTA),50,63,6,1627673,1630442,101044,1611661317,74,74,0,4
+01:09,[NYL 75-74] Jones Free Throw 1 of 2 (18 PTS),0,-80,3,,1627673,,1611661313,75,74,1,4
+01:09,[NYL 76-74] Jones Free Throw 2 of 2 (19 PTS),0,-80,3,,1627673,,1611661313,76,74,1,4
+00:54.5,[PHO] Copper Driving Layup Shot: Missed,17,29,2,,1627674,,1611661317,76,74,0,4
+00:53.3,[NYL] Laney-Hamilton Rebound (Off:0 Def:4),17,29,4,,204335,,1611661313,76,74,0,4
+00:30.8,[NYL 78-74] Laney-Hamilton Pullup Jump shot: Made (15 PTS) Assist: Stewart (2 AST),21,151,1,,204335,1627668,1611661313,78,74,2,4
+00:30.8,Timeout : Reset,0,-80,9,,1611661317,,1611661317,78,74,0,4
+00:25.3,[PHO] Copper Turnover : Out of Bounds Lost Ball Turnover (4 TO),62,15,5,,1627674,1629422,1611661317,78,74,0,4
+00:25.3,Timeout : Regular,0,-80,9,,1611661313,,1611661313,78,74,0,4
+00:25.3,[PHO] Mack Substitution replaced by Bertsch,0,-80,8,,1630442,1629571,1611661317,78,74,0,4
+00:24.6,[PHO] Cloud Foul: Personal (3 PF) (2 FTA),227,85,6,1629477,204333,1629422,1611661317,78,74,0,4
+00:24.6,[NYL 79-74] Ionescu Free Throw 1 of 2 (21 PTS),0,-80,3,,1629477,,1611661313,79,74,1,4
+00:24.6,[NYL 80-74] Ionescu Free Throw 2 of 2 (22 PTS),0,-80,3,,1629477,,1611661313,80,74,1,4
+00:17.1,[NYL] Laney-Hamilton Foul: Personal (4 PF) (2 FTA),43,114,6,1627674,204335,101044,1611661313,80,74,0,4
+00:17.1,[PHO 75-80] Copper Free Throw 1 of 2 (19 PTS),0,-80,3,,1627674,,1611661317,80,75,1,4
+00:17.1,[PHO 76-80] Copper Free Throw 2 of 2 (20 PTS),0,-80,3,,1627674,,1611661317,80,76,1,4
+00:17.1,Timeout : Reset,0,-80,9,,1611661313,,1611661313,80,76,0,4
+00:14.4,[PHO] Cloud Foul: Personal (4 PF) (2 FTA),210,107,6,1627673,204333,101044,1611661317,80,76,0,4
+00:14.4,[NYL 81-76] Jones Free Throw 1 of 2 (20 PTS),0,-80,3,,1627673,,1611661313,81,76,1,4
+00:14.4,[NYL] Jones Free Throw 2 of 2 Missed,0,-80,3,,1627673,,1611661313,81,76,0,4
+00:13.2,[PHO] Copper Rebound (Off:3 Def:6),0,-80,4,,1627674,,1611661317,81,76,0,4
+00:00.8,[PHO 78-81] Cloud Driving Finger Roll Layup Shot: Made (21 PTS) Assist: Copper (2 AST),5,29,1,,204333,1627674,1611661317,81,78,2,4
+00:00.0,End Period,0,-80,13,,0,,0,81,78,0,4

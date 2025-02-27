@@ -1,0 +1,393 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Jones vs Hatar (Thomas gains possession),0,-80,10,1630043,1627673,202662,1611661323,0,0,1
+09:44,[CON] Jones Cutting Layup Shot: Missed,-1,7,2,,1628280,,1611661323,0,0,1
+09:42,[IND] Lavender Rebound (Off:0 Def:1),-1,7,4,,202650,,1611661325,0,0,1
+09:36,[IND 2-0] Hatar Layup Shot: Made (2 PTS) Assist: Lavender (1 AST),2,10,1,,1630043,202650,1611661325,2,0,1
+09:17,[CON 2-2] Jones Driving Reverse Layup Shot: Made (2 PTS),11,15,1,,1627673,,1611661323,2,2,1
+08:59,[IND 4-2] Robinson Turnaround Jump Shot: Made (2 PTS) Assist: Lavender (2 AST),-31,-1,1,,202658,202650,1611661325,4,2,1
+08:40,[CON 4-4] Jones Driving Reverse Layup Shot: Made (2 PTS),14,-12,1,,1628280,,1611661323,4,4,1
+08:14,[IND 6-4] Mitchell Pullup Jump shot: Made (2 PTS),-136,126,1,,1628909,,1611661325,6,4,1
+07:59,[IND] Hatar Foul: Personal (1 PF),-6,5,6,201896,1630043,,1611661325,6,4,1
+07:51,[CON] Bonner Turnover : Bad Pass (1 TO) Steal:Robinson (1 ST),-3,264,5,202658,201886,,1611661323,6,4,1
+07:48,[IND 8-4] Mitchell Running Finger Roll Layup Shot: Made (2 PTS) Assist: Robinson (1 AST),0,25,1,,1627676,202658,1611661325,8,4,1
+07:32,[CON] Jones Layup Shot: Missed,3,18,2,,1628280,,1611661323,8,4,1
+07:30,[CON] Jones Rebound (Off:1 Def:0),3,18,4,,1628280,,1611661323,8,4,1
+07:30,[CON 6-8] Jones Putback Layup Shot: Made (4 PTS),0,-5,1,,1628280,,1611661323,8,6,1
+07:16,[CON] Jones Foul: Shooting (1 PF) (2 FTA),1,11,6,1627676,1628280,,1611661323,8,6,1
+07:16,[IND 9-6] Mitchell Free Throw 1 of 2 (3 PTS),0,-80,3,,1627676,,1611661325,9,6,1
+07:16,[IND 10-6] Mitchell Free Throw 2 of 2 (4 PTS),0,-80,3,,1627676,,1611661325,10,6,1
+06:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,6,1
+06:59,[CON] Jones Substitution replaced by Mompremier,0,-80,8,,1627673,1629492,1611661323,10,6,1
+06:54,[CON] Bonner Turnover : Lost Ball (2 TO) Steal:Hatar (1 ST),-30,171,5,1630043,201886,,1611661323,10,6,1
+06:37,[IND] Mitchell Turnover : Lost Ball (1 TO) Steal:Mompremier (1 ST),109,293,5,1629492,1628909,,1611661325,10,6,1
+06:34,[CON 8-10] Bonner Running Layup Shot: Made (2 PTS) Assist: January (1 AST),8,7,1,,201886,201896,1611661323,10,8,1
+06:11,[IND] Robinson Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),87,182,5,1628280,202658,,1611661325,10,8,1
+06:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,8,1
+06:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,8,1
+06:00,[CON] Thomas 3pt Shot: Missed,221,105,2,,202662,,1611661323,10,8,1
+05:56,[CON] Jones Rebound (Off:2 Def:0),221,105,4,,1628280,,1611661323,10,8,1
+05:49,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),97,70,5,,202662,,1611661323,10,8,1
+05:37,[IND] Hatar Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),98,244,5,202662,1630043,,1611661325,10,8,1
+05:35,[CON 10-10] Thomas Driving Finger Roll Layup Shot: Made (2 PTS),3,15,1,,202662,,1611661323,10,10,1
+05:12,[IND] Hatar Jump Shot: Missed,-167,-5,2,,1630043,,1611661325,10,10,1
+05:10,[CON] Bonner Rebound (Off:0 Def:1),-167,-5,4,,201886,,1611661323,10,10,1
+05:02,[CON] Bonner Driving Layup Shot: Missed,13,6,2,1630043,201886,,1611661323,10,10,1
+05:00,[CON] Bonner Rebound (Off:1 Def:1),13,6,4,,201886,,1611661323,10,10,1
+04:58,[CON 12-10] Bonner Putback Layup Shot: Made (4 PTS),-7,8,1,,201886,,1611661323,10,12,1
+04:46,[IND] Mitchell 3pt Shot: Missed,-189,165,2,,1627676,,1611661325,10,12,1
+04:44,[CON] January Rebound (Off:0 Def:1),-189,165,4,,201896,,1611661323,10,12,1
+04:41,[CON 14-10] Bonner Running Layup Shot: Made (6 PTS) Assist: January (2 AST),10,11,1,,201886,201896,1611661323,10,14,1
+04:41,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,10,14,1
+04:41,[IND] Mitchell Substitution replaced by McCowan,0,-80,8,,1627676,1629479,1611661325,10,14,1
+04:41,[IND] Hatar Substitution replaced by Vivians,0,-80,8,,1630043,1628927,1611661325,10,14,1
+04:41,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,10,14,1
+04:27,[IND 12-14] McCowan Layup Shot: Made (2 PTS) Assist: Lavender (3 AST),6,11,1,,1629479,202650,1611661325,12,14,1
+04:05,[CON] Jones Turnaround Jump Shot: Missed,-22,44,2,,1628280,,1611661323,12,14,1
+04:03,[CON] Hiedeman Rebound (Off:1 Def:0),-22,44,4,,1629567,,1611661323,12,14,1
+03:59,[CON 17-12] Hiedeman 3pt Shot: Made (3 PTS),-206,140,1,,1629567,,1611661323,12,17,1
+03:45,[IND] Lavender Turnover : Out of Bounds - Bad Pass Turnover (1 TO),58,214,5,,202650,,1611661325,12,17,1
+03:30,[IND] McCowan Foul: Shooting (1 PF) (2 FTA),-4,50,6,1628280,1629479,,1611661325,12,17,1
+03:30,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,12,17,1
+03:30,[CON] Team Rebound,0,-80,4,,0,,1611661323,12,17,1
+03:30,[IND] Robinson Substitution replaced by Perry,0,-80,8,,202658,1630437,1611661325,12,17,1
+03:30,[IND] Lavender Substitution replaced by Allen,0,-80,8,,202650,1628263,1611661325,12,17,1
+03:30,[CON 18-12] Jones Free Throw 2 of 2 (5 PTS),0,-80,3,,1628280,,1611661323,12,18,1
+03:14,[IND 14-18] Perry Driving Layup Shot: Made (2 PTS) Assist: Vivians (1 AST),14,14,1,,1630437,1628927,1611661325,14,18,1
+02:57,[CON] Jones Turnover : Bad Pass (1 TO) Steal:Vivians (1 ST),86,223,5,1628927,1628280,,1611661323,14,18,1
+02:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,18,1
+02:49,[CON] Mompremier Substitution replaced by Jones,0,-80,8,,1629492,1627673,1611661323,14,18,1
+02:39,[IND] Vivians Turnover : Traveling (1 TO),61,89,5,,1628927,,1611661325,14,18,1
+02:17,[CON] Hiedeman Driving Floating Bank Jump Shot: Missed,-25,19,2,,1629567,,1611661323,14,18,1
+02:14,[IND] McCowan Rebound (Off:0 Def:1),-25,19,4,,1629479,,1611661325,14,18,1
+02:10,[IND] Vivians 3pt Shot: Missed,-234,-12,2,,1628927,,1611661325,14,18,1
+02:06,[IND] Vivians Rebound (Off:1 Def:0),-234,-12,4,,1628927,,1611661325,14,18,1
+02:04,[IND] Perry Jump Shot: Missed,39,57,2,1627673,1630437,,1611661325,14,18,1
+02:00,[CON] Jones Rebound (Off:2 Def:1),39,57,4,,1628280,,1611661323,14,18,1
+01:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,18,1
+01:44,[IND] Perry Foul: Shooting (1 PF) (2 FTA),10,39,6,1627673,1630437,,1611661325,14,18,1
+01:44,[CON 19-14] Jones Free Throw 1 of 2 (3 PTS),0,-80,3,,1627673,,1611661323,14,19,1
+01:44,[IND] Mitchell Substitution replaced by Gondrezick,0,-80,8,,1628909,1630438,1611661325,14,19,1
+01:44,[CON] January Substitution replaced by Thomas,0,-80,8,,201896,202662,1611661323,14,19,1
+01:44,[CON 20-14] Jones Free Throw 2 of 2 (4 PTS),0,-80,3,,1627673,,1611661323,14,20,1
+01:27,[IND] McCowan Turnaround Fadeaway shot: Missed,70,48,2,,1629479,,1611661325,14,20,1
+01:25,[CON] Hiedeman Rebound (Off:1 Def:1),70,48,4,,1629567,,1611661323,14,20,1
+01:21,[CON 22-14] Jones Running Layup Shot: Made (6 PTS) Assist: Hiedeman (1 AST),0,8,1,,1627673,1629567,1611661323,14,22,1
+01:21,[IND] Perry Foul: Shooting (2 PF) (1 FTA),0,8,6,1627673,1630437,,1611661325,14,22,1
+01:21,[IND] Perry Substitution replaced by Hatar,0,-80,8,,1630437,1630043,1611661325,14,22,1
+01:21,[CON] Bonner Substitution replaced by Charles,0,-80,8,,201886,1630097,1611661323,14,22,1
+01:21,[CON 23-14] Jones Free Throw 1 of 1 (7 PTS),0,-80,3,,1627673,,1611661323,14,23,1
+01:08,[IND] Allen Turnover : Bad Pass (1 TO) Steal:Hiedeman (1 ST),-121,146,5,1629567,1628263,,1611661325,14,23,1
+01:03,[CON 26-14] Jones 3pt Shot: Made (10 PTS) Assist: Hiedeman (2 AST),-146,211,1,,1627673,1629567,1611661323,14,26,1
+00:39.6,[IND] Vivians 3pt Shot: Missed,1,257,2,,1628927,,1611661325,14,26,1
+00:36.5,[IND] McCowan Rebound (Off:1 Def:1),1,257,4,,1629479,,1611661325,14,26,1
+00:36.5,[IND 16-26] McCowan Putback Layup Shot: Made (4 PTS),0,-5,1,,1629479,,1611661325,16,26,1
+00:25.5,[CON] Hiedeman 3pt Shot: Missed,65,246,2,,1629567,,1611661323,16,26,1
+00:22.0,[IND] Allen Rebound (Off:0 Def:1),65,246,4,,1628263,,1611661325,16,26,1
+00:07.2,[CON] Hiedeman Foul: Personal Take (1 PF),22,320,6,1628263,1629567,,1611661323,16,26,1
+00:01.9,[CON] Jones Foul: Shooting (1 PF) (2 FTA),41,47,6,1629479,1627673,,1611661323,16,26,1
+00:01.9,[IND 17-26] McCowan Free Throw 1 of 2 (5 PTS),0,-80,3,,1629479,,1611661325,17,26,1
+00:01.9,[IND] McCowan Free Throw 2 of 2 Missed,0,-80,3,,1629479,,1611661325,17,26,1
+00:00.8,[CON] Jones Rebound (Off:0 Def:1),0,-80,4,,1627673,,1611661323,17,26,1
+00:00.0,End Period,0,-80,13,,0,,0,17,26,1
+10:00,Start Period,0,-80,12,,0,,0,17,26,2
+09:47,[IND 19-26] Allen Pullup Jump shot: Made (2 PTS),3,79,1,,1628263,,1611661325,19,26,2
+09:31,[CON] Jones 3pt Shot: Missed,-173,183,2,,1627673,,1611661323,19,26,2
+09:27,[IND] McCowan Rebound (Off:1 Def:2),-173,183,4,,1629479,,1611661325,19,26,2
+09:12,[CON] Charles Foul: Shooting (1 PF) (2 FTA),47,69,6,1627676,1630097,,1611661323,19,26,2
+09:12,[IND] Mitchell Free Throw 1 of 2 Missed,0,-80,3,,1627676,,1611661325,19,26,2
+09:12,[IND] Team Rebound,0,-80,4,,0,,1611661325,19,26,2
+09:12,[IND 20-26] Mitchell Free Throw 2 of 2 (5 PTS),0,-80,3,,1627676,,1611661325,20,26,2
+09:00,[CON] Jones 3pt Shot: Missed,206,163,2,,1627673,,1611661323,20,26,2
+08:56,[IND] Gondrezick Rebound (Off:0 Def:1),206,163,4,,1630438,,1611661325,20,26,2
+08:56,[CON] Jones Foul: Personal (2 PF),36,267,6,1630043,1627673,,1611661323,20,26,2
+08:49,[IND] Hatar Turnover : Bad Pass (2 TO),47,264,5,,1630043,,1611661325,20,26,2
+08:49,[IND] Allen Foul: Loose Ball (1 PF),-209,520,6,1629567,1628263,,1611661325,20,26,2
+08:36,[CON 28-20] Charles Driving Layup Shot: Made (2 PTS) Assist: Jones (1 AST),-9,28,1,,1630097,1627673,1611661323,20,28,2
+08:25,[CON] Thomas Foul: Personal (1 PF),-70,272,6,1628263,202662,,1611661323,20,28,2
+08:20,[IND 22-28] Mitchell Driving Floating Jump Shot: Made (7 PTS) Assist: Allen (1 AST),-14,40,1,,1627676,1628263,1611661325,22,28,2
+08:05,[CON] Hiedeman Turnover : Bad Pass (1 TO) Steal:Allen (1 ST),-23,11,5,1628263,1629567,,1611661323,22,28,2
+08:00,[IND] Allen Running Layup Shot: Missed,3,4,2,,1628263,,1611661325,22,28,2
+07:59,[CON] Team Rebound,3,4,4,,0,,1611661323,22,28,2
+07:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,28,2
+07:40,[IND] McCowan Foul: Shooting (2 PF) (2 FTA),16,8,6,202662,1629479,,1611661325,22,28,2
+07:40,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202662,,1611661323,22,28,2
+07:40,[CON] Team Rebound,0,-80,4,,0,,1611661323,22,28,2
+07:40,[IND] Gondrezick Substitution replaced by Mitchell,0,-80,8,,1630438,1628909,1611661325,22,28,2
+07:40,[IND] Hatar Substitution replaced by Lavender,0,-80,8,,1630043,202650,1611661325,22,28,2
+07:40,[CON] Hiedeman Substitution replaced by January,0,-80,8,,1629567,201896,1611661323,22,28,2
+07:40,[CON] Charles Substitution replaced by Bonner,0,-80,8,,1630097,201886,1611661323,22,28,2
+07:40,[CON 29-22] Thomas Free Throw 2 of 2 (3 PTS),0,-80,3,,202662,,1611661323,22,29,2
+07:21,[IND 24-29] Allen Driving Layup Shot: Made (4 PTS) Assist: Lavender (4 AST),3,-1,1,,1628263,202650,1611661325,24,29,2
+07:06,[CON] Jones Layup Shot: Missed,21,1,2,,1628280,,1611661323,24,29,2
+07:04,[IND] McCowan Rebound (Off:1 Def:3),21,1,4,,1629479,,1611661325,24,29,2
+06:52,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,29,2
+06:44,[CON] Thomas Foul: Shooting (2 PF) (2 FTA),31,13,6,1628909,202662,,1611661323,24,29,2
+06:44,[IND 25-29] Mitchell Free Throw 1 of 2 (3 PTS),0,-80,3,,1628909,,1611661325,25,29,2
+06:44,[IND 26-29] Mitchell Free Throw 2 of 2 (4 PTS),0,-80,3,,1628909,,1611661325,26,29,2
+06:26,[CON 31-26] Jones Layup Shot: Made (7 PTS),13,7,1,,1628280,,1611661323,26,31,2
+06:15,[CON] Thomas Violation:Kicked Ball,0,-80,7,,202662,,1611661323,26,31,2
+06:05,[IND] Allen Pullup Jump shot: Missed,76,182,2,,1628263,,1611661325,26,31,2
+06:01,[CON] Jones Rebound (Off:0 Def:2),76,182,4,,1627673,,1611661323,26,31,2
+05:50,[CON 33-26] Jones Driving Finger Roll Layup Shot: Made (9 PTS) Assist: Bonner (1 AST),2,17,1,,1628280,201886,1611661323,26,33,2
+05:35,[IND] Allen Turnover : Bad Pass (2 TO) Steal:Jones (2 ST),-87,146,5,1628280,1628263,,1611661325,26,33,2
+05:29,[CON 36-26] Bonner 3pt Shot: Made (9 PTS) Assist: Thomas (1 AST),-219,145,1,,201886,202662,1611661323,26,36,2
+05:17,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,26,36,2
+05:17,[IND] Allen Substitution replaced by Robinson,0,-80,8,,1628263,202658,1611661325,26,36,2
+05:17,[IND] McCowan Substitution replaced by Hatar,0,-80,8,,1629479,1630043,1611661325,26,36,2
+05:03,[CON] January Foul: Personal (1 PF) (2 FTA),-36,169,6,1628909,201896,,1611661323,26,36,2
+05:03,[IND 27-36] Mitchell Free Throw 1 of 2 (5 PTS),0,-80,3,,1628909,,1611661325,27,36,2
+05:03,[IND 28-36] Mitchell Free Throw 2 of 2 (6 PTS),0,-80,3,,1628909,,1611661325,28,36,2
+04:52,[CON 38-28] Jones Jump Shot: Made (11 PTS) Assist: Thomas (2 AST),-121,110,1,,1628280,202662,1611661323,28,38,2
+04:34,[IND] Hatar Turnover : Bad Pass (3 TO) Steal:Jones (1 ST),85,161,5,1627673,1630043,,1611661325,28,38,2
+04:26,[IND] Hatar Foul: Shooting (2 PF) (2 FTA),-46,34,6,1627673,1630043,,1611661325,28,38,2
+04:26,[CON 39-28] Jones Free Throw 1 of 2 (11 PTS),0,-80,3,,1627673,,1611661323,28,39,2
+04:26,[CON 40-28] Jones Free Throw 2 of 2 (12 PTS),0,-80,3,,1627673,,1611661323,28,40,2
+04:04,[IND] Robinson Floating Jump shot: Missed,146,10,2,,202658,,1611661325,28,40,2
+04:03,[IND] Team Rebound,146,10,4,,0,,1611661325,28,40,2
+04:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,40,2
+04:01,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Jones (3 ST),-106,-28,5,1628280,1627676,,1611661325,28,40,2
+03:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,40,2
+03:37,[CON 42-28] Thomas Turnaround Fadeaway shot: Made (5 PTS),3,59,1,,202662,,1611661323,28,42,2
+03:24,[IND 31-42] Mitchell 3pt Shot: Made (10 PTS) Assist: Hatar (1 AST),153,204,1,,1627676,1630043,1611661325,31,42,2
+03:10,[CON] January Pullup Jump shot: Missed,105,167,2,,201896,,1611661323,31,42,2
+03:06,[CON] Jones Rebound (Off:3 Def:1),105,167,4,,1628280,,1611661323,31,42,2
+03:06,[CON 44-31] Jones Putback Layup Shot: Made (13 PTS),-7,6,1,,1628280,,1611661323,31,44,2
+02:53,[IND] Lavender Layup Shot: Missed,-16,-2,2,1627673,202650,,1611661325,31,44,2
+02:51,[CON] January Rebound (Off:0 Def:2),-16,-2,4,,201896,,1611661323,31,44,2
+02:47,[CON] Thomas 3pt Shot: Missed,230,44,2,,202662,,1611661323,31,44,2
+02:43,[CON] Jones Rebound (Off:4 Def:1),230,44,4,,1628280,,1611661323,31,44,2
+02:41,[CON] Thomas Jump Shot: Missed,9,44,2,,202662,,1611661323,31,44,2
+02:41,[IND] Team Rebound,9,44,4,,0,,1611661325,31,44,2
+02:40,Timeout Officials,0,-80,9,,0,,0,31,44,2
+02:40,[IND] Hatar Substitution replaced by McCowan,0,-80,8,,1630043,1629479,1611661325,31,44,2
+02:37,Jump Ball Lavender vs Jones (Mitchell gains possession),0,-80,10,1628280,202650,1628909,1611661325,31,44,2
+02:25,[IND 33-44] Lavender Jump Shot: Made (2 PTS) Assist: Robinson (2 AST),-109,149,1,,202650,202658,1611661325,33,44,2
+02:13,[IND] Lavender Foul: Shooting (1 PF) (2 FTA),-12,8,6,1627673,202650,,1611661325,33,44,2
+02:13,[CON 45-33] Jones Free Throw 1 of 2 (13 PTS),0,-80,3,,1627673,,1611661323,33,45,2
+02:13,[CON 46-33] Jones Free Throw 2 of 2 (14 PTS),0,-80,3,,1627673,,1611661323,33,46,2
+02:01,[IND] Lavender Jump Shot: Missed,-156,-11,2,,202650,,1611661325,33,46,2
+01:58,[CON] Jones Rebound (Off:4 Def:2),-156,-11,4,,1628280,,1611661323,33,46,2
+01:58,[IND] McCowan Foul: Personal (3 PF) (2 FTA),100,811,6,1628280,1629479,,1611661325,33,46,2
+01:58,[CON 47-33] Jones Free Throw 1 of 2 (14 PTS),0,-80,3,,1628280,,1611661323,33,47,2
+01:58,[IND] Mitchell Substitution replaced by Perry,0,-80,8,,1627676,1630437,1611661325,33,47,2
+01:58,[IND] McCowan Substitution replaced by Wilson,0,-80,8,,1629479,1630458,1611661325,33,47,2
+01:58,[CON 48-33] Jones Free Throw 2 of 2 (15 PTS),0,-80,3,,1628280,,1611661323,33,48,2
+01:41,[IND] Perry Turnover : Double Dribble (1 TO),184,240,5,,1630437,,1611661325,33,48,2
+01:41,[CON] Jones Substitution replaced by Charles,0,-80,8,,1627673,1630097,1611661323,33,48,2
+01:24,[CON 50-33] Jones Layup Shot: Made (17 PTS) Assist: Thomas (3 AST),7,6,1,,1628280,202662,1611661323,33,50,2
+01:24,[IND] Lavender Foul: Shooting (2 PF) (1 FTA),7,6,6,1628280,202650,,1611661325,33,50,2
+01:24,[CON 51-33] Jones Free Throw 1 of 1 (18 PTS),0,-80,3,,1628280,,1611661323,33,51,2
+01:08,[IND 35-51] Wilson Driving Finger Roll Layup Shot: Made (2 PTS),4,9,1,,1630458,,1611661325,35,51,2
+01:01,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,35,51,2
+00:49.2,[CON 53-35] Jones Jump Shot: Made (20 PTS) Assist: Bonner (2 AST),-12,172,1,,1628280,201886,1611661323,35,53,2
+00:35.0,[IND 37-53] Mitchell Pullup Jump shot: Made (8 PTS) Assist: Lavender (5 AST),0,194,1,,1628909,202650,1611661325,37,53,2
+00:20.0,[IND] Perry Foul: Personal (3 PF) (2 FTA),-7,31,6,1628280,1630437,,1611661325,37,53,2
+00:20.0,[CON 54-37] Jones Free Throw 1 of 2 (21 PTS),0,-80,3,,1628280,,1611661323,37,54,2
+00:20.0,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,37,54,2
+00:20.0,[CON 55-37] Jones Free Throw 2 of 2 (22 PTS),0,-80,3,,1628280,,1611661323,37,55,2
+00:00.0,[IND] Robinson Driving Floating Jump Shot: Missed,26,118,2,,202658,,1611661325,37,55,2
+00:00.0,[IND] Team Rebound,26,118,4,,0,,1611661325,37,55,2
+00:00.0,End Period,0,-80,13,,0,,0,37,55,2
+10:00,Start Period,0,-80,12,,0,,0,37,55,3
+09:44,[IND 39-55] Robinson Driving Layup Shot: Made (4 PTS),-6,17,1,,202658,,1611661325,39,55,3
+09:30,[IND] Hatar Foul: Personal (3 PF),13,47,6,1627673,1630043,,1611661325,39,55,3
+09:21,[CON] Thomas 3pt Shot: Missed,-88,231,2,,202662,,1611661323,39,55,3
+09:18,[IND] Mitchell Rebound (Off:0 Def:1),-88,231,4,,1628909,,1611661325,39,55,3
+09:14,[IND] Robinson Pullup Jump shot: Missed,60,177,2,,202658,,1611661325,39,55,3
+09:12,[CON] January Rebound (Off:0 Def:3),60,177,4,,201896,,1611661323,39,55,3
+09:05,[IND] Mitchell Foul: Personal (1 PF),-94,11,6,202662,1628909,,1611661325,39,55,3
+08:59,[CON] Jones 3pt Shot: Missed,126,224,2,,1627673,,1611661323,39,55,3
+08:56,[IND] Mitchell Rebound (Off:0 Def:1),126,224,4,,1627676,,1611661325,39,55,3
+08:44,[IND 41-55] Mitchell Pullup Jump shot: Made (12 PTS) Assist: Lavender (6 AST),-142,140,1,,1627676,202650,1611661325,41,55,3
+08:20,[CON] January Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-193,210,5,,201896,,1611661323,41,55,3
+08:07,[IND] Mitchell Turnover : Out of Bounds - Bad Pass Turnover (2 TO),100,103,5,,1627676,,1611661325,41,55,3
+07:51,[CON] Jones Foul: Offensive (3 PF),-108,110,6,1630043,1627673,,1611661323,41,55,3
+07:51,[CON] Jones Turnover : Offensive Foul Turnover (1 TO),-108,110,5,,1627673,,1611661323,41,55,3
+07:51,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1627676,1628927,1611661325,41,55,3
+07:39,[IND 43-55] Mitchell Step Back Jump shot: Made (10 PTS) Assist: Robinson (3 AST),-189,7,1,,1628909,202658,1611661325,43,55,3
+07:38,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,43,55,3
+07:24,[CON 57-43] Jones Driving Floating Bank Jump Shot: Made (16 PTS) Assist: Thomas (4 AST),73,22,1,,1627673,202662,1611661323,43,57,3
+07:24,[IND] Hatar Foul: Shooting (4 PF) (1 FTA),73,22,6,1627673,1630043,,1611661325,43,57,3
+07:24,[CON 58-43] Jones Free Throw 1 of 1 (17 PTS),0,-80,3,,1627673,,1611661323,43,58,3
+07:08,[IND] Robinson Driving Floating Bank Jump Shot: Missed,91,19,2,,202658,,1611661325,43,58,3
+07:05,[IND] Lavender Rebound (Off:1 Def:1),91,19,4,,202650,,1611661325,43,58,3
+07:04,[IND] Lavender Putback Layup Shot: Missed,-3,5,2,201896,202650,,1611661325,43,58,3
+07:04,[IND] Team Rebound,-3,5,4,,0,,1611661325,43,58,3
+07:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,58,3
+07:03,[IND] Hatar Substitution replaced by McCowan,0,-80,8,,1630043,1629479,1611661325,43,58,3
+06:59,[IND 46-58] Mitchell 3pt Shot: Made (13 PTS) Assist: Vivians (2 AST),-224,65,1,,1628909,1628927,1611661325,46,58,3
+06:45,[CON] Bonner 3pt Shot: Missed,232,68,2,,201886,,1611661323,46,58,3
+06:42,[IND] McCowan Rebound (Off:1 Def:4),232,68,4,,1629479,,1611661325,46,58,3
+06:31,[IND 48-58] Lavender Jump Shot: Made (4 PTS) Assist: Robinson (4 AST),-134,155,1,,202650,202658,1611661325,48,58,3
+06:07,[CON] Bonner Driving Layup Shot: Missed,11,-2,2,,201886,,1611661323,48,58,3
+06:04,[CON] Bonner Rebound (Off:2 Def:1),11,-2,4,,201886,,1611661323,48,58,3
+06:03,[CON 60-48] Bonner Putback Layup Shot: Made (11 PTS),4,-8,1,,201886,,1611661323,48,60,3
+05:45,[CON] Jones Foul: Personal (4 PF),-12,286,6,202658,1627673,,1611661323,48,60,3
+05:45,[CON] Jones Substitution replaced by Charles,0,-80,8,,1627673,1630097,1611661323,48,60,3
+05:36,[IND] McCowan Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),-23,228,5,201886,1629479,,1611661325,48,60,3
+05:31,[CON 63-48] January 3pt Shot: Made (3 PTS) Assist: Thomas (5 AST),-205,119,1,,201896,202662,1611661323,48,63,3
+05:14,[IND 50-63] Mitchell Driving Layup Shot: Made (15 PTS),5,17,1,,1628909,,1611661325,50,63,3
+05:06,[CON] Charles Driving Reverse Layup Shot: Missed,1,-13,2,,1630097,,1611661323,50,63,3
+05:04,[IND] Vivians Rebound (Off:1 Def:1),1,-13,4,,1628927,,1611661325,50,63,3
+04:59,[IND] Robinson Running Pull-Up Jump Shot: Missed,-81,171,2,,202658,,1611661325,50,63,3
+04:56,[CON] Bonner Rebound (Off:2 Def:2),-81,171,4,,201886,,1611661323,50,63,3
+04:46,[CON] Bonner Driving Finger Roll Layup Shot: Missed,2,27,2,,201886,,1611661323,50,63,3
+04:45,[IND] McCowan Rebound (Off:1 Def:5),2,27,4,,1629479,,1611661325,50,63,3
+04:42,[IND 52-63] Vivians Running Layup Shot: Made (2 PTS) Assist: Robinson (5 AST),5,0,1,,1628927,202658,1611661325,52,63,3
+04:24,[IND] McCowan Foul: Personal (4 PF),-46,41,6,202662,1629479,,1611661325,52,63,3
+04:13,[CON] Bonner 3pt Shot: Missed,-11,261,2,,201886,,1611661323,52,63,3
+04:10,[IND] Robinson Rebound (Off:0 Def:1),-11,261,4,,202658,,1611661325,52,63,3
+04:01,[IND] Lavender Turnaround Jump Shot: Missed,-1,50,2,,202650,,1611661325,52,63,3
+03:59,[CON] Bonner Rebound (Off:2 Def:3),-1,50,4,,201886,,1611661323,52,63,3
+03:42,[CON 65-52] Jones Jump Shot: Made (24 PTS) Assist: Thomas (6 AST),97,149,1,,1628280,202662,1611661323,52,65,3
+03:23,[IND 54-65] Robinson Driving Finger Roll Layup Shot: Made (6 PTS),-7,17,1,,202658,,1611661325,54,65,3
+03:03,[IND] Vivians Foul: Personal (1 PF) (2 FTA),-99,230,6,1630097,1628927,,1611661325,54,65,3
+03:03,[CON 66-54] Charles Free Throw 1 of 2 (3 PTS),0,-80,3,,1630097,,1611661323,54,66,3
+03:03,[IND] Lavender Substitution replaced by Perry,0,-80,8,,202650,1630437,1611661325,54,66,3
+03:03,[CON] Jones Substitution replaced by Mompremier,0,-80,8,,1628280,1629492,1611661323,54,66,3
+03:03,[CON] Charles Free Throw 2 of 2 Missed,0,-80,3,,1630097,,1611661323,54,66,3
+03:01,[CON] Mompremier Rebound (Off:1 Def:0),0,-80,4,,1629492,,1611661323,54,66,3
+03:01,[CON] Mompremier Putback Layup Shot: Missed,6,3,2,,1629492,,1611661323,54,66,3
+02:59,[IND] McCowan Rebound (Off:1 Def:6),6,3,4,,1629479,,1611661325,54,66,3
+02:52,[IND] Perry 3pt Shot: Missed,-25,258,2,,1630437,,1611661325,54,66,3
+02:49,[IND] Team Rebound,-25,258,4,,0,,1611661325,54,66,3
+02:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,66,3
+02:44,[IND 56-66] Perry Turnaround Jump Shot: Made (4 PTS),53,140,1,,1630437,,1611661325,56,66,3
+02:32,[IND] Robinson Foul: Personal (1 PF) (2 FTA),-111,149,6,202662,202658,,1611661325,56,66,3
+02:32,[CON 67-56] Thomas Free Throw 1 of 2 (6 PTS),0,-80,3,,202662,,1611661323,56,67,3
+02:32,[IND] Robinson Substitution replaced by Allen,0,-80,8,,202658,1628263,1611661325,56,67,3
+02:32,[CON 68-56] Thomas Free Throw 2 of 2 (7 PTS),0,-80,3,,202662,,1611661323,56,68,3
+02:23,[IND] Mitchell Turnover : Lost Ball (2 TO) Steal:Bonner (2 ST),-113,204,5,201886,1628909,,1611661325,56,68,3
+02:18,[CON] Bonner Turnover : Bad Pass (3 TO) Steal:Perry (1 ST),17,46,5,1630437,201886,,1611661323,56,68,3
+02:11,[IND] Vivians 3pt Shot: Missed,231,33,2,,1628927,,1611661325,56,68,3
+02:07,[CON] Bonner Rebound (Off:2 Def:4),231,33,4,,201886,,1611661323,56,68,3
+01:58,[CON] Thomas Driving Floating Bank Jump Shot: Missed,48,13,2,,202662,,1611661323,56,68,3
+01:58,[IND] Team Rebound,48,13,4,,0,,1611661325,56,68,3
+01:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,68,3
+01:58,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,56,68,3
+01:58,[IND] Vivians Substitution replaced by Mitchell,0,-80,8,,1628927,1627676,1611661325,56,68,3
+01:35,[IND] Perry Jump Shot: Missed,66,150,2,,1630437,,1611661325,56,68,3
+01:34,[CON] Team Rebound,66,150,4,,0,,1611661323,56,68,3
+01:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,68,3
+01:10,[CON] Hiedeman Turnover : Step Out of Bounds Turnover (2 TO),-239,84,5,,1629567,,1611661323,56,68,3
+00:54.3,[IND 58-68] Mitchell Pullup Jump shot: Made (14 PTS),96,133,1,,1627676,,1611661325,58,68,3
+00:39.9,[CON] Charles Driving Floating Jump Shot: Missed,29,58,2,,1630097,,1611661323,58,68,3
+00:38.2,[IND] Mitchell Rebound (Off:0 Def:2),29,58,4,,1627676,,1611661325,58,68,3
+00:38.2,[CON] Mompremier Foul: Personal (1 PF),66,767,6,1627676,1629492,,1611661323,58,68,3
+00:23.6,[CON] January Foul: Personal (2 PF) (2 FTA),50,137,6,1628909,201896,,1611661323,58,68,3
+00:23.6,[IND 59-68] Mitchell Free Throw 1 of 2 (16 PTS),0,-80,3,,1628909,,1611661325,59,68,3
+00:23.6,[IND 60-68] Mitchell Free Throw 2 of 2 (17 PTS),0,-80,3,,1628909,,1611661325,60,68,3
+00:00.0,[CON] Bonner Jump Bank Shot: Missed,2,182,2,,201886,,1611661323,60,68,3
+00:00.0,[CON] Team Rebound,2,182,4,,0,,1611661323,60,68,3
+00:00.0,End Period,0,-80,13,,0,,0,60,68,3
+10:00,Start Period,0,-80,12,,0,,0,60,68,4
+09:45,[CON 70-60] Jones Turnaround Fadeaway Bank Jump Shot: Made (26 PTS) Assist: Jones (2 AST),3,3,1,,1628280,1627673,1611661323,60,70,4
+09:23,[IND] Mitchell Driving Layup Shot: Missed,-15,54,2,1629567,1628909,,1611661325,60,70,4
+09:20,[CON] Team Rebound,-15,54,4,,0,,1611661323,60,70,4
+09:20,Jump Ball Hiedeman vs Mitchell (Thomas gains possession),0,-80,10,1628909,1629567,202662,1611661323,60,70,4
+09:10,[CON] Hiedeman 3pt Shot: Missed,-228,0,2,,1629567,,1611661323,60,70,4
+09:07,[CON] Charles Rebound (Off:1 Def:0),-228,0,4,,1630097,,1611661323,60,70,4
+08:56,[IND] Perry Foul: Shooting (4 PF) (2 FTA),2,-2,6,1627673,1630437,,1611661325,60,70,4
+08:56,[CON 71-60] Jones Free Throw 1 of 2 (18 PTS),0,-80,3,,1627673,,1611661323,60,71,4
+08:56,[CON 72-60] Jones Free Throw 2 of 2 (19 PTS),0,-80,3,,1627673,,1611661323,60,72,4
+08:36,[IND] McCowan Reverse Layup Shot: Missed,0,6,2,,1629479,,1611661325,60,72,4
+08:34,[CON] Jones Rebound (Off:0 Def:3),0,6,4,,1627673,,1611661323,60,72,4
+08:28,[CON 74-60] Jones Layup Shot: Made (28 PTS) Assist: Jones (3 AST),0,-1,1,,1628280,1627673,1611661323,60,74,4
+08:14,[CON] Charles Foul: Personal (2 PF),99,16,6,1629479,1630097,,1611661323,60,74,4
+08:14,[IND] Perry Substitution replaced by Hatar,0,-80,8,,1630437,1630043,1611661325,60,74,4
+08:10,[IND] Allen Driving Floating Jump Shot: Missed,-11,55,2,,1628263,,1611661325,60,74,4
+08:07,[CON] Hiedeman Rebound (Off:1 Def:2),-11,55,4,,1629567,,1611661323,60,74,4
+07:58,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Mitchell (1 ST),160,73,5,1628909,202662,,1611661323,60,74,4
+07:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,74,4
+07:53,[IND] McCowan Substitution replaced by Lavender,0,-80,8,,1629479,202650,1611661325,60,74,4
+07:49,[CON] Thomas Foul: Personal (3 PF),-73,80,6,1628909,202662,,1611661323,60,74,4
+07:42,[IND 62-74] Allen Pullup Jump shot: Made (6 PTS),72,168,1,,1628263,,1611661325,62,74,4
+07:21,[CON 77-62] Charles 3pt Shot: Made (6 PTS) Assist: Jones (4 AST),234,47,1,,1630097,1627673,1611661323,62,77,4
+06:59,[IND 64-77] Mitchell Driving Reverse Layup Shot: Made (16 PTS),-7,1,1,,1627676,,1611661325,64,77,4
+06:46,[CON] Thomas 3pt Shot: Missed,-226,-11,2,,202662,,1611661323,64,77,4
+06:46,[CON] Team Rebound,-226,-11,4,,0,,1611661323,64,77,4
+06:42,[CON] Team Rebound,-226,-11,4,,0,,1611661323,64,77,4
+06:42,[IND] Allen Violation:Jump Ball,0,-80,7,,1628263,,1611661325,64,77,4
+06:42,[IND] Allen Substitution replaced by Robinson,0,-80,8,,1628263,202658,1611661325,64,77,4
+06:35,[CON] Charles 3pt Shot: Missed,-236,85,2,,1630097,,1611661323,64,77,4
+06:32,[IND] Mitchell Rebound (Off:0 Def:2),-236,85,4,,1628909,,1611661325,64,77,4
+06:28,[IND] Mitchell 3pt Shot: Missed,-109,253,2,,1628909,,1611661325,64,77,4
+06:25,[CON] Team Rebound,-109,253,4,,0,,1611661323,64,77,4
+06:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,77,4
+06:11,[CON 79-64] Jones Layup Shot: Made (30 PTS) Assist: Charles (1 AST),6,-3,1,,1628280,1630097,1611661323,64,79,4
+05:55,[CON] Jones Foul: Shooting (2 PF) (2 FTA),-11,17,6,202650,1628280,,1611661323,64,79,4
+05:55,Timeout Officials,0,-80,9,,0,,0,64,79,4
+05:55,[IND 65-79] Lavender Free Throw 1 of 2 (5 PTS),0,-80,3,,202650,,1611661325,65,79,4
+05:55,[IND 66-79] Lavender Free Throw 2 of 2 (6 PTS),0,-80,3,,202650,,1611661325,66,79,4
+05:48,[IND] Hatar Foul: Personal (5 PF),-74,8,6,1627673,1630043,,1611661325,66,79,4
+05:36,[CON] Jones Turnover : Lost Ball (2 TO) Steal:Robinson (2 ST),-55,230,5,202658,1628280,,1611661323,66,79,4
+05:32,[IND] Mitchell Running Layup Shot: Missed,-3,7,2,,1627676,,1611661325,66,79,4
+05:29,[CON] Thomas Rebound (Off:0 Def:1),-3,7,4,,202662,,1611661323,66,79,4
+05:14,[CON] Jones Turnover : Lost Ball (3 TO),104,76,5,,1628280,,1611661323,66,79,4
+05:14,[CON] Jones Foul: Loose Ball (3 PF),-123,736,6,1627676,1628280,,1611661323,66,79,4
+05:14,[IND] Hatar Substitution replaced by McCowan,0,-80,8,,1630043,1629479,1611661325,66,79,4
+04:49,[IND 68-79] McCowan Layup Shot: Made (7 PTS) Assist: Robinson (6 AST),-8,0,1,,1629479,202658,1611661325,68,79,4
+04:32,[IND] McCowan Foul: Personal (5 PF),79,14,6,1628280,1629479,,1611661325,68,79,4
+04:32,[CON] Charles Substitution replaced by Bonner,0,-80,8,,1630097,201886,1611661323,68,79,4
+04:20,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),171,-1,6,201886,1627676,,1611661325,68,79,4
+04:20,[CON 80-68] Bonner Free Throw 1 of 2 (12 PTS),0,-80,3,,201886,,1611661323,68,80,4
+04:20,[CON 81-68] Bonner Free Throw 2 of 2 (13 PTS),0,-80,3,,201886,,1611661323,68,81,4
+04:11,[IND 70-81] Mitchell Floating Jump shot: Made (19 PTS) Assist: Mitchell (1 AST),9,91,1,,1628909,1627676,1611661325,70,81,4
+03:48,[CON 83-70] Jones Layup Shot: Made (32 PTS) Assist: Thomas (7 AST),0,-5,1,,1628280,202662,1611661323,70,83,4
+03:28,[IND] Lavender Jump Shot: Missed,-35,211,2,,202650,,1611661325,70,83,4
+03:26,[IND] Mitchell Rebound (Off:1 Def:2),-35,211,4,,1627676,,1611661325,70,83,4
+03:25,[IND] Mitchell Layup Shot: Missed,0,13,2,,1627676,,1611661325,70,83,4
+03:25,[CON] Jones Rebound (Off:4 Def:3),0,13,4,,1628280,,1611661323,70,83,4
+03:15,[CON] Thomas Driving Finger Roll Layup Shot: Missed,6,1,2,,202662,,1611661323,70,83,4
+03:14,[IND] Team Rebound,6,1,4,,0,,1611661325,70,83,4
+03:14,[CON] Jones Foul: Loose Ball (4 PF) (2 FTA),15,813,6,1629479,1628280,,1611661323,70,83,4
+03:14,[IND 71-83] McCowan Free Throw 1 of 2 (8 PTS),0,-80,3,,1629479,,1611661325,71,83,4
+03:14,[CON] Thomas Substitution replaced by January,0,-80,8,,202662,201896,1611661323,71,83,4
+03:14,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,71,83,4
+03:14,[IND 72-83] McCowan Free Throw 2 of 2 (9 PTS),0,-80,3,,1629479,,1611661325,72,83,4
+02:59,[CON] Jones Reverse Layup Shot: Missed,4,3,2,,1628280,,1611661323,72,83,4
+02:57,[IND] Robinson Rebound (Off:0 Def:2),4,3,4,,202658,,1611661325,72,83,4
+02:46,[IND] Mitchell Foul: Offensive (2 PF),-56,75,6,1627673,1628909,,1611661325,72,83,4
+02:46,[IND] Mitchell Turnover : Offensive Foul Turnover (3 TO),-56,75,5,,1628909,,1611661325,72,83,4
+02:36,[CON 85-72] Jones Jump Shot: Made (34 PTS) Assist: Bonner (3 AST),112,76,1,,1628280,201886,1611661323,72,85,4
+02:23,[CON] Bonner Foul: Shooting (1 PF) (2 FTA),-26,13,6,1627676,201886,,1611661323,72,85,4
+02:23,[IND 73-85] Mitchell Free Throw 1 of 2 (17 PTS),0,-80,3,,1627676,,1611661325,73,85,4
+02:23,[CON] January Substitution replaced by Carrington,0,-80,8,,201896,1630096,1611661323,73,85,4
+02:23,[IND 74-85] Mitchell Free Throw 2 of 2 (18 PTS),0,-80,3,,1627676,,1611661325,74,85,4
+02:03,[CON] Bonner 3pt Shot: Missed,91,256,2,,201886,,1611661323,74,85,4
+02:00,[CON] Carrington Rebound (Off:1 Def:0),91,256,4,,1630096,,1611661323,74,85,4
+01:54,[CON] Jones Foul: Offensive (5 PF),-48,47,6,1627676,1627673,,1611661323,74,85,4
+01:54,[CON] Jones Turnover : Offensive Foul Turnover (2 TO),-48,47,5,,1627673,,1611661323,74,85,4
+01:34,[IND] Mitchell 3pt Shot: Missed,164,190,2,,1628909,,1611661325,74,85,4
+01:30,[IND] McCowan Rebound (Off:2 Def:6),164,190,4,,1629479,,1611661325,74,85,4
+01:29,[IND] McCowan Hook Shot: Missed,-20,7,2,,1629479,,1611661325,74,85,4
+01:26,[CON] Jones Rebound (Off:0 Def:4),-20,7,4,,1627673,,1611661323,74,85,4
+01:22,[CON] Jones 3pt Shot: Missed,-98,252,2,,1627673,,1611661323,74,85,4
+01:20,[IND] Robinson Rebound (Off:0 Def:3),-98,252,4,,202658,,1611661325,74,85,4
+01:13,[CON] Jones Foul: Personal (5 PF) (2 FTA),-68,285,6,202658,1628280,,1611661323,74,85,4
+01:13,[IND 75-85] Robinson Free Throw 1 of 2 (7 PTS),0,-80,3,,202658,,1611661325,75,85,4
+01:13,[IND 76-85] Robinson Free Throw 2 of 2 (8 PTS),0,-80,3,,202658,,1611661325,76,85,4
+01:02,[CON] Carrington Cutting Layup Shot: Missed,-10,11,2,,1630096,,1611661323,76,85,4
+01:00,[IND] Mitchell Rebound (Off:0 Def:3),-10,11,4,,1628909,,1611661325,76,85,4
+00:50.4,[IND] Mitchell Driving Layup Shot: Missed,4,15,2,,1627676,,1611661325,76,85,4
+00:47.8,[CON] Bonner Rebound (Off:2 Def:5),4,15,4,,201886,,1611661323,76,85,4
+00:34.3,[CON] Carrington 3pt Shot: Missed,-227,-22,2,,1630096,,1611661323,76,85,4
+00:30.1,[CON] Carrington Rebound (Off:2 Def:0),-227,-22,4,,1630096,,1611661323,76,85,4
+00:29.5,[CON] Carrington Layup Shot: Missed,-7,-5,2,,1630096,,1611661323,76,85,4
+00:28.9,[IND] Lavender Rebound (Off:1 Def:2),-7,-5,4,,202650,,1611661325,76,85,4
+00:28.9,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,76,85,4
+00:28.9,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,76,85,4
+00:28.9,[IND] Lavender Technical (1 FTA),0,-80,6,,202650,,1611661325,76,85,4
+00:28.9,[CON 86-76] Bonner Free Throw Technical (14 PTS),0,-80,3,,201886,,1611661323,76,86,4
+00:28.9,[CON] Jones Substitution replaced by Charles,0,-80,8,,1628280,1630097,1611661323,76,86,4
+00:23.1,[CON] Hiedeman Foul: Shooting (2 PF) (2 FTA),-30,47,6,202658,1629567,,1611661323,76,86,4
+00:23.1,[IND 77-86] Robinson Free Throw 1 of 2 (9 PTS),0,-80,3,,202658,,1611661325,77,86,4
+00:23.1,[IND 78-86] Robinson Free Throw 2 of 2 (10 PTS),0,-80,3,,202658,,1611661325,78,86,4
+00:09.3,[CON] Charles Turnover : Bad Pass (1 TO) Steal:Robinson (3 ST),-141,262,5,202658,1630097,,1611661323,78,86,4
+00:06.4,[IND 80-86] Mitchell Running Finger Roll Layup Shot: Made (21 PTS) Assist: Robinson (7 AST),-4,7,1,,1628909,202658,1611661325,80,86,4
+00:01.6,[CON] Jones Turnover : Lost Ball (3 TO) Steal:Mitchell (2 ST),62,628,5,1628909,1627673,,1611661323,80,86,4
+00:00.0,[IND] Mitchell Layup Shot: Missed,-7,19,2,,1628909,,1611661325,80,86,4
+00:00.0,[IND] Team Rebound,-7,19,4,,0,,1611661325,80,86,4
+00:00.0,End Period,0,-80,13,,0,,0,80,86,4
+00:00.0,Game End,0,-80,0,,0,,0,80,86,4

@@ -1,0 +1,438 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:52,Jump Ball Cardoso vs Griner (Allen gains possession),0,-80,10,203398,1642289,1628263,1611661329,0,0,0,1
+09:40,[CHI] Allen Pullup Jump shot: Missed,0,129,2,,1628263,,1611661329,0,0,0,1
+09:39,[CHI] Team Rebound,0,129,4,,0,,1611661329,0,0,0,1
+09:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:26,[CHI] Carter Driving Floating Bank Jump Shot: Missed,-45,70,2,,1630150,,1611661329,0,0,0,1
+09:26,[CHI] Cardoso Rebound (Off:1 Def:0),-45,70,4,,1642289,,1611661329,0,0,0,1
+09:26,[CHI] Cardoso Putback Layup Shot: Missed Block: Cloud (1 BLK),-1,45,2,204333,1642289,,1611661329,0,0,0,1
+09:26,[CHI] Team Rebound,-1,45,4,,0,,1611661329,0,0,0,1
+09:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:17,[CHI] Carter Pullup Jump shot: Missed,-88,185,2,,1630150,,1611661329,0,0,0,1
+09:13,[CHI] Reese Rebound (Off:1 Def:0),-88,185,4,,1642291,,1611661329,0,0,0,1
+09:04,[CHI 2-0] Cardoso Floating Jump shot: Made (2 PTS) Assist: Carter (1 AST),17,62,1,,1642289,1630150,1611661329,0,2,2,1
+08:44,[CHI] Cardoso Foul: Shooting (1 PF) (2 FTA),40,69,6,203398,1642289,201538,1611661329,0,2,0,1
+08:44,[PHO 1-2] Griner Free Throw 1 of 2 (1 PTS),0,-80,3,,203398,,1611661317,1,2,1,1
+08:44,[PHO 2-2] Griner Free Throw 2 of 2 (2 PTS),0,-80,3,,203398,,1611661317,2,2,1,1
+08:34,[CHI] Onyenwere Driving Layup Shot: Missed,24,81,2,,1630446,,1611661329,2,2,0,1
+08:29,[PHO] Cunningham Rebound (Off:0 Def:1),24,81,4,,1629482,,1611661317,2,2,0,1
+08:27,[PHO] Copper 3pt Shot: Missed,-169,183,2,,1627674,,1611661317,2,2,0,1
+08:24,[CHI] Onyenwere Rebound (Off:0 Def:1),-169,183,4,,1630446,,1611661329,2,2,0,1
+08:18,[CHI] Carter Running Pull-Up Jump Shot: Missed,-128,61,2,,1630150,,1611661329,2,2,0,1
+08:16,[CHI] Carter Rebound (Off:1 Def:0),-128,61,4,,1630150,,1611661329,2,2,0,1
+08:15,[CHI 4-2] Cardoso Floating Jump shot: Made (4 PTS) Assist: Carter (2 AST),-1,88,1,,1642289,1630150,1611661329,2,4,2,1
+08:02,[PHO 4-4] Copper Driving Finger Roll Layup Shot: Made (2 PTS),26,21,1,,1627674,,1611661317,4,4,2,1
+07:45,[CHI] Allen Pullup Jump shot: Missed,145,125,2,,1628263,,1611661329,4,4,0,1
+07:42,[PHO] Cunningham Rebound (Off:0 Def:2),145,125,4,,1629482,,1611661317,4,4,0,1
+07:37,[PHO 7-4] Taurasi 3pt Shot: Made (3 PTS) Assist: Cunningham (1 AST),-111,235,1,,100940,1629482,1611661317,7,4,3,1
+07:23,[PHO] Taurasi Foul: Flagrant Type 1 (1 PF) (2 FTA),-161,205,6,1630446,100940,201538,1611661317,7,4,0,1
+07:23,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,7,4,0,1
+07:23,[CHI] Onyenwere Free Throw Flagrant 1 of 2 Missed,0,-80,3,,1630446,,1611661329,7,4,0,1
+07:23,[CHI] Team Rebound,0,-80,4,,0,,1611661329,7,4,0,1
+07:23,[CHI] Onyenwere Free Throw Flagrant 2 of 2 Missed,0,-80,3,,1630446,,1611661329,7,4,0,1
+07:23,[CHI] Team Rebound,0,-80,4,,0,,1611661329,7,4,0,1
+07:21,[CHI] Allen Turnover : Bad Pass (1 TO) Steal:Copper (1 ST),-207,220,5,1627674,1628263,,1611661329,7,4,0,1
+07:15,[PHO 9-4] Griner Running Layup Shot: Made (4 PTS) Assist: Taurasi (1 AST),29,19,1,,203398,100940,1611661317,9,4,2,1
+06:51,[CHI 6-9] Carter Pullup Jump shot: Made (2 PTS),57,133,1,,1630150,,1611661329,9,6,2,1
+06:33,[PHO 11-6] Griner Cutting Layup Shot: Made (6 PTS) Assist: Cloud (1 AST),-26,3,1,,203398,204333,1611661317,11,6,2,1
+06:20,[CHI 8-11] Reese Jump Shot: Made (2 PTS) Assist: Carter (3 AST),10,185,1,,1642291,1630150,1611661329,11,8,2,1
+06:11,[CHI] Onyenwere Foul: Shooting (1 PF) (3 FTA),150,208,6,100940,1630446,1629176,1611661329,11,8,0,1
+06:11,[PHO 12-8] Taurasi Free Throw 1 of 3 (4 PTS),0,-80,3,,100940,,1611661317,12,8,1,1
+06:11,[PHO 13-8] Taurasi Free Throw 2 of 3 (5 PTS),0,-80,3,,100940,,1611661317,13,8,1,1
+06:11,[PHO 14-8] Taurasi Free Throw 3 of 3 (6 PTS),0,-80,3,,100940,,1611661317,14,8,1,1
+05:56,[PHO] Taurasi Foul: Shooting (2 PF) (2 FTA),6,22,6,1642291,100940,1629171,1611661317,14,8,0,1
+05:56,[CHI 9-14] Reese Free Throw 1 of 2 (3 PTS),0,-80,3,,1642291,,1611661329,14,9,1,1
+05:56,[CHI] Reese Free Throw 2 of 2 Missed,0,-80,3,,1642291,,1611661329,14,9,0,1
+05:53,[PHO] Cloud Rebound (Off:0 Def:1),0,-80,4,,204333,,1611661317,14,9,0,1
+05:48,[PHO 16-9] Taurasi Running Layup Shot: Made (8 PTS) Assist: Cloud (2 AST),23,3,1,,100940,204333,1611661317,16,9,2,1
+05:38,[CHI] Onyenwere Fadeaway Jump Shot: Missed,46,88,2,,1630446,,1611661329,16,9,0,1
+05:35,[PHO] Copper Rebound (Off:0 Def:1),46,88,4,,1627674,,1611661317,16,9,0,1
+05:31,[CHI] Carter Foul: Personal (1 PF),-138,79,6,1627674,1630150,1629171,1611661329,16,9,0,1
+05:27,[PHO] Copper Pullup Jump shot: Missed,85,183,2,,1627674,,1611661317,16,9,0,1
+05:23,[CHI] Cardoso Rebound (Off:1 Def:1),85,183,4,,1642289,,1611661329,16,9,0,1
+05:18,[PHO] Cloud Foul: Personal (1 PF),116,140,6,1628263,204333,1629171,1611661317,16,9,0,1
+05:11,[CHI] Reese Driving Hook Shot: Missed,-21,85,2,,1642291,,1611661329,16,9,0,1
+05:08,[PHO] Griner Rebound (Off:0 Def:1),-21,85,4,,203398,,1611661317,16,9,0,1
+05:03,[CHI] Carter Foul: Shooting (2 PF) (2 FTA),34,41,6,1627674,1630150,1629171,1611661329,16,9,0,1
+05:03,[PHO 17-9] Copper Free Throw 1 of 2 (3 PTS),0,-80,3,,1627674,,1611661317,17,9,1,1
+05:03,[PHO] Taurasi Substitution replaced by Billings,0,-80,8,,100940,1628881,1611661317,17,9,0,1
+05:03,[CHI] Carter Substitution replaced by Banham,0,-80,8,,1630150,1627671,1611661329,17,9,0,1
+05:03,[CHI] Allen Substitution replaced by Evans,0,-80,8,,1628263,1630389,1611661329,17,9,0,1
+05:03,[PHO 18-9] Copper Free Throw 2 of 2 (4 PTS),0,-80,3,,1627674,,1611661317,18,9,1,1
+04:49,[PHO] Copper Foul: Shooting (1 PF) (2 FTA),-53,67,6,1630446,1627674,1629176,1611661317,18,9,0,1
+04:49,Timeout : Official,0,-80,9,,0,,0,18,9,0,1
+04:49,[CHI 10-18] Onyenwere Free Throw 1 of 2 (1 PTS),0,-80,3,,1630446,,1611661329,18,10,1,1
+04:49,[CHI 11-18] Onyenwere Free Throw 2 of 2 (2 PTS),0,-80,3,,1630446,,1611661329,18,11,1,1
+04:31,[PHO 20-11] Billings Reverse Layup Shot: Made (2 PTS) Assist: Griner (1 AST),34,-1,1,,1628881,203398,1611661317,20,11,2,1
+04:23,[CHI] Onyenwere 3pt Shot: Missed,223,97,2,,1630446,,1611661329,20,11,0,1
+04:23,[PHO] Cunningham Rebound (Off:0 Def:3),223,97,4,,1629482,,1611661317,20,11,0,1
+04:12,[PHO] Copper 3pt Shot: Missed,-29,239,2,,1627674,,1611661317,20,11,0,1
+04:09,[PHO] Billings Rebound (Off:1 Def:0),-29,239,4,,1628881,,1611661317,20,11,0,1
+04:08,[PHO] Cloud 3pt Shot: Missed,-163,187,2,,204333,,1611661317,20,11,0,1
+04:04,[PHO] Griner Rebound (Off:1 Def:1),-163,187,4,,203398,,1611661317,20,11,0,1
+04:00,[PHO 22-11] Griner Turnaround Fadeaway shot: Made (8 PTS),-104,14,1,,203398,,1611661317,22,11,2,1
+03:43,[CHI 13-22] Cardoso Driving Reverse Layup Shot: Made (6 PTS) Assist: Onyenwere (1 AST),13,54,1,,1642289,1630446,1611661329,22,13,2,1
+03:39,[CHI] Banham Foul: Personal (1 PF) (2 FTA),16,33,6,1629482,1627671,1629176,1611661329,22,13,0,1
+03:39,[PHO 23-13] Cunningham Free Throw 1 of 2 (1 PTS),0,-80,3,,1629482,,1611661317,23,13,1,1
+03:39,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,23,13,0,1
+03:39,[CHI] Onyenwere Substitution replaced by DeShields,0,-80,8,,1630446,1628890,1611661329,23,13,0,1
+03:39,[PHO 24-13] Cunningham Free Throw 2 of 2 (2 PTS),0,-80,3,,1629482,,1611661317,24,13,1,1
+03:25,[CHI 15-24] Cardoso Layup Shot: Made (8 PTS) Assist: DeShields (1 AST),-31,45,1,,1642289,1628890,1611661329,24,15,2,1
+03:13,[PHO 26-15] Cloud Pullup Jump shot: Made (2 PTS),17,146,1,,204333,,1611661317,26,15,2,1
+02:57,[CHI] Reese Layup Shot: Missed,-15,78,2,,1642291,,1611661329,26,15,0,1
+02:54,[CHI] Reese Rebound (Off:2 Def:0),-15,78,4,,1642291,,1611661329,26,15,0,1
+02:54,[CHI] Reese Turnover : Backcourt Turnover (1 TO),-132,404,5,,1642291,1629171,1611661329,26,15,0,1
+02:54,[PHO] Copper Substitution replaced by Taurasi,0,-80,8,,1627674,100940,1611661317,26,15,0,1
+02:33,[CHI] Cardoso Foul: Personal (2 PF) (2 FTA),42,86,6,1628881,1642289,201538,1611661329,26,15,0,1
+02:33,[PHO 27-15] Billings Free Throw 1 of 2 (3 PTS),0,-80,3,,1628881,,1611661317,27,15,1,1
+02:33,[CHI] Cardoso Substitution replaced by Harrison,0,-80,8,,1642289,204330,1611661329,27,15,0,1
+02:33,[PHO 28-15] Billings Free Throw 2 of 2 (4 PTS),0,-80,3,,1628881,,1611661317,28,15,1,1
+02:22,[CHI 17-28] Evans Driving Floating Jump Shot: Made (2 PTS),-15,129,1,,1630389,,1611661329,28,17,2,1
+02:06,[PHO] Taurasi 3pt Shot: Missed,173,205,2,,100940,,1611661317,28,17,0,1
+02:02,[CHI] Reese Rebound (Off:2 Def:1),173,205,4,,1642291,,1611661329,28,17,0,1
+01:45,[CHI] Banham 3pt Shot: Missed,-179,178,2,,1627671,,1611661329,28,17,0,1
+01:43,[PHO] Cunningham Rebound (Off:0 Def:4),-179,178,4,,1629482,,1611661317,28,17,0,1
+01:32,[PHO] Cunningham 3pt Shot: Missed,201,177,2,,1629482,,1611661317,28,17,0,1
+01:27,[CHI] Reese Rebound (Off:2 Def:2),201,177,4,,1642291,,1611661329,28,17,0,1
+01:19,[CHI] Evans 3pt Shot: Missed,94,279,2,,1630389,,1611661329,28,17,0,1
+01:16,[PHO] Mack Rebound (Off:0 Def:1),94,279,4,,1630442,,1611661317,28,17,0,1
+01:06,[CHI] Reese Foul: Shooting (1 PF) (2 FTA),-23,25,6,100940,1642291,201538,1611661329,28,17,0,1
+01:06,[PHO 29-17] Taurasi Free Throw 1 of 2 (9 PTS),0,-80,3,,100940,,1611661317,29,17,1,1
+01:06,[PHO] Cloud Substitution replaced by Sutton,0,-80,8,,204333,1630134,1611661317,29,17,0,1
+01:06,[PHO 30-17] Taurasi Free Throw 2 of 2 (10 PTS),0,-80,3,,100940,,1611661317,30,17,1,1
+00:51.3,[CHI 19-30] Reese Jump Shot: Made (5 PTS) Assist: Banham (1 AST),-155,81,1,,1642291,1627671,1611661329,30,19,2,1
+00:39.6,[PHO 32-19] Taurasi Jump Shot: Made (12 PTS) Assist: Sutton (1 AST),27,172,1,,100940,1630134,1611661317,32,19,2,1
+00:27.5,[CHI] Harrison Driving Layup Shot: Missed,-34,34,2,,204330,,1611661329,32,19,0,1
+00:23.8,[CHI] Reese Rebound (Off:3 Def:2),-65,83,4,,1642291,,1611661329,32,19,0,1
+00:22.4,[CHI] Banham 3pt Shot: Missed,-172,214,2,,1627671,,1611661329,32,19,0,1
+00:19.1,[CHI] Harrison Rebound (Off:1 Def:0),-172,214,4,,204330,,1611661329,32,19,0,1
+00:06.6,[CHI] Team Turnover : Shot Clock Turnover,-152,131,5,,0,201538,1611661329,32,19,0,1
+00:00.3,[PHO] Taurasi 3pt Shot: Missed,-145,219,2,,100940,,1611661317,32,19,0,1
+00:00.3,[PHO] Team Rebound,-145,219,4,,0,,1611661317,32,19,0,1
+00:00.0,End Period,0,-80,13,,0,,0,32,19,0,1
+10:00,Start Period,0,-80,12,,0,,0,32,19,0,2
+09:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,19,0,2
+09:36,[PHO] Griner Turnaround Jump Shot: Missed,62,60,2,,203398,,1611661317,32,19,0,2
+09:32,[CHI] DeShields Rebound (Off:0 Def:1),62,60,4,,1628890,,1611661329,32,19,0,2
+09:22,[CHI] Evans 3pt Shot: Missed,-137,225,2,,1630389,,1611661329,32,19,0,2
+09:18,[CHI] Reese Rebound (Off:4 Def:2),-137,225,4,,1642291,,1611661329,32,19,0,2
+09:15,[CHI] DeShields 3pt Shot: Missed,229,53,2,,1628890,,1611661329,32,19,0,2
+09:11,[PHO] Billings Rebound (Off:1 Def:1),229,53,4,,1628881,,1611661317,32,19,0,2
+09:04,[CHI] Evans Foul: Personal (1 PF),-4,48,6,1630134,1630389,201538,1611661329,32,19,0,2
+09:04,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,32,19,0,2
+09:03,[CHI] Reese Foul: Personal (2 PF),-51,247,6,1628881,1642291,1629171,1611661329,32,19,0,2
+08:54,[PHO 34-19] Mack Cutting Layup Shot: Made (2 PTS) Assist: Taurasi (2 AST),34,20,1,,1630442,100940,1611661317,34,19,2,2
+08:33,[CHI] Evans Pullup Jump shot: Missed,-24,88,2,,1630389,,1611661329,34,19,0,2
+08:28,[PHO] Billings Rebound (Off:1 Def:2),-24,88,4,,1628881,,1611661317,34,19,0,2
+08:21,[PHO 37-19] Sutton 3pt Shot: Made (3 PTS) Assist: Mack (1 AST),-51,232,1,,1630134,1630442,1611661317,37,19,3,2
+08:20,Timeout : Regular,0,-80,9,,1611661329,,1611661329,37,19,0,2
+08:20,[CHI] DeShields Substitution replaced by Turner,0,-80,8,,1628890,1629488,1611661329,37,19,0,2
+08:20,[CHI] Reese Substitution replaced by Jefferson,0,-80,8,,1642291,1627669,1611661329,37,19,0,2
+08:20,[CHI] Evans Substitution replaced by Carter,0,-80,8,,1630389,1630150,1611661329,37,19,0,2
+07:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,19,0,2
+07:56,[CHI] Banham Pullup Jump shot: Missed,145,53,2,,1627671,,1611661329,37,19,0,2
+07:52,[PHO] Mack Rebound (Off:0 Def:2),145,53,4,,1630442,,1611661317,37,19,0,2
+07:33,[PHO] Taurasi 3pt Shot: Missed,49,237,2,,100940,,1611661317,37,19,0,2
+07:30,[CHI] Banham Rebound (Off:0 Def:1),49,237,4,,1627671,,1611661329,37,19,0,2
+07:24,[CHI] Carter Running Layup Shot: Missed,-6,21,2,,1630150,,1611661329,37,19,0,2
+07:18,[PHO] Billings Rebound (Off:1 Def:3),-6,21,4,,1628881,,1611661317,37,19,0,2
+07:11,[PHO] Billings Cutting Layup Shot: Missed,28,25,2,,1628881,,1611661317,37,19,0,2
+07:08,[PHO] Billings Rebound (Off:2 Def:3),28,25,4,,1628881,,1611661317,37,19,0,2
+07:02,[PHO 39-19] Billings Tip Layup Shot: Made (6 PTS),-24,0,1,,1628881,,1611661317,39,19,2,2
+06:54,[CHI] Harrison Turnover : Bad Pass (1 TO),52,71,5,,204330,1629171,1611661329,39,19,0,2
+06:54,[PHO] Sutton Substitution replaced by Cunningham,0,-80,8,,1630134,1629482,1611661317,39,19,0,2
+06:54,[PHO] Billings Substitution replaced by Cloud,0,-80,8,,1628881,204333,1611661317,39,19,0,2
+06:54,[CHI] Banham Substitution replaced by Onyenwere,0,-80,8,,1627671,1630446,1611661329,39,19,0,2
+06:43,[PHO] Cloud 3pt Shot: Missed,121,226,2,,204333,,1611661317,39,19,0,2
+06:43,[CHI] Team Rebound,121,226,4,,0,,1611661329,39,19,0,2
+06:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,19,0,2
+06:30,[CHI 21-39] Harrison Jump Shot: Made (2 PTS) Assist: Carter (4 AST),-94,82,1,,204330,1630150,1611661329,39,21,2,2
+06:12,[PHO] Copper Driving Layup Shot: Missed,7,56,2,,1627674,,1611661317,39,21,0,2
+06:09,[CHI] Turner Rebound (Off:0 Def:1),7,56,4,,1629488,,1611661329,39,21,0,2
+06:06,[CHI 23-39] Harrison Running Layup Shot: Made (4 PTS) Assist: Jefferson (1 AST),-33,64,1,,204330,1627669,1611661329,39,23,2,2
+06:04,Timeout : Regular,0,-80,9,,1611661317,,1611661317,39,23,0,2
+06:04,[CHI] Turner Substitution replaced by Cardoso,0,-80,8,,1629488,1642289,1611661329,39,23,0,2
+05:40,[CHI] Cardoso Foul: Shooting (3 PF) (2 FTA),-127,1,6,1630442,1642289,1629171,1611661329,39,23,0,2
+05:40,[PHO 40-23] Mack Free Throw 1 of 2 (3 PTS),0,-80,3,,1630442,,1611661317,40,23,1,2
+05:40,[PHO] Taurasi Substitution replaced by Billings,0,-80,8,,100940,1628881,1611661317,40,23,0,2
+05:40,[CHI] Cardoso Substitution replaced by Reese,0,-80,8,,1642289,1642291,1611661329,40,23,0,2
+05:40,[PHO] Mack Free Throw 2 of 2 Missed,0,-80,3,,1630442,,1611661317,40,23,0,2
+05:37,[CHI] Onyenwere Rebound (Off:0 Def:2),0,-80,4,,1630446,,1611661329,40,23,0,2
+05:31,[CHI 25-40] Harrison Pullup Jump shot: Made (6 PTS) Assist: Jefferson (2 AST),-87,182,1,,204330,1627669,1611661329,40,25,2,2
+05:07,[PHO] Cloud Turnover : Bad Pass (1 TO) Steal:Onyenwere (1 ST),118,213,5,1630446,204333,,1611661317,40,25,0,2
+05:06,[PHO] Cloud Foul: Loose Ball (2 PF),-185,603,6,1630446,204333,1629171,1611661317,40,25,0,2
+04:54,[CHI] Harrison Turnaround Fadeaway shot: Missed,42,99,2,,204330,,1611661329,40,25,0,2
+04:49,[PHO] Mack Rebound (Off:0 Def:3),34,108,4,,1630442,,1611661317,40,25,0,2
+04:40,[PHO] Mack Turnover : Bad Pass (1 TO),-99,110,5,,1630442,,1611661317,40,25,0,2
+04:32,[CHI 27-40] Carter Pullup Jump shot: Made (4 PTS) Assist: Jefferson (3 AST),27,173,1,,1630150,1627669,1611661329,40,27,2,2
+04:18,[PHO] Copper 3pt Shot: Missed,-166,185,2,,1627674,,1611661317,40,27,0,2
+04:15,[PHO] Copper Rebound (Off:1 Def:1),-166,185,4,,1627674,,1611661317,40,27,0,2
+04:14,[PHO 43-27] Cunningham 3pt Shot: Made (5 PTS) Assist: Copper (1 AST),227,135,1,,1629482,1627674,1611661317,43,27,3,2
+04:01,[CHI] Reese Driving Layup Shot: Missed Block: Mack (1 BLK),0,21,2,1630442,1642291,,1611661329,43,27,0,2
+04:00,[CHI] Team Rebound,0,21,4,,0,,1611661329,43,27,0,2
+04:00,Timeout : Challenge,0,-80,9,,1611661317,,1611661317,43,27,0,2
+04:00,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661317,43,27,0,2
+04:00,[PHO] Mack Substitution replaced by Taurasi,0,-80,8,,1630442,100940,1611661317,43,27,0,2
+03:50,[CHI] Reese Driving Layup Shot: Missed,18,64,2,,1642291,,1611661329,43,27,0,2
+03:49,[CHI] Reese Rebound (Off:5 Def:2),18,64,4,,1642291,,1611661329,43,27,0,2
+03:49,[PHO] Copper Foul: Personal (2 PF),11,51,6,1642291,1627674,201538,1611661317,43,27,0,2
+03:42,[CHI 29-43] Harrison Driving Floating Jump Shot: Made (8 PTS) Assist: Jefferson (4 AST),-45,114,1,,204330,1627669,1611661329,43,29,2,2
+03:19,[PHO 46-29] Cunningham 3pt Shot: Made (8 PTS) Assist: Copper (2 AST),206,155,1,,1629482,1627674,1611661317,46,29,3,2
+03:06,[PHO] Billings Foul: Shooting (1 PF) (2 FTA),-20,77,6,1642291,1628881,1629171,1611661317,46,29,0,2
+03:06,[CHI 30-46] Reese Free Throw 1 of 2 (6 PTS),0,-80,3,,1642291,,1611661329,46,30,1,2
+03:06,[PHO] Cunningham Substitution replaced by Griner,0,-80,8,,1629482,203398,1611661317,46,30,0,2
+03:06,[CHI] Reese Free Throw 2 of 2 Missed,0,-80,3,,1642291,,1611661329,46,30,0,2
+03:03,[PHO] Cloud Rebound (Off:0 Def:2),0,-80,4,,204333,,1611661317,46,30,0,2
+02:42,[PHO] Cloud 3pt Shot: Missed,95,225,2,,204333,,1611661317,46,30,0,2
+02:38,[CHI] Carter Rebound (Off:1 Def:1),95,225,4,,1630150,,1611661329,46,30,0,2
+02:35,[CHI 32-46] Carter Running Layup Shot: Made (6 PTS),1,31,1,,1630150,,1611661329,46,32,2,2
+02:23,[PHO] Griner Turnaround Jump Shot: Missed,-49,96,2,,203398,,1611661317,46,32,0,2
+02:20,[CHI] Reese Rebound (Off:5 Def:3),-49,96,4,,1642291,,1611661329,46,32,0,2
+02:09,[CHI] Reese Reverse Layup Shot: Missed,-61,29,2,,1642291,,1611661329,46,32,0,2
+02:07,[PHO] Griner Rebound (Off:1 Def:2),-61,29,4,,203398,,1611661317,46,32,0,2
+01:58,[PHO] Billings Turnaround Jump Shot: Missed,-27,24,2,,1628881,,1611661317,46,32,0,2
+01:57,[CHI] Reese Rebound (Off:5 Def:4),-27,24,4,,1642291,,1611661329,46,32,0,2
+01:46,[CHI] Jefferson 3pt Shot: Missed,57,238,2,,1627669,,1611661329,46,32,0,2
+01:42,[PHO] Copper Rebound (Off:1 Def:2),57,238,4,,1627674,,1611661317,46,32,0,2
+01:35,[PHO 48-32] Copper Driving Layup Shot: Made (6 PTS),16,3,1,,1627674,,1611661317,48,32,2,2
+01:20,[CHI] Carter Pullup Jump shot: Missed,-1,167,2,,1630150,,1611661329,48,32,0,2
+01:17,[PHO] Cloud Rebound (Off:0 Def:3),-1,167,4,,204333,,1611661317,48,32,0,2
+01:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,32,0,2
+01:15,[PHO] Billings Substitution replaced by Cunningham,0,-80,8,,1628881,1629482,1611661317,48,32,0,2
+01:11,[PHO] Copper 3pt Shot: Missed,-166,182,2,,1627674,,1611661317,48,32,0,2
+01:08,[PHO] Griner Rebound (Off:2 Def:2),-166,182,4,,203398,,1611661317,48,32,0,2
+01:06,[PHO 50-32] Taurasi Pullup Jump shot: Made (14 PTS) Assist: Griner (2 AST),21,80,1,,100940,203398,1611661317,50,32,2,2
+01:06,[CHI] Reese Foul: Shooting (3 PF) (1 FTA),-1,56,6,100940,1642291,201538,1611661329,50,32,0,2
+01:06,[PHO 51-32] Taurasi Free Throw 1 of 1 (15 PTS),0,-80,3,,100940,,1611661317,51,32,1,2
+00:51.7,[CHI] Harrison Jump Shot: Missed,-110,87,2,,204330,,1611661329,51,32,0,2
+00:48.0,[CHI] Reese Rebound (Off:6 Def:4),-110,87,4,,1642291,,1611661329,51,32,0,2
+00:46.8,[CHI] Reese Turnover : Step Out of Bounds Turnover (2 TO),78,-17,5,,1642291,201538,1611661329,51,32,0,2
+00:34.5,[PHO] Copper Turnover : Bad Pass (1 TO) Steal:Harrison (1 ST),82,252,5,204330,1627674,,1611661317,51,32,0,2
+00:30.4,[PHO] Cunningham Foul: Shooting (1 PF) (2 FTA),-62,2,6,1627669,1629482,1629171,1611661317,51,32,0,2
+00:30.4,[CHI 33-51] Jefferson Free Throw 1 of 2 (1 PTS),0,-80,3,,1627669,,1611661329,51,33,1,2
+00:30.4,[CHI 34-51] Jefferson Free Throw 2 of 2 (2 PTS),0,-80,3,,1627669,,1611661329,51,34,1,2
+00:18.1,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661329,51,34,0,2
+00:18.1,[CHI] Onyenwere Foul: Shooting (2 PF) (2 FTA),43,43,6,1627674,1630446,1629171,1611661329,51,34,0,2
+00:18.1,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,51,34,0,2
+00:18.1,[PHO] Copper Free Throw 1 of 2 Missed,0,-80,3,,1627674,,1611661317,51,34,0,2
+00:18.1,[PHO] Team Rebound,0,-80,4,,0,,1611661317,51,34,0,2
+00:18.1,[PHO 52-34] Copper Free Throw 2 of 2 (7 PTS),0,-80,3,,1627674,,1611661317,52,34,1,2
+00:18.1,Timeout : Regular,0,-80,9,,1611661329,,1611661329,52,34,0,2
+00:01.9,[PHO] Copper Foul: Personal (3 PF) (2 FTA),-7,60,6,1630150,1627674,1629171,1611661317,52,34,0,2
+00:01.9,[CHI 35-52] Carter Free Throw 1 of 2 (7 PTS),0,-80,3,,1630150,,1611661329,52,35,1,2
+00:01.9,[CHI] Carter Free Throw 2 of 2 Missed,0,-80,3,,1630150,,1611661329,52,35,0,2
+00:01.9,[PHO] Taurasi Rebound (Off:0 Def:1),0,-80,4,,100940,,1611661317,52,35,0,2
+00:00.0,End Period,0,-80,13,,0,,0,52,35,0,2
+10:00,Start Period,0,-80,12,,0,,0,52,35,0,3
+09:42,[PHO 54-35] Griner Cutting Layup Shot: Made (10 PTS) Assist: Cloud (3 AST),6,37,1,,203398,204333,1611661317,54,35,2,3
+09:20,[CHI 37-54] Reese Cutting Layup Shot: Made (8 PTS) Assist: Cardoso (1 AST),-24,13,1,,1642291,1642289,1611661329,54,37,2,3
+09:06,[PHO] Copper Driving Layup Shot: Missed,57,17,2,,1627674,,1611661317,54,37,0,3
+09:05,[CHI] Cardoso Rebound (Off:1 Def:2),57,17,4,,1642289,,1611661329,54,37,0,3
+09:00,[CHI] Onyenwere 3pt Shot: Missed,-35,237,2,,1630446,,1611661329,54,37,0,3
+08:54,[PHO] Cunningham Rebound (Off:0 Def:5),-35,237,4,,1629482,,1611661317,54,37,0,3
+08:50,[PHO] Taurasi 3pt Shot: Missed,15,289,2,,100940,,1611661317,54,37,0,3
+08:46,[CHI] Reese Rebound (Off:6 Def:5),15,289,4,,1642291,,1611661329,54,37,0,3
+08:40,[CHI] Carter Pullup Jump shot: Missed,-43,75,2,,1630150,,1611661329,54,37,0,3
+08:36,[PHO] Griner Rebound (Off:2 Def:3),-43,75,4,,203398,,1611661317,54,37,0,3
+08:26,[PHO] Griner Jump Shot: Missed,-99,173,2,,203398,,1611661317,54,37,0,3
+08:24,[CHI] Carter Rebound (Off:1 Def:2),-99,173,4,,1630150,,1611661329,54,37,0,3
+08:12,[CHI 39-54] Cardoso Jump Shot: Made (10 PTS) Assist: Carter (5 AST),-169,1,1,,1642289,1630150,1611661329,54,39,2,3
+07:55,[PHO] Griner Foul: Offensive (1 PF),-110,260,6,1630150,203398,1629171,1611661317,54,39,0,3
+07:55,[PHO] Griner Turnover : Offensive Foul Turnover (1 TO),-110,260,5,,203398,1629171,1611661317,54,39,0,3
+07:55,InstantReplay Request Stands,0,-80,18,,0,,0,54,39,0,3
+07:44,[CHI 41-54] Allen Driving Finger Roll Layup Shot: Made (2 PTS),42,35,1,,1628263,,1611661329,54,41,2,3
+07:18,[PHO] Taurasi 3pt Shot: Missed,-181,207,2,,100940,,1611661317,54,41,0,3
+07:15,[CHI] Carter Rebound (Off:1 Def:3),-181,207,4,,1630150,,1611661329,54,41,0,3
+07:11,[CHI] Reese Running Layup Shot: Missed,31,28,2,,1642291,,1611661329,54,41,0,3
+07:10,[CHI] Reese Rebound (Off:7 Def:5),31,28,4,,1642291,,1611661329,54,41,0,3
+07:09,[CHI 43-54] Reese Putback Layup Shot: Made (10 PTS),-1,4,1,,1642291,,1611661329,54,43,2,3
+06:58,[PHO] Cunningham 3pt Shot: Missed,97,257,2,,1629482,,1611661317,54,43,0,3
+06:52,[CHI] Allen Rebound (Off:0 Def:1),97,257,4,,1628263,,1611661329,54,43,0,3
+06:44,[CHI] Carter Driving Layup Shot: Missed,-17,1,2,,1630150,,1611661329,54,43,0,3
+06:43,[CHI] Reese Rebound (Off:8 Def:5),-17,1,4,,1642291,,1611661329,54,43,0,3
+06:38,Jump Ball Reese vs Cunningham (Carter gains possession),0,-80,10,1629482,1642291,1630150,1611661329,54,43,0,3
+06:33,[CHI 45-54] Cardoso Cutting Layup Shot: Made (12 PTS) Assist: Carter (6 AST),51,24,1,,1642289,1630150,1611661329,54,45,2,3
+06:18,[PHO] Taurasi Driving Layup Shot: Missed,-17,17,2,,100940,,1611661317,54,45,0,3
+06:16,[CHI] Reese Rebound (Off:8 Def:6),-17,17,4,,1642291,,1611661329,54,45,0,3
+06:12,[CHI] Carter 3pt Shot: Missed,-191,118,2,,1630150,,1611661329,54,45,0,3
+06:08,[CHI] Carter Rebound (Off:2 Def:3),-191,118,4,,1630150,,1611661329,54,45,0,3
+06:03,[CHI 47-54] Carter Driving Layup Shot: Made (9 PTS),-7,40,1,,1630150,,1611661329,54,47,2,3
+05:59,Timeout : Regular,0,-80,9,,1611661317,,1611661317,54,47,0,3
+05:42,[PHO 56-47] Griner Hook Shot: Made (12 PTS) Assist: Cunningham (2 AST),-18,85,1,,203398,1629482,1611661317,56,47,2,3
+05:42,[CHI] Carter Foul: Shooting (3 PF) (1 FTA),-10,74,6,203398,1630150,201538,1611661329,56,47,0,3
+05:42,[PHO] Griner Free Throw 1 of 1 Missed,0,-80,3,,203398,,1611661317,56,47,0,3
+05:40,[CHI] Cardoso Rebound (Off:1 Def:3),0,-80,4,,1642289,,1611661329,56,47,0,3
+05:25,[CHI 49-56] Carter Driving Layup Shot: Made (11 PTS) Assist: Reese (1 AST),-49,21,1,,1630150,1642291,1611661329,56,49,2,3
+05:08,[PHO] Copper Pullup Jump shot: Missed,28,211,2,,1627674,,1611661317,56,49,0,3
+05:05,[CHI] Reese Rebound (Off:8 Def:7),28,211,4,,1642291,,1611661329,56,49,0,3
+04:52,[CHI] Reese Hook Bank Shot: Missed Block: Griner (1 BLK),17,44,2,203398,1642291,,1611661329,56,49,0,3
+04:49,[PHO] Cunningham Rebound (Off:0 Def:6),17,44,4,,1629482,,1611661317,56,49,0,3
+04:35,[CHI] Onyenwere Foul: Shooting (3 PF) (2 FTA),28,163,6,100940,1630446,1629176,1611661329,56,49,0,3
+04:35,[PHO 57-49] Taurasi Free Throw 1 of 2 (16 PTS),0,-80,3,,100940,,1611661317,57,49,1,3
+04:35,[PHO 58-49] Taurasi Free Throw 2 of 2 (17 PTS),0,-80,3,,100940,,1611661317,58,49,1,3
+04:26,[PHO] Copper Foul: Shooting (4 PF) (2 FTA),37,43,6,1630150,1627674,1629176,1611661317,58,49,0,3
+04:26,[CHI] Carter Free Throw 1 of 2 Missed,0,-80,3,,1630150,,1611661329,58,49,0,3
+04:26,[CHI] Team Rebound,0,-80,4,,0,,1611661329,58,49,0,3
+04:26,[PHO] Copper Substitution replaced by Billings,0,-80,8,,1627674,1628881,1611661317,58,49,0,3
+04:26,[CHI 50-58] Carter Free Throw 2 of 2 (12 PTS),0,-80,3,,1630150,,1611661329,58,50,1,3
+04:09,[PHO 60-50] Griner Driving Layup Shot: Made (14 PTS) Assist: Taurasi (3 AST),-17,24,1,,203398,100940,1611661317,60,50,2,3
+03:56,[CHI] Carter Turnover : Bad Pass (1 TO) Steal:Billings (1 ST),113,59,5,1628881,1630150,,1611661329,60,50,0,3
+03:49,[CHI] Cardoso Foul: Shooting (4 PF) (2 FTA),12,87,6,203398,1642289,1629171,1611661329,60,50,0,3
+03:49,[PHO 61-50] Griner Free Throw 1 of 2 (15 PTS),0,-80,3,,203398,,1611661317,61,50,1,3
+03:49,[CHI] Cardoso Substitution replaced by Harrison,0,-80,8,,1642289,204330,1611661329,61,50,0,3
+03:49,[CHI] Cardoso Technical (1 FTA),0,-80,6,,1642289,1629171,1611661329,61,50,0,3
+03:49,[PHO 62-50] Taurasi Free Throw Technical (18 PTS),0,-80,3,,100940,,1611661317,62,50,1,3
+03:49,[PHO 63-50] Griner Free Throw 2 of 2 (16 PTS),0,-80,3,,203398,,1611661317,63,50,1,3
+03:33,[CHI] Harrison 3pt Shot: Missed,-223,102,2,,204330,,1611661329,63,50,0,3
+03:29,[PHO] Cunningham Rebound (Off:0 Def:7),-223,102,4,,1629482,,1611661317,63,50,0,3
+03:28,[PHO] Cloud Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-173,378,5,,204333,,1611661317,63,50,0,3
+03:11,[CHI] Allen Pullup Jump shot: Missed,-102,119,2,,1628263,,1611661329,63,50,0,3
+03:07,[PHO] Cunningham Rebound (Off:0 Def:8),-102,119,4,,1629482,,1611661317,63,50,0,3
+03:04,[PHO] Cunningham Foul: Offensive (2 PF),56,336,6,1630446,1629482,1629176,1611661317,63,50,0,3
+03:04,[PHO] Cunningham Turnover : Offensive Foul Turnover (1 TO),56,336,5,,1629482,1629176,1611661317,63,50,0,3
+03:04,[CHI] Onyenwere Substitution replaced by Banham,0,-80,8,,1630446,1627671,1611661329,63,50,0,3
+03:04,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,63,50,0,3
+02:53,[CHI] Carter Pullup Jump shot: Missed,72,87,2,,1630150,,1611661329,63,50,0,3
+02:48,[PHO] Cloud Rebound (Off:0 Def:4),72,87,4,,204333,,1611661317,63,50,0,3
+02:32,[PHO 65-50] Taurasi Turnaround Fadeaway shot: Made (20 PTS) Assist: Cloud (4 AST),39,115,1,,100940,204333,1611661317,65,50,2,3
+02:22,[CHI] Harrison Turnover : Traveling (2 TO),48,5,5,,204330,1629176,1611661329,65,50,0,3
+02:22,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,65,50,0,3
+02:07,[CHI] Carter Foul: Shooting (4 PF) (2 FTA),-17,135,6,204333,1630150,201538,1611661329,65,50,0,3
+02:07,[PHO 66-50] Cloud Free Throw 1 of 2 (3 PTS),0,-80,3,,204333,,1611661317,66,50,1,3
+02:07,[CHI] Carter Substitution replaced by Evans,0,-80,8,,1630150,1630389,1611661329,66,50,0,3
+02:07,[PHO 67-50] Cloud Free Throw 2 of 2 (4 PTS),0,-80,3,,204333,,1611661317,67,50,1,3
+01:51,[CHI] Evans Turnover : Bad Pass (1 TO) Steal:Billings (2 ST),-143,237,5,1628881,1630389,,1611661329,67,50,0,3
+01:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,50,0,3
+01:47,[PHO 69-50] Cloud Jump Shot: Made (6 PTS) Assist: Mack (2 AST),143,107,1,,204333,1630442,1611661317,69,50,2,3
+01:29,[PHO] Billings Foul: Personal (2 PF),38,57,6,1642291,1628881,201538,1611661317,69,50,0,3
+01:24,[CHI] Evans Driving Floating Jump Shot: Missed,63,107,2,,1630389,,1611661329,69,50,0,3
+01:23,[PHO] Team Rebound,63,107,4,,0,,1611661317,69,50,0,3
+01:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,50,0,3
+01:11,[PHO] Cloud Driving Layup Shot: Missed,29,77,2,,204333,,1611661317,69,50,0,3
+01:09,[CHI] Reese Rebound (Off:8 Def:8),29,77,4,,1642291,,1611661329,69,50,0,3
+01:04,[CHI] Evans 3pt Shot: Missed,-239,-5,2,,1630389,,1611661329,69,50,0,3
+01:00,[CHI] Harrison Rebound (Off:2 Def:0),-239,-5,4,,204330,,1611661329,69,50,0,3
+00:58.9,[CHI] Harrison Putback Layup Shot: Missed,6,31,2,,204330,,1611661329,69,50,0,3
+00:53.8,[PHO] Mack Rebound (Off:0 Def:4),17,65,4,,1630442,,1611661317,69,50,0,3
+00:34.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,50,0,3
+00:33.5,[PHO] Cloud Turnover : Bad Pass (3 TO) Steal:Allen (1 ST),-59,81,5,1628263,204333,,1611661317,69,50,0,3
+00:21.1,[CHI] Allen Driving Floating Jump Shot: Missed,11,47,2,,1628263,,1611661329,69,50,0,3
+00:18.6,[PHO] Mack Rebound (Off:0 Def:5),11,47,4,,1630442,,1611661317,69,50,0,3
+00:02.0,[PHO] Cloud Driving Floating Jump Shot: Missed,12,105,2,,204333,,1611661317,69,50,0,3
+00:02.0,[CHI] Harrison Rebound (Off:2 Def:1),12,105,4,,204330,,1611661329,69,50,0,3
+00:00.0,End Period,0,-80,13,,0,,0,69,50,0,3
+10:00,Start Period,0,-80,12,,0,,0,69,50,0,4
+09:49,[CHI] Banham 3pt Shot: Missed,227,26,2,,1627671,,1611661329,69,50,0,4
+09:44,[CHI] Harrison Rebound (Off:3 Def:1),227,26,4,,204330,,1611661329,69,50,0,4
+09:44,[CHI] Harrison Putback Layup Shot: Missed,-12,41,2,,204330,,1611661329,69,50,0,4
+09:43,[CHI] Reese Rebound (Off:9 Def:8),-12,41,4,,1642291,,1611661329,69,50,0,4
+09:42,[CHI 52-69] Reese Putback Layup Shot: Made (12 PTS),34,19,1,,1642291,,1611661329,69,52,2,4
+09:42,[PHO] Billings Foul: Shooting (3 PF) (1 FTA),32,-2,6,1642291,1628881,1629176,1611661317,69,52,0,4
+09:42,[CHI 53-69] Reese Free Throw 1 of 1 (13 PTS),0,-80,3,,1642291,,1611661329,69,53,1,4
+09:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,53,0,4
+09:19,[PHO] Griner Turnaround Jump Shot: Missed,-107,72,2,,203398,,1611661317,69,53,0,4
+09:14,[CHI] Harrison Rebound (Off:3 Def:2),-107,72,4,,204330,,1611661329,69,53,0,4
+09:09,[PHO] Billings Foul: Personal (4 PF),109,48,6,204330,1628881,1629171,1611661317,69,53,0,4
+09:04,[CHI] Evans Pullup Jump shot: Missed,-16,111,2,,1630389,,1611661329,69,53,0,4
+08:59,[PHO] Billings Rebound (Off:2 Def:4),-16,111,4,,1628881,,1611661317,69,53,0,4
+08:53,[PHO 71-53] Billings Running Layup Shot: Made (8 PTS) Assist: Taurasi (4 AST),-13,23,1,,1628881,100940,1611661317,71,53,2,4
+08:34,[CHI 55-71] Reese Jump Shot: Made (15 PTS) Assist: Evans (1 AST),102,85,1,,1642291,1630389,1611661329,71,55,2,4
+08:15,[PHO 74-55] Billings 3pt Shot: Made (11 PTS) Assist: Griner (3 AST),233,18,1,,1628881,203398,1611661317,74,55,3,4
+08:01,[CHI 57-74] Harrison Pullup Jump shot: Made (10 PTS) Assist: Banham (2 AST),-123,-5,1,,204330,1627671,1611661329,74,57,2,4
+08:00,[CHI] Reese Foul: Personal (4 PF),-74,789,6,1628881,1642291,1629176,1611661329,74,57,0,4
+08:00,[CHI] Harrison Substitution replaced by Cardoso,0,-80,8,,204330,1642289,1611661329,74,57,0,4
+07:41,[PHO] Griner Turnaround Jump Shot: Missed,-127,75,2,,203398,,1611661317,74,57,0,4
+07:36,[CHI] Reese Rebound (Off:9 Def:9),-127,75,4,,1642291,,1611661329,74,57,0,4
+07:27,[CHI 59-74] Reese Jump Shot: Made (17 PTS) Assist: Allen (1 AST),40,194,1,,1642291,1628263,1611661329,74,59,2,4
+07:13,[PHO] Griner Turnaround Jump Shot: Missed,-42,83,2,,203398,,1611661317,74,59,0,4
+07:10,[PHO] Sutton Rebound (Off:1 Def:0),-42,83,4,,1630134,,1611661317,74,59,0,4
+07:04,[PHO 76-59] Griner Cutting Layup Shot: Made (18 PTS) Assist: Sutton (2 AST),-35,13,1,,203398,1630134,1611661317,76,59,2,4
+06:51,[PHO] Griner Foul: Personal (2 PF),29,27,6,1642289,203398,201538,1611661317,76,59,0,4
+06:51,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,76,59,0,4
+06:51,[CHI] Evans Substitution replaced by Carter,0,-80,8,,1630389,1630150,1611661329,76,59,0,4
+06:38,[CHI 61-76] Reese Layup Shot: Made (19 PTS) Assist: Cardoso (2 AST),27,48,1,,1642291,1642289,1611661329,76,61,2,4
+06:16,[CHI] Cardoso Foul: Shooting (6 PF) (2 FTA),-16,87,6,203398,1642289,1629171,1611661329,76,61,0,4
+06:16,[PHO] Griner Free Throw 1 of 2 Missed,0,-80,3,,203398,,1611661317,76,61,0,4
+06:16,[PHO] Team Rebound,0,-80,4,,0,,1611661317,76,61,0,4
+06:16,[PHO] Billings Substitution replaced by Cloud,0,-80,8,,1628881,204333,1611661317,76,61,0,4
+06:16,[CHI] Cardoso Substitution replaced by Harrison,0,-80,8,,1642289,204330,1611661329,76,61,0,4
+06:16,[PHO] Griner Free Throw 2 of 2 Missed,0,-80,3,,203398,,1611661317,76,61,0,4
+06:14,[CHI] Carter Rebound (Off:2 Def:4),0,-80,4,,1630150,,1611661329,76,61,0,4
+05:55,[CHI] Harrison Step Back Jump shot: Missed,-111,97,2,,204330,,1611661329,76,61,0,4
+05:51,[PHO] Cunningham Rebound (Off:0 Def:9),-111,97,4,,1629482,,1611661317,76,61,0,4
+05:37,[PHO] Griner Turnaround Hook Shot: Missed,1,69,2,,203398,,1611661317,76,61,0,4
+05:34,[CHI] Reese Rebound (Off:9 Def:10),-18,77,4,,1642291,,1611661329,76,61,0,4
+05:27,[CHI 63-76] Carter Driving Layup Shot: Made (14 PTS),-10,15,1,,1630150,,1611661329,76,63,2,4
+05:25,Timeout : Regular,0,-80,9,,1611661317,,1611661317,76,63,0,4
+05:25,[PHO] Sutton Substitution replaced by Taurasi,0,-80,8,,1630134,100940,1611661317,76,63,0,4
+05:25,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,76,63,0,4
+05:12,[PHO] Copper Layup Shot: Missed Block: Harrison (1 BLK),8,34,2,204330,1627674,,1611661317,76,63,0,4
+05:06,[CHI] Harrison Rebound (Off:3 Def:3),8,34,4,,204330,,1611661329,76,63,0,4
+05:06,[CHI 65-76] Carter Running Layup Shot: Made (16 PTS) Assist: Allen (2 AST),4,22,1,,1630150,1628263,1611661329,76,65,2,4
+04:49,[PHO] Copper Turnover : Bad Pass (2 TO) Steal:Reese (1 ST),97,295,5,1642291,1627674,,1611661317,76,65,0,4
+04:40,Jump Ball Mack vs Carter (Copper gains possession),0,-80,10,1630150,1630442,1627674,1611661317,76,65,0,4
+04:36,[CHI] Carter Turnover : Lost Ball (2 TO) Steal:Mack (1 ST),0,-80,5,1630442,1630150,,1611661329,76,65,0,4
+04:22,[PHO 79-65] Taurasi 3pt Shot: Made (23 PTS) Assist: Cunningham (3 AST),-22,258,1,,100940,1629482,1611661317,79,65,3,4
+04:00,[PHO] Copper Foul: Shooting (5 PF) (2 FTA),21,41,6,1630150,1627674,201538,1611661317,79,65,0,4
+04:00,[CHI] Carter Free Throw 1 of 2 Missed,0,-80,3,,1630150,,1611661329,79,65,0,4
+04:00,[CHI] Team Rebound,0,-80,4,,0,,1611661329,79,65,0,4
+04:00,[PHO] Mack Substitution replaced by Griner,0,-80,8,,1630442,203398,1611661317,79,65,0,4
+04:00,[CHI] Carter Free Throw 2 of 2 Missed,0,-80,3,,1630150,,1611661329,79,65,0,4
+03:57,[PHO] Taurasi Rebound (Off:0 Def:2),0,-80,4,,100940,,1611661317,79,65,0,4
+03:43,[PHO] Taurasi 3pt Shot: Missed,119,238,2,,100940,,1611661317,79,65,0,4
+03:41,[CHI] Team Rebound,119,238,4,,0,,1611661329,79,65,0,4
+03:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,79,65,0,4
+03:28,[CHI] Carter Turnaround Jump Shot: Missed,123,79,2,,1630150,,1611661329,79,65,0,4
+03:24,[PHO] Taurasi Rebound (Off:0 Def:3),123,79,4,,100940,,1611661317,79,65,0,4
+03:09,[PHO 82-65] Cunningham 3pt Shot: Made (11 PTS) Assist: Taurasi (5 AST),-199,182,1,,1629482,100940,1611661317,82,65,3,4
+02:50,[CHI] Allen 3pt Shot: Missed,88,223,2,,1628263,,1611661329,82,65,0,4
+02:49,[CHI] Reese Rebound (Off:10 Def:10),88,223,4,,1642291,,1611661329,82,65,0,4
+02:49,[CHI] Reese Tip Layup Shot: Missed,-6,47,2,,1642291,,1611661329,82,65,0,4
+02:48,[CHI] Banham Rebound (Off:1 Def:1),-6,47,4,,1627671,,1611661329,82,65,0,4
+02:45,[CHI] Banham 3pt Shot: Missed,179,205,2,,1627671,,1611661329,82,65,0,4
+02:40,[PHO] Cunningham Rebound (Off:0 Def:10),179,205,4,,1629482,,1611661317,82,65,0,4
+02:39,[PHO 84-65] Cunningham Running Layup Shot: Made (13 PTS),0,21,1,,1629482,,1611661317,84,65,2,4
+02:39,[CHI] Banham Foul: Shooting (2 PF) (1 FTA),8,8,6,1629482,1627671,201538,1611661329,84,65,0,4
+02:39,Timeout : Official,0,-80,9,,0,,0,84,65,0,4
+02:39,[CHI] Reese Substitution replaced by Turner,0,-80,8,,1642291,1629488,1611661329,84,65,0,4
+02:39,[CHI] Allen Substitution replaced by Onyenwere,0,-80,8,,1628263,1630446,1611661329,84,65,0,4
+02:39,[CHI] Banham Substitution replaced by Jefferson,0,-80,8,,1627671,1627669,1611661329,84,65,0,4
+02:39,[PHO] Cunningham Free Throw 1 of 1 Missed,0,-80,3,,1629482,,1611661317,84,65,0,4
+02:35,[CHI] Turner Rebound (Off:0 Def:2),0,-80,4,,1629488,,1611661329,84,65,0,4
+02:24,[CHI] Onyenwere Layup Shot: Missed Block: Cloud (2 BLK),-4,60,2,204333,1630446,,1611661329,84,65,0,4
+02:24,[CHI] Team Rebound,-4,60,4,,0,,1611661329,84,65,0,4
+02:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,84,65,0,4
+02:14,[CHI] Team Turnover : Shot Clock Turnover,-26,68,5,,0,1629171,1611661329,84,65,0,4
+01:57,[CHI] Harrison Violation:Kicked Ball,0,-80,7,,204330,,1611661329,84,65,0,4
+01:57,[PHO] Copper Substitution replaced by Mack,0,-80,8,,1627674,1630442,1611661317,84,65,0,4
+01:57,[PHO] Taurasi Substitution replaced by Billings,0,-80,8,,100940,1628881,1611661317,84,65,0,4
+01:57,[PHO] Griner Substitution replaced by Herbert Harrigan,0,-80,8,,203398,1630114,1611661317,84,65,0,4
+01:57,[PHO] Cloud Substitution replaced by Sutton,0,-80,8,,204333,1630134,1611661317,84,65,0,4
+01:43,[PHO] Team Turnover : Shot Clock Turnover,140,381,5,,0,1629176,1611661317,84,65,0,4
+01:33,[CHI] Carter Driving Layup Shot: Missed,35,20,2,,1630150,,1611661329,84,65,0,4
+01:31,[PHO] Mack Rebound (Off:0 Def:6),35,20,4,,1630442,,1611661317,84,65,0,4
+01:18,[PHO] Herbert Harrigan 3pt Shot: Missed,232,18,2,,1630114,,1611661317,84,65,0,4
+01:14,[PHO] Billings Rebound (Off:3 Def:4),232,18,4,,1628881,,1611661317,84,65,0,4
+01:13,[PHO 86-65] Billings Putback Layup Shot: Made (13 PTS),-6,23,1,,1628881,,1611661317,86,65,2,4
+01:04,[PHO] Herbert Harrigan Foul: Personal (1 PF) (2 FTA),16,44,6,204330,1630114,201538,1611661317,86,65,0,4
+01:04,[CHI 66-86] Harrison Free Throw 1 of 2 (11 PTS),0,-80,3,,204330,,1611661329,86,66,1,4
+01:04,[CHI 67-86] Harrison Free Throw 2 of 2 (12 PTS),0,-80,3,,204330,,1611661329,86,67,1,4
+00:54.2,[PHO] Sutton Foul: Offensive (1 PF),-62,388,6,1627669,1630134,1629171,1611661317,86,67,0,4
+00:54.2,[PHO] Sutton Turnover : Offensive Foul Turnover (1 TO),-62,388,5,,1630134,1629171,1611661317,86,67,0,4
+00:54.2,[CHI] Jefferson Free Throw 1 of 2 Missed,0,-80,3,,1627669,,1611661329,86,67,0,4
+00:54.2,[CHI] Team Rebound,0,-80,4,,0,,1611661329,86,67,0,4
+00:54.2,[CHI 68-86] Jefferson Free Throw 2 of 2 (3 PTS),0,-80,3,,1627669,,1611661329,86,68,1,4
+00:37.1,[PHO] Cunningham Turnover : Lost Ball (2 TO) Steal:Onyenwere (2 ST),179,188,5,1630446,1629482,,1611661317,86,68,0,4
+00:32.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,86,68,0,4
+00:26.5,[CHI] Harrison Turnover : Bad Pass (3 TO) Steal:Herbert Harrigan (1 ST),13,151,5,1630114,204330,,1611661329,86,68,0,4
+00:24.0,[CHI] Onyenwere Foul: Shooting (4 PF) (2 FTA),2,24,6,1628881,1630446,201538,1611661329,86,68,0,4
+00:24.0,[PHO] Billings Free Throw 1 of 2 Missed,0,-80,3,,1628881,,1611661317,86,68,0,4
+00:24.0,[PHO] Team Rebound,0,-80,4,,0,,1611661317,86,68,0,4
+00:24.0,[PHO] Billings Free Throw 2 of 2 Missed,0,-80,3,,1628881,,1611661317,86,68,0,4
+00:21.8,[PHO] Mack Rebound (Off:1 Def:6),0,-80,4,,1630442,,1611661317,86,68,0,4
+00:08.0,[PHO] Mack Jump Shot: Missed,130,10,2,,1630442,,1611661317,86,68,0,4
+00:05.2,[PHO] Billings Rebound (Off:4 Def:4),130,10,4,,1628881,,1611661317,86,68,0,4
+00:05.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,86,68,0,4
+00:00.0,End Period,0,-80,13,,0,,0,86,68,0,4

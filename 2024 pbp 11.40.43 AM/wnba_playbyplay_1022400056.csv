@@ -1,0 +1,404 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball Boston vs Edwards (Smith gains possession),0,-80,10,1642290,1641648,1631019,1611661325,0,0,0,1
+09:52,[IND 2-0] Smith Driving Layup Shot: Made (2 PTS) Assist: Boston (1 AST),-33,0,1,,1631019,1641648,1611661325,0,2,2,1
+09:28,[WAS] Edwards Step Back Jump shot: Missed,156,-1,2,,1642290,,1611661322,0,2,0,1
+09:24,[IND] Smith Rebound (Off:0 Def:1),156,-1,4,,1631019,,1611661325,0,2,0,1
+09:11,[IND] Boston Jump Shot: Missed,177,81,2,,1641648,,1611661325,0,2,0,1
+09:08,[WAS] Atkins Rebound (Off:0 Def:1),177,81,4,,1628878,,1611661322,0,2,0,1
+09:04,[WAS] Samuelson 3pt Shot: Missed Block: Wallace (1 BLK),-212,112,2,1628929,1628317,,1611661322,0,2,0,1
+09:04,[WAS] Team Rebound,-212,112,4,,0,,1611661322,0,2,0,1
+09:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,2,0,1
+08:52,[WAS 2-2] Edwards Reverse Layup Shot: Made (2 PTS) Assist: Vanloo (1 AST),17,-5,1,,1642290,1642210,1611661322,2,2,2,1
+08:28,[IND] Smith Turnover : Lost Ball (1 TO) Steal:Atkins (1 ST),57,57,5,1628878,1631019,,1611661325,2,2,0,1
+08:19,[WAS] Atkins 3pt Shot: Missed,-201,188,2,,1628878,,1611661322,2,2,0,1
+08:14,[IND] Mitchell Rebound (Off:0 Def:1),-201,188,4,,1628909,,1611661325,2,2,0,1
+08:09,[IND 5-2] Wallace 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),-236,-18,1,,1628929,1628909,1611661325,2,5,3,1
+07:58,[IND] Mitchell Foul: Personal (1 PF),-215,67,6,1628317,1628909,202679,1611661325,2,5,0,1
+07:43,[WAS 4-5] Dolson Cutting Layup Shot: Made (2 PTS) Assist: Edwards (1 AST),-6,11,1,,203828,1642290,1611661322,4,5,2,1
+07:23,[IND 7-4] Boston Cutting Layup Shot: Made (2 PTS) Assist: Mitchell (2 AST),9,3,1,,1641648,1628909,1611661325,4,7,2,1
+07:06,[WAS 7-7] Dolson 3pt Shot: Made (5 PTS) Assist: Atkins (1 AST),-171,164,1,,203828,1628878,1611661322,7,7,3,1
+06:52,[IND] Smith 3pt Shot: Missed,66,253,2,,1631019,,1611661325,7,7,0,1
+06:48,[WAS] Atkins Rebound (Off:0 Def:2),66,253,4,,1628878,,1611661322,7,7,0,1
+06:36,[WAS] Atkins Turnover : Step Out of Bounds Turnover (1 TO),-233,-19,5,,1628878,202679,1611661322,7,7,0,1
+06:23,[IND 9-7] Clark Driving Finger Roll Layup Shot: Made (2 PTS),20,-2,1,,1642286,,1611661325,7,9,2,1
+06:12,[WAS] Vanloo Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-51,-15,5,,1642210,202679,1611661322,7,9,0,1
+06:00,[IND 11-7] Boston Cutting Layup Shot: Made (4 PTS) Assist: Clark (1 AST),7,20,1,,1641648,1642286,1611661325,7,11,2,1
+05:42,[WAS] Dolson Cutting Layup Shot: Missed,-77,21,2,,203828,,1611661322,7,11,0,1
+05:40,[IND] Boston Rebound (Off:0 Def:1),-77,21,4,,1641648,,1611661325,7,11,0,1
+05:37,[IND 13-7] Mitchell Running Finger Roll Layup Shot: Made (2 PTS) Assist: Clark (2 AST),-26,-2,1,,1628909,1642286,1611661325,7,13,2,1
+05:37,Stoppage Other,0,-80,20,,0,,0,7,13,0,1
+05:24,[WAS 10-13] Dolson 3pt Shot: Made (8 PTS) Assist: Vanloo (2 AST),240,10,1,,203828,1642210,1611661322,10,13,3,1
+05:14,[IND] Clark Turnover : Lost Ball (1 TO) Steal:Vanloo (1 ST),212,529,5,1642210,1642286,,1611661325,10,13,0,1
+05:11,[WAS 13-13] Vanloo 3pt Shot: Made (3 PTS),-189,198,1,,1642210,,1611661322,13,13,3,1
+05:05,[WAS] Vanloo Foul: Personal (1 PF),220,414,6,1642286,1642210,1627531,1611661322,13,13,0,1
+05:05,[WAS] Samuelson Substitution replaced by Richards,0,-80,8,,1628317,1630459,1611661322,13,13,0,1
+04:49,[IND 16-13] Clark 3pt Shot: Made (5 PTS),-54,283,1,,1642286,,1611661325,13,16,3,1
+04:33,[IND] Boston Foul: Shooting (1 PF) (2 FTA),-24,13,6,1642290,1641648,1627531,1611661325,13,16,0,1
+04:33,Timeout : Official,0,-80,9,,0,,0,13,16,0,1
+04:33,[WAS] Dolson Substitution replaced by Hines-Allen,0,-80,8,,203828,1628899,1611661322,13,16,0,1
+04:33,[WAS 14-16] Edwards Free Throw 1 of 2 (3 PTS),0,-80,3,,1642290,,1611661322,14,16,1,1
+04:33,[WAS 15-16] Edwards Free Throw 2 of 2 (4 PTS),0,-80,3,,1642290,,1611661322,15,16,1,1
+04:16,[IND] Mitchell 3pt Shot: Missed,-216,121,2,,1628909,,1611661325,15,16,0,1
+04:13,[WAS] Edwards Rebound (Off:0 Def:1),-216,121,4,,1642290,,1611661322,15,16,0,1
+04:01,[WAS] Atkins Pullup Jump shot: Missed,-154,55,2,,1628878,,1611661322,15,16,0,1
+04:00,[WAS] Atkins Rebound (Off:1 Def:2),-154,55,4,,1628878,,1611661322,15,16,0,1
+03:54,[WAS] Hines-Allen Layup Shot: Missed,40,0,2,,1628899,,1611661322,15,16,0,1
+03:51,[IND] Boston Rebound (Off:0 Def:2),40,0,4,,1641648,,1611661325,15,16,0,1
+03:48,[IND 18-15] Smith Running Layup Shot: Made (4 PTS) Assist: Clark (3 AST),-24,11,1,,1631019,1642286,1611661325,15,18,2,1
+03:36,[WAS] Atkins 3pt Shot: Missed,-181,174,2,,1628878,,1611661322,15,18,0,1
+03:33,[IND] Wallace Rebound (Off:0 Def:1),-181,174,4,,1628929,,1611661325,15,18,0,1
+03:30,[IND] Mitchell Running Finger Roll Layup Shot: Missed,-24,19,2,,1628909,,1611661325,15,18,0,1
+03:26,[IND] Smith Rebound (Off:1 Def:1),-24,19,4,,1631019,,1611661325,15,18,0,1
+03:26,[IND] Smith Tip Layup Shot: Missed,-1,17,2,,1631019,,1611661325,15,18,0,1
+03:26,[WAS] Hines-Allen Rebound (Off:0 Def:1),-1,17,4,,1628899,,1611661322,15,18,0,1
+03:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,18,0,1
+03:14,[IND] Wallace Substitution replaced by Wheeler,0,-80,8,,1628929,204365,1611661325,15,18,0,1
+03:02,[WAS 17-18] Atkins Pullup Jump shot: Made (2 PTS),110,24,1,,1628878,,1611661322,17,18,2,1
+02:53,[IND] Clark 3pt Shot: Missed,109,268,2,,1642286,,1611661325,17,18,0,1
+02:50,[WAS] Hines-Allen Rebound (Off:0 Def:2),109,268,4,,1628899,,1611661322,17,18,0,1
+02:40,[WAS 19-18] Richards Jump Shot: Made (2 PTS) Assist: Hines-Allen (1 AST),-154,45,1,,1630459,1628899,1611661322,19,18,2,1
+02:24,[IND] Smith Fadeaway Jump Shot: Missed,-83,94,2,,1631019,,1611661325,19,18,0,1
+02:24,[WAS] Hines-Allen Rebound (Off:0 Def:3),-83,94,4,,1628899,,1611661322,19,18,0,1
+02:20,[WAS] Edwards Running Layup Shot: Missed Block: Smith (1 BLK),1,7,2,1631019,1642290,,1611661322,19,18,0,1
+02:18,[IND] Smith Rebound (Off:1 Def:2),-94,87,4,,1631019,,1611661325,19,18,0,1
+02:05,[IND 20-19] Boston Driving Layup Shot: Made (6 PTS) Assist: Wheeler (1 AST),-1,9,1,,1641648,204365,1611661325,19,20,2,1
+02:05,[WAS] Richards Turnover : Lost Ball (1 TO) Steal:Clark (1 ST),-18,39,5,1642286,1630459,,1611661322,19,20,0,1
+01:49,[IND 22-19] Wheeler Running Layup Shot: Made (2 PTS),10,9,1,,204365,,1611661325,19,22,2,1
+01:32,[WAS] Vanloo Turnover : Bad Pass (2 TO) Steal:Clark (2 ST),-10,230,5,1642286,1642210,,1611661322,19,22,0,1
+01:19,[IND 25-19] Smith 3pt Shot: Made (7 PTS) Assist: Clark (4 AST),-222,130,1,,1631019,1642286,1611661325,19,25,3,1
+01:17,Timeout : Regular,0,-80,9,,1611661322,,1611661322,19,25,0,1
+01:17,[WAS] Edwards Substitution replaced by Walker-Kimbrough,0,-80,8,,1642290,1628278,1611661322,19,25,0,1
+01:17,[WAS] Vanloo Substitution replaced by Dolson,0,-80,8,,1642210,203828,1611661322,19,25,0,1
+01:17,[IND] Smith Substitution replaced by Samuelson,0,-80,8,,1631019,1629478,1611661325,19,25,0,1
+01:05,[WAS] Dolson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),12,254,5,,203828,1627531,1611661322,19,25,0,1
+00:54.2,[IND] Wheeler Cutting Finger Roll Layup Shot: Missed Block: Dolson (1 BLK),-51,2,2,203828,204365,,1611661325,19,25,0,1
+00:52.3,[WAS] Dolson Rebound (Off:0 Def:1),-77,37,4,,203828,,1611661322,19,25,0,1
+00:48.6,[WAS] Richards 3pt Shot: Missed,-226,94,2,,1630459,,1611661322,19,25,0,1
+00:43.5,[IND] Boston Rebound (Off:0 Def:3),-226,94,4,,1641648,,1611661325,19,25,0,1
+00:34.6,[IND 28-19] Samuelson 3pt Shot: Made (3 PTS) Assist: Boston (2 AST),122,257,1,,1629478,1641648,1611661325,19,28,3,1
+00:19.5,[WAS] Richards Turnover : Bad Pass (2 TO) Steal:Clark (3 ST),-176,162,5,1642286,1630459,,1611661322,19,28,0,1
+00:02.9,[IND] Boston Turnover : Traveling (1 TO),68,27,5,,1641648,1627531,1611661325,19,28,0,1
+00:00.2,[WAS] Atkins 3pt Shot: Missed,-81,450,2,,1628878,,1611661322,19,28,0,1
+00:00.1,[WAS] Team Rebound,-81,450,4,,0,,1611661322,19,28,0,1
+00:00.0,End Period,0,-80,13,,0,,0,19,28,0,1
+10:00,Start Period,0,-80,12,,0,,0,19,28,0,2
+09:48,[WAS] Melbourne Turnover : Out of Bounds - Bad Pass Turnover (1 TO),113,39,5,,1631141,1627531,1611661322,19,28,0,2
+09:34,[IND 31-19] Clark 3pt Shot: Made (8 PTS) Assist: Wheeler (2 AST),195,215,1,,1642286,204365,1611661325,19,31,3,2
+09:19,[WAS 21-31] Dolson Jump Shot: Made (10 PTS) Assist: Walker-Kimbrough (1 AST),39,78,1,,203828,1628278,1611661322,21,31,2,2
+09:07,[IND] Clark 3pt Shot: Missed,-98,306,2,,1642286,,1611661325,21,31,0,2
+09:04,[WAS] Melbourne Rebound (Off:0 Def:1),-107,277,4,,1631141,,1611661322,21,31,0,2
+09:00,[IND] Smith Foul: Shooting (1 PF) (2 FTA),-33,19,6,1631141,1631019,1627531,1611661325,21,31,0,2
+09:00,[IND] Team Violation : Delay Of Game,0,-80,7,,0,,1611661325,21,31,0,2
+09:00,[WAS 22-31] Melbourne Free Throw 1 of 2 (1 PTS),0,-80,3,,1631141,,1611661322,22,31,1,2
+09:00,[WAS 23-31] Melbourne Free Throw 2 of 2 (2 PTS),0,-80,3,,1631141,,1611661322,23,31,1,2
+08:47,[IND 34-23] Wallace 3pt Shot: Made (6 PTS) Assist: Wheeler (3 AST),-227,41,1,,1628929,204365,1611661325,23,34,3,2
+08:28,[WAS 25-34] Walker-Kimbrough Pullup Jump shot: Made (2 PTS) Assist: Engstler (1 AST),-148,60,1,,1628278,1631083,1611661322,25,34,2,2
+08:19,[IND 36-25] Smith Reverse Layup Shot: Made (9 PTS) Assist: Wheeler (4 AST),9,16,1,,1631019,204365,1611661325,25,36,2,2
+08:03,[WAS] Samuelson 3pt Shot: Missed,183,182,2,,1628317,,1611661322,25,36,0,2
+08:03,[IND] Smith Rebound (Off:1 Def:3),183,182,4,,1631019,,1611661325,25,36,0,2
+07:51,[IND] Samuelson 3pt Shot: Missed,-2,273,2,,1629478,,1611661325,25,36,0,2
+07:48,[WAS] Dolson Rebound (Off:0 Def:2),-2,273,4,,203828,,1611661322,25,36,0,2
+07:42,[WAS 27-36] Melbourne Driving Finger Roll Layup Shot: Made (4 PTS),12,0,1,,1631141,,1611661322,27,36,2,2
+07:24,[IND] Samuelson 3pt Shot: Missed,132,264,2,,1629478,,1611661325,27,36,0,2
+07:18,[IND] Samuelson Rebound (Off:1 Def:0),132,264,4,,1629478,,1611661325,27,36,0,2
+07:17,[IND 38-27] Wheeler Cutting Layup Shot: Made (4 PTS) Assist: Samuelson (1 AST),10,14,1,,204365,1629478,1611661325,27,38,2,2
+07:08,[WAS] Samuelson 3pt Shot: Missed,-191,173,2,,1628317,,1611661322,27,38,0,2
+07:06,[IND] Team Rebound,-191,173,4,,0,,1611661325,27,38,0,2
+07:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,38,0,2
+06:58,[IND] Wheeler Turnover : Bad Pass (1 TO) Steal:Walker-Kimbrough (1 ST),180,157,5,1628278,204365,,1611661325,27,38,0,2
+06:57,[IND] Wheeler Foul: Personal (1 PF),-171,645,6,1628278,204365,1629182,1611661325,27,38,0,2
+06:48,[WAS] Dolson 3pt Shot: Missed,-11,241,2,,203828,,1611661322,27,38,0,2
+06:44,[IND] Clark Rebound (Off:0 Def:1),-11,241,4,,1642286,,1611661325,27,38,0,2
+06:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,38,0,2
+06:36,[IND] Clark Substitution replaced by Boston,0,-80,8,,1642286,1641648,1611661325,27,38,0,2
+06:36,[IND] Samuelson Substitution replaced by Mitchell,0,-80,8,,1629478,1628909,1611661325,27,38,0,2
+06:21,[IND] Boston Turnaround Jump Shot: Missed,-118,52,2,,1641648,,1611661325,27,38,0,2
+06:17,[WAS] Engstler Rebound (Off:0 Def:1),-118,52,4,,1631083,,1611661322,27,38,0,2
+06:03,[WAS] Walker-Kimbrough Turnover : Bad Pass (1 TO),166,209,5,,1628278,,1611661322,27,38,0,2
+06:03,[WAS] Walker-Kimbrough Foul: Loose Ball (1 PF),-123,578,6,204365,1628278,1627531,1611661322,27,38,0,2
+06:03,[WAS] Melbourne Substitution replaced by Atkins,0,-80,8,,1631141,1628878,1611661322,27,38,0,2
+06:03,[WAS] Engstler Substitution replaced by Vanloo,0,-80,8,,1631083,1642210,1611661322,27,38,0,2
+06:03,[WAS] Walker-Kimbrough Substitution replaced by Edwards,0,-80,8,,1628278,1642290,1611661322,27,38,0,2
+05:54,[IND] Wheeler 3pt Shot: Missed,63,258,2,,204365,,1611661325,27,38,0,2
+05:48,[WAS] Samuelson Rebound (Off:0 Def:1),63,258,4,,1628317,,1611661322,27,38,0,2
+05:35,[IND] Boston Foul: Personal (2 PF),-20,119,6,1642290,1641648,1627531,1611661325,27,38,0,2
+05:35,Timeout : Regular,0,-80,9,,1611661322,,1611661322,27,38,0,2
+05:35,[IND] Wheeler Substitution replaced by Clark,0,-80,8,,204365,1642286,1611661325,27,38,0,2
+05:28,[WAS 29-38] Atkins Driving Floating Bank Jump Shot: Made (4 PTS),-60,21,1,,1628878,,1611661322,29,38,2,2
+05:12,[IND] Wallace 3pt Shot: Missed,232,19,2,,1628929,,1611661325,29,38,0,2
+05:09,[WAS] Atkins Rebound (Off:1 Def:3),232,19,4,,1628878,,1611661322,29,38,0,2
+04:48,[WAS] Atkins Driving Floating Bank Jump Shot: Missed,-77,32,2,,1628878,,1611661322,29,38,0,2
+04:47,[WAS] Edwards Rebound (Off:1 Def:1),-77,32,4,,1642290,,1611661322,29,38,0,2
+04:46,[WAS] Edwards Putback Layup Shot: Missed,-1,14,2,,1642290,,1611661322,29,38,0,2
+04:43,[WAS] Atkins Rebound (Off:2 Def:3),-1,14,4,,1628878,,1611661322,29,38,0,2
+04:42,[WAS] Vanloo 3pt Shot: Missed,138,207,2,,1642210,,1611661322,29,38,0,2
+04:40,[IND] Clark Rebound (Off:0 Def:2),138,207,4,,1642286,,1611661325,29,38,0,2
+04:34,[IND] Clark Turnover : Lost Ball (2 TO) Steal:Samuelson (1 ST),133,216,5,1628317,1642286,,1611661325,29,38,0,2
+04:29,[WAS] Vanloo Turnover : Bad Pass (3 TO) Steal:Boston (1 ST),162,117,5,1641648,1642210,,1611661322,29,38,0,2
+04:21,[WAS] Atkins Foul: Personal (1 PF),28,256,6,1642286,1628878,1629182,1611661322,29,38,0,2
+04:12,[IND] Mitchell Driving Finger Roll Layup Shot: Missed,-67,52,2,,1628909,,1611661325,29,38,0,2
+04:10,[WAS] Edwards Rebound (Off:1 Def:2),-67,52,4,,1642290,,1611661322,29,38,0,2
+03:59,[WAS] Edwards Jump Shot: Missed,-1,196,2,,1642290,,1611661322,29,38,0,2
+03:58,[WAS] Team Rebound,-1,196,4,,0,,1611661322,29,38,0,2
+03:58,[IND] Mitchell Foul: Loose Ball (2 PF),-4,152,6,1628878,1628909,1627531,1611661325,29,38,0,2
+03:58,[WAS] Dolson Substitution replaced by Hines-Allen,0,-80,8,,203828,1628899,1611661322,29,38,0,2
+03:51,[WAS 31-38] Atkins Driving Floating Jump Shot: Made (6 PTS),-21,72,1,,1628878,,1611661322,31,38,2,2
+03:37,[IND] Boston 3pt Shot: Missed,217,96,2,,1641648,,1611661325,31,38,0,2
+03:33,[WAS] Samuelson Rebound (Off:0 Def:2),217,96,4,,1628317,,1611661322,31,38,0,2
+03:27,[WAS 34-38] Atkins 3pt Shot: Made (9 PTS) Assist: Vanloo (3 AST),166,189,1,,1628878,1642210,1611661322,34,38,3,2
+03:25,Timeout : Regular,0,-80,9,,1611661325,,1611661325,34,38,0,2
+03:25,[IND] Smith Substitution replaced by Samuelson,0,-80,8,,1631019,1629478,1611661325,34,38,0,2
+03:07,[IND] Mitchell 3pt Shot: Missed,-238,-13,2,,1628909,,1611661325,34,38,0,2
+03:04,[WAS] Edwards Rebound (Off:1 Def:3),-238,-13,4,,1642290,,1611661322,34,38,0,2
+02:43,[WAS 36-38] Edwards Driving Layup Shot: Made (6 PTS),-26,-1,1,,1642290,,1611661322,36,38,2,2
+02:20,[IND] Samuelson Pullup Jump shot: Missed,-130,44,2,,1629478,,1611661325,36,38,0,2
+02:17,[WAS] Edwards Rebound (Off:1 Def:4),-130,44,4,,1642290,,1611661322,36,38,0,2
+02:08,[IND] Samuelson Foul: Shooting (1 PF) (2 FTA),30,18,6,1628899,1629478,1627531,1611661325,36,38,0,2
+02:08,[WAS] Hines-Allen Free Throw 1 of 2 Missed,0,-80,3,,1628899,,1611661322,36,38,0,2
+02:08,[WAS] Team Rebound,0,-80,4,,0,,1611661322,36,38,0,2
+02:08,[WAS 37-38] Hines-Allen Free Throw 2 of 2 (1 PTS),0,-80,3,,1628899,,1611661322,37,38,1,2
+01:47,[IND] Wallace 3pt Shot: Missed,-213,144,2,,1628929,,1611661325,37,38,0,2
+01:45,[WAS] Edwards Rebound (Off:1 Def:5),-213,144,4,,1642290,,1611661322,37,38,0,2
+01:33,[WAS] Edwards Pullup Jump shot: Missed,-9,168,2,,1642290,,1611661322,37,38,0,2
+01:28,[IND] Clark Rebound (Off:0 Def:3),-9,168,4,,1642286,,1611661325,37,38,0,2
+01:22,[WAS] Vanloo Foul: Personal (2 PF),-45,105,6,1642286,1642210,202679,1611661322,37,38,0,2
+01:22,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1628909,204365,1611661325,37,38,0,2
+01:11,[IND] Clark Turnover : Bad Pass (3 TO) Steal:Hines-Allen (1 ST),102,213,5,1628899,1642286,,1611661325,37,38,0,2
+01:04,[WAS] Atkins Running Pull-Up Jump Shot: Missed,-82,83,2,,1628878,,1611661322,37,38,0,2
+01:02,[IND] Boston Rebound (Off:0 Def:4),-82,83,4,,1641648,,1611661325,37,38,0,2
+00:52.4,[WAS] Edwards Foul: Shooting (1 PF) (2 FTA),-71,63,6,1641648,1642290,1627531,1611661322,37,38,0,2
+00:52.4,[IND 39-37] Boston Free Throw 1 of 2 (7 PTS),0,-80,3,,1641648,,1611661325,37,39,1,2
+00:52.4,[IND] Samuelson Substitution replaced by Smith,0,-80,8,,1629478,1631019,1611661325,37,39,0,2
+00:52.4,[IND 40-37] Boston Free Throw 2 of 2 (8 PTS),0,-80,3,,1641648,,1611661325,37,40,1,2
+00:37.3,[WAS 40-40] Samuelson 3pt Shot: Made (3 PTS) Assist: Hines-Allen (2 AST),-183,155,1,,1628317,1628899,1611661322,40,40,3,2
+00:23.7,[WAS] Samuelson Foul: Personal (1 PF) (2 FTA),-133,203,6,1642286,1628317,1627531,1611661322,40,40,0,2
+00:23.7,[IND 41-40] Clark Free Throw 1 of 2 (9 PTS),0,-80,3,,1642286,,1611661325,40,41,1,2
+00:23.7,[IND 42-40] Clark Free Throw 2 of 2 (10 PTS),0,-80,3,,1642286,,1611661325,40,42,1,2
+00:00.8,[WAS] Hines-Allen Jump Shot: Missed,78,88,2,,1628899,,1611661322,40,42,0,2
+00:00.8,[IND] Wallace Rebound (Off:0 Def:2),78,88,4,,1628929,,1611661325,40,42,0,2
+00:00.0,End Period,0,-80,13,,0,,0,40,42,0,2
+10:00,Start Period,0,-80,12,,0,,0,40,42,0,3
+09:47,[WAS 43-42] Atkins 3pt Shot: Made (12 PTS) Assist: Dolson (1 AST),223,28,1,,1628878,203828,1611661322,43,42,3,3
+09:30,[IND 45-43] Mitchell 3pt Shot: Made (5 PTS) Assist: Clark (5 AST),203,135,1,,1628909,1642286,1611661325,43,45,3,3
+09:13,[WAS] Edwards Turnover : Bad Pass (1 TO) Steal:Mitchell (1 ST),-15,28,5,1628909,1642290,,1611661322,43,45,0,3
+09:11,[IND 47-43] Mitchell Running Layup Shot: Made (7 PTS),-1,17,1,,1628909,,1611661325,43,47,2,3
+08:57,[WAS] Atkins 3pt Shot: Missed,-234,1,2,,1628878,,1611661322,43,47,0,3
+08:54,[IND] Smith Rebound (Off:1 Def:4),-234,1,4,,1631019,,1611661325,43,47,0,3
+08:47,[WAS] Vanloo Foul: Personal (3 PF),-165,183,6,1628909,1642210,202679,1611661322,43,47,0,3
+08:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,47,0,3
+08:40,[IND] Clark Turnover : Out of Bounds - Bad Pass Turnover (4 TO),61,162,5,,1642286,202679,1611661325,43,47,0,3
+08:25,[WAS 46-47] Dolson 3pt Shot: Made (13 PTS) Assist: Edwards (2 AST),-185,191,1,,203828,1642290,1611661322,46,47,3,3
+08:10,[IND 50-46] Wallace 3pt Shot: Made (9 PTS) Assist: Boston (3 AST),-228,88,1,,1628929,1641648,1611661325,46,50,3,3
+07:57,[WAS] Samuelson 3pt Shot: Missed,-236,3,2,,1628317,,1611661322,46,50,0,3
+07:54,[IND] Boston Rebound (Off:0 Def:5),-236,3,4,,1641648,,1611661325,46,50,0,3
+07:50,[IND] Clark 3pt Shot: Missed,-193,191,2,,1642286,,1611661325,46,50,0,3
+07:48,[WAS] Vanloo Rebound (Off:0 Def:1),-193,191,4,,1642210,,1611661322,46,50,0,3
+07:38,[WAS] Vanloo 3pt Shot: Missed,181,160,2,,1642210,,1611661322,46,50,0,3
+07:35,[IND] Clark Rebound (Off:0 Def:4),181,160,4,,1642286,,1611661325,46,50,0,3
+07:27,[IND] Smith 3pt Shot: Missed,-165,217,2,,1631019,,1611661325,46,50,0,3
+07:23,[WAS] Vanloo Rebound (Off:0 Def:2),-165,217,4,,1642210,,1611661322,46,50,0,3
+07:18,[WAS] Atkins Running Layup Shot: Missed,-84,17,2,,1628878,,1611661322,46,50,0,3
+07:16,[IND] Smith Rebound (Off:1 Def:5),-84,17,4,,1631019,,1611661325,46,50,0,3
+07:11,[WAS] Dolson Foul: Shooting (1 PF) (2 FTA),21,-1,6,1631019,203828,1629182,1611661322,46,50,0,3
+07:11,[IND] Smith Free Throw 1 of 2 Missed,0,-80,3,,1631019,,1611661325,46,50,0,3
+07:11,[IND] Team Rebound,0,-80,4,,0,,1611661325,46,50,0,3
+07:11,[IND 51-46] Smith Free Throw 2 of 2 (10 PTS),0,-80,3,,1631019,,1611661325,46,51,1,3
+06:58,[IND] Wallace Foul: Personal (1 PF),-34,260,6,1628878,1628929,1627531,1611661325,46,51,0,3
+06:50,[WAS 49-51] Samuelson 3pt Shot: Made (6 PTS) Assist: Vanloo (4 AST),-205,203,1,,1628317,1642210,1611661322,49,51,3,3
+06:34,[IND] Clark Turnaround Fadeaway shot: Missed,78,43,2,,1642286,,1611661325,49,51,0,3
+06:31,[WAS] Edwards Rebound (Off:1 Def:6),78,43,4,,1642290,,1611661322,49,51,0,3
+06:25,[WAS 52-51] Dolson 3pt Shot: Made (16 PTS) Assist: Atkins (2 AST),-86,232,1,,203828,1628878,1611661322,52,51,3,3
+06:25,Timeout : Regular,0,-80,9,,1611661325,,1611661325,52,51,0,3
+06:10,[IND] Boston Cutting Layup Shot: Missed,24,-3,2,,1641648,,1611661325,52,51,0,3
+06:09,[IND] Boston Rebound (Off:1 Def:5),24,-3,4,,1641648,,1611661325,52,51,0,3
+06:09,[WAS] Dolson Foul: Shooting (2 PF) (2 FTA),38,-9,6,1641648,203828,1627531,1611661322,52,51,0,3
+06:09,[IND 52-52] Boston Free Throw 1 of 2 (9 PTS),0,-80,3,,1641648,,1611661325,52,52,1,3
+06:09,[IND 53-52] Boston Free Throw 2 of 2 (10 PTS),0,-80,3,,1641648,,1611661325,52,53,1,3
+05:51,[WAS 55-53] Vanloo 3pt Shot: Made (6 PTS) Assist: Atkins (3 AST),-238,74,1,,1642210,1628878,1611661322,55,53,3,3
+05:39,[WAS] Atkins Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (2 PF) (1 FTA),0,-80,6,,1628878,202679,1611661322,55,53,0,3
+05:39,[IND 54-55] Mitchell Free Throw Technical (8 PTS),0,-80,3,,1628909,,1611661325,55,54,1,3
+05:39,[IND] Wallace Substitution replaced by Wheeler,0,-80,8,,1628929,204365,1611661325,55,54,0,3
+05:29,[IND] Clark Foul: Offensive (1 PF),-74,90,6,1628317,1642286,1627531,1611661325,55,54,0,3
+05:29,[IND] Clark Turnover : Offensive Foul Turnover (5 TO),-74,90,5,,1642286,1627531,1611661325,55,54,0,3
+05:17,[WAS 57-54] Edwards Cutting Layup Shot: Made (8 PTS) Assist: Vanloo (5 AST),-33,15,1,,1642290,1642210,1611661322,57,54,2,3
+05:04,[IND] Clark 3pt Shot: Missed,-149,233,2,,1642286,,1611661325,57,54,0,3
+04:59,[WAS] Atkins Rebound (Off:2 Def:4),-149,233,4,,1628878,,1611661322,57,54,0,3
+04:51,[WAS] Atkins Driving Layup Shot: Missed,-49,38,2,,1628878,,1611661322,57,54,0,3
+04:50,[WAS] Edwards Rebound (Off:2 Def:6),-49,38,4,,1642290,,1611661322,57,54,0,3
+04:49,[IND] Boston Foul: Shooting (3 PF) (2 FTA),73,213,6,1642290,1641648,202679,1611661325,57,54,0,3
+04:49,[WAS] Edwards Free Throw 1 of 2 Missed,0,-80,3,,1642290,,1611661322,57,54,0,3
+04:49,[WAS] Team Rebound,0,-80,4,,0,,1611661322,57,54,0,3
+04:49,[WAS] Atkins Substitution replaced by Hines-Allen,0,-80,8,,1628878,1628899,1611661322,57,54,0,3
+04:49,[WAS] Dolson Substitution replaced by Walker-Kimbrough,0,-80,8,,203828,1628278,1611661322,57,54,0,3
+04:49,[WAS] Edwards Free Throw 2 of 2 Missed,0,-80,3,,1642290,,1611661322,57,54,0,3
+04:45,[WAS] Vanloo Rebound (Off:1 Def:2),0,-80,4,,1642210,,1611661322,57,54,0,3
+04:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,54,0,3
+04:36,[WAS] Hines-Allen Pullup Jump shot: Missed,79,137,2,,1628899,,1611661322,57,54,0,3
+04:33,[IND] Clark Rebound (Off:0 Def:5),79,137,4,,1642286,,1611661325,57,54,0,3
+04:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,54,0,3
+04:14,[IND] Smith Turnaround Fadeaway shot: Missed,78,62,2,,1631019,,1611661325,57,54,0,3
+04:11,[WAS] Edwards Rebound (Off:2 Def:7),78,62,4,,1642290,,1611661322,57,54,0,3
+04:05,[WAS] Vanloo 3pt Shot: Missed,-26,256,2,,1642210,,1611661322,57,54,0,3
+04:02,[IND] Smith Rebound (Off:1 Def:6),-26,256,4,,1631019,,1611661325,57,54,0,3
+03:55,[IND 57-57] Clark 3pt Shot: Made (13 PTS),-151,236,1,,1642286,,1611661325,57,57,3,3
+03:26,[WAS] Walker-Kimbrough 3pt Shot: Missed,234,24,2,,1628278,,1611661322,57,57,0,3
+03:23,[IND] Smith Rebound (Off:1 Def:7),234,24,4,,1631019,,1611661325,57,57,0,3
+03:18,[IND] Boston Turnover : Traveling (2 TO),12,107,5,,1641648,202679,1611661325,57,57,0,3
+03:18,[WAS] Samuelson Substitution replaced by Atkins,0,-80,8,,1628317,1628878,1611661322,57,57,0,3
+02:57,[WAS 59-57] Hines-Allen Cutting Layup Shot: Made (3 PTS) Assist: Vanloo (6 AST),-21,10,1,,1628899,1642210,1611661322,59,57,2,3
+02:42,[IND 60-59] Mitchell 3pt Shot: Made (11 PTS) Assist: Wheeler (5 AST),-240,-20,1,,1628909,204365,1611661325,59,60,3,3
+02:31,[IND] Wheeler Foul: Personal (2 PF),121,230,6,1628878,204365,1629182,1611661325,59,60,0,3
+02:31,[WAS] Vanloo Substitution replaced by Richards,0,-80,8,,1642210,1630459,1611661322,59,60,0,3
+02:31,[IND] Smith Substitution replaced by Samuelson,0,-80,8,,1631019,1629478,1611661325,59,60,0,3
+02:24,[WAS] Atkins Turnover : Lost Ball (2 TO) Steal:Mitchell (2 ST),171,191,5,1628909,1628878,,1611661322,59,60,0,3
+02:19,[IND] Mitchell Running Pull-Up Jump Shot: Missed,-110,129,2,,1628909,,1611661325,59,60,0,3
+02:14,[WAS] Walker-Kimbrough Rebound (Off:0 Def:1),-110,129,4,,1628278,,1611661322,59,60,0,3
+02:04,[WAS] Walker-Kimbrough 3pt Shot: Missed,-210,127,2,,1628278,,1611661322,59,60,0,3
+02:01,[IND] Wheeler Rebound (Off:0 Def:1),-210,127,4,,204365,,1611661325,59,60,0,3
+01:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,60,0,3
+01:56,[WAS] Edwards Substitution replaced by Dolson,0,-80,8,,1642290,203828,1611661322,59,60,0,3
+01:46,[IND] Boston Driving Hook Shot: Missed,-70,53,2,,1641648,,1611661325,59,60,0,3
+01:46,[WAS] Dolson Rebound (Off:0 Def:3),-70,53,4,,203828,,1611661322,59,60,0,3
+01:45,[IND] Wheeler Foul: Personal (3 PF),-196,613,6,1628278,204365,1627531,1611661325,59,60,0,3
+01:45,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,59,60,0,3
+01:30,[WAS] Hines-Allen Driving Layup Shot: Missed,-39,42,2,,1628899,,1611661322,59,60,0,3
+01:30,[WAS] Team Rebound,-39,42,4,,0,,1611661322,59,60,0,3
+01:30,[WAS] Hines-Allen Turnover : Traveling (1 TO),-32,63,5,,1628899,202679,1611661322,59,60,0,3
+01:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,60,0,3
+01:14,[IND 63-59] Clark 3pt Shot: Made (16 PTS) Assist: Wallace (1 AST),-128,248,1,,1642286,1628929,1611661325,59,63,3,3
+01:01,[WAS] Walker-Kimbrough 3pt Shot: Missed,210,110,2,,1628278,,1611661322,59,63,0,3
+00:59.4,[WAS] Dolson Rebound (Off:1 Def:3),210,110,4,,203828,,1611661322,59,63,0,3
+00:54.3,[WAS 61-63] Hines-Allen Turnaround Fadeaway shot: Made (5 PTS) Assist: Walker-Kimbrough (2 AST),27,22,1,,1628899,1628278,1611661322,61,63,2,3
+00:54.3,[IND] Samuelson Foul: Shooting (2 PF) (1 FTA),13,21,6,1628899,1629478,202679,1611661325,61,63,0,3
+00:54.3,[WAS 62-63] Hines-Allen Free Throw 1 of 1 (6 PTS),0,-80,3,,1628899,,1611661322,62,63,1,3
+00:46.8,[IND 66-62] Clark 3pt Shot: Made (19 PTS),139,268,1,,1642286,,1611661325,62,66,3,3
+00:35.4,[WAS 64-66] Atkins Pullup Jump shot: Made (14 PTS),44,117,1,,1628878,,1611661322,64,66,2,3
+00:20.6,[WAS] Richards Foul: Personal (1 PF),-26,253,6,1629478,1630459,202679,1611661322,64,66,0,3
+00:09.0,[IND] Wallace 3pt Shot: Missed,-240,-27,2,,1628929,,1611661325,64,66,0,3
+00:05.4,[IND] Clark Rebound (Off:1 Def:5),-240,-27,4,,1642286,,1611661325,64,66,0,3
+00:00.3,[IND] Boston Jump Bank Shot: Missed,94,145,2,,1641648,,1611661325,64,66,0,3
+00:00.3,[IND] Team Rebound,94,145,4,,0,,1611661325,64,66,0,3
+00:00.0,End Period,0,-80,13,,0,,0,64,66,0,3
+10:00,Start Period,0,-80,12,,0,,0,64,66,0,4
+09:32,[IND 69-64] Samuelson 3pt Shot: Made (6 PTS) Assist: Clark (6 AST),134,271,1,,1629478,1642286,1611661325,64,69,3,4
+09:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,69,0,4
+09:05,[WAS] Atkins Pullup Jump shot: Missed,-207,-4,2,,1628878,,1611661322,64,69,0,4
+09:02,[IND] Clark Rebound (Off:1 Def:6),-179,9,4,,1642286,,1611661325,64,69,0,4
+08:58,[IND] Clark Turnover : Bad Pass (6 TO) Steal:Hines-Allen (2 ST),110,-1,5,1628899,1642286,,1611661325,64,69,0,4
+08:49,[WAS 66-69] Hines-Allen Driving Layup Shot: Made (8 PTS) Assist: Samuelson (1 AST),-23,8,1,,1628899,1628317,1611661322,66,69,2,4
+08:31,[WAS] Samuelson Foul: Personal (2 PF),54,214,6,1642286,1628317,1629182,1611661322,66,69,0,4
+08:28,[IND 72-66] Clark 3pt Shot: Made (22 PTS) Assist: Mitchell (3 AST),229,83,1,,1642286,1628909,1611661325,66,72,3,4
+08:18,[IND] Clark Foul: Personal (2 PF),-178,182,6,1628317,1642286,202679,1611661325,66,72,0,4
+08:10,[WAS 68-72] Atkins Driving Layup Shot: Made (16 PTS) Assist: Dolson (2 AST),-33,24,1,,1628878,203828,1611661322,68,72,2,4
+07:58,[IND 75-68] Clark 3pt Shot: Made (25 PTS) Assist: Mitchell (4 AST),-124,281,1,,1642286,1628909,1611661325,68,75,3,4
+07:45,[WAS] Samuelson 3pt Shot: Missed,-218,139,2,,1628317,,1611661322,68,75,0,4
+07:42,[WAS] Walker-Kimbrough Rebound (Off:1 Def:1),-218,139,4,,1628278,,1611661322,68,75,0,4
+07:34,[WAS] Hines-Allen Layup Shot: Missed,15,19,2,,1628899,,1611661322,68,75,0,4
+07:33,[WAS] Hines-Allen Rebound (Off:1 Def:3),15,19,4,,1628899,,1611661322,68,75,0,4
+07:32,[WAS 70-75] Hines-Allen Putback Layup Shot: Made (10 PTS),6,19,1,,1628899,,1611661322,70,75,2,4
+07:14,[WAS] Samuelson Foul: Personal (3 PF),-27,211,6,1642286,1628317,1627531,1611661322,70,75,0,4
+07:08,[IND] Wallace 3pt Shot: Missed,-220,113,2,,1628929,,1611661325,70,75,0,4
+07:05,[WAS] Walker-Kimbrough Rebound (Off:1 Def:2),-220,113,4,,1628278,,1611661322,70,75,0,4
+06:56,[WAS] Atkins Turnover : Bad Pass (3 TO) Steal:Samuelson (1 ST),39,236,5,1629478,1628878,,1611661322,70,75,0,4
+06:45,[IND] Clark 3pt Shot: Missed,-161,246,2,,1642286,,1611661325,70,75,0,4
+06:41,[WAS] Dolson Rebound (Off:1 Def:4),-161,246,4,,203828,,1611661322,70,75,0,4
+06:34,[IND] Mitchell Foul: Personal (3 PF),-196,139,6,1628278,1628909,202679,1611661325,70,75,0,4
+06:34,[WAS] Hines-Allen Substitution replaced by Vanloo,0,-80,8,,1628899,1642210,1611661322,70,75,0,4
+06:34,[WAS] Walker-Kimbrough Substitution replaced by Edwards,0,-80,8,,1628278,1642290,1611661322,70,75,0,4
+06:34,[IND] Smith Substitution replaced by Boston,0,-80,8,,1631019,1641648,1611661325,70,75,0,4
+06:25,[WAS] Samuelson 3pt Shot: Missed,223,-7,2,,1628317,,1611661322,70,75,0,4
+06:24,[WAS] Team Rebound,223,-7,4,,0,,1611661322,70,75,0,4
+06:24,[IND] Boston Foul: Loose Ball (4 PF),-82,32,6,1642290,1641648,202679,1611661325,70,75,0,4
+06:18,[WAS] Vanloo Turnover : Lost Ball (4 TO) Steal:Mitchell (3 ST),-106,231,5,1628909,1642210,,1611661322,70,75,0,4
+06:14,[IND 77-70] Mitchell Running Layup Shot: Made (13 PTS),11,3,1,,1628909,,1611661325,70,77,2,4
+06:14,Timeout : Regular,0,-80,9,,1611661322,,1611661322,70,77,0,4
+05:58,[WAS] Dolson Turnover : Bad Pass (2 TO) Steal:Clark (4 ST),-108,79,5,1642286,203828,,1611661322,70,77,0,4
+05:42,[IND] Mitchell Step Back Jump shot: Missed,-191,-6,2,,1628909,,1611661325,70,77,0,4
+05:39,[WAS] Edwards Rebound (Off:2 Def:8),-191,-6,4,,1642290,,1611661322,70,77,0,4
+05:21,[WAS 72-77] Samuelson Driving Layup Shot: Made (8 PTS),0,-2,1,,1628317,,1611661322,72,77,2,4
+05:03,[IND] Clark Foul: Offensive (3 PF),136,225,6,1628878,1642286,1629182,1611661325,72,77,0,4
+05:03,[IND] Clark Turnover : Offensive Foul Turnover (7 TO),136,225,5,,1642286,1629182,1611661325,72,77,0,4
+04:40,[WAS 75-77] Dolson 3pt Shot: Made (19 PTS) Assist: Atkins (4 AST),16,257,1,,203828,1628878,1611661322,75,77,3,4
+04:22,[IND 80-75] Mitchell 3pt Shot: Made (16 PTS) Assist: Wallace (2 AST),240,19,1,,1628909,1628929,1611661325,75,80,3,4
+04:20,Stoppage Other,0,-80,20,,0,,0,75,80,0,4
+04:08,[WAS] Atkins 3pt Shot: Missed,123,247,2,,1628878,,1611661322,75,80,0,4
+04:05,[IND] Team Rebound,123,247,4,,0,,1611661325,75,80,0,4
+04:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,75,80,0,4
+03:43,[IND] Mitchell 3pt Shot: Missed,185,139,2,,1628909,,1611661325,75,80,0,4
+03:36,[IND] Samuelson Rebound (Off:2 Def:0),185,139,4,,1629478,,1611661325,75,80,0,4
+03:29,[IND] Wallace Foul: Offensive (2 PF),-156,-16,6,1642210,1628929,1627531,1611661325,75,80,0,4
+03:29,[IND] Wallace Turnover : Offensive Foul Turnover (1 TO),-156,-16,5,,1628929,1627531,1611661325,75,80,0,4
+03:22,[IND] Mitchell Foul: Personal (4 PF),10,231,6,1628317,1628909,1629182,1611661325,75,80,0,4
+03:17,[WAS 78-80] Vanloo 3pt Shot: Made (9 PTS) Assist: Atkins (5 AST),173,230,1,,1642210,1628878,1611661322,78,80,3,4
+02:59,Timeout : Regular,0,-80,9,,1611661325,,1611661325,78,80,0,4
+02:52,[WAS] Samuelson Foul: Shooting (4 PF) (2 FTA),139,58,6,1642286,1628317,1629182,1611661322,78,80,0,4
+02:52,Timeout : Regular,0,-80,9,,1611661322,,1611661322,78,80,0,4
+02:52,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661322,78,80,0,4
+02:52,[IND 81-78] Clark Free Throw 1 of 2 (26 PTS),0,-80,3,,1642286,,1611661325,78,81,1,4
+02:52,[IND 82-78] Clark Free Throw 2 of 2 (27 PTS),0,-80,3,,1642286,,1611661325,78,82,1,4
+02:37,[WAS] Vanloo 3pt Shot: Missed,220,95,2,,1642210,,1611661322,78,82,0,4
+02:32,[IND] Clark Rebound (Off:1 Def:7),220,95,4,,1642286,,1611661325,78,82,0,4
+02:18,[IND] Clark Turnover : Bad Pass (8 TO) Steal:Vanloo (2 ST),43,34,5,1642210,1642286,,1611661325,78,82,0,4
+02:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,78,82,0,4
+02:11,[IND] Samuelson Substitution replaced by Smith,0,-80,8,,1629478,1631019,1611661325,78,82,0,4
+01:59,[WAS] Dolson Driving Hook Shot: Missed,-16,53,2,,203828,,1611661322,78,82,0,4
+01:59,[WAS] Edwards Rebound (Off:3 Def:8),-16,53,4,,1642290,,1611661322,78,82,0,4
+01:59,[IND] Smith Foul: Shooting (2 PF) (2 FTA),17,21,6,1642290,1631019,1629182,1611661325,78,82,0,4
+01:59,[WAS] Edwards Free Throw 1 of 2 Missed,0,-80,3,,1642290,,1611661322,78,82,0,4
+01:59,[WAS] Team Rebound,0,-80,4,,0,,1611661322,78,82,0,4
+01:59,[WAS 79-82] Edwards Free Throw 2 of 2 (9 PTS),0,-80,3,,1642290,,1611661322,79,82,1,4
+01:45,[IND] Clark 3pt Shot: Missed,203,128,2,,1642286,,1611661325,79,82,0,4
+01:44,[IND] Team Rebound,203,128,4,,0,,1611661325,79,82,0,4
+01:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,79,82,0,4
+01:40,[IND] Mitchell Turnover : Lost Ball (1 TO) Steal:Atkins (2 ST),206,124,5,1628878,1628909,,1611661325,79,82,0,4
+01:37,[IND] Smith Foul: Clear Path (3 PF) (2 FTA),43,65,6,1642290,1631019,202679,1611661325,79,82,0,4
+01:37,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,79,82,0,4
+01:37,[WAS] Edwards Free Throw Clear Path 1 of 2 Missed,0,-80,3,,1642290,,1611661322,79,82,0,4
+01:37,[WAS] Team Rebound,0,-80,4,,0,,1611661322,79,82,0,4
+01:37,[WAS 80-82] Edwards Free Throw Clear Path 2 of 2 (10 PTS),0,-80,3,,1642290,,1611661322,80,82,1,4
+01:30,[WAS] Atkins Pullup Jump shot: Missed,-117,101,2,,1628878,,1611661322,80,82,0,4
+01:25,[IND] Smith Rebound (Off:1 Def:8),-117,101,4,,1631019,,1611661325,80,82,0,4
+01:01,[IND] Mitchell Turnover : Bad Pass (2 TO) Steal:Vanloo (3 ST),-184,216,5,1642210,1628909,,1611661325,80,82,0,4
+00:46.2,[WAS] Atkins 3pt Shot: Missed,-211,150,2,,1628878,,1611661322,80,82,0,4
+00:43.2,[IND] Smith Rebound (Off:1 Def:9),-211,150,4,,1631019,,1611661325,80,82,0,4
+00:39.3,Timeout : Regular,0,-80,9,,1611661325,,1611661325,80,82,0,4
+00:25.6,[WAS] Edwards Foul: Shooting (2 PF) (2 FTA),44,44,6,1641648,1642290,202679,1611661322,80,82,0,4
+00:25.6,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,80,82,0,4
+00:25.6,[IND] Team Rebound,0,-80,4,,0,,1611661325,80,82,0,4
+00:25.6,[IND] Clark Substitution replaced by Wheeler,0,-80,8,,1642286,204365,1611661325,80,82,0,4
+00:25.6,[IND] Boston Free Throw 2 of 2 Missed,0,-80,3,,1641648,,1611661325,80,82,0,4
+00:25.3,[WAS] Edwards Rebound (Off:3 Def:9),0,-80,4,,1642290,,1611661322,80,82,0,4
+00:25.3,Timeout : Reset,0,-80,9,,1611661322,,1611661322,80,82,0,4
+00:19.9,[WAS] Atkins Turnaround Fadeaway shot: Missed,-99,30,2,,1628878,,1611661322,80,82,0,4
+00:17.8,[IND] Team Rebound,-99,30,4,,0,,1611661325,80,82,0,4
+00:17.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,82,0,4
+00:17.8,[IND] Wheeler Substitution replaced by Clark,0,-80,8,,204365,1642286,1611661325,80,82,0,4
+00:17.8,Timeout : Regular,0,-80,9,,1611661325,,1611661325,80,82,0,4
+00:17.8,[WAS] Vanloo Substitution replaced by Walker-Kimbrough,0,-80,8,,1642210,1628278,1611661322,80,82,0,4
+00:17.8,[IND] Smith Substitution replaced by Samuelson,0,-80,8,,1631019,1629478,1611661325,80,82,0,4
+00:17.8,[WAS] Dolson Substitution replaced by Richards,0,-80,8,,203828,1630459,1611661322,80,82,0,4
+00:11.9,[WAS] Atkins Foul: Personal (3 PF) (2 FTA),-10,279,6,1642286,1628878,202679,1611661322,80,82,0,4
+00:11.9,[WAS] Walker-Kimbrough Substitution replaced by Vanloo,0,-80,8,,1628278,1642210,1611661322,80,82,0,4
+00:11.9,[WAS] Richards Substitution replaced by Dolson,0,-80,8,,1630459,203828,1611661322,80,82,0,4
+00:11.9,[IND] Samuelson Substitution replaced by Smith,0,-80,8,,1629478,1631019,1611661325,80,82,0,4
+00:11.9,[IND 83-80] Clark Free Throw 1 of 2 (28 PTS),0,-80,3,,1642286,,1611661325,80,83,1,4
+00:11.9,[IND 84-80] Clark Free Throw 2 of 2 (29 PTS),0,-80,3,,1642286,,1611661325,80,84,1,4
+00:11.9,Timeout : Regular,0,-80,9,,1611661322,,1611661322,80,84,0,4
+00:11.9,[IND] Clark Substitution replaced by Wheeler,0,-80,8,,1642286,204365,1611661325,80,84,0,4
+00:07.5,[WAS 83-84] Samuelson 3pt Shot: Made (11 PTS) Assist: Dolson (3 AST),189,161,1,,1628317,203828,1611661322,83,84,3,4
+00:07.5,Timeout : Reset,0,-80,9,,1611661325,,1611661325,83,84,0,4
+00:07.5,[WAS] Dolson Substitution replaced by Richards,0,-80,8,,203828,1630459,1611661322,83,84,0,4
+00:07.5,[WAS] Vanloo Substitution replaced by Walker-Kimbrough,0,-80,8,,1642210,1628278,1611661322,83,84,0,4
+00:07.5,[IND] Smith Substitution replaced by Clark,0,-80,8,,1631019,1642286,1611661325,83,84,0,4
+00:07.5,[IND] Wheeler Substitution replaced by Samuelson,0,-80,8,,204365,1629478,1611661325,83,84,0,4
+00:05.4,[WAS] Atkins Foul: Personal (4 PF) (2 FTA),117,359,6,1642286,1628878,202679,1611661322,83,84,0,4
+00:05.4,[IND 85-83] Clark Free Throw 1 of 2 (30 PTS),0,-80,3,,1642286,,1611661325,83,85,1,4
+00:05.4,[WAS] Edwards Substitution replaced by Dolson,0,-80,8,,1642290,203828,1611661322,83,85,0,4
+00:05.4,[WAS] Richards Substitution replaced by Vanloo,0,-80,8,,1630459,1642210,1611661322,83,85,0,4
+00:05.4,[IND] Clark Free Throw 2 of 2 Missed,0,-80,3,,1642286,,1611661325,83,85,0,4
+00:03.5,[WAS] Dolson Rebound (Off:1 Def:5),0,-80,4,,203828,,1611661322,83,85,0,4
+00:01.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,83,85,0,4
+00:01.4,[IND] Clark Substitution replaced by Wheeler,0,-80,8,,1642286,204365,1611661325,83,85,0,4
+00:01.4,[IND] Samuelson Substitution replaced by Smith,0,-80,8,,1629478,1631019,1611661325,83,85,0,4
+00:00.0,End Period,0,-80,13,,0,,0,83,85,0,4

@@ -1,0 +1,384 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Johnson vs Harrison (Diggins-Smith gains possession),0,-80,10,204330,203017,203400,1611661321,0,0,1
+09:43,[DAL] Gray 3pt Shot: Missed,241,62,2,,1628277,,1611661321,0,0,1
+09:42,[SAN] Harrison Rebound (Off:0 Def:1),0,-80,4,,204330,,1611661319,0,0,1
+09:30,[SAN 2-0] McBride Cutting Layup Shot: Made (2 PTS) Assist: Harrison (1 AST),24,7,1,,203825,204330,1611661319,0,2,1
+09:10,[DAL] Christmas-Kelly Turnover : Bad Pass (1 TO) Steal:McBride (1 ST),0,-80,5,203825,202640,,1611661321,0,2,1
+09:04,[SAN] Currie Jump Shot: Missed,104,90,2,,200673,,1611661319,0,2,1
+09:02,[DAL] Plaisance Rebound (Off:0 Def:1),0,-80,4,,203849,,1611661321,0,2,1
+08:54,[DAL] Diggins-Smith Jump Shot: Missed,61,111,2,,203400,,1611661321,0,2,1
+08:53,[SAN] Harrison Rebound (Off:0 Def:2),0,-80,4,,204330,,1611661319,0,2,1
+08:43,[SAN 4-0] Currie Driving Layup Shot: Made (2 PTS),-1,47,1,,200673,,1611661319,0,4,1
+08:26,[DAL] Diggins-Smith 3pt Shot: Missed,-70,214,2,,203400,,1611661321,0,4,1
+08:24,[SAN] Plum Rebound (Off:0 Def:1),0,-80,4,,1628276,,1611661319,0,4,1
+08:07,[SAN 7-0] Currie 3pt Shot: Made (5 PTS) Assist: de Souza (1 AST),-223,110,1,,200673,100812,1611661319,0,7,1
+07:54,[SAN] Harrison Foul: Defense 3 Second (0 PF),0,-80,6,,204330,,1611661319,0,7,1
+07:54,[DAL 1-7] Diggins-Smith Free Throw Technical (1 PTS),0,-80,3,,203400,,1611661321,1,7,1
+07:51,[DAL 3-7] Johnson Jump Shot: Made (2 PTS) Assist: Christmas-Kelly (1 AST),-88,13,1,,203017,202640,1611661321,3,7,1
+07:33,[SAN 10-3] McBride 3pt Shot: Made (5 PTS) Assist: Harrison (2 AST),-233,75,1,,203825,204330,1611661319,3,10,1
+07:14,[SAN] de Souza Foul: Shooting (1 PF) (2 FTA),-19,26,6,203017,100812,,1611661319,3,10,1
+07:14,[DAL 4-10] Johnson Free Throw 1 of 2 (3 PTS),0,-80,3,,203017,,1611661321,4,10,1
+07:14,[DAL 5-10] Johnson Free Throw 2 of 2 (4 PTS),0,-80,3,,203017,,1611661321,5,10,1
+06:56,[SAN 12-5] Currie Turnaround Fadeaway shot: Made (7 PTS) Assist: Harrison (3 AST),-34,43,1,,200673,204330,1611661319,5,12,1
+06:43,[DAL] Plaisance 3pt Shot: Missed,-14,232,2,,203849,,1611661321,5,12,1
+06:42,[SAN] McBride Rebound (Off:0 Def:1),0,-80,4,,203825,,1611661319,5,12,1
+06:39,[SAN] McBride Turnover : Lost Ball (1 TO) Steal:Gray (1 ST),0,-80,5,1628277,203825,,1611661319,5,12,1
+06:37,[DAL] Plaisance Layup Shot: Missed Block: Currie (1 BLK),-24,11,2,200673,203849,,1611661321,5,12,1
+06:37,[DAL] Team Rebound,0,-80,4,,0,,1611661321,5,12,1
+06:32,[DAL] Diggins-Smith Jump Shot: Missed,-7,31,2,,203400,,1611661321,5,12,1
+06:31,[SAN] Harrison Rebound (Off:0 Def:3),0,-80,4,,204330,,1611661319,5,12,1
+06:25,[DAL] Diggins-Smith Foul: Personal (1 PF),-12,249,6,1628276,203400,,1611661321,5,12,1
+06:22,[DAL] Johnson Foul: Personal (1 PF),-12,51,6,204330,203017,,1611661321,5,12,1
+06:15,[SAN] Currie Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,200673,,1611661319,5,12,1
+06:05,[DAL] Plaisance Foul: Offensive (1 PF),78,178,6,203825,203849,,1611661321,5,12,1
+06:05,[DAL] Plaisance Turnover : Foul (1 TO),0,-80,5,,203849,,1611661321,5,12,1
+05:55,[DAL] Christmas-Kelly Foul: Personal (1 PF),-83,56,6,1628276,202640,,1611661321,5,12,1
+05:50,[SAN] Harrison Layup Shot: Missed,14,13,2,,204330,,1611661319,5,12,1
+05:48,[SAN] de Souza Rebound (Off:1 Def:0),0,-80,4,,100812,,1611661319,5,12,1
+05:46,[SAN 14-5] de Souza Putback Layup Shot: Made (2 PTS),-7,11,1,,100812,,1611661319,5,14,1
+05:43,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,5,14,1
+05:40,[SAN] Plum Foul: Personal (1 PF),-30,36,6,203400,1628276,,1611661319,5,14,1
+05:30,[DAL] Christmas-Kelly 3pt Shot: Missed,135,205,2,,202640,,1611661321,5,14,1
+05:28,[SAN] Harrison Rebound (Off:0 Def:4),0,-80,4,,204330,,1611661319,5,14,1
+05:19,[SAN] Harrison Foul: Offensive (1 PF),96,180,6,202640,204330,,1611661319,5,14,1
+05:19,[SAN] Harrison Turnover : Foul (1 TO),0,-80,5,,204330,,1611661319,5,14,1
+05:19,[DAL] Gray Substitution replaced by Davis,0,-80,8,,1628277,1628273,1611661321,5,14,1
+05:00,[DAL] Johnson Layup Shot: Missed,27,11,2,,203017,,1611661321,5,14,1
+04:58,[SAN] de Souza Rebound (Off:1 Def:1),0,-80,4,,100812,,1611661319,5,14,1
+04:47,[SAN 16-5] Currie Jump Shot: Made (9 PTS),-102,120,1,,200673,,1611661319,5,16,1
+04:36,[DAL 8-16] Johnson 3pt Shot: Made (7 PTS) Assist: Christmas-Kelly (2 AST),-42,232,1,,203017,202640,1611661321,8,16,1
+04:20,[SAN] Plum Turnover : Bad Pass (1 TO) Steal:Christmas-Kelly (1 ST),0,-80,5,202640,1628276,,1611661319,8,16,1
+04:15,[DAL] Diggins-Smith Jump Shot: Missed,-17,26,2,,203400,,1611661321,8,16,1
+04:12,[DAL] Johnson Rebound (Off:1 Def:0),0,-80,4,,203017,,1611661321,8,16,1
+04:11,[DAL] Johnson Jump Shot: Missed,30,26,2,,203017,,1611661321,8,16,1
+04:10,[SAN] Harrison Rebound (Off:0 Def:5),0,-80,4,,204330,,1611661319,8,16,1
+04:03,[SAN] Plum 3pt Shot: Missed,117,214,2,,1628276,,1611661319,8,16,1
+04:01,[DAL] Johnson Rebound (Off:1 Def:1),0,-80,4,,203017,,1611661321,8,16,1
+03:53,[SAN] Currie Foul: Shooting (1 PF) (2 FTA),-30,14,6,202640,200673,,1611661319,8,16,1
+03:53,[DAL 9-16] Christmas-Kelly Free Throw 1 of 2 (1 PTS),0,-80,3,,202640,,1611661321,9,16,1
+03:53,[DAL] Plaisance Substitution replaced by Thornton,0,-80,8,,203849,203866,1611661321,9,16,1
+03:53,[SAN] Plum Substitution replaced by Jefferson,0,-80,8,,1628276,1627669,1611661319,9,16,1
+03:53,[SAN] Currie Substitution replaced by Montgomery,0,-80,8,,200673,202652,1611661319,9,16,1
+03:53,[DAL 10-16] Christmas-Kelly Free Throw 2 of 2 (2 PTS),0,-80,3,,202640,,1611661321,10,16,1
+03:33,[SAN 18-10] de Souza Cutting Layup Shot: Made (4 PTS) Assist: Jefferson (1 AST),-17,13,1,,100812,1627669,1611661319,10,18,1
+03:22,[DAL] Christmas-Kelly 3pt Shot: Missed,-96,214,2,,202640,,1611661321,10,18,1
+03:21,[SAN] McBride Rebound (Off:0 Def:2),0,-80,4,,203825,,1611661319,10,18,1
+03:11,[DAL] Diggins-Smith Foul: Personal (2 PF),-210,95,6,1627669,203400,,1611661321,10,18,1
+03:11,[DAL] Diggins-Smith Substitution replaced by Chong,0,-80,8,,203400,1628267,1611661321,10,18,1
+03:00,[SAN 20-10] de Souza Turnaround Fadeaway shot: Made (6 PTS),9,41,1,,100812,,1611661319,10,20,1
+02:36,[DAL] Johnson 3pt Shot: Missed,-124,210,2,,203017,,1611661321,10,20,1
+02:35,[DAL] Thornton Rebound (Off:1 Def:0),0,-80,4,,203866,,1611661321,10,20,1
+02:34,[SAN] Montgomery Foul: Shooting (1 PF) (2 FTA),10,23,6,203866,202652,,1611661319,10,20,1
+02:34,[DAL] Thornton Free Throw 1 of 2 Missed,0,-80,3,,203866,,1611661321,10,20,1
+02:34,[DAL] Team Rebound,0,-80,4,,0,,1611661321,10,20,1
+02:34,[DAL 11-20] Thornton Free Throw 2 of 2 (1 PTS),0,-80,3,,203866,,1611661321,11,20,1
+02:13,[SAN] McBride Driving Floating Jump Shot: Missed,22,26,2,,203825,,1611661319,11,20,1
+02:11,[DAL] Johnson Rebound (Off:1 Def:2),0,-80,4,,203017,,1611661321,11,20,1
+02:05,[SAN] Harrison Foul: Shooting (2 PF) (2 FTA),22,18,6,202640,204330,,1611661319,11,20,1
+02:05,[DAL 12-20] Christmas-Kelly Free Throw 1 of 2 (3 PTS),0,-80,3,,202640,,1611661321,12,20,1
+02:05,[SAN] de Souza Substitution replaced by Hamby,0,-80,8,,100812,204324,1611661319,12,20,1
+02:05,[DAL 13-20] Christmas-Kelly Free Throw 2 of 2 (4 PTS),0,-80,3,,202640,,1611661321,13,20,1
+01:50,[SAN 22-13] Jefferson Layup Shot: Made (2 PTS),25,16,1,,1627669,,1611661319,13,22,1
+01:39,[DAL] Chong Jump Shot: Missed,-14,51,2,,1628267,,1611661321,13,22,1
+01:38,[SAN] Harrison Rebound (Off:0 Def:6),0,-80,4,,204330,,1611661319,13,22,1
+01:19,[SAN] Montgomery Jump Shot: Missed,128,146,2,,202652,,1611661319,13,22,1
+01:18,[DAL] Johnson Rebound (Off:1 Def:3),0,-80,4,,203017,,1611661321,13,22,1
+01:02,[DAL 15-22] Christmas-Kelly Layup Shot: Made (6 PTS) Assist: Thornton (1 AST),15,7,1,,202640,203866,1611661321,15,22,1
+00:43.0,[SAN 24-15] Hamby Layup Shot: Made (2 PTS) Assist: Harrison (4 AST),9,11,1,,204324,204330,1611661319,15,24,1
+00:26.4,[SAN] Montgomery Foul: Personal (2 PF) (2 FTA),204,188,6,202640,202652,,1611661319,15,24,1
+00:26.4,[DAL 16-24] Christmas-Kelly Free Throw 1 of 2 (7 PTS),0,-80,3,,202640,,1611661321,16,24,1
+00:26.4,[DAL] Johnson Substitution replaced by Akhator,0,-80,8,,203017,1628262,1611661321,16,24,1
+00:26.4,[DAL 17-24] Christmas-Kelly Free Throw 2 of 2 (8 PTS),0,-80,3,,202640,,1611661321,17,24,1
+00:05.9,[SAN] Harrison Jump Shot: Missed,115,28,2,,204330,,1611661319,17,24,1
+00:04.9,[DAL] Christmas-Kelly Rebound (Off:0 Def:1),0,-80,4,,202640,,1611661321,17,24,1
+00:01.9,[DAL 19-24] Thornton Jump Shot: Made (3 PTS) Assist: Christmas-Kelly (3 AST),32,18,1,,203866,202640,1611661321,19,24,1
+00:00.0,End Period,0,-80,13,,0,,0,19,24,1
+10:00,Start Period,0,-80,12,,0,,0,19,24,2
+09:44,[SAN] Currie Turnover : Out of Bounds Lost Ball Turnover (2 TO),0,-80,5,,200673,,1611661319,19,24,2
+09:24,[DAL] Plaisance Jump Shot: Missed,50,80,2,,203849,,1611661321,19,24,2
+09:23,[SAN] Currie Rebound (Off:0 Def:1),0,-80,4,,200673,,1611661319,19,24,2
+09:01,[SAN] Holmes 3pt Shot: Missed,240,2,2,,201530,,1611661319,19,24,2
+09:00,[DAL] Thornton Rebound (Off:1 Def:1),0,-80,4,,203866,,1611661321,19,24,2
+08:54,[DAL] Thornton Turnover : Lost Ball (1 TO) Steal:Currie (1 ST),0,-80,5,200673,203866,,1611661321,19,24,2
+08:53,[DAL] Plaisance Foul: Personal (2 PF),195,488,6,200673,203849,,1611661321,19,24,2
+08:53,[DAL] Plaisance Substitution replaced by Lewis,0,-80,8,,203849,1628292,1611661321,19,24,2
+08:42,[SAN] Hamby Jump Shot: Missed,-43,190,2,,204324,,1611661319,19,24,2
+08:41,[DAL] Davis Rebound (Off:0 Def:1),0,-80,4,,1628273,,1611661321,19,24,2
+08:32,[DAL] Davis Jump Shot: Missed,-52,46,2,,1628273,,1611661321,19,24,2
+08:32,[SAN] Team Rebound,0,-80,4,,0,,1611661319,19,24,2
+08:32,[DAL] Lewis Foul: Loose Ball (1 PF),-132,742,6,204324,1628292,,1611661321,19,24,2
+08:14,[SAN] Alexander Jump Shot: Missed,43,41,2,,203405,,1611661319,19,24,2
+08:13,[DAL] Davis Rebound (Off:0 Def:2),0,-80,4,,1628273,,1611661321,19,24,2
+08:01,[DAL] Akhator Turnover : Bad Pass (1 TO) Steal:Alexander (1 ST),0,-80,5,203405,1628262,,1611661321,19,24,2
+07:44,[DAL] Lewis Foul: Shooting (2 PF) (2 FTA),-24,36,6,204324,1628292,,1611661321,19,24,2
+07:44,[SAN 25-19] Hamby Free Throw 1 of 2 (3 PTS),0,-80,3,,204324,,1611661319,19,25,2
+07:44,[SAN 26-19] Hamby Free Throw 2 of 2 (4 PTS),0,-80,3,,204324,,1611661319,19,26,2
+07:33,[DAL] Chong 3pt Shot: Missed,-4,244,2,,1628267,,1611661321,19,26,2
+07:31,[SAN] Team Rebound,0,-80,4,,0,,1611661319,19,26,2
+07:31,[DAL] Thornton Substitution replaced by Gray,0,-80,8,,203866,1628277,1611661321,19,26,2
+07:31,[DAL] Chong Substitution replaced by Diggins-Smith,0,-80,8,,1628267,203400,1611661321,19,26,2
+07:18,[SAN] Currie 3pt Shot: Missed,-233,21,2,,200673,,1611661319,19,26,2
+07:17,[DAL] Davis Rebound (Off:0 Def:3),0,-80,4,,1628273,,1611661321,19,26,2
+07:04,[DAL] Gray Floating Jump shot: Missed,-45,72,2,,1628277,,1611661321,19,26,2
+07:04,[DAL] Team Rebound,0,-80,4,,0,,1611661321,19,26,2
+06:52,[DAL] Akhator Turnover : Lost Ball (2 TO) Steal:Hamby (1 ST),0,-80,5,204324,1628262,,1611661321,19,26,2
+06:31,[SAN 28-19] Currie Driving Finger Roll Layup Shot: Made (11 PTS),-11,21,1,,200673,,1611661319,19,28,2
+06:18,[DAL] Gray Floating Jump shot: Missed,-14,105,2,,1628277,,1611661321,19,28,2
+06:16,[SAN] Hamby Rebound (Off:0 Def:1),0,-80,4,,204324,,1611661319,19,28,2
+05:52,[SAN 30-19] Alexander Jump Shot: Made (2 PTS) Assist: Holmes (1 AST),-120,13,1,,203405,201530,1611661319,19,30,2
+05:48,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,19,30,2
+05:48,[SAN] Currie Substitution replaced by McBride,0,-80,8,,200673,203825,1611661319,19,30,2
+05:48,[DAL] Davis Substitution replaced by Christmas-Kelly,0,-80,8,,1628273,202640,1611661321,19,30,2
+05:48,[DAL] Akhator Substitution replaced by Johnson,0,-80,8,,1628262,203017,1611661321,19,30,2
+05:48,[DAL] Lewis Substitution replaced by Plaisance,0,-80,8,,1628292,203849,1611661321,19,30,2
+05:37,[DAL 21-30] Diggins-Smith Driving Bank shot: Made (3 PTS),-50,51,1,,203400,,1611661321,21,30,2
+05:37,[SAN] Hamby Foul: Shooting (1 PF) (1 FTA),-50,51,6,203400,204324,,1611661319,21,30,2
+05:37,[DAL] Johnson Turnover : Lane Violation (1 TO),0,-80,5,,203017,,1611661321,21,30,2
+05:21,[SAN] McBride 3pt Shot: Missed,-22,247,2,,203825,,1611661319,21,30,2
+05:20,[SAN] Holmes Rebound (Off:1 Def:0),0,-80,4,,201530,,1611661319,21,30,2
+05:08,[SAN 32-21] Jefferson Layup Shot: Made (4 PTS),25,16,1,,1627669,,1611661319,21,32,2
+04:49,[DAL] Gray Jump Shot: Missed,-48,21,2,,1628277,,1611661321,21,32,2
+04:48,[SAN] Holmes Rebound (Off:1 Def:1),0,-80,4,,201530,,1611661319,21,32,2
+04:41,[SAN 35-21] McBride 3pt Shot: Made (8 PTS) Assist: Jefferson (2 AST),238,28,1,,203825,1627669,1611661319,21,35,2
+04:23,[DAL 23-35] Johnson Layup Shot: Made (9 PTS),12,16,1,,203017,,1611661321,23,35,2
+04:23,[SAN] Alexander Foul: Shooting (1 PF) (1 FTA),12,16,6,203017,203405,,1611661319,23,35,2
+04:23,[SAN] Alexander Substitution replaced by Harrison,0,-80,8,,203405,204330,1611661319,23,35,2
+04:23,[DAL 24-35] Johnson Free Throw 1 of 1 (10 PTS),0,-80,3,,203017,,1611661321,24,35,2
+04:00,[SAN] Harrison Jump Shot: Missed,-27,44,2,,204330,,1611661319,24,35,2
+03:59,[SAN] Team Rebound,0,-80,4,,0,,1611661319,24,35,2
+03:59,[SAN] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661319,24,35,2
+03:49,[DAL] Diggins-Smith 3pt Shot: Missed,27,252,2,,203400,,1611661321,24,35,2
+03:47,[DAL] Gray Rebound (Off:1 Def:0),0,-80,4,,1628277,,1611661321,24,35,2
+03:44,[SAN] Hamby Foul: Personal (2 PF),-101,61,6,203017,204324,,1611661319,24,35,2
+03:44,[SAN] Hamby Substitution replaced by de Souza,0,-80,8,,204324,100812,1611661319,24,35,2
+03:37,[DAL 26-35] Diggins-Smith Cutting Layup Shot: Made (5 PTS) Assist: Johnson (1 AST),15,23,1,,203400,203017,1611661321,26,35,2
+03:14,[SAN 37-26] Jefferson Driving Reverse Layup Shot: Made (6 PTS),-6,16,1,,1627669,,1611661319,26,37,2
+03:01,[DAL 29-37] Plaisance 3pt Shot: Made (3 PTS) Assist: Diggins-Smith (1 AST),-142,185,1,,203849,203400,1611661321,29,37,2
+02:39,[SAN] Harrison Turnover : Bad Pass (2 TO) Steal:Johnson (1 ST),0,-80,5,203017,204330,,1611661319,29,37,2
+02:35,[DAL 31-37] Diggins-Smith Layup Shot: Made (7 PTS) Assist: Christmas-Kelly (4 AST),-14,16,1,,203400,202640,1611661321,31,37,2
+02:35,[SAN] Harrison Foul: Shooting (3 PF) (1 FTA),-14,16,6,203400,204330,,1611661319,31,37,2
+02:35,Timeout : Official,0,-80,9,,0,,0,31,37,2
+02:35,[SAN] Harrison Substitution replaced by Hamby,0,-80,8,,204330,204324,1611661319,31,37,2
+02:35,[SAN] Holmes Substitution replaced by Currie,0,-80,8,,201530,200673,1611661319,31,37,2
+02:35,[DAL 32-37] Diggins-Smith Free Throw 1 of 1 (8 PTS),0,-80,3,,203400,,1611661321,32,37,2
+02:15,[SAN 39-32] Jefferson Jump Shot: Made (8 PTS) Assist: de Souza (2 AST),-161,28,1,,1627669,100812,1611661319,32,39,2
+01:55,[SAN] Currie Foul: Shooting (2 PF) (2 FTA),25,80,6,202640,200673,,1611661319,32,39,2
+01:55,[DAL] Christmas-Kelly Free Throw 1 of 2 Missed,0,-80,3,,202640,,1611661321,32,39,2
+01:55,[DAL] Team Rebound,0,-80,4,,0,,1611661321,32,39,2
+01:55,[DAL 33-39] Christmas-Kelly Free Throw 2 of 2 (9 PTS),0,-80,3,,202640,,1611661321,33,39,2
+01:43,[SAN 41-33] Hamby Layup Shot: Made (6 PTS),12,16,1,,204324,,1611661319,33,41,2
+01:43,[DAL] Diggins-Smith Foul: Shooting (3 PF) (1 FTA),12,16,6,204324,203400,,1611661321,33,41,2
+01:43,[DAL] Diggins-Smith Substitution replaced by Chong,0,-80,8,,203400,1628267,1611661321,33,41,2
+01:43,[SAN] Hamby Free Throw 1 of 1 Missed,0,-80,3,,204324,,1611661319,33,41,2
+01:41,[SAN] Team Rebound,0,-80,4,,0,,1611661319,33,41,2
+01:28,[SAN] Jefferson 3pt Shot: Missed,233,51,2,,1627669,,1611661319,33,41,2
+01:27,[DAL] Christmas-Kelly Rebound (Off:0 Def:2),0,-80,4,,202640,,1611661321,33,41,2
+01:16,[DAL] Gray Turnover : Bad Pass (1 TO) Steal:Jefferson (1 ST),0,-80,5,1627669,1628277,,1611661321,33,41,2
+01:12,[SAN 43-33] Jefferson Layup Shot: Made (10 PTS),25,16,1,,1627669,,1611661319,33,43,2
+00:53.2,[SAN] Jefferson Foul: Personal (1 PF) (2 FTA),-4,224,6,1628267,1627669,,1611661319,33,43,2
+00:53.2,[DAL 34-43] Chong Free Throw 1 of 2 (1 PTS),0,-80,3,,1628267,,1611661321,34,43,2
+00:53.2,[DAL 35-43] Chong Free Throw 2 of 2 (2 PTS),0,-80,3,,1628267,,1611661321,35,43,2
+00:32.8,[SAN] Hamby Layup Shot: Missed,-16,2,2,,204324,,1611661319,35,43,2
+00:31.9,[DAL] Chong Rebound (Off:0 Def:1),0,-80,4,,1628267,,1611661321,35,43,2
+00:23.8,[DAL] Johnson Jump Shot: Missed Block: de Souza (1 BLK),24,21,2,100812,203017,,1611661321,35,43,2
+00:21.7,[DAL] Johnson Rebound (Off:2 Def:3),0,-80,4,,203017,,1611661321,35,43,2
+00:19.1,[DAL 37-43] Christmas-Kelly Layup Shot: Made (11 PTS),20,21,1,,202640,,1611661321,37,43,2
+00:01.9,[SAN] Currie Turnover : Traveling (3 TO),0,-80,5,,200673,,1611661319,37,43,2
+00:01.9,[SAN] Currie Technical,0,-80,6,,200673,,1611661319,37,43,2
+00:01.9,[DAL 38-43] Chong Free Throw Technical (3 PTS),0,-80,3,,1628267,,1611661321,38,43,2
+00:01.9,[SAN] Currie Substitution replaced by Montgomery,0,-80,8,,200673,202652,1611661319,38,43,2
+00:00.0,End Period,0,-80,13,,0,,0,38,43,2
+10:00,Start Period,0,-80,12,,0,,0,38,43,3
+09:35,[SAN] McBride 3pt Shot: Missed,-215,115,2,,203825,,1611661319,38,43,3
+09:34,[DAL] Diggins-Smith Rebound (Off:0 Def:1),0,-80,4,,203400,,1611661321,38,43,3
+09:25,[DAL 41-43] Plaisance 3pt Shot: Made (6 PTS) Assist: Diggins-Smith (2 AST),-147,210,1,,203849,203400,1611661321,41,43,3
+09:07,Jump Ball Plaisance vs Plum (Diggins-Smith gains possession),0,-80,10,1628276,203849,203400,1611661321,41,43,3
+09:07,[SAN] Plum Turnover : Lost Ball (2 TO) Steal:Plaisance (1 ST),0,-80,5,203849,1628276,,1611661319,41,43,3
+09:02,[DAL] Diggins-Smith Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,203400,,1611661321,41,43,3
+08:44,[SAN] McBride Jump Shot: Missed,146,156,2,,203825,,1611661319,41,43,3
+08:43,[DAL] Christmas-Kelly Rebound (Off:0 Def:3),0,-80,4,,202640,,1611661321,41,43,3
+08:37,[DAL 43-43] Johnson Layup Shot: Made (12 PTS) Assist: Gray (1 AST),-14,7,1,,203017,1628277,1611661321,43,43,3
+08:30,[SAN] Team Timeout : Regular,0,-80,9,,0,,1611661319,43,43,3
+08:30,[SAN] Harrison Substitution replaced by Hamby,0,-80,8,,204330,204324,1611661319,43,43,3
+08:30,[SAN] Plum Substitution replaced by Jefferson,0,-80,8,,1628276,1627669,1611661319,43,43,3
+08:11,[SAN] Jefferson Driving Floating Jump Shot: Missed,19,100,2,,1627669,,1611661319,43,43,3
+08:10,[SAN] de Souza Rebound (Off:2 Def:1),0,-80,4,,100812,,1611661319,43,43,3
+08:08,[SAN 45-43] de Souza Layup Shot: Made (8 PTS),10,21,1,,100812,,1611661319,43,45,3
+07:52,[DAL] Christmas-Kelly Jump Shot: Missed,-4,31,2,,202640,,1611661321,43,45,3
+07:51,[DAL] Team Rebound,0,-80,4,,0,,1611661321,43,45,3
+07:46,[DAL 45-45] Diggins-Smith Layup Shot: Made (10 PTS) Assist: Johnson (2 AST),20,21,1,,203400,203017,1611661321,45,45,3
+07:15,[SAN 47-45] Currie Step Back Jump shot: Made (13 PTS),-122,111,1,,200673,,1611661319,45,47,3
+07:04,[DAL] Plaisance 3pt Shot: Missed,-150,208,2,,203849,,1611661321,45,47,3
+07:02,[SAN] McBride Rebound (Off:0 Def:3),0,-80,4,,203825,,1611661319,45,47,3
+07:02,[DAL] Gray Foul: Personal (1 PF),-232,825,6,203825,1628277,,1611661321,45,47,3
+06:35,[SAN] Currie 3pt Shot: Missed,-148,190,2,,200673,,1611661319,45,47,3
+06:34,[DAL] Team Rebound,0,-80,4,,0,,1611661321,45,47,3
+06:20,[DAL] Johnson 3pt Shot: Missed,168,180,2,,203017,,1611661321,45,47,3
+06:19,[SAN] McBride Rebound (Off:0 Def:4),0,-80,4,,203825,,1611661319,45,47,3
+06:07,[DAL] Plaisance Foul: Shooting Block (3 PF) (2 FTA),28,41,6,1627669,203849,,1611661321,45,47,3
+06:07,[SAN 48-45] Jefferson Free Throw 1 of 2 (11 PTS),0,-80,3,,1627669,,1611661319,45,48,3
+06:07,[SAN 49-45] Jefferson Free Throw 2 of 2 (12 PTS),0,-80,3,,1627669,,1611661319,45,49,3
+05:57,[DAL] Diggins-Smith Turnover : Bad Pass (2 TO) Steal:McBride (2 ST),0,-80,5,203825,203400,,1611661321,45,49,3
+05:34,[SAN] Hamby Jump Shot: Missed,51,26,2,,204324,,1611661319,45,49,3
+05:33,[DAL] Johnson Rebound (Off:2 Def:4),0,-80,4,,203017,,1611661321,45,49,3
+05:22,[DAL] Johnson Jump Shot: Missed,-29,16,2,,203017,,1611661321,45,49,3
+05:21,[DAL] Gray Rebound (Off:2 Def:0),0,-80,4,,1628277,,1611661321,45,49,3
+05:17,[DAL] Christmas-Kelly 3pt Shot: Missed,-173,170,2,,202640,,1611661321,45,49,3
+05:14,[DAL] Johnson Rebound (Off:3 Def:4),0,-80,4,,203017,,1611661321,45,49,3
+05:14,[SAN] de Souza Substitution replaced by Harrison,0,-80,8,,100812,204330,1611661319,45,49,3
+05:14,Jump Ball Johnson vs Hamby (Plaisance gains possession),0,-80,10,204324,203017,203849,1611661321,45,49,3
+05:08,[DAL] Plaisance Layup Shot: Missed Block: Harrison (1 BLK),-1,21,2,204330,203849,,1611661321,45,49,3
+05:06,[DAL] Plaisance Rebound (Off:1 Def:1),0,-80,4,,203849,,1611661321,45,49,3
+05:04,[DAL] Plaisance Jump Shot: Missed,171,97,2,,203849,,1611661321,45,49,3
+05:03,[DAL] Gray Rebound (Off:3 Def:0),0,-80,4,,1628277,,1611661321,45,49,3
+05:01,[DAL 47-49] Gray Putback Layup Shot: Made (2 PTS),1,16,1,,1628277,,1611661321,47,49,3
+04:44,[DAL] Gray Foul: Personal (2 PF),194,154,6,204330,1628277,,1611661321,47,49,3
+04:44,[DAL] Gray Substitution replaced by Davis,0,-80,8,,1628277,1628273,1611661321,47,49,3
+04:32,[SAN 51-47] Currie Jump Shot: Made (15 PTS) Assist: Jefferson (3 AST),187,2,1,,200673,1627669,1611661319,47,51,3
+04:11,[DAL] Davis Jump Shot: Missed,68,52,2,,1628273,,1611661321,47,51,3
+04:10,[SAN] Jefferson Rebound (Off:0 Def:1),0,-80,4,,1627669,,1611661319,47,51,3
+04:01,[DAL] Plaisance Foul: Shooting (4 PF) (2 FTA),40,7,6,204324,203849,,1611661321,47,51,3
+04:01,[SAN] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,47,51,3
+04:01,[SAN] Team Rebound,0,-80,4,,0,,1611661319,47,51,3
+04:01,[DAL] Plaisance Substitution replaced by Thornton,0,-80,8,,203849,203866,1611661321,47,51,3
+04:01,[SAN] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661319,47,51,3
+03:59,[DAL] Johnson Rebound (Off:3 Def:5),0,-80,4,,203017,,1611661321,47,51,3
+03:43,[DAL] Diggins-Smith 3pt Shot: Missed,61,237,2,,203400,,1611661321,47,51,3
+03:43,[SAN] Team Rebound,0,-80,4,,0,,1611661319,47,51,3
+03:28,[SAN 53-47] Currie Jump Shot: Made (17 PTS) Assist: Hamby (1 AST),127,165,1,,200673,204324,1611661319,47,53,3
+03:27,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,47,53,3
+03:07,[DAL] Johnson Jump Shot: Missed,127,41,2,,203017,,1611661321,47,53,3
+03:06,[SAN] Currie Rebound (Off:0 Def:2),0,-80,4,,200673,,1611661319,47,53,3
+03:05,[DAL] Johnson Foul: Personal (2 PF) (2 FTA),-38,783,6,200673,203017,,1611661321,47,53,3
+03:05,[SAN 54-47] Currie Free Throw 1 of 2 (18 PTS),0,-80,3,,200673,,1611661319,47,54,3
+03:05,[SAN 55-47] Currie Free Throw 2 of 2 (19 PTS),0,-80,3,,200673,,1611661319,47,55,3
+02:48,[DAL] Johnson Turnover : Lost Ball (2 TO) Steal:Jefferson (2 ST),0,-80,5,1627669,203017,,1611661321,47,55,3
+02:45,[SAN] McBride Layup Shot: Missed Block: Davis (1 BLK),-4,13,2,1628273,203825,,1611661319,47,55,3
+02:44,[SAN] Team Rebound,0,-80,4,,0,,1611661319,47,55,3
+02:44,[DAL] Christmas-Kelly Substitution replaced by Chong,0,-80,8,,202640,1628267,1611661321,47,55,3
+02:40,[DAL] Davis Foul: Shooting (1 PF) (2 FTA),27,51,6,200673,1628273,,1611661321,47,55,3
+02:40,[SAN 56-47] Currie Free Throw 1 of 2 (20 PTS),0,-80,3,,200673,,1611661319,47,56,3
+02:40,[SAN 57-47] Currie Free Throw 2 of 2 (21 PTS),0,-80,3,,200673,,1611661319,47,57,3
+02:18,[DAL] Chong Jump Shot: Missed,153,61,2,,1628267,,1611661321,47,57,3
+02:17,[DAL] Team Rebound,0,-80,4,,0,,1611661321,47,57,3
+02:09,[DAL 50-57] Chong 3pt Shot: Made (6 PTS) Assist: Diggins-Smith (3 AST),-228,97,1,,1628267,203400,1611661321,50,57,3
+01:48,[SAN 59-50] Currie Jump Shot: Made (23 PTS),-40,110,1,,200673,,1611661319,50,59,3
+01:29,[DAL 53-59] Thornton 3pt Shot: Made (6 PTS) Assist: Diggins-Smith (4 AST),117,218,1,,203866,203400,1611661321,53,59,3
+01:02,[SAN 61-53] Harrison Layup Shot: Made (2 PTS) Assist: Jefferson (4 AST),-14,16,1,,204330,1627669,1611661319,53,61,3
+00:46.5,[SAN] Hamby Foul: Personal (3 PF),25,51,6,203017,204324,,1611661319,53,61,3
+00:34.0,[DAL 56-61] Johnson 3pt Shot: Made (15 PTS) Assist: Diggins-Smith (5 AST),-79,232,1,,203017,203400,1611661321,56,61,3
+00:08.9,[SAN] Jefferson Jump Shot: Missed,150,136,2,,1627669,,1611661319,56,61,3
+00:08.7,[DAL] Thornton Rebound (Off:1 Def:2),0,-80,4,,203866,,1611661321,56,61,3
+00:08.7,[SAN] Harrison Foul: Loose Ball (4 PF) (2 FTA),-84,796,6,203866,204330,,1611661319,56,61,3
+00:08.7,[DAL] Thornton Free Throw 1 of 2 Missed,0,-80,3,,203866,,1611661321,56,61,3
+00:08.7,[DAL] Team Rebound,0,-80,4,,0,,1611661321,56,61,3
+00:08.7,[DAL 57-61] Thornton Free Throw 2 of 2 (7 PTS),0,-80,3,,203866,,1611661321,57,61,3
+00:01.0,[SAN] Jefferson Jump Shot: Missed,35,21,2,,1627669,,1611661319,57,61,3
+00:00.6,[DAL] Davis Rebound (Off:0 Def:4),0,-80,4,,1628273,,1611661321,57,61,3
+00:00.0,End Period,0,-80,13,,0,,0,57,61,3
+10:00,Start Period,0,-80,12,,0,,0,57,61,4
+09:41,[SAN] McBride Foul: Shooting (1 PF) (2 FTA),-30,21,6,1628277,203825,,1611661319,57,61,4
+09:41,[DAL 58-61] Gray Free Throw 1 of 2 (3 PTS),0,-80,3,,1628277,,1611661321,58,61,4
+09:41,[DAL] Gray Free Throw 2 of 2 Missed,0,-80,3,,1628277,,1611661321,58,61,4
+09:39,[SAN] Hamby Rebound (Off:0 Def:2),0,-80,4,,204324,,1611661319,58,61,4
+09:29,[SAN 64-58] McBride 3pt Shot: Made (11 PTS) Assist: de Souza (3 AST),-241,11,1,,203825,100812,1611661319,58,64,4
+09:12,[DAL] Johnson Layup Shot: Missed,20,18,2,,203017,,1611661321,58,64,4
+09:10,[SAN] Currie Rebound (Off:0 Def:3),0,-80,4,,200673,,1611661319,58,64,4
+09:03,[SAN] McBride 3pt Shot: Missed,-227,51,2,,203825,,1611661319,58,64,4
+09:00,[DAL] Chong Rebound (Off:0 Def:2),0,-80,4,,1628267,,1611661321,58,64,4
+09:00,[SAN] McBride Foul: Personal (2 PF),20,149,6,203866,203825,,1611661319,58,64,4
+08:44,[DAL 60-64] Thornton Cutting Layup Shot: Made (9 PTS) Assist: Davis (1 AST),19,18,1,,203866,1628273,1611661321,60,64,4
+08:20,[SAN] Jefferson 3pt Shot: Missed,-233,75,2,,1627669,,1611661319,60,64,4
+08:19,[SAN] Team Rebound,0,-80,4,,0,,1611661319,60,64,4
+08:19,[SAN] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661319,60,64,4
+08:05,[DAL 62-64] Johnson Layup Shot: Made (17 PTS) Assist: Gray (2 AST),22,7,1,,203017,1628277,1611661321,62,64,4
+08:05,[SAN] Hamby Foul: Shooting (4 PF) (1 FTA),22,7,6,203017,204324,,1611661319,62,64,4
+08:05,[SAN] Hamby Substitution replaced by Harrison,0,-80,8,,204324,204330,1611661319,62,64,4
+08:05,[DAL 63-64] Johnson Free Throw 1 of 1 (18 PTS),0,-80,3,,203017,,1611661321,63,64,4
+07:49,[SAN] Currie Jump Shot: Missed,9,174,2,,200673,,1611661319,63,64,4
+07:48,[SAN] de Souza Rebound (Off:3 Def:1),0,-80,4,,100812,,1611661319,63,64,4
+07:45,[SAN 66-63] Jefferson Jump Shot: Made (14 PTS) Assist: de Souza (4 AST),117,36,1,,1627669,100812,1611661319,63,66,4
+07:27,[DAL 65-66] Johnson Jump Shot: Made (20 PTS) Assist: Davis (2 AST),22,26,1,,203017,1628273,1611661321,65,66,4
+07:19,[SAN] Team Timeout : Regular,0,-80,9,,0,,1611661319,65,66,4
+07:19,[SAN] de Souza Substitution replaced by Montgomery,0,-80,8,,100812,202652,1611661319,65,66,4
+07:03,[SAN 68-65] Jefferson Driving Finger Roll Layup Shot: Made (16 PTS),20,21,1,,1627669,,1611661319,65,68,4
+06:40,[DAL 67-68] Johnson Fadeaway Jump Shot: Made (22 PTS) Assist: Gray (3 AST),-29,31,1,,203017,1628277,1611661321,67,68,4
+06:23,[DAL] Chong Substitution replaced by Diggins-Smith,0,-80,8,,1628267,203400,1611661321,67,68,4
+06:15,[SAN] Jefferson Floating Jump shot: Missed,4,31,2,,1627669,,1611661319,67,68,4
+06:14,[DAL] Johnson Rebound (Off:3 Def:6),0,-80,4,,203017,,1611661321,67,68,4
+06:07,[DAL] Gray 3pt Shot: Missed,217,115,2,,1628277,,1611661321,67,68,4
+06:06,[SAN] Currie Rebound (Off:0 Def:4),0,-80,4,,200673,,1611661319,67,68,4
+05:42,[SAN 71-67] Currie 3pt Shot: Made (26 PTS) Assist: Jefferson (5 AST),230,11,1,,200673,1627669,1611661319,67,71,4
+05:24,[DAL] Johnson 3pt Shot: Missed,-19,242,2,,203017,,1611661321,67,71,4
+05:23,[SAN] Team Rebound,0,-80,4,,0,,1611661319,67,71,4
+05:23,[DAL] Thornton Substitution replaced by Plaisance,0,-80,8,,203866,203849,1611661321,67,71,4
+05:23,[DAL] Davis Substitution replaced by Christmas-Kelly,0,-80,8,,1628273,202640,1611661321,67,71,4
+05:10,[SAN 74-67] Currie 3pt Shot: Made (29 PTS) Assist: Jefferson (6 AST),-227,7,1,,200673,1627669,1611661319,67,74,4
+05:08,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,67,74,4
+05:00,[SAN] Jefferson Foul: Personal (2 PF),46,156,6,203400,1627669,,1611661319,67,74,4
+04:51,[DAL] Christmas-Kelly Turnover : Out of Bounds Lost Ball Turnover (2 TO),0,-80,5,,202640,,1611661321,67,74,4
+04:34,[SAN] Montgomery 3pt Shot: Missed,-176,160,2,,202652,,1611661319,67,74,4
+04:33,[DAL] Johnson Rebound (Off:3 Def:7),0,-80,4,,203017,,1611661321,67,74,4
+04:19,[DAL 69-74] Diggins-Smith Driving Layup Shot: Made (12 PTS),-25,7,1,,203400,,1611661321,69,74,4
+03:55,[DAL] Gray Foul: Personal (3 PF),-107,61,6,204330,1628277,,1611661321,69,74,4
+03:47,[SAN] Currie Jump Shot: Missed Block: Plaisance (1 BLK),-7,51,2,203849,200673,,1611661319,69,74,4
+03:47,[DAL] Christmas-Kelly Rebound (Off:0 Def:4),0,-80,4,,202640,,1611661321,69,74,4
+03:47,[SAN] Harrison Foul: Personal (5 PF) (2 FTA),15,702,6,202640,204330,,1611661319,69,74,4
+03:47,[DAL 70-74] Christmas-Kelly Free Throw 1 of 2 (12 PTS),0,-80,3,,202640,,1611661321,70,74,4
+03:47,[SAN] Montgomery Substitution replaced by Hamby,0,-80,8,,202652,204324,1611661319,70,74,4
+03:47,[DAL 71-74] Christmas-Kelly Free Throw 2 of 2 (13 PTS),0,-80,3,,202640,,1611661321,71,74,4
+03:28,[DAL] Christmas-Kelly Foul: Shooting (2 PF) (2 FTA),25,21,6,204330,202640,,1611661321,71,74,4
+03:28,[SAN 75-71] Harrison Free Throw 1 of 2 (3 PTS),0,-80,3,,204330,,1611661319,71,75,4
+03:28,[SAN 76-71] Harrison Free Throw 2 of 2 (4 PTS),0,-80,3,,204330,,1611661319,71,76,4
+03:20,[SAN] Harrison Foul: Personal (6 PF) (2 FTA),-106,43,6,203400,204330,,1611661319,71,76,4
+03:20,[SAN] Harrison Substitution replaced by Montgomery,0,-80,8,,204330,202652,1611661319,71,76,4
+03:20,[DAL] Diggins-Smith Free Throw 1 of 2 Missed,0,-80,3,,203400,,1611661321,71,76,4
+03:20,[DAL] Team Rebound,0,-80,4,,0,,1611661321,71,76,4
+03:20,[DAL 72-76] Diggins-Smith Free Throw 2 of 2 (13 PTS),0,-80,3,,203400,,1611661321,72,76,4
+03:01,[SAN 78-72] Hamby Cutting Layup Shot: Made (8 PTS) Assist: McBride (1 AST),28,11,1,,204324,203825,1611661319,72,78,4
+02:47,[DAL 74-78] Johnson Jump Shot: Made (24 PTS) Assist: Diggins-Smith (6 AST),27,21,1,,203017,203400,1611661321,74,78,4
+02:47,[SAN] Montgomery Foul: Shooting (3 PF) (1 FTA),27,21,6,203017,202652,,1611661319,74,78,4
+02:47,[SAN] Montgomery Substitution replaced by de Souza,0,-80,8,,202652,100812,1611661319,74,78,4
+02:47,[DAL 75-78] Johnson Free Throw 1 of 1 (25 PTS),0,-80,3,,203017,,1611661321,75,78,4
+02:27,[DAL] Gray Foul: Personal Block (4 PF),-38,115,6,203825,1628277,,1611661321,75,78,4
+02:13,[SAN] Currie 3pt Shot: Missed,-189,134,2,,200673,,1611661319,75,78,4
+02:11,[DAL] Plaisance Rebound (Off:1 Def:2),0,-80,4,,203849,,1611661321,75,78,4
+02:03,[SAN] de Souza Foul: Shooting (2 PF) (2 FTA),4,31,6,202640,100812,,1611661319,75,78,4
+02:03,[DAL 76-78] Christmas-Kelly Free Throw 1 of 2 (14 PTS),0,-80,3,,202640,,1611661321,76,78,4
+02:03,[DAL 77-78] Christmas-Kelly Free Throw 2 of 2 (15 PTS),0,-80,3,,202640,,1611661321,77,78,4
+01:45,Jump Ball Johnson vs Jefferson (Christmas-Kelly gains possession),0,-80,10,1627669,203017,202640,1611661321,77,78,4
+01:45,[SAN] Jefferson Turnover : Lost Ball (1 TO) Steal:Johnson (2 ST),0,-80,5,203017,1627669,,1611661319,77,78,4
+01:29,[DAL] Christmas-Kelly Layup Shot: Missed,-17,16,2,,202640,,1611661321,77,78,4
+01:28,[DAL] Diggins-Smith Rebound (Off:1 Def:1),0,-80,4,,203400,,1611661321,77,78,4
+01:27,[DAL 79-78] Diggins-Smith Layup Shot: Made (15 PTS),-12,11,1,,203400,,1611661321,79,78,4
+01:27,[SAN] de Souza Foul: Shooting (3 PF) (1 FTA),-12,11,6,203400,100812,,1611661319,79,78,4
+01:27,[SAN] de Souza Substitution replaced by Montgomery,0,-80,8,,100812,202652,1611661319,79,78,4
+01:27,[DAL 80-78] Diggins-Smith Free Throw 1 of 1 (16 PTS),0,-80,3,,203400,,1611661321,80,78,4
+01:27,[SAN] Team Timeout : Short,0,-80,9,,0,,1611661319,80,78,4
+01:22,[SAN] McBride Turnover : Lost Ball (2 TO) Steal:Plaisance (2 ST),0,-80,5,203849,203825,,1611661319,80,78,4
+01:00,[DAL] Plaisance Layup Shot: Missed,22,16,2,,203849,,1611661321,80,78,4
+00:59.3,[SAN] McBride Rebound (Off:0 Def:5),0,-80,4,,203825,,1611661319,80,78,4
+00:55.2,[SAN] Hamby Turnover : Bad Pass (1 TO) Steal:Diggins-Smith (1 ST),0,-80,5,203400,204324,,1611661319,80,78,4
+00:31.9,[DAL] Plaisance 3pt Shot: Missed,-161,174,2,,203849,,1611661321,80,78,4
+00:30.8,[SAN] Montgomery Rebound (Off:0 Def:1),0,-80,4,,202652,,1611661319,80,78,4
+00:30.6,[SAN] Team Timeout : Short,0,-80,9,,0,,1611661319,80,78,4
+00:27.9,[SAN] Hamby Layup Shot: Missed,24,13,2,,204324,,1611661319,80,78,4
+00:27.0,[SAN] Team Rebound,0,-80,4,,0,,1611661319,80,78,4
+00:14.9,[SAN] McBride Layup Shot: Missed,-22,16,2,,203825,,1611661319,80,78,4
+00:13.8,[SAN] Currie Rebound (Off:1 Def:4),0,-80,4,,200673,,1611661319,80,78,4
+00:13.2,[DAL] Johnson Foul: Loose Ball (3 PF),-217,-1,6,200673,203017,,1611661321,80,78,4
+00:05.2,[SAN] Jefferson Layup Shot: Missed Block: Johnson (1 BLK),25,0,2,203017,1627669,,1611661319,80,78,4
+00:05.2,[SAN] Team Rebound,0,-80,4,,0,,1611661319,80,78,4
+00:04.2,[DAL] Plaisance Foul: Shooting (5 PF) (2 FTA),-2,33,6,204324,203849,,1611661321,80,78,4
+00:04.2,[SAN] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,80,78,4
+00:04.2,[SAN] Team Rebound,0,-80,4,,0,,1611661319,80,78,4
+00:04.2,[SAN] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661319,80,78,4
+00:03.5,[DAL] Christmas-Kelly Rebound (Off:0 Def:5),0,-80,4,,202640,,1611661321,80,78,4
+00:03.5,[SAN] Jefferson Foul: Loose Ball (3 PF) (2 FTA),28,41,6,202640,1627669,,1611661319,80,78,4
+00:03.5,[DAL] Christmas-Kelly Free Throw 1 of 2 Missed,0,-80,3,,202640,,1611661321,80,78,4
+00:03.5,[DAL] Team Rebound,0,-80,4,,0,,1611661321,80,78,4
+00:03.5,[DAL 81-78] Christmas-Kelly Free Throw 2 of 2 (16 PTS),0,-80,3,,202640,,1611661321,81,78,4
+00:01.2,[SAN] Hamby Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,204324,,1611661319,81,78,4
+00:00.4,[DAL] Christmas-Kelly Turnover : Bad Pass (3 TO) Steal:Jefferson (3 ST),0,-80,5,1627669,202640,,1611661321,81,78,4
+00:00.0,End Period,0,-80,13,,0,,0,81,78,4

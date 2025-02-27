@@ -1,0 +1,403 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Stevens vs Stevens (McCowan gains possession),0,-80,10,1628922,1628922,1629479,1611661321,0,0,0,1
+09:36,[DAL 2-0] Sims Pullup Jump shot: Made (2 PTS) Assist: Howard (1 AST),33,182,1,,203824,203827,1611661321,2,0,2,1
+09:20,[LAS] Jackson Foul: Offensive (1 PF),83,-13,6,203824,1642288,100274,1611661320,2,0,0,1
+09:20,[LAS] Jackson Turnover : Offensive Foul Turnover (1 TO),83,-13,5,,1642288,100274,1611661320,2,0,0,1
+09:05,[DAL 4-0] McCowan Layup Shot: Made (2 PTS) Assist: Sheldon (1 AST),5,38,1,,1629479,1642292,1611661321,4,0,2,1
+08:39,[LAS 2-4] Hamby Driving Layup Shot: Made (2 PTS),-12,31,1,,204324,,1611661320,4,2,2,1
+08:27,[DAL 6-2] McCowan Layup Shot: Made (4 PTS) Assist: Ogunbowale (1 AST),-29,10,1,,1629479,1629481,1611661321,6,2,2,1
+08:15,[LAS 4-6] Hamby Driving Layup Shot: Made (4 PTS) Assist: Jackson (1 AST),31,16,1,,204324,1642288,1611661320,6,4,2,1
+07:59,[DAL] Sheldon 3pt Shot: Missed,225,44,2,,1642292,,1611661321,6,4,0,1
+07:56,[LAS] Nurse Rebound (Off:0 Def:1),225,44,4,,1628915,,1611661320,6,4,0,1
+07:53,[LAS] Jackson Running Layup Shot: Missed,-8,13,2,,1642288,,1611661320,6,4,0,1
+07:50,[DAL] Sims Rebound (Off:0 Def:1),-8,13,4,,203824,,1611661321,6,4,0,1
+07:41,[DAL] Howard Jump Shot: Missed,81,133,2,,203827,,1611661321,6,4,0,1
+07:39,[LAS] Hamby Rebound (Off:0 Def:1),81,133,4,,204324,,1611661320,6,4,0,1
+07:20,[LAS 6-6] Hamby Reverse Layup Shot: Made (6 PTS) Assist: Jackson (2 AST),42,6,1,,204324,1642288,1611661320,6,6,2,1
+07:04,[DAL] Howard Driving Layup Shot: Missed,-59,38,2,,203827,,1611661321,6,6,0,1
+07:04,[DAL] Team Rebound,-59,38,4,,0,,1611661321,6,6,0,1
+07:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,6,0,1
+06:58,[DAL] Ogunbowale Jump Shot: Missed,-149,155,2,,1629481,,1611661321,6,6,0,1
+06:55,[DAL] Team Rebound,-149,155,4,,0,,1611661321,6,6,0,1
+06:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,6,0,1
+06:48,[DAL 8-6] Howard Turnaround Jump Shot: Made (2 PTS),50,72,1,,203827,,1611661321,8,6,2,1
+06:32,[LAS] Nurse Driving Hook Shot: Missed,39,20,2,,1628915,,1611661320,8,6,0,1
+06:30,[DAL] McCowan Rebound (Off:0 Def:1),39,20,4,,1629479,,1611661321,8,6,0,1
+06:19,[DAL] Ogunbowale Turnover : Bad Pass (1 TO) Steal:McDonald (1 ST),-107,-6,5,1630462,1629481,,1611661321,8,6,0,1
+06:19,[DAL] Howard Foul: Loose Ball (1 PF),199,741,6,1628922,203827,100274,1611661321,8,6,0,1
+05:59,[LAS] Jackson 3pt Shot: Missed,-12,235,2,,1642288,,1611661320,8,6,0,1
+05:56,[DAL] McCowan Rebound (Off:0 Def:2),-12,235,4,,1629479,,1611661321,8,6,0,1
+05:44,[DAL 10-6] Howard Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Sheldon (2 AST),-7,29,1,,203827,1642292,1611661321,10,6,2,1
+05:42,[DAL] Sheldon Foul: Personal (1 PF),-74,820,6,1630462,1642292,1628168,1611661321,10,6,0,1
+05:32,[LAS 9-10] Hamby 3pt Shot: Made (9 PTS) Assist: McDonald (1 AST),53,255,1,,204324,1630462,1611661320,10,9,3,1
+05:19,[DAL] Howard Floating Jump shot: Missed,15,53,2,,203827,,1611661321,10,9,0,1
+05:18,[DAL] Howard Rebound (Off:1 Def:0),15,53,4,,203827,,1611661321,10,9,0,1
+05:17,[DAL] Howard Tip Layup Shot: Missed,0,-5,2,,203827,,1611661321,10,9,0,1
+05:16,[DAL] McCowan Rebound (Off:1 Def:2),0,-5,4,,1629479,,1611661321,10,9,0,1
+05:15,[DAL 12-9] McCowan Putback Layup Shot: Made (6 PTS),0,-5,1,,1629479,,1611661321,12,9,2,1
+04:52,[LAS] Nurse 3pt Shot: Missed,-227,5,2,,1628915,,1611661320,12,9,0,1
+04:50,[DAL] McCowan Rebound (Off:1 Def:3),-227,5,4,,1629479,,1611661321,12,9,0,1
+04:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,9,0,1
+04:42,Timeout : Official,0,-80,9,,0,,0,12,9,0,1
+04:42,[LAS] Stevens Substitution replaced by Talbot,0,-80,8,,1628922,203855,1611661320,12,9,0,1
+04:42,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,12,9,0,1
+04:40,[DAL] Brown Layup Shot: Missed Block: Hamby (1 BLK),-37,34,2,204324,1629480,,1611661321,12,9,0,1
+04:37,[LAS] Jackson Rebound (Off:0 Def:1),-37,34,4,,1642288,,1611661320,12,9,0,1
+04:16,[LAS] Hamby Layup Shot: Missed,17,1,2,,204324,,1611661320,12,9,0,1
+04:13,[LAS] McDonald Rebound (Off:1 Def:0),17,1,4,,1630462,,1611661320,12,9,0,1
+04:13,[LAS] McDonald Driving Floating Jump Shot: Missed,1,53,2,,1630462,,1611661320,12,9,0,1
+04:10,[DAL] Howard Rebound (Off:1 Def:1),1,53,4,,203827,,1611661321,12,9,0,1
+04:05,[DAL 14-9] Brown Running Layup Shot: Made (2 PTS) Assist: Sims (1 AST),-26,19,1,,1629480,203824,1611661321,14,9,2,1
+03:44,[LAS 11-14] Jackson Turnaround Jump Shot: Made (2 PTS) Assist: Talbot (1 AST),-93,22,1,,1642288,203855,1611661320,14,11,2,1
+03:23,[DAL 16-11] Howard Layup Shot: Made (6 PTS) Assist: Brown (1 AST),21,16,1,,203827,1629480,1611661321,16,11,2,1
+03:13,[LAS] Hamby Turnover : Lost Ball (1 TO) Steal:Ogunbowale (1 ST),-10,134,5,1629481,204324,,1611661320,16,11,0,1
+03:08,[DAL 18-11] Sheldon Running Layup Shot: Made (2 PTS) Assist: Ogunbowale (2 AST),17,0,1,,1642292,1629481,1611661321,18,11,2,1
+02:53,[LAS] McDonald 3pt Shot: Missed,102,228,2,,1630462,,1611661320,18,11,0,1
+02:50,[DAL] Howard Rebound (Off:1 Def:2),102,228,4,,203827,,1611661321,18,11,0,1
+02:42,[DAL] Howard Turnover : Bad Pass (1 TO) Steal:McDonald (2 ST),-40,22,5,1630462,203827,,1611661321,18,11,0,1
+02:38,[LAS] Talbot Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-13,432,5,,203855,1628952,1611661320,18,11,0,1
+02:38,[LAS] McDonald Substitution replaced by Stevens,0,-80,8,,1630462,1628922,1611661320,18,11,0,1
+02:38,[LAS] Hamby Substitution replaced by Clarendon,0,-80,8,,204324,203406,1611661320,18,11,0,1
+02:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,11,0,1
+02:27,[DAL] Brown Foul: Offensive (1 PF),38,58,6,1642288,1629480,1628952,1611661321,18,11,0,1
+02:27,[DAL] Brown Turnover : Offensive Foul Turnover (1 TO),38,58,5,,1629480,1628952,1611661321,18,11,0,1
+02:27,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,18,11,0,1
+02:13,[LAS 13-18] Jackson Layup Shot: Made (4 PTS) Assist: Stevens (1 AST),20,5,1,,1642288,1628922,1611661320,18,13,2,1
+01:53,[DAL] Sims Step Back Jump shot: Missed,-77,193,2,,203824,,1611661321,18,13,0,1
+01:50,[LAS] Stevens Rebound (Off:0 Def:1),-77,193,4,,1628922,,1611661320,18,13,0,1
+01:37,[DAL] Sims Foul: Shooting (1 PF) (2 FTA),22,28,6,1642288,203824,100274,1611661321,18,13,0,1
+01:37,[LAS 14-18] Jackson Free Throw 1 of 2 (5 PTS),0,-80,3,,1642288,,1611661320,18,14,1,1
+01:37,[DAL] Sheldon Substitution replaced by Uzun,0,-80,8,,1642292,1642244,1611661321,18,14,0,1
+01:37,[LAS] Nurse Substitution replaced by Cooke,0,-80,8,,1628915,1641660,1611661320,18,14,0,1
+01:37,[LAS 15-18] Jackson Free Throw 2 of 2 (6 PTS),0,-80,3,,1642288,,1611661320,18,15,1,1
+01:17,[DAL] Ogunbowale 3pt Shot: Missed,-145,222,2,,1629481,,1611661321,18,15,0,1
+01:14,[LAS] Jackson Rebound (Off:0 Def:2),-145,222,4,,1642288,,1611661320,18,15,0,1
+00:59.8,[LAS 18-18] Stevens 3pt Shot: Made (3 PTS) Assist: Talbot (2 AST),124,229,1,,1628922,203855,1611661320,18,18,3,1
+00:37.4,[DAL] Brown Turnover : Bad Pass (2 TO) Steal:Stevens (1 ST),-68,27,5,1628922,1629480,,1611661321,18,18,0,1
+00:28.7,[LAS] Cooke Driving Layup Shot: Missed,11,26,2,,1641660,,1611661320,18,18,0,1
+00:26.3,[DAL] Billings Rebound (Off:0 Def:1),11,26,4,,1628881,,1611661321,18,18,0,1
+00:25.7,[DAL] Billings Turnover : Bad Pass (1 TO) Steal:Stevens (2 ST),-56,795,5,1628922,1628881,,1611661321,18,18,0,1
+00:25.3,[LAS 20-18] Stevens Layup Shot: Made (5 PTS),31,5,1,,1628922,,1611661320,18,20,2,1
+00:17.6,[DAL] Billings Turnover : Lost Ball (2 TO) Steal:Jackson (1 ST),12,150,5,1642288,1628881,,1611661321,18,20,0,1
+00:13.2,[LAS 22-18] Jackson Running Layup Shot: Made (8 PTS),22,20,1,,1642288,,1611661320,18,22,2,1
+00:01.8,[DAL] Sims 3pt Shot: Missed,123,209,2,,203824,,1611661321,18,22,0,1
+00:01.0,[LAS] Jackson Rebound (Off:0 Def:3),123,209,4,,1642288,,1611661320,18,22,0,1
+00:00.0,End Period,0,-80,13,,0,,0,18,22,0,1
+10:00,Start Period,0,-80,12,,0,,0,18,22,0,2
+09:44,[LAS 24-18] Jackson Driving Layup Shot: Made (10 PTS) Assist: Hamby (1 AST),1,15,1,,1642288,204324,1611661320,18,24,2,2
+09:21,[DAL 20-24] Sims Driving Layup Shot: Made (4 PTS),-96,22,1,,203824,,1611661321,20,24,2,2
+09:10,[LAS 26-20] Clarendon Driving Layup Shot: Made (2 PTS),35,9,1,,203406,,1611661320,20,26,2,2
+09:02,[LAS] Jackson Foul: Personal (2 PF),-104,209,6,1642292,1642288,100274,1611661320,20,26,0,2
+09:02,[LAS] Jackson Substitution replaced by Burrell,0,-80,8,,1642288,1630996,1611661320,20,26,0,2
+09:02,Stoppage Other,0,-80,20,,0,,0,20,26,0,2
+08:55,[DAL] Ogunbowale Pullup Jump shot: Missed,-78,141,2,,1629481,,1611661321,20,26,0,2
+08:52,[LAS] Stevens Rebound (Off:0 Def:2),-78,141,4,,1628922,,1611661320,20,26,0,2
+08:46,[LAS 28-20] Hamby Running Layup Shot: Made (11 PTS) Assist: Burrell (1 AST),40,20,1,,204324,1630996,1611661320,20,28,2,2
+08:45,Timeout : Regular,0,-80,9,,1611661321,,1611661321,20,28,0,2
+08:25,[DAL] Howard Jump Shot: Missed,143,39,2,,203827,,1611661321,20,28,0,2
+08:22,[DAL] Team Rebound,143,39,4,,0,,1611661321,20,28,0,2
+08:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,28,0,2
+08:13,[DAL] Howard Turnover : Bad Pass (2 TO) Steal:Stevens (3 ST),6,242,5,1628922,203827,,1611661321,20,28,0,2
+08:01,[LAS] Hamby Layup Shot: Missed,20,16,2,,204324,,1611661320,20,28,0,2
+07:59,[DAL] Ogunbowale Rebound (Off:0 Def:1),20,16,4,,1629481,,1611661321,20,28,0,2
+07:57,[LAS] Burrell Violation:Kicked Ball,0,-80,7,,1630996,,1611661320,20,28,0,2
+07:54,[DAL 23-28] Ogunbowale 3pt Shot: Made (3 PTS) Assist: McCowan (1 AST),-40,250,1,,1629481,1629479,1611661321,23,28,3,2
+07:37,[LAS] Stevens Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),102,220,5,203827,1628922,,1611661320,23,28,0,2
+07:31,[DAL] Howard Turnover : Bad Pass (3 TO) Steal:Burrell (1 ST),-54,50,5,1630996,203827,,1611661321,23,28,0,2
+07:13,[LAS 30-23] Hamby Layup Shot: Made (13 PTS),-11,8,1,,204324,,1611661320,23,30,2,2
+06:52,[DAL] McCowan Layup Shot: Missed Block: Stevens (1 BLK),-24,37,2,1628922,1629479,,1611661321,23,30,0,2
+06:51,[DAL] Team Rebound,-24,37,4,,0,,1611661321,23,30,0,2
+06:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,30,0,2
+06:50,[LAS] Cooke Foul: Shooting (1 PF) (2 FTA),-163,28,6,1629481,1641660,1628952,1611661320,23,30,0,2
+06:50,[DAL 24-30] Ogunbowale Free Throw 1 of 2 (4 PTS),0,-80,3,,1629481,,1611661321,24,30,1,2
+06:50,[DAL 25-30] Ogunbowale Free Throw 2 of 2 (5 PTS),0,-80,3,,1629481,,1611661321,25,30,1,2
+06:37,[LAS 32-25] Burrell Pullup Jump shot: Made (2 PTS) Assist: Hamby (2 AST),-29,175,1,,1630996,204324,1611661320,25,32,2,2
+06:16,[DAL 27-32] McCowan Cutting Layup Shot: Made (8 PTS) Assist: Howard (2 AST),12,39,1,,1629479,203827,1611661321,27,32,2,2
+06:04,[LAS] Cooke Driving Layup Shot: Missed,34,46,2,,1641660,,1611661320,27,32,0,2
+06:01,[LAS] Burrell Rebound (Off:1 Def:0),34,46,4,,1630996,,1611661320,27,32,0,2
+05:58,[LAS] Hamby Layup Shot: Missed,24,25,2,,204324,,1611661320,27,32,0,2
+05:56,[LAS] Cooke Rebound (Off:1 Def:0),24,25,4,,1641660,,1611661320,27,32,0,2
+05:51,[LAS] Cooke Driving Layup Shot: Missed Block: McCowan (1 BLK),-5,6,2,1629479,1641660,,1611661320,27,32,0,2
+05:47,[DAL] McCowan Rebound (Off:1 Def:4),-5,6,4,,1629479,,1611661321,27,32,0,2
+05:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,32,0,2
+05:35,[LAS] Cooke Substitution replaced by Nurse,0,-80,8,,1641660,1628915,1611661320,27,32,0,2
+05:35,[LAS] Clarendon Substitution replaced by McDonald,0,-80,8,,203406,1630462,1611661320,27,32,0,2
+05:27,[DAL] Sims 3pt Shot: Missed,100,259,2,,203824,,1611661321,27,32,0,2
+05:26,[DAL] Team Rebound,100,259,4,,0,,1611661321,27,32,0,2
+05:26,[DAL] Team Turnover : Shot Clock Turnover,-144,32,5,,0,1628952,1611661321,27,32,0,2
+05:26,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,27,32,0,2
+05:10,[LAS] McDonald Turnover : Bad Pass (1 TO) Steal:Brown (1 ST),70,24,5,1629480,1630462,,1611661320,27,32,0,2
+05:07,[LAS] Hamby Foul: Shooting (1 PF) (2 FTA),-15,59,6,1629481,204324,1628168,1611661320,27,32,0,2
+05:07,[DAL 28-32] Ogunbowale Free Throw 1 of 2 (6 PTS),0,-80,3,,1629481,,1611661321,28,32,1,2
+05:07,[DAL 29-32] Ogunbowale Free Throw 2 of 2 (7 PTS),0,-80,3,,1629481,,1611661321,29,32,1,2
+04:52,[LAS 35-29] Stevens 3pt Shot: Made (8 PTS) Assist: Burrell (2 AST),233,16,1,,1628922,1630996,1611661320,29,35,3,2
+04:27,[DAL 32-35] Sims 3pt Shot: Made (7 PTS) Assist: Ogunbowale (3 AST),172,161,1,,203824,1629481,1611661321,32,35,3,2
+04:18,[LAS 37-32] McDonald Driving Layup Shot: Made (2 PTS),-10,11,1,,1630462,,1611661320,32,37,2,2
+04:02,[DAL 35-37] Ogunbowale 3pt Shot: Made (10 PTS) Assist: Howard (3 AST),-151,211,1,,1629481,203827,1611661321,35,37,3,2
+03:44,[LAS 39-35] Hamby Driving Layup Shot: Made (15 PTS) Assist: Burrell (3 AST),29,22,1,,204324,1630996,1611661320,35,39,2,2
+03:44,[DAL] Brown Foul: Shooting (2 PF) (1 FTA),29,22,6,204324,1629480,1628952,1611661321,35,39,0,2
+03:44,[DAL] Sheldon Substitution replaced by Uzun,0,-80,8,,1642292,1642244,1611661321,35,39,0,2
+03:44,[LAS] Burrell Substitution replaced by Jackson,0,-80,8,,1630996,1642288,1611661320,35,39,0,2
+03:44,[LAS] Hamby Free Throw 1 of 1 Missed,0,-80,3,,204324,,1611661320,35,39,0,2
+03:42,[DAL] Howard Rebound (Off:1 Def:3),0,-80,4,,203827,,1611661321,35,39,0,2
+03:32,[LAS] Stevens Foul: Shooting (1 PF) (2 FTA),-22,21,6,1629480,1628922,1628952,1611661320,35,39,0,2
+03:32,[DAL 36-39] Brown Free Throw 1 of 2 (3 PTS),0,-80,3,,1629480,,1611661321,36,39,1,2
+03:32,[DAL] Brown Free Throw 2 of 2 Missed,0,-80,3,,1629480,,1611661321,36,39,0,2
+03:29,[DAL] Howard Rebound (Off:2 Def:3),0,-80,4,,203827,,1611661321,36,39,0,2
+03:28,[DAL 38-39] Brown Jump Shot: Made (5 PTS),82,203,1,,1629480,,1611661321,38,39,2,2
+03:28,Timeout : Regular,0,-80,9,,1611661320,,1611661320,38,39,0,2
+03:16,[LAS] Stevens Turnover : Bad Pass (2 TO) Steal:Ogunbowale (2 ST),127,210,5,1629481,1628922,,1611661320,38,39,0,2
+03:10,[DAL] Ogunbowale 3pt Shot: Missed,211,102,2,,1629481,,1611661321,38,39,0,2
+03:09,[LAS] Nurse Rebound (Off:0 Def:2),211,102,4,,1628915,,1611661320,38,39,0,2
+03:01,[LAS] Stevens Running Layup Shot: Missed Block: Ogunbowale (1 BLK),29,3,2,1629481,1628922,,1611661320,38,39,0,2
+03:01,[DAL] Team Rebound,29,3,4,,0,,1611661321,38,39,0,2
+03:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,39,0,2
+02:47,[DAL] Ogunbowale Step Back Jump shot: Missed,-118,163,2,,1629481,,1611661321,38,39,0,2
+02:43,[LAS] Stevens Rebound (Off:0 Def:3),-118,163,4,,1628922,,1611661320,38,39,0,2
+02:37,[LAS 41-38] McDonald Driving Floating Bank Jump Shot: Made (4 PTS),-28,20,1,,1630462,,1611661320,38,41,2,2
+02:22,[DAL] Uzun Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),0,209,5,204324,1642244,,1611661321,38,41,0,2
+02:21,[DAL] Uzun Foul: Personal (1 PF),-62,602,6,204324,1642244,1628168,1611661321,38,41,0,2
+02:21,Instant Replay - Support Ruling,0,-80,18,,0,,0,38,41,0,2
+02:01,[LAS] Jackson Turnover : Lost Ball (2 TO) Steal:Howard (2 ST),135,20,5,203827,1642288,,1611661320,38,41,0,2
+01:54,[DAL] Sims Running Layup Shot: Missed,-50,38,2,,203824,,1611661321,38,41,0,2
+01:50,[LAS] Team Rebound,-50,38,4,,0,,1611661320,38,41,0,2
+01:50,[DAL] Howard Foul: Loose Ball (2 PF),-178,852,6,1628915,203827,1628168,1611661321,38,41,0,2
+01:31,[LAS] Jackson 3pt Shot: Missed,235,16,2,,1642288,,1611661320,38,41,0,2
+01:27,[DAL] Brown Rebound (Off:0 Def:1),235,16,4,,1629480,,1611661321,38,41,0,2
+01:17,[LAS] Hamby Foul: Shooting (2 PF) (2 FTA),-5,65,6,203827,204324,1628952,1611661320,38,41,0,2
+01:17,[DAL 39-41] Howard Free Throw 1 of 2 (7 PTS),0,-80,3,,203827,,1611661321,39,41,1,2
+01:17,[DAL 40-41] Howard Free Throw 2 of 2 (8 PTS),0,-80,3,,203827,,1611661321,40,41,1,2
+01:07,[LAS] Hamby Driving Layup Shot: Missed Block: Brown (1 BLK),73,31,2,1629480,204324,,1611661320,40,41,0,2
+01:06,[LAS] Stevens Rebound (Off:1 Def:3),73,31,4,,1628922,,1611661320,40,41,0,2
+01:02,[LAS] Jackson 3pt Shot: Missed,-221,8,2,,1642288,,1611661320,40,41,0,2
+01:02,[DAL] Sims Rebound (Off:0 Def:2),-221,8,4,,203824,,1611661321,40,41,0,2
+00:57.9,[DAL 42-41] Howard Running Layup Shot: Made (10 PTS) Assist: Sims (2 AST),-23,17,1,,203827,203824,1611661321,42,41,2,2
+00:52.0,[LAS 43-42] Jackson Cutting Layup Shot: Made (12 PTS) Assist: McDonald (2 AST),-10,15,1,,1642288,1630462,1611661320,42,43,2,2
+00:45.6,[DAL] Ogunbowale Driving Layup Shot: Missed,19,5,2,,1629481,,1611661321,42,43,0,2
+00:43.5,[LAS] Stevens Rebound (Off:1 Def:4),19,5,4,,1628922,,1611661320,42,43,0,2
+00:39.8,[LAS 45-42] Hamby Running Layup Shot: Made (17 PTS) Assist: Stevens (2 AST),39,22,1,,204324,1628922,1611661320,42,45,2,2
+00:39.8,Timeout : Regular,0,-80,9,,1611661321,,1611661321,42,45,0,2
+00:39.8,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,42,45,0,2
+00:26.8,[DAL 44-45] Sims Driving Floating Jump Shot: Made (9 PTS),-10,128,1,,203824,,1611661321,44,45,2,2
+00:10.7,[LAS] Jackson Foul: Offensive (3 PF),-34,247,6,203824,1642288,1628168,1611661320,44,45,0,2
+00:10.7,[LAS] Jackson Turnover : Offensive Foul Turnover (3 TO),-34,247,5,,1642288,1628168,1611661320,44,45,0,2
+00:10.7,[LAS] Jackson Substitution replaced by Burrell,0,-80,8,,1642288,1630996,1611661320,44,45,0,2
+00:00.3,[DAL] Ogunbowale Jump Shot: Missed,-100,69,2,,1629481,,1611661321,44,45,0,2
+00:00.1,[DAL] Team Rebound,-100,69,4,,0,,1611661321,44,45,0,2
+00:00.0,End Period,0,-80,13,,0,,0,44,45,0,2
+10:00,Start Period,0,-80,12,,0,,0,44,45,0,3
+09:47,[LAS 47-44] Hamby Driving Layup Shot: Made (19 PTS) Assist: McDonald (3 AST),33,5,1,,204324,1630462,1611661320,44,47,2,3
+09:31,[DAL] Howard 3pt Shot: Missed,-46,223,2,,203827,,1611661321,44,47,0,3
+09:29,[LAS] Team Rebound,-46,223,4,,0,,1611661320,44,47,0,3
+09:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,47,0,3
+09:08,[LAS] Hamby 3pt Shot: Missed,166,179,2,,204324,,1611661320,44,47,0,3
+09:04,[DAL] McCowan Rebound (Off:1 Def:5),166,179,4,,1629479,,1611661321,44,47,0,3
+08:52,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (2 TO),63,248,5,,1629481,1628168,1611661321,44,47,0,3
+08:32,[LAS] Jackson Turnaround Jump Shot: Missed,-71,65,2,,1642288,,1611661320,44,47,0,3
+08:30,[DAL] Team Rebound,-71,65,4,,0,,1611661321,44,47,0,3
+08:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,47,0,3
+08:11,[DAL] Ogunbowale Foul: Offensive (1 PF),-81,76,6,1628915,1629481,100274,1611661321,44,47,0,3
+08:11,[DAL] Ogunbowale Turnover : Offensive Foul Turnover (3 TO),-81,76,5,,1629481,100274,1611661321,44,47,0,3
+08:01,[LAS 49-44] McDonald Driving Layup Shot: Made (6 PTS),-26,11,1,,1630462,,1611661320,44,49,2,3
+07:38,[DAL] Ogunbowale Turnover : Bad Pass (4 TO) Steal:Hamby (2 ST),-10,304,5,204324,1629481,,1611661321,44,49,0,3
+07:36,[LAS 51-44] Hamby Running Layup Shot: Made (21 PTS),27,8,1,,204324,,1611661320,44,51,2,3
+07:22,[LAS] Hamby Foul: Personal (3 PF),167,167,6,1642292,204324,1628952,1611661320,44,51,0,3
+07:22,[DAL] Ogunbowale Substitution replaced by Uzun,0,-80,8,,1629481,1642244,1611661321,44,51,0,3
+07:16,[DAL 46-51] Sims Pullup Jump shot: Made (11 PTS),-29,75,1,,203824,,1611661321,46,51,2,3
+06:53,[LAS 54-46] Stevens 3pt Shot: Made (11 PTS) Assist: Hamby (3 AST),83,250,1,,1628922,204324,1611661320,46,54,3,3
+06:43,[DAL] Sims Driving Floating Jump Shot: Missed,-29,3,2,,203824,,1611661321,46,54,0,3
+06:40,[LAS] Stevens Rebound (Off:1 Def:5),-29,3,4,,1628922,,1611661320,46,54,0,3
+06:34,[LAS 57-46] Nurse 3pt Shot: Made (3 PTS) Assist: McDonald (4 AST),224,3,1,,1628915,1630462,1611661320,46,57,3,3
+06:33,Timeout : Regular,0,-80,9,,1611661321,,1611661321,46,57,0,3
+06:33,[DAL] McCowan Substitution replaced by Ogunbowale,0,-80,8,,1629479,1629481,1611661321,46,57,0,3
+06:33,[DAL] Uzun Substitution replaced by Brown,0,-80,8,,1642244,1629480,1611661321,46,57,0,3
+06:25,[DAL] Brown Foul: Offensive (3 PF),-111,228,6,1630462,1629480,1628952,1611661321,46,57,0,3
+06:25,[DAL] Brown Turnover : Offensive Foul Turnover (3 TO),-111,228,5,,1629480,1628952,1611661321,46,57,0,3
+06:05,[LAS] McDonald Pullup Jump shot: Missed,-65,161,2,,1630462,,1611661320,46,57,0,3
+06:02,[DAL] Sims Rebound (Off:0 Def:3),-65,161,4,,203824,,1611661321,46,57,0,3
+05:45,[DAL 48-57] Sheldon Driving Reverse Layup Shot: Made (4 PTS),-11,1,1,,1642292,,1611661321,48,57,2,3
+05:40,[DAL] Sims Foul: Shooting (2 PF) (2 FTA),-44,15,6,1642288,203824,1628952,1611661321,48,57,0,3
+05:40,[LAS 58-48] Jackson Free Throw 1 of 2 (13 PTS),0,-80,3,,1642288,,1611661320,48,58,1,3
+05:40,[LAS 59-48] Jackson Free Throw 2 of 2 (14 PTS),0,-80,3,,1642288,,1611661320,48,59,1,3
+05:24,[LAS] Nurse Foul: Personal (1 PF),1,151,6,203827,1628915,100274,1611661320,48,59,0,3
+05:15,[DAL 51-59] Sims 3pt Shot: Made (14 PTS) Assist: Howard (4 AST),-177,142,1,,203824,203827,1611661321,51,59,3,3
+04:58,[DAL] Ogunbowale Foul: Personal (2 PF),-68,129,6,1628915,1629481,100274,1611661321,51,59,0,3
+04:54,[LAS] Hamby Jump Shot: Missed,140,-9,2,,204324,,1611661320,51,59,0,3
+04:51,[DAL] Ogunbowale Rebound (Off:0 Def:2),140,-9,4,,1629481,,1611661321,51,59,0,3
+04:46,[LAS] Nurse Foul: Personal (2 PF),-36,138,6,1629481,1628915,1628168,1611661320,51,59,0,3
+04:46,[LAS] McDonald Substitution replaced by Clarendon,0,-80,8,,1630462,203406,1611661320,51,59,0,3
+04:41,[DAL] Ogunbowale 3pt Shot: Missed,-150,205,2,,1629481,,1611661321,51,59,0,3
+04:40,[DAL] Brown Rebound (Off:1 Def:1),-150,205,4,,1629480,,1611661321,51,59,0,3
+04:38,[DAL] Brown Layup Shot: Missed Block: Stevens (2 BLK),4,17,2,1628922,1629480,,1611661321,51,59,0,3
+04:37,[DAL] Brown Rebound (Off:2 Def:1),4,17,4,,1629480,,1611661321,51,59,0,3
+04:36,[LAS] Stevens Foul: Shooting (2 PF) (2 FTA),-11,9,6,1629480,1628922,100274,1611661320,51,59,0,3
+04:36,[DAL 52-59] Brown Free Throw 1 of 2 (6 PTS),0,-80,3,,1629480,,1611661321,52,59,1,3
+04:36,[DAL] Brown Free Throw 2 of 2 Missed,0,-80,3,,1629480,,1611661321,52,59,0,3
+04:34,[LAS] Hamby Rebound (Off:0 Def:2),0,-80,4,,204324,,1611661320,52,59,0,3
+04:11,[LAS] Nurse Turnover : Lost Ball (1 TO) Steal:Sheldon (1 ST),96,107,5,1642292,1628915,,1611661320,52,59,0,3
+04:11,Stoppage Other,0,-80,20,,0,,0,52,59,0,3
+04:11,[DAL] Sheldon Turnover : Bad Pass (1 TO) Steal:Stevens (4 ST),-122,628,5,1628922,1642292,,1611661321,52,59,0,3
+04:05,[LAS] Clarendon Driving Floating Jump Shot: Missed,-7,83,2,,203406,,1611661320,52,59,0,3
+04:01,[DAL] Howard Rebound (Off:2 Def:4),-7,83,4,,203827,,1611661321,52,59,0,3
+03:58,[DAL] Howard Running Layup Shot: Missed,-16,4,2,,203827,,1611661321,52,59,0,3
+03:58,[LAS] Stevens Rebound (Off:1 Def:6),-16,4,4,,1628922,,1611661320,52,59,0,3
+03:51,[LAS] Team Rebound,69,26,4,,0,,1611661320,52,59,0,3
+03:50,Jump Ball Ogunbowale vs Ogunbowale,0,-80,10,1629481,1629481,,1611661320,52,59,0,3
+03:50,[DAL] Ogunbowale Foul: Loose Ball (3 PF),6,695,6,204324,1629481,100274,1611661321,52,59,0,3
+03:46,[LAS] Hamby Foul: Offensive (4 PF),7,114,6,203824,204324,100274,1611661320,52,59,0,3
+03:46,[LAS] Hamby Turnover : Offensive Foul Turnover (2 TO),7,114,5,,204324,100274,1611661320,52,59,0,3
+03:46,[LAS] Hamby Substitution replaced by Talbot,0,-80,8,,204324,203855,1611661320,52,59,0,3
+03:33,[DAL] Ogunbowale 3pt Shot: Missed,-221,24,2,,1629481,,1611661321,52,59,0,3
+03:30,[LAS] Jackson Rebound (Off:0 Def:4),-221,24,4,,1642288,,1611661320,52,59,0,3
+03:28,[DAL] Ogunbowale Foul: Personal (4 PF),41,749,6,203406,1629481,1628168,1611661321,52,59,0,3
+03:18,[LAS] Jackson Driving Floating Jump Shot: Missed Block: Sims (1 BLK),13,86,2,203824,1642288,,1611661320,52,59,0,3
+03:17,[DAL] Team Rebound,13,86,4,,0,,1611661321,52,59,0,3
+03:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,59,0,3
+03:12,[LAS] Clarendon Foul: Personal (1 PF) (2 FTA),0,231,6,203824,203406,1628952,1611661320,52,59,0,3
+03:12,[DAL 53-59] Sims Free Throw 1 of 2 (15 PTS),0,-80,3,,203824,,1611661321,53,59,1,3
+03:12,[DAL 54-59] Sims Free Throw 2 of 2 (16 PTS),0,-80,3,,203824,,1611661321,54,59,1,3
+02:49,[LAS] Nurse Driving Layup Shot: Missed,-34,54,2,,1628915,,1611661320,54,59,0,3
+02:49,[DAL] Team Rebound,-34,54,4,,0,,1611661321,54,59,0,3
+02:49,[LAS] Jackson Foul: Loose Ball (4 PF) (2 FTA),-2,811,6,203824,1642288,1628952,1611661320,54,59,0,3
+02:49,[DAL 55-59] Sims Free Throw 1 of 2 (17 PTS),0,-80,3,,203824,,1611661321,55,59,1,3
+02:49,[LAS] Jackson Substitution replaced by Cooke,0,-80,8,,1642288,1641660,1611661320,55,59,0,3
+02:49,[LAS] Nurse Substitution replaced by Hamby,0,-80,8,,1628915,204324,1611661320,55,59,0,3
+02:49,[DAL] Sims Free Throw 2 of 2 Missed,0,-80,3,,203824,,1611661321,55,59,0,3
+02:46,[LAS] Talbot Rebound (Off:0 Def:1),0,-80,4,,203855,,1611661320,55,59,0,3
+02:27,[LAS] Talbot Turnover : Traveling (2 TO),116,42,5,,203855,100274,1611661320,55,59,0,3
+02:27,Timeout : Regular,0,-80,9,,1611661320,,1611661320,55,59,0,3
+02:13,[DAL 57-59] Brown Cutting Layup Shot: Made (8 PTS) Assist: Sims (3 AST),-8,4,1,,1629480,203824,1611661321,57,59,2,3
+02:00,[LAS] Hamby Layup Shot: Missed Block: Brown (2 BLK),54,7,2,1629480,204324,,1611661320,57,59,0,3
+01:57,[DAL] Brown Rebound (Off:2 Def:2),54,7,4,,1629480,,1611661321,57,59,0,3
+01:56,[DAL 59-59] Sheldon Running Layup Shot: Made (6 PTS) Assist: Sims (4 AST),22,-2,1,,1642292,203824,1611661321,59,59,2,3
+01:48,[LAS 61-59] Hamby Driving Layup Shot: Made (23 PTS) Assist: Clarendon (1 AST),23,1,1,,204324,203406,1611661320,59,61,2,3
+01:34,[DAL 61-61] Howard Cutting Layup Shot: Made (12 PTS) Assist: Brown (2 AST),11,41,1,,203827,1629480,1611661321,61,61,2,3
+01:21,[LAS] Stevens Driving Layup Shot: Missed Block: Howard (1 BLK),27,24,2,203827,1628922,,1611661320,61,61,0,3
+01:21,[LAS] Team Rebound,27,24,4,,0,,1611661320,61,61,0,3
+01:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,61,0,3
+01:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,61,0,3
+01:18,[DAL] Ogunbowale Substitution replaced by Uzun,0,-80,8,,1629481,1642244,1611661321,61,61,0,3
+01:10,[LAS] Stevens Pullup Jump shot: Missed,185,74,2,,1628922,,1611661320,61,61,0,3
+01:05,[DAL] Sheldon Rebound (Off:0 Def:1),185,74,4,,1642292,,1611661321,61,61,0,3
+00:51.5,[DAL 63-61] Sims Driving Floating Jump Shot: Made (19 PTS),-13,25,1,,203824,,1611661321,63,61,2,3
+00:39.0,[LAS] Cooke Jump Shot: Missed,-26,164,2,,1641660,,1611661320,63,61,0,3
+00:36.5,[DAL] Sheldon Rebound (Off:0 Def:2),-26,164,4,,1642292,,1611661321,63,61,0,3
+00:17.8,[DAL] Sims Driving Layup Shot: Missed,11,54,2,,203824,,1611661321,63,61,0,3
+00:16.2,[DAL] Sims Rebound (Off:1 Def:3),11,54,4,,203824,,1611661321,63,61,0,3
+00:15.7,[DAL] Sims Putback Layup Shot: Missed,0,-5,2,,203824,,1611661321,63,61,0,3
+00:14.6,[LAS] Cooke Rebound (Off:1 Def:1),0,-5,4,,1641660,,1611661320,63,61,0,3
+00:02.3,[LAS] Cooke Driving Layup Shot: Missed,-20,70,2,,1641660,,1611661320,63,61,0,3
+00:02.3,[LAS] Hamby Rebound (Off:1 Def:2),-20,70,4,,204324,,1611661320,63,61,0,3
+00:00.8,[LAS] Hamby Putback Layup Shot: Missed,0,-5,2,,204324,,1611661320,63,61,0,3
+00:00.1,[LAS] Team Rebound,0,-5,4,,0,,1611661320,63,61,0,3
+00:00.0,End Period,0,-80,13,,0,,0,63,61,0,3
+10:00,Start Period,0,-80,12,,0,,0,63,61,0,4
+09:41,[DAL 66-61] Uzun 3pt Shot: Made (3 PTS) Assist: Ogunbowale (4 AST),-223,46,1,,1642244,1629481,1611661321,66,61,3,4
+09:26,[LAS 63-66] Talbot Layup Shot: Made (2 PTS) Assist: Stevens (3 AST),15,18,1,,203855,1628922,1611661320,66,63,2,4
+09:03,[DAL 68-63] Howard Jump Shot: Made (14 PTS),-34,172,1,,203827,,1611661321,68,63,2,4
+08:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,63,0,4
+08:40,[DAL] McCowan Foul: Personal (1 PF),-137,107,6,204324,1629479,100274,1611661321,68,63,0,4
+08:30,[LAS] Hamby Driving Layup Shot: Missed Block: Howard (2 BLK),23,15,2,203827,204324,,1611661320,68,63,0,4
+08:30,[LAS] Team Rebound,23,15,4,,0,,1611661320,68,63,0,4
+08:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,63,0,4
+08:30,[DAL] Uzun Substitution replaced by Sims,0,-80,8,,1642244,203824,1611661321,68,63,0,4
+08:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,63,0,4
+08:25,[LAS] Hamby 3pt Shot: Missed,-144,279,2,,204324,,1611661320,68,63,0,4
+08:25,[LAS] Team Rebound,-144,279,4,,0,,1611661320,68,63,0,4
+08:25,[LAS] Team Turnover : Shot Clock Turnover,-116,113,5,,0,1628168,1611661320,68,63,0,4
+08:15,[DAL] Sims Driving Layup Shot: Missed,-11,24,2,,203824,,1611661321,68,63,0,4
+08:11,[LAS] McDonald Rebound (Off:1 Def:1),-11,24,4,,1630462,,1611661320,68,63,0,4
+08:02,[LAS] Talbot 3pt Shot: Missed,-5,239,2,,203855,,1611661320,68,63,0,4
+08:00,[DAL] Team Rebound,-5,239,4,,0,,1611661321,68,63,0,4
+08:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,63,0,4
+07:41,[DAL] Howard Turnaround Jump Shot: Missed,-23,25,2,,203827,,1611661321,68,63,0,4
+07:40,[DAL] Team Rebound,-23,25,4,,0,,1611661321,68,63,0,4
+07:40,[LAS] Stevens Foul: Loose Ball (3 PF),40,14,6,1629479,1628922,100274,1611661320,68,63,0,4
+07:40,[LAS] Burrell Substitution replaced by Jackson,0,-80,8,,1630996,1642288,1611661320,68,63,0,4
+07:38,[DAL] Ogunbowale 3pt Shot: Missed,-224,43,2,,1629481,,1611661321,68,63,0,4
+07:34,[LAS] Talbot Rebound (Off:0 Def:2),-224,43,4,,203855,,1611661320,68,63,0,4
+07:31,[LAS 65-68] Jackson Running Layup Shot: Made (16 PTS) Assist: Talbot (3 AST),22,2,1,,1642288,203855,1611661320,68,65,2,4
+07:31,[DAL] Sheldon Foul: Shooting (2 PF) (1 FTA),22,2,6,1642288,1642292,100274,1611661321,68,65,0,4
+07:31,[LAS 66-68] Jackson Free Throw 1 of 1 (17 PTS),0,-80,3,,1642288,,1611661320,68,66,1,4
+07:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,66,0,4
+07:18,[DAL 70-66] McCowan Layup Shot: Made (10 PTS) Assist: Sims (5 AST),-10,0,1,,1629479,203824,1611661321,70,66,2,4
+07:04,[LAS] Stevens Driving Floating Jump Shot: Missed,24,150,2,,1628922,,1611661320,70,66,0,4
+07:02,[LAS] Team Rebound,24,150,4,,0,,1611661320,70,66,0,4
+07:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,66,0,4
+06:55,[LAS 68-70] Stevens Cutting Layup Shot: Made (13 PTS) Assist: Talbot (4 AST),17,-1,1,,1628922,203855,1611661320,70,68,2,4
+06:36,[DAL] McCowan Hook Shot: Missed,21,27,2,,1629479,,1611661321,70,68,0,4
+06:33,[DAL] Sheldon Rebound (Off:1 Def:2),21,27,4,,1642292,,1611661321,70,68,0,4
+06:31,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (5 TO),-17,318,5,,1629481,100274,1611661321,70,68,0,4
+06:31,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,70,68,0,4
+06:20,[DAL] Sims Foul: Shooting (3 PF) (2 FTA),-28,37,6,1642288,203824,1628952,1611661321,70,68,0,4
+06:20,[LAS 69-70] Jackson Free Throw 1 of 2 (18 PTS),0,-80,3,,1642288,,1611661320,70,69,1,4
+06:20,[LAS] Jackson Free Throw 2 of 2 Missed,0,-80,3,,1642288,,1611661320,70,69,0,4
+06:18,[DAL] Howard Rebound (Off:2 Def:5),0,-80,4,,203827,,1611661321,70,69,0,4
+06:05,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-43,95,2,,1629481,,1611661321,70,69,0,4
+06:01,[DAL] Brown Rebound (Off:3 Def:2),-43,95,4,,1629480,,1611661321,70,69,0,4
+06:01,[DAL 72-69] Brown Putback Layup Shot: Made (10 PTS),0,-5,1,,1629480,,1611661321,72,69,2,4
+05:49,[LAS 72-72] Stevens 3pt Shot: Made (16 PTS) Assist: Hamby (4 AST),210,134,1,,1628922,204324,1611661320,72,72,3,4
+05:24,[LAS] Stevens Foul: Shooting (4 PF) (2 FTA),-23,4,6,1629480,1628922,1628952,1611661320,72,72,0,4
+05:24,Timeout : Official,0,-80,9,,0,,0,72,72,0,4
+05:24,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,72,72,0,4
+05:24,[LAS] Talbot Substitution replaced by Nurse,0,-80,8,,203855,1628915,1611661320,72,72,0,4
+05:24,[DAL] Brown Free Throw 1 of 2 Missed,0,-80,3,,1629480,,1611661321,72,72,0,4
+05:24,[DAL] Team Rebound,0,-80,4,,0,,1611661321,72,72,0,4
+05:24,[DAL 73-72] Brown Free Throw 2 of 2 (11 PTS),0,-80,3,,1629480,,1611661321,73,72,1,4
+05:12,[LAS 74-73] Jackson Driving Layup Shot: Made (20 PTS) Assist: Stevens (4 AST),-18,26,1,,1642288,1628922,1611661320,73,74,2,4
+04:54,[DAL] Ogunbowale 3pt Shot: Missed,-202,96,2,,1629481,,1611661321,73,74,0,4
+04:49,[LAS] Jackson Rebound (Off:0 Def:5),-202,96,4,,1642288,,1611661320,73,74,0,4
+04:36,[LAS 76-73] Jackson Cutting Layup Shot: Made (22 PTS) Assist: Hamby (5 AST),24,18,1,,1642288,204324,1611661320,73,76,2,4
+04:36,Timeout : Regular,0,-80,9,,1611661321,,1611661321,73,76,0,4
+04:36,[DAL] Billings Substitution replaced by Howard,0,-80,8,,1628881,203827,1611661321,73,76,0,4
+04:24,[DAL] Howard Floating Jump shot: Missed,-8,52,2,,203827,,1611661321,73,76,0,4
+04:21,[LAS] Hamby Rebound (Off:1 Def:3),-8,52,4,,204324,,1611661320,73,76,0,4
+04:02,[LAS 78-73] McDonald Driving Layup Shot: Made (8 PTS),-17,19,1,,1630462,,1611661320,73,78,2,4
+03:43,[DAL] Brown Jump Shot: Missed,-101,173,2,,1629480,,1611661321,73,78,0,4
+03:40,[LAS] McDonald Rebound (Off:1 Def:2),-101,173,4,,1630462,,1611661320,73,78,0,4
+03:19,[LAS 80-73] Hamby Driving Finger Roll Layup Shot: Made (25 PTS) Assist: Nurse (1 AST),-12,48,1,,204324,1628915,1611661320,73,80,2,4
+03:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,80,0,4
+03:06,[DAL] Howard Jump Shot: Missed,-35,194,2,,203827,,1611661321,73,80,0,4
+03:03,[DAL] Brown Rebound (Off:4 Def:2),-35,194,4,,1629480,,1611661321,73,80,0,4
+03:02,[DAL 75-80] Brown Putback Layup Shot: Made (13 PTS),-18,25,1,,1629480,,1611661321,75,80,2,4
+02:47,[LAS] Stevens Turnover : Out of Bounds - Bad Pass Turnover (3 TO),194,146,5,,1628922,100274,1611661320,75,80,0,4
+02:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,75,80,0,4
+02:39,Stoppage: Court Cleanup,0,-80,20,,0,,0,75,80,0,4
+02:30,[DAL] Brown Layup Shot: Missed Block: Stevens (3 BLK),-11,-5,2,1628922,1629480,,1611661321,75,80,0,4
+02:28,[DAL] Ogunbowale Rebound (Off:1 Def:2),-11,-5,4,,1629481,,1611661321,75,80,0,4
+02:28,[LAS] Stevens Foul: Shooting (5 PF) (2 FTA),-15,0,6,1629481,1628922,100274,1611661320,75,80,0,4
+02:28,[DAL 76-80] Ogunbowale Free Throw 1 of 2 (11 PTS),0,-80,3,,1629481,,1611661321,76,80,1,4
+02:28,[DAL 77-80] Ogunbowale Free Throw 2 of 2 (12 PTS),0,-80,3,,1629481,,1611661321,77,80,1,4
+02:05,[LAS] Hamby Driving Floating Jump Shot: Missed,2,142,2,,204324,,1611661320,77,80,0,4
+02:01,[DAL] Sheldon Rebound (Off:1 Def:3),2,142,4,,1642292,,1611661321,77,80,0,4
+01:50,[DAL] Howard Driving Layup Shot: Missed,-24,-3,2,,203827,,1611661321,77,80,0,4
+01:48,[LAS] Stevens Rebound (Off:1 Def:7),-24,-3,4,,1628922,,1611661320,77,80,0,4
+01:42,Timeout : Regular,0,-80,9,,1611661320,,1611661320,77,80,0,4
+01:42,[LAS] Nurse Substitution replaced by Clarendon,0,-80,8,,1628915,203406,1611661320,77,80,0,4
+01:26,[LAS] Clarendon Pullup Jump shot: Missed Block: Ogunbowale (2 BLK),-112,93,2,1629481,203406,,1611661320,77,80,0,4
+01:25,[DAL] Sims Rebound (Off:1 Def:4),-112,93,4,,203824,,1611661321,77,80,0,4
+01:15,[DAL] Howard Driving Layup Shot: Missed,-4,3,2,,203827,,1611661321,77,80,0,4
+01:05,[LAS] Jackson Rebound (Off:0 Def:6),-4,3,4,,1642288,,1611661320,77,80,0,4
+01:00,[LAS 82-77] Hamby Driving Layup Shot: Made (27 PTS),18,31,1,,204324,,1611661320,77,82,2,4
+00:56.2,[DAL] Ogunbowale 3pt Shot: Missed,183,171,2,,1629481,,1611661321,77,82,0,4
+00:53.8,[LAS] Jackson Rebound (Off:0 Def:7),183,171,4,,1642288,,1611661320,77,82,0,4
+00:52.4,[DAL] Ogunbowale Foul: Personal (5 PF),-131,709,6,203406,1629481,1628952,1611661321,77,82,0,4
+00:40.8,[DAL] Howard Foul: Personal (3 PF) (2 FTA),-230,271,6,1630462,203827,1628952,1611661321,77,82,0,4
+00:40.8,[LAS 83-77] McDonald Free Throw 1 of 2 (9 PTS),0,-80,3,,1630462,,1611661320,77,83,1,4
+00:40.8,[LAS 84-77] McDonald Free Throw 2 of 2 (10 PTS),0,-80,3,,1630462,,1611661320,77,84,1,4
+00:40.8,Timeout : Reset,0,-80,9,,1611661321,,1611661321,77,84,0,4
+00:32.2,[DAL 79-84] Sims Driving Floating Jump Shot: Made (21 PTS),-16,42,1,,203824,,1611661321,79,84,2,4
+00:31.7,Timeout : Regular,0,-80,9,,1611661320,,1611661320,79,84,0,4
+00:31.7,[DAL] Brown Substitution replaced by Billings,0,-80,8,,1629480,1628881,1611661321,79,84,0,4
+00:29.1,[DAL] Sheldon Foul: Personal Take (3 PF) (2 FTA),-189,289,6,1630462,1642292,1628952,1611661321,79,84,0,4
+00:29.1,[LAS 85-79] McDonald Free Throw 1 of 2 (11 PTS),0,-80,3,,1630462,,1611661320,79,85,1,4
+00:29.1,[LAS 86-79] McDonald Free Throw 2 of 2 (12 PTS),0,-80,3,,1630462,,1611661320,79,86,1,4
+00:29.1,Timeout : Regular,0,-80,9,,1611661321,,1611661321,79,86,0,4
+00:23.4,[DAL] Sims Turnover : Lost Ball (1 TO) Steal:McDonald (3 ST),-71,167,5,1630462,203824,,1611661321,79,86,0,4
+00:19.1,[DAL] Sheldon Foul: Personal Take (4 PF) (2 FTA),150,187,6,1642288,1642292,100274,1611661321,79,86,0,4
+00:19.1,[LAS 87-79] Jackson Free Throw 1 of 2 (23 PTS),0,-80,3,,1642288,,1611661320,79,87,1,4
+00:19.1,[LAS] Jackson Free Throw 2 of 2 Missed,0,-80,3,,1642288,,1611661320,79,87,0,4
+00:16.8,[DAL] Sheldon Rebound (Off:1 Def:4),0,-80,4,,1642292,,1611661321,79,87,0,4
+00:12.8,[DAL 81-87] Sims Running Layup Shot: Made (23 PTS),27,14,1,,203824,,1611661321,81,87,2,4
+00:00.0,End Period,0,-80,13,,0,,0,81,87,0,4

@@ -1,0 +1,440 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball Jones vs Juhász (Johannès gains possession),0,-80,10,1641657,1627673,1629546,1611661313,0,0,0,1
+09:45,[NYL] Laney Cutting Layup Shot: Missed,-11,7,2,,204335,,1611661313,0,0,0,1
+09:44,[NYL] Jones Rebound (Off:1 Def:0),-11,7,4,,1627673,,1611661313,0,0,0,1
+09:31,[NYL] Stewart 3pt Shot: Missed,234,3,2,,1627668,,1611661313,0,0,0,1
+09:30,[MIN] Allen Rebound (Off:0 Def:1),234,3,4,,1628263,,1611661324,0,0,0,1
+09:07,[MIN] Juhász 3pt Shot: Missed,-161,192,2,,1641657,,1611661324,0,0,0,1
+09:06,[NYL] Laney Rebound (Off:0 Def:1),-161,192,4,,204335,,1611661313,0,0,0,1
+08:53,[NYL 2-0] Jones Layup Shot: Made (2 PTS) Assist: Stewart (1 AST),-16,7,1,,1627673,1627668,1611661313,2,0,2,1
+08:44,[MIN] Miller Step Back Jump shot: Missed,116,137,2,,1641649,,1611661324,2,0,0,1
+08:43,[NYL] Jones Rebound (Off:1 Def:1),116,137,4,,1627673,,1611661313,2,0,0,1
+08:33,[NYL 4-0] Ionescu Driving Finger Roll Layup Shot: Made (2 PTS),8,10,1,,1629477,,1611661313,4,0,2,1
+08:19,[MIN 2-4] Miller Pullup Jump shot: Made (2 PTS),76,182,1,,1641649,,1611661324,4,2,2,1
+08:05,[NYL 7-2] Stewart 3pt Shot: Made (3 PTS) Assist: Ionescu (1 AST),-7,239,1,,1627668,1629477,1611661313,7,2,3,1
+07:49,[MIN 5-7] McBride 3pt Shot: Made (3 PTS) Assist: Miller (1 AST),-218,110,1,,203825,1641649,1611661324,7,5,3,1
+07:29,[NYL 10-5] Stewart 3pt Shot: Made (6 PTS) Assist: Ionescu (2 AST),196,133,1,,1627668,1629477,1611661313,10,5,3,1
+07:19,[NYL] Johannès Foul: Shooting (1 PF) (2 FTA),-108,4,6,1628263,1629546,1628702,1611661313,10,5,0,1
+07:19,[MIN] Allen Free Throw 1 of 2 Missed,0,-80,3,,1628263,,1611661324,10,5,0,1
+07:19,[MIN] Team Rebound,0,-80,4,,0,,1611661324,10,5,0,1
+07:19,[MIN] Allen Free Throw 2 of 2 Missed,0,-80,3,,1628263,,1611661324,10,5,0,1
+07:18,[NYL] Jones Rebound (Off:1 Def:2),0,-80,4,,1627673,,1611661313,10,5,0,1
+06:59,[NYL 13-5] Ionescu 3pt Shot: Made (5 PTS) Assist: Stewart (2 AST),-55,248,1,,1629477,1627668,1611661313,13,5,3,1
+06:47,[MIN] Miller 3pt Shot: Missed,-29,231,2,,1641649,,1611661324,13,5,0,1
+06:46,[NYL] Ionescu Rebound (Off:0 Def:1),-29,231,4,,1629477,,1611661313,13,5,0,1
+06:38,[NYL 15-5] Laney Running Layup Shot: Made (2 PTS) Assist: Stewart (3 AST),-17,6,1,,204335,1627668,1611661313,15,5,2,1
+06:31,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,15,5,0,1
+06:31,[MIN] Milic Substitution replaced by Shepard,0,-80,8,,1631263,1629491,1611661324,15,5,0,1
+06:31,[MIN] Juhász Substitution replaced by Engstler,0,-80,8,,1641657,1631083,1611661324,15,5,0,1
+06:16,[MIN 7-15] Miller Finger Roll Layup Shot: Made (4 PTS),-27,1,1,,1641649,,1611661324,15,7,2,1
+06:04,[NYL] Johannès 3pt Shot: Missed,-173,185,2,,1629546,,1611661313,15,7,0,1
+06:03,[MIN] Miller Rebound (Off:0 Def:1),-173,185,4,,1641649,,1611661324,15,7,0,1
+06:00,[MIN] Miller Turnover : Lost Ball (1 TO) Steal:Ionescu (1 ST),-19,817,5,1629477,1641649,,1611661324,15,7,0,1
+05:55,[NYL] Ionescu 3pt Shot: Missed,-228,71,2,,1629477,,1611661313,15,7,0,1
+05:54,[MIN] Engstler Rebound (Off:0 Def:1),-228,71,4,,1631083,,1611661324,15,7,0,1
+05:47,[MIN] Engstler Cutting Layup Shot: Missed,-26,0,2,,1631083,,1611661324,15,7,0,1
+05:46,[MIN] Allen Rebound (Off:1 Def:1),-26,0,4,,1628263,,1611661324,15,7,0,1
+05:43,[MIN] Allen Floating Jump shot: Missed,-2,31,2,,1628263,,1611661324,15,7,0,1
+05:42,[MIN] Allen Rebound (Off:2 Def:1),-2,31,4,,1628263,,1611661324,15,7,0,1
+05:33,[MIN 9-15] Miller Driving Finger Roll Layup Shot: Made (6 PTS),-16,14,1,,1641649,,1611661324,15,9,2,1
+05:26,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-232,691,5,,1629477,1628952,1611661313,15,9,0,1
+05:26,[MIN] Allen Substitution replaced by Mitchell,0,-80,8,,1628263,1627676,1611661324,15,9,0,1
+05:08,[MIN] Miller Layup Shot: Missed,-1,40,2,,1641649,,1611661324,15,9,0,1
+05:07,[MIN] Engstler Rebound (Off:1 Def:1),-1,40,4,,1631083,,1611661324,15,9,0,1
+05:06,[NYL] Johannès Foul: Personal (2 PF),-2,67,6,1631083,1629546,1628952,1611661313,15,9,0,1
+04:52,[MIN] Shepard Driving Floating Jump Shot: Missed,-13,56,2,,1629491,,1611661324,15,9,0,1
+04:51,[NYL] Jones Rebound (Off:1 Def:3),-13,56,4,,1627673,,1611661313,15,9,0,1
+04:42,[NYL] Jones 3pt Shot: Missed,-121,212,2,,1627673,,1611661313,15,9,0,1
+04:41,[MIN] McBride Rebound (Off:0 Def:1),-121,212,4,,203825,,1611661324,15,9,0,1
+04:30,[MIN 12-15] McBride 3pt Shot: Made (6 PTS) Assist: Shepard (1 AST),-116,215,1,,203825,1629491,1611661324,15,12,3,1
+04:24,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,15,12,0,1
+04:24,[NYL] Johannès Substitution replaced by Willoughby,0,-80,8,,1629546,1630139,1611661313,15,12,0,1
+04:24,[NYL] Jones Substitution replaced by Thornton,0,-80,8,,1627673,203866,1611661313,15,12,0,1
+04:14,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-178,174,5,,1629477,1628702,1611661313,15,12,0,1
+04:01,[MIN] Miller Turnover : Bad Pass (2 TO) Steal:Ionescu (2 ST),-91,223,5,1629477,1641649,,1611661324,15,12,0,1
+03:52,[NYL] Stewart Floating Jump shot: Missed,-6,21,2,,1627668,,1611661313,15,12,0,1
+03:51,[MIN] Engstler Rebound (Off:1 Def:2),-6,21,4,,1631083,,1611661324,15,12,0,1
+03:40,[MIN 14-15] Shepard Layup Shot: Made (2 PTS) Assist: Mitchell (1 AST),3,8,1,,1629491,1627676,1611661324,15,14,2,1
+03:28,[NYL] Willoughby Reverse Layup Shot: Missed,16,6,2,,1630139,,1611661313,15,14,0,1
+03:27,[MIN] McBride Rebound (Off:0 Def:2),16,6,4,,203825,,1611661324,15,14,0,1
+03:23,[NYL] Willoughby Foul: Personal (1 PF),7,272,6,203825,1630139,1628702,1611661313,15,14,0,1
+03:13,[MIN] Shepard Turnover : Out of Bounds - Bad Pass Turnover (1 TO),29,248,5,,1629491,1628952,1611661324,15,14,0,1
+03:01,[MIN] Engstler Foul: Shooting (1 PF) (2 FTA),-42,19,6,1627668,1631083,1628702,1611661324,15,14,0,1
+03:01,[NYL 16-14] Stewart Free Throw 1 of 2 (7 PTS),0,-80,3,,1627668,,1611661313,16,14,1,1
+03:01,[NYL 17-14] Stewart Free Throw 2 of 2 (8 PTS),0,-80,3,,1627668,,1611661313,17,14,1,1
+02:51,[MIN 16-17] Mitchell Driving Layup Shot: Made (2 PTS) Assist: McBride (1 AST),9,6,1,,1627676,203825,1611661324,17,16,2,1
+02:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,16,0,1
+02:40,[NYL] Ionescu Substitution replaced by Prince,0,-80,8,,1629477,202259,1611661313,17,16,0,1
+02:28,[NYL] Prince 3pt Shot: Missed,138,212,2,,202259,,1611661313,17,16,0,1
+02:27,[MIN] Shepard Rebound (Off:0 Def:1),138,212,4,,1629491,,1611661324,17,16,0,1
+02:20,[MIN] Mitchell Running Pull-Up Jump Shot: Missed,-119,3,2,,1627676,,1611661324,17,16,0,1
+02:19,[NYL] Team Rebound,-119,3,4,,0,,1611661313,17,16,0,1
+02:19,[MIN] Miller Foul: Loose Ball (1 PF),-20,827,6,202259,1641649,1627531,1611661324,17,16,0,1
+02:19,[NYL] Laney Substitution replaced by Sabally,0,-80,8,,204335,1631055,1611661313,17,16,0,1
+02:19,[MIN] McBride Substitution replaced by Allen,0,-80,8,,203825,1628263,1611661324,17,16,0,1
+02:06,[NYL] Stewart 3pt Shot: Missed,106,238,2,,1627668,,1611661313,17,16,0,1
+02:05,[NYL] Thornton Rebound (Off:1 Def:0),106,238,4,,203866,,1611661313,17,16,0,1
+02:00,[NYL] Stewart Floating Jump shot: Missed,-71,96,2,,1627668,,1611661313,17,16,0,1
+01:59,[MIN] Miller Rebound (Off:0 Def:2),-71,96,4,,1641649,,1611661324,17,16,0,1
+01:52,[NYL] Sabally Foul: Shooting (1 PF) (2 FTA),-22,17,6,1641649,1631055,1627531,1611661313,17,16,0,1
+01:52,[MIN 17-17] Miller Free Throw 1 of 2 (7 PTS),0,-80,3,,1641649,,1611661324,17,17,1,1
+01:52,[MIN 18-17] Miller Free Throw 2 of 2 (8 PTS),0,-80,3,,1641649,,1611661324,17,18,1,1
+01:27,[NYL] Thornton Fadeaway Jump Shot: Missed,62,94,2,,203866,,1611661313,17,18,0,1
+01:26,[NYL] Willoughby Rebound (Off:1 Def:0),62,94,4,,1630139,,1611661313,17,18,0,1
+01:18,[NYL] Thornton 3pt Shot: Missed,-118,222,2,,203866,,1611661313,17,18,0,1
+01:17,[MIN] Miller Rebound (Off:0 Def:3),-118,222,4,,1641649,,1611661324,17,18,0,1
+01:13,[NYL] Willoughby Foul: Personal (2 PF) (2 FTA),198,579,6,1631083,1630139,1627531,1611661313,17,18,0,1
+01:13,[MIN 19-17] Engstler Free Throw 1 of 2 (1 PTS),0,-80,3,,1631083,,1611661324,17,19,1,1
+01:13,[NYL] Stewart Substitution replaced by Laney,0,-80,8,,1627668,204335,1611661313,17,19,0,1
+01:13,[MIN] Miller Substitution replaced by Carleton,0,-80,8,,1641649,1629524,1611661324,17,19,0,1
+01:13,[MIN] Engstler Free Throw 2 of 2 Missed,0,-80,3,,1631083,,1611661324,17,19,0,1
+01:12,[NYL] Thornton Rebound (Off:1 Def:1),0,-80,4,,203866,,1611661313,17,19,0,1
+01:02,[NYL] Prince 3pt Shot: Missed,-161,199,2,,202259,,1611661313,17,19,0,1
+01:01,[MIN] Engstler Rebound (Off:1 Def:3),-161,199,4,,1631083,,1611661324,17,19,0,1
+00:44.7,[MIN 22-17] Engstler 3pt Shot: Made (4 PTS) Assist: Allen (1 AST),-1,244,1,,1631083,1628263,1611661324,17,22,3,1
+00:24.4,[NYL] Willoughby Substitution replaced by Johannès,0,-80,8,,1630139,1629546,1611661313,17,22,0,1
+00:24.4,Jump Ball Engstler vs Thornton (Allen gains possession),0,-80,10,203866,1631083,1628263,1611661324,17,22,0,1
+00:24.4,[NYL] Thornton Turnover : Lost Ball (1 TO) Steal:Engstler (1 ST),-54,777,5,1631083,203866,,1611661313,17,22,0,1
+00:05.6,[MIN] Carleton 3pt Shot: Missed,-140,205,2,,1629524,,1611661324,17,22,0,1
+00:04.4,[NYL] Team Rebound,-140,205,4,,0,,1611661313,17,22,0,1
+00:03.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,22,0,1
+00:00.2,[NYL] Johannès 3pt Shot: Missed,137,400,2,,1629546,,1611661313,17,22,0,1
+00:00.1,[NYL] Team Rebound,118,444,4,,0,,1611661313,17,22,0,1
+00:00.0,End Period,0,-80,13,,0,,0,17,22,0,1
+10:00,Start Period,0,-80,12,,0,,0,17,22,0,2
+09:48,[MIN] Milic Turnover : Traveling (1 TO),24,5,5,,1631263,1628952,1611661324,17,22,0,2
+09:28,[NYL] Jones Turnaround Jump Shot: Missed,-123,8,2,,1627673,,1611661313,17,22,0,2
+09:27,[MIN] Engstler Rebound (Off:1 Def:4),-123,8,4,,1631083,,1611661324,17,22,0,2
+09:21,[MIN 24-17] Milic Layup Shot: Made (2 PTS) Assist: Allen (2 AST),-11,10,1,,1631263,1628263,1611661324,17,24,2,2
+09:09,[NYL] Ionescu 3pt Shot: Missed,163,201,2,,1629477,,1611661313,17,24,0,2
+09:05,[NYL] Thornton Rebound (Off:2 Def:1),163,201,4,,203866,,1611661313,17,24,0,2
+09:00,[NYL 19-24] Ionescu Jump Shot: Made (7 PTS) Assist: Thornton (1 AST),-22,155,1,,1629477,203866,1611661313,19,24,2,2
+08:44,[MIN] Milic Cutting Layup Shot: Missed,16,-3,2,,1631263,,1611661324,19,24,0,2
+08:40,[NYL] Thornton Rebound (Off:2 Def:2),16,-3,4,,203866,,1611661313,19,24,0,2
+08:32,[NYL] Ionescu Pullup Jump shot: Missed,-60,146,2,,1629477,,1611661313,19,24,0,2
+08:28,[MIN] Milic Rebound (Off:0 Def:1),-60,146,4,,1631263,,1611661324,19,24,0,2
+08:25,[MIN 26-19] McBride Running Finger Roll Layup Shot: Made (8 PTS) Assist: Milic (1 AST),16,3,1,,203825,1631263,1611661324,19,26,2,2
+08:14,[MIN] Milic Violation:Kicked Ball,0,-80,7,,1631263,,1611661324,19,26,0,2
+08:14,[NYL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661313,19,26,0,2
+08:14,[NYL] Thornton Substitution replaced by Stewart,0,-80,8,,203866,1627668,1611661313,19,26,0,2
+08:14,[MIN] Milic Substitution replaced by Juhász,0,-80,8,,1631263,1641657,1611661324,19,26,0,2
+08:06,[NYL 22-26] Ionescu 3pt Shot: Made (10 PTS) Assist: Laney (1 AST),89,236,1,,1629477,204335,1611661313,22,26,3,2
+07:54,[MIN] Carleton 3pt Shot: Missed,27,240,2,,1629524,,1611661324,22,26,0,2
+07:54,[NYL] Jones Rebound (Off:1 Def:4),27,240,4,,1627673,,1611661313,22,26,0,2
+07:41,[NYL] Ionescu Turnover : Bad Pass (3 TO) Steal:Engstler (2 ST),32,171,5,1631083,1629477,,1611661313,22,26,0,2
+07:39,[NYL] Ionescu Violation:Kicked Ball,0,-80,7,,1629477,,1611661313,22,26,0,2
+07:39,[MIN] Carleton Substitution replaced by Miller,0,-80,8,,1629524,1641649,1611661324,22,26,0,2
+07:31,[MIN] Engstler Driving Layup Shot: Missed,12,1,2,,1631083,,1611661324,22,26,0,2
+07:25,[NYL] Jones Rebound (Off:1 Def:5),12,1,4,,1627673,,1611661313,22,26,0,2
+07:21,[NYL 25-26] Ionescu 3pt Shot: Made (13 PTS) Assist: Johannès (1 AST),-196,152,1,,1629477,1629546,1611661313,25,26,3,2
+07:03,[MIN] Allen Driving Floating Bank Jump Shot: Missed,73,33,2,,1628263,,1611661324,25,26,0,2
+06:59,[MIN] Juhász Rebound (Off:1 Def:0),73,33,4,,1641657,,1611661324,25,26,0,2
+06:58,[MIN 28-25] Juhász Putback Layup Shot: Made (2 PTS),-1,9,1,,1641657,,1611661324,25,28,2,2
+06:43,[NYL 27-28] Ionescu Cutting Layup Shot: Made (15 PTS) Assist: Jones (1 AST),19,2,1,,1629477,1627673,1611661313,27,28,2,2
+06:26,[MIN] Engstler 3pt Shot: Missed,171,173,2,,1631083,,1611661324,27,28,0,2
+06:22,[NYL] Ionescu Rebound (Off:0 Def:2),171,173,4,,1629477,,1611661313,27,28,0,2
+06:13,[NYL] Ionescu 3pt Shot: Missed,-194,203,2,,1629477,,1611661313,27,28,0,2
+06:12,[MIN] McBride Rebound (Off:0 Def:3),-194,203,4,,203825,,1611661324,27,28,0,2
+06:06,[MIN 30-27] McBride Running Pull-Up Jump Shot: Made (10 PTS),22,204,1,,203825,,1611661324,27,30,2,2
+05:52,[NYL 29-30] Laney Driving Layup Shot: Made (4 PTS) Assist: Stewart (4 AST),-32,19,1,,204335,1627668,1611661313,29,30,2,2
+05:42,[MIN 33-29] Miller 3pt Shot: Made (11 PTS),-112,209,1,,1641649,,1611661324,29,33,3,2
+05:27,[NYL 31-33] Laney Driving Layup Shot: Made (6 PTS),-12,8,1,,204335,,1611661313,31,33,2,2
+05:16,[MIN] Miller Fadeaway Jump Shot: Missed,-117,-11,2,,1641649,,1611661324,31,33,0,2
+05:15,[MIN] Juhász Rebound (Off:2 Def:0),-117,-11,4,,1641657,,1611661324,31,33,0,2
+05:11,[MIN] Juhász Putback Layup Shot: Missed,-16,8,2,,1641657,,1611661324,31,33,0,2
+05:10,[NYL] Stewart Rebound (Off:0 Def:1),-16,8,4,,1627668,,1611661313,31,33,0,2
+04:57,[MIN] Engstler Foul: Shooting (2 PF) (2 FTA),36,21,6,1627668,1631083,1627531,1611661324,31,33,0,2
+04:57,Timeout Officials,0,-80,9,,0,,0,31,33,0,2
+04:57,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,31,33,0,2
+04:57,[MIN] Allen Substitution replaced by Shepard,0,-80,8,,1628263,1629491,1611661324,31,33,0,2
+04:57,[MIN] Engstler Substitution replaced by Mitchell,0,-80,8,,1631083,1627676,1611661324,31,33,0,2
+04:57,[NYL 32-33] Stewart Free Throw 1 of 2 (9 PTS),0,-80,3,,1627668,,1611661313,32,33,1,2
+04:57,[NYL 33-33] Stewart Free Throw 2 of 2 (10 PTS),0,-80,3,,1627668,,1611661313,33,33,1,2
+04:45,[MIN] McBride 3pt Shot: Missed,-13,230,2,,203825,,1611661324,33,33,0,2
+04:44,[NYL] Ionescu Rebound (Off:0 Def:3),-13,230,4,,1629477,,1611661313,33,33,0,2
+04:24,[NYL] Stewart Turnaround Jump Shot: Missed,69,11,2,,1627668,,1611661313,33,33,0,2
+04:23,[MIN] Shepard Rebound (Off:0 Def:2),69,11,4,,1629491,,1611661324,33,33,0,2
+04:14,[MIN 35-33] Juhász Layup Shot: Made (4 PTS) Assist: McBride (2 AST),-8,3,1,,1641657,203825,1611661324,33,35,2,2
+04:14,[NYL] Johannès Foul: Shooting (3 PF) (1 FTA),-8,3,6,1641657,1629546,1627531,1611661313,33,35,0,2
+04:14,[MIN] Juhász Free Throw 1 of 1 Missed,0,-80,3,,1641657,,1611661324,33,35,0,2
+04:13,[NYL] Sabally Rebound (Off:0 Def:1),0,-80,4,,1631055,,1611661313,33,35,0,2
+04:02,[NYL] Johannès 3pt Shot: Missed,-161,188,2,,1629546,,1611661313,33,35,0,2
+04:01,[MIN] Mitchell Rebound (Off:0 Def:1),-161,188,4,,1627676,,1611661324,33,35,0,2
+03:54,[MIN] Mitchell Turnover : Traveling (1 TO),16,107,5,,1627676,1628702,1611661324,33,35,0,2
+03:54,[NYL] Johannès Substitution replaced by Thornton,0,-80,8,,1629546,203866,1611661313,33,35,0,2
+03:39,[NYL] Laney 3pt Shot: Missed,77,236,2,,204335,,1611661313,33,35,0,2
+03:38,[MIN] Shepard Rebound (Off:0 Def:3),77,236,4,,1629491,,1611661324,33,35,0,2
+03:33,[MIN] Shepard Turnover : Bad Pass (2 TO) Steal:Laney (1 ST),1,669,5,204335,1629491,,1611661324,33,35,0,2
+03:30,[NYL 36-35] Ionescu 3pt Shot: Made (18 PTS) Assist: Sabally (1 AST),52,249,1,,1629477,1631055,1611661313,36,35,3,2
+03:10,[MIN 37-36] Shepard Layup Shot: Made (4 PTS) Assist: Miller (2 AST),20,3,1,,1629491,1641649,1611661324,36,37,2,2
+03:10,[NYL] Laney Foul: Shooting (1 PF) (1 FTA),20,3,6,1629491,204335,1628952,1611661313,36,37,0,2
+03:10,[MIN 38-36] Shepard Free Throw 1 of 1 (5 PTS),0,-80,3,,1629491,,1611661324,36,38,1,2
+02:58,[NYL] Sabally Turnover : Double Dribble (1 TO),-157,207,5,,1631055,,1611661313,36,38,0,2
+02:58,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,36,38,0,2
+02:37,[MIN] Juhász Pullup Jump shot: Missed Block: Ionescu (1 BLK),-73,180,2,1629477,1641657,,1611661324,36,38,0,2
+02:36,[MIN] Team Rebound,-73,180,4,,0,,1611661324,36,38,0,2
+02:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,38,0,2
+02:35,[MIN 41-36] McBride 3pt Shot: Made (13 PTS) Assist: Mitchell (2 AST),-233,47,1,,203825,1627676,1611661324,36,41,3,2
+02:15,[NYL] Stewart Pullup Jump shot: Missed,63,152,2,,1627668,,1611661313,36,41,0,2
+02:14,[NYL] Stewart Rebound (Off:1 Def:1),63,152,4,,1627668,,1611661313,36,41,0,2
+02:11,[MIN] Miller Foul: Personal (2 PF),118,3,6,1627668,1641649,1627531,1611661324,36,41,0,2
+02:11,[NYL] Sabally Substitution replaced by Jones,0,-80,8,,1631055,1627673,1611661313,36,41,0,2
+01:58,[NYL] Laney Turnaround Fadeaway shot: Missed,-140,0,2,,204335,,1611661313,36,41,0,2
+01:57,[NYL] Team Rebound,-140,0,4,,0,,1611661313,36,41,0,2
+01:57,[NYL] Team Turnover : Shot Clock Turnover,-2,51,5,,0,1627531,1611661313,36,41,0,2
+01:46,[MIN] Mitchell Foul: Offensive (1 PF),117,143,6,1629477,1627676,1628702,1611661324,36,41,0,2
+01:46,[MIN] Mitchell Turnover : Offensive Foul Turnover (2 TO),117,143,5,,1627676,1628702,1611661324,36,41,0,2
+01:26,[NYL 38-41] Jones Layup Shot: Made (4 PTS) Assist: Ionescu (3 AST),-6,3,1,,1627673,1629477,1611661313,38,41,2,2
+01:03,[NYL] Jones Foul: Personal (1 PF),-30,40,6,1641657,1627673,1627531,1611661313,38,41,0,2
+00:55.6,[MIN] Shepard Jump Shot: Missed,-46,193,2,,1629491,,1611661324,38,41,0,2
+00:54.4,[MIN] Juhász Rebound (Off:3 Def:0),-46,193,4,,1641657,,1611661324,38,41,0,2
+00:51.3,[MIN 43-38] Juhász Putback Layup Shot: Made (6 PTS),-15,-6,1,,1641657,,1611661324,38,43,2,2
+00:38.2,[NYL] Stewart Jump Shot: Missed,119,10,2,,1627668,,1611661313,38,43,0,2
+00:37.0,[MIN] Juhász Rebound (Off:3 Def:1),119,10,4,,1641657,,1611661324,38,43,0,2
+00:28.0,[MIN 45-38] Miller Running Finger Roll Layup Shot: Made (13 PTS),20,10,1,,1641649,,1611661324,38,45,2,2
+00:07.1,[NYL] Ionescu 3pt Shot: Missed,143,210,2,,1629477,,1611661313,38,45,0,2
+00:05.9,[NYL] Laney Rebound (Off:1 Def:1),143,210,4,,204335,,1611661313,38,45,0,2
+00:02.8,[MIN] Juhász Foul: Shooting (1 PF) (2 FTA),1,27,6,204335,1641657,1627531,1611661324,38,45,0,2
+00:02.8,[NYL] Laney Free Throw 1 of 2 Missed,0,-80,3,,204335,,1611661313,38,45,0,2
+00:02.8,[NYL] Team Rebound,0,-80,4,,0,,1611661313,38,45,0,2
+00:02.8,[NYL 39-45] Laney Free Throw 2 of 2 (7 PTS),0,-80,3,,204335,,1611661313,39,45,1,2
+00:00.1,[MIN 48-39] Mitchell 3pt Shot: Made (5 PTS) Assist: Juhász (1 AST),167,278,1,,1627676,1641657,1611661324,39,48,3,2
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,39,48,0,2
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,39,48,0,2
+00:00.0,End Period,0,-80,13,,0,,0,39,48,0,2
+10:00,Start Period,0,-80,12,,0,,0,39,48,0,3
+09:43,[MIN 50-39] Juhász Jump Shot: Made (8 PTS) Assist: McBride (3 AST),44,195,1,,1641657,203825,1611661324,39,50,2,3
+09:18,[NYL 41-50] Laney Step Back Jump shot: Made (9 PTS),-135,13,1,,204335,,1611661313,41,50,2,3
+08:59,[MIN] Miller 3pt Shot: Missed,-7,250,2,,1641649,,1611661324,41,50,0,3
+08:58,[MIN] Milic Rebound (Off:1 Def:1),-7,250,4,,1631263,,1611661324,41,50,0,3
+08:53,[MIN 52-41] Milic Cutting Layup Shot: Made (4 PTS) Assist: McBride (4 AST),8,-1,1,,1631263,203825,1611661324,41,52,2,3
+08:46,[MIN] Juhász Foul: Shooting (2 PF) (2 FTA),9,8,6,1627673,1641657,1627531,1611661324,41,52,0,3
+08:46,[NYL 42-52] Jones Free Throw 1 of 2 (5 PTS),0,-80,3,,1627673,,1611661313,42,52,1,3
+08:46,[NYL 43-52] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1627673,,1611661313,43,52,1,3
+08:36,[MIN 54-43] McBride Cutting Layup Shot: Made (15 PTS) Assist: Allen (3 AST),-17,3,1,,203825,1628263,1611661324,43,54,2,3
+08:27,[NYL 46-54] Stewart 3pt Shot: Made (13 PTS) Assist: Ionescu (4 AST),-135,198,1,,1627668,1629477,1611661313,46,54,3,3
+08:18,[NYL] Stewart Foul: Personal (1 PF),-4,59,6,1631263,1627668,1628952,1611661313,46,54,0,3
+08:15,[MIN 56-46] Juhász Cutting Layup Shot: Made (10 PTS) Assist: Milic (2 AST),16,10,1,,1641657,1631263,1611661324,46,56,2,3
+08:15,[NYL] Jones Foul: Shooting (2 PF) (1 FTA),16,10,6,1641657,1627673,1628702,1611661313,46,56,0,3
+08:15,[MIN 57-46] Juhász Free Throw 1 of 1 (11 PTS),0,-80,3,,1641657,,1611661324,46,57,1,3
+07:57,[NYL] Laney Step Back Jump shot: Missed,113,137,2,,204335,,1611661313,46,57,0,3
+07:56,[MIN] Miller Rebound (Off:0 Def:4),113,137,4,,1641649,,1611661324,46,57,0,3
+07:51,[NYL] Stewart Foul: Personal (2 PF),-7,695,6,1641649,1627668,1628702,1611661313,46,57,0,3
+07:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,57,0,3
+07:28,[MIN] Miller 3pt Shot: Missed,-150,201,2,,1641649,,1611661324,46,57,0,3
+07:27,[NYL] Jones Rebound (Off:1 Def:6),-150,201,4,,1627673,,1611661313,46,57,0,3
+07:10,[NYL] Ionescu Turnover : Bad Pass (4 TO) Steal:McBride (1 ST),57,225,5,203825,1629477,,1611661313,46,57,0,3
+07:06,[MIN 59-46] McBride Running Layup Shot: Made (17 PTS),8,10,1,,203825,,1611661324,46,59,2,3
+07:05,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,46,59,0,3
+07:05,[NYL] Willoughby Substitution replaced by Thornton,0,-80,8,,1630139,203866,1611661313,46,59,0,3
+06:51,[MIN] McBride Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (1 PF) (1 FTA),0,-80,6,,203825,1628702,1611661324,46,59,0,3
+06:51,[NYL 47-59] Stewart Free Throw Technical (14 PTS),0,-80,3,,1627668,,1611661313,47,59,1,3
+06:47,[NYL] Ionescu Turnover : Bad Pass (5 TO) Steal:Juhász (1 ST),140,128,5,1641657,1629477,,1611661313,47,59,0,3
+06:44,Jump Ball Juhász vs Stewart,0,-80,10,1627668,1641657,,1611661324,47,59,0,3
+06:16,Jump Ball Miller vs Thornton (Allen gains possession),0,-80,10,203866,1641649,1628263,1611661324,47,59,0,3
+06:14,[MIN 61-47] Allen Pullup Jump shot: Made (2 PTS),89,67,1,,1628263,,1611661324,47,61,2,3
+05:57,[MIN] Allen Foul: Personal (1 PF),-7,234,6,1627668,1628263,1627531,1611661324,47,61,0,3
+05:49,[NYL] Ionescu Driving Layup Shot: Missed,-50,4,2,,1629477,,1611661313,47,61,0,3
+05:48,[MIN] Team Rebound,-50,4,4,,0,,1611661324,47,61,0,3
+05:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,61,0,3
+05:38,[MIN 63-47] Juhász Driving Layup Shot: Made (13 PTS),15,11,1,,1641657,,1611661324,47,63,2,3
+05:21,[NYL] Laney Fadeaway Jump Shot: Missed,-2,38,2,,204335,,1611661313,47,63,0,3
+05:20,[MIN] Allen Rebound (Off:2 Def:2),-2,38,4,,1628263,,1611661324,47,63,0,3
+05:19,[NYL] Laney Foul: Personal (2 PF),-16,612,6,1628263,204335,1628702,1611661313,47,63,0,3
+05:19,[NYL] Laney Substitution replaced by Johannès,0,-80,8,,204335,1629546,1611661313,47,63,0,3
+05:11,[NYL] Thornton Foul: Shooting (1 PF) (2 FTA),-11,35,6,1641649,203866,1628702,1611661313,47,63,0,3
+05:11,[MIN 64-47] Miller Free Throw 1 of 2 (14 PTS),0,-80,3,,1641649,,1611661324,47,64,1,3
+05:11,[MIN] Miller Free Throw 2 of 2 Missed,0,-80,3,,1641649,,1611661324,47,64,0,3
+05:10,[NYL] Jones Rebound (Off:1 Def:7),0,-80,4,,1627673,,1611661313,47,64,0,3
+04:47,[NYL 49-64] Stewart Hook Bank Shot: Made (16 PTS),-32,59,1,,1627668,,1611661313,49,64,2,3
+04:31,[MIN 66-49] Milic Cutting Layup Shot: Made (6 PTS) Assist: Allen (4 AST),18,26,1,,1631263,1628263,1611661324,49,66,2,3
+04:31,[NYL] Ionescu Foul: Shooting (1 PF) (1 FTA),18,26,6,1631263,1629477,1627531,1611661313,49,66,0,3
+04:31,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,49,66,0,3
+04:31,[MIN] Milic Free Throw 1 of 1 Missed,0,-80,3,,1631263,,1611661324,49,66,0,3
+04:30,[MIN] Juhász Rebound (Off:4 Def:1),0,-80,4,,1641657,,1611661324,49,66,0,3
+04:18,[MIN] McBride 3pt Shot: Missed,-9,254,2,,203825,,1611661324,49,66,0,3
+04:17,[MIN] Milic Rebound (Off:2 Def:1),-9,254,4,,1631263,,1611661324,49,66,0,3
+04:15,[MIN] Milic Reverse Layup Shot: Missed,-12,7,2,,1631263,,1611661324,49,66,0,3
+04:14,[NYL] Thornton Rebound (Off:2 Def:3),-12,7,4,,203866,,1611661313,49,66,0,3
+04:13,[MIN] Juhász Foul: Personal (3 PF),1,817,6,203866,1641657,1628952,1611661324,49,66,0,3
+04:00,[NYL 51-66] Johannès Pullup Jump shot: Made (2 PTS) Assist: Thornton (2 AST),111,165,1,,1629546,203866,1611661313,51,66,2,3
+03:48,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,51,66,0,3
+03:48,[MIN] Miller Substitution replaced by Shepard,0,-80,8,,1641649,1629491,1611661324,51,66,0,3
+03:48,[MIN] Milic Substitution replaced by Mitchell,0,-80,8,,1631263,1627676,1611661324,51,66,0,3
+03:48,[MIN] Team Violation : Delay Of Game,0,-80,7,,0,,1611661324,51,66,0,3
+03:37,[MIN] Shepard Jump Shot: Missed,-53,144,2,,1629491,,1611661324,51,66,0,3
+03:36,[NYL] Stewart Rebound (Off:1 Def:2),-53,144,4,,1627668,,1611661313,51,66,0,3
+03:30,[NYL] Stewart Running Layup Shot: Missed,24,25,2,,1627668,,1611661313,51,66,0,3
+03:29,[MIN] Shepard Rebound (Off:0 Def:4),24,25,4,,1629491,,1611661324,51,66,0,3
+03:20,[MIN] Mitchell 3pt Shot: Missed,-174,183,2,,1627676,,1611661324,51,66,0,3
+03:19,[MIN] Juhász Rebound (Off:5 Def:1),-174,183,4,,1641657,,1611661324,51,66,0,3
+03:09,[MIN] Shepard Turnover : Lost Ball (3 TO) Steal:Thornton (1 ST),-61,38,5,203866,1629491,,1611661324,51,66,0,3
+03:04,[NYL] Stewart 3pt Shot: Missed,-150,185,2,,1627668,,1611661313,51,66,0,3
+03:03,[MIN] Juhász Rebound (Off:5 Def:2),-150,185,4,,1641657,,1611661324,51,66,0,3
+02:40,[MIN] Mitchell Foul: Flagrant Type 1 (2 PF) (2 FTA),-49,148,6,1629477,1627676,1627531,1611661324,51,66,0,3
+02:40,[MIN] Mitchell Turnover : Offensive Foul Turnover (3 TO),-49,148,5,,1627676,1627531,1611661324,51,66,0,3
+02:40,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,51,66,0,3
+02:40,[NYL] Stewart Substitution replaced by Laney,0,-80,8,,1627668,204335,1611661313,51,66,0,3
+02:40,[MIN] Juhász Substitution replaced by Engstler,0,-80,8,,1641657,1631083,1611661324,51,66,0,3
+02:40,[MIN] McBride Substitution replaced by Carleton,0,-80,8,,203825,1629524,1611661324,51,66,0,3
+02:40,[NYL 52-66] Ionescu Free Throw Flagrant 1 of 2 (19 PTS),0,-80,3,,1629477,,1611661313,52,66,1,3
+02:40,[NYL 53-66] Ionescu Free Throw Flagrant 2 of 2 (20 PTS),0,-80,3,,1629477,,1611661313,53,66,1,3
+02:28,[NYL] Johannès 3pt Shot: Missed,-94,226,2,,1629546,,1611661313,53,66,0,3
+02:27,[NYL] Laney Rebound (Off:2 Def:1),-94,226,4,,204335,,1611661313,53,66,0,3
+02:17,[NYL 56-66] Ionescu 3pt Shot: Made (23 PTS) Assist: Laney (2 AST),-162,188,1,,1629477,204335,1611661313,56,66,3,3
+01:57,[MIN] Shepard Layup Shot: Missed Block: Ionescu (2 BLK),15,12,2,1629477,1629491,,1611661324,56,66,0,3
+01:56,[MIN] Shepard Rebound (Off:1 Def:4),15,12,4,,1629491,,1611661324,56,66,0,3
+01:54,[MIN 69-56] Allen 3pt Shot: Made (5 PTS) Assist: Shepard (2 AST),-120,219,1,,1628263,1629491,1611661324,56,69,3,3
+01:44,[MIN] Allen Foul: Personal (2 PF) (2 FTA),-67,226,6,203866,1628263,1628952,1611661324,56,69,0,3
+01:44,[NYL 57-69] Thornton Free Throw 1 of 2 (1 PTS),0,-80,3,,203866,,1611661313,57,69,1,3
+01:44,[NYL 58-69] Thornton Free Throw 2 of 2 (2 PTS),0,-80,3,,203866,,1611661313,58,69,1,3
+01:25,[MIN] Carleton 3pt Shot: Missed,-241,16,2,,1629524,,1611661324,58,69,0,3
+01:24,[NYL] Thornton Rebound (Off:2 Def:4),-241,16,4,,203866,,1611661313,58,69,0,3
+01:14,[NYL] Ionescu Running Layup Shot: Missed,29,13,2,,1629477,,1611661313,58,69,0,3
+01:12,[NYL] Sabally Rebound (Off:1 Def:1),29,13,4,,1631055,,1611661313,58,69,0,3
+01:12,[MIN] Mitchell Substitution replaced by Miller,0,-80,8,,1627676,1641649,1611661324,58,69,0,3
+01:09,Jump Ball Sabally vs Engstler (Johannès gains possession),0,-80,10,1631083,1631055,1629546,1611661313,58,69,0,3
+01:04,[NYL] Ionescu 3pt Shot: Missed,-6,229,2,,1629477,,1611661313,58,69,0,3
+01:00,[MIN] Miller Rebound (Off:0 Def:5),-6,229,4,,1641649,,1611661324,58,69,0,3
+00:53.6,[MIN] Shepard Layup Shot: Missed Block: Ionescu (3 BLK),15,13,2,1629477,1629491,,1611661324,58,69,0,3
+00:52.4,[MIN] Team Rebound,15,13,4,,0,,1611661324,58,69,0,3
+00:52.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,69,0,3
+00:52.4,[NYL] Ionescu Substitution replaced by Stewart,0,-80,8,,1629477,1627668,1611661313,58,69,0,3
+00:37.5,[MIN] Shepard Layup Shot: Missed,-5,27,2,,1629491,,1611661324,58,69,0,3
+00:34.7,[MIN] Team Rebound,-5,27,4,,0,,1611661324,58,69,0,3
+00:34.7,[NYL] Thornton Foul: Flagrant Type 1 (2 PF) (2 FTA),-5,23,6,1631083,203866,1627531,1611661313,58,69,0,3
+00:34.7,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,58,69,0,3
+00:34.7,[MIN] Engstler Substitution replaced by Juhász,0,-80,8,,1631083,1641657,1611661324,58,69,0,3
+00:34.7,[MIN 70-58] Miller Free Throw Flagrant 1 of 2 (15 PTS),0,-80,3,,1641649,,1611661324,58,70,1,3
+00:34.7,[MIN] Miller Free Throw Flagrant 2 of 2 Missed,0,-80,3,,1641649,,1611661324,58,70,0,3
+00:34.7,[MIN] Team Rebound,0,-80,4,,0,,1611661324,58,70,0,3
+00:15.5,[MIN] Shepard Turnover : Traveling (4 TO),-54,48,5,,1629491,1627531,1611661324,58,70,0,3
+00:00.2,[NYL] Stewart 3pt Shot: Missed,-197,146,2,,1627668,,1611661313,58,70,0,3
+00:00.1,[NYL] Team Rebound,-197,146,4,,0,,1611661313,58,70,0,3
+00:00.0,End Period,0,-80,13,,0,,0,58,70,0,3
+10:00,Start Period,0,-80,12,,0,,0,58,70,0,4
+09:42,[NYL] Stewart Driving Hook Shot: Missed,17,19,2,,1627668,,1611661313,58,70,0,4
+09:41,[NYL] Jones Rebound (Off:2 Def:7),17,19,4,,1627673,,1611661313,58,70,0,4
+09:40,[NYL 60-70] Jones Putback Layup Shot: Made (8 PTS),-7,1,1,,1627673,,1611661313,60,70,2,4
+09:25,[MIN 72-60] McBride Turnaround Jump Shot: Made (19 PTS) Assist: Shepard (3 AST),2,104,1,,203825,1629491,1611661324,60,72,2,4
+09:03,[NYL] Stewart Jump Shot: Missed,196,17,2,,1627668,,1611661313,60,72,0,4
+09:02,[MIN] Juhász Rebound (Off:5 Def:3),196,17,4,,1641657,,1611661324,60,72,0,4
+08:54,[MIN] Miller Running Pull-Up Jump Shot: Missed,124,86,2,,1641649,,1611661324,60,72,0,4
+08:53,[NYL] Ionescu Rebound (Off:0 Def:4),124,86,4,,1629477,,1611661313,60,72,0,4
+08:43,[NYL] Ionescu 3pt Shot: Missed,-206,107,2,,1629477,,1611661313,60,72,0,4
+08:42,[MIN] Juhász Rebound (Off:5 Def:4),-206,107,4,,1641657,,1611661324,60,72,0,4
+08:27,[MIN 74-60] McBride Turnaround Fadeaway shot: Made (21 PTS) Assist: Shepard (4 AST),29,44,1,,203825,1629491,1611661324,60,74,2,4
+08:06,[NYL 62-74] Stewart Fadeaway Jump Shot: Made (18 PTS) Assist: Ionescu (5 AST),-4,146,1,,1627668,1629477,1611661313,62,74,2,4
+07:47,[MIN 77-62] McBride 3pt Shot: Made (24 PTS),-45,243,1,,203825,,1611661324,62,77,3,4
+07:38,[NYL 64-77] Johannès Driving Layup Shot: Made (4 PTS) Assist: Ionescu (6 AST),-17,-2,1,,1629546,1629477,1611661313,64,77,2,4
+07:24,[MIN] Miller Driving Finger Roll Layup Shot: Missed,-27,35,2,,1641649,,1611661324,64,77,0,4
+07:23,[NYL] Team Rebound,-27,35,4,,0,,1611661313,64,77,0,4
+07:23,[NYL] Johannès Substitution replaced by Thornton,0,-80,8,,1629546,203866,1611661313,64,77,0,4
+07:23,Jump Ball Laney vs Shepard (Stewart gains possession),0,-80,10,1629491,204335,1627668,1611661313,64,77,0,4
+07:13,[NYL] Laney Running Layup Shot: Missed,5,3,2,,204335,,1611661313,64,77,0,4
+07:12,[MIN] Shepard Rebound (Off:1 Def:5),5,3,4,,1629491,,1611661324,64,77,0,4
+07:01,[NYL] Thornton Foul: Personal (3 PF),-57,22,6,1629491,203866,1628702,1611661313,64,77,0,4
+07:01,[MIN] Shepard Substitution replaced by Milic,0,-80,8,,1629491,1631263,1611661324,64,77,0,4
+06:57,[MIN] McBride 3pt Shot: Missed,60,241,2,,203825,,1611661324,64,77,0,4
+06:56,[NYL] Jones Rebound (Off:2 Def:8),60,241,4,,1627673,,1611661313,64,77,0,4
+06:41,[NYL] Ionescu 3pt Shot: Missed,132,214,2,,1629477,,1611661313,64,77,0,4
+06:40,[MIN] McBride Rebound (Off:0 Def:4),132,214,4,,203825,,1611661324,64,77,0,4
+06:29,[MIN] Milic Driving Layup Shot: Missed,13,23,2,,1631263,,1611661324,64,77,0,4
+06:28,[NYL] Ionescu Rebound (Off:0 Def:5),13,23,4,,1629477,,1611661313,64,77,0,4
+06:24,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (6 TO),-7,318,5,,1629477,1627531,1611661313,64,77,0,4
+06:14,[MIN] Juhász Turnover : Lost Ball (1 TO) Steal:Stewart (1 ST),17,206,5,1627668,1641657,,1611661324,64,77,0,4
+06:10,[MIN] Miller Foul: Shooting (3 PF) (2 FTA),20,17,6,1627668,1641649,1628952,1611661324,64,77,0,4
+06:10,[NYL 65-77] Stewart Free Throw 1 of 2 (19 PTS),0,-80,3,,1627668,,1611661313,65,77,1,4
+06:10,[NYL 66-77] Stewart Free Throw 2 of 2 (20 PTS),0,-80,3,,1627668,,1611661313,66,77,1,4
+05:59,[MIN] Allen Pullup Jump shot: Missed,55,172,2,,1628263,,1611661324,66,77,0,4
+05:58,[NYL] Ionescu Rebound (Off:0 Def:6),55,172,4,,1629477,,1611661313,66,77,0,4
+05:52,[NYL 68-77] Laney Cutting Layup Shot: Made (11 PTS) Assist: Ionescu (7 AST),-21,11,1,,204335,1629477,1611661313,68,77,2,4
+05:48,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,68,77,0,4
+05:29,[MIN] Milic Hook Shot: Missed,30,41,2,,1631263,,1611661324,68,77,0,4
+05:28,[NYL] Ionescu Rebound (Off:0 Def:7),30,41,4,,1629477,,1611661313,68,77,0,4
+05:06,[NYL] Laney Driving Layup Shot: Missed,-19,5,2,,204335,,1611661313,68,77,0,4
+05:05,[NYL] Team Rebound,-19,5,4,,0,,1611661313,68,77,0,4
+05:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,77,0,4
+04:58,[NYL] Stewart 3pt Shot: Missed,-229,36,2,,1627668,,1611661313,68,77,0,4
+04:57,[MIN] Milic Rebound (Off:2 Def:2),-229,36,4,,1631263,,1611661324,68,77,0,4
+04:47,[MIN] Milic Turnover : Traveling (2 TO),-32,17,5,,1631263,1627531,1611661324,68,77,0,4
+04:32,[NYL] Jones 3pt Shot: Missed,-208,103,2,,1627673,,1611661313,68,77,0,4
+04:31,[MIN] Team Rebound,-208,103,4,,0,,1611661324,68,77,0,4
+04:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,77,0,4
+04:11,[MIN] Miller Turnover : Lost Ball (3 TO) Steal:Thornton (2 ST),-74,38,5,203866,1641649,,1611661324,68,77,0,4
+04:07,[NYL 71-77] Ionescu 3pt Shot: Made (26 PTS) Assist: Stewart (5 AST),-212,102,1,,1629477,1627668,1611661313,71,77,3,4
+03:52,[NYL] Thornton Foul: Personal (4 PF),-137,90,6,1641649,203866,1627531,1611661313,71,77,0,4
+03:43,[MIN] Milic Foul: Offensive (1 PF),140,163,6,1629477,1631263,1627531,1611661324,71,77,0,4
+03:43,[MIN] Milic Turnover : Offensive Foul Turnover (3 TO),140,163,5,,1631263,1627531,1611661324,71,77,0,4
+03:43,[MIN] Allen Substitution replaced by Mitchell,0,-80,8,,1628263,1627676,1611661324,71,77,0,4
+03:28,[NYL 74-77] Ionescu 3pt Shot: Made (29 PTS) Assist: Jones (2 AST),-183,153,1,,1629477,1627673,1611661313,74,77,3,4
+03:27,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,74,77,0,4
+03:27,[MIN] Milic Substitution replaced by Carleton,0,-80,8,,1631263,1629524,1611661324,74,77,0,4
+03:08,[MIN] Miller Finger Roll Layup Shot: Missed,-23,10,2,,1641649,,1611661324,74,77,0,4
+03:07,[NYL] Stewart Rebound (Off:1 Def:3),-23,10,4,,1627668,,1611661313,74,77,0,4
+02:57,[MIN] Miller Foul: Shooting (4 PF) (2 FTA),15,11,6,1627668,1641649,1627531,1611661324,74,77,0,4
+02:57,Timeout Officials,0,-80,9,,0,,0,74,77,0,4
+02:57,[NYL 75-77] Stewart Free Throw 1 of 2 (21 PTS),0,-80,3,,1627668,,1611661313,75,77,1,4
+02:57,[NYL 76-77] Stewart Free Throw 2 of 2 (22 PTS),0,-80,3,,1627668,,1611661313,76,77,1,4
+02:39,[MIN] Carleton 3pt Shot: Missed,95,236,2,,1629524,,1611661324,76,77,0,4
+02:38,[MIN] Juhász Rebound (Off:6 Def:4),95,236,4,,1641657,,1611661324,76,77,0,4
+02:33,[NYL] Stewart Violation:Kicked Ball,0,-80,7,,1627668,,1611661313,76,77,0,4
+02:24,[MIN 80-76] Miller 3pt Shot: Made (18 PTS) Assist: Carleton (1 AST),125,221,1,,1641649,1629524,1611661324,76,80,3,4
+02:13,[NYL] Laney 3pt Shot: Missed,-234,-12,2,,204335,,1611661313,76,80,0,4
+02:12,[MIN] McBride Rebound (Off:0 Def:5),-234,-12,4,,203825,,1611661324,76,80,0,4
+02:07,[MIN 82-76] McBride Running Layup Shot: Made (26 PTS),5,13,1,,203825,,1611661324,76,82,2,4
+02:06,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,76,82,0,4
+01:52,[NYL] Laney Turnover : Out of Bounds - Bad Pass Turnover (1 TO),15,44,5,,204335,1628702,1611661313,76,82,0,4
+01:31,[MIN] Juhász Layup Shot: Missed,-23,15,2,,1641657,,1611661324,76,82,0,4
+01:30,[NYL] Stewart Rebound (Off:1 Def:4),-23,15,4,,1627668,,1611661313,76,82,0,4
+01:10,[NYL] Ionescu Driving Finger Roll Layup Shot: Missed,-52,19,2,,1629477,,1611661313,76,82,0,4
+01:09,[NYL] Jones Rebound (Off:3 Def:8),-52,19,4,,1627673,,1611661313,76,82,0,4
+01:08,[MIN] Mitchell Foul: Shooting (3 PF) (2 FTA),-15,32,6,1627673,1627676,1628702,1611661324,76,82,0,4
+01:08,[NYL] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661313,76,82,0,4
+01:08,[NYL] Team Rebound,0,-80,4,,0,,1611661313,76,82,0,4
+01:08,[NYL 77-82] Jones Free Throw 2 of 2 (9 PTS),0,-80,3,,1627673,,1611661313,77,82,1,4
+00:45.5,[NYL] Laney Foul: Shooting (3 PF) (2 FTA),24,21,6,1641649,204335,1628702,1611661313,77,82,0,4
+00:45.5,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,77,82,0,4
+00:45.5,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661313,77,82,0,4
+00:45.5,[MIN 83-77] Miller Free Throw 1 of 2 (19 PTS),0,-80,3,,1641649,,1611661324,77,83,1,4
+00:45.5,[MIN 84-77] Miller Free Throw 2 of 2 (20 PTS),0,-80,3,,1641649,,1611661324,77,84,1,4
+00:36.4,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,77,84,0,4
+00:32.1,[MIN] McBride Foul: Shooting (2 PF) (3 FTA),-218,80,6,1629477,203825,1628702,1611661324,77,84,0,4
+00:32.1,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,77,84,0,4
+00:32.1,[MIN] Mitchell Substitution replaced by Allen,0,-80,8,,1627676,1628263,1611661324,77,84,0,4
+00:32.1,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661324,77,84,0,4
+00:32.1,[NYL 78-84] Ionescu Free Throw 1 of 3 (30 PTS),0,-80,3,,1629477,,1611661313,78,84,1,4
+00:32.1,[NYL 79-84] Ionescu Free Throw 2 of 3 (31 PTS),0,-80,3,,1629477,,1611661313,79,84,1,4
+00:32.1,[NYL] Ionescu Free Throw 3 of 3 Missed,0,-80,3,,1629477,,1611661313,79,84,0,4
+00:28.5,[NYL] Team Rebound,0,-80,4,,0,,1611661313,79,84,0,4
+00:28.5,[MIN] McBride Violation:Jump Ball,0,-80,7,,203825,,1611661324,79,84,0,4
+00:24.7,[MIN] Carleton Foul: Shooting (1 PF) (2 FTA),-24,6,6,1627668,1629524,1627531,1611661324,79,84,0,4
+00:24.7,[NYL 80-84] Stewart Free Throw 1 of 2 (23 PTS),0,-80,3,,1627668,,1611661313,80,84,1,4
+00:24.7,[MIN] Carleton Substitution replaced by Shepard,0,-80,8,,1629524,1629491,1611661324,80,84,0,4
+00:24.7,[NYL] Stewart Free Throw 2 of 2 Missed,0,-80,3,,1627668,,1611661313,80,84,0,4
+00:23.8,[MIN] Team Rebound,0,-80,4,,0,,1611661324,80,84,0,4
+00:23.8,[NYL] Laney Foul: Loose Ball (4 PF) (2 FTA),206,725,6,1628263,204335,1628952,1611661313,80,84,0,4
+00:23.8,[MIN 85-80] Allen Free Throw 1 of 2 (6 PTS),0,-80,3,,1628263,,1611661324,80,85,1,4
+00:23.8,[MIN] Shepard Substitution replaced by Carleton,0,-80,8,,1629491,1629524,1611661324,80,85,0,4
+00:23.8,[MIN 86-80] Allen Free Throw 2 of 2 (7 PTS),0,-80,3,,1628263,,1611661324,80,86,1,4
+00:16.8,[NYL] Laney Turnover : Bad Pass (2 TO) Steal:Miller (1 ST),96,72,5,1641649,204335,,1611661313,80,86,0,4
+00:12.6,[NYL] Ionescu Foul: Shooting (2 PF) (2 FTA),-151,24,6,1641649,1629477,1628702,1611661313,80,86,0,4
+00:12.6,[MIN] Miller Free Throw 1 of 2 Missed,0,-80,3,,1641649,,1611661324,80,86,0,4
+00:12.6,[MIN] Team Rebound,0,-80,4,,0,,1611661324,80,86,0,4
+00:12.6,[MIN] Miller Free Throw 2 of 2 Missed,0,-80,3,,1641649,,1611661324,80,86,0,4
+00:12.6,[NYL] Stewart Rebound (Off:1 Def:5),0,-80,4,,1627668,,1611661313,80,86,0,4
+00:07.1,[NYL] Stewart 3pt Shot: Missed,124,205,2,,1627668,,1611661313,80,86,0,4
+00:05.9,[NYL] Thornton Rebound (Off:3 Def:4),124,205,4,,203866,,1611661313,80,86,0,4
+00:04.7,[NYL 82-86] Thornton Putback Layup Shot: Made (4 PTS),-10,5,1,,203866,,1611661313,82,86,2,4
+00:04.7,[MIN] McBride Foul: Shooting (3 PF) (1 FTA),-10,5,6,203866,203825,1628702,1611661324,82,86,0,4
+00:04.7,[MIN] Carleton Substitution replaced by Shepard,0,-80,8,,1629524,1629491,1611661324,82,86,0,4
+00:04.7,[NYL 83-86] Thornton Free Throw 1 of 1 (5 PTS),0,-80,3,,203866,,1611661313,83,86,1,4
+00:03.4,[NYL] Ionescu Foul: Personal Take (3 PF) (2 FTA),-217,800,6,1641649,1629477,1628952,1611661313,83,86,0,4
+00:03.4,[MIN 87-83] Miller Free Throw 1 of 2 (21 PTS),0,-80,3,,1641649,,1611661324,83,87,1,4
+00:03.4,[NYL] Thornton Substitution replaced by Johannès,0,-80,8,,203866,1629546,1611661313,83,87,0,4
+00:03.4,[MIN] Shepard Substitution replaced by Carleton,0,-80,8,,1629491,1629524,1611661324,83,87,0,4
+00:03.4,[MIN 88-83] Miller Free Throw 2 of 2 (22 PTS),0,-80,3,,1641649,,1611661324,83,88,1,4
+00:00.2,[NYL] Laney 3pt Shot: Missed,44,385,2,,204335,,1611661313,83,88,0,4
+00:00.1,[NYL] Team Rebound,44,385,4,,0,,1611661313,83,88,0,4
+00:00.0,End Period,0,-80,13,,0,,0,83,88,0,4

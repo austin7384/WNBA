@@ -1,0 +1,384 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Griner vs Edwards (Taurasi gains possession),0,-80,10,1642290,203398,100940,1611661317,0,0,0,1
+09:42,[PHO] Griner Cutting Layup Shot: Missed,-22,24,2,,203398,,1611661317,0,0,0,1
+09:40,[WAS] Edwards Rebound (Off:0 Def:1),-22,24,4,,1642290,,1611661322,0,0,0,1
+09:25,[WAS] Sykes Pullup Jump shot: Missed,-142,125,2,,1628279,,1611661322,0,0,0,1
+09:21,[PHO] Cloud Rebound (Off:0 Def:1),-142,125,4,,204333,,1611661317,0,0,0,1
+09:08,[PHO 3-0] Taurasi 3pt Shot: Made (3 PTS) Assist: Cunningham (1 AST),227,14,1,,100940,1629482,1611661317,3,0,3,1
+08:52,[WAS] Atkins Pullup Jump shot: Missed,86,113,2,,1628878,,1611661322,3,0,0,1
+08:51,[PHO] Griner Rebound (Off:0 Def:1),86,113,4,,203398,,1611661317,3,0,0,1
+08:45,[PHO] Cunningham 3pt Shot: Missed,202,139,2,,1629482,,1611661317,3,0,0,1
+08:40,[WAS] Sykes Rebound (Off:0 Def:1),202,139,4,,1628279,,1611661322,3,0,0,1
+08:34,[WAS 2-3] Sykes Driving Layup Shot: Made (2 PTS),1,8,1,,1628279,,1611661322,3,2,2,1
+08:07,[PHO 5-2] Griner Fadeaway Jump Shot: Made (2 PTS) Assist: Cunningham (2 AST),59,58,1,,203398,1629482,1611661317,5,2,2,1
+07:57,[PHO] Taurasi Foul: Personal (1 PF),106,110,6,1628279,100940,1629171,1611661317,5,2,0,1
+07:46,[WAS 4-5] Edwards Cutting Layup Shot: Made (2 PTS) Assist: Vanloo (1 AST),-20,16,1,,1642290,1642210,1611661322,5,4,2,1
+07:25,[PHO] Cunningham 3pt Shot: Missed,-228,-16,2,,1629482,,1611661317,5,4,0,1
+07:22,[WAS] Vanloo Rebound (Off:0 Def:1),-228,-16,4,,1642210,,1611661322,5,4,0,1
+07:19,[PHO] Cloud Foul: Personal (1 PF),-144,102,6,203828,204333,100274,1611661317,5,4,0,1
+07:12,[WAS 7-5] Vanloo 3pt Shot: Made (3 PTS) Assist: Atkins (1 AST),-232,22,1,,1642210,1628878,1611661322,5,7,3,1
+06:56,[PHO] Taurasi Driving Layup Shot: Missed Block: Atkins (1 BLK),33,47,2,1628878,100940,,1611661317,5,7,0,1
+06:54,[PHO] Team Rebound,33,47,4,,0,,1611661317,5,7,0,1
+06:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,7,0,1
+06:48,[PHO 7-7] Taurasi Driving Layup Shot: Made (5 PTS) Assist: Griner (1 AST),26,3,1,,100940,203398,1611661317,7,7,2,1
+06:34,[WAS] Dolson 3pt Shot: Missed,-154,212,2,,203828,,1611661322,7,7,0,1
+06:30,[WAS] Edwards Rebound (Off:1 Def:1),-154,212,4,,1642290,,1611661322,7,7,0,1
+06:28,[WAS 9-7] Edwards Putback Layup Shot: Made (4 PTS),-21,5,1,,1642290,,1611661322,7,9,2,1
+06:08,[PHO] Griner Jump Shot: Missed,155,122,2,,203398,,1611661317,7,9,0,1
+06:05,[WAS] Atkins Rebound (Off:0 Def:1),155,122,4,,1628878,,1611661322,7,9,0,1
+05:58,[WAS] Vanloo Turnover : Out of Bounds - Bad Pass Turnover (1 TO),38,179,5,,1642210,1629171,1611661322,7,9,0,1
+05:46,[PHO] Copper Pullup Jump shot: Missed,50,175,2,,1627674,,1611661317,7,9,0,1
+05:43,[WAS] Edwards Rebound (Off:1 Def:2),50,175,4,,1642290,,1611661322,7,9,0,1
+05:38,[PHO] Griner Violation:Kicked Ball,0,-80,7,,203398,,1611661317,7,9,0,1
+05:38,[WAS] Vanloo Substitution replaced by Samuelson,0,-80,8,,1642210,1628317,1611661322,7,9,0,1
+05:30,[WAS] Atkins 3pt Shot: Missed,-210,153,2,,1628878,,1611661322,7,9,0,1
+05:24,[PHO] Taurasi Rebound (Off:0 Def:1),-210,153,4,,100940,,1611661317,7,9,0,1
+05:17,[PHO] Copper Foul: Offensive Charge (1 PF),-28,57,6,1628279,1627674,1629182,1611661317,7,9,0,1
+05:17,[PHO] Copper Turnover : Offensive Foul Turnover (1 TO),-28,57,5,,1627674,1629182,1611661317,7,9,0,1
+05:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,9,0,1
+05:05,[PHO] Taurasi Substitution replaced by Taylor,0,-80,8,,100940,1642298,1611661317,7,9,0,1
+05:05,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,7,9,0,1
+05:03,[WAS 11-7] Atkins Jump Shot: Made (2 PTS) Assist: Sykes (1 AST),179,5,1,,1628878,1628279,1611661322,7,11,2,1
+04:34,[PHO 9-11] Cloud Driving Floating Jump Shot: Made (2 PTS) Assist: Taylor (1 AST),38,143,1,,204333,1642298,1611661317,9,11,2,1
+04:13,[WAS] Sykes 3pt Shot: Missed,-27,249,2,,1628279,,1611661322,9,11,0,1
+04:10,[PHO] Mack Rebound (Off:0 Def:1),-27,249,4,,1630442,,1611661317,9,11,0,1
+04:09,[PHO] Mack Turnover : Bad Pass (1 TO) Steal:Atkins (1 ST),100,649,5,1628878,1630442,,1611661317,9,11,0,1
+04:09,[PHO] Taylor Foul: Personal (1 PF),-167,323,6,1628878,1642298,100274,1611661317,9,11,0,1
+04:09,Timeout : Official,0,-80,9,,0,,0,9,11,0,1
+04:09,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,9,11,0,1
+04:09,[WAS] Sykes Substitution replaced by Engstler,0,-80,8,,1628279,1631083,1611661322,9,11,0,1
+04:09,[WAS] Dolson Substitution replaced by Melbourne,0,-80,8,,203828,1631141,1611661322,9,11,0,1
+04:00,[WAS 14-9] Samuelson 3pt Shot: Made (3 PTS) Assist: Engstler (1 AST),161,221,1,,1628317,1631083,1611661322,9,14,3,1
+03:48,[PHO] Cunningham Foul: Offensive (1 PF),168,295,6,1628278,1629482,1629171,1611661317,9,14,0,1
+03:48,[PHO] Cunningham Turnover : Offensive Foul Turnover (1 TO),168,295,5,,1629482,1629171,1611661317,9,14,0,1
+03:30,[WAS] Edwards Turnaround Jump Shot: Missed Block: Mack (1 BLK),-11,56,2,1630442,1642290,,1611661322,9,14,0,1
+03:29,[PHO] Copper Rebound (Off:0 Def:1),-11,56,4,,1627674,,1611661317,9,14,0,1
+03:23,[PHO] Copper Turnover : Lost Ball (2 TO) Steal:Edwards (1 ST),28,73,5,1642290,1627674,,1611661317,9,14,0,1
+03:08,[WAS 17-9] Walker-Kimbrough 3pt Shot: Made (3 PTS),39,241,1,,1628278,,1611661322,9,17,3,1
+02:43,[WAS] Engstler Foul: Shooting (1 PF) (2 FTA),-55,95,6,204333,1631083,100274,1611661322,9,17,0,1
+02:43,InstantReplay Request Stands,0,-80,18,,0,,0,9,17,0,1
+02:43,[PHO] Cunningham Substitution replaced by Billings,0,-80,8,,1629482,1628881,1611661317,9,17,0,1
+02:43,[PHO 10-17] Cloud Free Throw 1 of 2 (3 PTS),0,-80,3,,204333,,1611661317,10,17,1,1
+02:43,[PHO 11-17] Cloud Free Throw 2 of 2 (4 PTS),0,-80,3,,204333,,1611661317,11,17,1,1
+02:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,17,0,1
+02:17,[WAS 19-11] Samuelson Jump Shot: Made (5 PTS) Assist: Melbourne (1 AST),-168,67,1,,1628317,1631141,1611661322,11,19,2,1
+01:59,[PHO 14-19] Taylor 3pt Shot: Made (3 PTS) Assist: Billings (1 AST),-228,78,1,,1642298,1628881,1611661317,14,19,3,1
+01:48,[PHO] Taylor Foul: Shooting (2 PF) (3 FTA),224,117,6,1628317,1642298,1629182,1611661317,14,19,0,1
+01:48,[WAS 20-14] Samuelson Free Throw 1 of 3 (6 PTS),0,-80,3,,1628317,,1611661322,14,20,1,1
+01:48,[WAS 21-14] Samuelson Free Throw 2 of 3 (7 PTS),0,-80,3,,1628317,,1611661322,14,21,1,1
+01:48,[PHO] Cloud Substitution replaced by Taurasi,0,-80,8,,204333,100940,1611661317,14,21,0,1
+01:48,[PHO] Mack Substitution replaced by Griner,0,-80,8,,1630442,203398,1611661317,14,21,0,1
+01:48,[WAS] Edwards Substitution replaced by Dolson,0,-80,8,,1642290,203828,1611661322,14,21,0,1
+01:48,[WAS] Samuelson Free Throw 3 of 3 Missed,0,-80,3,,1628317,,1611661322,14,21,0,1
+01:46,[PHO] Billings Rebound (Off:0 Def:1),0,-80,4,,1628881,,1611661317,14,21,0,1
+01:31,[PHO] Taylor Turnover : Step Out of Bounds Turnover (1 TO),223,99,5,,1642298,1629171,1611661317,14,21,0,1
+01:11,[WAS] Walker-Kimbrough Jump Shot: Missed,156,37,2,,1628278,,1611661322,14,21,0,1
+01:07,[PHO] Taurasi Rebound (Off:0 Def:2),156,37,4,,100940,,1611661317,14,21,0,1
+01:00,[PHO] Taurasi 3pt Shot: Missed,-116,207,2,,100940,,1611661317,14,21,0,1
+00:57.8,[WAS] Engstler Rebound (Off:0 Def:1),-116,207,4,,1631083,,1611661322,14,21,0,1
+00:51.9,[WAS] Engstler Running Layup Shot: Missed,-20,17,2,,1631083,,1611661322,14,21,0,1
+00:49.8,[PHO] Billings Rebound (Off:0 Def:2),-20,17,4,,1628881,,1611661317,14,21,0,1
+00:40.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,21,0,1
+00:34.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,21,0,1
+00:30.8,[PHO] Griner Turnaround Hook Shot: Missed,68,40,2,,203398,,1611661317,14,21,0,1
+00:28.5,[WAS] Engstler Rebound (Off:0 Def:2),68,40,4,,1631083,,1611661322,14,21,0,1
+00:14.5,[WAS] Melbourne Driving Floating Jump Shot: Missed Block: Billings (1 BLK),12,69,2,1628881,1631141,,1611661322,14,21,0,1
+00:13.4,[WAS] Samuelson Rebound (Off:1 Def:0),12,69,4,,1628317,,1611661322,14,21,0,1
+00:08.5,[WAS 24-14] Engstler 3pt Shot: Made (3 PTS) Assist: Samuelson (1 AST),-216,120,1,,1631083,1628317,1611661322,14,24,3,1
+00:01.2,[WAS] Melbourne Foul: Shooting (1 PF) (3 FTA),151,196,6,1627674,1631141,1629171,1611661322,14,24,0,1
+00:01.2,[PHO] Copper Free Throw 1 of 3 Missed,0,-80,3,,1627674,,1611661317,14,24,0,1
+00:01.2,[PHO] Team Rebound,0,-80,4,,0,,1611661317,14,24,0,1
+00:01.2,[PHO] Copper Free Throw 2 of 3 Missed,0,-80,3,,1627674,,1611661317,14,24,0,1
+00:01.2,[PHO] Team Rebound,0,-80,4,,0,,1611661317,14,24,0,1
+00:01.2,[PHO 15-24] Copper Free Throw 3 of 3 (1 PTS),0,-80,3,,1627674,,1611661317,15,24,1,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,15,24,0,1
+00:00.0,End Period,0,-80,13,,0,,0,15,24,0,1
+10:00,Start Period,0,-80,12,,0,,0,15,24,0,2
+09:46,[WAS 26-15] Dolson Jump Shot: Made (2 PTS) Assist: Atkins (2 AST),-124,148,1,,203828,1628878,1611661322,15,26,2,2
+09:30,[PHO] Taurasi Turnover : Bad Pass (1 TO) Steal:Sutton (1 ST),156,296,5,1630134,100940,,1611661317,15,26,0,2
+09:26,[WAS] Atkins 3pt Shot: Missed,-194,151,2,,1628878,,1611661322,15,26,0,2
+09:21,[WAS] Atkins Rebound (Off:1 Def:1),-194,151,4,,1628878,,1611661322,15,26,0,2
+09:21,[WAS] Atkins Turnover : Lost Ball (1 TO) Steal:Billings (1 ST),-101,113,5,1628881,1628878,,1611661322,15,26,0,2
+09:06,[PHO] Taylor Pullup Jump shot: Missed,163,80,2,,1642298,,1611661317,15,26,0,2
+09:03,[PHO] Billings Rebound (Off:1 Def:2),163,80,4,,1628881,,1611661317,15,26,0,2
+09:00,[PHO] Griner Jump Shot: Missed,-83,121,2,,203398,,1611661317,15,26,0,2
+09:00,[WAS] Koné Rebound (Off:0 Def:1),-83,121,4,,1631021,,1611661322,15,26,0,2
+08:48,[WAS 28-15] Atkins Pullup Jump shot: Made (4 PTS),-148,124,1,,1628878,,1611661322,15,28,2,2
+08:48,Timeout : Regular,0,-80,9,,1611661317,,1611661317,15,28,0,2
+08:28,[PHO] Cunningham 3pt Shot: Missed,-173,210,2,,1629482,,1611661317,15,28,0,2
+08:24,[PHO] Billings Rebound (Off:2 Def:2),-173,210,4,,1628881,,1611661317,15,28,0,2
+08:23,[PHO 17-28] Billings Putback Layup Shot: Made (2 PTS),-19,4,1,,1628881,,1611661317,17,28,2,2
+07:59,[WAS] Koné 3pt Shot: Missed,169,199,2,,1631021,,1611661322,17,28,0,2
+07:56,[PHO] Taylor Rebound (Off:0 Def:1),169,199,4,,1642298,,1611661317,17,28,0,2
+07:41,[PHO] Taylor 3pt Shot: Missed,187,167,2,,1642298,,1611661317,17,28,0,2
+07:36,[PHO] Taylor Rebound (Off:1 Def:1),187,167,4,,1642298,,1611661317,17,28,0,2
+07:27,[PHO] Taurasi 3pt Shot: Missed,201,186,2,,100940,,1611661317,17,28,0,2
+07:24,[WAS] Sutton Rebound (Off:0 Def:1),201,186,4,,1630134,,1611661322,17,28,0,2
+07:18,[WAS] Atkins 3pt Shot: Missed,-177,178,2,,1628878,,1611661322,17,28,0,2
+07:17,[PHO] Team Rebound,-177,178,4,,0,,1611661317,17,28,0,2
+07:17,[WAS] Koné Foul: Loose Ball (1 PF),63,787,6,1642298,1631021,100274,1611661322,17,28,0,2
+07:17,[PHO] Taurasi Substitution replaced by Copper,0,-80,8,,100940,1627674,1611661317,17,28,0,2
+07:17,[PHO] Taylor Substitution replaced by Cloud,0,-80,8,,1642298,204333,1611661317,17,28,0,2
+07:05,[PHO 19-28] Griner Turnaround Fadeaway shot: Made (4 PTS) Assist: Cloud (1 AST),-83,17,1,,203398,204333,1611661317,19,28,2,2
+07:05,[WAS] Dolson Foul: Shooting (1 PF) (1 FTA),-97,3,6,203398,203828,1629171,1611661322,19,28,0,2
+07:05,[PHO 20-28] Griner Free Throw 1 of 1 (5 PTS),0,-80,3,,203398,,1611661317,20,28,1,2
+06:44,[WAS 31-20] Atkins 3pt Shot: Made (7 PTS) Assist: Koné (1 AST),-184,166,1,,1628878,1631021,1611661322,20,31,3,2
+06:34,[WAS] Atkins Foul: Personal (1 PF),-164,210,6,1629482,1628878,1629171,1611661322,20,31,0,2
+06:34,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,20,31,0,2
+06:34,[WAS] Atkins Substitution replaced by Sykes,0,-80,8,,1628878,1628279,1611661322,20,31,0,2
+06:34,[WAS] Walker-Kimbrough Substitution replaced by Samuelson,0,-80,8,,1628278,1628317,1611661322,20,31,0,2
+06:26,[PHO] Cloud Pullup Jump shot: Missed,155,94,2,,204333,,1611661317,20,31,0,2
+06:23,[WAS] Koné Rebound (Off:0 Def:2),155,94,4,,1631021,,1611661322,20,31,0,2
+06:14,[WAS 33-20] Dolson Jump Shot: Made (4 PTS) Assist: Sutton (1 AST),-135,32,1,,203828,1630134,1611661322,20,33,2,2
+06:02,[PHO] Copper 3pt Shot: Missed,-197,175,2,,1627674,,1611661317,20,33,0,2
+05:57,[WAS] Team Rebound,-197,175,4,,0,,1611661322,20,33,0,2
+05:57,[PHO] Cunningham Substitution replaced by Taylor,0,-80,8,,1629482,1642298,1611661317,20,33,0,2
+05:57,[WAS] Koné Substitution replaced by Edwards,0,-80,8,,1631021,1642290,1611661322,20,33,0,2
+05:57,Jump Ball Billings vs Dolson (Copper gains possession),0,-80,10,203828,1628881,1627674,1611661317,20,33,0,2
+05:55,[PHO] Copper Foul: Loose Ball (2 PF),-143,579,6,1628317,1627674,1629171,1611661317,20,33,0,2
+05:55,InstantReplay Request Stands,0,-80,18,,0,,0,20,33,0,2
+05:55,[WAS] Dolson Substitution replaced by Engstler,0,-80,8,,203828,1631083,1611661322,20,33,0,2
+05:41,[WAS 36-20] Samuelson 3pt Shot: Made (10 PTS) Assist: Sykes (2 AST),-163,191,1,,1628317,1628279,1611661322,20,36,3,2
+05:31,[PHO] Copper Driving Layup Shot: Missed,-26,22,2,,1627674,,1611661317,20,36,0,2
+05:28,[PHO] Team Rebound,-26,22,4,,0,,1611661317,20,36,0,2
+05:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,36,0,2
+05:28,[PHO] Billings Substitution replaced by Taurasi,0,-80,8,,1628881,100940,1611661317,20,36,0,2
+05:28,Timeout : Regular,0,-80,9,,1611661322,,1611661322,20,36,0,2
+05:28,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661317,20,36,0,2
+05:17,[PHO 23-36] Cloud 3pt Shot: Made (7 PTS) Assist: Taylor (2 AST),-173,194,1,,204333,1642298,1611661317,23,36,3,2
+04:58,[WAS 38-23] Edwards Driving Layup Shot: Made (6 PTS),2,40,1,,1642290,,1611661322,23,38,2,2
+04:43,[PHO] Copper Foul: Offensive (3 PF),-24,32,6,1628317,1627674,1629182,1611661317,23,38,0,2
+04:43,[PHO] Copper Turnover : Offensive Foul Turnover (3 TO),-24,32,5,,1627674,1629182,1611661317,23,38,0,2
+04:43,[PHO] Mack Substitution replaced by Griner,0,-80,8,,1630442,203398,1611661317,23,38,0,2
+04:43,[WAS] Sutton Substitution replaced by Vanloo,0,-80,8,,1630134,1642210,1611661322,23,38,0,2
+04:34,[WAS] Vanloo 3pt Shot: Missed,-230,17,2,,1642210,,1611661322,23,38,0,2
+04:33,[PHO] Team Rebound,-230,17,4,,0,,1611661317,23,38,0,2
+04:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,38,0,2
+04:13,[PHO] Cloud Driving Layup Shot: Missed,-11,-2,2,,204333,,1611661317,23,38,0,2
+04:10,[WAS] Edwards Rebound (Off:1 Def:3),-11,-2,4,,1642290,,1611661322,23,38,0,2
+03:58,[WAS 40-23] Engstler Jump Shot: Made (5 PTS) Assist: Samuelson (2 AST),99,15,1,,1631083,1628317,1611661322,23,40,2,2
+03:41,[PHO] Taurasi 3pt Shot: Missed,-125,209,2,,100940,,1611661317,23,40,0,2
+03:41,[WAS] Sykes Rebound (Off:0 Def:2),-125,209,4,,1628279,,1611661322,23,40,0,2
+03:21,[WAS] Edwards Foul: Offensive (1 PF),22,13,6,203398,1642290,1629182,1611661322,23,40,0,2
+03:21,[WAS] Edwards Turnover : Offensive Foul Turnover (1 TO),22,13,5,,1642290,1629182,1611661322,23,40,0,2
+03:21,[PHO] Taylor Substitution replaced by Cunningham,0,-80,8,,1642298,1629482,1611661317,23,40,0,2
+03:06,[PHO] Cunningham Driving Reverse Layup Shot: Missed Block: Engstler (1 BLK),-21,-6,2,1631083,1629482,,1611661317,23,40,0,2
+03:05,[WAS] Engstler Rebound (Off:0 Def:3),-21,-6,4,,1631083,,1611661322,23,40,0,2
+02:51,[WAS 42-23] Vanloo Step Back Jump shot: Made (5 PTS) Assist: Engstler (2 AST),-96,190,1,,1642210,1631083,1611661322,23,42,2,2
+02:41,[PHO 25-42] Griner Layup Shot: Made (7 PTS) Assist: Cloud (2 AST),20,-1,1,,203398,204333,1611661317,25,42,2,2
+02:25,[WAS] Sykes Pullup Jump shot: Missed,1,177,2,,1628279,,1611661322,25,42,0,2
+02:21,[PHO] Copper Rebound (Off:0 Def:2),1,177,4,,1627674,,1611661317,25,42,0,2
+02:14,[PHO 27-42] Copper Driving Layup Shot: Made (3 PTS),-6,3,1,,1627674,,1611661317,27,42,2,2
+01:52,[WAS] Sykes 3pt Shot: Missed,-177,194,2,,1628279,,1611661322,27,42,0,2
+01:51,[PHO] Team Rebound,-177,194,4,,0,,1611661317,27,42,0,2
+01:51,[WAS] Engstler Foul: Loose Ball (2 PF),34,687,6,100940,1631083,1629182,1611661322,27,42,0,2
+01:51,[WAS] Edwards Substitution replaced by Dolson,0,-80,8,,1642290,203828,1611661322,27,42,0,2
+01:38,[PHO] Griner Turnover : Bad Pass (1 TO) Steal:Sykes (1 ST),46,13,5,1628279,203398,,1611661317,27,42,0,2
+01:33,[WAS 45-27] Vanloo 3pt Shot: Made (8 PTS) Assist: Sykes (3 AST),-210,112,1,,1642210,1628279,1611661322,27,45,3,2
+01:15,[PHO] Taurasi 3pt Shot: Missed,-191,159,2,,100940,,1611661317,27,45,0,2
+01:15,[WAS] Engstler Rebound (Off:0 Def:4),-191,159,4,,1631083,,1611661322,27,45,0,2
+01:13,[PHO] Cunningham Foul: Personal (2 PF),-168,364,6,1631083,1629482,1629171,1611661317,27,45,0,2
+01:13,Timeout : Regular,0,-80,9,,1611661317,,1611661317,27,45,0,2
+01:13,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661317,27,45,0,2
+01:13,[WAS] Sykes Substitution replaced by Walker-Kimbrough,0,-80,8,,1628279,1628278,1611661322,27,45,0,2
+00:58.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,45,0,2
+00:55.9,[WAS 47-27] Engstler Jump Shot: Made (7 PTS) Assist: Vanloo (2 AST),-146,40,1,,1631083,1642210,1611661322,27,47,2,2
+00:43.3,[PHO 29-47] Griner Jump Shot: Made (9 PTS) Assist: Cloud (3 AST),135,53,1,,203398,204333,1611661317,29,47,2,2
+00:35.1,[WAS] Dolson 3pt Shot: Missed,145,205,2,,203828,,1611661322,29,47,0,2
+00:35.1,[PHO] Copper Rebound (Off:0 Def:3),145,205,4,,1627674,,1611661317,29,47,0,2
+00:24.4,[PHO 32-47] Cunningham 3pt Shot: Made (3 PTS) Assist: Copper (1 AST),235,44,1,,1629482,1627674,1611661317,32,47,3,2
+00:03.6,[WAS 50-32] Samuelson 3pt Shot: Made (13 PTS) Assist: Vanloo (3 AST),236,35,1,,1628317,1642210,1611661322,32,50,3,2
+00:00.2,[PHO] Cloud 3pt Shot: Missed,85,404,2,,204333,,1611661317,32,50,0,2
+00:00.1,[PHO] Team Rebound,85,404,4,,0,,1611661317,32,50,0,2
+00:00.0,End Period,0,-80,13,,0,,0,32,50,0,2
+10:00,Start Period,0,-80,12,,0,,0,32,50,0,3
+09:42,[WAS] Sykes Hook Shot: Missed,42,4,2,,1628279,,1611661322,32,50,0,3
+09:40,[PHO] Griner Rebound (Off:0 Def:2),42,4,4,,203398,,1611661317,32,50,0,3
+09:30,[PHO] Cloud Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-152,264,5,,204333,1629171,1611661317,32,50,0,3
+09:17,[WAS 52-32] Sykes Driving Layup Shot: Made (4 PTS) Assist: Samuelson (3 AST),17,17,1,,1628279,1628317,1611661322,32,52,2,3
+09:10,[PHO] Copper 3pt Shot: Missed,-172,188,2,,1627674,,1611661317,32,52,0,3
+09:07,[WAS] Edwards Rebound (Off:1 Def:4),-172,188,4,,1642290,,1611661322,32,52,0,3
+09:00,[WAS] Edwards Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-62,59,5,,1642290,1629171,1611661322,32,52,0,3
+08:45,[PHO] Griner Turnaround Hook Shot: Missed,-4,44,2,,203398,,1611661317,32,52,0,3
+08:44,[WAS] Vanloo Rebound (Off:0 Def:2),-4,44,4,,1642210,,1611661322,32,52,0,3
+08:39,[WAS 55-32] Samuelson 3pt Shot: Made (16 PTS) Assist: Dolson (1 AST),-182,165,1,,1628317,203828,1611661322,32,55,3,3
+08:23,[PHO] Copper 3pt Shot: Missed,-224,103,2,,1627674,,1611661317,32,55,0,3
+08:19,[WAS] Sykes Rebound (Off:0 Def:3),-224,103,4,,1628279,,1611661322,32,55,0,3
+08:10,[WAS 57-32] Sykes Driving Layup Shot: Made (6 PTS),-5,8,1,,1628279,,1611661322,32,57,2,3
+07:58,[PHO 34-57] Griner Turnaround Jump Shot: Made (11 PTS) Assist: Cloud (4 AST),-96,23,1,,203398,204333,1611661317,34,57,2,3
+07:37,[WAS] Edwards Hook Shot: Missed,35,54,2,,1642290,,1611661322,34,57,0,3
+07:34,[PHO] Copper Rebound (Off:0 Def:4),35,54,4,,1627674,,1611661317,34,57,0,3
+07:29,[WAS] Dolson Foul: Personal (2 PF),0,69,6,1627674,203828,100274,1611661322,34,57,0,3
+07:17,[PHO] Cunningham 3pt Shot: Missed,-226,87,2,,1629482,,1611661317,34,57,0,3
+07:14,[WAS] Edwards Rebound (Off:1 Def:5),-226,87,4,,1642290,,1611661322,34,57,0,3
+06:56,[WAS 59-34] Vanloo Driving Layup Shot: Made (10 PTS),12,9,1,,1642210,,1611661322,34,59,2,3
+06:45,[PHO 37-59] Cloud 3pt Shot: Made (10 PTS) Assist: Griner (2 AST),97,262,1,,204333,203398,1611661317,37,59,3,3
+06:33,[PHO] Taurasi Foul: Personal (2 PF),113,137,6,1628317,100940,100274,1611661317,37,59,0,3
+06:18,[WAS] Dolson Cutting Layup Shot: Missed,-34,21,2,,203828,,1611661322,37,59,0,3
+06:16,[PHO] Cunningham Rebound (Off:0 Def:1),-34,21,4,,1629482,,1611661317,37,59,0,3
+06:12,[PHO] Cloud Turnover : Bad Pass (2 TO) Steal:Samuelson (1 ST),-127,117,5,1628317,204333,,1611661317,37,59,0,3
+06:05,[WAS 61-37] Sykes Running Layup Shot: Made (8 PTS),-17,-1,1,,1628279,,1611661322,37,61,2,3
+05:56,[PHO 39-61] Taurasi Driving Floating Jump Shot: Made (7 PTS) Assist: Copper (2 AST),-33,47,1,,100940,1627674,1611661317,39,61,2,3
+05:56,[WAS] Dolson Foul: Shooting (3 PF) (1 FTA),-21,37,6,100940,203828,1629182,1611661322,39,61,0,3
+05:56,[PHO 40-61] Taurasi Free Throw 1 of 1 (8 PTS),0,-80,3,,100940,,1611661317,40,61,1,3
+05:44,[WAS] Vanloo Pullup Jump shot: Missed,104,162,2,,1642210,,1611661322,40,61,0,3
+05:40,[PHO] Copper Rebound (Off:0 Def:5),104,162,4,,1627674,,1611661317,40,61,0,3
+05:33,[PHO] Cloud 3pt Shot: Missed,-177,172,2,,204333,,1611661317,40,61,0,3
+05:31,[WAS] Sykes Rebound (Off:0 Def:4),-177,172,4,,1628279,,1611661322,40,61,0,3
+05:16,[WAS] Dolson Driving Layup Shot: Missed Block: Griner (1 BLK),33,28,2,203398,203828,,1611661322,40,61,0,3
+05:16,[WAS] Team Rebound,33,28,4,,0,,1611661322,40,61,0,3
+05:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,61,0,3
+05:16,[PHO] Taurasi Substitution replaced by Mack,0,-80,8,,100940,1630442,1611661317,40,61,0,3
+05:16,[PHO] Griner Substitution replaced by Taylor,0,-80,8,,203398,1642298,1611661317,40,61,0,3
+05:16,[WAS] Samuelson Substitution replaced by Walker-Kimbrough,0,-80,8,,1628317,1628278,1611661322,40,61,0,3
+05:16,[WAS] Dolson Substitution replaced by Engstler,0,-80,8,,203828,1631083,1611661322,40,61,0,3
+05:06,[WAS 63-40] Sykes Driving Layup Shot: Made (10 PTS),-12,4,1,,1628279,,1611661322,40,63,2,3
+04:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,63,0,3
+04:55,Timeout : Official,0,-80,9,,0,,0,40,63,0,3
+04:55,Instant Replay - Support Ruling,0,-80,18,,0,,0,40,63,0,3
+04:55,[WAS] Vanloo Substitution replaced by Melbourne,0,-80,8,,1642210,1631141,1611661322,40,63,0,3
+04:48,[PHO] Copper Driving Layup Shot: Missed Block: Engstler (2 BLK),-39,61,2,1631083,1627674,,1611661317,40,63,0,3
+04:47,[PHO] Team Rebound,-39,61,4,,0,,1611661317,40,63,0,3
+04:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,63,0,3
+04:42,[PHO 43-63] Cunningham 3pt Shot: Made (6 PTS) Assist: Taylor (3 AST),169,217,1,,1629482,1642298,1611661317,43,63,3,3
+04:23,[WAS 65-43] Sykes Driving Layup Shot: Made (12 PTS),-21,-7,1,,1628279,,1611661322,43,65,2,3
+04:12,[PHO] Cloud Turnover : Bad Pass (3 TO) Steal:Walker-Kimbrough (1 ST),-187,212,5,1628278,204333,,1611661317,43,65,0,3
+04:06,[WAS 67-43] Walker-Kimbrough Running Layup Shot: Made (5 PTS),-15,-5,1,,1628278,,1611661322,43,67,2,3
+03:48,[PHO 46-67] Taylor 3pt Shot: Made (6 PTS) Assist: Cloud (5 AST),123,227,1,,1642298,204333,1611661317,46,67,3,3
+03:32,[WAS] Sykes 3pt Shot: Missed,142,202,2,,1628279,,1611661322,46,67,0,3
+03:29,[WAS] Walker-Kimbrough Rebound (Off:1 Def:0),142,202,4,,1628278,,1611661322,46,67,0,3
+03:23,[WAS] Melbourne Driving Reverse Layup Shot: Missed,31,-3,2,,1631141,,1611661322,46,67,0,3
+03:19,[PHO] Mack Rebound (Off:0 Def:2),31,-3,4,,1630442,,1611661317,46,67,0,3
+03:07,[WAS] Edwards Foul: Shooting (2 PF) (3 FTA),-62,249,6,204333,1642290,1629171,1611661322,46,67,0,3
+03:07,Timeout : Regular,0,-80,9,,1611661322,,1611661322,46,67,0,3
+03:07,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661322,46,67,0,3
+03:07,[WAS] Sykes Substitution replaced by Koné,0,-80,8,,1628279,1631021,1611661322,46,67,0,3
+03:07,[WAS] Edwards Substitution replaced by Vanloo,0,-80,8,,1642290,1642210,1611661322,46,67,0,3
+03:07,[PHO 47-67] Cloud Free Throw 1 of 3 (11 PTS),0,-80,3,,204333,,1611661317,47,67,1,3
+03:07,[PHO 48-67] Cloud Free Throw 2 of 3 (12 PTS),0,-80,3,,204333,,1611661317,48,67,1,3
+03:07,[PHO] Copper Substitution replaced by Billings,0,-80,8,,1627674,1628881,1611661317,48,67,0,3
+03:07,[PHO 49-67] Cloud Free Throw 3 of 3 (13 PTS),0,-80,3,,204333,,1611661317,49,67,1,3
+02:51,[WAS] Koné Turnaround Jump Shot: Missed Block: Billings (2 BLK),15,40,2,1628881,1631021,,1611661322,49,67,0,3
+02:50,[PHO] Mack Rebound (Off:0 Def:3),15,40,4,,1630442,,1611661317,49,67,0,3
+02:40,[PHO] Mack Pullup Jump shot: Missed,54,109,2,,1630442,,1611661317,49,67,0,3
+02:36,[PHO] Mack Rebound (Off:1 Def:3),54,109,4,,1630442,,1611661317,49,67,0,3
+02:35,[PHO] Mack Turnover : Bad Pass (2 TO) Steal:Engstler (1 ST),91,38,5,1631083,1630442,,1611661317,49,67,0,3
+02:34,[WAS] Engstler Turnover : Lost Ball (1 TO) Steal:Taylor (1 ST),-77,637,5,1642298,1631083,,1611661322,49,67,0,3
+02:31,[PHO] Taylor Turnover : Bad Pass (2 TO) Steal:Koné (1 ST),-77,264,5,1631021,1642298,,1611661317,49,67,0,3
+02:21,[WAS] Melbourne Foul: Offensive Charge (2 PF),0,40,6,1642298,1631141,100274,1611661322,49,67,0,3
+02:21,[WAS] Melbourne Turnover : Offensive Foul Turnover (1 TO),0,40,5,,1631141,100274,1611661322,49,67,0,3
+02:07,[PHO] Cloud Driving Layup Shot: Missed Block: Walker-Kimbrough (1 BLK),23,65,2,1628278,204333,,1611661317,49,67,0,3
+02:05,[WAS] Koné Rebound (Off:0 Def:3),23,65,4,,1631021,,1611661322,49,67,0,3
+02:00,[WAS] Vanloo Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-110,338,5,,1642210,1629171,1611661322,49,67,0,3
+02:00,[PHO] Cloud Substitution replaced by Griner,0,-80,8,,204333,203398,1611661317,49,67,0,3
+02:00,[PHO] Mack Substitution replaced by Taurasi,0,-80,8,,1630442,100940,1611661317,49,67,0,3
+01:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,67,0,3
+01:47,[PHO] Cunningham Turnover : Bad Pass (2 TO) Steal:Engstler (2 ST),-172,300,5,1631083,1629482,,1611661317,49,67,0,3
+01:30,[WAS 70-49] Vanloo 3pt Shot: Made (13 PTS) Assist: Walker-Kimbrough (1 AST),122,255,1,,1642210,1628278,1611661322,49,70,3,3
+01:17,[PHO] Cunningham 3pt Shot: Missed,84,257,2,,1629482,,1611661317,49,70,0,3
+01:13,[PHO] Griner Rebound (Off:1 Def:2),84,257,4,,203398,,1611661317,49,70,0,3
+01:12,[PHO] Griner Hook Shot: Missed,39,7,2,,203398,,1611661317,49,70,0,3
+01:11,[PHO] Griner Rebound (Off:2 Def:2),39,7,4,,203398,,1611661317,49,70,0,3
+01:11,[WAS] Koné Foul: Shooting (2 PF) (2 FTA),35,0,6,203398,1631021,1629182,1611661322,49,70,0,3
+01:11,[PHO 50-70] Griner Free Throw 1 of 2 (12 PTS),0,-80,3,,203398,,1611661317,50,70,1,3
+01:11,[PHO] Cunningham Substitution replaced by Cloud,0,-80,8,,1629482,204333,1611661317,50,70,0,3
+01:11,[PHO 51-70] Griner Free Throw 2 of 2 (13 PTS),0,-80,3,,203398,,1611661317,51,70,1,3
+00:58.6,[WAS 73-51] Engstler 3pt Shot: Made (10 PTS) Assist: Koné (2 AST),-149,196,1,,1631083,1631021,1611661322,51,73,3,3
+00:45.0,[PHO] Taylor Turnover : Bad Pass (3 TO) Steal:Engstler (3 ST),55,94,5,1631083,1642298,,1611661317,51,73,0,3
+00:38.8,[WAS] Vanloo Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-130,194,5,,1642210,1629171,1611661322,51,73,0,3
+00:25.0,[PHO 53-73] Billings Hook Shot: Made (4 PTS) Assist: Taurasi (1 AST),-26,71,1,,1628881,100940,1611661317,53,73,2,3
+00:24.7,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,53,73,0,3
+00:05.6,[PHO] Billings Foul: Shooting (1 PF) (2 FTA),31,-1,6,1631021,1628881,1629182,1611661317,53,73,0,3
+00:05.6,[WAS 74-53] Koné Free Throw 1 of 2 (1 PTS),0,-80,3,,1631021,,1611661322,53,74,1,3
+00:05.6,[WAS 75-53] Koné Free Throw 2 of 2 (2 PTS),0,-80,3,,1631021,,1611661322,53,75,1,3
+00:00.4,[PHO] Cloud 3pt Shot: Missed,-151,324,2,,204333,,1611661317,53,75,0,3
+00:00.1,[PHO] Team Rebound,-151,324,4,,0,,1611661317,53,75,0,3
+00:00.0,End Period,0,-80,13,,0,,0,53,75,0,3
+10:00,Start Period,0,-80,12,,0,,0,53,75,0,4
+09:47,[PHO 55-75] Copper Driving Layup Shot: Made (5 PTS) Assist: Taurasi (2 AST),36,17,1,,1627674,100940,1611661317,55,75,2,4
+09:24,[WAS] Koné Layup Shot: Missed Block: Billings (3 BLK),35,33,2,1628881,1631021,,1611661322,55,75,0,4
+09:20,[PHO] Billings Rebound (Off:2 Def:3),35,33,4,,1628881,,1611661317,55,75,0,4
+09:20,[WAS] Vanloo Foul: Shooting (1 PF) (2 FTA),2,13,6,1628881,1642210,1629171,1611661322,55,75,0,4
+09:20,Timeout : Official,0,-80,9,,0,,0,55,75,0,4
+09:20,[PHO 56-75] Billings Free Throw 1 of 2 (5 PTS),0,-80,3,,1628881,,1611661317,56,75,1,4
+09:20,[PHO 57-75] Billings Free Throw 2 of 2 (6 PTS),0,-80,3,,1628881,,1611661317,57,75,1,4
+09:09,[WAS] Walker-Kimbrough Turnover : Bad Pass (1 TO) Steal:Billings (2 ST),129,237,5,1628881,1628278,,1611661322,57,75,0,4
+09:05,[PHO 59-75] Billings Running Layup Shot: Made (8 PTS),11,18,1,,1628881,,1611661317,59,75,2,4
+08:40,[WAS 78-59] Koné 3pt Shot: Made (5 PTS) Assist: Vanloo (4 AST),-210,121,1,,1631021,1642210,1611661322,59,78,3,4
+08:25,[PHO 62-78] Copper 3pt Shot: Made (8 PTS) Assist: Taurasi (3 AST),-224,87,1,,1627674,100940,1611661317,62,78,3,4
+07:58,[WAS] Walker-Kimbrough 3pt Shot: Missed,-200,154,2,,1628278,,1611661322,62,78,0,4
+07:54,[PHO] Griner Rebound (Off:2 Def:3),-200,154,4,,203398,,1611661317,62,78,0,4
+07:44,[PHO] Taurasi 3pt Shot: Missed,-9,260,2,,100940,,1611661317,62,78,0,4
+07:41,[WAS] Vanloo Rebound (Off:0 Def:3),-9,260,4,,1642210,,1611661322,62,78,0,4
+07:22,[WAS] Koné Driving Layup Shot: Missed,-19,0,2,,1631021,,1611661322,62,78,0,4
+07:19,[PHO] Billings Rebound (Off:2 Def:4),-19,0,4,,1628881,,1611661317,62,78,0,4
+07:08,[WAS] Melbourne Foul: Personal (3 PF),-33,94,6,204333,1631141,1629182,1611661322,62,78,0,4
+07:08,[WAS] Melbourne Substitution replaced by Sutton,0,-80,8,,1631141,1630134,1611661322,62,78,0,4
+07:08,[WAS] Vanloo Substitution replaced by Sykes,0,-80,8,,1642210,1628279,1611661322,62,78,0,4
+06:59,[PHO] Cloud 3pt Shot: Missed,46,243,2,,204333,,1611661317,62,78,0,4
+06:55,[WAS] Dolson Rebound (Off:0 Def:1),46,243,4,,203828,,1611661322,62,78,0,4
+06:44,[WAS 80-62] Walker-Kimbrough Driving Layup Shot: Made (7 PTS) Assist: Dolson (2 AST),-12,4,1,,1628278,203828,1611661322,62,80,2,4
+06:26,[PHO 64-80] Copper Driving Layup Shot: Made (10 PTS),6,65,1,,1627674,,1611661317,64,80,2,4
+06:26,[WAS] Dolson Foul: Shooting (4 PF) (1 FTA),8,74,6,1627674,203828,1629171,1611661322,64,80,0,4
+06:26,[PHO] Cloud Substitution replaced by Taylor,0,-80,8,,204333,1642298,1611661317,64,80,0,4
+06:26,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,64,80,0,4
+06:26,[PHO 65-80] Copper Free Throw 1 of 1 (11 PTS),0,-80,3,,1627674,,1611661317,65,80,1,4
+06:05,[WAS 82-65] Dolson Layup Shot: Made (6 PTS) Assist: Sutton (2 AST),22,11,1,,203828,1630134,1611661322,65,82,2,4
+05:53,[PHO] Copper Driving Layup Shot: Missed Block: Koné (1 BLK),-21,87,2,1631021,1627674,,1611661317,65,82,0,4
+05:52,[WAS] Koné Rebound (Off:0 Def:4),-21,87,4,,1631021,,1611661322,65,82,0,4
+05:50,[PHO] Copper Foul: Personal (4 PF),3,756,6,1631021,1627674,1629182,1611661317,65,82,0,4
+05:50,Timeout : Regular,0,-80,9,,1611661317,,1611661317,65,82,0,4
+05:39,[WAS] Sykes Turnover : Bad Pass (1 TO) Steal:Taylor (2 ST),-61,196,5,1642298,1628279,,1611661322,65,82,0,4
+05:32,[PHO 67-82] Griner Layup Shot: Made (15 PTS) Assist: Taylor (4 AST),30,15,1,,203398,1642298,1611661317,67,82,2,4
+05:11,[WAS] Koné Foul: Offensive (3 PF),-13,42,6,1642298,1631021,100274,1611661322,67,82,0,4
+05:11,[WAS] Koné Turnover : Offensive Foul Turnover (1 TO),-13,42,5,,1631021,100274,1611661322,67,82,0,4
+05:01,[PHO] Copper Turnover : Out of Bounds - Bad Pass Turnover (4 TO),147,351,5,,1627674,1629171,1611661317,67,82,0,4
+05:01,[WAS] Koné Substitution replaced by Samuelson,0,-80,8,,1631021,1628317,1611661322,67,82,0,4
+05:01,[WAS] Walker-Kimbrough Substitution replaced by Edwards,0,-80,8,,1628278,1642290,1611661322,67,82,0,4
+04:50,[WAS 84-67] Sykes Driving Layup Shot: Made (14 PTS) Assist: Edwards (1 AST),-12,3,1,,1628279,1642290,1611661322,67,84,2,4
+04:32,[PHO] Copper 3pt Shot: Missed,171,200,2,,1627674,,1611661317,67,84,0,4
+04:28,[WAS] Sutton Rebound (Off:0 Def:2),171,200,4,,1630134,,1611661322,67,84,0,4
+04:21,[PHO] Taylor Foul: Personal (3 PF),6,21,6,1642290,1642298,100274,1611661317,67,84,0,4
+04:21,[PHO] Copper Substitution replaced by Mack,0,-80,8,,1627674,1630442,1611661317,67,84,0,4
+04:21,[PHO] Cunningham Substitution replaced by Atwell,0,-80,8,,1629482,1631056,1611661317,67,84,0,4
+04:21,[PHO] Griner Substitution replaced by Herbert Harrigan,0,-80,8,,203398,1630114,1611661317,67,84,0,4
+04:09,[WAS] Dolson Driving Layup Shot: Missed,-36,3,2,,203828,,1611661322,67,84,0,4
+04:03,[WAS] Dolson Rebound (Off:1 Def:1),-36,3,4,,203828,,1611661322,67,84,0,4
+04:02,[WAS 87-67] Samuelson 3pt Shot: Made (19 PTS) Assist: Dolson (3 AST),123,216,1,,1628317,203828,1611661322,67,87,3,4
+03:37,[PHO] Herbert Harrigan Pullup Jump shot: Missed,106,136,2,,1630114,,1611661317,67,87,0,4
+03:34,[PHO] Herbert Harrigan Rebound (Off:1 Def:0),106,136,4,,1630114,,1611661317,67,87,0,4
+03:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,87,0,4
+03:29,Timeout : Regular,0,-80,9,,1611661317,,1611661317,67,87,0,4
+03:29,[WAS] Dolson Substitution replaced by Engstler,0,-80,8,,203828,1631083,1611661322,67,87,0,4
+03:27,[PHO 69-87] Atwell Fadeaway Jump Shot: Made (2 PTS) Assist: Taylor (5 AST),146,59,1,,1631056,1642298,1611661317,69,87,2,4
+03:03,[WAS] Sutton 3pt Shot: Missed,-177,180,2,,1630134,,1611661322,69,87,0,4
+02:59,[PHO] Mack Rebound (Off:1 Def:4),-177,180,4,,1630442,,1611661317,69,87,0,4
+02:44,[PHO 71-87] Mack Driving Floating Jump Shot: Made (2 PTS) Assist: Herbert Harrigan (1 AST),-17,83,1,,1630442,1630114,1611661317,71,87,2,4
+02:23,[WAS] Engstler 3pt Shot: Missed,224,81,2,,1631083,,1611661322,71,87,0,4
+02:20,[PHO] Mack Rebound (Off:1 Def:5),224,81,4,,1630442,,1611661317,71,87,0,4
+02:13,[PHO] Mack Driving Floating Jump Shot: Missed,-28,96,2,,1630442,,1611661317,71,87,0,4
+02:11,[PHO] Team Rebound,-28,96,4,,0,,1611661317,71,87,0,4
+02:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,87,0,4
+02:11,[WAS] Sykes Substitution replaced by Melbourne,0,-80,8,,1628279,1631141,1611661322,71,87,0,4
+02:11,[WAS] Samuelson Substitution replaced by Koné,0,-80,8,,1628317,1631021,1611661322,71,87,0,4
+02:05,[PHO] Taylor 3pt Shot: Missed,-179,193,2,,1642298,,1611661317,71,87,0,4
+02:03,[PHO] Billings Rebound (Off:3 Def:4),-179,193,4,,1628881,,1611661317,71,87,0,4
+02:01,[PHO 73-87] Billings Driving Layup Shot: Made (10 PTS),-29,28,1,,1628881,,1611661317,73,87,2,4
+01:43,[WAS 90-73] Koné 3pt Shot: Made (8 PTS) Assist: Engstler (3 AST),98,229,1,,1631021,1631083,1611661322,73,90,3,4
+01:33,[PHO 76-90] Herbert Harrigan 3pt Shot: Made (3 PTS) Assist: Taylor (6 AST),-160,209,1,,1630114,1642298,1611661317,76,90,3,4
+01:16,[WAS] Koné Turnaround Hook Shot: Missed,-16,54,2,,1631021,,1611661322,76,90,0,4
+01:13,[PHO] Mack Rebound (Off:1 Def:6),-16,54,4,,1630442,,1611661317,76,90,0,4
+01:10,[PHO] Taylor Turnover : Out of Bounds - Bad Pass Turnover (4 TO),34,276,5,,1642298,1629171,1611661317,76,90,0,4
+00:45.7,[WAS] Edwards 3pt Shot: Missed,-235,-22,2,,1642290,,1611661322,76,90,0,4
+00:42.5,[PHO] Mack Rebound (Off:1 Def:7),-235,-22,4,,1630442,,1611661317,76,90,0,4
+00:37.8,[PHO] Billings Running Jump Shot: Missed,-148,54,2,,1628881,,1611661317,76,90,0,4
+00:33.4,[PHO] Mack Rebound (Off:2 Def:7),-148,54,4,,1630442,,1611661317,76,90,0,4
+00:33.4,[WAS] Koné Foul: Shooting (4 PF) (2 FTA),2,23,6,1630442,1631021,100274,1611661322,76,90,0,4
+00:33.4,[PHO] Mack Free Throw 1 of 2 Missed,0,-80,3,,1630442,,1611661317,76,90,0,4
+00:33.4,[PHO] Team Rebound,0,-80,4,,0,,1611661317,76,90,0,4
+00:33.4,[PHO 77-90] Mack Free Throw 2 of 2 (3 PTS),0,-80,3,,1630442,,1611661317,77,90,1,4
+00:27.6,[WAS] Sutton Turnover : Out of Bounds Lost Ball Turnover (1 TO),148,303,5,,1630134,100274,1611661322,77,90,0,4
+00:11.7,[PHO] Herbert Harrigan 3pt Shot: Missed,238,6,2,,1630114,,1611661317,77,90,0,4
+00:07.8,[WAS] Sutton Rebound (Off:0 Def:3),238,6,4,,1630134,,1611661322,77,90,0,4
+00:00.0,End Period,0,-80,13,,0,,0,77,90,0,4

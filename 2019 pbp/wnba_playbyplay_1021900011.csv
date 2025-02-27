@@ -1,0 +1,454 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Jones vs Ogwumike (Thomas gains possession),0,-80,10,203014,1627673,202662,1611661323,0,0,1
+09:45,[CON 2-0] Jones Layup Shot: Made (2 PTS),0,13,1,,1627673,,1611661323,0,2,1
+09:25,[LAS] Jones 3pt Shot: Missed,120,241,2,,1628283,,1611661320,0,2,1
+09:21,[CON] Jones Rebound (Off:0 Def:1),120,241,4,,1627673,,1611661323,0,2,1
+09:06,[CON] Stricklen Turnover : Bad Pass (1 TO) Steal:Ogwumike (1 ST),83,225,5,203823,203015,,1611661323,0,2,1
+08:59,[LAS] Jones 3pt Shot: Missed,229,64,2,,1628283,,1611661320,0,2,1
+08:54,[CON] Jones Rebound (Off:0 Def:2),229,64,4,,1627673,,1611661323,0,2,1
+08:54,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,0,2,1
+08:54,[CON] Thomas Substitution replaced by Tuck,0,-80,8,,203826,1627670,1611661323,0,2,1
+08:40,[CON 4-0] Jones Cutting Layup Shot: Made (4 PTS) Assist: Tuck (1 AST),5,11,1,,1627673,1627670,1611661323,0,4,1
+08:26,[LAS 2-4] Ogwumike Pullup Jump shot: Made (2 PTS),107,119,1,,203014,,1611661320,2,4,1
+08:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,4,1
+08:14,[CON] Tuck Substitution replaced by Thomas,0,-80,8,,1627670,203826,1611661323,2,4,1
+08:08,[CON 7-2] Jones 3pt Shot: Made (7 PTS) Assist: Thomas (1 AST),-52,236,1,,1627673,202662,1611661323,2,7,1
+07:51,[LAS] Ogwumike Layup Shot: Missed,-24,15,2,,203014,,1611661320,2,7,1
+07:49,[LAS] Ogwumike Rebound (Off:1 Def:0),-24,15,4,,203014,,1611661320,2,7,1
+07:47,[LAS 4-7] Ogwumike Putback Layup Shot: Made (4 PTS),-7,16,1,,203014,,1611661320,4,7,1
+07:41,[CON] Jones Foul: Offensive Charge (1 PF),-58,101,6,203823,1627673,,1611661323,4,7,1
+07:41,[CON] Jones Turnover : Offensive Foul Turnover (1 TO),-58,101,5,,1627673,,1611661323,4,7,1
+07:28,[LAS] Gray Pullup Jump shot: Missed,61,194,2,,203833,,1611661320,4,7,1
+07:21,[CON] Stricklen Rebound (Off:0 Def:1),61,194,4,,203015,,1611661323,4,7,1
+07:12,[CON] Stricklen 3pt Shot: Missed,-118,220,2,,203015,,1611661323,4,7,1
+07:08,[LAS] Jones Rebound (Off:0 Def:1),-118,220,4,,1628283,,1611661320,4,7,1
+07:03,[LAS] Gray Jump Shot: Missed,58,62,2,,203833,,1611661320,4,7,1
+07:00,[LAS] Ogwumike Rebound (Off:2 Def:0),58,62,4,,203014,,1611661320,4,7,1
+07:00,[LAS] Ogwumike Putback Layup Shot: Missed,1,17,2,1627675,203014,,1611661320,4,7,1
+07:00,[CON] Thomas Rebound (Off:0 Def:1),1,17,4,,203826,,1611661323,4,7,1
+06:54,[CON] Thomas Running Layup Shot: Missed,19,13,2,,203826,,1611661323,4,7,1
+06:51,[LAS] Wiese Rebound (Off:0 Def:1),19,13,4,,1628282,,1611661320,4,7,1
+06:48,[LAS 6-7] Ogwumike Running Layup Shot: Made (6 PTS) Assist: Gray (1 AST),-2,15,1,,203014,203833,1611661320,6,7,1
+06:21,[CON] Thomas 3pt Shot: Missed,237,39,2,,202662,,1611661323,6,7,1
+06:17,[LAS] Wiese Rebound (Off:0 Def:2),237,39,4,,1628282,,1611661320,6,7,1
+06:11,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),9,32,6,203823,203826,,1611661323,6,7,1
+06:11,[LAS 7-7] Ogwumike Free Throw 1 of 2 (1 PTS),0,-80,3,,203823,,1611661320,7,7,1
+06:11,[CON] Williams Substitution replaced by Banham,0,-80,8,,1627675,1627671,1611661323,7,7,1
+06:11,[CON] Thomas Substitution replaced by Tuck,0,-80,8,,203826,1627670,1611661323,7,7,1
+06:11,[LAS 8-7] Ogwumike Free Throw 2 of 2 (2 PTS),0,-80,3,,203823,,1611661320,8,7,1
+06:00,[LAS] Jones Foul: Shooting (1 PF) (2 FTA),-2,82,6,202662,1628283,,1611661320,8,7,1
+06:00,[CON 8-8] Thomas Free Throw 1 of 2 (1 PTS),0,-80,3,,202662,,1611661323,8,8,1
+06:00,[LAS] Jones Substitution replaced by Williams,0,-80,8,,1628283,203029,1611661320,8,8,1
+06:00,[CON 9-8] Thomas Free Throw 2 of 2 (2 PTS),0,-80,3,,202662,,1611661323,8,9,1
+05:46,[LAS] Ogwumike Turnaround Fadeaway shot: Missed,67,47,2,,203014,,1611661320,8,9,1
+05:42,[CON] Stricklen Rebound (Off:0 Def:2),67,47,4,,203015,,1611661323,8,9,1
+05:33,[LAS] Gray Foul: Shooting (1 PF) (2 FTA),-9,60,6,1627670,203833,,1611661320,8,9,1
+05:33,[CON] Tuck Free Throw 1 of 2 Missed,0,-80,3,,1627670,,1611661323,8,9,1
+05:33,[CON] Team Rebound,0,-80,4,,0,,1611661323,8,9,1
+05:33,[CON] Tuck Free Throw 2 of 2 Missed,0,-80,3,,1627670,,1611661323,8,9,1
+05:30,[LAS] Ogwumike Rebound (Off:2 Def:1),0,-80,4,,203014,,1611661320,8,9,1
+05:13,[LAS 10-9] Gray Pullup Jump shot: Made (2 PTS),-75,123,1,,203833,,1611661320,10,9,1
+04:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,9,1
+04:45,[CON] Tuck Turnover : Lost Ball (1 TO) Steal:Gray (1 ST),9,56,5,203833,1627670,,1611661323,10,9,1
+04:38,[LAS 12-9] Ogwumike Running Layup Shot: Made (8 PTS) Assist: Gray (2 AST),3,19,1,,203014,203833,1611661320,12,9,1
+04:20,[CON] Tuck 3pt Shot: Missed,87,235,2,,1627670,,1611661323,12,9,1
+04:17,[LAS] Ogwumike Rebound (Off:2 Def:2),87,235,4,,203014,,1611661320,12,9,1
+04:08,[LAS] Ogwumike Step Back Jump shot: Missed,47,74,2,,203823,,1611661320,12,9,1
+04:06,[CON] Jones Rebound (Off:0 Def:3),47,74,4,,1627673,,1611661323,12,9,1
+03:59,[CON] Stricklen 3pt Shot: Missed,220,103,2,,203015,,1611661323,12,9,1
+03:56,[LAS] Williams Rebound (Off:0 Def:1),220,103,4,,203029,,1611661320,12,9,1
+03:53,[LAS] Williams Running Layup Shot: Missed,20,62,2,1627671,203029,,1611661320,12,9,1
+03:53,[CON] Banham Rebound (Off:0 Def:1),20,62,4,,1627671,,1611661323,12,9,1
+03:38,[CON 11-12] Thomas Driving Layup Shot: Made (4 PTS),17,5,1,,202662,,1611661323,12,11,1
+03:30,[LAS] Williams Turnover : Bad Pass (1 TO) Steal:Tuck (1 ST),145,171,5,1627670,203029,,1611661320,12,11,1
+03:19,[CON] Jones Cutting Layup Shot: Missed,-15,13,2,1628282,1627673,,1611661323,12,11,1
+03:19,[CON] Team Rebound,-15,13,4,,0,,1611661323,12,11,1
+03:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,11,1
+03:19,[LAS] Ogwumike Substitution replaced by Ruffin-Pratt,0,-80,8,,203014,203437,1611661320,12,11,1
+03:19,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,12,11,1
+03:19,[LAS] Gray Substitution replaced by Mabrey,0,-80,8,,203833,1629497,1611661320,12,11,1
+03:11,[CON] Thomas 3pt Shot: Missed,183,163,2,,202662,,1611661323,12,11,1
+03:10,[CON] Team Rebound,183,163,4,,0,,1611661323,12,11,1
+03:10,[LAS] Williams Foul: Loose Ball (1 PF),-11,78,6,1627670,203029,,1611661320,12,11,1
+03:04,[CON 13-12] Stricklen Driving Floating Jump Shot: Made (2 PTS) Assist: Thomas (2 AST),-13,70,1,,203015,202662,1611661323,12,13,1
+03:04,[LAS] Mabrey Foul: Shooting (1 PF) (1 FTA),-13,70,6,203015,1629497,,1611661320,12,13,1
+03:04,[CON] Thomas Substitution replaced by Clarendon,0,-80,8,,202662,203406,1611661323,12,13,1
+03:04,[CON] Stricklen Free Throw 1 of 1 Missed,0,-80,3,,203015,,1611661323,12,13,1
+02:51,[LAS] Mabrey Rebound (Off:0 Def:1),0,-80,4,,1629497,,1611661320,12,13,1
+02:49,[LAS] Ogwumike Jump Shot: Missed,53,160,2,,203823,,1611661320,12,13,1
+02:46,[LAS] Ruffin-Pratt Rebound (Off:1 Def:0),53,160,4,,203437,,1611661320,12,13,1
+02:43,[LAS 14-13] Ogwumike Jump Shot: Made (4 PTS),12,63,1,,203823,,1611661320,14,13,1
+02:28,[CON] Clarendon Floating Jump shot: Missed,-12,70,2,,203406,,1611661323,14,13,1
+02:24,[CON] Clarendon Rebound (Off:1 Def:0),-12,70,4,,203406,,1611661323,14,13,1
+02:17,[CON] Stricklen 3pt Shot: Missed,-109,212,2,,203015,,1611661323,14,13,1
+02:12,[CON] Stricklen Rebound (Off:1 Def:2),-109,212,4,,203015,,1611661323,14,13,1
+02:11,[CON] Stricklen Jump Shot: Missed,-84,174,2,,203015,,1611661323,14,13,1
+02:11,[LAS] Team Rebound,-84,174,4,,0,,1611661320,14,13,1
+02:11,[CON] Tuck Foul: Loose Ball (1 PF),46,758,6,203437,1627670,,1611661323,14,13,1
+02:11,[LAS] Ogwumike Substitution replaced by Jones,0,-80,8,,203823,1628283,1611661320,14,13,1
+02:11,[CON] Stricklen Substitution replaced by Holmes,0,-80,8,,203015,1627678,1611661323,14,13,1
+02:11,[LAS] Wiese Substitution replaced by Brown,0,-80,8,,1628282,1629480,1611661320,14,13,1
+01:57,[LAS] Williams Jump Shot: Missed,-27,180,2,,203029,,1611661320,14,13,1
+01:57,[CON] Team Rebound,-27,180,4,,0,,1611661323,14,13,1
+01:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,13,1
+01:46,[CON] Clarendon Layup Shot: Missed,-29,33,2,,203406,,1611661323,14,13,1
+01:37,[LAS] Brown Rebound (Off:0 Def:1),-29,33,4,,1629480,,1611661320,14,13,1
+01:36,[LAS 17-13] Williams 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),170,170,1,,203029,1628283,1611661320,17,13,1
+01:26,[CON 15-17] Holmes Driving Layup Shot: Made (2 PTS),-15,19,1,,1627678,,1611661323,17,15,1
+01:26,[LAS] Brown Foul: Shooting (1 PF) (1 FTA),-15,19,6,1627678,1629480,,1611661320,17,15,1
+01:26,[CON 16-17] Holmes Free Throw 1 of 1 (3 PTS),0,-80,3,,1627678,,1611661323,17,16,1
+01:26,[LAS] Mabrey Substitution replaced by Wiese,0,-80,8,,1629497,1628282,1611661320,17,16,1
+01:18,[LAS] Ruffin-Pratt Foul: Offensive Charge (1 PF),-3,95,6,203406,203437,,1611661320,17,16,1
+01:18,[LAS] Ruffin-Pratt Turnover : Offensive Foul Turnover (1 TO),-3,95,5,,203437,,1611661320,17,16,1
+01:07,[CON] Tuck Layup Shot: Missed,-26,23,2,,1627670,,1611661323,17,16,1
+01:07,[LAS] Ruffin-Pratt Rebound (Off:1 Def:1),-26,23,4,,203437,,1611661320,17,16,1
+00:58.2,[LAS] Williams 3pt Shot: Missed,78,236,2,,203029,,1611661320,17,16,1
+00:55.9,[CON] Jones Rebound (Off:0 Def:1),78,236,4,,1628280,,1611661323,17,16,1
+00:52.7,[CON] Banham Layup Shot: Missed,-26,24,2,,1627671,,1611661323,17,16,1
+00:52.7,[LAS] Jones Rebound (Off:0 Def:2),-26,24,4,,1628283,,1611661320,17,16,1
+00:41.6,[LAS 19-16] Brown Layup Shot: Made (2 PTS) Assist: Jones (2 AST),13,38,1,,1629480,1628283,1611661320,19,16,1
+00:33.9,[LAS] Brown Foul: Shooting (2 PF) (2 FTA),-7,59,6,1628280,1629480,,1611661320,19,16,1
+00:33.9,[CON 17-19] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1628280,,1611661323,19,17,1
+00:33.9,[LAS] Brown Substitution replaced by Ogwumike,0,-80,8,,1629480,203014,1611661320,19,17,1
+00:33.9,[CON] Tuck Substitution replaced by Jones,0,-80,8,,1627670,1627673,1611661323,19,17,1
+00:33.9,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,19,17,1
+00:31.0,[CON] Team Rebound,0,-80,4,,0,,1611661323,19,17,1
+00:31.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,17,1
+00:28.9,[CON] Banham Jump Shot: Missed,-121,120,2,,1627671,,1611661323,19,17,1
+00:22.8,[LAS] Wiese Rebound (Off:0 Def:3),-121,120,4,,1628282,,1611661320,19,17,1
+00:19.6,[LAS] Jones Running Jump Shot: Missed,134,99,2,,1628283,,1611661320,19,17,1
+00:17.4,[CON] Holmes Rebound (Off:0 Def:1),134,99,4,,1627678,,1611661323,19,17,1
+00:05.8,[LAS] Ogwumike Foul: Shooting (1 PF) (2 FTA),53,28,6,203406,203014,,1611661320,19,17,1
+00:05.8,[CON 18-19] Clarendon Free Throw 1 of 2 (1 PTS),0,-80,3,,203406,,1611661323,19,18,1
+00:05.8,[CON 19-19] Clarendon Free Throw 2 of 2 (2 PTS),0,-80,3,,203406,,1611661323,19,19,1
+00:00.8,[CON] Holmes Foul: Shooting (1 PF) (2 FTA),37,40,6,203029,1627678,,1611661323,19,19,1
+00:00.8,[LAS 20-19] Williams Free Throw 1 of 2 (4 PTS),0,-80,3,,203029,,1611661320,20,19,1
+00:00.8,[LAS 21-19] Williams Free Throw 2 of 2 (5 PTS),0,-80,3,,203029,,1611661320,21,19,1
+00:00.0,End Period,0,-80,13,,0,,0,21,19,1
+10:00,Start Period,0,-80,12,,0,,0,21,19,2
+09:44,[LAS] Ruffin-Pratt Jump Shot: Missed,-28,159,2,,203437,,1611661320,21,19,2
+09:40,[CON] Jones Rebound (Off:0 Def:4),-28,159,4,,1627673,,1611661323,21,19,2
+09:25,[CON] Holmes Driving Layup Shot: Missed,-19,27,2,203437,1627678,,1611661323,21,19,2
+09:25,[LAS] Team Rebound,-19,27,4,,0,,1611661320,21,19,2
+09:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,21,19,2
+09:11,[LAS] Gray Pullup Jump shot: Missed,-4,123,2,,203833,,1611661320,21,19,2
+09:08,[CON] Jones Rebound (Off:0 Def:5),-4,123,4,,1627673,,1611661323,21,19,2
+09:00,[CON 21-21] Jones Cutting Layup Shot: Made (3 PTS) Assist: Jones (1 AST),26,8,1,,1628280,1627673,1611661323,21,21,2
+08:39,[LAS 23-21] Ogwumike Driving Layup Shot: Made (10 PTS),12,13,1,,203014,,1611661320,23,21,2
+08:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,21,2
+08:25,[LAS] Ruffin-Pratt Substitution replaced by Brown,0,-80,8,,203437,1629480,1611661320,23,21,2
+08:18,[CON] Holmes 3pt Shot: Missed,-229,28,2,,1627678,,1611661323,23,21,2
+08:10,[LAS] Ogwumike Rebound (Off:2 Def:3),-229,28,4,,203014,,1611661320,23,21,2
+08:07,[LAS] Jones Layup Shot: Missed,-15,19,2,,1628283,,1611661320,23,21,2
+08:04,[CON] Thomas Rebound (Off:0 Def:1),-15,19,4,,202662,,1611661323,23,21,2
+08:03,[CON 23-23] Thomas Running Pull-Up Jump Shot: Made (6 PTS),48,90,1,,202662,,1611661323,23,23,2
+07:38,[LAS] Williams 3pt Shot: Missed,93,282,2,,203029,,1611661320,23,23,2
+07:34,[CON] Jones Rebound (Off:0 Def:6),93,282,4,,1627673,,1611661323,23,23,2
+07:19,[CON] Williams Pullup Jump shot: Missed,64,139,2,,1627675,,1611661323,23,23,2
+07:17,[CON] Jones Rebound (Off:1 Def:1),64,139,4,,1628280,,1611661323,23,23,2
+07:16,[CON] Jones Putback Layup Shot: Missed,16,15,2,,1628280,,1611661323,23,23,2
+07:16,[LAS] Gray Rebound (Off:0 Def:1),16,15,4,,203833,,1611661320,23,23,2
+06:56,[LAS] Ogwumike 3pt Shot: Missed,-234,4,2,,203014,,1611661320,23,23,2
+06:52,[CON] Thomas Rebound (Off:0 Def:2),-234,4,4,,202662,,1611661323,23,23,2
+06:50,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Brown (1 ST),-73,166,5,1629480,1628280,,1611661323,23,23,2
+06:37,[LAS] Gray Turnover : Out of Bounds - Bad Pass Turnover (1 TO),22,62,5,,203833,,1611661320,23,23,2
+06:37,[LAS] Ogwumike Substitution replaced by Ogwumike,0,-80,8,,203014,203823,1611661320,23,23,2
+06:37,[CON] Holmes Substitution replaced by Clarendon,0,-80,8,,1627678,203406,1611661323,23,23,2
+06:23,[CON] Jones 3pt Shot: Missed,-141,185,2,,1627673,,1611661323,23,23,2
+06:21,[LAS] Team Rebound,-141,185,4,,0,,1611661320,23,23,2
+06:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,23,2
+06:21,[LAS] Jones Substitution replaced by Wiese,0,-80,8,,1628283,1628282,1611661320,23,23,2
+05:59,[LAS 25-23] Ogwumike Layup Shot: Made (6 PTS) Assist: Gray (3 AST),3,16,1,,203823,203833,1611661320,25,23,2
+05:41,[CON] Clarendon Pullup Jump shot: Missed,-28,66,2,,203406,,1611661323,25,23,2
+05:39,[CON] Jones Rebound (Off:2 Def:1),-28,66,4,,1628280,,1611661323,25,23,2
+05:31,Timeout Officials,0,-80,9,,0,,0,25,23,2
+05:31,[LAS] Williams Substitution replaced by Ogwumike,0,-80,8,,203029,203014,1611661320,25,23,2
+05:31,[LAS] Brown Substitution replaced by Ruffin-Pratt,0,-80,8,,1629480,203437,1611661320,25,23,2
+05:29,Jump Ball Jones vs Ogwumike (Thomas gains possession),0,-80,10,203823,1628280,202662,1611661323,25,23,2
+05:24,[CON] Thomas 3pt Shot: Missed,-158,189,2,,202662,,1611661323,25,23,2
+05:20,[CON] Clarendon Rebound (Off:2 Def:0),-158,189,4,,203406,,1611661323,25,23,2
+05:19,[CON] Clarendon Layup Shot: Missed,-3,11,2,,203406,,1611661323,25,23,2
+05:16,[CON] Jones Rebound (Off:3 Def:1),-3,11,4,,1628280,,1611661323,25,23,2
+05:15,[CON 25-25] Jones Putback Layup Shot: Made (5 PTS),0,16,1,,1628280,,1611661323,25,25,2
+04:51,[LAS] Team Turnover : Shot Clock Turnover,12,74,5,,0,,1611661320,25,25,2
+04:40,[CON] Williams Jump Shot: Missed,-165,108,2,,1627675,,1611661323,25,25,2
+04:37,[LAS] Ogwumike Rebound (Off:2 Def:4),-165,108,4,,203014,,1611661320,25,25,2
+04:30,[LAS] Gray Jump Shot: Missed,131,139,2,,203833,,1611661320,25,25,2
+04:27,[CON] Jones Rebound (Off:0 Def:7),131,139,4,,1627673,,1611661323,25,25,2
+04:08,[CON 27-25] Jones Cutting Layup Shot: Made (9 PTS) Assist: Williams (1 AST),20,16,1,,1627673,1627675,1611661323,25,27,2
+03:59,[LAS] Ogwumike Layup Shot: Missed,-43,15,2,,203014,,1611661320,25,27,2
+03:56,[CON] Jones Rebound (Off:3 Def:2),-43,15,4,,1628280,,1611661323,25,27,2
+03:53,[CON] Clarendon Foul: Offensive Charge (1 PF),-4,49,6,203833,203406,,1611661323,25,27,2
+03:53,[CON] Clarendon Turnover : Offensive Foul Turnover (1 TO),-4,49,5,,203406,,1611661323,25,27,2
+03:53,[CON] Clarendon Substitution replaced by Stricklen,0,-80,8,,203406,203015,1611661323,25,27,2
+03:35,[LAS 27-27] Ogwumike Turnaround Fadeaway shot: Made (12 PTS) Assist: Ruffin-Pratt (1 AST),-4,112,1,,203014,203437,1611661320,27,27,2
+03:17,[CON] Stricklen 3pt Shot: Missed,-126,204,2,,203015,,1611661323,27,27,2
+03:14,[CON] Jones Rebound (Off:4 Def:2),-126,204,4,,1628280,,1611661323,27,27,2
+03:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,27,2
+03:04,[CON] Thomas Jump Bank Shot: Missed,-73,78,2,,202662,,1611661323,27,27,2
+02:59,[LAS] Gray Rebound (Off:0 Def:2),-73,78,4,,203833,,1611661320,27,27,2
+02:56,[LAS] Ogwumike Cutting Layup Shot: Missed,-24,9,2,1627673,203823,,1611661320,27,27,2
+02:56,[LAS] Team Rebound,-24,9,4,,0,,1611661320,27,27,2
+02:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,27,2
+02:56,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,27,27,2
+02:51,[LAS] Ogwumike 3pt Shot: Missed,-136,210,2,,203014,,1611661320,27,27,2
+02:50,[LAS] Team Rebound,-136,210,4,,0,,1611661320,27,27,2
+02:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,27,2
+02:45,[CON] Williams Foul: Shooting (1 PF) (2 FTA),-16,40,6,203833,1627675,,1611661323,27,27,2
+02:45,[LAS 28-27] Gray Free Throw 1 of 2 (3 PTS),0,-80,3,,203833,,1611661320,28,27,2
+02:45,[LAS] Gray Free Throw 2 of 2 Missed,0,-80,3,,203833,,1611661320,28,27,2
+02:41,[CON] Jones Rebound (Off:0 Def:8),0,-80,4,,1627673,,1611661323,28,27,2
+02:20,[CON] Jones Layup Shot: Missed,31,12,2,,1628280,,1611661323,28,27,2
+02:20,[CON] Williams Rebound (Off:1 Def:0),31,12,4,,1627675,,1611661323,28,27,2
+02:20,[CON] Team Turnover : Shot Clock Turnover,92,177,5,,0,,1611661323,28,27,2
+02:03,[LAS 30-27] Ruffin-Pratt Driving Layup Shot: Made (2 PTS),-4,21,1,,203437,,1611661320,30,27,2
+01:47,[CON 29-30] Williams Driving Reverse Layup Shot: Made (2 PTS),-13,8,1,,1627675,,1611661323,30,29,2
+01:32,[LAS] Wiese Pullup Jump shot: Missed,89,182,2,,1628282,,1611661320,30,29,2
+01:30,[LAS] Ogwumike Rebound (Off:1 Def:0),128,209,4,,203823,,1611661320,30,29,2
+01:29,[LAS] Ogwumike Putback Layup Shot: Missed,-24,37,2,1627675,203823,,1611661320,30,29,2
+01:26,[LAS] Ogwumike Rebound (Off:3 Def:4),-24,37,4,,203014,,1611661320,30,29,2
+01:25,[LAS] Gray 3pt Shot: Missed,-121,208,2,,203833,,1611661320,30,29,2
+01:25,[LAS] Ogwumike Rebound (Off:2 Def:0),-121,208,4,,203823,,1611661320,30,29,2
+01:25,[CON] Jones Foul: Personal (1 PF),-17,37,6,203823,1628280,,1611661323,30,29,2
+01:19,[LAS 32-29] Gray Driving Layup Shot: Made (5 PTS),0,48,1,,203833,,1611661320,32,29,2
+01:00,[CON] Jones Driving Layup Shot: Missed,26,32,2,203014,1628280,,1611661323,32,29,2
+01:00,[CON] Team Rebound,26,32,4,,0,,1611661323,32,29,2
+01:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,29,2
+01:00,[LAS] Ogwumike Foul: Personal (1 PF),-14,40,6,1628280,203823,,1611661320,32,29,2
+00:54.0,[CON] Thomas Driving Layup Shot: Missed,4,27,2,,202662,,1611661323,32,29,2
+00:52.2,[CON] Jones Rebound (Off:1 Def:8),4,27,4,,1627673,,1611661323,32,29,2
+00:51.4,[CON] Jones Putback Layup Shot: Missed,11,16,2,,1627673,,1611661323,32,29,2
+00:51.4,[CON] Jones Rebound (Off:2 Def:8),11,16,4,,1627673,,1611661323,32,29,2
+00:49.0,[CON] Jones Putback Layup Shot: Missed,10,38,2,,1627673,,1611661323,32,29,2
+00:47.7,[CON] Jones Rebound (Off:3 Def:8),10,38,4,,1627673,,1611661323,32,29,2
+00:47.1,[CON] Jones Putback Layup Shot: Missed,14,21,2,,1627673,,1611661323,32,29,2
+00:43.9,[CON] Williams Rebound (Off:2 Def:0),14,21,4,,1627675,,1611661323,32,29,2
+00:43.7,[CON] Jones Foul: Offensive Charge (2 PF),-96,209,6,203833,1628280,,1611661323,32,29,2
+00:43.7,[CON] Jones Turnover : Offensive Foul Turnover (2 TO),-96,209,5,,1628280,,1611661323,32,29,2
+00:30.5,[LAS 35-29] Wiese 3pt Shot: Made (3 PTS) Assist: Ogwumike (1 AST),112,223,1,,1628282,203823,1611661320,35,29,2
+00:30.5,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,35,29,2
+00:20.0,[CON 31-35] Thomas Pullup Jump shot: Made (8 PTS),86,117,1,,202662,,1611661323,35,31,2
+00:01.6,[LAS 38-31] Ogwumike 3pt Shot: Made (15 PTS) Assist: Gray (4 AST),-234,15,1,,203014,203833,1611661320,38,31,2
+00:00.0,End Period,0,-80,13,,0,,0,38,31,2
+10:00,Start Period,0,-80,12,,0,,0,38,31,3
+09:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,31,3
+09:37,[LAS] Gray Pullup Jump shot: Missed,-9,90,2,202662,203833,,1611661320,38,31,3
+09:34,[CON] Thomas Rebound (Off:0 Def:2),-9,90,4,,203826,,1611661323,38,31,3
+09:31,[CON 34-38] Williams 3pt Shot: Made (5 PTS) Assist: Thomas (1 AST),-172,185,1,,1627675,203826,1611661323,38,34,3
+09:28,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,38,34,3
+09:11,[LAS 40-34] Jones Driving Floating Jump Shot: Made (2 PTS),14,66,1,,1628283,,1611661320,40,34,3
+08:55,[CON 37-40] Thomas 3pt Shot: Made (11 PTS) Assist: Jones (2 AST),81,244,1,,202662,1627673,1611661323,40,37,3
+08:36,[LAS] Jones Jump Shot: Missed,-56,178,2,,1628283,,1611661320,40,37,3
+08:28,[LAS] Ogwumike Rebound (Off:3 Def:0),-56,178,4,,203823,,1611661320,40,37,3
+08:28,[LAS 42-37] Ogwumike Putback Layup Shot: Made (8 PTS),0,-5,1,,203823,,1611661320,42,37,3
+08:14,[CON] Thomas 3pt Shot: Missed,-208,108,2,,202662,,1611661323,42,37,3
+08:11,[LAS] Ogwumike Rebound (Off:3 Def:5),-208,108,4,,203014,,1611661320,42,37,3
+07:58,[LAS] Wiese 3pt Shot: Missed,-217,67,2,,1628282,,1611661320,42,37,3
+07:53,[CON] Jones Rebound (Off:3 Def:9),-217,67,4,,1627673,,1611661323,42,37,3
+07:49,[CON 39-42] Williams Running Pull-Up Jump Shot: Made (7 PTS),-64,137,1,,1627675,,1611661323,42,39,3
+07:35,[LAS 44-39] Gray Driving Layup Shot: Made (7 PTS),-2,16,1,,203833,,1611661320,44,39,3
+07:35,[CON] Thomas Foul: Shooting (1 PF) (1 FTA),-2,16,6,203833,202662,,1611661323,44,39,3
+07:35,[LAS 45-39] Gray Free Throw 1 of 1 (8 PTS),0,-80,3,,203833,,1611661320,45,39,3
+07:21,[CON] Williams Pullup Jump shot: Missed,47,140,2,,1627675,,1611661323,45,39,3
+07:19,[LAS] Wiese Rebound (Off:0 Def:4),47,140,4,,1628282,,1611661320,45,39,3
+07:08,[LAS 47-39] Ogwumike Layup Shot: Made (10 PTS) Assist: Jones (3 AST),4,15,1,,203823,1628283,1611661320,47,39,3
+07:08,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,47,39,3
+06:56,[CON] Jones Foul: Offensive Charge (2 PF),34,100,6,203823,1627673,,1611661323,47,39,3
+06:56,[CON] Jones Turnover : Offensive Foul Turnover (2 TO),34,100,5,,1627673,,1611661323,47,39,3
+06:46,[LAS 49-39] Gray Driving Layup Shot: Made (10 PTS) Assist: Jones (4 AST),26,28,1,,203833,1628283,1611661320,49,39,3
+06:33,[CON] Stricklen 3pt Shot: Missed,182,161,2,,203015,,1611661323,49,39,3
+06:27,[LAS] Ogwumike Rebound (Off:3 Def:6),182,161,4,,203014,,1611661320,49,39,3
+06:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,39,3
+06:15,[CON] Stricklen Foul: Personal (1 PF),-68,145,6,203833,203015,,1611661323,49,39,3
+06:10,[LAS] Ogwumike Jump Shot: Missed,-73,130,2,,203014,,1611661320,49,39,3
+06:07,[CON] Jones Rebound (Off:3 Def:10),-73,130,4,,1627673,,1611661323,49,39,3
+05:59,[CON 41-49] Thomas Driving Layup Shot: Made (13 PTS),-26,17,1,,202662,,1611661323,49,41,3
+05:59,[LAS] Ogwumike Foul: Shooting (2 PF) (1 FTA),-26,17,6,202662,203014,,1611661320,49,41,3
+05:59,[CON 42-49] Thomas Free Throw 1 of 1 (14 PTS),0,-80,3,,202662,,1611661323,49,42,3
+05:42,[LAS] Jones 3pt Shot: Missed,-141,195,2,,1628283,,1611661320,49,42,3
+05:39,[CON] Thomas Rebound (Off:0 Def:3),-141,195,4,,202662,,1611661323,49,42,3
+05:28,[CON] Thomas Driving Floating Bank Jump Shot: Missed,112,40,2,,202662,,1611661323,49,42,3
+05:25,[CON] Jones Rebound (Off:4 Def:10),112,40,4,,1627673,,1611661323,49,42,3
+05:23,[CON] Williams Jump Shot: Missed,48,101,2,,1627675,,1611661323,49,42,3
+05:23,[CON] Team Rebound,48,101,4,,0,,1611661323,49,42,3
+05:23,[LAS] Ogwumike Foul: Loose Ball (2 PF),-22,74,6,1627673,203823,,1611661320,49,42,3
+05:15,[CON] Jones Layup Shot: Missed,12,14,2,203823,1627673,,1611661323,49,42,3
+05:12,[CON] Jones Rebound (Off:5 Def:10),12,14,4,,1627673,,1611661323,49,42,3
+05:12,[CON] Jones Turnover : Bad Pass (3 TO) Steal:Wiese (1 ST),11,44,5,1628282,1627673,,1611661323,49,42,3
+05:12,[CON] Stricklen Foul: Personal (2 PF),-45,534,6,1628282,203015,,1611661323,49,42,3
+05:12,[LAS] Jones Substitution replaced by Williams,0,-80,8,,1628283,203029,1611661320,49,42,3
+04:56,[LAS] Wiese 3pt Shot: Missed,232,12,2,,1628282,,1611661320,49,42,3
+04:50,[CON] Thomas Rebound (Off:0 Def:3),232,12,4,,203826,,1611661323,49,42,3
+04:44,[CON] Thomas Jump Shot: Missed,69,196,2,,202662,,1611661323,49,42,3
+04:41,[LAS] Ogwumike Rebound (Off:3 Def:7),69,196,4,,203014,,1611661320,49,42,3
+04:32,[LAS] Wiese Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),-28,29,5,202662,1628282,,1611661320,49,42,3
+04:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,42,3
+04:32,[CON] Stricklen Substitution replaced by Jones,0,-80,8,,203015,1628280,1611661323,49,42,3
+04:21,[CON] Thomas Driving Hook Shot: Missed,-5,46,2,,203826,,1611661323,49,42,3
+04:18,[LAS] Ogwumike Rebound (Off:3 Def:8),-5,46,4,,203014,,1611661320,49,42,3
+04:13,[LAS] Gray Pullup Jump shot: Missed,91,140,2,,203833,,1611661320,49,42,3
+04:10,[CON] Thomas Rebound (Off:0 Def:4),91,140,4,,202662,,1611661323,49,42,3
+04:07,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-39,303,5,,202662,,1611661323,49,42,3
+04:07,[LAS] Ogwumike Substitution replaced by Brown,0,-80,8,,203823,1629480,1611661320,49,42,3
+03:51,[LAS] Ogwumike Jump Shot: Missed,127,98,2,,203014,,1611661320,49,42,3
+03:48,[CON] Thomas Rebound (Off:0 Def:5),127,98,4,,202662,,1611661323,49,42,3
+03:36,[CON] Williams Jump Shot: Missed,95,54,2,,1627675,,1611661323,49,42,3
+03:33,[LAS] Ogwumike Rebound (Off:3 Def:9),95,54,4,,203014,,1611661320,49,42,3
+03:28,[CON] Williams Foul: Personal (2 PF),38,120,6,203014,1627675,,1611661323,49,42,3
+03:28,[CON] Thomas Substitution replaced by Clarendon,0,-80,8,,202662,203406,1611661323,49,42,3
+03:28,[CON] Williams Substitution replaced by Banham,0,-80,8,,1627675,1627671,1611661323,49,42,3
+03:17,[LAS] Ogwumike Pullup Jump shot: Missed,142,3,2,,203014,,1611661320,49,42,3
+03:14,[CON] Jones Rebound (Off:5 Def:11),142,3,4,,1627673,,1611661323,49,42,3
+03:05,[CON] Jones 3pt Shot: Missed,46,247,2,,1627673,,1611661323,49,42,3
+03:03,[LAS] Team Rebound,46,247,4,,0,,1611661320,49,42,3
+03:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,42,3
+02:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,42,3
+02:38,[LAS] Williams 3pt Shot: Missed,-153,189,2,,203029,,1611661320,49,42,3
+02:36,[CON] Jones Rebound (Off:5 Def:12),-153,189,4,,1627673,,1611661323,49,42,3
+02:20,[CON] Clarendon Jump Shot: Missed,-67,137,2,,203406,,1611661323,49,42,3
+02:16,[CON] Jones Rebound (Off:6 Def:12),-67,137,4,,1627673,,1611661323,49,42,3
+02:14,[CON] Jones Jump Shot: Missed,76,148,2,,1628280,,1611661323,49,42,3
+02:09,[LAS] Gray Rebound (Off:0 Def:3),76,148,4,,203833,,1611661320,49,42,3
+01:52,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,49,42,3
+01:52,[LAS] Gray Substitution replaced by Ruffin-Pratt,0,-80,8,,203833,203437,1611661320,49,42,3
+01:52,[LAS] Wiese Substitution replaced by Mabrey,0,-80,8,,1628282,1629497,1611661320,49,42,3
+01:52,[CON] Jones Substitution replaced by Tuck,0,-80,8,,1627673,1627670,1611661323,49,42,3
+01:52,[LAS] Ogwumike Substitution replaced by Ogwumike,0,-80,8,,203014,203823,1611661320,49,42,3
+01:48,[LAS] Team Turnover : Shot Clock Turnover,-71,184,5,,0,,1611661320,49,42,3
+01:37,[CON] Tuck Jump Shot: Missed,48,115,2,,1627670,,1611661323,49,42,3
+01:33,[LAS] Ogwumike Rebound (Off:3 Def:1),48,115,4,,203823,,1611661320,49,42,3
+01:30,[LAS] Brown Turnover : 3 Second Violation (1 TO),6,85,5,,1629480,,1611661320,49,42,3
+01:23,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),96,124,5,,203826,,1611661323,49,42,3
+01:17,[LAS] Williams Foul: Offensive Charge (2 PF),-47,137,6,1627671,203029,,1611661320,49,42,3
+01:17,[LAS] Williams Turnover : Offensive Foul Turnover (2 TO),-47,137,5,,203029,,1611661320,49,42,3
+01:02,[CON] Banham 3pt Shot: Missed,46,255,2,,1627671,,1611661323,49,42,3
+00:58.6,[LAS] Brown Rebound (Off:0 Def:2),46,255,4,,1629480,,1611661320,49,42,3
+00:48.0,[LAS 51-42] Ogwumike Layup Shot: Made (12 PTS) Assist: Brown (1 AST),44,22,1,,203823,1629480,1611661320,51,42,3
+00:38.6,[LAS] Mabrey Foul: Personal (2 PF),-16,26,6,1627670,1629497,,1611661320,51,42,3
+00:33.2,[CON 45-51] Clarendon 3pt Shot: Made (5 PTS) Assist: Jones (1 AST),-161,196,1,,203406,1628280,1611661323,51,45,3
+00:17.5,[LAS 54-45] Mabrey 3pt Shot: Made (3 PTS) Assist: Ogwumike (2 AST),-181,183,1,,1629497,203823,1611661320,54,45,3
+00:00.0,[CON] Thomas Jump Shot: Missed,-4,119,2,,203826,,1611661323,54,45,3
+00:00.0,[CON] Team Rebound,-4,119,4,,0,,1611661323,54,45,3
+00:00.0,End Period,0,-80,13,,0,,0,54,45,3
+10:00,Start Period,0,-80,12,,0,,0,54,45,4
+09:40,[CON] Banham 3pt Shot: Missed,-156,231,2,,1627671,,1611661323,54,45,4
+09:35,[CON] Tuck Rebound (Off:1 Def:0),-156,231,4,,1627670,,1611661323,54,45,4
+09:35,[CON] Tuck Foul: Offensive Charge (2 PF),-150,58,6,203823,1627670,,1611661323,54,45,4
+09:35,[CON] Tuck Turnover : Offensive Foul Turnover (2 TO),-150,58,5,,1627670,,1611661323,54,45,4
+09:26,[LAS] Mabrey Jump Shot: Missed,98,171,2,,1629497,,1611661320,54,45,4
+09:20,[CON] Clarendon Rebound (Off:2 Def:1),98,171,4,,203406,,1611661323,54,45,4
+09:16,[LAS] Mabrey Foul: Shooting (3 PF) (2 FTA),0,134,6,203406,1629497,,1611661320,54,45,4
+09:16,[CON 46-54] Clarendon Free Throw 1 of 2 (6 PTS),0,-80,3,,203406,,1611661323,54,46,4
+09:16,[CON 47-54] Clarendon Free Throw 2 of 2 (7 PTS),0,-80,3,,203406,,1611661323,54,47,4
+09:04,[LAS] Mabrey Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),-169,237,5,1628280,1629497,,1611661320,54,47,4
+08:55,[CON] Clarendon Driving Layup Shot: Missed,32,17,2,,203406,,1611661323,54,47,4
+08:54,[CON] Team Rebound,32,17,4,,0,,1611661323,54,47,4
+08:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,47,4
+08:54,[LAS] Brown Substitution replaced by Ogwumike,0,-80,8,,1629480,203014,1611661320,54,47,4
+08:54,[LAS] Mabrey Substitution replaced by Gray,0,-80,8,,1629497,203833,1611661320,54,47,4
+08:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,47,4
+08:44,[CON 50-54] Banham 3pt Shot: Made (3 PTS) Assist: Clarendon (1 AST),-174,185,1,,1627671,203406,1611661323,54,50,4
+08:26,[LAS 56-50] Ogwumike Driving Layup Shot: Made (14 PTS),26,15,1,,203823,,1611661320,56,50,4
+08:26,[CON] Thomas Foul: Shooting (2 PF) (1 FTA),26,15,6,203823,203826,,1611661323,56,50,4
+08:26,[LAS 57-50] Ogwumike Free Throw 1 of 1 (15 PTS),0,-80,3,,203823,,1611661320,57,50,4
+08:08,[CON] Banham 3pt Shot: Missed,-224,67,2,,1627671,,1611661323,57,50,4
+08:04,[LAS] Ogwumike Rebound (Off:3 Def:10),-224,67,4,,203014,,1611661320,57,50,4
+08:01,[LAS 59-50] Williams Running Layup Shot: Made (7 PTS) Assist: Ruffin-Pratt (2 AST),10,7,1,,203029,203437,1611661320,59,50,4
+07:42,[CON 52-59] Clarendon Floating Jump shot: Made (9 PTS) Assist: Banham (1 AST),-92,100,1,,203406,1627671,1611661323,59,52,4
+07:18,[LAS] Gray Floating Jump shot: Missed,28,92,2,,203833,,1611661320,59,52,4
+07:11,[CON] Jones Rebound (Off:4 Def:3),28,92,4,,1628280,,1611661323,59,52,4
+07:10,[CON 54-59] Thomas Running Layup Shot: Made (2 PTS) Assist: Clarendon (2 AST),-2,26,1,,203826,203406,1611661323,59,54,4
+07:10,[LAS] Ruffin-Pratt Foul: Shooting (2 PF) (1 FTA),-2,26,6,203826,203437,,1611661320,59,54,4
+07:10,[CON] Banham Substitution replaced by Williams,0,-80,8,,1627671,1627675,1611661323,59,54,4
+07:10,[CON] Jones Substitution replaced by Jones,0,-80,8,,1628280,1627673,1611661323,59,54,4
+07:10,[CON 55-59] Thomas Free Throw 1 of 1 (3 PTS),0,-80,3,,203826,,1611661323,59,55,4
+06:53,[LAS] Williams Pullup Jump shot: Missed,-96,151,2,,203029,,1611661320,59,55,4
+06:50,[CON] Clarendon Rebound (Off:2 Def:2),-96,151,4,,203406,,1611661323,59,55,4
+06:41,[CON 57-59] Williams Driving Layup Shot: Made (9 PTS),4,16,1,,1627675,,1611661323,59,57,4
+06:24,[LAS] Ogwumike Reverse Layup Shot: Missed,13,15,2,,203014,,1611661320,59,57,4
+06:22,[CON] Jones Rebound (Off:6 Def:13),13,15,4,,1627673,,1611661323,59,57,4
+06:18,[CON] Williams Turnover : Lost Ball (1 TO) Steal:Williams (1 ST),0,56,5,203029,1627675,,1611661323,59,57,4
+06:16,[LAS] Ruffin-Pratt Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-19,737,5,,203437,,1611661320,59,57,4
+06:00,[CON] Jones Foul: Flagrant Type 1 (3 PF) (2 FTA),9,86,6,203823,1627673,,1611661323,59,57,4
+06:00,[CON] Jones Turnover : No Turnover (4 TO),9,86,5,,1627673,,1611661323,59,57,4
+06:00,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,59,57,4
+06:00,[LAS 60-57] Ogwumike Free Throw Flagrant 1 of 2 (16 PTS),0,-80,3,,203823,,1611661320,60,57,4
+06:00,[LAS 61-57] Ogwumike Free Throw Flagrant 2 of 2 (17 PTS),0,-80,3,,203823,,1611661320,61,57,4
+06:00,[LAS] Williams Substitution replaced by Wiese,0,-80,8,,203029,1628282,1611661320,61,57,4
+05:46,[LAS] Ogwumike 3pt Shot: Missed,-228,-3,2,,203014,,1611661320,61,57,4
+05:40,[CON] Williams Rebound (Off:2 Def:1),-228,-3,4,,1627675,,1611661323,61,57,4
+05:35,[LAS] Ogwumike Foul: Shooting (3 PF) (2 FTA),-14,53,6,203826,203823,,1611661320,61,57,4
+05:35,Timeout Officials,0,-80,9,,0,,0,61,57,4
+05:35,[CON] Tuck Substitution replaced by Thomas,0,-80,8,,1627670,202662,1611661323,61,57,4
+05:35,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,61,57,4
+05:35,[CON] Team Rebound,0,-80,4,,0,,1611661323,61,57,4
+05:35,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,61,57,4
+05:32,[CON] Jones Rebound (Off:7 Def:13),0,-80,4,,1627673,,1611661323,61,57,4
+05:29,[LAS] Ogwumike Foul: Shooting (4 PF) (2 FTA),4,37,6,1627675,203823,,1611661320,61,57,4
+05:29,[CON 58-61] Williams Free Throw 1 of 2 (10 PTS),0,-80,3,,1627675,,1611661323,61,58,4
+05:29,[CON] Williams Free Throw 2 of 2 Missed,0,-80,3,,1627675,,1611661323,61,58,4
+05:28,[LAS] Ogwumike Rebound (Off:3 Def:11),0,-80,4,,203014,,1611661320,61,58,4
+05:15,[CON] Thomas Foul: Shooting (2 PF) (2 FTA),-23,29,6,203833,202662,,1611661323,61,58,4
+05:15,[LAS 62-58] Gray Free Throw 1 of 2 (11 PTS),0,-80,3,,203833,,1611661320,62,58,4
+05:15,[LAS 63-58] Gray Free Throw 2 of 2 (12 PTS),0,-80,3,,203833,,1611661320,63,58,4
+05:01,[LAS] Ogwumike Foul: Personal (3 PF) (2 FTA),4,117,6,203826,203014,,1611661320,63,58,4
+05:01,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,63,58,4
+05:01,[CON] Team Rebound,0,-80,4,,0,,1611661323,63,58,4
+05:01,[CON 59-63] Thomas Free Throw 2 of 2 (4 PTS),0,-80,3,,203826,,1611661323,63,59,4
+04:52,[CON] Thomas Foul: Personal (3 PF),-23,250,6,203014,203826,,1611661323,63,59,4
+04:45,[LAS] Wiese 3pt Shot: Missed,-203,117,2,,1628282,,1611661320,63,59,4
+04:41,[CON] Jones Rebound (Off:7 Def:14),-203,117,4,,1627673,,1611661323,63,59,4
+04:33,[CON 62-63] Jones 3pt Shot: Made (12 PTS) Assist: Clarendon (3 AST),-141,226,1,,1627673,203406,1611661323,63,62,4
+04:08,[LAS 66-62] Ruffin-Pratt 3pt Shot: Made (5 PTS) Assist: Ogwumike (1 AST),232,77,1,,203437,203014,1611661320,66,62,4
+03:55,[LAS] Ogwumike Foul: Shooting (4 PF) (2 FTA),-4,86,6,1627675,203014,,1611661320,66,62,4
+03:55,[CON 63-66] Williams Free Throw 1 of 2 (11 PTS),0,-80,3,,1627675,,1611661323,66,63,4
+03:55,[CON 64-66] Williams Free Throw 2 of 2 (12 PTS),0,-80,3,,1627675,,1611661323,66,64,4
+03:49,[LAS] Ogwumike Foul: Offensive Charge (5 PF),-147,211,6,1627675,203014,,1611661320,66,64,4
+03:49,[LAS] Ogwumike Turnover : Offensive Foul Turnover (1 TO),-147,211,5,,203014,,1611661320,66,64,4
+03:34,[CON] Williams Pullup Jump shot: Missed,119,36,2,,1627675,,1611661323,66,64,4
+03:29,[CON] Jones Rebound (Off:8 Def:14),119,36,4,,1627673,,1611661323,66,64,4
+03:28,[CON] Jones Jump Bank Shot: Missed,22,35,2,,1627673,,1611661323,66,64,4
+03:28,[LAS] Ruffin-Pratt Rebound (Off:1 Def:2),22,35,4,,203437,,1611661320,66,64,4
+03:12,[CON] Thomas Foul: Personal (4 PF) (2 FTA),-109,223,6,203014,203826,,1611661323,66,64,4
+03:12,[LAS] Ogwumike Free Throw 1 of 2 Missed,0,-80,3,,203014,,1611661320,66,64,4
+03:12,[LAS] Team Rebound,0,-80,4,,0,,1611661320,66,64,4
+03:12,[LAS 67-64] Ogwumike Free Throw 2 of 2 (16 PTS),0,-80,3,,203014,,1611661320,67,64,4
+03:12,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,67,64,4
+02:55,[CON] Thomas Turnover : Lost Ball (2 TO) Steal:Ruffin-Pratt (1 ST),70,58,5,203437,202662,,1611661323,67,64,4
+02:46,[LAS] Ruffin-Pratt Turnover : Bad Pass (3 TO) Steal:Clarendon (1 ST),-146,235,5,203406,203437,,1611661320,67,64,4
+02:41,[CON] Williams Running Layup Shot: Missed,-22,15,2,,1627675,,1611661323,67,64,4
+02:38,[LAS] Ogwumike Rebound (Off:3 Def:2),-22,15,4,,203823,,1611661320,67,64,4
+02:20,[LAS] Ruffin-Pratt 3pt Shot: Missed,-135,214,2,,203437,,1611661320,67,64,4
+02:16,[CON] Thomas Rebound (Off:0 Def:4),-135,214,4,,203826,,1611661323,67,64,4
+02:11,[CON] Williams 3pt Shot: Missed,-110,220,2,,1627675,,1611661323,67,64,4
+02:07,[LAS] Ogwumike Rebound (Off:3 Def:3),-110,220,4,,203823,,1611661320,67,64,4
+01:52,[LAS 69-64] Gray Pullup Jump shot: Made (14 PTS),25,90,1,,203833,,1611661320,69,64,4
+01:41,[CON 66-69] Jones Cutting Layup Shot: Made (14 PTS) Assist: Thomas (2 AST),-20,15,1,,1627673,203826,1611661323,69,66,4
+01:41,[LAS] Ogwumike Foul: Shooting (5 PF) (1 FTA),-20,15,6,1627673,203823,,1611661320,69,66,4
+01:41,[CON] Clarendon Substitution replaced by Stricklen,0,-80,8,,203406,203015,1611661323,69,66,4
+01:41,[CON 67-69] Jones Free Throw 1 of 1 (15 PTS),0,-80,3,,1627673,,1611661323,69,67,4
+01:26,[LAS] Gray Layup Shot: Missed,15,38,2,,203833,,1611661320,69,67,4
+01:24,[LAS] Gray Rebound (Off:1 Def:3),15,38,4,,203833,,1611661320,69,67,4
+01:19,[LAS] Gray Layup Shot: Missed,27,16,2,,203833,,1611661320,69,67,4
+01:19,[LAS] Ogwumike Rebound (Off:4 Def:3),27,16,4,,203823,,1611661320,69,67,4
+01:19,[LAS 71-67] Ogwumike Putback Layup Shot: Made (19 PTS),0,-5,1,,203823,,1611661320,71,67,4
+01:19,[CON] Stricklen Foul: Shooting (3 PF) (1 FTA),0,-5,6,203823,203015,,1611661323,71,67,4
+01:19,[LAS 72-67] Ogwumike Free Throw 1 of 1 (20 PTS),0,-80,3,,203823,,1611661320,72,67,4
+01:01,[LAS] Ruffin-Pratt Foul: Personal (3 PF) (2 FTA),-50,24,6,1627673,203437,,1611661320,72,67,4
+01:01,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,72,67,4
+01:01,[CON] Team Rebound,0,-80,4,,0,,1611661323,72,67,4
+01:01,[CON] Stricklen Substitution replaced by Clarendon,0,-80,8,,203015,203406,1611661323,72,67,4
+01:01,[CON 68-72] Jones Free Throw 2 of 2 (16 PTS),0,-80,3,,1627673,,1611661323,72,68,4
+00:40.8,[LAS 75-68] Ogwumike 3pt Shot: Made (19 PTS) Assist: Ruffin-Pratt (3 AST),-232,15,1,,203014,203437,1611661320,75,68,4
+00:40.7,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,75,68,4
+00:40.7,[CON] Clarendon Substitution replaced by Stricklen,0,-80,8,,203406,203015,1611661323,75,68,4
+00:26.9,[CON] Jones Jump Shot: Missed,-81,63,2,,1627673,,1611661323,75,68,4
+00:24.6,[LAS] Ogwumike Rebound (Off:3 Def:12),-81,63,4,,203014,,1611661320,75,68,4
+00:19.0,[CON] Williams Foul: Personal Take (3 PF) (2 FTA),122,274,6,203833,1627675,,1611661323,75,68,4
+00:19.0,[LAS 76-68] Gray Free Throw 1 of 2 (15 PTS),0,-80,3,,203833,,1611661320,76,68,4
+00:19.0,[LAS 77-68] Gray Free Throw 2 of 2 (16 PTS),0,-80,3,,203833,,1611661320,77,68,4
+00:19.0,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,77,68,4
+00:13.2,[CON 70-77] Williams Driving Reverse Layup Shot: Made (14 PTS),0,19,1,,1627675,,1611661323,77,70,4
+00:00.0,End Period,0,-80,13,,0,,0,77,70,4
+00:00.0,Game End,0,-80,0,,0,,0,77,70,4

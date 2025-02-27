@@ -1,0 +1,386 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Brink vs Collier (Hamby gains possession),0,-80,10,1629483,1642287,204324,1611661320,0,0,0,1
+09:41,[LAS 2-0] Jackson Driving Reverse Layup Shot: Made (2 PTS) Assist: Clarendon (1 AST),0,3,1,,1642288,203406,1611661320,0,2,2,1
+09:22,[MIN 3-2] Carleton 3pt Shot: Made (3 PTS) Assist: Williams (1 AST),-160,189,1,,1629524,1627675,1611661324,3,2,3,1
+09:14,[MIN] McBride Foul: Personal (1 PF),-123,102,6,1628915,203825,1629771,1611661324,3,2,0,1
+09:09,[LAS] Nurse Pullup Jump shot: Missed,-105,122,2,,1628915,,1611661320,3,2,0,1
+09:04,[LAS] Brink Rebound (Off:1 Def:0),-105,122,4,,1642287,,1611661320,3,2,0,1
+09:00,[LAS] Brink Layup Shot: Missed Block: Collier (1 BLK),-1,22,2,1629483,1642287,,1611661320,3,2,0,1
+08:59,[LAS] Hamby Rebound (Off:1 Def:0),-1,22,4,,204324,,1611661320,3,2,0,1
+08:58,[LAS] Hamby Layup Shot: Missed,13,27,2,,204324,,1611661320,3,2,0,1
+08:57,[LAS] Hamby Rebound (Off:2 Def:0),13,27,4,,204324,,1611661320,3,2,0,1
+08:57,[MIN] Collier Foul: Shooting (1 PF) (2 FTA),9,27,6,204324,1629483,202679,1611661324,3,2,0,1
+08:57,[LAS] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661320,3,2,0,1
+08:57,[LAS] Team Rebound,0,-80,4,,0,,1611661320,3,2,0,1
+08:57,[LAS 3-3] Hamby Free Throw 2 of 2 (1 PTS),0,-80,3,,204324,,1611661320,3,3,1,1
+08:37,[MIN] Smith Foul: Offensive (1 PF),2,66,6,1628915,1629501,202764,1611661324,3,3,0,1
+08:37,[MIN] Smith Turnover : Offensive Foul Turnover (1 TO),2,66,5,,1629501,202764,1611661324,3,3,0,1
+08:22,[LAS] Clarendon Turnover : Bad Pass (1 TO) Steal:Collier (1 ST),16,294,5,1629483,203406,,1611661320,3,3,0,1
+08:17,[MIN 5-3] Collier Running Layup Shot: Made (2 PTS),-6,11,1,,1629483,,1611661324,5,3,2,1
+07:59,[LAS 6-5] Nurse 3pt Shot: Made (3 PTS) Assist: Jackson (1 AST),-197,127,1,,1628915,1642288,1611661320,5,6,3,1
+07:47,[MIN] Collier Pullup Jump shot: Missed,-144,60,2,,1629483,,1611661324,5,6,0,1
+07:44,[LAS] Clarendon Rebound (Off:0 Def:1),-144,60,4,,203406,,1611661320,5,6,0,1
+07:32,[LAS] Hamby Layup Shot: Missed,10,4,2,,204324,,1611661320,5,6,0,1
+07:29,[MIN] Collier Rebound (Off:0 Def:1),10,4,4,,1629483,,1611661324,5,6,0,1
+07:26,[MIN 7-6] Smith Running Layup Shot: Made (2 PTS) Assist: Williams (2 AST),28,19,1,,1629501,1627675,1611661324,7,6,2,1
+07:17,[LAS] Brink Foul: Offensive (1 PF),-22,96,6,1629483,1642287,202679,1611661320,7,6,0,1
+07:17,[LAS] Brink Turnover : Offensive Foul Turnover (1 TO),-22,96,5,,1642287,202679,1611661320,7,6,0,1
+07:05,[MIN] McBride 3pt Shot: Missed,-93,244,2,,203825,,1611661324,7,6,0,1
+07:01,[LAS] Hamby Rebound (Off:2 Def:1),-93,244,4,,204324,,1611661320,7,6,0,1
+06:51,[LAS 8-7] Nurse Cutting Layup Shot: Made (5 PTS) Assist: Hamby (1 AST),13,6,1,,1628915,204324,1611661320,7,8,2,1
+06:28,[LAS] Nurse Foul: Personal (1 PF),-189,178,6,203825,1628915,1629771,1611661320,7,8,0,1
+06:28,Stoppage: Blood Rule,0,-80,20,,0,,0,7,8,0,1
+06:16,[MIN] Collier 3pt Shot: Missed,99,226,2,,1629483,,1611661324,7,8,0,1
+06:13,[LAS] Hamby Rebound (Off:2 Def:2),99,226,4,,204324,,1611661320,7,8,0,1
+05:58,[LAS] Brink Layup Shot: Missed Block: Williams (1 BLK),22,6,2,1627675,1642287,,1611661320,7,8,0,1
+05:57,[LAS] Team Rebound,22,6,4,,0,,1611661320,7,8,0,1
+05:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,8,0,1
+05:50,[LAS] Brink Turnover : Bad Pass (2 TO) Steal:Collier (2 ST),113,145,5,1629483,1642287,,1611661320,7,8,0,1
+05:43,[MIN] McBride Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),169,81,5,204324,203825,,1611661324,7,8,0,1
+05:39,[MIN] Carleton Foul: Shooting (1 PF) (2 FTA),43,48,6,203406,1629524,1629771,1611661324,7,8,0,1
+05:39,[LAS 9-7] Clarendon Free Throw 1 of 2 (1 PTS),0,-80,3,,203406,,1611661320,7,9,1,1
+05:39,[LAS 10-7] Clarendon Free Throw 2 of 2 (2 PTS),0,-80,3,,203406,,1611661320,7,10,1,1
+05:27,[MIN] Smith 3pt Shot: Missed,-145,206,2,,1629501,,1611661324,7,10,0,1
+05:23,[LAS] Hamby Rebound (Off:2 Def:3),-145,206,4,,204324,,1611661320,7,10,0,1
+05:19,[LAS] Hamby Running Layup Shot: Missed Block: Smith (1 BLK),-24,51,2,1629501,204324,,1611661320,7,10,0,1
+05:18,[MIN] Smith Rebound (Off:0 Def:1),-24,51,4,,1629501,,1611661324,7,10,0,1
+05:13,[MIN] McBride Turnover : Lost Ball (2 TO) Steal:Brink (1 ST),16,332,5,1642287,203825,,1611661324,7,10,0,1
+05:06,[LAS 12-7] Hamby Running Layup Shot: Made (3 PTS) Assist: Nurse (1 AST),7,15,1,,204324,1628915,1611661320,7,12,2,1
+05:06,Timeout : Official,0,-80,9,,0,,0,7,12,0,1
+05:06,[MIN] McBride Substitution replaced by Hiedeman,0,-80,8,,203825,1629567,1611661324,7,12,0,1
+05:06,[MIN] Williams Substitution replaced by Zandalasini,0,-80,8,,1627675,1628508,1611661324,7,12,0,1
+05:06,[LAS] Clarendon Substitution replaced by McDonald,0,-80,8,,203406,1630462,1611661320,7,12,0,1
+04:56,[MIN] Hiedeman Turnover : Bad Pass (1 TO) Steal:Hamby (2 ST),-138,237,5,204324,1629567,,1611661324,7,12,0,1
+04:52,[LAS] McDonald Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-47,51,5,,1630462,202679,1611661320,7,12,0,1
+04:31,[MIN] Zandalasini Step Back Jump shot: Missed,-106,194,2,,1628508,,1611661324,7,12,0,1
+04:29,[LAS] Team Rebound,-106,194,4,,0,,1611661320,7,12,0,1
+04:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,12,0,1
+04:18,[MIN] Carleton Foul: Shooting (2 PF) (2 FTA),7,4,6,1642288,1629524,202764,1611661324,7,12,0,1
+04:18,[LAS 13-7] Jackson Free Throw 1 of 2 (3 PTS),0,-80,3,,1642288,,1611661320,7,13,1,1
+04:18,[LAS 14-7] Jackson Free Throw 2 of 2 (4 PTS),0,-80,3,,1642288,,1611661320,7,14,1,1
+04:04,[MIN] Smith 3pt Shot: Missed,-15,257,2,,1629501,,1611661324,7,14,0,1
+03:59,[LAS] Brink Rebound (Off:1 Def:1),-15,257,4,,1642287,,1611661320,7,14,0,1
+03:37,[LAS] Jackson 3pt Shot: Missed,-158,166,2,,1642288,,1611661320,7,14,0,1
+03:34,[MIN] Smith Rebound (Off:0 Def:2),-158,166,4,,1629501,,1611661324,7,14,0,1
+03:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,14,0,1
+03:14,[MIN] Carleton Substitution replaced by McBride,0,-80,8,,1629524,203825,1611661324,7,14,0,1
+03:12,[MIN 9-14] Collier Jump Shot: Made (4 PTS) Assist: Hiedeman (1 AST),156,44,1,,1629483,1629567,1611661324,9,14,2,1
+02:58,[LAS] Nurse Turnover : Bad Pass (1 TO) Steal:Smith (1 ST),12,103,5,1629501,1628915,,1611661320,9,14,0,1
+02:54,[MIN 11-14] Hiedeman Running Layup Shot: Made (2 PTS) Assist: Smith (1 AST),11,7,1,,1629567,1629501,1611661324,11,14,2,1
+02:53,[MIN] Hiedeman Foul: Personal (1 PF) (2 FTA),18,805,6,1630462,1629567,202764,1611661324,11,14,0,1
+02:53,[LAS] McDonald Technical (1 FTA),0,-80,6,,1630462,202764,1611661320,11,14,0,1
+02:53,Instant Replay - Support Ruling,0,-80,18,,0,,0,11,14,0,1
+02:53,[MIN 12-14] McBride Free Throw Technical (1 PTS),0,-80,3,,203825,,1611661324,12,14,1,1
+02:53,[LAS] Nurse Substitution replaced by Brown,0,-80,8,,1628915,1628882,1611661320,12,14,0,1
+02:53,[LAS 15-12] McDonald Free Throw 1 of 2 (1 PTS),0,-80,3,,1630462,,1611661320,12,15,1,1
+02:53,[LAS 16-12] McDonald Free Throw 2 of 2 (2 PTS),0,-80,3,,1630462,,1611661320,12,16,1,1
+02:37,[MIN] Smith Turnover : Bad Pass (2 TO) Steal:Brown (1 ST),119,34,5,1628882,1629501,,1611661324,12,16,0,1
+02:17,[LAS] Brink 3pt Shot: Missed,124,197,2,,1642287,,1611661320,12,16,0,1
+02:13,[LAS] McDonald Rebound (Off:1 Def:0),124,197,4,,1630462,,1611661320,12,16,0,1
+02:10,[LAS 18-12] McDonald Putback Layup Shot: Made (4 PTS),5,-1,1,,1630462,,1611661320,12,18,2,1
+01:58,[MIN] McBride 3pt Shot: Missed,138,196,2,,203825,,1611661324,12,18,0,1
+01:54,[LAS] Brink Rebound (Off:1 Def:2),138,196,4,,1642287,,1611661320,12,18,0,1
+01:44,[LAS 20-12] Jackson Layup Shot: Made (6 PTS) Assist: Brink (1 AST),28,-7,1,,1642288,1642287,1611661320,12,20,2,1
+01:35,[LAS] Brink Foul: Personal (2 PF),-9,108,6,1629501,1642287,202679,1611661320,12,20,0,1
+01:35,[MIN] Zandalasini Substitution replaced by Époupa,0,-80,8,,1628508,1630151,1611661324,12,20,0,1
+01:35,[LAS] Brink Substitution replaced by Yueru,0,-80,8,,1642287,1629574,1611661320,12,20,0,1
+01:35,[MIN] Smith Substitution replaced by Juhász,0,-80,8,,1629501,1641657,1611661324,12,20,0,1
+01:24,[MIN] Juhász Cutting Layup Shot: Missed,27,15,2,,1641657,,1611661324,12,20,0,1
+01:23,[LAS] Jackson Rebound (Off:0 Def:1),27,15,4,,1642288,,1611661320,12,20,0,1
+01:06,[LAS] Hamby Layup Shot: Missed,22,6,2,,204324,,1611661320,12,20,0,1
+01:01,[MIN] Époupa Rebound (Off:0 Def:1),22,6,4,,1630151,,1611661324,12,20,0,1
+00:46.9,[MIN] Collier Jump Shot: Missed,-76,157,2,,1629483,,1611661324,12,20,0,1
+00:43.4,[LAS] Hamby Rebound (Off:2 Def:4),-76,157,4,,204324,,1611661320,12,20,0,1
+00:35.3,[MIN] McBride Foul: Personal (2 PF) (2 FTA),18,60,6,1630462,203825,202679,1611661324,12,20,0,1
+00:35.3,[LAS 21-12] McDonald Free Throw 1 of 2 (5 PTS),0,-80,3,,1630462,,1611661320,12,21,1,1
+00:35.3,[MIN] McBride Substitution replaced by Williams,0,-80,8,,203825,1627675,1611661324,12,21,0,1
+00:35.3,[LAS 22-12] McDonald Free Throw 2 of 2 (6 PTS),0,-80,3,,1630462,,1611661320,12,22,1,1
+00:22.9,[MIN 14-22] Époupa Driving Layup Shot: Made (2 PTS),-13,17,1,,1630151,,1611661324,14,22,2,1
+00:00.2,[LAS 25-14] Hamby 3pt Shot: Made (6 PTS) Assist: Brown (1 AST),142,187,1,,204324,1628882,1611661320,14,25,3,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,14,25,0,1
+00:00.0,End Period,0,-80,13,,0,,0,14,25,0,1
+10:00,Start Period,0,-80,12,,0,,0,14,25,0,2
+09:42,[MIN 17-25] Carleton 3pt Shot: Made (6 PTS) Assist: Williams (3 AST),162,172,1,,1629524,1627675,1611661324,17,25,3,2
+09:21,[LAS] Yueru Foul: Offensive (1 PF),46,53,6,1641657,1629574,202679,1611661320,17,25,0,2
+09:21,[LAS] Yueru Turnover : Offensive Foul Turnover (1 TO),46,53,5,,1629574,202679,1611661320,17,25,0,2
+09:05,[MIN] Williams Pullup Jump shot: Missed,118,71,2,,1627675,,1611661324,17,25,0,2
+09:01,[LAS] Yueru Rebound (Off:0 Def:1),118,71,4,,1629574,,1611661320,17,25,0,2
+08:51,[LAS] McDonald Turnover : Bad Pass (2 TO) Steal:Carleton (1 ST),4,255,5,1629524,1630462,,1611661320,17,25,0,2
+08:46,[MIN] Époupa Running Layup Shot: Missed,11,3,2,,1630151,,1611661324,17,25,0,2
+08:43,[LAS] Yueru Rebound (Off:0 Def:2),11,3,4,,1629574,,1611661320,17,25,0,2
+08:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,25,0,2
+08:26,[LAS 27-17] Jackson Pullup Jump shot: Made (8 PTS) Assist: McDonald (1 AST),-95,96,1,,1642288,1630462,1611661320,17,27,2,2
+08:10,[LAS] Yueru Foul: Shooting (2 PF) (2 FTA),24,2,6,1629501,1629574,202764,1611661320,17,27,0,2
+08:10,[MIN 18-27] Smith Free Throw 1 of 2 (3 PTS),0,-80,3,,1629501,,1611661324,18,27,1,2
+08:10,[MIN 19-27] Smith Free Throw 2 of 2 (4 PTS),0,-80,3,,1629501,,1611661324,19,27,1,2
+07:54,[MIN] Époupa Foul: Personal (1 PF),113,261,6,1630462,1630151,1629771,1611661324,19,27,0,2
+07:48,[LAS 29-19] Brown Pullup Jump shot: Made (2 PTS) Assist: Hamby (2 AST),-139,68,1,,1628882,204324,1611661320,19,29,2,2
+07:28,[MIN] Époupa Turnover : Traveling (1 TO),5,51,5,,1630151,202764,1611661324,19,29,0,2
+07:28,[MIN] Juhász Substitution replaced by Collier,0,-80,8,,1641657,1629483,1611661324,19,29,0,2
+07:07,[LAS] Jackson Layup Shot: Missed,11,33,2,,1642288,,1611661320,19,29,0,2
+07:03,[MIN] Smith Rebound (Off:0 Def:3),11,33,4,,1629501,,1611661324,19,29,0,2
+06:57,[MIN 21-29] Collier Running Jump Shot: Made (6 PTS) Assist: Époupa (1 AST),29,152,1,,1629483,1630151,1611661324,21,29,2,2
+06:34,[MIN] Smith Foul: Shooting (2 PF) (2 FTA),-33,9,6,1642288,1629501,202679,1611661324,21,29,0,2
+06:34,[LAS] Jackson Free Throw 1 of 2 Missed,0,-80,3,,1642288,,1611661320,21,29,0,2
+06:34,[LAS] Team Rebound,0,-80,4,,0,,1611661320,21,29,0,2
+06:34,[MIN] Époupa Substitution replaced by McBride,0,-80,8,,1630151,203825,1611661324,21,29,0,2
+06:34,[MIN] Smith Substitution replaced by Juhász,0,-80,8,,1629501,1641657,1611661324,21,29,0,2
+06:34,[LAS 30-21] Jackson Free Throw 2 of 2 (9 PTS),0,-80,3,,1642288,,1611661320,21,30,1,2
+06:24,[MIN] Collier Turnover : Bad Pass (1 TO) Steal:Hamby (3 ST),145,71,5,204324,1629483,,1611661324,21,30,0,2
+06:18,[LAS 32-21] Hamby Running Layup Shot: Made (8 PTS) Assist: Brown (2 AST),7,9,1,,204324,1628882,1611661320,21,32,2,2
+06:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,21,32,0,2
+06:10,[LAS] Jackson Substitution replaced by Talbot,0,-80,8,,1642288,203855,1611661320,21,32,0,2
+05:58,[MIN 23-32] Juhász Driving Layup Shot: Made (2 PTS) Assist: Carleton (1 AST),12,5,1,,1641657,1629524,1611661324,23,32,2,2
+05:33,[LAS] Brown Driving Layup Shot: Missed,22,6,2,,1628882,,1611661320,23,32,0,2
+05:31,[MIN] Collier Rebound (Off:0 Def:2),22,6,4,,1629483,,1611661324,23,32,0,2
+05:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,32,0,2
+05:31,Timeout : Official,0,-80,9,,0,,0,23,32,0,2
+05:21,[MIN] Juhász Turnover : Traveling (1 TO),81,162,5,,1641657,1629771,1611661324,23,32,0,2
+05:07,[LAS 35-23] Brown 3pt Shot: Made (5 PTS) Assist: Talbot (1 AST),193,144,1,,1628882,203855,1611661320,23,35,3,2
+04:49,[MIN 26-35] McBride 3pt Shot: Made (4 PTS) Assist: Williams (4 AST),-226,24,1,,203825,1627675,1611661324,26,35,3,2
+04:27,Jump Ball Williams vs Brown (Collier gains possession),0,-80,10,1628882,1627675,1629483,1611661324,26,35,0,2
+04:25,[LAS] Brown Turnover : Lost Ball (1 TO) Steal:Williams (1 ST),0,-80,5,1627675,1628882,,1611661320,26,35,0,2
+04:19,[MIN] Collier 3pt Shot: Missed,-35,239,2,,1629483,,1611661324,26,35,0,2
+04:16,[LAS] Brown Rebound (Off:0 Def:1),-35,239,4,,1628882,,1611661320,26,35,0,2
+04:09,[LAS 38-26] Brown 3pt Shot: Made (8 PTS) Assist: McDonald (2 AST),-173,185,1,,1628882,1630462,1611661320,26,38,3,2
+03:49,[MIN 28-38] Collier Driving Layup Shot: Made (8 PTS) Assist: Williams (5 AST),12,6,1,,1629483,1627675,1611661324,28,38,2,2
+03:31,[LAS] Hamby Turnover : Lost Ball (1 TO) Steal:Collier (3 ST),123,225,5,1629483,204324,,1611661320,28,38,0,2
+03:27,[MIN] Collier Running Layup Shot: Missed,18,10,2,,1629483,,1611661324,28,38,0,2
+03:26,[LAS] Yueru Rebound (Off:0 Def:3),18,10,4,,1629574,,1611661320,28,38,0,2
+03:26,Timeout : Regular,0,-80,9,,1611661320,,1611661320,28,38,0,2
+03:26,[LAS] Yueru Substitution replaced by Brink,0,-80,8,,1629574,1642287,1611661320,28,38,0,2
+03:01,[LAS 40-28] Brown Layup Shot: Made (10 PTS) Assist: McDonald (3 AST),-21,5,1,,1628882,1630462,1611661320,28,40,2,2
+02:47,[LAS] Talbot Foul: Personal (1 PF),-3,67,6,1629483,203855,202764,1611661320,28,40,0,2
+02:37,[MIN 30-40] Williams Pullup Jump shot: Made (2 PTS) Assist: Juhász (1 AST),161,137,1,,1627675,1641657,1611661324,30,40,2,2
+02:26,[LAS] Brink Pullup Jump shot: Missed,118,155,2,,1642287,,1611661320,30,40,0,2
+02:23,[MIN] Williams Rebound (Off:0 Def:1),118,155,4,,1627675,,1611661324,30,40,0,2
+02:16,[MIN] Williams Turnover : Lost Ball (1 TO) Steal:Brink (2 ST),5,173,5,1642287,1627675,,1611661324,30,40,0,2
+02:10,[LAS] Hamby Turnover : Lost Ball (2 TO) Steal:Collier (4 ST),-23,65,5,1629483,204324,,1611661320,30,40,0,2
+02:05,[MIN] McBride 3pt Shot: Missed,-99,233,2,,203825,,1611661324,30,40,0,2
+02:01,[MIN] Collier Rebound (Off:1 Def:2),-99,233,4,,1629483,,1611661324,30,40,0,2
+02:00,[MIN 32-40] Collier Fadeaway Jump Shot: Made (10 PTS),-1,49,1,,1629483,,1611661324,32,40,2,2
+01:39,[LAS] Brown Turnover : Bad Pass (2 TO) Steal:Collier (5 ST),110,92,5,1629483,1628882,,1611661320,32,40,0,2
+01:35,[MIN 34-40] Collier Running Layup Shot: Made (12 PTS) Assist: Williams (6 AST),-4,7,1,,1629483,1627675,1611661324,34,40,2,2
+01:35,[LAS] McDonald Foul: Shooting (2 PF) (1 FTA),-4,7,6,1629483,1630462,202679,1611661320,34,40,0,2
+01:35,[LAS] Brown Substitution replaced by Jackson,0,-80,8,,1628882,1642288,1611661320,34,40,0,2
+01:35,[LAS] Talbot Substitution replaced by Nurse,0,-80,8,,203855,1628915,1611661320,34,40,0,2
+01:35,[MIN 35-40] Collier Free Throw 1 of 1 (13 PTS),0,-80,3,,1629483,,1611661324,35,40,1,2
+01:23,[LAS] Jackson Turnover : Bad Pass (1 TO) Steal:Juhász (1 ST),152,237,5,1641657,1642288,,1611661320,35,40,0,2
+01:16,[MIN] Juhász Turnover : Bad Pass (2 TO) Steal:McDonald (1 ST),-5,62,5,1630462,1641657,,1611661324,35,40,0,2
+01:13,[LAS 42-35] Hamby Running Layup Shot: Made (10 PTS) Assist: McDonald (4 AST),-13,4,1,,204324,1630462,1611661320,35,42,2,2
+00:51.6,[MIN 37-42] Collier Driving Floating Jump Shot: Made (15 PTS),30,71,1,,1629483,,1611661324,37,42,2,2
+00:39.4,[LAS] Jackson Layup Shot: Missed,-22,1,2,,1642288,,1611661320,37,42,0,2
+00:37.9,[LAS] Jackson Rebound (Off:1 Def:1),-22,1,4,,1642288,,1611661320,37,42,0,2
+00:37.1,[LAS] Jackson Turnover : Bad Pass (2 TO) Steal:Collier (6 ST),26,15,5,1629483,1642288,,1611661320,37,42,0,2
+00:36.1,[LAS] Jackson Foul: Personal (1 PF),-81,774,6,1629483,1642288,202679,1611661320,37,42,0,2
+00:25.4,[LAS] Brink Foul: Shooting (3 PF) (2 FTA),2,40,6,1629483,1642287,1629771,1611661320,37,42,0,2
+00:25.4,[MIN 38-42] Collier Free Throw 1 of 2 (16 PTS),0,-80,3,,1629483,,1611661324,38,42,1,2
+00:25.4,[MIN] Williams Substitution replaced by Hiedeman,0,-80,8,,1627675,1629567,1611661324,38,42,0,2
+00:25.4,[LAS] Brink Substitution replaced by Yueru,0,-80,8,,1642287,1629574,1611661320,38,42,0,2
+00:25.4,[MIN 39-42] Collier Free Throw 2 of 2 (17 PTS),0,-80,3,,1629483,,1611661324,39,42,1,2
+00:10.1,[LAS] Hamby 3pt Shot: Missed,-143,203,2,,204324,,1611661320,39,42,0,2
+00:08.1,[LAS] Nurse Rebound (Off:1 Def:0),-143,203,4,,1628915,,1611661320,39,42,0,2
+00:02.1,[LAS 44-39] Hamby Driving Layup Shot: Made (12 PTS) Assist: McDonald (5 AST),4,6,1,,204324,1630462,1611661320,39,44,2,2
+00:00.0,End Period,0,-80,13,,0,,0,39,44,0,2
+10:00,Start Period,0,-80,12,,0,,0,39,44,0,3
+09:47,[LAS] Jackson Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (2 PF) (1 FTA),0,-80,6,,1642288,202679,1611661320,39,44,0,3
+09:47,[MIN 40-44] McBride Free Throw Technical (5 PTS),0,-80,3,,203825,,1611661324,40,44,1,3
+09:35,[MIN] Smith Turnover : 3 Second Violation (3 TO),-38,74,5,,1629501,202764,1611661324,40,44,0,3
+09:11,[LAS] Clarendon Driving Floating Jump Shot: Missed Block: Smith (2 BLK),21,48,2,1629501,203406,,1611661320,40,44,0,3
+09:07,[MIN] Collier Rebound (Off:1 Def:3),21,48,4,,1629483,,1611661324,40,44,0,3
+09:00,[MIN 42-44] Collier Layup Shot: Made (19 PTS) Assist: McBride (1 AST),4,17,1,,1629483,203825,1611661324,42,44,2,3
+08:45,[LAS] Brink Driving Layup Shot: Missed Block: Collier (2 BLK),19,23,2,1629483,1642287,,1611661320,42,44,0,3
+08:44,[LAS] Team Rebound,19,23,4,,0,,1611661320,42,44,0,3
+08:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,44,0,3
+08:39,[LAS] Nurse 3pt Shot: Missed,140,199,2,,1628915,,1611661320,42,44,0,3
+08:37,[LAS] Team Rebound,140,199,4,,0,,1611661320,42,44,0,3
+08:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,44,0,3
+08:34,[LAS] Jackson Turnover : Bad Pass (3 TO) Steal:Williams (2 ST),123,-4,5,1627675,1642288,,1611661320,42,44,0,3
+08:30,[MIN] Williams Running Pull-Up Jump Shot: Missed,6,96,2,,1627675,,1611661324,42,44,0,3
+08:26,[LAS] Jackson Rebound (Off:1 Def:2),6,96,4,,1642288,,1611661320,42,44,0,3
+08:09,[LAS] Brink Turnover : Bad Pass (3 TO) Steal:Collier (7 ST),158,185,5,1629483,1642287,,1611661320,42,44,0,3
+08:05,[MIN 44-44] Smith Running Layup Shot: Made (6 PTS) Assist: Collier (1 AST),-29,25,1,,1629501,1629483,1611661324,44,44,2,3
+08:05,[LAS] Brink Foul: Shooting (4 PF) (1 FTA),-29,25,6,1629501,1642287,202764,1611661320,44,44,0,3
+08:05,[LAS] Brink Substitution replaced by Yueru,0,-80,8,,1642287,1629574,1611661320,44,44,0,3
+08:05,[MIN] Smith Free Throw 1 of 1 Missed,0,-80,3,,1629501,,1611661324,44,44,0,3
+07:59,[LAS] Hamby Rebound (Off:2 Def:5),0,-80,4,,204324,,1611661320,44,44,0,3
+07:49,[LAS] Clarendon 3pt Shot: Missed,190,152,2,,203406,,1611661320,44,44,0,3
+07:45,[MIN] Carleton Rebound (Off:0 Def:1),190,152,4,,1629524,,1611661324,44,44,0,3
+07:33,[MIN] Carleton 3pt Shot: Missed,-228,52,2,,1629524,,1611661324,44,44,0,3
+07:30,[LAS] Hamby Rebound (Off:2 Def:6),-228,52,4,,204324,,1611661320,44,44,0,3
+07:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,44,0,3
+07:20,[LAS] Nurse Jump Shot: Missed Block: Smith (3 BLK),118,54,2,1629501,1628915,,1611661320,44,44,0,3
+07:18,[MIN] Williams Rebound (Off:0 Def:2),118,54,4,,1627675,,1611661324,44,44,0,3
+07:13,[MIN 46-44] Smith Running Layup Shot: Made (8 PTS) Assist: Williams (7 AST),-13,8,1,,1629501,1627675,1611661324,46,44,2,3
+06:53,[LAS] Nurse 3pt Shot: Missed,0,260,2,,1628915,,1611661320,46,44,0,3
+06:50,[LAS] Jackson Rebound (Off:2 Def:2),0,260,4,,1642288,,1611661320,46,44,0,3
+06:50,[LAS 46-46] Jackson Putback Layup Shot: Made (11 PTS),2,19,1,,1642288,,1611661320,46,46,2,3
+06:32,[MIN 48-46] Williams Pullup Jump shot: Made (4 PTS) Assist: Smith (2 AST),3,146,1,,1627675,1629501,1611661324,48,46,2,3
+06:10,[LAS] Yueru Driving Layup Shot: Missed,11,6,2,,1629574,,1611661320,48,46,0,3
+06:08,[MIN] Smith Rebound (Off:0 Def:4),11,6,4,,1629501,,1611661324,48,46,0,3
+06:05,[MIN] Collier Foul: Offensive (2 PF),-1,16,6,204324,1629483,202764,1611661324,48,46,0,3
+06:05,[MIN] Collier Turnover : Offensive Foul Turnover (2 TO),-1,16,5,,1629483,202764,1611661324,48,46,0,3
+05:48,[LAS 48-48] Yueru Jump Shot: Made (2 PTS) Assist: Jackson (2 AST),-5,167,1,,1629574,1642288,1611661320,48,48,2,3
+05:27,[MIN] Collier 3pt Shot: Missed,-190,138,2,,1629483,,1611661324,48,48,0,3
+05:23,[LAS] Jackson Rebound (Off:2 Def:3),-190,138,4,,1642288,,1611661320,48,48,0,3
+05:12,[LAS] Yueru Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-31,237,5,,1629574,202764,1611661320,48,48,0,3
+05:04,[MIN] McBride Turnover : Bad Pass (3 TO) Steal:Clarendon (1 ST),-99,247,5,203406,203825,,1611661324,48,48,0,3
+05:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,48,0,3
+05:00,[LAS] Clarendon Substitution replaced by McDonald,0,-80,8,,203406,1630462,1611661320,48,48,0,3
+04:48,[LAS] Yueru Reverse Layup Shot: Missed,-11,10,2,,1629574,,1611661320,48,48,0,3
+04:45,[MIN] Williams Rebound (Off:0 Def:3),-11,10,4,,1627675,,1611661324,48,48,0,3
+04:41,[MIN] Collier 3pt Shot: Missed,-15,234,2,,1629483,,1611661324,48,48,0,3
+04:38,[LAS] Jackson Rebound (Off:2 Def:4),-15,234,4,,1642288,,1611661320,48,48,0,3
+04:29,[LAS] Hamby 3pt Shot: Missed,225,38,2,,204324,,1611661320,48,48,0,3
+04:28,[LAS] Team Rebound,225,38,4,,0,,1611661320,48,48,0,3
+04:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,48,0,3
+04:28,Timeout : Official,0,-80,9,,0,,0,48,48,0,3
+04:16,[LAS] Jackson Turnover : Lost Ball (4 TO) Steal:Carleton (2 ST),-92,241,5,1629524,1642288,,1611661320,48,48,0,3
+04:09,[MIN 51-48] Williams 3pt Shot: Made (7 PTS) Assist: Smith (3 AST),-174,164,1,,1627675,1629501,1611661324,51,48,3,3
+03:49,[LAS] Nurse Pullup Jump shot: Missed,17,163,2,,1628915,,1611661320,51,48,0,3
+03:46,[MIN] Williams Rebound (Off:0 Def:4),17,163,4,,1627675,,1611661324,51,48,0,3
+03:41,[MIN] McBride 3pt Shot: Missed,-90,221,2,,203825,,1611661324,51,48,0,3
+03:39,[LAS] Hamby Rebound (Off:2 Def:7),-90,221,4,,204324,,1611661320,51,48,0,3
+03:32,[MIN] Williams Foul: Personal (1 PF),151,28,6,204324,1627675,202679,1611661324,51,48,0,3
+03:32,[LAS] Nurse Substitution replaced by Brown,0,-80,8,,1628915,1628882,1611661320,51,48,0,3
+03:32,[MIN] Williams Substitution replaced by Hiedeman,0,-80,8,,1627675,1629567,1611661324,51,48,0,3
+03:23,[LAS] McDonald 3pt Shot: Missed,-163,188,2,,1630462,,1611661320,51,48,0,3
+03:17,[MIN] Smith Rebound (Off:0 Def:5),-163,188,4,,1629501,,1611661324,51,48,0,3
+03:14,[LAS] McDonald Foul: Shooting (3 PF) (2 FTA),3,31,6,1629483,1630462,202679,1611661320,51,48,0,3
+03:14,[MIN 52-48] Collier Free Throw 1 of 2 (20 PTS),0,-80,3,,1629483,,1611661324,52,48,1,3
+03:14,[MIN] Collier Free Throw 2 of 2 Missed,0,-80,3,,1629483,,1611661324,52,48,0,3
+03:13,[MIN] Smith Rebound (Off:1 Def:5),0,-80,4,,1629501,,1611661324,52,48,0,3
+03:07,[MIN] Collier 3pt Shot: Missed,-164,175,2,,1629483,,1611661324,52,48,0,3
+03:04,[LAS] Jackson Rebound (Off:2 Def:5),-164,175,4,,1642288,,1611661320,52,48,0,3
+02:52,[LAS] Jackson Turnaround Jump Shot: Missed,-11,114,2,,1642288,,1611661320,52,48,0,3
+02:49,[MIN] Hiedeman Rebound (Off:0 Def:1),-11,114,4,,1629567,,1611661324,52,48,0,3
+02:42,[MIN 54-48] Smith Layup Shot: Made (10 PTS) Assist: Collier (2 AST),10,8,1,,1629501,1629483,1611661324,54,48,2,3
+02:26,[LAS 50-54] McDonald Driving Layup Shot: Made (8 PTS) Assist: Yueru (1 AST),-12,18,1,,1630462,1629574,1611661320,54,50,2,3
+02:10,[MIN 57-50] Carleton 3pt Shot: Made (9 PTS) Assist: McBride (2 AST),226,37,1,,1629524,203825,1611661324,57,50,3,3
+01:45,[LAS] Brown 3pt Shot: Missed,-140,241,2,,1628882,,1611661320,57,50,0,3
+01:44,[LAS] Team Rebound,-140,241,4,,0,,1611661320,57,50,0,3
+01:44,[MIN] Smith Foul: Loose Ball (3 PF),2,34,6,1629574,1629501,202679,1611661324,57,50,0,3
+01:44,[MIN] Smith Substitution replaced by Juhász,0,-80,8,,1629501,1641657,1611661324,57,50,0,3
+01:44,[LAS] Jackson Substitution replaced by Talbot,0,-80,8,,1642288,203855,1611661320,57,50,0,3
+01:44,[LAS] Yueru Substitution replaced by Burrell,0,-80,8,,1629574,1630996,1611661320,57,50,0,3
+01:41,[LAS] Burrell Turnover : Bad Pass (1 TO) Steal:Collier (8 ST),135,64,5,1629483,1630996,,1611661320,57,50,0,3
+01:32,[MIN] Collier Turnaround Jump Shot: Missed,17,42,2,,1629483,,1611661324,57,50,0,3
+01:29,[LAS] Hamby Rebound (Off:2 Def:8),17,42,4,,204324,,1611661320,57,50,0,3
+01:07,[LAS] Brown 3pt Shot: Missed,-229,32,2,,1628882,,1611661320,57,50,0,3
+01:05,[MIN] Juhász Rebound (Off:0 Def:1),-229,32,4,,1641657,,1611661324,57,50,0,3
+00:58.1,[MIN] Carleton 3pt Shot: Missed,-212,108,2,,1629524,,1611661324,57,50,0,3
+00:55.7,[LAS] McDonald Rebound (Off:1 Def:1),-212,108,4,,1630462,,1611661320,57,50,0,3
+00:52.4,[LAS 52-57] McDonald Running Layup Shot: Made (10 PTS),-11,11,1,,1630462,,1611661320,57,52,2,3
+00:40.5,[MIN] McBride Turnover : Bad Pass (4 TO) Steal:McDonald (2 ST),-77,156,5,1630462,203825,,1611661324,57,52,0,3
+00:34.3,[LAS 54-57] Hamby Running Layup Shot: Made (14 PTS) Assist: McDonald (6 AST),2,24,1,,204324,1630462,1611661320,57,54,2,3
+00:24.1,[MIN 59-54] Collier Jump Shot: Made (22 PTS) Assist: Juhász (2 AST),35,117,1,,1629483,1641657,1611661324,59,54,2,3
+00:00.7,[LAS 56-59] McDonald Driving Floating Jump Shot: Made (12 PTS) Assist: Brown (3 AST),30,152,1,,1630462,1628882,1611661320,59,56,2,3
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,59,56,0,3
+00:00.0,End Period,0,-80,13,,0,,0,59,56,0,3
+10:00,Start Period,0,-80,12,,0,,0,59,56,0,4
+09:49,[LAS] Talbot 3pt Shot: Missed,210,109,2,,203855,,1611661320,59,56,0,4
+09:44,[MIN] Carleton Rebound (Off:0 Def:2),210,109,4,,1629524,,1611661324,59,56,0,4
+09:31,[LAS] McDonald Foul: Personal (4 PF),-29,31,6,1629567,1630462,1629771,1611661320,59,56,0,4
+09:25,[MIN] Williams Jump Shot: Missed,95,146,2,,1627675,,1611661324,59,56,0,4
+09:21,[MIN] Collier Rebound (Off:2 Def:3),95,146,4,,1629483,,1611661324,59,56,0,4
+09:19,[MIN 61-56] Collier Putback Layup Shot: Made (24 PTS),16,6,1,,1629483,,1611661324,61,56,2,4
+08:56,[LAS 58-61] Hamby Cutting Layup Shot: Made (16 PTS) Assist: Brown (4 AST),18,17,1,,204324,1628882,1611661320,61,58,2,4
+08:42,[LAS] Brown Foul: Personal (1 PF),-108,138,6,1629483,1628882,202679,1611661320,61,58,0,4
+08:33,[MIN 63-58] Williams Pullup Jump shot: Made (9 PTS),124,144,1,,1627675,,1611661324,63,58,2,4
+08:15,[MIN] Williams Foul: Shooting (2 PF) (2 FTA),-10,18,6,1630996,1627675,202764,1611661324,63,58,0,4
+08:15,[LAS 59-63] Burrell Free Throw 1 of 2 (1 PTS),0,-80,3,,1630996,,1611661320,63,59,1,4
+08:15,[MIN] Hiedeman Substitution replaced by Époupa,0,-80,8,,1629567,1630151,1611661324,63,59,0,4
+08:15,[LAS] Burrell Free Throw 2 of 2 Missed,0,-80,3,,1630996,,1611661320,63,59,0,4
+08:13,[MIN] Juhász Rebound (Off:0 Def:2),0,-80,4,,1641657,,1611661324,63,59,0,4
+08:04,[MIN] Carleton 3pt Shot: Missed,122,225,2,,1629524,,1611661324,63,59,0,4
+08:00,[MIN] Carleton Rebound (Off:1 Def:2),122,225,4,,1629524,,1611661324,63,59,0,4
+07:56,[MIN] Williams 3pt Shot: Missed,-143,188,2,,1627675,,1611661324,63,59,0,4
+07:53,[LAS] Burrell Rebound (Off:0 Def:1),-143,188,4,,1630996,,1611661320,63,59,0,4
+07:33,[LAS 61-63] Brown Driving Layup Shot: Made (12 PTS),19,8,1,,1628882,,1611661320,63,61,2,4
+07:09,[MIN 65-61] Williams Pullup Jump shot: Made (11 PTS),-144,76,1,,1627675,,1611661324,65,61,2,4
+06:43,[LAS] Brown Step Back Jump shot: Missed,185,106,2,,1628882,,1611661320,65,61,0,4
+06:40,[MIN] Williams Rebound (Off:0 Def:5),208,115,4,,1627675,,1611661324,65,61,0,4
+06:36,[LAS] McDonald Violation:Kicked Ball,0,-80,7,,1630462,,1611661320,65,61,0,4
+06:36,[MIN] Juhász Substitution replaced by Smith,0,-80,8,,1641657,1629501,1611661324,65,61,0,4
+06:36,[LAS] Burrell Substitution replaced by Jackson,0,-80,8,,1630996,1642288,1611661320,65,61,0,4
+06:28,[LAS] Hamby Foul: Shooting (1 PF) (2 FTA),-11,-1,6,1629483,204324,202764,1611661320,65,61,0,4
+06:28,[MIN 66-61] Collier Free Throw 1 of 2 (25 PTS),0,-80,3,,1629483,,1611661324,66,61,1,4
+06:28,[LAS] McDonald Substitution replaced by Clarendon,0,-80,8,,1630462,203406,1611661320,66,61,0,4
+06:28,[MIN 67-61] Collier Free Throw 2 of 2 (26 PTS),0,-80,3,,1629483,,1611661324,67,61,1,4
+06:10,[LAS 63-67] Talbot Cutting Layup Shot: Made (2 PTS) Assist: Clarendon (2 AST),17,7,1,,203855,203406,1611661320,67,63,2,4
+05:56,[MIN] Époupa Turnover : Lost Ball (2 TO) Steal:Jackson (1 ST),-26,9,5,1642288,1630151,,1611661324,67,63,0,4
+05:50,[LAS] Talbot 3pt Shot: Missed,149,214,2,,203855,,1611661320,67,63,0,4
+05:46,[MIN] Collier Rebound (Off:2 Def:4),149,214,4,,1629483,,1611661324,67,63,0,4
+05:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,63,0,4
+05:41,Timeout : Regular,0,-80,9,,1611661324,,1611661324,67,63,0,4
+05:41,[MIN] Époupa Substitution replaced by McBride,0,-80,8,,1630151,203825,1611661324,67,63,0,4
+05:37,[MIN 69-63] Collier Cutting Layup Shot: Made (28 PTS) Assist: Williams (8 AST),-21,5,1,,1629483,1627675,1611661324,69,63,2,4
+05:21,[LAS 65-69] Jackson Jump Bank Shot: Made (13 PTS) Assist: Talbot (2 AST),-28,28,1,,1642288,203855,1611661320,69,65,2,4
+05:03,[MIN] Collier Layup Shot: Missed Block: Hamby (1 BLK),-21,3,2,204324,1629483,,1611661324,69,65,0,4
+05:02,[MIN] Team Rebound,-21,3,4,,0,,1611661324,69,65,0,4
+05:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,65,0,4
+05:01,[MIN 71-65] Carleton Cutting Layup Shot: Made (11 PTS) Assist: Williams (9 AST),6,8,1,,1629524,1627675,1611661324,71,65,2,4
+04:45,[LAS] Talbot Turnover : Bad Pass (1 TO) Steal:Williams (3 ST),115,157,5,1627675,203855,,1611661320,71,65,0,4
+04:34,[LAS] Jackson Foul: Personal (3 PF),-27,59,6,1629483,1642288,202764,1611661320,71,65,0,4
+04:34,[LAS] Talbot Substitution replaced by Brink,0,-80,8,,203855,1642287,1611661320,71,65,0,4
+04:28,[MIN 73-65] McBride Driving Floating Jump Shot: Made (7 PTS) Assist: Williams (10 AST),6,31,1,,203825,1627675,1611661324,73,65,2,4
+04:16,[LAS] Brown Pullup Jump shot: Missed,4,121,2,,1628882,,1611661320,73,65,0,4
+04:13,[MIN] Williams Rebound (Off:0 Def:6),4,121,4,,1627675,,1611661324,73,65,0,4
+04:06,[MIN] Smith Turnaround Jump Shot: Missed,-24,19,2,,1629501,,1611661324,73,65,0,4
+04:04,[LAS] Hamby Rebound (Off:2 Def:9),-24,19,4,,204324,,1611661320,73,65,0,4
+03:59,[MIN] Williams Foul: Personal (3 PF),7,74,6,203406,1627675,202764,1611661324,73,65,0,4
+03:59,[LAS] Clarendon Substitution replaced by McDonald,0,-80,8,,203406,1630462,1611661320,73,65,0,4
+03:51,[LAS] McDonald Driving Layup Shot: Missed,-13,18,2,,1630462,,1611661320,73,65,0,4
+03:50,[LAS] Jackson Rebound (Off:3 Def:5),-13,18,4,,1642288,,1611661320,73,65,0,4
+03:50,[MIN] Carleton Foul: Shooting (3 PF) (2 FTA),-18,22,6,1642288,1629524,202679,1611661324,73,65,0,4
+03:50,[LAS 66-73] Jackson Free Throw 1 of 2 (14 PTS),0,-80,3,,1642288,,1611661320,73,66,1,4
+03:50,[LAS 67-73] Jackson Free Throw 2 of 2 (15 PTS),0,-80,3,,1642288,,1611661320,73,67,1,4
+03:37,[MIN] McBride Driving Layup Shot: Missed,-12,4,2,,203825,,1611661324,73,67,0,4
+03:33,[MIN] Smith Rebound (Off:2 Def:5),-12,4,4,,1629501,,1611661324,73,67,0,4
+03:30,[MIN 76-67] Williams 3pt Shot: Made (14 PTS) Assist: Carleton (2 AST),-205,122,1,,1627675,1629524,1611661324,76,67,3,4
+03:06,[LAS] McDonald 3pt Shot: Missed,-112,223,2,,1630462,,1611661320,76,67,0,4
+03:05,[MIN] Team Rebound,-112,223,4,,0,,1611661324,76,67,0,4
+03:05,[LAS] Jackson Foul: Loose Ball (4 PF) (2 FTA),-4,779,6,1627675,1642288,202679,1611661320,76,67,0,4
+03:05,Timeout : Regular,0,-80,9,,1611661320,,1611661320,76,67,0,4
+03:05,[LAS] Brown Substitution replaced by Nurse,0,-80,8,,1628882,1628915,1611661320,76,67,0,4
+03:05,[MIN] Williams Free Throw 1 of 2 Missed,0,-80,3,,1627675,,1611661324,76,67,0,4
+03:05,[MIN] Team Rebound,0,-80,4,,0,,1611661324,76,67,0,4
+03:05,[MIN 77-67] Williams Free Throw 2 of 2 (15 PTS),0,-80,3,,1627675,,1611661324,77,67,1,4
+02:46,[LAS] Brink Turnover : Lost Ball (4 TO) Steal:Carleton (3 ST),-117,96,5,1629524,1642287,,1611661320,77,67,0,4
+02:43,[MIN] McBride 3pt Shot: Missed,-200,132,2,,203825,,1611661324,77,67,0,4
+02:39,[LAS] Jackson Rebound (Off:3 Def:6),-200,132,4,,1642288,,1611661320,77,67,0,4
+02:31,[LAS 70-77] Nurse 3pt Shot: Made (8 PTS) Assist: Jackson (3 AST),-144,217,1,,1628915,1642288,1611661320,77,70,3,4
+02:12,[MIN] Smith Turnover : Lost Ball (4 TO) Steal:McDonald (3 ST),61,176,5,1630462,1629501,,1611661324,77,70,0,4
+02:08,[LAS 72-77] McDonald Running Layup Shot: Made (14 PTS),-7,10,1,,1630462,,1611661320,77,72,2,4
+01:50,[MIN] Smith Foul: Offensive Charge (4 PF),-38,30,6,1642288,1629501,202679,1611661324,77,72,0,4
+01:50,[MIN] Smith Turnover : Offensive Foul Turnover (5 TO),-38,30,5,,1629501,202679,1611661324,77,72,0,4
+01:50,Timeout : Regular,0,-80,9,,1611661320,,1611661320,77,72,0,4
+01:50,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661320,77,72,0,4
+01:41,[LAS] Brink 3pt Shot: Missed,-23,239,2,,1642287,,1611661320,77,72,0,4
+01:37,[MIN] Williams Rebound (Off:0 Def:7),-23,239,4,,1627675,,1611661324,77,72,0,4
+01:26,[LAS] Hamby Foul: Personal (2 PF) (2 FTA),-99,269,6,1629501,204324,202764,1611661320,77,72,0,4
+01:26,[MIN 78-72] Smith Free Throw 1 of 2 (11 PTS),0,-80,3,,1629501,,1611661324,78,72,1,4
+01:26,[MIN 79-72] Smith Free Throw 2 of 2 (12 PTS),0,-80,3,,1629501,,1611661324,79,72,1,4
+01:13,[MIN] Smith Foul: Shooting (5 PF) (2 FTA),27,11,6,1642288,1629501,202679,1611661324,79,72,0,4
+01:13,[LAS 73-79] Jackson Free Throw 1 of 2 (16 PTS),0,-80,3,,1642288,,1611661320,79,73,1,4
+01:13,[LAS 74-79] Jackson Free Throw 2 of 2 (17 PTS),0,-80,3,,1642288,,1611661320,79,74,1,4
+01:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,79,74,0,4
+01:12,Timeout : Regular,0,-80,9,,1611661324,,1611661324,79,74,0,4
+00:55.7,[MIN] Williams Jump Shot: Missed,20,165,2,,1627675,,1611661324,79,74,0,4
+00:53.8,[LAS] Brink Rebound (Off:1 Def:3),20,165,4,,1642287,,1611661320,79,74,0,4
+00:53.8,Timeout : Regular,0,-80,9,,1611661320,,1611661320,79,74,0,4
+00:44.8,[LAS] McDonald Turnover : Bad Pass (3 TO) Steal:Williams (4 ST),40,87,5,1627675,1630462,,1611661320,79,74,0,4
+00:21.8,[MIN] Collier 3pt Shot: Missed,172,162,2,,1629483,,1611661324,79,74,0,4
+00:19.5,[LAS] Jackson Rebound (Off:3 Def:7),172,162,4,,1642288,,1611661320,79,74,0,4
+00:19.5,Timeout : Regular,0,-80,9,,1611661320,,1611661320,79,74,0,4
+00:10.5,[LAS 76-79] Jackson Driving Floating Jump Shot: Made (19 PTS) Assist: McDonald (7 AST),-49,118,1,,1642288,1630462,1611661320,79,76,2,4
+00:10.1,Timeout : Reset,0,-80,9,,1611661324,,1611661324,79,76,0,4
+00:08.1,[LAS] Hamby Foul: Personal (3 PF) (2 FTA),35,317,6,1629483,204324,202764,1611661320,79,76,0,4
+00:08.1,[MIN 80-76] Collier Free Throw 1 of 2 (29 PTS),0,-80,3,,1629483,,1611661324,80,76,1,4
+00:08.1,[MIN 81-76] Collier Free Throw 2 of 2 (30 PTS),0,-80,3,,1629483,,1611661324,81,76,1,4
+00:08.1,Timeout : Reset,0,-80,9,,1611661320,,1611661320,81,76,0,4
+00:08.1,[LAS] Brink Substitution replaced by Brown,0,-80,8,,1642287,1628882,1611661320,81,76,0,4
+00:06.0,[LAS] Brown 3pt Shot: Missed,221,82,2,,1628882,,1611661320,81,76,0,4
+00:03.2,[MIN] Williams Rebound (Off:0 Def:8),221,82,4,,1627675,,1611661324,81,76,0,4
+00:00.0,End Period,0,-80,13,,0,,0,81,76,0,4

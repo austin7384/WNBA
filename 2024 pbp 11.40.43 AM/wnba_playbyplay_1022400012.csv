@@ -1,0 +1,459 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Williams vs McCowan (Evans gains possession),0,-80,10,1629479,204322,1630389,1611661329,0,0,0,1
+09:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:43,[CHI] Reese Turnover : Bad Pass (1 TO) Steal:Siegrist (1 ST),-40,187,5,1641652,1642291,,1611661329,0,0,0,1
+09:39,[DAL] Siegrist Running Pull-Up Jump Shot: Missed Block: DeShields (1 BLK),32,167,2,1628890,1641652,,1611661321,0,0,0,1
+09:35,[CHI] Mabrey Rebound (Off:0 Def:1),32,167,4,,1629497,,1611661329,0,0,0,1
+09:24,[CHI] Mabrey 3pt Shot: Missed,142,205,2,,1629497,,1611661329,0,0,0,1
+09:23,[CHI] DeShields Rebound (Off:1 Def:0),142,205,4,,1628890,,1611661329,0,0,0,1
+09:23,[CHI] DeShields Turnover : Traveling (1 TO),15,208,5,,1628890,200667,1611661329,0,0,0,1
+09:05,[DAL 2-0] McCowan Layup Shot: Made (2 PTS) Assist: Uzun (1 AST),1,24,1,,1629479,1642244,1611661321,2,0,2,1
+08:48,[CHI] DeShields 3pt Shot: Missed,-106,216,2,,1628890,,1611661329,2,0,0,1
+08:45,[DAL] Uzun Rebound (Off:0 Def:1),-106,216,4,,1642244,,1611661321,2,0,0,1
+08:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,0,0,1
+08:25,[DAL] Ogunbowale Jump Shot: Missed,107,32,2,,1629481,,1611661321,2,0,0,1
+08:23,[CHI] Williams Rebound (Off:0 Def:1),107,32,4,,204322,,1611661329,2,0,0,1
+08:13,[CHI] Mabrey Turnover : Traveling (1 TO),56,92,5,,1629497,200667,1611661329,2,0,0,1
+08:00,[DAL] Soares Turnover : Bad Pass (1 TO) Steal:Mabrey (1 ST),-74,162,5,1629497,1641654,,1611661321,2,0,0,1
+07:53,[CHI] Williams Running Layup Shot: Missed,-18,19,2,,204322,,1611661329,2,0,0,1
+07:50,[CHI] Reese Rebound (Off:1 Def:0),-18,19,4,,1642291,,1611661329,2,0,0,1
+07:49,[CHI] Reese Layup Shot: Missed Block: McCowan (1 BLK),-12,22,2,1629479,1642291,,1611661329,2,0,0,1
+07:46,[CHI] Williams Rebound (Off:1 Def:1),-12,22,4,,204322,,1611661329,2,0,0,1
+07:46,[DAL] Soares Foul: Shooting (1 PF) (2 FTA),21,24,6,1642291,1641654,1629174,1611661321,2,0,0,1
+07:46,[CHI 1-2] Reese Free Throw 1 of 2 (1 PTS),0,-80,3,,1642291,,1611661329,2,1,1,1
+07:46,[CHI 2-2] Reese Free Throw 2 of 2 (2 PTS),0,-80,3,,1642291,,1611661329,2,2,1,1
+07:31,[DAL] McCowan Reverse Layup Shot: Missed Block: Williams (1 BLK),-20,18,2,204322,1629479,,1611661321,2,2,0,1
+07:27,[CHI] Mabrey Rebound (Off:0 Def:2),-20,18,4,,1629497,,1611661329,2,2,0,1
+07:23,[CHI] Mabrey Running Layup Shot: Missed,11,38,2,,1629497,,1611661329,2,2,0,1
+07:20,[DAL] McCowan Rebound (Off:0 Def:1),11,38,4,,1629479,,1611661321,2,2,0,1
+07:12,[DAL 5-2] Ogunbowale 3pt Shot: Made (3 PTS),-162,206,1,,1629481,,1611661321,5,2,3,1
+06:57,[CHI 4-5] DeShields Pullup Jump shot: Made (2 PTS) Assist: Evans (1 AST),65,153,1,,1628890,1630389,1611661329,5,4,2,1
+06:41,[DAL] Ogunbowale 3pt Shot: Missed,125,214,2,,1629481,,1611661321,5,4,0,1
+06:41,[CHI] Williams Rebound (Off:1 Def:2),125,214,4,,204322,,1611661329,5,4,0,1
+06:36,[CHI 6-5] DeShields Running Layup Shot: Made (4 PTS) Assist: Williams (1 AST),6,10,1,,1628890,204322,1611661329,5,6,2,1
+06:10,[DAL] Uzun Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),32,26,5,204322,1642244,,1611661321,5,6,0,1
+06:10,[CHI] Williams Turnover : Traveling (1 TO),9,841,5,,204322,1629174,1611661329,5,6,0,1
+06:10,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,5,6,0,1
+06:10,[CHI] DeShields Substitution replaced by Carter,0,-80,8,,1628890,1630150,1611661329,5,6,0,1
+05:56,[DAL] McCowan Foul: Offensive (1 PF),-15,254,6,204322,1629479,1629174,1611661321,5,6,0,1
+05:56,[DAL] McCowan Turnover : Offensive Foul Turnover (1 TO),-15,254,5,,1629479,1629174,1611661321,5,6,0,1
+05:42,[CHI] Mabrey Driving Layup Shot: Missed,-40,15,2,,1629497,,1611661329,5,6,0,1
+05:41,[DAL] Soares Rebound (Off:0 Def:1),-40,15,4,,1641654,,1611661321,5,6,0,1
+05:41,[DAL] Soares Turnover : Lost Ball (2 TO) Steal:Reese (1 ST),-40,825,5,1642291,1641654,,1611661321,5,6,0,1
+05:39,[CHI 8-5] Williams Layup Shot: Made (2 PTS) Assist: Mabrey (1 AST),4,17,1,,204322,1629497,1611661329,5,8,2,1
+05:23,[DAL] McCowan Layup Shot: Missed,13,22,2,,1629479,,1611661321,5,8,0,1
+05:20,[CHI] Carter Rebound (Off:0 Def:1),13,22,4,,1630150,,1611661329,5,8,0,1
+05:16,[CHI] Carter Pullup Jump shot: Missed Block: Soares (1 BLK),-91,134,2,1641654,1630150,,1611661329,5,8,0,1
+05:15,[CHI] Reese Rebound (Off:2 Def:0),-91,134,4,,1642291,,1611661329,5,8,0,1
+05:14,[DAL] Siegrist Foul: Shooting (1 PF) (2 FTA),-11,33,6,1642291,1641652,202764,1611661321,5,8,0,1
+05:14,[CHI 9-5] Reese Free Throw 1 of 2 (3 PTS),0,-80,3,,1642291,,1611661329,5,9,1,1
+05:14,[CHI 10-5] Reese Free Throw 2 of 2 (4 PTS),0,-80,3,,1642291,,1611661329,5,10,1,1
+05:14,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,5,10,0,1
+05:14,[DAL] Siegrist Substitution replaced by Billings,0,-80,8,,1641652,1628881,1611661321,5,10,0,1
+05:14,[CHI] Williams Substitution replaced by Turner,0,-80,8,,204322,1629488,1611661329,5,10,0,1
+04:58,[DAL] Ogunbowale Driving Layup Shot: Missed,30,39,2,,1629481,,1611661321,5,10,0,1
+04:56,[DAL] Brown Rebound (Off:1 Def:0),30,39,4,,1629480,,1611661321,5,10,0,1
+04:55,[DAL 7-10] Brown Putback Layup Shot: Made (2 PTS),11,21,1,,1629480,,1611661321,7,10,2,1
+04:55,[CHI] Turner Foul: Shooting (1 PF) (1 FTA),12,17,6,1629480,1629488,202764,1611661329,7,10,0,1
+04:55,Timeout : Official,0,-80,9,,0,,0,7,10,0,1
+04:55,[DAL 8-10] Brown Free Throw 1 of 1 (3 PTS),0,-80,3,,1629480,,1611661321,8,10,1,1
+04:32,[CHI] Carter 3pt Shot: Missed,90,235,2,,1630150,,1611661329,8,10,0,1
+04:31,[CHI] Team Rebound,90,235,4,,0,,1611661329,8,10,0,1
+04:29,[CHI] Team Turnover : Shot Clock Turnover,107,48,5,,0,1629174,1611661329,8,10,0,1
+04:21,[CHI] Reese Foul: Personal (1 PF),27,113,6,1628881,1642291,200667,1611661329,8,10,0,1
+04:08,[DAL 10-10] Sheldon Driving Floating Bank Jump Shot: Made (2 PTS),-89,42,1,,1642292,,1611661321,10,10,2,1
+03:48,[CHI 12-10] Carter Driving Layup Shot: Made (2 PTS) Assist: Mabrey (2 AST),37,32,1,,1630150,1629497,1611661329,10,12,2,1
+03:32,[DAL] Brown Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),-88,173,5,1629488,1629480,,1611661321,10,12,0,1
+03:27,[CHI] Mabrey 3pt Shot: Missed,-124,198,2,,1629497,,1611661329,10,12,0,1
+03:24,[DAL] Soares Rebound (Off:0 Def:2),-124,198,4,,1641654,,1611661321,10,12,0,1
+03:19,[DAL 13-12] Ogunbowale 3pt Shot: Made (6 PTS) Assist: Sheldon (1 AST),-177,193,1,,1629481,1642292,1611661321,13,12,3,1
+03:01,[CHI] Evans 3pt Shot: Missed,9,269,2,,1630389,,1611661329,13,12,0,1
+02:59,[DAL] Ogunbowale Rebound (Off:0 Def:1),9,269,4,,1629481,,1611661321,13,12,0,1
+02:56,[DAL] Sheldon Running Layup Shot: Missed Block: Evans (1 BLK),-35,22,2,1630389,1642292,,1611661321,13,12,0,1
+02:56,[DAL] Team Rebound,-35,22,4,,0,,1611661321,13,12,0,1
+02:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,12,0,1
+02:56,[DAL] Soares Substitution replaced by Lopez Sénéchal,0,-80,8,,1641654,1641661,1611661321,13,12,0,1
+02:56,[CHI] Mabrey Substitution replaced by Allen,0,-80,8,,1629497,1628263,1611661329,13,12,0,1
+02:56,[CHI] Evans Substitution replaced by Onyenwere,0,-80,8,,1630389,1630446,1611661329,13,12,0,1
+02:54,[CHI] Turner Foul: Shooting (2 PF) (2 FTA),-32,17,6,1629480,1629488,202764,1611661329,13,12,0,1
+02:54,[DAL 14-12] Brown Free Throw 1 of 2 (4 PTS),0,-80,3,,1629480,,1611661321,14,12,1,1
+02:54,[CHI] Turner Substitution replaced by Williams,0,-80,8,,1629488,204322,1611661329,14,12,0,1
+02:54,[DAL 15-12] Brown Free Throw 2 of 2 (5 PTS),0,-80,3,,1629480,,1611661321,15,12,1,1
+02:42,[CHI] Carter Driving Layup Shot: Missed,33,47,2,,1630150,,1611661329,15,12,0,1
+02:40,[CHI] Williams Rebound (Off:2 Def:2),33,47,4,,204322,,1611661329,15,12,0,1
+02:40,[CHI] Williams Tip Layup Shot: Missed,-5,27,2,,204322,,1611661329,15,12,0,1
+02:38,[DAL] Brown Rebound (Off:1 Def:1),-5,27,4,,1629480,,1611661321,15,12,0,1
+02:32,[DAL] Sheldon 3pt Shot: Missed,196,145,2,,1642292,,1611661321,15,12,0,1
+02:32,[CHI] Onyenwere Rebound (Off:0 Def:1),196,145,4,,1630446,,1611661329,15,12,0,1
+02:31,[DAL] Billings Foul: Personal (1 PF),11,813,6,1630446,1628881,200667,1611661321,15,12,0,1
+02:16,[CHI] Williams Jump Shot: Missed,66,140,2,,204322,,1611661329,15,12,0,1
+02:14,[DAL] Sheldon Rebound (Off:0 Def:1),66,140,4,,1642292,,1611661321,15,12,0,1
+02:08,[CHI] Carter Foul: Shooting (1 PF) (2 FTA),-66,137,6,1629481,1630150,1629174,1611661329,15,12,0,1
+02:08,[DAL 16-12] Ogunbowale Free Throw 1 of 2 (7 PTS),0,-80,3,,1629481,,1611661321,16,12,1,1
+02:08,[DAL 17-12] Ogunbowale Free Throw 2 of 2 (8 PTS),0,-80,3,,1629481,,1611661321,17,12,1,1
+01:58,[DAL] Lopez Sénéchal Foul: Personal (1 PF),12,59,6,1630446,1641661,1629174,1611661321,17,12,0,1
+01:52,[DAL] Lopez Sénéchal Foul: Personal (2 PF) (2 FTA),113,146,6,204322,1641661,1629174,1611661321,17,12,0,1
+01:52,[CHI 13-17] Williams Free Throw 1 of 2 (3 PTS),0,-80,3,,204322,,1611661329,17,13,1,1
+01:52,[DAL] Lopez Sénéchal Substitution replaced by Uzun,0,-80,8,,1641661,1642244,1611661321,17,13,0,1
+01:52,[CHI 14-17] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,204322,,1611661329,17,14,1,1
+01:43,[DAL] Uzun Turnover : Traveling (2 TO),144,209,5,,1642244,200667,1611661321,17,14,0,1
+01:43,[DAL] Billings Substitution replaced by Soares,0,-80,8,,1628881,1641654,1611661321,17,14,0,1
+01:32,[CHI] Allen Turnover : Bad Pass (1 TO) Steal:Soares (1 ST),-128,135,5,1641654,1628263,,1611661329,17,14,0,1
+01:10,[DAL] Soares Foul: Offensive Charge (2 PF),2,6,6,1630446,1641654,1629174,1611661321,17,14,0,1
+01:10,[DAL] Soares Turnover : Offensive Foul Turnover (3 TO),2,6,5,,1641654,1629174,1611661321,17,14,0,1
+00:56.6,[CHI] Reese Layup Shot: Missed Block: Soares (2 BLK),34,49,2,1641654,1642291,,1611661329,17,14,0,1
+00:55.6,[CHI] Reese Rebound (Off:3 Def:0),34,49,4,,1642291,,1611661329,17,14,0,1
+00:51.8,[CHI] Reese Layup Shot: Missed Block: Soares (3 BLK),4,37,2,1641654,1642291,,1611661329,17,14,0,1
+00:51.8,[CHI] Reese Rebound (Off:4 Def:0),4,37,4,,1642291,,1611661329,17,14,0,1
+00:51.8,[CHI] Onyenwere Turnover : Traveling (1 TO),-17,31,5,,1630446,1629174,1611661329,17,14,0,1
+00:41.3,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-31,260,5,,1629481,202764,1611661321,17,14,0,1
+00:24.1,[CHI] Carter Pullup Jump shot: Missed,-125,62,2,,1630150,,1611661329,17,14,0,1
+00:21.0,[DAL] Sheldon Rebound (Off:0 Def:2),-125,62,4,,1642292,,1611661321,17,14,0,1
+00:01.2,[DAL] Ogunbowale Driving Floating Bank Jump Shot: Missed,107,64,2,,1629481,,1611661321,17,14,0,1
+00:01.2,[DAL] Brown Rebound (Off:2 Def:1),107,64,4,,1629480,,1611661321,17,14,0,1
+00:01.2,[DAL 19-14] Brown Tip Layup Shot: Made (7 PTS),8,21,1,,1629480,,1611661321,19,14,2,1
+00:01.2,[CHI] Onyenwere Foul: Shooting (1 PF) (1 FTA),12,32,6,1629480,1630446,202764,1611661329,19,14,0,1
+00:01.2,[DAL 20-14] Brown Free Throw 1 of 1 (8 PTS),0,-80,3,,1629480,,1611661321,20,14,1,1
+00:00.0,Period End,0,-80,13,,0,,0,20,14,0,1
+10:00,Start Period,0,-80,12,,0,,0,20,14,0,2
+09:44,[DAL] Ogunbowale Pullup Jump shot: Missed,-120,156,2,,1629481,,1611661321,20,14,0,2
+09:43,[CHI] Team Rebound,-120,156,4,,0,,1611661329,20,14,0,2
+09:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,14,0,2
+09:27,[CHI] Williams Jump Shot: Missed,112,132,2,,204322,,1611661329,20,14,0,2
+09:25,[DAL] Soares Rebound (Off:0 Def:3),112,132,4,,1641654,,1611661321,20,14,0,2
+09:18,[DAL] Uzun Pullup Jump shot: Missed,-132,28,2,,1642244,,1611661321,20,14,0,2
+09:15,[CHI] Onyenwere Rebound (Off:0 Def:2),-132,28,4,,1630446,,1611661329,20,14,0,2
+09:07,[CHI 16-20] Onyenwere Driving Layup Shot: Made (2 PTS),1,15,1,,1630446,,1611661329,20,16,2,2
+08:50,[CHI] Onyenwere Foul: Personal (2 PF),-68,58,6,1641654,1630446,200667,1611661329,20,16,0,2
+08:50,[DAL] Soares Substitution replaced by McCowan,0,-80,8,,1641654,1629479,1611661321,20,16,0,2
+08:50,[DAL] Brown Substitution replaced by Siegrist,0,-80,8,,1629480,1641652,1611661321,20,16,0,2
+08:43,[DAL 22-16] Siegrist Turnaround Fadeaway shot: Made (2 PTS) Assist: Ogunbowale (1 AST),-33,108,1,,1641652,1629481,1611661321,22,16,2,2
+08:30,[CHI 18-22] DeShields Pullup Jump shot: Made (6 PTS) Assist: Williams (2 AST),137,95,1,,1628890,204322,1611661329,22,18,2,2
+08:14,[CHI] Williams Foul: Shooting (1 PF) (2 FTA),21,48,6,1642292,204322,202764,1611661329,22,18,0,2
+08:14,[DAL 23-18] Sheldon Free Throw 1 of 2 (3 PTS),0,-80,3,,1642292,,1611661321,23,18,1,2
+08:14,[DAL 24-18] Sheldon Free Throw 2 of 2 (4 PTS),0,-80,3,,1642292,,1611661321,24,18,1,2
+08:04,[DAL] Uzun Foul: Personal (1 PF),33,241,6,1628263,1642244,1629174,1611661321,24,18,0,2
+08:04,[CHI] Onyenwere Substitution replaced by Reese,0,-80,8,,1630446,1642291,1611661329,24,18,0,2
+08:04,[CHI] Allen Substitution replaced by Evans,0,-80,8,,1628263,1630389,1611661329,24,18,0,2
+07:54,[CHI 20-24] Williams Floating Jump shot: Made (6 PTS) Assist: Mabrey (3 AST),11,73,1,,204322,1629497,1611661329,24,20,2,2
+07:32,[DAL] Sheldon Fadeaway Jump Shot: Missed,49,115,2,,1642292,,1611661321,24,20,0,2
+07:30,[CHI] Team Rebound,49,115,4,,0,,1611661329,24,20,0,2
+07:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,20,0,2
+07:16,[CHI] Reese Foul: Offensive (2 PF),-86,111,6,1642244,1642291,1629174,1611661329,24,20,0,2
+07:16,[CHI] Reese Turnover : Offensive Foul Turnover (2 TO),-86,111,5,,1642291,1629174,1611661329,24,20,0,2
+07:00,[DAL 26-20] McCowan Turnaround Jump Shot: Made (4 PTS) Assist: Ogunbowale (2 AST),-42,66,1,,1629479,1629481,1611661321,26,20,2,2
+06:44,[CHI] Reese Layup Shot: Missed,29,44,2,,1642291,,1611661329,26,20,0,2
+06:43,[CHI] Reese Rebound (Off:5 Def:0),29,44,4,,1642291,,1611661329,26,20,0,2
+06:42,[CHI] Reese Layup Shot: Missed Block: McCowan (2 BLK),-13,31,2,1629479,1642291,,1611661329,26,20,0,2
+06:42,[DAL] McCowan Rebound (Off:0 Def:2),-13,31,4,,1629479,,1611661321,26,20,0,2
+06:42,[CHI] Reese Foul: Personal (3 PF),18,762,6,1629479,1642291,202764,1611661329,26,20,0,2
+06:42,[CHI] Reese Substitution replaced by Turner,0,-80,8,,1642291,1629488,1611661329,26,20,0,2
+06:31,[DAL] Siegrist Fadeaway Jump Shot: Missed Block: Turner (1 BLK),-15,118,2,1629488,1641652,,1611661321,26,20,0,2
+06:30,[DAL] McCowan Rebound (Off:1 Def:2),-15,118,4,,1629479,,1611661321,26,20,0,2
+06:30,[CHI] Williams Foul: Personal (2 PF),11,53,6,1629479,204322,200667,1611661329,26,20,0,2
+06:21,[DAL] Siegrist Driving Layup Shot: Missed,29,38,2,,1641652,,1611661321,26,20,0,2
+06:18,[CHI] Mabrey Rebound (Off:0 Def:3),29,38,4,,1629497,,1611661329,26,20,0,2
+06:07,[DAL] Ogunbowale Foul: Personal (1 PF),102,229,6,1629497,1629481,202764,1611661321,26,20,0,2
+06:01,[CHI 22-26] Evans Jump Shot: Made (2 PTS) Assist: DeShields (1 AST),7,167,1,,1630389,1628890,1611661329,26,22,2,2
+05:44,[DAL] Uzun Turnover : Bad Pass (3 TO) Steal:Evans (1 ST),28,207,5,1630389,1642244,,1611661321,26,22,0,2
+05:41,[CHI] Evans Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-102,-12,5,,1630389,1629174,1611661329,26,22,0,2
+05:41,Timeout : Regular,0,-80,9,,1611661321,,1611661321,26,22,0,2
+05:41,[DAL] Sheldon Substitution replaced by Lopez Sénéchal,0,-80,8,,1642292,1641661,1611661321,26,22,0,2
+05:17,[DAL] McCowan Turnover : Lost Ball (2 TO) Steal:Williams (2 ST),-13,14,5,204322,1629479,,1611661321,26,22,0,2
+05:17,Jump Ball Williams vs McCowan,0,-80,10,1629479,204322,,1611661329,26,22,0,2
+05:17,[DAL] McCowan Foul: Loose Ball (2 PF),-6,687,6,204322,1629479,202764,1611661321,26,22,0,2
+05:04,[CHI] Williams Jump Shot: Missed,123,128,2,,204322,,1611661329,26,22,0,2
+05:02,[CHI] Team Rebound,123,128,4,,0,,1611661329,26,22,0,2
+05:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,22,0,2
+05:02,[DAL] Siegrist Substitution replaced by Soares,0,-80,8,,1641652,1641654,1611661321,26,22,0,2
+04:50,[CHI 25-26] DeShields 3pt Shot: Made (9 PTS) Assist: Evans (2 AST),-123,199,1,,1628890,1630389,1611661329,26,25,3,2
+04:31,[DAL] Ogunbowale 3pt Shot: Missed,-124,238,2,,1629481,,1611661321,26,25,0,2
+04:28,[DAL] Lopez Sénéchal Rebound (Off:1 Def:0),-124,238,4,,1641661,,1611661321,26,25,0,2
+04:17,[DAL] Ogunbowale Pullup Jump shot: Missed Block: Turner (2 BLK),-51,81,2,1629488,1629481,,1611661321,26,25,0,2
+04:15,[CHI] Williams Rebound (Off:2 Def:3),-51,81,4,,204322,,1611661329,26,25,0,2
+04:14,[DAL] Lopez Sénéchal Foul: Shooting (3 PF) (2 FTA),33,33,6,1628890,1641661,200667,1611661321,26,25,0,2
+04:14,[CHI 26-26] DeShields Free Throw 1 of 2 (10 PTS),0,-80,3,,1628890,,1611661329,26,26,1,2
+04:14,[DAL] Lopez Sénéchal Substitution replaced by Billings,0,-80,8,,1641661,1628881,1611661321,26,26,0,2
+04:14,[CHI] DeShields Free Throw 2 of 2 Missed,0,-80,3,,1628890,,1611661329,26,26,0,2
+04:11,[DAL] Billings Rebound (Off:0 Def:1),0,-80,4,,1628881,,1611661321,26,26,0,2
+04:00,[DAL 28-26] Uzun Driving Layup Shot: Made (2 PTS) Assist: Billings (1 AST),8,15,1,,1642244,1628881,1611661321,28,26,2,2
+03:46,[CHI] Evans 3pt Shot: Missed,-18,257,2,,1630389,,1611661329,28,26,0,2
+03:44,[DAL] Ogunbowale Rebound (Off:0 Def:2),-18,257,4,,1629481,,1611661321,28,26,0,2
+03:42,[CHI] Evans Foul: Shooting (1 PF) (2 FTA),16,22,6,1628881,1630389,200667,1611661329,28,26,0,2
+03:42,[DAL] Billings Free Throw 1 of 2 Missed,0,-80,3,,1628881,,1611661321,28,26,0,2
+03:42,[DAL] Team Rebound,0,-80,4,,0,,1611661321,28,26,0,2
+03:42,[DAL 29-26] Billings Free Throw 2 of 2 (1 PTS),0,-80,3,,1628881,,1611661321,29,26,1,2
+03:27,[CHI] Turner Jump Shot: Missed,-177,-3,2,,1629488,,1611661329,29,26,0,2
+03:24,[DAL] Billings Rebound (Off:0 Def:2),-177,-3,4,,1628881,,1611661321,29,26,0,2
+03:20,[DAL] Billings Running Layup Shot: Missed,23,23,2,,1628881,,1611661321,29,26,0,2
+03:18,[DAL] Soares Rebound (Off:1 Def:3),23,23,4,,1641654,,1611661321,29,26,0,2
+03:16,[DAL 32-26] Uzun 3pt Shot: Made (5 PTS) Assist: Soares (1 AST),161,189,1,,1642244,1641654,1611661321,32,26,3,2
+03:15,Timeout : Regular,0,-80,9,,1611661329,,1611661329,32,26,0,2
+02:56,[CHI] Williams Cutting Layup Shot: Missed,29,67,2,,204322,,1611661329,32,26,0,2
+02:55,[DAL] Team Rebound,29,67,4,,0,,1611661321,32,26,0,2
+02:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,26,0,2
+02:44,[CHI] Mabrey Foul: Shooting (1 PF) (2 FTA),2,110,6,1628881,1629497,1629174,1611661329,32,26,0,2
+02:44,[DAL 33-26] Billings Free Throw 1 of 2 (2 PTS),0,-80,3,,1628881,,1611661321,33,26,1,2
+02:44,[DAL 34-26] Billings Free Throw 2 of 2 (3 PTS),0,-80,3,,1628881,,1611661321,34,26,1,2
+02:31,[CHI] Evans Driving Floating Jump Shot: Missed,54,115,2,,1630389,,1611661329,34,26,0,2
+02:29,[CHI] Williams Rebound (Off:3 Def:3),54,115,4,,204322,,1611661329,34,26,0,2
+02:27,[CHI] Mabrey 3pt Shot: Missed,16,241,2,,1629497,,1611661329,34,26,0,2
+02:23,[DAL] Ogunbowale Rebound (Off:0 Def:3),16,241,4,,1629481,,1611661321,34,26,0,2
+02:16,[DAL] Billings 3pt Shot: Missed,-233,23,2,,1628881,,1611661321,34,26,0,2
+02:15,[DAL] Soares Rebound (Off:2 Def:3),-233,23,4,,1641654,,1611661321,34,26,0,2
+02:14,[DAL] Soares Putback Layup Shot: Missed Block: Williams (2 BLK),18,51,2,204322,1641654,,1611661321,34,26,0,2
+02:14,[DAL] Team Rebound,18,51,4,,0,,1611661321,34,26,0,2
+02:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,26,0,2
+02:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,26,0,2
+02:09,[DAL 36-26] Ogunbowale Step Back Jump shot: Made (10 PTS) Assist: Uzun (2 AST),-120,136,1,,1629481,1642244,1611661321,36,26,2,2
+01:57,[CHI] DeShields 3pt Shot: Missed,160,192,2,,1628890,,1611661329,36,26,0,2
+01:55,[CHI] Turner Rebound (Off:1 Def:0),160,192,4,,1629488,,1611661329,36,26,0,2
+01:53,[CHI 28-36] Williams Layup Shot: Made (8 PTS) Assist: Mabrey (4 AST),6,20,1,,204322,1629497,1611661329,36,28,2,2
+01:38,[CHI] DeShields Foul: Personal (1 PF) (2 FTA),91,166,6,1629481,1628890,202764,1611661329,36,28,0,2
+01:38,[CHI] DeShields Technical (1 FTA),0,-80,6,,1628890,1629174,1611661329,36,28,0,2
+01:38,[DAL 37-28] Ogunbowale Free Throw Technical (11 PTS),0,-80,3,,1629481,,1611661321,37,28,1,2
+01:38,[DAL 38-28] Ogunbowale Free Throw 1 of 2 (12 PTS),0,-80,3,,1629481,,1611661321,38,28,1,2
+01:38,[DAL 39-28] Ogunbowale Free Throw 2 of 2 (13 PTS),0,-80,3,,1629481,,1611661321,39,28,1,2
+01:22,[CHI] Evans Turnover : Step Out of Bounds Turnover (2 TO),-228,27,5,,1630389,1629174,1611661329,39,28,0,2
+01:09,[DAL] McCowan Layup Shot: Missed,1,51,2,,1629479,,1611661321,39,28,0,2
+01:05,[CHI] Mabrey Rebound (Off:0 Def:4),1,51,4,,1629497,,1611661329,39,28,0,2
+00:59.0,[CHI] Williams Running Layup Shot: Missed,13,40,2,,204322,,1611661329,39,28,0,2
+00:56.9,[DAL] Soares Rebound (Off:2 Def:4),13,40,4,,1641654,,1611661321,39,28,0,2
+00:53.7,[DAL] Ogunbowale 3pt Shot: Missed,-143,212,2,,1629481,,1611661321,39,28,0,2
+00:52.6,[DAL] Billings Rebound (Off:1 Def:2),-143,212,4,,1628881,,1611661321,39,28,0,2
+00:47.2,[DAL 42-28] Ogunbowale 3pt Shot: Made (16 PTS) Assist: Billings (2 AST),-202,125,1,,1629481,1628881,1611661321,42,28,3,2
+00:33.7,[CHI 30-42] DeShields Driving Finger Roll Layup Shot: Made (12 PTS) Assist: Evans (3 AST),13,4,1,,1628890,1630389,1611661329,42,30,2,2
+00:09.7,[DAL] Team Turnover : Shot Clock Turnover,4,174,5,,0,,1611661321,42,30,0,2
+00:09.7,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,42,30,0,2
+00:09.7,[DAL] Ogunbowale Substitution replaced by Siegrist,0,-80,8,,1629481,1641652,1611661321,42,30,0,2
+00:01.0,[CHI] Williams Jump Shot: Missed,6,116,2,,204322,,1611661329,42,30,0,2
+00:01.0,[DAL] Siegrist Rebound (Off:0 Def:1),6,116,4,,1641652,,1611661321,42,30,0,2
+00:00.0,Period End,0,-80,13,,0,,0,42,30,0,2
+10:00,Start Period,0,-80,12,,0,,0,42,30,0,3
+09:41,[DAL 44-30] Ogunbowale Pullup Jump shot: Made (18 PTS) Assist: Uzun (3 AST),51,162,1,,1629481,1642244,1611661321,44,30,2,3
+09:22,[CHI 32-44] Evans Driving Floating Bank Jump Shot: Made (4 PTS),-44,91,1,,1630389,,1611661329,44,32,2,3
+09:04,[DAL] Billings Turnover : Bad Pass (1 TO) Steal:Williams (3 ST),143,208,5,204322,1628881,,1611661321,44,32,0,3
+08:57,[CHI 35-44] Mabrey 3pt Shot: Made (3 PTS) Assist: Reese (1 AST),-149,220,1,,1629497,1642291,1611661329,44,35,3,3
+08:46,[CHI] Williams Foul: Personal (3 PF),61,240,6,1629479,204322,1629174,1611661329,44,35,0,3
+08:39,[DAL 47-35] Ogunbowale 3pt Shot: Made (21 PTS) Assist: Uzun (4 AST),167,210,1,,1629481,1642244,1611661321,47,35,3,3
+08:15,[CHI 37-47] Mabrey Turnaround Jump Shot: Made (5 PTS),115,124,1,,1629497,,1611661329,47,37,2,3
+08:04,[DAL] Ogunbowale Step Back Jump shot: Missed,-201,19,2,,1629481,,1611661321,47,37,0,3
+08:01,[CHI] DeShields Rebound (Off:1 Def:1),-201,19,4,,1628890,,1611661329,47,37,0,3
+07:58,[CHI 39-47] Mabrey Running Layup Shot: Made (7 PTS) Assist: DeShields (2 AST),10,16,1,,1629497,1628890,1611661329,47,39,2,3
+07:43,[CHI] Mabrey Foul: Personal (2 PF),148,101,6,1628881,1629497,200667,1611661329,47,39,0,3
+07:43,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,47,39,0,3
+07:35,[DAL 50-39] Ogunbowale 3pt Shot: Made (24 PTS) Assist: Uzun (5 AST),206,162,1,,1629481,1642244,1611661321,50,39,3,3
+07:27,[CHI] Evans Turnover : Bad Pass (3 TO) Steal:Ogunbowale (1 ST),18,103,5,1629481,1630389,,1611661329,50,39,0,3
+07:20,[DAL] Billings Turnover : Bad Pass (2 TO) Steal:Williams (4 ST),-2,60,5,204322,1628881,,1611661321,50,39,0,3
+07:09,[DAL] Uzun Foul: Shooting (2 PF) (2 FTA),7,69,6,1630389,1642244,200667,1611661321,50,39,0,3
+07:09,[CHI 40-50] Evans Free Throw 1 of 2 (5 PTS),0,-80,3,,1630389,,1611661329,50,40,1,3
+07:09,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,50,40,0,3
+07:09,[CHI 41-50] Evans Free Throw 2 of 2 (6 PTS),0,-80,3,,1630389,,1611661329,50,41,1,3
+06:58,[DAL] Sheldon Turnover : Lost Ball (1 TO) Steal:DeShields (1 ST),-101,341,5,1628890,1642292,,1611661321,50,41,0,3
+06:52,[CHI 43-50] DeShields Running Layup Shot: Made (14 PTS) Assist: Reese (2 AST),6,19,1,,1628890,1642291,1611661329,50,43,2,3
+06:42,[DAL] Sheldon Turnover : Bad Pass (2 TO) Steal:Mabrey (2 ST),-177,180,5,1629497,1642292,,1611661321,50,43,0,3
+06:37,[CHI] Mabrey Running Layup Shot: Missed,8,22,2,,1629497,,1611661329,50,43,0,3
+06:35,[CHI] Mabrey Rebound (Off:1 Def:4),8,22,4,,1629497,,1611661329,50,43,0,3
+06:34,[CHI] DeShields Jump Bank Shot: Missed,16,31,2,,1628890,,1611661329,50,43,0,3
+06:32,[CHI] DeShields Rebound (Off:2 Def:1),16,31,4,,1628890,,1611661329,50,43,0,3
+06:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,43,0,3
+06:20,[CHI 45-50] Evans Driving Floating Jump Shot: Made (8 PTS),-9,114,1,,1630389,,1611661329,50,45,2,3
+06:20,[CHI] Reese Foul: Loose Ball (4 PF),1,715,6,1642292,1642291,1629174,1611661329,50,45,0,3
+06:09,[CHI] Williams Foul: Shooting (4 PF) (2 FTA),-22,26,6,1629480,204322,200667,1611661329,50,45,0,3
+06:09,[DAL] Brown Free Throw 1 of 2 Missed,0,-80,3,,1629480,,1611661321,50,45,0,3
+06:09,[DAL] Team Rebound,0,-80,4,,0,,1611661321,50,45,0,3
+06:09,[DAL] Billings Substitution replaced by Siegrist,0,-80,8,,1628881,1641652,1611661321,50,45,0,3
+06:09,[CHI] Williams Substitution replaced by Onyenwere,0,-80,8,,204322,1630446,1611661329,50,45,0,3
+06:09,[CHI] Reese Substitution replaced by Turner,0,-80,8,,1642291,1629488,1611661329,50,45,0,3
+06:09,[DAL 51-45] Brown Free Throw 2 of 2 (9 PTS),0,-80,3,,1629480,,1611661321,51,45,1,3
+05:58,[CHI] Mabrey 3pt Shot: Missed,-1,273,2,,1629497,,1611661329,51,45,0,3
+05:56,[CHI] Mabrey Rebound (Off:2 Def:4),-1,273,4,,1629497,,1611661329,51,45,0,3
+05:51,[CHI] Mabrey Jump Shot: Missed,143,23,2,,1629497,,1611661329,51,45,0,3
+05:48,[DAL] Sheldon Rebound (Off:0 Def:3),143,23,4,,1642292,,1611661321,51,45,0,3
+05:44,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-15,266,5,,1629481,202764,1611661321,51,45,0,3
+05:31,[CHI 47-51] DeShields Driving Layup Shot: Made (16 PTS) Assist: Evans (4 AST),6,18,1,,1628890,1630389,1611661329,51,47,2,3
+05:31,[DAL] Soares Foul: Shooting (3 PF) (1 FTA),11,21,6,1628890,1641654,200667,1611661321,51,47,0,3
+05:31,[CHI] DeShields Free Throw 1 of 1 Missed,0,-80,3,,1628890,,1611661329,51,47,0,3
+05:26,[DAL] Ogunbowale Rebound (Off:0 Def:4),0,-80,4,,1629481,,1611661321,51,47,0,3
+05:22,[DAL] Ogunbowale 3pt Shot: Missed,144,208,2,,1629481,,1611661321,51,47,0,3
+05:20,[DAL] Siegrist Rebound (Off:1 Def:1),144,208,4,,1641652,,1611661321,51,47,0,3
+05:19,[DAL 53-47] Siegrist Putback Layup Shot: Made (4 PTS),5,13,1,,1641652,,1611661321,53,47,2,3
+05:05,[CHI] Evans Pullup Jump shot: Missed,-39,101,2,,1630389,,1611661329,53,47,0,3
+05:03,[DAL] Brown Rebound (Off:2 Def:2),-39,101,4,,1629480,,1611661321,53,47,0,3
+04:52,[DAL] Siegrist 3pt Shot: Missed,-189,148,2,,1641652,,1611661321,53,47,0,3
+04:49,[CHI] Turner Rebound (Off:1 Def:1),-189,148,4,,1629488,,1611661329,53,47,0,3
+04:30,[CHI] Evans Driving Layup Shot: Missed Block: Sheldon (1 BLK),1,135,2,1642292,1630389,,1611661329,53,47,0,3
+04:27,[DAL] Sheldon Rebound (Off:0 Def:4),1,135,4,,1642292,,1611661321,53,47,0,3
+04:25,[DAL 55-47] Siegrist Running Layup Shot: Made (6 PTS) Assist: Sheldon (2 AST),3,6,1,,1641652,1642292,1611661321,55,47,2,3
+04:14,[CHI] Turner Foul: Offensive (3 PF),-123,226,6,1629481,1629488,202764,1611661329,55,47,0,3
+04:14,[CHI] Turner Turnover : Offensive Foul Turnover (1 TO),-123,226,5,,1629488,202764,1611661329,55,47,0,3
+04:14,Timeout : Official,0,-80,9,,0,,0,55,47,0,3
+04:14,[DAL] Ogunbowale Substitution replaced by Uzun,0,-80,8,,1629481,1642244,1611661321,55,47,0,3
+04:14,[CHI] DeShields Substitution replaced by Carter,0,-80,8,,1628890,1630150,1611661329,55,47,0,3
+04:14,[CHI] Evans Substitution replaced by Allen,0,-80,8,,1630389,1628263,1611661329,55,47,0,3
+04:14,[DAL] Sheldon Turnover : Backcourt Turnover (3 TO),-4,471,5,,1642292,200667,1611661321,55,47,0,3
+04:14,[DAL] Sheldon Substitution replaced by Ogunbowale,0,-80,8,,1642292,1629481,1611661321,55,47,0,3
+04:07,[CHI] Carter Driving Layup Shot: Missed Block: Brown (1 BLK),-16,33,2,1629480,1630150,,1611661329,55,47,0,3
+04:03,[DAL] Soares Rebound (Off:2 Def:5),-16,33,4,,1641654,,1611661321,55,47,0,3
+04:00,[CHI] Mabrey Foul: Personal (3 PF) (2 FTA),138,24,6,1629481,1629497,1629174,1611661329,55,47,0,3
+04:00,[DAL 56-47] Ogunbowale Free Throw 1 of 2 (25 PTS),0,-80,3,,1629481,,1611661321,56,47,1,3
+04:00,[DAL 57-47] Ogunbowale Free Throw 2 of 2 (26 PTS),0,-80,3,,1629481,,1611661321,57,47,1,3
+03:46,[CHI] Mabrey 3pt Shot: Missed,-168,209,2,,1629497,,1611661329,57,47,0,3
+03:43,[DAL] Brown Rebound (Off:2 Def:3),-168,209,4,,1629480,,1611661321,57,47,0,3
+03:36,[DAL 59-47] Uzun Running Layup Shot: Made (7 PTS),7,15,1,,1642244,,1611661321,59,47,2,3
+03:19,[CHI 49-59] Carter Driving Layup Shot: Made (4 PTS) Assist: Turner (1 AST),0,26,1,,1630150,1629488,1611661329,59,49,2,3
+03:06,[DAL] Brown Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-105,31,5,,1629480,200667,1611661321,59,49,0,3
+03:06,[CHI] Mabrey Substitution replaced by Gondrezick,0,-80,8,,1629497,1630438,1611661329,59,49,0,3
+02:46,[CHI 51-59] Allen Driving Layup Shot: Made (2 PTS) Assist: Gondrezick (1 AST),11,28,1,,1628263,1630438,1611661329,59,51,2,3
+02:35,[DAL] Ogunbowale Floating Jump shot: Missed Block: Turner (3 BLK),7,78,2,1629488,1629481,,1611661321,59,51,0,3
+02:30,[DAL] Brown Rebound (Off:3 Def:3),7,78,4,,1629480,,1611661321,59,51,0,3
+02:29,[DAL 61-51] Brown Putback Layup Shot: Made (11 PTS),5,22,1,,1629480,,1611661321,61,51,2,3
+02:21,[CHI] Carter Driving Layup Shot: Missed,17,28,2,,1630150,,1611661329,61,51,0,3
+02:18,[DAL] Soares Rebound (Off:2 Def:6),17,28,4,,1641654,,1611661321,61,51,0,3
+02:13,[DAL] Ogunbowale Running Pull-Up Jump Shot: Missed,-122,78,2,,1629481,,1611661321,61,51,0,3
+02:10,[CHI] Allen Rebound (Off:0 Def:1),-122,78,4,,1628263,,1611661329,61,51,0,3
+02:07,[CHI 53-61] Carter Running Layup Shot: Made (6 PTS) Assist: Allen (1 AST),-3,13,1,,1630150,1628263,1611661329,61,53,2,3
+01:59,Timeout : Regular,0,-80,9,,1611661321,,1611661321,61,53,0,3
+01:59,[CHI] Carter Substitution replaced by DeShields,0,-80,8,,1630150,1628890,1611661329,61,53,0,3
+01:52,[DAL] Brown Foul: Offensive (1 PF),24,44,6,1629488,1629480,1629174,1611661321,61,53,0,3
+01:52,[DAL] Brown Turnover : Offensive Foul Turnover (3 TO),24,44,5,,1629480,1629174,1611661321,61,53,0,3
+01:38,[CHI] Gondrezick 3pt Shot: Missed,-65,264,2,,1630438,,1611661329,61,53,0,3
+01:35,[DAL] Brown Rebound (Off:3 Def:4),-65,264,4,,1629480,,1611661321,61,53,0,3
+01:25,[DAL 63-53] Uzun Cutting Layup Shot: Made (9 PTS) Assist: Brown (1 AST),12,19,1,,1642244,1629480,1611661321,63,53,2,3
+01:14,[CHI] DeShields Driving Layup Shot: Missed Block: Soares (4 BLK),22,39,2,1641654,1628890,,1611661329,63,53,0,3
+01:12,[CHI] Gondrezick Rebound (Off:1 Def:0),22,39,4,,1630438,,1611661329,63,53,0,3
+01:12,[CHI] Gondrezick Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-116,15,5,,1630438,200667,1611661329,63,53,0,3
+01:12,Timeout : Official,0,-80,9,,0,,0,63,53,0,3
+01:12,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,63,53,0,3
+01:12,[CHI] DeShields Substitution replaced by Mabrey,0,-80,8,,1628890,1629497,1611661329,63,53,0,3
+00:53.8,[DAL] Siegrist Fadeaway Jump Shot: Missed,12,95,2,,1641652,,1611661321,63,53,0,3
+00:49.5,[CHI] Turner Rebound (Off:1 Def:2),12,95,4,,1629488,,1611661329,63,53,0,3
+00:42.5,[CHI] Mabrey Turnover : Bad Pass (2 TO) Steal:McCowan (1 ST),-50,28,5,1629479,1629497,,1611661329,63,53,0,3
+00:29.7,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-102,62,2,,1629481,,1611661321,63,53,0,3
+00:27.3,[CHI] Mabrey Rebound (Off:2 Def:5),-102,62,4,,1629497,,1611661329,63,53,0,3
+00:24.5,[CHI 55-63] Gondrezick Running Layup Shot: Made (2 PTS) Assist: Mabrey (5 AST),-5,17,1,,1630438,1629497,1611661329,63,55,2,3
+00:03.3,[DAL] McCowan Layup Shot: Missed Block: Onyenwere (1 BLK),-11,42,2,1630446,1629479,,1611661321,63,55,0,3
+00:00.2,[CHI] Onyenwere Rebound (Off:0 Def:3),-11,42,4,,1630446,,1611661329,63,55,0,3
+00:00.0,[CHI] Onyenwere 3pt Shot: Missed,-65,239,2,,1630446,,1611661329,63,55,0,3
+00:00.0,[CHI] Team Rebound,-65,239,4,,0,,1611661329,63,55,0,3
+00:00.0,Period End,0,-80,13,,0,,0,63,55,0,3
+10:00,Start Period,0,-80,12,,0,,0,63,55,0,4
+09:41,[CHI 58-63] Mabrey 3pt Shot: Made (10 PTS) Assist: Williams (3 AST),169,195,1,,1629497,204322,1611661329,63,58,3,4
+09:21,[DAL] Uzun Turnover : Bad Pass (4 TO) Steal:DeShields (2 ST),101,57,5,1628890,1642244,,1611661321,63,58,0,4
+09:17,[CHI] DeShields Turnover : Bad Pass (2 TO) Steal:Uzun (1 ST),-99,139,5,1642244,1628890,,1611661329,63,58,0,4
+09:10,[DAL] Ogunbowale Running Layup Shot: Missed,-21,6,2,,1629481,,1611661321,63,58,0,4
+09:07,[CHI] Williams Rebound (Off:3 Def:4),-21,6,4,,204322,,1611661329,63,58,0,4
+08:58,[CHI] Mabrey 3pt Shot: Missed,-21,250,2,,1629497,,1611661329,63,58,0,4
+08:56,[DAL] McCowan Rebound (Off:1 Def:3),-21,250,4,,1629479,,1611661321,63,58,0,4
+08:51,[DAL 65-58] Billings Running Layup Shot: Made (5 PTS) Assist: Ogunbowale (3 AST),3,13,1,,1628881,1629481,1611661321,65,58,2,4
+08:29,[CHI 60-65] Reese Reverse Layup Shot: Made (6 PTS) Assist: DeShields (3 AST),-5,21,1,,1642291,1628890,1611661329,65,60,2,4
+08:14,[DAL] Billings Driving Layup Shot: Missed,6,26,2,,1628881,,1611661321,65,60,0,4
+08:11,[CHI] DeShields Rebound (Off:2 Def:2),6,26,4,,1628890,,1611661329,65,60,0,4
+08:07,[CHI] DeShields Turnover : Bad Pass (3 TO) Steal:Ogunbowale (2 ST),7,260,5,1629481,1628890,,1611661329,65,60,0,4
+08:01,[DAL] Ogunbowale Step Back Jump shot: Missed,-55,128,2,,1629481,,1611661321,65,60,0,4
+07:57,[CHI] Evans Rebound (Off:0 Def:1),-55,128,4,,1630389,,1611661329,65,60,0,4
+07:45,[CHI 62-65] Williams Cutting Layup Shot: Made (10 PTS) Assist: Mabrey (6 AST),18,17,1,,204322,1629497,1611661329,65,62,2,4
+07:42,Timeout : Regular,0,-80,9,,1611661321,,1611661321,65,62,0,4
+07:42,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,65,62,0,4
+07:25,[DAL] Brown Layup Shot: Missed Block: DeShields (2 BLK),-10,30,2,1628890,1629480,,1611661321,65,62,0,4
+07:24,[DAL] Brown Rebound (Off:4 Def:4),-10,30,4,,1629480,,1611661321,65,62,0,4
+07:24,[DAL] Brown Layup Shot: Missed Block: Williams (3 BLK),-5,25,2,204322,1629480,,1611661321,65,62,0,4
+07:23,[CHI] Williams Rebound (Off:3 Def:5),-5,25,4,,204322,,1611661329,65,62,0,4
+07:22,[DAL] Brown Foul: Personal (2 PF),17,781,6,204322,1629480,202764,1611661321,65,62,0,4
+06:58,[CHI] DeShields Driving Layup Shot: Missed,-7,58,2,,1628890,,1611661329,65,62,0,4
+06:56,[CHI] DeShields Rebound (Off:3 Def:2),-7,58,4,,1628890,,1611661329,65,62,0,4
+06:55,[CHI] DeShields Turnover : Bad Pass (4 TO) Steal:Uzun (2 ST),107,135,5,1642244,1628890,,1611661329,65,62,0,4
+06:53,[DAL] Ogunbowale Foul: Offensive (2 PF),26,75,6,1630389,1629481,202764,1611661321,65,62,0,4
+06:53,[DAL] Ogunbowale Turnover : Offensive Foul Turnover (3 TO),26,75,5,,1629481,202764,1611661321,65,62,0,4
+06:53,[CHI] DeShields Substitution replaced by Carter,0,-80,8,,1628890,1630150,1611661329,65,62,0,4
+06:38,[CHI] Reese 3pt Shot: Missed,40,254,2,,1642291,,1611661329,65,62,0,4
+06:37,[CHI] Williams Rebound (Off:4 Def:5),40,254,4,,204322,,1611661329,65,62,0,4
+06:36,[CHI 64-65] Williams Putback Layup Shot: Made (12 PTS),11,19,1,,204322,,1611661329,65,64,2,4
+06:36,[DAL] Brown Foul: Shooting (3 PF) (1 FTA),12,22,6,204322,1629480,1629174,1611661321,65,64,0,4
+06:36,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,65,64,0,4
+06:36,[CHI] Williams Free Throw 1 of 1 Missed,0,-80,3,,204322,,1611661329,65,64,0,4
+06:33,[CHI] Williams Rebound (Off:5 Def:5),0,-80,4,,204322,,1611661329,65,64,0,4
+06:29,[CHI] Evans 3pt Shot: Missed,-172,204,2,,1630389,,1611661329,65,64,0,4
+06:29,[CHI] Reese Rebound (Off:6 Def:0),-172,204,4,,1642291,,1611661329,65,64,0,4
+06:29,[CHI 66-65] Reese Putback Layup Shot: Made (8 PTS),10,16,1,,1642291,,1611661329,65,66,2,4
+06:29,[DAL] Soares Foul: Shooting (4 PF) (1 FTA),10,16,6,1642291,1641654,200667,1611661321,65,66,0,4
+06:29,[CHI 67-65] Reese Free Throw 1 of 1 (9 PTS),0,-80,3,,1642291,,1611661329,65,67,1,4
+06:06,[DAL] Ogunbowale 3pt Shot: Missed,185,171,2,,1629481,,1611661321,65,67,0,4
+06:06,[DAL] Soares Rebound (Off:3 Def:6),185,171,4,,1641654,,1611661321,65,67,0,4
+05:59,[DAL] McCowan Turnaround Jump Shot: Missed,46,57,2,,1629479,,1611661321,65,67,0,4
+05:55,[CHI] Reese Rebound (Off:6 Def:1),46,57,4,,1642291,,1611661329,65,67,0,4
+05:49,[CHI] Mabrey Foul: Offensive (4 PF),11,248,6,1629481,1629497,202764,1611661329,65,67,0,4
+05:49,[CHI] Mabrey Turnover : Offensive Foul Turnover (3 TO),11,248,5,,1629497,202764,1611661329,65,67,0,4
+05:49,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,65,67,0,4
+05:49,[DAL] Soares Substitution replaced by Siegrist,0,-80,8,,1641654,1641652,1611661321,65,67,0,4
+05:29,[DAL] Sheldon Driving Layup Shot: Missed,5,43,2,,1642292,,1611661321,65,67,0,4
+05:24,[DAL] McCowan Rebound (Off:2 Def:3),5,43,4,,1629479,,1611661321,65,67,0,4
+05:23,[DAL] McCowan Turnover : Bad Pass (3 TO) Steal:Mabrey (3 ST),-18,167,5,1629497,1629479,,1611661321,65,67,0,4
+05:14,[CHI 69-65] Carter Driving Layup Shot: Made (8 PTS),4,13,1,,1630150,,1611661329,65,69,2,4
+05:06,[DAL] Ogunbowale 3pt Shot: Missed,161,216,2,,1629481,,1611661321,65,69,0,4
+05:06,[DAL] Team Rebound,161,216,4,,0,,1611661321,65,69,0,4
+05:06,[CHI] Carter Foul: Loose Ball (2 PF),-12,44,6,1628881,1630150,202764,1611661329,65,69,0,4
+04:58,[CHI] Reese Violation:Kicked Ball,0,-80,7,,1642291,,1611661329,65,69,0,4
+04:51,[DAL] McCowan Foul: Offensive (3 PF),10,44,6,204322,1629479,200667,1611661321,65,69,0,4
+04:51,[DAL] McCowan Turnover : Offensive Foul Turnover (4 TO),10,44,5,,1629479,200667,1611661321,65,69,0,4
+04:51,[DAL] McCowan Technical (1 FTA),0,-80,6,,1629479,200667,1611661321,65,69,0,4
+04:51,[CHI 70-65] Mabrey Free Throw Technical (11 PTS),0,-80,3,,1629497,,1611661329,65,70,1,4
+04:51,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,65,70,0,4
+04:38,[CHI] Williams Turnaround Jump Shot: Missed,-7,74,2,,204322,,1611661329,65,70,0,4
+04:35,[DAL] Ogunbowale Rebound (Off:0 Def:5),-7,74,4,,1629481,,1611661321,65,70,0,4
+04:31,[DAL] Sheldon Turnover : Bad Pass (4 TO) Steal:Mabrey (4 ST),-32,49,5,1629497,1642292,,1611661321,65,70,0,4
+04:26,[CHI 72-65] Reese Running Layup Shot: Made (11 PTS) Assist: Mabrey (7 AST),2,18,1,,1642291,1629497,1611661329,65,72,2,4
+04:07,[DAL] Brown Layup Shot: Missed Block: Carter (1 BLK),7,38,2,1630150,1629480,,1611661321,65,72,0,4
+04:04,[DAL] Brown Rebound (Off:5 Def:4),7,38,4,,1629480,,1611661321,65,72,0,4
+04:04,[DAL] Brown Putback Layup Shot: Missed Block: Williams (4 BLK),-7,32,2,204322,1629480,,1611661321,65,72,0,4
+04:04,[CHI] Team Rebound,-7,32,4,,0,,1611661329,65,72,0,4
+04:04,[DAL] Sheldon Foul: Loose Ball (1 PF),-44,593,6,1629497,1642292,202764,1611661321,65,72,0,4
+03:52,[CHI] Mabrey 3pt Shot: Missed,-74,260,2,,1629497,,1611661329,65,72,0,4
+03:51,[CHI] Reese Rebound (Off:7 Def:1),-74,260,4,,1642291,,1611661329,65,72,0,4
+03:50,[DAL] Billings Foul: Shooting (2 PF) (2 FTA),10,54,6,1642291,1628881,202764,1611661321,65,72,0,4
+03:50,[CHI] Reese Free Throw 1 of 2 Missed,0,-80,3,,1642291,,1611661329,65,72,0,4
+03:50,[CHI] Team Rebound,0,-80,4,,0,,1611661329,65,72,0,4
+03:50,[CHI] Reese Free Throw 2 of 2 Missed,0,-80,3,,1642291,,1611661329,65,72,0,4
+03:49,[DAL] Team Rebound,0,-80,4,,0,,1611661321,65,72,0,4
+03:49,[CHI] Carter Foul: Loose Ball (3 PF),-45,234,6,1628881,1630150,1629174,1611661329,65,72,0,4
+03:37,[CHI] Carter Foul: Shooting (4 PF) (3 FTA),-45,234,6,1629481,1630150,202764,1611661329,65,72,0,4
+03:37,[DAL 66-72] Ogunbowale Free Throw 1 of 3 (27 PTS),0,-80,3,,1629481,,1611661321,66,72,1,4
+03:37,[DAL 67-72] Ogunbowale Free Throw 2 of 3 (28 PTS),0,-80,3,,1629481,,1611661321,67,72,1,4
+03:37,[DAL 68-72] Ogunbowale Free Throw 3 of 3 (29 PTS),0,-80,3,,1629481,,1611661321,68,72,1,4
+03:19,[CHI 74-68] Carter Jump Shot: Made (10 PTS) Assist: Mabrey (8 AST),-6,177,1,,1630150,1629497,1611661329,68,74,2,4
+03:05,[DAL 70-74] Ogunbowale Pullup Jump shot: Made (31 PTS),-86,122,1,,1629481,,1611661321,70,74,2,4
+03:05,[CHI] Carter Foul: Shooting (5 PF) (1 FTA),-77,117,6,1629481,1630150,1629174,1611661329,70,74,0,4
+03:05,[DAL] Sheldon Substitution replaced by Uzun,0,-80,8,,1642292,1642244,1611661321,70,74,0,4
+03:05,[DAL] Siegrist Substitution replaced by Soares,0,-80,8,,1641652,1641654,1611661321,70,74,0,4
+03:05,[DAL 71-74] Ogunbowale Free Throw 1 of 1 (32 PTS),0,-80,3,,1629481,,1611661321,71,74,1,4
+02:46,[CHI] Carter Driving Layup Shot: Missed,-13,38,2,,1630150,,1611661329,71,74,0,4
+02:43,[DAL] Billings Rebound (Off:1 Def:3),-13,38,4,,1628881,,1611661321,71,74,0,4
+02:39,[DAL] Uzun Turnover : Bad Pass (5 TO) Steal:Mabrey (5 ST),7,99,5,1629497,1642244,,1611661321,71,74,0,4
+02:21,[CHI 77-71] Mabrey 3pt Shot: Made (14 PTS) Assist: Evans (5 AST),100,235,1,,1629497,1630389,1611661329,71,77,3,4
+02:03,[DAL 74-77] Ogunbowale 3pt Shot: Made (35 PTS) Assist: Uzun (6 AST),-135,202,1,,1629481,1642244,1611661321,74,77,3,4
+01:47,[CHI] Mabrey 3pt Shot: Missed,67,253,2,,1629497,,1611661329,74,77,0,4
+01:44,[CHI] Team Rebound,67,253,4,,0,,1611661329,74,77,0,4
+01:44,Timeout : Regular,0,-80,9,,1611661329,,1611661329,74,77,0,4
+01:41,Jump Ball Williams vs Soares (Carter gains possession),0,-80,10,1641654,204322,1630150,1611661329,74,77,0,4
+01:39,[CHI 79-74] Carter Cutting Layup Shot: Made (12 PTS) Assist: Evans (6 AST),-10,18,1,,1630150,1630389,1611661329,74,79,2,4
+01:19,[DAL] Ogunbowale 3pt Shot: Missed,-118,196,2,,1629481,,1611661321,74,79,0,4
+01:16,[CHI] Reese Rebound (Off:7 Def:2),-107,174,4,,1642291,,1611661329,74,79,0,4
+01:09,[DAL] Ogunbowale Foul: Personal (3 PF) (2 FTA),-13,346,6,1630389,1629481,200667,1611661321,74,79,0,4
+01:09,[CHI 80-74] Evans Free Throw 1 of 2 (9 PTS),0,-80,3,,1630389,,1611661329,74,80,1,4
+01:09,[DAL] Billings Substitution replaced by Siegrist,0,-80,8,,1628881,1641652,1611661321,74,80,0,4
+01:09,[CHI 81-74] Evans Free Throw 2 of 2 (10 PTS),0,-80,3,,1630389,,1611661329,74,81,1,4
+00:55.7,[DAL] Siegrist Layup Shot: Missed Block: Williams (5 BLK),33,24,2,204322,1641652,,1611661321,74,81,0,4
+00:54.7,[DAL] Team Rebound,33,24,4,,0,,1611661321,74,81,0,4
+00:54.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,81,0,4
+00:52.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,81,0,4
+00:52.9,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,74,81,0,4
+00:50.6,[DAL] Ogunbowale Turnover : Bad Pass (4 TO) Steal:Williams (5 ST),196,212,5,204322,1629481,,1611661321,74,81,0,4
+00:43.1,[DAL] Sheldon Foul: Personal (2 PF) (2 FTA),178,253,6,1630389,1642292,202764,1611661321,74,81,0,4
+00:43.1,[CHI 82-74] Evans Free Throw 1 of 2 (11 PTS),0,-80,3,,1630389,,1611661329,74,82,1,4
+00:43.1,[CHI 83-74] Evans Free Throw 2 of 2 (12 PTS),0,-80,3,,1630389,,1611661329,74,83,1,4
+00:43.1,Timeout : Reset,0,-80,9,,1611661321,,1611661321,74,83,0,4
+00:37.7,[DAL] Ogunbowale 3pt Shot: Missed,-200,144,2,,1629481,,1611661321,74,83,0,4
+00:34.4,[CHI] Mabrey Rebound (Off:2 Def:6),-200,144,4,,1629497,,1611661329,74,83,0,4
+00:11.8,[CHI] Team Turnover : Shot Clock Turnover,-20,296,5,,0,,1611661329,74,83,0,4
+00:00.0,Period End,0,-80,13,,0,,0,74,83,0,4

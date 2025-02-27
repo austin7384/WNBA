@@ -1,0 +1,383 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball Stevens vs McCowan (Hamby gains possession),0,-80,10,1629479,1628922,204324,1611661320,0,0,0,1
+09:41,[LAS] N Ogwumike Jump Shot: Missed,206,-17,2,,203014,,1611661320,0,0,0,1
+09:37,[DAL] Howard Rebound (Off:0 Def:1),206,-17,4,,203827,,1611661321,0,0,0,1
+09:17,[DAL] Howard Jump Shot: Missed,12,152,2,,203827,,1611661321,0,0,0,1
+09:13,[LAS] N Ogwumike Rebound (Off:0 Def:1),12,152,4,,203014,,1611661320,0,0,0,1
+08:55,[LAS 2-0] N Ogwumike Layup Shot: Made (2 PTS) Assist: Canada (1 AST),-4,4,1,,203014,1628886,1611661320,2,0,2,1
+08:43,[DAL] Dangerfield 3pt Shot: Missed,-4,243,2,,1630101,,1611661321,2,0,0,1
+08:41,[LAS] N Ogwumike Rebound (Off:0 Def:2),-4,243,4,,203014,,1611661320,2,0,0,1
+08:35,[LAS] Hamby Cutting Layup Shot: Missed,7,3,2,,204324,,1611661320,2,0,0,1
+08:31,[DAL] Dangerfield Rebound (Off:0 Def:1),7,3,4,,1630101,,1611661321,2,0,0,1
+08:29,[DAL 3-2] Sabally 3pt Shot: Made (3 PTS) Assist: Dangerfield (1 AST),63,232,1,,1630149,1630101,1611661321,2,3,3,1
+08:12,[LAS] Stevens Turnaround Jump Shot: Missed,21,32,2,,1628922,,1611661320,2,3,0,1
+08:08,[DAL] Howard Rebound (Off:0 Def:2),21,32,4,,203827,,1611661321,2,3,0,1
+08:03,[DAL] Ogunbowale Turnover : Bad Pass (1 TO) Steal:N Ogwumike (1 ST),55,157,5,203014,1629481,,1611661321,2,3,0,1
+08:00,[LAS] N Ogwumike Turnover : Bad Pass (1 TO) Steal:Sabally (1 ST),63,175,5,1630149,203014,,1611661320,2,3,0,1
+07:53,[DAL 5-2] Howard Jump Shot: Made (2 PTS) Assist: Ogunbowale (1 AST),-10,7,1,,203827,1629481,1611661321,2,5,2,1
+07:41,[LAS] Samuelson 3pt Shot: Missed,18,242,2,,1628317,,1611661320,2,5,0,1
+07:41,[DAL] Howard Rebound (Off:0 Def:3),18,242,4,,203827,,1611661321,2,5,0,1
+07:32,[LAS] Stevens Foul: Shooting (1 PF) (2 FTA),1,16,6,1629479,1628922,203800,1611661320,2,5,0,1
+07:32,[DAL 6-2] McCowan Free Throw 1 of 2 (1 PTS),0,-80,3,,1629479,,1611661321,2,6,1,1
+07:32,[DAL 7-2] McCowan Free Throw 2 of 2 (2 PTS),0,-80,3,,1629479,,1611661321,2,7,1,1
+07:11,[LAS 4-7] N Ogwumike Turnaround Jump Shot: Made (4 PTS) Assist: Canada (2 AST),-86,9,1,,203014,1628886,1611661320,4,7,2,1
+06:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,7,0,1
+06:56,[DAL] Howard Jump Shot: Missed,-98,162,2,,203827,,1611661321,4,7,0,1
+06:52,[LAS] Samuelson Rebound (Off:0 Def:1),-98,162,4,,1628317,,1611661320,4,7,0,1
+06:35,[LAS] Hamby Layup Shot: Missed,16,6,2,,204324,,1611661320,4,7,0,1
+06:33,[DAL] McCowan Rebound (Off:0 Def:1),16,6,4,,1629479,,1611661321,4,7,0,1
+06:30,[DAL 9-4] Howard Running Layup Shot: Made (4 PTS) Assist: Sabally (1 AST),-12,24,1,,203827,1630149,1611661321,4,9,2,1
+06:17,[LAS] Samuelson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-60,96,5,,1628317,,1611661320,4,9,0,1
+05:57,[LAS] Canada Foul: Shooting (1 PF) (2 FTA),-57,69,6,1629481,1628886,203800,1611661320,4,9,0,1
+05:57,[DAL 10-4] Ogunbowale Free Throw 1 of 2 (1 PTS),0,-80,3,,1629481,,1611661321,4,10,1,1
+05:57,[DAL 11-4] Ogunbowale Free Throw 2 of 2 (2 PTS),0,-80,3,,1629481,,1611661321,4,11,1,1
+05:41,[LAS 6-11] Hamby Cutting Layup Shot: Made (2 PTS) Assist: Canada (3 AST),-2,10,1,,204324,1628886,1611661320,6,11,2,1
+05:27,[DAL] Sabally 3pt Shot: Missed,5,243,2,,1630149,,1611661321,6,11,0,1
+05:22,[LAS] Canada Rebound (Off:0 Def:1),5,243,4,,1628886,,1611661320,6,11,0,1
+05:19,[LAS] Canada Floating Jump shot: Missed,11,86,2,,1628886,,1611661320,6,11,0,1
+05:14,[DAL] Sabally Rebound (Off:0 Def:1),11,86,4,,1630149,,1611661321,6,11,0,1
+05:09,[DAL] McCowan Layup Shot: Missed Block: N Ogwumike (1 BLK),19,3,2,203014,1629479,,1611661321,6,11,0,1
+05:05,[LAS] N Ogwumike Rebound (Off:0 Def:3),19,3,4,,203014,,1611661320,6,11,0,1
+05:03,[DAL] Sabally Foul: Shooting (1 PF) (2 FTA),1,30,6,1628922,1630149,203800,1611661321,6,11,0,1
+05:03,[LAS] Stevens Free Throw 1 of 2 Missed,0,-80,3,,1628922,,1611661320,6,11,0,1
+05:03,[LAS] Team Rebound,0,-80,4,,0,,1611661320,6,11,0,1
+05:03,[LAS] Stevens Free Throw 2 of 2 Missed,0,-80,3,,1628922,,1611661320,6,11,0,1
+05:01,[DAL] McCowan Rebound (Off:0 Def:2),0,-80,4,,1629479,,1611661321,6,11,0,1
+04:50,[DAL] McCowan Jump Shot: Missed,-188,21,2,,1629479,,1611661321,6,11,0,1
+04:46,[LAS] Stevens Rebound (Off:0 Def:1),-188,21,4,,1628922,,1611661320,6,11,0,1
+04:41,[DAL] McCowan Foul: Shooting (1 PF) (2 FTA),34,21,6,1628886,1629479,200431,1611661321,6,11,0,1
+04:41,Timeout Officials,0,-80,9,,0,,0,6,11,0,1
+04:41,[LAS] Stevens Substitution replaced by C Ogwumike,0,-80,8,,1628922,203823,1611661320,6,11,0,1
+04:41,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,6,11,0,1
+04:41,[LAS 7-11] Canada Free Throw 1 of 2 (1 PTS),0,-80,3,,1628886,,1611661320,7,11,1,1
+04:41,[LAS 8-11] Canada Free Throw 2 of 2 (2 PTS),0,-80,3,,1628886,,1611661320,8,11,1,1
+04:29,[DAL] Sabally Hook Shot: Missed,10,45,2,,1630149,,1611661321,8,11,0,1
+04:23,[DAL] Brown Rebound (Off:1 Def:0),10,45,4,,1629480,,1611661321,8,11,0,1
+04:23,[DAL 13-8] Brown Putback Layup Shot: Made (2 PTS),0,-5,1,,1629480,,1611661321,8,13,2,1
+04:09,[LAS] C Ogwumike 3pt Shot: Missed,-94,215,2,,203823,,1611661320,8,13,0,1
+04:09,[LAS] N Ogwumike Rebound (Off:1 Def:3),-94,215,4,,203014,,1611661320,8,13,0,1
+04:09,[LAS 10-13] N Ogwumike Putback Layup Shot: Made (6 PTS),0,-5,1,,203014,,1611661320,10,13,2,1
+04:09,[DAL] Sabally Foul: Shooting (2 PF) (1 FTA),0,-5,6,203014,1630149,200431,1611661321,10,13,0,1
+04:09,[LAS 11-13] N Ogwumike Free Throw 1 of 1 (7 PTS),0,-80,3,,203014,,1611661320,11,13,1,1
+03:46,[DAL 16-11] Sabally 3pt Shot: Made (6 PTS) Assist: Ogunbowale (2 AST),-166,169,1,,1630149,1629481,1611661321,11,16,3,1
+03:29,[LAS 13-16] Hamby Cutting Layup Shot: Made (4 PTS) Assist: N Ogwumike (1 AST),12,11,1,,204324,203014,1611661320,13,16,2,1
+03:20,[DAL] Howard 3pt Shot: Missed,-177,164,2,,203827,,1611661321,13,16,0,1
+03:15,[LAS] Hamby Rebound (Off:0 Def:1),-177,164,4,,204324,,1611661320,13,16,0,1
+03:10,[LAS] N Ogwumike Turnover : Bad Pass (2 TO) Steal:Dangerfield (1 ST),90,-8,5,1630101,203014,,1611661320,13,16,0,1
+03:05,[DAL 18-13] Dangerfield Running Pull-Up Jump Shot: Made (2 PTS),10,133,1,,1630101,,1611661321,13,18,2,1
+02:44,[LAS] C Ogwumike Turnaround Jump Shot: Missed,152,40,2,,203823,,1611661320,13,18,0,1
+02:38,[DAL] Sabally Rebound (Off:0 Def:2),152,40,4,,1630149,,1611661321,13,18,0,1
+02:34,[DAL] Ogunbowale 3pt Shot: Missed,-184,146,2,,1629481,,1611661321,13,18,0,1
+02:30,[LAS] N Ogwumike Rebound (Off:1 Def:4),-184,146,4,,203014,,1611661320,13,18,0,1
+02:26,[LAS 16-18] Samuelson 3pt Shot: Made (3 PTS) Assist: Canada (4 AST),-197,118,1,,1628317,1628886,1611661320,16,18,3,1
+02:07,[DAL] Sabally Driving Layup Shot: Missed,17,27,2,,1630149,,1611661321,16,18,0,1
+02:03,[LAS] Hamby Rebound (Off:0 Def:2),17,27,4,,204324,,1611661320,16,18,0,1
+01:58,[LAS 18-18] Canada Running Finger Roll Layup Shot: Made (4 PTS),4,10,1,,1628886,,1611661320,18,18,2,1
+01:34,[DAL] Brown Turnover : Bad Pass (1 TO) Steal:N Ogwumike (2 ST),-12,69,5,203014,1629480,,1611661321,18,18,0,1
+01:26,[LAS 20-18] Hamby Cutting Layup Shot: Made (6 PTS) Assist: C Ogwumike (1 AST),-2,10,1,,204324,203823,1611661320,20,18,2,1
+01:25,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,20,18,0,1
+01:25,[LAS] Hamby Substitution replaced by Cooke,0,-80,8,,204324,1641660,1611661320,20,18,0,1
+01:25,[DAL] Howard Substitution replaced by McCowan,0,-80,8,,203827,1629479,1611661321,20,18,0,1
+01:25,[DAL] Dangerfield Substitution replaced by Dickey,0,-80,8,,1630101,1631029,1611661321,20,18,0,1
+01:25,[DAL] Ogunbowale Substitution replaced by Kuier,0,-80,8,,1629481,1630386,1611661321,20,18,0,1
+01:25,[DAL] Brown Substitution replaced by Burton,0,-80,8,,1629480,1631007,1611661321,20,18,0,1
+01:17,[DAL] Sabally Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-5,243,5,,1630149,,1611661321,20,18,0,1
+01:03,[LAS 22-18] Samuelson Driving Layup Shot: Made (5 PTS) Assist: N Ogwumike (2 AST),-1,6,1,,1628317,203014,1611661320,22,18,2,1
+00:50.5,[DAL] McCowan Turnover : Lost Ball (1 TO) Steal:Canada (1 ST),-48,67,5,1628886,1629479,,1611661321,22,18,0,1
+00:42.2,[DAL] Sabally Foul: Shooting (3 PF) (2 FTA),21,16,6,1641660,1630149,1628702,1611661321,22,18,0,1
+00:42.2,[LAS 23-18] Cooke Free Throw 1 of 2 (1 PTS),0,-80,3,,1641660,,1611661320,23,18,1,1
+00:42.2,[LAS] Canada Substitution replaced by Stevens,0,-80,8,,1628886,1628922,1611661320,23,18,0,1
+00:42.2,[LAS] Samuelson Substitution replaced by Henderson,0,-80,8,,1628317,1631089,1611661320,23,18,0,1
+00:42.2,[DAL] Sabally Substitution replaced by Siegrist,0,-80,8,,1630149,1641652,1611661321,23,18,0,1
+00:42.2,[LAS 24-18] Cooke Free Throw 2 of 2 (2 PTS),0,-80,3,,1641660,,1611661320,24,18,1,1
+00:26.4,[LAS] N Ogwumike Foul: Personal (1 PF),-129,51,6,1630386,203014,1628702,1611661320,24,18,0,1
+00:15.9,[DAL] Dickey Turnover : Traveling (1 TO),167,147,5,,1631029,,1611661321,24,18,0,1
+00:09.3,[LAS 26-18] Cooke Driving Bank Hook Shot: Made (4 PTS) Assist: Henderson (1 AST),-2,53,1,,1641660,1631089,1611661320,26,18,2,1
+00:00.1,[DAL] Burton Jump Shot: Missed,0,117,2,,1631007,,1611661321,26,18,0,1
+00:00.1,[DAL] Dickey Rebound (Off:1 Def:0),0,117,4,,1631029,,1611661321,26,18,0,1
+00:00.0,End Period,0,-80,13,,0,,0,26,18,0,1
+10:00,Start Period,0,-80,12,,0,,0,26,18,0,2
+09:45,[DAL 21-26] Ogunbowale 3pt Shot: Made (5 PTS) Assist: Dangerfield (2 AST),93,233,1,,1629481,1630101,1611661321,26,21,3,2
+09:17,[LAS 28-21] Hamby Cutting Layup Shot: Made (8 PTS) Assist: Stevens (1 AST),-2,11,1,,204324,1628922,1611661320,28,21,2,2
+09:01,[DAL] Howard 3pt Shot: Missed,151,190,2,,203827,,1611661321,28,21,0,2
+08:57,[LAS] C Ogwumike Rebound (Off:0 Def:1),151,190,4,,203823,,1611661320,28,21,0,2
+08:50,[LAS] C Ogwumike Cutting Layup Shot: Missed,15,10,2,,203823,,1611661320,28,21,0,2
+08:50,[LAS] Stevens Rebound (Off:1 Def:1),15,10,4,,1628922,,1611661320,28,21,0,2
+08:47,[LAS 30-21] Stevens Putback Layup Shot: Made (2 PTS),0,-5,1,,1628922,,1611661320,30,21,2,2
+08:46,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,30,21,0,2
+08:46,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,30,21,0,2
+08:33,[DAL] Brown Turnover : Traveling (2 TO),-49,40,5,,1629480,,1611661321,30,21,0,2
+08:19,[LAS 32-21] Hamby Cutting Layup Shot: Made (10 PTS) Assist: Henderson (2 AST),7,-2,1,,204324,1631089,1611661320,32,21,2,2
+08:07,[DAL] Ogunbowale Pullup Jump shot: Missed,-65,53,2,,1629481,,1611661321,32,21,0,2
+08:05,[LAS] Stevens Rebound (Off:1 Def:2),-65,53,4,,1628922,,1611661320,32,21,0,2
+07:52,[DAL] Kuier Foul: Shooting (1 PF) (2 FTA),-7,8,6,204324,1630386,203800,1611661321,32,21,0,2
+07:52,[LAS] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661320,32,21,0,2
+07:52,[LAS] Team Rebound,0,-80,4,,0,,1611661320,32,21,0,2
+07:52,[DAL] Kuier Substitution replaced by McCowan,0,-80,8,,1630386,1629479,1611661321,32,21,0,2
+07:52,[LAS 33-21] Hamby Free Throw 2 of 2 (11 PTS),0,-80,3,,204324,,1611661320,33,21,1,2
+07:36,[DAL 23-33] Ogunbowale Driving Layup Shot: Made (7 PTS),49,48,1,,1629481,,1611661321,33,23,2,2
+07:22,[LAS] Henderson Turnover : Bad Pass (1 TO) Steal:Dangerfield (2 ST),31,89,5,1630101,1631089,,1611661320,33,23,0,2
+07:17,[DAL 25-33] Brown Cutting Layup Shot: Made (4 PTS) Assist: Ogunbowale (3 AST),-20,21,1,,1629480,1629481,1611661321,33,25,2,2
+07:16,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,33,25,0,2
+07:16,[LAS] Henderson Substitution replaced by Canada,0,-80,8,,1631089,1628886,1611661320,33,25,0,2
+06:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,25,0,2
+06:51,[LAS] Cooke Jump Shot: Missed,-160,127,2,,1641660,,1611661320,33,25,0,2
+06:45,[DAL] Brown Rebound (Off:1 Def:1),-160,127,4,,1629480,,1611661321,33,25,0,2
+06:39,[DAL 27-33] McCowan Cutting Layup Shot: Made (4 PTS) Assist: Brown (1 AST),7,8,1,,1629479,1629480,1611661321,33,27,2,2
+06:13,[LAS] Cooke Driving Layup Shot: Missed,-11,10,2,,1641660,,1611661320,33,27,0,2
+06:10,[DAL] Brown Rebound (Off:1 Def:2),-11,10,4,,1629480,,1611661321,33,27,0,2
+06:07,[DAL] Howard Driving Layup Shot: Missed,7,24,2,,203827,,1611661321,33,27,0,2
+06:02,[LAS] Hamby Rebound (Off:0 Def:3),7,24,4,,204324,,1611661320,33,27,0,2
+05:59,[LAS] Cooke 3pt Shot: Missed,209,85,2,,1641660,,1611661320,33,27,0,2
+05:55,[DAL] Ogunbowale Rebound (Off:0 Def:1),209,85,4,,1629481,,1611661321,33,27,0,2
+05:52,[DAL 29-33] Brown Running Layup Shot: Made (6 PTS) Assist: Ogunbowale (4 AST),2,17,1,,1629480,1629481,1611661321,33,29,2,2
+05:33,[LAS] Stevens Cutting Layup Shot: Missed,29,13,2,,1628922,,1611661320,33,29,0,2
+05:28,[LAS] Stevens Rebound (Off:2 Def:2),29,13,4,,1628922,,1611661320,33,29,0,2
+05:28,[LAS] Stevens Tip Layup Shot: Missed,0,-5,2,,1628922,,1611661320,33,29,0,2
+05:27,[DAL] Brown Rebound (Off:1 Def:3),0,-5,4,,1629480,,1611661321,33,29,0,2
+05:25,[DAL 31-33] Ogunbowale Running Layup Shot: Made (9 PTS),44,48,1,,1629481,,1611661321,33,31,2,2
+05:24,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,33,31,0,2
+05:24,[LAS] Cooke Substitution replaced by N Ogwumike,0,-80,8,,1641660,203014,1611661320,33,31,0,2
+05:24,[LAS] C Ogwumike Substitution replaced by Samuelson,0,-80,8,,203823,1628317,1611661320,33,31,0,2
+05:24,[LAS] Stevens Substitution replaced by Burrell,0,-80,8,,1628922,1630996,1611661320,33,31,0,2
+05:01,[LAS 36-31] Burrell 3pt Shot: Made (3 PTS) Assist: Canada (5 AST),198,130,1,,1630996,1628886,1611661320,36,31,3,2
+04:43,[DAL 33-36] Brown Cutting Layup Shot: Made (8 PTS) Assist: Ogunbowale (5 AST),6,6,1,,1629480,1629481,1611661321,36,33,2,2
+04:33,[LAS] Hamby Turnover : Bad Pass (1 TO) Steal:Dangerfield (3 ST),199,74,5,1630101,204324,,1611661320,36,33,0,2
+04:33,[LAS] Hamby Foul: Transition Take (1 PF) (1 FTA),-200,759,6,1630101,204324,1628702,1611661320,36,33,0,2
+04:33,[DAL 34-36] Dangerfield Free Throw 1 of 1 (3 PTS),0,-80,3,,1630101,,1611661321,36,34,1,2
+04:23,[DAL] Ogunbowale Turnover : Step Out of Bounds Turnover (2 TO),-232,59,5,,1629481,,1611661321,36,34,0,2
+04:01,[LAS] Canada Turnover : Lost Ball (1 TO) Steal:McCowan (1 ST),61,35,5,1629479,1628886,,1611661320,36,34,0,2
+03:56,[DAL 36-36] Ogunbowale Running Layup Shot: Made (11 PTS),11,16,1,,1629481,,1611661321,36,36,2,2
+03:47,[LAS 39-36] Samuelson 3pt Shot: Made (8 PTS) Assist: Burrell (1 AST),-229,9,1,,1628317,1630996,1611661320,39,36,3,2
+03:41,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,39,36,0,2
+03:20,[DAL 38-39] Dangerfield Pullup Jump shot: Made (5 PTS) Assist: Ogunbowale (6 AST),19,182,1,,1630101,1629481,1611661321,39,38,2,2
+03:10,[DAL] Brown Foul: Shooting (1 PF) (2 FTA),6,33,6,203014,1629480,1628702,1611661321,39,38,0,2
+03:10,[LAS 40-38] N Ogwumike Free Throw 1 of 2 (8 PTS),0,-80,3,,203014,,1611661320,40,38,1,2
+03:10,[DAL] Brown Substitution replaced by Kuier,0,-80,8,,1629480,1630386,1611661321,40,38,0,2
+03:10,[LAS 41-38] N Ogwumike Free Throw 2 of 2 (9 PTS),0,-80,3,,203014,,1611661320,41,38,1,2
+02:55,[DAL] Howard Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-145,258,5,,203827,,1611661321,41,38,0,2
+02:41,[LAS] Burrell Driving Layup Shot: Missed Block: Dangerfield (1 BLK),22,11,2,1630101,1630996,,1611661320,41,38,0,2
+02:41,[LAS] Team Rebound,22,11,4,,0,,1611661320,41,38,0,2
+02:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,38,0,2
+02:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,38,0,2
+02:32,[LAS] Hamby 3pt Shot: Missed,-143,176,2,,204324,,1611661320,41,38,0,2
+02:28,[DAL] Dangerfield Rebound (Off:0 Def:2),-143,176,4,,1630101,,1611661321,41,38,0,2
+02:20,[DAL 40-41] McCowan Cutting Layup Shot: Made (6 PTS) Assist: Dangerfield (3 AST),-3,5,1,,1629479,1630101,1611661321,41,40,2,2
+02:06,[LAS] Hamby Reverse Layup Shot: Missed Block: McCowan (1 BLK),-24,6,2,1629479,204324,,1611661320,41,40,0,2
+02:02,[DAL] McCowan Rebound (Off:0 Def:3),-24,6,4,,1629479,,1611661321,41,40,0,2
+01:58,[LAS] Samuelson Foul: Personal (1 PF),-95,168,6,1629481,1628317,203800,1611661320,41,40,0,2
+01:58,[LAS] Hamby Substitution replaced by C Ogwumike,0,-80,8,,204324,203823,1611661320,41,40,0,2
+01:52,[DAL] Ogunbowale 3pt Shot: Missed,-50,276,2,,1629481,,1611661321,41,40,0,2
+01:48,[DAL] McCowan Rebound (Off:1 Def:3),-50,276,4,,1629479,,1611661321,41,40,0,2
+01:48,[DAL 42-41] McCowan Putback Layup Shot: Made (8 PTS),0,-5,1,,1629479,,1611661321,41,42,2,2
+01:40,[LAS] Burrell 3pt Shot: Missed,-223,-1,2,,1630996,,1611661320,41,42,0,2
+01:36,[LAS] C Ogwumike Rebound (Off:1 Def:1),-223,-1,4,,203823,,1611661320,41,42,0,2
+01:35,[LAS] C Ogwumike Turnover : Bad Pass (1 TO) Steal:Ogunbowale (1 ST),127,108,5,1629481,203823,,1611661320,41,42,0,2
+01:26,[DAL] Dangerfield Turnover : Backcourt Turnover (1 TO),-207,473,5,,1630101,,1611661321,41,42,0,2
+01:26,[DAL] McCowan Substitution replaced by Burton,0,-80,8,,1629479,1631007,1611661321,41,42,0,2
+01:26,[DAL] Dangerfield Substitution replaced by Brown,0,-80,8,,1630101,1629480,1611661321,41,42,0,2
+01:19,[DAL] Brown Foul: Defense 3 Second (2 PF) (1 FTA),0,-80,6,,1629480,1628702,1611661321,41,42,0,2
+01:19,[LAS 42-42] Canada Free Throw Technical (5 PTS),0,-80,3,,1628886,,1611661320,42,42,1,2
+01:09,[LAS] C Ogwumike Jump Shot: Missed Block: Brown (1 BLK),-84,1,2,1629480,203823,,1611661320,42,42,0,2
+01:06,[DAL] Ogunbowale Rebound (Off:0 Def:2),-84,1,4,,1629481,,1611661321,42,42,0,2
+01:04,[DAL 44-42] Kuier Running Layup Shot: Made (2 PTS) Assist: Ogunbowale (7 AST),4,7,1,,1630386,1629481,1611661321,42,44,2,2
+00:53.8,[LAS] Burrell 3pt Shot: Missed,206,113,2,,1630996,,1611661320,42,44,0,2
+00:47.4,[DAL] Kuier Rebound (Off:0 Def:1),206,113,4,,1630386,,1611661321,42,44,0,2
+00:28.9,[DAL] Ogunbowale Turnover : Bad Pass (3 TO) Steal:C Ogwumike (1 ST),-61,38,5,203823,1629481,,1611661321,42,44,0,2
+00:05.6,[LAS 44-44] N Ogwumike Turnaround Jump Shot: Made (11 PTS),28,100,1,,203014,,1611661320,44,44,2,2
+00:00.2,[DAL] Ogunbowale 3pt Shot: Missed,18,255,2,,1629481,,1611661321,44,44,0,2
+00:00.2,[DAL] Team Rebound,18,255,4,,0,,1611661321,44,44,0,2
+00:00.0,End Period,0,-80,13,,0,,0,44,44,0,2
+10:00,Start Period,0,-80,12,,0,,0,44,44,0,3
+09:42,[LAS] Stevens Foul: Shooting (2 PF) (2 FTA),12,35,6,1630149,1628922,200431,1611661320,44,44,0,3
+09:42,[DAL 45-44] Sabally Free Throw 1 of 2 (7 PTS),0,-80,3,,1630149,,1611661321,44,45,1,3
+09:42,[DAL 46-44] Sabally Free Throw 2 of 2 (8 PTS),0,-80,3,,1630149,,1611661321,44,46,1,3
+09:20,[LAS 47-46] Samuelson 3pt Shot: Made (11 PTS) Assist: Hamby (1 AST),-20,259,1,,1628317,204324,1611661320,47,46,3,3
+09:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,46,0,3
+08:57,[DAL 48-47] Howard Cutting Layup Shot: Made (6 PTS) Assist: Sabally (2 AST),-1,8,1,,203827,1630149,1611661321,47,48,2,3
+08:46,[LAS 50-48] Stevens 3pt Shot: Made (5 PTS) Assist: Samuelson (1 AST),-222,33,1,,1628922,1628317,1611661320,50,48,3,3
+08:27,[DAL] Dangerfield 3pt Shot: Missed,187,181,2,,1630101,,1611661321,50,48,0,3
+08:23,[LAS] Stevens Rebound (Off:2 Def:3),187,181,4,,1628922,,1611661320,50,48,0,3
+08:10,[DAL] Ogunbowale Foul: Personal (1 PF),-6,54,6,203014,1629481,203800,1611661321,50,48,0,3
+08:04,[DAL] McCowan Foul: Shooting (2 PF) (2 FTA),28,49,6,204324,1629479,1628702,1611661321,50,48,0,3
+08:04,[LAS] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661320,50,48,0,3
+08:04,[LAS] Team Rebound,0,-80,4,,0,,1611661320,50,48,0,3
+08:04,[LAS 51-48] Hamby Free Throw 2 of 2 (12 PTS),0,-80,3,,204324,,1611661320,51,48,1,3
+07:48,[DAL] Ogunbowale 3pt Shot: Missed,132,198,2,,1629481,,1611661321,51,48,0,3
+07:43,[LAS] Stevens Rebound (Off:2 Def:4),132,198,4,,1628922,,1611661320,51,48,0,3
+07:33,[LAS] N Ogwumike Turnover : Lost Ball (3 TO) Steal:McCowan (2 ST),58,17,5,1629479,203014,,1611661320,51,48,0,3
+07:25,[DAL 50-51] Howard Cutting Layup Shot: Made (8 PTS) Assist: Sabally (3 AST),-6,36,1,,203827,1630149,1611661321,51,50,2,3
+07:01,[LAS 53-50] Hamby Cutting Layup Shot: Made (14 PTS) Assist: Canada (6 AST),-6,35,1,,204324,1628886,1611661320,53,50,2,3
+06:35,[DAL 53-53] Dangerfield 3pt Shot: Made (8 PTS) Assist: Sabally (4 AST),-97,226,1,,1630101,1630149,1611661321,53,53,3,3
+06:25,[LAS] N Ogwumike Layup Shot: Missed Block: Dangerfield (2 BLK),13,19,2,1630101,203014,,1611661320,53,53,0,3
+06:24,[DAL] Dangerfield Rebound (Off:0 Def:3),13,19,4,,1630101,,1611661321,53,53,0,3
+06:15,[DAL 55-53] Dangerfield Floating Jump shot: Made (10 PTS),20,74,1,,1630101,,1611661321,53,55,2,3
+06:04,[LAS] Hamby Jump Shot: Missed Block: McCowan (2 BLK),0,22,2,1629479,204324,,1611661320,53,55,0,3
+06:03,[LAS] Team Rebound,0,22,4,,0,,1611661320,53,55,0,3
+06:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,55,0,3
+06:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,55,0,3
+05:54,[LAS] Samuelson Pullup Jump shot: Missed,68,37,2,,1628317,,1611661320,53,55,0,3
+05:51,[DAL] Dangerfield Rebound (Off:0 Def:4),68,37,4,,1630101,,1611661321,53,55,0,3
+05:46,[LAS] Stevens Foul: Shooting (3 PF) (2 FTA),-36,-1,6,1629481,1628922,1628702,1611661320,53,55,0,3
+05:46,[DAL 56-53] Ogunbowale Free Throw 1 of 2 (12 PTS),0,-80,3,,1629481,,1611661321,53,56,1,3
+05:46,[DAL] Ogunbowale Free Throw 2 of 2 Missed,0,-80,3,,1629481,,1611661321,53,56,0,3
+05:42,[LAS] Hamby Rebound (Off:0 Def:4),0,-80,4,,204324,,1611661320,53,56,0,3
+05:33,[LAS] Hamby Layup Shot: Missed Block: Howard (1 BLK),-1,67,2,203827,204324,,1611661320,53,56,0,3
+05:31,[DAL] Howard Rebound (Off:0 Def:4),-1,67,4,,203827,,1611661321,53,56,0,3
+05:16,[DAL] McCowan Jump Shot: Missed,49,185,2,,1629479,,1611661321,53,56,0,3
+05:14,[LAS] N Ogwumike Rebound (Off:1 Def:5),49,185,4,,203014,,1611661320,53,56,0,3
+05:07,[DAL] Sabally Foul: Shooting (4 PF) (2 FTA),15,49,6,203014,1630149,203800,1611661321,53,56,0,3
+05:07,[LAS 54-56] N Ogwumike Free Throw 1 of 2 (12 PTS),0,-80,3,,203014,,1611661320,54,56,1,3
+05:07,[LAS] Hamby Substitution replaced by C Ogwumike,0,-80,8,,204324,203823,1611661320,54,56,0,3
+05:07,[DAL] Sabally Substitution replaced by Kuier,0,-80,8,,1630149,1630386,1611661321,54,56,0,3
+05:07,[LAS 55-56] N Ogwumike Free Throw 2 of 2 (13 PTS),0,-80,3,,203014,,1611661320,55,56,1,3
+04:50,[DAL 59-55] Howard 3pt Shot: Made (11 PTS) Assist: Dangerfield (4 AST),224,22,1,,203827,1630101,1611661321,55,59,3,3
+04:35,[LAS 57-59] Stevens Jump Shot: Made (7 PTS) Assist: Samuelson (2 AST),-1,75,1,,1628922,1628317,1611661320,57,59,2,3
+04:19,[LAS] C Ogwumike Foul: Personal (1 PF),-7,42,6,1629479,203823,200431,1611661320,57,59,0,3
+04:19,Timeout Officials,0,-80,9,,0,,0,57,59,0,3
+04:19,[LAS] Stevens Substitution replaced by Henderson,0,-80,8,,1628922,1631089,1611661320,57,59,0,3
+04:19,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,57,59,0,3
+04:06,[DAL 61-57] Howard Jump Shot: Made (13 PTS),4,44,1,,203827,,1611661321,57,61,2,3
+03:53,[LAS] N Ogwumike Jump Shot: Missed,144,19,2,,203014,,1611661320,57,61,0,3
+03:50,[DAL] Howard Rebound (Off:0 Def:5),144,19,4,,203827,,1611661321,57,61,0,3
+03:46,[LAS] Canada Foul: Personal (2 PF),105,79,6,1629481,1628886,1628702,1611661320,57,61,0,3
+03:40,[DAL] Dangerfield Pullup Jump shot: Missed,93,181,2,,1630101,,1611661321,57,61,0,3
+03:36,[LAS] N Ogwumike Rebound (Off:1 Def:6),93,181,4,,203014,,1611661320,57,61,0,3
+03:31,[LAS] Canada Turnover : Bad Pass (2 TO) Steal:Kuier (1 ST),-12,50,5,1630386,1628886,,1611661320,57,61,0,3
+03:27,[DAL 63-57] Dangerfield Running Layup Shot: Made (12 PTS) Assist: Ogunbowale (8 AST),-16,14,1,,1630101,1629481,1611661321,57,63,2,3
+03:27,[LAS] N Ogwumike Foul: Shooting (2 PF) (1 FTA),-16,14,6,1630101,203014,203800,1611661320,57,63,0,3
+03:27,[DAL 64-57] Dangerfield Free Throw 1 of 1 (13 PTS),0,-80,3,,1630101,,1611661321,57,64,1,3
+03:12,[LAS] Henderson Turnover : Bad Pass (2 TO) Steal:Dangerfield (4 ST),23,96,5,1630101,1631089,,1611661320,57,64,0,3
+03:01,[DAL 67-57] Dangerfield 3pt Shot: Made (16 PTS) Assist: Kuier (1 AST),126,224,1,,1630101,1630386,1611661321,57,67,3,3
+02:59,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,57,67,0,3
+02:51,[LAS 60-67] N Ogwumike 3pt Shot: Made (16 PTS) Assist: Samuelson (3 AST),-63,232,1,,203014,1628317,1611661320,60,67,3,3
+02:34,[DAL] Kuier 3pt Shot: Missed,-227,-12,2,,1630386,,1611661321,60,67,0,3
+02:28,[LAS] C Ogwumike Rebound (Off:1 Def:2),-227,-12,4,,203823,,1611661320,60,67,0,3
+02:23,[LAS] C Ogwumike Turnover : Bad Pass (2 TO) Steal:Ogunbowale (2 ST),-170,297,5,1629481,203823,,1611661320,60,67,0,3
+02:20,[DAL 69-60] Ogunbowale Running Layup Shot: Made (14 PTS),3,-8,1,,1629481,,1611661321,60,69,2,3
+01:59,[LAS] Canada Turnover : Bad Pass (3 TO) Steal:Ogunbowale (3 ST),-149,137,5,1629481,1628886,,1611661320,60,69,0,3
+01:56,[LAS] Henderson Foul: Personal (1 PF) (2 FTA),100,294,6,1629481,1631089,1628702,1611661320,60,69,0,3
+01:56,[DAL 70-60] Ogunbowale Free Throw 1 of 2 (15 PTS),0,-80,3,,1629481,,1611661321,60,70,1,3
+01:56,[DAL 71-60] Ogunbowale Free Throw 2 of 2 (16 PTS),0,-80,3,,1629481,,1611661321,60,71,1,3
+01:43,[LAS 63-71] Henderson 3pt Shot: Made (3 PTS) Assist: N Ogwumike (3 AST),-170,168,1,,1631089,203014,1611661320,63,71,3,3
+01:22,[DAL] Ogunbowale Driving Layup Shot: Missed,-7,56,2,,1629481,,1611661321,63,71,0,3
+01:18,[LAS] Canada Rebound (Off:0 Def:2),-7,56,4,,1628886,,1611661320,63,71,0,3
+01:15,[LAS 66-71] Samuelson 3pt Shot: Made (14 PTS) Assist: Canada (7 AST),-167,226,1,,1628317,1628886,1611661320,66,71,3,3
+00:54.5,[DAL] Dangerfield Layup Shot: Missed Block: Henderson (1 BLK),-52,36,2,1631089,1630101,,1611661321,66,71,0,3
+00:51.8,[LAS] Henderson Rebound (Off:0 Def:1),-52,36,4,,1631089,,1611661320,66,71,0,3
+00:48.3,[LAS 68-71] N Ogwumike Cutting Layup Shot: Made (18 PTS) Assist: Canada (8 AST),2,18,1,,203014,1628886,1611661320,68,71,2,3
+00:48.3,[DAL] Kuier Foul: Shooting (2 PF) (1 FTA),2,18,6,203014,1630386,200431,1611661321,68,71,0,3
+00:48.3,[DAL] Howard Substitution replaced by Burton,0,-80,8,,203827,1631007,1611661321,68,71,0,3
+00:48.3,[DAL] Dangerfield Substitution replaced by McCowan,0,-80,8,,1630101,1629479,1611661321,68,71,0,3
+00:48.3,[DAL] Ogunbowale Substitution replaced by Dickey,0,-80,8,,1629481,1631029,1611661321,68,71,0,3
+00:48.3,[LAS 69-71] N Ogwumike Free Throw 1 of 1 (19 PTS),0,-80,3,,203014,,1611661320,69,71,1,3
+00:30.6,[DAL] Burton Jump Shot: Missed,-81,138,2,,1631007,,1611661321,69,71,0,3
+00:29.6,[DAL] McCowan Rebound (Off:2 Def:3),-81,138,4,,1629479,,1611661321,69,71,0,3
+00:29.6,[DAL] McCowan Putback Layup Shot: Missed,0,-5,2,,1629479,,1611661321,69,71,0,3
+00:28.6,[DAL] McCowan Rebound (Off:3 Def:3),0,-5,4,,1629479,,1611661321,69,71,0,3
+00:28.6,[DAL] McCowan Putback Layup Shot: Missed,29,58,2,,1629479,,1611661321,69,71,0,3
+00:28.0,[DAL] McCowan Rebound (Off:4 Def:3),29,58,4,,1629479,,1611661321,69,71,0,3
+00:27.6,[LAS] N Ogwumike Foul: Shooting (3 PF) (2 FTA),9,41,6,1629479,203014,200431,1611661320,69,71,0,3
+00:27.6,[DAL 72-69] McCowan Free Throw 1 of 2 (9 PTS),0,-80,3,,1629479,,1611661321,69,72,1,3
+00:27.6,[DAL 73-69] McCowan Free Throw 2 of 2 (10 PTS),0,-80,3,,1629479,,1611661321,69,73,1,3
+00:07.0,[LAS] Canada 3pt Shot: Missed,149,214,2,,1628886,,1611661320,69,73,0,3
+00:03.0,[DAL] Dickey Rebound (Off:1 Def:1),149,214,4,,1631029,,1611661321,69,73,0,3
+00:01.0,[DAL] Dickey Turnover : Lost Ball (2 TO) Steal:C Ogwumike (2 ST),135,773,5,203823,1631029,,1611661321,69,73,0,3
+00:01.0,[DAL] Dickey Foul: Shooting (1 PF) (2 FTA),-12,70,6,203823,1631029,1628702,1611661321,69,73,0,3
+00:01.0,[LAS 70-73] C Ogwumike Free Throw 1 of 2 (1 PTS),0,-80,3,,203823,,1611661320,70,73,1,3
+00:01.0,[LAS 71-73] C Ogwumike Free Throw 2 of 2 (2 PTS),0,-80,3,,203823,,1611661320,71,73,1,3
+00:00.0,End Period,0,-80,13,,0,,0,71,73,0,3
+10:00,Start Period,0,-80,12,,0,,0,71,73,0,4
+09:38,[LAS] Henderson Jump Shot: Missed Block: McCowan (3 BLK),-155,130,2,1629479,1631089,,1611661320,71,73,0,4
+09:35,[DAL] McCowan Rebound (Off:4 Def:4),-155,130,4,,1629479,,1611661321,71,73,0,4
+09:20,[DAL] Ogunbowale 3pt Shot: Missed,109,216,2,,1629481,,1611661321,71,73,0,4
+09:15,[DAL] McCowan Rebound (Off:5 Def:4),109,216,4,,1629479,,1611661321,71,73,0,4
+09:15,[DAL 75-71] McCowan Putback Layup Shot: Made (12 PTS),0,-5,1,,1629479,,1611661321,71,75,2,4
+08:54,[DAL] McCowan Foul: Shooting (3 PF) (2 FTA),29,34,6,204324,1629479,203800,1611661321,71,75,0,4
+08:54,[LAS] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661320,71,75,0,4
+08:54,[LAS] Team Rebound,0,-80,4,,0,,1611661320,71,75,0,4
+08:54,[LAS 72-75] Hamby Free Throw 2 of 2 (15 PTS),0,-80,3,,204324,,1611661320,72,75,1,4
+08:40,[DAL] Sabally Jump Shot: Missed,28,54,2,,1630149,,1611661321,72,75,0,4
+08:38,[LAS] Team Rebound,28,54,4,,0,,1611661320,72,75,0,4
+08:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,75,0,4
+08:15,[LAS 74-75] N Ogwumike Pullup Jump shot: Made (21 PTS),-117,19,1,,203014,,1611661320,74,75,2,4
+07:55,[DAL] McCowan Turnover : Out of Bounds - Bad Pass Turnover (2 TO),151,177,5,,1629479,,1611661321,74,75,0,4
+07:55,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,74,75,0,4
+07:55,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,74,75,0,4
+07:36,[LAS] Henderson 3pt Shot: Missed,-116,232,2,,1631089,,1611661320,74,75,0,4
+07:32,[DAL] Sabally Rebound (Off:0 Def:3),-116,232,4,,1630149,,1611661321,74,75,0,4
+07:17,[DAL] Brown Layup Shot: Missed Block: N Ogwumike (2 BLK),-18,20,2,203014,1629480,,1611661321,74,75,0,4
+07:17,[LAS] Team Rebound,-18,20,4,,0,,1611661320,74,75,0,4
+07:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,75,0,4
+07:05,[LAS] N Ogwumike 3pt Shot: Missed,234,10,2,,203014,,1611661320,74,75,0,4
+07:03,[LAS] Team Rebound,234,10,4,,0,,1611661320,74,75,0,4
+07:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,75,0,4
+06:53,[LAS] Henderson Turnover : Bad Pass (3 TO) Steal:Sabally (2 ST),-11,66,5,1630149,1631089,,1611661320,74,75,0,4
+06:31,[DAL] Ogunbowale 3pt Shot: Missed,-82,224,2,,1629481,,1611661321,74,75,0,4
+06:26,[LAS] N Ogwumike Rebound (Off:1 Def:7),-82,224,4,,203014,,1611661320,74,75,0,4
+06:19,[LAS 76-75] Henderson Jump Shot: Made (5 PTS) Assist: Samuelson (4 AST),136,27,1,,1631089,1628317,1611661320,76,75,2,4
+06:03,[DAL 77-76] Ogunbowale Driving Floating Bank Jump Shot: Made (18 PTS),-26,78,1,,1629481,,1611661321,76,77,2,4
+05:57,[LAS 78-77] Canada Driving Layup Shot: Made (7 PTS),11,32,1,,1628886,,1611661320,78,77,2,4
+05:52,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,78,77,0,4
+05:35,[DAL 79-78] Brown Cutting Layup Shot: Made (10 PTS) Assist: Sabally (5 AST),-8,1,1,,1629480,1630149,1611661321,78,79,2,4
+05:21,[LAS 80-79] Hamby Cutting Layup Shot: Made (17 PTS) Assist: N Ogwumike (4 AST),0,2,1,,204324,203014,1611661320,80,79,2,4
+04:59,[DAL] Brown Cutting Layup Shot: Missed,0,-2,2,,1629480,,1611661321,80,79,0,4
+04:56,[DAL] Team Rebound,0,-2,4,,0,,1611661321,80,79,0,4
+04:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,79,0,4
+04:50,[LAS] N Ogwumike Foul: Personal (4 PF),142,267,6,1629481,203014,1628702,1611661320,80,79,0,4
+04:44,[DAL] Dangerfield Pullup Jump shot: Missed,-97,129,2,,1630101,,1611661321,80,79,0,4
+04:39,[LAS] N Ogwumike Rebound (Off:1 Def:8),-97,129,4,,203014,,1611661320,80,79,0,4
+04:29,[LAS] Henderson 3pt Shot: Missed,-230,34,2,,1631089,,1611661320,80,79,0,4
+04:26,[DAL] Brown Rebound (Off:1 Def:4),-230,34,4,,1629480,,1611661321,80,79,0,4
+04:14,[DAL] Sabally Driving Layup Shot: Missed,11,11,2,,1630149,,1611661321,80,79,0,4
+04:12,[DAL] Brown Rebound (Off:2 Def:4),11,11,4,,1629480,,1611661321,80,79,0,4
+04:11,[DAL] Dangerfield 3pt Shot: Missed,220,75,2,,1630101,,1611661321,80,79,0,4
+04:10,[LAS] Team Rebound,220,75,4,,0,,1611661320,80,79,0,4
+04:10,[DAL] Sabally Foul: Loose Ball (5 PF),5,791,6,1631089,1630149,203800,1611661321,80,79,0,4
+04:10,[DAL] Sabally Substitution replaced by McCowan,0,-80,8,,1630149,1629479,1611661321,80,79,0,4
+03:59,[LAS 82-79] N Ogwumike Turnaround Hook Shot: Made (23 PTS) Assist: Henderson (3 AST),73,28,1,,203014,1631089,1611661320,82,79,2,4
+03:39,[DAL 81-82] McCowan Cutting Layup Shot: Made (14 PTS) Assist: Dangerfield (5 AST),1,5,1,,1629479,1630101,1611661321,82,81,2,4
+03:26,[LAS 84-81] Henderson Driving Layup Shot: Made (7 PTS) Assist: Hamby (2 AST),12,7,1,,1631089,204324,1611661320,84,81,2,4
+03:15,[DAL] Ogunbowale Jump Shot: Missed,-67,76,2,,1629481,,1611661321,84,81,0,4
+03:13,[LAS] N Ogwumike Rebound (Off:1 Def:9),-67,76,4,,203014,,1611661320,84,81,0,4
+02:52,[LAS 86-81] N Ogwumike Jump Shot: Made (25 PTS) Assist: Canada (9 AST),17,209,1,,203014,1628886,1611661320,86,81,2,4
+02:51,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,86,81,0,4
+02:51,[DAL] McCowan Substitution replaced by Kuier,0,-80,8,,1629479,1630386,1611661321,86,81,0,4
+02:38,[DAL] Ogunbowale Jump Shot: Missed,-157,144,2,,1629481,,1611661321,86,81,0,4
+02:36,[LAS] N Ogwumike Rebound (Off:1 Def:10),-157,144,4,,203014,,1611661320,86,81,0,4
+02:21,[LAS] N Ogwumike 3pt Shot: Missed,-68,232,2,,203014,,1611661320,86,81,0,4
+02:13,[DAL] Dangerfield Rebound (Off:0 Def:5),-68,232,4,,1630101,,1611661321,86,81,0,4
+02:04,[DAL] Dangerfield Layup Shot: Missed,-22,54,2,,1630101,,1611661321,86,81,0,4
+02:02,[LAS] N Ogwumike Rebound (Off:1 Def:11),-22,54,4,,203014,,1611661320,86,81,0,4
+01:53,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,86,81,0,4
+01:53,[DAL] Kuier Substitution replaced by Sabally,0,-80,8,,1630386,1630149,1611661321,86,81,0,4
+01:39,[LAS] Team Turnover : Shot Clock Turnover,225,27,5,,0,,1611661320,86,81,0,4
+01:20,[DAL] Howard Jump Shot: Missed,-23,8,2,,203827,,1611661321,86,81,0,4
+01:16,[LAS] Samuelson Rebound (Off:0 Def:2),-23,8,4,,1628317,,1611661320,86,81,0,4
+01:03,[DAL] Howard Foul: Shooting (1 PF) (2 FTA),-6,34,6,203014,203827,203800,1611661321,86,81,0,4
+01:03,[LAS 87-81] N Ogwumike Free Throw 1 of 2 (26 PTS),0,-80,3,,203014,,1611661320,87,81,1,4
+01:03,[LAS 88-81] N Ogwumike Free Throw 2 of 2 (27 PTS),0,-80,3,,203014,,1611661320,88,81,1,4
+00:55.3,[DAL] Sabally Turnover : Bad Pass (2 TO) Steal:Samuelson (1 ST),-1,65,5,1628317,1630149,,1611661321,88,81,0,4
+00:51.6,[DAL] Ogunbowale Foul: Personal (2 PF) (2 FTA),125,553,6,1628886,1629481,203800,1611661321,88,81,0,4
+00:51.6,[LAS 89-81] Canada Free Throw 1 of 2 (8 PTS),0,-80,3,,1628886,,1611661320,89,81,1,4
+00:51.6,[LAS 90-81] Canada Free Throw 2 of 2 (9 PTS),0,-80,3,,1628886,,1611661320,90,81,1,4
+00:45.7,[DAL] Ogunbowale 3pt Shot: Missed,132,219,2,,1629481,,1611661321,90,81,0,4
+00:42.5,[DAL] Dangerfield Rebound (Off:1 Def:5),132,219,4,,1630101,,1611661321,90,81,0,4
+00:37.9,[LAS] Henderson Foul: Shooting (2 PF) (2 FTA),50,40,6,1630101,1631089,200431,1611661320,90,81,0,4
+00:37.9,[DAL 82-90] Dangerfield Free Throw 1 of 2 (17 PTS),0,-80,3,,1630101,,1611661321,90,82,1,4
+00:37.9,[DAL 83-90] Dangerfield Free Throw 2 of 2 (18 PTS),0,-80,3,,1630101,,1611661321,90,83,1,4
+00:37.9,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,90,83,0,4
+00:36.1,[DAL] Ogunbowale Foul: Personal (3 PF) (2 FTA),180,262,6,1628886,1629481,203800,1611661321,90,83,0,4
+00:36.1,[LAS 91-83] Canada Free Throw 1 of 2 (10 PTS),0,-80,3,,1628886,,1611661320,91,83,1,4
+00:36.1,[LAS] Canada Free Throw 2 of 2 Missed,0,-80,3,,1628886,,1611661320,91,83,0,4
+00:32.3,[DAL] Brown Rebound (Off:2 Def:5),0,-80,4,,1629480,,1611661321,91,83,0,4
+00:28.6,[DAL] Howard 3pt Shot: Missed,-195,116,2,,203827,,1611661321,91,83,0,4
+00:24.7,[LAS] Henderson Rebound (Off:0 Def:2),-195,116,4,,1631089,,1611661320,91,83,0,4
+00:23.0,[DAL] Dangerfield Foul: Personal Take (1 PF) (2 FTA),-89,780,6,1631089,1630101,203800,1611661321,91,83,0,4
+00:23.0,[LAS 92-83] Henderson Free Throw 1 of 2 (8 PTS),0,-80,3,,1631089,,1611661320,92,83,1,4
+00:23.0,[LAS] N Ogwumike Substitution replaced by Burrell,0,-80,8,,203014,1630996,1611661320,92,83,0,4
+00:23.0,[LAS 93-83] Henderson Free Throw 2 of 2 (9 PTS),0,-80,3,,1631089,,1611661320,93,83,1,4
+00:17.8,[DAL] Ogunbowale 3pt Shot: Missed,-197,113,2,,1629481,,1611661321,93,83,0,4
+00:16.0,[LAS] Samuelson Rebound (Off:0 Def:3),-197,113,4,,1628317,,1611661320,93,83,0,4
+00:00.0,End Period,0,-80,13,,0,,0,93,83,0,4

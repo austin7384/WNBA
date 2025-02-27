@@ -1,0 +1,443 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+10:00,Jump Ball Cardoso vs Jones (Allen gains possession),0,-80,10,1628280,1642289,1628263,1611661329,0,0,0,1
+09:43,[CHI] Cardoso Cutting Layup Shot: Missed,33,26,2,,1642289,,1611661329,0,0,0,1
+09:41,[CON] Jones Rebound (Off:0 Def:1),33,26,4,,1628280,,1611661323,0,0,0,1
+09:20,[CON] Bonner 3pt Shot: Missed,32,245,2,,201886,,1611661323,0,0,0,1
+09:18,[CHI] Cardoso Rebound (Off:0 Def:1),32,245,4,,1642289,,1611661329,0,0,0,1
+09:09,[CHI] Reese Jump Shot: Missed,36,-1,2,,1642291,,1611661329,0,0,0,1
+09:07,[CON] Bonner Rebound (Off:0 Def:1),36,-1,4,,201886,,1611661323,0,0,0,1
+08:58,[CON] Carrington Driving Layup Shot: Missed,-21,31,2,,1630096,,1611661323,0,0,0,1
+08:58,[CHI] Cardoso Rebound (Off:0 Def:2),-21,31,4,,1642289,,1611661329,0,0,0,1
+08:41,[CHI 2-0] Carter Turnaround Fadeaway shot: Made (2 PTS) Assist: Allen (1 AST),145,48,1,,1630150,1628263,1611661329,0,2,2,1
+08:28,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Allen (1 ST),-82,248,5,1628263,203826,,1611661323,0,2,0,1
+08:24,[CHI 4-0] Carter Running Layup Shot: Made (4 PTS) Assist: Allen (2 AST),24,23,1,,1630150,1628263,1611661329,0,4,2,1
+08:00,[CHI] Cardoso Foul: Shooting (1 PF) (2 FTA),-43,19,6,1628280,1642289,100274,1611661329,0,4,0,1
+08:00,[CON 1-4] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1628280,,1611661323,1,4,1,1
+08:00,[CON 2-4] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1628280,,1611661323,2,4,1,1
+07:46,[CHI] Allen Turnover : Lost Ball (1 TO) Steal:Thomas (1 ST),46,17,5,203826,1628263,,1611661329,2,4,0,1
+07:42,[CON 4-4] Carrington Running Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),-17,26,1,,1630096,203826,1611661323,4,4,2,1
+07:17,[CHI] Allen Driving Layup Shot: Missed,83,32,2,,1628263,,1611661329,4,4,0,1
+07:13,[CON] Harris Rebound (Off:0 Def:1),83,32,4,,1630112,,1611661323,4,4,0,1
+07:09,[CON] Carrington 3pt Shot: Missed,-186,166,2,,1630096,,1611661323,4,4,0,1
+07:06,[CON] Thomas Rebound (Off:1 Def:0),-186,166,4,,203826,,1611661323,4,4,0,1
+07:04,[CON] Bonner 3pt Shot: Missed,181,192,2,,201886,,1611661323,4,4,0,1
+07:04,[CHI] Team Rebound,181,192,4,,0,,1611661329,4,4,0,1
+07:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,4,0,1
+06:38,[CHI 6-4] Cardoso Jump Shot: Made (2 PTS) Assist: Reese (1 AST),175,2,1,,1642289,1642291,1611661329,4,6,2,1
+06:27,[CON] Harris 3pt Shot: Missed,-129,212,2,,1630112,,1611661323,4,6,0,1
+06:26,[CHI] Reese Rebound (Off:0 Def:1),-129,212,4,,1642291,,1611661329,4,6,0,1
+06:16,[CHI] Cardoso Layup Shot: Missed,-66,21,2,,1642289,,1611661329,4,6,0,1
+06:14,[CON] Thomas Rebound (Off:1 Def:1),-66,21,4,,203826,,1611661323,4,6,0,1
+05:58,[CON] Harris 3pt Shot: Missed,-174,182,2,,1630112,,1611661323,4,6,0,1
+05:57,[CHI] Onyenwere Rebound (Off:0 Def:1),-174,182,4,,1630446,,1611661329,4,6,0,1
+05:52,[CON] Harris Foul: Shooting (1 PF) (2 FTA),50,15,6,1628263,1630112,100274,1611661323,4,6,0,1
+05:52,[CHI 7-4] Allen Free Throw 1 of 2 (1 PTS),0,-80,3,,1628263,,1611661329,4,7,1,1
+05:52,[CHI 8-4] Allen Free Throw 2 of 2 (2 PTS),0,-80,3,,1628263,,1611661329,4,8,1,1
+05:45,[CON] Thomas Turnover : Lost Ball (2 TO) Steal:Allen (2 ST),20,247,5,1628263,203826,,1611661323,4,8,0,1
+05:41,[CHI] Reese Running Layup Shot: Missed,-4,54,2,,1642291,,1611661329,4,8,0,1
+05:41,[CHI] Reese Rebound (Off:1 Def:1),-4,54,4,,1642291,,1611661329,4,8,0,1
+05:40,[CHI] Reese Layup Shot: Missed,7,0,2,,1642291,,1611661329,4,8,0,1
+05:40,[CON] Bonner Rebound (Off:0 Def:2),7,0,4,,201886,,1611661323,4,8,0,1
+05:28,[CON 6-8] Jones Layup Shot: Made (4 PTS) Assist: Thomas (2 AST),29,31,1,,1628280,203826,1611661323,6,8,2,1
+05:20,[CHI] Carter Turnover : Traveling (1 TO),93,23,5,,1630150,100274,1611661329,6,8,0,1
+05:20,[CHI] Allen Substitution replaced by Harrison,0,-80,8,,1628263,204330,1611661329,6,8,0,1
+05:20,[CHI] Reese Substitution replaced by Evans,0,-80,8,,1642291,1630389,1611661329,6,8,0,1
+05:06,[CON] Carrington Cutting Layup Shot: Missed,-34,11,2,,1630096,,1611661323,6,8,0,1
+05:05,[CHI] Carter Rebound (Off:0 Def:1),-34,11,4,,1630150,,1611661329,6,8,0,1
+04:54,[CHI] Carter Pullup Jump shot: Missed,93,146,2,,1630150,,1611661329,6,8,0,1
+04:53,[CON] Carrington Rebound (Off:0 Def:1),93,146,4,,1630096,,1611661323,6,8,0,1
+04:45,[CHI] Harrison Violation:Kicked Ball,0,-80,7,,204330,,1611661329,6,8,0,1
+04:45,Timeout : Official,0,-80,9,,0,,0,6,8,0,1
+04:45,[CON] Thomas Substitution replaced by Mabrey,0,-80,8,,203826,1629497,1611661323,6,8,0,1
+04:33,[CON] Bonner 3pt Shot: Missed,-233,-12,2,,201886,,1611661323,6,8,0,1
+04:29,[CHI] Carter Rebound (Off:0 Def:2),-233,-12,4,,1630150,,1611661329,6,8,0,1
+04:28,[CHI] Carter Running Layup Shot: Missed Block: Carrington (1 BLK),34,34,2,1630096,1630150,,1611661329,6,8,0,1
+04:28,[CHI] Team Rebound,34,34,4,,0,,1611661329,6,8,0,1
+04:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,8,0,1
+04:16,[CHI] Cardoso Driving Floating Jump Shot: Missed,4,82,2,,1642289,,1611661329,6,8,0,1
+04:16,[CON] Team Rebound,4,82,4,,0,,1611661323,6,8,0,1
+04:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,8,0,1
+04:00,[CON] Jones Layup Shot: Missed,23,47,2,,1628280,,1611661323,6,8,0,1
+04:00,[CHI] Team Rebound,23,47,4,,0,,1611661329,6,8,0,1
+04:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,8,0,1
+03:42,[CHI 10-6] Cardoso Cutting Layup Shot: Made (4 PTS) Assist: Carter (1 AST),26,26,1,,1642289,1630150,1611661329,6,10,2,1
+03:36,[CON] Harris Turnover : Bad Pass (1 TO) Steal:Onyenwere (1 ST),-154,579,5,1630446,1630112,,1611661323,6,10,0,1
+03:26,[CHI] Carter Turnover : Bad Pass (2 TO) Steal:Carrington (1 ST),180,10,5,1630096,1630150,,1611661329,6,10,0,1
+03:19,[CON 9-10] Mabrey 3pt Shot: Made (3 PTS),6,250,1,,1629497,,1611661323,9,10,3,1
+03:03,[CHI 12-9] Evans Driving Reverse Layup Shot: Made (2 PTS),24,13,1,,1630389,,1611661329,9,12,2,1
+02:51,[CON] Carrington 3pt Shot: Missed,-210,86,2,,1630096,,1611661323,9,12,0,1
+02:49,[CHI] Harrison Rebound (Off:0 Def:1),-210,86,4,,204330,,1611661329,9,12,0,1
+02:37,[CHI 14-9] Carter Pullup Jump shot: Made (6 PTS),119,53,1,,1630150,,1611661329,9,14,2,1
+02:18,[CHI] Carter Foul: Flagrant Type 1 (1 PF) (2 FTA),-24,37,6,1629497,1630150,202679,1611661329,9,14,0,1
+02:18,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,9,14,0,1
+02:18,[CON] Mabrey Free Throw Flagrant 1 of 2 Missed,0,-80,3,,1629497,,1611661323,9,14,0,1
+02:18,[CON] Team Rebound,0,-80,4,,0,,1611661323,9,14,0,1
+02:18,[CON 10-14] Mabrey Free Throw Flagrant 2 of 2 (4 PTS),0,-80,3,,1629497,,1611661323,10,14,1,1
+02:18,[CON] Bonner Substitution replaced by Thomas,0,-80,8,,201886,203826,1611661323,10,14,0,1
+02:18,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,10,14,0,1
+02:18,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,10,14,0,1
+02:18,[CHI] Carter Substitution replaced by Banham,0,-80,8,,1630150,1627671,1611661329,10,14,0,1
+02:18,[CHI] Cardoso Substitution replaced by Reese,0,-80,8,,1642289,1642291,1611661329,10,14,0,1
+02:18,[CHI] Onyenwere Substitution replaced by DeShields,0,-80,8,,1630446,1628890,1611661329,10,14,0,1
+02:07,[CON] Thomas Pullup Jump shot: Missed,-38,173,2,,203826,,1611661323,10,14,0,1
+02:06,[CON] Nelson-Ododa Rebound (Off:1 Def:0),-38,173,4,,1631135,,1611661323,10,14,0,1
+02:03,[CON] Burton 3pt Shot: Missed,115,229,2,,1631007,,1611661323,10,14,0,1
+02:03,[CHI] DeShields Rebound (Off:0 Def:1),115,229,4,,1628890,,1611661329,10,14,0,1
+01:53,[CHI 17-10] Banham 3pt Shot: Made (3 PTS) Assist: DeShields (1 AST),183,169,1,,1627671,1628890,1611661329,10,17,3,1
+01:38,[CON 13-17] Mabrey 3pt Shot: Made (7 PTS) Assist: Thomas (3 AST),139,207,1,,1629497,203826,1611661323,13,17,3,1
+01:15,[CHI] DeShields 3pt Shot: Missed,-170,191,2,,1628890,,1611661329,13,17,0,1
+01:14,[CHI] Reese Rebound (Off:2 Def:1),-170,191,4,,1642291,,1611661329,13,17,0,1
+01:11,[CHI] Evans 3pt Shot: Missed,-7,259,2,,1630389,,1611661329,13,17,0,1
+01:11,[CHI] Harrison Rebound (Off:1 Def:1),-7,259,4,,204330,,1611661329,13,17,0,1
+01:04,[CHI] Harrison Turnover : Lost Ball (1 TO) Steal:Thomas (2 ST),43,35,5,203826,204330,,1611661329,13,17,0,1
+00:59.5,[CHI] Harrison Foul: Shooting (1 PF) (2 FTA),-4,59,6,1630096,204330,100274,1611661329,13,17,0,1
+00:59.5,[CON 14-17] Carrington Free Throw 1 of 2 (3 PTS),0,-80,3,,1630096,,1611661323,14,17,1,1
+00:59.5,[CON 15-17] Carrington Free Throw 2 of 2 (4 PTS),0,-80,3,,1630096,,1611661323,15,17,1,1
+00:43.5,[CHI] DeShields Turnaround Fadeaway shot: Missed,112,19,2,,1628890,,1611661329,15,17,0,1
+00:42.7,[CON] Thomas Rebound (Off:1 Def:2),112,19,4,,203826,,1611661323,15,17,0,1
+00:38.9,[CHI] Evans Violation:Kicked Ball,0,-80,7,,1630389,,1611661329,15,17,0,1
+00:34.4,[CHI] Evans Foul: Shooting (1 PF) (2 FTA),-72,32,6,1631007,1630389,202679,1611661329,15,17,0,1
+00:34.4,[CON 16-17] Burton Free Throw 1 of 2 (1 PTS),0,-80,3,,1631007,,1611661323,16,17,1,1
+00:34.4,[CON 17-17] Burton Free Throw 2 of 2 (2 PTS),0,-80,3,,1631007,,1611661323,17,17,1,1
+00:16.7,[CHI] Harrison Turnover : Bad Pass (2 TO) Steal:Carrington (2 ST),15,265,5,1630096,204330,,1611661329,17,17,0,1
+00:12.2,[CON] Carrington Running Layup Shot: Missed,26,48,2,,1630096,,1611661323,17,17,0,1
+00:09.7,[CHI] Reese Rebound (Off:2 Def:2),26,48,4,,1642291,,1611661329,17,17,0,1
+00:00.0,[CHI] Reese Layup Shot: Missed,28,24,2,,1642291,,1611661329,17,17,0,1
+00:00.0,[CHI] Team Rebound,28,24,4,,0,,1611661329,17,17,0,1
+00:00.0,End Period,0,-80,13,,0,,0,17,17,0,1
+10:00,Start Period,0,-80,12,,0,,0,17,17,0,2
+09:46,[CON] Bonner Jump Shot: Missed,-2,111,2,,201886,,1611661323,17,17,0,2
+09:45,[CHI] Reese Rebound (Off:2 Def:3),-2,111,4,,1642291,,1611661329,17,17,0,2
+09:25,[CHI] Harrison Turnover : Traveling (3 TO),113,26,5,,204330,1641525,1611661329,17,17,0,2
+09:14,[CON 20-17] Mabrey 3pt Shot: Made (10 PTS) Assist: Thomas (4 AST),-145,186,1,,1629497,203826,1611661323,20,17,3,2
+09:09,Timeout : Regular,0,-80,9,,1611661329,,1611661329,20,17,0,2
+09:09,[CHI] DeShields Substitution replaced by Carter,0,-80,8,,1628890,1630150,1611661329,20,17,0,2
+09:09,[CHI] Evans Substitution replaced by Cardoso,0,-80,8,,1630389,1642289,1611661329,20,17,0,2
+09:09,[CHI] Harrison Substitution replaced by Allen,0,-80,8,,204330,1628263,1611661329,20,17,0,2
+08:59,[CHI] Banham Jump Shot: Missed,-11,125,2,,1627671,,1611661329,20,17,0,2
+08:58,[CHI] Cardoso Rebound (Off:1 Def:2),-11,125,4,,1642289,,1611661329,20,17,0,2
+08:54,[CHI 20-20] Banham 3pt Shot: Made (6 PTS) Assist: Cardoso (1 AST),-161,215,1,,1627671,1642289,1611661329,20,20,3,2
+08:41,[CON 22-20] Mabrey Driving Floating Jump Shot: Made (12 PTS) Assist: Jones (1 AST),1,130,1,,1629497,1628280,1611661323,22,20,2,2
+08:15,[CHI] Banham 3pt Shot: Missed,16,290,2,,1627671,,1611661329,22,20,0,2
+08:15,[CHI] Team Rebound,16,290,4,,0,,1611661329,22,20,0,2
+08:15,[CHI] Team Turnover : Shot Clock Turnover,23,230,5,,0,202679,1611661329,22,20,0,2
+08:15,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,22,20,0,2
+08:03,[CON 24-20] Bonner Cutting Layup Shot: Made (2 PTS) Assist: Thomas (5 AST),21,26,1,,201886,203826,1611661323,24,20,2,2
+08:03,[CHI] Banham Foul: Shooting (1 PF) (1 FTA),21,21,6,201886,1627671,1641525,1611661329,24,20,0,2
+08:03,[CON 25-20] Bonner Free Throw 1 of 1 (3 PTS),0,-80,3,,201886,,1611661323,25,20,1,2
+07:55,[CON] Burton Foul: Personal (1 PF),-1,99,6,1630150,1631007,1641525,1611661323,25,20,0,2
+07:50,[CHI 22-25] Cardoso Cutting Layup Shot: Made (6 PTS) Assist: Allen (3 AST),1,-1,1,,1642289,1628263,1611661329,25,22,2,2
+07:50,[CON] Burton Foul: Shooting (2 PF) (1 FTA),-3,29,6,1642289,1631007,100274,1611661323,25,22,0,2
+07:50,[CHI 23-25] Cardoso Free Throw 1 of 1 (7 PTS),0,-80,3,,1642289,,1611661329,25,23,1,2
+07:44,[CON] Mabrey 3pt Shot: Missed,196,133,2,,1629497,,1611661323,25,23,0,2
+07:43,[CON] Mabrey Rebound (Off:1 Def:0),196,133,4,,1629497,,1611661323,25,23,0,2
+07:31,[CON] Burton Driving Floating Jump Shot: Missed,-54,46,2,,1631007,,1611661323,25,23,0,2
+07:29,[CHI] Carter Rebound (Off:0 Def:3),-54,46,4,,1630150,,1611661329,25,23,0,2
+07:25,[CHI] Banham 3pt Shot: Missed,-206,133,2,,1627671,,1611661329,25,23,0,2
+07:25,[CON] Mabrey Rebound (Off:1 Def:1),-206,133,4,,1629497,,1611661323,25,23,0,2
+07:12,[CON 27-23] Bonner Pullup Jump shot: Made (5 PTS) Assist: Thomas (6 AST),79,83,1,,201886,203826,1611661323,27,23,2,2
+07:12,[CHI] Banham Foul: Shooting (2 PF) (1 FTA),92,94,6,201886,1627671,202679,1611661329,27,23,0,2
+07:12,[CON] Burton Substitution replaced by Harris,0,-80,8,,1631007,1630112,1611661323,27,23,0,2
+07:12,[CON 28-23] Bonner Free Throw 1 of 1 (6 PTS),0,-80,3,,201886,,1611661323,28,23,1,2
+07:03,[CON] Harris Foul: Personal (2 PF),-111,164,6,1630150,1630112,100274,1611661323,28,23,0,2
+07:00,[CHI] Carter Layup Shot: Missed Block: Harris (1 BLK),-6,-4,2,1630112,1630150,,1611661329,28,23,0,2
+07:00,[CON] Thomas Rebound (Off:1 Def:3),-6,-4,4,,203826,,1611661323,28,23,0,2
+06:53,[CON] Harris 3pt Shot: Missed,150,205,2,,1630112,,1611661323,28,23,0,2
+06:49,[CHI] Banham Rebound (Off:0 Def:1),150,205,4,,1627671,,1611661329,28,23,0,2
+06:46,[CHI] Banham Turnover : Bad Pass (1 TO) Steal:Harris (1 ST),55,784,5,1630112,1627671,,1611661329,28,23,0,2
+06:36,[CON] Bonner 3pt Shot: Missed,-228,27,2,,201886,,1611661323,28,23,0,2
+06:36,[CON] Bonner Rebound (Off:1 Def:2),-228,27,4,,201886,,1611661323,28,23,0,2
+06:32,[CON] Bonner Jump Shot: Missed,-146,76,2,,201886,,1611661323,28,23,0,2
+06:32,[CON] Team Rebound,-88,26,4,,0,,1611661323,28,23,0,2
+06:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,23,0,2
+06:31,[CHI] Banham Substitution replaced by Onyenwere,0,-80,8,,1627671,1630446,1611661329,28,23,0,2
+06:28,[CON] Mabrey Jump Shot: Missed,-93,13,2,,1629497,,1611661323,28,23,0,2
+06:28,[CHI] Team Rebound,-93,13,4,,0,,1611661329,28,23,0,2
+06:27,[CON] Mabrey Foul: Loose Ball (1 PF),55,816,6,1642291,1629497,100274,1611661323,28,23,0,2
+06:18,[CHI] Carter Jump Shot: Missed,-29,3,2,,1630150,,1611661329,28,23,0,2
+06:14,[CHI] Reese Rebound (Off:3 Def:3),-29,3,4,,1642291,,1611661329,28,23,0,2
+06:12,[CHI 25-28] Cardoso Cutting Layup Shot: Made (9 PTS) Assist: Carter (2 AST),10,19,1,,1642289,1630150,1611661329,28,25,2,2
+05:57,[CON 31-25] Mabrey 3pt Shot: Made (15 PTS) Assist: Thomas (7 AST),-207,122,1,,1629497,203826,1611661323,31,25,3,2
+05:49,[CHI 27-31] Carter Driving Layup Shot: Made (8 PTS),20,9,1,,1630150,,1611661329,31,27,2,2
+05:49,[CON] Mabrey Foul: Shooting (2 PF) (1 FTA),66,66,6,1630150,1629497,202679,1611661323,31,27,0,2
+05:49,[CHI 28-31] Carter Free Throw 1 of 1 (9 PTS),0,-80,3,,1630150,,1611661329,31,28,1,2
+05:34,[CON] Mabrey Driving Layup Shot: Missed,16,25,2,,1629497,,1611661323,31,28,0,2
+05:32,[CHI] Reese Rebound (Off:3 Def:4),16,25,4,,1642291,,1611661329,31,28,0,2
+05:25,[CHI 30-31] Carter Pullup Jump shot: Made (11 PTS) Assist: Allen (4 AST),5,137,1,,1630150,1628263,1611661329,31,30,2,2
+05:09,[CON] Jones Layup Shot: Missed Block: Onyenwere (1 BLK),51,35,2,1630446,1628280,,1611661323,31,30,0,2
+05:09,[CON] Team Rebound,51,35,4,,0,,1611661323,31,30,0,2
+05:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,30,0,2
+05:09,[CON] Mabrey Substitution replaced by Carrington,0,-80,8,,1629497,1630096,1611661323,31,30,0,2
+05:05,[CHI] Reese Foul: Shooting (1 PF) (2 FTA),-26,38,6,1628280,1642291,1641525,1611661329,31,30,0,2
+05:05,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,31,30,0,2
+05:05,[CON] Team Rebound,0,-80,4,,0,,1611661323,31,30,0,2
+05:05,[CON 32-30] Jones Free Throw 2 of 2 (5 PTS),0,-80,3,,1628280,,1611661323,32,30,1,2
+04:55,[CHI] Carter Driving Layup Shot: Missed Block: Jones (1 BLK),23,19,2,1628280,1630150,,1611661329,32,30,0,2
+04:55,[CHI] Team Rebound,23,19,4,,0,,1611661329,32,30,0,2
+04:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,30,0,2
+04:46,[CHI] Carter 3pt Shot: Missed,-143,195,2,,1630150,,1611661329,32,30,0,2
+04:45,[CON] Bonner Rebound (Off:1 Def:3),-143,195,4,,201886,,1611661323,32,30,0,2
+04:38,[CHI] Cardoso Foul: Shooting (2 PF) (2 FTA),-43,37,6,1628280,1642289,202679,1611661329,32,30,0,2
+04:38,[CON 33-30] Jones Free Throw 1 of 2 (6 PTS),0,-80,3,,1628280,,1611661323,33,30,1,2
+04:38,[CON 34-30] Jones Free Throw 2 of 2 (7 PTS),0,-80,3,,1628280,,1611661323,34,30,1,2
+04:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,30,0,2
+04:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,30,0,2
+04:17,[CHI] Carter Turnover : Bad Pass (3 TO) Steal:Thomas (3 ST),-105,2,5,203826,1630150,,1611661329,34,30,0,2
+04:14,[CON 36-30] Thomas Running Layup Shot: Made (2 PTS),20,30,1,,203826,,1611661323,36,30,2,2
+03:54,[CHI] Reese Jump Shot: Missed,23,211,2,,1642291,,1611661329,36,30,0,2
+03:51,[CON] Carrington Rebound (Off:0 Def:2),23,211,4,,1630096,,1611661323,36,30,0,2
+03:40,[CON 38-30] Thomas Jump Shot: Made (4 PTS) Assist: Bonner (1 AST),-21,103,1,,203826,201886,1611661323,38,30,2,2
+03:29,[CHI] Allen Turnover : Bad Pass (2 TO) Steal:Carrington (3 ST),118,249,5,1630096,1628263,,1611661329,38,30,0,2
+03:27,[CON 40-30] Carrington Running Layup Shot: Made (6 PTS),10,11,1,,1630096,,1611661323,40,30,2,2
+03:27,Timeout : Regular,0,-80,9,,1611661329,,1611661329,40,30,0,2
+03:27,[CON] Bonner Substitution replaced by Mabrey,0,-80,8,,201886,1629497,1611661323,40,30,0,2
+03:27,[CHI] Allen Substitution replaced by Jefferson,0,-80,8,,1628263,1627669,1611661329,40,30,0,2
+03:17,[CON] Carrington Foul: Shooting (1 PF) (2 FTA),17,74,6,1630150,1630096,202679,1611661323,40,30,0,2
+03:17,[CHI 31-40] Carter Free Throw 1 of 2 (12 PTS),0,-80,3,,1630150,,1611661329,40,31,1,2
+03:17,Stoppage: Court Cleanup,0,-80,20,,0,,0,40,31,0,2
+03:17,[CHI 32-40] Carter Free Throw 2 of 2 (13 PTS),0,-80,3,,1630150,,1611661329,40,32,1,2
+03:04,[CON 42-32] Thomas Driving Layup Shot: Made (6 PTS) Assist: Harris (1 AST),-32,10,1,,203826,1630112,1611661323,42,32,2,2
+02:51,[CHI] Onyenwere Pullup Jump shot: Missed,19,179,2,,1630446,,1611661329,42,32,0,2
+02:50,[CON] Carrington Rebound (Off:0 Def:3),19,179,4,,1630096,,1611661323,42,32,0,2
+02:41,[CON] Carrington Turnaround Fadeaway shot: Missed,94,38,2,,1630096,,1611661323,42,32,0,2
+02:39,[CHI] Cardoso Rebound (Off:1 Def:3),94,38,4,,1642289,,1611661329,42,32,0,2
+02:29,[CON] Carrington Foul: Shooting (2 PF) (2 FTA),-55,28,6,1630446,1630096,1641525,1611661323,42,32,0,2
+02:29,[CHI] Onyenwere Free Throw 1 of 2 Missed,0,-80,3,,1630446,,1611661329,42,32,0,2
+02:29,[CHI] Team Rebound,0,-80,4,,0,,1611661329,42,32,0,2
+02:29,[CHI 33-42] Onyenwere Free Throw 2 of 2 (1 PTS),0,-80,3,,1630446,,1611661329,42,33,1,2
+02:16,[CON] Jones 3pt Shot: Missed,90,235,2,,1628280,,1611661323,42,33,0,2
+02:14,[CHI] Reese Rebound (Off:3 Def:5),90,235,4,,1642291,,1611661329,42,33,0,2
+02:06,[CHI] Carter Turnover : Bad Pass (4 TO) Steal:Mabrey (1 ST),88,22,5,1629497,1630150,,1611661329,42,33,0,2
+02:02,[CON] Carrington Running Layup Shot: Missed,5,6,2,,1630096,,1611661323,42,33,0,2
+02:02,[CHI] Carter Rebound (Off:0 Def:4),5,6,4,,1630150,,1611661329,42,33,0,2
+02:02,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661329,42,33,0,2
+01:42,[CHI] Onyenwere Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-189,167,5,,1630446,1641525,1611661329,42,33,0,2
+01:29,[CON] Thomas Turnover : Lost Ball (3 TO) Steal:Onyenwere (2 ST),-55,236,5,1630446,203826,,1611661323,42,33,0,2
+01:25,[CHI 35-42] Onyenwere Running Layup Shot: Made (3 PTS),1,-7,1,,1630446,,1611661329,42,35,2,2
+00:59.5,[CON] Thomas Foul: Offensive Charge (1 PF),-15,210,6,1627669,203826,202679,1611661323,42,35,0,2
+00:59.5,[CON] Thomas Turnover : Offensive Foul Turnover (4 TO),-15,210,5,,203826,202679,1611661323,42,35,0,2
+00:59.5,[CON] Carrington Substitution replaced by Bonner,0,-80,8,,1630096,201886,1611661323,42,35,0,2
+00:48.7,[CHI] Jefferson Jump Shot: Missed,96,38,2,,1627669,,1611661329,42,35,0,2
+00:43.8,[CHI] Cardoso Rebound (Off:2 Def:3),96,38,4,,1642289,,1611661329,42,35,0,2
+00:36.7,[CHI] Onyenwere Jump Shot: Missed Block: Bonner (1 BLK),-94,35,2,201886,1630446,,1611661329,42,35,0,2
+00:31.6,[CON] Thomas Rebound (Off:1 Def:4),-94,35,4,,203826,,1611661323,42,35,0,2
+00:30.2,[CON 45-35] Harris 3pt Shot: Made (3 PTS) Assist: Mabrey (1 AST),-227,-16,1,,1630112,1629497,1611661323,45,35,3,2
+00:20.5,[CHI] Carter Driving Layup Shot: Missed,29,-8,2,,1630150,,1611661329,45,35,0,2
+00:16.6,[CON] Thomas Rebound (Off:1 Def:5),29,-8,4,,203826,,1611661323,45,35,0,2
+00:00.0,[CON] Jones Jump Shot: Missed Block: Reese (1 BLK),89,36,2,1642291,1628280,,1611661323,45,35,0,2
+00:00.0,[CHI] Carter Rebound (Off:0 Def:5),89,36,4,,1630150,,1611661329,45,35,0,2
+00:00.0,End Period,0,-80,13,,0,,0,45,35,0,2
+10:00,Start Period,0,-80,12,,0,,0,45,35,0,3
+09:51,[CHI] Carter Foul: Personal (2 PF),40,112,6,1630096,1630150,202679,1611661329,45,35,0,3
+09:51,InstantReplay Request Stands,0,-80,18,,0,,0,45,35,0,3
+09:34,[CON] Harris Jump Shot: Missed,-98,51,2,,1630112,,1611661323,45,35,0,3
+09:33,[CHI] Reese Rebound (Off:3 Def:6),-98,51,4,,1642291,,1611661329,45,35,0,3
+09:12,[CON] Jones Foul: Personal (1 PF),-5,33,6,1642289,1628280,1641525,1611661323,45,35,0,3
+09:00,Jump Ball Harris vs Allen (Bonner gains possession),0,-80,10,1628263,1630112,201886,1611661323,45,35,0,3
+09:00,[CHI] Allen Turnover : Lost Ball (3 TO) Steal:Harris (2 ST),0,-80,5,1630112,1628263,,1611661329,45,35,0,3
+08:49,[CON] Carrington Fadeaway Jump Shot: Missed,0,83,2,,1630096,,1611661323,45,35,0,3
+08:48,[CHI] Cardoso Rebound (Off:2 Def:4),0,83,4,,1642289,,1611661329,45,35,0,3
+08:37,[CHI 37-45] Reese Layup Shot: Made (2 PTS) Assist: Carter (3 AST),27,25,1,,1642291,1630150,1611661329,45,37,2,3
+08:15,[CON] Jones Layup Shot: Missed Block: Reese (2 BLK),-48,21,2,1642291,1628280,,1611661323,45,37,0,3
+08:15,[CON] Team Rebound,-48,21,4,,0,,1611661323,45,37,0,3
+08:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,37,0,3
+08:12,[CON] Harris Jump Shot: Missed,-161,6,2,,1630112,,1611661323,45,37,0,3
+08:11,[CHI] Reese Rebound (Off:3 Def:7),-161,6,4,,1642291,,1611661329,45,37,0,3
+08:06,[CHI 39-45] Cardoso Running Layup Shot: Made (11 PTS) Assist: Reese (2 AST),26,24,1,,1642289,1642291,1611661329,45,39,2,3
+08:05,Timeout : Regular,0,-80,9,,1611661323,,1611661323,45,39,0,3
+07:44,[CON] Bonner 3pt Shot: Missed,232,3,2,,201886,,1611661323,45,39,0,3
+07:42,[CHI] Reese Rebound (Off:3 Def:8),232,3,4,,1642291,,1611661329,45,39,0,3
+07:34,[CHI] Carter Turnover : Lost Ball (5 TO) Steal:Bonner (1 ST),-189,13,5,201886,1630150,,1611661329,45,39,0,3
+07:31,[CON 47-39] Bonner Running Layup Shot: Made (8 PTS) Assist: Thomas (8 AST),47,10,1,,201886,203826,1611661323,47,39,2,3
+07:31,[CHI] Onyenwere Foul: Shooting (1 PF) (1 FTA),24,10,6,201886,1630446,1641525,1611661329,47,39,0,3
+07:31,[CON 48-39] Bonner Free Throw 1 of 1 (9 PTS),0,-80,3,,201886,,1611661323,48,39,1,3
+07:20,[CHI 41-48] Carter Pullup Jump shot: Made (15 PTS) Assist: Allen (5 AST),-129,101,1,,1630150,1628263,1611661329,48,41,2,3
+06:58,[CON 50-41] Jones Jump Shot: Made (9 PTS) Assist: Thomas (9 AST),-71,140,1,,1628280,203826,1611661323,50,41,2,3
+06:42,[CHI 43-50] Carter Driving Layup Shot: Made (17 PTS),44,28,1,,1630150,,1611661329,50,43,2,3
+06:28,[CON] Bonner Jump Shot: Missed Block: Onyenwere (2 BLK),6,91,2,1630446,201886,,1611661323,50,43,0,3
+06:28,[CHI] Carter Rebound (Off:0 Def:6),6,91,4,,1630150,,1611661329,50,43,0,3
+06:28,[CON] Jones Foul: Personal (2 PF),-17,746,6,1642291,1628280,100274,1611661323,50,43,0,3
+06:28,[CHI] Carter Substitution replaced by Banham,0,-80,8,,1630150,1627671,1611661329,50,43,0,3
+06:12,[CHI 46-50] Banham 3pt Shot: Made (9 PTS) Assist: Cardoso (2 AST),176,173,1,,1627671,1642289,1611661329,50,46,3,3
+05:48,[CON] Jones Jump Shot: Missed,-83,22,2,,1628280,,1611661323,50,46,0,3
+05:47,[CHI] Banham Rebound (Off:0 Def:2),-83,22,4,,1627671,,1611661329,50,46,0,3
+05:42,[CHI 48-50] Cardoso Running Layup Shot: Made (13 PTS) Assist: Onyenwere (1 AST),22,28,1,,1642289,1630446,1611661329,50,48,2,3
+05:27,[CON] Bonner Turnover : Out of Bounds Lost Ball Turnover (1 TO),122,230,5,,201886,100274,1611661323,50,48,0,3
+05:27,[CON] Carrington Substitution replaced by Mabrey,0,-80,8,,1630096,1629497,1611661323,50,48,0,3
+05:27,Stoppage: Blood Rule,0,-80,20,,0,,0,50,48,0,3
+05:27,[CHI] Onyenwere Substitution replaced by DeShields,0,-80,8,,1630446,1628890,1611661329,50,48,0,3
+05:14,[CHI] Reese Layup Shot: Missed,-23,32,2,,1642291,,1611661329,50,48,0,3
+05:10,[CHI] Reese Rebound (Off:4 Def:8),-23,32,4,,1642291,,1611661329,50,48,0,3
+05:10,[CHI] Reese Putback Layup Shot: Missed Block: Thomas (1 BLK),-19,28,2,203826,1642291,,1611661329,50,48,0,3
+05:10,[CHI] Reese Rebound (Off:5 Def:8),-19,28,4,,1642291,,1611661329,50,48,0,3
+05:07,[CHI 50-50] Reese Putback Layup Shot: Made (4 PTS),-6,13,1,,1642291,,1611661329,50,50,2,3
+04:49,[CON] Bonner 3pt Shot: Missed,214,88,2,,201886,,1611661323,50,50,0,3
+04:47,[CON] Mabrey Rebound (Off:2 Def:1),214,88,4,,1629497,,1611661323,50,50,0,3
+04:45,[CON 52-50] Mabrey Putback Layup Shot: Made (17 PTS),-6,43,1,,1629497,,1611661323,52,50,2,3
+04:29,[CON] Harris Foul: Shooting (3 PF) (2 FTA),-32,35,6,1642291,1630112,202679,1611661323,52,50,0,3
+04:29,[CHI 51-52] Reese Free Throw 1 of 2 (5 PTS),0,-80,3,,1642291,,1611661329,52,51,1,3
+04:29,[CHI] Reese Free Throw 2 of 2 Missed,0,-80,3,,1642291,,1611661329,52,51,0,3
+04:27,[CON] Thomas Rebound (Off:1 Def:6),0,-80,4,,203826,,1611661323,52,51,0,3
+04:14,[CON] Harris Turnover : Lost Ball (2 TO) Steal:Cardoso (1 ST),10,244,5,1642289,1630112,,1611661323,52,51,0,3
+04:04,[CHI] Allen Turnover : Lost Ball (4 TO) Steal:Harris (3 ST),85,239,5,1630112,1628263,,1611661329,52,51,0,3
+04:04,[CHI] Allen Foul: Personal (1 PF),21,799,6,1630112,1628263,1641525,1611661329,52,51,0,3
+04:04,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,52,51,0,3
+03:57,[CHI] DeShields Foul: Shooting (1 PF) (2 FTA),2,33,6,201886,1628890,202679,1611661329,52,51,0,3
+03:57,[CON 53-51] Bonner Free Throw 1 of 2 (10 PTS),0,-80,3,,201886,,1611661323,53,51,1,3
+03:57,[CON] Bonner Free Throw 2 of 2 Missed,0,-80,3,,201886,,1611661323,53,51,0,3
+03:54,[CON] Jones Rebound (Off:1 Def:1),0,-80,4,,1628280,,1611661323,53,51,0,3
+03:52,[CON 55-51] Jones Putback Layup Shot: Made (11 PTS),-9,7,1,,1628280,,1611661323,55,51,2,3
+03:40,[CON] Burton Foul: Personal (3 PF),65,242,6,1628263,1631007,100274,1611661323,55,51,0,3
+03:32,[CHI 53-55] Allen Pullup Jump shot: Made (4 PTS),63,122,1,,1628263,,1611661329,55,53,2,3
+03:07,[CON] Bonner Step Back Jump shot: Missed,155,0,2,,201886,,1611661323,55,53,0,3
+03:06,[CON] Thomas Rebound (Off:2 Def:6),155,0,4,,203826,,1611661323,55,53,0,3
+03:01,[CHI] Cardoso Foul: Shooting (3 PF) (2 FTA),-4,49,6,201886,1642289,100274,1611661329,55,53,0,3
+03:01,[CON 56-53] Bonner Free Throw 1 of 2 (11 PTS),0,-80,3,,201886,,1611661323,56,53,1,3
+03:01,[CON 57-53] Bonner Free Throw 2 of 2 (12 PTS),0,-80,3,,201886,,1611661323,57,53,1,3
+02:55,[CON] Jones Foul: Personal (3 PF) (2 FTA),13,56,6,1642289,1628280,100274,1611661323,57,53,0,3
+02:55,[CHI] Cardoso Free Throw 1 of 2 Missed,0,-80,3,,1642289,,1611661329,57,53,0,3
+02:55,[CHI] Team Rebound,0,-80,4,,0,,1611661329,57,53,0,3
+02:55,[CON] Bonner Substitution replaced by Nelson-Ododa,0,-80,8,,201886,1631135,1611661323,57,53,0,3
+02:55,[CON] Jones Substitution replaced by Carrington,0,-80,8,,1628280,1630096,1611661323,57,53,0,3
+02:55,[CHI 54-57] Cardoso Free Throw 2 of 2 (14 PTS),0,-80,3,,1642289,,1611661329,57,54,1,3
+02:35,[CON] Mabrey Foul: Offensive Charge (3 PF),-142,21,6,1628263,1629497,202679,1611661323,57,54,0,3
+02:35,[CON] Mabrey Turnover : Offensive Foul Turnover (1 TO),-142,21,5,,1629497,202679,1611661323,57,54,0,3
+02:35,[CHI] DeShields Substitution replaced by Carter,0,-80,8,,1628890,1630150,1611661329,57,54,0,3
+02:13,[CHI] Reese Layup Shot: Missed,-26,9,2,,1642291,,1611661329,57,54,0,3
+02:11,[CHI] Reese Rebound (Off:6 Def:8),-26,9,4,,1642291,,1611661329,57,54,0,3
+02:11,[CHI 56-57] Reese Putback Layup Shot: Made (7 PTS),-12,10,1,,1642291,,1611661329,57,56,2,3
+01:55,[CON 59-56] Mabrey Pullup Jump shot: Made (19 PTS) Assist: Thomas (10 AST),84,45,1,,1629497,203826,1611661323,59,56,2,3
+01:42,[CHI] Carter Fadeaway Jump Shot: Missed,-71,27,2,,1630150,,1611661329,59,56,0,3
+01:41,[CHI] Reese Rebound (Off:7 Def:8),-71,27,4,,1642291,,1611661329,59,56,0,3
+01:41,[CON] Mabrey Foul: Shooting (4 PF) (2 FTA),12,26,6,1642291,1629497,202679,1611661323,59,56,0,3
+01:41,[CHI 57-59] Reese Free Throw 1 of 2 (8 PTS),0,-80,3,,1642291,,1611661329,59,57,1,3
+01:41,[CON] Mabrey Substitution replaced by Bonner,0,-80,8,,1629497,201886,1611661323,59,57,0,3
+01:41,[CHI 58-59] Reese Free Throw 2 of 2 (9 PTS),0,-80,3,,1642291,,1611661329,59,58,1,3
+01:22,[CON 61-58] Nelson-Ododa Step Back Jump shot: Made (2 PTS) Assist: Bonner (2 AST),11,67,1,,1631135,201886,1611661323,61,58,2,3
+01:09,[CON] Carrington Foul: Personal (3 PF) (2 FTA),-93,145,6,1630150,1630096,202679,1611661323,61,58,0,3
+01:09,[CHI 59-61] Carter Free Throw 1 of 2 (18 PTS),0,-80,3,,1630150,,1611661329,61,59,1,3
+01:09,[CHI 60-61] Carter Free Throw 2 of 2 (19 PTS),0,-80,3,,1630150,,1611661329,61,60,1,3
+00:52.8,[CHI] Carter Foul: Personal (3 PF) (2 FTA),144,101,6,1631135,1630150,202679,1611661329,61,60,0,3
+00:52.8,[CON] Nelson-Ododa Free Throw 1 of 2 Missed,0,-80,3,,1631135,,1611661323,61,60,0,3
+00:52.8,[CON] Team Rebound,0,-80,4,,0,,1611661323,61,60,0,3
+00:52.8,[CHI] Carter Substitution replaced by Onyenwere,0,-80,8,,1630150,1630446,1611661329,61,60,0,3
+00:52.8,[CON] Nelson-Ododa Free Throw 2 of 2 Missed,0,-80,3,,1631135,,1611661323,61,60,0,3
+00:50.2,[CHI] Reese Rebound (Off:7 Def:9),0,-80,4,,1642291,,1611661329,61,60,0,3
+00:43.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,60,0,3
+00:37.6,[CON] Nelson-Ododa Foul: Personal (1 PF) (2 FTA),-65,261,6,1628263,1631135,1641525,1611661323,61,60,0,3
+00:37.6,[CHI 61-61] Allen Free Throw 1 of 2 (5 PTS),0,-80,3,,1628263,,1611661329,61,61,1,3
+00:37.6,Stoppage: Court Cleanup,0,-80,20,,0,,0,61,61,0,3
+00:37.6,[CHI 62-61] Allen Free Throw 2 of 2 (6 PTS),0,-80,3,,1628263,,1611661329,61,62,1,3
+00:17.7,[CON 63-62] Nelson-Ododa Pullup Jump shot: Made (4 PTS) Assist: Bonner (3 AST),5,67,1,,1631135,201886,1611661323,63,62,2,3
+00:02.9,[CHI 64-63] Allen Driving Finger Roll Layup Shot: Made (8 PTS),15,25,1,,1628263,,1611661329,63,64,2,3
+00:00.0,[CON] Thomas 3pt Shot: Missed,136,638,2,,203826,,1611661323,63,64,0,3
+00:00.0,[CON] Team Rebound,136,638,4,,0,,1611661323,63,64,0,3
+00:00.0,End Period,0,-80,13,,0,,0,63,64,0,3
+10:00,Start Period,0,-80,12,,0,,0,63,64,0,4
+09:35,[CHI] Allen 3pt Shot: Missed,84,240,2,,1628263,,1611661329,63,64,0,4
+09:33,[CON] Bonner Rebound (Off:1 Def:4),84,240,4,,201886,,1611661323,63,64,0,4
+09:27,[CON] Carrington 3pt Shot: Missed,-193,194,2,,1630096,,1611661323,63,64,0,4
+09:26,[CON] Nelson-Ododa Rebound (Off:2 Def:0),-193,194,4,,1631135,,1611661323,63,64,0,4
+09:21,[CON] Bonner 3pt Shot: Missed,152,201,2,,201886,,1611661323,63,64,0,4
+09:21,[CON] Thomas Rebound (Off:3 Def:6),152,201,4,,203826,,1611661323,63,64,0,4
+09:09,[CON] Thomas Turnover : Bad Pass (5 TO) Steal:Allen (3 ST),-26,241,5,1628263,203826,,1611661323,63,64,0,4
+08:57,[CHI 66-63] Allen Turnaround Jump Shot: Made (10 PTS) Assist: Reese (3 AST),77,37,1,,1628263,1642291,1611661329,63,66,2,4
+08:40,[CHI] Onyenwere Foul: Shooting (2 PF) (2 FTA),-50,39,6,1630096,1630446,1641525,1611661329,63,66,0,4
+08:40,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,63,66,0,4
+08:40,[CON] Team Rebound,0,-80,4,,0,,1611661323,63,66,0,4
+08:40,[CON 64-66] Carrington Free Throw 2 of 2 (7 PTS),0,-80,3,,1630096,,1611661323,64,66,1,4
+08:23,[CHI 68-64] Allen Jump Shot: Made (12 PTS),61,107,1,,1628263,,1611661329,64,68,2,4
+08:08,[CON] Carrington Driving Layup Shot: Missed,-23,50,2,,1630096,,1611661323,64,68,0,4
+08:07,[CHI] Banham Rebound (Off:0 Def:3),-23,50,4,,1627671,,1611661329,64,68,0,4
+08:00,[CHI 70-64] Onyenwere Running Layup Shot: Made (5 PTS) Assist: Banham (1 AST),40,35,1,,1630446,1627671,1611661329,64,70,2,4
+08:00,Timeout : Regular,0,-80,9,,1611661323,,1611661323,64,70,0,4
+08:00,[CON] Nelson-Ododa Substitution replaced by Mabrey,0,-80,8,,1631135,1629497,1611661323,64,70,0,4
+08:00,[CON] Carrington Substitution replaced by Jones,0,-80,8,,1630096,1628280,1611661323,64,70,0,4
+07:37,[CHI] Onyenwere Foul: Shooting (3 PF) (2 FTA),112,166,6,1630112,1630446,1641525,1611661329,64,70,0,4
+07:37,[CON 65-70] Harris Free Throw 1 of 2 (4 PTS),0,-80,3,,1630112,,1611661323,65,70,1,4
+07:37,[CON] Harris Free Throw 2 of 2 Missed,0,-80,3,,1630112,,1611661323,65,70,0,4
+07:36,[CHI] Reese Rebound (Off:7 Def:10),0,-80,4,,1642291,,1611661329,65,70,0,4
+07:11,[CHI] Team Turnover : Shot Clock Turnover,-79,40,5,,0,100274,1611661329,65,70,0,4
+06:54,[CHI] Cardoso Foul: Shooting (4 PF) (2 FTA),34,37,6,1628280,1642289,100274,1611661329,65,70,0,4
+06:54,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,65,70,0,4
+06:54,[CON] Team Rebound,0,-80,4,,0,,1611661323,65,70,0,4
+06:54,[CHI] Banham Substitution replaced by Carter,0,-80,8,,1627671,1630150,1611661329,65,70,0,4
+06:54,[CON 66-70] Jones Free Throw 2 of 2 (12 PTS),0,-80,3,,1628280,,1611661323,66,70,1,4
+06:39,[CON] Jones Foul: Shooting (4 PF) (2 FTA),39,56,6,1642291,1628280,100274,1611661323,66,70,0,4
+06:39,[CHI 71-66] Reese Free Throw 1 of 2 (10 PTS),0,-80,3,,1642291,,1611661329,66,71,1,4
+06:39,[CHI 72-66] Reese Free Throw 2 of 2 (11 PTS),0,-80,3,,1642291,,1611661329,66,72,1,4
+06:23,[CON] Harris Pullup Jump shot: Missed,-16,101,2,,1630112,,1611661323,66,72,0,4
+06:22,[CHI] Reese Rebound (Off:7 Def:11),-16,101,4,,1642291,,1611661329,66,72,0,4
+06:11,[CHI] Reese Cutting Layup Shot: Missed,-37,202,2,,1642291,,1611661329,66,72,0,4
+06:10,[CON] Jones Rebound (Off:1 Def:2),-37,202,4,,1628280,,1611661323,66,72,0,4
+06:01,[CHI] Carter Foul: Shooting (4 PF) (2 FTA),41,19,6,201886,1630150,100274,1611661329,66,72,0,4
+06:01,[CON 67-72] Bonner Free Throw 1 of 2 (13 PTS),0,-80,3,,201886,,1611661323,67,72,1,4
+06:01,[CON 68-72] Bonner Free Throw 2 of 2 (14 PTS),0,-80,3,,201886,,1611661323,68,72,1,4
+05:48,[CHI 74-68] Cardoso Cutting Layup Shot: Made (16 PTS) Assist: Carter (4 AST),22,36,1,,1642289,1630150,1611661329,68,74,2,4
+05:36,[CON 71-74] Mabrey 3pt Shot: Made (22 PTS) Assist: Harris (2 AST),-206,140,1,,1629497,1630112,1611661323,71,74,3,4
+05:17,[CHI] Allen Turnover : Lost Ball (5 TO) Steal:Thomas (4 ST),-121,143,5,203826,1628263,,1611661329,71,74,0,4
+05:12,[CON 73-74] Thomas Running Layup Shot: Made (8 PTS),-7,2,1,,203826,,1611661323,73,74,2,4
+05:12,Timeout : Regular,0,-80,9,,1611661329,,1611661329,73,74,0,4
+04:55,[CHI 76-73] Cardoso Cutting Layup Shot: Made (18 PTS) Assist: Allen (6 AST),16,32,1,,1642289,1628263,1611661329,73,76,2,4
+04:38,[CON 75-76] Mabrey Driving Layup Shot: Made (24 PTS) Assist: Thomas (11 AST),35,29,1,,1629497,203826,1611661323,75,76,2,4
+04:14,[CHI] Carter Driving Floating Jump Shot: Missed,-124,26,2,,1630150,,1611661329,75,76,0,4
+04:12,[CHI] Team Rebound,-124,26,4,,0,,1611661329,75,76,0,4
+04:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,75,76,0,4
+04:03,[CHI] Carter Driving Layup Shot: Missed Block: Jones (2 BLK),60,25,2,1628280,1630150,,1611661329,75,76,0,4
+04:00,[CON] Jones Rebound (Off:1 Def:3),60,25,4,,1628280,,1611661323,75,76,0,4
+04:00,[CON] Bonner Turnover : Lost Ball (2 TO) Steal:Onyenwere (3 ST),11,801,5,1630446,201886,,1611661323,75,76,0,4
+04:00,[CON] Thomas Foul: Personal (2 PF),-6,51,6,1642291,203826,202679,1611661323,75,76,0,4
+04:00,Instant Replay - Support Ruling,0,-80,18,,0,,0,75,76,0,4
+04:00,[CHI] Carter Substitution replaced by Banham,0,-80,8,,1630150,1627671,1611661329,75,76,0,4
+03:48,[CHI 78-75] Allen Driving Layup Shot: Made (14 PTS),85,186,1,,1628263,,1611661329,75,78,2,4
+03:23,[CON] Mabrey 3pt Shot: Missed,133,201,2,,1629497,,1611661323,75,78,0,4
+03:21,[CHI] Onyenwere Rebound (Off:0 Def:2),133,201,4,,1630446,,1611661329,75,78,0,4
+02:58,[CHI] Allen Driving Layup Shot: Missed,-91,35,2,,1628263,,1611661329,75,78,0,4
+02:55,[CON] Bonner Rebound (Off:1 Def:5),-91,35,4,,201886,,1611661323,75,78,0,4
+02:52,[CON 77-78] Thomas Running Layup Shot: Made (10 PTS),-9,23,1,,203826,,1611661323,77,78,2,4
+02:52,[CHI] Reese Foul: Shooting (2 PF) (1 FTA),-5,29,6,203826,1642291,100274,1611661329,77,78,0,4
+02:52,[CON] Thomas Free Throw 1 of 1 Missed,0,-80,3,,203826,,1611661323,77,78,0,4
+02:51,[CHI] Onyenwere Rebound (Off:0 Def:3),0,-80,4,,1630446,,1611661329,77,78,0,4
+02:28,[CHI] Team Turnover : Shot Clock Turnover,-77,80,5,,0,100274,1611661329,77,78,0,4
+02:14,[CON] Bonner Driving Layup Shot: Missed,-38,21,2,,201886,,1611661323,77,78,0,4
+02:13,[CHI] Reese Rebound (Off:7 Def:12),-38,21,4,,1642291,,1611661329,77,78,0,4
+01:52,[CON] Jones Foul: Shooting (5 PF) (2 FTA),33,40,6,1642291,1628280,100274,1611661323,77,78,0,4
+01:52,[CHI 79-77] Reese Free Throw 1 of 2 (12 PTS),0,-80,3,,1642291,,1611661329,77,79,1,4
+01:52,[CHI] Banham Substitution replaced by Carter,0,-80,8,,1627671,1630150,1611661329,77,79,0,4
+01:52,[CHI 80-77] Reese Free Throw 2 of 2 (13 PTS),0,-80,3,,1642291,,1611661329,77,80,1,4
+01:37,[CON] Bonner 3pt Shot: Missed,244,42,2,,201886,,1611661323,77,80,0,4
+01:36,[CHI] Allen Rebound (Off:0 Def:1),244,42,4,,1628263,,1611661329,77,80,0,4
+01:18,[CHI] Carter Pullup Jump shot: Missed,44,180,2,,1630150,,1611661329,77,80,0,4
+01:17,[CON] Bonner Rebound (Off:1 Def:6),44,180,4,,201886,,1611661323,77,80,0,4
+01:06,Timeout : Regular,0,-80,9,,1611661323,,1611661323,77,80,0,4
+01:01,[CHI] Cardoso Foul: Shooting (5 PF) (2 FTA),35,56,6,1630112,1642289,1641525,1611661329,77,80,0,4
+01:01,[CON 78-80] Harris Free Throw 1 of 2 (5 PTS),0,-80,3,,1630112,,1611661323,78,80,1,4
+01:01,[CON] Mabrey Substitution replaced by Carrington,0,-80,8,,1629497,1630096,1611661323,78,80,0,4
+01:01,[CON 79-80] Harris Free Throw 2 of 2 (6 PTS),0,-80,3,,1630112,,1611661323,79,80,1,4
+00:49.6,Stoppage: Court Cleanup,0,-80,20,,0,,0,79,80,0,4
+00:45.2,Jump Ball Onyenwere vs Carrington (Onyenwere gains possession),0,-80,10,1630096,1630446,1630446,1611661329,79,80,0,4
+00:43.1,[CHI] Carter Foul: Offensive Charge (5 PF),-45,15,6,1630096,1630150,1641525,1611661329,79,80,0,4
+00:43.1,[CHI] Carter Turnover : Offensive Foul Turnover (6 TO),-45,15,5,,1630150,1641525,1611661329,79,80,0,4
+00:43.1,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661323,79,80,0,4
+00:43.1,[CON] Carrington Substitution replaced by Mabrey,0,-80,8,,1630096,1629497,1611661323,79,80,0,4
+00:36.1,[CHI] Allen Foul: Shooting (2 PF) (2 FTA),29,12,6,201886,1628263,1641525,1611661329,79,80,0,4
+00:36.1,Timeout : Regular,0,-80,9,,1611661329,,1611661329,79,80,0,4
+00:36.1,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661329,79,80,0,4
+00:36.1,[CON] Harris Substitution replaced by Carrington,0,-80,8,,1630112,1630096,1611661323,79,80,0,4
+00:36.1,[CON 80-80] Bonner Free Throw 1 of 2 (15 PTS),0,-80,3,,201886,,1611661323,80,80,1,4
+00:36.1,[CON] Bonner Free Throw 2 of 2 Missed,0,-80,3,,201886,,1611661323,80,80,0,4
+00:35.6,[CHI] Reese Rebound (Off:7 Def:13),0,-80,4,,1642291,,1611661329,80,80,0,4
+00:33.6,Timeout : Regular,0,-80,9,,1611661329,,1611661329,80,80,0,4
+00:15.7,[CHI] Allen Pullup Jump shot: Missed,33,134,2,,1628263,,1611661329,80,80,0,4
+00:12.8,[CON] Bonner Rebound (Off:1 Def:7),33,134,4,,201886,,1611661323,80,80,0,4
+00:12.8,Timeout : Regular,0,-80,9,,1611661323,,1611661323,80,80,0,4
+00:12.8,[CON] Carrington Substitution replaced by Harris,0,-80,8,,1630096,1630112,1611661323,80,80,0,4
+00:04.1,[CHI] Carter Foul: Shooting (6 PF) (2 FTA),-39,26,6,203826,1630150,202679,1611661329,80,80,0,4
+00:04.1,[CON 81-80] Thomas Free Throw 1 of 2 (11 PTS),0,-80,3,,203826,,1611661323,81,80,1,4
+00:04.1,[CON] Harris Substitution replaced by Carrington,0,-80,8,,1630112,1630096,1611661323,81,80,0,4
+00:04.1,[CHI] Carter Substitution replaced by Banham,0,-80,8,,1630150,1627671,1611661329,81,80,0,4
+00:04.1,[CON 82-80] Thomas Free Throw 2 of 2 (12 PTS),0,-80,3,,203826,,1611661323,82,80,1,4
+00:04.1,Timeout : Reset,0,-80,9,,1611661329,,1611661329,82,80,0,4
+00:02.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,82,80,0,4
+00:00.0,End Period,0,-80,13,,0,,0,82,80,0,4

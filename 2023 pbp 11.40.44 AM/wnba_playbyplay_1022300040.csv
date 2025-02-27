@@ -1,0 +1,391 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:54,Jump Ball Wilson vs Jones (Gray gains possession),0,-80,10,1628280,1628932,203833,1611661319,0,0,0,1
+09:45,[LVA] Plum Foul: Offensive (1 PF),89,94,6,1628280,1628276,200667,1611661319,0,0,0,1
+09:45,[LVA] Plum Turnover : Offensive Foul Turnover (1 TO),89,94,5,,1628276,,1611661319,0,0,0,1
+09:33,[CON] Bonner 3pt Shot: Missed,84,228,2,,201886,,1611661323,0,0,0,1
+09:26,[LVA] Gray Rebound (Off:0 Def:1),84,228,4,,203833,,1611661319,0,0,0,1
+09:23,[LVA] Plum 3pt Shot: Missed,230,-6,2,,1628276,,1611661319,0,0,0,1
+09:20,[LVA] Wilson Rebound (Off:1 Def:0),230,-6,4,,1628932,,1611661319,0,0,0,1
+09:15,[LVA] Wilson Layup Shot: Missed,-3,22,2,,1628932,,1611661319,0,0,0,1
+09:10,[CON] Jones Rebound (Off:0 Def:1),-3,22,4,,1628280,,1611661323,0,0,0,1
+09:06,[CON 2-0] Bonner Running Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),11,32,1,,201886,203826,1611661323,2,0,2,1
+08:52,[CON] Bonner Foul: Personal (1 PF),-144,191,6,1628932,201886,1629176,1611661323,2,0,0,1
+08:44,[CON] Bonner Foul: Shooting (2 PF) (2 FTA),-5,53,6,201496,201886,200667,1611661323,2,0,0,1
+08:44,[LVA 1-2] Parker Free Throw 1 of 2 (1 PTS),0,-80,3,,201496,,1611661319,2,1,1,1
+08:44,[LVA 2-2] Parker Free Throw 2 of 2 (2 PTS),0,-80,3,,201496,,1611661319,2,2,1,1
+08:30,[CON] Thomas Layup Shot: Missed,29,25,2,,203826,,1611661323,2,2,0,1
+08:27,[CON] Hayes Rebound (Off:1 Def:0),29,25,4,,203026,,1611661323,2,2,0,1
+08:27,[CON] Hayes Driving Layup Shot: Missed,21,27,2,,203026,,1611661323,2,2,0,1
+08:25,[LVA] Young Rebound (Off:0 Def:1),21,27,4,,1629498,,1611661319,2,2,0,1
+08:19,[LVA] Gray Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),-151,212,5,1628280,203833,,1611661319,2,2,0,1
+08:17,[CON] Hayes Foul: Offensive Charge (1 PF),-44,38,6,203833,203026,200667,1611661323,2,2,0,1
+08:17,[CON] Hayes Turnover : Offensive Foul Turnover (1 TO),-44,38,5,,203026,,1611661323,2,2,0,1
+08:02,[LVA 4-2] Parker Turnaround Jump Shot: Made (4 PTS) Assist: Wilson (1 AST),-20,24,1,,201496,1628932,1611661319,2,4,2,1
+07:48,[CON 4-4] Hiedeman Driving Floating Jump Shot: Made (2 PTS),7,110,1,,1629567,,1611661323,4,4,2,1
+07:31,[LVA] Wilson Driving Finger Roll Layup Shot: Missed Block: Hayes (1 BLK),-29,54,2,203026,1628932,,1611661319,4,4,0,1
+07:27,[CON] Hiedeman Rebound (Off:0 Def:1),-29,54,4,,1629567,,1611661323,4,4,0,1
+07:19,[CON] Jones Cutting Layup Shot: Missed Block: Wilson (1 BLK),5,37,2,1628932,1628280,,1611661323,4,4,0,1
+07:19,[LVA] Team Rebound,5,37,4,,0,,1611661319,4,4,0,1
+07:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,4,0,1
+07:03,[LVA] Parker Step Back Jump shot: Missed,-121,148,2,,201496,,1611661319,4,4,0,1
+06:59,[CON] Thomas Rebound (Off:0 Def:1),-121,148,4,,203826,,1611661323,4,4,0,1
+06:55,[CON 6-4] Bonner Turnaround Jump Shot: Made (4 PTS) Assist: Thomas (2 AST),9,31,1,,201886,203826,1611661323,6,4,2,1
+06:39,[LVA] Gray Driving Layup Shot: Missed,28,31,2,,203833,,1611661319,6,4,0,1
+06:36,[CON] Jones Rebound (Off:0 Def:2),28,31,4,,1628280,,1611661323,6,4,0,1
+06:33,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-227,-16,5,,203826,,1611661323,6,4,0,1
+06:18,[LVA 6-6] Plum Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Wilson (2 AST),32,23,1,,1628276,1628932,1611661319,6,6,2,1
+06:05,[CON 8-6] Jones Cutting Layup Shot: Made (2 PTS) Assist: Thomas (3 AST),-21,41,1,,1628280,203826,1611661323,8,6,2,1
+05:52,[LVA] Plum Turnover : Lost Ball (2 TO) Steal:Thomas (1 ST),-20,247,5,203826,1628276,,1611661319,8,6,0,1
+05:46,[CON 10-6] Hiedeman Running Layup Shot: Made (4 PTS),-34,20,1,,1629567,,1611661323,10,6,2,1
+05:21,[LVA] Team Turnover : Shot Clock Turnover,132,199,5,,0,,1611661319,10,6,0,1
+05:06,[CON 12-6] Bonner Pullup Jump shot: Made (6 PTS) Assist: Thomas (4 AST),-161,124,1,,201886,203826,1611661323,12,6,2,1
+04:43,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),-49,77,6,1628276,203826,1629176,1611661323,12,6,0,1
+04:43,Timeout Officials,0,-80,9,,0,,0,12,6,0,1
+04:43,[LVA] Parker Substitution replaced by Stokes,0,-80,8,,201496,204329,1611661319,12,6,0,1
+04:43,[LVA 7-12] Plum Free Throw 1 of 2 (3 PTS),0,-80,3,,1628276,,1611661319,12,7,1,1
+04:43,[LVA 8-12] Plum Free Throw 2 of 2 (4 PTS),0,-80,3,,1628276,,1611661319,12,8,1,1
+04:26,[CON] Thomas Hook Shot: Missed,-24,52,2,,203826,,1611661323,12,8,0,1
+04:22,[LVA] Stokes Rebound (Off:0 Def:1),-24,52,4,,204329,,1611661319,12,8,0,1
+04:16,[LVA] Wilson Jump Shot: Missed,-106,93,2,,1628932,,1611661319,12,8,0,1
+04:12,[CON] Jones Rebound (Off:0 Def:3),-106,93,4,,1628280,,1611661323,12,8,0,1
+04:07,[CON 15-8] Bonner 3pt Shot: Made (9 PTS) Assist: Hiedeman (1 AST),122,236,1,,201886,1629567,1611661323,15,8,3,1
+03:44,[LVA] Wilson Turnaround Fadeaway shot: Missed,35,93,2,,1628932,,1611661319,15,8,0,1
+03:41,[CON] Thomas Rebound (Off:0 Def:2),35,93,4,,203826,,1611661323,15,8,0,1
+03:32,[CON 18-8] Bonner 3pt Shot: Made (12 PTS) Assist: Thomas (5 AST),-188,156,1,,201886,203826,1611661323,18,8,3,1
+03:29,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,18,8,0,1
+03:29,[CON] Hayes Substitution replaced by Allen,0,-80,8,,203026,204296,1611661323,18,8,0,1
+03:14,[LVA] Gray Pullup Jump shot: Missed,21,178,2,,203833,,1611661319,18,8,0,1
+03:10,[CON] Bonner Rebound (Off:0 Def:1),21,178,4,,201886,,1611661323,18,8,0,1
+02:58,[CON 20-8] Bonner Jump Shot: Made (14 PTS) Assist: Hiedeman (2 AST),-24,164,1,,201886,1629567,1611661323,20,8,2,1
+02:31,[LVA 10-20] Gray Driving Finger Roll Layup Shot: Made (2 PTS),18,71,1,,203833,,1611661319,20,10,2,1
+02:07,[CON 22-10] Hiedeman Driving Floating Bank Jump Shot: Made (6 PTS),-2,85,1,,1629567,,1611661323,22,10,2,1
+01:47,[CON] Jones Foul: Shooting (1 PF) (2 FTA),-34,23,6,1628932,1628280,200667,1611661323,22,10,0,1
+01:47,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,22,10,0,1
+01:47,[LVA] Team Rebound,0,-80,4,,0,,1611661319,22,10,0,1
+01:47,[LVA] Plum Substitution replaced by Clark,0,-80,8,,1628276,202252,1611661319,22,10,0,1
+01:47,[LVA 11-22] Wilson Free Throw 2 of 2 (1 PTS),0,-80,3,,1628932,,1611661319,22,11,1,1
+01:35,[CON] Hiedeman Turnover : Bad Pass (1 TO) Steal:Wilson (1 ST),92,264,5,1628932,1629567,,1611661323,22,11,0,1
+01:30,[CON] Hiedeman Foul: Personal (1 PF) (2 FTA),-123,12,6,1629498,1629567,1629171,1611661323,22,11,0,1
+01:30,[LVA 12-22] Young Free Throw 1 of 2 (1 PTS),0,-80,3,,1629498,,1611661319,22,12,1,1
+01:30,[LVA 13-22] Young Free Throw 2 of 2 (2 PTS),0,-80,3,,1629498,,1611661319,22,13,1,1
+01:20,[LVA] Stokes Foul: Shooting (1 PF) (2 FTA),18,31,6,203826,204329,1629176,1611661319,22,13,0,1
+01:20,[CON 23-13] Thomas Free Throw 1 of 2 (1 PTS),0,-80,3,,203826,,1611661323,23,13,1,1
+01:20,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,23,13,0,1
+01:20,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,23,13,0,1
+01:17,[LVA] Stokes Rebound (Off:0 Def:2),0,-80,4,,204329,,1611661319,23,13,0,1
+01:03,[LVA 15-23] Wilson Jump Shot: Made (3 PTS) Assist: Young (1 AST),-71,158,1,,1628932,1629498,1611661319,23,15,2,1
+00:50.8,[CON] Hiedeman 3pt Shot: Missed,-118,218,2,,1629567,,1611661323,23,15,0,1
+00:46.4,[LVA] Stokes Rebound (Off:0 Def:3),-118,218,4,,204329,,1611661319,23,15,0,1
+00:41.0,[LVA] Young 3pt Shot: Missed,-160,185,2,,1629498,,1611661319,23,15,0,1
+00:38.1,[CON] Thomas Rebound (Off:0 Def:3),-160,185,4,,203826,,1611661323,23,15,0,1
+00:31.8,[CON 25-15] Jones Cutting Layup Shot: Made (4 PTS) Assist: Carrington (1 AST),-2,25,1,,1628280,1630096,1611661323,25,15,2,1
+00:15.3,[LVA] Gray Turnover : Lost Ball (2 TO) Steal:Thomas (2 ST),-121,204,5,203826,203833,,1611661319,25,15,0,1
+00:15.3,[LVA] Gray Foul: Transition Take (1 PF) (1 FTA),127,463,6,1630096,203833,1629171,1611661319,25,15,0,1
+00:15.3,[CON 26-15] Carrington Free Throw 1 of 1 (1 PTS),0,-80,3,,1630096,,1611661323,26,15,1,1
+00:15.3,[CON] Thomas Substitution replaced by Bonner,0,-80,8,,203826,201886,1611661323,26,15,0,1
+00:15.3,[LVA] Gray Substitution replaced by Plum,0,-80,8,,203833,1628276,1611661319,26,15,0,1
+00:01.6,[CON] Hiedeman Turnover : Bad Pass (2 TO) Steal:Young (1 ST),-129,122,5,1629498,1629567,,1611661323,26,15,0,1
+00:00.0,End Period,0,-80,13,,0,,0,26,15,0,1
+10:00,Start Period,0,-80,12,,0,,0,26,15,0,2
+09:35,[CON] Carrington 3pt Shot: Missed,-233,4,2,,1630096,,1611661323,26,15,0,2
+09:33,[LVA] Stokes Rebound (Off:0 Def:4),-233,4,4,,204329,,1611661319,26,15,0,2
+09:16,[LVA 17-26] Clark Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Plum (1 AST),77,40,1,,202252,1628276,1611661319,26,17,2,2
+09:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,17,0,2
+09:01,[CON] Hiedeman Jump Shot: Missed,-68,156,2,,1629567,,1611661323,26,17,0,2
+08:55,[CON] Carrington Rebound (Off:1 Def:0),-68,156,4,,1630096,,1611661323,26,17,0,2
+08:54,[CON] Carrington Tip Layup Shot: Missed,20,17,2,,1630096,,1611661323,26,17,0,2
+08:54,[LVA] Parker Rebound (Off:0 Def:1),20,17,4,,201496,,1611661319,26,17,0,2
+08:49,[LVA 20-26] Plum 3pt Shot: Made (7 PTS) Assist: Parker (1 AST),203,107,1,,1628276,201496,1611661319,26,20,3,2
+08:49,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,26,20,0,2
+08:49,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,26,20,0,2
+08:30,[CON] Thomas Cutting Layup Shot: Missed,-27,26,2,,203826,,1611661323,26,20,0,2
+08:27,[CON] Nelson-Ododa Rebound (Off:1 Def:0),-27,26,4,,1631135,,1611661323,26,20,0,2
+08:26,[CON] Nelson-Ododa Putback Layup Shot: Missed,-16,31,2,,1631135,,1611661323,26,20,0,2
+08:26,[LVA] Plum Rebound (Off:0 Def:1),-16,31,4,,1628276,,1611661319,26,20,0,2
+08:17,[LVA] Clark Floating Jump shot: Missed,43,83,2,,202252,,1611661319,26,20,0,2
+08:12,[CON] Thomas Rebound (Off:0 Def:4),43,83,4,,203826,,1611661323,26,20,0,2
+08:06,[CON] Carrington Turnaround Fadeaway shot: Missed Block: Stokes (1 BLK),-46,91,2,204329,1630096,,1611661323,26,20,0,2
+08:02,[LVA] Young Rebound (Off:0 Def:2),-46,91,4,,1629498,,1611661319,26,20,0,2
+08:02,[CON] Hiedeman Foul: Shooting (2 PF) (2 FTA),36,18,6,1628276,1629567,1629176,1611661323,26,20,0,2
+08:02,[LVA 21-26] Plum Free Throw 1 of 2 (8 PTS),0,-80,3,,1628276,,1611661319,26,21,1,2
+08:02,[CON] Hiedeman Substitution replaced by Harris,0,-80,8,,1629567,1630112,1611661323,26,21,0,2
+08:02,[CON] Allen Substitution replaced by Bonner,0,-80,8,,204296,201886,1611661323,26,21,0,2
+08:02,[CON] Carrington Substitution replaced by Hayes,0,-80,8,,1630096,203026,1611661323,26,21,0,2
+08:02,[LVA] Young Substitution replaced by Wilson,0,-80,8,,1629498,1628932,1611661319,26,21,0,2
+08:02,[LVA] Stokes Substitution replaced by Gray,0,-80,8,,204329,203833,1611661319,26,21,0,2
+08:02,[LVA] Plum Free Throw 2 of 2 Missed,0,-80,3,,1628276,,1611661319,26,21,0,2
+07:58,[CON] Thomas Rebound (Off:0 Def:5),0,-80,4,,203826,,1611661323,26,21,0,2
+07:43,[CON 28-21] Harris Pullup Jump shot: Made (2 PTS) Assist: Hayes (1 AST),-67,156,1,,1630112,203026,1611661323,28,21,2,2
+07:28,[LVA] Gray Turnover : Bad Pass (3 TO) Steal:Nelson-Ododa (1 ST),138,210,5,1631135,203833,,1611661319,28,21,0,2
+07:22,[CON 30-21] Hayes Running Finger Roll Layup Shot: Made (2 PTS),-29,16,1,,203026,,1611661323,30,21,2,2
+07:08,[LVA] Plum Turnover : Out of Bounds Lost Ball Turnover (3 TO),-71,53,5,,1628276,,1611661319,30,21,0,2
+07:08,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,30,21,0,2
+06:57,[CON] Thomas Pullup Jump shot: Missed,-24,145,2,,203826,,1611661323,30,21,0,2
+06:52,[CON] Jones Rebound (Off:1 Def:3),-24,145,4,,1628280,,1611661323,30,21,0,2
+06:40,[CON] Hayes Driving Layup Shot: Missed,20,14,2,,203026,,1611661323,30,21,0,2
+06:37,[CON] Hayes Rebound (Off:2 Def:0),20,14,4,,203026,,1611661323,30,21,0,2
+06:37,[CON] Hayes Putback Layup Shot: Missed,23,5,2,,203026,,1611661323,30,21,0,2
+06:35,[CON] Jones Rebound (Off:2 Def:3),23,5,4,,1628280,,1611661323,30,21,0,2
+06:31,[CON 32-21] Bonner Pullup Jump shot: Made (16 PTS) Assist: Harris (1 AST),110,173,1,,201886,1630112,1611661323,32,21,2,2
+06:16,[CON] Hayes Foul: Personal (2 PF),-50,31,6,1628276,203026,1629176,1611661323,32,21,0,2
+06:16,Stoppage: Court Cleanup,0,-80,20,,0,,0,32,21,0,2
+06:07,[LVA] Parker 3pt Shot: Missed,-191,141,2,,201496,,1611661319,32,21,0,2
+06:05,[CON] Team Rebound,-191,141,4,,0,,1611661323,32,21,0,2
+06:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,21,0,2
+06:05,[LVA] Plum Substitution replaced by Young,0,-80,8,,1628276,1629498,1611661319,32,21,0,2
+05:55,[LVA] Clark Foul: Personal (1 PF),16,225,6,203026,202252,200667,1611661319,32,21,0,2
+05:50,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Parker (1 ST),56,244,5,201496,203826,,1611661323,32,21,0,2
+05:43,[LVA] Gray Turnover : Bad Pass (4 TO) Steal:Hayes (1 ST),-145,248,5,203026,203833,,1611661319,32,21,0,2
+05:36,[CON] Bonner Running Layup Shot: Missed Block: Gray (1 BLK),-26,26,2,203833,201886,,1611661323,32,21,0,2
+05:29,[CON] Bonner Rebound (Off:1 Def:1),-26,26,4,,201886,,1611661323,32,21,0,2
+05:29,[CON 34-21] Bonner Tip Layup Shot: Made (18 PTS),0,-5,1,,201886,,1611661323,34,21,2,2
+05:20,[CON] Thomas Foul: Personal (2 PF),-181,155,6,1629498,203826,1629171,1611661323,34,21,0,2
+05:20,[LVA] Young Foul: Offensive (1 PF),-110,92,6,203026,1629498,1629176,1611661319,34,21,0,2
+05:20,[LVA] Young Turnover : Offensive Foul Turnover (1 TO),-110,92,5,,1629498,,1611661319,34,21,0,2
+05:13,[LVA] Gray Foul: Personal (2 PF),-136,197,6,1628280,203833,200667,1611661319,34,21,0,2
+05:07,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Gray (1 ST),-52,42,5,203833,203826,,1611661323,34,21,0,2
+04:53,[LVA] Gray 3pt Shot: Missed,-187,188,2,,203833,,1611661319,34,21,0,2
+04:53,[LVA] Team Rebound,-187,188,4,,0,,1611661319,34,21,0,2
+04:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,21,0,2
+04:46,[LVA] Young Turnover : Traveling (2 TO),58,48,5,,1629498,,1611661319,34,21,0,2
+04:46,[LVA] Parker Substitution replaced by Stokes,0,-80,8,,201496,204329,1611661319,34,21,0,2
+04:31,[CON] Bonner Jump Shot: Missed Block: Stokes (2 BLK),-188,4,2,204329,201886,,1611661323,34,21,0,2
+04:31,[CON] Team Rebound,-188,4,4,,0,,1611661323,34,21,0,2
+04:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,21,0,2
+04:29,[CON 36-21] Jones Jump Shot: Made (6 PTS) Assist: Thomas (6 AST),-86,134,1,,1628280,203826,1611661323,36,21,2,2
+04:09,[LVA 23-36] Gray Pullup Jump shot: Made (4 PTS),-105,129,1,,203833,,1611661319,36,23,2,2
+03:50,[CON 38-23] Jones Cutting Layup Shot: Made (8 PTS) Assist: Thomas (7 AST),27,27,1,,1628280,203826,1611661323,38,23,2,2
+03:37,[LVA] Young Turnover : Lost Ball (3 TO) Steal:Harris (1 ST),-20,185,5,1630112,1629498,,1611661319,38,23,0,2
+03:28,[LVA] Stokes Foul: Personal (2 PF),90,19,6,1628280,204329,1629176,1611661319,38,23,0,2
+03:28,[LVA] Clark Substitution replaced by Plum,0,-80,8,,202252,1628276,1611661319,38,23,0,2
+03:20,[CON] Harris Turnover : Bad Pass (1 TO) Steal:Wilson (2 ST),-140,221,5,1628932,1630112,,1611661323,38,23,0,2
+03:04,[LVA] Stokes Pullup Jump shot: Missed,8,123,2,,204329,,1611661319,38,23,0,2
+03:01,[CON] Team Rebound,8,123,4,,0,,1611661323,38,23,0,2
+03:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,23,0,2
+02:46,[CON] Hayes Turnover : Bad Pass (2 TO) Steal:Plum (1 ST),110,128,5,1628276,203026,,1611661323,38,23,0,2
+02:28,[LVA 25-38] Gray Pullup Jump shot: Made (6 PTS),108,58,1,,203833,,1611661319,38,25,2,2
+02:07,[CON] Bonner Jump Shot: Missed,173,4,2,,201886,,1611661323,38,25,0,2
+02:04,[LVA] Plum Rebound (Off:0 Def:2),173,4,4,,1628276,,1611661319,38,25,0,2
+01:52,[LVA] Wilson Jump Shot: Missed,0,164,2,,1628932,,1611661319,38,25,0,2
+01:48,[CON] Bonner Rebound (Off:1 Def:2),0,164,4,,201886,,1611661323,38,25,0,2
+01:41,[CON 40-25] Hayes Pullup Jump shot: Made (4 PTS) Assist: Thomas (8 AST),-134,164,1,,203026,203826,1611661323,40,25,2,2
+01:33,[CON] Harris Foul: Personal (1 PF),-195,241,6,1628276,1630112,200667,1611661323,40,25,0,2
+01:33,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,40,25,0,2
+01:33,[CON] Harris Substitution replaced by Hiedeman,0,-80,8,,1630112,1629567,1611661323,40,25,0,2
+01:33,[LVA] Stokes Substitution replaced by Parker,0,-80,8,,204329,201496,1611661319,40,25,0,2
+01:16,[LVA] Gray Turnaround Fadeaway shot: Missed,43,78,2,,203833,,1611661319,40,25,0,2
+01:13,[CON] Jones Rebound (Off:2 Def:4),43,78,4,,1628280,,1611661323,40,25,0,2
+00:53.5,[CON] Thomas Turnaround Jump Shot: Missed,-16,53,2,,203826,,1611661323,40,25,0,2
+00:48.7,[LVA] Young Rebound (Off:0 Def:3),-16,53,4,,1629498,,1611661319,40,25,0,2
+00:42.8,[LVA 28-40] Gray 3pt Shot: Made (9 PTS) Assist: Young (2 AST),-230,32,1,,203833,1629498,1611661319,40,28,3,2
+00:36.7,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,40,28,0,2
+00:22.2,[LVA] Parker Foul: Personal (1 PF),-106,241,6,201886,201496,1629176,1611661319,40,28,0,2
+00:13.4,[CON 43-28] Hiedeman 3pt Shot: Made (9 PTS) Assist: Hayes (2 AST),144,202,1,,1629567,203026,1611661323,43,28,3,2
+00:03.2,[LVA] Plum 3pt Shot: Missed,11,246,2,,1628276,,1611661319,43,28,0,2
+00:01.1,[CON] Bonner Rebound (Off:1 Def:3),11,246,4,,201886,,1611661323,43,28,0,2
+00:00.0,End Period,0,-80,13,,0,,0,43,28,0,2
+10:00,Start Period,0,-80,12,,0,,0,43,28,0,3
+09:41,[CON] Bonner 3pt Shot: Missed,175,168,2,,201886,,1611661323,43,28,0,3
+09:38,[LVA] Parker Rebound (Off:0 Def:2),175,168,4,,201496,,1611661319,43,28,0,3
+09:28,[LVA] Young Turnover : Bad Pass (4 TO) Steal:Bonner (1 ST),60,159,5,201886,1629498,,1611661319,43,28,0,3
+09:17,[CON 45-28] Jones Driving Layup Shot: Made (10 PTS) Assist: Hiedeman (3 AST),30,24,1,,1628280,1629567,1611661323,45,28,2,3
+08:51,[LVA 31-45] Gray 3pt Shot: Made (12 PTS),-132,207,1,,203833,,1611661319,45,31,3,3
+08:28,[CON 47-31] Bonner Reverse Layup Shot: Made (20 PTS) Assist: Hayes (3 AST),-1,8,1,,201886,203026,1611661323,47,31,2,3
+08:28,[LVA] Gray Foul: Shooting (3 PF) (1 FTA),1,16,6,201886,203833,1629171,1611661319,47,31,0,3
+08:28,[CON 48-31] Bonner Free Throw 1 of 1 (21 PTS),0,-80,3,,201886,,1611661323,48,31,1,3
+08:18,[LVA 33-48] Wilson Driving Finger Roll Layup Shot: Made (5 PTS),-19,24,1,,1628932,,1611661319,48,33,2,3
+08:05,[CON] Hiedeman Driving Floating Jump Shot: Missed,0,87,2,,1629567,,1611661323,48,33,0,3
+08:02,[LVA] Parker Rebound (Off:0 Def:3),0,87,4,,201496,,1611661319,48,33,0,3
+07:54,[LVA 35-48] Wilson Turnaround Fadeaway shot: Made (7 PTS) Assist: Gray (1 AST),157,6,1,,1628932,203833,1611661319,48,35,2,3
+07:35,[CON] Bonner Step Back Jump shot: Missed,113,16,2,,201886,,1611661323,48,35,0,3
+07:32,[CON] Thomas Rebound (Off:1 Def:5),113,16,4,,203826,,1611661323,48,35,0,3
+07:23,[CON 50-35] Thomas Hook Shot: Made (3 PTS) Assist: Bonner (1 AST),30,76,1,,203826,201886,1611661323,50,35,2,3
+07:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,35,0,3
+06:53,[LVA] Team Turnover : Shot Clock Turnover,-113,126,5,,0,,1611661319,50,35,0,3
+06:36,[CON 52-35] Thomas Turnaround Bank shot: Made (5 PTS),-39,70,1,,203826,,1611661323,52,35,2,3
+06:21,[LVA] Parker Cutting Layup Shot: Missed,17,16,2,,201496,,1611661319,52,35,0,3
+06:18,[CON] Thomas Rebound (Off:1 Def:6),17,16,4,,203826,,1611661323,52,35,0,3
+06:15,[CON 54-35] Bonner Running Layup Shot: Made (23 PTS) Assist: Thomas (9 AST),22,21,1,,201886,203826,1611661323,54,35,2,3
+06:01,[LVA] Parker 3pt Shot: Missed,-23,246,2,,201496,,1611661319,54,35,0,3
+05:58,[CON] Jones Rebound (Off:2 Def:5),-23,246,4,,1628280,,1611661323,54,35,0,3
+05:48,[CON] Hiedeman 3pt Shot: Missed,-233,6,2,,1629567,,1611661323,54,35,0,3
+05:44,[LVA] Young Rebound (Off:0 Def:4),-233,6,4,,1629498,,1611661319,54,35,0,3
+05:42,[LVA 37-54] Young Running Layup Shot: Made (4 PTS),17,19,1,,1629498,,1611661319,54,37,2,3
+05:23,[CON] Thomas Driving Layup Shot: Missed,33,18,2,,203826,,1611661323,54,37,0,3
+05:20,[LVA] Parker Rebound (Off:0 Def:4),33,18,4,,201496,,1611661319,54,37,0,3
+05:20,[CON] Hayes Foul: Personal (3 PF),96,79,6,1629498,203026,1629176,1611661323,54,37,0,3
+05:20,[LVA] Young Substitution replaced by Bell,0,-80,8,,1629498,1631006,1611661319,54,37,0,3
+05:20,[LVA] Plum Substitution replaced by Colson,0,-80,8,,1628276,202641,1611661319,54,37,0,3
+05:20,[LVA] Gray Substitution replaced by Clark,0,-80,8,,203833,202252,1611661319,54,37,0,3
+05:20,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,54,37,0,3
+05:20,[LVA] Parker Substitution replaced by George,0,-80,8,,201496,204297,1611661319,54,37,0,3
+05:11,[LVA] George Turnover : Bad Pass (1 TO) Steal:Jones (2 ST),66,210,5,1628280,204297,,1611661319,54,37,0,3
+04:59,[CON] Bonner Driving Layup Shot: Missed,-23,40,2,,201886,,1611661323,54,37,0,3
+04:57,[LVA] George Rebound (Off:0 Def:1),-23,40,4,,204297,,1611661319,54,37,0,3
+04:40,[LVA 40-54] Bell 3pt Shot: Made (3 PTS) Assist: Colson (1 AST),132,234,1,,1631006,202641,1611661319,54,40,3,3
+04:25,[CON 56-40] Hayes Driving Layup Shot: Made (6 PTS) Assist: Thomas (10 AST),-21,28,1,,203026,203826,1611661323,56,40,2,3
+04:15,[LVA] George Pullup Jump shot: Missed,-32,201,2,,204297,,1611661319,56,40,0,3
+04:07,[LVA] Bell Rebound (Off:1 Def:0),-32,201,4,,1631006,,1611661319,56,40,0,3
+04:07,[LVA] Bell Putback Layup Shot: Missed,0,-5,2,,1631006,,1611661319,56,40,0,3
+04:07,[CON] Jones Rebound (Off:2 Def:6),0,-5,4,,1628280,,1611661323,56,40,0,3
+04:07,[LVA] George Foul: Shooting (1 PF) (2 FTA),44,19,6,203826,204297,1629171,1611661319,56,40,0,3
+04:07,Timeout Officials,0,-80,9,,0,,0,56,40,0,3
+04:07,Instant Replay - Support Ruling,0,-80,18,,0,,0,56,40,0,3
+04:07,[LVA] Bell Substitution replaced by Parker,0,-80,8,,1631006,201496,1611661319,56,40,0,3
+04:07,[LVA] Colson Substitution replaced by Gray,0,-80,8,,202641,203833,1611661319,56,40,0,3
+04:07,[LVA] Clark Substitution replaced by Plum,0,-80,8,,202252,1628276,1611661319,56,40,0,3
+04:07,[LVA] Stokes Substitution replaced by Young,0,-80,8,,204329,1629498,1611661319,56,40,0,3
+04:07,[LVA] George Substitution replaced by Wilson,0,-80,8,,204297,1628932,1611661319,56,40,0,3
+04:07,[CON 57-40] Thomas Free Throw 1 of 2 (6 PTS),0,-80,3,,203826,,1611661323,57,40,1,3
+04:07,[CON 58-40] Thomas Free Throw 2 of 2 (7 PTS),0,-80,3,,203826,,1611661323,58,40,1,3
+03:44,[LVA] Young Turnover : Bad Pass (5 TO) Steal:Jones (3 ST),196,170,5,1628280,1629498,,1611661319,58,40,0,3
+03:38,[CON] Hiedeman Foul: Offensive Charge (3 PF),-90,29,6,203833,1629567,200667,1611661323,58,40,0,3
+03:38,[CON] Hiedeman Turnover : Offensive Foul Turnover (3 TO),-90,29,5,,1629567,,1611661323,58,40,0,3
+03:38,[LVA] Parker Substitution replaced by Stokes,0,-80,8,,201496,204329,1611661319,58,40,0,3
+03:38,[LVA] Young Substitution replaced by Clark,0,-80,8,,1629498,202252,1611661319,58,40,0,3
+03:38,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,58,40,0,3
+03:38,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661323,58,40,0,3
+03:38,[CON] Bonner Substitution replaced by Harris,0,-80,8,,201886,1630112,1611661323,58,40,0,3
+03:38,[CON] Hiedeman Substitution replaced by Allen,0,-80,8,,1629567,204296,1611661323,58,40,0,3
+03:17,[LVA 43-58] Plum 3pt Shot: Made (11 PTS),21,246,1,,1628276,,1611661319,58,43,3,3
+03:05,[CON] Thomas Jump Shot: Missed,-4,188,2,,203826,,1611661323,58,43,0,3
+03:01,[CON] Allen Rebound (Off:1 Def:0),-4,188,4,,204296,,1611661323,58,43,0,3
+02:55,[CON 60-43] Jones Jump Shot: Made (12 PTS) Assist: Allen (1 AST),-155,19,1,,1628280,204296,1611661323,60,43,2,3
+02:39,[CON] Thomas Foul: Shooting (3 PF) (2 FTA),24,44,6,1628932,203826,1629171,1611661323,60,43,0,3
+02:39,[LVA 44-60] Wilson Free Throw 1 of 2 (8 PTS),0,-80,3,,1628932,,1611661319,60,44,1,3
+02:39,[LVA] Gray Substitution replaced by Bell,0,-80,8,,203833,1631006,1611661319,60,44,0,3
+02:39,[LVA 45-60] Wilson Free Throw 2 of 2 (9 PTS),0,-80,3,,1628932,,1611661319,60,45,1,3
+02:30,[LVA] Plum Foul: Personal (2 PF),-62,123,6,203826,1628276,1629176,1611661319,60,45,0,3
+02:21,[CON 63-45] Hayes 3pt Shot: Made (9 PTS),-22,244,1,,203026,,1611661323,63,45,3,3
+01:58,[LVA 47-63] Wilson Driving Floating Jump Shot: Made (11 PTS) Assist: Plum (2 AST),17,117,1,,1628932,1628276,1611661319,63,47,2,3
+01:43,[CON] Harris Pullup Jump shot: Missed Block: Stokes (3 BLK),116,18,2,204329,1630112,,1611661323,63,47,0,3
+01:39,[LVA] Bell Rebound (Off:1 Def:1),116,18,4,,1631006,,1611661319,63,47,0,3
+01:36,[CON] Jones Foul: Personal (2 PF),-100,73,6,1628932,1628280,1629171,1611661323,63,47,0,3
+01:36,[CON] Harris Substitution replaced by Hiedeman,0,-80,8,,1630112,1629567,1611661323,63,47,0,3
+01:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,47,0,3
+01:18,[LVA 49-63] Wilson Pullup Jump shot: Made (13 PTS) Assist: Plum (3 AST),93,172,1,,1628932,1628276,1611661319,63,49,2,3
+01:06,[LVA] Stokes Foul: Personal (3 PF),105,27,6,1628280,204329,1629171,1611661319,63,49,0,3
+01:06,[CON] Hayes Substitution replaced by Bonner,0,-80,8,,203026,201886,1611661323,63,49,0,3
+01:00,[CON] Allen Turnover : Bad Pass (1 TO) Steal:Wilson (3 ST),-167,193,5,1628932,204296,,1611661323,63,49,0,3
+00:51.1,[LVA] Clark 3pt Shot: Missed,137,215,2,,202252,,1611661319,63,49,0,3
+00:47.0,[LVA] Bell Rebound (Off:2 Def:1),137,215,4,,1631006,,1611661319,63,49,0,3
+00:42.4,[LVA] Stokes Cutting Layup Shot: Missed,20,22,2,,204329,,1611661319,63,49,0,3
+00:38.7,[CON] Thomas Rebound (Off:1 Def:7),20,22,4,,203826,,1611661323,63,49,0,3
+00:37.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,49,0,3
+00:28.2,[CON] Hiedeman 3pt Shot: Missed,-201,115,2,,1629567,,1611661323,63,49,0,3
+00:26.0,[CON] Bonner Rebound (Off:2 Def:3),-201,115,4,,201886,,1611661323,63,49,0,3
+00:26.0,[LVA] Plum Foul: Personal (3 PF) (2 FTA),-7,54,6,201886,1628276,200667,1611661319,63,49,0,3
+00:26.0,[CON] Bonner Free Throw 1 of 2 Missed,0,-80,3,,201886,,1611661323,63,49,0,3
+00:26.0,[CON] Team Rebound,0,-80,4,,0,,1611661323,63,49,0,3
+00:26.0,[CON 64-49] Bonner Free Throw 2 of 2 (24 PTS),0,-80,3,,201886,,1611661323,64,49,1,3
+00:11.1,[LVA 52-64] Plum 3pt Shot: Made (14 PTS) Assist: Wilson (3 AST),107,234,1,,1628276,1628932,1611661319,64,52,3,3
+00:00.0,[CON] Hiedeman Driving Finger Roll Layup Shot: Missed,-23,33,2,,1629567,,1611661323,64,52,0,3
+00:00.0,[CON] Team Rebound,-23,33,4,,0,,1611661323,64,52,0,3
+00:00.0,End Period,0,-80,13,,0,,0,64,52,0,3
+10:00,Start Period,0,-80,12,,0,,0,64,52,0,4
+09:47,[LVA] Wilson Turnover : Lost Ball (1 TO) Steal:Thomas (3 ST),95,80,5,203826,1628932,,1611661319,64,52,0,4
+09:29,[CON] Jones Cutting Layup Shot: Missed,32,18,2,,1628280,,1611661323,64,52,0,4
+09:29,[LVA] Team Rebound,32,18,4,,0,,1611661319,64,52,0,4
+09:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,52,0,4
+09:13,[LVA 54-64] Clark Reverse Layup Shot: Made (4 PTS) Assist: Wilson (4 AST),-40,20,1,,202252,1628932,1611661319,64,54,2,4
+09:04,[CON 67-54] Bonner 3pt Shot: Made (27 PTS) Assist: Hiedeman (4 AST),-143,222,1,,201886,1629567,1611661323,67,54,3,4
+08:52,[LVA 56-67] Plum Driving Layup Shot: Made (16 PTS),31,14,1,,1628276,,1611661319,67,56,2,4
+08:39,[CON] Thomas Jump Shot: Missed,12,158,2,,203826,,1611661323,67,56,0,4
+08:36,[LVA] Bell Rebound (Off:2 Def:2),12,158,4,,1631006,,1611661319,67,56,0,4
+08:29,[LVA] Plum Driving Layup Shot: Missed Block: Allen (1 BLK),-58,37,2,204296,1628276,,1611661319,67,56,0,4
+08:26,[CON] Hiedeman Rebound (Off:0 Def:2),-58,37,4,,1629567,,1611661323,67,56,0,4
+08:22,[CON 69-56] Bonner Driving Floating Bank Jump Shot: Made (29 PTS) Assist: Thomas (11 AST),-140,55,1,,201886,203826,1611661323,69,56,2,4
+08:21,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,69,56,0,4
+08:21,[CON] Jones Substitution replaced by Hayes,0,-80,8,,1628280,203026,1611661323,69,56,0,4
+08:21,[LVA] Plum Substitution replaced by Young,0,-80,8,,1628276,1629498,1611661319,69,56,0,4
+08:21,[LVA] Wilson Substitution replaced by Parker,0,-80,8,,1628932,201496,1611661319,69,56,0,4
+07:58,[LVA] Gray Fadeaway Jump Shot: Missed,-58,115,2,,203833,,1611661319,69,56,0,4
+07:55,[LVA] Bell Rebound (Off:3 Def:2),-58,115,4,,1631006,,1611661319,69,56,0,4
+07:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,56,0,4
+07:46,[LVA 58-69] Parker Cutting Layup Shot: Made (6 PTS) Assist: Gray (2 AST),-27,32,1,,201496,203833,1611661319,69,58,2,4
+07:31,[LVA] Gray Foul: Shooting (4 PF) (2 FTA),-57,168,6,201886,203833,200667,1611661319,69,58,0,4
+07:31,[CON 70-58] Bonner Free Throw 1 of 2 (30 PTS),0,-80,3,,201886,,1611661323,70,58,1,4
+07:31,[CON 71-58] Bonner Free Throw 2 of 2 (31 PTS),0,-80,3,,201886,,1611661323,71,58,1,4
+07:15,[LVA 60-71] Young Turnaround Fadeaway shot: Made (6 PTS) Assist: Parker (2 AST),54,74,1,,1629498,201496,1611661319,71,60,2,4
+06:57,[CON 73-60] Thomas Driving Reverse Layup Shot: Made (9 PTS) Assist: Hayes (4 AST),22,11,1,,203826,203026,1611661323,73,60,2,4
+06:45,[LVA] Bell Pullup Jump shot: Missed,-141,138,2,,1631006,,1611661319,73,60,0,4
+06:41,[CON] Bonner Rebound (Off:2 Def:4),-141,138,4,,201886,,1611661323,73,60,0,4
+06:34,[CON 75-60] Allen Driving Reverse Layup Shot: Made (2 PTS) Assist: Thomas (12 AST),24,7,1,,204296,203826,1611661323,75,60,2,4
+06:17,[LVA] Parker Turnover : Lost Ball (1 TO) Steal:Hayes (2 ST),-69,188,5,203026,201496,,1611661319,75,60,0,4
+06:08,[CON 77-60] Bonner Driving Layup Shot: Made (33 PTS),-17,19,1,,201886,,1611661323,77,60,2,4
+06:01,[LVA 62-77] Young Driving Floating Jump Shot: Made (8 PTS),-66,31,1,,1629498,,1611661319,77,62,2,4
+06:01,[CON] Bonner Foul: Shooting (3 PF) (1 FTA),-27,25,6,1629498,201886,200667,1611661323,77,62,0,4
+06:01,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,77,62,0,4
+06:01,[LVA] Bell Substitution replaced by Wilson,0,-80,8,,1631006,1628932,1611661319,77,62,0,4
+06:01,[LVA] Clark Substitution replaced by Plum,0,-80,8,,202252,1628276,1611661319,77,62,0,4
+06:01,[LVA] Young Free Throw 1 of 1 Missed,0,-80,3,,1629498,,1611661319,77,62,0,4
+05:59,[CON] Allen Rebound (Off:1 Def:1),0,-80,4,,204296,,1611661323,77,62,0,4
+05:47,[LVA] Young Foul: Personal (2 PF),23,18,6,203026,1629498,200667,1611661319,77,62,0,4
+05:40,[CON 80-62] Bonner 3pt Shot: Made (36 PTS) Assist: Jones (1 AST),66,264,1,,201886,1628280,1611661323,80,62,3,4
+05:27,[LVA 64-80] Young Pullup Jump shot: Made (10 PTS),109,115,1,,1629498,,1611661319,80,64,2,4
+05:16,[CON] Hiedeman Driving Layup Shot: Missed,39,24,2,,1629567,,1611661323,80,64,0,4
+05:14,[LVA] Wilson Rebound (Off:1 Def:1),39,24,4,,1628932,,1611661319,80,64,0,4
+05:02,[LVA] Plum 3pt Shot: Missed,-177,169,2,,1628276,,1611661319,80,64,0,4
+04:59,[CON] Hayes Rebound (Off:2 Def:1),-177,169,4,,203026,,1611661323,80,64,0,4
+04:49,[CON 83-64] Allen 3pt Shot: Made (5 PTS) Assist: Jones (2 AST),79,231,1,,204296,1628280,1611661323,83,64,3,4
+04:47,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,83,64,0,4
+04:47,[LVA] Young Substitution replaced by Clark,0,-80,8,,1629498,202252,1611661319,83,64,0,4
+04:47,[LVA] Parker Substitution replaced by George,0,-80,8,,201496,204297,1611661319,83,64,0,4
+04:47,[LVA] Gray Substitution replaced by Colson,0,-80,8,,203833,202641,1611661319,83,64,0,4
+04:47,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,83,64,0,4
+04:47,[LVA] Plum Substitution replaced by Bell,0,-80,8,,1628276,1631006,1611661319,83,64,0,4
+04:30,[LVA] Bell Floating Jump shot: Missed,122,26,2,,1631006,,1611661319,83,64,0,4
+04:28,[LVA] Clark Rebound (Off:1 Def:0),122,26,4,,202252,,1611661319,83,64,0,4
+04:28,[CON] Allen Foul: Personal (1 PF),-106,176,6,202252,204296,1629171,1611661323,83,64,0,4
+04:20,[LVA] George 3pt Shot: Missed,228,10,2,,204297,,1611661319,83,64,0,4
+04:20,[LVA] Team Rebound,228,10,4,,0,,1611661319,83,64,0,4
+04:20,[CON] Hayes Foul: Loose Ball (4 PF),-118,22,6,202252,203026,1629176,1611661323,83,64,0,4
+04:07,[LVA] George Driving Floating Jump Shot: Missed,95,132,2,,204297,,1611661319,83,64,0,4
+04:05,[CON] Team Rebound,95,132,4,,0,,1611661323,83,64,0,4
+04:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,83,64,0,4
+03:52,[CON] Jones Cutting Layup Shot: Missed,23,40,2,,1628280,,1611661323,83,64,0,4
+03:50,[LVA] Stokes Rebound (Off:0 Def:5),23,40,4,,204329,,1611661319,83,64,0,4
+03:40,[LVA] Bell Turnover : Lost Ball (1 TO) Steal:Hayes (3 ST),-105,143,5,203026,1631006,,1611661319,83,64,0,4
+03:37,[CON 85-64] Bonner Running Layup Shot: Made (38 PTS) Assist: Hayes (5 AST),7,28,1,,201886,203026,1611661323,85,64,2,4
+03:14,[LVA 67-85] George 3pt Shot: Made (3 PTS) Assist: Bell (1 AST),-238,-5,1,,204297,1631006,1611661319,85,67,3,4
+03:09,[LVA] George Foul: Shooting (2 PF) (2 FTA),29,21,6,203026,204297,1629176,1611661319,85,67,0,4
+03:09,[CON 86-67] Hayes Free Throw 1 of 2 (10 PTS),0,-80,3,,203026,,1611661323,86,67,1,4
+03:09,[CON 87-67] Hayes Free Throw 2 of 2 (11 PTS),0,-80,3,,203026,,1611661323,87,67,1,4
+02:59,[LVA] Bell 3pt Shot: Missed,163,173,2,,1631006,,1611661319,87,67,0,4
+02:57,[CON] Bonner Rebound (Off:2 Def:5),163,173,4,,201886,,1611661323,87,67,0,4
+02:50,[CON 90-67] Bonner 3pt Shot: Made (41 PTS),30,252,1,,201886,,1611661323,90,67,3,4
+02:38,[LVA 70-90] George 3pt Shot: Made (6 PTS) Assist: Colson (2 AST),94,230,1,,204297,202641,1611661319,90,70,3,4
+02:25,[LVA] Clark Foul: Shooting (2 PF) (2 FTA),-26,54,6,1628280,202252,1629171,1611661319,90,70,0,4
+02:25,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,90,70,0,4
+02:25,[CON] Hiedeman Substitution replaced by Brown,0,-80,8,,1629567,1641665,1611661323,90,70,0,4
+02:25,[CON] Hayes Substitution replaced by Harris,0,-80,8,,203026,1630112,1611661323,90,70,0,4
+02:25,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,90,70,0,4
+02:25,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,90,70,0,4
+02:25,[CON] Team Rebound,0,-80,4,,0,,1611661323,90,70,0,4
+02:25,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,90,70,0,4
+02:23,[LVA] George Rebound (Off:0 Def:2),0,-80,4,,204297,,1611661319,90,70,0,4
+02:09,[LVA] Bell 3pt Shot: Missed,188,171,2,,1631006,,1611661319,90,70,0,4
+02:05,[CON] Jones Rebound (Off:2 Def:7),188,171,4,,1628280,,1611661323,90,70,0,4
+02:04,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,90,70,0,4
+02:04,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,90,70,0,4
+01:48,[CON] Allen Turnover : Step Out of Bounds Turnover (2 TO),244,59,5,,204296,,1611661323,90,70,0,4
+01:32,[LVA 72-90] Bell Step Back Jump shot: Made (5 PTS) Assist: Colson (3 AST),-91,169,1,,1631006,202641,1611661319,90,72,2,4
+01:24,[CON 92-72] Harris Pullup Jump shot: Made (4 PTS) Assist: Carrington (2 AST),61,171,1,,1630112,1630096,1611661323,92,72,2,4
+01:06,[LVA] George 3pt Shot: Missed,-143,201,2,,204297,,1611661319,92,72,0,4
+01:04,[LVA] Team Rebound,-143,201,4,,0,,1611661319,92,72,0,4
+01:04,[CON] Nelson-Ododa Foul: Loose Ball (1 PF),156,10,6,204329,1631135,200667,1611661323,92,72,0,4
+00:58.9,[CON] Carrington Foul: Personal (1 PF) (2 FTA),-138,20,6,204329,1630096,1629176,1611661323,92,72,0,4
+00:58.9,[LVA 73-92] Stokes Free Throw 1 of 2 (1 PTS),0,-80,3,,204329,,1611661319,92,73,1,4
+00:58.9,[LVA 74-92] Stokes Free Throw 2 of 2 (2 PTS),0,-80,3,,204329,,1611661319,92,74,1,4
+00:57.0,[LVA] Colson Foul: Personal Take (1 PF) (2 FTA),79,701,6,1630112,202641,1629171,1611661319,92,74,0,4
+00:57.0,[CON 93-74] Harris Free Throw 1 of 2 (5 PTS),0,-80,3,,1630112,,1611661323,93,74,1,4
+00:57.0,[CON 94-74] Harris Free Throw 2 of 2 (6 PTS),0,-80,3,,1630112,,1611661323,94,74,1,4
+00:50.1,[CON] Carrington Foul: Personal (2 PF) (2 FTA),79,241,6,1631006,1630096,200667,1611661323,94,74,0,4
+00:50.1,[LVA] Bell Free Throw 1 of 2 Missed,0,-80,3,,1631006,,1611661319,94,74,0,4
+00:50.1,[LVA] Team Rebound,0,-80,4,,0,,1611661319,94,74,0,4
+00:50.1,[LVA] Bell Free Throw 2 of 2 Missed,0,-80,3,,1631006,,1611661319,94,74,0,4
+00:47.7,[CON] Harris Rebound (Off:0 Def:1),0,-80,4,,1630112,,1611661323,94,74,0,4
+00:32.4,[CON] Allen Turnover : Bad Pass (3 TO) Steal:George (1 ST),214,92,5,204297,204296,,1611661323,94,74,0,4
+00:23.8,[LVA 77-94] Colson 3pt Shot: Made (3 PTS) Assist: George (1 AST),3,248,1,,202641,204297,1611661319,94,77,3,4
+00:00.0,End Period,0,-80,13,,0,,0,94,77,0,4

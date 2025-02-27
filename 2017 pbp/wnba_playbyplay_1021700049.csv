@@ -1,0 +1,425 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Jones vs Williams (Clarendon gains possession),0,-80,10,204322,1627673,203406,1611661323,0,0,1
+09:34,[ATL] Holmes 3pt Shot: Missed,-119,203,2,,1627678,,1611661330,0,0,1
+09:33,[CON] Stricklen Rebound (Off:0 Def:1),0,-80,4,,203015,,1611661323,0,0,1
+09:15,[CON 2-0] Thomas Layup Shot: Made (2 PTS) Assist: Williams (1 AST),14,-1,1,,203826,1627675,1611661323,2,0,1
+08:56,[ATL 2-2] Williams Jump Shot: Made (2 PTS) Assist: Clarendon (1 AST),-109,11,1,,204322,203406,1611661330,2,2,1
+08:43,[CON] Thomas Jump Shot: Missed,-92,80,2,,203826,,1611661323,2,2,1
+08:42,[ATL] Clarendon Rebound (Off:0 Def:1),0,-80,4,,203406,,1611661330,2,2,1
+08:37,[ATL] Clarendon Foul: Offensive (1 PF),91,41,6,1627675,203406,,1611661330,2,2,1
+08:37,[ATL] Clarendon Turnover : Foul (1 TO),0,-80,5,,203406,,1611661330,2,2,1
+08:23,[CON 4-2] Thomas Layup Shot: Made (4 PTS) Assist: Thomas (1 AST),42,21,1,,203826,202662,1611661323,4,2,1
+08:16,[ATL] Clarendon Turnover : Bad Pass (2 TO) Steal:Stricklen (1 ST),0,-80,5,203015,203406,,1611661330,4,2,1
+08:13,[CON] Thomas Jump Shot: Missed,-157,95,2,,202662,,1611661323,4,2,1
+08:12,[ATL] Williams Rebound (Off:0 Def:1),0,-80,4,,204322,,1611661330,4,2,1
+07:53,[ATL 4-4] Dantas Step Back Jump shot: Made (2 PTS) Assist: Clarendon (2 AST),151,134,1,,203024,203406,1611661330,4,4,1
+07:35,[CON] Stricklen 3pt Shot: Missed,233,46,2,,203015,,1611661323,4,4,1
+07:34,[ATL] Hayes Rebound (Off:0 Def:1),0,-80,4,,203026,,1611661330,4,4,1
+07:26,Jump Ball Thomas vs Clarendon (Hayes gains possession),0,-80,10,203406,203826,203026,1611661323,4,4,1
+07:14,[ATL] Williams Jump Shot: Missed Block: Jones (1 BLK),40,16,2,1627673,204322,,1611661330,4,4,1
+07:13,[CON] Jones Rebound (Off:0 Def:1),0,-80,4,,1627673,,1611661323,4,4,1
+07:09,[CON 6-4] Jones Reverse Layup Shot: Made (2 PTS) Assist: Thomas (2 AST),-19,7,1,,1627673,202662,1611661323,6,4,1
+07:00,[CON] Jones Foul: Personal (1 PF),33,34,6,203026,1627673,,1611661323,6,4,1
+07:00,[ATL] Holmes Substitution replaced by Sykes,0,-80,8,,1627678,1628279,1611661330,6,4,1
+06:45,[ATL] Hayes Jump Shot: Missed,-140,112,2,,203026,,1611661330,6,4,1
+06:44,[CON] Jones Rebound (Off:0 Def:2),0,-80,4,,1627673,,1611661323,6,4,1
+06:33,[ATL] Sykes Foul: Shooting Block (1 PF) (2 FTA),30,16,6,1627673,1628279,,1611661330,6,4,1
+06:33,[CON 7-4] Jones Free Throw 1 of 2 (3 PTS),0,-80,3,,1627673,,1611661323,7,4,1
+06:33,[CON 8-4] Jones Free Throw 2 of 2 (4 PTS),0,-80,3,,1627673,,1611661323,8,4,1
+06:22,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),55,28,6,203024,203826,,1611661323,8,4,1
+06:22,[ATL] Dantas Free Throw 1 of 2 Missed,0,-80,3,,203024,,1611661330,8,4,1
+06:22,[ATL] Team Rebound,0,-80,4,,0,,1611661330,8,4,1
+06:22,[ATL 5-8] Dantas Free Throw 2 of 2 (3 PTS),0,-80,3,,203024,,1611661330,8,5,1
+06:04,[CON] Thomas Jump Shot: Missed,-30,18,2,,203826,,1611661323,8,5,1
+06:03,[CON] Jones Rebound (Off:1 Def:2),0,-80,4,,1627673,,1611661323,8,5,1
+06:02,[CON 10-5] Jones Layup Shot: Made (6 PTS),-29,28,1,,1627673,,1611661323,10,5,1
+05:56,[ATL] Clarendon Turnover : Out of Bounds - Bad Pass Turnover (3 TO),0,-80,5,,203406,,1611661330,10,5,1
+05:47,[CON] Thomas 3pt Shot: Missed,-2,249,2,,202662,,1611661323,10,5,1
+05:44,[ATL] Sykes Rebound (Off:0 Def:1),0,-80,4,,1628279,,1611661330,10,5,1
+05:31,[ATL 8-10] Dantas 3pt Shot: Made (6 PTS) Assist: Williams (1 AST),-147,200,1,,203024,204322,1611661330,10,8,1
+05:17,[CON] Jones Jump Shot: Missed,-135,56,2,,1627673,,1611661323,10,8,1
+05:16,[ATL] Team Rebound,0,-80,4,,0,,1611661330,10,8,1
+05:16,[CON] Thomas Foul: Loose Ball (2 PF),1,796,6,203026,203826,,1611661323,10,8,1
+05:16,[CON] Thomas Substitution replaced by Adams,0,-80,8,,203826,202634,1611661323,10,8,1
+04:51,[ATL 10-10] Sykes Driving Layup Shot: Made (2 PTS),22,13,1,,1628279,,1611661330,10,10,1
+04:32,[CON] Williams 3pt Shot: Missed,168,174,2,,1627675,,1611661323,10,10,1
+04:31,[ATL] Sykes Rebound (Off:0 Def:2),0,-80,4,,1628279,,1611661330,10,10,1
+04:21,[ATL 12-10] Williams Cutting Layup Shot: Made (4 PTS) Assist: Dantas (1 AST),-17,7,1,,204322,203024,1611661330,10,12,1
+04:10,[CON 12-12] Thomas Running Layup Shot: Made (2 PTS),28,-1,1,,202662,,1611661323,12,12,1
+03:52,[ATL] Dantas Jump Shot: Missed,63,164,2,,203024,,1611661330,12,12,1
+03:51,[CON] Williams Rebound (Off:0 Def:1),0,-80,4,,1627675,,1611661323,12,12,1
+03:44,[CON 14-12] Williams Fadeaway Jump Shot: Made (2 PTS),-156,28,1,,1627675,,1611661323,14,12,1
+03:37,[CON] Stricklen Foul: Shooting (1 PF) (2 FTA),4,47,6,1628279,203015,,1611661323,14,12,1
+03:37,Timeout : Official,0,-80,9,,0,,0,14,12,1
+03:37,[ATL] Sykes Free Throw 1 of 2 Missed,0,-80,3,,1628279,,1611661330,14,12,1
+03:37,[ATL] Team Rebound,0,-80,4,,0,,1611661330,14,12,1
+03:37,[ATL] Clarendon Substitution replaced by Ajavon,0,-80,8,,203406,201492,1611661330,14,12,1
+03:37,[ATL 13-14] Sykes Free Throw 2 of 2 (3 PTS),0,-80,3,,1628279,,1611661330,14,13,1
+03:21,[CON 17-13] Stricklen 3pt Shot: Made (3 PTS) Assist: Williams (2 AST),-143,198,1,,203015,1627675,1611661323,17,13,1
+03:04,[ATL] Ajavon Jump Shot: Missed,-145,41,2,,201492,,1611661330,17,13,1
+03:03,[CON] Jones Rebound (Off:1 Def:3),0,-80,4,,1627673,,1611661323,17,13,1
+02:51,[CON 20-13] Stricklen 3pt Shot: Made (6 PTS) Assist: Thomas (3 AST),182,174,1,,203015,202662,1611661323,20,13,1
+02:38,[ATL] Williams Jump Shot: Missed,48,23,2,,204322,,1611661330,20,13,1
+02:36,[CON] Jones Rebound (Off:1 Def:4),0,-80,4,,1627673,,1611661323,20,13,1
+02:32,[CON] Thomas Turnover : Lost Ball (1 TO) Steal:Sykes (1 ST),0,-80,5,1628279,202662,,1611661323,20,13,1
+02:28,[ATL 15-20] Sykes Running Layup Shot: Made (5 PTS),-22,31,1,,1628279,,1611661330,20,15,1
+02:15,[CON] Adams 3pt Shot: Missed,-129,208,2,,202634,,1611661323,20,15,1
+02:13,[ATL] Sykes Rebound (Off:0 Def:3),0,-80,4,,1628279,,1611661330,20,15,1
+02:07,[CON] Adams Foul: Shooting Block (1 PF) (2 FTA),16,82,6,1628279,202634,,1611661323,20,15,1
+02:07,[ATL 16-20] Sykes Free Throw 1 of 2 (6 PTS),0,-80,3,,1628279,,1611661330,20,16,1
+02:07,[ATL] Dantas Substitution replaced by Holmes,0,-80,8,,203024,1627678,1611661330,20,16,1
+02:07,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,20,16,1
+02:07,[ATL] Williams Substitution replaced by Hollivay,0,-80,8,,204322,1627680,1611661330,20,16,1
+02:07,[ATL] Hayes Substitution replaced by Hooper,0,-80,8,,203026,203835,1611661330,20,16,1
+02:07,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,20,16,1
+02:07,[ATL 17-20] Sykes Free Throw 2 of 2 (7 PTS),0,-80,3,,1628279,,1611661330,20,17,1
+01:52,[ATL] Hooper Foul: Shooting (1 PF) (2 FTA),55,23,6,202634,203835,,1611661330,20,17,1
+01:52,[CON 21-17] Adams Free Throw 1 of 2 (1 PTS),0,-80,3,,202634,,1611661323,21,17,1
+01:52,[CON 22-17] Adams Free Throw 2 of 2 (2 PTS),0,-80,3,,202634,,1611661323,22,17,1
+01:38,[ATL] Hollivay Jump Shot: Missed,48,23,2,,1627680,,1611661330,22,17,1
+01:37,[ATL] Ajavon Rebound (Off:1 Def:0),0,-80,4,,201492,,1611661330,22,17,1
+01:35,[CON] Adams Foul: Personal Block (2 PF) (2 FTA),-16,23,6,201492,202634,,1611661323,22,17,1
+01:35,[ATL 18-22] Ajavon Free Throw 1 of 2 (1 PTS),0,-80,3,,201492,,1611661330,22,18,1
+01:35,[ATL] Ajavon Free Throw 2 of 2 Missed,0,-80,3,,201492,,1611661330,22,18,1
+01:35,[CON] Adams Rebound (Off:0 Def:1),0,-80,4,,202634,,1611661323,22,18,1
+01:14,[CON] Stricklen 3pt Shot: Missed,133,193,2,,203015,,1611661323,22,18,1
+01:13,[ATL] Holmes Rebound (Off:0 Def:1),0,-80,4,,1627678,,1611661330,22,18,1
+01:01,[ATL 20-22] Hooper Jump Shot: Made (2 PTS) Assist: Holmes (1 AST),-145,141,1,,203835,1627678,1611661330,22,20,1
+00:43.7,[CON 24-20] Jones Layup Shot: Made (2 PTS),42,16,1,,1628280,,1611661323,24,20,1
+00:33.9,[ATL] Hooper Turnover : Lost Ball (1 TO) Steal:Adams (1 ST),0,-80,5,202634,203835,,1611661330,24,20,1
+00:29.9,[ATL] Holmes Foul: Shooting (1 PF) (2 FTA),-92,149,6,203015,1627678,,1611661330,24,20,1
+00:29.9,[CON 25-20] Stricklen Free Throw 1 of 2 (7 PTS),0,-80,3,,203015,,1611661323,25,20,1
+00:29.9,[CON] Adams Substitution replaced by Fitzgerald,0,-80,8,,202634,1628289,1611661323,25,20,1
+00:29.9,[CON 26-20] Stricklen Free Throw 2 of 2 (8 PTS),0,-80,3,,203015,,1611661323,26,20,1
+00:22.8,[CON] Williams Foul: Personal (1 PF) (2 FTA),-56,41,6,1627678,1627675,,1611661323,26,20,1
+00:22.8,[ATL] Holmes Free Throw 1 of 2 Missed,0,-80,3,,1627678,,1611661330,26,20,1
+00:22.8,[ATL] Team Rebound,0,-80,4,,0,,1611661330,26,20,1
+00:22.8,[ATL 21-26] Holmes Free Throw 2 of 2 (1 PTS),0,-80,3,,1627678,,1611661330,26,21,1
+00:07.9,[CON 28-21] Williams Pullup Bank shot: Made (4 PTS),105,52,1,,1627675,,1611661323,28,21,1
+00:00.0,End Period,0,-80,13,,0,,0,28,21,1
+10:00,Start Period,0,-80,12,,0,,0,28,21,2
+09:46,[ATL] Sykes Substitution replaced by Hayes,0,-80,8,,1628279,203026,1611661330,28,21,2
+09:41,[CON] Williams Turnover : Bad Pass (1 TO) Steal:Ajavon (1 ST),0,-80,5,201492,1627675,,1611661323,28,21,2
+09:36,[ATL] Holmes Jump Shot: Missed,-81,41,2,,1627678,,1611661330,28,21,2
+09:33,[ATL] Hayes Rebound (Off:1 Def:1),0,-80,4,,203026,,1611661330,28,21,2
+09:23,[ATL 23-28] Hayes Jump Shot: Made (2 PTS),40,7,1,,203026,,1611661330,28,23,2
+09:10,[CON] Fitzgerald Layup Shot: Missed,25,34,2,,1628289,,1611661323,28,23,2
+09:06,[ATL] Williams Rebound (Off:0 Def:2),0,-80,4,,204322,,1611661330,28,23,2
+09:03,[CON] Fitzgerald Substitution replaced by Thomas,0,-80,8,,1628289,202662,1611661323,28,23,2
+09:03,[CON] Jones Substitution replaced by Jones,0,-80,8,,1628280,1627673,1611661323,28,23,2
+09:03,[CON] Stricklen Substitution replaced by Thomas,0,-80,8,,203015,203826,1611661323,28,23,2
+08:52,[ATL] Hooper Jump Shot: Missed,-64,107,2,,203835,,1611661330,28,23,2
+08:50,[ATL] Williams Rebound (Off:1 Def:2),0,-80,4,,204322,,1611661330,28,23,2
+08:48,[ATL 25-28] Williams Layup Shot: Made (6 PTS),30,-6,1,,204322,,1611661330,28,25,2
+08:34,[CON] Williams Jump Shot: Missed,-117,61,2,,1627675,,1611661323,28,25,2
+08:33,[ATL] Hayes Rebound (Off:1 Def:2),0,-80,4,,203026,,1611661330,28,25,2
+08:27,[ATL 27-28] Holmes Layup Shot: Made (3 PTS) Assist: Hayes (1 AST),-24,16,1,,1627678,203026,1611661330,28,27,2
+08:08,[CON 30-27] Thomas Jump Shot: Made (6 PTS) Assist: Thomas (4 AST),87,41,1,,203826,202662,1611661323,30,27,2
+08:02,[ATL] Hooper Turnover : Bad Pass (2 TO) Steal:Williams (1 ST),0,-80,5,1627675,203835,,1611661330,30,27,2
+07:54,[CON] Banham 3pt Shot: Missed Block: Williams (1 BLK),-124,208,2,204322,1627671,,1611661323,30,27,2
+07:52,[ATL] Team Rebound,0,-80,4,,0,,1611661330,30,27,2
+07:52,[ATL] Ajavon Substitution replaced by Dantas,0,-80,8,,201492,203024,1611661330,30,27,2
+07:52,[ATL] Hooper Substitution replaced by Clarendon,0,-80,8,,203835,203406,1611661330,30,27,2
+07:36,[ATL] Holmes Jump Shot: Missed,198,44,2,,1627678,,1611661330,30,27,2
+07:34,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,203826,,1611661323,30,27,2
+07:28,[ATL] Williams Foul: Shooting Block (1 PF) (2 FTA),10,41,6,203826,204322,,1611661330,30,27,2
+07:28,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,30,27,2
+07:28,[CON] Team Rebound,0,-80,4,,0,,1611661323,30,27,2
+07:28,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,30,27,2
+07:26,[ATL] Dantas Rebound (Off:0 Def:1),0,-80,4,,203024,,1611661330,30,27,2
+07:11,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),-56,11,6,1627678,202662,,1611661323,30,27,2
+07:11,[ATL 28-30] Holmes Free Throw 1 of 2 (4 PTS),0,-80,3,,1627678,,1611661330,30,28,2
+07:11,[ATL] Holmes Free Throw 2 of 2 Missed,0,-80,3,,1627678,,1611661330,30,28,2
+07:11,[CON] Thomas Rebound (Off:0 Def:2),0,-80,4,,203826,,1611661323,30,28,2
+07:02,[CON 32-28] Williams Reverse Layup Shot: Made (6 PTS) Assist: Thomas (5 AST),-22,3,1,,1627675,202662,1611661323,32,28,2
+06:40,[ATL 30-32] Dantas Step Back Jump shot: Made (8 PTS) Assist: Williams (2 AST),28,153,1,,203024,204322,1611661330,32,30,2
+06:23,[CON 34-30] Jones Driving Reverse Layup Shot: Made (8 PTS) Assist: Thomas (6 AST),-34,7,1,,1627673,202662,1611661323,34,30,2
+05:58,[ATL] Holmes 3pt Shot: Missed,-151,203,2,,1627678,,1611661330,34,30,2
+05:56,[CON] Williams Rebound (Off:0 Def:2),0,-80,4,,1627675,,1611661323,34,30,2
+05:44,[CON] Jones Layup Shot: Missed,14,3,2,,1627673,,1611661323,34,30,2
+05:43,[ATL] Dantas Rebound (Off:0 Def:2),0,-80,4,,203024,,1611661330,34,30,2
+05:22,[ATL] Dantas 3pt Shot: Missed,69,229,2,,203024,,1611661330,34,30,2
+05:21,[ATL] Williams Rebound (Off:2 Def:2),0,-80,4,,204322,,1611661330,34,30,2
+05:18,[ATL] Team Timeout : Regular,0,-80,9,,0,,1611661330,34,30,2
+05:18,[CON] Banham Substitution replaced by Stricklen,0,-80,8,,1627671,203015,1611661323,34,30,2
+05:18,[ATL] Holmes Substitution replaced by Sykes,0,-80,8,,1627678,1628279,1611661330,34,30,2
+05:08,[ATL] Hayes Driving Layup Shot: Missed Block: Jones (2 BLK),-5,5,2,1627673,203026,,1611661330,34,30,2
+05:07,[ATL] Team Rebound,0,-80,4,,0,,1611661330,34,30,2
+05:07,[ATL] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661330,34,30,2
+04:53,[CON] Thomas 3pt Shot: Missed,-196,141,2,,202662,,1611661323,34,30,2
+04:52,[ATL] Hayes Rebound (Off:1 Def:3),0,-80,4,,203026,,1611661330,34,30,2
+04:41,[ATL] Williams Hook Shot: Missed,15,60,2,,204322,,1611661330,34,30,2
+04:39,[ATL] Team Rebound,0,-80,4,,0,,1611661330,34,30,2
+04:34,[ATL] Dantas 3pt Shot: Missed,-117,212,2,,203024,,1611661330,34,30,2
+04:32,[ATL] Clarendon Rebound (Off:1 Def:1),0,-80,4,,203406,,1611661330,34,30,2
+04:27,[ATL] Clarendon Turnover : Bad Pass (4 TO) Steal:Thomas (1 ST),0,-80,5,202662,203406,,1611661330,34,30,2
+04:23,[CON 36-30] Thomas Driving Layup Shot: Made (4 PTS),-14,16,1,,202662,,1611661323,36,30,2
+04:00,[ATL] Dantas Jump Shot: Missed,137,141,2,,203024,,1611661330,36,30,2
+03:58,[ATL] Williams Rebound (Off:3 Def:2),0,-80,4,,204322,,1611661330,36,30,2
+03:52,[ATL] Sykes 3pt Shot: Missed,227,90,2,,1628279,,1611661330,36,30,2
+03:51,[CON] Team Rebound,0,-80,4,,0,,1611661323,36,30,2
+03:51,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,36,30,2
+03:51,[ATL] Clarendon Substitution replaced by Kiesel,0,-80,8,,203406,204331,1611661330,36,30,2
+03:39,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Dantas (1 ST),0,-80,5,203024,202662,,1611661323,36,30,2
+03:33,[ATL] Hayes 3pt Shot: Missed,11,258,2,,203026,,1611661330,36,30,2
+03:30,[CON] Jones Rebound (Off:1 Def:5),0,-80,4,,1627673,,1611661323,36,30,2
+03:23,[CON] Jones Layup Shot: Missed Block: Williams (2 BLK),27,-1,2,204322,1628280,,1611661323,36,30,2
+03:22,[CON] Jones Rebound (Off:1 Def:0),0,-80,4,,1628280,,1611661323,36,30,2
+03:09,[CON] Thomas Jump Shot: Missed,161,116,2,,202662,,1611661323,36,30,2
+03:07,[CON] Team Rebound,0,-80,4,,0,,1611661323,36,30,2
+03:07,[ATL] Dantas Foul: Loose Ball (1 PF),10,806,6,203015,203024,,1611661330,36,30,2
+03:00,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (3 TO),0,-80,5,,202662,,1611661323,36,30,2
+02:44,[ATL] Sykes Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),0,-80,5,1628280,1628279,,1611661330,36,30,2
+02:39,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,36,30,2
+02:34,[CON] Williams Jump Shot: Missed,27,154,2,,1627675,,1611661323,36,30,2
+02:33,[ATL] Hayes Rebound (Off:1 Def:4),0,-80,4,,203026,,1611661330,36,30,2
+02:17,[ATL] Sykes Turnover : Bad Pass (2 TO) Steal:Thomas (2 ST),0,-80,5,202662,1628279,,1611661330,36,30,2
+02:11,[CON 38-30] Williams Running Layup Shot: Made (8 PTS) Assist: Thomas (7 AST),19,3,1,,1627675,202662,1611661323,38,30,2
+01:57,[ATL] Sykes 3pt Shot: Missed,232,41,2,,1628279,,1611661330,38,30,2
+01:56,[CON] Jones Rebound (Off:1 Def:1),0,-80,4,,1628280,,1611661323,38,30,2
+01:49,[CON 40-30] Williams Pullup Jump shot: Made (10 PTS),37,165,1,,1627675,,1611661323,40,30,2
+01:38,[ATL] Kiesel Turnover : Bad Pass (1 TO) Steal:Stricklen (2 ST),0,-80,5,203015,204331,,1611661330,40,30,2
+01:35,[ATL] Sykes Foul: Shooting (2 PF) (2 FTA),33,16,6,203015,1628279,,1611661330,40,30,2
+01:35,[CON 41-30] Stricklen Free Throw 1 of 2 (9 PTS),0,-80,3,,203015,,1611661323,41,30,2
+01:35,[ATL] Kiesel Substitution replaced by Holmes,0,-80,8,,204331,1627678,1611661330,41,30,2
+01:35,[ATL] Sykes Substitution replaced by Ajavon,0,-80,8,,1628279,201492,1611661330,41,30,2
+01:35,[CON 42-30] Stricklen Free Throw 2 of 2 (10 PTS),0,-80,3,,203015,,1611661323,42,30,2
+01:19,[ATL] Holmes Turnover : Bad Pass (1 TO) Steal:Thomas (3 ST),0,-80,5,202662,1627678,,1611661330,42,30,2
+01:15,[CON 44-30] Thomas Running Layup Shot: Made (6 PTS),-25,7,1,,202662,,1611661323,44,30,2
+01:04,[ATL] Ajavon Driving Floating Jump Shot: Missed Block: Jones (3 BLK),8,61,2,1627673,201492,,1611661330,44,30,2
+01:03,[ATL] Team Rebound,0,-80,4,,0,,1611661330,44,30,2
+01:00,[ATL 32-44] Dantas Jump Shot: Made (10 PTS) Assist: Holmes (2 AST),115,51,1,,203024,1627678,1611661330,44,32,2
+00:44.9,[CON] Williams Jump Shot: Missed,-96,144,2,,1627675,,1611661323,44,32,2
+00:43.9,[ATL] Hayes Rebound (Off:1 Def:5),0,-80,4,,203026,,1611661330,44,32,2
+00:24.9,[ATL] Williams Jump Shot: Missed,55,8,2,,204322,,1611661330,44,32,2
+00:23.8,[CON] Jones Rebound (Off:1 Def:6),0,-80,4,,1627673,,1611661323,44,32,2
+00:02.1,[CON] Jones 3pt Shot: Missed,146,203,2,,1627673,,1611661323,44,32,2
+00:00.3,[ATL] Hayes Rebound (Off:1 Def:6),0,-80,4,,203026,,1611661330,44,32,2
+00:00.0,End Period,0,-80,13,,0,,0,44,32,2
+10:00,Start Period,0,-80,12,,0,,0,44,32,3
+09:43,[CON] Thomas Layup Shot: Missed,38,-4,2,,202662,,1611661323,44,32,3
+09:42,[ATL] Williams Rebound (Off:3 Def:3),0,-80,4,,204322,,1611661330,44,32,3
+09:27,[ATL 34-44] Dantas Jump Shot: Made (12 PTS),139,80,1,,203024,,1611661330,44,34,3
+09:14,[CON] Thomas Jump Shot: Missed,111,34,2,,203826,,1611661323,44,34,3
+09:13,[CON] Jones Rebound (Off:2 Def:6),0,-80,4,,1627673,,1611661323,44,34,3
+09:12,[CON 46-34] Jones Layup Shot: Made (10 PTS),13,-9,1,,1627673,,1611661323,46,34,3
+09:05,[ATL] Hayes Turnover : Bad Pass (1 TO) Steal:Stricklen (3 ST),0,-80,5,203015,203026,,1611661330,46,34,3
+09:00,[CON] Stricklen 3pt Shot: Missed,135,204,2,,203015,,1611661323,46,34,3
+08:57,[CON] Jones Rebound (Off:3 Def:6),0,-80,4,,1627673,,1611661323,46,34,3
+08:55,[CON] Jones Jump Shot: Missed,-17,49,2,,1627673,,1611661323,46,34,3
+08:52,[ATL] Dantas Rebound (Off:0 Def:3),0,-80,4,,203024,,1611661330,46,34,3
+08:46,[ATL 36-46] Williams Layup Shot: Made (8 PTS) Assist: Clarendon (3 AST),13,4,1,,204322,203406,1611661330,46,36,3
+08:21,[CON] Williams Jump Shot: Missed,62,110,2,,1627675,,1611661323,46,36,3
+08:20,[ATL] Williams Rebound (Off:3 Def:4),0,-80,4,,204322,,1611661330,46,36,3
+08:10,[ATL 38-46] Sykes Layup Shot: Made (9 PTS),11,-6,1,,1628279,,1611661330,46,38,3
+07:45,[CON 48-38] Thomas Jump Shot: Made (8 PTS) Assist: Thomas (8 AST),-45,36,1,,203826,202662,1611661323,48,38,3
+07:30,[ATL 40-48] Hayes Layup Shot: Made (4 PTS),-30,18,1,,203026,,1611661330,48,40,3
+07:18,[CON] Thomas Jump Shot: Missed,33,26,2,,203826,,1611661323,48,40,3
+07:17,[CON] Jones Rebound (Off:4 Def:6),0,-80,4,,1627673,,1611661323,48,40,3
+07:14,[CON 50-40] Jones Layup Shot: Made (12 PTS),1,-6,1,,1627673,,1611661323,50,40,3
+07:14,[ATL] Clarendon Foul: Shooting (2 PF) (1 FTA),89,70,6,1627673,203406,,1611661330,50,40,3
+07:14,[CON 51-40] Jones Free Throw 1 of 1 (13 PTS),0,-80,3,,1627673,,1611661323,51,40,3
+06:52,[CON] Jones Foul: Shooting (2 PF) (2 FTA),37,31,6,204322,1627673,,1611661323,51,40,3
+06:52,[ATL 41-51] Williams Free Throw 1 of 2 (9 PTS),0,-80,3,,204322,,1611661330,51,41,3
+06:52,[ATL] Williams Free Throw 2 of 2 Missed,0,-80,3,,204322,,1611661330,51,41,3
+06:51,[CON] Stricklen Rebound (Off:0 Def:2),0,-80,4,,203015,,1611661323,51,41,3
+06:33,[CON] Thomas Foul: Offensive (2 PF),133,198,6,,202662,,1611661323,51,41,3
+06:33,[CON] Thomas Turnover : Foul (4 TO),0,-80,5,,202662,,1611661323,51,41,3
+06:19,[ATL] Clarendon 3pt Shot: Missed,192,154,2,,203406,,1611661330,51,41,3
+06:18,[ATL] Sykes Rebound (Off:1 Def:3),0,-80,4,,1628279,,1611661330,51,41,3
+06:06,[ATL 43-51] Dantas Driving Layup Shot: Made (14 PTS),-18,4,1,,203024,,1611661330,51,43,3
+05:54,[ATL] Dantas Foul: Shooting (2 PF) (2 FTA),-53,33,6,203826,203024,,1611661330,51,43,3
+05:54,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,51,43,3
+05:54,[CON] Team Rebound,0,-80,4,,0,,1611661323,51,43,3
+05:54,[CON 52-43] Thomas Free Throw 2 of 2 (9 PTS),0,-80,3,,203826,,1611661323,52,43,3
+05:40,[ATL 45-52] Dantas Jump Shot: Made (16 PTS) Assist: Clarendon (4 AST),123,36,1,,203024,203406,1611661330,52,45,3
+05:19,[CON] Williams Jump Shot: Missed,-32,16,2,,1627675,,1611661323,52,45,3
+05:17,[ATL] Williams Rebound (Off:3 Def:5),0,-80,4,,204322,,1611661330,52,45,3
+05:11,[ATL] Dantas 3pt Shot: Missed,-119,210,2,,203024,,1611661330,52,45,3
+05:09,[CON] Thomas Rebound (Off:0 Def:3),0,-80,4,,203826,,1611661323,52,45,3
+05:01,[CON] Thomas Layup Shot: Missed,-24,11,2,,203826,,1611661323,52,45,3
+05:00,[CON] Stricklen Rebound (Off:1 Def:2),0,-80,4,,203015,,1611661323,52,45,3
+04:58,[CON] Williams 3pt Shot: Missed,-161,175,2,,1627675,,1611661323,52,45,3
+04:57,[CON] Stricklen Rebound (Off:2 Def:2),0,-80,4,,203015,,1611661323,52,45,3
+04:56,[CON 54-45] Stricklen Layup Shot: Made (12 PTS),17,13,1,,203015,,1611661323,54,45,3
+04:56,[ATL] Williams Foul: Shooting (2 PF) (1 FTA),17,13,6,203015,204322,,1611661330,54,45,3
+04:56,Timeout : Official,0,-80,9,,0,,0,54,45,3
+04:56,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,54,45,3
+04:56,[CON] Williams Substitution replaced by Banham,0,-80,8,,1627675,1627671,1611661323,54,45,3
+04:56,[ATL] Williams Substitution replaced by Hollivay,0,-80,8,,204322,1627680,1611661330,54,45,3
+04:56,[ATL] Hayes Substitution replaced by Simmons,0,-80,8,,203026,203848,1611661330,54,45,3
+04:56,[ATL] Sykes Substitution replaced by Holmes,0,-80,8,,1628279,1627678,1611661330,54,45,3
+04:56,[CON 55-45] Stricklen Free Throw 1 of 1 (13 PTS),0,-80,3,,203015,,1611661323,55,45,3
+04:43,[ATL 47-55] Holmes Jump Shot: Made (6 PTS),43,36,1,,1627678,,1611661330,55,47,3
+04:43,[CON] Jones Foul: Shooting (1 PF) (1 FTA),43,36,6,1627678,1628280,,1611661323,55,47,3
+04:43,[ATL] Holmes Free Throw 1 of 1 Missed,0,-80,3,,1627678,,1611661330,55,47,3
+04:42,[CON] Jones Rebound (Off:4 Def:7),0,-80,4,,1627673,,1611661323,55,47,3
+04:24,[CON 58-47] Stricklen 3pt Shot: Made (16 PTS) Assist: Jones (1 AST),-102,219,1,,203015,1628280,1611661323,58,47,3
+04:05,[ATL 49-58] Simmons Step Back Jump shot: Made (2 PTS),-151,-15,1,,203848,,1611661330,58,49,3
+03:55,[ATL] Simmons Foul: Personal (1 PF),20,31,6,1627671,203848,,1611661330,58,49,3
+03:47,[CON] Stricklen Jump Shot: Missed Block: Hollivay (1 BLK),105,8,2,1627680,203015,,1611661323,58,49,3
+03:45,[CON] Stricklen Rebound (Off:3 Def:2),0,-80,4,,203015,,1611661323,58,49,3
+03:41,[CON] Banham Jump Shot: Missed,-130,138,2,,1627671,,1611661323,58,49,3
+03:40,[ATL] Simmons Rebound (Off:0 Def:1),0,-80,4,,203848,,1611661330,58,49,3
+03:28,[CON] Banham Foul: Personal (1 PF),-15,31,6,203848,1627671,,1611661323,58,49,3
+03:28,[ATL] Dantas Substitution replaced by Williams,0,-80,8,,203024,204322,1611661330,58,49,3
+03:16,[ATL 52-58] Clarendon 3pt Shot: Made (3 PTS),53,232,1,,203406,,1611661330,58,52,3
+02:58,[CON] Stricklen Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),0,-80,5,204322,203015,,1611661323,58,52,3
+02:56,[CON] Banham Foul: Personal (2 PF),27,14,6,1627680,1627671,,1611661323,58,52,3
+02:56,[CON] Banham Substitution replaced by Williams,0,-80,8,,1627671,1627675,1611661323,58,52,3
+02:56,[ATL] Hollivay Substitution replaced by Hooper,0,-80,8,,1627680,203835,1611661330,58,52,3
+02:45,[ATL] Hooper 3pt Shot: Missed,189,151,2,,203835,,1611661330,58,52,3
+02:44,[CON] Williams Rebound (Off:0 Def:3),0,-80,4,,1627675,,1611661323,58,52,3
+02:33,[CON] Williams Jump Shot: Missed,-147,56,2,,1627675,,1611661323,58,52,3
+02:32,[ATL] Simmons Rebound (Off:0 Def:2),0,-80,4,,203848,,1611661330,58,52,3
+02:27,[ATL] Simmons Jump Shot: Missed,32,21,2,,203848,,1611661330,58,52,3
+02:26,[CON] Jones Rebound (Off:1 Def:2),0,-80,4,,1628280,,1611661323,58,52,3
+02:05,[CON] Thomas Jump Shot: Missed,-58,16,2,,202662,,1611661323,58,52,3
+02:04,[ATL] Holmes Rebound (Off:0 Def:2),0,-80,4,,1627678,,1611661330,58,52,3
+02:03,[ATL] Holmes Driving Layup Shot: Missed Block: Jones (4 BLK),1,9,2,1627673,1627678,,1611661330,58,52,3
+02:02,[ATL] Williams Rebound (Off:4 Def:5),0,-80,4,,204322,,1611661330,58,52,3
+02:01,[ATL] Williams Layup Shot: Missed,17,21,2,,204322,,1611661330,58,52,3
+02:00,[CON] Jones Rebound (Off:4 Def:8),0,-80,4,,1627673,,1611661323,58,52,3
+01:56,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (5 TO),0,-80,5,,202662,,1611661323,58,52,3
+01:56,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,58,52,3
+01:56,[CON] Stricklen Substitution replaced by Thomas,0,-80,8,,203015,203826,1611661323,58,52,3
+01:56,[ATL] Holmes Substitution replaced by Hayes,0,-80,8,,1627678,203026,1611661330,58,52,3
+01:44,[ATL] Hooper Jump Shot: Missed Block: Jones (5 BLK),-55,31,2,1627673,203835,,1611661330,58,52,3
+01:43,[CON] Thomas Rebound (Off:0 Def:4),0,-80,4,,203826,,1611661323,58,52,3
+01:37,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Clarendon (1 ST),0,-80,5,203406,203826,,1611661323,58,52,3
+01:29,[ATL] Clarendon Turnover : Bad Pass (5 TO) Steal:Jones (1 ST),0,-80,5,1627673,203406,,1611661330,58,52,3
+01:11,[CON 60-52] Thomas Jump Shot: Made (11 PTS),-27,31,1,,203826,,1611661323,60,52,3
+00:59.9,[ATL] Hooper 3pt Shot: Missed,92,224,2,,203835,,1611661330,60,52,3
+00:58.4,[CON] Williams Rebound (Off:0 Def:4),0,-80,4,,1627675,,1611661323,60,52,3
+00:52.5,[CON 62-52] Jones Layup Shot: Made (15 PTS) Assist: Williams (3 AST),25,16,1,,1627673,1627675,1611661323,62,52,3
+00:42.9,[ATL] Simmons 3pt Shot: Missed,-129,208,2,,203848,,1611661330,62,52,3
+00:41.9,[CON] Williams Rebound (Off:0 Def:5),0,-80,4,,1627675,,1611661323,62,52,3
+00:37.6,[ATL] Simmons Foul: Shooting (2 PF) (2 FTA),-43,51,6,202662,203848,,1611661330,62,52,3
+00:37.6,[CON 63-52] Thomas Free Throw 1 of 2 (7 PTS),0,-80,3,,202662,,1611661323,63,52,3
+00:37.6,[ATL] Clarendon Substitution replaced by Ajavon,0,-80,8,,203406,201492,1611661330,63,52,3
+00:37.6,[CON 64-52] Thomas Free Throw 2 of 2 (8 PTS),0,-80,3,,202662,,1611661323,64,52,3
+00:24.7,[ATL] Simmons Jump Shot: Missed,125,31,2,,203848,,1611661330,64,52,3
+00:23.7,[ATL] Team Rebound,0,-80,4,,0,,1611661330,64,52,3
+00:21.3,[ATL 55-64] Hooper 3pt Shot: Made (5 PTS) Assist: Ajavon (1 AST),-222,56,1,,203835,201492,1611661330,64,55,3
+00:06.6,[CON 66-55] Thomas Jump Shot: Made (10 PTS),-47,70,1,,202662,,1611661323,66,55,3
+00:06.6,[ATL] Hooper Foul: Shooting (2 PF) (1 FTA),-47,70,6,202662,203835,,1611661330,66,55,3
+00:06.6,[CON 67-55] Thomas Free Throw 1 of 1 (11 PTS),0,-80,3,,202662,,1611661323,67,55,3
+00:06.6,[CON] Jones Substitution replaced by Fitzgerald,0,-80,8,,1628280,1628289,1611661323,67,55,3
+00:00.0,End Period,0,-80,13,,0,,0,67,55,3
+10:00,Start Period,0,-80,12,,0,,0,67,55,4
+09:48,[ATL] Ajavon Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,201492,,1611661330,67,55,4
+09:36,[CON 69-55] Thomas Jump Shot: Made (13 PTS) Assist: Thomas (9 AST),48,16,1,,203826,202662,1611661323,69,55,4
+09:23,[ATL] Ajavon Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,201492,,1611661330,69,55,4
+09:08,[CON] Thomas Turnover : Lost Ball (2 TO) Steal:Ajavon (2 ST),0,-80,5,201492,203826,,1611661323,69,55,4
+08:52,[ATL] Dantas 3pt Shot: Missed,115,210,2,,203024,,1611661330,69,55,4
+08:50,[CON] Fitzgerald Rebound (Off:0 Def:1),0,-80,4,,1628289,,1611661323,69,55,4
+08:47,[CON] Fitzgerald Turnover : Bad Pass (1 TO) Steal:Hayes (1 ST),0,-80,5,203026,1628289,,1611661323,69,55,4
+08:44,[ATL] Hayes Layup Shot: Missed,27,2,2,,203026,,1611661330,69,55,4
+08:42,[CON] Jones Rebound (Off:4 Def:9),0,-80,4,,1627673,,1611661323,69,55,4
+08:33,[CON] Williams Jump Shot: Missed,-187,-26,2,,1627675,,1611661323,69,55,4
+08:31,[CON] Thomas Rebound (Off:1 Def:4),0,-80,4,,203826,,1611661323,69,55,4
+08:30,[ATL] Dantas Foul: Shooting (3 PF) (2 FTA),-114,65,6,203826,203024,,1611661330,69,55,4
+08:30,[CON 70-55] Thomas Free Throw 1 of 2 (14 PTS),0,-80,3,,203826,,1611661323,70,55,4
+08:30,[ATL] Ajavon Substitution replaced by Kiesel,0,-80,8,,201492,204331,1611661330,70,55,4
+08:30,[ATL] Hooper Substitution replaced by Williams,0,-80,8,,203835,204322,1611661330,70,55,4
+08:30,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,70,55,4
+08:30,[CON] Jones Rebound (Off:5 Def:9),0,-80,4,,1627673,,1611661323,70,55,4
+08:16,[CON] Thomas 3pt Shot: Missed,-204,95,2,,202662,,1611661323,70,55,4
+08:15,[ATL] Holmes Rebound (Off:0 Def:3),0,-80,4,,1627678,,1611661330,70,55,4
+08:13,[ATL 57-70] Holmes Jump Shot: Made (8 PTS),-45,23,1,,1627678,,1611661330,70,57,4
+08:13,[CON] Thomas Foul: Shooting (3 PF) (1 FTA),-45,23,6,1627678,203826,,1611661323,70,57,4
+08:13,[ATL 58-70] Holmes Free Throw 1 of 1 (9 PTS),0,-80,3,,1627678,,1611661330,70,58,4
+07:58,[CON 72-58] Williams Jump Shot: Made (12 PTS),137,115,1,,1627675,,1611661323,72,58,4
+07:37,[CON] Jones Foul: Shooting (3 PF) (2 FTA),-40,11,6,203026,1627673,,1611661323,72,58,4
+07:37,[ATL 59-72] Hayes Free Throw 1 of 2 (5 PTS),0,-80,3,,203026,,1611661330,72,59,4
+07:37,[ATL 60-72] Hayes Free Throw 2 of 2 (6 PTS),0,-80,3,,203026,,1611661330,72,60,4
+07:22,[CON 74-60] Jones Layup Shot: Made (17 PTS) Assist: Williams (4 AST),25,21,1,,1627673,1627675,1611661323,74,60,4
+07:13,[ATL 62-74] Holmes Layup Shot: Made (11 PTS) Assist: Williams (3 AST),15,-1,1,,1627678,204322,1611661330,74,62,4
+06:58,[ATL] Holmes Foul: Shooting (2 PF) (2 FTA),38,18,6,1627673,1627678,,1611661330,74,62,4
+06:58,[CON 75-62] Jones Free Throw 1 of 2 (18 PTS),0,-80,3,,1627673,,1611661323,75,62,4
+06:58,[CON] Fitzgerald Substitution replaced by Stricklen,0,-80,8,,1628289,203015,1611661323,75,62,4
+06:58,[ATL] Hayes Substitution replaced by Sykes,0,-80,8,,203026,1628279,1611661330,75,62,4
+06:58,[CON 76-62] Jones Free Throw 2 of 2 (19 PTS),0,-80,3,,1627673,,1611661323,76,62,4
+06:45,[CON] Williams Foul: Personal (2 PF),-74,60,6,204331,1627675,,1611661323,76,62,4
+06:35,[ATL] Dantas Jump Shot: Missed,122,51,2,,203024,,1611661330,76,62,4
+06:34,[CON] Stricklen Rebound (Off:3 Def:3),0,-80,4,,203015,,1611661323,76,62,4
+06:26,[CON] Thomas Jump Shot: Missed,-52,77,2,,203826,,1611661323,76,62,4
+06:25,[CON] Jones Rebound (Off:6 Def:9),0,-80,4,,1627673,,1611661323,76,62,4
+06:24,[ATL] Sykes Foul: Shooting (3 PF) (2 FTA),-52,80,6,1627673,1628279,,1611661330,76,62,4
+06:24,[CON 77-62] Jones Free Throw 1 of 2 (20 PTS),0,-80,3,,1627673,,1611661323,77,62,4
+06:24,[ATL] Williams Substitution replaced by Hollivay,0,-80,8,,204322,1627680,1611661330,77,62,4
+06:24,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1627673,,1611661323,77,62,4
+06:24,[ATL] Dantas Rebound (Off:0 Def:4),0,-80,4,,203024,,1611661330,77,62,4
+06:04,[ATL] Kiesel Turnover : Step Out of Bounds Turnover (2 TO),0,-80,5,,204331,,1611661330,77,62,4
+06:04,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,77,62,4
+05:48,[ATL] Sykes Foul: Personal (4 PF),-32,72,6,1628280,1628279,,1611661330,77,62,4
+05:48,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,77,62,4
+05:31,[CON 79-62] Williams Jump Shot: Made (14 PTS),-150,16,1,,1627675,,1611661323,79,62,4
+05:31,[ATL] Team Timeout : Regular,0,-80,9,,0,,1611661330,79,62,4
+05:15,[ATL] Dantas 3pt Shot: Missed,10,247,2,,203024,,1611661330,79,62,4
+05:14,[ATL] Hollivay Rebound (Off:1 Def:0),0,-80,4,,1627680,,1611661330,79,62,4
+05:13,[ATL 64-79] Hollivay Layup Shot: Made (2 PTS),27,13,1,,1627680,,1611661330,79,64,4
+04:54,[CON 82-64] Thomas 3pt Shot: Made (14 PTS) Assist: Williams (5 AST),-107,213,1,,202662,1627675,1611661323,82,64,4
+04:39,[ATL 66-82] Sykes Reverse Layup Shot: Made (11 PTS) Assist: Kiesel (1 AST),-27,7,1,,1628279,204331,1611661330,82,66,4
+04:39,[CON] Jones Foul: Shooting (2 PF) (1 FTA),-27,7,6,1628279,1628280,,1611661323,82,66,4
+04:39,[CON] Jones Substitution replaced by Thomas,0,-80,8,,1627673,203826,1611661323,82,66,4
+04:39,[ATL] Holmes Substitution replaced by Clarendon,0,-80,8,,1627678,203406,1611661330,82,66,4
+04:39,[ATL] Hollivay Substitution replaced by Williams,0,-80,8,,1627680,204322,1611661330,82,66,4
+04:39,[ATL] Kiesel Substitution replaced by Hayes,0,-80,8,,204331,203026,1611661330,82,66,4
+04:39,[ATL] Sykes Free Throw 1 of 1 Missed,0,-80,3,,1628279,,1611661330,82,66,4
+04:36,[CON] Jones Rebound (Off:1 Def:3),0,-80,4,,1628280,,1611661323,82,66,4
+04:26,[CON 84-66] Williams Running Jump Shot: Made (16 PTS),4,21,1,,1627675,,1611661323,84,66,4
+04:26,[ATL] Sykes Foul: Shooting (5 PF) (1 FTA),-27,17,6,1627675,1628279,,1611661330,84,66,4
+04:26,[CON 85-66] Williams Free Throw 1 of 1 (17 PTS),0,-80,3,,1627675,,1611661323,85,66,4
+04:14,[ATL] Sykes Turnover : Traveling (3 TO),0,-80,5,,1628279,,1611661330,85,66,4
+03:58,[CON 87-66] Thomas Jump Shot: Made (16 PTS) Assist: Thomas (10 AST),15,57,1,,203826,202662,1611661323,87,66,4
+03:48,[CON] Jones Foul: Shooting (3 PF) (2 FTA),-60,46,6,203026,1628280,,1611661323,87,66,4
+03:48,[ATL 67-87] Hayes Free Throw 1 of 2 (7 PTS),0,-80,3,,203026,,1611661330,87,67,4
+03:48,[ATL 68-87] Hayes Free Throw 2 of 2 (8 PTS),0,-80,3,,203026,,1611661330,87,68,4
+03:33,[CON 90-68] Stricklen 3pt Shot: Made (19 PTS) Assist: Thomas (11 AST),-140,198,1,,203015,202662,1611661323,90,68,4
+03:15,[ATL] Clarendon Turnover : Lost Ball (6 TO) Steal:Jones (2 ST),0,-80,5,1628280,203406,,1611661330,90,68,4
+02:52,[CON 92-68] Jones Jump Shot: Made (4 PTS) Assist: Thomas (1 AST),-34,7,1,,1628280,203826,1611661323,92,68,4
+02:48,[ATL] Hayes Foul: Offensive (1 PF),168,180,6,1627675,203026,,1611661330,92,68,4
+02:48,[ATL] Hayes Turnover : Foul (2 TO),0,-80,5,,203026,,1611661330,92,68,4
+02:34,[ATL] Sykes Foul: Personal (6 PF) (2 FTA),148,90,6,203826,1628279,,1611661330,92,68,4
+02:34,[ATL] Sykes Substitution replaced by Holmes,0,-80,8,,1628279,1627678,1611661330,92,68,4
+02:34,[CON 93-68] Thomas Free Throw 1 of 2 (17 PTS),0,-80,3,,203826,,1611661323,93,68,4
+02:34,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,93,68,4
+02:34,[CON 94-68] Thomas Free Throw 2 of 2 (18 PTS),0,-80,3,,203826,,1611661323,94,68,4
+02:23,[CON] Williams Foul: Personal (3 PF) (2 FTA),-163,232,6,203026,1627675,,1611661323,94,68,4
+02:23,[ATL 69-94] Hayes Free Throw 1 of 2 (9 PTS),0,-80,3,,203026,,1611661330,94,69,4
+02:23,[CON] Thomas Substitution replaced by Adams,0,-80,8,,203826,202634,1611661323,94,69,4
+02:23,[ATL] Hayes Free Throw 2 of 2 Missed,0,-80,3,,203026,,1611661330,94,69,4
+02:23,[CON] Jones Rebound (Off:1 Def:4),0,-80,4,,1628280,,1611661323,94,69,4
+02:13,[ATL] Hayes Foul: Personal (2 PF) (2 FTA),159,311,6,1627671,203026,,1611661330,94,69,4
+02:13,[CON 95-69] Banham Free Throw 1 of 2 (1 PTS),0,-80,3,,1627671,,1611661323,95,69,4
+02:13,[CON] Stricklen Substitution replaced by Fitzgerald,0,-80,8,,203015,1628289,1611661323,95,69,4
+02:13,[ATL] Hayes Substitution replaced by Kiesel,0,-80,8,,203026,204331,1611661330,95,69,4
+02:13,[CON 96-69] Banham Free Throw 2 of 2 (2 PTS),0,-80,3,,1627671,,1611661323,96,69,4
+02:02,[ATL] Dantas Layup Shot: Missed,11,-6,2,,203024,,1611661330,96,69,4
+02:01,[CON] Jones Rebound (Off:1 Def:5),0,-80,4,,1628280,,1611661323,96,69,4
+01:46,[CON] Williams Jump Shot: Missed,0,56,2,,1627675,,1611661323,96,69,4
+01:45,[CON] Jones Rebound (Off:2 Def:5),0,-80,4,,1628280,,1611661323,96,69,4
+01:44,[ATL] Dantas Foul: Shooting (4 PF) (2 FTA),46,43,6,1628280,203024,,1611661330,96,69,4
+01:44,[CON 97-69] Jones Free Throw 1 of 2 (5 PTS),0,-80,3,,1628280,,1611661323,97,69,4
+01:44,[CON 98-69] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1628280,,1611661323,98,69,4
+01:30,[ATL] Dantas 3pt Shot: Missed,-76,244,2,,203024,,1611661330,98,69,4
+01:29,[CON] Banham Rebound (Off:0 Def:1),0,-80,4,,1627671,,1611661323,98,69,4
+01:24,[CON 100-69] Adams Layup Shot: Made (4 PTS) Assist: Banham (1 AST),30,21,1,,202634,1627671,1611661323,100,69,4
+01:08,[ATL] Dantas Jump Shot: Missed Block: Adams (1 BLK),105,75,2,202634,203024,,1611661330,100,69,4
+01:07,[CON] Adams Rebound (Off:0 Def:2),0,-80,4,,202634,,1611661323,100,69,4
+00:57.3,[ATL] Dantas Foul: Shooting (5 PF) (2 FTA),-86,90,6,1628280,203024,,1611661330,100,69,4
+00:57.3,[CON 101-69] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1628280,,1611661323,101,69,4
+00:57.3,[CON 102-69] Jones Free Throw 2 of 2 (8 PTS),0,-80,3,,1628280,,1611661323,102,69,4
+00:41.1,[CON] Jones Foul: Shooting (4 PF) (2 FTA),0,92,6,204322,1628280,,1611661323,102,69,4
+00:41.1,[ATL 70-102] Williams Free Throw 1 of 2 (10 PTS),0,-80,3,,204322,,1611661330,102,70,4
+00:41.1,[ATL 71-102] Williams Free Throw 2 of 2 (11 PTS),0,-80,3,,204322,,1611661330,102,71,4
+00:29.9,[CON] Adams 3pt Shot: Missed,-48,237,2,,202634,,1611661323,102,71,4
+00:27.9,[ATL] Clarendon Rebound (Off:1 Def:2),0,-80,4,,203406,,1611661330,102,71,4
+00:17.5,[ATL] Kiesel 3pt Shot: Missed,-237,61,2,,204331,,1611661330,102,71,4
+00:16.4,[CON] Fitzgerald Rebound (Off:0 Def:2),0,-80,4,,1628289,,1611661323,102,71,4
+00:11.6,[CON 104-71] Williams Layup Shot: Made (19 PTS) Assist: Fitzgerald (1 AST),22,16,1,,1627675,1628289,1611661323,104,71,4
+00:01.1,[ATL] Williams Jump Shot: Missed,3,192,2,,204322,,1611661330,104,71,4
+00:00.0,[ATL] Team Rebound,0,-80,4,,0,,1611661330,104,71,4
+00:00.0,End Period,0,-80,13,,0,,0,104,71,4

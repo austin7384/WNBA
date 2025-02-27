@@ -1,0 +1,441 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Griner vs Boston (Copper gains possession),0,-80,10,1641648,203398,1627674,1611661317,0,0,0,1
+09:42,[IND] Boston Foul: Shooting (1 PF) (2 FTA),-22,24,6,203398,1641648,1629176,1611661325,0,0,0,1
+09:42,[PHO 1-0] Griner Free Throw 1 of 2 (1 PTS),0,-80,3,,203398,,1611661317,1,0,1,1
+09:42,[PHO] Griner Free Throw 2 of 2 Missed,0,-80,3,,203398,,1611661317,1,0,0,1
+09:39,[IND] Boston Rebound (Off:0 Def:1),0,-80,4,,1641648,,1611661325,1,0,0,1
+09:28,[IND] Clark Driving Floating Bank Jump Shot: Missed,11,60,2,,1642286,,1611661325,1,0,0,1
+09:26,[PHO] Cloud Rebound (Off:0 Def:1),11,60,4,,204333,,1611661317,1,0,0,1
+09:22,[PHO 4-0] Copper 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),-185,162,1,,1627674,204333,1611661317,4,0,3,1
+09:03,[IND] Wallace Driving Floating Bank Jump Shot: Missed,-16,25,2,,1628929,,1611661325,4,0,0,1
+08:59,[PHO] Taurasi Rebound (Off:0 Def:1),-16,25,4,,100940,,1611661317,4,0,0,1
+08:54,[IND] Clark Foul: Shooting (1 PF) (2 FTA),23,65,6,203398,1642286,203800,1611661325,4,0,0,1
+08:54,[PHO 5-0] Griner Free Throw 1 of 2 (2 PTS),0,-80,3,,203398,,1611661317,5,0,1,1
+08:54,[PHO 6-0] Griner Free Throw 2 of 2 (3 PTS),0,-80,3,,203398,,1611661317,6,0,1,1
+08:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,0,0,1
+08:37,[IND] Clark 3pt Shot: Missed,224,97,2,,1642286,,1611661325,6,0,0,1
+08:34,[PHO] Allen Rebound (Off:0 Def:1),224,97,4,,204296,,1611661317,6,0,0,1
+08:22,[PHO 8-0] Taurasi Driving Finger Roll Layup Shot: Made (2 PTS),26,19,1,,100940,,1611661317,8,0,2,1
+08:10,[IND] Smith 3pt Shot: Missed,190,159,2,,1631019,,1611661325,8,0,0,1
+08:07,[PHO] Copper Rebound (Off:0 Def:1),190,159,4,,1627674,,1611661317,8,0,0,1
+08:03,[PHO] Copper Running Pull-Up Jump Shot: Missed,97,123,2,,1627674,,1611661317,8,0,0,1
+08:00,[IND] Mitchell Rebound (Off:0 Def:1),97,123,4,,1628909,,1611661325,8,0,0,1
+07:53,[IND] Mitchell 3pt Shot: Missed,220,92,2,,1628909,,1611661325,8,0,0,1
+07:50,[IND] Smith Rebound (Off:1 Def:0),220,92,4,,1631019,,1611661325,8,0,0,1
+07:50,[PHO] Allen Foul: Shooting (1 PF) (2 FTA),9,17,6,1631019,204296,203800,1611661317,8,0,0,1
+07:50,[IND] Smith Free Throw 1 of 2 Missed,0,-80,3,,1631019,,1611661325,8,0,0,1
+07:50,[IND] Team Rebound,0,-80,4,,0,,1611661325,8,0,0,1
+07:50,[IND] Smith Free Throw 2 of 2 Missed,0,-80,3,,1631019,,1611661325,8,0,0,1
+07:47,[IND] Smith Rebound (Off:2 Def:0),0,-80,4,,1631019,,1611661325,8,0,0,1
+07:46,[IND 2-8] Smith Jump Shot: Made (2 PTS),0,73,1,,1631019,,1611661325,8,2,2,1
+07:30,[PHO 10-2] Taurasi Driving Reverse Layup Shot: Made (4 PTS) Assist: Cloud (2 AST),23,15,1,,100940,204333,1611661317,10,2,2,1
+07:10,[IND] Clark Turnover : Bad Pass (1 TO) Steal:Taurasi (1 ST),84,240,5,100940,1642286,,1611661325,10,2,0,1
+07:03,[PHO] Copper Running Layup Shot: Missed Block: Smith (1 BLK),34,39,2,1631019,1627674,,1611661317,10,2,0,1
+07:00,[IND] Mitchell Rebound (Off:0 Def:2),34,39,4,,1628909,,1611661325,10,2,0,1
+06:54,[IND] Mitchell Running Pull-Up Jump Shot: Missed,-8,112,2,,1628909,,1611661325,10,2,0,1
+06:53,[IND] Team Rebound,-8,112,4,,0,,1611661325,10,2,0,1
+06:53,[PHO] Cloud Foul: Loose Ball (1 PF),-8,112,6,1631019,204333,1628952,1611661317,10,2,0,1
+06:42,[IND] Clark Turnover : Bad Pass (2 TO) Steal:Cloud (1 ST),-194,124,5,204333,1642286,,1611661325,10,2,0,1
+06:37,[PHO 12-2] Cloud Running Pull-Up Jump Shot: Made (2 PTS),55,171,1,,204333,,1611661317,12,2,2,1
+06:23,[PHO] Copper Foul: Personal (1 PF),13,78,6,1642286,1627674,1628952,1611661317,12,2,0,1
+06:19,[IND] Mitchell Pullup Jump shot: Missed,65,194,2,,1628909,,1611661325,12,2,0,1
+06:16,[PHO] Cloud Rebound (Off:0 Def:2),65,194,4,,204333,,1611661317,12,2,0,1
+06:06,[PHO 14-2] Griner Pullup Jump shot: Made (5 PTS) Assist: Taurasi (1 AST),-49,69,1,,203398,100940,1611661317,14,2,2,1
+06:04,Timeout : Regular,0,-80,9,,1611661325,,1611661325,14,2,0,1
+05:44,[IND 4-14] Smith Jump Shot: Made (4 PTS) Assist: Boston (1 AST),-10,160,1,,1631019,1641648,1611661325,14,4,2,1
+05:23,[PHO 17-4] Allen 3pt Shot: Made (3 PTS) Assist: Griner (1 AST),183,204,1,,204296,203398,1611661317,17,4,3,1
+05:12,[IND] Clark Foul: Offensive (2 PF),-146,210,6,1627674,1642286,1628952,1611661325,17,4,0,1
+05:12,[IND] Clark Turnover : Offensive Foul Turnover (3 TO),-146,210,5,,1642286,1628952,1611661325,17,4,0,1
+05:02,[PHO] Taurasi 3pt Shot: Missed,-13,281,2,,100940,,1611661317,17,4,0,1
+05:01,[IND] Team Rebound,-13,281,4,,0,,1611661325,17,4,0,1
+05:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,4,0,1
+04:49,[PHO] Cloud Foul: Shooting (2 PF) (2 FTA),46,58,6,1641648,204333,1629176,1611661317,17,4,0,1
+04:49,[IND 5-17] Boston Free Throw 1 of 2 (1 PTS),0,-80,3,,1641648,,1611661325,17,5,1,1
+04:49,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1628909,204365,1611661325,17,5,0,1
+04:49,[IND 6-17] Boston Free Throw 2 of 2 (2 PTS),0,-80,3,,1641648,,1611661325,17,6,1,1
+04:35,[PHO] Copper 3pt Shot: Missed,233,0,2,,1627674,,1611661317,17,6,0,1
+04:31,[IND] Boston Rebound (Off:0 Def:2),233,0,4,,1641648,,1611661325,17,6,0,1
+04:25,[IND 9-17] Clark 3pt Shot: Made (3 PTS),63,285,1,,1642286,,1611661325,17,9,3,1
+04:02,[PHO] Griner Turnaround Jump Shot: Missed,-137,-21,2,,203398,,1611661317,17,9,0,1
+04:00,[IND] Clark Rebound (Off:0 Def:1),-137,-21,4,,1642286,,1611661325,17,9,0,1
+03:55,[IND 11-17] Boston Running Layup Shot: Made (4 PTS) Assist: Clark (1 AST),-13,16,1,,1641648,1642286,1611661325,17,11,2,1
+03:38,[PHO] Allen 3pt Shot: Missed,191,191,2,,204296,,1611661317,17,11,0,1
+03:36,[IND] Clark Rebound (Off:0 Def:2),191,191,4,,1642286,,1611661325,17,11,0,1
+03:34,[PHO] Allen Foul: Shooting (2 PF) (2 FTA),16,5,6,1631019,204296,203800,1611661317,17,11,0,1
+03:34,[IND] Smith Free Throw 1 of 2 Missed,0,-80,3,,1631019,,1611661325,17,11,0,1
+03:34,[IND] Team Rebound,0,-80,4,,0,,1611661325,17,11,0,1
+03:34,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,17,11,0,1
+03:34,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,17,11,0,1
+03:34,[IND 12-17] Smith Free Throw 2 of 2 (5 PTS),0,-80,3,,1631019,,1611661325,17,12,1,1
+03:24,[PHO 19-12] Copper Pullup Jump shot: Made (5 PTS),68,131,1,,1627674,,1611661317,19,12,2,1
+03:06,[PHO] Cunningham Foul: Shooting (1 PF) (2 FTA),31,54,6,1628929,1629482,1629176,1611661317,19,12,0,1
+03:06,[IND 13-19] Wallace Free Throw 1 of 2 (1 PTS),0,-80,3,,1628929,,1611661325,19,13,1,1
+03:06,[IND 14-19] Wallace Free Throw 2 of 2 (2 PTS),0,-80,3,,1628929,,1611661325,19,14,1,1
+02:49,[PHO 21-14] Allen Driving Layup Shot: Made (5 PTS) Assist: Cunningham (1 AST),-17,23,1,,204296,1629482,1611661317,21,14,2,1
+02:41,[IND] Clark 3pt Shot: Missed,157,231,2,,1642286,,1611661325,21,14,0,1
+02:40,[PHO] Team Rebound,157,231,4,,0,,1611661317,21,14,0,1
+02:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,21,14,0,1
+02:40,[IND] Wallace Substitution replaced by Samuelson,0,-80,8,,1628929,1629478,1611661325,21,14,0,1
+02:32,[PHO] Cloud Driving Layup Shot: Missed,19,61,2,,204333,,1611661317,21,14,0,1
+02:30,[IND] Smith Rebound (Off:2 Def:1),19,61,4,,1631019,,1611661325,21,14,0,1
+02:24,[IND 16-21] Boston Running Layup Shot: Made (6 PTS) Assist: Clark (2 AST),6,38,1,,1641648,1642286,1611661325,21,16,2,1
+02:10,[PHO] Copper Pullup Jump shot: Missed,-3,153,2,,1627674,,1611661317,21,16,0,1
+02:10,[IND] Boston Rebound (Off:0 Def:3),-3,153,4,,1641648,,1611661325,21,16,0,1
+01:55,[IND] Boston Turnaround Hook Shot: Missed,7,34,2,,1641648,,1611661325,21,16,0,1
+01:53,[IND] Boston Rebound (Off:1 Def:3),34,53,4,,1641648,,1611661325,21,16,0,1
+01:53,[IND] Boston Tip Layup Shot: Missed,0,-5,2,,1641648,,1611661325,21,16,0,1
+01:53,[IND] Boston Rebound (Off:2 Def:3),0,-5,4,,1641648,,1611661325,21,16,0,1
+01:53,[PHO] Mack Foul: Shooting (1 PF) (2 FTA),-5,16,6,1641648,1630442,203800,1611661317,21,16,0,1
+01:53,[IND 17-21] Boston Free Throw 1 of 2 (7 PTS),0,-80,3,,1641648,,1611661325,21,17,1,1
+01:53,[PHO] Copper Substitution replaced by Sutton,0,-80,8,,1627674,1630134,1611661317,21,17,0,1
+01:53,[PHO] Allen Substitution replaced by Taurasi,0,-80,8,,204296,100940,1611661317,21,17,0,1
+01:53,[PHO] Mack Substitution replaced by Griner,0,-80,8,,1630442,203398,1611661317,21,17,0,1
+01:53,[IND] Smith Substitution replaced by Fagbenle,0,-80,8,,1631019,1627701,1611661325,21,17,0,1
+01:53,[IND 18-21] Boston Free Throw 2 of 2 (8 PTS),0,-80,3,,1641648,,1611661325,21,18,1,1
+01:26,[PHO] Team Turnover : Shot Clock Turnover,-202,1,5,,0,203800,1611661317,21,18,0,1
+01:12,[PHO] Taurasi Foul: Personal (1 PF) (2 FTA),48,41,6,1627701,100940,1629176,1611661317,21,18,0,1
+01:12,[IND 19-21] Fagbenle Free Throw 1 of 2 (1 PTS),0,-80,3,,1627701,,1611661325,21,19,1,1
+01:12,[IND 20-21] Fagbenle Free Throw 2 of 2 (2 PTS),0,-80,3,,1627701,,1611661325,21,20,1,1
+01:03,[IND] Wheeler Foul: Personal (1 PF),-35,195,6,100940,204365,1628952,1611661325,21,20,0,1
+00:57.1,[PHO 23-20] Griner Turnaround Jump Shot: Made (7 PTS) Assist: Taurasi (2 AST),-11,104,1,,203398,100940,1611661317,23,20,2,1
+00:39.8,[IND] Fagbenle Reverse Layup Shot: Missed,15,11,2,,1627701,,1611661325,23,20,0,1
+00:38.3,[PHO] Team Rebound,15,11,4,,0,,1611661317,23,20,0,1
+00:38.3,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,20,0,1
+00:16.0,[PHO] Taurasi 3pt Shot: Missed,228,77,2,,100940,,1611661317,23,20,0,1
+00:12.5,[PHO] Cunningham Rebound (Off:1 Def:0),228,77,4,,1629482,,1611661317,23,20,0,1
+00:04.0,[PHO 26-20] Cloud 3pt Shot: Made (5 PTS) Assist: Sutton (1 AST),-144,226,1,,204333,1630134,1611661317,26,20,3,1
+00:00.0,End Period,0,-80,13,,0,,0,26,20,0,1
+00:00.0,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,26,20,0,1
+10:00,Start Period,0,-80,12,,0,,0,26,20,0,2
+09:48,[IND] Samuelson 3pt Shot: Missed,187,214,2,,1629478,,1611661325,26,20,0,2
+09:43,[PHO] Griner Rebound (Off:0 Def:1),187,214,4,,203398,,1611661317,26,20,0,2
+09:33,[PHO] Taurasi Turnover : Out of Bounds Lost Ball Turnover (1 TO),-179,-6,5,,100940,1628952,1611661317,26,20,0,2
+09:14,[IND 22-26] Boston Cutting Layup Shot: Made (10 PTS) Assist: Clark (3 AST),-13,-2,1,,1641648,1642286,1611661325,26,22,2,2
+09:02,[PHO] Sutton Turnaround Jump Shot: Missed,1,118,2,,1630134,,1611661317,26,22,0,2
+08:59,[IND] Clark Rebound (Off:0 Def:3),1,118,4,,1642286,,1611661325,26,22,0,2
+08:54,[IND 24-26] Fagbenle Running Layup Shot: Made (4 PTS) Assist: Clark (4 AST),-10,8,1,,1627701,1642286,1611661325,26,24,2,2
+08:47,[PHO] Cunningham 3pt Shot: Missed,228,-4,2,,1629482,,1611661317,26,24,0,2
+08:44,[PHO] Griner Rebound (Off:1 Def:1),228,-4,4,,203398,,1611661317,26,24,0,2
+08:38,[PHO 28-24] Taurasi Driving Finger Roll Layup Shot: Made (6 PTS) Assist: Griner (2 AST),-10,22,1,,100940,203398,1611661317,28,24,2,2
+08:20,[IND 26-28] Wheeler Step Back Jump shot: Made (2 PTS) Assist: Boston (2 AST),16,49,1,,204365,1641648,1611661325,28,26,2,2
+08:02,[PHO 31-26] Sutton 3pt Shot: Made (3 PTS),62,252,1,,1630134,,1611661317,31,26,3,2
+07:40,[IND] Wheeler 3pt Shot: Missed,182,146,2,,204365,,1611661325,31,26,0,2
+07:38,[PHO] Team Rebound,182,146,4,,0,,1611661317,31,26,0,2
+07:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,26,0,2
+07:26,[PHO] Taurasi 3pt Shot: Missed,123,212,2,,100940,,1611661317,31,26,0,2
+07:21,[IND] Clark Rebound (Off:0 Def:4),123,212,4,,1642286,,1611661325,31,26,0,2
+07:10,[IND] Samuelson 3pt Shot: Missed,167,178,2,,1629478,,1611661325,31,26,0,2
+07:08,[PHO] Allen Rebound (Off:0 Def:2),167,178,4,,204296,,1611661317,31,26,0,2
+06:58,[IND] Samuelson Foul: Personal (1 PF),-138,-6,6,1629482,1629478,1629176,1611661325,31,26,0,2
+06:58,[PHO] Taurasi Substitution replaced by Copper,0,-80,8,,100940,1627674,1611661317,31,26,0,2
+06:50,[IND] Fagbenle Foul: Personal (1 PF),32,94,6,203398,1627701,203800,1611661325,31,26,0,2
+06:50,Stoppage Other,0,-80,20,,0,,0,31,26,0,2
+06:50,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,31,26,0,2
+06:50,[PHO] Griner Technical (1 FTA),0,-80,6,,203398,203800,1611661317,31,26,0,2
+06:50,[IND 27-31] Clark Free Throw Technical (4 PTS),0,-80,3,,1642286,,1611661325,31,27,1,2
+06:42,[PHO] Allen 3pt Shot: Missed,-211,133,2,,204296,,1611661317,31,27,0,2
+06:37,[IND] Clark Rebound (Off:0 Def:5),-211,133,4,,1642286,,1611661325,31,27,0,2
+06:34,[IND] Clark Turnover : Bad Pass (4 TO) Steal:Allen (1 ST),-141,203,5,204296,1642286,,1611661325,31,27,0,2
+06:25,[PHO] Copper Running Layup Shot: Missed,11,33,2,,1627674,,1611661317,31,27,0,2
+06:17,[PHO] Griner Rebound (Off:2 Def:1),11,33,4,,203398,,1611661317,31,27,0,2
+06:17,[PHO] Griner Putback Layup Shot: Missed,0,-5,2,,203398,,1611661317,31,27,0,2
+06:16,[PHO] Allen Rebound (Off:1 Def:2),0,-5,4,,204296,,1611661317,31,27,0,2
+06:10,[PHO] Griner Turnaround Jump Shot: Missed,-9,115,2,,203398,,1611661317,31,27,0,2
+06:07,[IND] Wheeler Rebound (Off:0 Def:1),-9,115,4,,204365,,1611661325,31,27,0,2
+06:00,[IND 29-31] Clark Driving Layup Shot: Made (6 PTS),15,6,1,,1642286,,1611661325,31,29,2,2
+06:00,[PHO] Cunningham Foul: Shooting (2 PF) (1 FTA),16,10,6,1642286,1629482,203800,1611661317,31,29,0,2
+06:00,[PHO] Sutton Substitution replaced by Cloud,0,-80,8,,1630134,204333,1611661317,31,29,0,2
+06:00,[IND 30-31] Clark Free Throw 1 of 1 (7 PTS),0,-80,3,,1642286,,1611661325,31,30,1,2
+05:43,[PHO 33-30] Allen Pullup Jump shot: Made (7 PTS) Assist: Copper (1 AST),26,117,1,,204296,1627674,1611661317,33,30,2,2
+05:33,[IND] Clark 3pt Shot: Missed,200,126,2,,1642286,,1611661325,33,30,0,2
+05:28,[IND] Boston Rebound (Off:3 Def:3),200,126,4,,1641648,,1611661325,33,30,0,2
+05:27,[IND] Samuelson 3pt Shot: Missed,-132,199,2,,1629478,,1611661325,33,30,0,2
+05:27,[PHO] Allen Rebound (Off:1 Def:3),-132,199,4,,204296,,1611661317,33,30,0,2
+05:25,[IND] Wheeler Foul: Personal (2 PF),-65,736,6,204296,204365,1628952,1611661325,33,30,0,2
+05:25,Timeout : Official,0,-80,9,,0,,0,33,30,0,2
+05:25,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,33,30,0,2
+05:25,[IND] Boston Substitution replaced by Smith,0,-80,8,,1641648,1631019,1611661325,33,30,0,2
+05:14,[IND] Fagbenle Foul: Personal (2 PF),29,103,6,1630442,1627701,1628952,1611661325,33,30,0,2
+05:10,[PHO 36-30] Cloud 3pt Shot: Made (8 PTS) Assist: Cunningham (2 AST),-9,242,1,,204333,1629482,1611661317,36,30,3,2
+04:48,[PHO] Mack Foul: Shooting (2 PF) (2 FTA),-5,25,6,1627701,1630442,1628952,1611661317,36,30,0,2
+04:48,Stoppage Other,0,-80,20,,0,,0,36,30,0,2
+04:48,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,36,30,0,2
+04:48,"Double Technical - Fagbenle, Copper",0,-80,6,1627674,1627701,203800,1611661325,36,30,0,2
+04:48,"Double Technical - Wheeler, Cloud",0,-80,6,204333,204365,203800,1611661325,36,30,0,2
+04:48,[IND] Samuelson Substitution replaced by Hull,0,-80,8,,1629478,1631086,1611661325,36,30,0,2
+04:48,[PHO] Cunningham Substitution replaced by Taurasi,0,-80,8,,1629482,100940,1611661317,36,30,0,2
+04:48,[IND 31-36] Fagbenle Free Throw 1 of 2 (5 PTS),0,-80,3,,1627701,,1611661325,36,31,1,2
+04:48,[IND 32-36] Fagbenle Free Throw 2 of 2 (6 PTS),0,-80,3,,1627701,,1611661325,36,32,1,2
+04:38,[PHO 39-32] Taurasi 3pt Shot: Made (9 PTS) Assist: Cloud (3 AST),60,237,1,,100940,204333,1611661317,39,32,3,2
+04:11,[IND] Fagbenle Layup Shot: Missed,3,15,2,,1627701,,1611661325,39,32,0,2
+04:10,[IND] Fagbenle Rebound (Off:1 Def:0),3,15,4,,1627701,,1611661325,39,32,0,2
+04:08,[IND 34-39] Fagbenle Putback Layup Shot: Made (8 PTS),33,-7,1,,1627701,,1611661325,39,34,2,2
+03:46,[PHO] Copper Pullup Jump shot: Missed,-109,151,2,,1627674,,1611661317,39,34,0,2
+03:43,[IND] Smith Rebound (Off:2 Def:2),-109,151,4,,1631019,,1611661325,39,34,0,2
+03:28,[IND 36-39] Smith Turnaround Jump Shot: Made (7 PTS) Assist: Wheeler (1 AST),42,48,1,,1631019,204365,1611661325,39,36,2,2
+03:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,36,0,2
+03:19,[PHO] Allen Substitution replaced by Griner,0,-80,8,,204296,203398,1611661317,39,36,0,2
+03:19,[PHO] Mack Substitution replaced by Cunningham,0,-80,8,,1630442,1629482,1611661317,39,36,0,2
+03:19,[IND] Fagbenle Substitution replaced by Boston,0,-80,8,,1627701,1641648,1611661325,39,36,0,2
+03:13,[PHO 41-36] Griner Layup Shot: Made (9 PTS),-55,27,1,,203398,,1611661317,41,36,2,2
+02:58,[PHO] Cloud Foul: Personal (4 PF),31,22,6,1641648,204333,1628952,1611661317,41,36,0,2
+02:58,Timeout : Regular,0,-80,9,,1611661317,,1611661317,41,36,0,2
+02:55,[IND] Clark 3pt Shot: Missed,148,246,2,,1642286,,1611661325,41,36,0,2
+02:51,[PHO] Copper Rebound (Off:0 Def:2),148,246,4,,1627674,,1611661317,41,36,0,2
+02:36,[PHO] Taurasi Driving Floating Bank Jump Shot: Missed,57,142,2,,100940,,1611661317,41,36,0,2
+02:34,[IND] Smith Rebound (Off:2 Def:3),57,142,4,,1631019,,1611661325,41,36,0,2
+02:34,[IND] Smith Turnover : Step Out of Bounds Turnover (1 TO),163,865,5,,1631019,1628952,1611661325,41,36,0,2
+02:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,36,0,2
+02:27,[PHO 43-36] Griner Jump Shot: Made (11 PTS) Assist: Cloud (4 AST),-139,112,1,,203398,204333,1611661317,43,36,2,2
+02:15,[IND] Clark Turnover : Bad Pass (5 TO) Steal:Taurasi (2 ST),57,53,5,100940,1642286,,1611661325,43,36,0,2
+02:09,[IND] Hull Foul: Personal (1 PF) (2 FTA),11,141,6,100940,1631086,203800,1611661325,43,36,0,2
+02:09,[PHO 44-36] Taurasi Free Throw 1 of 2 (10 PTS),0,-80,3,,100940,,1611661317,44,36,1,2
+02:09,[PHO 45-36] Taurasi Free Throw 2 of 2 (11 PTS),0,-80,3,,100940,,1611661317,45,36,1,2
+01:59,[PHO] Griner Foul: Personal (2 PF),6,60,6,1642286,203398,203800,1611661317,45,36,0,2
+01:59,[PHO] Cloud Substitution replaced by Dixon,0,-80,8,,204333,1641700,1611661317,45,36,0,2
+01:44,[IND] Team Turnover : Shot Clock Turnover,101,134,5,,0,1628952,1611661325,45,36,0,2
+01:36,[PHO] Copper Turnover : Bad Pass (1 TO) Steal:Wheeler (1 ST),97,141,5,204365,1627674,,1611661317,45,36,0,2
+01:34,[PHO] Taurasi Foul: Shooting (2 PF) (2 FTA),-1,37,6,204365,100940,1629176,1611661317,45,36,0,2
+01:34,[IND 37-45] Wheeler Free Throw 1 of 2 (3 PTS),0,-80,3,,204365,,1611661325,45,37,1,2
+01:34,[PHO] Dixon Substitution replaced by Cloud,0,-80,8,,1641700,204333,1611661317,45,37,0,2
+01:34,[IND 38-45] Wheeler Free Throw 2 of 2 (4 PTS),0,-80,3,,204365,,1611661325,45,38,1,2
+01:19,[IND] Boston Foul: Personal (2 PF) (2 FTA),-43,65,6,203398,1641648,1629176,1611661325,45,38,0,2
+01:19,[PHO 46-38] Griner Free Throw 1 of 2 (12 PTS),0,-80,3,,203398,,1611661317,46,38,1,2
+01:19,[PHO] Cloud Substitution replaced by Dixon,0,-80,8,,204333,1641700,1611661317,46,38,0,2
+01:19,[PHO 47-38] Griner Free Throw 2 of 2 (13 PTS),0,-80,3,,203398,,1611661317,47,38,1,2
+01:00,[IND] Clark 3pt Shot: Missed,222,164,2,,1642286,,1611661325,47,38,0,2
+00:56.5,[PHO] Team Rebound,222,164,4,,0,,1611661317,47,38,0,2
+00:56.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,38,0,2
+00:56.5,[PHO] Dixon Substitution replaced by Cloud,0,-80,8,,1641700,204333,1611661317,47,38,0,2
+00:45.8,[IND] Smith Foul: Flagrant Type 1 (1 PF) (2 FTA),62,67,6,100940,1631019,203800,1611661325,47,38,0,2
+00:45.8,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,47,38,0,2
+00:45.8,[PHO 48-38] Taurasi Free Throw Flagrant 1 of 2 (12 PTS),0,-80,3,,100940,,1611661317,48,38,1,2
+00:45.8,[PHO 49-38] Taurasi Free Throw Flagrant 2 of 2 (13 PTS),0,-80,3,,100940,,1611661317,49,38,1,2
+00:45.8,[PHO] Cloud Substitution replaced by Dixon,0,-80,8,,204333,1641700,1611661317,49,38,0,2
+00:45.8,[IND] Smith Substitution replaced by Fagbenle,0,-80,8,,1631019,1627701,1611661325,49,38,0,2
+00:37.5,[PHO] Copper Layup Shot: Missed,32,21,2,,1627674,,1611661317,49,38,0,2
+00:35.5,[PHO] Team Rebound,32,21,4,,0,,1611661317,49,38,0,2
+00:26.6,[PHO] Dixon Layup Shot: Missed,-20,15,2,,1641700,,1611661317,49,38,0,2
+00:24.5,[IND] Boston Rebound (Off:3 Def:4),-20,15,4,,1641648,,1611661325,49,38,0,2
+00:07.1,[IND] Wheeler Jump Shot: Missed,-45,121,2,,204365,,1611661325,49,38,0,2
+00:04.3,[PHO] Copper Rebound (Off:0 Def:3),-45,121,4,,1627674,,1611661317,49,38,0,2
+00:00.3,[PHO] Copper 3pt Shot: Missed,-157,230,2,,1627674,,1611661317,49,38,0,2
+00:00.3,[PHO] Team Rebound,-157,230,4,,0,,1611661317,49,38,0,2
+00:00.0,End Period,0,-80,13,,0,,0,49,38,0,2
+10:00,Start Period,0,-80,12,,0,,0,49,38,0,3
+09:42,[IND] Boston Turnover : Traveling (1 TO),-34,98,5,,1641648,1628952,1611661325,49,38,0,3
+09:28,[PHO 51-38] Griner Turnaround Jump Shot: Made (15 PTS) Assist: Copper (2 AST),-111,-16,1,,203398,1627674,1611661317,51,38,2,3
+09:09,[IND] Clark Turnover : Bad Pass (6 TO) Steal:Copper (1 ST),189,200,5,1627674,1642286,,1611661325,51,38,0,3
+08:53,[PHO] Copper 3pt Shot: Missed,-200,133,2,,1627674,,1611661317,51,38,0,3
+08:47,[IND] Smith Rebound (Off:2 Def:4),-200,133,4,,1631019,,1611661325,51,38,0,3
+08:42,[PHO] Griner Foul: Shooting (3 PF) (2 FTA),12,27,6,1641648,203398,1628952,1611661317,51,38,0,3
+08:42,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,51,38,0,3
+08:42,[IND] Team Rebound,0,-80,4,,0,,1611661325,51,38,0,3
+08:42,[IND] Boston Free Throw 2 of 2 Missed,0,-80,3,,1641648,,1611661325,51,38,0,3
+08:39,[PHO] Allen Rebound (Off:1 Def:4),0,-80,4,,204296,,1611661317,51,38,0,3
+08:24,[PHO] Griner Floating Jump shot: Missed,22,37,2,,203398,,1611661317,51,38,0,3
+08:22,[IND] Smith Rebound (Off:2 Def:5),22,37,4,,1631019,,1611661325,51,38,0,3
+08:15,[PHO] Copper Foul: Personal (3 PF),82,59,6,1628929,1627674,1628952,1611661317,51,38,0,3
+08:09,[IND] Wallace 3pt Shot: Missed,-232,-1,2,,1628929,,1611661325,51,38,0,3
+08:06,[PHO] Allen Rebound (Off:1 Def:5),-232,-1,4,,204296,,1611661317,51,38,0,3
+07:58,[PHO 53-38] Cloud Driving Finger Roll Layup Shot: Made (10 PTS),39,14,1,,204333,,1611661317,53,38,2,3
+07:45,[IND 40-53] Clark Driving Layup Shot: Made (9 PTS),26,22,1,,1642286,,1611661325,53,40,2,3
+07:23,[PHO] Taurasi 3pt Shot: Missed,4,263,2,,100940,,1611661317,53,40,0,3
+07:18,[IND] Clark Rebound (Off:0 Def:6),4,263,4,,1642286,,1611661325,53,40,0,3
+07:08,[IND] Boston Cutting Layup Shot: Missed,-37,19,2,,1641648,,1611661325,53,40,0,3
+07:05,[IND] Smith Rebound (Off:3 Def:5),-37,19,4,,1631019,,1611661325,53,40,0,3
+07:05,[IND 42-53] Smith Putback Layup Shot: Made (9 PTS),-15,19,1,,1631019,,1611661325,53,42,2,3
+06:49,[PHO] Cloud Driving Layup Shot: Missed,27,27,2,,204333,,1611661317,53,42,0,3
+06:47,[IND] Boston Rebound (Off:3 Def:5),27,27,4,,1641648,,1611661325,53,42,0,3
+06:44,[IND 45-53] Mitchell 3pt Shot: Made (3 PTS) Assist: Clark (5 AST),232,50,1,,1628909,1642286,1611661325,53,45,3,3
+06:16,[PHO] Griner Turnover : Bad Pass (1 TO) Steal:Mitchell (1 ST),-97,8,5,1628909,203398,,1611661317,53,45,0,3
+06:09,[IND] Mitchell 3pt Shot: Missed,-226,88,2,,1628909,,1611661325,53,45,0,3
+06:06,[IND] Team Rebound,-226,88,4,,0,,1611661325,53,45,0,3
+06:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,45,0,3
+06:06,[PHO] Griner Substitution replaced by Dixon,0,-80,8,,203398,1641700,1611661317,53,45,0,3
+06:06,[IND] Team Turnover : 5 Second Violation,122,-32,5,,0,203800,1611661325,53,45,0,3
+05:56,[PHO] Taurasi 3pt Shot: Missed,-134,199,2,,100940,,1611661317,53,45,0,3
+05:52,[IND] Clark Rebound (Off:0 Def:7),-134,199,4,,1642286,,1611661325,53,45,0,3
+05:48,[IND 48-53] Clark 3pt Shot: Made (12 PTS),-9,311,1,,1642286,,1611661325,53,48,3,3
+05:34,[PHO 55-48] Allen Driving Layup Shot: Made (9 PTS),-21,1,1,,204296,,1611661317,55,48,2,3
+05:27,[IND 50-55] Wallace Cutting Layup Shot: Made (4 PTS) Assist: Clark (6 AST),7,18,1,,1628929,1642286,1611661325,55,50,2,3
+05:27,Timeout : Regular,0,-80,9,,1611661317,,1611661317,55,50,0,3
+05:21,[PHO] Taurasi Foul: Offensive (3 PF),31,256,6,1628909,100940,203800,1611661317,55,50,0,3
+05:21,[PHO] Taurasi Turnover : Offensive Foul Turnover (2 TO),31,256,5,,100940,203800,1611661317,55,50,0,3
+04:54,[IND 52-55] Boston Layup Shot: Made (12 PTS),0,42,1,,1641648,,1611661325,55,52,2,3
+04:46,[PHO] Taurasi 3pt Shot: Missed,-50,239,2,,100940,,1611661317,55,52,0,3
+04:46,[PHO] Team Rebound,-50,239,4,,0,,1611661317,55,52,0,3
+04:46,[IND] Boston Foul: Loose Ball (3 PF),16,89,6,100940,1641648,1628952,1611661325,55,52,0,3
+04:46,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,55,52,0,3
+04:42,[PHO] Cloud 3pt Shot: Missed,-79,228,2,,204333,,1611661317,55,52,0,3
+04:39,[IND] Smith Rebound (Off:3 Def:6),-79,228,4,,1631019,,1611661325,55,52,0,3
+04:33,[IND 54-55] Boston Running Layup Shot: Made (14 PTS) Assist: Clark (7 AST),-1,23,1,,1641648,1642286,1611661325,55,54,2,3
+04:26,[PHO] Allen 3pt Shot: Missed,210,113,2,,204296,,1611661317,55,54,0,3
+04:22,[IND] Clark Rebound (Off:0 Def:8),210,113,4,,1642286,,1611661325,55,54,0,3
+04:05,[IND 57-55] Mitchell 3pt Shot: Made (6 PTS) Assist: Boston (3 AST),-146,196,1,,1628909,1641648,1611661325,55,57,3,3
+03:50,[PHO] Cloud Driving Layup Shot: Missed,15,16,2,,204333,,1611661317,55,57,0,3
+03:49,[PHO] Dixon Rebound (Off:1 Def:0),15,16,4,,1641700,,1611661317,55,57,0,3
+03:44,[PHO] Copper 3pt Shot: Missed,21,232,2,,1627674,,1611661317,55,57,0,3
+03:39,[IND] Mitchell Rebound (Off:0 Def:3),21,232,4,,1628909,,1611661325,55,57,0,3
+03:32,[IND 60-55] Mitchell 3pt Shot: Made (9 PTS) Assist: Clark (8 AST),195,140,1,,1628909,1642286,1611661325,55,60,3,3
+03:18,[PHO] Copper Turnover : Lost Ball (2 TO),-7,167,5,,1627674,,1611661317,55,60,0,3
+03:18,[PHO] Copper Foul: Loose Ball (4 PF),41,765,6,1631019,1627674,1629176,1611661317,55,60,0,3
+03:18,[PHO] Dixon Substitution replaced by Griner,0,-80,8,,1641700,203398,1611661317,55,60,0,3
+02:59,[IND] Clark 3pt Shot: Missed,108,285,2,,1642286,,1611661325,55,60,0,3
+02:56,[PHO] Cloud Rebound (Off:0 Def:3),108,285,4,,204333,,1611661317,55,60,0,3
+02:52,[IND] Boston Foul: Personal (4 PF),-81,100,6,203398,1641648,1628952,1611661325,55,60,0,3
+02:52,[PHO] Copper Substitution replaced by Taurasi,0,-80,8,,1627674,100940,1611661317,55,60,0,3
+02:49,[IND] Wallace Foul: Personal (1 PF),144,24,6,100940,1628929,203800,1611661325,55,60,0,3
+02:46,[PHO] Allen Turnover : Traveling (1 TO),3,289,5,,204296,203800,1611661317,55,60,0,3
+02:33,[IND 63-55] Smith 3pt Shot: Made (12 PTS) Assist: Clark (9 AST),235,11,1,,1631019,1642286,1611661325,55,63,3,3
+02:18,[PHO] Taurasi Turnover : Kicked Ball Violation (3 TO),-34,99,5,,100940,,1611661317,55,63,0,3
+02:18,[PHO] Allen Substitution replaced by Sutton,0,-80,8,,204296,1630134,1611661317,55,63,0,3
+02:18,[IND] Boston Substitution replaced by Fagbenle,0,-80,8,,1641648,1627701,1611661325,55,63,0,3
+02:08,[PHO] Cunningham Foul: Personal (3 PF),45,102,6,1627701,1629482,1628952,1611661317,55,63,0,3
+01:56,[IND 65-55] Fagbenle Driving Reverse Layup Shot: Made (10 PTS) Assist: Clark (10 AST),15,15,1,,1627701,1642286,1611661325,55,65,2,3
+01:45,[IND] Fagbenle Foul: Shooting (4 PF) (2 FTA),1,49,6,204333,1627701,1628952,1611661325,55,65,0,3
+01:45,[PHO 56-65] Cloud Free Throw 1 of 2 (11 PTS),0,-80,3,,204333,,1611661317,56,65,1,3
+01:45,[PHO] Cloud Free Throw 2 of 2 Missed,0,-80,3,,204333,,1611661317,56,65,0,3
+01:41,[PHO] Taurasi Rebound (Off:1 Def:1),0,-80,4,,100940,,1611661317,56,65,0,3
+01:40,[PHO 59-65] Taurasi 3pt Shot: Made (16 PTS),20,257,1,,100940,,1611661317,59,65,3,3
+01:29,[IND] Mitchell Foul: Offensive (1 PF),69,255,6,1630134,1628909,1629176,1611661325,59,65,0,3
+01:29,[IND] Mitchell Turnover : Offensive Foul Turnover (1 TO),69,255,5,,1628909,1629176,1611661325,59,65,0,3
+01:14,[PHO 61-65] Griner Turnaround Hook Shot: Made (17 PTS) Assist: Cloud (5 AST),46,86,1,,203398,204333,1611661317,61,65,2,3
+01:14,[IND] Fagbenle Foul: Shooting (5 PF) (1 FTA),43,86,6,203398,1627701,1628952,1611661325,61,65,0,3
+01:14,[PHO 62-65] Griner Free Throw 1 of 1 (18 PTS),0,-80,3,,203398,,1611661317,62,65,1,3
+00:52.8,[IND] Wallace Pullup Jump shot: Missed,-118,145,2,,1628929,,1611661325,62,65,0,3
+00:49.5,[IND] Fagbenle Rebound (Off:2 Def:0),-118,145,4,,1627701,,1611661325,62,65,0,3
+00:37.8,[IND] Smith 3pt Shot: Missed,143,193,2,,1631019,,1611661325,62,65,0,3
+00:35.9,[PHO] Team Rebound,143,193,4,,0,,1611661317,62,65,0,3
+00:35.9,[IND] Fagbenle Foul: Loose Ball (6 PF) (2 FTA),-73,792,6,1629482,1627701,1628952,1611661325,62,65,0,3
+00:35.9,[PHO 63-65] Cunningham Free Throw 1 of 2 (1 PTS),0,-80,3,,1629482,,1611661317,63,65,1,3
+00:35.9,[PHO] Taurasi Substitution replaced by Dixon,0,-80,8,,100940,1641700,1611661317,63,65,0,3
+00:35.9,[PHO] Griner Substitution replaced by Copper,0,-80,8,,203398,1627674,1611661317,63,65,0,3
+00:35.9,[PHO 64-65] Cunningham Free Throw 2 of 2 (2 PTS),0,-80,3,,1629482,,1611661317,64,65,1,3
+00:19.6,[IND 67-64] Wallace Cutting Layup Shot: Made (6 PTS) Assist: Mitchell (1 AST),-10,72,1,,1628929,1628909,1611661325,64,67,2,3
+00:02.9,[PHO] Copper 3pt Shot: Missed,-156,185,2,,1627674,,1611661317,64,67,0,3
+00:01.5,[PHO] Team Rebound,-156,185,4,,0,,1611661317,64,67,0,3
+00:00.0,Jump Ball Copper vs Fagbenle,0,-80,10,1627701,1627674,,1611661317,64,67,0,3
+00:00.0,End Period,0,-80,13,,0,,0,64,67,0,3
+10:00,Start Period,0,-80,12,,0,,0,64,67,0,4
+09:47,[PHO] Griner Pullup Jump shot: Missed,37,69,2,,203398,,1611661317,64,67,0,4
+09:42,[IND] Smith Rebound (Off:3 Def:7),37,69,4,,1631019,,1611661325,64,67,0,4
+09:37,[IND] Clark 3pt Shot: Missed,96,237,2,,1642286,,1611661325,64,67,0,4
+09:34,[PHO] Allen Rebound (Off:1 Def:6),96,237,4,,204296,,1611661317,64,67,0,4
+09:25,[PHO] Sutton 3pt Shot: Missed,-194,138,2,,1630134,,1611661317,64,67,0,4
+09:22,[IND] Smith Rebound (Off:3 Def:8),-194,138,4,,1631019,,1611661325,64,67,0,4
+09:15,[IND] Clark Driving Floating Bank Jump Shot: Missed,81,29,2,,1642286,,1611661325,64,67,0,4
+09:12,[PHO] Griner Rebound (Off:2 Def:2),81,29,4,,203398,,1611661317,64,67,0,4
+09:01,[PHO 66-67] Griner Jump Shot: Made (20 PTS) Assist: Sutton (2 AST),-97,-18,1,,203398,1630134,1611661317,66,67,2,4
+08:44,[IND] Smith Jump Shot: Missed,-182,53,2,,1631019,,1611661325,66,67,0,4
+08:41,[PHO] Allen Rebound (Off:1 Def:7),-182,53,4,,204296,,1611661317,66,67,0,4
+08:36,[IND] Clark Foul: Shooting (3 PF) (2 FTA),-82,8,6,100940,1642286,1628952,1611661325,66,67,0,4
+08:36,[PHO 67-67] Taurasi Free Throw 1 of 2 (17 PTS),0,-80,3,,100940,,1611661317,67,67,1,4
+08:36,[PHO 68-67] Taurasi Free Throw 2 of 2 (18 PTS),0,-80,3,,100940,,1611661317,68,67,1,4
+08:25,[IND] Clark 3pt Shot: Missed,-40,286,2,,1642286,,1611661325,68,67,0,4
+08:23,[PHO] Allen Rebound (Off:1 Def:8),-40,286,4,,204296,,1611661317,68,67,0,4
+08:14,[PHO] Taurasi Turnover : Out of Bounds Lost Ball Turnover (4 TO),93,-10,5,,100940,1628952,1611661317,68,67,0,4
+08:14,Timeout : Regular,0,-80,9,,1611661317,,1611661317,68,67,0,4
+08:14,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661317,68,67,0,4
+08:14,[PHO] Griner Substitution replaced by Copper,0,-80,8,,203398,1627674,1611661317,68,67,0,4
+08:14,[PHO] Taurasi Substitution replaced by Cloud,0,-80,8,,100940,204333,1611661317,68,67,0,4
+07:58,[IND] Wheeler Turnover : Bad Pass (1 TO) Steal:Cloud (2 ST),-94,302,5,204333,204365,,1611661325,68,67,0,4
+07:39,[PHO] Allen Driving Layup Shot: Missed,21,0,2,,204296,,1611661317,68,67,0,4
+07:37,[IND] Smith Rebound (Off:3 Def:9),21,0,4,,1631019,,1611661325,68,67,0,4
+07:21,[IND 69-68] Wheeler Driving Layup Shot: Made (6 PTS) Assist: Boston (4 AST),34,12,1,,204365,1641648,1611661325,68,69,2,4
+07:03,[PHO] Cloud Step Back Jump shot: Missed,123,148,2,,204333,,1611661317,68,69,0,4
+07:00,[IND] Samuelson Rebound (Off:0 Def:1),123,148,4,,1629478,,1611661325,68,69,0,4
+06:43,[IND] Boston Foul: Offensive (5 PF),23,62,6,1629482,1641648,1628952,1611661325,68,69,0,4
+06:43,[IND] Boston Turnover : Offensive Foul Turnover (2 TO),23,62,5,,1641648,1628952,1611661325,68,69,0,4
+06:43,[PHO] Sutton Substitution replaced by Taurasi,0,-80,8,,1630134,100940,1611661317,68,69,0,4
+06:43,[PHO] Allen Substitution replaced by Griner,0,-80,8,,204296,203398,1611661317,68,69,0,4
+06:43,[IND] Boston Substitution replaced by Fagbenle,0,-80,8,,1641648,1627701,1611661325,68,69,0,4
+06:36,[PHO] Copper Pullup Jump shot: Missed Block: Samuelson (1 BLK),93,121,2,1629478,1627674,,1611661317,68,69,0,4
+06:33,[IND] Smith Rebound (Off:3 Def:10),93,121,4,,1631019,,1611661325,68,69,0,4
+06:11,[IND] Samuelson 3pt Shot: Missed,-139,284,2,,1629478,,1611661325,68,69,0,4
+06:08,[PHO] Taurasi Rebound (Off:1 Def:2),-139,284,4,,100940,,1611661317,68,69,0,4
+05:58,[PHO 71-69] Cunningham 3pt Shot: Made (5 PTS) Assist: Taurasi (3 AST),227,44,1,,1629482,100940,1611661317,71,69,3,4
+05:55,Timeout : Regular,0,-80,9,,1611661325,,1611661325,71,69,0,4
+05:55,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,71,69,0,4
+05:39,[IND] Fagbenle Turnover : Lost Ball (1 TO) Steal:Cloud (3 ST),10,58,5,204333,1627701,,1611661325,71,69,0,4
+05:23,[PHO 73-69] Griner Turnaround Hook Shot: Made (22 PTS) Assist: Cloud (6 AST),67,1,1,,203398,204333,1611661317,73,69,2,4
+05:23,[IND] Smith Foul: Shooting (2 PF) (1 FTA),62,8,6,203398,1631019,203800,1611661325,73,69,0,4
+05:23,[IND] Fagbenle Substitution replaced by Boston,0,-80,8,,1627701,1641648,1611661325,73,69,0,4
+05:23,[PHO 74-69] Griner Free Throw 1 of 1 (23 PTS),0,-80,3,,203398,,1611661317,74,69,1,4
+04:58,[IND] Smith Driving Layup Shot: Missed,-28,6,2,,1631019,,1611661325,74,69,0,4
+04:56,[PHO] Cloud Rebound (Off:0 Def:4),-28,6,4,,204333,,1611661317,74,69,0,4
+04:39,[PHO] Taurasi Turnover : Bad Pass (5 TO) Steal:Smith (1 ST),-135,113,5,1631019,100940,,1611661317,74,69,0,4
+04:34,[IND] Mitchell 3pt Shot: Missed,-233,59,2,,1628909,,1611661325,74,69,0,4
+04:30,[PHO] Griner Rebound (Off:2 Def:3),-233,59,4,,203398,,1611661317,74,69,0,4
+04:21,[PHO 76-69] Copper Driving Layup Shot: Made (7 PTS) Assist: Cloud (7 AST),21,1,1,,1627674,204333,1611661317,76,69,2,4
+04:20,Timeout : Regular,0,-80,9,,1611661325,,1611661325,76,69,0,4
+04:09,[IND] Mitchell Layup Shot: Missed Block: Griner (1 BLK),33,13,2,203398,1628909,,1611661325,76,69,0,4
+04:05,[PHO] Cloud Rebound (Off:0 Def:5),33,13,4,,204333,,1611661317,76,69,0,4
+03:49,[PHO] Cunningham Turnover : Bad Pass (1 TO) Steal:Smith (2 ST),-200,170,5,1631019,1629482,,1611661317,76,69,0,4
+03:27,[IND 72-76] Samuelson 3pt Shot: Made (3 PTS) Assist: Clark (11 AST),162,209,1,,1629478,1642286,1611661325,76,72,3,4
+03:05,[PHO 78-72] Cloud Driving Layup Shot: Made (13 PTS),27,6,1,,204333,,1611661317,78,72,2,4
+02:39,[IND 75-78] Boston 3pt Shot: Made (17 PTS) Assist: Clark (12 AST),235,18,1,,1641648,1642286,1611661325,78,75,3,4
+02:22,[PHO] Taurasi 3pt Shot: Missed,182,197,2,,100940,,1611661317,78,75,0,4
+02:19,[IND] Clark Rebound (Off:0 Def:9),182,197,4,,1642286,,1611661325,78,75,0,4
+02:17,[PHO] Cloud Foul: Flagrant Type 1 (5 PF) (2 FTA),-20,53,6,1629478,204333,203800,1611661317,78,75,0,4
+02:17,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,78,75,0,4
+02:17,[IND 76-78] Samuelson Free Throw Flagrant 1 of 2 (4 PTS),0,-80,3,,1629478,,1611661325,78,76,1,4
+02:17,[IND 77-78] Samuelson Free Throw Flagrant 2 of 2 (5 PTS),0,-80,3,,1629478,,1611661325,78,77,1,4
+02:11,[IND] Boston Turnover : Bad Pass (3 TO) Steal:Cloud (4 ST),-95,42,5,204333,1641648,,1611661325,78,77,0,4
+01:56,[PHO] Copper Turnover : Lost Ball (3 TO),-2,68,5,,1627674,,1611661317,78,77,0,4
+01:56,[PHO] Copper Foul: Loose Ball (5 PF),-15,771,6,1628909,1627674,203800,1611661317,78,77,0,4
+01:49,[PHO] Copper Foul: Personal (6 PF) (2 FTA),-40,399,6,1642286,1627674,1629176,1611661317,78,77,0,4
+01:49,[IND 78-78] Clark Free Throw 1 of 2 (13 PTS),0,-80,3,,1642286,,1611661325,78,78,1,4
+01:49,[IND] Clark Free Throw 2 of 2 Missed,0,-80,3,,1642286,,1611661325,78,78,0,4
+01:47,[PHO] Griner Rebound (Off:2 Def:4),0,-80,4,,203398,,1611661317,78,78,0,4
+01:37,[IND] Smith Foul: Shooting (3 PF) (2 FTA),-19,27,6,204333,1631019,1629176,1611661325,78,78,0,4
+01:37,[PHO 79-78] Cloud Free Throw 1 of 2 (14 PTS),0,-80,3,,204333,,1611661317,79,78,1,4
+01:37,[PHO 80-78] Cloud Free Throw 2 of 2 (15 PTS),0,-80,3,,204333,,1611661317,80,78,1,4
+01:21,[IND 80-80] Mitchell Pullup Jump shot: Made (11 PTS) Assist: Smith (1 AST),-107,135,1,,1628909,1631019,1611661325,80,80,2,4
+01:21,[PHO] Cunningham Foul: Shooting (4 PF) (1 FTA),-95,142,6,1628909,1629482,203800,1611661317,80,80,0,4
+01:21,[IND 81-80] Mitchell Free Throw 1 of 1 (12 PTS),0,-80,3,,1628909,,1611661325,80,81,1,4
+01:10,[IND] Smith Foul: Shooting (4 PF) (2 FTA),29,14,6,203398,1631019,203800,1611661325,80,81,0,4
+01:10,[PHO 81-81] Griner Free Throw 1 of 2 (24 PTS),0,-80,3,,203398,,1611661317,81,81,1,4
+01:10,[PHO] Griner Free Throw 2 of 2 Missed,0,-80,3,,203398,,1611661317,81,81,0,4
+01:06,[IND] Smith Rebound (Off:3 Def:11),0,-80,4,,1631019,,1611661325,81,81,0,4
+00:45.1,[IND] Samuelson 3pt Shot: Missed,7,255,2,,1629478,,1611661325,81,81,0,4
+00:42.7,[IND] Smith Rebound (Off:4 Def:11),7,255,4,,1631019,,1611661325,81,81,0,4
+00:41.9,[IND] Smith Turnover : Lost Ball (2 TO) Steal:Taurasi (3 ST),-20,72,5,100940,1631019,,1611661325,81,81,0,4
+00:41.5,[IND] Smith Foul: Personal (5 PF) (2 FTA),-2,739,6,100940,1631019,203800,1611661325,81,81,0,4
+00:41.5,[PHO] Taurasi Free Throw 1 of 2 Missed,0,-80,3,,100940,,1611661317,81,81,0,4
+00:41.5,[PHO] Team Rebound,0,-80,4,,0,,1611661317,81,81,0,4
+00:41.5,[PHO 82-81] Taurasi Free Throw 2 of 2 (19 PTS),0,-80,3,,100940,,1611661317,82,81,1,4
+00:41.5,Timeout : Regular,0,-80,9,,1611661325,,1611661325,82,81,0,4
+00:36.3,[IND 83-82] Mitchell Jump Shot: Made (14 PTS) Assist: Samuelson (1 AST),121,141,1,,1628909,1629478,1611661325,82,83,2,4
+00:35.6,Timeout : Reset,0,-80,9,,1611661317,,1611661317,82,83,0,4
+00:35.6,[IND] Clark Substitution replaced by Wallace,0,-80,8,,1642286,1628929,1611661325,82,83,0,4
+00:35.6,[IND] Samuelson Substitution replaced by Wheeler,0,-80,8,,1629478,204365,1611661325,82,83,0,4
+00:30.4,[PHO] Cloud Pullup Jump shot: Missed,157,111,2,,204333,,1611661317,82,83,0,4
+00:24.5,[IND] Wallace Rebound (Off:0 Def:1),157,111,4,,1628929,,1611661325,82,83,0,4
+00:21.0,Timeout : Regular,0,-80,9,,1611661325,,1611661325,82,83,0,4
+00:21.0,[PHO] Copper Substitution replaced by Sutton,0,-80,8,,1627674,1630134,1611661317,82,83,0,4
+00:21.0,[IND] Smith Substitution replaced by Clark,0,-80,8,,1631019,1642286,1611661325,82,83,0,4
+00:21.0,[IND] Wallace Substitution replaced by Samuelson,0,-80,8,,1628929,1629478,1611661325,82,83,0,4
+00:19.9,[PHO] Sutton Foul: Personal Take (1 PF) (2 FTA),111,72,6,1642286,1630134,1628952,1611661317,82,83,0,4
+00:19.9,[IND 84-82] Clark Free Throw 1 of 2 (14 PTS),0,-80,3,,1642286,,1611661325,82,84,1,4
+00:19.9,[IND] Samuelson Substitution replaced by Wallace,0,-80,8,,1629478,1628929,1611661325,82,84,0,4
+00:19.9,[IND 85-82] Clark Free Throw 2 of 2 (15 PTS),0,-80,3,,1642286,,1611661325,82,85,1,4
+00:19.9,Timeout : Regular,0,-80,9,,1611661317,,1611661317,82,85,0,4
+00:19.9,[PHO] Sutton Substitution replaced by Copper,0,-80,8,,1630134,1627674,1611661317,82,85,0,4
+00:19.9,[IND] Clark Substitution replaced by Samuelson,0,-80,8,,1642286,1629478,1611661325,82,85,0,4
+00:17.0,[PHO] Griner Turnover : Lost Ball (2 TO) Steal:Wheeler (2 ST),-28,160,5,204365,203398,,1611661317,82,85,0,4
+00:12.9,[PHO] Copper Foul: Personal Take (7 PF) (2 FTA),-135,595,6,1628909,1627674,1629176,1611661317,82,85,0,4
+00:12.9,[PHO] Copper Substitution replaced by Sutton,0,-80,8,,1627674,1630134,1611661317,82,85,0,4
+00:12.9,[IND 86-82] Mitchell Free Throw 1 of 2 (15 PTS),0,-80,3,,1628909,,1611661325,82,86,1,4
+00:12.9,[IND 87-82] Mitchell Free Throw 2 of 2 (16 PTS),0,-80,3,,1628909,,1611661325,82,87,1,4
+00:12.9,Timeout : Regular,0,-80,9,,1611661317,,1611661317,82,87,0,4
+00:09.9,[PHO] Taurasi 3pt Shot: Missed,-228,92,2,,100940,,1611661317,82,87,0,4
+00:07.4,[IND] Wallace Rebound (Off:0 Def:2),-228,92,4,,1628929,,1611661325,82,87,0,4
+00:07.4,[PHO] Cunningham Foul: Personal Take (5 PF) (2 FTA),84,838,6,1628929,1629482,1628952,1611661317,82,87,0,4
+00:07.4,[IND] Wallace Free Throw 1 of 2 Missed,0,-80,3,,1628929,,1611661325,82,87,0,4
+00:07.4,[IND] Team Rebound,0,-80,4,,0,,1611661325,82,87,0,4
+00:07.4,[IND 88-82] Wallace Free Throw 2 of 2 (7 PTS),0,-80,3,,1628929,,1611661325,82,88,1,4
+00:04.4,[PHO] Cloud 3pt Shot: Missed,156,193,2,,204333,,1611661317,82,88,0,4
+00:04.4,[IND] Wallace Rebound (Off:0 Def:3),156,193,4,,1628929,,1611661325,82,88,0,4
+00:00.0,End Period,0,-80,13,,0,,0,82,88,0,4

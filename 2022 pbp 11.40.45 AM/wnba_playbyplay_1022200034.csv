@@ -1,0 +1,426 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:54,Jump Ball Wilson vs Turner (Hamby gains possession),0,-80,10,1629488,1628932,204324,1611661319,0,0,1
+09:41,[LVA] Young 3pt Shot: Missed,-206,121,2,,1629498,,1611661319,0,0,1
+09:35,[PHO] Peddy Rebound (Off:0 Def:1),-206,121,4,,203035,,1611661317,0,0,1
+09:18,[PHO] Taurasi 3pt Shot: Missed,-123,229,2,,100940,,1611661317,0,0,1
+09:15,[PHO] Turner Rebound (Off:1 Def:0),-123,229,4,,1629488,,1611661317,0,0,1
+09:14,[PHO] Turner Turnover : Bad Pass (1 TO) Steal:Young (1 ST),46,25,5,1629498,1629488,,1611661317,0,0,1
+09:07,[LVA] Young Running Jump Shot: Missed,-90,107,2,,1629498,,1611661319,0,0,1
+09:04,[PHO] Taurasi Rebound (Off:0 Def:1),-90,107,4,,100940,,1611661317,0,0,1
+09:03,[PHO] Turner Running Layup Shot: Missed,-13,10,2,,1629488,,1611661317,0,0,1
+08:59,[LVA] Plum Rebound (Off:0 Def:1),-13,10,4,,1628276,,1611661319,0,0,1
+08:53,[LVA 2-0] Wilson Jump Shot: Made (2 PTS) Assist: Young (1 AST),-117,55,1,,1628932,1629498,1611661319,2,0,1
+08:29,[PHO 2-2] Peddy Driving Floating Jump Shot: Made (2 PTS),-4,48,1,,203035,,1611661317,2,2,1
+08:18,[LVA] Wilson 3pt Shot: Missed,152,209,2,,1628932,,1611661319,2,2,1
+08:15,[PHO] Charles Rebound (Off:0 Def:1),152,209,4,,202250,,1611661317,2,2,1
+08:06,[PHO 5-2] Charles 3pt Shot: Made (3 PTS) Assist: Taurasi (1 AST),44,242,1,,202250,100940,1611661317,2,5,1
+07:58,[PHO] Peddy Foul: Personal (1 PF),-112,131,6,1628276,203035,,1611661317,2,5,1
+07:53,[LVA] Plum 3pt Shot: Missed,133,238,2,,1628276,,1611661319,2,5,1
+07:49,[LVA] Wilson Rebound (Off:1 Def:0),133,238,4,,1628932,,1611661319,2,5,1
+07:47,[LVA] Gray 3pt Shot: Missed,-182,185,2,,203833,,1611661319,2,5,1
+07:42,[PHO] Charles Rebound (Off:0 Def:2),-182,185,4,,202250,,1611661317,2,5,1
+07:34,[PHO 7-2] Charles Pullup Jump shot: Made (5 PTS) Assist: Taurasi (2 AST),120,35,1,,202250,100940,1611661317,2,7,1
+07:21,[LVA] Plum Turnover : Traveling (1 TO),225,5,5,,1628276,,1611661319,2,7,1
+07:04,[PHO] DeShields Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),200,137,5,203833,1628890,,1611661317,2,7,1
+07:01,[PHO] Taurasi Foul: Shooting (1 PF) (2 FTA),19,11,6,1629498,100940,,1611661317,2,7,1
+07:01,[LVA 3-7] Young Free Throw 1 of 2 (1 PTS),0,-80,3,,1629498,,1611661319,3,7,1
+07:01,[LVA 4-7] Young Free Throw 2 of 2 (2 PTS),0,-80,3,,1629498,,1611661319,4,7,1
+06:38,[PHO 9-4] DeShields Jump Shot: Made (2 PTS) Assist: Taurasi (3 AST),-108,176,1,,1628890,100940,1611661317,4,9,1
+06:21,[LVA 6-9] Gray Step Back Jump shot: Made (2 PTS),138,11,1,,203833,,1611661319,6,9,1
+06:05,[PHO] Taurasi 3pt Shot: Missed,-96,232,2,,100940,,1611661317,6,9,1
+06:02,[PHO] Turner Rebound (Off:2 Def:0),-96,232,4,,1629488,,1611661317,6,9,1
+06:01,[PHO] Charles 3pt Shot: Missed,109,236,2,,202250,,1611661317,6,9,1
+05:57,[LVA] Plum Rebound (Off:0 Def:2),109,236,4,,1628276,,1611661319,6,9,1
+05:46,[LVA] Young Turnover : Bad Pass (1 TO) Steal:Peddy (1 ST),11,53,5,203035,1629498,,1611661319,6,9,1
+05:44,[LVA] Hamby Foul: Personal (1 PF),-121,599,6,203035,204324,,1611661319,6,9,1
+05:27,[PHO 12-6] DeShields 3pt Shot: Made (5 PTS) Assist: Charles (1 AST),-180,161,1,,1628890,202250,1611661317,6,12,1
+05:07,[LVA] Plum Driving Layup Shot: Missed,2,15,2,1629488,1628276,,1611661319,6,12,1
+05:03,[PHO] Charles Rebound (Off:0 Def:3),2,15,4,,202250,,1611661317,6,12,1
+05:03,[PHO 14-6] Taurasi Running Layup Shot: Made (2 PTS),-17,13,1,,100940,,1611661317,6,14,1
+05:03,[LVA] Young Foul: Shooting (1 PF) (1 FTA),-22,13,6,100940,1629498,,1611661319,6,14,1
+05:03,[PHO 15-6] Taurasi Free Throw 1 of 1 (3 PTS),0,-80,3,,100940,,1611661317,6,15,1
+04:48,[LVA 8-15] Plum Driving Layup Shot: Made (2 PTS),22,7,1,,1628276,,1611661319,8,15,1
+04:48,[PHO] Peddy Foul: Shooting (2 PF) (1 FTA),28,3,6,1628276,203035,,1611661317,8,15,1
+04:48,Timeout Officials,0,-80,9,,0,,0,8,15,1
+04:48,[LVA 9-15] Plum Free Throw 1 of 1 (3 PTS),0,-80,3,,1628276,,1611661319,9,15,1
+04:27,[PHO 17-9] Charles Turnaround Fadeaway shot: Made (7 PTS),-69,87,1,,202250,,1611661317,9,17,1
+04:09,[LVA 11-17] Hamby Cutting Layup Shot: Made (2 PTS) Assist: Wilson (1 AST),-5,11,1,,204324,1628932,1611661319,11,17,1
+03:50,[PHO] Charles Step Back Jump shot: Missed,-118,161,2,,202250,,1611661317,11,17,1
+03:49,[LVA] Team Rebound,-118,161,4,,0,,1611661319,11,17,1
+03:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,17,1
+03:37,[LVA 13-17] Plum Driving Layup Shot: Made (5 PTS),19,5,1,,1628276,,1611661319,13,17,1
+03:17,[PHO] Taurasi Driving Layup Shot: Missed,-2,13,2,,100940,,1611661317,13,17,1
+03:17,[PHO] Team Rebound,-2,13,4,,0,,1611661317,13,17,1
+03:17,[LVA] Hamby Substitution replaced by Plaisance,0,-80,8,,204324,203849,1611661319,13,17,1
+03:17,[PHO] DeShields Substitution replaced by Cunningham,0,-80,8,,1628890,1629482,1611661317,13,17,1
+03:13,[PHO 20-13] Peddy 3pt Shot: Made (5 PTS) Assist: Taurasi (4 AST),-234,27,1,,203035,100940,1611661317,13,20,1
+03:00,[LVA] Gray 3pt Shot: Missed,55,238,2,,203833,,1611661319,13,20,1
+02:59,[PHO] Team Rebound,55,238,4,,0,,1611661317,13,20,1
+02:59,[LVA] Gray Substitution replaced by Sheppard,0,-80,8,,203833,1631013,1611661319,13,20,1
+02:44,[LVA] Plaisance Foul: Personal (1 PF),76,15,6,1629488,203849,,1611661319,13,20,1
+02:40,[LVA] Sheppard Foul: Shooting (1 PF) (2 FTA),12,11,6,1629488,1631013,,1611661319,13,20,1
+02:40,[PHO] Turner Free Throw 1 of 2 Missed,0,-80,3,,1629488,,1611661317,13,20,1
+02:40,[PHO] Team Rebound,0,-80,4,,0,,1611661317,13,20,1
+02:40,[PHO 21-13] Turner Free Throw 2 of 2 (1 PTS),0,-80,3,,1629488,,1611661317,13,21,1
+02:22,[LVA 15-21] Wilson Jump Shot: Made (4 PTS),-66,55,1,,1628932,,1611661319,15,21,1
+02:01,[PHO] Charles Turnover : 3 Second Violation (1 TO),41,28,5,,202250,,1611661317,15,21,1
+02:01,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,15,21,1
+01:47,[LVA 18-21] Plaisance 3pt Shot: Made (3 PTS) Assist: Young (2 AST),-226,15,1,,203849,1629498,1611661319,18,21,1
+01:24,[PHO 23-18] Turner Layup Shot: Made (3 PTS) Assist: Taurasi (5 AST),-12,6,1,,1629488,100940,1611661317,18,23,1
+01:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,23,1
+01:08,[PHO] Taurasi Substitution replaced by DeShields,0,-80,8,,100940,1628890,1611661317,18,23,1
+01:08,[PHO] Charles Substitution replaced by Gustafson,0,-80,8,,202250,1629484,1611661317,18,23,1
+01:01,[LVA] Plum Pullup Jump shot: Missed,-70,125,2,,1628276,,1611661319,18,23,1
+00:56.8,[PHO] Cunningham Rebound (Off:0 Def:1),-70,125,4,,1629482,,1611661317,18,23,1
+00:55.9,[PHO] Cunningham Turnover : Lost Ball (1 TO) Steal:Young (2 ST),77,719,5,1629498,1629482,,1611661317,18,23,1
+00:51.9,[LVA] Sheppard 3pt Shot: Missed,-201,157,2,,1631013,,1611661319,18,23,1
+00:48.3,[PHO] Turner Rebound (Off:2 Def:1),-201,157,4,,1629488,,1611661317,18,23,1
+00:34.3,[PHO] DeShields Pullup Jump shot: Missed,18,128,2,,1628890,,1611661317,18,23,1
+00:32.4,[LVA] Plaisance Rebound (Off:0 Def:1),18,128,4,,203849,,1611661319,18,23,1
+00:27.5,[LVA 20-23] Plum Running Layup Shot: Made (7 PTS),18,10,1,,1628276,,1611661319,20,23,1
+00:11.3,[PHO 25-20] Gustafson Layup Shot: Made (2 PTS) Assist: Turner (1 AST),-7,10,1,,1629484,1629488,1611661317,20,25,1
+00:01.6,[PHO] Gustafson Foul: Shooting (1 PF) (2 FTA),1,11,6,1628276,1629484,,1611661317,20,25,1
+00:01.6,[LVA 21-25] Plum Free Throw 1 of 2 (8 PTS),0,-80,3,,1628276,,1611661319,21,25,1
+00:01.6,[LVA 22-25] Plum Free Throw 2 of 2 (9 PTS),0,-80,3,,1628276,,1611661319,22,25,1
+00:00.0,End Period,0,-80,13,,0,,0,22,25,1
+10:00,Start Period,0,-80,12,,0,,0,22,25,2
+09:44,[PHO] DeShields 3pt Shot: Missed,-125,208,2,,1628890,,1611661317,22,25,2
+09:40,[LVA] Sheppard Rebound (Off:0 Def:1),-125,208,4,,1631013,,1611661319,22,25,2
+09:22,[LVA] Sheppard Driving Layup Shot: Missed,17,48,2,,1631013,,1611661319,22,25,2
+09:20,[PHO] Taurasi Rebound (Off:0 Def:2),17,48,4,,100940,,1611661317,22,25,2
+09:10,[PHO 27-22] Cunningham Floating Jump shot: Made (2 PTS),79,64,1,,1629482,,1611661317,22,27,2
+08:50,[LVA 24-27] Young Pullup Jump shot: Made (4 PTS) Assist: Stokes (1 AST),-82,77,1,,1629498,204329,1611661319,24,27,2
+08:36,[PHO 29-24] DeShields Driving Layup Shot: Made (7 PTS) Assist: Turner (2 AST),-2,5,1,,1628890,1629488,1611661317,24,29,2
+08:36,[LVA] Sheppard Foul: Shooting (2 PF) (1 FTA),0,11,6,1628890,1631013,,1611661319,24,29,2
+08:36,[LVA] Sheppard Substitution replaced by Gray,0,-80,8,,1631013,203833,1611661319,24,29,2
+08:36,[PHO] Turner Substitution replaced by Charles,0,-80,8,,1629488,202250,1611661317,24,29,2
+08:36,[PHO 30-24] DeShields Free Throw 1 of 1 (8 PTS),0,-80,3,,1628890,,1611661317,24,30,2
+08:13,[LVA] Gray Pullup Jump shot: Missed,-20,128,2,,203833,,1611661319,24,30,2
+08:10,[PHO] Peddy Rebound (Off:0 Def:2),-20,128,4,,203035,,1611661317,24,30,2
+08:03,[PHO] Peddy Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-161,44,5,,203035,,1611661317,24,30,2
+07:47,[LVA 26-30] Young Driving Floating Jump Shot: Made (6 PTS),38,61,1,,1629498,,1611661319,26,30,2
+07:26,[PHO] DeShields Driving Floating Jump Shot: Missed,20,73,2,,1628890,,1611661317,26,30,2
+07:24,[LVA] Plaisance Rebound (Off:0 Def:2),20,73,4,,203849,,1611661319,26,30,2
+07:22,[PHO] DeShields Foul: Personal Take (1 PF),99,235,6,203833,1628890,,1611661317,26,30,2
+07:22,[LVA] Plaisance Substitution replaced by Hamby,0,-80,8,,203849,204324,1611661319,26,30,2
+07:22,[LVA] Stokes Substitution replaced by Wilson,0,-80,8,,204329,1628932,1611661319,26,30,2
+07:16,[PHO] Cunningham Foul: Personal (1 PF),-68,33,6,1628932,1629482,,1611661317,26,30,2
+07:16,[LVA] Colson Substitution replaced by Stokes,0,-80,8,,202641,204329,1611661319,26,30,2
+07:16,[PHO] Cunningham Substitution replaced by Turner,0,-80,8,,1629482,1629488,1611661317,26,30,2
+07:04,[LVA 28-30] Wilson Turnaround Jump Shot: Made (6 PTS) Assist: Gray (1 AST),-27,93,1,,1628932,203833,1611661319,28,30,2
+06:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,30,2
+06:51,[PHO] Charles 3pt Shot: Missed,148,212,2,,202250,,1611661317,28,30,2
+06:48,[PHO] Turner Rebound (Off:3 Def:1),148,212,4,,1629488,,1611661317,28,30,2
+06:45,[PHO] DeShields Turnover : Bad Pass (2 TO) Steal:Gray (2 ST),83,63,5,203833,1628890,,1611661317,28,30,2
+06:35,[LVA 30-30] Stokes Cutting Layup Shot: Made (2 PTS) Assist: Wilson (2 AST),2,13,1,,204329,1628932,1611661319,30,30,2
+06:19,[PHO] Taurasi Driving Layup Shot: Missed,-13,19,2,204329,100940,,1611661317,30,30,2
+06:19,[LVA] Stokes Rebound (Off:0 Def:1),-13,19,4,,204329,,1611661319,30,30,2
+06:19,[PHO] Taurasi Foul: Personal Take (2 PF),17,803,6,204329,100940,,1611661317,30,30,2
+06:19,[LVA] Young Substitution replaced by Plum,0,-80,8,,1629498,1628276,1611661319,30,30,2
+06:19,[PHO] Peddy Substitution replaced by Cunningham,0,-80,8,,203035,1629482,1611661317,30,30,2
+06:07,[LVA] Stokes Cutting Layup Shot: Missed,0,24,2,,204329,,1611661319,30,30,2
+06:04,[PHO] Charles Rebound (Off:0 Def:4),0,24,4,,202250,,1611661317,30,30,2
+05:50,[PHO 32-30] DeShields Driving Floating Jump Shot: Made (10 PTS),-16,44,1,,1628890,,1611661317,30,32,2
+05:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,32,2
+05:45,Timeout Officials,0,-80,9,,0,,0,30,32,2
+05:43,[LVA] Hamby Foul: Offensive (2 PF),-32,233,6,1628890,204324,,1611661319,30,32,2
+05:43,[LVA] Hamby Turnover : Offensive Foul Turnover (1 TO),-32,233,5,,204324,,1611661319,30,32,2
+05:43,InstantReplay Request Stands,0,-80,18,,0,,0,30,32,2
+05:27,[PHO] Charles Jump Shot: Missed,-15,69,2,,202250,,1611661317,30,32,2
+05:25,[LVA] Wilson Rebound (Off:1 Def:1),-15,69,4,,1628932,,1611661319,30,32,2
+05:05,[LVA 32-32] Gray Driving Layup Shot: Made (4 PTS) Assist: Plum (1 AST),16,10,1,,203833,1628276,1611661319,32,32,2
+04:55,[PHO] DeShields 3pt Shot: Missed,-157,186,2,,1628890,,1611661317,32,32,2
+04:52,[PHO] Turner Rebound (Off:4 Def:1),-157,186,4,,1629488,,1611661317,32,32,2
+04:50,[PHO] Charles Foul: Offensive (1 PF),-47,247,6,203833,202250,,1611661317,32,32,2
+04:50,[PHO] Charles Turnover : Offensive Foul Turnover (2 TO),-47,247,5,,202250,,1611661317,32,32,2
+04:50,[LVA] Stokes Substitution replaced by Young,0,-80,8,,204329,1629498,1611661319,32,32,2
+04:28,[LVA] Plum Turnover : Bad Pass (2 TO) Steal:Taurasi (1 ST),78,77,5,100940,1628276,,1611661319,32,32,2
+04:24,[PHO 34-32] DeShields Running Layup Shot: Made (12 PTS) Assist: Taurasi (6 AST),3,9,1,,1628890,100940,1611661317,32,34,2
+04:11,[LVA] Gray Turnover : Step Out of Bounds Turnover (1 TO),132,-28,5,,203833,,1611661319,32,34,2
+04:01,[PHO] Charles 3pt Shot: Missed,89,231,2,,202250,,1611661317,32,34,2
+03:57,[LVA] Wilson Rebound (Off:1 Def:2),89,231,4,,1628932,,1611661319,32,34,2
+03:52,[LVA] Plum Turnover : Bad Pass (3 TO) Steal:Cunningham (1 ST),-170,228,5,1629482,1628276,,1611661319,32,34,2
+03:49,[PHO 36-32] Cunningham Running Layup Shot: Made (4 PTS),1,8,1,,1629482,,1611661317,32,36,2
+03:49,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,32,36,2
+03:37,[LVA] Plum 3pt Shot: Missed,-234,61,2,,1628276,,1611661319,32,36,2
+03:33,[PHO] Cunningham Rebound (Off:0 Def:2),-234,61,4,,1629482,,1611661317,32,36,2
+03:18,[PHO] Charles 3pt Shot: Missed,5,240,2,,202250,,1611661317,32,36,2
+03:15,[LVA] Plum Rebound (Off:0 Def:3),5,240,4,,1628276,,1611661319,32,36,2
+03:11,[PHO] Charles Foul: Shooting (2 PF) (2 FTA),12,1,6,204324,202250,,1611661317,32,36,2
+03:11,[LVA] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,32,36,2
+03:11,[LVA] Team Rebound,0,-80,4,,0,,1611661319,32,36,2
+03:11,[PHO] Cunningham Substitution replaced by Peddy,0,-80,8,,1629482,203035,1611661317,32,36,2
+03:11,[LVA] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661319,32,36,2
+03:09,[PHO] Charles Rebound (Off:0 Def:5),0,-80,4,,202250,,1611661317,32,36,2
+02:55,[PHO] DeShields Pullup Jump shot: Missed,65,99,2,,1628890,,1611661317,32,36,2
+02:51,[LVA] Wilson Rebound (Off:1 Def:3),65,99,4,,1628932,,1611661319,32,36,2
+02:41,[PHO] Peddy Foul: Personal (3 PF) (2 FTA),-129,123,6,1628932,203035,,1611661317,32,36,2
+02:41,[LVA 33-36] Wilson Free Throw 1 of 2 (7 PTS),0,-80,3,,1628932,,1611661319,33,36,2
+02:41,[PHO] Peddy Substitution replaced by Cunningham,0,-80,8,,203035,1629482,1611661317,33,36,2
+02:41,[LVA 34-36] Wilson Free Throw 2 of 2 (8 PTS),0,-80,3,,1628932,,1611661319,34,36,2
+02:18,[PHO] Charles Driving Layup Shot: Missed,23,22,2,1628932,202250,,1611661317,34,36,2
+02:15,[LVA] Wilson Rebound (Off:1 Def:4),23,22,4,,1628932,,1611661319,34,36,2
+02:07,[LVA] Wilson Layup Shot: Missed,2,18,2,1629488,1628932,,1611661319,34,36,2
+02:07,[LVA] Team Rebound,2,18,4,,0,,1611661319,34,36,2
+02:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,36,2
+01:59,[LVA] Wilson Driving Floating Jump Shot: Missed,13,76,2,,1628932,,1611661319,34,36,2
+01:55,[PHO] Turner Rebound (Off:4 Def:2),13,76,4,,1629488,,1611661317,34,36,2
+01:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,36,2
+01:44,[PHO 38-34] Taurasi Driving Floating Jump Shot: Made (5 PTS) Assist: Charles (2 AST),-124,-13,1,,100940,202250,1611661317,34,38,2
+01:33,[LVA 37-38] Young 3pt Shot: Made (9 PTS) Assist: Hamby (1 AST),-196,150,1,,1629498,204324,1611661319,37,38,2
+01:22,[PHO 41-37] Taurasi 3pt Shot: Made (8 PTS) Assist: Turner (3 AST),120,229,1,,100940,1629488,1611661317,37,41,2
+01:09,[PHO] Cunningham Foul: Personal (2 PF) (2 FTA),55,60,6,1629498,1629482,,1611661317,37,41,2
+01:09,[LVA 38-41] Young Free Throw 1 of 2 (10 PTS),0,-80,3,,1629498,,1611661319,38,41,2
+01:09,[LVA 39-41] Young Free Throw 2 of 2 (11 PTS),0,-80,3,,1629498,,1611661319,39,41,2
+00:59.1,[LVA] Wilson Foul: Personal (1 PF),-12,240,6,100940,1628932,,1611661319,39,41,2
+00:47.5,[PHO] DeShields Pullup Jump shot: Missed,-134,-1,2,,1628890,,1611661317,39,41,2
+00:45.1,[LVA] Hamby Rebound (Off:0 Def:1),-134,-1,4,,204324,,1611661319,39,41,2
+00:35.9,[PHO] DeShields Foul: Shooting (2 PF) (3 FTA),185,185,6,1629498,1628890,,1611661317,39,41,2
+00:35.9,[LVA 40-41] Young Free Throw 1 of 3 (12 PTS),0,-80,3,,1629498,,1611661319,40,41,2
+00:35.9,[LVA 41-41] Young Free Throw 2 of 3 (13 PTS),0,-80,3,,1629498,,1611661319,41,41,2
+00:35.9,[LVA 42-41] Young Free Throw 3 of 3 (14 PTS),0,-80,3,,1629498,,1611661319,42,41,2
+00:23.8,[LVA] Gray Foul: Personal (1 PF) (2 FTA),148,46,6,100940,203833,,1611661319,42,41,2
+00:23.8,[PHO] Taurasi Free Throw 1 of 2 Missed,0,-80,3,,100940,,1611661317,42,41,2
+00:23.8,[PHO] Team Rebound,0,-80,4,,0,,1611661317,42,41,2
+00:23.8,[PHO] Cunningham Substitution replaced by Peddy,0,-80,8,,1629482,203035,1611661317,42,41,2
+00:23.8,[PHO 42-42] Taurasi Free Throw 2 of 2 (9 PTS),0,-80,3,,100940,,1611661317,42,42,2
+00:01.4,[LVA 44-42] Gray Pullup Jump shot: Made (6 PTS) Assist: Young (3 AST),137,139,1,,203833,1629498,1611661319,44,42,2
+00:00.0,End Period,0,-80,13,,0,,0,44,42,2
+10:00,Start Period,0,-80,12,,0,,0,44,42,3
+09:49,[PHO] Charles Turnaround Hook Shot: Missed,24,43,2,,202250,,1611661317,44,42,3
+09:47,[LVA] Gray Rebound (Off:0 Def:1),24,43,4,,203833,,1611661319,44,42,3
+09:35,[LVA 47-42] Plum 3pt Shot: Made (12 PTS) Assist: Gray (2 AST),172,203,1,,1628276,203833,1611661319,47,42,3
+09:22,[PHO 45-47] DeShields 3pt Shot: Made (15 PTS) Assist: Taurasi (7 AST),24,247,1,,1628890,100940,1611661317,47,45,3
+09:02,[LVA] Plum Pullup Jump shot: Missed,-56,130,2,,1628276,,1611661319,47,45,3
+09:01,[LVA] Team Rebound,-56,130,4,,0,,1611661319,47,45,3
+09:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,45,3
+08:55,[PHO] Charles Foul: Personal (3 PF),-28,37,6,204324,202250,,1611661317,47,45,3
+08:49,[LVA 50-45] Plum 3pt Shot: Made (15 PTS) Assist: Young (4 AST),21,245,1,,1628276,1629498,1611661319,50,45,3
+08:38,[PHO] Taurasi Turnover : Bad Pass (1 TO) Steal:Gray (3 ST),-137,257,5,203833,100940,,1611661317,50,45,3
+08:34,[PHO] Turner Foul: Shooting (1 PF) (2 FTA),-18,15,6,203833,1629488,,1611661317,50,45,3
+08:34,[LVA 51-45] Gray Free Throw 1 of 2 (7 PTS),0,-80,3,,203833,,1611661319,51,45,3
+08:34,[LVA 52-45] Gray Free Throw 2 of 2 (8 PTS),0,-80,3,,203833,,1611661319,52,45,3
+08:24,[PHO] DeShields 3pt Shot: Missed,-226,1,2,,1628890,,1611661317,52,45,3
+08:22,[LVA] Gray Rebound (Off:0 Def:2),-226,1,4,,203833,,1611661319,52,45,3
+08:14,[LVA] Gray Driving Layup Shot: Missed,-16,11,2,,203833,,1611661319,52,45,3
+08:12,[LVA] Hamby Rebound (Off:1 Def:1),-16,11,4,,204324,,1611661319,52,45,3
+08:11,[PHO] Turner Foul: Personal (2 PF),35,122,6,1628932,1629488,,1611661317,52,45,3
+07:58,[LVA 54-45] Gray Driving Layup Shot: Made (10 PTS),6,0,1,,203833,,1611661319,54,45,3
+07:43,[PHO 47-54] Taurasi Driving Finger Roll Layup Shot: Made (11 PTS),13,11,1,,100940,,1611661317,54,47,3
+07:33,[LVA 56-47] Plum Reverse Layup Shot: Made (17 PTS) Assist: Gray (3 AST),9,1,1,,1628276,203833,1611661319,56,47,3
+07:10,[PHO] Turner Turnaround Fadeaway Bank Jump Shot: Missed,29,24,2,,1629488,,1611661317,56,47,3
+07:06,[PHO] Charles Rebound (Off:1 Def:5),29,24,4,,202250,,1611661317,56,47,3
+07:06,[PHO 49-56] Charles Tip Layup Shot: Made (9 PTS),0,-5,1,,202250,,1611661317,56,49,3
+06:59,[PHO] Turner Foul: Shooting (3 PF) (2 FTA),-13,11,6,1628932,1629488,,1611661317,56,49,3
+06:59,[LVA 57-49] Wilson Free Throw 1 of 2 (9 PTS),0,-80,3,,1628932,,1611661319,57,49,3
+06:59,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,57,49,3
+06:56,[PHO] Turner Rebound (Off:4 Def:3),0,-80,4,,1629488,,1611661317,57,49,3
+06:42,[PHO] Turner Foul: Offensive (4 PF),-112,144,6,1628276,1629488,,1611661317,57,49,3
+06:42,[PHO] Turner Turnover : Offensive Foul Turnover (2 TO),-112,144,5,,1629488,,1611661317,57,49,3
+06:42,[PHO] Turner Substitution replaced by Cunningham,0,-80,8,,1629488,1629482,1611661317,57,49,3
+06:28,[LVA] Young Driving Floating Jump Shot: Missed,22,111,2,,1629498,,1611661319,57,49,3
+06:24,[LVA] Plum Rebound (Off:1 Def:3),22,111,4,,1628276,,1611661319,57,49,3
+06:21,[LVA] Young Layup Shot: Missed,3,35,2,100940,1629498,,1611661319,57,49,3
+06:19,[PHO] Taurasi Rebound (Off:0 Def:3),3,35,4,,100940,,1611661317,57,49,3
+06:19,[LVA] Young Foul: Personal Take (2 PF),-42,321,6,100940,1629498,,1611661319,57,49,3
+06:05,[PHO] Taurasi 3pt Shot: Missed,-143,206,2,,100940,,1611661317,57,49,3
+06:00,[LVA] Gray Rebound (Off:0 Def:3),-143,206,4,,203833,,1611661319,57,49,3
+05:49,[LVA 60-49] Hamby 3pt Shot: Made (5 PTS) Assist: Plum (2 AST),217,86,1,,204324,1628276,1611661319,60,49,3
+05:48,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,60,49,3
+05:37,[PHO] Taurasi Turnover : Bad Pass (2 TO) Steal:Gray (4 ST),7,216,5,203833,100940,,1611661317,60,49,3
+05:32,[LVA 62-49] Young Running Layup Shot: Made (16 PTS) Assist: Gray (4 AST),-19,13,1,,1629498,203833,1611661319,62,49,3
+05:09,[PHO 52-62] Cunningham 3pt Shot: Made (7 PTS) Assist: DeShields (1 AST),241,12,1,,1629482,1628890,1611661317,62,52,3
+05:02,[LVA] Plum Driving Layup Shot: Missed,-26,1,2,,1628276,,1611661319,62,52,3
+05:01,[LVA] Team Rebound,-26,1,4,,0,,1611661319,62,52,3
+05:01,[PHO] Taurasi Foul: Loose Ball (3 PF) (2 FTA),-32,20,6,204324,100940,,1611661317,62,52,3
+05:01,[LVA 63-52] Hamby Free Throw 1 of 2 (6 PTS),0,-80,3,,204324,,1611661319,63,52,3
+05:01,[LVA 64-52] Hamby Free Throw 2 of 2 (7 PTS),0,-80,3,,204324,,1611661319,64,52,3
+04:41,[PHO] Peddy Pullup Jump shot: Missed,-98,133,2,1628932,203035,,1611661317,64,52,3
+04:36,[LVA] Young Rebound (Off:0 Def:1),-98,133,4,,1629498,,1611661319,64,52,3
+04:35,[PHO] Charles Foul: Shooting (4 PF) (2 FTA),3,5,6,204324,202250,,1611661317,64,52,3
+04:35,[LVA 65-52] Hamby Free Throw 1 of 2 (8 PTS),0,-80,3,,204324,,1611661319,65,52,3
+04:35,[PHO] Taurasi Substitution replaced by Gustafson,0,-80,8,,100940,1629484,1611661317,65,52,3
+04:35,[LVA 66-52] Hamby Free Throw 2 of 2 (9 PTS),0,-80,3,,204324,,1611661319,66,52,3
+04:22,[PHO 54-66] DeShields Pullup Jump shot: Made (17 PTS),-66,59,1,,1628890,,1611661317,66,54,3
+04:12,[LVA 69-54] Plum 3pt Shot: Made (20 PTS),185,185,1,,1628276,,1611661319,69,54,3
+04:05,[PHO] Gustafson Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),108,807,5,204324,1629484,,1611661317,69,54,3
+04:00,[LVA 71-54] Hamby Layup Shot: Made (11 PTS),-7,8,1,,204324,,1611661319,71,54,3
+03:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,54,3
+03:41,[PHO] Peddy 3pt Shot: Missed,245,-14,2,,203035,,1611661317,71,54,3
+03:38,[LVA] Hamby Rebound (Off:1 Def:2),245,-14,4,,204324,,1611661319,71,54,3
+03:34,[LVA] Gray Running Layup Shot: Missed,4,27,2,,203833,,1611661319,71,54,3
+03:33,[LVA] Hamby Rebound (Off:2 Def:2),4,27,4,,204324,,1611661319,71,54,3
+03:33,[LVA 73-54] Hamby Tip Layup Shot: Made (13 PTS),0,-5,1,,204324,,1611661319,73,54,3
+03:33,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,73,54,3
+03:33,[LVA] Hamby Substitution replaced by Sheppard,0,-80,8,,204324,1631013,1611661319,73,54,3
+03:33,[LVA] Gray Substitution replaced by Plaisance,0,-80,8,,203833,203849,1611661319,73,54,3
+03:33,[PHO] Charles Substitution replaced by Turner,0,-80,8,,202250,1629488,1611661317,73,54,3
+03:14,[PHO] Peddy Driving Reverse Layup Shot: Missed,-1,6,2,,203035,,1611661317,73,54,3
+03:14,[LVA] Team Rebound,-1,6,4,,0,,1611661319,73,54,3
+03:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,54,3
+03:03,[LVA] Wilson Driving Layup Shot: Missed,-8,9,2,1629488,1628932,,1611661319,73,54,3
+03:03,[PHO] Team Rebound,-8,9,4,,0,,1611661317,73,54,3
+02:54,[LVA] Sheppard Foul: Personal (3 PF),-115,35,6,1629482,1631013,,1611661319,73,54,3
+02:48,[PHO 57-73] Gustafson 3pt Shot: Made (5 PTS) Assist: DeShields (2 AST),-142,196,1,,1629484,1628890,1611661317,73,57,3
+02:31,[LVA 75-57] Plum Driving Finger Roll Layup Shot: Made (22 PTS),-5,5,1,,1628276,,1611661319,75,57,3
+02:23,[LVA] Sheppard Foul: Personal (4 PF),-82,26,6,1629482,1631013,,1611661319,75,57,3
+02:23,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,75,57,3
+02:23,[PHO] Peddy Substitution replaced by Taurasi,0,-80,8,,203035,100940,1611661317,75,57,3
+02:23,[PHO] DeShields Substitution replaced by Peddy,0,-80,8,,1628890,203035,1611661317,75,57,3
+02:17,[LVA] Young Foul: Personal (3 PF),73,27,6,203035,1629498,,1611661319,75,57,3
+02:06,[PHO] Peddy 3pt Shot: Missed,178,185,2,,203035,,1611661317,75,57,3
+02:04,[LVA] Team Rebound,178,185,4,,0,,1611661319,75,57,3
+02:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,75,57,3
+01:52,[PHO] Cunningham Foul: Personal (3 PF) (2 FTA),-72,81,6,1628276,1629482,,1611661317,75,57,3
+01:52,[LVA 76-57] Plum Free Throw 1 of 2 (23 PTS),0,-80,3,,1628276,,1611661319,76,57,3
+01:52,[LVA 77-57] Plum Free Throw 2 of 2 (24 PTS),0,-80,3,,1628276,,1611661319,77,57,3
+01:36,[PHO] Gustafson Jump Shot: Missed,-1,135,2,,1629484,,1611661317,77,57,3
+01:30,[PHO] Peddy Rebound (Off:1 Def:2),-1,135,4,,203035,,1611661317,77,57,3
+01:26,[PHO] Taurasi 3pt Shot: Missed,-174,171,2,,100940,,1611661317,77,57,3
+01:21,[LVA] Plaisance Rebound (Off:0 Def:3),-174,171,4,,203849,,1611661319,77,57,3
+01:09,[LVA] Young 3pt Shot: Missed,157,194,2,,1629498,,1611661319,77,57,3
+01:05,[LVA] Young Rebound (Off:1 Def:1),157,194,4,,1629498,,1611661319,77,57,3
+01:03,[LVA] Sheppard 3pt Shot: Missed,129,212,2,,1631013,,1611661319,77,57,3
+01:03,[LVA] Young Rebound (Off:2 Def:1),129,212,4,,1629498,,1611661319,77,57,3
+00:58.6,[LVA 79-57] Young Putback Layup Shot: Made (18 PTS),17,22,1,,1629498,,1611661319,79,57,3
+00:46.9,[PHO] Taurasi Fadeaway Jump Shot: Missed,-94,26,2,,100940,,1611661317,79,57,3
+00:44.4,[PHO] Turner Rebound (Off:5 Def:3),-94,26,4,,1629488,,1611661317,79,57,3
+00:37.4,[PHO] Taurasi Turnover : Bad Pass (3 TO) Steal:Young (3 ST),-90,61,5,1629498,100940,,1611661317,79,57,3
+00:34.9,[LVA 81-57] Young Running Layup Shot: Made (20 PTS),-2,6,1,,1629498,,1611661319,81,57,3
+00:24.3,[LVA] Sheppard Foul: Shooting (5 PF) (3 FTA),-140,223,6,100940,1631013,,1611661319,81,57,3
+00:24.3,[PHO 58-81] Taurasi Free Throw 1 of 3 (12 PTS),0,-80,3,,100940,,1611661317,81,58,3
+00:24.3,[PHO 59-81] Taurasi Free Throw 2 of 3 (13 PTS),0,-80,3,,100940,,1611661317,81,59,3
+00:24.3,[LVA] Plum Substitution replaced by Gray,0,-80,8,,1628276,203833,1611661319,81,59,3
+00:24.3,[PHO 60-81] Taurasi Free Throw 3 of 3 (14 PTS),0,-80,3,,100940,,1611661317,81,60,3
+00:03.4,[PHO] Cunningham Foul: Personal (4 PF) (2 FTA),-2,22,6,1631013,1629482,,1611661317,81,60,3
+00:03.4,[LVA] Sheppard Free Throw 1 of 2 Missed,0,-80,3,,1631013,,1611661319,81,60,3
+00:03.4,[LVA] Team Rebound,0,-80,4,,0,,1611661319,81,60,3
+00:03.4,[LVA 82-60] Sheppard Free Throw 2 of 2 (1 PTS),0,-80,3,,1631013,,1611661319,82,60,3
+00:00.0,End Period,0,-80,13,,0,,0,82,60,3
+10:00,Start Period,0,-80,12,,0,,0,82,60,4
+09:48,[LVA 85-60] Sheppard 3pt Shot: Made (4 PTS) Assist: Gray (5 AST),167,197,1,,1631013,203833,1611661319,85,60,4
+09:30,[PHO] Taurasi 3pt Shot: Missed,-200,135,2,,100940,,1611661317,85,60,4
+09:25,[PHO] Peddy Rebound (Off:2 Def:2),-200,135,4,,203035,,1611661317,85,60,4
+09:18,[PHO 62-85] DeShields Driving Layup Shot: Made (19 PTS),16,11,1,,1628890,,1611661317,85,62,4
+09:18,[LVA] Gray Foul: Shooting (2 PF) (1 FTA),16,10,6,1628890,203833,,1611661319,85,62,4
+09:18,[LVA] Young Substitution replaced by Plum,0,-80,8,,1629498,1628276,1611661319,85,62,4
+09:18,[PHO] DeShields Free Throw 1 of 1 Missed,0,-80,3,,1628890,,1611661317,85,62,4
+09:15,[LVA] Sheppard Rebound (Off:0 Def:2),0,-80,4,,1631013,,1611661319,85,62,4
+09:05,[LVA] Plaisance 3pt Shot: Missed,-232,6,2,202250,203849,,1611661319,85,62,4
+08:59,[LVA] Plaisance Rebound (Off:1 Def:3),-232,6,4,,203849,,1611661319,85,62,4
+08:56,[LVA 87-62] Plaisance Driving Floating Jump Shot: Made (5 PTS),-129,2,1,,203849,,1611661319,87,62,4
+08:44,[PHO] Charles Turnaround Jump Shot: Missed,-93,0,2,,202250,,1611661317,87,62,4
+08:44,[LVA] Team Rebound,-93,0,4,,0,,1611661319,87,62,4
+08:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,87,62,4
+08:31,[PHO] DeShields Foul: Shooting (3 PF) (2 FTA),-6,8,6,1628276,1628890,,1611661317,87,62,4
+08:31,[LVA] Plum Free Throw 1 of 2 Missed,0,-80,3,,1628276,,1611661319,87,62,4
+08:31,[LVA] Team Rebound,0,-80,4,,0,,1611661319,87,62,4
+08:31,[LVA] Plum Free Throw 2 of 2 Missed,0,-80,3,,1628276,,1611661319,87,62,4
+08:30,[PHO] Gustafson Rebound (Off:0 Def:1),0,-80,4,,1629484,,1611661317,87,62,4
+08:30,[LVA] Stokes Foul: Personal (1 PF),-3,800,6,1629484,204329,,1611661319,87,62,4
+08:22,[LVA] Gray Foul: Personal (3 PF),132,99,6,202250,203833,,1611661319,87,62,4
+08:14,[PHO] Charles 3pt Shot: Missed,104,233,2,,202250,,1611661317,87,62,4
+08:11,[LVA] Plum Rebound (Off:1 Def:4),104,233,4,,1628276,,1611661319,87,62,4
+08:06,[PHO] DeShields Foul: Personal (4 PF),138,201,6,1628276,1628890,,1611661317,87,62,4
+08:02,[LVA] Plum 3pt Shot: Missed,-119,234,2,,1628276,,1611661319,87,62,4
+07:59,[PHO] DeShields Rebound (Off:0 Def:1),-119,234,4,,1628890,,1611661317,87,62,4
+07:58,[PHO] DeShields Turnover : Kicked Ball Violation (3 TO),157,721,5,,1628890,,1611661317,87,62,4
+07:50,[LVA 89-62] Gray Step Back Jump shot: Made (12 PTS),152,54,1,,203833,,1611661319,89,62,4
+07:38,[PHO] Charles Turnover : Bad Pass (3 TO) Steal:Sheppard (1 ST),-154,190,5,1631013,202250,,1611661317,89,62,4
+07:35,[LVA] Sheppard Turnover : Out of Bounds Lost Ball Turnover (1 TO),-27,48,5,,1631013,,1611661319,89,62,4
+07:25,[LVA] Plum Foul: Personal (1 PF),55,177,6,1628890,1628276,,1611661319,89,62,4
+07:16,[PHO] Taurasi Layup Shot: Missed,-5,19,2,1631013,100940,,1611661317,89,62,4
+07:15,[LVA] Plaisance Rebound (Off:1 Def:4),-5,19,4,,203849,,1611661319,89,62,4
+07:09,[PHO] Gustafson Foul: Shooting (2 PF) (2 FTA),-4,11,6,203833,1629484,,1611661317,89,62,4
+07:09,[LVA] Gray Free Throw 1 of 2 Missed,0,-80,3,,203833,,1611661319,89,62,4
+07:09,[LVA] Team Rebound,0,-80,4,,0,,1611661319,89,62,4
+07:09,[LVA 90-62] Gray Free Throw 2 of 2 (13 PTS),0,-80,3,,203833,,1611661319,90,62,4
+07:09,Stoppage: Blood Rule,0,-80,20,,0,,0,90,62,4
+06:57,[PHO] Charles 3pt Shot: Missed,-128,210,2,,202250,,1611661317,90,62,4
+06:54,[LVA] Plaisance Rebound (Off:1 Def:5),-128,210,4,,203849,,1611661319,90,62,4
+06:42,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,90,62,4
+06:42,[LVA] Plum Substitution replaced by Bell,0,-80,8,,1628276,1631006,1611661319,90,62,4
+06:36,[LVA] Plaisance 3pt Shot: Missed,-128,204,2,,203849,,1611661319,90,62,4
+06:33,[LVA] Stokes Rebound (Off:1 Def:1),-128,204,4,,204329,,1611661319,90,62,4
+06:33,[LVA] Stokes Putback Layup Shot: Missed,-27,35,2,,204329,,1611661319,90,62,4
+06:32,[LVA] Team Rebound,-27,35,4,,0,,1611661319,90,62,4
+06:32,[LVA] Team Turnover : Shot Clock Turnover,74,31,5,,0,,1611661319,90,62,4
+06:18,[PHO 64-90] Gustafson Layup Shot: Made (7 PTS) Assist: Charles (3 AST),1,8,1,,1629484,202250,1611661317,90,64,4
+06:02,[LVA] Gray Step Back Bank Jump Shot: Missed,96,38,2,,203833,,1611661319,90,64,4
+05:59,[PHO] Charles Rebound (Off:1 Def:6),96,38,4,,202250,,1611661317,90,64,4
+05:45,[PHO] Taurasi 3pt Shot: Missed,-168,233,2,,100940,,1611661317,90,64,4
+05:43,[PHO] Team Rebound,-168,233,4,,0,,1611661317,90,64,4
+05:43,[LVA] Sheppard Foul: Loose Ball (6 PF) (2 FTA),28,72,6,203035,1631013,,1611661319,90,64,4
+05:43,Stoppage: Injury,0,-80,20,,0,,0,90,64,4
+05:43,[LVA] Sheppard Substitution replaced by Plum,0,-80,8,,1631013,1628276,1611661319,90,64,4
+05:43,[LVA] Gray Substitution replaced by Colson,0,-80,8,,203833,202641,1611661319,90,64,4
+05:43,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,90,64,4
+05:43,[PHO] Peddy Substitution replaced by Thomas,0,-80,8,,203035,1631068,1611661317,90,64,4
+05:43,[PHO] Charles Substitution replaced by Anigwe,0,-80,8,,202250,1629485,1611661317,90,64,4
+05:43,[PHO] DeShields Substitution replaced by Turner,0,-80,8,,1628890,1629488,1611661317,90,64,4
+05:43,[PHO] Anigwe Free Throw 1 of 2 Missed,0,-80,3,,1629485,,1611661317,90,64,4
+05:43,[PHO] Team Rebound,0,-80,4,,0,,1611661317,90,64,4
+05:43,[PHO 65-90] Anigwe Free Throw 2 of 2 (1 PTS),0,-80,3,,1629485,,1611661317,90,65,4
+05:21,[LVA] Colson 3pt Shot: Missed,-203,153,2,,202641,,1611661319,90,65,4
+05:17,[PHO] Cunningham Rebound (Off:0 Def:3),-203,153,4,,1629482,,1611661317,90,65,4
+05:11,[PHO 68-90] Cunningham 3pt Shot: Made (10 PTS),170,178,1,,1629482,,1611661317,90,68,4
+05:03,[PHO] Thomas Foul: Personal (1 PF),89,180,6,204329,1631068,,1611661317,90,68,4
+04:50,[LVA] Colson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),107,53,5,,202641,,1611661319,90,68,4
+04:36,[LVA] Plaisance Foul: Shooting (2 PF) (2 FTA),-31,24,6,1629482,203849,,1611661319,90,68,4
+04:36,[PHO 69-90] Cunningham Free Throw 1 of 2 (11 PTS),0,-80,3,,1629482,,1611661317,90,69,4
+04:36,[PHO 70-90] Cunningham Free Throw 2 of 2 (12 PTS),0,-80,3,,1629482,,1611661317,90,70,4
+04:30,[LVA] Stokes Turnover : Traveling (1 TO),73,267,5,,204329,,1611661319,90,70,4
+04:16,[PHO] Anigwe Layup Shot: Missed,1,13,2,1631006,1629485,,1611661317,90,70,4
+04:12,[LVA] Stokes Rebound (Off:1 Def:2),1,13,4,,204329,,1611661319,90,70,4
+04:08,[LVA] Plaisance 3pt Shot: Missed,223,74,2,,203849,,1611661319,90,70,4
+04:04,[PHO] Cunningham Rebound (Off:0 Def:4),223,74,4,,1629482,,1611661317,90,70,4
+04:00,[PHO] Cunningham Turnover : Lost Ball (2 TO) Steal:Colson (1 ST),129,238,5,202641,1629482,,1611661317,90,70,4
+03:55,[LVA 92-70] Colson Running Layup Shot: Made (2 PTS),-1,11,1,,202641,,1611661319,92,70,4
+03:37,[PHO] Gustafson Driving Layup Shot: Missed,-18,56,2,,1629484,,1611661317,92,70,4
+03:34,[LVA] Plaisance Rebound (Off:1 Def:6),-18,56,4,,203849,,1611661319,92,70,4
+03:24,[LVA 94-70] Bell Driving Floating Jump Shot: Made (2 PTS) Assist: Plum (3 AST),-32,35,1,,1631006,1628276,1611661319,94,70,4
+03:11,[PHO 73-94] Cunningham 3pt Shot: Made (15 PTS),111,242,1,,1629482,,1611661317,94,73,4
+03:09,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,94,73,4
+03:09,Instant Replay - Support Ruling,0,-80,18,,0,,0,94,73,4
+03:09,[LVA] Plum Substitution replaced by Young,0,-80,8,,1628276,1629498,1611661319,94,73,4
+02:55,[LVA] Colson Pullup Jump shot: Missed,-51,134,2,1631068,202641,,1611661319,94,73,4
+02:51,[PHO] Anigwe Rebound (Off:0 Def:1),-51,134,4,,1629485,,1611661317,94,73,4
+02:40,[PHO 75-94] Anigwe Layup Shot: Made (3 PTS) Assist: Cunningham (1 AST),6,32,1,,1629485,1629482,1611661317,94,75,4
+02:24,[LVA] Plaisance 3pt Shot: Missed,188,173,2,,203849,,1611661319,94,75,4
+02:24,[PHO] Anigwe Rebound (Off:0 Def:2),188,173,4,,1629485,,1611661317,94,75,4
+02:15,[LVA] Colson Foul: Shooting (1 PF) (2 FTA),41,59,6,1629482,202641,,1611661319,94,75,4
+02:15,[PHO 76-94] Cunningham Free Throw 1 of 2 (16 PTS),0,-80,3,,1629482,,1611661317,94,76,4
+02:15,[PHO 77-94] Cunningham Free Throw 2 of 2 (17 PTS),0,-80,3,,1629482,,1611661317,94,77,4
+02:01,[LVA] Bell 3pt Shot: Missed,-127,215,2,,1631006,,1611661319,94,77,4
+01:58,[PHO] Cunningham Rebound (Off:0 Def:5),-127,215,4,,1629482,,1611661317,94,77,4
+01:52,[PHO] Cunningham 3pt Shot: Missed,-174,183,2,,1629482,,1611661317,94,77,4
+01:51,[LVA] Team Rebound,-174,183,4,,0,,1611661319,94,77,4
+01:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,94,77,4
+01:37,[LVA] Young Driving Floating Jump Shot: Missed,65,90,2,,1629498,,1611661319,94,77,4
+01:34,[LVA] Plaisance Rebound (Off:2 Def:6),65,90,4,,203849,,1611661319,94,77,4
+01:30,[LVA] Stokes 3pt Shot: Missed,173,173,2,,204329,,1611661319,94,77,4
+01:28,[PHO] Team Rebound,173,173,4,,0,,1611661317,94,77,4
+01:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,94,77,4
+01:19,[PHO] Thomas 3pt Shot: Missed,-139,198,2,,1631068,,1611661317,94,77,4
+01:17,[PHO] Anigwe Rebound (Off:1 Def:2),-139,198,4,,1629485,,1611661317,94,77,4
+01:17,[LVA] Plaisance Foul: Shooting (3 PF) (2 FTA),1,11,6,1629485,203849,,1611661319,94,77,4
+01:17,[PHO] Anigwe Free Throw 1 of 2 Missed,0,-80,3,,1629485,,1611661317,94,77,4
+01:17,[PHO] Team Rebound,0,-80,4,,0,,1611661317,94,77,4
+01:17,[PHO 78-94] Anigwe Free Throw 2 of 2 (4 PTS),0,-80,3,,1629485,,1611661317,94,78,4
+01:04,[LVA 97-78] Plaisance 3pt Shot: Made (8 PTS) Assist: Young (5 AST),-228,73,1,,203849,1629498,1611661319,97,78,4
+00:53.3,[PHO] Thomas 3pt Shot: Missed,-228,2,2,,1631068,,1611661317,97,78,4
+00:50.6,[PHO] Gustafson Rebound (Off:1 Def:1),-228,2,4,,1629484,,1611661317,97,78,4
+00:50.4,[PHO 80-97] Gustafson Floating Jump shot: Made (9 PTS),26,67,1,,1629484,,1611661317,97,80,4
+00:38.2,[LVA 100-80] Plaisance 3pt Shot: Made (11 PTS) Assist: Colson (1 AST),213,110,1,,203849,202641,1611661319,100,80,4
+00:31.3,[PHO] Anigwe Jump Shot: Missed,-7,137,2,,1629485,,1611661317,100,80,4
+00:26.7,[LVA] Stokes Rebound (Off:1 Def:3),-7,137,4,,204329,,1611661319,100,80,4
+00:04.7,[LVA] Young 3pt Shot: Missed,-150,210,2,,1629498,,1611661319,100,80,4
+00:02.4,[PHO] Team Rebound,-150,210,4,,0,,1611661317,100,80,4
+00:02.4,[LVA] Colson Foul: Loose Ball (2 PF) (2 FTA),51,818,6,1629485,202641,,1611661319,100,80,4
+00:02.4,[PHO] Anigwe Free Throw 1 of 2 Missed,0,-80,3,,1629485,,1611661317,100,80,4
+00:02.4,[PHO] Team Rebound,0,-80,4,,0,,1611661317,100,80,4
+00:02.4,[PHO] Anigwe Free Throw 2 of 2 Missed,0,-80,3,,1629485,,1611661317,100,80,4
+00:00.2,[LVA] Plaisance Rebound (Off:2 Def:7),0,-80,4,,203849,,1611661319,100,80,4
+00:00.0,End Period,0,-80,13,,0,,0,100,80,4
+00:00.0,Game End,0,-80,0,,0,,0,100,80,4

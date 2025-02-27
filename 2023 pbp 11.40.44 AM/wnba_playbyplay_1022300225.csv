@@ -1,0 +1,376 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:58,Jump Ball Williams vs Boston (Smith gains possession),0,-80,10,1641648,204322,1629501,1611661329,0,0,0,1
+09:44,[CHI] Mabrey 3pt Shot: Missed,-140,239,2,,1629497,,1611661329,0,0,0,1
+09:40,[IND] Vivians Rebound (Off:0 Def:1),-140,239,4,,1628927,,1611661325,0,0,0,1
+09:30,[IND] Boston Layup Shot: Missed,-10,21,2,,1641648,,1611661325,0,0,0,1
+09:29,[IND] Boston Rebound (Off:1 Def:0),-10,21,4,,1641648,,1611661325,0,0,0,1
+09:27,[IND 2-0] Mitchell Jump Shot: Made (2 PTS) Assist: Boston (1 AST),-168,26,1,,1628909,1641648,1611661325,2,0,2,1
+09:13,[CHI 2-2] Mabrey Driving Floating Jump Shot: Made (2 PTS),54,64,1,,1629497,,1611661329,2,2,2,1
+09:00,[IND] Boston Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),-124,216,5,204322,1641648,,1611661325,2,2,0,1
+08:55,[CHI] Copper Running Pull-Up Jump Shot: Missed,156,95,2,,1627674,,1611661329,2,2,0,1
+08:51,[IND] Smith Rebound (Off:0 Def:1),156,95,4,,1631019,,1611661325,2,2,0,1
+08:46,[IND] Wheeler Reverse Layup Shot: Missed Block: Mabrey (1 BLK),-10,28,2,1629497,204365,,1611661325,2,2,0,1
+08:46,[CHI] Mabrey Rebound (Off:0 Def:1),-10,28,4,,1629497,,1611661329,2,2,0,1
+08:39,[CHI] Mabrey Running Layup Shot: Missed,5,1,2,,1629497,,1611661329,2,2,0,1
+08:35,[IND] Boston Rebound (Off:1 Def:1),5,1,4,,1641648,,1611661325,2,2,0,1
+08:21,[IND] Wheeler Pullup Jump shot: Missed,-112,163,2,,204365,,1611661325,2,2,0,1
+08:19,[CHI] Williams Rebound (Off:0 Def:1),-112,163,4,,204322,,1611661329,2,2,0,1
+08:06,[CHI 4-2] Copper Driving Layup Shot: Made (2 PTS) Assist: Williams (1 AST),-13,8,1,,1627674,204322,1611661329,2,4,2,1
+07:52,[IND] Vivians 3pt Shot: Missed,190,150,2,,1628927,,1611661325,2,4,0,1
+07:49,[CHI] Williams Rebound (Off:0 Def:1),190,150,4,,1627675,,1611661329,2,4,0,1
+07:40,[CHI] Williams Layup Shot: Missed,10,32,2,,204322,,1611661329,2,4,0,1
+07:37,[IND] Boston Rebound (Off:1 Def:2),10,32,4,,1641648,,1611661325,2,4,0,1
+07:33,[IND] Mitchell 3pt Shot: Missed,94,238,2,,1628909,,1611661325,2,4,0,1
+07:30,[CHI] Team Rebound,94,238,4,,0,,1611661329,2,4,0,1
+07:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,4,0,1
+07:06,[CHI] Williams Jump Shot: Missed Block: Smith (1 BLK),11,115,2,1631019,204322,,1611661329,2,4,0,1
+07:03,[IND] Wheeler Rebound (Off:0 Def:1),11,115,4,,204365,,1611661325,2,4,0,1
+07:00,[IND] Smith Running Layup Shot: Missed Block: Mabrey (2 BLK),-3,-10,2,1629497,1631019,,1611661325,2,4,0,1
+06:55,[IND] Wheeler Rebound (Off:1 Def:1),-3,-10,4,,204365,,1611661325,2,4,0,1
+06:51,[IND] Smith Layup Shot: Missed,11,2,2,,1631019,,1611661325,2,4,0,1
+06:47,[CHI] Williams Rebound (Off:0 Def:2),11,2,4,,204322,,1611661329,2,4,0,1
+06:37,[CHI] Mabrey 3pt Shot: Missed,235,19,2,,1629497,,1611661329,2,4,0,1
+06:35,[CHI] Mabrey Rebound (Off:1 Def:1),235,19,4,,1629497,,1611661329,2,4,0,1
+06:31,[CHI 6-2] Mabrey Layup Shot: Made (4 PTS),12,24,1,,1629497,,1611661329,2,6,2,1
+06:12,[IND] Smith Turnover : Bad Pass (1 TO) Steal:Williams (2 ST),136,44,5,204322,1631019,,1611661325,2,6,0,1
+06:05,[CHI] Mabrey 3pt Shot: Missed,-169,176,2,,1629497,,1611661329,2,6,0,1
+06:03,[IND] Wheeler Rebound (Off:1 Def:2),-169,176,4,,204365,,1611661325,2,6,0,1
+05:40,[IND] Boston Jump Shot: Missed,119,49,2,,1641648,,1611661325,2,6,0,1
+05:40,[IND] Team Rebound,119,49,4,,0,,1611661325,2,6,0,1
+05:40,[IND] Team Turnover : Shot Clock Turnover,-7,19,5,,0,202679,1611661325,2,6,0,1
+05:40,[IND] Wheeler Substitution replaced by Berger,0,-80,8,,204365,1641658,1611661325,2,6,0,1
+05:40,[CHI] Mabrey Substitution replaced by Evans,0,-80,8,,1629497,1630389,1611661329,2,6,0,1
+05:29,[CHI] Copper Pullup Jump shot: Missed,99,165,2,,1627674,,1611661329,2,6,0,1
+05:24,[IND] Berger Rebound (Off:0 Def:1),99,165,4,,1641658,,1611661325,2,6,0,1
+05:12,[IND] Smith Layup Shot: Missed,-38,34,2,,1631019,,1611661325,2,6,0,1
+05:09,[CHI] Smith Rebound (Off:0 Def:1),-38,34,4,,1629501,,1611661329,2,6,0,1
+05:00,[CHI 9-2] Williams 3pt Shot: Made (3 PTS) Assist: Smith (1 AST),22,275,1,,1627675,1629501,1611661329,2,9,3,1
+04:39,[CHI] Copper Foul: Personal (1 PF),51,59,6,1641658,1627674,202679,1611661329,2,9,0,1
+04:39,Timeout Officials,0,-80,9,,0,,0,2,9,0,1
+04:39,[IND] Smith Substitution replaced by Cannon,0,-80,8,,1631019,1628242,1611661325,2,9,0,1
+04:30,[IND] Cannon Turnover : Bad Pass (1 TO) Steal:Copper (1 ST),85,174,5,1627674,1628242,,1611661325,2,9,0,1
+04:24,[CHI 11-2] Williams Running Jump Shot: Made (5 PTS) Assist: Evans (1 AST),183,20,1,,1627675,1630389,1611661329,2,11,2,1
+04:09,[CHI] Smith Foul: Shooting (1 PF) (2 FTA),-39,-11,6,1628242,1629501,1628702,1611661329,2,11,0,1
+04:09,[IND 3-11] Cannon Free Throw 1 of 2 (1 PTS),0,-80,3,,1628242,,1611661325,3,11,1,1
+04:09,[IND 4-11] Cannon Free Throw 2 of 2 (2 PTS),0,-80,3,,1628242,,1611661325,4,11,1,1
+03:57,[CHI] Evans Driving Layup Shot: Missed,3,30,2,,1630389,,1611661329,4,11,0,1
+03:53,[IND] Boston Rebound (Off:1 Def:3),3,30,4,,1641648,,1611661325,4,11,0,1
+03:38,[IND] Cannon Jump Shot: Missed,-110,126,2,,1628242,,1611661325,4,11,0,1
+03:35,[CHI] Williams Rebound (Off:0 Def:2),-110,126,4,,1627675,,1611661329,4,11,0,1
+03:29,[CHI 13-4] Williams Running Pull-Up Jump Shot: Made (7 PTS),185,57,1,,1627675,,1611661329,4,13,2,1
+03:09,[IND] Cannon Turnaround Jump Shot: Missed,115,-4,2,,1628242,,1611661325,4,13,0,1
+03:06,[CHI] Williams Rebound (Off:0 Def:3),115,-4,4,,204322,,1611661329,4,13,0,1
+03:00,[CHI] Williams Floating Jump shot: Missed,28,67,2,,204322,,1611661329,4,13,0,1
+02:58,[IND] Team Rebound,28,67,4,,0,,1611661325,4,13,0,1
+02:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,13,0,1
+02:45,[IND] Cannon Turnover : Lost Ball (2 TO) Steal:Smith (1 ST),4,308,5,1629501,1628242,,1611661325,4,13,0,1
+02:44,[IND] Cannon Foul: Personal (1 PF),-15,602,6,1629501,1628242,1628702,1611661325,4,13,0,1
+02:44,[IND] Boston Substitution replaced by Zahui B,0,-80,8,,1641648,204320,1611661325,4,13,0,1
+02:44,[CHI] Copper Substitution replaced by Parks,0,-80,8,,1627674,1641641,1611661329,4,13,0,1
+02:33,[CHI] Smith 3pt Shot: Missed,-133,210,2,,1629501,,1611661329,4,13,0,1
+02:29,[IND] Berger Rebound (Off:0 Def:2),-133,210,4,,1641658,,1611661325,4,13,0,1
+02:20,[IND] Cannon Turnover : 3 Second Violation (3 TO),-13,67,5,,1628242,1629178,1611661325,4,13,0,1
+01:59,[CHI 15-4] Williams Driving Layup Shot: Made (2 PTS) Assist: Williams (1 AST),16,11,1,,204322,1627675,1611661329,4,15,2,1
+01:50,[IND] Vivians Driving Layup Shot: Missed Block: Williams (1 BLK),-22,7,2,204322,1628927,,1611661325,4,15,0,1
+01:49,[IND] Team Rebound,-22,7,4,,0,,1611661325,4,15,0,1
+01:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,15,0,1
+01:49,[IND] Cannon Substitution replaced by Smith,0,-80,8,,1628242,1631019,1611661325,4,15,0,1
+01:49,[CHI] Williams Substitution replaced by Hebard,0,-80,8,,204322,1630113,1611661329,4,15,0,1
+01:49,[IND] Team Turnover : 5 Second Violation,-145,-20,5,,0,1629178,1611661325,4,15,0,1
+01:38,[CHI] Evans 3pt Shot: Missed,188,256,2,,1630389,,1611661329,4,15,0,1
+01:34,[IND] Mitchell Rebound (Off:0 Def:1),188,256,4,,1628909,,1611661325,4,15,0,1
+01:27,[IND 6-15] Mitchell Driving Finger Roll Layup Shot: Made (4 PTS),-1,5,1,,1628909,,1611661325,6,15,2,1
+01:17,[CHI] Evans Pullup Jump shot: Missed Block: Zahui B (1 BLK),1,192,2,204320,1630389,,1611661329,6,15,0,1
+01:14,[IND] Smith Rebound (Off:0 Def:2),1,192,4,,1631019,,1611661325,6,15,0,1
+01:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,15,0,1
+01:05,[IND 9-15] Mitchell 3pt Shot: Made (7 PTS) Assist: Berger (1 AST),233,-6,1,,1628909,1641658,1611661325,9,15,3,1
+00:54.0,[CHI] Williams Pullup Jump shot: Missed,-96,54,2,,1627675,,1611661329,9,15,0,1
+00:51.2,[IND] Smith Rebound (Off:0 Def:3),-96,54,4,,1631019,,1611661325,9,15,0,1
+00:42.3,[IND] Smith 3pt Shot: Missed,175,196,2,,1631019,,1611661325,9,15,0,1
+00:38.8,[IND] Mitchell Rebound (Off:1 Def:1),175,196,4,,1628909,,1611661325,9,15,0,1
+00:34.1,[IND] Smith Turnover : Out of Bounds - Bad Pass Turnover (2 TO),65,182,5,,1631019,1629178,1611661325,9,15,0,1
+00:34.1,[CHI] Williams Substitution replaced by Copper,0,-80,8,,1627675,1627674,1611661329,9,15,0,1
+00:17.5,[CHI 18-9] Copper 3pt Shot: Made (5 PTS) Assist: Smith (2 AST),-130,235,1,,1627674,1629501,1611661329,9,18,3,1
+00:03.9,[IND] Mitchell Pullup Jump shot: Missed,68,162,2,,1628909,,1611661325,9,18,0,1
+00:00.7,[CHI] Hebard Rebound (Off:0 Def:1),68,162,4,,1630113,,1611661329,9,18,0,1
+00:00.0,End Period,0,-80,13,,0,,0,9,18,0,1
+10:00,Start Period,0,-80,12,,0,,0,9,18,0,2
+09:48,[CHI] Hebard Foul: Personal (1 PF),-7,91,6,1631019,1630113,1629178,1611661329,9,18,0,2
+09:41,[IND 11-18] Smith Pullup Jump shot: Made (2 PTS) Assist: Wheeler (1 AST),-33,203,1,,1631019,204365,1611661325,11,18,2,2
+09:12,[CHI] Bertsch Pullup Jump shot: Missed,117,128,2,,1629571,,1611661329,11,18,0,2
+09:09,[IND] Team Rebound,117,128,4,,0,,1611661325,11,18,0,2
+09:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,18,0,2
+08:58,[IND 13-18] Wheeler Pullup Jump shot: Made (2 PTS),94,101,1,,204365,,1611661325,13,18,2,2
+08:38,[CHI] Hebard Turnaround Jump Shot: Missed,28,36,2,,1630113,,1611661329,13,18,0,2
+08:35,[CHI] Hebard Rebound (Off:1 Def:1),28,36,4,,1630113,,1611661329,13,18,0,2
+08:35,[CHI 20-13] Hebard Putback Layup Shot: Made (2 PTS),16,54,1,,1630113,,1611661329,13,20,2,2
+08:25,[IND 15-20] Smith Pullup Jump shot: Made (4 PTS) Assist: Berger (2 AST),-20,144,1,,1631019,1641658,1611661325,15,20,2,2
+08:11,[CHI] Parks 3pt Shot: Missed,232,49,2,,1641641,,1611661329,15,20,0,2
+08:09,[IND] Caldwell Rebound (Off:0 Def:1),232,49,4,,1630471,,1611661325,15,20,0,2
+07:51,[CHI] Bertsch Foul: Shooting (1 PF) (2 FTA),0,1,6,1631019,1629571,202679,1611661329,15,20,0,2
+07:51,[IND] Smith Free Throw 1 of 2 Missed,0,-80,3,,1631019,,1611661325,15,20,0,2
+07:51,[IND] Team Rebound,0,-80,4,,0,,1611661325,15,20,0,2
+07:51,[CHI] Evans Substitution replaced by Williams,0,-80,8,,1630389,204322,1611661329,15,20,0,2
+07:51,[CHI] Hebard Substitution replaced by Mabrey,0,-80,8,,1630113,1629497,1611661329,15,20,0,2
+07:51,[IND] Smith Free Throw 2 of 2 Missed,0,-80,3,,1631019,,1611661325,15,20,0,2
+07:48,[CHI] Copper Rebound (Off:0 Def:1),0,-80,4,,1627674,,1611661329,15,20,0,2
+07:37,[CHI 23-15] Copper 3pt Shot: Made (8 PTS) Assist: Mabrey (1 AST),-99,256,1,,1627674,1629497,1611661329,15,23,3,2
+07:26,[IND 17-23] Caldwell Pullup Jump shot: Made (2 PTS) Assist: Wheeler (2 AST),110,137,1,,1630471,204365,1611661325,17,23,2,2
+07:06,[CHI 25-17] Mabrey Turnaround Jump Shot: Made (6 PTS),12,99,1,,1629497,,1611661329,17,25,2,2
+06:52,[IND 19-25] Wheeler Driving Finger Roll Layup Shot: Made (4 PTS),0,0,1,,204365,,1611661325,19,25,2,2
+06:39,[CHI 27-19] Copper Driving Finger Roll Layup Shot: Made (10 PTS),17,11,1,,1627674,,1611661329,19,27,2,2
+06:39,[IND] Caldwell Foul: Shooting (1 PF) (1 FTA),17,11,6,1627674,1630471,202679,1611661325,19,27,0,2
+06:39,[CHI] Bertsch Substitution replaced by Smith,0,-80,8,,1629571,1629501,1611661329,19,27,0,2
+06:39,[IND] Wheeler Substitution replaced by Boston,0,-80,8,,204365,1641648,1611661325,19,27,0,2
+06:39,[IND] Zahui B Substitution replaced by Mitchell,0,-80,8,,204320,1628909,1611661325,19,27,0,2
+06:39,[CHI 28-19] Copper Free Throw 1 of 1 (11 PTS),0,-80,3,,1627674,,1611661329,19,28,1,2
+06:25,[IND 21-28] Smith Turnaround Jump Shot: Made (6 PTS) Assist: Berger (3 AST),100,2,1,,1631019,1641658,1611661325,21,28,2,2
+06:06,[CHI 30-21] Copper Turnaround Jump Shot: Made (13 PTS) Assist: Parks (1 AST),-5,59,1,,1627674,1641641,1611661329,21,30,2,2
+05:52,[IND] Berger Pullup Jump shot: Missed,6,103,2,,1641658,,1611661325,21,30,0,2
+05:48,[CHI] Mabrey Rebound (Off:1 Def:2),6,103,4,,1629497,,1611661329,21,30,0,2
+05:45,[CHI 33-21] Copper 3pt Shot: Made (16 PTS) Assist: Mabrey (2 AST),-155,197,1,,1627674,1629497,1611661329,21,33,3,2
+05:34,[IND 23-33] Berger Pullup Jump shot: Made (2 PTS),72,148,1,,1641658,,1611661325,23,33,2,2
+05:27,[CHI] Mabrey Turnover : Bad Pass (1 TO) Steal:Caldwell (1 ST),137,516,5,1630471,1629497,,1611661329,23,33,0,2
+05:24,[IND] Caldwell Layup Shot: Missed Block: Williams (2 BLK),13,3,2,204322,1630471,,1611661325,23,33,0,2
+05:19,[CHI] Mabrey Rebound (Off:1 Def:3),13,3,4,,1629497,,1611661329,23,33,0,2
+05:19,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,23,33,0,2
+05:19,[IND] Caldwell Substitution replaced by Vivians,0,-80,8,,1630471,1628927,1611661325,23,33,0,2
+05:19,[CHI] Parks Substitution replaced by Williams,0,-80,8,,1641641,1627675,1611661329,23,33,0,2
+05:17,Jump Ball Mabrey vs Mitchell (Williams gains possession),0,-80,10,1628909,1629497,1627675,1611661329,23,33,0,2
+05:08,[CHI] Copper 3pt Shot: Missed,170,202,2,,1627674,,1611661329,23,33,0,2
+05:05,[IND] Smith Rebound (Off:0 Def:4),170,202,4,,1631019,,1611661325,23,33,0,2
+04:43,[IND] Berger Pullup Jump shot: Missed,119,43,2,,1641658,,1611661325,23,33,0,2
+04:41,[CHI] Copper Rebound (Off:0 Def:2),119,43,4,,1627674,,1611661329,23,33,0,2
+04:31,[CHI] Williams 3pt Shot: Missed,-196,186,2,,1627675,,1611661329,23,33,0,2
+04:29,[IND] Berger Rebound (Off:0 Def:3),-196,186,4,,1641658,,1611661325,23,33,0,2
+04:28,[CHI] Copper Foul: Transition Take (2 PF) (1 FTA),-34,335,6,1641658,1627674,202679,1611661329,23,33,0,2
+04:28,[IND 24-33] Mitchell Free Throw 1 of 1 (8 PTS),0,-80,3,,1628909,,1611661325,24,33,1,2
+04:28,[IND] Berger Substitution replaced by Wheeler,0,-80,8,,1641658,204365,1611661325,24,33,0,2
+04:17,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Smith (2 ST),-73,8,5,1629501,1628909,,1611661325,24,33,0,2
+04:16,[IND] Smith Foul: Transition Take (1 PF) (1 FTA),67,817,6,1629501,1631019,1628702,1611661325,24,33,0,2
+04:16,[CHI 34-24] Mabrey Free Throw 1 of 1 (7 PTS),0,-80,3,,1629497,,1611661329,24,34,1,2
+04:00,[CHI 37-24] Williams 3pt Shot: Made (10 PTS) Assist: Mabrey (3 AST),143,240,1,,1627675,1629497,1611661329,24,37,3,2
+03:46,[IND 27-37] Vivians 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),234,-5,1,,1628927,1628909,1611661325,27,37,3,2
+03:23,[IND] Vivians Foul: Shooting (1 PF) (2 FTA),53,64,6,1627674,1628927,202679,1611661325,27,37,0,2
+03:23,[CHI 38-27] Copper Free Throw 1 of 2 (17 PTS),0,-80,3,,1627674,,1611661329,27,38,1,2
+03:23,[CHI 39-27] Copper Free Throw 2 of 2 (18 PTS),0,-80,3,,1627674,,1611661329,27,39,1,2
+03:12,[IND] Mitchell Turnover : Bad Pass (2 TO) Steal:Copper (2 ST),56,13,5,1627674,1628909,,1611661325,27,39,0,2
+03:06,[CHI] Mabrey Running Layup Shot: Missed,77,21,2,,1629497,,1611661329,27,39,0,2
+03:03,[IND] Smith Rebound (Off:0 Def:5),77,21,4,,1631019,,1611661325,27,39,0,2
+02:57,[CHI] Williams Foul: Personal (1 PF),11,212,6,1628909,204322,202679,1611661329,27,39,0,2
+02:57,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,27,39,0,2
+02:57,[CHI] Copper Substitution replaced by Evans,0,-80,8,,1627674,1630389,1611661329,27,39,0,2
+02:44,[CHI] Williams Foul: Shooting (2 PF) (2 FTA),23,0,6,1641648,204322,1628702,1611661329,27,39,0,2
+02:44,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,27,39,0,2
+02:44,[IND] Team Rebound,0,-80,4,,0,,1611661325,27,39,0,2
+02:44,[IND] Boston Free Throw 2 of 2 Missed,0,-80,3,,1641648,,1611661325,27,39,0,2
+02:42,[CHI] Williams Rebound (Off:0 Def:4),0,-80,4,,204322,,1611661329,27,39,0,2
+02:30,[CHI] Williams Turnover : Bad Pass (1 TO) Steal:Boston (1 ST),20,6,5,1641648,1627675,,1611661329,27,39,0,2
+02:12,[IND] Vivians 3pt Shot: Missed,-180,220,2,,1628927,,1611661325,27,39,0,2
+02:12,[CHI] Team Rebound,-245,-19,4,,0,,1611661329,27,39,0,2
+02:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,39,0,2
+01:58,[IND] Smith Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (2 PF) (1 FTA),0,-80,6,,1631019,202679,1611661325,27,39,0,2
+01:58,[CHI 40-27] Mabrey Free Throw Technical (8 PTS),0,-80,3,,1629497,,1611661329,27,40,1,2
+01:51,[CHI 42-27] Smith Jump Shot: Made (2 PTS) Assist: Williams (2 AST),-161,-12,1,,1629501,1627675,1611661329,27,42,2,2
+01:33,[IND 30-42] Smith 3pt Shot: Made (9 PTS) Assist: Vivians (1 AST),-150,231,1,,1631019,1628927,1611661325,30,42,3,2
+01:20,[CHI 45-30] Evans 3pt Shot: Made (3 PTS) Assist: Smith (3 AST),-228,62,1,,1630389,1629501,1611661329,30,45,3,2
+01:10,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,30,45,0,2
+01:10,[IND] Wheeler Substitution replaced by Berger,0,-80,8,,204365,1641658,1611661325,30,45,0,2
+01:03,[CHI] Smith Foul: Personal (2 PF) (2 FTA),110,113,6,1631019,1629501,1628702,1611661329,30,45,0,2
+01:03,[IND 31-45] Smith Free Throw 1 of 2 (10 PTS),0,-80,3,,1631019,,1611661325,31,45,1,2
+01:03,[IND 32-45] Smith Free Throw 2 of 2 (11 PTS),0,-80,3,,1631019,,1611661325,32,45,1,2
+00:52.2,[CHI 47-32] Mabrey Jump Bank Shot: Made (10 PTS) Assist: Williams (2 AST),81,19,1,,1629497,204322,1611661329,32,47,2,2
+00:36.7,[IND 34-47] Boston Driving Layup Shot: Made (2 PTS),5,-15,1,,1641648,,1611661325,34,47,2,2
+00:19.9,[CHI] Williams 3pt Shot: Missed,74,260,2,,1627675,,1611661329,34,47,0,2
+00:16.8,[CHI] Smith Rebound (Off:1 Def:1),74,260,4,,1629501,,1611661329,34,47,0,2
+00:15.9,[CHI 49-34] Smith Pullup Jump shot: Made (4 PTS),156,20,1,,1629501,,1611661329,34,49,2,2
+00:08.7,[IND] Vivians Pullup Jump shot: Missed,100,126,2,,1628927,,1611661325,34,49,0,2
+00:05.5,[CHI] Williams Rebound (Off:0 Def:3),100,126,4,,1627675,,1611661329,34,49,0,2
+00:02.5,[CHI] Evans 3pt Shot: Missed,188,210,2,,1630389,,1611661329,34,49,0,2
+00:02.5,[CHI] Team Rebound,188,210,4,,0,,1611661329,34,49,0,2
+00:00.0,End Period,0,-80,13,,0,,0,34,49,0,2
+10:00,Start Period,0,-80,12,,0,,0,34,49,0,3
+09:54,[IND] Boston Foul: Offensive (1 PF),73,161,6,1627675,1641648,1629178,1611661325,34,49,0,3
+09:54,[IND] Boston Turnover : Offensive Foul Turnover (2 TO),73,161,5,,1641648,1629178,1611661325,34,49,0,3
+09:37,[CHI 51-34] Mabrey Cutting Finger Roll Layup Shot: Made (12 PTS) Assist: Williams (3 AST),4,11,1,,1629497,204322,1611661329,34,51,2,3
+09:17,[IND] Boston Layup Shot: Missed,22,16,2,,1641648,,1611661325,34,51,0,3
+09:15,[IND] Team Rebound,22,16,4,,0,,1611661325,34,51,0,3
+09:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,51,0,3
+09:13,[IND] Smith 3pt Shot: Missed,84,253,2,,1631019,,1611661325,34,51,0,3
+09:10,[CHI] Williams Rebound (Off:0 Def:4),84,253,4,,1627675,,1611661329,34,51,0,3
+09:06,[CHI 53-34] Copper Running Pull-Up Jump Shot: Made (20 PTS),-134,80,1,,1627674,,1611661329,34,53,2,3
+08:49,[IND] Mitchell 3pt Shot: Missed,-74,246,2,,1628909,,1611661325,34,53,0,3
+08:47,[CHI] Williams Rebound (Off:0 Def:5),-74,246,4,,1627675,,1611661329,34,53,0,3
+08:43,[CHI 56-34] Copper 3pt Shot: Made (23 PTS) Assist: Mabrey (4 AST),-155,211,1,,1627674,1629497,1611661329,34,56,3,3
+08:41,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,34,56,0,3
+08:41,[CHI] Copper Substitution replaced by Parks,0,-80,8,,1627674,1641641,1611661329,34,56,0,3
+08:28,[IND] Smith Turnaround Jump Shot: Missed,66,78,2,,1631019,,1611661325,34,56,0,3
+08:26,[IND] Boston Rebound (Off:2 Def:3),66,78,4,,1641648,,1611661325,34,56,0,3
+08:25,[IND 36-56] Boston Putback Layup Shot: Made (4 PTS),0,-5,1,,1641648,,1611661325,36,56,2,3
+08:16,[CHI] Williams Turnover : Bad Pass (2 TO) Steal:Boston (2 ST),-178,216,5,1641648,1627675,,1611661329,36,56,0,3
+08:12,[IND 38-56] Vivians Running Layup Shot: Made (5 PTS) Assist: Wheeler (3 AST),11,21,1,,1628927,204365,1611661325,38,56,2,3
+07:51,[CHI 58-38] Williams Floating Jump shot: Made (12 PTS),45,85,1,,1627675,,1611661329,38,58,2,3
+07:35,[IND 40-58] Smith Jump Shot: Made (13 PTS) Assist: Mitchell (2 AST),-96,-24,1,,1631019,1628909,1611661325,40,58,2,3
+07:11,[CHI] Williams Turnover : Bad Pass (3 TO) Steal:Wheeler (1 ST),39,157,5,204365,1627675,,1611661329,40,58,0,3
+07:07,[IND 42-58] Wheeler Running Pull-Up Jump Shot: Made (6 PTS),11,97,1,,204365,,1611661325,42,58,2,3
+06:47,[CHI 61-42] Parks 3pt Shot: Made (3 PTS) Assist: Mabrey (5 AST),-154,241,1,,1641641,1629497,1611661329,42,61,3,3
+06:32,[IND] Smith Jump Shot: Missed,-105,138,2,,1631019,,1611661325,42,61,0,3
+06:29,[CHI] Smith Rebound (Off:1 Def:2),-105,138,4,,1629501,,1611661329,42,61,0,3
+06:15,[CHI] Smith 3pt Shot: Missed,125,222,2,,1629501,,1611661329,42,61,0,3
+06:13,[IND] Boston Rebound (Off:2 Def:4),125,222,4,,1641648,,1611661325,42,61,0,3
+06:09,[IND 44-61] Smith Running Layup Shot: Made (15 PTS) Assist: Wheeler (4 AST),0,4,1,,1631019,204365,1611661325,44,61,2,3
+06:09,[CHI] Williams Foul: Shooting (3 PF) (1 FTA),0,4,6,1631019,204322,202679,1611661329,44,61,0,3
+06:09,[CHI] Smith Substitution replaced by Koné,0,-80,8,,1629501,1631021,1611661329,44,61,0,3
+06:09,[IND] Wheeler Substitution replaced by Berger,0,-80,8,,204365,1641658,1611661325,44,61,0,3
+06:09,[IND 45-61] Smith Free Throw 1 of 1 (16 PTS),0,-80,3,,1631019,,1611661325,45,61,1,3
+05:51,[CHI 63-45] Mabrey Pullup Jump shot: Made (14 PTS),133,113,1,,1629497,,1611661329,45,63,2,3
+05:36,[IND] Smith Alley Oop Layup shot: Missed,17,1,2,,1631019,,1611661325,45,63,0,3
+05:34,[CHI] Williams Rebound (Off:0 Def:5),17,1,4,,204322,,1611661329,45,63,0,3
+05:23,[CHI 66-45] Williams 3pt Shot: Made (15 PTS) Assist: Mabrey (6 AST),0,270,1,,1627675,1629497,1611661329,45,66,3,3
+05:08,[IND] Berger Pullup Jump shot: Missed,66,90,2,,1641658,,1611661325,45,66,0,3
+05:04,[CHI] Williams Rebound (Off:0 Def:6),66,90,4,,1627675,,1611661329,45,66,0,3
+04:50,[CHI] Mabrey 3pt Shot: Missed,-45,252,2,,1629497,,1611661329,45,66,0,3
+04:47,[IND] Smith Rebound (Off:0 Def:6),-45,252,4,,1631019,,1611661325,45,66,0,3
+04:40,[IND] Smith Foul: Offensive Charge (3 PF),28,44,6,204322,1631019,1628702,1611661325,45,66,0,3
+04:40,[IND] Smith Turnover : Offensive Foul Turnover (3 TO),28,44,5,,1631019,1628702,1611661325,45,66,0,3
+04:40,[IND] Vivians Substitution replaced by Caldwell,0,-80,8,,1628927,1630471,1611661325,45,66,0,3
+04:25,[CHI] Williams Foul: Offensive Charge (4 PF),5,60,6,1631019,204322,202679,1611661329,45,66,0,3
+04:25,[CHI] Williams Turnover : Offensive Foul Turnover (1 TO),5,60,5,,204322,202679,1611661329,45,66,0,3
+04:13,[IND] Boston Foul: Offensive (2 PF),12,36,6,204322,1641648,1628702,1611661325,45,66,0,3
+04:13,[IND] Boston Turnover : Offensive Foul Turnover (3 TO),12,36,5,,1641648,1628702,1611661325,45,66,0,3
+04:13,[CHI] Williams Substitution replaced by Hebard,0,-80,8,,204322,1630113,1611661329,45,66,0,3
+03:54,[CHI] Mabrey Pullup Jump shot: Missed,32,163,2,,1629497,,1611661329,45,66,0,3
+03:52,[IND] Berger Rebound (Off:0 Def:4),32,163,4,,1641658,,1611661325,45,66,0,3
+03:46,[CHI] Hebard Foul: Personal (2 PF),12,44,6,1641648,1630113,1628702,1611661329,45,66,0,3
+03:46,[IND] Smith Substitution replaced by Cannon,0,-80,8,,1631019,1628242,1611661325,45,66,0,3
+03:46,[CHI] Mabrey Substitution replaced by Evans,0,-80,8,,1629497,1630389,1611661329,45,66,0,3
+03:37,[IND] Cannon Hook Shot: Missed,4,35,2,,1628242,,1611661325,45,66,0,3
+03:34,[CHI] Parks Rebound (Off:0 Def:1),4,35,4,,1641641,,1611661329,45,66,0,3
+03:27,[CHI] Evans Step Back Jump shot: Missed,11,171,2,,1630389,,1611661329,45,66,0,3
+03:21,[IND] Caldwell Rebound (Off:0 Def:2),11,171,4,,1630471,,1611661325,45,66,0,3
+03:13,[CHI] Williams Foul: Shooting (1 PF) (2 FTA),4,-6,6,1628242,1627675,202679,1611661329,45,66,0,3
+03:13,[IND 46-66] Cannon Free Throw 1 of 2 (3 PTS),0,-80,3,,1628242,,1611661325,46,66,1,3
+03:13,[CHI] Williams Substitution replaced by Copper,0,-80,8,,1627675,1627674,1611661329,46,66,0,3
+03:13,[IND 47-66] Cannon Free Throw 2 of 2 (4 PTS),0,-80,3,,1628242,,1611661325,47,66,1,3
+03:01,[CHI] Copper 3pt Shot: Missed,82,254,2,,1627674,,1611661329,47,66,0,3
+02:57,[IND] Mitchell Rebound (Off:1 Def:2),82,254,4,,1628909,,1611661325,47,66,0,3
+02:50,[IND] Berger Pullup Jump shot: Missed,-105,37,2,,1641658,,1611661325,47,66,0,3
+02:47,[CHI] Copper Rebound (Off:0 Def:3),-105,37,4,,1627674,,1611661329,47,66,0,3
+02:36,[CHI] Hebard Jump Shot: Missed,-1,40,2,,1630113,,1611661329,47,66,0,3
+02:34,[CHI] Team Rebound,-1,40,4,,0,,1611661329,47,66,0,3
+02:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,66,0,3
+02:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,66,0,3
+02:31,[CHI 68-47] Copper Jump Shot: Made (25 PTS) Assist: Evans (2 AST),-151,97,1,,1627674,1630389,1611661329,47,68,2,3
+02:19,[IND] Caldwell 3pt Shot: Missed,79,242,2,,1630471,,1611661325,47,68,0,3
+02:14,[CHI] Copper Rebound (Off:0 Def:4),79,242,4,,1627674,,1611661329,47,68,0,3
+02:05,[CHI 71-47] Koné 3pt Shot: Made (3 PTS) Assist: Copper (1 AST),-215,133,1,,1631021,1627674,1611661329,47,71,3,3
+01:54,[IND] Caldwell 3pt Shot: Missed,239,24,2,,1630471,,1611661325,47,71,0,3
+01:49,[CHI] Koné Rebound (Off:0 Def:1),239,24,4,,1631021,,1611661329,47,71,0,3
+01:49,[CHI] Team Timeout : Short,0,-80,9,,1611661329,,1611661329,47,71,0,3
+01:49,[IND] Caldwell Substitution replaced by Wheeler,0,-80,8,,1630471,204365,1611661325,47,71,0,3
+01:49,[CHI] Copper Substitution replaced by Mabrey,0,-80,8,,1627674,1629497,1611661329,47,71,0,3
+01:40,[CHI] Evans 3pt Shot: Missed,-9,257,2,,1630389,,1611661329,47,71,0,3
+01:37,[IND] Team Rebound,-9,257,4,,0,,1611661325,47,71,0,3
+01:37,[CHI] Koné Foul: Loose Ball (1 PF),38,794,6,1628909,1631021,1629178,1611661329,47,71,0,3
+01:17,[IND] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (1 TO),78,103,5,,204365,1628702,1611661325,47,71,0,3
+01:02,[CHI 74-47] Mabrey 3pt Shot: Made (17 PTS) Assist: Evans (3 AST),-194,189,1,,1629497,1630389,1611661329,47,74,3,3
+00:50.5,[CHI] Koné Foul: Personal (2 PF) (2 FTA),27,44,6,1641648,1631021,1628702,1611661329,47,74,0,3
+00:50.5,[IND 48-74] Boston Free Throw 1 of 2 (5 PTS),0,-80,3,,1641648,,1611661325,48,74,1,3
+00:50.5,[IND 49-74] Boston Free Throw 2 of 2 (6 PTS),0,-80,3,,1641648,,1611661325,49,74,1,3
+00:37.7,[CHI] Parks 3pt Shot: Missed,-239,28,2,,1641641,,1611661329,49,74,0,3
+00:35.3,[IND] Team Rebound,-239,28,4,,0,,1611661325,49,74,0,3
+00:35.3,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,74,0,3
+00:21.6,[IND] Boston Foul: Offensive (3 PF),-63,30,6,1630113,1641648,1629178,1611661325,49,74,0,3
+00:21.6,[IND] Boston Turnover : Offensive Foul Turnover (4 TO),-63,30,5,,1641648,1629178,1611661325,49,74,0,3
+00:21.6,[IND] Boston Substitution replaced by Zahui B,0,-80,8,,1641648,204320,1611661325,49,74,0,3
+00:02.1,[CHI] Parks Driving Layup Shot: Missed,-1,18,2,,1641641,,1611661329,49,74,0,3
+00:02.1,[CHI] Hebard Rebound (Off:2 Def:1),-1,18,4,,1630113,,1611661329,49,74,0,3
+00:00.0,[CHI 76-49] Hebard Putback Layup Shot: Made (4 PTS),0,-5,1,,1630113,,1611661329,49,76,2,3
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,49,76,0,3
+00:00.0,End Period,0,-80,13,,0,,0,49,76,0,3
+10:00,Start Period,0,-80,12,,0,,0,49,76,0,4
+09:38,[CHI] Parks 3pt Shot: Missed,-238,0,2,,1641641,,1611661329,49,76,0,4
+09:34,[IND] Smith Rebound (Off:0 Def:7),-238,0,4,,1631019,,1611661325,49,76,0,4
+09:30,[IND 51-76] Mitchell Running Finger Roll Layup Shot: Made (10 PTS) Assist: Smith (1 AST),5,9,1,,1628909,1631019,1611661325,51,76,2,4
+09:19,[CHI] Mabrey Jump Shot: Missed,129,10,2,,1629497,,1611661329,51,76,0,4
+09:18,[IND] Team Rebound,129,10,4,,0,,1611661325,51,76,0,4
+09:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,76,0,4
+09:06,[IND 54-76] Zahui B 3pt Shot: Made (3 PTS) Assist: Berger (4 AST),-166,176,1,,204320,1641658,1611661325,54,76,3,4
+08:42,[IND] Zahui B Foul: Shooting (1 PF) (2 FTA),23,37,6,1630113,204320,1628702,1611661325,54,76,0,4
+08:42,[CHI] Hebard Free Throw 1 of 2 Missed,0,-80,3,,1630113,,1611661329,54,76,0,4
+08:42,[CHI] Team Rebound,0,-80,4,,0,,1611661329,54,76,0,4
+08:42,[CHI] Mabrey Substitution replaced by Williams,0,-80,8,,1629497,1627675,1611661329,54,76,0,4
+08:42,[CHI 77-54] Hebard Free Throw 2 of 2 (5 PTS),0,-80,3,,1630113,,1611661329,54,77,1,4
+08:34,[CHI] Koné Foul: Personal (3 PF),49,63,6,1631019,1631021,1628702,1611661329,54,77,0,4
+08:27,[IND] Zahui B Turnover : Out of Bounds - Bad Pass Turnover (1 TO),109,361,5,,204320,1629178,1611661325,54,77,0,4
+08:20,[IND] Wheeler Foul: Personal (1 PF),52,151,6,1630389,204365,1629178,1611661325,54,77,0,4
+08:09,[CHI] Williams Pullup Jump shot: Missed,49,168,2,,1627675,,1611661329,54,77,0,4
+08:07,[IND] Team Rebound,49,168,4,,0,,1611661325,54,77,0,4
+08:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,77,0,4
+07:55,[IND] Wheeler Turnover : Bad Pass (2 TO) Steal:Evans (1 ST),90,234,5,1630389,204365,,1611661325,54,77,0,4
+07:36,[CHI] Evans 3pt Shot: Missed,-199,167,2,,1630389,,1611661329,54,77,0,4
+07:33,[IND] Berger Rebound (Off:0 Def:5),-199,167,4,,1641658,,1611661325,54,77,0,4
+07:23,[IND] Berger Driving Layup Shot: Missed,16,11,2,,1641658,,1611661325,54,77,0,4
+07:21,[CHI] Williams Rebound (Off:0 Def:7),16,11,4,,1627675,,1611661329,54,77,0,4
+07:17,[CHI 79-54] Williams Running Pull-Up Jump Shot: Made (17 PTS),-35,110,1,,1627675,,1611661329,54,79,2,4
+06:55,[IND] Zahui B 3pt Shot: Missed,-74,264,2,,204320,,1611661325,54,79,0,4
+06:50,[CHI] Williams Rebound (Off:0 Def:8),-74,264,4,,1627675,,1611661329,54,79,0,4
+06:42,[CHI 81-54] Hebard Jump Shot: Made (7 PTS) Assist: Williams (3 AST),-24,183,1,,1630113,1627675,1611661329,54,81,2,4
+06:22,[IND] Smith Driving Layup Shot: Missed Block: Hebard (1 BLK),6,46,2,1630113,1631019,,1611661325,54,81,0,4
+06:20,[CHI] Hebard Rebound (Off:2 Def:2),6,46,4,,1630113,,1611661329,54,81,0,4
+06:16,[CHI 84-54] Parks 3pt Shot: Made (6 PTS) Assist: Williams (4 AST),174,187,1,,1641641,1627675,1611661329,54,84,3,4
+06:14,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,54,84,0,4
+06:14,[IND] Mitchell Substitution replaced by Caldwell,0,-80,8,,1628909,1630471,1611661325,54,84,0,4
+06:14,[IND] Smith Substitution replaced by Vivians,0,-80,8,,1631019,1628927,1611661325,54,84,0,4
+06:14,[IND] Wheeler Substitution replaced by Cannon,0,-80,8,,204365,1628242,1611661325,54,84,0,4
+06:14,[CHI] Williams Substitution replaced by Soule,0,-80,8,,1627675,1641667,1611661329,54,84,0,4
+06:01,[IND 56-84] Cannon Layup Shot: Made (6 PTS) Assist: Zahui B (1 AST),-11,-1,1,,1628242,204320,1611661325,56,84,2,4
+05:38,[CHI] Soule Driving Layup Shot: Missed,6,-6,2,,1641667,,1611661329,56,84,0,4
+05:35,[IND] Vivians Rebound (Off:0 Def:2),6,-6,4,,1628927,,1611661325,56,84,0,4
+05:14,[IND] Cannon Jump Shot: Missed,-146,4,2,,1628242,,1611661325,56,84,0,4
+05:11,[CHI] Koné Rebound (Off:0 Def:2),-146,4,4,,1631021,,1611661329,56,84,0,4
+05:07,[CHI] Parks 3pt Shot: Missed,168,201,2,,1641641,,1611661329,56,84,0,4
+05:04,[CHI] Koné Rebound (Off:1 Def:2),168,201,4,,1631021,,1611661329,56,84,0,4
+05:02,[CHI 86-56] Soule Layup Shot: Made (2 PTS) Assist: Koné (1 AST),8,-4,1,,1641667,1631021,1611661329,56,86,2,4
+04:50,[IND 59-86] Cannon 3pt Shot: Made (9 PTS) Assist: Berger (5 AST),-111,257,1,,1628242,1641658,1611661325,59,86,3,4
+04:36,[CHI 88-59] Evans Floating Jump shot: Made (5 PTS),13,66,1,,1630389,,1611661329,59,88,2,4
+04:27,[IND] Vivians 3pt Shot: Missed,-164,232,2,,1628927,,1611661325,59,88,0,4
+04:27,[IND] Berger Rebound (Off:1 Def:5),-164,232,4,,1641658,,1611661325,59,88,0,4
+04:24,[CHI] Parks Foul: Shooting (1 PF) (2 FTA),0,-6,6,1641658,1641641,1628702,1611661329,59,88,0,4
+04:24,Timeout Officials,0,-80,9,,0,,0,59,88,0,4
+04:24,[IND] Zahui B Substitution replaced by Saxton,0,-80,8,,204320,1641687,1611661325,59,88,0,4
+04:24,[CHI] Hebard Substitution replaced by Bertsch,0,-80,8,,1630113,1629571,1611661329,59,88,0,4
+04:24,[IND 60-88] Berger Free Throw 1 of 2 (3 PTS),0,-80,3,,1641658,,1611661325,60,88,1,4
+04:24,[IND 61-88] Berger Free Throw 2 of 2 (4 PTS),0,-80,3,,1641658,,1611661325,61,88,1,4
+04:06,[CHI] Koné Turnover : 3 Second Violation (1 TO),-6,44,5,,1631021,1628702,1611661329,61,88,0,4
+03:58,[CHI] Bertsch Foul: Personal (2 PF),4,14,6,1641687,1629571,1629178,1611661329,61,88,0,4
+03:51,[CHI] Koné Foul: Shooting (4 PF) (2 FTA),139,9,6,1630471,1631021,1628702,1611661329,61,88,0,4
+03:51,[IND 62-88] Caldwell Free Throw 1 of 2 (3 PTS),0,-80,3,,1630471,,1611661325,62,88,1,4
+03:51,[IND 63-88] Caldwell Free Throw 2 of 2 (4 PTS),0,-80,3,,1630471,,1611661325,63,88,1,4
+03:30,[CHI] Evans Turnover : Lost Ball (1 TO) Steal:Caldwell (2 ST),-27,103,5,1630471,1630389,,1611661329,63,88,0,4
+03:26,[IND 65-88] Caldwell Running Finger Roll Layup Shot: Made (6 PTS) Assist: Berger (6 AST),5,9,1,,1630471,1641658,1611661325,65,88,2,4
+03:11,[IND] Berger Foul: Personal (1 PF),-148,193,6,1630389,1641658,202679,1611661325,65,88,0,4
+03:04,[CHI] Evans Turnover : Bad Pass (2 TO) Steal:Saxton (1 ST),-59,151,5,1641687,1630389,,1611661329,65,88,0,4
+02:59,[IND] Berger Turnover : Out of Bounds - Bad Pass Turnover (1 TO),68,144,5,,1641658,202679,1611661325,65,88,0,4
+02:59,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,65,88,0,4
+02:42,[CHI 91-65] Parks 3pt Shot: Made (9 PTS) Assist: Evans (4 AST),172,225,1,,1641641,1630389,1611661329,65,91,3,4
+02:17,[IND 67-91] Saxton Cutting Layup Shot: Made (2 PTS) Assist: Cannon (1 AST),-1,24,1,,1641687,1628242,1611661325,67,91,2,4
+01:52,[CHI] Evans Driving Finger Roll Layup Shot: Missed,15,2,2,,1630389,,1611661329,67,91,0,4
+01:49,[IND] Cannon Rebound (Off:0 Def:1),15,2,4,,1628242,,1611661325,67,91,0,4
+01:38,[CHI] Soule Foul: Shooting (1 PF) (2 FTA),24,-1,6,1628242,1641667,1629178,1611661329,67,91,0,4
+01:38,[IND 68-91] Cannon Free Throw 1 of 2 (10 PTS),0,-80,3,,1628242,,1611661325,68,91,1,4
+01:38,[IND] Cannon Free Throw 2 of 2 Missed,0,-80,3,,1628242,,1611661325,68,91,0,4
+01:36,[CHI] Koné Rebound (Off:1 Def:3),0,-80,4,,1631021,,1611661329,68,91,0,4
+01:17,[CHI] Soule Jump Shot: Missed,141,-9,2,,1641667,,1611661329,68,91,0,4
+01:12,[IND] Cannon Rebound (Off:0 Def:2),141,-9,4,,1628242,,1611661325,68,91,0,4
+01:09,[CHI] Parks Foul: Shooting (2 PF) (2 FTA),20,-5,6,1628927,1641641,202679,1611661329,68,91,0,4
+01:09,[IND 69-91] Vivians Free Throw 1 of 2 (6 PTS),0,-80,3,,1628927,,1611661325,69,91,1,4
+01:09,[IND] Vivians Free Throw 2 of 2 Missed,0,-80,3,,1628927,,1611661325,69,91,0,4
+01:07,[CHI] Soule Rebound (Off:0 Def:1),0,-80,4,,1641667,,1611661329,69,91,0,4
+00:49.8,[CHI 93-69] Parks Step Back Jump shot: Made (11 PTS) Assist: Evans (5 AST),-26,198,1,,1641641,1630389,1611661329,69,93,2,4
+00:43.9,[IND] Vivians 3pt Shot: Missed,-175,203,2,,1628927,,1611661325,69,93,0,4
+00:40.4,[CHI] Bertsch Rebound (Off:0 Def:1),-175,203,4,,1629571,,1611661329,69,93,0,4
+00:30.6,[CHI 96-69] Koné 3pt Shot: Made (6 PTS) Assist: Parks (2 AST),224,70,1,,1631021,1641641,1611661329,69,96,3,4
+00:21.6,[IND] Berger Turnover : Out of Bounds - Bad Pass Turnover (2 TO),43,101,5,,1641658,1629178,1611661325,69,96,0,4
+00:00.0,End Period,0,-80,13,,0,,0,69,96,0,4

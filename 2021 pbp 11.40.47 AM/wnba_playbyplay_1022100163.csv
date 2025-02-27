@@ -1,0 +1,405 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:58,Jump Ball Griner vs McCowan (Taurasi gains possession),0,-80,10,1629479,203398,100940,1611661317,0,0,1
+09:44,[PHO] Griner Turnover : Lost Ball (1 TO) Steal:Allen (1 ST),-119,108,5,1628263,203398,,1611661317,0,0,1
+09:28,[IND] Allen Pullup Jump shot: Missed,-9,167,2,,1628263,,1611661325,0,0,1
+09:24,[PHO] Turner Rebound (Off:0 Def:1),-9,167,4,,1629488,,1611661317,0,0,1
+09:19,[PHO] Taurasi 3pt Shot: Missed,-36,270,2,,100940,,1611661317,0,0,1
+09:15,[IND] Breland Rebound (Off:0 Def:1),-36,270,4,,202638,,1611661325,0,0,1
+09:08,[IND] McCowan Jump Shot: Missed,1,201,2,,1629479,,1611661325,0,0,1
+09:05,[PHO] Turner Rebound (Off:0 Def:2),1,201,4,,1629488,,1611661317,0,0,1
+08:57,[PHO 2-0] Griner Jump Shot: Made (2 PTS) Assist: Diggins-Smith (1 AST),-109,153,1,,203398,203400,1611661317,0,2,1
+08:45,[IND] Mitchell Cutting Finger Roll Layup Shot: Missed,1,4,2,,1628909,,1611661325,0,2,1
+08:42,[PHO] Griner Rebound (Off:0 Def:1),1,4,4,,203398,,1611661317,0,2,1
+08:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,2,1
+08:33,[PHO] Diggins-Smith 3pt Shot: Missed,183,187,2,,203400,,1611661317,0,2,1
+08:29,[IND] McCowan Rebound (Off:0 Def:1),183,187,4,,1629479,,1611661325,0,2,1
+08:18,[PHO] Griner Foul: Personal (1 PF),63,6,6,1629479,203398,,1611661317,0,2,1
+08:09,[IND 3-2] Mitchell 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),187,162,1,,1627676,1628909,1611661325,3,2,1
+07:47,[PHO 4-3] Diggins-Smith Turnaround Jump Shot: Made (2 PTS),-11,55,1,,203400,,1611661317,3,4,1
+07:34,[IND] Mitchell 3pt Shot: Missed,-113,232,2,,1628909,,1611661325,3,4,1
+07:31,[PHO] Griner Rebound (Off:0 Def:2),-113,232,4,,203398,,1611661317,3,4,1
+07:26,[PHO] Nurse Running Layup Shot: Missed,-7,6,2,,1628915,,1611661317,3,4,1
+07:25,[PHO] Team Rebound,-7,6,4,,0,,1611661317,3,4,1
+07:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,3,4,1
+07:13,[PHO] Taurasi Turnover : Bad Pass (1 TO) Steal:McCowan (1 ST),139,31,5,1629479,100940,,1611661317,3,4,1
+07:09,[IND] Mitchell Running Layup Shot: Missed,-8,4,2,,1627676,,1611661325,3,4,1
+07:06,[PHO] Nurse Rebound (Off:0 Def:1),-8,4,4,,1628915,,1611661317,3,4,1
+07:01,[PHO 6-3] Turner Layup Shot: Made (2 PTS) Assist: Taurasi (1 AST),3,19,1,,1629488,100940,1611661317,3,6,1
+06:46,[IND 5-6] Mitchell Pullup Jump shot: Made (2 PTS),115,140,1,,1628909,,1611661325,5,6,1
+06:34,[PHO 9-5] Nurse 3pt Shot: Made (3 PTS) Assist: Turner (1 AST),232,37,1,,1628915,1629488,1611661317,5,9,1
+06:11,[PHO] Turner Foul: Personal (1 PF),50,35,6,1629479,1629488,,1611661317,5,9,1
+06:08,[IND] Mitchell Jump Shot: Missed,152,96,2,,1628909,,1611661325,5,9,1
+06:07,[PHO] Team Rebound,152,96,4,,0,,1611661317,5,9,1
+06:07,[IND] Breland Foul: Loose Ball (1 PF),138,807,6,1629488,202638,,1611661325,5,9,1
+05:58,[PHO] Nurse Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-81,252,5,,1628915,,1611661317,5,9,1
+05:58,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1627676,1628927,1611661325,5,9,1
+05:36,[IND 7-9] Breland Pullup Jump shot: Made (2 PTS),81,153,1,,202638,,1611661325,7,9,1
+05:16,[PHO] Taurasi Turnover : Bad Pass (2 TO) Steal:Mitchell (1 ST),-48,-17,5,1628909,100940,,1611661317,7,9,1
+05:12,[IND 9-9] Allen Running Finger Roll Layup Shot: Made (2 PTS) Assist: Mitchell (2 AST),-9,13,1,,1628263,1628909,1611661325,9,9,1
+04:55,[PHO] Griner Layup Shot: Missed,-24,43,2,202638,203398,,1611661317,9,9,1
+04:51,[PHO] Griner Rebound (Off:1 Def:2),-24,43,4,,203398,,1611661317,9,9,1
+04:51,[PHO 11-9] Griner Putback Layup Shot: Made (4 PTS),0,-5,1,,203398,,1611661317,9,11,1
+04:43,[IND] McCowan Foul: Offensive (1 PF),84,51,6,1628915,1629479,,1611661325,9,11,1
+04:43,[IND] McCowan Turnover : Offensive Foul Turnover (1 TO),84,51,5,,1629479,,1611661325,9,11,1
+04:43,Timeout Officials,0,-80,9,,0,,0,9,11,1
+04:43,[IND] Breland Substitution replaced by Lavender,0,-80,8,,202638,202650,1611661325,9,11,1
+04:43,[PHO] Taurasi Substitution replaced by Vaughn,0,-80,8,,100940,201913,1611661317,9,11,1
+04:43,[PHO] Turner Substitution replaced by Peddy,0,-80,8,,1629488,203035,1611661317,9,11,1
+04:29,[PHO] Nurse 3pt Shot: Missed,236,80,2,,1628915,,1611661317,9,11,1
+04:27,[PHO] Vaughn Rebound (Off:1 Def:0),236,80,4,,201913,,1611661317,9,11,1
+04:19,[PHO] Diggins-Smith Pullup Jump shot: Missed,70,178,2,,203400,,1611661317,9,11,1
+04:15,[IND] Vivians Rebound (Off:0 Def:1),70,178,4,,1628927,,1611661325,9,11,1
+04:00,[IND] Vivians Turnover : Traveling (1 TO),137,121,5,,1628927,,1611661325,9,11,1
+03:42,[PHO] Peddy 3pt Shot: Missed,-65,266,2,,203035,,1611661317,9,11,1
+03:35,[IND] Lavender Rebound (Off:0 Def:1),-65,266,4,,202650,,1611661325,9,11,1
+03:35,[IND] Lavender Turnover : Bad Pass (1 TO) Steal:Diggins-Smith (1 ST),-137,801,5,203400,202650,,1611661325,9,11,1
+03:33,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,9,11,1
+03:27,[PHO 13-9] Vaughn Jump Shot: Made (2 PTS) Assist: Diggins-Smith (2 AST),-170,99,1,,201913,203400,1611661317,9,13,1
+03:09,[IND] McCowan Layup Shot: Missed,1,3,2,203398,1629479,,1611661325,9,13,1
+03:07,[IND] McCowan Rebound (Off:1 Def:1),1,3,4,,1629479,,1611661325,9,13,1
+03:06,[IND 11-13] McCowan Putback Layup Shot: Made (2 PTS),-5,10,1,,1629479,,1611661325,11,13,1
+02:53,[IND] McCowan Foul: Personal (2 PF),-101,65,6,203398,1629479,,1611661325,11,13,1
+02:53,[IND] Lavender Substitution replaced by Cannon,0,-80,8,,202650,1628242,1611661325,11,13,1
+02:53,[PHO] Nurse Substitution replaced by Cunningham,0,-80,8,,1628915,1629482,1611661317,11,13,1
+02:53,[IND] McCowan Substitution replaced by Breland,0,-80,8,,1629479,202638,1611661325,11,13,1
+02:48,[PHO 15-11] Griner Driving Layup Shot: Made (6 PTS),8,7,1,,203398,,1611661317,11,15,1
+02:33,[IND] Allen 3pt Shot: Missed,217,134,2,,1628263,,1611661325,11,15,1
+02:31,[PHO] Peddy Rebound (Off:0 Def:1),217,134,4,,203035,,1611661317,11,15,1
+02:11,[PHO] Griner Turnaround Jump Shot: Missed,65,19,2,,203398,,1611661317,11,15,1
+02:07,[IND] Breland Rebound (Off:0 Def:2),65,19,4,,202638,,1611661325,11,15,1
+02:01,[IND 14-15] Mitchell 3pt Shot: Made (5 PTS) Assist: Allen (1 AST),201,146,1,,1628909,1628263,1611661325,14,15,1
+01:34,[PHO] Vaughn Jump Shot: Missed,14,196,2,,201913,,1611661317,14,15,1
+01:30,[IND] Cannon Rebound (Off:0 Def:1),14,196,4,,1628242,,1611661325,14,15,1
+01:26,[IND] Mitchell Pullup Jump shot: Missed,-65,121,2,,1628909,,1611661325,14,15,1
+01:24,[IND] Mitchell Rebound (Off:1 Def:0),-65,121,4,,1628909,,1611661325,14,15,1
+01:23,[IND 16-15] Mitchell Jump Shot: Made (7 PTS),11,158,1,,1628909,,1611661325,16,15,1
+01:06,[PHO 17-16] Diggins-Smith Driving Floating Jump Shot: Made (4 PTS),-1,54,1,,203400,,1611661317,16,17,1
+01:02,[PHO] Griner Foul: Personal (2 PF),6,21,6,1628909,203398,,1611661317,16,17,1
+01:02,[IND] Allen Substitution replaced by Mitchell,0,-80,8,,1628263,1627676,1611661325,16,17,1
+01:02,[PHO] Diggins-Smith Substitution replaced by Taurasi,0,-80,8,,203400,100940,1611661317,16,17,1
+01:02,[PHO] Griner Substitution replaced by Turner,0,-80,8,,203398,1629488,1611661317,16,17,1
+00:48.9,[IND] Vivians 3pt Shot: Missed,-193,133,2,,1628927,,1611661325,16,17,1
+00:46.4,[PHO] Cunningham Rebound (Off:0 Def:1),-193,133,4,,1629482,,1611661317,16,17,1
+00:23.3,[PHO] Vaughn Turnaround Hook Shot: Missed,-11,56,2,,201913,,1611661317,16,17,1
+00:21.1,[IND] Breland Rebound (Off:0 Def:3),-11,56,4,,202638,,1611661325,16,17,1
+00:04.3,[IND 18-17] Mitchell Pullup Jump shot: Made (9 PTS),-82,181,1,,1628909,,1611661325,18,17,1
+00:04.3,[PHO] Vaughn Foul: Shooting (1 PF) (1 FTA),-82,181,6,1628909,201913,,1611661317,18,17,1
+00:04.3,[IND 19-17] Mitchell Free Throw 1 of 1 (10 PTS),0,-80,3,,1628909,,1611661325,19,17,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,19,17,1
+00:00.0,End Period,0,-80,13,,0,,0,19,17,1
+10:00,Start Period,0,-80,12,,0,,0,19,17,2
+09:45,[IND 21-17] Vivians Pullup Jump shot: Made (2 PTS),135,51,1,,1628927,,1611661325,21,17,2
+09:45,[PHO] Vaughn Foul: Away From Play (2 PF) (1 FTA),135,51,6,1628242,201913,,1611661317,21,17,2
+09:45,[IND 22-17] Cannon Free Throw 1 of 1 (1 PTS),0,-80,3,,1628242,,1611661325,22,17,2
+09:29,[PHO] Taurasi 3pt Shot: Missed,-185,189,2,,100940,,1611661317,22,17,2
+09:27,[IND] Team Rebound,-185,189,4,,0,,1611661325,22,17,2
+09:27,[PHO] Vaughn Foul: Loose Ball (3 PF),11,790,6,202638,201913,,1611661317,22,17,2
+09:06,[IND] Vivians 3pt Shot: Missed,132,258,2,,1628927,,1611661325,22,17,2
+09:03,[PHO] Team Rebound,132,258,4,,0,,1611661317,22,17,2
+09:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,17,2
+08:49,[PHO] Vaughn Jump Shot: Missed,141,61,2,,201913,,1611661317,22,17,2
+08:45,[IND] Vivians Rebound (Off:0 Def:2),141,61,4,,1628927,,1611661325,22,17,2
+08:38,[PHO] Peddy Foul: Personal (1 PF),-82,76,6,1628909,203035,,1611661317,22,17,2
+08:38,[PHO] Vaughn Substitution replaced by Diggins-Smith,0,-80,8,,201913,203400,1611661317,22,17,2
+08:38,[PHO] Peddy Substitution replaced by Griner,0,-80,8,,203035,203398,1611661317,22,17,2
+08:31,[PHO] Cunningham Foul: Shooting (1 PF) (2 FTA),1,10,6,1627676,1629482,,1611661317,22,17,2
+08:31,[IND 23-17] Mitchell Free Throw 1 of 2 (4 PTS),0,-80,3,,1627676,,1611661325,23,17,2
+08:31,[IND 24-17] Mitchell Free Throw 2 of 2 (5 PTS),0,-80,3,,1627676,,1611661325,24,17,2
+08:22,[PHO 19-24] Diggins-Smith Driving Finger Roll Layup Shot: Made (6 PTS),14,1,1,,203400,,1611661317,24,19,2
+08:11,[IND] Cannon Foul: Offensive (1 PF),18,230,6,203400,1628242,,1611661325,24,19,2
+08:11,[IND] Cannon Turnover : Offensive Foul Turnover (1 TO),18,230,5,,1628242,,1611661325,24,19,2
+08:00,[IND] Cannon Foul: Shooting (2 PF) (2 FTA),0,32,6,203400,1628242,,1611661325,24,19,2
+08:00,[PHO 20-24] Diggins-Smith Free Throw 1 of 2 (7 PTS),0,-80,3,,203400,,1611661317,24,20,2
+08:00,[PHO 21-24] Diggins-Smith Free Throw 2 of 2 (8 PTS),0,-80,3,,203400,,1611661317,24,21,2
+07:47,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),137,116,5,1629488,1627676,,1611661325,24,21,2
+07:40,[PHO 23-24] Taurasi Running Layup Shot: Made (2 PTS),2,15,1,,100940,,1611661317,24,23,2
+07:26,[IND] Mitchell 3pt Shot: Missed,109,240,2,,1628909,,1611661325,24,23,2
+07:22,[PHO] Cunningham Rebound (Off:0 Def:2),109,240,4,,1629482,,1611661317,24,23,2
+07:18,[PHO] Diggins-Smith 3pt Shot: Missed,170,204,2,,203400,,1611661317,24,23,2
+07:14,[PHO] Turner Rebound (Off:1 Def:2),170,204,4,,1629488,,1611661317,24,23,2
+07:13,[PHO] Diggins-Smith 3pt Shot: Missed,231,54,2,,203400,,1611661317,24,23,2
+07:09,[IND] Breland Rebound (Off:0 Def:4),231,54,4,,202638,,1611661325,24,23,2
+07:05,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,24,23,2
+07:05,[IND] Mitchell Substitution replaced by Allen,0,-80,8,,1628909,1628263,1611661325,24,23,2
+06:58,[IND] Allen Reverse Layup Shot: Missed,1,-1,2,,1628263,,1611661325,24,23,2
+06:57,[IND] Allen Rebound (Off:1 Def:0),1,-1,4,,1628263,,1611661325,24,23,2
+06:53,[IND] Allen Turnover : Lost Ball (1 TO) Steal:Diggins-Smith (2 ST),-139,-15,5,203400,1628263,,1611661325,24,23,2
+06:47,[PHO] Taurasi 3pt Shot: Missed,-223,78,2,,100940,,1611661317,24,23,2
+06:44,[PHO] Turner Rebound (Off:2 Def:2),-223,78,4,,1629488,,1611661317,24,23,2
+06:43,[PHO] Cunningham 3pt Shot: Missed,220,104,2,,1629482,,1611661317,24,23,2
+06:39,[IND] Cannon Rebound (Off:0 Def:2),220,104,4,,1628242,,1611661325,24,23,2
+06:28,[IND] Mitchell 3pt Shot: Missed,-170,167,2,,1627676,,1611661325,24,23,2
+06:26,[IND] Allen Rebound (Off:2 Def:0),-170,167,4,,1628263,,1611661325,24,23,2
+06:21,[IND 26-23] Allen Reverse Layup Shot: Made (4 PTS) Assist: Breland (1 AST),2,10,1,,1628263,202638,1611661325,26,23,2
+06:04,[PHO] Griner Turnaround Fadeaway Bank Jump Shot: Missed,-84,29,2,,203398,,1611661317,26,23,2
+06:03,[PHO] Griner Rebound (Off:2 Def:2),-84,29,4,,203398,,1611661317,26,23,2
+06:02,[PHO 25-26] Griner Putback Layup Shot: Made (8 PTS),-7,11,1,,203398,,1611661317,26,25,2
+05:37,[IND 28-25] Breland Layup Shot: Made (4 PTS),14,14,1,,202638,,1611661325,28,25,2
+05:22,[PHO] Griner Turnaround Jump Shot: Missed,-14,78,2,,203398,,1611661317,28,25,2
+05:20,[IND] Breland Rebound (Off:0 Def:5),-14,78,4,,202638,,1611661325,28,25,2
+05:11,[IND] Cannon Jump Shot: Missed,-50,173,2,,1628242,,1611661325,28,25,2
+05:09,[IND] Cannon Rebound (Off:1 Def:2),-50,173,4,,1628242,,1611661325,28,25,2
+05:07,[IND 30-25] Cannon Floating Jump shot: Made (3 PTS),25,30,1,,1628242,,1611661325,30,25,2
+04:56,[IND] Mitchell Foul: Personal (1 PF),-137,268,6,100940,1627676,,1611661325,30,25,2
+04:56,[IND] Breland Substitution replaced by Lavender,0,-80,8,,202638,202650,1611661325,30,25,2
+04:56,[PHO] Cunningham Substitution replaced by Nurse,0,-80,8,,1629482,1628915,1611661317,30,25,2
+04:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,25,2
+04:51,[IND] Mitchell Substitution replaced by Mitchell,0,-80,8,,1627676,1628909,1611661325,30,25,2
+04:49,[PHO 27-30] Turner Alley Oop Layup shot: Made (4 PTS) Assist: Taurasi (2 AST),-6,47,1,,1629488,100940,1611661317,30,27,2
+04:30,[IND 32-27] Allen Pullup Jump shot: Made (6 PTS),-96,143,1,,1628263,,1611661325,32,27,2
+04:13,[PHO 29-32] Griner Turnaround Fadeaway Bank Jump Shot: Made (10 PTS) Assist: Taurasi (3 AST),-13,13,1,,203398,100940,1611661317,32,29,2
+04:02,[IND] Cannon Turnover : Traveling (2 TO),89,219,5,,1628242,,1611661325,32,29,2
+03:49,[PHO] Griner Turnaround Jump Shot: Missed,37,16,2,,203398,,1611661317,32,29,2
+03:46,[IND] Vivians Rebound (Off:0 Def:3),37,16,4,,1628927,,1611661325,32,29,2
+03:39,[IND] Cannon Turnaround Jump Shot: Missed,13,38,2,1629488,1628242,,1611661325,32,29,2
+03:36,[IND] Cannon Rebound (Off:2 Def:2),13,38,4,,1628242,,1611661325,32,29,2
+03:36,[IND 34-29] Cannon Putback Layup Shot: Made (5 PTS),-10,16,1,,1628242,,1611661325,34,29,2
+03:24,[PHO] Taurasi 3pt Shot: Missed,204,178,2,,100940,,1611661317,34,29,2
+03:21,[IND] Mitchell Rebound (Off:1 Def:1),204,178,4,,1628909,,1611661325,34,29,2
+03:16,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Turner (2 ST),-76,46,5,1629488,1628909,,1611661325,34,29,2
+03:12,[IND] Vivians Foul: Shooting (1 PF) (2 FTA),15,32,6,203400,1628927,,1611661325,34,29,2
+03:12,[PHO 30-34] Diggins-Smith Free Throw 1 of 2 (9 PTS),0,-80,3,,203400,,1611661317,34,30,2
+03:12,[IND] Cannon Substitution replaced by Mitchell,0,-80,8,,1628242,1627676,1611661325,34,30,2
+03:12,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,34,30,2
+03:12,[PHO] Turner Substitution replaced by Vaughn,0,-80,8,,1629488,201913,1611661317,34,30,2
+03:12,[PHO 31-34] Diggins-Smith Free Throw 2 of 2 (10 PTS),0,-80,3,,203400,,1611661317,34,31,2
+02:49,[IND 36-31] Lavender Jump Shot: Made (2 PTS) Assist: Mitchell (1 AST),2,185,1,,202650,1627676,1611661325,36,31,2
+02:33,[PHO] Diggins-Smith Turnover : Bad Pass (1 TO) Steal:Vivians (1 ST),-28,287,5,1628927,203400,,1611661317,36,31,2
+02:31,[IND] Vivians Driving Layup Shot: Missed,6,10,2,203400,1628927,,1611661325,36,31,2
+02:31,[IND] Team Rebound,6,10,4,,0,,1611661325,36,31,2
+02:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,31,2
+02:31,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,36,31,2
+02:27,[PHO] Diggins-Smith Foul: Personal (1 PF) (2 FTA),111,-16,6,1628909,203400,,1611661317,36,31,2
+02:27,[IND 37-31] Mitchell Free Throw 1 of 2 (11 PTS),0,-80,3,,1628909,,1611661325,37,31,2
+02:27,[IND 38-31] Mitchell Free Throw 2 of 2 (12 PTS),0,-80,3,,1628909,,1611661325,38,31,2
+02:27,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,38,31,2
+02:11,[PHO] Nurse Driving Layup Shot: Missed,0,11,2,,1628915,,1611661317,38,31,2
+02:08,[PHO] Vaughn Rebound (Off:2 Def:0),0,11,4,,201913,,1611661317,38,31,2
+02:08,[IND] Allen Foul: Shooting (1 PF) (2 FTA),-48,3,6,201913,1628263,,1611661325,38,31,2
+02:08,[PHO 32-38] Vaughn Free Throw 1 of 2 (3 PTS),0,-80,3,,201913,,1611661317,38,32,2
+02:08,[PHO 33-38] Vaughn Free Throw 2 of 2 (4 PTS),0,-80,3,,201913,,1611661317,38,33,2
+01:48,[IND 40-33] Mitchell Driving Finger Roll Layup Shot: Made (7 PTS),1,-1,1,,1627676,,1611661325,40,33,2
+01:27,[PHO 35-40] Griner Turnaround Jump Shot: Made (12 PTS) Assist: Nurse (1 AST),-7,49,1,,203398,1628915,1611661317,40,35,2
+01:27,[IND] Lavender Foul: Shooting (1 PF) (1 FTA),-7,49,6,203398,202650,,1611661325,40,35,2
+01:27,[PHO 36-40] Griner Free Throw 1 of 1 (13 PTS),0,-80,3,,203398,,1611661317,40,36,2
+01:09,[IND] Lavender Jump Shot: Missed,-20,208,2,,202650,,1611661325,40,36,2
+01:07,[IND] Team Rebound,-20,208,4,,0,,1611661325,40,36,2
+01:07,[PHO] Diggins-Smith Foul: Personal (2 PF) (2 FTA),-52,51,6,1627676,203400,,1611661317,40,36,2
+01:07,[IND 41-36] Mitchell Free Throw 1 of 2 (8 PTS),0,-80,3,,1627676,,1611661325,41,36,2
+01:07,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,41,36,2
+01:07,[IND 42-36] Mitchell Free Throw 2 of 2 (9 PTS),0,-80,3,,1627676,,1611661325,42,36,2
+00:55.8,[PHO] Nurse Turnover : Bad Pass (2 TO) Steal:Mitchell (2 ST),161,134,5,1628909,1628915,,1611661317,42,36,2
+00:41.8,[IND 44-36] Mitchell Step Back Jump shot: Made (14 PTS) Assist: Allen (2 AST),-132,110,1,,1628909,1628263,1611661325,44,36,2
+00:27.6,[IND] Lavender Foul: Shooting (2 PF) (2 FTA),-48,42,6,203398,202650,,1611661325,44,36,2
+00:27.6,[PHO 37-44] Griner Free Throw 1 of 2 (14 PTS),0,-80,3,,203398,,1611661317,44,37,2
+00:27.6,[PHO] Vaughn Substitution replaced by Turner,0,-80,8,,201913,1629488,1611661317,44,37,2
+00:27.6,[PHO 38-44] Griner Free Throw 2 of 2 (15 PTS),0,-80,3,,203398,,1611661317,44,38,2
+00:10.6,[IND] Mitchell Driving Layup Shot: Missed,6,-2,2,,1628909,,1611661325,44,38,2
+00:08.5,[PHO] Turner Rebound (Off:2 Def:3),6,-2,4,,1629488,,1611661317,44,38,2
+00:05.6,[IND] Lavender Foul: Shooting (3 PF) (2 FTA),25,18,6,1628915,202650,,1611661325,44,38,2
+00:05.6,[PHO 39-44] Nurse Free Throw 1 of 2 (4 PTS),0,-80,3,,1628915,,1611661317,44,39,2
+00:05.6,[PHO 40-44] Nurse Free Throw 2 of 2 (5 PTS),0,-80,3,,1628915,,1611661317,44,40,2
+00:00.0,End Period,0,-80,13,,0,,0,44,40,2
+10:00,Start Period,0,-80,12,,0,,0,44,40,3
+09:43,[IND] Mitchell 3pt Shot: Missed,-176,221,2,,1627676,,1611661325,44,40,3
+09:40,[PHO] Nurse Rebound (Off:0 Def:2),-176,221,4,,1628915,,1611661317,44,40,3
+09:23,[PHO 42-44] Griner Turnaround Hook Shot: Made (17 PTS) Assist: Diggins-Smith (3 AST),8,72,1,,203398,203400,1611661317,44,42,3
+09:04,[IND 46-42] McCowan Jump Shot: Made (4 PTS) Assist: Allen (3 AST),144,3,1,,1629479,1628263,1611661325,46,42,3
+08:51,[IND] Allen Foul: Personal (2 PF),-145,182,6,203400,1628263,,1611661325,46,42,3
+08:37,[PHO] Griner Jump Shot: Missed,29,160,2,,203398,,1611661317,46,42,3
+08:33,[IND] Mitchell Rebound (Off:0 Def:1),29,160,4,,1627676,,1611661325,46,42,3
+08:24,[IND] Allen Pullup Jump shot: Missed,-120,66,2,,1628263,,1611661325,46,42,3
+08:21,[PHO] Turner Rebound (Off:2 Def:4),-120,66,4,,1629488,,1611661317,46,42,3
+08:13,[PHO] Griner Turnaround Jump Shot: Missed,-2,-1,2,202638,203398,,1611661317,46,42,3
+08:13,[IND] Breland Rebound (Off:0 Def:6),-2,-1,4,,202638,,1611661325,46,42,3
+07:49,[IND] Allen Pullup Jump shot: Missed,19,117,2,,1628263,,1611661325,46,42,3
+07:45,[PHO] Turner Rebound (Off:2 Def:5),19,117,4,,1629488,,1611661317,46,42,3
+07:34,[PHO 45-46] Nurse 3pt Shot: Made (8 PTS) Assist: Griner (1 AST),231,62,1,,1628915,203398,1611661317,46,45,3
+07:34,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,46,45,3
+07:23,[IND] Mitchell Turnover : Lost Ball (2 TO) Steal:Diggins-Smith (3 ST),94,215,5,203400,1628909,,1611661325,46,45,3
+07:19,[IND] McCowan Foul: Shooting (3 PF) (2 FTA),-9,-1,6,203400,1629479,,1611661325,46,45,3
+07:19,[PHO] Diggins-Smith Free Throw 1 of 2 Missed,0,-80,3,,203400,,1611661317,46,45,3
+07:19,[PHO] Team Rebound,0,-80,4,,0,,1611661317,46,45,3
+07:19,[PHO] Diggins-Smith Free Throw 2 of 2 Missed,0,-80,3,,203400,,1611661317,46,45,3
+07:17,[IND] Breland Rebound (Off:0 Def:7),0,-80,4,,202638,,1611661325,46,45,3
+07:05,[IND] Breland 3pt Shot: Missed,138,227,2,,202638,,1611661325,46,45,3
+07:02,[PHO] Griner Rebound (Off:2 Def:3),138,227,4,,203398,,1611661317,46,45,3
+06:54,[PHO 48-46] Griner 3pt Shot: Made (20 PTS) Assist: Taurasi (4 AST),-11,244,1,,203398,100940,1611661317,46,48,3
+06:32,[IND] Mitchell Turnaround Jump Shot: Missed,27,108,2,,1627676,,1611661325,46,48,3
+06:29,[PHO] Nurse Rebound (Off:0 Def:3),27,108,4,,1628915,,1611661317,46,48,3
+06:22,[IND] Allen Foul: Shooting (3 PF) (3 FTA),178,182,6,203400,1628263,,1611661325,46,48,3
+06:22,Instant Replay - Support Ruling,0,-80,18,,0,,0,46,48,3
+06:22,[PHO 49-46] Diggins-Smith Free Throw 1 of 3 (11 PTS),0,-80,3,,203400,,1611661317,46,49,3
+06:22,[PHO 50-46] Diggins-Smith Free Throw 2 of 3 (12 PTS),0,-80,3,,203400,,1611661317,46,50,3
+06:22,[PHO] Diggins-Smith Free Throw 3 of 3 Missed,0,-80,3,,203400,,1611661317,46,50,3
+06:20,[IND] McCowan Rebound (Off:1 Def:2),0,-80,4,,1629479,,1611661325,46,50,3
+06:10,[IND] Mitchell Turnover : Lost Ball (2 TO) Steal:Diggins-Smith (4 ST),-169,323,5,203400,1627676,,1611661325,46,50,3
+06:10,[IND] Mitchell Foul: Personal (2 PF),198,502,6,203400,1627676,,1611661325,46,50,3
+05:58,[IND] McCowan Foul: Shooting (4 PF) (2 FTA),2,1,6,203400,1629479,,1611661325,46,50,3
+05:58,[PHO 51-46] Diggins-Smith Free Throw 1 of 2 (13 PTS),0,-80,3,,203400,,1611661317,46,51,3
+05:58,[PHO 52-46] Diggins-Smith Free Throw 2 of 2 (14 PTS),0,-80,3,,203400,,1611661317,46,52,3
+05:50,[PHO] Turner Foul: Shooting (2 PF) (2 FTA),3,7,6,1627676,1629488,,1611661317,46,52,3
+05:50,[IND] McCowan Substitution replaced by Lavender,0,-80,8,,1629479,202650,1611661325,46,52,3
+05:50,[IND 47-52] Mitchell Free Throw 1 of 2 (10 PTS),0,-80,3,,1627676,,1611661325,47,52,3
+05:50,[IND 48-52] Mitchell Free Throw 2 of 2 (11 PTS),0,-80,3,,1627676,,1611661325,48,52,3
+05:33,[PHO 55-48] Nurse 3pt Shot: Made (11 PTS) Assist: Taurasi (5 AST),223,95,1,,1628915,100940,1611661317,48,55,3
+05:14,[PHO] Diggins-Smith Foul: Shooting (3 PF) (2 FTA),-20,6,6,1627676,203400,,1611661317,48,55,3
+05:14,[IND 49-55] Mitchell Free Throw 1 of 2 (12 PTS),0,-80,3,,1627676,,1611661325,49,55,3
+05:14,[PHO] Diggins-Smith Substitution replaced by Peddy,0,-80,8,,203400,203035,1611661317,49,55,3
+05:14,[IND 50-55] Mitchell Free Throw 2 of 2 (13 PTS),0,-80,3,,1627676,,1611661325,50,55,3
+04:55,[PHO 58-50] Peddy 3pt Shot: Made (3 PTS) Assist: Taurasi (6 AST),-228,-24,1,,203035,100940,1611661317,50,58,3
+04:34,[IND 53-58] Lavender 3pt Shot: Made (5 PTS) Assist: Mitchell (2 AST),-97,236,1,,202650,1627676,1611661325,53,58,3
+04:18,[PHO] Griner Foul: Offensive (3 PF),-81,183,6,1627676,203398,,1611661317,53,58,3
+04:18,[PHO] Griner Turnover : Offensive Foul Turnover (2 TO),-81,183,5,,203398,,1611661317,53,58,3
+04:18,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1627676,1628927,1611661325,53,58,3
+04:03,[IND] Mitchell 3pt Shot: Missed,-209,201,2,,1628909,,1611661325,53,58,3
+04:00,[PHO] Nurse Rebound (Off:0 Def:4),-209,201,4,,1628915,,1611661317,53,58,3
+03:47,[PHO] Taurasi 3pt Shot: Missed,-147,192,2,,100940,,1611661317,53,58,3
+03:44,[IND] Team Rebound,-147,192,4,,0,,1611661325,53,58,3
+03:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,58,3
+03:28,[IND] Breland 3pt Shot: Missed,161,199,2,,202638,,1611661325,53,58,3
+03:27,[PHO] Team Rebound,161,199,4,,0,,1611661317,53,58,3
+03:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,58,3
+03:13,[PHO 60-53] Griner Turnaround Hook Shot: Made (22 PTS) Assist: Nurse (2 AST),74,3,1,,203398,1628915,1611661317,53,60,3
+02:52,[IND] Allen Driving Finger Roll Layup Shot: Missed,2,7,2,,1628263,,1611661325,53,60,3
+02:50,[PHO] Taurasi Rebound (Off:0 Def:1),2,7,4,,100940,,1611661317,53,60,3
+02:48,[PHO 62-53] Nurse Running Finger Roll Layup Shot: Made (13 PTS) Assist: Taurasi (7 AST),6,-6,1,,1628915,100940,1611661317,53,62,3
+02:48,[IND] Mitchell Foul: Shooting (1 PF) (1 FTA),6,-6,6,1628915,1628909,,1611661325,53,62,3
+02:48,[PHO] Taurasi Substitution replaced by Diggins-Smith,0,-80,8,,100940,203400,1611661317,53,62,3
+02:48,[PHO 63-53] Nurse Free Throw 1 of 1 (14 PTS),0,-80,3,,1628915,,1611661317,53,63,3
+02:28,[IND] Lavender 3pt Shot: Missed,-159,221,2,,202650,,1611661325,53,63,3
+02:23,[PHO] Diggins-Smith Rebound (Off:0 Def:1),-159,221,4,,203400,,1611661317,53,63,3
+02:08,[PHO 65-53] Turner Reverse Layup Shot: Made (6 PTS),0,1,1,,1629488,,1611661317,53,65,3
+02:08,[IND] Allen Foul: Shooting (4 PF) (1 FTA),0,1,6,1629488,1628263,,1611661325,53,65,3
+02:08,[PHO] Nurse Substitution replaced by Cunningham,0,-80,8,,1628915,1629482,1611661317,53,65,3
+02:08,[IND] Breland Substitution replaced by Cannon,0,-80,8,,202638,1628242,1611661325,53,65,3
+02:08,[PHO] Griner Substitution replaced by Vaughn,0,-80,8,,203398,201913,1611661317,53,65,3
+02:08,[PHO] Turner Free Throw 1 of 1 Missed,0,-80,3,,1629488,,1611661317,53,65,3
+02:06,[IND] Cannon Rebound (Off:2 Def:3),0,-80,4,,1628242,,1611661325,53,65,3
+01:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,65,3
+01:45,[IND] Team Turnover : Shot Clock Turnover,43,59,5,,0,,1611661325,53,65,3
+01:28,[PHO 67-53] Turner Layup Shot: Made (8 PTS) Assist: Peddy (1 AST),9,-1,1,,1629488,203035,1611661317,53,67,3
+01:27,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,53,67,3
+01:27,[IND] Allen Substitution replaced by Wilson,0,-80,8,,1628263,1630458,1611661325,53,67,3
+01:15,[IND] Mitchell Driving Finger Roll Layup Shot: Missed,13,-19,2,,1628909,,1611661325,53,67,3
+01:13,[IND] Cannon Rebound (Off:3 Def:3),13,-19,4,,1628242,,1611661325,53,67,3
+00:59.8,[IND] Vivians Jump Bank Shot: Missed,52,19,2,,1628927,,1611661325,53,67,3
+00:59.0,[IND] Team Rebound,52,19,4,,0,,1611661325,53,67,3
+00:59.0,[IND] Team Turnover : Shot Clock Turnover,-36,32,5,,0,,1611661325,53,67,3
+00:44.5,[PHO 70-53] Peddy 3pt Shot: Made (6 PTS),193,181,1,,203035,,1611661317,53,70,3
+00:30.6,[IND] Vivians Turnover : Discontinue Dribble (2 TO),193,166,5,,1628927,,1611661325,53,70,3
+00:11.6,[PHO 73-53] Cunningham 3pt Shot: Made (3 PTS) Assist: Diggins-Smith (4 AST),210,139,1,,1629482,203400,1611661317,53,73,3
+00:02.6,[IND] Mitchell Turnover : Bad Pass (3 TO) Steal:Cunningham (1 ST),153,214,5,1629482,1628909,,1611661325,53,73,3
+00:00.3,[PHO 76-53] Cunningham 3pt Shot: Made (6 PTS),12,272,1,,1629482,,1611661317,53,76,3
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,53,76,3
+00:00.0,End Period,0,-80,13,,0,,0,53,76,3
+10:00,Start Period,0,-80,12,,0,,0,53,76,4
+09:49,[PHO] Turner Layup Shot: Missed,7,4,2,1629479,1629488,,1611661317,53,76,4
+09:47,[PHO] Turner Rebound (Off:3 Def:5),7,4,4,,1629488,,1611661317,53,76,4
+09:43,[IND] McCowan Foul: Shooting (5 PF) (2 FTA),14,13,6,201913,1629479,,1611661325,53,76,4
+09:43,[PHO 77-53] Vaughn Free Throw 1 of 2 (5 PTS),0,-80,3,,201913,,1611661317,53,77,4
+09:43,[PHO] Vaughn Free Throw 2 of 2 Missed,0,-80,3,,201913,,1611661317,53,77,4
+09:42,[IND] McCowan Rebound (Off:1 Def:3),0,-80,4,,1629479,,1611661325,53,77,4
+09:31,[IND 55-77] Mitchell Pullup Jump shot: Made (16 PTS),32,100,1,,1628909,,1611661325,55,77,4
+09:31,[PHO] Vaughn Foul: Away From Play (4 PF) (1 FTA),-87,163,6,1629479,201913,,1611661317,55,77,4
+09:31,[IND] McCowan Free Throw 1 of 1 Missed,0,-80,3,,1629479,,1611661325,55,77,4
+09:29,[PHO] Taurasi Rebound (Off:0 Def:2),0,-80,4,,100940,,1611661317,55,77,4
+09:15,[PHO] Turner Foul: Offensive (3 PF),142,113,6,1628263,1629488,,1611661317,55,77,4
+09:15,[PHO] Turner Turnover : Offensive Foul Turnover (1 TO),142,113,5,,1629488,,1611661317,55,77,4
+09:04,[IND] Lavender Jump Shot: Missed,147,22,2,,202650,,1611661325,55,77,4
+09:00,[IND] McCowan Rebound (Off:2 Def:3),147,22,4,,1629479,,1611661325,55,77,4
+08:54,Jump Ball Peddy vs McCowan (Turner gains possession),0,-80,10,1629479,203035,1629488,1611661317,55,77,4
+08:54,[IND] McCowan Turnover : Lost Ball (2 TO) Steal:Peddy (1 ST),0,-80,5,203035,1629479,,1611661325,55,77,4
+08:46,[PHO 80-55] Hartley 3pt Shot: Made (3 PTS) Assist: Turner (2 AST),-156,209,1,,203829,1629488,1611661317,55,80,4
+08:31,[IND 57-80] Mitchell Driving Finger Roll Layup Shot: Made (18 PTS),2,-15,1,,1628909,,1611661325,57,80,4
+08:22,[PHO] Hartley Turnover : Bad Pass (1 TO) Steal:Allen (2 ST),-15,87,5,1628263,203829,,1611661317,57,80,4
+08:12,[PHO] Taurasi Foul: Personal (1 PF),-196,203,6,1628909,100940,,1611661317,57,80,4
+08:12,[IND] Allen Substitution replaced by Vivians,0,-80,8,,1628263,1628927,1611661325,57,80,4
+08:05,[IND] Vivians Pullup Jump shot: Missed,-173,96,2,,1628927,,1611661325,57,80,4
+08:03,[IND] McCowan Rebound (Off:3 Def:3),-173,96,4,,1629479,,1611661325,57,80,4
+07:56,[IND] Lavender Jump Shot: Missed,136,70,2,,202650,,1611661325,57,80,4
+07:53,[PHO] Vaughn Rebound (Off:2 Def:1),136,70,4,,201913,,1611661317,57,80,4
+07:37,[PHO] Peddy 3pt Shot: Missed,232,33,2,,203035,,1611661317,57,80,4
+07:35,[IND] McCowan Rebound (Off:3 Def:4),232,33,4,,1629479,,1611661325,57,80,4
+07:28,[PHO] Turner Foul: Shooting (4 PF) (2 FTA),10,32,6,1627676,1629488,,1611661317,57,80,4
+07:28,[IND 58-80] Mitchell Free Throw 1 of 2 (14 PTS),0,-80,3,,1627676,,1611661325,58,80,4
+07:28,[PHO] Taurasi Substitution replaced by Walker,0,-80,8,,100940,1630136,1611661317,58,80,4
+07:28,[IND] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,1627676,,1611661325,58,80,4
+07:27,[PHO] Turner Rebound (Off:3 Def:6),0,-80,4,,1629488,,1611661317,58,80,4
+07:11,[PHO] Peddy 3pt Shot: Missed,-231,-12,2,,203035,,1611661317,58,80,4
+07:08,[PHO] Turner Rebound (Off:4 Def:6),-231,-12,4,,1629488,,1611661317,58,80,4
+07:02,[PHO] Hartley 3pt Shot: Missed,-144,194,2,1628927,203829,,1611661317,58,80,4
+06:57,[IND] Mitchell Rebound (Off:0 Def:2),-144,194,4,,1627676,,1611661325,58,80,4
+06:52,[IND 60-80] Mitchell Driving Layup Shot: Made (16 PTS),-28,17,1,,1627676,,1611661325,60,80,4
+06:52,[PHO] Walker Foul: Shooting (1 PF) (1 FTA),-28,17,6,1627676,1630136,,1611661317,60,80,4
+06:52,[IND 61-80] Mitchell Free Throw 1 of 1 (17 PTS),0,-80,3,,1627676,,1611661325,61,80,4
+06:28,[PHO] Peddy 3pt Shot: Missed,170,210,2,,203035,,1611661317,61,80,4
+06:28,[PHO] Team Rebound,170,210,4,,0,,1611661317,61,80,4
+06:28,[PHO] Team Turnover : Shot Clock Turnover,-10,17,5,,0,,1611661317,61,80,4
+06:27,[IND] Mitchell Substitution replaced by Wilson,0,-80,8,,1627676,1630458,1611661325,61,80,4
+06:16,[IND] McCowan Fadeaway Jump Shot: Missed,37,76,2,,1629479,,1611661325,61,80,4
+06:12,[PHO] Turner Rebound (Off:4 Def:7),37,76,4,,1629488,,1611661317,61,80,4
+05:57,[PHO 82-61] Walker Driving Finger Roll Layup Shot: Made (2 PTS),11,0,1,,1630136,,1611661317,61,82,4
+05:40,[IND 63-82] McCowan Driving Layup Shot: Made (6 PTS) Assist: Wilson (1 AST),2,-3,1,,1629479,1630458,1611661325,63,82,4
+05:28,[PHO] Walker 3pt Shot: Missed,135,230,2,,1630136,,1611661317,63,82,4
+05:27,[IND] McCowan Rebound (Off:3 Def:5),135,230,4,,1629479,,1611661325,63,82,4
+05:21,[IND] Mitchell 3pt Shot: Missed,152,238,2,,1628909,,1611661325,63,82,4
+05:17,[PHO] Walker Rebound (Off:0 Def:1),152,238,4,,1630136,,1611661317,63,82,4
+05:11,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,63,82,4
+05:11,[IND] Lavender Substitution replaced by Cannon,0,-80,8,,202650,1628242,1611661325,63,82,4
+05:11,[IND] McCowan Substitution replaced by Breland,0,-80,8,,1629479,202638,1611661325,63,82,4
+05:11,[PHO] Hartley Substitution replaced by Cunningham,0,-80,8,,203829,1629482,1611661317,63,82,4
+05:11,[PHO] Turner Substitution replaced by Smith,0,-80,8,,1629488,1629501,1611661317,63,82,4
+05:04,[PHO 84-63] Peddy Driving Floating Jump Shot: Made (8 PTS),0,62,1,,203035,,1611661317,63,84,4
+04:47,[IND] Wilson Pullup Jump shot: Missed,-104,155,2,,1630458,,1611661325,63,84,4
+04:44,[PHO] Smith Rebound (Off:0 Def:1),-104,155,4,,1629501,,1611661317,63,84,4
+04:31,[PHO] Cunningham 3pt Shot: Missed,212,129,2,,1629482,,1611661317,63,84,4
+04:28,[IND] Wilson Rebound (Off:0 Def:1),212,129,4,,1630458,,1611661325,63,84,4
+04:21,[IND] Wilson Pullup Jump shot: Missed,41,166,2,,1630458,,1611661325,63,84,4
+04:17,[PHO] Vaughn Rebound (Off:2 Def:2),41,166,4,,201913,,1611661317,63,84,4
+04:03,[PHO 86-63] Walker Pullup Jump shot: Made (4 PTS) Assist: Vaughn (1 AST),63,189,1,,1630136,201913,1611661317,63,86,4
+03:42,[IND] Vivians Cutting Layup Shot: Missed,24,7,2,,1628927,,1611661325,63,86,4
+03:40,[PHO] Vaughn Rebound (Off:2 Def:3),24,7,4,,201913,,1611661317,63,86,4
+03:33,[PHO] Walker Driving Layup Shot: Missed,9,1,2,202638,1630136,,1611661317,63,86,4
+03:33,[PHO] Team Rebound,9,1,4,,0,,1611661317,63,86,4
+03:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,86,4
+03:33,[IND] Mitchell Substitution replaced by Allen,0,-80,8,,1628909,1628263,1611661325,63,86,4
+03:33,[PHO] Vaughn Substitution replaced by Hartley,0,-80,8,,201913,203829,1611661317,63,86,4
+03:22,[PHO] Peddy 3pt Shot: Missed,195,164,2,,203035,,1611661317,63,86,4
+03:18,[IND] Cannon Rebound (Off:3 Def:4),195,164,4,,1628242,,1611661325,63,86,4
+03:04,[IND 65-86] Breland Driving Layup Shot: Made (6 PTS),0,7,1,,202638,,1611661325,65,86,4
+02:51,[PHO] Smith Turnover : Lost Ball (1 TO) Steal:Cannon (1 ST),50,21,5,1628242,1629501,,1611661317,65,86,4
+02:45,[IND] Vivians 3pt Shot: Missed,233,76,2,,1628927,,1611661325,65,86,4
+02:41,[IND] Wilson Rebound (Off:1 Def:1),233,76,4,,1630458,,1611661325,65,86,4
+02:41,[PHO] Cunningham Foul: Personal (2 PF) (2 FTA),-20,114,6,1630458,1629482,,1611661317,65,86,4
+02:41,Timeout Officials,0,-80,9,,0,,0,65,86,4
+02:41,[IND] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1630458,,1611661325,65,86,4
+02:41,[IND] Team Rebound,0,-80,4,,0,,1611661325,65,86,4
+02:41,[IND] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1630458,,1611661325,65,86,4
+02:36,[PHO] Walker Rebound (Off:0 Def:2),0,-80,4,,1630136,,1611661317,65,86,4
+02:25,[PHO] Walker Jump Shot: Missed,123,129,2,,1630136,,1611661317,65,86,4
+02:23,[IND] Vivians Rebound (Off:0 Def:4),123,129,4,,1628927,,1611661325,65,86,4
+02:08,[IND] Vivians 3pt Shot: Missed,-174,235,2,,1628927,,1611661325,65,86,4
+02:05,[IND] Breland Rebound (Off:1 Def:7),-174,235,4,,202638,,1611661325,65,86,4
+02:04,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,65,86,4
+01:53,[IND] Team Turnover : Shot Clock Turnover,135,191,5,,0,,1611661325,65,86,4
+01:35,[PHO] Hartley Driving Layup Shot: Missed,-13,13,2,,203829,,1611661317,65,86,4
+01:32,[IND] Wilson Rebound (Off:1 Def:2),-13,13,4,,1630458,,1611661325,65,86,4
+01:26,[IND] Cannon Layup Shot: Missed,11,8,2,,1628242,,1611661325,65,86,4
+01:23,[PHO] Smith Rebound (Off:0 Def:2),11,8,4,,1629501,,1611661317,65,86,4
+01:08,[IND] Cannon Foul: Shooting (3 PF) (2 FTA),-10,9,6,1630136,1628242,,1611661325,65,86,4
+01:08,[PHO 87-65] Walker Free Throw 1 of 2 (5 PTS),0,-80,3,,1630136,,1611661317,65,87,4
+01:08,[PHO] Walker Free Throw 2 of 2 Missed,0,-80,3,,1630136,,1611661317,65,87,4
+01:06,[IND] Vivians Rebound (Off:0 Def:5),0,-80,4,,1628927,,1611661325,65,87,4
+01:06,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,65,87,4
+01:03,[IND] Wilson Turnover : Bad Pass (1 TO) Steal:Smith (1 ST),-204,279,5,1629501,1630458,,1611661325,65,87,4
+00:40.6,Jump Ball Allen vs Cunningham,0,-80,10,1629482,1628263,,1611661325,65,87,4
+00:40.6,[PHO] Walker Turnover : Lost Ball (1 TO) Steal:Allen (3 ST),0,-80,5,1628263,1630136,,1611661317,65,87,4
+00:32.1,[IND] Wilson Turnover : Bad Pass (2 TO) Steal:Smith (2 ST),-142,298,5,1629501,1630458,,1611661325,65,87,4
+00:28.8,[PHO] Smith Running Layup Shot: Missed,-14,4,2,1630458,1629501,,1611661317,65,87,4
+00:26.1,[IND] Wilson Rebound (Off:1 Def:3),-14,4,4,,1630458,,1611661325,65,87,4
+00:21.8,[IND] Breland Layup Shot: Missed,3,7,2,,202638,,1611661325,65,87,4
+00:18.9,[PHO] Walker Rebound (Off:0 Def:3),3,7,4,,1630136,,1611661317,65,87,4
+00:00.0,End Period,0,-80,13,,0,,0,65,87,4
+00:00.0,Game End,0,-80,0,,0,,0,65,87,4

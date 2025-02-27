@@ -1,0 +1,431 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Jones vs Dolson (Bonner gains possession),0,-80,10,203828,1628280,201886,1611661323,0,0,0,1
+09:33,[CON] Bonner 3pt Shot: Missed,157,195,2,,201886,,1611661323,0,0,0,1
+09:31,[WAS] Hines-Allen Rebound (Off:0 Def:1),157,195,4,,1628899,,1611661322,0,0,0,1
+09:27,[WAS 2-0] Vanloo Running Layup Shot: Made (2 PTS),-15,-2,1,,1642210,,1611661322,2,0,2,1
+09:12,[CON 2-2] Harris Pullup Jump shot: Made (2 PTS) Assist: Thomas (1 AST),15,206,1,,1630112,203826,1611661323,2,2,2,1
+08:52,[WAS] Vanloo 3pt Shot: Missed,226,81,2,,1642210,,1611661322,2,2,0,1
+08:46,[CON] Jones Rebound (Off:0 Def:1),226,81,4,,1628280,,1611661323,2,2,0,1
+08:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,2,0,1
+08:35,[CON] Bonner Jump Shot: Missed Block: Richards (1 BLK),135,23,2,1630459,201886,,1611661323,2,2,0,1
+08:35,[CON] Team Rebound,135,23,4,,0,,1611661323,2,2,0,1
+08:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,2,0,1
+08:33,[WAS] Richards Foul: Shooting (1 PF) (2 FTA),139,16,6,201886,1630459,1629182,1611661322,2,2,0,1
+08:33,[CON 3-2] Bonner Free Throw 1 of 2 (1 PTS),0,-80,3,,201886,,1611661323,2,3,1,1
+08:33,[CON 4-2] Bonner Free Throw 2 of 2 (2 PTS),0,-80,3,,201886,,1611661323,2,4,1,1
+08:21,[WAS] Hines-Allen Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),95,197,5,201886,1628899,,1611661322,2,4,0,1
+08:11,[WAS] Vanloo Foul: Shooting (1 PF) (2 FTA),-49,77,6,1630112,1642210,100697,1611661322,2,4,0,1
+08:11,[CON 5-2] Harris Free Throw 1 of 2 (3 PTS),0,-80,3,,1630112,,1611661323,2,5,1,1
+08:11,[CON 6-2] Harris Free Throw 2 of 2 (4 PTS),0,-80,3,,1630112,,1611661323,2,6,1,1
+08:01,[CON] Carrington Foul: Personal (1 PF),-155,42,6,1628878,1630096,100697,1611661323,2,6,0,1
+07:52,[WAS 5-6] Hines-Allen 3pt Shot: Made (3 PTS) Assist: Atkins (1 AST),149,203,1,,1628899,1628878,1611661322,5,6,3,1
+07:38,[CON] Carrington 3pt Shot: Missed,-200,182,2,,1630096,,1611661323,5,6,0,1
+07:34,[CON] Thomas Rebound (Off:1 Def:0),-200,182,4,,203826,,1611661323,5,6,0,1
+07:32,[CON 8-5] Bonner Reverse Layup Shot: Made (4 PTS) Assist: Thomas (2 AST),13,7,1,,201886,203826,1611661323,5,8,2,1
+07:09,[WAS] Atkins Jump Shot: Missed Block: Jones (1 BLK),162,37,2,1628280,1628878,,1611661322,5,8,0,1
+07:09,[WAS] Team Rebound,162,37,4,,0,,1611661322,5,8,0,1
+07:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,8,0,1
+07:06,[WAS 7-8] Vanloo Jump Shot: Made (4 PTS),-115,8,1,,1642210,,1611661322,7,8,2,1
+06:47,[CON] Harris 3pt Shot: Missed,228,-10,2,,1630112,,1611661323,7,8,0,1
+06:44,[WAS] Atkins Rebound (Off:0 Def:1),228,-10,4,,1628878,,1611661322,7,8,0,1
+06:38,[WAS] Atkins 3pt Shot: Missed,178,209,2,,1628878,,1611661322,7,8,0,1
+06:35,[WAS] Richards Rebound (Off:1 Def:0),178,209,4,,1630459,,1611661322,7,8,0,1
+06:32,[WAS 10-8] Vanloo 3pt Shot: Made (7 PTS) Assist: Hines-Allen (1 AST),-214,91,1,,1642210,1628899,1611661322,10,8,3,1
+06:05,[CON 10-10] Carrington Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Thomas (3 AST),24,21,1,,1630096,203826,1611661323,10,10,2,1
+05:53,[WAS 12-10] Dolson Jump Shot: Made (2 PTS) Assist: Hines-Allen (2 AST),-23,134,1,,203828,1628899,1611661322,12,10,2,1
+05:30,[CON] Thomas Pullup Jump shot: Missed,38,124,2,,203826,,1611661323,12,10,0,1
+05:28,[WAS] Atkins Rebound (Off:0 Def:2),38,124,4,,1628878,,1611661322,12,10,0,1
+05:22,[WAS 15-10] Dolson 3pt Shot: Made (5 PTS) Assist: Atkins (2 AST),32,250,1,,203828,1628878,1611661322,15,10,3,1
+05:02,[CON 12-15] Harris Cutting Layup Shot: Made (6 PTS) Assist: Thomas (4 AST),-26,3,1,,1630112,203826,1611661323,15,12,2,1
+05:02,[WAS] Vanloo Foul: Shooting (2 PF) (1 FTA),-38,6,6,1630112,1642210,1629177,1611661322,15,12,0,1
+05:02,[WAS] Richards Substitution replaced by Walker-Kimbrough,0,-80,8,,1630459,1628278,1611661322,15,12,0,1
+05:02,[WAS] Hines-Allen Substitution replaced by Engstler,0,-80,8,,1628899,1631083,1611661322,15,12,0,1
+05:02,[CON 13-15] Harris Free Throw 1 of 1 (7 PTS),0,-80,3,,1630112,,1611661323,15,13,1,1
+04:49,[WAS 18-13] Dolson 3pt Shot: Made (8 PTS) Assist: Atkins (3 AST),151,199,1,,203828,1628878,1611661322,18,13,3,1
+04:27,[WAS] Engstler Foul: Shooting (1 PF) (2 FTA),2,37,6,1628280,1631083,1629177,1611661322,18,13,0,1
+04:27,Timeout : Official,0,-80,9,,0,,0,18,13,0,1
+04:27,[WAS] Vanloo Substitution replaced by Melbourne,0,-80,8,,1642210,1631141,1611661322,18,13,0,1
+04:27,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,18,13,0,1
+04:27,[CON] Team Rebound,0,-80,4,,0,,1611661323,18,13,0,1
+04:27,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,18,13,0,1
+04:25,[WAS] Engstler Rebound (Off:0 Def:1),0,-80,4,,1631083,,1611661322,18,13,0,1
+04:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,13,0,1
+04:07,[WAS 21-13] Walker-Kimbrough 3pt Shot: Made (3 PTS) Assist: Dolson (1 AST),158,168,1,,1628278,203828,1611661322,21,13,3,1
+04:07,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,21,13,0,1
+03:47,[CON] Bonner 3pt Shot: Missed,-112,247,2,,201886,,1611661323,21,13,0,1
+03:44,[CON] Carrington Rebound (Off:1 Def:0),-112,247,4,,1630096,,1611661323,21,13,0,1
+03:39,[CON] Jones Layup Shot: Missed Block: Dolson (1 BLK),8,-1,2,203828,1628280,,1611661323,21,13,0,1
+03:35,[CON] Jones Rebound (Off:1 Def:1),8,-1,4,,1628280,,1611661323,21,13,0,1
+03:35,[CON] Jones Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-240,641,5,,1628280,100697,1611661323,21,13,0,1
+03:14,[WAS 23-13] Melbourne Cutting Layup Shot: Made (2 PTS) Assist: Walker-Kimbrough (1 AST),6,-2,1,,1631141,1628278,1611661322,23,13,2,1
+02:54,[WAS] Dolson Foul: Personal (1 PF) (2 FTA),43,47,6,1628280,203828,1629182,1611661322,23,13,0,1
+02:54,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,23,13,0,1
+02:54,[CON] Team Rebound,0,-80,4,,0,,1611661323,23,13,0,1
+02:54,[WAS] Dolson Substitution replaced by Hines-Allen,0,-80,8,,203828,1628899,1611661322,23,13,0,1
+02:54,[CON] Bonner Substitution replaced by Burton,0,-80,8,,201886,1631007,1611661323,23,13,0,1
+02:54,[CON] Harris Substitution replaced by Mitchell,0,-80,8,,1630112,1627676,1611661323,23,13,0,1
+02:54,[CON 14-23] Jones Free Throw 2 of 2 (1 PTS),0,-80,3,,1628280,,1611661323,23,14,1,1
+02:31,[WAS 26-14] Hines-Allen 3pt Shot: Made (6 PTS) Assist: Atkins (4 AST),-212,85,1,,1628899,1628878,1611661322,26,14,3,1
+02:29,Timeout : Regular,0,-80,9,,1611661323,,1611661323,26,14,0,1
+02:09,[CON 16-26] Jones Cutting Layup Shot: Made (3 PTS) Assist: Burton (1 AST),-22,13,1,,1628280,1631007,1611661323,26,16,2,1
+01:48,[WAS 28-16] Atkins Driving Layup Shot: Made (2 PTS) Assist: Melbourne (1 AST),31,0,1,,1628878,1631141,1611661322,28,16,2,1
+01:45,[WAS] Atkins Foul: Personal (1 PF) (2 FTA),84,780,6,1631007,1628878,1629182,1611661322,28,16,0,1
+01:45,[CON 17-28] Burton Free Throw 1 of 2 (1 PTS),0,-80,3,,1631007,,1611661323,28,17,1,1
+01:45,[CON] Jones Substitution replaced by Bonner,0,-80,8,,1628280,201886,1611661323,28,17,0,1
+01:45,[CON 18-28] Burton Free Throw 2 of 2 (2 PTS),0,-80,3,,1631007,,1611661323,28,18,1,1
+01:38,[CON] Burton Foul: Shooting (1 PF) (2 FTA),-66,33,6,1631141,1631007,1629182,1611661323,28,18,0,1
+01:38,[WAS] Melbourne Free Throw 1 of 2 Missed,0,-80,3,,1631141,,1611661322,28,18,0,1
+01:38,[WAS] Team Rebound,0,-80,4,,0,,1611661322,28,18,0,1
+01:38,[WAS] Melbourne Free Throw 2 of 2 Missed,0,-80,3,,1631141,,1611661322,28,18,0,1
+01:35,[CON] Bonner Rebound (Off:0 Def:1),0,-80,4,,201886,,1611661323,28,18,0,1
+01:19,[CON] Burton Layup Shot: Missed Block: Hines-Allen (1 BLK),-40,3,2,1628899,1631007,,1611661323,28,18,0,1
+01:19,[CON] Team Rebound,-40,3,4,,0,,1611661323,28,18,0,1
+01:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,18,0,1
+01:14,[CON] Mitchell Turnover : Bad Pass (1 TO) Steal:Walker-Kimbrough (1 ST),27,93,5,1628278,1627676,,1611661323,28,18,0,1
+01:09,[WAS 30-18] Walker-Kimbrough Running Layup Shot: Made (5 PTS),9,1,1,,1628278,,1611661322,30,18,2,1
+00:53.2,[CON] Carrington 3pt Shot: Missed,208,157,2,,1630096,,1611661323,30,18,0,1
+00:50.9,[WAS] Atkins Rebound (Off:0 Def:3),208,157,4,,1628878,,1611661322,30,18,0,1
+00:39.2,[WAS] Melbourne Driving Layup Shot: Missed,1,1,2,,1631141,,1611661322,30,18,0,1
+00:37.1,[CON] Bonner Rebound (Off:0 Def:2),1,1,4,,201886,,1611661323,30,18,0,1
+00:28.8,[CON 21-30] Bonner 3pt Shot: Made (7 PTS) Assist: Burton (2 AST),-193,177,1,,201886,1631007,1611661323,30,21,3,1
+00:07.2,[WAS] Walker-Kimbrough 3pt Shot: Missed,-229,-24,2,,1628278,,1611661322,30,21,0,1
+00:04.4,[WAS] Engstler Rebound (Off:1 Def:1),-229,-24,4,,1631083,,1611661322,30,21,0,1
+00:02.4,[WAS] Engstler Layup Shot: Missed Block: Bonner (1 BLK),34,26,2,201886,1631083,,1611661322,30,21,0,1
+00:02.4,[WAS] Walker-Kimbrough Rebound (Off:1 Def:0),34,26,4,,1628278,,1611661322,30,21,0,1
+00:00.5,[CON] Carrington Foul: Personal (2 PF) (2 FTA),35,25,6,1628878,1630096,1629177,1611661323,30,21,0,1
+00:00.5,[WAS 31-21] Walker-Kimbrough Free Throw 1 of 2 (6 PTS),0,-80,3,,1628278,,1611661322,31,21,1,1
+00:00.5,[WAS 32-21] Walker-Kimbrough Free Throw 2 of 2 (7 PTS),0,-80,3,,1628278,,1611661322,32,21,1,1
+00:00.0,End Period,0,-80,13,,0,,0,32,21,0,1
+10:00,Start Period,0,-80,12,,0,,0,32,21,0,2
+09:44,[WAS] Vanloo Turnover : Out of Bounds - Bad Pass Turnover (1 TO),45,69,5,,1642210,1629177,1611661322,32,21,0,2
+09:23,[CON] Mitchell Driving Layup Shot: Missed,41,10,2,,1627676,,1611661323,32,21,0,2
+09:22,[WAS] Richards Rebound (Off:1 Def:1),41,10,4,,1630459,,1611661322,32,21,0,2
+09:22,[CON] Thomas Foul: Personal (1 PF),-32,694,6,1630459,203826,1629182,1611661323,32,21,0,2
+09:00,[WAS 34-21] Vanloo Fadeaway Jump Shot: Made (9 PTS),173,65,1,,1642210,,1611661322,34,21,2,2
+08:47,[CON] Mitchell 3pt Shot: Missed,-239,3,2,,1627676,,1611661323,34,21,0,2
+08:45,[WAS] Engstler Rebound (Off:1 Def:2),-239,3,4,,1631083,,1611661322,34,21,0,2
+08:31,[WAS 37-21] Melbourne 3pt Shot: Made (5 PTS) Assist: Richards (1 AST),-233,-16,1,,1631141,1630459,1611661322,37,21,3,2
+08:30,Timeout : Regular,0,-80,9,,1611661323,,1611661323,37,21,0,2
+08:30,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,37,21,0,2
+08:14,[CON 23-37] Bonner Pullup Jump shot: Made (9 PTS),-121,140,1,,201886,,1611661323,37,23,2,2
+07:51,[WAS] Engstler 3pt Shot: Missed,207,129,2,,1631083,,1611661322,37,23,0,2
+07:48,[CON] Bonner Rebound (Off:0 Def:3),207,129,4,,201886,,1611661323,37,23,0,2
+07:39,[CON 25-37] Bonner Driving Layup Shot: Made (11 PTS),-29,24,1,,201886,,1611661323,37,25,2,2
+07:28,[WAS] Vanloo Turnover : Bad Pass (2 TO) Steal:Bonner (2 ST),-115,194,5,201886,1642210,,1611661322,37,25,0,2
+07:24,[CON 27-37] Bonner Running Layup Shot: Made (13 PTS),4,13,1,,201886,,1611661323,37,27,2,2
+07:07,[WAS] Hines-Allen Turnover : Out of Bounds - Bad Pass Turnover (2 TO),215,144,5,,1628899,1629182,1611661322,37,27,0,2
+07:07,[WAS] Hines-Allen Substitution replaced by Atkins,0,-80,8,,1628899,1628878,1611661322,37,27,0,2
+07:07,[WAS] Melbourne Substitution replaced by Walker-Kimbrough,0,-80,8,,1631141,1628278,1611661322,37,27,0,2
+07:07,[WAS] Engstler Substitution replaced by Dolson,0,-80,8,,1631083,203828,1611661322,37,27,0,2
+06:47,[CON 29-37] Harris Fadeaway Jump Shot: Made (9 PTS),47,92,1,,1630112,,1611661323,37,29,2,2
+06:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,29,0,2
+06:26,[CON] Bonner Foul: Personal (1 PF),-94,193,6,1628878,201886,1629177,1611661323,37,29,0,2
+06:11,[WAS] Walker-Kimbrough 3pt Shot: Missed,-163,171,2,,1628278,,1611661322,37,29,0,2
+06:11,[WAS] Team Rebound,-163,171,4,,0,,1611661322,37,29,0,2
+06:11,[WAS] Team Turnover : Shot Clock Turnover,-52,-18,5,,0,1629177,1611661322,37,29,0,2
+06:01,[CON] Bonner 3pt Shot: Missed,-227,91,2,,201886,,1611661323,37,29,0,2
+06:00,[CON] Mitchell Rebound (Off:1 Def:0),-227,91,4,,1627676,,1611661323,37,29,0,2
+06:00,[WAS] Atkins Foul: Shooting (2 PF) (2 FTA),44,28,6,1627676,1628878,1629177,1611661322,37,29,0,2
+06:00,[CON 30-37] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,1627676,,1611661323,37,30,1,2
+06:00,[CON 31-37] Mitchell Free Throw 2 of 2 (2 PTS),0,-80,3,,1627676,,1611661323,37,31,1,2
+05:44,[WAS] Walker-Kimbrough 3pt Shot: Missed,-244,-29,2,,1628278,,1611661322,37,31,0,2
+05:43,[WAS] Team Rebound,-244,-29,4,,0,,1611661322,37,31,0,2
+05:43,[CON] Burton Foul: Loose Ball (2 PF),31,0,6,1630459,1631007,1629177,1611661323,37,31,0,2
+05:35,[WAS 39-31] Richards Cutting Layup Shot: Made (2 PTS) Assist: Vanloo (1 AST),21,0,1,,1630459,1642210,1611661322,39,31,2,2
+05:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,31,0,2
+05:20,[WAS] Vanloo Foul: Shooting (3 PF) (2 FTA),-54,15,6,1631007,1642210,1629177,1611661322,39,31,0,2
+05:20,[CON 32-39] Burton Free Throw 1 of 2 (3 PTS),0,-80,3,,1631007,,1611661323,39,32,1,2
+05:20,[WAS] Vanloo Substitution replaced by Melbourne,0,-80,8,,1642210,1631141,1611661322,39,32,0,2
+05:20,[CON 33-39] Burton Free Throw 2 of 2 (4 PTS),0,-80,3,,1631007,,1611661323,39,33,1,2
+05:06,[WAS] Walker-Kimbrough 3pt Shot: Missed,224,90,2,,1628278,,1611661322,39,33,0,2
+05:02,[CON] Jones Rebound (Off:1 Def:2),224,90,4,,1628280,,1611661323,39,33,0,2
+04:50,[CON] Bonner Pullup Jump shot: Missed,-83,156,2,,201886,,1611661323,39,33,0,2
+04:47,[WAS] Atkins Rebound (Off:0 Def:4),-83,156,4,,1628878,,1611661322,39,33,0,2
+04:42,[WAS] Atkins Turnover : Lost Ball (1 TO) Steal:Mitchell (1 ST),-105,229,5,1627676,1628878,,1611661322,39,33,0,2
+04:35,[CON 35-39] Bonner Cutting Layup Shot: Made (15 PTS) Assist: Mitchell (1 AST),-28,19,1,,201886,1627676,1611661323,39,35,2,2
+04:35,Timeout : Regular,0,-80,9,,1611661322,,1611661322,39,35,0,2
+04:12,[WAS] Melbourne Turnover : Bad Pass (1 TO) Steal:Burton (1 ST),-63,235,5,1631007,1631141,,1611661322,39,35,0,2
+04:08,[CON 37-39] Harris Running Pull-Up Jump Shot: Made (11 PTS),-3,177,1,,1630112,,1611661323,39,37,2,2
+03:57,[WAS] Richards Turnover : Out of Bounds Lost Ball Turnover (1 TO),-44,-10,5,,1630459,,1611661322,39,37,0,2
+03:57,[WAS] Richards Substitution replaced by Hines-Allen,0,-80,8,,1630459,1628899,1611661322,39,37,0,2
+03:41,[CON] Harris 3pt Shot: Missed,235,32,2,,1630112,,1611661323,39,37,0,2
+03:37,[WAS] Hines-Allen Rebound (Off:0 Def:2),235,32,4,,1628899,,1611661322,39,37,0,2
+03:35,[WAS] Hines-Allen Turnover : Bad Pass (3 TO) Steal:Harris (1 ST),205,637,5,1630112,1628899,,1611661322,39,37,0,2
+03:30,[CON 39-39] Harris Layup Shot: Made (13 PTS),-4,-6,1,,1630112,,1611661323,39,39,2,2
+03:23,[WAS] Walker-Kimbrough Pullup Jump shot: Missed,171,119,2,,1628278,,1611661322,39,39,0,2
+03:23,[CON] Bonner Rebound (Off:0 Def:4),171,119,4,,201886,,1611661323,39,39,0,2
+03:04,[CON 41-39] Jones Jump Shot: Made (5 PTS) Assist: Burton (3 AST),-72,150,1,,1628280,1631007,1611661323,39,41,2,2
+02:47,[WAS 42-41] Dolson 3pt Shot: Made (11 PTS) Assist: Walker-Kimbrough (2 AST),-11,239,1,,203828,1628278,1611661322,42,41,3,2
+02:25,[CON] Mitchell Driving Layup Shot: Missed,61,19,2,,1627676,,1611661323,42,41,0,2
+02:25,[WAS] Team Rebound,61,19,4,,0,,1611661322,42,41,0,2
+02:25,Jump Ball Dolson vs Mitchell (Hines-Allen gains possession),0,-80,10,1627676,203828,1628899,1611661322,42,41,0,2
+02:18,[WAS] Hines-Allen Foul: Offensive (1 PF),104,49,6,1631007,1628899,1629182,1611661322,42,41,0,2
+02:18,[WAS] Hines-Allen Turnover : Offensive Foul Turnover (4 TO),104,49,5,,1628899,1629182,1611661322,42,41,0,2
+02:18,[CON] Mitchell Substitution replaced by Carrington,0,-80,8,,1627676,1630096,1611661323,42,41,0,2
+02:07,[CON] Jones Floating Jump shot: Missed,6,137,2,,1628280,,1611661323,42,41,0,2
+02:06,[WAS] Team Rebound,6,137,4,,0,,1611661322,42,41,0,2
+02:06,[CON] Jones Foul: Loose Ball (1 PF),-10,717,6,203828,1628280,100697,1611661323,42,41,0,2
+01:41,[WAS 44-41] Dolson Layup Shot: Made (13 PTS) Assist: Walker-Kimbrough (3 AST),-15,3,1,,203828,1628278,1611661322,44,41,2,2
+01:25,[CON] Carrington Turnover : Bad Pass (1 TO) Steal:Melbourne (1 ST),-156,55,5,1631141,1630096,,1611661323,44,41,0,2
+01:20,[WAS] Atkins Running Layup Shot: Missed,106,51,2,,1628878,,1611661322,44,41,0,2
+01:19,[CON] Bonner Rebound (Off:0 Def:5),106,51,4,,201886,,1611661323,44,41,0,2
+01:19,[WAS] Atkins Foul: Personal (3 PF),66,783,6,201886,1628878,1629177,1611661322,44,41,0,2
+01:05,[CON 44-44] Burton 3pt Shot: Made (7 PTS) Assist: Carrington (1 AST),-4,266,1,,1631007,1630096,1611661323,44,44,3,2
+00:50.7,[WAS 46-44] Atkins Cutting Layup Shot: Made (4 PTS) Assist: Dolson (2 AST),33,0,1,,1628878,203828,1611661322,46,44,2,2
+00:43.7,[CON] Harris 3pt Shot: Missed,-128,276,2,,1630112,,1611661323,46,44,0,2
+00:39.8,[WAS] Hines-Allen Rebound (Off:0 Def:3),-128,276,4,,1628899,,1611661322,46,44,0,2
+00:35.0,[WAS 48-44] Hines-Allen Running Layup Shot: Made (8 PTS),27,-15,1,,1628899,,1611661322,48,44,2,2
+00:12.7,[CON] Carrington Turnover : Bad Pass (2 TO) Steal:Dolson (1 ST),94,107,5,203828,1630096,,1611661323,48,44,0,2
+00:06.8,[WAS 50-44] Atkins Jump Shot: Made (6 PTS) Assist: Walker-Kimbrough (4 AST),-122,21,1,,1628878,1628278,1611661322,50,44,2,2
+00:00.1,[CON 46-50] Burton Pullup Jump shot: Made (9 PTS),68,209,1,,1631007,,1611661323,50,46,2,2
+00:00.1,Instant Replay - Support Ruling,0,-80,18,,0,,0,50,46,0,2
+00:00.1,Instant Replay - Support Ruling,0,-80,18,,0,,0,50,46,0,2
+00:00.0,End Period,0,-80,13,,0,,0,50,46,0,2
+10:00,Start Period,0,-80,12,,0,,0,50,46,0,3
+09:43,[WAS] Richards Jump Shot: Missed,140,23,2,,1630459,,1611661322,50,46,0,3
+09:40,[CON] Bonner Rebound (Off:0 Def:6),140,23,4,,201886,,1611661323,50,46,0,3
+09:19,[CON 49-50] Carrington 3pt Shot: Made (5 PTS) Assist: Bonner (1 AST),234,-8,1,,1630096,201886,1611661323,50,49,3,3
+09:03,[WAS 53-49] Dolson 3pt Shot: Made (16 PTS) Assist: Vanloo (2 AST),61,235,1,,203828,1642210,1611661322,53,49,3,3
+08:48,[CON] Jones Layup Shot: Missed Block: Dolson (2 BLK),31,3,2,203828,1628280,,1611661323,53,49,0,3
+08:48,[WAS] Team Rebound,31,3,4,,0,,1611661322,53,49,0,3
+08:48,Jump Ball Dolson vs Jones (Atkins gains possession),0,-80,10,1628280,203828,1628878,1611661322,53,49,0,3
+08:39,[CON] Carrington Foul: Personal (3 PF),111,102,6,1628878,1630096,100697,1611661323,53,49,0,3
+08:31,[WAS 55-49] Hines-Allen Cutting Layup Shot: Made (10 PTS) Assist: Vanloo (3 AST),18,11,1,,1628899,1642210,1611661322,55,49,2,3
+08:09,[CON] Carrington Turnover : Out of Bounds Lost Ball Turnover (3 TO),224,169,5,,1630096,1629182,1611661323,55,49,0,3
+07:52,[WAS] Richards Cutting Layup Shot: Missed,26,-3,2,,1630459,,1611661322,55,49,0,3
+07:52,[WAS] Team Rebound,26,-3,4,,0,,1611661322,55,49,0,3
+07:52,[CON] Jones Foul: Loose Ball (2 PF),57,29,6,1630459,1628280,100697,1611661323,55,49,0,3
+07:43,[WAS] Dolson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),143,177,5,,203828,1629182,1611661322,55,49,0,3
+07:34,[WAS] Hines-Allen Foul: Shooting (2 PF) (2 FTA),-78,4,6,203826,1628899,1629182,1611661322,55,49,0,3
+07:34,[CON 50-55] Thomas Free Throw 1 of 2 (1 PTS),0,-80,3,,203826,,1611661323,55,50,1,3
+07:34,[CON 51-55] Thomas Free Throw 2 of 2 (2 PTS),0,-80,3,,203826,,1611661323,55,51,1,3
+07:19,[WAS] Vanloo Pullup Jump shot: Missed,15,85,2,,1642210,,1611661322,55,51,0,3
+07:16,[CON] Harris Rebound (Off:0 Def:1),15,85,4,,1630112,,1611661323,55,51,0,3
+07:04,[CON] Bonner 3pt Shot: Missed,43,275,2,,201886,,1611661323,55,51,0,3
+07:01,[WAS] Richards Rebound (Off:1 Def:2),43,275,4,,1630459,,1611661322,55,51,0,3
+06:51,[WAS] Dolson 3pt Shot: Missed,0,269,2,,203828,,1611661322,55,51,0,3
+06:47,[CON] Bonner Rebound (Off:0 Def:7),0,269,4,,201886,,1611661323,55,51,0,3
+06:39,[CON 54-55] Carrington 3pt Shot: Made (8 PTS),204,146,1,,1630096,,1611661323,55,54,3,3
+06:16,[WAS] Dolson Pullup Jump shot: Missed,-132,129,2,,203828,,1611661322,55,54,0,3
+06:15,[WAS] Team Rebound,-132,129,4,,0,,1611661322,55,54,0,3
+06:15,[CON] Harris Foul: Loose Ball (1 PF),84,29,6,1628878,1630112,1629182,1611661323,55,54,0,3
+06:15,[WAS] Richards Substitution replaced by Walker-Kimbrough,0,-80,8,,1630459,1628278,1611661322,55,54,0,3
+06:12,[WAS] Vanloo 3pt Shot: Missed,-31,255,2,,1642210,,1611661322,55,54,0,3
+06:09,[CON] Bonner Rebound (Off:0 Def:8),-31,255,4,,201886,,1611661323,55,54,0,3
+06:02,[CON] Thomas Pullup Jump shot: Missed,45,140,2,,203826,,1611661323,55,54,0,3
+05:59,[WAS] Hines-Allen Rebound (Off:0 Def:4),45,140,4,,1628899,,1611661322,55,54,0,3
+05:53,[WAS] Atkins Driving Floating Jump Shot: Missed Block: Thomas (1 BLK),19,83,2,203826,1628878,,1611661322,55,54,0,3
+05:53,[WAS] Team Rebound,19,83,4,,0,,1611661322,55,54,0,3
+05:53,[WAS] Hines-Allen Substitution replaced by Engstler,0,-80,8,,1628899,1631083,1611661322,55,54,0,3
+05:45,[WAS] Vanloo Driving Layup Shot: Missed Block: Harris (1 BLK),52,37,2,1630112,1642210,,1611661322,55,54,0,3
+05:42,[CON] Jones Rebound (Off:1 Def:3),52,37,4,,1628280,,1611661323,55,54,0,3
+05:40,[CON 56-55] Harris Running Pull-Up Jump Shot: Made (15 PTS),-5,48,1,,1630112,,1611661323,55,56,2,3
+05:40,Timeout : Regular,0,-80,9,,1611661322,,1611661322,55,56,0,3
+05:28,[WAS] Dolson 3pt Shot: Missed,229,-36,2,,203828,,1611661322,55,56,0,3
+05:25,[CON] Carrington Rebound (Off:1 Def:1),229,-36,4,,1630096,,1611661323,55,56,0,3
+05:17,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),224,196,5,,203826,1629182,1611661323,55,56,0,3
+05:07,[WAS] Atkins Cutting Layup Shot: Missed,-24,16,2,,1628878,,1611661322,55,56,0,3
+05:05,[CON] Thomas Rebound (Off:1 Def:1),-24,16,4,,203826,,1611661323,55,56,0,3
+04:57,[CON] Carrington Step Back Jump shot: Missed,87,108,2,,1630096,,1611661323,55,56,0,3
+04:55,[WAS] Team Rebound,87,108,4,,0,,1611661322,55,56,0,3
+04:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,56,0,3
+04:33,[WAS] Dolson Jump Shot: Missed,-27,171,2,,203828,,1611661322,55,56,0,3
+04:30,[CON] Jones Rebound (Off:1 Def:4),-27,171,4,,1628280,,1611661323,55,56,0,3
+04:14,[WAS] Dolson Foul: Shooting (2 PF) (2 FTA),34,10,6,1630096,203828,100697,1611661322,55,56,0,3
+04:14,[CON 57-55] Carrington Free Throw 1 of 2 (9 PTS),0,-80,3,,1630096,,1611661323,55,57,1,3
+04:14,[WAS] Vanloo Substitution replaced by Melbourne,0,-80,8,,1642210,1631141,1611661322,55,57,0,3
+04:14,[CON 58-55] Carrington Free Throw 2 of 2 (10 PTS),0,-80,3,,1630096,,1611661323,55,58,1,3
+04:08,[WAS] Melbourne Turnover : Traveling (2 TO),-220,332,5,,1631141,1629177,1611661322,55,58,0,3
+03:53,[CON] Bonner Step Back Jump shot: Missed,142,89,2,,201886,,1611661323,55,58,0,3
+03:45,[WAS] Engstler Rebound (Off:1 Def:3),142,89,4,,1631083,,1611661322,55,58,0,3
+03:33,[WAS] Walker-Kimbrough Driving Layup Shot: Missed Block: Bonner (2 BLK),-40,22,2,201886,1628278,,1611661322,55,58,0,3
+03:30,[CON] Thomas Rebound (Off:1 Def:2),-40,22,4,,203826,,1611661323,55,58,0,3
+03:24,[CON 60-55] Harris Driving Floating Jump Shot: Made (17 PTS) Assist: Thomas (5 AST),28,25,1,,1630112,203826,1611661323,55,60,2,3
+03:10,[WAS 57-60] Atkins Driving Layup Shot: Made (8 PTS) Assist: Melbourne (2 AST),-26,11,1,,1628878,1631141,1611661322,57,60,2,3
+02:58,[CON] Thomas Foul: Offensive (2 PF),-71,119,6,1631141,203826,1629177,1611661323,57,60,0,3
+02:58,[CON] Thomas Turnover : Offensive Foul Turnover (2 TO),-71,119,5,,203826,1629177,1611661323,57,60,0,3
+02:58,[CON] Jones Substitution replaced by Burton,0,-80,8,,1628280,1631007,1611661323,57,60,0,3
+02:48,[WAS] Walker-Kimbrough Turnover : Lost Ball (1 TO) Steal:Harris (2 ST),-84,45,5,1630112,1628278,,1611661322,57,60,0,3
+02:39,[CON] Harris Driving Layup Shot: Missed Block: Walker-Kimbrough (1 BLK),67,3,2,1628278,1630112,,1611661323,57,60,0,3
+02:37,[WAS] Walker-Kimbrough Rebound (Off:1 Def:1),67,3,4,,1628278,,1611661322,57,60,0,3
+02:34,[WAS] Walker-Kimbrough Free Throw Technical Missed,0,-80,3,,1628278,,1611661322,57,60,0,3
+02:34,[WAS] Team Rebound,0,-80,4,,0,,1611661322,57,60,0,3
+02:34,[CON] Harris Technical (1 FTA),0,-80,6,,1630112,100697,1611661323,57,60,0,3
+02:34,Timeout : Regular,0,-80,9,,1611661322,,1611661322,57,60,0,3
+02:34,[WAS] Atkins Substitution replaced by Richards,0,-80,8,,1628878,1630459,1611661322,57,60,0,3
+02:34,[CON] Harris Substitution replaced by Banham,0,-80,8,,1630112,1627671,1611661323,57,60,0,3
+02:34,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,57,60,0,3
+02:23,[WAS] Melbourne Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-22,247,5,,1631141,1629182,1611661322,57,60,0,3
+02:06,[CON] Carrington Driving Layup Shot: Missed,-43,0,2,,1630096,,1611661323,57,60,0,3
+02:05,[CON] Thomas Rebound (Off:2 Def:2),-43,0,4,,203826,,1611661323,57,60,0,3
+02:03,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (3 TO),124,51,5,,203826,,1611661323,57,60,0,3
+01:40,[WAS] Engstler Layup Shot: Missed,-46,17,2,,1631083,,1611661322,57,60,0,3
+01:36,[CON] Banham Rebound (Off:0 Def:1),-46,17,4,,1627671,,1611661323,57,60,0,3
+01:30,[CON] Banham Jump Shot: Missed,150,143,2,,1627671,,1611661323,57,60,0,3
+01:26,[CON] Thomas Rebound (Off:3 Def:2),150,143,4,,203826,,1611661323,57,60,0,3
+01:24,[CON] Carrington Layup Shot: Missed,37,-5,2,,1630096,,1611661323,57,60,0,3
+01:21,[WAS] Walker-Kimbrough Rebound (Off:1 Def:2),37,-5,4,,1628278,,1611661322,57,60,0,3
+01:08,[WAS 60-60] Melbourne 3pt Shot: Made (8 PTS) Assist: Richards (2 AST),-100,255,1,,1631141,1630459,1611661322,60,60,3,3
+00:41.5,[CON 63-60] Bonner 3pt Shot: Made (18 PTS) Assist: Carrington (2 AST),-51,318,1,,201886,1630096,1611661323,60,63,3,3
+00:32.2,[WAS] Dolson Substitution replaced by Hines-Allen,0,-80,8,,203828,1628899,1611661322,60,63,0,3
+00:32.2,[CON] Carrington Substitution replaced by Mitchell,0,-80,8,,1630096,1627676,1611661323,60,63,0,3
+00:32.2,[CON] Burton Foul: Shooting (3 PF) (2 FTA),-23,113,6,1628278,1631007,1629177,1611661323,60,63,0,3
+00:32.2,[WAS 61-63] Walker-Kimbrough Free Throw 1 of 2 (8 PTS),0,-80,3,,1628278,,1611661322,61,63,1,3
+00:32.2,[WAS 62-63] Walker-Kimbrough Free Throw 2 of 2 (9 PTS),0,-80,3,,1628278,,1611661322,62,63,1,3
+00:22.6,[CON 65-62] Thomas Driving Layup Shot: Made (4 PTS) Assist: Burton (4 AST),-18,8,1,,203826,1631007,1611661323,62,65,2,3
+00:01.8,[WAS 64-65] Melbourne Step Back Jump shot: Made (10 PTS),18,215,1,,1631141,,1611661322,64,65,2,3
+00:01.8,[CON] White Technical (1 FTA),0,-80,6,,100370,1629177,1611661323,64,65,0,3
+00:01.8,[WAS 65-65] Walker-Kimbrough Free Throw Technical (10 PTS),0,-80,3,,1628278,,1611661322,65,65,1,3
+00:00.0,End Period,0,-80,13,,0,,0,65,65,0,3
+10:00,Start Period,0,-80,12,,0,,0,65,65,0,4
+09:45,[CON] Bonner 3pt Shot: Missed,244,-6,2,,201886,,1611661323,65,65,0,4
+09:40,[WAS] Richards Rebound (Off:1 Def:3),244,-6,4,,1630459,,1611661322,65,65,0,4
+09:27,[WAS] Walker-Kimbrough Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-94,193,5,,1628278,1629182,1611661322,65,65,0,4
+09:08,[WAS] Melbourne Foul: Shooting (1 PF) (2 FTA),4,51,6,203826,1631141,100697,1611661322,65,65,0,4
+09:08,[CON 66-65] Thomas Free Throw 1 of 2 (5 PTS),0,-80,3,,203826,,1611661323,65,66,1,4
+09:08,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,65,66,0,4
+09:08,[WAS] Engstler Rebound (Off:1 Def:4),0,-80,4,,1631083,,1611661322,65,66,0,4
+08:47,[WAS 67-66] Walker-Kimbrough Driving Floating Jump Shot: Made (12 PTS),-23,50,1,,1628278,,1611661322,67,66,2,4
+08:42,[CON] Mitchell Turnover : Step Out of Bounds Turnover (2 TO),-227,-24,5,,1627676,1629182,1611661323,67,66,0,4
+08:24,[WAS 69-66] Walker-Kimbrough Jump Shot: Made (14 PTS),-167,134,1,,1628278,,1611661322,69,66,2,4
+08:16,[CON] Banham 3pt Shot: Missed,54,245,2,,1627671,,1611661323,69,66,0,4
+08:16,[WAS] Team Rebound,54,245,4,,0,,1611661322,69,66,0,4
+08:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,66,0,4
+08:08,[CON] Mitchell Foul: Personal (1 PF),-135,242,6,1630459,1627676,100697,1611661323,69,66,0,4
+08:08,[CON] Banham Substitution replaced by Harris,0,-80,8,,1627671,1630112,1611661323,69,66,0,4
+07:58,[WAS] Melbourne Turnover : Bad Pass (4 TO) Steal:Burton (2 ST),-150,135,5,1631007,1631141,,1611661322,69,66,0,4
+07:52,[CON 68-69] Bonner Running Layup Shot: Made (20 PTS) Assist: Mitchell (2 AST),-29,5,1,,201886,1627676,1611661323,69,68,2,4
+07:40,[WAS 71-68] Hines-Allen Cutting Layup Shot: Made (12 PTS) Assist: Walker-Kimbrough (5 AST),-16,18,1,,1628899,1628278,1611661322,71,68,2,4
+07:26,[WAS] Engstler Foul: Shooting (2 PF) (2 FTA),70,27,6,203826,1631083,100697,1611661322,71,68,0,4
+07:26,[CON 69-71] Thomas Free Throw 1 of 2 (6 PTS),0,-80,3,,203826,,1611661323,71,69,1,4
+07:26,[WAS] Melbourne Substitution replaced by Atkins,0,-80,8,,1631141,1628878,1611661322,71,69,0,4
+07:26,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,71,69,0,4
+07:24,[WAS] Engstler Rebound (Off:1 Def:5),0,-80,4,,1631083,,1611661322,71,69,0,4
+07:19,[CON] Mitchell Foul: Personal (2 PF),136,259,6,1630459,1627676,1629182,1611661323,71,69,0,4
+07:06,[WAS 73-69] Richards Cutting Layup Shot: Made (4 PTS) Assist: Engstler (1 AST),-17,32,1,,1630459,1631083,1611661322,73,69,2,4
+06:45,[CON 72-73] Harris 3pt Shot: Made (20 PTS) Assist: Burton (5 AST),-232,-23,1,,1630112,1631007,1611661323,73,72,3,4
+06:34,[CON] Burton Foul: Shooting (4 PF) (2 FTA),47,53,6,1628878,1631007,100697,1611661323,73,72,0,4
+06:34,[WAS] Atkins Free Throw 1 of 2 Missed,0,-80,3,,1628878,,1611661322,73,72,0,4
+06:34,[WAS] Team Rebound,0,-80,4,,0,,1611661322,73,72,0,4
+06:34,[WAS] Atkins Free Throw 2 of 2 Missed,0,-80,3,,1628878,,1611661322,73,72,0,4
+06:31,[CON] Bonner Rebound (Off:0 Def:9),0,-80,4,,201886,,1611661323,73,72,0,4
+06:23,[CON 74-73] Bonner Driving Floating Jump Shot: Made (22 PTS),5,28,1,,201886,,1611661323,73,74,2,4
+06:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,74,0,4
+06:05,[WAS 75-74] Walker-Kimbrough Pullup Jump shot: Made (16 PTS) Assist: Richards (3 AST),-120,28,1,,1628278,1630459,1611661322,75,74,2,4
+05:48,[CON] Bonner 3pt Shot: Missed,243,0,2,,201886,,1611661323,75,74,0,4
+05:45,[WAS] Hines-Allen Rebound (Off:0 Def:5),243,0,4,,1628899,,1611661322,75,74,0,4
+05:42,[WAS] Hines-Allen Turnover : Out of Bounds - Bad Pass Turnover (5 TO),-11,388,5,,1628899,1629177,1611661322,75,74,0,4
+05:42,Timeout : Official,0,-80,9,,0,,0,75,74,0,4
+05:42,[WAS] Engstler Substitution replaced by Dolson,0,-80,8,,1631083,203828,1611661322,75,74,0,4
+05:42,[CON] Mitchell Substitution replaced by Carrington,0,-80,8,,1627676,1630096,1611661323,75,74,0,4
+05:20,[CON] Harris 3pt Shot: Missed,82,244,2,,1630112,,1611661323,75,74,0,4
+05:17,[WAS] Dolson Rebound (Off:0 Def:1),82,244,4,,203828,,1611661322,75,74,0,4
+04:59,[WAS 77-74] Hines-Allen Driving Finger Roll Layup Shot: Made (14 PTS) Assist: Atkins (5 AST),16,13,1,,1628899,1628878,1611661322,77,74,2,4
+04:59,[CON] Bonner Foul: Shooting (2 PF) (1 FTA),2,17,6,1628899,201886,1629177,1611661323,77,74,0,4
+04:59,[WAS 78-74] Hines-Allen Free Throw 1 of 1 (15 PTS),0,-80,3,,1628899,,1611661322,78,74,1,4
+04:34,[CON] Team Turnover : Shot Clock Turnover,16,316,5,,0,1629182,1611661323,78,74,0,4
+04:22,[WAS] Dolson Turnover : Bad Pass (2 TO) Steal:Harris (3 ST),123,194,5,1630112,203828,,1611661322,78,74,0,4
+04:18,[WAS] Dolson Foul: Shooting (3 PF) (2 FTA),-74,10,6,203826,203828,1629177,1611661322,78,74,0,4
+04:18,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,78,74,0,4
+04:18,[CON] Team Rebound,0,-80,4,,0,,1611661323,78,74,0,4
+04:18,[CON] Burton Substitution replaced by Jones,0,-80,8,,1631007,1628280,1611661323,78,74,0,4
+04:18,[CON 75-78] Thomas Free Throw 2 of 2 (7 PTS),0,-80,3,,203826,,1611661323,78,75,1,4
+03:52,[WAS 80-75] Atkins Alley Oop Layup shot: Made (10 PTS) Assist: Dolson (3 AST),-1,50,1,,1628878,203828,1611661322,80,75,2,4
+03:51,Timeout : Regular,0,-80,9,,1611661323,,1611661323,80,75,0,4
+03:51,Instant Replay - Support Ruling,0,-80,18,,0,,0,80,75,0,4
+03:34,[CON] Bonner Jump Shot: Missed,-136,65,2,,201886,,1611661323,80,75,0,4
+03:31,[WAS] Richards Rebound (Off:1 Def:4),-136,65,4,,1630459,,1611661322,80,75,0,4
+03:08,[WAS] Atkins 3pt Shot: Missed,-133,282,2,,1628878,,1611661322,80,75,0,4
+03:08,[WAS] Team Rebound,-133,282,4,,0,,1611661322,80,75,0,4
+03:08,[WAS] Team Turnover : Shot Clock Turnover,-122,244,5,,0,1629177,1611661322,80,75,0,4
+02:53,[CON] Carrington Foul: Offensive Charge (4 PF),106,80,6,1628878,1630096,100697,1611661323,80,75,0,4
+02:53,[CON] Carrington Turnover : Offensive Foul Turnover (4 TO),106,80,5,,1630096,100697,1611661323,80,75,0,4
+02:37,[CON] Jones Foul: Shooting (3 PF) (2 FTA),-22,102,6,203828,1628280,1629182,1611661323,80,75,0,4
+02:37,[WAS 81-75] Dolson Free Throw 1 of 2 (17 PTS),0,-80,3,,203828,,1611661322,81,75,1,4
+02:37,[WAS 82-75] Dolson Free Throw 2 of 2 (18 PTS),0,-80,3,,203828,,1611661322,82,75,1,4
+02:17,[CON 77-82] Bonner Driving Layup Shot: Made (24 PTS),-19,-17,1,,201886,,1611661323,82,77,2,4
+01:58,[WAS] Atkins Turnover : Lost Ball (2 TO) Steal:Carrington (1 ST),-24,323,5,1630096,1628878,,1611661322,82,77,0,4
+01:54,[CON] Thomas Running Layup Shot: Missed,-28,9,2,,203826,,1611661323,82,77,0,4
+01:52,[WAS] Dolson Rebound (Off:0 Def:2),-28,9,4,,203828,,1611661322,82,77,0,4
+01:42,[WAS] Walker-Kimbrough 3pt Shot: Missed,-223,134,2,,1628278,,1611661322,82,77,0,4
+01:39,[CON] Thomas Rebound (Off:3 Def:3),-223,134,4,,203826,,1611661323,82,77,0,4
+01:33,[CON] Carrington 3pt Shot: Missed,-199,150,2,,1630096,,1611661323,82,77,0,4
+01:30,[WAS] Walker-Kimbrough Rebound (Off:1 Def:3),-199,150,4,,1628278,,1611661322,82,77,0,4
+01:17,Timeout : Regular,0,-80,9,,1611661322,,1611661322,82,77,0,4
+01:07,[WAS] Walker-Kimbrough 3pt Shot: Missed,211,82,2,,1628278,,1611661322,82,77,0,4
+01:07,[WAS] Team Rebound,211,82,4,,0,,1611661322,82,77,0,4
+01:07,[WAS] Team Turnover : Shot Clock Turnover,171,85,5,,0,100697,1611661322,82,77,0,4
+00:49.0,[CON 80-82] Harris 3pt Shot: Made (23 PTS) Assist: Thomas (6 AST),152,216,1,,1630112,203826,1611661323,82,80,3,4
+00:32.4,[WAS] Walker-Kimbrough Turnover : Bad Pass (3 TO) Steal:Thomas (1 ST),54,247,5,203826,1628278,,1611661322,82,80,0,4
+00:24.3,[CON 82-82] Carrington Driving Layup Shot: Made (12 PTS) Assist: Harris (1 AST),-18,-1,1,,1630096,1630112,1611661323,82,82,2,4
+00:24.3,[WAS] Dolson Foul: Shooting (4 PF) (1 FTA),-32,5,6,1630096,203828,100697,1611661322,82,82,0,4
+00:24.3,[CON] Carrington Free Throw 1 of 1 Missed,0,-80,3,,1630096,,1611661323,82,82,0,4
+00:24.0,[WAS] Walker-Kimbrough Rebound (Off:1 Def:4),0,-80,4,,1628278,,1611661322,82,82,0,4
+00:24.0,Timeout : Regular,0,-80,9,,1611661322,,1611661322,82,82,0,4
+00:24.0,[WAS] Richards Substitution replaced by Vanloo,0,-80,8,,1630459,1642210,1611661322,82,82,0,4
+00:24.0,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,82,82,0,4
+00:01.0,[WAS] Vanloo Foul: Offensive (4 PF),-18,24,6,1631007,1642210,1629177,1611661322,82,82,0,4
+00:01.0,[WAS] Vanloo Turnover : Offensive Foul Turnover (3 TO),-18,24,5,,1642210,1629177,1611661322,82,82,0,4
+00:01.0,Timeout : Regular,0,-80,9,,1611661323,,1611661323,82,82,0,4
+00:01.0,[WAS] Vanloo Substitution replaced by Richards,0,-80,8,,1642210,1630459,1611661322,82,82,0,4
+00:00.1,[CON] Bonner 3pt Shot: Missed,118,253,2,,201886,,1611661323,82,82,0,4
+00:00.1,[CON] Team Rebound,118,253,4,,0,,1611661323,82,82,0,4
+00:00.0,End Period,0,-80,13,,0,,0,82,82,0,4
+05:00,Start Period,0,-80,12,,0,,0,82,82,0,5
+04:59,Jump Ball Jones vs Dolson,0,-80,10,203828,1628280,,1611661323,82,82,0,5
+04:59,[WAS] Dolson Foul: Loose Ball (5 PF),0,397,6,1628280,203828,1629182,1611661322,82,82,0,5
+04:36,[CON] Bonner Turnaround Jump Shot: Missed,-130,54,2,,201886,,1611661323,82,82,0,5
+04:34,[CON] Carrington Rebound (Off:2 Def:1),-130,54,4,,1630096,,1611661323,82,82,0,5
+04:27,[CON] Jones Jump Shot: Missed,162,3,2,,1628280,,1611661323,82,82,0,5
+04:24,[WAS] Hines-Allen Rebound (Off:0 Def:6),162,3,4,,1628899,,1611661322,82,82,0,5
+04:12,[WAS] Atkins 3pt Shot: Missed,188,158,2,,1628878,,1611661322,82,82,0,5
+04:10,[WAS] Team Rebound,188,158,4,,0,,1611661322,82,82,0,5
+04:10,[WAS] Atkins Turnover : Traveling (3 TO),17,32,5,,1628878,1629177,1611661322,82,82,0,5
+03:54,[CON 84-82] Jones Hook Shot: Made (7 PTS) Assist: Bonner (2 AST),50,31,1,,1628280,201886,1611661323,82,84,2,5
+03:38,[WAS 84-84] Hines-Allen Layup Shot: Made (17 PTS) Assist: Dolson (4 AST),-22,11,1,,1628899,203828,1611661322,84,84,2,5
+03:38,[CON] Bonner Foul: Shooting (3 PF) (1 FTA),-34,7,6,1628899,201886,1629177,1611661323,84,84,0,5
+03:38,Timeout : Regular,0,-80,9,,1611661323,,1611661323,84,84,0,5
+03:38,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661323,84,84,0,5
+03:38,[WAS 85-84] Hines-Allen Free Throw 1 of 1 (18 PTS),0,-80,3,,1628899,,1611661322,85,84,1,5
+03:20,[CON] Carrington 3pt Shot: Missed,249,-24,2,,1630096,,1611661323,85,84,0,5
+03:18,[CON] Thomas Rebound (Off:4 Def:3),249,-24,4,,203826,,1611661323,85,84,0,5
+03:17,[CON] Thomas Layup Shot: Missed,-27,4,2,,203826,,1611661323,85,84,0,5
+03:15,[WAS] Dolson Rebound (Off:0 Def:3),-27,4,4,,203828,,1611661322,85,84,0,5
+02:57,[WAS] Vanloo Turnover : Bad Pass (4 TO) Steal:Harris (4 ST),-199,135,5,1630112,1642210,,1611661322,85,84,0,5
+02:57,[WAS] Vanloo Foul: Personal (5 PF),226,674,6,1630112,1642210,1629177,1611661322,85,84,0,5
+02:43,[CON 87-85] Carrington 3pt Shot: Made (15 PTS) Assist: Jones (1 AST),212,102,1,,1630096,1628280,1611661323,85,87,3,5
+02:25,[WAS] Atkins Turnover : Lost Ball (4 TO) Steal:Carrington (2 ST),-68,316,5,1630096,1628878,,1611661322,85,87,0,5
+02:22,[CON 89-85] Carrington Running Layup Shot: Made (17 PTS),29,-13,1,,1630096,,1611661323,85,89,2,5
+02:22,Timeout : Regular,0,-80,9,,1611661322,,1611661322,85,89,0,5
+02:09,[WAS 88-89] Vanloo 3pt Shot: Made (12 PTS),157,194,1,,1642210,,1611661322,88,89,3,5
+01:52,[CON] Jones Layup Shot: Missed,44,10,2,,1628280,,1611661323,88,89,0,5
+01:52,[CON] Thomas Rebound (Off:5 Def:3),44,10,4,,203826,,1611661323,88,89,0,5
+01:52,[WAS] Atkins Foul: Personal (4 PF),-84,13,6,203826,1628878,1629177,1611661322,88,89,0,5
+01:52,Timeout : Regular,0,-80,9,,1611661322,,1611661322,88,89,0,5
+01:52,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661322,88,89,0,5
+01:36,[CON] Carrington Driving Floating Jump Shot: Missed,22,49,2,,1630096,,1611661323,88,89,0,5
+01:34,[WAS] Team Rebound,22,49,4,,0,,1611661322,88,89,0,5
+01:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,88,89,0,5
+01:16,[WAS] Dolson 3pt Shot: Missed,-232,51,2,,203828,,1611661322,88,89,0,5
+01:11,[CON] Bonner Rebound (Off:0 Def:10),-232,51,4,,201886,,1611661323,88,89,0,5
+00:57.3,[CON 92-88] Carrington 3pt Shot: Made (20 PTS) Assist: Jones (2 AST),-210,102,1,,1630096,1628280,1611661323,88,92,3,5
+00:51.4,[WAS] Vanloo 3pt Shot: Missed,-83,278,2,,1642210,,1611661322,88,92,0,5
+00:47.9,[WAS] Walker-Kimbrough Rebound (Off:2 Def:4),-83,278,4,,1628278,,1611661322,88,92,0,5
+00:44.3,[WAS 90-92] Hines-Allen Driving Layup Shot: Made (20 PTS) Assist: Walker-Kimbrough (6 AST),23,7,1,,1628899,1628278,1611661322,90,92,2,5
+00:44.3,[CON] Jones Foul: Shooting (4 PF) (1 FTA),16,22,6,1628899,1628280,1629182,1611661323,90,92,0,5
+00:44.3,[WAS] Vanloo Substitution replaced by Richards,0,-80,8,,1642210,1630459,1611661322,90,92,0,5
+00:44.3,[WAS 91-92] Hines-Allen Free Throw 1 of 1 (21 PTS),0,-80,3,,1628899,,1611661322,91,92,1,5
+00:24.5,[CON] Carrington 3pt Shot: Missed,226,111,2,,1630096,,1611661323,91,92,0,5
+00:21.8,[WAS] Hines-Allen Rebound (Off:0 Def:7),226,111,4,,1628899,,1611661322,91,92,0,5
+00:15.5,Timeout : Reset,0,-80,9,,1611661322,,1611661322,91,92,0,5
+00:15.5,[WAS] Richards Substitution replaced by Vanloo,0,-80,8,,1630459,1642210,1611661322,91,92,0,5
+00:15.5,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,91,92,0,5
+00:07.3,[WAS] Walker-Kimbrough Jump Shot: Missed,-196,-4,2,,1628278,,1611661322,91,92,0,5
+00:03.9,[CON] Carrington Rebound (Off:2 Def:2),-196,-4,4,,1630096,,1611661323,91,92,0,5
+00:03.9,[WAS] Atkins Foul: Personal (5 PF) (2 FTA),-39,837,6,1630096,1628878,100697,1611661322,91,92,0,5
+00:03.9,[CON 93-91] Carrington Free Throw 1 of 2 (21 PTS),0,-80,3,,1630096,,1611661323,91,93,1,5
+00:03.9,[CON 94-91] Carrington Free Throw 2 of 2 (22 PTS),0,-80,3,,1630096,,1611661323,91,94,1,5
+00:00.9,[WAS] Vanloo 3pt Shot: Missed,105,463,2,,1642210,,1611661322,91,94,0,5
+00:00.9,[WAS] Team Rebound,105,463,4,,0,,1611661322,91,94,0,5
+00:00.0,End Period,0,-80,13,,0,,0,91,94,0,5

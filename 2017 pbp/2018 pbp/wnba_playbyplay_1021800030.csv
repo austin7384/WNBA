@@ -1,0 +1,446 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:54,Jump Ball Wilson vs Thomas (Coffey gains possession),0,-80,10,202663,1628932,1628269,1611661319,0,0,1
+09:45,[LVA] Swords Layup Shot: Missed,-115,17,2,1628878,202670,,1611661319,0,0,1
+09:39,[LVA] Swords Rebound (Off:1 Def:0),-115,17,4,,202670,,1611661319,0,0,1
+09:38,[LVA] Wilson Layup Shot: Missed,-88,15,2,,1628932,,1611661319,0,0,1
+09:34,[LVA] Wilson Rebound (Off:1 Def:0),-88,15,4,,1628932,,1611661319,0,0,1
+09:31,[LVA 2-0] Wilson Jump Shot: Made (2 PTS) Assist: Allen (1 AST),-121,130,1,,1628932,1628263,1611661319,2,0,1
+09:04,[WAS 3-2] Hawkins 3pt Shot: Made (3 PTS) Assist: Ruffin-Pratt (1 AST),-120,255,1,,203403,203437,1611661322,2,3,1
+08:51,[LVA] Coffey Turnover : Traveling (1 TO),115,230,5,,1628269,,1611661319,2,3,1
+08:38,[WAS] Thomas Layup Shot: Missed,44,18,2,1628932,202663,,1611661322,2,3,1
+08:38,[WAS] Team Rebound,44,18,4,,0,,1611661322,2,3,1
+08:36,[WAS] Atkins Jump Shot: Missed,127,39,2,,1628878,,1611661322,2,3,1
+08:31,[LVA] Wilson Rebound (Off:1 Def:1),127,39,4,,1628932,,1611661319,2,3,1
+08:22,[LVA 4-3] Coffey Layup Shot: Made (2 PTS),13,64,1,,1628269,,1611661319,4,3,1
+08:07,[WAS 5-4] Hawkins Pullup Jump shot: Made (5 PTS),32,180,1,,203403,,1611661322,4,5,1
+07:48,[LVA] Wilson Pullup Jump shot: Missed,57,161,2,,1628932,,1611661319,4,5,1
+07:43,[WAS] Ruffin-Pratt Rebound (Off:0 Def:1),57,161,4,,203437,,1611661322,4,5,1
+07:39,[WAS] Atkins 3pt Shot: Missed,-1,265,2,,1628878,,1611661322,4,5,1
+07:35,[LVA] Wilson Rebound (Off:1 Def:2),-1,265,4,,1628932,,1611661319,4,5,1
+07:30,[WAS] Atkins Foul: Personal (1 PF),85,239,6,1628263,1628878,,1611661322,4,5,1
+07:25,[LVA 6-5] McBride Pullup Jump shot: Made (2 PTS),-131,92,1,,203825,,1611661319,6,5,1
+07:00,[WAS] Ruffin-Pratt 3pt Shot: Missed,-153,227,2,,203437,,1611661322,6,5,1
+06:55,[LVA] McBride Rebound (Off:0 Def:1),-153,227,4,,203825,,1611661319,6,5,1
+06:43,[LVA] McBride Turnover : Lost Ball (1 TO) Steal:Atkins (1 ST),-83,261,5,1628878,203825,,1611661319,6,5,1
+06:37,[WAS 7-6] Hawkins Layup Shot: Made (7 PTS) Assist: Toliver (1 AST),-106,15,1,,203403,201911,1611661322,6,7,1
+06:23,[LVA 8-7] McBride Reverse Layup Shot: Made (4 PTS) Assist: Swords (1 AST),109,-6,1,,203825,202670,1611661319,8,7,1
+06:03,[WAS] Toliver 3pt Shot: Missed,-158,222,2,,201911,,1611661322,8,7,1
+05:59,[LVA] Coffey Rebound (Off:0 Def:1),-158,222,4,,1628269,,1611661319,8,7,1
+05:47,Jump Ball McBride vs Atkins (Wilson gains possession),0,-80,10,1628878,203825,1628932,1611661319,8,7,1
+05:46,[LVA] Wilson Layup Shot: Missed,-105,64,2,,1628932,,1611661319,8,7,1
+05:42,[WAS] Thomas Rebound (Off:0 Def:1),-105,64,4,,202663,,1611661322,8,7,1
+05:38,[WAS] Hawkins Jump Shot: Missed,117,62,2,202670,203403,,1611661322,8,7,1
+05:38,[LVA] Wilson Rebound (Off:1 Def:3),117,62,4,,1628932,,1611661319,8,7,1
+05:36,[LVA] Wilson Turnover : Bad Pass (1 TO),-97,19,5,,1628932,,1611661319,8,7,1
+05:23,[WAS] Atkins 3pt Shot: Missed,-226,62,2,,1628878,,1611661322,8,7,1
+05:22,[LVA] Team Rebound,-226,62,4,,0,,1611661319,8,7,1
+05:22,[WAS] Atkins Substitution replaced by Currie,0,-80,8,,1628878,200673,1611661322,8,7,1
+05:08,[WAS] Ruffin-Pratt Foul: Shooting (1 PF) (2 FTA),50,84,6,1628269,203437,,1611661322,8,7,1
+05:08,[LVA 9-7] Coffey Free Throw 1 of 2 (3 PTS),0,-80,3,,1628269,,1611661319,9,7,1
+05:08,[LVA 10-7] Coffey Free Throw 2 of 2 (4 PTS),0,-80,3,,1628269,,1611661319,10,7,1
+04:56,[WAS 9-10] Hawkins Jump Shot: Made (9 PTS) Assist: Toliver (2 AST),-167,13,1,,203403,201911,1611661322,10,9,1
+04:43,[LVA] Swords Foul: Offensive (1 PF),96,263,6,203437,202670,,1611661319,10,9,1
+04:43,[LVA] Swords Turnover : Offensive Foul Turnover (1 TO),96,263,5,,202670,,1611661319,10,9,1
+04:43,Timeout Officials,0,-80,9,,0,,0,10,9,1
+04:43,[LVA] Swords Substitution replaced by Bone,0,-80,8,,202670,203402,1611661319,10,9,1
+04:43,[LVA] McBride Substitution replaced by Young,0,-80,8,,203825,201477,1611661319,10,9,1
+04:27,[WAS] Toliver Turnover : Traveling (1 TO),142,279,5,,201911,,1611661322,10,9,1
+04:15,[LVA] Young Fadeaway Jump Shot: Missed,121,65,2,,201477,,1611661319,10,9,1
+04:10,[WAS] Hawkins Rebound (Off:0 Def:1),121,65,4,,203403,,1611661322,10,9,1
+04:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,9,1
+04:02,[LVA] Allen Substitution replaced by Plum,0,-80,8,,1628263,1628276,1611661319,10,9,1
+03:50,[WAS] Ruffin-Pratt Layup Shot: Missed,3,137,2,,203437,,1611661322,10,9,1
+03:49,[WAS] Ruffin-Pratt Rebound (Off:1 Def:1),3,137,4,,203437,,1611661322,10,9,1
+03:49,[WAS] Team Turnover : Shot Clock Turnover,24,177,5,,0,,1611661322,10,9,1
+03:30,[LVA 12-9] Bone Layup Shot: Made (2 PTS),96,52,1,,203402,,1611661319,12,9,1
+03:21,[WAS] Toliver Turnover : Lost Ball (2 TO),149,206,5,,201911,,1611661322,12,9,1
+03:21,[WAS] Toliver Substitution replaced by Walker-Kimbrough,0,-80,8,,201911,1628278,1611661322,12,9,1
+03:21,[WAS] Thomas Substitution replaced by Sanders,0,-80,8,,202663,201506,1611661322,12,9,1
+03:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,9,1
+03:01,[LVA 14-9] Wilson Layup Shot: Made (4 PTS) Assist: Bone (1 AST),-81,-6,1,,1628932,203402,1611661319,14,9,1
+02:53,[WAS] Ruffin-Pratt Turnover : Bad Pass (1 TO) Steal:Wilson (1 ST),59,265,5,1628932,203437,,1611661322,14,9,1
+02:49,[LVA 16-9] Wilson Layup Shot: Made (6 PTS),-44,33,1,,1628932,,1611661319,16,9,1
+02:38,[LVA] Coffey Foul: Shooting (1 PF) (2 FTA),-128,58,6,200673,1628269,,1611661319,16,9,1
+02:38,[WAS 10-16] Currie Free Throw 1 of 2 (1 PTS),0,-80,3,,200673,,1611661322,16,10,1
+02:38,[WAS 11-16] Currie Free Throw 2 of 2 (2 PTS),0,-80,3,,200673,,1611661322,16,11,1
+02:28,[LVA] Coffey Jump Shot: Missed,-27,164,2,,1628269,,1611661319,16,11,1
+02:26,[LVA] Bone Rebound (Off:1 Def:0),-27,164,4,,203402,,1611661319,16,11,1
+02:16,[LVA] Wilson Layup Shot: Missed,63,67,2,201506,1628932,,1611661319,16,11,1
+02:12,[LVA] Wilson Rebound (Off:2 Def:3),63,67,4,,1628932,,1611661319,16,11,1
+02:10,[LVA 18-11] Wilson Layup Shot: Made (8 PTS),59,19,1,,1628932,,1611661319,18,11,1
+01:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,11,1
+01:58,[WAS] Hawkins Substitution replaced by Hines-Allen,0,-80,8,,203403,1628899,1611661322,18,11,1
+01:56,[WAS] Currie Jump Shot: Missed,-145,69,2,,200673,,1611661322,18,11,1
+01:52,[LVA] Wilson Rebound (Off:2 Def:4),-145,69,4,,1628932,,1611661319,18,11,1
+01:44,[LVA 20-11] Bone Fadeaway Jump Shot: Made (4 PTS) Assist: Young (1 AST),17,89,1,,203402,201477,1611661319,20,11,1
+01:26,[WAS] Hines-Allen Turnaround Jump Shot: Missed,-69,97,2,,1628899,,1611661322,20,11,1
+01:21,[LVA] Wilson Rebound (Off:2 Def:5),-69,97,4,,1628932,,1611661319,20,11,1
+01:18,[WAS] Hines-Allen Foul: Shooting (1 PF) (2 FTA),87,67,6,1628269,1628899,,1611661322,20,11,1
+01:18,[LVA] Coffey Free Throw 1 of 2 Missed,0,-80,3,,1628269,,1611661319,20,11,1
+01:18,[LVA] Team Rebound,0,-80,4,,0,,1611661319,20,11,1
+01:18,[WAS] Ruffin-Pratt Substitution replaced by Toliver,0,-80,8,,203437,201911,1611661322,20,11,1
+01:18,[LVA 21-11] Coffey Free Throw 2 of 2 (5 PTS),0,-80,3,,1628269,,1611661319,21,11,1
+01:04,[LVA] Bone Foul: Shooting (1 PF) (2 FTA),-102,18,6,200673,203402,,1611661319,21,11,1
+01:04,[WAS 12-21] Currie Free Throw 1 of 2 (3 PTS),0,-80,3,,200673,,1611661322,21,12,1
+01:04,[LVA] Coffey Substitution replaced by McBride,0,-80,8,,1628269,203825,1611661319,21,12,1
+01:04,[WAS 13-21] Currie Free Throw 2 of 2 (4 PTS),0,-80,3,,200673,,1611661322,21,13,1
+00:50.5,[LVA] Young Turnover : Lost Ball (1 TO),-46,28,5,,201477,,1611661319,21,13,1
+00:36.6,[WAS 15-21] Sanders Jump Shot: Made (2 PTS) Assist: Hines-Allen (1 AST),120,105,1,,201506,1628899,1611661322,21,15,1
+00:28.6,[WAS] Sanders Foul: Personal (1 PF) (2 FTA),-120,99,6,1628932,201506,,1611661322,21,15,1
+00:28.6,[LVA 22-15] Wilson Free Throw 1 of 2 (9 PTS),0,-80,3,,1628932,,1611661319,22,15,1
+00:28.6,[LVA 23-15] Wilson Free Throw 2 of 2 (10 PTS),0,-80,3,,1628932,,1611661319,23,15,1
+00:14.7,[LVA] Young Foul: Personal (1 PF) (2 FTA),26,317,6,200673,201477,,1611661319,23,15,1
+00:14.7,[WAS 16-23] Currie Free Throw 1 of 2 (5 PTS),0,-80,3,,200673,,1611661322,23,16,1
+00:14.7,[WAS 17-23] Currie Free Throw 2 of 2 (6 PTS),0,-80,3,,200673,,1611661322,23,17,1
+00:00.4,[LVA] Plum Jump Shot: Missed,8,138,2,,1628276,,1611661319,23,17,1
+00:00.1,[LVA] Bone Rebound (Off:2 Def:0),8,138,4,,203402,,1611661319,23,17,1
+00:00.1,[WAS] Sanders Foul: Shooting (2 PF) (2 FTA),-75,40,6,203402,201506,,1611661322,23,17,1
+00:00.1,[LVA 24-17] Bone Free Throw 1 of 2 (5 PTS),0,-80,3,,203402,,1611661319,24,17,1
+00:00.1,[LVA 25-17] Bone Free Throw 2 of 2 (6 PTS),0,-80,3,,203402,,1611661319,25,17,1
+00:00.0,End Period,0,-80,13,,0,,0,25,17,1
+10:00,Start Period,0,-80,12,,0,,0,25,17,2
+09:48,[WAS 20-25] Currie 3pt Shot: Made (9 PTS) Assist: Toliver (3 AST),-231,1,1,,200673,201911,1611661322,25,20,2
+09:35,[LVA 27-20] Bone Layup Shot: Made (8 PTS) Assist: McBride (1 AST),30,5,1,,203402,203825,1611661319,27,20,2
+09:20,[LVA] Hamby Foul: Shooting (1 PF) (2 FTA),34,37,6,200673,204324,,1611661319,27,20,2
+09:20,[WAS] Currie Free Throw 1 of 2 Missed,0,-80,3,,200673,,1611661322,27,20,2
+09:20,[WAS] Team Rebound,0,-80,4,,0,,1611661322,27,20,2
+09:20,[WAS 21-27] Currie Free Throw 2 of 2 (10 PTS),0,-80,3,,200673,,1611661322,27,21,2
+09:09,[LVA 29-21] Plum Cutting Layup Shot: Made (2 PTS) Assist: Bone (2 AST),-48,27,1,,1628276,203402,1611661319,29,21,2
+09:09,[LVA] Plum Foul: Personal (1 PF),-95,166,6,201911,1628276,,1611661319,29,21,2
+08:52,[WAS] Currie Foul: Offensive Charge (1 PF),-150,241,6,201477,200673,,1611661322,29,21,2
+08:52,[WAS] Currie Turnover : Offensive Foul Turnover (1 TO),-150,241,5,,200673,,1611661322,29,21,2
+08:41,[WAS] Hines-Allen Foul: Defense 3 Second (2 PF) (1 FTA),0,-80,6,,1628899,,1611661322,29,21,2
+08:41,[LVA 30-21] McBride Free Throw Technical (5 PTS),0,-80,3,,203825,,1611661319,30,21,2
+08:41,[WAS] Hines-Allen Substitution replaced by Hawkins,0,-80,8,,1628899,203403,1611661322,30,21,2
+08:33,[LVA 32-21] McBride Driving Floating Jump Shot: Made (7 PTS) Assist: Hamby (1 AST),-122,52,1,,203825,204324,1611661319,32,21,2
+08:11,[WAS] Thomas Jump Shot: Missed,126,3,2,,202663,,1611661322,32,21,2
+08:07,[LVA] Hamby Rebound (Off:0 Def:1),126,3,4,,204324,,1611661319,32,21,2
+08:03,[LVA] McBride 3pt Shot: Missed,173,214,2,,203825,,1611661319,32,21,2
+07:59,[LVA] McBride Rebound (Off:1 Def:1),173,214,4,,203825,,1611661319,32,21,2
+07:55,[LVA] McBride Turnover : Lost Ball (2 TO) Steal:Atkins (2 ST),125,196,5,1628878,203825,,1611661319,32,21,2
+07:51,[WAS] Atkins Turnover : Lost Ball (1 TO) Steal:Hamby (1 ST),-185,598,5,204324,1628878,,1611661322,32,21,2
+07:47,[LVA 34-21] Bone Layup Shot: Made (10 PTS) Assist: Plum (1 AST),97,3,1,,203402,1628276,1611661319,34,21,2
+07:43,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,34,21,2
+07:43,[WAS] Currie Substitution replaced by Ruffin-Pratt,0,-80,8,,200673,203437,1611661322,34,21,2
+07:37,[LVA] McBride Foul: Personal (1 PF),-130,255,6,1628878,203825,,1611661319,34,21,2
+07:26,[WAS 23-34] Hawkins Driving Layup Shot: Made (11 PTS),59,18,1,,203403,,1611661322,34,23,2
+07:09,[LVA 36-23] Young Jump Shot: Made (2 PTS) Assist: McBride (2 AST),143,27,1,,201477,203825,1611661319,36,23,2
+06:42,[LVA] Plum Foul: Shooting (2 PF) (2 FTA),-43,183,6,203437,1628276,,1611661319,36,23,2
+06:42,[WAS 24-36] Ruffin-Pratt Free Throw 1 of 2 (1 PTS),0,-80,3,,203437,,1611661322,36,24,2
+06:42,[LVA] Bone Substitution replaced by Swords,0,-80,8,,203402,202670,1611661319,36,24,2
+06:42,[LVA] Plum Substitution replaced by Allen,0,-80,8,,1628276,1628263,1611661319,36,24,2
+06:42,[WAS 25-36] Ruffin-Pratt Free Throw 2 of 2 (2 PTS),0,-80,3,,203437,,1611661322,36,25,2
+06:36,[WAS] Thomas Foul: Personal (1 PF),136,149,6,202670,202663,,1611661322,36,25,2
+06:36,[LVA] Hamby Substitution replaced by Wilson,0,-80,8,,204324,1628932,1611661319,36,25,2
+06:29,[WAS] Toliver Foul: Shooting (1 PF) (2 FTA),85,17,6,1628932,201911,,1611661322,36,25,2
+06:29,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,36,25,2
+06:29,[LVA] Team Rebound,0,-80,4,,0,,1611661319,36,25,2
+06:29,[WAS] Thomas Substitution replaced by Sanders,0,-80,8,,202663,201506,1611661322,36,25,2
+06:29,[LVA 37-25] Wilson Free Throw 2 of 2 (11 PTS),0,-80,3,,1628932,,1611661319,37,25,2
+06:13,[WAS 27-37] Atkins Jump Shot: Made (2 PTS) Assist: Hawkins (1 AST),-24,118,1,,1628878,203403,1611661322,37,27,2
+06:00,[LVA] Wilson Jump Shot: Missed,67,138,2,,1628932,,1611661319,37,27,2
+05:57,[LVA] Team Rebound,67,138,4,,0,,1611661319,37,27,2
+05:57,[LVA] Swords Substitution replaced by Coffey,0,-80,8,,202670,1628269,1611661319,37,27,2
+05:53,[LVA] Allen 3pt Shot: Missed,20,260,2,,1628263,,1611661319,37,27,2
+05:49,[WAS] Team Rebound,20,260,4,,0,,1611661322,37,27,2
+05:30,[WAS] Atkins Jump Shot: Missed,-96,153,2,,1628878,,1611661322,37,27,2
+05:26,[LVA] Wilson Rebound (Off:2 Def:6),-96,153,4,,1628932,,1611661319,37,27,2
+05:22,Stoppage: Blood Rule,0,-80,20,,0,,0,37,27,2
+05:18,[LVA] Young Jump Shot: Missed,-48,161,2,,201477,,1611661319,37,27,2
+05:14,[LVA] Coffey Rebound (Off:1 Def:1),-48,161,4,,1628269,,1611661319,37,27,2
+05:12,[LVA] Coffey Turnover : Backcourt Turnover (2 TO),-131,9,5,,1628269,,1611661319,37,27,2
+05:12,[WAS] Hawkins Substitution replaced by Hines-Allen,0,-80,8,,203403,1628899,1611661322,37,27,2
+05:00,[WAS] Atkins Jump Shot: Missed,142,58,2,,1628878,,1611661322,37,27,2
+04:56,[WAS] Hines-Allen Rebound (Off:1 Def:0),142,58,4,,1628899,,1611661322,37,27,2
+04:55,[WAS 29-37] Sanders Jump Shot: Made (4 PTS) Assist: Hines-Allen (2 AST),121,45,1,,201506,1628899,1611661322,37,29,2
+04:44,[WAS] Ruffin-Pratt Foul: Personal (2 PF),120,40,6,203825,203437,,1611661322,37,29,2
+04:33,[LVA 39-29] Wilson Driving Layup Shot: Made (13 PTS) Assist: Young (2 AST),-46,90,1,,1628932,201477,1611661319,39,29,2
+04:17,[WAS] Ruffin-Pratt Layup Shot: Missed,-13,76,2,,203437,,1611661322,39,29,2
+04:14,[WAS] Sanders Rebound (Off:1 Def:0),-13,76,4,,201506,,1611661322,39,29,2
+04:12,[WAS] Toliver 3pt Shot: Missed,232,87,2,,201911,,1611661322,39,29,2
+04:09,[LVA] Allen Rebound (Off:0 Def:1),232,87,4,,1628263,,1611661319,39,29,2
+04:06,[WAS] Atkins Foul: Personal (2 PF),-17,68,6,1628263,1628878,,1611661322,39,29,2
+04:05,[LVA 41-29] Coffey Jump Shot: Made (7 PTS) Assist: Young (3 AST),87,139,1,,1628269,201477,1611661319,41,29,2
+03:47,[WAS] Hines-Allen Layup Shot: Missed,70,135,2,1628932,1628899,,1611661322,41,29,2
+03:43,[WAS] Sanders Rebound (Off:2 Def:0),70,135,4,,201506,,1611661322,41,29,2
+03:40,[WAS] Sanders Layup Shot: Missed,-103,39,2,,201506,,1611661322,41,29,2
+03:38,[WAS] Hines-Allen Rebound (Off:2 Def:0),-103,39,4,,1628899,,1611661322,41,29,2
+03:38,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),-90,39,6,1628899,1628932,,1611661319,41,29,2
+03:38,[WAS] Hines-Allen Free Throw 1 of 2 Missed,0,-80,3,,1628899,,1611661322,41,29,2
+03:38,[WAS] Team Rebound,0,-80,4,,0,,1611661322,41,29,2
+03:38,[WAS 30-41] Hines-Allen Free Throw 2 of 2 (1 PTS),0,-80,3,,1628899,,1611661322,41,30,2
+03:38,[LVA] Young Substitution replaced by Bone,0,-80,8,,201477,203402,1611661319,41,30,2
+03:38,[WAS] Atkins Substitution replaced by Currie,0,-80,8,,1628878,200673,1611661322,41,30,2
+03:17,Jump Ball Bone vs Sanders (McBride gains possession),0,-80,10,201506,203402,203825,1611661319,41,30,2
+03:12,[LVA] Wilson Jump Shot: Missed,173,20,2,,1628932,,1611661319,41,30,2
+03:08,[WAS] Team Rebound,173,20,4,,0,,1611661322,41,30,2
+03:07,[WAS] Sanders Substitution replaced by Thomas,0,-80,8,,201506,202663,1611661322,41,30,2
+02:56,[WAS 32-41] Hines-Allen Driving Layup Shot: Made (3 PTS),75,31,1,,1628899,,1611661322,41,32,2
+02:56,[LVA] Wilson Foul: Shooting (2 PF) (1 FTA),75,31,6,1628899,1628932,,1611661319,41,32,2
+02:56,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,41,32,2
+02:56,[LVA] Wilson Substitution replaced by Swords,0,-80,8,,1628932,202670,1611661319,41,32,2
+02:56,[WAS] Hines-Allen Free Throw 1 of 1 Missed,0,-80,3,,1628899,,1611661322,41,32,2
+02:56,[WAS] Currie Rebound (Off:1 Def:0),0,-80,4,,200673,,1611661322,41,32,2
+02:43,[WAS] Thomas Layup Shot: Missed,97,34,2,203402,202663,,1611661322,41,32,2
+02:37,[LVA] Swords Rebound (Off:1 Def:1),97,34,4,,202670,,1611661319,41,32,2
+02:28,[LVA 44-32] Allen 3pt Shot: Made (3 PTS) Assist: Bone (3 AST),-59,272,1,,1628263,203402,1611661319,44,32,2
+02:05,[LVA] Swords Foul: Defense 3 Second (2 PF) (1 FTA),0,-80,6,,202670,,1611661319,44,32,2
+02:05,[WAS 33-44] Toliver Free Throw Technical (1 PTS),0,-80,3,,201911,,1611661322,44,33,2
+02:04,[WAS] Toliver 3pt Shot: Missed,-107,231,2,,201911,,1611661322,44,33,2
+01:59,[LVA] Coffey Rebound (Off:1 Def:2),-107,231,4,,1628269,,1611661319,44,33,2
+01:47,[LVA] McBride Jump Shot: Missed,-142,19,2,,203825,,1611661319,44,33,2
+01:44,[LVA] Team Rebound,-142,19,4,,0,,1611661319,44,33,2
+01:44,[WAS] Ruffin-Pratt Foul: Personal (3 PF) (2 FTA),-142,19,6,1628269,203437,,1611661322,44,33,2
+01:44,[LVA 45-33] Coffey Free Throw 1 of 2 (8 PTS),0,-80,3,,1628269,,1611661319,45,33,2
+01:44,[WAS] Hines-Allen Substitution replaced by Atkins,0,-80,8,,1628899,1628878,1611661322,45,33,2
+01:44,[WAS] Ruffin-Pratt Substitution replaced by Hawkins,0,-80,8,,203437,203403,1611661322,45,33,2
+01:44,[LVA] Swords Substitution replaced by Hamby,0,-80,8,,202670,204324,1611661319,45,33,2
+01:44,[LVA 46-33] Coffey Free Throw 2 of 2 (9 PTS),0,-80,3,,1628269,,1611661319,46,33,2
+01:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,33,2
+01:28,[WAS 35-46] Currie Driving Layup Shot: Made (12 PTS) Assist: Atkins (1 AST),104,27,1,,200673,1628878,1611661322,46,35,2
+01:12,[LVA] Bone Layup Shot: Missed,25,68,2,,203402,,1611661319,46,35,2
+01:09,[WAS] Atkins Rebound (Off:0 Def:1),25,68,4,,1628878,,1611661322,46,35,2
+01:00,[WAS] Atkins Turnover : Backcourt Turnover (2 TO),108,38,5,,1628878,,1611661322,46,35,2
+00:52.7,[LVA] McBride 3pt Shot: Missed,-145,220,2,,203825,,1611661319,46,35,2
+00:48.8,[LVA] McBride Rebound (Off:2 Def:1),-145,220,4,,203825,,1611661319,46,35,2
+00:47.5,[LVA] McBride Layup Shot: Missed,-117,16,2,,203825,,1611661319,46,35,2
+00:47.5,[WAS] Team Rebound,-117,16,4,,0,,1611661322,46,35,2
+00:43.8,Jump Ball Hawkins vs McBride (Toliver gains possession),0,-80,10,203825,203403,201911,1611661322,46,35,2
+00:37.4,[LVA] Hamby Foul: Personal (2 PF) (2 FTA),-111,64,6,201911,204324,,1611661319,46,35,2
+00:37.4,[WAS 36-46] Toliver Free Throw 1 of 2 (2 PTS),0,-80,3,,201911,,1611661322,46,36,2
+00:37.4,[WAS 37-46] Toliver Free Throw 2 of 2 (3 PTS),0,-80,3,,201911,,1611661322,46,37,2
+00:26.0,[LVA] Hamby 3pt Shot: Missed,-33,267,2,,204324,,1611661319,46,37,2
+00:23.6,[WAS] Team Rebound,-33,267,4,,0,,1611661322,46,37,2
+00:23.6,[WAS] Currie Foul: Personal (2 PF),33,569,6,1628269,200673,,1611661322,46,37,2
+00:23.6,[LVA] Coffey Foul: Personal (2 PF),-97,787,6,200673,1628269,,1611661319,46,37,2
+00:23.6,[LVA] Coffey Substitution replaced by Swords,0,-80,8,,1628269,202670,1611661319,46,37,2
+00:23.6,[WAS] Thomas Turnover : Jump Ball Violation (1 TO),-87,870,5,,202663,,1611661322,46,37,2
+00:23.6,[LVA] Swords Substitution replaced by Plum,0,-80,8,,202670,1628276,1611661319,46,37,2
+00:23.6,[LVA] Bone Substitution replaced by Young,0,-80,8,,203402,201477,1611661319,46,37,2
+00:23.6,[LVA] Allen Substitution replaced by Nared,0,-80,8,,1628263,1628913,1611661319,46,37,2
+00:23.6,[WAS] Thomas Substitution replaced by Walker-Kimbrough,0,-80,8,,202663,1628278,1611661322,46,37,2
+00:05.2,[LVA] Plum 3pt Shot: Missed,108,239,2,203403,1628276,,1611661319,46,37,2
+00:05.2,[WAS] Hawkins Rebound (Off:0 Def:2),108,239,4,,203403,,1611661322,46,37,2
+00:00.0,[WAS] Hawkins Turnover : Bad Pass (1 TO) Steal:Nared (1 ST),-87,536,5,1628913,203403,,1611661322,46,37,2
+00:00.0,End Period,0,-80,13,,0,,0,46,37,2
+10:00,Start Period,0,-80,12,,0,,0,46,37,3
+09:47,[WAS 39-46] Atkins Pullup Jump shot: Made (4 PTS),1,164,1,,1628878,,1611661322,46,39,3
+09:36,[LVA] Wilson Foul: Offensive Charge (3 PF),-145,90,6,202663,1628932,,1611661319,46,39,3
+09:36,[LVA] Wilson Turnover : Offensive Foul Turnover (2 TO),-145,90,5,,1628932,,1611661319,46,39,3
+09:16,[WAS] Atkins Turnover : Bad Pass (3 TO) Steal:McBride (1 ST),153,24,5,203825,1628878,,1611661322,46,39,3
+09:04,[WAS] Hawkins Foul: Shooting (1 PF) (2 FTA),-118,69,6,1628269,203403,,1611661322,46,39,3
+09:04,[LVA 47-39] Coffey Free Throw 1 of 2 (10 PTS),0,-80,3,,1628269,,1611661319,47,39,3
+09:04,[LVA 48-39] Coffey Free Throw 2 of 2 (11 PTS),0,-80,3,,1628269,,1611661319,48,39,3
+08:57,[WAS 41-48] Atkins Pullup Jump shot: Made (6 PTS),142,87,1,,1628878,,1611661322,48,41,3
+08:35,[WAS] Atkins Foul: Shooting (3 PF) (2 FTA),71,15,6,202670,1628878,,1611661322,48,41,3
+08:35,[LVA 49-41] Swords Free Throw 1 of 2 (1 PTS),0,-80,3,,202670,,1611661319,49,41,3
+08:35,[LVA 50-41] Swords Free Throw 2 of 2 (2 PTS),0,-80,3,,202670,,1611661319,50,41,3
+08:22,[WAS] Thomas Jump Shot: Missed,108,49,2,202670,202663,,1611661322,50,41,3
+08:22,[LVA] Team Rebound,108,49,4,,0,,1611661319,50,41,3
+08:22,[WAS] Thomas Foul: Personal (2 PF),-108,786,6,202670,202663,,1611661322,50,41,3
+08:01,[LVA] Coffey 3pt Shot: Missed,98,249,2,,1628269,,1611661319,50,41,3
+07:58,[WAS] Hawkins Rebound (Off:0 Def:3),98,249,4,,203403,,1611661322,50,41,3
+07:54,[LVA] Swords Foul: Personal (3 PF),-122,69,6,201911,202670,,1611661319,50,41,3
+07:46,[WAS] Hawkins Layup Shot: Missed,-59,-3,2,202670,203403,,1611661322,50,41,3
+07:42,[LVA] Swords Rebound (Off:1 Def:2),-59,-3,4,,202670,,1611661319,50,41,3
+07:39,[LVA 52-41] Allen Layup Shot: Made (5 PTS),-93,35,1,,1628263,,1611661319,52,41,3
+07:25,[WAS] Toliver Foul: Offensive Charge (2 PF),96,288,6,1628263,201911,,1611661322,52,41,3
+07:25,[WAS] Toliver Turnover : Offensive Foul Turnover (3 TO),96,288,5,,201911,,1611661322,52,41,3
+07:19,[WAS] Ruffin-Pratt Foul: Personal (4 PF),-139,50,6,1628269,203437,,1611661322,52,41,3
+07:14,[LVA] McBride 3pt Shot: Missed,119,233,2,,203825,,1611661319,52,41,3
+07:10,[WAS] Toliver Rebound (Off:0 Def:1),119,233,4,,201911,,1611661322,52,41,3
+07:10,[WAS] Toliver Turnover : Lost Ball (4 TO) Steal:McBride (2 ST),64,561,5,203825,201911,,1611661322,52,41,3
+07:10,[WAS] Atkins Foul: Personal (4 PF) (2 FTA),-76,598,6,203825,1628878,,1611661322,52,41,3
+07:10,[LVA 53-41] McBride Free Throw 1 of 2 (8 PTS),0,-80,3,,203825,,1611661319,53,41,3
+07:10,[LVA 54-41] McBride Free Throw 2 of 2 (9 PTS),0,-80,3,,203825,,1611661319,54,41,3
+07:10,[WAS] Ruffin-Pratt Substitution replaced by Currie,0,-80,8,,203437,200673,1611661322,54,41,3
+06:48,[WAS 43-54] Atkins Driving Layup Shot: Made (8 PTS),-92,21,1,,1628878,,1611661322,54,43,3
+06:35,[LVA] Swords Turnover : Bad Pass (2 TO),72,265,5,,202670,,1611661319,54,43,3
+06:23,[LVA] Allen Foul: Personal (1 PF),53,307,6,201911,1628263,,1611661319,54,43,3
+06:05,[WAS 45-54] Atkins Jump Shot: Made (10 PTS) Assist: Toliver (4 AST),-122,123,1,,1628878,201911,1611661322,54,45,3
+05:46,[LVA 56-45] Wilson Driving Layup Shot: Made (15 PTS) Assist: Allen (2 AST),65,7,1,,1628932,1628263,1611661319,56,45,3
+05:30,[WAS] Atkins 3pt Shot: Missed,87,247,2,,1628878,,1611661322,56,45,3
+05:27,[WAS] Hawkins Rebound (Off:1 Def:3),87,247,4,,203403,,1611661322,56,45,3
+05:17,[WAS] Toliver 3pt Shot: Missed,-144,279,2,,201911,,1611661322,56,45,3
+05:14,[LVA] Swords Rebound (Off:1 Def:3),-144,279,4,,202670,,1611661319,56,45,3
+05:09,[WAS] Hawkins Foul: Shooting (2 PF) (2 FTA),9,161,6,1628932,203403,,1611661322,56,45,3
+05:09,[LVA 57-45] Wilson Free Throw 1 of 2 (16 PTS),0,-80,3,,1628932,,1611661319,57,45,3
+05:09,[LVA] McBride Substitution replaced by Young,0,-80,8,,203825,201477,1611661319,57,45,3
+05:09,[WAS] Thomas Substitution replaced by Sanders,0,-80,8,,202663,201506,1611661322,57,45,3
+05:09,[LVA] Swords Substitution replaced by Bone,0,-80,8,,202670,203402,1611661319,57,45,3
+05:09,[LVA 58-45] Wilson Free Throw 2 of 2 (17 PTS),0,-80,3,,1628932,,1611661319,58,45,3
+04:50,[WAS] Currie Driving Layup Shot: Missed,64,74,2,,200673,,1611661322,58,45,3
+04:47,[LVA] Coffey Rebound (Off:1 Def:3),64,74,4,,1628269,,1611661319,58,45,3
+04:40,[WAS] Currie Foul: Personal (3 PF) (2 FTA),9,161,6,1628932,200673,,1611661322,58,45,3
+04:40,Timeout Officials,0,-80,9,,0,,0,58,45,3
+04:40,[LVA 59-45] Wilson Free Throw 1 of 2 (18 PTS),0,-80,3,,1628932,,1611661319,59,45,3
+04:40,[LVA 60-45] Wilson Free Throw 2 of 2 (19 PTS),0,-80,3,,1628932,,1611661319,60,45,3
+04:21,[LVA] Allen Foul: Personal (2 PF),-99,161,6,200673,1628263,,1611661319,60,45,3
+04:18,[LVA] Allen Foul: Away From Play (3 PF),-128,113,6,203403,1628263,,1611661319,60,45,3
+04:05,[WAS] Currie 3pt Shot: Missed,-130,256,2,,200673,,1611661322,60,45,3
+04:00,[LVA] Wilson Rebound (Off:2 Def:7),-130,256,4,,1628932,,1611661319,60,45,3
+03:57,[LVA] Allen Layup Shot: Missed,-118,39,2,200673,1628263,,1611661319,60,45,3
+03:53,[WAS] Currie Rebound (Off:1 Def:1),-118,39,4,,200673,,1611661322,60,45,3
+03:46,[WAS] Atkins Jump Shot: Missed,170,9,2,,1628878,,1611661322,60,45,3
+03:43,[LVA] Young Rebound (Off:0 Def:1),170,9,4,,201477,,1611661319,60,45,3
+03:28,[WAS] Sanders Foul: Shooting (3 PF) (2 FTA),-121,85,6,1628932,201506,,1611661322,60,45,3
+03:28,[LVA 61-45] Wilson Free Throw 1 of 2 (20 PTS),0,-80,3,,1628932,,1611661319,61,45,3
+03:28,[LVA] Allen Substitution replaced by Plum,0,-80,8,,1628263,1628276,1611661319,61,45,3
+03:28,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,61,45,3
+03:28,[WAS] Toliver Substitution replaced by Ruffin-Pratt,0,-80,8,,201911,203437,1611661322,61,45,3
+03:28,[WAS] Hawkins Substitution replaced by Hines-Allen,0,-80,8,,203403,1628899,1611661322,61,45,3
+03:28,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,61,45,3
+03:22,[WAS] Walker-Kimbrough Rebound (Off:0 Def:1),0,-80,4,,1628278,,1611661322,61,45,3
+03:15,[LVA] Coffey Foul: Shooting (3 PF) (2 FTA),97,48,6,201506,1628269,,1611661319,61,45,3
+03:15,[WAS 46-61] Sanders Free Throw 1 of 2 (5 PTS),0,-80,3,,201506,,1611661322,61,46,3
+03:15,[WAS 47-61] Sanders Free Throw 2 of 2 (6 PTS),0,-80,3,,201506,,1611661322,61,47,3
+03:08,[WAS] Sanders Foul: Personal (4 PF) (2 FTA),-62,185,6,1628932,201506,,1611661322,61,47,3
+03:08,[LVA 62-47] Wilson Free Throw 1 of 2 (21 PTS),0,-80,3,,1628932,,1611661319,62,47,3
+03:08,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,62,47,3
+03:04,[WAS] Currie Rebound (Off:1 Def:2),0,-80,4,,200673,,1611661322,62,47,3
+02:56,[WAS] Currie Jump Shot: Missed,-93,134,2,,200673,,1611661322,62,47,3
+02:54,[LVA] Bone Rebound (Off:2 Def:1),-93,134,4,,203402,,1611661319,62,47,3
+02:35,[LVA] Young Pullup Jump shot: Missed,-96,160,2,,201477,,1611661319,62,47,3
+02:31,[WAS] Currie Rebound (Off:1 Def:3),-96,160,4,,200673,,1611661322,62,47,3
+02:14,[LVA] Coffey Foul: Shooting (4 PF) (2 FTA),-66,65,6,200673,1628269,,1611661319,62,47,3
+02:14,[WAS 48-62] Currie Free Throw 1 of 2 (13 PTS),0,-80,3,,200673,,1611661322,62,48,3
+02:14,[LVA] Coffey Substitution replaced by McBride,0,-80,8,,1628269,203825,1611661319,62,48,3
+02:14,[WAS] Currie Free Throw 2 of 2 Missed,0,-80,3,,200673,,1611661322,62,48,3
+02:11,[LVA] Bone Rebound (Off:2 Def:2),0,-80,4,,203402,,1611661319,62,48,3
+01:59,[LVA] Bone Jump Shot: Missed,61,173,2,,203402,,1611661319,62,48,3
+01:55,[WAS] Hines-Allen Rebound (Off:2 Def:1),61,173,4,,1628899,,1611661322,62,48,3
+01:49,[WAS 50-62] Sanders Jump Shot: Made (8 PTS) Assist: Hines-Allen (3 AST),-120,5,1,,201506,1628899,1611661322,62,50,3
+01:48,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,62,50,3
+01:29,[LVA] Bone Turnover : Lost Ball (1 TO) Steal:Ruffin-Pratt (1 ST),-135,142,5,203437,203402,,1611661319,62,50,3
+01:29,[WAS] Walker-Kimbrough Turnover : Lost Ball (1 TO),178,192,5,,1628278,,1611661322,62,50,3
+01:08,[LVA] Wilson Jump Shot: Missed,-22,113,2,201506,1628932,,1611661319,62,50,3
+01:04,[WAS] Hines-Allen Rebound (Off:2 Def:2),-22,113,4,,1628899,,1611661322,62,50,3
+01:02,[LVA] Plum Foul: Shooting (3 PF) (2 FTA),4,188,6,200673,1628276,,1611661319,62,50,3
+01:02,[WAS 51-62] Currie Free Throw 1 of 2 (14 PTS),0,-80,3,,200673,,1611661322,62,51,3
+01:02,[LVA] Plum Substitution replaced by Allen,0,-80,8,,1628276,1628263,1611661319,62,51,3
+01:02,[LVA] Wilson Substitution replaced by Hamby,0,-80,8,,1628932,204324,1611661319,62,51,3
+01:02,[WAS 52-62] Currie Free Throw 2 of 2 (15 PTS),0,-80,3,,200673,,1611661322,62,52,3
+00:49.4,[LVA] McBride Turnover : Bad Pass (3 TO) Steal:Hines-Allen (1 ST),122,246,5,1628899,203825,,1611661319,62,52,3
+00:45.3,[WAS] Hines-Allen Layup Shot: Missed,-124,15,2,,1628899,,1611661322,62,52,3
+00:44.6,[WAS] Walker-Kimbrough Rebound (Off:1 Def:1),-124,15,4,,1628278,,1611661322,62,52,3
+00:43.9,[WAS 54-62] Walker-Kimbrough Layup Shot: Made (2 PTS),70,26,1,,1628278,,1611661322,62,54,3
+00:25.5,[LVA] McBride Jump Shot: Missed,145,29,2,,203825,,1611661319,62,54,3
+00:22.3,[WAS] Currie Rebound (Off:1 Def:4),145,29,4,,200673,,1611661322,62,54,3
+00:07.6,[WAS 56-62] Currie Jump Shot: Made (17 PTS),-92,143,1,,200673,,1611661322,62,56,3
+00:00.7,[LVA 64-56] Hamby Layup Shot: Made (2 PTS) Assist: Allen (3 AST),44,13,1,,204324,1628263,1611661319,64,56,3
+00:00.0,End Period,0,-80,13,,0,,0,64,56,3
+10:00,Start Period,0,-80,12,,0,,0,64,56,4
+09:44,[LVA] Hamby Foul: Offensive Charge (3 PF),61,47,6,200673,204324,,1611661319,64,56,4
+09:44,[LVA] Hamby Turnover : Offensive Foul Turnover (1 TO),61,47,5,,204324,,1611661319,64,56,4
+09:28,[WAS] Hines-Allen Hook Shot: Missed,-17,97,2,,1628899,,1611661322,64,56,4
+09:19,[WAS] Hines-Allen Rebound (Off:3 Def:2),-17,97,4,,1628899,,1611661322,64,56,4
+09:13,[WAS 59-64] Ruffin-Pratt 3pt Shot: Made (5 PTS) Assist: Currie (1 AST),-158,207,1,,203437,200673,1611661322,64,59,4
+08:58,[WAS] Currie Foul: Shooting (4 PF) (2 FTA),-95,31,6,201477,200673,,1611661322,64,59,4
+08:58,[LVA] Young Free Throw 1 of 2 Missed,0,-80,3,,201477,,1611661319,64,59,4
+08:58,[LVA] Team Rebound,0,-80,4,,0,,1611661319,64,59,4
+08:58,[LVA] Hamby Substitution replaced by Wilson,0,-80,8,,204324,1628932,1611661319,64,59,4
+08:58,[LVA 65-59] Young Free Throw 2 of 2 (3 PTS),0,-80,3,,201477,,1611661319,65,59,4
+08:51,Stoppage: Blood Rule,0,-80,20,,0,,0,65,59,4
+08:45,[WAS] Hines-Allen Jump Shot: Missed,-133,65,2,,1628899,,1611661322,65,59,4
+08:41,[LVA] Bone Rebound (Off:2 Def:3),-133,65,4,,203402,,1611661319,65,59,4
+08:28,Jump Ball Wilson vs Hines-Allen (McBride gains possession),0,-80,10,1628899,1628932,203825,1611661319,65,59,4
+08:18,[LVA] McBride 3pt Shot: Missed,145,233,2,,203825,,1611661319,65,59,4
+08:15,[WAS] Thomas Rebound (Off:0 Def:2),145,233,4,,202663,,1611661322,65,59,4
+08:04,[WAS 61-65] Hines-Allen Driving Layup Shot: Made (5 PTS),62,42,1,,1628899,,1611661322,65,61,4
+07:45,[WAS] Hines-Allen Foul: Shooting (3 PF) (2 FTA),-95,27,6,1628932,1628899,,1611661322,65,61,4
+07:45,[LVA 66-61] Wilson Free Throw 1 of 2 (22 PTS),0,-80,3,,1628932,,1611661319,66,61,4
+07:45,[LVA 67-61] Wilson Free Throw 2 of 2 (23 PTS),0,-80,3,,1628932,,1611661319,67,61,4
+07:30,[LVA] Wilson Foul: Shooting (4 PF) (2 FTA),64,30,6,202663,1628932,,1611661319,67,61,4
+07:30,[WAS] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202663,,1611661322,67,61,4
+07:30,[WAS] Team Rebound,0,-80,4,,0,,1611661322,67,61,4
+07:30,[WAS] Walker-Kimbrough Substitution replaced by Toliver,0,-80,8,,1628278,201911,1611661322,67,61,4
+07:30,[WAS 62-67] Thomas Free Throw 2 of 2 (1 PTS),0,-80,3,,202663,,1611661322,67,62,4
+07:14,[LVA] Young 3pt Shot: Missed,0,258,2,,201477,,1611661319,67,62,4
+07:08,[LVA] Young Rebound (Off:1 Def:1),0,258,4,,201477,,1611661319,67,62,4
+07:06,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,67,62,4
+07:02,[WAS] Hines-Allen Foul: Shooting (4 PF) (2 FTA),-112,38,6,1628932,1628899,,1611661322,67,62,4
+07:02,[LVA 68-62] Wilson Free Throw 1 of 2 (24 PTS),0,-80,3,,1628932,,1611661319,68,62,4
+07:02,[WAS] Hines-Allen Substitution replaced by Hawkins,0,-80,8,,1628899,203403,1611661322,68,62,4
+07:02,[LVA 69-62] Wilson Free Throw 2 of 2 (25 PTS),0,-80,3,,1628932,,1611661319,69,62,4
+06:53,[LVA] Bone Foul: Shooting (2 PF) (2 FTA),-74,130,6,203437,203402,,1611661319,69,62,4
+06:53,[WAS 63-69] Ruffin-Pratt Free Throw 1 of 2 (6 PTS),0,-80,3,,203437,,1611661322,69,63,4
+06:53,[LVA] Bone Substitution replaced by Swords,0,-80,8,,203402,202670,1611661319,69,63,4
+06:53,[WAS 64-69] Ruffin-Pratt Free Throw 2 of 2 (7 PTS),0,-80,3,,203437,,1611661322,69,64,4
+06:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,64,4
+06:49,[WAS] Thomas Substitution replaced by Sanders,0,-80,8,,202663,201506,1611661322,69,64,4
+06:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,64,4
+06:41,[LVA] Swords Substitution replaced by Coffey,0,-80,8,,202670,1628269,1611661319,69,64,4
+06:35,[LVA] Allen 3pt Shot: Missed,-47,259,2,,1628263,,1611661319,69,64,4
+06:29,[WAS] Currie Rebound (Off:1 Def:5),-47,259,4,,200673,,1611661322,69,64,4
+06:20,[WAS] Ruffin-Pratt 3pt Shot: Missed,171,212,2,,203437,,1611661322,69,64,4
+06:16,[WAS] Hawkins Rebound (Off:2 Def:3),171,212,4,,203403,,1611661322,69,64,4
+06:04,[WAS] Currie 3pt Shot: Missed,-103,225,2,,200673,,1611661322,69,64,4
+06:00,[LVA] Young Rebound (Off:1 Def:2),-103,225,4,,201477,,1611661319,69,64,4
+05:47,[LVA 71-64] McBride Pullup Jump shot: Made (11 PTS) Assist: Allen (4 AST),179,88,1,,203825,1628263,1611661319,71,64,4
+05:38,[LVA] Coffey Foul: Shooting (5 PF) (2 FTA),-47,65,6,200673,1628269,,1611661319,71,64,4
+05:38,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,71,64,4
+05:38,[LVA] Coffey Substitution replaced by Hamby,0,-80,8,,1628269,204324,1611661319,71,64,4
+05:38,[WAS 65-71] Currie Free Throw 1 of 2 (18 PTS),0,-80,3,,200673,,1611661322,71,65,4
+05:38,[WAS] Currie Free Throw 2 of 2 Missed,0,-80,3,,200673,,1611661322,71,65,4
+05:35,[LVA] Wilson Rebound (Off:2 Def:8),0,-80,4,,1628932,,1611661319,71,65,4
+05:25,[LVA] McBride Jump Shot: Missed,124,-9,2,,203825,,1611661319,71,65,4
+05:17,[LVA] Hamby Rebound (Off:1 Def:1),124,-9,4,,204324,,1611661319,71,65,4
+05:14,[WAS] Hawkins Foul: Personal (3 PF),70,62,6,204324,203403,,1611661322,71,65,4
+05:05,[LVA 73-65] Hamby Turnaround Hook Shot: Made (4 PTS),-95,113,1,,204324,,1611661319,73,65,4
+04:47,[WAS] Sanders Jump Shot: Missed,151,51,2,,201506,,1611661322,73,65,4
+04:42,[LVA] Hamby Rebound (Off:1 Def:2),151,51,4,,204324,,1611661319,73,65,4
+04:35,[LVA] McBride Jump Shot: Missed,-100,160,2,,203825,,1611661319,73,65,4
+04:31,[WAS] Currie Rebound (Off:1 Def:6),-100,160,4,,200673,,1611661322,73,65,4
+04:23,[WAS 67-73] Currie Reverse Layup Shot: Made (20 PTS),-52,-2,1,,200673,,1611661322,73,67,4
+04:03,[LVA] Wilson Layup Shot: Missed,-74,13,2,200673,1628932,,1611661319,73,67,4
+04:02,[LVA] Wilson Rebound (Off:3 Def:8),-74,13,4,,1628932,,1611661319,73,67,4
+04:02,[LVA] Wilson Layup Shot: Missed,-64,15,2,,1628932,,1611661319,73,67,4
+04:02,[LVA] Team Rebound,-64,15,4,,0,,1611661319,73,67,4
+03:56,[LVA 75-67] Hamby Cutting Layup Shot: Made (6 PTS) Assist: Wilson (1 AST),47,39,1,,204324,1628932,1611661319,75,67,4
+03:56,[WAS] Hawkins Foul: Shooting (4 PF) (1 FTA),47,39,6,204324,203403,,1611661322,75,67,4
+03:56,[LVA 76-67] Hamby Free Throw 1 of 1 (7 PTS),0,-80,3,,204324,,1611661319,76,67,4
+03:35,[WAS 69-76] Currie Driving Layup Shot: Made (22 PTS),-39,44,1,,200673,,1611661322,76,69,4
+03:26,[WAS] Sanders Foul: Shooting (5 PF) (2 FTA),-96,43,6,1628932,201506,,1611661322,76,69,4
+03:26,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,76,69,4
+03:26,[LVA] Team Rebound,0,-80,4,,0,,1611661319,76,69,4
+03:26,[LVA 77-69] Wilson Free Throw 2 of 2 (26 PTS),0,-80,3,,1628932,,1611661319,77,69,4
+03:09,[WAS] Hawkins 3pt Shot: Missed,71,268,2,1628932,203403,,1611661322,77,69,4
+03:04,[LVA] Wilson Rebound (Off:3 Def:9),71,268,4,,1628932,,1611661319,77,69,4
+02:54,Timeout Officials,0,-80,9,,0,,0,77,69,4
+02:54,[WAS] Ruffin-Pratt Substitution replaced by Atkins,0,-80,8,,203437,1628878,1611661322,77,69,4
+02:54,[WAS] Hawkins Substitution replaced by Hines-Allen,0,-80,8,,203403,1628899,1611661322,77,69,4
+02:50,Jump Ball Hamby vs Sanders (Wilson gains possession),0,-80,10,201506,204324,1628932,1611661319,77,69,4
+02:47,[LVA] McBride Turnover : Lost Ball (4 TO) Steal:Hines-Allen (2 ST),93,172,5,1628899,203825,,1611661319,77,69,4
+02:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,69,4
+02:23,[WAS] Team Turnover : Shot Clock Turnover,-44,561,5,,0,,1611661322,77,69,4
+02:09,[LVA 80-69] Hamby 3pt Shot: Made (10 PTS) Assist: McBride (3 AST),-186,184,1,,204324,203825,1611661319,80,69,4
+02:08,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,80,69,4
+01:52,[WAS 71-80] Currie Pullup Jump shot: Made (24 PTS) Assist: Atkins (2 AST),108,149,1,,200673,1628878,1611661322,80,71,4
+01:29,[LVA] Hamby 3pt Shot: Missed,-143,221,2,,204324,,1611661319,80,71,4
+01:25,[WAS] Sanders Rebound (Off:2 Def:1),-143,221,4,,201506,,1611661322,80,71,4
+01:11,[WAS] Atkins 3pt Shot: Missed,-109,263,2,,1628878,,1611661322,80,71,4
+01:10,[LVA] Hamby Rebound (Off:1 Def:3),-109,263,4,,204324,,1611661319,80,71,4
+01:10,[WAS] Atkins Foul: Personal (5 PF) (2 FTA),109,572,6,204324,1628878,,1611661322,80,71,4
+01:10,[LVA 81-71] Hamby Free Throw 1 of 2 (11 PTS),0,-80,3,,204324,,1611661319,81,71,4
+01:10,[WAS] Toliver Substitution replaced by Walker-Kimbrough,0,-80,8,,201911,1628278,1611661322,81,71,4
+01:10,[WAS] Atkins Substitution replaced by Ruffin-Pratt,0,-80,8,,1628878,203437,1611661322,81,71,4
+01:10,[LVA 82-71] Hamby Free Throw 2 of 2 (12 PTS),0,-80,3,,204324,,1611661319,82,71,4
+01:10,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,82,71,4
+01:07,[WAS] Currie Turnover : Traveling (2 TO),52,237,5,,200673,,1611661322,82,71,4
+00:52.2,[LVA 84-71] Hamby Layup Shot: Made (14 PTS) Assist: McBride (4 AST),53,5,1,,204324,203825,1611661319,84,71,4
+00:42.5,[WAS 73-84] Ruffin-Pratt Jump Shot: Made (9 PTS) Assist: Currie (2 AST),97,60,1,,203437,200673,1611661322,84,73,4
+00:35.3,[LVA] Team Timeout : Short,0,-80,9,,1611661319,,1611661319,84,73,4
+00:35.3,[LVA] Wilson Substitution replaced by Swords,0,-80,8,,1628932,202670,1611661319,84,73,4
+00:35.3,[LVA] McBride Substitution replaced by Nared,0,-80,8,,203825,1628913,1611661319,84,73,4
+00:30.4,[WAS] Walker-Kimbrough Foul: Personal (1 PF) (2 FTA),-25,266,6,1628263,1628278,,1611661322,84,73,4
+00:30.4,[LVA 85-73] Allen Free Throw 1 of 2 (6 PTS),0,-80,3,,1628263,,1611661319,85,73,4
+00:30.4,[LVA] Hamby Substitution replaced by Park,0,-80,8,,204324,1628917,1611661319,85,73,4
+00:30.4,[LVA] Allen Free Throw 2 of 2 Missed,0,-80,3,,1628263,,1611661319,85,73,4
+00:28.0,[LVA] Swords Rebound (Off:2 Def:3),0,-80,4,,202670,,1611661319,85,73,4
+00:15.2,[LVA] Allen 3pt Shot: Missed,-97,246,2,,1628263,,1611661319,85,73,4
+00:11.3,[WAS] Currie Rebound (Off:1 Def:7),-97,246,4,,200673,,1611661322,85,73,4
+00:04.4,[WAS] Sanders Jump Shot: Missed,-33,187,2,,201506,,1611661322,85,73,4
+00:04.4,[LVA] Young Rebound (Off:1 Def:3),-33,187,4,,201477,,1611661319,85,73,4
+00:00.0,End Period,0,-80,13,,0,,0,85,73,4
+00:00.0,Game End,0,-80,0,,0,,0,85,73,4

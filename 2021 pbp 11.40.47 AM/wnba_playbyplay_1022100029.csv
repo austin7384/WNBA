@@ -1,0 +1,401 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Jones vs Charles (Bonner gains possession),0,-80,10,202250,1627673,201886,1611661323,0,0,1
+09:40,[CON] Bonner Turnover : Lost Ball (1 TO) Steal:Charles (1 ST),8,96,5,202250,201886,,1611661323,0,0,1
+09:24,[WAS 2-0] Charles Pullup Jump shot: Made (2 PTS),-131,153,1,,202250,,1611661322,0,2,1
+09:05,[CON] Thomas 3pt Shot: Missed,-51,242,2,,202662,,1611661323,0,2,1
+09:02,[WAS] Charles Rebound (Off:0 Def:1),-51,242,4,,202250,,1611661322,0,2,1
+08:54,[WAS] Atkins 3pt Shot: Missed,-224,57,2,,1628878,,1611661322,0,2,1
+08:51,[CON] Bonner Rebound (Off:0 Def:1),-224,57,4,,201886,,1611661323,0,2,1
+08:32,Jump Ball Jones vs Hines-Allen (Thomas gains possession),0,-80,10,1628899,1627673,202662,1611661323,0,2,1
+08:27,[CON] Jones Jump Shot: Missed,-129,90,2,,1628280,,1611661323,0,2,1
+08:22,[CON] Team Rebound,-129,90,4,,0,,1611661323,0,2,1
+08:22,[CON] Jones Technical (1 FTA),0,-80,6,,1627673,,1611661323,0,2,1
+08:22,[WAS 3-0] Atkins Free Throw Technical (1 PTS),0,-80,3,,1628878,,1611661322,0,3,1
+08:19,Jump Ball January vs Wiese (Thomas gains possession),0,-80,10,1628282,201896,202662,1611661323,0,3,1
+08:15,[CON] Jones Turnaround Jump Shot: Missed,-111,92,2,,1627673,,1611661323,0,3,1
+08:12,[WAS] Atkins Rebound (Off:0 Def:1),-111,92,4,,1628878,,1611661322,0,3,1
+08:01,[WAS] Charles 3pt Shot: Missed,-43,229,2,,202250,,1611661322,0,3,1
+07:59,[WAS] Team Rebound,-43,229,4,,0,,1611661322,0,3,1
+07:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,3,1
+07:55,[WAS] Charles Turnaround Jump Shot: Missed,40,119,2,,202250,,1611661322,0,3,1
+07:52,[CON] Thomas Rebound (Off:0 Def:1),40,119,4,,202662,,1611661323,0,3,1
+07:37,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),219,141,5,,202662,,1611661323,0,3,1
+07:21,[WAS] Hines-Allen Turnaround Jump Shot: Missed,67,0,2,1627673,1628899,,1611661322,0,3,1
+07:16,[CON] Bonner Rebound (Off:0 Def:2),67,0,4,,201886,,1611661323,0,3,1
+06:57,[CON] Bonner Turnover : Lost Ball (2 TO),109,71,5,,201886,,1611661323,0,3,1
+06:57,[CON] Jones Foul: Loose Ball (1 PF),-61,771,6,1628878,1628280,,1611661323,0,3,1
+06:40,[WAS 6-0] Wiese 3pt Shot: Made (3 PTS),219,144,1,,1628282,,1611661322,0,6,1
+06:31,[CON] Thomas Jump Shot: Missed,70,92,2,,202662,,1611661323,0,6,1
+06:28,[WAS] Hines-Allen Rebound (Off:0 Def:1),70,92,4,,1628899,,1611661322,0,6,1
+06:17,[WAS] Hines-Allen 3pt Shot: Missed,-145,180,2,,1628899,,1611661322,0,6,1
+06:13,[CON] Jones Rebound (Off:0 Def:1),-145,180,4,,1627673,,1611661323,0,6,1
+06:09,[CON] Jones 3pt Shot: Missed,55,247,2,,1627673,,1611661323,0,6,1
+06:04,[WAS] Wiese Rebound (Off:0 Def:1),55,247,4,,1628282,,1611661322,0,6,1
+05:52,[WAS] Charles Driving Layup Shot: Missed,8,-5,2,,202250,,1611661322,0,6,1
+05:47,[CON] Jones Rebound (Off:0 Def:2),8,-5,4,,1627673,,1611661323,0,6,1
+05:37,[CON] Bonner Cutting Layup Shot: Missed,-13,10,2,,201886,,1611661323,0,6,1
+05:35,[WAS] Cloud Rebound (Off:0 Def:1),-13,10,4,,204333,,1611661322,0,6,1
+05:29,[CON] Jones Foul: Shooting (2 PF) (2 FTA),-46,14,6,1628899,1627673,,1611661323,0,6,1
+05:29,[WAS 7-0] Hines-Allen Free Throw 1 of 2 (1 PTS),0,-80,3,,1628899,,1611661322,0,7,1
+05:29,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,0,7,1
+05:29,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,0,7,1
+05:29,[WAS 8-0] Hines-Allen Free Throw 2 of 2 (2 PTS),0,-80,3,,1628899,,1611661322,0,8,1
+05:12,[CON 2-8] Carrington Cutting Layup Shot: Made (2 PTS) Assist: Jones (1 AST),-8,7,1,,1630096,1628280,1611661323,2,8,1
+05:12,[WAS] Wiese Foul: Shooting (1 PF) (1 FTA),-8,7,6,1630096,1628282,,1611661322,2,8,1
+05:12,[CON] Carrington Free Throw 1 of 1 Missed,0,-80,3,,1630096,,1611661323,2,8,1
+05:09,[CON] Jones Rebound (Off:1 Def:2),0,-80,4,,1627673,,1611661323,2,8,1
+05:04,[CON] Hiedeman 3pt Shot: Missed,-221,62,2,,1629567,,1611661323,2,8,1
+05:02,[WAS] Charles Rebound (Off:0 Def:2),-221,62,4,,202250,,1611661322,2,8,1
+04:49,[WAS 10-2] Atkins Pullup Jump shot: Made (3 PTS),-93,33,1,,1628878,,1611661322,2,10,1
+04:35,[CON 5-10] Carrington 3pt Shot: Made (5 PTS) Assist: Jones (2 AST),182,185,1,,1630096,1628280,1611661323,5,10,1
+04:16,[WAS 13-5] Wiese 3pt Shot: Made (6 PTS) Assist: Charles (1 AST),226,47,1,,1628282,202250,1611661322,5,13,1
+03:54,[CON] January Turnover : Bad Pass (1 TO) Steal:Cloud (1 ST),135,205,5,204333,201896,,1611661323,5,13,1
+03:50,[WAS 16-5] Wiese 3pt Shot: Made (9 PTS) Assist: Atkins (1 AST),218,108,1,,1628282,1628878,1611661322,5,16,1
+03:47,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,5,16,1
+03:30,[CON 7-16] January Pullup Jump shot: Made (2 PTS),-98,185,1,,201896,,1611661323,7,16,1
+03:17,[WAS 18-7] Charles Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Wiese (1 AST),-9,16,1,,202250,1628282,1611661322,7,18,1
+02:54,[CON 9-18] Jones Cutting Layup Shot: Made (2 PTS),0,10,1,,1628280,,1611661323,9,18,1
+02:43,[WAS 20-9] Charles Turnaround Fadeaway Bank Jump Shot: Made (6 PTS),-77,33,1,,202250,,1611661322,9,20,1
+02:27,[WAS] Wiese Foul: Shooting (2 PF) (2 FTA),-18,7,6,1630096,1628282,,1611661322,9,20,1
+02:27,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,9,20,1
+02:27,[CON] Team Rebound,0,-80,4,,0,,1611661323,9,20,1
+02:27,[WAS] Hines-Allen Substitution replaced by McCall,0,-80,8,,1628899,1628286,1611661322,9,20,1
+02:27,[WAS] Wiese Substitution replaced by Mitchell,0,-80,8,,1628282,201507,1611661322,9,20,1
+02:27,[CON 10-20] Carrington Free Throw 2 of 2 (6 PTS),0,-80,3,,1630096,,1611661323,10,20,1
+02:12,[WAS] Charles Jump Shot: Missed,-2,194,2,,202250,,1611661322,10,20,1
+02:09,[CON] January Rebound (Off:0 Def:1),-13,231,4,,201896,,1611661323,10,20,1
+02:08,[CON 12-20] Carrington Running Layup Shot: Made (8 PTS) Assist: Jones (1 AST),-9,12,1,,1630096,1627673,1611661323,12,20,1
+02:08,[WAS] Atkins Foul: Shooting (1 PF) (1 FTA),-9,12,6,1630096,1628878,,1611661322,12,20,1
+02:08,[CON] January Substitution replaced by Bonner,0,-80,8,,201896,201886,1611661323,12,20,1
+02:08,[CON] Carrington Free Throw 1 of 1 Missed,0,-80,3,,1630096,,1611661323,12,20,1
+01:57,[CON] Jones Rebound (Off:1 Def:0),0,-80,4,,1628280,,1611661323,12,20,1
+01:53,[CON 15-20] Jones 3pt Shot: Made (3 PTS) Assist: Hiedeman (1 AST),-111,237,1,,1627673,1629567,1611661323,15,20,1
+01:48,[WAS] McCall Foul: Offensive (1 PF),198,180,6,1628280,1628286,,1611661322,15,20,1
+01:48,[WAS] McCall Turnover : Offensive Foul Turnover (1 TO),198,180,5,,1628286,,1611661322,15,20,1
+01:37,[CON] Jones Foul: Offensive (2 PF),-208,162,6,1628286,1628280,,1611661323,15,20,1
+01:37,[CON] Jones Turnover : Offensive Foul Turnover (1 TO),-208,162,5,,1628280,,1611661323,15,20,1
+01:37,[CON] Jones Substitution replaced by Thomas,0,-80,8,,1628280,202662,1611661323,15,20,1
+01:28,[WAS 22-15] Atkins Jump Shot: Made (5 PTS),-126,97,1,,1628878,,1611661322,15,22,1
+01:08,[WAS] Mitchell Foul: Personal (1 PF),-129,262,6,202662,201507,,1611661322,15,22,1
+01:08,[WAS] Cloud Substitution replaced by Zellous,0,-80,8,,204333,201919,1611661322,15,22,1
+00:53.8,[CON 18-22] Hiedeman 3pt Shot: Made (3 PTS),183,158,1,,1629567,,1611661323,18,22,1
+00:38.5,[WAS 24-18] Charles Jump Shot: Made (8 PTS) Assist: Atkins (2 AST),-191,26,1,,202250,1628878,1611661322,18,24,1
+00:21.6,[CON 20-24] Thomas Driving Layup Shot: Made (2 PTS) Assist: Jones (2 AST),11,5,1,,202662,1627673,1611661323,20,24,1
+00:06.0,[CON] Thomas Foul: Personal (1 PF),-21,65,6,201919,202662,,1611661323,20,24,1
+00:00.8,[WAS] Atkins 3pt Shot: Missed,-143,178,2,,1628878,,1611661322,20,24,1
+00:00.3,[WAS] Team Rebound,-143,178,4,,0,,1611661322,20,24,1
+00:00.0,End Period,0,-80,13,,0,,0,20,24,1
+10:00,Start Period,0,-80,12,,0,,0,20,24,2
+09:51,[CON] Hiedeman Violation:Kicked Ball,0,-80,7,,1629567,,1611661323,20,24,2
+09:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,24,2
+09:35,[WAS] McCall Jump Shot: Missed,104,48,2,,1628286,,1611661322,20,24,2
+09:35,[WAS] Team Rebound,104,48,4,,0,,1611661322,20,24,2
+09:30,[WAS] Team Turnover : Shot Clock Turnover,213,68,5,,0,,1611661322,20,24,2
+09:24,[WAS] Mitchell Foul: Shooting (2 PF) (2 FTA),-57,113,6,1627673,201507,,1611661322,20,24,2
+09:24,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,20,24,2
+09:24,[CON] Team Rebound,0,-80,4,,0,,1611661323,20,24,2
+09:24,[CON 21-24] Jones Free Throw 2 of 2 (4 PTS),0,-80,3,,1627673,,1611661323,21,24,2
+09:13,Jump Ball Zellous vs Carrington (Wiese gains possession),0,-80,10,1630096,201919,1628282,1611661322,21,24,2
+09:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,21,24,2
+09:01,[WAS] Hines-Allen 3pt Shot: Missed,-215,107,2,,1628899,,1611661322,21,24,2
+09:00,[CON] Team Rebound,-215,107,4,,0,,1611661323,21,24,2
+08:48,[CON] Carrington Turnover : Bad Pass (1 TO) Steal:Hines-Allen (1 ST),-231,50,5,1628899,1630096,,1611661323,21,24,2
+08:32,[CON] Hiedeman Foul: Personal (1 PF),113,162,6,201507,1629567,,1611661323,21,24,2
+08:22,[WAS] Zellous 3pt Shot: Missed,210,107,2,,201919,,1611661322,21,24,2
+08:17,[WAS] McCall Rebound (Off:1 Def:0),210,107,4,,1628286,,1611661322,21,24,2
+08:14,[WAS 26-21] Mitchell Pullup Jump shot: Made (2 PTS) Assist: McCall (1 AST),97,165,1,,201507,1628286,1611661322,21,26,2
+08:02,[CON 23-26] Carrington Driving Layup Shot: Made (10 PTS),-8,8,1,,1630096,,1611661323,23,26,2
+07:56,[WAS] Zellous Pullup Jump shot: Missed,-86,68,2,,201919,,1611661322,23,26,2
+07:53,[WAS] Hines-Allen Rebound (Off:1 Def:1),-86,68,4,,1628899,,1611661322,23,26,2
+07:45,[WAS 28-23] Hines-Allen Driving Finger Roll Layup Shot: Made (4 PTS),9,8,1,,1628899,,1611661322,23,28,2
+07:23,[CON 25-28] Bonner Turnaround Jump Shot: Made (2 PTS),-76,120,1,,201886,,1611661323,25,28,2
+07:00,[WAS] McCall Turnaround Jump Shot: Missed,-114,26,2,,1628286,,1611661322,25,28,2
+06:57,[CON] Bonner Rebound (Off:0 Def:3),-114,26,4,,201886,,1611661323,25,28,2
+06:52,[WAS] Hines-Allen Foul: Shooting (1 PF) (2 FTA),-37,71,6,201886,1628899,,1611661322,25,28,2
+06:52,[CON 26-28] Bonner Free Throw 1 of 2 (3 PTS),0,-80,3,,201886,,1611661323,26,28,2
+06:52,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,26,28,2
+06:52,[CON] Carrington Substitution replaced by January,0,-80,8,,1630096,201896,1611661323,26,28,2
+06:52,[WAS] Zellous Substitution replaced by Cloud,0,-80,8,,201919,204333,1611661322,26,28,2
+06:52,[WAS] McCall Substitution replaced by Charles,0,-80,8,,1628286,202250,1611661322,26,28,2
+06:52,[CON 27-28] Bonner Free Throw 2 of 2 (4 PTS),0,-80,3,,201886,,1611661323,27,28,2
+06:31,[WAS 30-27] Hines-Allen Turnaround Jump Shot: Made (6 PTS) Assist: Mitchell (1 AST),-20,42,1,,1628899,201507,1611661322,27,30,2
+06:19,[WAS] Cloud Foul: Personal (1 PF),-114,139,6,202662,204333,,1611661322,27,30,2
+06:19,[WAS] Mitchell Substitution replaced by Atkins,0,-80,8,,201507,1628878,1611661322,27,30,2
+06:08,[CON] Jones Cutting Layup Shot: Missed,19,12,2,202250,1628280,,1611661323,27,30,2
+06:06,[CON] Jones Rebound (Off:2 Def:0),19,12,4,,1628280,,1611661323,27,30,2
+06:06,[WAS] Charles Foul: Shooting (1 PF) (2 FTA),8,13,6,1628280,202250,,1611661322,27,30,2
+06:06,[CON] Team Violation : Delay Of Game,0,-80,7,,0,,1611661323,27,30,2
+06:06,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,27,30,2
+06:06,[CON] Team Rebound,0,-80,4,,0,,1611661323,27,30,2
+06:06,[CON 28-30] Jones Free Throw 2 of 2 (3 PTS),0,-80,3,,1628280,,1611661323,28,30,2
+05:50,[WAS] Hines-Allen Foul: Offensive Charge (2 PF),57,33,6,201886,1628899,,1611661322,28,30,2
+05:50,[WAS] Hines-Allen Turnover : Offensive Foul Turnover (1 TO),57,33,5,,1628899,,1611661322,28,30,2
+05:50,Timeout Officials,0,-80,9,,0,,0,28,30,2
+05:36,[CON 31-30] Thomas 3pt Shot: Made (5 PTS) Assist: Hiedeman (2 AST),232,69,1,,202662,1629567,1611661323,31,30,2
+05:20,[WAS] Charles Turnaround Jump Shot: Missed,16,91,2,,202250,,1611661322,31,30,2
+05:18,[CON] Bonner Rebound (Off:0 Def:4),6,130,4,,201886,,1611661323,31,30,2
+05:14,[CON] Bonner Running Layup Shot: Missed,-17,12,2,,201886,,1611661323,31,30,2
+05:13,[WAS] Charles Rebound (Off:0 Def:3),-17,12,4,,202250,,1611661322,31,30,2
+05:10,Jump Ball Charles vs Bonner (Wiese gains possession),0,-80,10,201886,202250,1628282,1611661322,31,30,2
+04:52,[WAS] Atkins Driving Layup Shot: Missed,-39,42,2,1628280,1628878,,1611661322,31,30,2
+04:50,[CON] Jones Rebound (Off:2 Def:1),-39,42,4,,1628280,,1611661323,31,30,2
+04:45,[CON 34-30] Bonner 3pt Shot: Made (7 PTS) Assist: January (1 AST),53,262,1,,201886,201896,1611661323,34,30,2
+04:20,[WAS 32-34] Charles Driving Layup Shot: Made (10 PTS) Assist: Hines-Allen (1 AST),-3,9,1,,202250,1628899,1611661322,34,32,2
+04:20,[CON] Bonner Foul: Shooting (1 PF) (1 FTA),-3,9,6,202250,201886,,1611661323,34,32,2
+04:20,[CON] Jones Substitution replaced by Jones,0,-80,8,,1628280,1627673,1611661323,34,32,2
+04:20,[WAS 33-34] Charles Free Throw 1 of 1 (11 PTS),0,-80,3,,202250,,1611661322,34,33,2
+04:05,[CON] Hiedeman 3pt Shot: Missed,122,216,2,,1629567,,1611661323,34,33,2
+04:01,[WAS] Cloud Rebound (Off:0 Def:2),122,216,4,,204333,,1611661322,34,33,2
+03:55,[WAS] Atkins 3pt Shot: Missed,-232,13,2,,1628878,,1611661322,34,33,2
+03:51,[WAS] Charles Rebound (Off:1 Def:3),-232,13,4,,202250,,1611661322,34,33,2
+03:49,[WAS 35-34] Atkins Cutting Layup Shot: Made (7 PTS) Assist: Charles (2 AST),12,-5,1,,1628878,202250,1611661322,34,35,2
+03:30,[CON] Hiedeman 3pt Shot: Missed,-215,92,2,,1629567,,1611661323,34,35,2
+03:29,[CON] Thomas Rebound (Off:1 Def:1),-215,92,4,,202662,,1611661323,34,35,2
+03:29,[WAS] Atkins Foul: Personal (2 PF) (2 FTA),-215,92,6,202662,1628878,,1611661322,34,35,2
+03:29,[CON 35-35] Thomas Free Throw 1 of 2 (6 PTS),0,-80,3,,202662,,1611661323,35,35,2
+03:29,[CON 36-35] Thomas Free Throw 2 of 2 (7 PTS),0,-80,3,,202662,,1611661323,36,35,2
+03:15,[WAS] Hines-Allen Cutting Layup Shot: Missed,29,-5,2,,1628899,,1611661322,36,35,2
+03:13,[WAS] Hines-Allen Rebound (Off:2 Def:1),29,-5,4,,1628899,,1611661322,36,35,2
+03:10,[WAS 38-36] Wiese 3pt Shot: Made (12 PTS) Assist: Hines-Allen (2 AST),185,158,1,,1628282,1628899,1611661322,36,38,2
+02:55,[CON 39-38] Jones 3pt Shot: Made (7 PTS) Assist: Thomas (1 AST),-91,238,1,,1627673,202662,1611661323,39,38,2
+02:36,[CON] Jones Foul: Personal (3 PF),-71,215,6,202250,1627673,,1611661323,39,38,2
+02:36,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,39,38,2
+02:33,[WAS] Cloud 3pt Shot: Missed,-227,-5,2,,204333,,1611661322,39,38,2
+02:30,[WAS] Hines-Allen Rebound (Off:3 Def:1),-227,-5,4,,1628899,,1611661322,39,38,2
+02:23,[WAS] Atkins Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),93,225,5,1627673,1628878,,1611661322,39,38,2
+02:19,[CON 41-38] Jones Running Layup Shot: Made (9 PTS),5,8,1,,1627673,,1611661323,41,38,2
+02:05,[WAS 41-41] Charles 3pt Shot: Made (14 PTS) Assist: Cloud (1 AST),43,228,1,,202250,204333,1611661322,41,41,2
+01:43,[CON 43-41] Thomas Driving Layup Shot: Made (9 PTS),-17,15,1,,202662,,1611661323,43,41,2
+01:28,[WAS 43-43] Charles Driving Layup Shot: Made (16 PTS),-25,3,1,,202250,,1611661322,43,43,2
+01:17,[CON] Hiedeman Turnover : Bad Pass (1 TO) Steal:Atkins (1 ST),49,257,5,1628878,1629567,,1611661323,43,43,2
+01:16,[CON] Hiedeman Foul: Personal (2 PF),113,534,6,1628878,1629567,,1611661323,43,43,2
+01:16,InstantReplay Request Stands,0,-80,18,,0,,0,43,43,2
+01:04,[CON] January Foul: Personal (1 PF) (2 FTA),-121,79,6,1628878,201896,,1611661323,43,43,2
+01:04,[WAS 44-43] Atkins Free Throw 1 of 2 (8 PTS),0,-80,3,,1628878,,1611661322,43,44,2
+01:04,[WAS] Hines-Allen Substitution replaced by Plaisance,0,-80,8,,1628899,203849,1611661322,43,44,2
+01:04,[WAS 45-43] Atkins Free Throw 2 of 2 (9 PTS),0,-80,3,,1628878,,1611661322,43,45,2
+00:46.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,45,2
+00:46.0,[WAS] Atkins Substitution replaced by Zellous,0,-80,8,,1628878,201919,1611661322,43,45,2
+00:46.0,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,43,45,2
+00:41.2,[CON] Jones Fadeaway Jump Shot: Missed,42,194,2,,1627673,,1611661323,43,45,2
+00:37.7,[WAS] Cloud Rebound (Off:0 Def:3),42,194,4,,204333,,1611661322,43,45,2
+00:28.1,[CON] January Foul: Shooting (2 PF) (2 FTA),-60,17,6,202250,201896,,1611661323,43,45,2
+00:28.1,[WAS 46-43] Charles Free Throw 1 of 2 (17 PTS),0,-80,3,,202250,,1611661322,43,46,2
+00:28.1,[WAS 47-43] Charles Free Throw 2 of 2 (18 PTS),0,-80,3,,202250,,1611661322,43,47,2
+00:06.4,[WAS] Plaisance Foul: Shooting (1 PF) (2 FTA),5,45,6,1627673,203849,,1611661322,43,47,2
+00:06.4,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,43,47,2
+00:06.4,[CON] Team Rebound,0,-80,4,,0,,1611661323,43,47,2
+00:06.4,[CON 44-47] Jones Free Throw 2 of 2 (10 PTS),0,-80,3,,1627673,,1611661323,44,47,2
+00:00.4,[WAS] Charles Running Pull-Up Jump Shot: Missed,-147,54,2,,202250,,1611661322,44,47,2
+00:00.4,[WAS] Team Rebound,-147,54,4,,0,,1611661322,44,47,2
+00:00.0,End Period,0,-80,13,,0,,0,44,47,2
+10:00,Start Period,0,-80,12,,0,,0,44,47,3
+09:45,[WAS] Hines-Allen Driving Layup Shot: Missed,14,3,2,,1628899,,1611661322,44,47,3
+09:40,[WAS] Hines-Allen Rebound (Off:4 Def:1),14,3,4,,1628899,,1611661322,44,47,3
+09:40,[WAS] Hines-Allen Putback Layup Shot: Missed,0,-5,2,,1628899,,1611661322,44,47,3
+09:37,[WAS] Hines-Allen Rebound (Off:5 Def:1),0,-5,4,,1628899,,1611661322,44,47,3
+09:35,[WAS] Atkins 3pt Shot: Missed,149,211,2,,1628878,,1611661322,44,47,3
+09:34,[WAS] Charles Rebound (Off:2 Def:3),149,211,4,,202250,,1611661322,44,47,3
+09:34,[CON] Jones Foul: Shooting (3 PF) (2 FTA),89,98,6,202250,1628280,,1611661323,44,47,3
+09:34,[WAS] Charles Free Throw 1 of 2 Missed,0,-80,3,,202250,,1611661322,44,47,3
+09:34,[WAS] Team Rebound,0,-80,4,,0,,1611661322,44,47,3
+09:34,[WAS 48-44] Charles Free Throw 2 of 2 (19 PTS),0,-80,3,,202250,,1611661322,44,48,3
+09:22,[CON 47-48] Jones 3pt Shot: Made (13 PTS) Assist: Bonner (1 AST),-228,-13,1,,1627673,201886,1611661323,47,48,3
+09:11,[CON] Jones Foul: Personal (4 PF),-65,247,6,204333,1627673,,1611661323,47,48,3
+09:08,[WAS] Charles 3pt Shot: Missed,-48,250,2,,202250,,1611661322,47,48,3
+09:06,[WAS] Team Rebound,-48,250,4,,0,,1611661322,47,48,3
+09:06,[CON] January Foul: Loose Ball (3 PF),8,136,6,1628878,201896,,1611661323,47,48,3
+08:59,[WAS] Cloud Turnover : Traveling (1 TO),117,45,5,,204333,,1611661322,47,48,3
+08:46,[CON] Jones 3pt Shot: Missed,-235,-5,2,,1627673,,1611661323,47,48,3
+08:44,[WAS] Wiese Rebound (Off:0 Def:2),-191,3,4,,1628282,,1611661322,47,48,3
+08:32,[WAS] Cloud Turnover : Bad Pass (2 TO) Steal:Bonner (1 ST),-101,21,5,201886,204333,,1611661322,47,48,3
+08:23,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Charles (2 ST),104,27,5,202250,1627673,,1611661323,47,48,3
+08:17,[WAS] Charles Running Layup Shot: Missed,-28,3,2,201886,202250,,1611661322,47,48,3
+08:17,[CON] Team Rebound,-28,3,4,,0,,1611661323,47,48,3
+08:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,48,3
+07:55,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Hines-Allen (2 ST),-145,202,5,1628899,202662,,1611661323,47,48,3
+07:38,[WAS] Wiese 3pt Shot: Missed,159,180,2,,1628282,,1611661322,47,48,3
+07:35,[CON] Jones Rebound (Off:1 Def:3),159,180,4,,1627673,,1611661323,47,48,3
+07:32,[CON 50-48] Jones 3pt Shot: Made (16 PTS),197,132,1,,1627673,,1611661323,50,48,3
+07:07,[WAS] Atkins 3pt Shot: Missed,176,166,2,,1628878,,1611661322,50,48,3
+07:05,[CON] Jones Rebound (Off:1 Def:4),176,166,4,,1627673,,1611661323,50,48,3
+06:51,[CON 52-48] Jones Reverse Layup Shot: Made (5 PTS),-3,-10,1,,1628280,,1611661323,52,48,3
+06:36,[WAS] Hines-Allen 3pt Shot: Missed,-37,249,2,,1628899,,1611661322,52,48,3
+06:33,[CON] Bonner Rebound (Off:0 Def:5),-37,249,4,,201886,,1611661323,52,48,3
+06:22,[CON 54-48] Jones Cutting Layup Shot: Made (7 PTS) Assist: Thomas (2 AST),-17,1,1,,1628280,202662,1611661323,54,48,3
+06:22,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,54,48,3
+06:03,[WAS 50-54] Atkins Pullup Jump shot: Made (11 PTS),114,91,1,,1628878,,1611661322,54,50,3
+05:38,[CON] Jones Layup Shot: Missed,38,17,2,1628878,1628280,,1611661323,54,50,3
+05:37,[WAS] Atkins Rebound (Off:0 Def:2),38,17,4,,1628878,,1611661322,54,50,3
+05:31,[WAS] Wiese 3pt Shot: Missed,226,55,2,,1628282,,1611661322,54,50,3
+05:28,[CON] Bonner Rebound (Off:0 Def:6),226,55,4,,201886,,1611661323,54,50,3
+05:19,[WAS] Atkins Foul: Shooting (3 PF) (2 FTA),-37,-8,6,201886,1628878,,1611661322,54,50,3
+05:19,[CON 55-50] Bonner Free Throw 1 of 2 (8 PTS),0,-80,3,,201886,,1611661323,55,50,3
+05:19,[CON 56-50] Bonner Free Throw 2 of 2 (9 PTS),0,-80,3,,201886,,1611661323,56,50,3
+04:58,[WAS] Cloud 3pt Shot: Missed,181,163,2,,204333,,1611661322,56,50,3
+04:53,[CON] Bonner Rebound (Off:0 Def:7),181,163,4,,201886,,1611661323,56,50,3
+04:34,[CON 59-50] Thomas 3pt Shot: Made (12 PTS) Assist: Jones (3 AST),213,143,1,,202662,1628280,1611661323,59,50,3
+04:23,[WAS] Atkins 3pt Shot: Missed,-136,210,2,,1628878,,1611661322,59,50,3
+04:20,[CON] Jones Rebound (Off:1 Def:5),-136,210,4,,1627673,,1611661323,59,50,3
+04:16,[CON 61-50] Jones Cutting Layup Shot: Made (9 PTS) Assist: Jones (3 AST),15,-7,1,,1628280,1627673,1611661323,61,50,3
+04:16,[WAS] Hines-Allen Foul: Shooting (3 PF) (1 FTA),15,-7,6,1628280,1628899,,1611661322,61,50,3
+04:16,[CON 62-50] Jones Free Throw 1 of 1 (10 PTS),0,-80,3,,1628280,,1611661323,62,50,3
+03:58,[WAS] Hines-Allen Turnaround Jump Shot: Missed,-25,86,2,,1628899,,1611661322,62,50,3
+03:54,[CON] Bonner Rebound (Off:0 Def:8),-25,86,4,,201886,,1611661323,62,50,3
+03:44,[WAS] Cloud Foul: Personal (2 PF),-111,103,6,201886,204333,,1611661322,62,50,3
+03:44,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,62,50,3
+03:38,[WAS] Charles Foul: Personal (2 PF),15,49,6,201896,202250,,1611661322,62,50,3
+03:34,[CON] January Step Back Jump shot: Missed,-115,68,2,,201896,,1611661323,62,50,3
+03:30,[WAS] Charles Rebound (Off:2 Def:4),-115,68,4,,202250,,1611661322,62,50,3
+03:29,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,62,50,3
+03:29,[CON] Jones Substitution replaced by Mompremier,0,-80,8,,1628280,1629492,1611661323,62,50,3
+03:29,[WAS] Wiese Substitution replaced by Mitchell,0,-80,8,,1628282,201507,1611661322,62,50,3
+03:16,[WAS 53-62] Mitchell 3pt Shot: Made (5 PTS) Assist: Charles (3 AST),113,227,1,,201507,202250,1611661322,62,53,3
+02:56,[CON] Hiedeman 3pt Shot: Missed,126,197,2,,1629567,,1611661323,62,53,3
+02:52,[WAS] Cloud Rebound (Off:0 Def:4),126,197,4,,204333,,1611661322,62,53,3
+02:45,[CON] Mompremier Foul: Shooting (1 PF) (2 FTA),-34,71,6,1628899,1629492,,1611661323,62,53,3
+02:45,[WAS 54-62] Hines-Allen Free Throw 1 of 2 (7 PTS),0,-80,3,,1628899,,1611661322,62,54,3
+02:45,[WAS 55-62] Hines-Allen Free Throw 2 of 2 (8 PTS),0,-80,3,,1628899,,1611661322,62,55,3
+02:26,[CON] Bonner 3pt Shot: Missed,-58,236,2,,201886,,1611661323,62,55,3
+02:22,[WAS] Atkins Rebound (Off:0 Def:3),-58,236,4,,1628878,,1611661322,62,55,3
+02:05,[CON] Mompremier Foul: Shooting (2 PF) (2 FTA),-48,-19,6,1628899,1629492,,1611661323,62,55,3
+02:05,[WAS 56-62] Hines-Allen Free Throw 1 of 2 (9 PTS),0,-80,3,,1628899,,1611661322,62,56,3
+02:05,[WAS] Hines-Allen Free Throw 2 of 2 Missed,0,-80,3,,1628899,,1611661322,62,56,3
+02:02,[CON] Jones Rebound (Off:1 Def:6),0,-80,4,,1627673,,1611661323,62,56,3
+01:48,[CON] Jones 3pt Shot: Missed,-226,44,2,,1627673,,1611661323,62,56,3
+01:45,[WAS] Hines-Allen Rebound (Off:5 Def:2),-226,44,4,,1628899,,1611661322,62,56,3
+01:43,[CON] Hiedeman Foul: Shooting (3 PF) (2 FTA),-63,56,6,201507,1629567,,1611661323,62,56,3
+01:43,[WAS 57-62] Mitchell Free Throw 1 of 2 (6 PTS),0,-80,3,,201507,,1611661322,62,57,3
+01:43,[WAS 58-62] Mitchell Free Throw 2 of 2 (7 PTS),0,-80,3,,201507,,1611661322,62,58,3
+01:25,[CON] Jones Cutting Layup Shot: Missed,6,-1,2,,1627673,,1611661323,62,58,3
+01:24,[CON] Mompremier Rebound (Off:1 Def:0),6,-1,4,,1629492,,1611661323,62,58,3
+01:24,[CON] Mompremier Foul: Offensive Charge (3 PF),29,-8,6,1628899,1629492,,1611661323,62,58,3
+01:24,[CON] Mompremier Turnover : Offensive Foul Turnover (1 TO),29,-8,5,,1629492,,1611661323,62,58,3
+01:24,[CON] Mompremier Substitution replaced by Jones,0,-80,8,,1629492,1628280,1611661323,62,58,3
+01:13,[WAS] Charles Turnaround Jump Shot: Missed,-40,47,2,,202250,,1611661322,62,58,3
+01:10,[CON] Jones Rebound (Off:1 Def:7),-40,47,4,,1627673,,1611661323,62,58,3
+01:06,[CON] Jones Foul: Offensive (4 PF),158,100,6,1628878,1628280,,1611661323,62,58,3
+01:06,[CON] Jones Turnover : Offensive Foul Turnover (2 TO),158,100,5,,1628280,,1611661323,62,58,3
+01:06,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,62,58,3
+00:50.5,[WAS 61-62] Atkins 3pt Shot: Made (14 PTS) Assist: Cloud (2 AST),-2,260,1,,1628878,204333,1611661322,62,61,3
+00:28.2,[CON] Jones Foul: Offensive Charge (5 PF),81,-13,6,1628899,1628280,,1611661323,62,61,3
+00:28.2,[CON] Jones Turnover : Offensive Foul Turnover (3 TO),81,-13,5,,1628280,,1611661323,62,61,3
+00:28.2,[CON] Jones Substitution replaced by Carrington,0,-80,8,,1628280,1630096,1611661323,62,61,3
+00:10.3,[WAS] Hines-Allen Driving Floating Jump Shot: Missed,-2,129,2,,1628899,,1611661322,62,61,3
+00:06.8,[WAS] Hines-Allen Rebound (Off:6 Def:2),-2,129,4,,1628899,,1611661322,62,61,3
+00:06.7,[WAS 63-62] Hines-Allen Putback Layup Shot: Made (11 PTS),-3,11,1,,1628899,,1611661322,62,63,3
+00:00.4,[CON] January 3pt Shot: Missed,-21,245,2,,201896,,1611661323,62,63,3
+00:00.1,[CON] Team Rebound,-21,245,4,,0,,1611661323,62,63,3
+00:00.0,End Period,0,-80,13,,0,,0,62,63,3
+10:00,Start Period,0,-80,12,,0,,0,62,63,4
+09:47,[CON 64-63] Bonner Driving Layup Shot: Made (11 PTS) Assist: Jones (4 AST),23,-7,1,,201886,1627673,1611661323,64,63,4
+09:30,[WAS] Hines-Allen Driving Layup Shot: Missed,21,31,2,,1628899,,1611661322,64,63,4
+09:28,[CON] Jones Rebound (Off:1 Def:8),21,31,4,,1627673,,1611661323,64,63,4
+09:21,[WAS] Hines-Allen Foul: Personal (4 PF),-46,160,6,1627673,1628899,,1611661322,64,63,4
+09:11,[CON 66-63] Bonner Pullup Jump shot: Made (13 PTS),-152,79,1,,201886,,1611661323,66,63,4
+09:00,[WAS 65-66] Cloud Driving Layup Shot: Made (2 PTS),-3,17,1,,204333,,1611661322,66,65,4
+08:42,[CON] January 3pt Shot: Missed,-153,177,2,,201896,,1611661323,66,65,4
+08:40,[CON] Jones Rebound (Off:2 Def:8),-153,177,4,,1627673,,1611661323,66,65,4
+08:39,[CON 68-65] Jones Putback Layup Shot: Made (18 PTS),28,-6,1,,1627673,,1611661323,68,65,4
+08:29,[CON] January Foul: Personal (4 PF),50,161,6,1628878,201896,,1611661323,68,65,4
+08:29,[WAS] Hines-Allen Substitution replaced by McCall,0,-80,8,,1628899,1628286,1611661322,68,65,4
+08:28,[CON] January Foul: Personal (5 PF),116,71,6,1628878,201896,,1611661323,68,65,4
+08:28,[CON] January Substitution replaced by Thomas,0,-80,8,,201896,202662,1611661323,68,65,4
+08:18,[WAS] Cloud Turnover : Bad Pass (3 TO) Steal:Carrington (1 ST),38,260,5,1630096,204333,,1611661322,68,65,4
+08:13,[CON] Bonner Pullup Jump shot: Missed,125,30,2,,201886,,1611661323,68,65,4
+08:11,[WAS] Charles Rebound (Off:2 Def:5),125,30,4,,202250,,1611661322,68,65,4
+08:04,[WAS] Mitchell Turnover : Lost Ball (1 TO) Steal:Hiedeman (1 ST),-26,263,5,1629567,201507,,1611661322,68,65,4
+07:57,[CON] Bonner Driving Layup Shot: Missed,-21,-8,2,202250,201886,,1611661323,68,65,4
+07:54,[WAS] Mitchell Rebound (Off:0 Def:1),-21,-8,4,,201507,,1611661322,68,65,4
+07:48,[WAS] Atkins Turnover : Lost Ball (2 TO) Steal:Carrington (2 ST),30,264,5,1630096,1628878,,1611661322,68,65,4
+07:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,65,4
+07:33,[WAS] McCall Foul: Shooting (2 PF) (2 FTA),-15,-7,6,1629567,1628286,,1611661322,68,65,4
+07:33,[CON 69-65] Hiedeman Free Throw 1 of 2 (4 PTS),0,-80,3,,1629567,,1611661323,69,65,4
+07:33,[CON 70-65] Hiedeman Free Throw 2 of 2 (5 PTS),0,-80,3,,1629567,,1611661323,70,65,4
+07:21,[WAS] Atkins Turnover : Bad Pass (3 TO) Steal:Hiedeman (2 ST),132,43,5,1629567,1628878,,1611661322,70,65,4
+07:15,[CON] Carrington Driving Layup Shot: Missed,28,6,2,202250,1630096,,1611661323,70,65,4
+07:11,[WAS] Charles Rebound (Off:2 Def:6),28,6,4,,202250,,1611661322,70,65,4
+07:02,[WAS] Charles 3pt Shot: Missed,-217,98,2,,202250,,1611661322,70,65,4
+06:59,[CON] Bonner Rebound (Off:0 Def:9),-217,98,4,,201886,,1611661323,70,65,4
+06:35,[CON] Bonner 3pt Shot: Missed,221,87,2,,201886,,1611661323,70,65,4
+06:31,[WAS] Mitchell Rebound (Off:0 Def:2),221,87,4,,201507,,1611661322,70,65,4
+06:24,[CON] Jones Foul: Personal (5 PF),-2,66,6,202250,1627673,,1611661323,70,65,4
+06:15,[WAS] Cloud 3pt Shot: Missed,191,136,2,,204333,,1611661322,70,65,4
+06:11,[CON] Jones Rebound (Off:2 Def:9),191,136,4,,1627673,,1611661323,70,65,4
+06:04,[CON] Thomas Driving Layup Shot: Missed,18,6,2,,202662,,1611661323,70,65,4
+06:01,[WAS] McCall Rebound (Off:1 Def:1),18,6,4,,1628286,,1611661322,70,65,4
+05:44,[WAS 67-70] Charles Driving Layup Shot: Made (21 PTS),8,7,1,,202250,,1611661322,70,67,4
+05:24,[CON 73-67] Thomas 3pt Shot: Made (15 PTS) Assist: Bonner (2 AST),175,161,1,,202662,201886,1611661323,73,67,4
+05:04,[WAS 69-73] Charles Driving Layup Shot: Made (23 PTS),8,15,1,,202250,,1611661322,73,69,4
+04:46,[CON 75-69] Bonner Driving Finger Roll Layup Shot: Made (15 PTS),-14,-15,1,,201886,,1611661323,75,69,4
+04:46,[WAS] McCall Foul: Shooting (3 PF) (1 FTA),-14,-15,6,201886,1628286,,1611661322,75,69,4
+04:46,Timeout Officials,0,-80,9,,0,,0,75,69,4
+04:46,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,75,69,4
+04:46,[WAS] McCall Substitution replaced by Hines-Allen,0,-80,8,,1628286,1628899,1611661322,75,69,4
+04:46,[CON] Bonner Free Throw 1 of 1 Missed,0,-80,3,,201886,,1611661323,75,69,4
+04:43,[WAS] Hines-Allen Rebound (Off:6 Def:3),0,-80,4,,1628899,,1611661322,75,69,4
+04:28,[WAS 71-75] Charles Cutting Layup Shot: Made (25 PTS) Assist: Hines-Allen (3 AST),-13,13,1,,202250,1628899,1611661322,75,71,4
+04:07,[CON] Bonner Turnover : Lost Ball (3 TO) Steal:Atkins (2 ST),124,81,5,1628878,201886,,1611661323,75,71,4
+04:03,[WAS] Atkins Running Layup Shot: Missed,-53,54,2,,1628878,,1611661322,75,71,4
+04:00,[CON] Carrington Rebound (Off:0 Def:1),-53,54,4,,1630096,,1611661323,75,71,4
+03:43,[CON] Bonner 3pt Shot: Missed,17,304,2,,201886,,1611661323,75,71,4
+03:39,[WAS] Mitchell Rebound (Off:0 Def:3),17,304,4,,201507,,1611661322,75,71,4
+03:19,[WAS 74-75] Atkins 3pt Shot: Made (17 PTS),78,239,1,,1628878,,1611661322,75,74,4
+03:01,[CON] Carrington 3pt Shot: Missed,218,128,2,,1630096,,1611661323,75,74,4
+02:56,[WAS] Mitchell Rebound (Off:0 Def:4),218,128,4,,201507,,1611661322,75,74,4
+02:53,[WAS] Mitchell Turnover : Bad Pass (2 TO) Steal:Hiedeman (3 ST),-98,857,5,1629567,201507,,1611661322,75,74,4
+02:41,[CON] Hiedeman Driving Layup Shot: Missed,-26,30,2,,1629567,,1611661323,75,74,4
+02:39,[WAS] Hines-Allen Rebound (Off:6 Def:4),-26,30,4,,1628899,,1611661322,75,74,4
+02:29,[WAS] Charles Turnaround Hook Shot: Missed,-92,24,2,,202250,,1611661322,75,74,4
+02:27,[CON] Bonner Rebound (Off:0 Def:10),-92,24,4,,201886,,1611661323,75,74,4
+02:27,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,75,74,4
+02:27,[CON] Hiedeman Substitution replaced by January,0,-80,8,,1629567,201896,1611661323,75,74,4
+02:27,[CON] Carrington Substitution replaced by Jones,0,-80,8,,1630096,1627673,1611661323,75,74,4
+02:10,[CON 78-74] Thomas 3pt Shot: Made (18 PTS) Assist: Jones (5 AST),-228,-10,1,,202662,1627673,1611661323,78,74,4
+01:59,[CON] Bonner Foul: Personal (2 PF),-81,187,6,204333,201886,,1611661323,78,74,4
+01:49,[WAS] Cloud Turnaround Jump Shot: Missed,-3,161,2,,204333,,1611661322,78,74,4
+01:45,[CON] Jones Rebound (Off:2 Def:10),-3,161,4,,1627673,,1611661323,78,74,4
+01:27,[CON] Jones Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-136,214,5,,1628280,,1611661323,78,74,4
+01:09,[WAS] Mitchell 3pt Shot: Missed,96,222,2,,201507,,1611661322,78,74,4
+01:04,[CON] Thomas Rebound (Off:1 Def:2),96,222,4,,202662,,1611661323,78,74,4
+00:49.0,[CON 80-74] Jones Cutting Layup Shot: Made (20 PTS) Assist: Bonner (3 AST),20,-6,1,,1627673,201886,1611661323,80,74,4
+00:49.0,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,80,74,4
+00:40.9,[WAS] Hines-Allen 3pt Shot: Missed,-129,217,2,,1628899,,1611661322,80,74,4
+00:37.5,[CON] Bonner Rebound (Off:0 Def:11),-129,217,4,,201886,,1611661323,80,74,4
+00:37.3,[WAS] Atkins Foul: Personal Take (4 PF),-97,815,6,201886,1628878,,1611661322,80,74,4
+00:35.7,[WAS] Atkins Foul: Personal Take (5 PF) (2 FTA),104,755,6,202662,1628878,,1611661322,80,74,4
+00:35.7,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202662,,1611661323,80,74,4
+00:35.7,[CON] Team Rebound,0,-80,4,,0,,1611661323,80,74,4
+00:35.7,[CON 81-74] Thomas Free Throw 2 of 2 (19 PTS),0,-80,3,,202662,,1611661323,81,74,4
+00:29.9,[WAS] Cloud Running Layup Shot: Missed,41,31,2,201886,204333,,1611661322,81,74,4
+00:29.2,[WAS] Team Rebound,41,31,4,,0,,1611661322,81,74,4
+00:29.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,81,74,4
+00:29.2,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,81,74,4
+00:27.5,[WAS 77-81] Atkins 3pt Shot: Made (20 PTS) Assist: Cloud (3 AST),221,92,1,,1628878,204333,1611661322,81,77,4
+00:26.2,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,81,77,4
+00:26.2,Instant Replay - Support Ruling,0,-80,18,,0,,0,81,77,4
+00:26.2,[WAS] Mitchell Substitution replaced by Leslie,0,-80,8,,201507,1629506,1611661322,81,77,4
+00:26.2,[WAS] Atkins Substitution replaced by Zellous,0,-80,8,,1628878,201919,1611661322,81,77,4
+00:23.1,[WAS] Cloud Foul: Personal Take (3 PF) (2 FTA),12,271,6,201896,204333,,1611661322,81,77,4
+00:23.1,[CON] January Free Throw 1 of 2 Missed,0,-80,3,,201896,,1611661323,81,77,4
+00:23.1,[CON] Team Rebound,0,-80,4,,0,,1611661323,81,77,4
+00:23.1,[WAS] Leslie Substitution replaced by Atkins,0,-80,8,,1629506,1628878,1611661322,81,77,4
+00:23.1,[WAS] Zellous Substitution replaced by Mitchell,0,-80,8,,201919,201507,1611661322,81,77,4
+00:23.1,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,81,77,4
+00:23.1,[CON 82-77] January Free Throw 2 of 2 (3 PTS),0,-80,3,,201896,,1611661323,82,77,4
+00:16.7,[CON] Bonner Foul: Personal (3 PF) (2 FTA),52,103,6,202250,201886,,1611661323,82,77,4
+00:16.7,[WAS 78-82] Charles Free Throw 1 of 2 (26 PTS),0,-80,3,,202250,,1611661322,82,78,4
+00:16.7,[WAS] Atkins Substitution replaced by Zellous,0,-80,8,,1628878,201919,1611661322,82,78,4
+00:16.7,[WAS 79-82] Charles Free Throw 2 of 2 (27 PTS),0,-80,3,,202250,,1611661322,82,79,4
+00:10.1,[CON 84-79] Jones Running Layup Shot: Made (12 PTS) Assist: January (2 AST),-3,-15,1,,1628280,201896,1611661323,84,79,4
+00:10.1,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,84,79,4
+00:10.1,[WAS] Zellous Substitution replaced by Atkins,0,-80,8,,201919,1628878,1611661322,84,79,4
+00:04.2,[WAS 81-84] Charles Driving Layup Shot: Made (29 PTS),-14,16,1,,202250,,1611661322,84,81,4
+00:03.5,[WAS] Cloud Foul: Personal Take (4 PF) (2 FTA),78,798,6,201886,204333,,1611661322,84,81,4
+00:03.5,[CON 85-81] Bonner Free Throw 1 of 2 (16 PTS),0,-80,3,,201886,,1611661323,85,81,4
+00:03.5,[CON 86-81] Bonner Free Throw 2 of 2 (17 PTS),0,-80,3,,201886,,1611661323,86,81,4
+00:00.3,[WAS] Atkins 3pt Shot: Missed,-170,367,2,,1628878,,1611661322,86,81,4
+00:00.3,[WAS] Team Rebound,-170,367,4,,0,,1611661322,86,81,4
+00:00.0,End Period,0,-80,13,,0,,0,86,81,4
+00:00.0,Game End,0,-80,0,,0,,0,86,81,4

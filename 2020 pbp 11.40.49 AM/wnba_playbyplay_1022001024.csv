@@ -1,0 +1,420 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Ndour vs Swords (Jefferson gains possession),0,-80,10,202670,203838,1627669,1611661321,0,0,1
+09:50,[DAL] Jefferson Layup Shot: Missed,38,58,2,,1627669,,1611661321,0,0,1
+09:48,[LVA] Swords Rebound (Off:0 Def:1),38,58,4,,202670,,1611661319,0,0,1
+09:37,[LVA 2-0] Wilson Turnaround Jump Shot: Made (2 PTS),-36,59,1,,1628932,,1611661319,2,0,1
+09:22,[DAL] Sabally 3pt Shot: Missed,-230,-8,2,,1630149,,1611661321,2,0,1
+09:19,[LVA] Allen Rebound (Off:0 Def:1),-230,-8,4,,1628263,,1611661319,2,0,1
+09:10,[LVA] Wilson Jump Shot: Missed,-160,10,2,,1628932,,1611661319,2,0,1
+09:08,[DAL] Sabally Rebound (Off:0 Def:1),-160,10,4,,1630149,,1611661321,2,0,1
+08:57,[DAL] Ndour 3pt Shot: Missed,86,230,2,,203838,,1611661321,2,0,1
+08:55,[LVA] McCoughtry Rebound (Off:0 Def:1),86,230,4,,201881,,1611661319,2,0,1
+08:44,[LVA 4-0] Allen Layup Shot: Made (2 PTS),-20,13,1,,1628263,,1611661319,4,0,1
+08:26,[DAL] Ogunbowale Pullup Jump shot: Missed,-124,26,2,,1629481,,1611661321,4,0,1
+08:24,[LVA] McBride Rebound (Off:0 Def:1),-124,26,4,,203825,,1611661319,4,0,1
+08:15,[DAL] Sabally Foul: Shooting (1 PF) (2 FTA),-35,83,6,1628932,1630149,,1611661321,4,0,1
+08:15,[LVA 5-0] Wilson Free Throw 1 of 2 (3 PTS),0,-80,3,,1628932,,1611661319,5,0,1
+08:15,[LVA 6-0] Wilson Free Throw 2 of 2 (4 PTS),0,-80,3,,1628932,,1611661319,6,0,1
+07:52,[DAL] Ndour Jump Shot: Missed,200,83,2,,203838,,1611661321,6,0,1
+07:49,[LVA] McCoughtry Rebound (Off:0 Def:2),200,83,4,,201881,,1611661319,6,0,1
+07:45,[LVA 9-0] McBride 3pt Shot: Made (3 PTS) Assist: McCoughtry (1 AST),118,219,1,,203825,201881,1611661319,9,0,1
+07:45,Instant Replay - Support Ruling,0,-80,18,,0,,0,9,0,1
+07:40,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,9,0,1
+07:40,[DAL] Ogunbowale Substitution replaced by Gray,0,-80,8,,1629481,1628277,1611661321,9,0,1
+07:40,[DAL] Jefferson Substitution replaced by Harris,0,-80,8,,1627669,1630112,1611661321,9,0,1
+07:30,[DAL] Thornton 3pt Shot: Missed,-230,62,2,,203866,,1611661321,9,0,1
+07:24,[DAL] Ndour Rebound (Off:1 Def:0),-230,62,4,,203838,,1611661321,9,0,1
+07:24,[DAL 2-9] Ndour Putback Layup Shot: Made (2 PTS),0,-5,1,,203838,,1611661321,9,2,1
+07:19,[DAL] Ndour Foul: Personal (1 PF),108,142,6,1628932,203838,,1611661321,9,2,1
+07:11,[LVA 11-2] Swords Cutting Layup Shot: Made (2 PTS) Assist: Allen (1 AST),25,10,1,,202670,1628263,1611661319,11,2,1
+06:50,[DAL] Sabally 3pt Shot: Missed,232,35,2,,1630149,,1611661321,11,2,1
+06:48,[LVA] Allen Rebound (Off:0 Def:2),232,35,4,,1628263,,1611661319,11,2,1
+06:41,[LVA] Wilson Turnover : Bad Pass (1 TO) Steal:Harris (1 ST),-64,35,5,1630112,1628932,,1611661319,11,2,1
+06:36,[DAL] Thornton Turnover : Traveling (1 TO),69,31,5,,203866,,1611661321,11,2,1
+06:22,[LVA] McCoughtry Pullup Jump shot: Missed,-43,149,2,,201881,,1611661319,11,2,1
+06:22,[LVA] Team Rebound,-43,149,4,,0,,1611661319,11,2,1
+06:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,2,1
+06:22,[DAL] Ndour Substitution replaced by Harrison,0,-80,8,,203838,204330,1611661321,11,2,1
+06:16,[LVA 13-2] Allen Pullup Jump shot: Made (4 PTS) Assist: Wilson (1 AST),90,170,1,,1628263,1628932,1611661319,13,2,1
+05:57,[DAL] Harrison Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-74,270,5,,204330,,1611661321,13,2,1
+05:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,2,1
+05:46,[LVA 15-2] McBride Running Jump Shot: Made (5 PTS) Assist: Wilson (2 AST),58,205,1,,203825,1628932,1611661319,15,2,1
+05:26,[DAL 4-15] Sabally Running Layup Shot: Made (2 PTS),46,26,1,,1630149,,1611661321,15,4,1
+05:16,[LVA] Allen Turnover : Bad Pass (1 TO) Steal:Thornton (1 ST),174,273,5,203866,1628263,,1611661319,15,4,1
+05:11,[DAL 6-15] Thornton Layup Shot: Made (2 PTS),33,29,1,,203866,,1611661321,15,6,1
+04:57,[LVA] Wilson Layup Shot: Missed,-37,4,2,,1628932,,1611661319,15,6,1
+04:55,[DAL] Sabally Rebound (Off:0 Def:2),-37,4,4,,1630149,,1611661321,15,6,1
+04:51,[DAL] Thornton Foul: Offensive Charge (1 PF),98,18,6,201881,203866,,1611661321,15,6,1
+04:51,[DAL] Thornton Turnover : Offensive Foul Turnover (2 TO),98,18,5,,203866,,1611661321,15,6,1
+04:51,[LVA] Swords Substitution replaced by Hamby,0,-80,8,,202670,204324,1611661319,15,6,1
+04:51,[LVA] McCoughtry Substitution replaced by Young,0,-80,8,,201881,1629498,1611661319,15,6,1
+04:33,[LVA] Allen 3pt Shot: Missed,135,212,2,,1628263,,1611661319,15,6,1
+04:31,[DAL] Gray Rebound (Off:0 Def:1),135,212,4,,1628277,,1611661321,15,6,1
+04:23,[DAL] Harrison Jump Shot: Missed,-97,112,2,,204330,,1611661321,15,6,1
+04:23,[LVA] Team Rebound,-97,112,4,,0,,1611661319,15,6,1
+04:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,6,1
+04:16,[LVA] Hamby Turnover : Bad Pass (1 TO) Steal:Sabally (1 ST),118,192,5,1630149,204324,,1611661319,15,6,1
+04:07,[DAL] Harris 3pt Shot: Missed,-198,130,2,,1630112,,1611661321,15,6,1
+04:07,[LVA] Team Rebound,-198,130,4,,0,,1611661319,15,6,1
+04:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,6,1
+04:07,[LVA] McBride Substitution replaced by Rodgers,0,-80,8,,203825,203411,1611661319,15,6,1
+04:07,[DAL] Thornton Substitution replaced by Ogunbowale,0,-80,8,,203866,1629481,1611661321,15,6,1
+03:52,[DAL] Ogunbowale Foul: Shooting (1 PF) (2 FTA),-47,57,6,1629498,1629481,,1611661321,15,6,1
+03:52,[LVA 16-6] Young Free Throw 1 of 2 (1 PTS),0,-80,3,,1629498,,1611661319,16,6,1
+03:52,[LVA] Allen Substitution replaced by Robinson,0,-80,8,,1628263,202658,1611661319,16,6,1
+03:52,[LVA 17-6] Young Free Throw 2 of 2 (2 PTS),0,-80,3,,1629498,,1611661319,17,6,1
+03:37,[DAL] Ogunbowale 3pt Shot: Missed,-134,259,2,,1629481,,1611661321,17,6,1
+03:34,[LVA] Robinson Rebound (Off:0 Def:1),-134,259,4,,202658,,1611661319,17,6,1
+03:33,[LVA] Young Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-167,170,5,,1629498,,1611661319,17,6,1
+03:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,6,1
+03:18,[DAL 8-17] Harris Driving Layup Shot: Made (2 PTS),36,11,1,,1630112,,1611661321,17,8,1
+03:08,[LVA] Rodgers Turnover : Bad Pass (1 TO) Steal:Harrison (1 ST),104,161,5,204330,203411,,1611661319,17,8,1
+03:01,[DAL 10-17] Ogunbowale Driving Layup Shot: Made (2 PTS),-31,6,1,,1629481,,1611661321,17,10,1
+02:42,[LVA 19-10] Robinson Layup Shot: Made (2 PTS) Assist: Rodgers (1 AST),-26,11,1,,202658,203411,1611661319,19,10,1
+02:27,[DAL] Sabally Layup Shot: Missed,53,1,2,1628932,1630149,,1611661321,19,10,1
+02:27,[DAL] Team Rebound,53,1,4,,0,,1611661321,19,10,1
+02:27,[LVA] Wilson Substitution replaced by Swords,0,-80,8,,1628932,202670,1611661319,19,10,1
+02:27,[DAL] Gray Substitution replaced by Jefferson,0,-80,8,,1628277,1627669,1611661321,19,10,1
+02:27,[DAL] Harris Substitution replaced by Samuelson,0,-80,8,,1630112,1629478,1611661321,19,10,1
+02:27,[DAL] Harrison Substitution replaced by Alarie,0,-80,8,,204330,1630093,1611661321,19,10,1
+02:15,[DAL] Ogunbowale 3pt Shot: Missed,216,105,2,,1629481,,1611661321,19,10,1
+02:13,[DAL] Alarie Rebound (Off:1 Def:0),216,105,4,,1630093,,1611661321,19,10,1
+02:06,[DAL] Jefferson Pullup Jump shot: Missed,41,58,2,,1627669,,1611661321,19,10,1
+02:04,[LVA] Swords Rebound (Off:0 Def:2),41,58,4,,202670,,1611661319,19,10,1
+01:59,[LVA] Young Pullup Jump shot: Missed,137,99,2,,1629498,,1611661319,19,10,1
+01:56,[DAL] Jefferson Rebound (Off:0 Def:1),137,99,4,,1627669,,1611661321,19,10,1
+01:53,[DAL 12-19] Jefferson Layup Shot: Made (2 PTS),32,23,1,,1627669,,1611661321,19,12,1
+01:35,[LVA 21-12] Robinson Driving Layup Shot: Made (4 PTS),41,27,1,,202658,,1611661319,21,12,1
+01:35,[DAL] Jefferson Foul: Shooting (1 PF) (1 FTA),41,27,6,202658,1627669,,1611661321,21,12,1
+01:35,[DAL] Sabally Substitution replaced by Thornton,0,-80,8,,1630149,203866,1611661321,21,12,1
+01:35,[LVA 22-12] Robinson Free Throw 1 of 1 (5 PTS),0,-80,3,,202658,,1611661319,22,12,1
+01:23,[DAL 14-22] Ogunbowale Pullup Jump shot: Made (4 PTS),8,93,1,,1629481,,1611661321,22,14,1
+01:06,[LVA] Rodgers Turnover : Bad Pass (2 TO) Steal:Samuelson (1 ST),-132,117,5,1629478,203411,,1611661319,22,14,1
+01:01,[DAL 16-22] Jefferson Layup Shot: Made (4 PTS) Assist: Samuelson (1 AST),-17,18,1,,1627669,1629478,1611661321,22,16,1
+00:44.5,[LVA] Hamby Turnover : Traveling (2 TO),8,169,5,,204324,,1611661319,22,16,1
+00:35.4,[DAL 18-22] Ogunbowale Pullup Jump shot: Made (6 PTS),-97,163,1,,1629481,,1611661321,22,18,1
+00:22.0,[LVA 24-18] Robinson Jump Shot: Made (7 PTS) Assist: Hamby (1 AST),136,-12,1,,202658,204324,1611661319,24,18,1
+00:02.2,[DAL] Ogunbowale Pullup Jump shot: Missed,28,98,2,,1629481,,1611661321,24,18,1
+00:02.2,[LVA] Hamby Rebound (Off:0 Def:1),28,98,4,,204324,,1611661319,24,18,1
+00:00.0,[LVA] Hamby 3pt Shot: Missed,1,247,2,1630093,204324,,1611661319,24,18,1
+00:00.0,[LVA] Team Rebound,3,201,4,,0,,1611661319,24,18,1
+00:00.0,End Period,0,-80,13,,0,,0,24,18,1
+10:00,Start Period,0,-80,12,,0,,0,24,18,2
+09:41,[LVA 26-18] Wilson Driving Layup Shot: Made (6 PTS) Assist: McCoughtry (2 AST),-27,3,1,,1628932,201881,1611661319,26,18,2
+09:24,[DAL] Samuelson 3pt Shot: Missed,-43,244,2,,1629478,,1611661321,26,18,2
+09:22,[DAL] Alarie Rebound (Off:2 Def:0),-43,244,4,,1630093,,1611661321,26,18,2
+09:22,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),-29,24,6,1630093,1628932,,1611661319,26,18,2
+09:22,[DAL 19-26] Alarie Free Throw 1 of 2 (1 PTS),0,-80,3,,1630093,,1611661321,26,19,2
+09:22,[DAL 20-26] Alarie Free Throw 2 of 2 (2 PTS),0,-80,3,,1630093,,1611661321,26,20,2
+09:05,[LVA] McCoughtry Pullup Jump shot: Missed,-114,-26,2,,201881,,1611661319,26,20,2
+09:03,[DAL] Alarie Rebound (Off:2 Def:1),-114,-26,4,,1630093,,1611661321,26,20,2
+08:57,[DAL] Samuelson 3pt Shot: Missed,220,66,2,,1629478,,1611661321,26,20,2
+08:57,[DAL] Thornton Rebound (Off:1 Def:0),220,66,4,,203866,,1611661321,26,20,2
+08:57,[LVA] Young Foul: Personal (1 PF),67,174,6,203866,1629498,,1611661319,26,20,2
+08:57,[LVA] Young Substitution replaced by McBride,0,-80,8,,1629498,203825,1611661319,26,20,2
+08:57,[DAL] Samuelson Substitution replaced by Sabally,0,-80,8,,1629478,1630149,1611661321,26,20,2
+08:43,[DAL] Thornton 3pt Shot: Missed,227,85,2,,203866,,1611661321,26,20,2
+08:40,[LVA] Hamby Rebound (Off:0 Def:2),227,85,4,,204324,,1611661319,26,20,2
+08:34,[DAL] Sabally Foul: Personal (2 PF),50,-2,6,201881,1630149,,1611661321,26,20,2
+08:34,[LVA] Robinson Substitution replaced by Allen,0,-80,8,,202658,1628263,1611661319,26,20,2
+08:28,[LVA] Wilson Step Back Jump shot: Missed,146,-5,2,,1628932,,1611661319,26,20,2
+08:26,[DAL] Sabally Rebound (Off:0 Def:3),146,-5,4,,1630149,,1611661321,26,20,2
+08:15,[DAL] Alarie 3pt Shot: Missed,-215,117,2,,1630093,,1611661321,26,20,2
+08:12,[LVA] McCoughtry Rebound (Off:0 Def:3),-215,117,4,,201881,,1611661319,26,20,2
+08:05,[LVA] Wilson Turnaround Fadeaway shot: Missed,-69,-3,2,,1628932,,1611661319,26,20,2
+08:03,[DAL] Sabally Rebound (Off:0 Def:4),-69,-3,4,,1630149,,1611661321,26,20,2
+07:54,[DAL] Ogunbowale 3pt Shot: Missed,132,205,2,,1629481,,1611661321,26,20,2
+07:52,[LVA] Wilson Rebound (Off:0 Def:1),132,205,4,,1628932,,1611661319,26,20,2
+07:47,[LVA] McBride 3pt Shot: Missed,-224,70,2,,203825,,1611661319,26,20,2
+07:44,[LVA] Hamby Rebound (Off:1 Def:2),-224,70,4,,204324,,1611661319,26,20,2
+07:44,[LVA] Hamby Putback Layup Shot: Missed,-20,3,2,,204324,,1611661319,26,20,2
+07:42,[DAL] Alarie Rebound (Off:2 Def:2),-20,3,4,,1630093,,1611661321,26,20,2
+07:26,[DAL] Alarie 3pt Shot: Missed,-93,238,2,,1630093,,1611661321,26,20,2
+07:24,[LVA] McCoughtry Rebound (Off:0 Def:4),-93,238,4,,201881,,1611661319,26,20,2
+07:17,[LVA] Wilson Jump Shot: Missed,-72,19,2,,1628932,,1611661319,26,20,2
+07:16,[DAL] Team Rebound,-72,19,4,,0,,1611661321,26,20,2
+07:16,[LVA] McCoughtry Foul: Personal (1 PF),-7,706,6,203866,201881,,1611661319,26,20,2
+07:16,[LVA] Wilson Substitution replaced by Swords,0,-80,8,,1628932,202670,1611661319,26,20,2
+07:16,[DAL] Jefferson Substitution replaced by Harris,0,-80,8,,1627669,1630112,1611661321,26,20,2
+07:16,[DAL] Alarie Substitution replaced by Ndour,0,-80,8,,1630093,203838,1611661321,26,20,2
+07:03,[DAL] Sabally Turnover : Out of Bounds - Bad Pass Turnover (1 TO),60,74,5,,1630149,,1611661321,26,20,2
+07:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,20,2
+06:49,[LVA 28-20] McBride Driving Floating Jump Shot: Made (7 PTS),-35,74,1,,203825,,1611661319,28,20,2
+06:31,[DAL] Ogunbowale Pullup Jump shot: Missed,93,119,2,,1629481,,1611661321,28,20,2
+06:29,[LVA] Swords Rebound (Off:0 Def:3),93,119,4,,202670,,1611661319,28,20,2
+06:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,20,2
+06:27,[DAL] Ogunbowale Substitution replaced by Gray,0,-80,8,,1629481,1628277,1611661321,28,20,2
+06:26,[DAL] Harris Foul: Shooting (1 PF) (2 FTA),-35,-11,6,201881,1630112,,1611661321,28,20,2
+06:26,[LVA 29-20] McCoughtry Free Throw 1 of 2 (1 PTS),0,-80,3,,201881,,1611661319,29,20,2
+06:26,[LVA 30-20] McCoughtry Free Throw 2 of 2 (2 PTS),0,-80,3,,201881,,1611661319,30,20,2
+06:09,[DAL 23-30] Thornton 3pt Shot: Made (5 PTS) Assist: Sabally (1 AST),-225,28,1,,203866,1630149,1611661321,30,23,2
+05:56,[DAL] Harris Foul: Shooting (2 PF) (2 FTA),68,30,6,204324,1630112,,1611661321,30,23,2
+05:56,Timeout Officials,0,-80,9,,0,,0,30,23,2
+05:56,[LVA 31-23] Hamby Free Throw 1 of 2 (1 PTS),0,-80,3,,204324,,1611661319,31,23,2
+05:56,[LVA 32-23] Hamby Free Throw 2 of 2 (2 PTS),0,-80,3,,204324,,1611661319,32,23,2
+05:36,[DAL] Gray 3pt Shot: Missed,189,167,2,,1628277,,1611661321,32,23,2
+05:36,[LVA] Team Rebound,189,167,4,,0,,1611661319,32,23,2
+05:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,23,2
+05:27,[LVA] Hamby Turnover : Traveling (3 TO),75,-22,5,,204324,,1611661319,32,23,2
+05:09,[DAL] Sabally 3pt Shot: Missed,3,250,2,,1630149,,1611661321,32,23,2
+05:07,[DAL] Ndour Rebound (Off:2 Def:0),3,250,4,,203838,,1611661321,32,23,2
+04:59,[DAL] Thornton 3pt Shot: Missed,213,92,2,,203866,,1611661321,32,23,2
+04:57,[LVA] McBride Rebound (Off:0 Def:2),213,92,4,,203825,,1611661319,32,23,2
+04:47,[LVA] McCoughtry 3pt Shot: Missed,-133,209,2,,201881,,1611661319,32,23,2
+04:45,[DAL] Thornton Rebound (Off:1 Def:1),-133,209,4,,203866,,1611661321,32,23,2
+04:31,[DAL] Thornton 3pt Shot: Missed,-218,65,2,,203866,,1611661321,32,23,2
+04:29,[LVA] Allen Rebound (Off:0 Def:3),-218,65,4,,1628263,,1611661319,32,23,2
+04:25,[LVA 34-23] Hamby Layup Shot: Made (4 PTS) Assist: Allen (2 AST),26,11,1,,204324,1628263,1611661319,34,23,2
+04:16,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,34,23,2
+04:16,[LVA] Hamby Substitution replaced by Wilson,0,-80,8,,204324,1628932,1611661319,34,23,2
+04:16,[DAL] Thornton Substitution replaced by Samuelson,0,-80,8,,203866,1629478,1611661321,34,23,2
+04:16,[DAL] Harris Substitution replaced by Jefferson,0,-80,8,,1630112,1627669,1611661321,34,23,2
+04:00,[DAL] Ndour Pullup Jump shot: Missed,172,102,2,,203838,,1611661321,34,23,2
+03:58,[LVA] Swords Rebound (Off:0 Def:4),172,102,4,,202670,,1611661319,34,23,2
+03:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,23,2
+03:42,[LVA 36-23] McBride Jump Shot: Made (9 PTS) Assist: McCoughtry (3 AST),174,84,1,,203825,201881,1611661319,36,23,2
+03:27,[LVA] Allen Foul: Shooting (1 PF) (2 FTA),-71,10,6,1627669,1628263,,1611661319,36,23,2
+03:27,[DAL] Jefferson Free Throw 1 of 2 Missed,0,-80,3,,1627669,,1611661321,36,23,2
+03:27,[DAL] Team Rebound,0,-80,4,,0,,1611661321,36,23,2
+03:27,[LVA] McCoughtry Substitution replaced by Young,0,-80,8,,201881,1629498,1611661319,36,23,2
+03:27,[DAL] Gray Substitution replaced by Ogunbowale,0,-80,8,,1628277,1629481,1611661321,36,23,2
+03:27,[DAL 24-36] Jefferson Free Throw 2 of 2 (5 PTS),0,-80,3,,1627669,,1611661321,36,24,2
+03:17,[LVA] Allen Pullup Jump shot: Missed,123,86,2,203838,1628263,,1611661319,36,24,2
+03:14,[DAL] Samuelson Rebound (Off:0 Def:1),123,86,4,,1629478,,1611661321,36,24,2
+03:14,[DAL] Ogunbowale Jump Shot: Missed,105,165,2,,1629481,,1611661321,36,24,2
+03:11,[DAL] Team Rebound,105,165,4,,0,,1611661321,36,24,2
+03:08,[LVA] Young Foul: Personal (2 PF) (2 FTA),-109,97,6,1630149,1629498,,1611661319,36,24,2
+03:08,[DAL 25-36] Sabally Free Throw 1 of 2 (3 PTS),0,-80,3,,1630149,,1611661321,36,25,2
+03:08,[DAL 26-36] Sabally Free Throw 2 of 2 (4 PTS),0,-80,3,,1630149,,1611661321,36,26,2
+02:51,[LVA 38-26] Wilson Cutting Layup Shot: Made (8 PTS) Assist: Allen (3 AST),-31,21,1,,1628932,1628263,1611661319,38,26,2
+02:34,[DAL] Ndour 3pt Shot: Missed,-12,252,2,,203838,,1611661321,38,26,2
+02:32,[LVA] Wilson Rebound (Off:0 Def:2),-12,252,4,,1628932,,1611661319,38,26,2
+02:26,[LVA 40-26] Young Driving Layup Shot: Made (4 PTS),39,6,1,,1629498,,1611661319,40,26,2
+02:02,[DAL 28-40] Ndour Layup Shot: Made (4 PTS),-24,27,1,,203838,,1611661321,40,28,2
+01:47,[LVA 42-28] Swords Jump Shot: Made (4 PTS) Assist: Wilson (3 AST),-102,-1,1,,202670,1628932,1611661319,42,28,2
+01:40,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,42,28,2
+01:40,[LVA] Swords Substitution replaced by Robinson,0,-80,8,,202670,202658,1611661319,42,28,2
+01:40,[LVA] Allen Substitution replaced by Hamby,0,-80,8,,1628263,204324,1611661319,42,28,2
+01:40,[DAL] Ndour Substitution replaced by Alarie,0,-80,8,,203838,1630093,1611661321,42,28,2
+01:28,[DAL] Sabally Pullup Jump shot: Missed,5,125,2,,1630149,,1611661321,42,28,2
+01:26,[DAL] Alarie Rebound (Off:3 Def:2),5,125,4,,1630093,,1611661321,42,28,2
+01:15,[DAL] Ogunbowale Driving Layup Shot: Missed,-2,53,2,,1629481,,1611661321,42,28,2
+01:14,[DAL] Alarie Rebound (Off:4 Def:2),-2,53,4,,1630093,,1611661321,42,28,2
+01:12,[DAL 31-42] Samuelson 3pt Shot: Made (3 PTS) Assist: Alarie (1 AST),-121,222,1,,1629478,1630093,1611661321,42,31,2
+01:00,[LVA] Hamby Turnover : Traveling (4 TO),-2,248,5,,204324,,1611661319,42,31,2
+00:44.6,[DAL] Sabally Layup Shot: Missed,-43,37,2,,1630149,,1611661321,42,31,2
+00:43.4,[DAL] Sabally Rebound (Off:1 Def:4),-43,37,4,,1630149,,1611661321,42,31,2
+00:42.7,[DAL 33-42] Sabally Putback Layup Shot: Made (6 PTS),30,19,1,,1630149,,1611661321,42,33,2
+00:37.8,[LVA] Robinson Turnover : Lost Ball (1 TO) Steal:Alarie (1 ST),-42,121,5,1630093,202658,,1611661319,42,33,2
+00:33.6,[LVA] Hamby Foul: Shooting (1 PF) (2 FTA),-40,24,6,1630149,204324,,1611661319,42,33,2
+00:33.6,[DAL 34-42] Sabally Free Throw 1 of 2 (7 PTS),0,-80,3,,1630149,,1611661321,42,34,2
+00:33.6,[DAL 35-42] Sabally Free Throw 2 of 2 (8 PTS),0,-80,3,,1630149,,1611661321,42,35,2
+00:33.6,[DAL] Samuelson Substitution replaced by Thornton,0,-80,8,,1629478,203866,1611661321,42,35,2
+00:22.8,[DAL] Alarie Foul: Personal (1 PF),81,110,6,203825,1630093,,1611661321,42,35,2
+00:22.3,[LVA] McBride Foul: Offensive Charge (1 PF),14,47,6,1627669,203825,,1611661319,42,35,2
+00:22.3,[LVA] McBride Turnover : Offensive Foul Turnover (1 TO),14,47,5,,203825,,1611661319,42,35,2
+00:21.0,Jump Ball Alarie vs Wilson (Jefferson gains possession),0,-80,10,1628932,1630093,1627669,1611661321,42,35,2
+00:05.6,[LVA] Robinson Foul: Personal (1 PF) (2 FTA),-143,58,6,1627669,202658,,1611661319,42,35,2
+00:05.6,[DAL 36-42] Jefferson Free Throw 1 of 2 (6 PTS),0,-80,3,,1627669,,1611661321,42,36,2
+00:05.6,[DAL 37-42] Jefferson Free Throw 2 of 2 (7 PTS),0,-80,3,,1627669,,1611661321,42,37,2
+00:00.0,[LVA] Robinson Driving Layup Shot: Missed,112,-12,2,,202658,,1611661319,42,37,2
+00:00.0,[LVA] Team Rebound,112,-12,4,,0,,1611661319,42,37,2
+00:00.0,End Period,0,-80,13,,0,,0,42,37,2
+10:00,Start Period,0,-80,12,,0,,0,42,37,3
+09:51,[DAL] Ndour Foul: Personal (2 PF),-47,158,6,1628263,203838,,1611661321,42,37,3
+09:38,[LVA] Swords Layup Shot: Missed,35,5,2,,202670,,1611661319,42,37,3
+09:36,[LVA] Swords Rebound (Off:1 Def:4),35,5,4,,202670,,1611661319,42,37,3
+09:35,[LVA 44-37] Swords Layup Shot: Made (6 PTS),-12,10,1,,202670,,1611661319,44,37,3
+09:20,[DAL 40-44] Thornton 3pt Shot: Made (8 PTS) Assist: Ogunbowale (1 AST),232,53,1,,203866,1629481,1611661321,44,40,3
+09:04,[LVA 47-40] Allen 3pt Shot: Made (7 PTS) Assist: McBride (1 AST),-13,245,1,,1628263,203825,1611661319,47,40,3
+08:46,[DAL] Jefferson Turnover : Bad Pass (1 TO) Steal:McCoughtry (1 ST),-156,47,5,201881,1627669,,1611661321,47,40,3
+08:40,[LVA 49-40] McCoughtry Layup Shot: Made (4 PTS),-19,17,1,,201881,,1611661319,49,40,3
+08:20,[DAL] Sabally 3pt Shot: Missed,-2,255,2,,1630149,,1611661321,49,40,3
+08:18,[LVA] Wilson Rebound (Off:0 Def:3),-2,255,4,,1628932,,1611661319,49,40,3
+08:09,[DAL] Ndour Foul: Shooting (3 PF) (2 FTA),37,53,6,1628932,203838,,1611661321,49,40,3
+08:09,[LVA 50-40] Wilson Free Throw 1 of 2 (9 PTS),0,-80,3,,1628932,,1611661319,50,40,3
+08:09,[LVA 51-40] Wilson Free Throw 2 of 2 (10 PTS),0,-80,3,,1628932,,1611661319,51,40,3
+07:55,[DAL 42-51] Sabally Cutting Layup Shot: Made (10 PTS) Assist: Jefferson (1 AST),25,8,1,,1630149,1627669,1611661321,51,42,3
+07:45,[DAL] Ndour Foul: Shooting (4 PF) (2 FTA),43,19,6,202670,203838,,1611661321,51,42,3
+07:45,[LVA 52-42] Swords Free Throw 1 of 2 (7 PTS),0,-80,3,,202670,,1611661319,52,42,3
+07:45,[DAL] Ndour Substitution replaced by Alarie,0,-80,8,,203838,1630093,1611661321,52,42,3
+07:45,[LVA] Swords Free Throw 2 of 2 Missed,0,-80,3,,202670,,1611661319,52,42,3
+07:44,[LVA] Team Rebound,0,-80,4,,0,,1611661319,52,42,3
+07:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,42,3
+07:39,[LVA] Wilson Jump Shot: Missed,-104,91,2,,1628932,,1611661319,52,42,3
+07:39,[LVA] Allen Rebound (Off:1 Def:3),-104,91,4,,1628263,,1611661319,52,42,3
+07:39,[DAL] Jefferson Foul: Shooting (2 PF) (2 FTA),-71,29,6,1628263,1627669,,1611661321,52,42,3
+07:39,[LVA 53-42] Allen Free Throw 1 of 2 (8 PTS),0,-80,3,,1628263,,1611661319,53,42,3
+07:39,[LVA 54-42] Allen Free Throw 2 of 2 (9 PTS),0,-80,3,,1628263,,1611661319,54,42,3
+07:23,[DAL] Ogunbowale 3pt Shot: Missed,-148,225,2,,1629481,,1611661321,54,42,3
+07:21,[LVA] Swords Rebound (Off:1 Def:5),-148,225,4,,202670,,1611661319,54,42,3
+07:16,[LVA] McBride 3pt Shot: Missed,-214,115,2,,203825,,1611661319,54,42,3
+07:14,[DAL] Thornton Rebound (Off:1 Def:2),-214,115,4,,203866,,1611661321,54,42,3
+07:08,[DAL 44-54] Jefferson Layup Shot: Made (9 PTS) Assist: Thornton (1 AST),17,8,1,,1627669,203866,1611661321,54,44,3
+06:58,[LVA 56-44] Wilson Jump Shot: Made (12 PTS) Assist: McBride (2 AST),-109,-3,1,,1628932,203825,1611661319,56,44,3
+06:41,[DAL 46-56] Ogunbowale Floating Jump shot: Made (8 PTS) Assist: Jefferson (2 AST),2,44,1,,1629481,1627669,1611661321,56,46,3
+06:20,[LVA] McBride Turnover : Lost Ball (2 TO) Steal:Ogunbowale (1 ST),-154,238,5,1629481,203825,,1611661319,56,46,3
+06:17,[LVA] Allen Foul: Personal (2 PF),-108,291,6,1629481,1628263,,1611661319,56,46,3
+06:17,[LVA] Swords Substitution replaced by Hamby,0,-80,8,,202670,204324,1611661319,56,46,3
+06:17,[LVA] McCoughtry Substitution replaced by Young,0,-80,8,,201881,1629498,1611661319,56,46,3
+06:17,[DAL] Thornton Substitution replaced by Samuelson,0,-80,8,,203866,1629478,1611661321,56,46,3
+06:17,[DAL] Jefferson Substitution replaced by Harris,0,-80,8,,1627669,1630112,1611661321,56,46,3
+06:01,[DAL] Alarie Driving Hook Shot: Missed,9,72,2,,1630093,,1611661321,56,46,3
+05:59,[LVA] Hamby Rebound (Off:1 Def:3),9,72,4,,204324,,1611661319,56,46,3
+05:47,[LVA] Young Turnover : Traveling (2 TO),178,169,5,,1629498,,1611661319,56,46,3
+05:25,[DAL] Sabally Foul: Offensive Charge (3 PF),90,13,6,1629498,1630149,,1611661321,56,46,3
+05:25,[DAL] Sabally Turnover : Offensive Foul Turnover (2 TO),90,13,5,,1630149,,1611661321,56,46,3
+05:12,[LVA] Wilson Driving Hook Shot: Missed,-48,29,2,1629478,1628932,,1611661319,56,46,3
+05:09,[DAL] Sabally Rebound (Off:1 Def:5),-48,29,4,,1630149,,1611661321,56,46,3
+04:53,[DAL 48-56] Ogunbowale Driving Layup Shot: Made (10 PTS),-25,11,1,,1629481,,1611661321,56,48,3
+04:44,[LVA] McBride Turnover : Lost Ball (3 TO) Steal:Alarie (2 ST),17,235,5,1630093,203825,,1611661319,56,48,3
+04:40,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-204,193,5,,1629481,,1611661321,56,48,3
+04:40,Timeout Officials,0,-80,9,,0,,0,56,48,3
+04:40,[DAL] Sabally Substitution replaced by Gray,0,-80,8,,1630149,1628277,1611661321,56,48,3
+04:40,[DAL] Ogunbowale Substitution replaced by Thornton,0,-80,8,,1629481,203866,1611661321,56,48,3
+04:32,[DAL] Thornton Foul: Personal (2 PF) (2 FTA),85,359,6,204324,203866,,1611661321,56,48,3
+04:32,[LVA] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,56,48,3
+04:32,[LVA] Team Rebound,0,-80,4,,0,,1611661319,56,48,3
+04:32,[LVA 57-48] Hamby Free Throw 2 of 2 (5 PTS),0,-80,3,,204324,,1611661319,57,48,3
+04:09,Jump Ball Young vs Gray (Allen gains possession),0,-80,10,1628277,1629498,1628263,1611661319,57,48,3
+04:09,[DAL] Gray Turnover : Lost Ball (1 TO) Steal:Young (1 ST),0,-80,5,1629498,1628277,,1611661321,57,48,3
+03:58,[LVA] Hamby Turnover : Bad Pass (5 TO) Steal:Samuelson (2 ST),113,103,5,1629478,204324,,1611661319,57,48,3
+03:48,[DAL] Gray 3pt Shot: Missed,-110,234,2,,1628277,,1611661321,57,48,3
+03:46,[LVA] Wilson Rebound (Off:0 Def:4),-110,234,4,,1628932,,1611661319,57,48,3
+03:35,[LVA 60-48] Young 3pt Shot: Made (7 PTS) Assist: Hamby (2 AST),143,214,1,,1629498,204324,1611661319,60,48,3
+03:12,[DAL] Samuelson Pullup Jump shot: Missed,-158,6,2,,1629478,,1611661321,60,48,3
+03:12,[LVA] Team Rebound,-158,6,4,,0,,1611661319,60,48,3
+03:12,[DAL] Thornton Foul: Personal (3 PF) (2 FTA),-111,808,6,204324,203866,,1611661321,60,48,3
+03:12,[LVA] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,60,48,3
+03:12,[LVA] Team Rebound,0,-80,4,,0,,1611661319,60,48,3
+03:12,[LVA] Allen Substitution replaced by Robinson,0,-80,8,,1628263,202658,1611661319,60,48,3
+03:12,[LVA] McBride Substitution replaced by Swords,0,-80,8,,203825,202670,1611661319,60,48,3
+03:12,[LVA] Wilson Substitution replaced by Rodgers,0,-80,8,,1628932,203411,1611661319,60,48,3
+03:12,[DAL] Samuelson Substitution replaced by Sabally,0,-80,8,,1629478,1630149,1611661321,60,48,3
+03:12,[DAL] Thornton Substitution replaced by Ogunbowale,0,-80,8,,203866,1629481,1611661321,60,48,3
+03:12,[LVA] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661319,60,48,3
+03:10,[LVA] Young Rebound (Off:1 Def:0),0,-80,4,,1629498,,1611661319,60,48,3
+03:01,[LVA 62-48] Hamby Cutting Layup Shot: Made (7 PTS) Assist: Young (1 AST),25,19,1,,204324,1629498,1611661319,62,48,3
+02:48,[DAL 50-62] Ogunbowale Driving Layup Shot: Made (12 PTS),24,16,1,,1629481,,1611661321,62,50,3
+02:35,[LVA] Rodgers 3pt Shot: Missed,-146,237,2,,203411,,1611661319,62,50,3
+02:34,[LVA] Hamby Rebound (Off:2 Def:3),-146,237,4,,204324,,1611661319,62,50,3
+02:34,[LVA 64-50] Hamby Putback Layup Shot: Made (9 PTS),-1,40,1,,204324,,1611661319,64,50,3
+02:34,[DAL] Sabally Foul: Shooting (4 PF) (1 FTA),-1,40,6,204324,1630149,,1611661321,64,50,3
+02:34,[LVA 65-50] Hamby Free Throw 1 of 1 (10 PTS),0,-80,3,,204324,,1611661319,65,50,3
+02:24,[DAL 52-65] Alarie Driving Layup Shot: Made (4 PTS),19,10,1,,1630093,,1611661321,65,52,3
+02:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,65,52,3
+02:15,[LVA] Hamby Turnover : Step Out of Bounds Turnover (6 TO),116,-17,5,,204324,,1611661319,65,52,3
+02:00,[DAL] Alarie Running Finger Roll Layup Shot: Missed,95,36,2,,1630093,,1611661321,65,52,3
+01:57,[LVA] Swords Rebound (Off:1 Def:6),95,36,4,,202670,,1611661319,65,52,3
+01:55,[DAL] Sabally Foul: Shooting (5 PF) (2 FTA),-47,18,6,1629498,1630149,,1611661321,65,52,3
+01:55,[LVA] Young Free Throw 1 of 2 Missed,0,-80,3,,1629498,,1611661319,65,52,3
+01:55,[LVA] Team Rebound,0,-80,4,,0,,1611661319,65,52,3
+01:55,[LVA 66-52] Young Free Throw 2 of 2 (8 PTS),0,-80,3,,1629498,,1611661319,66,52,3
+01:32,[DAL 54-66] Ogunbowale Pullup Jump shot: Made (14 PTS),-115,111,1,,1629481,,1611661321,66,54,3
+01:11,[LVA] Swords Hook Shot: Missed,5,78,2,,202670,,1611661319,66,54,3
+01:11,[DAL] Team Rebound,5,78,4,,0,,1611661321,66,54,3
+01:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,54,3
+01:11,[DAL] Sabally Substitution replaced by Thornton,0,-80,8,,1630149,203866,1611661321,66,54,3
+00:44.8,[DAL] Alarie 3pt Shot: Missed,-19,253,2,,1630093,,1611661321,66,54,3
+00:42.5,[LVA] Hamby Rebound (Off:2 Def:4),-19,253,4,,204324,,1611661319,66,54,3
+00:20.5,[LVA] Young Hook Shot: Missed,20,56,2,,1629498,,1611661319,66,54,3
+00:20.5,[DAL] Team Rebound,20,56,4,,0,,1611661321,66,54,3
+00:20.5,[LVA] Robinson Foul: Loose Ball (2 PF),4,757,6,1629481,202658,,1611661319,66,54,3
+00:01.2,[DAL 56-66] Ogunbowale Pullup Jump shot: Made (16 PTS),121,37,1,,1629481,,1611661321,66,56,3
+00:00.0,[LVA] Hamby 3pt Shot: Missed,86,695,2,,204324,,1611661319,66,56,3
+00:00.0,[LVA] Team Rebound,86,695,4,,0,,1611661319,66,56,3
+00:00.0,End Period,0,-80,13,,0,,0,66,56,3
+10:00,Start Period,0,-80,12,,0,,0,66,56,4
+09:38,[DAL] Ogunbowale Pullup Jump shot: Missed,89,130,2,,1629481,,1611661321,66,56,4
+09:36,[LVA] Young Rebound (Off:1 Def:1),89,130,4,,1629498,,1611661319,66,56,4
+09:32,[DAL] Thornton Foul: Shooting (4 PF) (2 FTA),44,18,6,1629498,203866,,1611661321,66,56,4
+09:32,[LVA 67-56] Young Free Throw 1 of 2 (9 PTS),0,-80,3,,1629498,,1611661319,67,56,4
+09:32,[LVA 68-56] Young Free Throw 2 of 2 (10 PTS),0,-80,3,,1629498,,1611661319,68,56,4
+09:07,[DAL] Team Turnover : Shot Clock Turnover,174,41,5,,0,,1611661321,68,56,4
+08:57,[LVA 70-56] Wilson Cutting Layup Shot: Made (14 PTS) Assist: Hamby (3 AST),25,11,1,,1628932,204324,1611661319,70,56,4
+08:51,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,70,56,4
+08:51,[DAL] Alarie Substitution replaced by Ndour,0,-80,8,,1630093,203838,1611661321,70,56,4
+08:30,[DAL] Thornton Jump Shot: Missed,63,81,2,,203866,,1611661321,70,56,4
+08:28,[DAL] Gray Rebound (Off:1 Def:1),63,81,4,,1628277,,1611661321,70,56,4
+08:27,[DAL 58-70] Gray Putback Layup Shot: Made (2 PTS),-22,14,1,,1628277,,1611661321,70,58,4
+08:14,[LVA 72-58] Wilson Turnaround Fadeaway shot: Made (16 PTS) Assist: Hamby (4 AST),-96,6,1,,1628932,204324,1611661319,72,58,4
+07:51,[DAL 61-72] Ndour 3pt Shot: Made (7 PTS) Assist: Harris (1 AST),119,220,1,,203838,1630112,1611661321,72,61,4
+07:35,[LVA] McBride 3pt Shot: Missed,-170,210,2,,203825,,1611661319,72,61,4
+07:33,[DAL] Harris Rebound (Off:0 Def:1),-170,210,4,,1630112,,1611661321,72,61,4
+07:31,[LVA] Robinson Foul: Shooting (3 PF) (2 FTA),101,53,6,1630112,202658,,1611661319,72,61,4
+07:31,[DAL] Harris Free Throw 1 of 2 Missed,0,-80,3,,1630112,,1611661321,72,61,4
+07:31,[DAL] Team Rebound,0,-80,4,,0,,1611661321,72,61,4
+07:31,[DAL 62-72] Harris Free Throw 2 of 2 (3 PTS),0,-80,3,,1630112,,1611661321,72,62,4
+07:15,[LVA 74-62] Wilson Driving Hook Shot: Made (18 PTS),-47,18,1,,1628932,,1611661319,74,62,4
+07:15,[DAL] Ndour Foul: Shooting (5 PF) (1 FTA),-47,18,6,1628932,203838,,1611661321,74,62,4
+07:15,[DAL] Harris Substitution replaced by Jefferson,0,-80,8,,1630112,1627669,1611661321,74,62,4
+07:15,[LVA 75-62] Wilson Free Throw 1 of 1 (19 PTS),0,-80,3,,1628932,,1611661319,75,62,4
+07:07,[LVA] Robinson Foul: Personal (4 PF),-183,338,6,1629481,202658,,1611661319,75,62,4
+06:56,[DAL] Gray Pullup Jump shot: Missed,89,74,2,,1628277,,1611661321,75,62,4
+06:54,[LVA] Hamby Rebound (Off:2 Def:5),89,74,4,,204324,,1611661319,75,62,4
+06:41,[LVA] Wilson Hook Shot: Missed,47,-5,2,,1628932,,1611661319,75,62,4
+06:39,[LVA] Robinson Rebound (Off:1 Def:1),47,-5,4,,202658,,1611661319,75,62,4
+06:38,[DAL] Jefferson Foul: Personal (3 PF),-32,262,6,202658,1627669,,1611661321,75,62,4
+06:26,[LVA] Wilson Step Back Jump shot: Missed,-48,126,2,,1628932,,1611661319,75,62,4
+06:24,[DAL] Thornton Rebound (Off:1 Def:3),-48,126,4,,203866,,1611661321,75,62,4
+06:12,[DAL 64-75] Ogunbowale Driving Layup Shot: Made (18 PTS),32,37,1,,1629481,,1611661321,75,64,4
+06:00,[LVA] Hamby Turnover : Traveling (7 TO),85,18,5,,204324,,1611661319,75,64,4
+06:00,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,75,64,4
+06:00,[DAL] Gray Substitution replaced by Samuelson,0,-80,8,,1628277,1629478,1611661321,75,64,4
+05:41,[DAL] Ndour 3pt Shot: Missed,-144,210,2,,203838,,1611661321,75,64,4
+05:40,[LVA] Young Rebound (Off:1 Def:2),-144,210,4,,1629498,,1611661319,75,64,4
+05:20,[LVA] Robinson 3pt Shot: Missed,125,215,2,,202658,,1611661319,75,64,4
+05:17,[DAL] Thornton Rebound (Off:1 Def:4),125,215,4,,203866,,1611661321,75,64,4
+05:08,[DAL] Samuelson 3pt Shot: Missed,182,145,2,,1629478,,1611661321,75,64,4
+05:06,[LVA] Robinson Rebound (Off:1 Def:2),182,145,4,,202658,,1611661319,75,64,4
+05:04,[DAL] Thornton Foul: Shooting (5 PF) (2 FTA),117,24,6,203825,203866,,1611661321,75,64,4
+05:04,Stoppage: Blood Rule,0,-80,20,,0,,0,75,64,4
+05:04,[LVA 76-64] McBride Free Throw 1 of 2 (10 PTS),0,-80,3,,203825,,1611661319,76,64,4
+05:04,[LVA] Robinson Substitution replaced by Allen,0,-80,8,,202658,1628263,1611661319,76,64,4
+05:04,[DAL] Thornton Substitution replaced by Sabally,0,-80,8,,203866,1630149,1611661321,76,64,4
+05:04,[LVA 77-64] McBride Free Throw 2 of 2 (11 PTS),0,-80,3,,203825,,1611661319,77,64,4
+04:48,[DAL] Jefferson Driving Layup Shot: Missed,-31,15,2,,1627669,,1611661321,77,64,4
+04:46,[LVA] Wilson Rebound (Off:0 Def:5),-31,15,4,,1628932,,1611661319,77,64,4
+04:33,[LVA] McBride 3pt Shot: Missed,3,250,2,,203825,,1611661319,77,64,4
+04:33,[DAL] Team Rebound,3,250,4,,0,,1611661321,77,64,4
+04:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,64,4
+04:11,[DAL] Jefferson Turnover : Lost Ball (2 TO) Steal:Hamby (1 ST),-27,192,5,204324,1627669,,1611661321,77,64,4
+04:03,[LVA] Hamby Jump Shot: Missed,75,40,2,1629478,204324,,1611661319,77,64,4
+03:57,[DAL] Jefferson Rebound (Off:0 Def:2),75,40,4,,1627669,,1611661321,77,64,4
+03:57,[DAL 66-77] Ogunbowale Layup Shot: Made (20 PTS) Assist: Jefferson (3 AST),25,22,1,,1629481,1627669,1611661321,77,66,4
+03:40,[LVA] Wilson Jump Shot: Missed,-71,109,2,,1628932,,1611661319,77,66,4
+03:38,[DAL] Samuelson Rebound (Off:0 Def:2),-71,109,4,,1629478,,1611661321,77,66,4
+03:26,[DAL] Ogunbowale Hook Shot: Missed,-58,31,2,,1629481,,1611661321,77,66,4
+03:24,[LVA] Wilson Rebound (Off:0 Def:6),-58,31,4,,1628932,,1611661319,77,66,4
+03:20,[LVA 79-66] Allen Jump Shot: Made (11 PTS),-70,142,1,,1628263,,1611661319,79,66,4
+03:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,79,66,4
+02:57,[LVA] Hamby Foul: Personal (2 PF),109,219,6,1630149,204324,,1611661319,79,66,4
+02:57,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,79,66,4
+02:57,[DAL] Jefferson Substitution replaced by Mabrey,0,-80,8,,1627669,1629497,1611661321,79,66,4
+02:46,[DAL] Ogunbowale 3pt Shot: Missed,-108,256,2,,1629481,,1611661321,79,66,4
+02:44,[LVA] Wilson Rebound (Off:0 Def:7),-108,256,4,,1628932,,1611661319,79,66,4
+02:27,[LVA] Hamby 3pt Shot: Missed,-19,247,2,,204324,,1611661319,79,66,4
+02:23,[DAL] Ndour Rebound (Off:2 Def:1),-19,247,4,,203838,,1611661321,79,66,4
+02:15,[DAL] Ndour 3pt Shot: Missed,17,234,2,,203838,,1611661321,79,66,4
+02:13,[LVA] Young Rebound (Off:1 Def:3),17,234,4,,1629498,,1611661319,79,66,4
+01:49,[LVA] Allen Jump Shot: Missed,0,210,2,,1628263,,1611661319,79,66,4
+01:48,[LVA] Hamby Rebound (Off:3 Def:5),0,210,4,,204324,,1611661319,79,66,4
+01:39,[LVA] Allen Turnover : Bad Pass (2 TO) Steal:Sabally (2 ST),-13,209,5,1630149,1628263,,1611661319,79,66,4
+01:35,[DAL 68-79] Samuelson Layup Shot: Made (5 PTS) Assist: Sabally (2 AST),-25,9,1,,1629478,1630149,1611661321,79,68,4
+01:35,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,79,68,4
+01:35,[DAL] Sabally Substitution replaced by Thornton,0,-80,8,,1630149,203866,1611661321,79,68,4
+01:15,[LVA] Allen Floating Jump shot: Missed,28,96,2,203838,1628263,,1611661319,79,68,4
+01:11,[DAL] Mabrey Rebound (Off:0 Def:1),28,96,4,,1629497,,1611661321,79,68,4
+01:07,[LVA] Wilson Foul: Personal (2 PF),64,43,6,203838,1628932,,1611661319,79,68,4
+01:07,[DAL] Mabrey Foul: Personal (1 PF),195,305,6,203825,1629497,,1611661321,79,68,4
+01:07,[DAL] Mabrey Turnover : No Turnover (1 TO),195,305,5,,1629497,,1611661321,79,68,4
+00:50.0,[LVA] Wilson Pullup Jump shot: Missed,-65,162,2,,1628932,,1611661319,79,68,4
+00:48.1,[DAL] Ndour Rebound (Off:2 Def:2),-65,162,4,,203838,,1611661321,79,68,4
+00:34.1,[DAL] Samuelson Turnaround Jump Shot: Missed,-11,128,2,,1629478,,1611661321,79,68,4
+00:31.8,[LVA] Wilson Rebound (Off:0 Def:8),-11,128,4,,1628932,,1611661319,79,68,4
+00:10.2,[LVA] Wilson Jump Shot: Missed,171,3,2,,1628932,,1611661319,79,68,4
+00:08.6,[DAL] Ogunbowale Rebound (Off:0 Def:1),171,3,4,,1629481,,1611661321,79,68,4
+00:05.2,[DAL 70-79] Ndour Jump Shot: Made (9 PTS) Assist: Ogunbowale (2 AST),-103,86,1,,203838,1629481,1611661321,79,70,4
+00:00.0,End Period,0,-80,13,,0,,0,79,70,4
+00:00.0,Game End,0,-80,0,,0,,0,79,70,4

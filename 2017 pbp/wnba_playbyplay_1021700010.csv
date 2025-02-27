@@ -1,0 +1,451 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball de Souza vs Griner (Robinson gains possession),0,-80,10,203398,100812,202658,1611661319,0,0,1
+09:46,[SAN] Holmes Foul: Personal Block (1 PF),-1,-11,6,203398,201530,,1611661319,0,0,1
+09:41,[PHO 2-0] Robinson Pullup Jump shot: Made (2 PTS),35,188,1,,202658,,1611661317,0,2,1
+09:26,[SAN] Holmes Pullup Jump shot: Missed,97,149,2,,201530,,1611661319,0,2,1
+09:25,[PHO] Griner Rebound (Off:0 Def:1),0,-80,4,,203398,,1611661317,0,2,1
+09:15,[PHO] Robinson Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,202658,,1611661317,0,2,1
+09:00,[SAN] de Souza Layup Shot: Missed,-2,2,2,,100812,,1611661319,0,2,1
+09:00,[SAN] Team Rebound,0,-80,4,,0,,1611661319,0,2,1
+08:59,[SAN] Montgomery Turnover : Bad Pass (1 TO) Steal:Robinson (1 ST),0,-80,5,202658,202652,,1611661319,0,2,1
+08:51,[PHO] Taurasi Jump Shot: Missed,107,2,2,,100940,,1611661317,0,2,1
+08:49,[PHO] Griner Rebound (Off:1 Def:1),0,-80,4,,203398,,1611661317,0,2,1
+08:46,[PHO 4-0] Griner Putback Layup Shot: Made (2 PTS),-6,47,1,,203398,,1611661317,0,4,1
+08:35,[SAN] Harrison Layup Shot: Missed,-1,-6,2,,204330,,1611661319,0,4,1
+08:34,[SAN] de Souza Rebound (Off:1 Def:0),0,-80,4,,100812,,1611661319,0,4,1
+08:31,[SAN] de Souza Layup Shot: Missed,14,3,2,,100812,,1611661319,0,4,1
+08:31,[PHO] Talbot Rebound (Off:0 Def:1),0,-80,4,,203855,,1611661317,0,4,1
+08:30,[SAN] Colson Foul: Shooting (1 PF) (2 FTA),1,13,6,201067,202641,,1611661319,0,4,1
+08:30,[PHO 5-0] Little Free Throw 1 of 2 (1 PTS),0,-80,3,,201067,,1611661317,0,5,1
+08:30,[SAN] Holmes Substitution replaced by Currie,0,-80,8,,201530,200673,1611661319,0,5,1
+08:30,[SAN] Colson Substitution replaced by McBride,0,-80,8,,202641,203825,1611661319,0,5,1
+08:30,[SAN] de Souza Substitution replaced by Alexander,0,-80,8,,100812,203405,1611661319,0,5,1
+08:30,[PHO] Little Free Throw 2 of 2 Missed,0,-80,3,,201067,,1611661317,0,5,1
+08:29,[SAN] Montgomery Rebound (Off:0 Def:1),0,-80,4,,202652,,1611661319,0,5,1
+08:09,[SAN] Currie Turnover : Bad Pass (1 TO),0,-80,5,,200673,,1611661319,0,5,1
+07:57,[PHO 7-0] Robinson Pullup Jump shot: Made (4 PTS) Assist: Griner (1 AST),0,178,1,,202658,203398,1611661317,0,7,1
+07:41,[SAN 2-7] Harrison Layup Shot: Made (2 PTS) Assist: McBride (1 AST),9,-6,1,,204330,203825,1611661319,2,7,1
+07:41,[PHO] Little Foul: Shooting (1 PF) (1 FTA),9,-6,6,204330,201067,,1611661317,2,7,1
+07:41,[SAN] Harrison Free Throw 1 of 1 Missed,0,-80,3,,204330,,1611661319,2,7,1
+07:39,[SAN] Montgomery Rebound (Off:1 Def:1),0,-80,4,,202652,,1611661319,2,7,1
+07:34,[SAN] Currie Pullup Jump shot: Missed,-65,139,2,,200673,,1611661319,2,7,1
+07:31,[SAN] McBride Rebound (Off:1 Def:0),0,-80,4,,203825,,1611661319,2,7,1
+07:27,[SAN] Montgomery 3pt Shot: Missed,145,188,2,,202652,,1611661319,2,7,1
+07:27,[PHO] Robinson Rebound (Off:0 Def:1),0,-80,4,,202658,,1611661317,2,7,1
+07:09,[PHO 9-2] Little Cutting Layup Shot: Made (3 PTS) Assist: Robinson (1 AST),-2,-1,1,,201067,202658,1611661317,2,9,1
+06:51,[SAN 4-9] Harrison Layup Shot: Made (4 PTS) Assist: Alexander (1 AST),-1,-6,1,,204330,203405,1611661319,4,9,1
+06:37,[PHO] Robinson Pullup Jump shot: Missed,68,185,2,,202658,,1611661317,4,9,1
+06:35,[SAN] Montgomery Rebound (Off:1 Def:2),0,-80,4,,202652,,1611661319,4,9,1
+06:29,[SAN] McBride Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,203825,,1611661319,4,9,1
+06:17,[PHO 12-4] Taurasi 3pt Shot: Made (3 PTS) Assist: Robinson (2 AST),-194,116,1,,100940,202658,1611661317,4,12,1
+05:55,[PHO] Talbot Foul: Shooting (1 PF) (2 FTA),-60,36,6,203825,203855,,1611661317,4,12,1
+05:55,[SAN 5-12] McBride Free Throw 1 of 2 (1 PTS),0,-80,3,,203825,,1611661319,5,12,1
+05:55,[SAN] Harrison Substitution replaced by Hamby,0,-80,8,,204330,204324,1611661319,5,12,1
+05:55,[SAN 6-12] McBride Free Throw 2 of 2 (2 PTS),0,-80,3,,203825,,1611661319,6,12,1
+05:47,[PHO] Taurasi 3pt Shot: Missed,15,223,2,,100940,,1611661317,6,12,1
+05:46,[SAN] McBride Rebound (Off:1 Def:1),0,-80,4,,203825,,1611661319,6,12,1
+05:38,[SAN] Alexander Hook Shot: Missed,-1,56,2,,203405,,1611661319,6,12,1
+05:36,[PHO] Talbot Rebound (Off:0 Def:2),0,-80,4,,203855,,1611661317,6,12,1
+05:27,[PHO 14-6] Griner Turnaround Bank shot: Made (4 PTS) Assist: Talbot (1 AST),-101,33,1,,203398,203855,1611661317,6,14,1
+05:02,[SAN] Hamby Jump Shot: Missed Block: Griner (1 BLK),17,90,2,203398,204324,,1611661319,6,14,1
+05:01,[SAN] Montgomery Rebound (Off:2 Def:2),0,-80,4,,202652,,1611661319,6,14,1
+04:59,[SAN] Montgomery Jump Shot: Missed,-9,90,2,,202652,,1611661319,6,14,1
+04:58,[PHO] Little Rebound (Off:0 Def:1),0,-80,4,,201067,,1611661317,6,14,1
+04:55,[SAN] Hamby Foul: Shooting (1 PF) (2 FTA),-52,36,6,202658,204324,,1611661319,6,14,1
+04:55,Timeout : Official,0,-80,9,,0,,0,6,14,1
+04:55,[SAN] Montgomery Substitution replaced by de Souza,0,-80,8,,202652,100812,1611661319,6,14,1
+04:55,[SAN] Alexander Substitution replaced by Colson,0,-80,8,,203405,202641,1611661319,6,14,1
+04:55,[PHO] Robinson Free Throw 1 of 2 Missed,0,-80,3,,202658,,1611661317,6,14,1
+04:55,[PHO] Team Rebound,0,-80,4,,0,,1611661317,6,14,1
+04:55,[PHO 15-6] Robinson Free Throw 2 of 2 (5 PTS),0,-80,3,,202658,,1611661317,6,15,1
+04:36,[SAN] McBride Turnover : Lost Ball (2 TO) Steal:Talbot (1 ST),0,-80,5,203855,203825,,1611661319,6,15,1
+04:21,[PHO] Robinson Driving Finger Roll Layup Shot: Missed Block: de Souza (1 BLK),1,-10,2,100812,202658,,1611661317,6,15,1
+04:21,[PHO] Team Rebound,0,-80,4,,0,,1611661317,6,15,1
+04:10,[PHO] Robinson Jump Shot: Missed,-34,188,2,,202658,,1611661317,6,15,1
+04:09,[SAN] Currie Rebound (Off:0 Def:1),0,-80,4,,200673,,1611661319,6,15,1
+04:01,[SAN 8-15] Currie Fadeaway Jump Shot: Made (2 PTS),135,38,1,,200673,,1611661319,8,15,1
+03:40,[PHO] Griner Layup Shot: Missed,2,7,2,,203398,,1611661317,8,15,1
+03:39,[SAN] Hamby Rebound (Off:0 Def:1),0,-80,4,,204324,,1611661319,8,15,1
+03:39,[PHO] Griner Foul: Loose Ball (1 PF),19,13,6,204324,203398,,1611661317,8,15,1
+03:39,[PHO] Taurasi Substitution replaced by Mitchell,0,-80,8,,100940,201507,1611661317,8,15,1
+03:39,[PHO] Little Substitution replaced by George,0,-80,8,,201067,204297,1611661317,8,15,1
+03:27,[SAN] Currie Jump Shot: Missed,-132,75,2,,200673,,1611661319,8,15,1
+03:24,[PHO] George Rebound (Off:0 Def:1),0,-80,4,,204297,,1611661317,8,15,1
+03:11,[PHO] Talbot 3pt Shot: Missed,199,126,2,,203855,,1611661317,8,15,1
+03:10,[PHO] Griner Rebound (Off:2 Def:1),0,-80,4,,203398,,1611661317,8,15,1
+03:09,[SAN] de Souza Foul: Shooting (1 PF) (2 FTA),15,41,6,203398,100812,,1611661319,8,15,1
+03:09,[PHO 16-8] Griner Free Throw 1 of 2 (5 PTS),0,-80,3,,203398,,1611661317,8,16,1
+03:09,[SAN] de Souza Substitution replaced by Alexander,0,-80,8,,100812,203405,1611661319,8,16,1
+03:09,[PHO 17-8] Griner Free Throw 2 of 2 (6 PTS),0,-80,3,,203398,,1611661317,8,17,1
+02:52,[SAN] Hamby Layup Shot: Missed Block: George (1 BLK),-7,11,2,204297,204324,,1611661319,8,17,1
+02:52,[PHO] George Rebound (Off:0 Def:2),0,-80,4,,204297,,1611661317,8,17,1
+02:36,[PHO] Robinson Pullup Jump shot: Missed,177,16,2,,202658,,1611661317,8,17,1
+02:33,[SAN] Hamby Rebound (Off:0 Def:2),0,-80,4,,204324,,1611661319,8,17,1
+02:30,[SAN] Colson Turnover : Lost Ball (1 TO) Steal:Talbot (2 ST),0,-80,5,203855,202641,,1611661319,8,17,1
+02:24,[PHO 19-8] George Layup Shot: Made (2 PTS) Assist: Mitchell (1 AST),1,2,1,,204297,201507,1611661317,8,19,1
+02:24,[SAN] Colson Foul: Shooting (2 PF) (1 FTA),1,2,6,204297,202641,,1611661319,8,19,1
+02:24,[SAN] Colson Substitution replaced by Montgomery,0,-80,8,,202641,202652,1611661319,8,19,1
+02:24,[PHO 20-8] George Free Throw 1 of 1 (3 PTS),0,-80,3,,204297,,1611661317,8,20,1
+02:14,[SAN] Currie Turnover : Out of Bounds Lost Ball Turnover (2 TO),0,-80,5,,200673,,1611661319,8,20,1
+02:14,[PHO] Talbot Substitution replaced by Prince,0,-80,8,,203855,1628297,1611661317,8,20,1
+02:02,[PHO 22-8] Robinson Alley Oop Layup shot: Made (7 PTS) Assist: Griner (2 AST),0,2,1,,202658,203398,1611661317,8,22,1
+01:56,[PHO] Mitchell Foul: Personal (1 PF),143,61,6,200673,201507,,1611661317,8,22,1
+01:56,[SAN] Hamby Substitution replaced by Coffey,0,-80,8,,204324,1628269,1611661319,8,22,1
+01:51,[SAN] McBride 3pt Shot: Missed,-114,193,2,,203825,,1611661319,8,22,1
+01:51,[SAN] Team Rebound,0,-80,4,,0,,1611661319,8,22,1
+01:49,[PHO] George Foul: Shooting (1 PF) (2 FTA),-9,-6,6,1628269,204297,,1611661317,8,22,1
+01:49,[SAN] Coffey Free Throw 1 of 2 Missed,0,-80,3,,1628269,,1611661319,8,22,1
+01:49,[SAN] Team Rebound,0,-80,4,,0,,1611661319,8,22,1
+01:49,[SAN 9-22] Coffey Free Throw 2 of 2 (1 PTS),0,-80,3,,1628269,,1611661319,9,22,1
+01:39,[PHO] Mitchell Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,201507,,1611661317,9,22,1
+01:39,[PHO] Griner Substitution replaced by Cannon,0,-80,8,,203398,1628242,1611661317,9,22,1
+01:20,[SAN] Coffey Layup Shot: Missed,-24,11,2,,1628269,,1611661319,9,22,1
+01:20,[SAN] Coffey Rebound (Off:1 Def:0),0,-80,4,,1628269,,1611661319,9,22,1
+01:17,[SAN] Coffey Layup Shot: Missed,-6,7,2,,1628269,,1611661319,9,22,1
+01:16,[PHO] Cannon Rebound (Off:0 Def:1),0,-80,4,,1628242,,1611661317,9,22,1
+01:10,[PHO 25-9] Mitchell 3pt Shot: Made (3 PTS) Assist: Robinson (3 AST),217,100,1,,201507,202658,1611661317,9,25,1
+01:04,[SAN] Team Timeout : Regular,0,-80,9,,0,,1611661319,9,25,1
+01:04,[PHO] Robinson Substitution replaced by Turner,0,-80,8,,202658,203389,1611661317,9,25,1
+00:56.0,[PHO] George Foul: Personal (2 PF) (2 FTA),-11,11,6,1628269,204297,,1611661317,9,25,1
+00:56.0,[SAN 10-25] Coffey Free Throw 1 of 2 (2 PTS),0,-80,3,,1628269,,1611661319,10,25,1
+00:56.0,[SAN 11-25] Coffey Free Throw 2 of 2 (3 PTS),0,-80,3,,1628269,,1611661319,11,25,1
+00:48.8,[PHO] Turner Turnover : Kicked Ball Violation (1 TO),0,-80,5,,203389,,1611661317,11,25,1
+00:48.8,[SAN] Alexander Substitution replaced by Harrison,0,-80,8,,203405,204330,1611661319,11,25,1
+00:38.5,[SAN 13-25] Harrison Finger Roll Layup Shot: Made (6 PTS) Assist: Coffey (1 AST),-7,-5,1,,204330,1628269,1611661319,13,25,1
+00:26.9,[PHO] Cannon Layup Shot: Missed,-6,7,2,,1628242,,1611661317,13,25,1
+00:25.9,[SAN] Montgomery Rebound (Off:2 Def:3),0,-80,4,,202652,,1611661319,13,25,1
+00:17.9,[SAN] Currie Jump Shot: Missed Block: Mitchell (1 BLK),55,175,2,201507,200673,,1611661319,13,25,1
+00:14.9,[PHO] Prince Rebound (Off:0 Def:1),0,-80,4,,1628297,,1611661317,13,25,1
+00:00.9,[PHO] Turner Driving Finger Roll Layup Shot: Missed,22,-5,2,,203389,,1611661317,13,25,1
+00:00.0,[SAN] Montgomery Rebound (Off:2 Def:4),0,-80,4,,202652,,1611661319,13,25,1
+00:00.0,End Period,0,-80,13,,0,,0,13,25,1
+10:00,Start Period,0,-80,12,,0,,0,13,25,2
+09:40,[SAN 15-25] Harrison Layup Shot: Made (8 PTS) Assist: Montgomery (1 AST),-11,-6,1,,204330,202652,1611661319,15,25,2
+09:13,[PHO] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661317,15,25,2
+09:00,[SAN] Coffey 3pt Shot: Missed,4,232,2,,1628269,,1611661319,15,25,2
+08:59,[PHO] Mitchell Rebound (Off:0 Def:1),0,-80,4,,201507,,1611661317,15,25,2
+08:52,[SAN] Coffey Foul: Shooting Block (1 PF) (2 FTA),2,8,6,201507,1628269,,1611661319,15,25,2
+08:52,[PHO 26-15] Mitchell Free Throw 1 of 2 (4 PTS),0,-80,3,,201507,,1611661317,15,26,2
+08:52,[PHO] Cannon Substitution replaced by Griner,0,-80,8,,1628242,203398,1611661317,15,26,2
+08:52,[PHO 27-15] Mitchell Free Throw 2 of 2 (5 PTS),0,-80,3,,201507,,1611661317,15,27,2
+08:31,[SAN 17-27] Coffey Turnaround Bank shot: Made (5 PTS),-45,16,1,,1628269,,1611661319,17,27,2
+08:15,[PHO] Taurasi Driving Finger Roll Layup Shot: Missed,-4,3,2,,100940,,1611661317,17,27,2
+08:14,[SAN] Montgomery Rebound (Off:2 Def:5),0,-80,4,,202652,,1611661319,17,27,2
+08:09,[PHO] Taurasi Foul: Personal (1 PF),156,31,6,202652,100940,,1611661317,17,27,2
+08:04,[SAN] Currie Jump Shot: Missed,37,11,2,,200673,,1611661319,17,27,2
+08:03,[PHO] Griner Rebound (Off:2 Def:2),0,-80,4,,203398,,1611661317,17,27,2
+07:55,[SAN] Montgomery Foul: Personal (1 PF),-130,57,6,100940,202652,,1611661319,17,27,2
+07:55,[PHO] Turner Substitution replaced by Robinson,0,-80,8,,203389,202658,1611661317,17,27,2
+07:55,[SAN] Coffey Substitution replaced by Hamby,0,-80,8,,1628269,204324,1611661319,17,27,2
+07:46,[PHO] Taurasi Jump Shot: Missed Block: Montgomery (1 BLK),-32,183,2,202652,100940,,1611661317,17,27,2
+07:45,[SAN] Harrison Rebound (Off:0 Def:1),0,-80,4,,204330,,1611661319,17,27,2
+07:40,[SAN 19-27] Montgomery Pullup Jump shot: Made (2 PTS) Assist: Currie (1 AST),166,61,1,,202652,200673,1611661319,19,27,2
+07:27,[PHO 29-19] Griner Layup Shot: Made (8 PTS) Assist: Taurasi (1 AST),-7,2,1,,203398,100940,1611661317,19,29,2
+07:11,[SAN] Harrison Layup Shot: Missed Block: Griner (2 BLK),-24,2,2,203398,204330,,1611661319,19,29,2
+07:11,[SAN] Team Rebound,0,-80,4,,0,,1611661319,19,29,2
+07:00,[SAN] Holmes 3pt Shot: Missed,184,159,2,,201530,,1611661319,19,29,2
+06:59,[PHO] Griner Rebound (Off:2 Def:3),0,-80,4,,203398,,1611661317,19,29,2
+06:49,[PHO 32-19] Mitchell 3pt Shot: Made (8 PTS) Assist: Robinson (4 AST),-227,11,1,,201507,202658,1611661317,19,32,2
+06:41,[SAN] Team Timeout : Regular,0,-80,9,,0,,1611661319,19,32,2
+06:41,[SAN] Harrison Substitution replaced by McBride,0,-80,8,,204330,203825,1611661319,19,32,2
+06:41,[SAN] Montgomery Substitution replaced by de Souza,0,-80,8,,202652,100812,1611661319,19,32,2
+06:35,[SAN] McBride Foul: Offensive (1 PF),174,56,6,100940,203825,,1611661319,19,32,2
+06:35,[SAN] McBride Turnover : Foul (3 TO),0,-80,5,,203825,,1611661319,19,32,2
+06:24,[PHO 34-19] Taurasi Pullup Jump shot: Made (5 PTS),133,97,1,,100940,,1611661317,19,34,2
+06:05,[SAN] Hamby Jump Shot: Missed Block: Little (1 BLK),46,38,2,201067,204324,,1611661319,19,34,2
+06:04,[SAN] Currie Rebound (Off:1 Def:1),0,-80,4,,200673,,1611661319,19,34,2
+05:58,[SAN 22-34] Holmes 3pt Shot: Made (3 PTS) Assist: Currie (2 AST),107,208,1,,201530,200673,1611661319,22,34,2
+05:45,[PHO] Griner Hook Shot: Missed,123,56,2,,203398,,1611661317,22,34,2
+05:44,[SAN] Team Rebound,0,-80,4,,0,,1611661319,22,34,2
+05:28,[SAN] Currie Foul: Offensive (1 PF),104,129,6,202658,200673,,1611661319,22,34,2
+05:28,[SAN] Currie Turnover : Foul (3 TO),0,-80,5,,200673,,1611661319,22,34,2
+05:28,[SAN] Currie Substitution replaced by Colson,0,-80,8,,200673,202641,1611661319,22,34,2
+05:16,[PHO] Taurasi Layup Shot: Missed,-7,2,2,,100940,,1611661317,22,34,2
+05:12,[PHO] Taurasi Rebound (Off:1 Def:0),0,-80,4,,100940,,1611661317,22,34,2
+05:12,[PHO] Taurasi Layup Shot: Missed,9,2,2,,100940,,1611661317,22,34,2
+05:11,[SAN] de Souza Rebound (Off:1 Def:1),0,-80,4,,100812,,1611661319,22,34,2
+05:02,[SAN] Holmes Jump Shot: Missed,4,159,2,,201530,,1611661319,22,34,2
+05:01,[PHO] Robinson Rebound (Off:0 Def:2),0,-80,4,,202658,,1611661317,22,34,2
+04:47,[PHO] Robinson Jump Shot: Missed,-169,-1,2,,202658,,1611661317,22,34,2
+04:47,[SAN] Hamby Rebound (Off:0 Def:3),0,-80,4,,204324,,1611661319,22,34,2
+04:36,[SAN] Colson Pullup Jump shot: Missed,-7,180,2,,202641,,1611661319,22,34,2
+04:34,[PHO] Mitchell Rebound (Off:0 Def:2),0,-80,4,,201507,,1611661317,22,34,2
+04:25,[PHO 36-22] Mitchell Layup Shot: Made (10 PTS),0,-6,1,,201507,,1611661317,22,36,2
+04:09,[PHO] Taurasi Taunting Technical,0,-80,6,,100940,,1611661317,22,36,2
+04:09,[SAN] McBride Free Throw Technical Missed,0,-80,3,,203825,,1611661319,22,36,2
+04:09,[SAN] Team Rebound,0,-80,4,,0,,1611661319,22,36,2
+04:09,[PHO] Little Substitution replaced by George,0,-80,8,,201067,204297,1611661317,22,36,2
+04:09,[SAN] Hamby Substitution replaced by Harrison,0,-80,8,,204324,204330,1611661319,22,36,2
+03:55,[SAN 24-36] McBride Pullup Jump shot: Made (4 PTS),-109,183,1,,203825,,1611661319,24,36,2
+03:48,[PHO 38-24] Griner Layup Shot: Made (10 PTS) Assist: George (1 AST),0,2,1,,203398,204297,1611661317,24,38,2
+03:29,[PHO] Robinson Foul: Shooting (1 PF) (2 FTA),109,95,6,203825,202658,,1611661317,24,38,2
+03:29,[SAN] McBride Free Throw 1 of 2 Missed,0,-80,3,,203825,,1611661319,24,38,2
+03:29,[SAN] Team Rebound,0,-80,4,,0,,1611661319,24,38,2
+03:29,[PHO] Taurasi Substitution replaced by Talbot,0,-80,8,,100940,203855,1611661317,24,38,2
+03:29,[SAN 25-38] McBride Free Throw 2 of 2 (5 PTS),0,-80,3,,203825,,1611661319,25,38,2
+03:14,[PHO] Griner Jump Bank Shot: Missed,81,18,2,,203398,,1611661317,25,38,2
+03:12,[SAN] de Souza Rebound (Off:1 Def:2),0,-80,4,,100812,,1611661319,25,38,2
+02:56,[SAN] Harrison Foul: Offensive (1 PF),156,67,6,203855,204330,,1611661319,25,38,2
+02:56,[SAN] Harrison Turnover : Foul (1 TO),0,-80,5,,204330,,1611661319,25,38,2
+02:40,[PHO] Talbot 3pt Shot: Missed,-119,188,2,,203855,,1611661317,25,38,2
+02:38,[SAN] de Souza Rebound (Off:1 Def:3),0,-80,4,,100812,,1611661319,25,38,2
+02:30,[PHO] George Foul: Shooting (3 PF) (2 FTA),56,33,6,204330,204297,,1611661317,25,38,2
+02:30,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,25,38,2
+02:30,[PHO] George Substitution replaced by Cannon,0,-80,8,,204297,1628242,1611661317,25,38,2
+02:30,[SAN 26-38] Harrison Free Throw 1 of 2 (9 PTS),0,-80,3,,204330,,1611661319,26,38,2
+02:30,[SAN 27-38] Harrison Free Throw 2 of 2 (10 PTS),0,-80,3,,204330,,1611661319,27,38,2
+02:06,[PHO] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661317,27,38,2
+01:51,[SAN 29-38] McBride Cutting Finger Roll Layup Shot: Made (7 PTS) Assist: Colson (1 AST),-4,2,1,,203825,202641,1611661319,29,38,2
+01:43,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,29,38,2
+01:25,[PHO 40-29] Talbot Pullup Jump shot: Made (2 PTS),68,180,1,,203855,,1611661317,29,40,2
+01:25,[PHO] Team Violation : Delay Of Game,0,-80,7,,0,,1611661317,29,40,2
+01:08,[SAN] Colson Driving Bank shot: Missed,-71,7,2,,202641,,1611661319,29,40,2
+01:07,[SAN] de Souza Rebound (Off:2 Def:3),0,-80,4,,100812,,1611661319,29,40,2
+01:04,[SAN] de Souza Layup Shot: Missed,9,7,2,,100812,,1611661319,29,40,2
+01:03,[SAN] Colson Rebound (Off:1 Def:0),0,-80,4,,202641,,1611661319,29,40,2
+00:59.6,[SAN] Holmes 3pt Shot: Missed,146,185,2,,201530,,1611661319,29,40,2
+00:59.6,[SAN] Team Rebound,0,-80,4,,0,,1611661319,29,40,2
+00:59.6,[PHO] Robinson Substitution replaced by Taurasi,0,-80,8,,202658,100940,1611661317,29,40,2
+00:59.6,[SAN] Colson Substitution replaced by Currie,0,-80,8,,202641,200673,1611661319,29,40,2
+00:58.9,[PHO] Griner Foul: Shooting (2 PF) (2 FTA),-29,8,6,204330,203398,,1611661317,29,40,2
+00:58.9,[SAN] Harrison Free Throw 1 of 2 Missed,0,-80,3,,204330,,1611661319,29,40,2
+00:58.9,[SAN] Team Rebound,0,-80,4,,0,,1611661319,29,40,2
+00:58.9,[SAN 30-40] Harrison Free Throw 2 of 2 (11 PTS),0,-80,3,,204330,,1611661319,30,40,2
+00:46.1,[PHO 42-30] Griner Hook Shot: Made (12 PTS) Assist: Talbot (2 AST),9,65,1,,203398,203855,1611661317,30,42,2
+00:46.1,[SAN] de Souza Foul: Shooting (2 PF) (1 FTA),9,65,6,203398,100812,,1611661319,30,42,2
+00:46.1,[PHO 43-30] Griner Free Throw 1 of 1 (13 PTS),0,-80,3,,203398,,1611661317,30,43,2
+00:28.6,[SAN 32-43] de Souza Layup Shot: Made (2 PTS) Assist: Holmes (1 AST),-7,-5,1,,100812,201530,1611661319,32,43,2
+00:14.4,[SAN] Harrison Foul: Defense 3 Second (1 PF),0,-80,6,,204330,,1611661319,32,43,2
+00:14.4,[PHO 44-32] Taurasi Free Throw Technical (6 PTS),0,-80,3,,100940,,1611661317,32,44,2
+00:06.2,[PHO] Mitchell Foul: Offensive (2 PF),105,126,6,201530,201507,,1611661317,32,44,2
+00:06.2,[PHO] Mitchell Turnover : Foul (2 TO),0,-80,5,,201507,,1611661317,32,44,2
+00:00.6,[PHO] Cannon Foul: Personal (1 PF) (2 FTA),-6,249,6,200673,1628242,,1611661317,32,44,2
+00:00.6,[SAN 33-44] Currie Free Throw 1 of 2 (3 PTS),0,-80,3,,200673,,1611661319,33,44,2
+00:00.6,[SAN 34-44] Currie Free Throw 2 of 2 (4 PTS),0,-80,3,,200673,,1611661319,34,44,2
+00:00.0,End Period,0,-80,13,,0,,0,34,44,2
+10:00,Start Period,0,-80,12,,0,,0,34,44,3
+09:46,[SAN 36-44] Harrison Cutting Finger Roll Layup Shot: Made (13 PTS) Assist: Colson (2 AST),-2,2,1,,204330,202641,1611661319,36,44,3
+09:46,[PHO] Griner Foul: Shooting Block (3 PF) (1 FTA),-2,2,6,204330,203398,,1611661317,36,44,3
+09:46,[SAN] Harrison Free Throw 1 of 1 Missed,0,-80,3,,204330,,1611661319,36,44,3
+09:44,[PHO] Griner Rebound (Off:2 Def:4),0,-80,4,,203398,,1611661317,36,44,3
+09:33,[PHO] Taurasi 3pt Shot: Missed,-186,144,2,,100940,,1611661317,36,44,3
+09:32,[SAN] Holmes Rebound (Off:0 Def:1),0,-80,4,,201530,,1611661319,36,44,3
+09:18,[SAN 38-44] Colson Jump Shot: Made (2 PTS),-124,90,1,,202641,,1611661319,38,44,3
+08:54,[PHO 46-38] Little Turnaround Jump Shot: Made (5 PTS),104,41,1,,201067,,1611661317,38,46,3
+08:36,Jump Ball Harrison vs Little (Montgomery gains possession),0,-80,10,201067,204330,202652,1611661319,38,46,3
+08:28,[SAN] Montgomery 3pt Shot: Missed,-94,223,2,,202652,,1611661319,38,46,3
+08:27,[PHO] Griner Rebound (Off:2 Def:5),0,-80,4,,203398,,1611661317,38,46,3
+08:07,[PHO] Robinson Jump Shot: Missed,158,106,2,,202658,,1611661317,38,46,3
+08:07,[SAN] Colson Rebound (Off:1 Def:1),0,-80,4,,202641,,1611661319,38,46,3
+08:02,[SAN 40-46] Montgomery Running Finger Roll Layup Shot: Made (4 PTS) Assist: Colson (3 AST),-2,8,1,,202652,202641,1611661319,40,46,3
+08:02,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,40,46,3
+07:49,[SAN] Montgomery Foul: Personal (2 PF),-1,101,6,100940,202652,,1611661319,40,46,3
+07:43,[PHO] Taurasi Jump Shot: Missed,-129,151,2,,100940,,1611661317,40,46,3
+07:43,[SAN] Team Rebound,0,-80,4,,0,,1611661319,40,46,3
+07:28,[SAN 42-46] de Souza Cutting Finger Roll Layup Shot: Made (4 PTS) Assist: Holmes (2 AST),0,2,1,,100812,201530,1611661319,42,46,3
+07:20,[PHO] Robinson Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,202658,,1611661317,42,46,3
+07:06,[SAN 44-46] Holmes Pullup Jump shot: Made (5 PTS),-110,126,1,,201530,,1611661319,44,46,3
+06:49,[PHO 49-44] Taurasi 3pt Shot: Made (9 PTS) Assist: Little (1 AST),-70,224,1,,100940,201067,1611661317,44,49,3
+06:30,[SAN] Holmes Jump Shot: Missed,168,100,2,,201530,,1611661319,44,49,3
+06:29,[SAN] Holmes Rebound (Off:1 Def:1),0,-80,4,,201530,,1611661319,44,49,3
+06:17,[SAN] de Souza Jump Shot: Missed,63,154,2,,100812,,1611661319,44,49,3
+06:17,[PHO] Little Rebound (Off:0 Def:2),0,-80,4,,201067,,1611661317,44,49,3
+06:11,[PHO] Robinson Turnover : Bad Pass (3 TO) Steal:Colson (1 ST),0,-80,5,202641,202658,,1611661317,44,49,3
+06:00,[SAN] de Souza Jump Shot: Missed Block: Griner (3 BLK),-68,36,2,203398,100812,,1611661319,44,49,3
+05:58,[PHO] Griner Rebound (Off:2 Def:6),0,-80,4,,203398,,1611661317,44,49,3
+05:43,[PHO] Little Turnaround Jump Shot: Missed,32,70,2,,201067,,1611661317,44,49,3
+05:43,[PHO] Talbot Rebound (Off:1 Def:2),0,-80,4,,203855,,1611661317,44,49,3
+05:43,[SAN] Harrison Foul: Shooting (2 PF) (2 FTA),-16,11,6,203855,204330,,1611661319,44,49,3
+05:43,[PHO 50-44] Talbot Free Throw 1 of 2 (3 PTS),0,-80,3,,203855,,1611661317,44,50,3
+05:43,[SAN] de Souza Substitution replaced by Alexander,0,-80,8,,100812,203405,1611661319,44,50,3
+05:43,[SAN] Montgomery Substitution replaced by McBride,0,-80,8,,202652,203825,1611661319,44,50,3
+05:43,[SAN] Holmes Substitution replaced by Currie,0,-80,8,,201530,200673,1611661319,44,50,3
+05:43,[PHO] Robinson Substitution replaced by Mitchell,0,-80,8,,202658,201507,1611661317,44,50,3
+05:43,[PHO 51-44] Talbot Free Throw 2 of 2 (4 PTS),0,-80,3,,203855,,1611661317,44,51,3
+05:22,[SAN] McBride Turnover : Bad Pass (4 TO) Steal:Griner (1 ST),0,-80,5,203398,203825,,1611661319,44,51,3
+05:05,[PHO] Taurasi 3pt Shot: Missed Block: Currie (1 BLK),48,223,2,200673,100940,,1611661317,44,51,3
+05:03,[PHO] Talbot Rebound (Off:2 Def:2),0,-80,4,,203855,,1611661317,44,51,3
+04:59,[PHO] Griner Jump Shot: Missed,-96,154,2,,203398,,1611661317,44,51,3
+04:58,[PHO] Talbot Rebound (Off:3 Def:2),0,-80,4,,203855,,1611661317,44,51,3
+04:51,[PHO 53-44] Griner Layup Shot: Made (15 PTS) Assist: Mitchell (2 AST),-11,-5,1,,203398,201507,1611661317,44,53,3
+04:51,[SAN] Colson Foul: Shooting Block (3 PF) (1 FTA),-11,-5,6,203398,202641,,1611661319,44,53,3
+04:51,[SAN] Harrison Substitution replaced by Coffey,0,-80,8,,204330,1628269,1611661319,44,53,3
+04:51,[PHO] Griner Free Throw 1 of 1 Missed,0,-80,3,,203398,,1611661317,44,53,3
+04:50,[SAN] Coffey Rebound (Off:1 Def:1),0,-80,4,,1628269,,1611661319,44,53,3
+04:40,[SAN 46-53] Alexander Jump Shot: Made (2 PTS) Assist: Currie (3 AST),122,101,1,,203405,200673,1611661319,46,53,3
+04:27,[SAN] McBride Foul: Personal (2 PF),55,105,6,100940,203825,,1611661319,46,53,3
+04:15,[PHO] Taurasi Floating Jump shot: Missed,-1,56,2,,100940,,1611661317,46,53,3
+04:13,[SAN] Alexander Rebound (Off:0 Def:1),0,-80,4,,203405,,1611661319,46,53,3
+04:05,[SAN] Currie Pullup Jump shot: Missed,107,183,2,,200673,,1611661319,46,53,3
+04:05,[PHO] Taurasi Rebound (Off:1 Def:1),0,-80,4,,100940,,1611661317,46,53,3
+04:05,[SAN] Coffey Foul: Loose Ball (2 PF) (2 FTA),-20,28,6,100940,1628269,,1611661319,46,53,3
+04:05,[PHO 54-46] Taurasi Free Throw 1 of 2 (10 PTS),0,-80,3,,100940,,1611661317,46,54,3
+04:05,[PHO 55-46] Taurasi Free Throw 2 of 2 (11 PTS),0,-80,3,,100940,,1611661317,46,55,3
+03:45,[SAN 48-55] Alexander Jump Shot: Made (4 PTS) Assist: McBride (2 AST),15,149,1,,203405,203825,1611661319,48,55,3
+03:32,[PHO] Little Layup Shot: Missed,9,7,2,,201067,,1611661317,48,55,3
+03:31,[PHO] Griner Rebound (Off:3 Def:6),0,-80,4,,203398,,1611661317,48,55,3
+03:31,[PHO 57-48] Griner Putback Layup Shot: Made (17 PTS),-2,-10,1,,203398,,1611661317,48,57,3
+03:31,[SAN] Alexander Foul: Shooting (1 PF) (1 FTA),-2,-10,6,203398,203405,,1611661319,48,57,3
+03:31,[PHO] Little Substitution replaced by George,0,-80,8,,201067,204297,1611661317,48,57,3
+03:31,[PHO] Talbot Substitution replaced by Prince,0,-80,8,,203855,1628297,1611661317,48,57,3
+03:31,[PHO 58-48] Griner Free Throw 1 of 1 (18 PTS),0,-80,3,,203398,,1611661317,48,58,3
+03:06,[SAN] McBride Pullup Jump shot: Missed,102,144,2,,203825,,1611661319,48,58,3
+03:05,[SAN] Currie Rebound (Off:2 Def:1),0,-80,4,,200673,,1611661319,48,58,3
+03:00,[SAN] Currie 3pt Shot: Missed,218,80,2,,200673,,1611661319,48,58,3
+03:00,[SAN] Team Rebound,0,-80,4,,0,,1611661319,48,58,3
+03:00,[PHO] Mitchell Foul: Personal (3 PF),71,36,6,1628269,201507,,1611661317,48,58,3
+02:58,[SAN] Alexander Foul: Offensive (2 PF),133,85,6,100940,203405,,1611661319,48,58,3
+02:58,[SAN] Alexander Turnover : Foul (1 TO),0,-80,5,,203405,,1611661319,48,58,3
+02:49,[SAN] Alexander Foul: Personal (3 PF) (2 FTA),30,105,6,203398,203405,,1611661319,48,58,3
+02:49,[PHO 59-48] Griner Free Throw 1 of 2 (19 PTS),0,-80,3,,203398,,1611661317,48,59,3
+02:49,[SAN] Alexander Substitution replaced by de Souza,0,-80,8,,203405,100812,1611661319,48,59,3
+02:49,[PHO 60-48] Griner Free Throw 2 of 2 (20 PTS),0,-80,3,,203398,,1611661317,48,60,3
+02:34,[SAN] Currie Jump Shot: Missed Block: George (2 BLK),-63,41,2,204297,200673,,1611661319,48,60,3
+02:34,[SAN] Team Rebound,0,-80,4,,0,,1611661319,48,60,3
+02:27,[SAN] Coffey Jump Shot: Missed,-56,170,2,,1628269,,1611661319,48,60,3
+02:26,[PHO] George Rebound (Off:0 Def:3),0,-80,4,,204297,,1611661317,48,60,3
+02:17,[PHO] Prince 3pt Shot: Missed,-237,11,2,,1628297,,1611661317,48,60,3
+02:16,[SAN] Coffey Rebound (Off:1 Def:2),0,-80,4,,1628269,,1611661319,48,60,3
+02:05,[SAN] McBride Cutting Finger Roll Layup Shot: Missed Block: Griner (4 BLK),9,-1,2,203398,203825,,1611661319,48,60,3
+02:03,[PHO] Griner Rebound (Off:3 Def:7),0,-80,4,,203398,,1611661317,48,60,3
+01:58,[PHO] Prince Turnover : Bad Pass (1 TO) Steal:Currie (1 ST),0,-80,5,200673,1628297,,1611661317,48,60,3
+01:53,[SAN 50-60] Currie Running Finger Roll Layup Shot: Made (6 PTS),-6,-10,1,,200673,,1611661319,50,60,3
+01:43,[SAN] Currie Foul: Personal (2 PF) (2 FTA),-124,169,6,100940,200673,,1611661319,50,60,3
+01:43,[PHO 61-50] Taurasi Free Throw 1 of 2 (12 PTS),0,-80,3,,100940,,1611661317,50,61,3
+01:43,[SAN] Currie Substitution replaced by Montgomery,0,-80,8,,200673,202652,1611661319,50,61,3
+01:43,[SAN] Colson Substitution replaced by Holmes,0,-80,8,,202641,201530,1611661319,50,61,3
+01:43,[PHO 62-50] Taurasi Free Throw 2 of 2 (13 PTS),0,-80,3,,100940,,1611661317,50,62,3
+01:26,[SAN] de Souza Jump Shot: Missed,42,31,2,,100812,,1611661319,50,62,3
+01:26,[PHO] Prince Rebound (Off:0 Def:2),0,-80,4,,1628297,,1611661317,50,62,3
+01:16,[PHO] Taurasi Jump Shot: Missed,-22,193,2,,100940,,1611661317,50,62,3
+01:15,[SAN] McBride Rebound (Off:1 Def:2),0,-80,4,,203825,,1611661319,50,62,3
+01:10,[SAN] Holmes 3pt Shot: Missed,-156,174,2,,201530,,1611661319,50,62,3
+01:10,[SAN] Team Rebound,0,-80,4,,0,,1611661319,50,62,3
+01:10,[PHO] Taurasi Substitution replaced by Robinson,0,-80,8,,100940,202658,1611661317,50,62,3
+01:10,[PHO] Griner Substitution replaced by Little,0,-80,8,,203398,201067,1611661317,50,62,3
+01:10,[SAN] Coffey Substitution replaced by Harrison,0,-80,8,,1628269,204330,1611661319,50,62,3
+01:07,[SAN 52-62] McBride Jump Shot: Made (9 PTS) Assist: de Souza (1 AST),6,61,1,,203825,100812,1611661319,52,62,3
+01:07,[PHO] Prince Foul: Shooting (1 PF) (1 FTA),6,61,6,203825,1628297,,1611661317,52,62,3
+01:07,[SAN 53-62] McBride Free Throw 1 of 1 (10 PTS),0,-80,3,,203825,,1611661319,53,62,3
+00:54.9,[PHO] Mitchell Jump Shot: Missed,-135,85,2,,201507,,1611661317,53,62,3
+00:54.0,[SAN] Montgomery Rebound (Off:2 Def:6),0,-80,4,,202652,,1611661319,53,62,3
+00:38.5,[SAN 55-62] McBride Jump Shot: Made (12 PTS) Assist: Harrison (1 AST),101,154,1,,203825,204330,1611661319,55,62,3
+00:29.4,[PHO 65-55] George 3pt Shot: Made (6 PTS) Assist: Mitchell (3 AST),-143,180,1,,204297,201507,1611661317,55,65,3
+00:11.2,[SAN] McBride Turnover : Lost Ball (5 TO) Steal:Mitchell (1 ST),0,-80,5,201507,203825,,1611661319,55,65,3
+00:07.8,[SAN] Montgomery Foul: Shooting (3 PF) (2 FTA),-6,16,6,202658,202652,,1611661319,55,65,3
+00:07.8,[PHO] Robinson Free Throw 1 of 2 Missed,0,-80,3,,202658,,1611661317,55,65,3
+00:07.8,[PHO] Team Rebound,0,-80,4,,0,,1611661317,55,65,3
+00:07.8,[SAN] Holmes Substitution replaced by Currie,0,-80,8,,201530,200673,1611661319,55,65,3
+00:07.8,[PHO] Mitchell Substitution replaced by Turner,0,-80,8,,201507,203389,1611661317,55,65,3
+00:07.8,[PHO 66-55] Robinson Free Throw 2 of 2 (8 PTS),0,-80,3,,202658,,1611661317,55,66,3
+00:00.0,[SAN] Montgomery 3pt Shot: Missed,212,126,2,,202652,,1611661319,55,66,3
+00:00.0,[SAN] Team Rebound,0,-80,4,,0,,1611661319,55,66,3
+00:00.0,End Period,0,-80,13,,0,,0,55,66,3
+10:00,Start Period,0,-80,12,,0,,0,55,66,4
+09:35,[PHO] Robinson Driving Finger Roll Layup Shot: Missed,-7,-1,2,,202658,,1611661317,55,66,4
+09:32,[SAN] McBride Rebound (Off:1 Def:3),0,-80,4,,203825,,1611661319,55,66,4
+09:21,[SAN] Hamby Foul: Offensive (2 PF),32,31,6,203855,204324,,1611661319,55,66,4
+09:21,[SAN] Hamby Turnover : Foul (1 TO),0,-80,5,,204324,,1611661319,55,66,4
+09:06,[PHO] Turner 3pt Shot: Missed,-184,144,2,,203389,,1611661317,55,66,4
+09:05,[PHO] Talbot Rebound (Off:4 Def:2),0,-80,4,,203855,,1611661317,55,66,4
+09:02,[PHO] Robinson Turnover : Bad Pass (4 TO) Steal:McBride (1 ST),0,-80,5,203825,202658,,1611661317,55,66,4
+08:51,[SAN 58-66] Montgomery 3pt Shot: Made (7 PTS) Assist: McBride (3 AST),220,77,1,,202652,203825,1611661319,58,66,4
+08:35,[PHO] Little Layup Shot: Missed Block: Harrison (1 BLK),-7,3,2,204330,201067,,1611661317,58,66,4
+08:35,[PHO] Team Rebound,0,-80,4,,0,,1611661317,58,66,4
+08:30,[PHO] Talbot Jump Shot: Missed,171,36,2,,203855,,1611661317,58,66,4
+08:30,[PHO] Turner Rebound (Off:1 Def:0),0,-80,4,,203389,,1611661317,58,66,4
+08:30,[PHO] Turner Turnover : Out of Bounds Lost Ball Turnover (2 TO),0,-80,5,,203389,,1611661317,58,66,4
+08:10,[SAN 60-66] Hamby Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Currie (4 AST),2,2,1,,204324,200673,1611661319,60,66,4
+07:47,[PHO] Little Jump Bank Shot: Missed,66,23,2,,201067,,1611661317,60,66,4
+07:47,[SAN] McBride Rebound (Off:1 Def:4),0,-80,4,,203825,,1611661319,60,66,4
+07:41,[PHO] Turner Foul: Personal (1 PF),148,16,6,200673,203389,,1611661317,60,66,4
+07:41,[PHO] Turner Substitution replaced by Taurasi,0,-80,8,,203389,100940,1611661317,60,66,4
+07:41,[PHO] George Substitution replaced by Griner,0,-80,8,,204297,203398,1611661317,60,66,4
+07:37,[SAN] McBride Jump Shot: Missed,145,8,2,,203825,,1611661319,60,66,4
+07:36,[PHO] Robinson Rebound (Off:0 Def:3),0,-80,4,,202658,,1611661317,60,66,4
+07:30,[SAN] McBride Foul: Shooting Block (3 PF) (2 FTA),2,11,6,202658,203825,,1611661319,60,66,4
+07:30,[PHO 67-60] Robinson Free Throw 1 of 2 (9 PTS),0,-80,3,,202658,,1611661317,60,67,4
+07:30,[SAN] McBride Substitution replaced by Holmes,0,-80,8,,203825,201530,1611661319,60,67,4
+07:30,[PHO 68-60] Robinson Free Throw 2 of 2 (10 PTS),0,-80,3,,202658,,1611661317,60,68,4
+07:18,[SAN] Montgomery Turnover : Lost Ball (2 TO) Steal:Robinson (2 ST),0,-80,5,202658,202652,,1611661319,60,68,4
+07:15,[SAN] Hamby Foul: Shooting (3 PF) (2 FTA),-4,3,6,202658,204324,,1611661319,60,68,4
+07:15,[PHO 69-60] Robinson Free Throw 1 of 2 (11 PTS),0,-80,3,,202658,,1611661317,60,69,4
+07:15,[SAN] Currie Substitution replaced by Colson,0,-80,8,,200673,202641,1611661319,60,69,4
+07:15,[PHO 70-60] Robinson Free Throw 2 of 2 (12 PTS),0,-80,3,,202658,,1611661317,60,70,4
+07:01,[PHO] Little Foul: Shooting (2 PF) (2 FTA),1,-5,6,204330,201067,,1611661317,60,70,4
+07:01,[SAN 61-70] Harrison Free Throw 1 of 2 (14 PTS),0,-80,3,,204330,,1611661319,61,70,4
+07:01,[SAN 62-70] Harrison Free Throw 2 of 2 (15 PTS),0,-80,3,,204330,,1611661319,62,70,4
+06:51,[SAN] Harrison Foul: Personal (3 PF),-148,116,6,203398,204330,,1611661319,62,70,4
+06:43,[PHO] Little Layup Shot: Missed Block: Holmes (1 BLK),-19,16,2,201530,201067,,1611661317,62,70,4
+06:40,[SAN] Montgomery Rebound (Off:2 Def:7),0,-80,4,,202652,,1611661319,62,70,4
+06:34,[SAN] Holmes Jump Shot: Missed,58,160,2,,201530,,1611661319,62,70,4
+06:33,[PHO] Griner Rebound (Off:3 Def:8),0,-80,4,,203398,,1611661317,62,70,4
+06:22,[PHO] Talbot 3pt Shot: Missed,-227,26,2,,203855,,1611661317,62,70,4
+06:21,[SAN] Montgomery Rebound (Off:2 Def:8),0,-80,4,,202652,,1611661319,62,70,4
+06:09,[SAN] Holmes Jump Shot: Missed,-89,151,2,,201530,,1611661319,62,70,4
+06:08,[PHO] Griner Rebound (Off:3 Def:9),0,-80,4,,203398,,1611661317,62,70,4
+05:47,[PHO] Griner Turnaround Bank shot: Missed,-16,52,2,,203398,,1611661317,62,70,4
+05:45,[SAN] Colson Rebound (Off:1 Def:2),0,-80,4,,202641,,1611661319,62,70,4
+05:27,[SAN] Colson Turnover : Bad Pass (2 TO) Steal:Little (1 ST),0,-80,5,201067,202641,,1611661319,62,70,4
+05:08,[PHO] Little 3pt Shot: Missed,-107,205,2,,201067,,1611661317,62,70,4
+05:07,[SAN] Montgomery Rebound (Off:2 Def:9),0,-80,4,,202652,,1611661319,62,70,4
+04:50,[PHO] Little Foul: Shooting (3 PF) (2 FTA),6,36,6,204324,201067,,1611661317,62,70,4
+04:50,Timeout : Official,0,-80,9,,0,,0,62,70,4
+04:50,[SAN] Montgomery Substitution replaced by Currie,0,-80,8,,202652,200673,1611661319,62,70,4
+04:50,[SAN] Holmes Substitution replaced by McBride,0,-80,8,,201530,203825,1611661319,62,70,4
+04:50,[PHO] Robinson Substitution replaced by Mitchell,0,-80,8,,202658,201507,1611661317,62,70,4
+04:50,[SAN] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,62,70,4
+04:50,[SAN] Team Rebound,0,-80,4,,0,,1611661319,62,70,4
+04:50,[SAN 63-70] Hamby Free Throw 2 of 2 (3 PTS),0,-80,3,,204324,,1611661319,63,70,4
+04:40,[PHO] Mitchell Turnover : Traveling (3 TO),0,-80,5,,201507,,1611661317,63,70,4
+04:40,[SAN] Hamby Substitution replaced by de Souza,0,-80,8,,204324,100812,1611661319,63,70,4
+04:12,[SAN] McBride Turnover : Bad Pass (6 TO) Steal:Griner (2 ST),0,-80,5,203398,203825,,1611661319,63,70,4
+04:01,[SAN] Currie Foul: Personal (3 PF),-145,7,6,100940,200673,,1611661319,63,70,4
+03:58,[SAN] Currie Foul: Shooting (4 PF) (3 FTA),-205,100,6,100940,200673,,1611661319,63,70,4
+03:58,[PHO 71-63] Taurasi Free Throw 1 of 3 (14 PTS),0,-80,3,,100940,,1611661317,63,71,4
+03:58,[PHO 72-63] Taurasi Free Throw 2 of 3 (15 PTS),0,-80,3,,100940,,1611661317,63,72,4
+03:58,[PHO 73-63] Taurasi Free Throw 3 of 3 (16 PTS),0,-80,3,,100940,,1611661317,63,73,4
+03:50,[PHO] Little Foul: Personal (4 PF),-86,169,6,204330,201067,,1611661317,63,73,4
+03:50,[SAN] Team Timeout : Regular,0,-80,9,,0,,1611661319,63,73,4
+03:50,[PHO] Little Substitution replaced by George,0,-80,8,,201067,204297,1611661317,63,73,4
+03:36,[PHO] Griner Foul: Shooting (4 PF) (2 FTA),-6,23,6,204330,203398,,1611661317,63,73,4
+03:36,[SAN] Harrison Free Throw 1 of 2 Missed,0,-80,3,,204330,,1611661319,63,73,4
+03:36,[SAN] Team Rebound,0,-80,4,,0,,1611661319,63,73,4
+03:36,[SAN 64-73] Harrison Free Throw 2 of 2 (16 PTS),0,-80,3,,204330,,1611661319,64,73,4
+03:32,[SAN] Colson Foul: Personal (4 PF) (2 FTA),105,458,6,201507,202641,,1611661319,64,73,4
+03:32,[PHO 74-64] Mitchell Free Throw 1 of 2 (11 PTS),0,-80,3,,201507,,1611661317,64,74,4
+03:32,[PHO] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,201507,,1611661317,64,74,4
+03:30,[SAN] Currie Rebound (Off:2 Def:2),0,-80,4,,200673,,1611661319,64,74,4
+03:08,[SAN] de Souza Hook Shot: Missed,-9,-5,2,,100812,,1611661319,64,74,4
+03:06,[PHO] Talbot Rebound (Off:4 Def:3),0,-80,4,,203855,,1611661317,64,74,4
+02:48,[PHO] George Jump Shot: Missed,202,-11,2,,204297,,1611661317,64,74,4
+02:47,[SAN] de Souza Rebound (Off:2 Def:4),0,-80,4,,100812,,1611661319,64,74,4
+02:38,[SAN] de Souza Jump Bank Shot: Missed,64,18,2,,100812,,1611661319,64,74,4
+02:38,[SAN] Team Rebound,0,-80,4,,0,,1611661319,64,74,4
+02:38,[SAN] Colson Substitution replaced by Montgomery,0,-80,8,,202641,202652,1611661319,64,74,4
+02:38,[SAN] de Souza Substitution replaced by Alexander,0,-80,8,,100812,203405,1611661319,64,74,4
+02:31,[SAN 66-74] Currie Driving Bank shot: Made (8 PTS),35,13,1,,200673,,1611661319,66,74,4
+02:13,[PHO] Mitchell Layup Shot: Missed,-4,-6,2,,201507,,1611661317,66,74,4
+02:12,[SAN] Alexander Rebound (Off:0 Def:2),0,-80,4,,203405,,1611661319,66,74,4
+01:59,[SAN] Harrison Layup Shot: Missed,9,11,2,,204330,,1611661319,66,74,4
+01:59,[PHO] George Rebound (Off:0 Def:4),0,-80,4,,204297,,1611661317,66,74,4
+01:38,[PHO] Talbot 3pt Shot: Missed,-196,115,2,,203855,,1611661317,66,74,4
+01:37,[SAN] Montgomery Rebound (Off:2 Def:10),0,-80,4,,202652,,1611661319,66,74,4
+01:31,[PHO] Griner Foul: Personal (5 PF) (2 FTA),28,26,6,203405,203398,,1611661317,66,74,4
+01:31,[SAN 67-74] Alexander Free Throw 1 of 2 (5 PTS),0,-80,3,,203405,,1611661319,67,74,4
+01:31,[SAN 68-74] Alexander Free Throw 2 of 2 (6 PTS),0,-80,3,,203405,,1611661319,68,74,4
+01:19,[SAN] McBride Foul: Personal (4 PF) (2 FTA),27,193,6,100940,203825,,1611661319,68,74,4
+01:19,[PHO] Taurasi Free Throw 1 of 2 Missed,0,-80,3,,100940,,1611661317,68,74,4
+01:19,[PHO] Team Rebound,0,-80,4,,0,,1611661317,68,74,4
+01:19,[PHO 75-68] Taurasi Free Throw 2 of 2 (17 PTS),0,-80,3,,100940,,1611661317,68,75,4
+01:07,[SAN 70-75] Alexander Hook Shot: Made (8 PTS) Assist: Montgomery (2 AST),97,31,1,,203405,202652,1611661319,70,75,4
+01:07,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,70,75,4
+01:07,[PHO] Talbot Substitution replaced by Robinson,0,-80,8,,203855,202658,1611661317,70,75,4
+01:07,[PHO] George Substitution replaced by Little,0,-80,8,,204297,201067,1611661317,70,75,4
+00:51.7,[PHO 78-70] Mitchell 3pt Shot: Made (14 PTS) Assist: Robinson (5 AST),-230,2,1,,201507,202658,1611661317,70,78,4
+00:34.9,[SAN] Harrison Jump Shot: Missed,-63,164,2,,204330,,1611661319,70,78,4
+00:34.9,[PHO] Griner Rebound (Off:3 Def:10),0,-80,4,,203398,,1611661317,70,78,4
+00:11.4,[PHO] Little Turnover : Bad Pass (1 TO) Steal:McBride (2 ST),0,-80,5,203825,201067,,1611661317,70,78,4
+00:08.8,[SAN 72-78] McBride Running Finger Roll Layup Shot: Made (14 PTS),-1,7,1,,203825,,1611661319,72,78,4
+00:00.0,End Period,0,-80,13,,0,,0,72,78,4

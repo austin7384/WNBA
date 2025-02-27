@@ -1,0 +1,428 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Mack vs Magbegor (Taurasi gains possession),0,-80,10,1629496,1630442,100940,1611661317,0,0,0,1
+09:46,[PHO] Taurasi 3pt Shot: Missed,207,114,2,,100940,,1611661317,0,0,0,1
+09:42,[SEA] Magbegor Rebound (Off:0 Def:1),207,114,4,,1629496,,1611661328,0,0,0,1
+09:34,[SEA] Vivians Pullup Jump shot: Missed,-151,103,2,,1628927,,1611661328,0,0,0,1
+09:30,[PHO] Copper Rebound (Off:0 Def:1),-151,103,4,,1627674,,1611661317,0,0,0,1
+09:23,[PHO] Mack Layup Shot: Missed Block: Magbegor (1 BLK),27,13,2,1629496,1630442,,1611661317,0,0,0,1
+09:22,[PHO] Team Rebound,27,13,4,,0,,1611661317,0,0,0,1
+09:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:20,[PHO] Cloud Turnover : Bad Pass (1 TO) Steal:Russell (1 ST),216,281,5,1628920,204333,,1611661317,0,0,0,1
+09:13,[SEA] Magbegor Turnover : Lost Ball (1 TO) Steal:Cloud (1 ST),-32,49,5,204333,1629496,,1611661328,0,0,0,1
+09:07,[PHO 2-0] Cloud Running Layup Shot: Made (2 PTS),-26,6,1,,204333,,1611661317,0,2,2,1
+08:51,[SEA 2-2] Magbegor Turnaround Jump Shot: Made (2 PTS) Assist: Vivians (1 AST),43,69,1,,1629496,1628927,1611661328,2,2,2,1
+08:38,[PHO 4-2] Cloud Step Back Jump shot: Made (4 PTS),34,162,1,,204333,,1611661317,2,4,2,1
+08:26,[SEA 4-4] Magbegor Layup Shot: Made (4 PTS) Assist: Loyd (1 AST),-23,9,1,,1629496,204319,1611661328,4,4,2,1
+08:08,[PHO] Copper Driving Floating Jump Shot: Missed,11,66,2,,1627674,,1611661317,4,4,0,1
+08:04,[SEA] Loyd Rebound (Off:0 Def:1),11,66,4,,204319,,1611661328,4,4,0,1
+07:57,[PHO] Cloud Foul: Shooting (1 PF) (2 FTA),18,31,6,204319,204333,1641521,1611661317,4,4,0,1
+07:57,[SEA 5-4] Loyd Free Throw 1 of 2 (1 PTS),0,-80,3,,204319,,1611661328,5,4,1,1
+07:57,[SEA 6-4] Loyd Free Throw 2 of 2 (2 PTS),0,-80,3,,204319,,1611661328,6,4,1,1
+07:43,[PHO] Copper Pullup Jump shot: Missed,-48,174,2,,1627674,,1611661317,6,4,0,1
+07:40,[SEA] Russell Rebound (Off:0 Def:1),-48,174,4,,1628920,,1611661328,6,4,0,1
+07:30,[SEA] Magbegor Turnover : Bad Pass (2 TO) Steal:Copper (1 ST),82,149,5,1627674,1629496,,1611661328,6,4,0,1
+07:23,[PHO] Copper Turnover : Lost Ball (1 TO) Steal:Diggins-Smith (1 ST),82,78,5,203400,1627674,,1611661317,6,4,0,1
+07:17,[SEA] Diggins-Smith Driving Floating Jump Shot: Missed,10,81,2,,203400,,1611661328,6,4,0,1
+07:13,[PHO] Mack Rebound (Off:0 Def:1),10,81,4,,1630442,,1611661317,6,4,0,1
+07:09,[PHO] Cloud Turnover : Bad Pass (2 TO) Steal:Loyd (1 ST),90,239,5,204319,204333,,1611661317,6,4,0,1
+07:06,[SEA 8-4] Loyd Running Layup Shot: Made (4 PTS),18,17,1,,204319,,1611661328,8,4,2,1
+06:48,[PHO] Taurasi 3pt Shot: Missed,118,215,2,,100940,,1611661317,8,4,0,1
+06:44,[SEA] Vivians Rebound (Off:0 Def:1),118,215,4,,1628927,,1611661328,8,4,0,1
+06:33,[PHO] Mack Foul: Shooting (1 PF) (2 FTA),0,87,6,1628920,1630442,100697,1611661317,8,4,0,1
+06:33,[SEA] Russell Free Throw 1 of 2 Missed,0,-80,3,,1628920,,1611661328,8,4,0,1
+06:33,[SEA] Team Rebound,0,-80,4,,0,,1611661328,8,4,0,1
+06:33,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,8,4,0,1
+06:33,[SEA] Russell Free Throw 2 of 2 Missed,0,-80,3,,1628920,,1611661328,8,4,0,1
+06:31,[PHO] Dixon Rebound (Off:0 Def:1),0,-80,4,,1641700,,1611661317,8,4,0,1
+06:20,[PHO] Cunningham Foul: Offensive (1 PF),-184,144,6,204319,1629482,1628952,1611661317,8,4,0,1
+06:20,[PHO] Cunningham Turnover : Offensive Foul Turnover (1 TO),-184,144,5,,1629482,1628952,1611661317,8,4,0,1
+06:02,[SEA] Loyd Finger Roll Layup Shot: Missed Block: Cloud (1 BLK),-38,47,2,204333,204319,,1611661328,8,4,0,1
+06:01,[SEA] Team Rebound,-38,47,4,,0,,1611661328,8,4,0,1
+06:00,Timeout : Official,0,-80,9,,0,,0,8,4,0,1
+06:00,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661317,8,4,0,1
+05:53,[SEA] Loyd Floating Jump shot: Missed,-95,10,2,,204319,,1611661328,8,4,0,1
+05:51,[SEA] Magbegor Rebound (Off:1 Def:1),-95,10,4,,1629496,,1611661328,8,4,0,1
+05:50,[SEA 10-4] Magbegor Putback Layup Shot: Made (6 PTS),17,10,1,,1629496,,1611661328,10,4,2,1
+05:34,[PHO] Copper Pullup Jump shot: Missed,130,142,2,,1627674,,1611661317,10,4,0,1
+05:34,[SEA] Russell Rebound (Off:0 Def:2),130,142,4,,1628920,,1611661328,10,4,0,1
+05:15,[SEA 12-4] Magbegor Pullup Jump shot: Made (8 PTS) Assist: Vivians (2 AST),20,101,1,,1629496,1628927,1611661328,12,4,2,1
+04:52,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,4,0,1
+04:52,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,12,4,0,1
+04:49,[PHO] Team Turnover : Shot Clock Turnover,71,258,5,,0,1628952,1611661317,12,4,0,1
+04:36,[SEA] Vivians 3pt Shot: Missed,-69,244,2,,1628927,,1611661328,12,4,0,1
+04:31,[PHO] Cloud Rebound (Off:0 Def:1),-69,244,4,,204333,,1611661317,12,4,0,1
+04:17,[PHO] Cloud 3pt Shot: Missed,-172,173,2,,204333,,1611661317,12,4,0,1
+04:13,[SEA] Diggins-Smith Rebound (Off:0 Def:1),-172,173,4,,203400,,1611661328,12,4,0,1
+04:05,Jump Ball Magbegor vs Cloud (Loyd gains possession),0,-80,10,204333,1629496,204319,1611661328,12,4,0,1
+04:05,[SEA] Russell Substitution replaced by Holmes,0,-80,8,,1628920,1630115,1611661328,12,4,0,1
+03:53,[SEA 14-4] Diggins-Smith Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Loyd (2 AST),-45,57,1,,203400,204319,1611661328,14,4,2,1
+03:42,[SEA] Magbegor Foul: Shooting (1 PF) (2 FTA),-7,61,6,1641700,1629496,100697,1611661328,14,4,0,1
+03:42,[PHO 5-14] Dixon Free Throw 1 of 2 (1 PTS),0,-80,3,,1641700,,1611661317,14,5,1,1
+03:42,[SEA] Vivians Substitution replaced by Horston,0,-80,8,,1628927,1641651,1611661328,14,5,0,1
+03:42,[PHO] Cunningham Substitution replaced by Herbert Harrigan,0,-80,8,,1629482,1630114,1611661317,14,5,0,1
+03:42,[PHO 6-14] Dixon Free Throw 2 of 2 (2 PTS),0,-80,3,,1641700,,1611661317,14,6,1,1
+03:30,[SEA] Horston 3pt Shot: Missed,235,64,2,,1641651,,1611661328,14,6,0,1
+03:28,[SEA] Team Rebound,235,64,4,,0,,1611661328,14,6,0,1
+03:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,6,0,1
+03:21,[SEA] Diggins-Smith Floating Jump shot: Missed,16,130,2,,203400,,1611661328,14,6,0,1
+03:18,[PHO] Dixon Rebound (Off:0 Def:2),16,130,4,,1641700,,1611661317,14,6,0,1
+03:10,[PHO] Cloud Pullup Jump shot: Missed,-18,130,2,,204333,,1611661317,14,6,0,1
+03:05,[PHO] Dixon Rebound (Off:1 Def:2),-18,130,4,,1641700,,1611661317,14,6,0,1
+03:03,[PHO] Copper 3pt Shot: Missed,-181,163,2,,1627674,,1611661317,14,6,0,1
+03:00,[SEA] Loyd Rebound (Off:0 Def:2),-181,163,4,,204319,,1611661328,14,6,0,1
+02:57,[SEA] Loyd 3pt Shot: Missed,-49,241,2,,204319,,1611661328,14,6,0,1
+02:54,[SEA] Magbegor Rebound (Off:2 Def:1),-49,241,4,,1629496,,1611661328,14,6,0,1
+02:53,[SEA 16-6] Magbegor Putback Layup Shot: Made (10 PTS),-15,11,1,,1629496,,1611661328,16,6,2,1
+02:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,6,0,1
+02:35,[SEA] Diggins-Smith Substitution replaced by Whitcomb,0,-80,8,,203400,1628244,1611661328,16,6,0,1
+02:35,[PHO] Copper Substitution replaced by Taurasi,0,-80,8,,1627674,100940,1611661317,16,6,0,1
+02:35,[PHO] Dixon Substitution replaced by Mack,0,-80,8,,1641700,1630442,1611661317,16,6,0,1
+02:28,[PHO] Taurasi 3pt Shot: Missed,-117,225,2,,100940,,1611661317,16,6,0,1
+02:24,[SEA] Loyd Rebound (Off:0 Def:3),-117,225,4,,204319,,1611661328,16,6,0,1
+02:11,[SEA 18-6] Horston Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Whitcomb (1 AST),-65,22,1,,1641651,1628244,1611661328,18,6,2,1
+02:00,[PHO 9-18] Herbert Harrigan 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),230,3,1,,1630114,204333,1611661317,18,9,3,1
+01:45,[SEA 20-9] Loyd Driving Floating Bank Jump Shot: Made (6 PTS),-54,20,1,,204319,,1611661328,20,9,2,1
+01:26,[PHO 11-20] Mack Jump Shot: Made (2 PTS) Assist: Sutton (1 AST),-118,29,1,,1630442,1630134,1611661317,20,11,2,1
+01:12,[SEA 23-11] Magbegor 3pt Shot: Made (13 PTS) Assist: Holmes (1 AST),77,235,1,,1629496,1630115,1611661328,23,11,3,1
+00:54.8,[PHO] Sutton 3pt Shot: Missed,-232,18,2,,1630134,,1611661317,23,11,0,1
+00:53.9,[SEA] Magbegor Rebound (Off:2 Def:2),-232,18,4,,1629496,,1611661328,23,11,0,1
+00:43.2,[SEA] Horston Running Layup Shot: Missed,32,31,2,,1641651,,1611661328,23,11,0,1
+00:39.2,[PHO] Cloud Rebound (Off:0 Def:2),32,31,4,,204333,,1611661317,23,11,0,1
+00:33.9,[SEA] Holmes Foul: Shooting (1 PF) (2 FTA),163,71,6,1630114,1630115,100697,1611661328,23,11,0,1
+00:33.9,[PHO 12-23] Herbert Harrigan Free Throw 1 of 2 (4 PTS),0,-80,3,,1630114,,1611661317,23,12,1,1
+00:33.9,[SEA] Magbegor Substitution replaced by Russell,0,-80,8,,1629496,1628920,1611661328,23,12,0,1
+00:33.9,[PHO] Herbert Harrigan Free Throw 2 of 2 Missed,0,-80,3,,1630114,,1611661317,23,12,0,1
+00:31.5,[SEA] Horston Rebound (Off:0 Def:1),0,-80,4,,1641651,,1611661328,23,12,0,1
+00:19.5,[SEA 25-12] Horston Layup Shot: Made (4 PTS) Assist: Loyd (3 AST),-28,6,1,,1641651,204319,1611661328,25,12,2,1
+00:02.2,[PHO] Herbert Harrigan 3pt Shot: Missed,-188,168,2,,1630114,,1611661317,25,12,0,1
+00:02.2,[PHO] Team Rebound,-188,168,4,,0,,1611661317,25,12,0,1
+00:00.0,End Period,0,-80,13,,0,,0,25,12,0,1
+10:00,Start Period,0,-80,12,,0,,0,25,12,0,2
+09:43,[SEA] Horston Turnover : Bad Pass (1 TO) Steal:Cloud (2 ST),63,127,5,204333,1641651,,1611661328,25,12,0,2
+09:39,[PHO 14-25] Cloud Running Layup Shot: Made (6 PTS),28,6,1,,204333,,1611661317,25,14,2,2
+09:21,[SEA] Whitcomb Turnover : Out of Bounds - Bad Pass Turnover (1 TO),20,84,5,,1628244,1628952,1611661328,25,14,0,2
+09:21,[SEA] Horston Substitution replaced by Vivians,0,-80,8,,1641651,1628927,1611661328,25,14,0,2
+09:14,[SEA] Diggins-Smith Foul: Shooting (1 PF) (2 FTA),-49,92,6,204333,203400,1628952,1611661328,25,14,0,2
+09:14,[PHO 15-25] Cloud Free Throw 1 of 2 (7 PTS),0,-80,3,,204333,,1611661317,25,15,1,2
+09:14,[PHO 16-25] Cloud Free Throw 2 of 2 (8 PTS),0,-80,3,,204333,,1611661317,25,16,1,2
+09:04,[SEA 27-16] Diggins-Smith Driving Layup Shot: Made (4 PTS) Assist: Russell (1 AST),-75,11,1,,203400,1628920,1611661328,27,16,2,2
+08:45,[PHO 18-27] Herbert Harrigan Driving Layup Shot: Made (6 PTS) Assist: Mack (1 AST),23,6,1,,1630114,1630442,1611661317,27,18,2,2
+08:34,[PHO] Sutton Foul: Shooting (1 PF) (2 FTA),-113,37,6,203400,1630134,100697,1611661317,27,18,0,2
+08:34,[SEA 28-18] Diggins-Smith Free Throw 1 of 2 (5 PTS),0,-80,3,,203400,,1611661328,28,18,1,2
+08:34,[PHO] Cloud Substitution replaced by Cunningham,0,-80,8,,204333,1629482,1611661317,28,18,0,2
+08:34,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,28,18,0,2
+08:34,[PHO] Taurasi Substitution replaced by Copper,0,-80,8,,100940,1627674,1611661317,28,18,0,2
+08:34,[SEA 29-18] Diggins-Smith Free Throw 2 of 2 (6 PTS),0,-80,3,,203400,,1611661328,29,18,1,2
+08:15,[PHO] Herbert Harrigan 3pt Shot: Missed,-16,253,2,,1630114,,1611661317,29,18,0,2
+08:12,[PHO] Team Rebound,-16,253,4,,0,,1611661317,29,18,0,2
+08:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,29,18,0,2
+07:58,[PHO] Dixon Turnover : Traveling (1 TO),93,55,5,,1641700,100697,1611661317,29,18,0,2
+07:48,[SEA] Whitcomb 3pt Shot: Missed,200,135,2,,1628244,,1611661328,29,18,0,2
+07:43,[PHO] Cunningham Rebound (Off:0 Def:1),200,135,4,,1629482,,1611661317,29,18,0,2
+07:36,[PHO] Dixon Cutting Layup Shot: Missed,29,12,2,,1641700,,1611661317,29,18,0,2
+07:36,[SEA] Diggins-Smith Rebound (Off:0 Def:2),29,12,4,,203400,,1611661328,29,18,0,2
+07:30,[SEA 32-18] Vivians 3pt Shot: Made (3 PTS) Assist: Diggins-Smith (1 AST),215,108,1,,1628927,203400,1611661328,32,18,3,2
+07:02,[PHO] Cunningham Turnaround Jump Shot: Missed,-63,90,2,,1629482,,1611661317,32,18,0,2
+07:02,[PHO] Team Rebound,-63,90,4,,0,,1611661317,32,18,0,2
+07:02,[PHO] Team Turnover : Shot Clock Turnover,-23,58,5,,0,1628952,1611661317,32,18,0,2
+07:02,[SEA] Holmes Substitution replaced by Loyd,0,-80,8,,1630115,204319,1611661328,32,18,0,2
+07:02,[SEA] Whitcomb Substitution replaced by Magbegor,0,-80,8,,1628244,1629496,1611661328,32,18,0,2
+07:02,[PHO] Cunningham Substitution replaced by Bertsch,0,-80,8,,1629482,1629571,1611661317,32,18,0,2
+06:41,[SEA 34-18] Russell Layup Shot: Made (2 PTS) Assist: Diggins-Smith (2 AST),12,33,1,,1628920,203400,1611661328,34,18,2,2
+06:41,[PHO] Bertsch Foul: Shooting (1 PF) (1 FTA),12,33,6,1628920,1629571,1628952,1611661317,34,18,0,2
+06:41,[PHO] Herbert Harrigan Substitution replaced by Cloud,0,-80,8,,1630114,204333,1611661317,34,18,0,2
+06:41,[SEA] Russell Free Throw 1 of 1 Missed,0,-80,3,,1628920,,1611661328,34,18,0,2
+06:36,[PHO] Bertsch Rebound (Off:0 Def:1),0,-80,4,,1629571,,1611661317,34,18,0,2
+06:22,[PHO] Bertsch 3pt Shot: Missed,-230,16,2,,1629571,,1611661317,34,18,0,2
+06:18,[SEA] Russell Rebound (Off:0 Def:3),-230,16,4,,1628920,,1611661328,34,18,0,2
+06:09,[PHO] Dixon Foul: Shooting (1 PF) (2 FTA),-51,20,6,1629496,1641700,100697,1611661317,34,18,0,2
+06:09,[SEA 35-18] Magbegor Free Throw 1 of 2 (14 PTS),0,-80,3,,1629496,,1611661328,35,18,1,2
+06:09,[PHO] Sutton Substitution replaced by Taurasi,0,-80,8,,1630134,100940,1611661317,35,18,0,2
+06:09,[SEA 36-18] Magbegor Free Throw 2 of 2 (15 PTS),0,-80,3,,1629496,,1611661328,36,18,1,2
+05:59,[PHO] Copper Turnover : Bad Pass (2 TO) Steal:Magbegor (1 ST),6,136,5,1629496,1627674,,1611661317,36,18,0,2
+05:56,[PHO] Cloud Foul: Shooting (2 PF) (2 FTA),20,13,6,203400,204333,1641521,1611661317,36,18,0,2
+05:56,Timeout : Regular,0,-80,9,,1611661328,,1611661328,36,18,0,2
+05:56,[PHO] Dixon Substitution replaced by Mack,0,-80,8,,1641700,1630442,1611661317,36,18,0,2
+05:56,[SEA 37-18] Diggins-Smith Free Throw 1 of 2 (7 PTS),0,-80,3,,203400,,1611661328,37,18,1,2
+05:56,[SEA 38-18] Diggins-Smith Free Throw 2 of 2 (8 PTS),0,-80,3,,203400,,1611661328,38,18,1,2
+05:44,[PHO 20-38] Taurasi Step Back Jump shot: Made (2 PTS) Assist: Copper (1 AST),128,130,1,,100940,1627674,1611661317,38,20,2,2
+05:28,[SEA] Loyd 3pt Shot: Missed,-207,126,2,,204319,,1611661328,38,20,0,2
+05:24,[PHO] Copper Rebound (Off:0 Def:2),-207,126,4,,1627674,,1611661317,38,20,0,2
+05:12,[PHO] Copper 3pt Shot: Missed Block: Diggins-Smith (1 BLK),-151,188,2,203400,1627674,,1611661317,38,20,0,2
+05:06,[SEA] Vivians Rebound (Off:0 Def:2),-151,188,4,,1628927,,1611661328,38,20,0,2
+05:01,[PHO] Bertsch Foul: Personal (2 PF) (2 FTA),200,64,6,1628920,1629571,100697,1611661317,38,20,0,2
+05:01,[SEA 39-20] Russell Free Throw 1 of 2 (3 PTS),0,-80,3,,1628920,,1611661328,39,20,1,2
+05:01,[PHO] Bertsch Substitution replaced by Cunningham,0,-80,8,,1629571,1629482,1611661317,39,20,0,2
+05:01,[SEA] Russell Free Throw 2 of 2 Missed,0,-80,3,,1628920,,1611661328,39,20,0,2
+04:57,[PHO] Taurasi Rebound (Off:0 Def:1),0,-80,4,,100940,,1611661317,39,20,0,2
+04:50,[PHO 22-39] Cloud Driving Floating Jump Shot: Made (10 PTS),-1,91,1,,204333,,1611661317,39,22,2,2
+04:36,[SEA] Magbegor Layup Shot: Missed Block: Mack (1 BLK),46,30,2,1630442,1629496,,1611661328,39,22,0,2
+04:36,[SEA] Team Rebound,46,30,4,,0,,1611661328,39,22,0,2
+04:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,22,0,2
+04:35,[SEA] Magbegor Jump Shot: Missed,-45,129,2,,1629496,,1611661328,39,22,0,2
+04:34,[SEA] Diggins-Smith Rebound (Off:1 Def:2),-45,129,4,,203400,,1611661328,39,22,0,2
+04:34,[PHO] Cloud Foul: Shooting (3 PF) (2 FTA),55,24,6,203400,204333,1628952,1611661317,39,22,0,2
+04:34,[SEA 40-22] Diggins-Smith Free Throw 1 of 2 (9 PTS),0,-80,3,,203400,,1611661328,40,22,1,2
+04:34,[SEA 41-22] Diggins-Smith Free Throw 2 of 2 (10 PTS),0,-80,3,,203400,,1611661328,41,22,1,2
+04:18,[PHO] Taurasi Driving Layup Shot: Missed,138,58,2,,100940,,1611661317,41,22,0,2
+04:13,[SEA] Vivians Rebound (Off:0 Def:3),138,58,4,,1628927,,1611661328,41,22,0,2
+04:13,[PHO] Cunningham Foul: Shooting (2 PF) (2 FTA),23,15,6,1628927,1629482,1641521,1611661317,41,22,0,2
+04:13,[SEA 42-22] Vivians Free Throw 1 of 2 (4 PTS),0,-80,3,,1628927,,1611661328,42,22,1,2
+04:13,[SEA 43-22] Vivians Free Throw 2 of 2 (5 PTS),0,-80,3,,1628927,,1611661328,43,22,1,2
+04:06,[PHO] Cunningham 3pt Shot: Missed,-87,244,2,,1629482,,1611661317,43,22,0,2
+04:02,[SEA] Russell Rebound (Off:0 Def:4),-87,244,4,,1628920,,1611661328,43,22,0,2
+03:50,[SEA] Diggins-Smith Driving Layup Shot: Missed Block: Mack (2 BLK),6,80,2,1630442,203400,,1611661328,43,22,0,2
+03:50,[PHO] Team Rebound,6,80,4,,0,,1611661317,43,22,0,2
+03:50,[SEA] Magbegor Foul: Loose Ball (2 PF),-4,763,6,1630442,1629496,1628952,1611661328,43,22,0,2
+03:42,[PHO] Copper Driving Layup Shot: Missed Block: Magbegor (2 BLK),1,65,2,1629496,1627674,,1611661317,43,22,0,2
+03:41,[SEA] Loyd Rebound (Off:0 Def:4),1,65,4,,204319,,1611661328,43,22,0,2
+03:32,[SEA] Loyd Driving Floating Jump Shot: Missed,21,64,2,,204319,,1611661328,43,22,0,2
+03:31,[PHO] Copper Rebound (Off:0 Def:3),21,64,4,,1627674,,1611661317,43,22,0,2
+03:25,[PHO 24-43] Copper Running Layup Shot: Made (2 PTS),-23,0,1,,1627674,,1611661317,43,24,2,2
+03:25,[SEA] Diggins-Smith Foul: Shooting (2 PF) (1 FTA),-23,0,6,1627674,203400,1628952,1611661328,43,24,0,2
+03:25,Timeout : Regular,0,-80,9,,1611661328,,1611661328,43,24,0,2
+03:25,InstantReplay Request Stands,0,-80,18,,0,,0,43,24,0,2
+03:25,[PHO] Copper Technical (1 FTA),0,-80,6,,1627674,100697,1611661317,43,24,0,2
+03:25,[SEA] Magbegor Substitution replaced by Holmes,0,-80,8,,1629496,1630115,1611661328,43,24,0,2
+03:25,[SEA 44-24] Diggins-Smith Free Throw Technical (11 PTS),0,-80,3,,203400,,1611661328,44,24,1,2
+03:25,[SEA] Diggins-Smith Substitution replaced by Whitcomb,0,-80,8,,203400,1628244,1611661328,44,24,0,2
+03:25,[PHO 25-44] Copper Free Throw 1 of 1 (3 PTS),0,-80,3,,1627674,,1611661317,44,25,1,2
+03:01,[SEA] Loyd Fadeaway Jump Shot: Missed,109,101,2,,204319,,1611661328,44,25,0,2
+02:58,[SEA] Holmes Rebound (Off:1 Def:0),109,101,4,,1630115,,1611661328,44,25,0,2
+02:56,[SEA 46-25] Holmes Putback Layup Shot: Made (2 PTS),26,25,1,,1630115,,1611661328,46,25,2,2
+02:42,[PHO 27-46] Copper Pullup Jump shot: Made (5 PTS) Assist: Cloud (2 AST),-7,119,1,,1627674,204333,1611661317,46,27,2,2
+02:30,[SEA] Holmes Turnover : Traveling (1 TO),140,263,5,,1630115,1641521,1611661328,46,27,0,2
+02:19,[PHO] Copper Pullup Jump shot: Missed,62,55,2,,1627674,,1611661317,46,27,0,2
+02:14,[SEA] Vivians Rebound (Off:0 Def:4),62,55,4,,1628927,,1611661328,46,27,0,2
+01:57,[SEA] Loyd Turnaround Bank shot: Missed,-33,10,2,,204319,,1611661328,46,27,0,2
+01:53,[PHO] Cunningham Rebound (Off:0 Def:2),-33,10,4,,1629482,,1611661317,46,27,0,2
+01:49,[PHO 29-46] Cunningham Running Layup Shot: Made (2 PTS),-17,-3,1,,1629482,,1611661317,46,29,2,2
+01:37,[SEA] Vivians Turnover : Out of Bounds Lost Ball Turnover (1 TO),33,11,5,,1628927,1628952,1611661328,46,29,0,2
+01:25,[PHO] Cloud Step Back Jump shot: Missed,89,184,2,,204333,,1611661317,46,29,0,2
+01:20,[SEA] Vivians Rebound (Off:0 Def:5),89,184,4,,1628927,,1611661328,46,29,0,2
+01:04,[SEA] Russell Foul: Offensive (1 PF),-167,186,6,1627674,1628920,100697,1611661328,46,29,0,2
+01:04,[SEA] Russell Turnover : Offensive Foul Turnover (1 TO),-167,186,5,,1628920,100697,1611661328,46,29,0,2
+00:53.6,[SEA] Russell Foul: Personal (2 PF),105,264,6,1627674,1628920,1628952,1611661328,46,29,0,2
+00:46.4,[PHO 31-46] Copper Pullup Jump shot: Made (7 PTS),-66,50,1,,1627674,,1611661317,46,31,2,2
+00:34.2,[SEA] Loyd Turnover : Lost Ball (1 TO) Steal:Mack (1 ST),140,178,5,1630442,204319,,1611661328,46,31,0,2
+00:31.2,[SEA] Whitcomb Foul: Shooting (1 PF) (2 FTA),-33,32,6,1627674,1628244,1641521,1611661328,46,31,0,2
+00:31.2,[PHO 32-46] Copper Free Throw 1 of 2 (8 PTS),0,-80,3,,1627674,,1611661317,46,32,1,2
+00:31.2,[PHO 33-46] Copper Free Throw 2 of 2 (9 PTS),0,-80,3,,1627674,,1611661317,46,33,1,2
+00:07.4,[SEA] Whitcomb 3pt Shot: Missed,-122,326,2,,1628244,,1611661328,46,33,0,2
+00:02.7,[SEA] Loyd Rebound (Off:1 Def:4),-122,326,4,,204319,,1611661328,46,33,0,2
+00:00.5,[SEA] Loyd Driving Finger Roll Layup Shot: Missed,46,80,2,,204319,,1611661328,46,33,0,2
+00:00.5,[SEA] Team Rebound,46,80,4,,0,,1611661328,46,33,0,2
+00:00.0,End Period,0,-80,13,,0,,0,46,33,0,2
+10:00,Start Period,0,-80,12,,0,,0,46,33,0,3
+09:45,[SEA 49-33] Vivians 3pt Shot: Made (8 PTS) Assist: Loyd (4 AST),-194,178,1,,1628927,204319,1611661328,49,33,3,3
+09:27,[PHO] Copper Turnover : Bad Pass (3 TO) Steal:Russell (2 ST),-23,162,5,1628920,1627674,,1611661317,49,33,0,3
+09:22,[SEA 51-33] Magbegor Running Layup Shot: Made (17 PTS) Assist: Loyd (5 AST),-18,-1,1,,1629496,204319,1611661328,51,33,2,3
+08:57,[PHO] Cloud Fadeaway Jump Shot: Missed,-86,16,2,,204333,,1611661317,51,33,0,3
+08:57,[PHO] Team Rebound,-86,16,4,,0,,1611661317,51,33,0,3
+08:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,33,0,3
+08:56,[PHO] Team Turnover : Shot Clock Turnover,-19,10,5,,0,1641521,1611661317,51,33,0,3
+08:43,[SEA] Diggins-Smith Turnover : Out of Bounds - Bad Pass Turnover (1 TO),136,-19,5,,203400,1641521,1611661328,51,33,0,3
+08:27,[PHO] Copper 3pt Shot: Missed,-233,1,2,,1627674,,1611661317,51,33,0,3
+08:23,[SEA] Russell Rebound (Off:0 Def:5),-233,1,4,,1628920,,1611661328,51,33,0,3
+08:17,[SEA] Diggins-Smith 3pt Shot: Missed,127,211,2,,203400,,1611661328,51,33,0,3
+08:13,[SEA] Loyd Rebound (Off:2 Def:4),127,211,4,,204319,,1611661328,51,33,0,3
+08:04,[SEA] Vivians Driving Layup Shot: Missed Block: Mack (3 BLK),-18,66,2,1630442,1628927,,1611661328,51,33,0,3
+08:00,[PHO] Copper Rebound (Off:0 Def:4),-18,66,4,,1627674,,1611661317,51,33,0,3
+07:58,[PHO] Cloud 3pt Shot: Missed,159,197,2,,204333,,1611661317,51,33,0,3
+07:57,[PHO] Team Rebound,159,197,4,,0,,1611661317,51,33,0,3
+07:57,[SEA] Vivians Foul: Loose Ball (1 PF),-2,65,6,1630442,1628927,1628952,1611661328,51,33,0,3
+07:52,[PHO] Cloud Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-2,315,5,,204333,1641521,1611661317,51,33,0,3
+07:42,[SEA] Loyd Turnover : Out of Bounds Lost Ball Turnover (2 TO),20,13,5,,204319,100697,1611661328,51,33,0,3
+07:42,Timeout : Regular,0,-80,9,,1611661317,,1611661317,51,33,0,3
+07:42,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661317,51,33,0,3
+07:27,[PHO] Cloud Floating Jump shot: Missed,6,69,2,,204333,,1611661317,51,33,0,3
+07:23,[SEA] Magbegor Rebound (Off:2 Def:3),6,69,4,,1629496,,1611661328,51,33,0,3
+07:16,[SEA 53-33] Magbegor Driving Layup Shot: Made (19 PTS) Assist: Loyd (6 AST),24,10,1,,1629496,204319,1611661328,53,33,2,3
+07:02,[PHO] Copper Turnover : Lost Ball (4 TO) Steal:Russell (3 ST),-139,338,5,1628920,1627674,,1611661317,53,33,0,3
+06:57,[SEA] Loyd 3pt Shot: Missed,121,217,2,,204319,,1611661328,53,33,0,3
+06:53,[PHO] Taurasi Rebound (Off:0 Def:2),121,217,4,,100940,,1611661317,53,33,0,3
+06:47,[SEA] Loyd Foul: Shooting (1 PF) (2 FTA),21,17,6,1627674,204319,1628952,1611661328,53,33,0,3
+06:47,[PHO] Copper Free Throw 1 of 2 Missed,0,-80,3,,1627674,,1611661317,53,33,0,3
+06:47,[PHO] Team Rebound,0,-80,4,,0,,1611661317,53,33,0,3
+06:47,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,53,33,0,3
+06:47,[PHO] Copper Free Throw 2 of 2 Missed,0,-80,3,,1627674,,1611661317,53,33,0,3
+06:45,[SEA] Magbegor Rebound (Off:2 Def:4),0,-80,4,,1629496,,1611661328,53,33,0,3
+06:32,[SEA] Magbegor 3pt Shot: Missed,-221,74,2,,1629496,,1611661328,53,33,0,3
+06:27,[PHO] Taurasi Rebound (Off:0 Def:3),-221,74,4,,100940,,1611661317,53,33,0,3
+06:20,[PHO] Taurasi 3pt Shot: Missed,78,241,2,,100940,,1611661317,53,33,0,3
+06:20,[SEA] Team Rebound,78,241,4,,0,,1611661328,53,33,0,3
+06:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,33,0,3
+06:02,[SEA] Vivians 3pt Shot: Missed,227,7,2,,1628927,,1611661328,53,33,0,3
+05:59,[PHO] Cloud Rebound (Off:0 Def:3),227,7,4,,204333,,1611661317,53,33,0,3
+05:54,[PHO] Copper 3pt Shot: Missed,28,241,2,,1627674,,1611661317,53,33,0,3
+05:53,[SEA] Team Rebound,28,241,4,,0,,1611661328,53,33,0,3
+05:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,33,0,3
+05:35,[SEA 55-33] Russell Floating Jump shot: Made (5 PTS) Assist: Diggins-Smith (3 AST),24,71,1,,1628920,203400,1611661328,55,33,2,3
+05:16,[PHO 36-55] Copper 3pt Shot: Made (12 PTS) Assist: Cunningham (1 AST),232,25,1,,1627674,1629482,1611661317,55,36,3,3
+04:55,[SEA] Magbegor Turnover : Out of Bounds Lost Ball Turnover (3 TO),123,190,5,,1629496,1628952,1611661328,55,36,0,3
+04:55,[SEA] Russell Substitution replaced by Holmes,0,-80,8,,1628920,1630115,1611661328,55,36,0,3
+04:55,[SEA] Vivians Substitution replaced by Horston,0,-80,8,,1628927,1641651,1611661328,55,36,0,3
+04:41,[PHO 38-55] Taurasi Cutting Layup Shot: Made (4 PTS) Assist: Dixon (1 AST),22,20,1,,100940,1641700,1611661317,55,38,2,3
+04:29,[SEA] Diggins-Smith Pullup Jump shot: Missed,-96,124,2,,203400,,1611661328,55,38,0,3
+04:28,[SEA] Holmes Rebound (Off:2 Def:0),-96,124,4,,1630115,,1611661328,55,38,0,3
+04:26,[PHO] Taurasi Foul: Personal (1 PF),-129,167,6,203400,100940,1628952,1611661317,55,38,0,3
+04:26,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,55,38,0,3
+04:26,[PHO] Team Violation : Delay Of Game,0,-80,7,,0,,1611661317,55,38,0,3
+04:26,[PHO] Cloud Technical (1 FTA),0,-80,6,,204333,100697,1611661317,55,38,0,3
+04:26,[SEA 56-38] Loyd Free Throw Technical (7 PTS),0,-80,3,,204319,,1611661328,56,38,1,3
+04:24,[PHO] Sutton Foul: Shooting (2 PF) (2 FTA),-98,129,6,203400,1630134,1641521,1611661317,56,38,0,3
+04:24,[SEA 57-38] Diggins-Smith Free Throw 1 of 2 (12 PTS),0,-80,3,,203400,,1611661328,57,38,1,3
+04:24,[SEA] Diggins-Smith Free Throw 2 of 2 Missed,0,-80,3,,203400,,1611661328,57,38,0,3
+04:21,[PHO] Copper Rebound (Off:0 Def:5),0,-80,4,,1627674,,1611661317,57,38,0,3
+03:59,[PHO] Team Turnover : Shot Clock Turnover,70,52,5,,0,1628952,1611661317,57,38,0,3
+03:49,[SEA] Diggins-Smith 3pt Shot: Missed,161,188,2,,203400,,1611661328,57,38,0,3
+03:43,[PHO] Copper Rebound (Off:0 Def:6),161,188,4,,1627674,,1611661317,57,38,0,3
+03:34,[PHO 41-57] Copper 3pt Shot: Made (15 PTS) Assist: Sutton (2 AST),-178,160,1,,1627674,1630134,1611661317,57,41,3,3
+03:21,[SEA] Horston Floating Jump shot: Missed,24,97,2,,1641651,,1611661328,57,41,0,3
+03:19,[PHO] Team Rebound,24,97,4,,0,,1611661317,57,41,0,3
+03:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,41,0,3
+03:19,[PHO] Cunningham Substitution replaced by Taurasi,0,-80,8,,1629482,100940,1611661317,57,41,0,3
+03:02,[PHO] Cloud Driving Layup Shot: Missed,38,20,2,,204333,,1611661317,57,41,0,3
+03:02,[PHO] Team Rebound,38,20,4,,0,,1611661317,57,41,0,3
+03:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,41,0,3
+03:02,[PHO] Copper Substitution replaced by Herbert Harrigan,0,-80,8,,1627674,1630114,1611661317,57,41,0,3
+02:54,[SEA] Holmes Foul: Shooting (2 PF) (2 FTA),4,59,6,1641700,1630115,1641521,1611661328,57,41,0,3
+02:54,[PHO 42-57] Dixon Free Throw 1 of 2 (3 PTS),0,-80,3,,1641700,,1611661317,57,42,1,3
+02:54,[PHO 43-57] Dixon Free Throw 2 of 2 (4 PTS),0,-80,3,,1641700,,1611661317,57,43,1,3
+02:35,[SEA] Holmes Jump Shot: Missed,-191,60,2,,1630115,,1611661328,57,43,0,3
+02:30,[PHO] Herbert Harrigan Rebound (Off:0 Def:1),-191,60,4,,1630114,,1611661317,57,43,0,3
+02:26,[PHO] Cloud Turnover : Bad Pass (4 TO) Steal:Magbegor (2 ST),48,332,5,1629496,204333,,1611661317,57,43,0,3
+02:16,[SEA 59-43] Loyd Fadeaway Jump Shot: Made (9 PTS),-113,62,1,,204319,,1611661328,59,43,2,3
+02:04,[PHO] Dixon Jump Shot: Missed,-60,107,2,,1641700,,1611661317,59,43,0,3
+02:02,[SEA] Magbegor Rebound (Off:2 Def:5),-60,107,4,,1629496,,1611661328,59,43,0,3
+01:48,[SEA 61-43] Magbegor Layup Shot: Made (21 PTS) Assist: Diggins-Smith (4 AST),21,17,1,,1629496,203400,1611661328,61,43,2,3
+01:48,Timeout : Regular,0,-80,9,,1611661317,,1611661317,61,43,0,3
+01:48,[PHO] Dixon Substitution replaced by Mack,0,-80,8,,1641700,1630442,1611661317,61,43,0,3
+01:48,[PHO] Herbert Harrigan Substitution replaced by Copper,0,-80,8,,1630114,1627674,1611661317,61,43,0,3
+01:35,[SEA] Horston Foul: Shooting (1 PF) (2 FTA),68,41,6,1627674,1641651,100697,1611661328,61,43,0,3
+01:35,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661328,61,43,0,3
+01:35,Timeout : Regular,0,-80,9,,1611661328,,1611661328,61,43,0,3
+01:35,[PHO] Copper Free Throw 1 of 2 Missed,0,-80,3,,1627674,,1611661317,61,43,0,3
+01:35,[PHO] Team Rebound,0,-80,4,,0,,1611661317,61,43,0,3
+01:35,[PHO] Copper Free Throw 2 of 2 Missed,0,-80,3,,1627674,,1611661317,61,43,0,3
+01:33,[SEA] Magbegor Rebound (Off:2 Def:6),0,-80,4,,1629496,,1611661328,61,43,0,3
+01:17,[SEA 64-43] Horston 3pt Shot: Made (7 PTS) Assist: Holmes (2 AST),-232,44,1,,1641651,1630115,1611661328,64,43,3,3
+00:52.0,[PHO] Copper Pullup Jump shot: Missed,0,207,2,,1627674,,1611661317,64,43,0,3
+00:48.6,[SEA] Horston Rebound (Off:0 Def:2),0,207,4,,1641651,,1611661328,64,43,0,3
+00:44.2,[SEA] Diggins-Smith 3pt Shot: Missed,161,168,2,,203400,,1611661328,64,43,0,3
+00:40.0,[PHO] Taurasi Rebound (Off:0 Def:4),161,168,4,,100940,,1611661317,64,43,0,3
+00:38.4,[PHO] Taurasi Turnover : Lost Ball (1 TO) Steal:Horston (1 ST),89,708,5,1641651,100940,,1611661317,64,43,0,3
+00:34.3,[SEA] Horston Turnover : Bad Pass (2 TO) Steal:Cloud (3 ST),-105,16,5,204333,1641651,,1611661328,64,43,0,3
+00:15.2,[PHO] Taurasi 3pt Shot: Missed,-68,300,2,,100940,,1611661317,64,43,0,3
+00:10.9,[SEA] Horston Rebound (Off:0 Def:3),-68,300,4,,1641651,,1611661328,64,43,0,3
+00:04.5,[PHO] Copper Foul: Personal (2 PF),2,341,6,203400,1627674,1641521,1611661317,64,43,0,3
+00:02.6,[SEA] Loyd Fadeaway Jump Shot: Missed,-166,105,2,,204319,,1611661328,64,43,0,3
+00:02.6,[PHO] Cloud Rebound (Off:0 Def:4),-166,105,4,,204333,,1611661317,64,43,0,3
+00:00.0,End Period,0,-80,13,,0,,0,64,43,0,3
+10:00,Start Period,0,-80,12,,0,,0,64,43,0,4
+09:38,[PHO] Sutton Layup Shot: Missed,31,32,2,,1630134,,1611661317,64,43,0,4
+09:34,[SEA] Holmes Rebound (Off:2 Def:1),31,32,4,,1630115,,1611661328,64,43,0,4
+09:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,43,0,4
+09:14,[SEA] Holmes Turnaround Jump Shot: Missed,109,74,2,,1630115,,1611661328,64,43,0,4
+09:13,[SEA] Team Rebound,109,74,4,,0,,1611661328,64,43,0,4
+09:13,[SEA] Team Turnover : Shot Clock Turnover,56,115,5,,0,1628952,1611661328,64,43,0,4
+09:03,[PHO] Cunningham 3pt Shot: Missed,-232,43,2,,1629482,,1611661317,64,43,0,4
+08:58,[SEA] Loyd Rebound (Off:2 Def:5),-232,43,4,,204319,,1611661328,64,43,0,4
+08:48,[SEA] Magbegor Turnover : Bad Pass (4 TO) Steal:Cunningham (1 ST),-39,6,5,1629482,1629496,,1611661328,64,43,0,4
+08:35,[PHO] Taurasi 3pt Shot: Missed,-112,220,2,,100940,,1611661317,64,43,0,4
+08:30,[PHO] Mack Rebound (Off:1 Def:1),-112,220,4,,1630442,,1611661317,64,43,0,4
+08:29,[PHO] Mack Putback Layup Shot: Missed,26,36,2,,1630442,,1611661317,64,43,0,4
+08:29,[SEA] Horston Rebound (Off:0 Def:4),26,36,4,,1641651,,1611661328,64,43,0,4
+08:20,[SEA] Magbegor 3pt Shot: Missed,71,228,2,,1629496,,1611661328,64,43,0,4
+08:16,[PHO] Cloud Rebound (Off:0 Def:5),71,228,4,,204333,,1611661317,64,43,0,4
+08:10,[PHO 45-64] Cunningham Reverse Layup Shot: Made (4 PTS) Assist: Cloud (3 AST),-22,16,1,,1629482,204333,1611661317,64,45,2,4
+07:48,[SEA] Loyd Pullup Jump shot: Missed,50,152,2,,204319,,1611661328,64,45,0,4
+07:44,[PHO] Cloud Rebound (Off:0 Def:6),50,152,4,,204333,,1611661317,64,45,0,4
+07:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,45,0,4
+07:41,[SEA] Magbegor Substitution replaced by Russell,0,-80,8,,1629496,1628920,1611661328,64,45,0,4
+07:41,[SEA] Loyd Substitution replaced by Whitcomb,0,-80,8,,204319,1628244,1611661328,64,45,0,4
+07:41,[PHO] Sutton Substitution replaced by Copper,0,-80,8,,1630134,1627674,1611661317,64,45,0,4
+07:41,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,64,45,0,4
+07:35,[SEA] Holmes Foul: Personal (3 PF),-13,5,6,1627674,1630115,1641521,1611661328,64,45,0,4
+07:25,[PHO] Cloud 3pt Shot: Missed,-81,236,2,,204333,,1611661317,64,45,0,4
+07:20,[SEA] Horston Rebound (Off:0 Def:5),-81,236,4,,1641651,,1611661328,64,45,0,4
+07:08,[SEA] Holmes Cutting Layup Shot: Missed,-16,13,2,,1630115,,1611661328,64,45,0,4
+07:05,[PHO] Dixon Rebound (Off:1 Def:3),-16,13,4,,1641700,,1611661317,64,45,0,4
+06:58,[PHO] Cloud Driving Layup Shot: Missed,-23,19,2,,204333,,1611661317,64,45,0,4
+06:58,[PHO] Team Rebound,-23,19,4,,0,,1611661317,64,45,0,4
+06:54,[PHO 47-64] Taurasi Driving Layup Shot: Made (6 PTS),-28,13,1,,100940,,1611661317,64,47,2,4
+06:54,[SEA] Horston Foul: Shooting (2 PF) (1 FTA),-28,13,6,100940,1641651,100697,1611661328,64,47,0,4
+06:54,[PHO] Cunningham Substitution replaced by Herbert Harrigan,0,-80,8,,1629482,1630114,1611661317,64,47,0,4
+06:54,[PHO 48-64] Taurasi Free Throw 1 of 1 (7 PTS),0,-80,3,,100940,,1611661317,64,48,1,4
+06:39,[PHO] Taurasi Foul: Personal (2 PF),-48,40,6,1641651,100940,1628952,1611661317,64,48,0,4
+06:39,[SEA] Holmes Substitution replaced by Vivians,0,-80,8,,1630115,1628927,1611661328,64,48,0,4
+06:39,[SEA] Horston Substitution replaced by Magbegor,0,-80,8,,1641651,1629496,1611661328,64,48,0,4
+06:24,[SEA] Diggins-Smith Turnover : Bad Pass (2 TO) Steal:Cloud (4 ST),-116,158,5,204333,203400,,1611661328,64,48,0,4
+06:15,[PHO] Cloud Turnover : Bad Pass (5 TO) Steal:Diggins-Smith (2 ST),56,176,5,203400,204333,,1611661317,64,48,0,4
+05:54,[SEA] Vivians Pullup Jump shot: Missed,8,107,2,,1628927,,1611661328,64,48,0,4
+05:51,[PHO] Dixon Rebound (Off:1 Def:4),8,107,4,,1641700,,1611661317,64,48,0,4
+05:36,[PHO] Dixon Layup Shot: Missed Block: Magbegor (3 BLK),-13,6,2,1629496,1641700,,1611661317,64,48,0,4
+05:35,[PHO] Team Rebound,-13,6,4,,0,,1611661317,64,48,0,4
+05:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,48,0,4
+05:35,[SEA] Diggins-Smith Substitution replaced by Loyd,0,-80,8,,203400,204319,1611661328,64,48,0,4
+05:35,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,64,48,0,4
+05:35,Timeout : Official,0,-80,9,,0,,0,64,48,0,4
+05:33,[PHO] Copper Jump Shot: Missed,-151,70,2,,1627674,,1611661317,64,48,0,4
+05:28,[SEA] Whitcomb Rebound (Off:0 Def:1),-151,70,4,,1628244,,1611661328,64,48,0,4
+05:06,[SEA 67-48] Loyd 3pt Shot: Made (12 PTS) Assist: Vivians (3 AST),94,243,1,,204319,1628927,1611661328,67,48,3,4
+04:49,[PHO] Dixon Jump Shot: Missed,-7,122,2,,1641700,,1611661317,67,48,0,4
+04:44,[SEA] Magbegor Rebound (Off:2 Def:7),-7,122,4,,1629496,,1611661328,67,48,0,4
+04:34,[SEA] Loyd Driving Floating Jump Shot: Missed,-3,131,2,,204319,,1611661328,67,48,0,4
+04:30,[PHO] Copper Rebound (Off:0 Def:7),-3,131,4,,1627674,,1611661317,67,48,0,4
+04:29,[SEA] Vivians Foul: Transition Take (2 PF) (1 FTA),216,358,6,1627674,1628927,100697,1611661328,67,48,0,4
+04:29,[PHO 49-67] Copper Free Throw 1 of 1 (16 PTS),0,-80,3,,1627674,,1611661317,67,49,1,4
+04:29,[PHO] Dixon Substitution replaced by Taurasi,0,-80,8,,1641700,100940,1611661317,67,49,0,4
+04:29,[PHO] Herbert Harrigan Substitution replaced by Cunningham,0,-80,8,,1630114,1629482,1611661317,67,49,0,4
+04:20,[PHO] Copper Driving Finger Roll Layup Shot: Missed,-5,62,2,,1627674,,1611661317,67,49,0,4
+04:17,[SEA] Vivians Rebound (Off:0 Def:6),-5,62,4,,1628927,,1611661328,67,49,0,4
+04:06,[PHO] Cunningham Violation:Kicked Ball,0,-80,7,,1629482,,1611661317,67,49,0,4
+04:06,[SEA] Russell Substitution replaced by Diggins-Smith,0,-80,8,,1628920,203400,1611661328,67,49,0,4
+04:03,[SEA] Whitcomb 3pt Shot: Missed,-127,227,2,,1628244,,1611661328,67,49,0,4
+03:58,[PHO] Cunningham Rebound (Off:0 Def:3),-127,227,4,,1629482,,1611661317,67,49,0,4
+03:52,[PHO 51-67] Sutton Running Layup Shot: Made (2 PTS) Assist: Cunningham (2 AST),-19,13,1,,1630134,1629482,1611661317,67,51,2,4
+03:40,[SEA 70-51] Loyd 3pt Shot: Made (15 PTS) Assist: Magbegor (1 AST),-191,153,1,,204319,1629496,1611661328,70,51,3,4
+03:22,[PHO 53-70] Sutton Turnaround Jump Shot: Made (4 PTS) Assist: Cloud (4 AST),-57,41,1,,1630134,204333,1611661317,70,53,2,4
+03:03,[SEA] Vivians Driving Layup Shot: Missed,13,21,2,,1628927,,1611661328,70,53,0,4
+03:00,[PHO] Sutton Rebound (Off:0 Def:1),13,21,4,,1630134,,1611661317,70,53,0,4
+02:57,[PHO 55-70] Sutton Driving Floating Jump Shot: Made (6 PTS),-49,96,1,,1630134,,1611661317,70,55,2,4
+02:55,Timeout : Regular,0,-80,9,,1611661328,,1611661328,70,55,0,4
+02:41,[PHO] Taurasi Foul: Personal (3 PF),-6,54,6,1629496,100940,100697,1611661317,70,55,0,4
+02:34,[SEA 72-55] Diggins-Smith Driving Layup Shot: Made (14 PTS),23,12,1,,203400,,1611661328,72,55,2,4
+02:11,[PHO 58-72] Copper 3pt Shot: Made (19 PTS) Assist: Cloud (5 AST),229,58,1,,1627674,204333,1611661317,72,58,3,4
+01:50,[SEA 75-58] Diggins-Smith 3pt Shot: Made (17 PTS) Assist: Magbegor (2 AST),-144,200,1,,203400,1629496,1611661328,75,58,3,4
+01:38,[PHO] Taurasi Driving Floating Jump Shot: Missed,27,64,2,,100940,,1611661317,75,58,0,4
+01:33,[PHO] Taurasi Rebound (Off:1 Def:4),27,64,4,,100940,,1611661317,75,58,0,4
+01:33,[PHO] Taurasi Tip Layup Shot: Missed,0,-5,2,,100940,,1611661317,75,58,0,4
+01:31,[SEA] Vivians Rebound (Off:0 Def:7),0,-5,4,,1628927,,1611661328,75,58,0,4
+01:27,[SEA 77-58] Vivians Driving Layup Shot: Made (10 PTS),-21,3,1,,1628927,,1611661328,77,58,2,4
+01:27,Timeout : Regular,0,-80,9,,1611661317,,1611661317,77,58,0,4
+01:27,[SEA] Magbegor Substitution replaced by Mühl,0,-80,8,,1629496,1642299,1611661328,77,58,0,4
+01:27,[SEA] Loyd Substitution replaced by Holmes,0,-80,8,,204319,1630115,1611661328,77,58,0,4
+01:27,[SEA] Vivians Substitution replaced by Horston,0,-80,8,,1628927,1641651,1611661328,77,58,0,4
+01:27,[SEA] Diggins-Smith Substitution replaced by Williams,0,-80,8,,203400,1630461,1611661328,77,58,0,4
+01:27,Timeout : Regular,0,-80,9,,1611661317,,1611661317,77,58,0,4
+01:27,[PHO] Cloud Substitution replaced by Bertsch,0,-80,8,,204333,1629571,1611661317,77,58,0,4
+01:27,[PHO] Copper Substitution replaced by Mack,0,-80,8,,1627674,1630442,1611661317,77,58,0,4
+01:27,[PHO] Taurasi Substitution replaced by Dixon,0,-80,8,,100940,1641700,1611661317,77,58,0,4
+01:27,[PHO] Cunningham Substitution replaced by Herbert Harrigan,0,-80,8,,1629482,1630114,1611661317,77,58,0,4
+01:14,[PHO 60-77] Dixon Layup Shot: Made (6 PTS) Assist: Sutton (3 AST),24,15,1,,1641700,1630134,1611661317,77,60,2,4
+01:01,[SEA] Williams Pullup Jump shot: Missed,-4,207,2,,1630461,,1611661328,77,60,0,4
+00:59.6,[PHO] Herbert Harrigan Rebound (Off:0 Def:2),-4,207,4,,1630114,,1611661317,77,60,0,4
+00:59.6,Timeout : Reset,0,-80,9,,1611661317,,1611661317,77,60,0,4
+00:51.6,[PHO] Sutton Driving Floating Jump Shot: Missed,-88,48,2,,1630134,,1611661317,77,60,0,4
+00:48.9,[SEA] Holmes Rebound (Off:2 Def:2),-88,48,4,,1630115,,1611661328,77,60,0,4
+00:42.5,[SEA] Horston Pullup Jump shot: Missed,0,129,2,,1641651,,1611661328,77,60,0,4
+00:39.7,[PHO] Dixon Rebound (Off:1 Def:5),0,129,4,,1641700,,1611661317,77,60,0,4
+00:26.6,[PHO 62-77] Sutton Driving Layup Shot: Made (8 PTS),-32,8,1,,1630134,,1611661317,77,62,2,4
+00:26.4,Timeout : Reset,0,-80,9,,1611661328,,1611661328,77,62,0,4
+00:20.4,[SEA] Holmes 3pt Shot: Missed,95,236,2,,1630115,,1611661328,77,62,0,4
+00:16.8,[SEA] Horston Rebound (Off:1 Def:5),95,236,4,,1641651,,1611661328,77,62,0,4
+00:15.7,[SEA 80-62] Williams 3pt Shot: Made (3 PTS) Assist: Horston (1 AST),-157,176,1,,1630461,1641651,1611661328,80,62,3,4
+00:00.0,[PHO] Sutton Turnover : Lost Ball (1 TO) Steal:Whitcomb (1 ST),92,207,5,1628244,1630134,,1611661317,80,62,0,4
+00:00.0,End Period,0,-80,13,,0,,0,80,62,0,4

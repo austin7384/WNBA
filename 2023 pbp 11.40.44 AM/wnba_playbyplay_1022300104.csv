@@ -1,0 +1,379 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball Parker vs Williams (Howard gains possession),0,-80,10,204322,204323,1631009,1611661330,0,0,0,1
+09:45,[ATL 2-0] Howard Driving Layup Shot: Made (2 PTS),13,13,1,,1631009,,1611661330,0,2,2,1
+09:28,[CHI] Copper Pullup Jump shot: Missed,-57,181,2,,1627674,,1611661329,0,2,0,1
+09:24,[CHI] Mabrey Rebound (Off:1 Def:0),-57,181,4,,1629497,,1611661329,0,2,0,1
+09:19,[ATL] Howard Foul: Shooting (1 PF) (2 FTA),-51,48,6,1629501,1631009,202679,1611661330,0,2,0,1
+09:19,[CHI 1-2] Smith Free Throw 1 of 2 (1 PTS),0,-80,3,,1629501,,1611661329,1,2,1,1
+09:19,[CHI] Smith Free Throw 2 of 2 Missed,0,-80,3,,1629501,,1611661329,1,2,0,1
+09:16,[ATL] Coffey Rebound (Off:0 Def:1),0,-80,4,,1628269,,1611661330,1,2,0,1
+09:00,[ATL 4-1] Parker Jump Shot: Made (2 PTS) Assist: Gray (1 AST),55,163,1,,204323,1628277,1611661330,1,4,2,1
+08:41,[CHI 3-4] Williams Driving Layup Shot: Made (2 PTS) Assist: Mabrey (1 AST),15,13,1,,204322,1629497,1611661329,3,4,2,1
+08:32,[ATL] Parker Cutting Layup Shot: Missed,4,10,2,,204323,,1611661330,3,4,0,1
+08:29,[ATL] Parker Rebound (Off:1 Def:0),4,10,4,,204323,,1611661330,3,4,0,1
+08:29,[ATL 6-3] Parker Putback Layup Shot: Made (4 PTS),0,-5,1,,204323,,1611661330,3,6,2,1
+08:19,[CHI] Copper Driving Floating Jump Shot: Missed,-2,89,2,,1627674,,1611661329,3,6,0,1
+08:16,[ATL] Coffey Rebound (Off:0 Def:2),-2,89,4,,1628269,,1611661330,3,6,0,1
+08:12,[ATL 8-3] Robinson Running Pull-Up Jump Shot: Made (2 PTS),74,180,1,,202658,,1611661330,3,8,2,1
+07:52,[CHI 6-8] Mabrey 3pt Shot: Made (3 PTS),-223,-7,1,,1629497,,1611661329,6,8,3,1
+07:38,[ATL] Gray Jump Shot: Missed,-28,121,2,,1628277,,1611661330,6,8,0,1
+07:35,[CHI] Copper Rebound (Off:0 Def:1),-28,121,4,,1627674,,1611661329,6,8,0,1
+07:29,[CHI 9-8] Smith 3pt Shot: Made (4 PTS) Assist: Williams (1 AST),151,196,1,,1629501,1627675,1611661329,9,8,3,1
+07:21,[CHI] Smith Foul: Shooting (1 PF) (2 FTA),47,7,6,1628277,1629501,203891,1611661329,9,8,0,1
+07:21,[ATL 9-9] Gray Free Throw 1 of 2 (1 PTS),0,-80,3,,1628277,,1611661330,9,9,1,1
+07:21,[ATL 10-9] Gray Free Throw 2 of 2 (2 PTS),0,-80,3,,1628277,,1611661330,9,10,1,1
+07:07,[CHI] Williams Driving Layup Shot: Missed Block: Parker (1 BLK),4,27,2,204323,204322,,1611661329,9,10,0,1
+07:07,[CHI] Williams Rebound (Off:1 Def:0),4,27,4,,204322,,1611661329,9,10,0,1
+07:07,[ATL] Parker Foul: Shooting (1 PF) (2 FTA),0,15,6,204322,204323,203891,1611661330,9,10,0,1
+07:07,[CHI] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661329,9,10,0,1
+07:07,[CHI] Team Rebound,0,-80,4,,0,,1611661329,9,10,0,1
+07:07,[CHI 10-10] Williams Free Throw 2 of 2 (3 PTS),0,-80,3,,204322,,1611661329,10,10,1,1
+06:54,[ATL] Coffey 3pt Shot: Missed,-137,226,2,,1628269,,1611661330,10,10,0,1
+06:50,[CHI] Smith Rebound (Off:0 Def:1),-137,226,4,,1629501,,1611661329,10,10,0,1
+06:45,[CHI] Copper Turnover : Lost Ball (1 TO) Steal:Coffey (1 ST),55,103,5,1628269,1627674,,1611661329,10,10,0,1
+06:38,[ATL 12-10] Coffey Driving Layup Shot: Made (2 PTS),-16,17,1,,1628269,,1611661330,10,12,2,1
+06:20,[CHI] Williams Hook Shot: Missed,37,0,2,,204322,,1611661329,10,12,0,1
+06:18,[ATL] Robinson Rebound (Off:0 Def:1),37,0,4,,202658,,1611661330,10,12,0,1
+06:16,[ATL] Gray Turnover : Traveling (1 TO),-177,83,5,,1628277,202679,1611661330,10,12,0,1
+06:06,[CHI] Williams Pullup Jump shot: Missed,-46,194,2,,1627675,,1611661329,10,12,0,1
+06:03,[ATL] Coffey Rebound (Off:0 Def:3),-46,194,4,,1628269,,1611661330,10,12,0,1
+05:51,[CHI] Smith Foul: Shooting (2 PF) (2 FTA),1,24,6,204323,1629501,203891,1611661329,10,12,0,1
+05:51,[ATL 13-10] Parker Free Throw 1 of 2 (5 PTS),0,-80,3,,204323,,1611661330,10,13,1,1
+05:51,[CHI] Smith Substitution replaced by Bertsch,0,-80,8,,1629501,1629571,1611661329,10,13,0,1
+05:51,[ATL 14-10] Parker Free Throw 2 of 2 (6 PTS),0,-80,3,,204323,,1611661330,10,14,1,1
+05:35,[CHI] Copper Pullup Jump shot: Missed,-67,183,2,,1627674,,1611661329,10,14,0,1
+05:33,[ATL] Robinson Rebound (Off:0 Def:2),-67,183,4,,202658,,1611661330,10,14,0,1
+05:20,[ATL] Howard 3pt Shot: Missed,15,241,2,,1631009,,1611661330,10,14,0,1
+05:18,[ATL] Gray Rebound (Off:1 Def:0),15,241,4,,1628277,,1611661330,10,14,0,1
+05:14,[ATL] Parker Jump Shot: Missed,-68,163,2,,204323,,1611661330,10,14,0,1
+05:09,[CHI] Williams Rebound (Off:0 Def:1),-68,163,4,,1627675,,1611661329,10,14,0,1
+05:03,[CHI 12-14] Bertsch Cutting Layup Shot: Made (2 PTS) Assist: Williams (2 AST),17,4,1,,1629571,1627675,1611661329,12,14,2,1
+04:44,[ATL 16-12] Howard Driving Layup Shot: Made (4 PTS),6,16,1,,1631009,,1611661330,12,16,2,1
+04:29,[CHI] Mabrey Jump Shot: Missed,105,103,2,,1629497,,1611661329,12,16,0,1
+04:27,[ATL] Parker Rebound (Off:1 Def:1),105,103,4,,204323,,1611661330,12,16,0,1
+04:19,[ATL] Coffey Turnover : Lost Ball (1 TO) Steal:Williams (1 ST),47,88,5,1627675,1628269,,1611661330,12,16,0,1
+04:02,[CHI] Williams Cutting Finger Roll Layup Shot: Missed,7,32,2,,204322,,1611661329,12,16,0,1
+04:02,[CHI] Team Rebound,7,32,4,,0,,1611661329,12,16,0,1
+04:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,16,0,1
+04:02,Timeout Officials,0,-80,9,,0,,0,12,16,0,1
+04:02,[CHI] Williams Substitution replaced by Evans,0,-80,8,,1627675,1630389,1611661329,12,16,0,1
+03:49,[CHI] Mabrey 3pt Shot: Missed,-197,123,2,,1629497,,1611661329,12,16,0,1
+03:47,[ATL] Coffey Rebound (Off:0 Def:4),-197,123,4,,1628269,,1611661330,12,16,0,1
+03:43,[ATL] Howard 3pt Shot: Missed,-122,231,2,,1631009,,1611661330,12,16,0,1
+03:37,[ATL] Coffey Rebound (Off:1 Def:4),-122,231,4,,1628269,,1611661330,12,16,0,1
+03:37,[ATL] Parker Layup Shot: Missed,2,8,2,,204323,,1611661330,12,16,0,1
+03:34,[ATL] Coffey Rebound (Off:2 Def:4),2,8,4,,1628269,,1611661330,12,16,0,1
+03:28,[ATL] Parker Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-56,11,5,,204323,203891,1611661330,12,16,0,1
+03:12,[ATL] Robinson Foul: Shooting (1 PF) (2 FTA),29,10,6,1629497,202658,202764,1611661330,12,16,0,1
+03:12,[CHI] Mabrey Free Throw 1 of 2 Missed,0,-80,3,,1629497,,1611661329,12,16,0,1
+03:12,[CHI] Team Rebound,0,-80,4,,0,,1611661329,12,16,0,1
+03:12,[ATL] Robinson Substitution replaced by Jones,0,-80,8,,202658,1641650,1611661330,12,16,0,1
+03:12,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,12,16,0,1
+03:12,[CHI 13-16] Mabrey Free Throw 2 of 2 (4 PTS),0,-80,3,,1629497,,1611661329,13,16,1,1
+02:57,[ATL] Howard 3pt Shot: Missed,138,194,2,,1631009,,1611661330,13,16,0,1
+02:53,[CHI] Williams Rebound (Off:1 Def:1),138,194,4,,204322,,1611661329,13,16,0,1
+02:48,[CHI] Mabrey 3pt Shot: Missed,16,247,2,,1629497,,1611661329,13,16,0,1
+02:46,[ATL] Team Rebound,16,247,4,,0,,1611661330,13,16,0,1
+02:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,16,0,1
+02:36,[ATL] Jones Running Layup Shot: Missed,22,24,2,,1641650,,1611661330,13,16,0,1
+02:34,[CHI] Mabrey Rebound (Off:1 Def:1),22,24,4,,1629497,,1611661329,13,16,0,1
+02:29,[CHI] Evans 3pt Shot: Missed,200,140,2,,1630389,,1611661329,13,16,0,1
+02:25,[ATL] Gray Rebound (Off:1 Def:1),200,140,4,,1628277,,1611661330,13,16,0,1
+02:25,[CHI] Bertsch Foul: Personal (1 PF),13,826,6,1628277,1629571,202679,1611661329,13,16,0,1
+02:25,[CHI] Copper Substitution replaced by Parks,0,-80,8,,1627674,1641641,1611661329,13,16,0,1
+02:11,[CHI] Parks Foul: Personal (1 PF),202,93,6,1628277,1641641,202679,1611661329,13,16,0,1
+02:11,[CHI] Mabrey Substitution replaced by Copper,0,-80,8,,1629497,1627674,1611661329,13,16,0,1
+01:58,[ATL 19-13] Gray 3pt Shot: Made (5 PTS) Assist: Jones (1 AST),150,193,1,,1628277,1641650,1611661330,13,19,3,1
+01:32,[CHI] Parks Turnover : Lost Ball (1 TO) Steal:Gray (1 ST),-134,237,5,1628277,1641641,,1611661329,13,19,0,1
+01:29,[ATL 21-13] Gray Running Layup Shot: Made (7 PTS),7,22,1,,1628277,,1611661330,13,21,2,1
+01:11,[CHI] Copper 3pt Shot: Missed,-110,208,2,,1627674,,1611661329,13,21,0,1
+01:07,[ATL] Billings Rebound (Off:0 Def:1),-110,208,4,,1628881,,1611661330,13,21,0,1
+01:05,[ATL] Jones Driving Layup Shot: Missed,-9,21,2,,1641650,,1611661330,13,21,0,1
+01:02,[CHI] Copper Rebound (Off:0 Def:2),-9,21,4,,1627674,,1611661329,13,21,0,1
+00:56.6,[CHI] Evans Driving Floating Bank Jump Shot: Missed Block: Gray (1 BLK),93,118,2,1628277,1630389,,1611661329,13,21,0,1
+00:54.4,[ATL] Billings Rebound (Off:0 Def:2),93,118,4,,1628881,,1611661330,13,21,0,1
+00:51.6,[ATL] Billings Driving Layup Shot: Missed,-10,21,2,,1628881,,1611661330,13,21,0,1
+00:49.8,[CHI] Parks Rebound (Off:0 Def:1),-10,21,4,,1641641,,1611661329,13,21,0,1
+00:30.9,[CHI 15-21] Williams Turnaround Jump Shot: Made (5 PTS),-18,49,1,,204322,,1611661329,15,21,2,1
+00:08.6,[ATL] Howard Pullup Jump shot: Missed,117,126,2,,1631009,,1611661330,15,21,0,1
+00:06.8,[CHI] Parks Rebound (Off:0 Def:2),117,126,4,,1641641,,1611661329,15,21,0,1
+00:01.1,[ATL] Howard Foul: Personal (2 PF),126,111,6,1630389,1631009,203891,1611661330,15,21,0,1
+00:01.1,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,15,21,0,1
+00:00.0,[CHI] Bertsch Turnaround Jump Shot: Missed,110,170,2,,1629571,,1611661329,15,21,0,1
+00:00.0,[CHI] Team Rebound,110,170,4,,0,,1611661329,15,21,0,1
+00:00.0,End Period,0,-80,13,,0,,0,15,21,0,1
+10:00,Start Period,0,-80,12,,0,,0,15,21,0,2
+09:42,[CHI 17-21] Williams Jump Shot: Made (2 PTS) Assist: Evans (1 AST),-185,33,1,,1627675,1630389,1611661329,17,21,2,2
+09:16,[ATL] Howard 3pt Shot: Missed,201,118,2,,1631009,,1611661330,17,21,0,2
+09:13,[CHI] Parks Rebound (Off:0 Def:3),201,118,4,,1641641,,1611661329,17,21,0,2
+09:10,[CHI 20-21] Evans 3pt Shot: Made (3 PTS) Assist: Williams (3 AST),172,173,1,,1630389,1627675,1611661329,20,21,3,2
+08:51,[ATL] Hillmon Driving Layup Shot: Missed Block: Bertsch (1 BLK),-20,3,2,1629571,1631044,,1611661330,20,21,0,2
+08:46,[ATL] Hillmon Rebound (Off:1 Def:0),-20,3,4,,1631044,,1611661330,20,21,0,2
+08:46,[ATL 23-20] Hillmon Putback Layup Shot: Made (2 PTS),0,-5,1,,1631044,,1611661330,20,23,2,2
+08:24,[CHI] Team Turnover : Shot Clock Turnover,-4,44,5,,0,202679,1611661329,20,23,0,2
+08:13,[ATL] Durr Turnover : Bad Pass (1 TO) Steal:Evans (1 ST),75,120,5,1630389,1629476,,1611661330,20,23,0,2
+08:06,[CHI] Williams 3pt Shot: Missed,149,199,2,,1627675,,1611661329,20,23,0,2
+08:06,[CHI] Team Rebound,149,199,4,,0,,1611661329,20,23,0,2
+08:06,[ATL] Jones Foul: Loose Ball (1 PF),42,57,6,1631021,1641650,202764,1611661330,20,23,0,2
+08:06,[ATL] Durr Substitution replaced by Robinson,0,-80,8,,1629476,202658,1611661330,20,23,0,2
+07:51,[CHI] Evans 3pt Shot: Missed,9,236,2,,1630389,,1611661329,20,23,0,2
+07:49,[ATL] Robinson Rebound (Off:0 Def:3),9,236,4,,202658,,1611661330,20,23,0,2
+07:39,[ATL 25-20] Billings Driving Layup Shot: Made (2 PTS) Assist: Robinson (1 AST),4,28,1,,1628881,202658,1611661330,20,25,2,2
+07:33,[ATL] Billings Foul: Personal (1 PF),68,198,6,1629571,1628881,202679,1611661330,20,25,0,2
+07:22,[CHI] Koné Turnaround Hook Shot: Missed Block: Jones (1 BLK),12,72,2,1641650,1631021,,1611661329,20,25,0,2
+07:21,[CHI] Koné Rebound (Off:1 Def:0),12,72,4,,1631021,,1611661329,20,25,0,2
+07:21,[CHI] Koné Putback Layup Shot: Missed,0,-5,2,,1631021,,1611661329,20,25,0,2
+07:20,[ATL] Robinson Rebound (Off:0 Def:4),0,-5,4,,202658,,1611661330,20,25,0,2
+07:11,[CHI] Evans Substitution replaced by Copper,0,-80,8,,1630389,1627674,1611661329,20,25,0,2
+07:11,[CHI] Parks Substitution replaced by Mabrey,0,-80,8,,1641641,1629497,1611661329,20,25,0,2
+07:11,[CHI] Bertsch Substitution replaced by Smith,0,-80,8,,1629571,1629501,1611661329,20,25,0,2
+07:11,[ATL] Billings Substitution replaced by Coffey,0,-80,8,,1628881,1628269,1611661330,20,25,0,2
+07:11,[ATL] Jones Substitution replaced by Gray,0,-80,8,,1641650,1628277,1611661330,20,25,0,2
+07:03,[ATL 28-20] Howard 3pt Shot: Made (7 PTS) Assist: Gray (2 AST),-154,194,1,,1631009,1628277,1611661330,20,28,3,2
+06:49,[CHI] Mabrey Turnover : Lost Ball (1 TO) Steal:Gray (2 ST),88,236,5,1628277,1629497,,1611661329,20,28,0,2
+06:46,[ATL 30-20] Gray Running Layup Shot: Made (9 PTS),-1,10,1,,1628277,,1611661330,20,30,2,2
+06:44,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,20,30,0,2
+06:44,[CHI] Koné Substitution replaced by Williams,0,-80,8,,1631021,204322,1611661329,20,30,0,2
+06:37,[CHI] Copper Turnover : Bad Pass (2 TO),-88,60,5,,1627674,,1611661329,20,30,0,2
+06:24,[ATL 32-20] Robinson Pullup Jump shot: Made (4 PTS) Assist: Howard (1 AST),108,11,1,,202658,1631009,1611661330,20,32,2,2
+06:10,[CHI] Smith Turnover : Traveling (1 TO),-34,69,5,,1629501,203891,1611661329,20,32,0,2
+06:00,[CHI] Williams Foul: Personal (1 PF),-62,75,6,1631044,204322,203891,1611661329,20,32,0,2
+06:00,[ATL] Howard Substitution replaced by Durr,0,-80,8,,1631009,1629476,1611661330,20,32,0,2
+06:00,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,20,32,0,2
+05:50,[ATL] Coffey 3pt Shot: Missed,129,212,2,,1628269,,1611661330,20,32,0,2
+05:48,[CHI] Mabrey Rebound (Off:1 Def:2),129,212,4,,1629497,,1611661329,20,32,0,2
+05:43,[CHI] Williams Driving Floating Jump Shot: Missed,39,90,2,,1627675,,1611661329,20,32,0,2
+05:42,[CHI] Copper Rebound (Off:1 Def:2),39,90,4,,1627674,,1611661329,20,32,0,2
+05:37,[CHI 22-32] Copper Driving Layup Shot: Made (2 PTS),31,22,1,,1627674,,1611661329,22,32,2,2
+05:22,[CHI] Copper Foul: Personal (1 PF),-59,104,6,1629476,1627674,203891,1611661329,22,32,0,2
+05:22,[ATL] Hillmon Substitution replaced by Parker,0,-80,8,,1631044,204323,1611661330,22,32,0,2
+05:13,[ATL 34-22] Gray Driving Floating Jump Shot: Made (11 PTS) Assist: Robinson (2 AST),-11,85,1,,1628277,202658,1611661330,22,34,2,2
+05:05,[CHI 25-34] Mabrey 3pt Shot: Made (7 PTS) Assist: Williams (4 AST),199,118,1,,1629497,1627675,1611661329,25,34,3,2
+04:53,[ATL] Coffey Turnover : Bad Pass (2 TO) Steal:Mabrey (1 ST),-81,171,5,1629497,1628269,,1611661330,25,34,0,2
+04:50,[CHI 27-34] Smith Driving Layup Shot: Made (6 PTS) Assist: Williams (5 AST),21,9,1,,1629501,1627675,1611661329,27,34,2,2
+04:50,[ATL] Durr Foul: Shooting (1 PF) (1 FTA),21,9,6,1629501,1629476,203891,1611661330,27,34,0,2
+04:50,[ATL] Durr Substitution replaced by Howard,0,-80,8,,1629476,1631009,1611661330,27,34,0,2
+04:50,[CHI 28-34] Smith Free Throw 1 of 1 (7 PTS),0,-80,3,,1629501,,1611661329,28,34,1,2
+04:31,[ATL] Parker Jump Shot: Missed,164,8,2,,204323,,1611661330,28,34,0,2
+04:28,[CHI] Smith Rebound (Off:0 Def:2),164,8,4,,1629501,,1611661329,28,34,0,2
+04:24,[CHI 30-34] Mabrey Driving Layup Shot: Made (9 PTS) Assist: Smith (1 AST),23,5,1,,1629497,1629501,1611661329,30,34,2,2
+03:57,[ATL] Team Turnover : Shot Clock Turnover,-93,80,5,,0,202764,1611661330,30,34,0,2
+03:42,[CHI 32-34] Copper Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Mabrey (2 AST),18,3,1,,1627674,1629497,1611661329,32,34,2,2
+03:34,[ATL] Robinson Turnover : Bad Pass (1 TO) Steal:Copper (1 ST),123,260,5,1627674,202658,,1611661330,32,34,0,2
+03:29,[CHI 34-34] Copper Running Layup Shot: Made (6 PTS),-13,-3,1,,1627674,,1611661329,34,34,2,2
+03:14,[ATL 36-34] Gray Pullup Jump shot: Made (13 PTS) Assist: Robinson (3 AST),-37,93,1,,1628277,202658,1611661330,34,36,2,2
+03:00,[CHI] Mabrey 3pt Shot: Missed,177,165,2,,1629497,,1611661329,34,36,0,2
+02:58,[ATL] Gray Rebound (Off:1 Def:2),177,165,4,,1628277,,1611661330,34,36,0,2
+02:55,[ATL] Coffey Driving Layup Shot: Missed,-24,21,2,,1628269,,1611661330,34,36,0,2
+02:55,[ATL] Team Rebound,-24,21,4,,0,,1611661330,34,36,0,2
+02:55,[CHI] Smith Foul: Loose Ball (3 PF),-5,55,6,1628269,1629501,203891,1611661329,34,36,0,2
+02:55,[CHI] Smith Substitution replaced by Bertsch,0,-80,8,,1629501,1629571,1611661329,34,36,0,2
+02:55,[CHI] Williams Substitution replaced by Evans,0,-80,8,,1627675,1630389,1611661329,34,36,0,2
+02:49,[ATL 38-34] Parker Driving Reverse Layup Shot: Made (8 PTS),17,-3,1,,204323,,1611661330,34,38,2,2
+02:31,[CHI 37-38] Bertsch 3pt Shot: Made (5 PTS) Assist: Mabrey (3 AST),113,220,1,,1629571,1629497,1611661329,37,38,3,2
+02:15,[ATL 40-37] Howard Driving Layup Shot: Made (9 PTS),1,27,1,,1631009,,1611661330,37,40,2,2
+02:02,[CHI] Copper Pullup Jump shot: Missed,-121,10,2,,1627674,,1611661329,37,40,0,2
+01:59,[ATL] Robinson Rebound (Off:0 Def:5),-121,10,4,,202658,,1611661330,37,40,0,2
+01:54,[ATL] Coffey Driving Layup Shot: Missed,16,12,2,,1628269,,1611661330,37,40,0,2
+01:52,[ATL] Parker Rebound (Off:2 Def:1),16,12,4,,204323,,1611661330,37,40,0,2
+01:51,[ATL] Parker Layup Shot: Missed,1,16,2,,204323,,1611661330,37,40,0,2
+01:49,[CHI] Bertsch Rebound (Off:0 Def:1),1,16,4,,1629571,,1611661329,37,40,0,2
+01:40,[CHI] Mabrey Step Back Jump shot: Missed,128,108,2,,1629497,,1611661329,37,40,0,2
+01:38,[ATL] Howard Rebound (Off:0 Def:1),128,108,4,,1631009,,1611661330,37,40,0,2
+01:20,[ATL] Robinson 3pt Shot: Missed,-243,-3,2,,202658,,1611661330,37,40,0,2
+01:13,[ATL] Gray Rebound (Off:2 Def:2),-243,-3,4,,1628277,,1611661330,37,40,0,2
+01:13,[ATL 42-37] Gray Putback Layup Shot: Made (15 PTS),0,-5,1,,1628277,,1611661330,37,42,2,2
+01:11,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,37,42,0,2
+01:00,[CHI 39-42] Copper Driving Layup Shot: Made (8 PTS) Assist: Williams (1 AST),5,6,1,,1627674,204322,1611661329,39,42,2,2
+00:47.0,[ATL] Coffey Layup Shot: Missed Block: Williams (1 BLK),12,12,2,204322,1628269,,1611661330,39,42,0,2
+00:41.9,[CHI] Mabrey Rebound (Off:1 Def:3),12,12,4,,1629497,,1611661329,39,42,0,2
+00:26.7,[CHI] Copper 3pt Shot: Missed,-129,196,2,,1627674,,1611661329,39,42,0,2
+00:24.8,[ATL] Parker Rebound (Off:2 Def:2),-129,196,4,,204323,,1611661330,39,42,0,2
+00:13.3,[ATL] Howard Driving Layup Shot: Missed,-1,19,2,,1631009,,1611661330,39,42,0,2
+00:12.9,[CHI] Williams Rebound (Off:1 Def:2),-1,19,4,,204322,,1611661329,39,42,0,2
+00:12.9,[ATL] Coffey Foul: Personal (1 PF),3,790,6,204322,1628269,203891,1611661330,39,42,0,2
+00:02.1,[CHI 41-42] Copper Driving Layup Shot: Made (10 PTS),10,8,1,,1627674,,1611661329,41,42,2,2
+00:00.0,[ATL] Howard 3pt Shot: Missed,46,563,2,,1631009,,1611661330,41,42,0,2
+00:00.0,[ATL] Team Rebound,46,563,4,,0,,1611661330,41,42,0,2
+00:00.0,End Period,0,-80,13,,0,,0,41,42,0,2
+10:00,Start Period,0,-80,12,,0,,0,41,42,0,3
+09:46,[CHI 43-42] Copper Driving Layup Shot: Made (12 PTS),-10,12,1,,1627674,,1611661329,43,42,2,3
+09:29,[ATL] Howard Turnover : Bad Pass (1 TO) Steal:Williams (2 ST),-10,261,5,1627675,1631009,,1611661330,43,42,0,3
+09:23,[CHI 45-42] Smith Running Reverse Layup Shot: Made (9 PTS) Assist: Williams (6 AST),5,7,1,,1629501,1627675,1611661329,45,42,2,3
+09:06,[ATL] Gray Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-62,230,5,,1628277,203891,1611661330,45,42,0,3
+08:51,[CHI 47-42] Williams Cutting Layup Shot: Made (7 PTS) Assist: Copper (1 AST),-16,1,1,,204322,1627674,1611661329,47,42,2,3
+08:36,[ATL 44-47] Coffey Jump Shot: Made (4 PTS) Assist: Robinson (4 AST),135,143,1,,1628269,202658,1611661330,47,44,2,3
+08:15,[CHI] Copper Driving Layup Shot: Missed Block: Parker (2 BLK),-5,24,2,204323,1627674,,1611661329,47,44,0,3
+08:11,[ATL] Coffey Rebound (Off:2 Def:5),-5,24,4,,1628269,,1611661330,47,44,0,3
+08:05,[ATL 47-47] Robinson 3pt Shot: Made (7 PTS) Assist: Howard (2 AST),248,8,1,,202658,1631009,1611661330,47,47,3,3
+07:45,[CHI] Williams Turnover : Lost Ball (1 TO) Steal:Robinson (1 ST),-56,169,5,202658,1627675,,1611661329,47,47,0,3
+07:38,[ATL 49-47] Parker Driving Layup Shot: Made (10 PTS),-2,8,1,,204323,,1611661330,47,49,2,3
+07:20,[CHI] Mabrey 3pt Shot: Missed,236,-1,2,,1629497,,1611661329,47,49,0,3
+07:16,[ATL] Howard Rebound (Off:0 Def:2),236,-1,4,,1631009,,1611661330,47,49,0,3
+07:08,[ATL] Howard Turnover : Out of Bounds - Bad Pass Turnover (2 TO),59,134,5,,1631009,202764,1611661330,47,49,0,3
+06:57,[ATL] Gray Foul: Shooting (1 PF) (2 FTA),-13,11,6,1629497,1628277,202764,1611661330,47,49,0,3
+06:57,[CHI 48-49] Mabrey Free Throw 1 of 2 (10 PTS),0,-80,3,,1629497,,1611661329,48,49,1,3
+06:57,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,48,49,0,3
+06:57,[CHI 49-49] Mabrey Free Throw 2 of 2 (11 PTS),0,-80,3,,1629497,,1611661329,49,49,1,3
+06:45,[CHI] Mabrey Foul: Personal (1 PF),102,183,6,1628277,1629497,202679,1611661329,49,49,0,3
+06:32,[ATL] Billings Turnaround Jump Shot: Missed,56,81,2,,1628881,,1611661330,49,49,0,3
+06:32,[CHI] Williams Rebound (Off:1 Def:3),56,81,4,,204322,,1611661329,49,49,0,3
+06:32,[CHI] Copper Turnover : Lost Ball (3 TO) Steal:Gray (3 ST),-63,739,5,1628277,1627674,,1611661329,49,49,0,3
+06:31,[CHI] Copper Foul: Personal (2 PF),61,135,6,1628277,1627674,202764,1611661329,49,49,0,3
+06:22,[ATL 51-49] Gray Jump Shot: Made (17 PTS) Assist: Robinson (5 AST),-141,22,1,,1628277,202658,1611661330,49,51,2,3
+06:13,[CHI] Williams Turnover : Lost Ball (2 TO) Steal:Robinson (2 ST),145,265,5,202658,1627675,,1611661329,49,51,0,3
+06:09,[ATL 53-49] Robinson Driving Layup Shot: Made (9 PTS),6,8,1,,202658,,1611661330,49,53,2,3
+05:51,[CHI 51-53] Williams Driving Hook Shot: Made (9 PTS) Assist: Williams (7 AST),-4,10,1,,204322,1627675,1611661329,51,53,2,3
+05:33,[ATL] Gray Pullup Jump shot: Missed,3,132,2,,1628277,,1611661330,51,53,0,3
+05:31,[CHI] Smith Rebound (Off:0 Def:3),3,132,4,,1629501,,1611661329,51,53,0,3
+05:26,[CHI] Williams Turnover : Bad Pass (3 TO) Steal:Billings (1 ST),117,65,5,1628881,1627675,,1611661329,51,53,0,3
+05:22,[ATL 55-51] Billings Running Layup Shot: Made (4 PTS),-11,0,1,,1628881,,1611661330,51,55,2,3
+05:13,[CHI] Copper Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-172,295,5,,1627674,203891,1611661329,51,55,0,3
+05:13,[CHI] Williams Substitution replaced by Evans,0,-80,8,,1627675,1630389,1611661329,51,55,0,3
+04:47,[ATL] Robinson Driving Layup Shot: Missed,13,15,2,,202658,,1611661330,51,55,0,3
+04:45,[CHI] Copper Rebound (Off:1 Def:3),13,15,4,,1627674,,1611661329,51,55,0,3
+04:35,[CHI] Copper 3pt Shot: Missed,-21,259,2,,1627674,,1611661329,51,55,0,3
+04:33,[ATL] Coffey Rebound (Off:2 Def:6),-21,259,4,,1628269,,1611661330,51,55,0,3
+04:26,[ATL] Coffey Running Pull-Up Jump Shot: Missed,-62,149,2,,1628269,,1611661330,51,55,0,3
+04:24,[CHI] Williams Rebound (Off:1 Def:4),-62,149,4,,204322,,1611661329,51,55,0,3
+04:16,[CHI 53-55] Evans Jump Shot: Made (5 PTS) Assist: Williams (2 AST),-11,195,1,,1630389,204322,1611661329,53,55,2,3
+04:00,[ATL] Billings Foul: Offensive (2 PF),122,122,6,1630389,1628881,203891,1611661330,53,55,0,3
+04:00,[ATL] Billings Turnover : Offensive Foul Turnover (1 TO),122,122,5,,1628881,203891,1611661330,53,55,0,3
+04:00,Timeout Officials,0,-80,9,,0,,0,53,55,0,3
+04:00,[CHI] Williams Substitution replaced by Bertsch,0,-80,8,,204322,1629571,1611661329,53,55,0,3
+04:00,[ATL] Robinson Substitution replaced by Jones,0,-80,8,,202658,1641650,1611661330,53,55,0,3
+04:00,[ATL] Coffey Substitution replaced by Parker,0,-80,8,,1628269,204323,1611661330,53,55,0,3
+04:00,[ATL] Billings Substitution replaced by Hillmon,0,-80,8,,1628881,1631044,1611661330,53,55,0,3
+03:39,[CHI] Evans 3pt Shot: Missed,205,98,2,,1630389,,1611661329,53,55,0,3
+03:36,[ATL] Howard Rebound (Off:0 Def:3),205,98,4,,1631009,,1611661330,53,55,0,3
+03:21,[ATL 57-53] Hillmon Cutting Layup Shot: Made (4 PTS) Assist: Parker (1 AST),10,9,1,,1631044,204323,1611661330,53,57,2,3
+03:07,[CHI 56-57] Evans 3pt Shot: Made (8 PTS) Assist: Copper (2 AST),138,203,1,,1630389,1627674,1611661329,56,57,3,3
+03:00,[ATL] Gray Turnover : Lost Ball (3 TO) Steal:Evans (2 ST),112,234,5,1630389,1628277,,1611661330,56,57,0,3
+02:54,[CHI] Copper Running Layup Shot: Missed,-16,11,2,,1627674,,1611661329,56,57,0,3
+02:53,[ATL] Jones Rebound (Off:0 Def:1),-16,11,4,,1641650,,1611661330,56,57,0,3
+02:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,57,0,3
+02:38,[ATL] Jones Turnover : Bad Pass (1 TO) Steal:Smith (1 ST),-157,167,5,1629501,1641650,,1611661330,56,57,0,3
+02:20,[CHI] Mabrey Floating Jump shot: Missed Block: Parker (3 BLK),-59,40,2,204323,1629497,,1611661329,56,57,0,3
+02:20,[CHI] Team Rebound,-59,40,4,,0,,1611661329,56,57,0,3
+02:20,[CHI] Team Timeout : Short,0,-80,9,,1611661329,,1611661329,56,57,0,3
+02:14,[CHI] Team Turnover : Shot Clock Turnover,196,16,5,,0,202679,1611661329,56,57,0,3
+01:57,[CHI] Evans Violation:Kicked Ball,0,-80,7,,1630389,,1611661329,56,57,0,3
+01:51,[ATL] Hillmon Driving Layup Shot: Missed,7,16,2,,1631044,,1611661330,56,57,0,3
+01:51,[CHI] Team Rebound,7,16,4,,0,,1611661329,56,57,0,3
+01:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,57,0,3
+01:51,[ATL] Jones Substitution replaced by Robinson,0,-80,8,,1641650,202658,1611661330,56,57,0,3
+01:51,[CHI] Smith Substitution replaced by Parks,0,-80,8,,1629501,1641641,1611661329,56,57,0,3
+01:26,[CHI 58-57] Bertsch Cutting Layup Shot: Made (7 PTS) Assist: Copper (3 AST),-20,16,1,,1629571,1627674,1611661329,58,57,2,3
+01:12,[CHI] Evans Foul: Shooting (1 PF) (2 FTA),-18,20,6,202658,1630389,203891,1611661329,58,57,0,3
+01:12,[ATL] Robinson Free Throw 1 of 2 Missed,0,-80,3,,202658,,1611661330,58,57,0,3
+01:12,[ATL] Team Rebound,0,-80,4,,0,,1611661330,58,57,0,3
+01:12,[CHI] Mabrey Substitution replaced by Smith,0,-80,8,,1629497,1629501,1611661329,58,57,0,3
+01:12,[ATL 58-58] Robinson Free Throw 2 of 2 (10 PTS),0,-80,3,,202658,,1611661330,58,58,1,3
+00:53.8,[CHI] Parks 3pt Shot: Missed,-152,201,2,,1641641,,1611661329,58,58,0,3
+00:50.3,[ATL] Parker Rebound (Off:2 Def:3),-152,201,4,,204323,,1611661330,58,58,0,3
+00:36.6,[ATL] Parker Turnover : 3 Second Violation (2 TO),55,63,5,,204323,202679,1611661330,58,58,0,3
+00:19.1,[CHI] Evans Jump Shot: Missed Block: Parker (4 BLK),-31,55,2,204323,1630389,,1611661329,58,58,0,3
+00:18.4,[ATL] Robinson Rebound (Off:0 Def:6),-31,55,4,,202658,,1611661330,58,58,0,3
+00:18.4,[CHI] Evans Technical (1 FTA),0,-80,6,,1630389,202764,1611661329,58,58,0,3
+00:18.4,[ATL 59-58] Gray Free Throw Technical (18 PTS),0,-80,3,,1628277,,1611661330,58,59,1,3
+00:05.9,[ATL] Robinson Turnover : Bad Pass (2 TO) Steal:Bertsch (1 ST),-85,285,5,1629571,202658,,1611661330,58,59,0,3
+00:00.0,[CHI] Evans Jump Shot: Missed,-61,92,2,,1630389,,1611661329,58,59,0,3
+00:00.0,[CHI] Team Rebound,-61,92,4,,0,,1611661329,58,59,0,3
+00:00.0,End Period,0,-80,13,,0,,0,58,59,0,3
+10:00,Start Period,0,-80,12,,0,,0,58,59,0,4
+09:36,[ATL] Team Turnover : Shot Clock Turnover,233,10,5,,0,202679,1611661330,58,59,0,4
+09:18,[CHI] Bertsch Driving Floating Jump Shot: Missed,147,67,2,,1629571,,1611661329,58,59,0,4
+09:15,[ATL] Parker Rebound (Off:2 Def:4),147,67,4,,204323,,1611661330,58,59,0,4
+09:09,[ATL 62-58] Gray 3pt Shot: Made (21 PTS) Assist: Robinson (6 AST),-229,22,1,,1628277,202658,1611661330,58,62,3,4
+08:45,[CHI] Evans 3pt Shot: Missed,-50,255,2,,1630389,,1611661329,58,62,0,4
+08:45,[ATL] Parker Rebound (Off:2 Def:5),-50,255,4,,204323,,1611661330,58,62,0,4
+08:36,[ATL 65-58] Howard 3pt Shot: Made (12 PTS) Assist: Parker (2 AST),-111,226,1,,1631009,204323,1611661330,58,65,3,4
+08:34,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,58,65,0,4
+08:34,[CHI] Evans Substitution replaced by Williams,0,-80,8,,1630389,1627675,1611661329,58,65,0,4
+08:25,[CHI] Williams 3pt Shot: Missed,-112,236,2,,1627675,,1611661329,58,65,0,4
+08:22,[ATL] Howard Rebound (Off:0 Def:4),-112,236,4,,1631009,,1611661330,58,65,0,4
+08:05,[ATL 67-58] Hillmon Cutting Layup Shot: Made (6 PTS) Assist: Gray (3 AST),18,6,1,,1631044,1628277,1611661330,58,67,2,4
+08:05,[CHI] Mabrey Foul: Shooting (2 PF) (1 FTA),18,6,6,1631044,1629497,203891,1611661329,58,67,0,4
+08:05,[CHI] Parks Substitution replaced by Copper,0,-80,8,,1641641,1627674,1611661329,58,67,0,4
+08:05,[ATL 68-58] Hillmon Free Throw 1 of 1 (7 PTS),0,-80,3,,1631044,,1611661330,58,68,1,4
+07:46,[CHI] Bertsch 3pt Shot: Missed,158,187,2,,1629571,,1611661329,58,68,0,4
+07:43,[ATL] Parker Rebound (Off:2 Def:6),158,187,4,,204323,,1611661330,58,68,0,4
+07:22,[ATL 71-58] Howard 3pt Shot: Made (15 PTS),-8,251,1,,1631009,,1611661330,58,71,3,4
+07:10,[CHI] Copper Driving Floating Jump Shot: Missed,-132,103,2,,1627674,,1611661329,58,71,0,4
+07:09,[ATL] Gray Rebound (Off:2 Def:3),-132,103,4,,1628277,,1611661330,58,71,0,4
+07:01,[CHI] Bertsch Foul: Shooting (2 PF) (2 FTA),13,24,6,1631044,1629571,202764,1611661329,58,71,0,4
+07:01,[ATL 72-58] Hillmon Free Throw 1 of 2 (8 PTS),0,-80,3,,1631044,,1611661330,58,72,1,4
+07:01,[CHI] Bertsch Substitution replaced by Smith,0,-80,8,,1629571,1629501,1611661329,58,72,0,4
+07:01,[ATL] Hillmon Free Throw 2 of 2 Missed,0,-80,3,,1631044,,1611661330,58,72,0,4
+06:57,[CHI] Smith Rebound (Off:0 Def:4),0,-80,4,,1629501,,1611661329,58,72,0,4
+06:46,[ATL] Hillmon Foul: Shooting (1 PF) (2 FTA),-15,13,6,1627675,1631044,202764,1611661330,58,72,0,4
+06:46,[CHI] Williams Free Throw 1 of 2 Missed,0,-80,3,,1627675,,1611661329,58,72,0,4
+06:46,[CHI] Team Rebound,0,-80,4,,0,,1611661329,58,72,0,4
+06:46,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,58,72,0,4
+06:46,[CHI 59-72] Williams Free Throw 2 of 2 (3 PTS),0,-80,3,,1627675,,1611661329,59,72,1,4
+06:24,[ATL] Parker Layup Shot: Missed,1,13,2,,204323,,1611661330,59,72,0,4
+06:22,[ATL] Parker Rebound (Off:3 Def:6),1,13,4,,204323,,1611661330,59,72,0,4
+06:21,[ATL 74-59] Robinson Cutting Layup Shot: Made (12 PTS) Assist: Parker (3 AST),-6,-6,1,,202658,204323,1611661330,59,74,2,4
+06:21,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,59,74,0,4
+06:12,[ATL] Parker Foul: Personal (2 PF),33,49,6,204322,204323,202679,1611661330,59,74,0,4
+06:06,[ATL] Coffey Foul: Shooting (2 PF) (2 FTA),13,16,6,204322,1628269,202764,1611661330,59,74,0,4
+06:06,[CHI 60-74] Williams Free Throw 1 of 2 (10 PTS),0,-80,3,,204322,,1611661329,60,74,1,4
+06:06,[CHI 61-74] Williams Free Throw 2 of 2 (11 PTS),0,-80,3,,204322,,1611661329,61,74,1,4
+05:42,[ATL] Howard Jump Shot: Missed,96,175,2,,1631009,,1611661330,61,74,0,4
+05:41,[ATL] Robinson Rebound (Off:1 Def:6),96,175,4,,202658,,1611661330,61,74,0,4
+05:32,[ATL 76-61] Parker Layup Shot: Made (12 PTS) Assist: Coffey (1 AST),13,1,1,,204323,1628269,1611661330,61,76,2,4
+05:24,[ATL] Parker Foul: Personal (3 PF),-112,195,6,204322,204323,202679,1611661330,61,76,0,4
+05:13,[CHI] Smith 3pt Shot: Missed,-243,27,2,,1629501,,1611661329,61,76,0,4
+05:11,[ATL] Parker Rebound (Off:3 Def:7),-243,27,4,,204323,,1611661330,61,76,0,4
+05:07,[CHI] Williams Foul: Personal (2 PF),-230,90,6,1631009,204322,203891,1611661329,61,76,0,4
+04:51,[ATL] Coffey Driving Layup Shot: Missed,-12,1,2,,1628269,,1611661330,61,76,0,4
+04:48,[ATL] Robinson Rebound (Off:2 Def:6),-22,3,4,,202658,,1611661330,61,76,0,4
+04:45,[ATL] Gray Layup Shot: Missed,9,9,2,,1628277,,1611661330,61,76,0,4
+04:43,[CHI] Smith Rebound (Off:0 Def:5),9,9,4,,1629501,,1611661329,61,76,0,4
+04:37,[CHI] Williams Jump Shot: Missed,90,16,2,,1627675,,1611661329,61,76,0,4
+04:35,[ATL] Howard Rebound (Off:0 Def:5),90,16,4,,1631009,,1611661330,61,76,0,4
+04:30,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,61,76,0,4
+04:13,[ATL] Parker 3pt Shot: Missed,227,44,2,,204323,,1611661330,61,76,0,4
+04:11,[CHI] Smith Rebound (Off:0 Def:6),227,44,4,,1629501,,1611661329,61,76,0,4
+04:01,[CHI] Copper Turnover : Lost Ball (5 TO) Steal:Robinson (3 ST),8,32,5,202658,1627674,,1611661329,61,76,0,4
+03:52,[ATL] Coffey Turnover : Bad Pass (3 TO) Steal:Williams (3 ST),-43,16,5,1627675,1628269,,1611661330,61,76,0,4
+03:48,[CHI] Mabrey 3pt Shot: Missed,-154,212,2,,1629497,,1611661329,61,76,0,4
+03:45,[CHI] Copper Rebound (Off:2 Def:3),-154,212,4,,1627674,,1611661329,61,76,0,4
+03:44,[CHI 63-76] Copper Putback Layup Shot: Made (14 PTS),8,19,1,,1627674,,1611661329,63,76,2,4
+03:19,[ATL] Parker Fadeaway Bank shot: Missed,18,124,2,,204323,,1611661330,63,76,0,4
+03:17,[CHI] Copper Rebound (Off:2 Def:4),18,124,4,,1627674,,1611661329,63,76,0,4
+03:13,[ATL] Gray Foul: Personal (2 PF) (2 FTA),65,91,6,1627674,1628277,203891,1611661330,63,76,0,4
+03:13,[CHI 64-76] Copper Free Throw 1 of 2 (15 PTS),0,-80,3,,1627674,,1611661329,64,76,1,4
+03:13,[CHI 65-76] Copper Free Throw 2 of 2 (16 PTS),0,-80,3,,1627674,,1611661329,65,76,1,4
+03:00,[CHI] Williams Foul: Shooting (3 PF) (2 FTA),9,8,6,204323,204322,203891,1611661329,65,76,0,4
+03:00,[ATL 77-65] Parker Free Throw 1 of 2 (13 PTS),0,-80,3,,204323,,1611661330,65,77,1,4
+03:00,[ATL 78-65] Parker Free Throw 2 of 2 (14 PTS),0,-80,3,,204323,,1611661330,65,78,1,4
+02:43,[CHI] Williams Layup Shot: Missed,7,22,2,,204322,,1611661329,65,78,0,4
+02:41,[ATL] Robinson Rebound (Off:2 Def:7),7,22,4,,202658,,1611661330,65,78,0,4
+02:21,[ATL] Coffey 3pt Shot: Missed,129,215,2,,1628269,,1611661330,65,78,0,4
+02:16,[CHI] Williams Rebound (Off:0 Def:2),129,215,4,,1627675,,1611661329,65,78,0,4
+02:07,[CHI 68-78] Mabrey 3pt Shot: Made (14 PTS) Assist: Williams (3 AST),222,82,1,,1629497,204322,1611661329,68,78,3,4
+02:06,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,68,78,0,4
+02:06,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,68,78,0,4
+01:47,[ATL 80-68] Robinson Cutting Layup Shot: Made (14 PTS) Assist: Billings (1 AST),7,0,1,,202658,1628881,1611661330,68,80,2,4
+01:30,[CHI] Mabrey Driving Layup Shot: Missed,-11,27,2,,1629497,,1611661329,68,80,0,4
+01:28,[ATL] Coffey Rebound (Off:2 Def:7),-11,27,4,,1628269,,1611661330,68,80,0,4
+01:10,[ATL] Billings Foul: Offensive (3 PF),-2,199,6,1629497,1628881,202679,1611661330,68,80,0,4
+01:10,[ATL] Billings Turnover : Offensive Foul Turnover (2 TO),-2,199,5,,1628881,202679,1611661330,68,80,0,4
+01:10,[CHI] Williams Substitution replaced by Evans,0,-80,8,,204322,1630389,1611661329,68,80,0,4
+01:10,[CHI] Copper Substitution replaced by Soule,0,-80,8,,1627674,1641667,1611661329,68,80,0,4
+01:10,[CHI] Mabrey Substitution replaced by Koné,0,-80,8,,1629497,1631021,1611661329,68,80,0,4
+01:10,[CHI] Smith Substitution replaced by Parks,0,-80,8,,1629501,1641641,1611661329,68,80,0,4
+01:10,[CHI] Williams Substitution replaced by Bertsch,0,-80,8,,1627675,1629571,1611661329,68,80,0,4
+00:56.0,[CHI] Soule Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),-46,211,5,1631009,1641667,,1611661329,68,80,0,4
+00:53.4,[ATL 82-68] Howard Running Layup Shot: Made (17 PTS),-11,8,1,,1631009,,1611661330,68,82,2,4
+00:53.4,[CHI] Soule Foul: Shooting (1 PF) (1 FTA),-11,8,6,1631009,1641667,202764,1611661329,68,82,0,4
+00:53.4,[ATL] Howard Free Throw 1 of 1 Missed,0,-80,3,,1631009,,1611661330,68,82,0,4
+00:49.4,[CHI] Koné Rebound (Off:1 Def:1),0,-80,4,,1631021,,1611661329,68,82,0,4
+00:29.5,[CHI] Parks Jump Shot: Missed Block: Coffey (1 BLK),-29,59,2,1628269,1641641,,1611661329,68,82,0,4
+00:29.4,[CHI] Parks Rebound (Off:1 Def:3),-29,59,4,,1641641,,1611661329,68,82,0,4
+00:29.1,[CHI] Team Turnover : Shot Clock Turnover,-87,125,5,,0,203891,1611661329,68,82,0,4
+00:01.4,[ATL] Howard 3pt Shot: Missed,-179,169,2,,1631009,,1611661330,68,82,0,4
+00:01.4,[CHI] Koné Rebound (Off:1 Def:2),-179,169,4,,1631021,,1611661329,68,82,0,4
+00:00.0,End Period,0,-80,13,,0,,0,68,82,0,4

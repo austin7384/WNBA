@@ -1,0 +1,426 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Johnson vs Charles (Gray gains possession),0,-80,10,202250,203017,1628277,1611661321,0,0,1
+09:33,[DAL] Gray Floating Jump shot: Missed,55,26,2,,1628277,,1611661321,0,0,1
+09:32,[DAL] Christmas-Kelly Rebound (Off:1 Def:0),0,-80,4,,202640,,1611661321,0,0,1
+09:32,[NYL] Zellous Foul: Personal (1 PF),-13,9,6,202640,201919,,1611661313,0,0,1
+09:21,[DAL] Christmas-Kelly Driving Layup Shot: Missed,15,21,2,,202640,,1611661321,0,0,1
+09:19,[NYL] Charles Rebound (Off:0 Def:1),0,-80,4,,202250,,1611661313,0,0,1
+09:10,[NYL] Vaughn Layup Shot: Missed,24,13,2,,201913,,1611661313,0,0,1
+09:10,[DAL] Team Rebound,0,-80,4,,0,,1611661321,0,0,1
+08:53,[DAL] Johnson 3pt Shot: Missed,-153,164,2,,203017,,1611661321,0,0,1
+08:52,[NYL] Vaughn Rebound (Off:0 Def:1),0,-80,4,,201913,,1611661313,0,0,1
+08:30,[NYL 2-0] Vaughn Layup Shot: Made (2 PTS) Assist: Charles (1 AST),-7,13,1,,201913,202250,1611661313,0,2,1
+08:16,[DAL] Christmas-Kelly Driving Layup Shot: Missed Block: Prince (1 BLK),0,16,2,202259,202640,,1611661321,0,2,1
+08:16,[NYL] Team Rebound,0,-80,4,,0,,1611661313,0,2,1
+08:02,[NYL 4-0] Charles Driving Hook Shot: Made (2 PTS),-2,46,1,,202250,,1611661313,0,4,1
+07:52,[NYL] Hartley Foul: Shooting (1 PF) (2 FTA),-97,57,6,203400,203829,,1611661313,0,4,1
+07:52,[DAL 1-4] Diggins-Smith Free Throw 1 of 2 (1 PTS),0,-80,3,,203400,,1611661321,1,4,1
+07:52,[DAL] Diggins-Smith Free Throw 2 of 2 Missed,0,-80,3,,203400,,1611661321,1,4,1
+07:50,[NYL] Vaughn Rebound (Off:0 Def:2),0,-80,4,,201913,,1611661313,1,4,1
+07:38,[NYL] Charles Turnaround Jump Shot: Missed,-11,47,2,,202250,,1611661313,1,4,1
+07:37,[NYL] Vaughn Rebound (Off:1 Def:2),0,-80,4,,201913,,1611661313,1,4,1
+07:33,[NYL 6-1] Vaughn Putback Layup Shot: Made (4 PTS),-4,21,1,,201913,,1611661313,1,6,1
+07:23,[DAL] Diggins-Smith 3pt Shot: Missed,-147,188,2,,203400,,1611661321,1,6,1
+07:23,[NYL] Charles Rebound (Off:0 Def:2),0,-80,4,,202250,,1611661313,1,6,1
+07:14,[NYL 8-1] Vaughn Layup Shot: Made (6 PTS) Assist: Zellous (1 AST),28,16,1,,201913,201919,1611661313,1,8,1
+07:14,[DAL] Diggins-Smith Foul: Shooting (1 PF) (1 FTA),28,16,6,201913,203400,,1611661321,1,8,1
+07:14,[NYL 9-1] Vaughn Free Throw 1 of 1 (7 PTS),0,-80,3,,201913,,1611661313,1,9,1
+07:00,[DAL] Johnson Turnover : Lost Ball (1 TO) Steal:Zellous (1 ST),0,-80,5,201919,203017,,1611661321,1,9,1
+06:52,[NYL] Charles Driving Layup Shot: Missed,12,26,2,,202250,,1611661313,1,9,1
+06:50,[DAL] Johnson Rebound (Off:0 Def:1),0,-80,4,,203017,,1611661321,1,9,1
+06:40,[NYL] Vaughn Foul: Shooting (1 PF) (2 FTA),35,21,6,203017,201913,,1611661313,1,9,1
+06:40,[DAL 2-9] Johnson Free Throw 1 of 2 (1 PTS),0,-80,3,,203017,,1611661321,2,9,1
+06:40,[DAL] Plaisance Substitution replaced by Paris,0,-80,8,,203849,201907,1611661321,2,9,1
+06:40,[DAL] Johnson Free Throw 2 of 2 Missed,0,-80,3,,203017,,1611661321,2,9,1
+06:39,[NYL] Charles Rebound (Off:0 Def:3),0,-80,4,,202250,,1611661313,2,9,1
+06:32,[NYL 11-2] Zellous Running Layup Shot: Made (2 PTS),17,11,1,,201919,,1611661313,2,11,1
+06:12,[DAL] Gray Step Back Jump shot: Missed,-1,154,2,,1628277,,1611661321,2,11,1
+06:11,[NYL] Charles Rebound (Off:0 Def:4),0,-80,4,,202250,,1611661313,2,11,1
+06:04,[DAL] Johnson Foul: Shooting (1 PF) (2 FTA),9,38,6,202250,203017,,1611661321,2,11,1
+06:04,[NYL 12-2] Charles Free Throw 1 of 2 (3 PTS),0,-80,3,,202250,,1611661313,2,12,1
+06:04,[NYL 13-2] Charles Free Throw 2 of 2 (4 PTS),0,-80,3,,202250,,1611661313,2,13,1
+05:43,[DAL] Johnson Turnaround Jump Shot: Missed,40,110,2,,203017,,1611661321,2,13,1
+05:41,[DAL] Paris Rebound (Off:1 Def:0),0,-80,4,,201907,,1611661321,2,13,1
+05:34,[DAL 4-13] Johnson Cutting Layup Shot: Made (3 PTS) Assist: Paris (1 AST),19,13,1,,203017,201907,1611661321,4,13,1
+05:22,[NYL] Hartley Driving Bank shot: Missed,-30,31,2,,203829,,1611661313,4,13,1
+05:21,[DAL] Paris Rebound (Off:1 Def:1),0,-80,4,,201907,,1611661321,4,13,1
+05:12,[DAL] Johnson 3pt Shot: Missed,123,198,2,,203017,,1611661321,4,13,1
+05:12,[DAL] Team Rebound,0,-80,4,,0,,1611661321,4,13,1
+05:12,[NYL] Zellous Foul: Loose Ball (2 PF),-54,34,6,202640,201919,,1611661313,4,13,1
+05:12,[NYL] Zellous Substitution replaced by Allen,0,-80,8,,201919,204296,1611661313,4,13,1
+05:01,[DAL 6-13] Gray Jump Shot: Made (2 PTS) Assist: Christmas-Kelly (1 AST),212,7,1,,1628277,202640,1611661321,6,13,1
+04:51,[NYL] Prince Pullup Jump shot: Missed,40,165,2,,202259,,1611661313,6,13,1
+04:50,[DAL] Johnson Rebound (Off:0 Def:2),0,-80,4,,203017,,1611661321,6,13,1
+04:30,[DAL 8-13] Gray Cutting Layup Shot: Made (4 PTS) Assist: Paris (2 AST),-20,16,1,,1628277,201907,1611661321,8,13,1
+04:15,[DAL] Paris Foul: Shooting (1 PF) (2 FTA),-9,41,6,201913,201907,,1611661321,8,13,1
+04:15,Timeout : Official,0,-80,9,,0,,0,8,13,1
+04:15,[NYL] Hartley Substitution replaced by Allen,0,-80,8,,203829,1628263,1611661313,8,13,1
+04:15,[DAL] Johnson Substitution replaced by Thornton,0,-80,8,,203017,203866,1611661321,8,13,1
+04:15,[NYL 14-8] Vaughn Free Throw 1 of 2 (8 PTS),0,-80,3,,201913,,1611661313,8,14,1
+04:15,[NYL 15-8] Vaughn Free Throw 2 of 2 (9 PTS),0,-80,3,,201913,,1611661313,8,15,1
+04:01,[DAL 10-15] Paris Hook Shot: Made (2 PTS),14,41,1,,201907,,1611661321,10,15,1
+03:42,[NYL] Vaughn Layup Shot: Missed Block: Paris (1 BLK),-14,2,2,201907,201913,,1611661313,10,15,1
+03:41,[NYL] Vaughn Rebound (Off:2 Def:2),0,-80,4,,201913,,1611661313,10,15,1
+03:40,[NYL] Vaughn Foul: Offensive (2 PF),9,47,6,202640,201913,,1611661313,10,15,1
+03:40,[NYL] Vaughn Turnover : Foul (1 TO),0,-80,5,,201913,,1611661313,10,15,1
+03:40,[NYL] Prince Substitution replaced by Rodgers,0,-80,8,,202259,203411,1611661313,10,15,1
+03:40,[NYL] Vaughn Substitution replaced by Stokes,0,-80,8,,201913,204329,1611661313,10,15,1
+03:26,[NYL] Stokes Foul: Shooting (1 PF) (2 FTA),-2,16,6,201907,204329,,1611661313,10,15,1
+03:26,[DAL 11-15] Paris Free Throw 1 of 2 (3 PTS),0,-80,3,,201907,,1611661321,11,15,1
+03:26,[DAL] Gray Substitution replaced by Powers,0,-80,8,,1628277,1627672,1611661321,11,15,1
+03:26,[DAL 12-15] Paris Free Throw 2 of 2 (4 PTS),0,-80,3,,201907,,1611661321,12,15,1
+03:17,[NYL] Charles Turnover : Lost Ball (1 TO) Steal:Christmas-Kelly (1 ST),0,-80,5,202640,202250,,1611661313,12,15,1
+03:17,Jump Ball Christmas-Kelly vs Charles (Diggins-Smith gains possession),0,-80,10,202250,202640,203400,1611661321,12,15,1
+03:12,[DAL] Paris Substitution replaced by Plaisance,0,-80,8,,201907,203849,1611661321,12,15,1
+02:59,[NYL] Stokes Foul: Personal (2 PF) (2 FTA),4,33,6,202640,204329,,1611661313,12,15,1
+02:59,[DAL] Christmas-Kelly Free Throw 1 of 2 Missed,0,-80,3,,202640,,1611661321,12,15,1
+02:59,[DAL] Team Rebound,0,-80,4,,0,,1611661321,12,15,1
+02:59,[NYL] Stokes Substitution replaced by Zahui B,0,-80,8,,204329,204320,1611661313,12,15,1
+02:59,[NYL] Charles Substitution replaced by Raincock-Ekunwe,0,-80,8,,202250,1628248,1611661313,12,15,1
+02:59,[DAL 13-15] Christmas-Kelly Free Throw 2 of 2 (1 PTS),0,-80,3,,202640,,1611661321,13,15,1
+02:47,[NYL 17-13] Raincock-Ekunwe Driving Layup Shot: Made (2 PTS),-12,21,1,,1628248,,1611661313,13,17,1
+02:33,[NYL] Allen Foul: Personal (1 PF) (2 FTA),110,28,6,203849,204296,,1611661313,13,17,1
+02:33,[DAL] Plaisance Free Throw 1 of 2 Missed,0,-80,3,,203849,,1611661321,13,17,1
+02:33,[DAL] Team Rebound,0,-80,4,,0,,1611661321,13,17,1
+02:33,[DAL] Diggins-Smith Substitution replaced by Chong,0,-80,8,,203400,1628267,1611661321,13,17,1
+02:33,[DAL 14-17] Plaisance Free Throw 2 of 2 (1 PTS),0,-80,3,,203849,,1611661321,14,17,1
+02:21,[NYL] Rodgers Jump Shot: Missed,-119,154,2,,203411,,1611661313,14,17,1
+02:21,[DAL] Team Rebound,0,-80,4,,0,,1611661321,14,17,1
+02:01,[DAL] Powers Turnaround Jump Shot: Missed,1,31,2,,1627672,,1611661321,14,17,1
+02:00,[NYL] Raincock-Ekunwe Rebound (Off:0 Def:1),0,-80,4,,1628248,,1611661313,14,17,1
+01:52,[NYL] Allen Pullup Jump shot: Missed,82,120,2,,1628263,,1611661313,14,17,1
+01:49,[DAL] Thornton Rebound (Off:0 Def:1),0,-80,4,,203866,,1611661321,14,17,1
+01:34,[DAL 17-17] Chong 3pt Shot: Made (3 PTS) Assist: Thornton (1 AST),228,0,1,,1628267,203866,1611661321,17,17,1
+01:19,[NYL] Rodgers Step Back Jump shot: Missed,123,159,2,,203411,,1611661313,17,17,1
+01:17,[DAL] Powers Rebound (Off:0 Def:1),0,-80,4,,1627672,,1611661321,17,17,1
+01:13,[DAL] Powers Turnover : Traveling (1 TO),0,-80,5,,1627672,,1611661321,17,17,1
+00:56.5,[NYL] Raincock-Ekunwe Foul: Offensive Charge (1 PF),45,56,6,203849,1628248,,1611661313,17,17,1
+00:56.5,[NYL] Raincock-Ekunwe Turnover : Foul (1 TO),0,-80,5,,1628248,,1611661313,17,17,1
+00:44.1,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,17,17,1
+00:35.0,[DAL 19-17] Plaisance Jump Shot: Made (3 PTS) Assist: Powers (1 AST),-135,7,1,,203849,1627672,1611661321,19,17,1
+00:26.2,[NYL 19-19] Zahui B Cutting Layup Shot: Made (2 PTS) Assist: Allen (1 AST),25,16,1,,204320,1628263,1611661313,19,19,1
+00:14.4,[DAL 21-19] Plaisance Layup Shot: Made (5 PTS) Assist: Thornton (2 AST),17,21,1,,203849,203866,1611661321,21,19,1
+00:02.0,[NYL 21-21] Raincock-Ekunwe Layup Shot: Made (4 PTS) Assist: Allen (2 AST),9,18,1,,1628248,1628263,1611661313,21,21,1
+00:00.0,End Period,0,-80,13,,0,,0,21,21,1
+10:00,Start Period,0,-80,12,,0,,0,21,21,2
+10:00,[NYL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661313,21,21,2
+09:42,[NYL] Zahui B Turnover : 3 Second Violation (1 TO),0,-80,5,,204320,,1611661313,21,21,2
+09:23,[DAL] Johnson Driving Layup Shot: Missed,1,13,2,,203017,,1611661321,21,21,2
+09:22,[DAL] Johnson Rebound (Off:1 Def:2),0,-80,4,,203017,,1611661321,21,21,2
+09:16,[DAL 23-21] Diggins-Smith Pullup Jump shot: Made (3 PTS) Assist: Plaisance (1 AST),-99,175,1,,203400,203849,1611661321,23,21,2
+09:11,[NYL] Rodgers Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,203411,,1611661313,23,21,2
+09:07,[DAL 25-21] Johnson Running Layup Shot: Made (5 PTS) Assist: Diggins-Smith (1 AST),-16,13,1,,203017,203400,1611661321,25,21,2
+08:50,[NYL] Rodgers Jump Shot: Missed,159,110,2,,203411,,1611661313,25,21,2
+08:50,[DAL] Team Rebound,0,-80,4,,0,,1611661321,25,21,2
+08:50,[NYL] Raincock-Ekunwe Foul: Personal (2 PF),4,46,6,203849,1628248,,1611661313,25,21,2
+08:50,[NYL] Raincock-Ekunwe Substitution replaced by Charles,0,-80,8,,1628248,202250,1611661313,25,21,2
+08:34,[DAL] Davis Pullup Jump shot: Missed Block: Allen (1 BLK),150,139,2,204296,1628273,,1611661321,25,21,2
+08:31,[NYL] Charles Rebound (Off:0 Def:5),0,-80,4,,202250,,1611661313,25,21,2
+08:25,[NYL] Zahui B Turnover : Lost Ball (2 TO) Steal:Davis (1 ST),0,-80,5,1628273,204320,,1611661313,25,21,2
+08:12,[DAL] Gray Driving Floating Jump Shot: Missed,-61,16,2,,1628277,,1611661321,25,21,2
+08:08,[NYL] Allen Rebound (Off:0 Def:1),0,-80,4,,204296,,1611661313,25,21,2
+07:55,[NYL 23-25] Charles Turnaround Jump Shot: Made (6 PTS) Assist: Allen (3 AST),19,51,1,,202250,1628263,1611661313,25,23,2
+07:33,[DAL] Gray Turnover : Bad Pass (1 TO) Steal:Zahui B (1 ST),0,-80,5,204320,1628277,,1611661321,25,23,2
+07:26,[NYL] Allen 3pt Shot: Missed,-184,193,2,,204296,,1611661313,25,23,2
+07:24,[NYL] Allen Rebound (Off:1 Def:0),0,-80,4,,1628263,,1611661313,25,23,2
+07:20,[NYL] Rodgers 3pt Shot: Missed,230,28,2,,203411,,1611661313,25,23,2
+07:19,[NYL] Charles Rebound (Off:1 Def:5),0,-80,4,,202250,,1611661313,25,23,2
+07:14,[NYL] Rodgers Turnover : Bad Pass (2 TO) Steal:Diggins-Smith (1 ST),0,-80,5,203400,203411,,1611661313,25,23,2
+07:13,[NYL] Allen Foul: Personal (2 PF),99,570,6,203400,204296,,1611661313,25,23,2
+07:13,[DAL] Gray Substitution replaced by Powers,0,-80,8,,1628277,1627672,1611661321,25,23,2
+07:13,[DAL] Plaisance Substitution replaced by Paris,0,-80,8,,203849,201907,1611661321,25,23,2
+07:13,[NYL] Rodgers Substitution replaced by Prince,0,-80,8,,203411,202259,1611661313,25,23,2
+07:13,[NYL] Zahui B Substitution replaced by Vaughn,0,-80,8,,204320,201913,1611661313,25,23,2
+06:57,[DAL 27-23] Davis Cutting Layup Shot: Made (2 PTS) Assist: Paris (3 AST),2,13,1,,1628273,201907,1611661321,27,23,2
+06:43,[NYL] Prince Jump Shot: Missed,-133,160,2,,202259,,1611661313,27,23,2
+06:43,[DAL] Paris Rebound (Off:1 Def:2),0,-80,4,,201907,,1611661321,27,23,2
+06:18,[DAL 29-23] Johnson Cutting Layup Shot: Made (7 PTS) Assist: Paris (4 AST),-9,16,1,,203017,201907,1611661321,29,23,2
+06:11,[NYL] Team Timeout : Regular,0,-80,9,,0,,1611661313,29,23,2
+06:11,[NYL] Allen Substitution replaced by Zellous,0,-80,8,,204296,201919,1611661313,29,23,2
+06:11,[NYL] Allen Substitution replaced by Hartley,0,-80,8,,1628263,203829,1611661313,29,23,2
+06:11,[DAL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661321,29,23,2
+06:02,[DAL] Johnson Foul: Personal (2 PF),-106,46,6,202250,203017,,1611661321,29,23,2
+05:48,[NYL] Hartley Driving Layup Shot: Missed,15,26,2,,203829,,1611661313,29,23,2
+05:46,[DAL] Johnson Rebound (Off:1 Def:3),0,-80,4,,203017,,1611661321,29,23,2
+05:31,[DAL] Paris Foul: Offensive (2 PF),43,242,6,203829,201907,,1611661321,29,23,2
+05:31,[DAL] Paris Turnover : Foul (1 TO),0,-80,5,,201907,,1611661321,29,23,2
+05:15,[NYL] Charles Jump Shot: Missed,-107,121,2,,202250,,1611661313,29,23,2
+05:14,[DAL] Paris Rebound (Off:1 Def:3),0,-80,4,,201907,,1611661321,29,23,2
+05:07,[DAL] Powers 3pt Shot: Missed,-189,146,2,,1627672,,1611661321,29,23,2
+05:06,[NYL] Charles Rebound (Off:1 Def:6),0,-80,4,,202250,,1611661313,29,23,2
+04:53,[NYL] Vaughn Driving Floating Jump Shot: Missed,-25,43,2,,201913,,1611661313,29,23,2
+04:53,[NYL] Team Rebound,0,-80,4,,0,,1611661313,29,23,2
+04:53,[DAL] Paris Substitution replaced by Lewis,0,-80,8,,201907,1628292,1611661321,29,23,2
+04:51,[NYL] Zellous Turnover : Step Out of Bounds Turnover (1 TO),0,-80,5,,201919,,1611661313,29,23,2
+04:37,[DAL 31-23] Johnson Driving Floating Bank Jump Shot: Made (9 PTS),-12,28,1,,203017,,1611661321,31,23,2
+04:37,[NYL] Charles Foul: Shooting (1 PF) (1 FTA),-12,28,6,203017,202250,,1611661313,31,23,2
+04:37,[DAL] Johnson Free Throw 1 of 1 Missed,0,-80,3,,203017,,1611661321,31,23,2
+04:35,[NYL] Charles Rebound (Off:1 Def:7),0,-80,4,,202250,,1611661313,31,23,2
+04:30,[DAL] Lewis Foul: Personal (1 PF),-40,41,6,201919,1628292,,1611661321,31,23,2
+04:30,[DAL] Davis Substitution replaced by Christmas-Kelly,0,-80,8,,1628273,202640,1611661321,31,23,2
+04:24,[NYL] Prince Jump Shot: Missed,-17,111,2,,202259,,1611661313,31,23,2
+04:24,[NYL] Prince Rebound (Off:1 Def:0),0,-80,4,,202259,,1611661313,31,23,2
+04:19,[NYL] Hartley Driving Finger Roll Layup Shot: Missed,-7,33,2,,203829,,1611661313,31,23,2
+04:14,[NYL] Vaughn Rebound (Off:3 Def:2),0,-80,4,,201913,,1611661313,31,23,2
+04:11,[NYL 25-31] Prince Driving Floating Jump Shot: Made (2 PTS),-58,28,1,,202259,,1611661313,31,25,2
+04:11,[DAL] Lewis Foul: Shooting (2 PF) (1 FTA),-58,28,6,202259,1628292,,1611661321,31,25,2
+04:11,[NYL] Vaughn Substitution replaced by Stokes,0,-80,8,,201913,204329,1611661313,31,25,2
+04:11,[NYL 26-31] Prince Free Throw 1 of 1 (3 PTS),0,-80,3,,202259,,1611661313,31,26,2
+03:50,[DAL 34-26] Diggins-Smith 3pt Shot: Made (6 PTS) Assist: Johnson (1 AST),227,85,1,,203400,203017,1611661321,34,26,2
+03:34,[NYL] Prince 3pt Shot: Missed,130,198,2,,202259,,1611661313,34,26,2
+03:33,[DAL] Diggins-Smith Rebound (Off:0 Def:1),0,-80,4,,203400,,1611661321,34,26,2
+03:27,[DAL 36-26] Powers Running Layup Shot: Made (2 PTS) Assist: Diggins-Smith (2 AST),9,13,1,,1627672,203400,1611661321,36,26,2
+03:16,[DAL] Christmas-Kelly Foul: Shooting (1 PF) (2 FTA),-43,51,6,201919,202640,,1611661321,36,26,2
+03:16,[NYL 27-36] Zellous Free Throw 1 of 2 (3 PTS),0,-80,3,,201919,,1611661313,36,27,2
+03:16,[NYL 28-36] Zellous Free Throw 2 of 2 (4 PTS),0,-80,3,,201919,,1611661313,36,28,2
+03:08,[NYL] Hartley Foul: Personal (2 PF),212,129,6,203400,203829,,1611661313,36,28,2
+03:01,[DAL] Diggins-Smith Turnover : Bad Pass (1 TO) Steal:Zellous (2 ST),0,-80,5,201919,203400,,1611661321,36,28,2
+02:54,[NYL 30-36] Charles Jump Bank Shot: Made (8 PTS) Assist: Zellous (2 AST),27,41,1,,202250,201919,1611661313,36,30,2
+02:44,[DAL] Johnson Turnover : Bad Pass (2 TO) Steal:Stokes (1 ST),0,-80,5,204329,203017,,1611661321,36,30,2
+02:38,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,36,30,2
+02:38,[DAL] Johnson Substitution replaced by Thornton,0,-80,8,,203017,203866,1611661321,36,30,2
+02:38,[DAL] Lewis Substitution replaced by Paris,0,-80,8,,1628292,201907,1611661321,36,30,2
+02:28,[NYL] Prince Fadeaway Jump Shot: Missed,-1,90,2,,202259,,1611661313,36,30,2
+02:27,[DAL] Christmas-Kelly Rebound (Off:1 Def:1),0,-80,4,,202640,,1611661321,36,30,2
+02:19,[DAL 38-30] Powers Driving Bank shot: Made (4 PTS),59,29,1,,1627672,,1611661321,38,30,2
+02:19,[NYL] Charles Foul: Shooting Block (2 PF) (1 FTA),60,33,6,1627672,202250,,1611661313,38,30,2
+02:19,[DAL] Powers Free Throw 1 of 1 Missed,0,-80,3,,1627672,,1611661321,38,30,2
+02:18,[NYL] Stokes Rebound (Off:0 Def:1),0,-80,4,,204329,,1611661313,38,30,2
+02:06,[NYL 32-38] Zellous Pullup Jump shot: Made (6 PTS),-24,61,1,,201919,,1611661313,38,32,2
+01:41,[DAL] Thornton 3pt Shot: Missed,-79,232,2,,203866,,1611661321,38,32,2
+01:39,[NYL] Zellous Rebound (Off:0 Def:1),0,-80,4,,201919,,1611661313,38,32,2
+01:32,[NYL 34-38] Zellous Driving Floating Jump Shot: Made (8 PTS),-11,33,1,,201919,,1611661313,38,34,2
+01:16,[DAL 40-34] Powers Pullup Jump shot: Made (6 PTS),2,120,1,,1627672,,1611661321,40,34,2
+01:06,[NYL] Charles Jump Shot: Missed,-45,164,2,,202250,,1611661313,40,34,2
+01:05,[NYL] Prince Rebound (Off:2 Def:0),0,-80,4,,202259,,1611661313,40,34,2
+01:02,[NYL] Prince Jump Shot: Missed,101,164,2,,202259,,1611661313,40,34,2
+01:02,[DAL] Diggins-Smith Rebound (Off:0 Def:2),0,-80,4,,203400,,1611661321,40,34,2
+00:54.9,[DAL] Powers Pullup Jump shot: Missed,-156,90,2,,1627672,,1611661321,40,34,2
+00:52.9,[DAL] Powers Rebound (Off:1 Def:1),0,-80,4,,1627672,,1611661321,40,34,2
+00:49.9,[DAL] Powers Layup Shot: Missed,-9,16,2,,1627672,,1611661321,40,34,2
+00:49.1,[NYL] Charles Rebound (Off:1 Def:8),0,-80,4,,202250,,1611661313,40,34,2
+00:38.9,[NYL] Charles 3pt Shot: Missed,218,80,2,,202250,,1611661313,40,34,2
+00:38.9,[NYL] Stokes Rebound (Off:1 Def:1),0,-80,4,,204329,,1611661313,40,34,2
+00:28.9,[NYL] Charles Turnaround Fadeaway shot: Missed,24,90,2,,202250,,1611661313,40,34,2
+00:25.9,[NYL] Stokes Rebound (Off:2 Def:1),0,-80,4,,204329,,1611661313,40,34,2
+00:23.5,[NYL] Charles Layup Shot: Missed,14,26,2,,202250,,1611661313,40,34,2
+00:22.4,[DAL] Thornton Rebound (Off:0 Def:2),0,-80,4,,203866,,1611661321,40,34,2
+00:01.9,[DAL] Diggins-Smith Driving Floating Jump Shot: Missed,-17,41,2,,203400,,1611661321,40,34,2
+00:00.4,[NYL] Stokes Rebound (Off:2 Def:2),0,-80,4,,204329,,1611661313,40,34,2
+00:00.0,End Period,0,-80,13,,0,,0,40,34,2
+10:00,Start Period,0,-80,12,,0,,0,40,34,3
+09:36,[NYL 36-40] Zellous Cutting Layup Shot: Made (10 PTS) Assist: Vaughn (1 AST),-14,7,1,,201919,201913,1611661313,40,36,3
+09:18,[DAL] Plaisance Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,203849,,1611661321,40,36,3
+09:02,[NYL] Charles Turnaround Jump Shot: Missed,19,38,2,,202250,,1611661313,40,36,3
+09:01,[NYL] Prince Rebound (Off:3 Def:0),0,-80,4,,202259,,1611661313,40,36,3
+08:56,[NYL] Zellous Pullup Jump shot: Missed,-156,154,2,,201919,,1611661313,40,36,3
+08:54,[NYL] Charles Rebound (Off:2 Def:8),0,-80,4,,202250,,1611661313,40,36,3
+08:51,[NYL] Charles Jump Bank Shot: Missed,115,33,2,,202250,,1611661313,40,36,3
+08:50,[DAL] Johnson Rebound (Off:1 Def:4),0,-80,4,,203017,,1611661321,40,36,3
+08:40,[DAL] Diggins-Smith 3pt Shot: Missed,143,190,2,,203400,,1611661321,40,36,3
+08:39,[NYL] Hartley Rebound (Off:0 Def:1),0,-80,4,,203829,,1611661313,40,36,3
+08:25,[DAL] Gray Foul: Shooting Block (1 PF) (2 FTA),20,51,6,203829,1628277,,1611661321,40,36,3
+08:25,[NYL 37-40] Hartley Free Throw 1 of 2 (1 PTS),0,-80,3,,203829,,1611661313,40,37,3
+08:25,[NYL] Hartley Free Throw 2 of 2 Missed,0,-80,3,,203829,,1611661313,40,37,3
+08:25,[NYL] Charles Rebound (Off:3 Def:8),0,-80,4,,202250,,1611661313,40,37,3
+08:21,[NYL] Charles Layup Shot: Missed,-9,21,2,,202250,,1611661313,40,37,3
+08:21,[DAL] Plaisance Rebound (Off:0 Def:1),0,-80,4,,203849,,1611661321,40,37,3
+08:20,Jump Ball Plaisance vs Hartley (Gray gains possession),0,-80,10,203829,203849,1628277,1611661321,40,37,3
+08:16,[DAL 42-37] Gray Running Layup Shot: Made (6 PTS) Assist: Plaisance (2 AST),-12,23,1,,1628277,203849,1611661321,42,37,3
+08:16,[NYL] Zellous Foul: Shooting (3 PF) (1 FTA),-12,23,6,1628277,201919,,1611661313,42,37,3
+08:16,[DAL] Gray Free Throw 1 of 1 Missed,0,-80,3,,1628277,,1611661321,42,37,3
+08:15,[NYL] Charles Rebound (Off:3 Def:9),0,-80,4,,202250,,1611661313,42,37,3
+08:03,[NYL 40-42] Hartley 3pt Shot: Made (4 PTS),-150,180,1,,203829,,1611661313,42,40,3
+07:40,[DAL] Plaisance Turnaround Hook Shot: Missed,101,16,2,,203849,,1611661321,42,40,3
+07:38,[DAL] Johnson Rebound (Off:2 Def:4),0,-80,4,,203017,,1611661321,42,40,3
+07:35,[DAL 44-40] Johnson Driving Layup Shot: Made (11 PTS),-6,21,1,,203017,,1611661321,44,40,3
+07:21,Jump Ball Gray vs Charles (Zellous gains possession),0,-80,10,202250,1628277,201919,1611661321,44,40,3
+07:10,[NYL] Zellous Pullup Bank shot: Missed,120,110,2,,201919,,1611661313,44,40,3
+07:09,[DAL] Gray Rebound (Off:0 Def:1),0,-80,4,,1628277,,1611661321,44,40,3
+07:00,[DAL] Plaisance 3pt Shot: Missed,-169,183,2,,203849,,1611661321,44,40,3
+07:00,[NYL] Hartley Rebound (Off:0 Def:2),0,-80,4,,203829,,1611661313,44,40,3
+06:59,[DAL] Gray Foul: Loose Ball (2 PF),115,791,6,203829,1628277,,1611661321,44,40,3
+06:39,[NYL] Zellous 3pt Shot: Missed,236,61,2,,201919,,1611661313,44,40,3
+06:38,[DAL] Johnson Rebound (Off:2 Def:5),0,-80,4,,203017,,1611661321,44,40,3
+06:29,[DAL] Johnson 3pt Shot: Missed,-125,200,2,,203017,,1611661321,44,40,3
+06:27,[NYL] Vaughn Rebound (Off:3 Def:3),0,-80,4,,201913,,1611661313,44,40,3
+06:13,[NYL 42-44] Vaughn Cutting Layup Shot: Made (11 PTS) Assist: Charles (2 AST),33,7,1,,201913,202250,1611661313,44,42,3
+05:57,[DAL] Gray Turnover : Lost Ball (2 TO) Steal:Vaughn (1 ST),0,-80,5,201913,1628277,,1611661321,44,42,3
+05:57,Jump Ball Gray vs Vaughn (Charles gains possession),0,-80,10,201913,1628277,202250,1611661321,44,42,3
+05:47,[DAL] Diggins-Smith Foul: Shooting (2 PF) (3 FTA),-225,11,6,202259,203400,,1611661321,44,42,3
+05:47,[NYL 43-44] Prince Free Throw 1 of 3 (4 PTS),0,-80,3,,202259,,1611661313,44,43,3
+05:47,[NYL 44-44] Prince Free Throw 2 of 3 (5 PTS),0,-80,3,,202259,,1611661313,44,44,3
+05:47,[NYL 45-44] Prince Free Throw 3 of 3 (6 PTS),0,-80,3,,202259,,1611661313,44,45,3
+05:26,[DAL 47-45] Gray 3pt Shot: Made (9 PTS) Assist: Diggins-Smith (3 AST),-37,257,1,,1628277,203400,1611661321,47,45,3
+05:09,[NYL 47-47] Prince Driving Bank shot: Made (8 PTS),22,36,1,,202259,,1611661313,47,47,3
+05:09,[DAL] Plaisance Foul: Shooting (1 PF) (1 FTA),22,36,6,202259,203849,,1611661321,47,47,3
+05:09,[NYL 48-47] Prince Free Throw 1 of 1 (9 PTS),0,-80,3,,202259,,1611661313,47,48,3
+04:57,[DAL] Gray Jump Shot: Missed,-94,144,2,,1628277,,1611661321,47,48,3
+04:57,[NYL] Charles Rebound (Off:3 Def:10),0,-80,4,,202250,,1611661313,47,48,3
+04:45,[NYL] Vaughn Jump Shot: Missed,150,21,2,,201913,,1611661313,47,48,3
+04:45,[DAL] Diggins-Smith Rebound (Off:0 Def:3),0,-80,4,,203400,,1611661321,47,48,3
+04:37,[DAL] Diggins-Smith Pullup Jump shot: Missed,145,95,2,,203400,,1611661321,47,48,3
+04:34,[NYL] Zellous Rebound (Off:0 Def:2),0,-80,4,,201919,,1611661313,47,48,3
+04:28,[NYL] Hartley 3pt Shot: Missed,228,2,2,,203829,,1611661313,47,48,3
+04:27,[NYL] Charles Rebound (Off:4 Def:10),0,-80,4,,202250,,1611661313,47,48,3
+04:23,[NYL 51-47] Hartley 3pt Shot: Made (7 PTS) Assist: Charles (3 AST),153,178,1,,203829,202250,1611661313,47,51,3
+04:22,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,47,51,3
+04:22,[NYL] Vaughn Substitution replaced by Stokes,0,-80,8,,201913,204329,1611661313,47,51,3
+04:22,[DAL] Plaisance Substitution replaced by Paris,0,-80,8,,203849,201907,1611661321,47,51,3
+04:22,[DAL] Gray Substitution replaced by Powers,0,-80,8,,1628277,1627672,1611661321,47,51,3
+04:08,[DAL] Powers Pullup Jump shot: Missed,-143,124,2,,1627672,,1611661321,47,51,3
+04:06,[DAL] Christmas-Kelly Rebound (Off:2 Def:1),0,-80,4,,202640,,1611661321,47,51,3
+04:03,[DAL] Powers Driving Layup Shot: Missed Block: Stokes (1 BLK),25,38,2,204329,1627672,,1611661321,47,51,3
+04:03,[DAL] Team Rebound,0,-80,4,,0,,1611661321,47,51,3
+04:03,[NYL] Hartley Foul: Shooting (3 PF) (2 FTA),146,16,6,203400,203829,,1611661313,47,51,3
+04:03,[DAL 48-51] Diggins-Smith Free Throw 1 of 2 (7 PTS),0,-80,3,,203400,,1611661321,48,51,3
+04:03,[DAL 49-51] Diggins-Smith Free Throw 2 of 2 (8 PTS),0,-80,3,,203400,,1611661321,49,51,3
+03:46,[NYL] Zellous Driving Layup Shot: Missed Block: Christmas-Kelly (1 BLK),24,26,2,202640,201919,,1611661313,49,51,3
+03:46,[DAL] Team Rebound,0,-80,4,,0,,1611661321,49,51,3
+03:30,[DAL] Christmas-Kelly Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,202640,,1611661321,49,51,3
+03:30,[NYL] Zellous Substitution replaced by Rodgers,0,-80,8,,201919,203411,1611661313,49,51,3
+03:08,[NYL] Rodgers 3pt Shot: Missed,-186,164,2,,203411,,1611661313,49,51,3
+03:07,[DAL] Christmas-Kelly Rebound (Off:2 Def:2),0,-80,4,,202640,,1611661321,49,51,3
+02:49,[DAL 51-51] Powers Pullup Jump shot: Made (8 PTS),-66,154,1,,1627672,,1611661321,51,51,3
+02:36,[DAL] Johnson Foul: Shooting (3 PF) (2 FTA),-29,41,6,203829,203017,,1611661321,51,51,3
+02:36,[NYL 52-51] Hartley Free Throw 1 of 2 (8 PTS),0,-80,3,,203829,,1611661313,51,52,3
+02:36,[DAL] Johnson Substitution replaced by Plaisance,0,-80,8,,203017,203849,1611661321,51,52,3
+02:36,[DAL] Christmas-Kelly Substitution replaced by Davis,0,-80,8,,202640,1628273,1611661321,51,52,3
+02:36,[NYL 53-51] Hartley Free Throw 2 of 2 (9 PTS),0,-80,3,,203829,,1611661313,51,53,3
+02:28,[NYL] Charles Foul: Shooting (3 PF) (2 FTA),-63,57,6,203400,202250,,1611661313,51,53,3
+02:28,[DAL 52-53] Diggins-Smith Free Throw 1 of 2 (9 PTS),0,-80,3,,203400,,1611661321,52,53,3
+02:28,[NYL] Charles Substitution replaced by Raincock-Ekunwe,0,-80,8,,202250,1628248,1611661313,52,53,3
+02:28,[DAL 53-53] Diggins-Smith Free Throw 2 of 2 (10 PTS),0,-80,3,,203400,,1611661321,53,53,3
+02:18,[NYL 55-53] Hartley Pullup Jump shot: Made (11 PTS),71,175,1,,203829,,1611661313,53,55,3
+01:55,[DAL 55-55] Plaisance Cutting Layup Shot: Made (7 PTS) Assist: Davis (1 AST),27,21,1,,203849,1628273,1611661321,55,55,3
+01:33,[NYL 57-55] Stokes Jump Shot: Made (2 PTS) Assist: Hartley (1 AST),158,11,1,,204329,203829,1611661313,55,57,3
+01:24,[NYL] Rodgers Foul: Shooting (1 PF) (2 FTA),-42,11,6,203400,203411,,1611661313,55,57,3
+01:24,[DAL 56-57] Diggins-Smith Free Throw 1 of 2 (11 PTS),0,-80,3,,203400,,1611661321,56,57,3
+01:24,[DAL] Paris Substitution replaced by Thornton,0,-80,8,,201907,203866,1611661321,56,57,3
+01:24,[DAL 57-57] Diggins-Smith Free Throw 2 of 2 (12 PTS),0,-80,3,,203400,,1611661321,57,57,3
+01:16,[NYL 59-57] Hartley Cutting Layup Shot: Made (13 PTS) Assist: Stokes (1 AST),10,21,1,,203829,204329,1611661313,57,59,3
+01:00,[DAL 60-59] Davis 3pt Shot: Made (5 PTS) Assist: Thornton (3 AST),204,144,1,,1628273,203866,1611661321,60,59,3
+00:48.3,[NYL 61-60] Prince Jump Shot: Made (11 PTS) Assist: Stokes (2 AST),2,174,1,,202259,204329,1611661313,60,61,3
+00:36.9,[DAL] Plaisance 3pt Shot: Missed,-83,232,2,,203849,,1611661321,60,61,3
+00:36.7,[DAL] Powers Rebound (Off:2 Def:1),0,-80,4,,1627672,,1611661321,60,61,3
+00:33.6,[NYL] Stokes Foul: Shooting (3 PF) (2 FTA),-9,43,6,1627672,204329,,1611661313,60,61,3
+00:33.6,[DAL 61-61] Powers Free Throw 1 of 2 (9 PTS),0,-80,3,,1627672,,1611661321,61,61,3
+00:33.6,[DAL] Diggins-Smith Substitution replaced by Chong,0,-80,8,,203400,1628267,1611661321,61,61,3
+00:33.6,[NYL] Hartley Substitution replaced by Allen,0,-80,8,,203829,1628263,1611661313,61,61,3
+00:33.6,[DAL 62-61] Powers Free Throw 2 of 2 (10 PTS),0,-80,3,,1627672,,1611661321,62,61,3
+00:26.9,[NYL 63-62] Prince Pullup Jump shot: Made (13 PTS),143,65,1,,202259,,1611661313,62,63,3
+00:11.0,[DAL] Powers Jump Shot: Missed Block: Stokes (2 BLK),150,156,2,204329,1627672,,1611661321,62,63,3
+00:11.0,[DAL] Plaisance Rebound (Off:1 Def:1),0,-80,4,,203849,,1611661321,62,63,3
+00:11.0,[DAL 64-63] Plaisance Layup Shot: Made (9 PTS),-1,16,1,,203849,,1611661321,64,63,3
+00:11.0,[NYL] Prince Foul: Shooting (1 PF) (1 FTA),-1,16,6,203849,202259,,1611661313,64,63,3
+00:11.0,[NYL] Allen Substitution replaced by Allen,0,-80,8,,1628263,204296,1611661313,64,63,3
+00:11.0,[DAL 65-63] Plaisance Free Throw 1 of 1 (10 PTS),0,-80,3,,203849,,1611661321,65,63,3
+00:01.7,[NYL 65-65] Prince Driving Floating Bank Jump Shot: Made (15 PTS),-99,41,1,,202259,,1611661313,65,65,3
+00:00.3,[DAL] Chong 3pt Shot: Missed,-115,575,2,,1628267,,1611661321,65,65,3
+00:00.0,[DAL] Team Rebound,0,-80,4,,0,,1611661321,65,65,3
+00:00.0,End Period,0,-80,13,,0,,0,65,65,3
+10:00,Start Period,0,-80,12,,0,,0,65,65,4
+09:40,[DAL] Chong Driving Floating Bank Jump Shot: Missed,-17,31,2,,1628267,,1611661321,65,65,4
+09:37,[DAL] Plaisance Rebound (Off:2 Def:1),0,-80,4,,203849,,1611661321,65,65,4
+09:36,[DAL] Plaisance Turnover : Bad Pass (2 TO) Steal:Rodgers (1 ST),0,-80,5,203411,203849,,1611661321,65,65,4
+09:19,[NYL] Raincock-Ekunwe Driving Layup Shot: Missed,9,18,2,,1628248,,1611661313,65,65,4
+09:19,[DAL] Team Rebound,0,-80,4,,0,,1611661321,65,65,4
+09:08,[DAL] Gray Driving Floating Bank Jump Shot: Missed,-102,46,2,,1628277,,1611661321,65,65,4
+09:06,[NYL] Raincock-Ekunwe Rebound (Off:0 Def:2),0,-80,4,,1628248,,1611661313,65,65,4
+08:53,[NYL] Rodgers Driving Layup Shot: Missed,1,33,2,,203411,,1611661313,65,65,4
+08:52,[DAL] Gray Rebound (Off:0 Def:2),0,-80,4,,1628277,,1611661321,65,65,4
+08:47,[DAL] Gray Driving Bank shot: Missed,-53,41,2,,1628277,,1611661321,65,65,4
+08:44,[NYL] Stokes Rebound (Off:2 Def:3),0,-80,4,,204329,,1611661313,65,65,4
+08:28,[NYL] Zellous Pullup Jump shot: Missed,125,134,2,,201919,,1611661313,65,65,4
+08:26,[NYL] Stokes Rebound (Off:3 Def:3),0,-80,4,,204329,,1611661313,65,65,4
+08:20,[NYL] Rodgers 3pt Shot: Missed,164,180,2,,203411,,1611661313,65,65,4
+08:19,[DAL] Thornton Rebound (Off:0 Def:3),0,-80,4,,203866,,1611661321,65,65,4
+07:55,[NYL] Zellous Foul: Personal Block (4 PF),30,178,6,1628267,201919,,1611661313,65,65,4
+07:55,[DAL] Plaisance Substitution replaced by Johnson,0,-80,8,,203849,203017,1611661321,65,65,4
+07:55,[NYL] Raincock-Ekunwe Substitution replaced by Charles,0,-80,8,,1628248,202250,1611661313,65,65,4
+07:46,[DAL] Thornton Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,203866,,1611661321,65,65,4
+07:46,[NYL] Allen Substitution replaced by Prince,0,-80,8,,1628263,202259,1611661313,65,65,4
+07:46,[NYL] Rodgers Substitution replaced by Hartley,0,-80,8,,203411,203829,1611661313,65,65,4
+07:37,[DAL] Chong Substitution replaced by Diggins-Smith,0,-80,8,,1628267,203400,1611661321,65,65,4
+07:22,[NYL 67-65] Prince Fadeaway Jump Shot: Made (17 PTS),79,175,1,,202259,,1611661313,65,67,4
+07:03,[DAL 67-67] Johnson Driving Layup Shot: Made (13 PTS) Assist: Diggins-Smith (4 AST),24,18,1,,203017,203400,1611661321,67,67,4
+07:01,[DAL] Johnson Technical,0,-80,6,,203017,,1611661321,67,67,4
+07:01,[NYL 68-67] Prince Free Throw Technical (18 PTS),0,-80,3,,202259,,1611661313,67,68,4
+07:01,[NYL] Team Timeout : Regular,0,-80,9,,0,,1611661313,67,68,4
+06:50,[NYL 70-67] Charles Driving Layup Shot: Made (10 PTS),19,18,1,,202250,,1611661313,67,70,4
+06:35,[DAL] Johnson Turnaround Fadeaway shot: Missed,9,52,2,,203017,,1611661321,67,70,4
+06:34,[NYL] Charles Rebound (Off:4 Def:11),0,-80,4,,202250,,1611661313,67,70,4
+06:24,[NYL] Hartley 3pt Shot: Missed,-235,16,2,,203829,,1611661313,67,70,4
+06:23,[NYL] Team Rebound,0,-80,4,,0,,1611661313,67,70,4
+06:09,[NYL] Prince Fadeaway Jump Shot: Missed,114,26,2,,202259,,1611661313,67,70,4
+06:05,[NYL] Charles Rebound (Off:5 Def:11),0,-80,4,,202250,,1611661313,67,70,4
+06:05,[NYL 72-67] Charles Hook Shot: Made (12 PTS),-2,38,1,,202250,,1611661313,67,72,4
+05:52,[DAL] Gray 3pt Shot: Missed,209,111,2,,1628277,,1611661321,67,72,4
+05:51,[NYL] Charles Rebound (Off:5 Def:12),0,-80,4,,202250,,1611661313,67,72,4
+05:43,[NYL] Charles Foul: Offensive (4 PF),32,51,6,203017,202250,,1611661313,67,72,4
+05:43,[NYL] Charles Turnover : Foul (2 TO),0,-80,5,,202250,,1611661313,67,72,4
+05:43,[DAL] Davis Substitution replaced by Christmas-Kelly,0,-80,8,,1628273,202640,1611661321,67,72,4
+05:43,[DAL] Thornton Substitution replaced by Paris,0,-80,8,,203866,201907,1611661321,67,72,4
+05:31,[DAL 69-72] Diggins-Smith Floating Jump shot: Made (14 PTS) Assist: Christmas-Kelly (2 AST),-1,72,1,,203400,202640,1611661321,69,72,4
+05:14,[NYL] Charles Hook Shot: Missed,2,36,2,,202250,,1611661313,69,72,4
+05:11,[DAL] Johnson Rebound (Off:2 Def:6),0,-80,4,,203017,,1611661321,69,72,4
+05:08,[NYL] Zellous Foul: Shooting Block (5 PF) (2 FTA),58,65,6,202640,201919,,1611661313,69,72,4
+05:08,[DAL 70-72] Christmas-Kelly Free Throw 1 of 2 (2 PTS),0,-80,3,,202640,,1611661321,70,72,4
+05:08,[DAL] Gray Substitution replaced by Powers,0,-80,8,,1628277,1627672,1611661321,70,72,4
+05:08,[DAL 71-72] Christmas-Kelly Free Throw 2 of 2 (3 PTS),0,-80,3,,202640,,1611661321,71,72,4
+04:56,[NYL 74-71] Charles Driving Bank shot: Made (14 PTS),22,26,1,,202250,,1611661313,71,74,4
+04:35,[DAL] Powers Pullup Jump shot: Missed,-120,21,2,,1627672,,1611661321,71,74,4
+04:33,[DAL] Team Rebound,0,-80,4,,0,,1611661321,71,74,4
+04:32,[NYL] Zellous Substitution replaced by Rodgers,0,-80,8,,201919,203411,1611661313,71,74,4
+04:21,[DAL] Christmas-Kelly Foul: Offensive Charge (2 PF),119,82,6,203411,202640,,1611661321,71,74,4
+04:21,[DAL] Christmas-Kelly Turnover : Foul (2 TO),0,-80,5,,202640,,1611661321,71,74,4
+04:11,[NYL] Charles Jump Shot: Missed,-79,185,2,,202250,,1611661313,71,74,4
+04:09,[NYL] Hartley Rebound (Off:1 Def:2),0,-80,4,,203829,,1611661313,71,74,4
+04:01,[NYL 76-71] Charles Driving Finger Roll Layup Shot: Made (16 PTS) Assist: Hartley (2 AST),10,21,1,,202250,203829,1611661313,71,76,4
+03:37,[NYL] Charles Foul: Shooting (5 PF) (2 FTA),12,28,6,203017,202250,,1611661313,71,76,4
+03:37,[DAL 72-76] Johnson Free Throw 1 of 2 (14 PTS),0,-80,3,,203017,,1611661321,72,76,4
+03:37,[DAL 73-76] Johnson Free Throw 2 of 2 (15 PTS),0,-80,3,,203017,,1611661321,73,76,4
+03:27,[NYL] Hartley Turnover : Bad Pass (1 TO) Steal:Powers (1 ST),0,-80,5,1627672,203829,,1611661313,73,76,4
+03:25,[NYL] Rodgers Foul: Personal (2 PF),169,321,6,1627672,203411,,1611661313,73,76,4
+03:07,[DAL] Powers Turnover : Lost Ball (2 TO) Steal:Charles (1 ST),0,-80,5,202250,1627672,,1611661321,73,76,4
+02:42,[NYL] Charles 3pt Shot: Missed,-225,56,2,,202250,,1611661313,73,76,4
+02:42,[DAL] Paris Rebound (Off:1 Def:4),0,-80,4,,201907,,1611661321,73,76,4
+02:28,[NYL] Stokes Foul: Shooting (4 PF) (2 FTA),97,3,6,203400,204329,,1611661313,73,76,4
+02:28,Timeout : Official,0,-80,9,,0,,0,73,76,4
+02:28,[DAL 74-76] Diggins-Smith Free Throw 1 of 2 (15 PTS),0,-80,3,,203400,,1611661321,74,76,4
+02:28,[DAL 75-76] Diggins-Smith Free Throw 2 of 2 (16 PTS),0,-80,3,,203400,,1611661321,75,76,4
+02:13,[NYL] Rodgers Turnover : Traveling (3 TO),0,-80,5,,203411,,1611661313,75,76,4
+02:04,[DAL] Johnson Foul: Offensive (4 PF),-147,95,6,203829,203017,,1611661321,75,76,4
+02:04,[DAL] Johnson Turnover : Offensive Foul Turnover (3 TO),0,-80,5,,203017,,1611661321,75,76,4
+02:04,[NYL] Rodgers Substitution replaced by Zellous,0,-80,8,,203411,201919,1611661313,75,76,4
+01:45,[NYL 78-75] Prince Pullup Jump shot: Made (20 PTS),169,136,1,,202259,,1611661313,75,78,4
+01:24,[DAL 77-78] Johnson Turnaround Fadeaway Bank Jump Shot: Made (17 PTS),-48,26,1,,203017,,1611661321,77,78,4
+01:01,[NYL 80-77] Zellous Pullup Jump shot: Made (12 PTS) Assist: Prince (1 AST),164,129,1,,201919,202259,1611661313,77,80,4
+00:48.8,[DAL] Diggins-Smith Driving Floating Jump Shot: Missed,4,31,2,,203400,,1611661321,77,80,4
+00:46.6,[DAL] Christmas-Kelly Rebound (Off:3 Def:2),0,-80,4,,202640,,1611661321,77,80,4
+00:41.9,[NYL] Prince Foul: Shooting (2 PF) (2 FTA),-1,87,6,1627672,202259,,1611661313,77,80,4
+00:41.9,[DAL 78-80] Powers Free Throw 1 of 2 (11 PTS),0,-80,3,,1627672,,1611661321,78,80,4
+00:41.9,[DAL 79-80] Powers Free Throw 2 of 2 (12 PTS),0,-80,3,,1627672,,1611661321,79,80,4
+00:41.9,[NYL] Team Timeout : Regular,0,-80,9,,0,,1611661313,79,80,4
+00:41.9,[DAL] Paris Substitution replaced by Thornton,0,-80,8,,201907,203866,1611661321,79,80,4
+00:22.9,[NYL] Zellous Fadeaway Jump Shot: Missed,-71,67,2,,201919,,1611661313,79,80,4
+00:22.5,[NYL] Charles Rebound (Off:6 Def:12),0,-80,4,,202250,,1611661313,79,80,4
+00:22.1,[NYL 82-79] Charles Putback Layup Shot: Made (18 PTS),-2,16,1,,202250,,1611661313,79,82,4
+00:22.1,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,79,82,4
+00:22.1,[DAL] Thornton Substitution replaced by Plaisance,0,-80,8,,203866,203849,1611661321,79,82,4
+00:14.9,[DAL] Diggins-Smith Driving Bank shot: Missed,-17,33,2,,203400,,1611661321,79,82,4
+00:14.4,[NYL] Stokes Rebound (Off:3 Def:4),0,-80,4,,204329,,1611661313,79,82,4
+00:14.2,[DAL] Powers Foul: Personal (1 PF),123,771,6,204329,1627672,,1611661321,79,82,4
+00:08.9,[NYL] Prince Turnover : Lost Ball (1 TO) Steal:Diggins-Smith (2 ST),0,-80,5,203400,202259,,1611661313,79,82,4
+00:04.7,[DAL] Diggins-Smith Running Layup Shot: Missed,-32,16,2,,203400,,1611661321,79,82,4
+00:04.0,[DAL] Powers Rebound (Off:3 Def:1),0,-80,4,,1627672,,1611661321,79,82,4
+00:03.7,[DAL 81-82] Powers Putback Layup Shot: Made (14 PTS),9,16,1,,1627672,,1611661321,81,82,4
+00:03.7,[NYL] Team Timeout : Short,0,-80,9,,0,,1611661313,81,82,4
+00:03.7,[NYL] Stokes Substitution replaced by Rodgers,0,-80,8,,204329,203411,1611661313,81,82,4
+00:02.9,[NYL] Rodgers Turnover : Backcourt Turnover (4 TO),0,-80,5,,203411,,1611661313,81,82,4
+00:02.9,[DAL] Team Timeout : Short,0,-80,9,,0,,1611661321,81,82,4
+00:02.9,[NYL] Rodgers Substitution replaced by Stokes,0,-80,8,,203411,204329,1611661313,81,82,4
+00:00.4,[DAL] Diggins-Smith Pullup Jump shot: Missed,-84,178,2,,203400,,1611661321,81,82,4
+00:00.0,[DAL] Team Rebound,0,-80,4,,0,,1611661321,81,82,4
+00:00.0,End Period,0,-80,13,,0,,0,81,82,4

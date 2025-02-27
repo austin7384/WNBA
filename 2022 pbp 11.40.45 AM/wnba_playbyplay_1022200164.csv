@@ -1,0 +1,439 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Dolson vs Parker,0,-80,10,201496,203828,,1611661313,0,0,1
+09:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,1
+09:42,[CHI] Meesseman Foul: Shooting (1 PF) (2 FTA),-22,32,6,203827,203416,,1611661329,0,0,1
+09:42,[NYL 1-0] Howard Free Throw 1 of 2 (1 PTS),0,-80,3,,203827,,1611661313,1,0,1
+09:42,[NYL 2-0] Howard Free Throw 2 of 2 (2 PTS),0,-80,3,,203827,,1611661313,2,0,1
+09:18,[CHI] Team Turnover : Shot Clock Turnover,-173,60,5,,0,,1611661329,2,0,1
+09:05,[NYL] Allen Driving Layup Shot: Missed,7,28,2,,204296,,1611661313,2,0,1
+09:04,[NYL] Howard Rebound (Off:1 Def:0),7,28,4,,203827,,1611661313,2,0,1
+09:03,[NYL] Howard Putback Layup Shot: Missed,-4,33,2,,203827,,1611661313,2,0,1
+09:02,[NYL] Howard Rebound (Off:2 Def:0),-4,33,4,,203827,,1611661313,2,0,1
+08:50,[NYL 4-0] Allen Cutting Layup Shot: Made (2 PTS) Assist: Dangerfield (1 AST),12,29,1,,204296,1630101,1611661313,4,0,1
+08:37,[CHI] Parker 3pt Shot: Missed,-162,175,2,,201496,,1611661329,4,0,1
+08:36,[NYL] Howard Rebound (Off:2 Def:1),-162,175,4,,203827,,1611661313,4,0,1
+08:23,[NYL] Dolson Hook Shot: Missed,-16,54,2,,203828,,1611661313,4,0,1
+08:22,[NYL] Dolson Rebound (Off:1 Def:0),-16,54,4,,203828,,1611661313,4,0,1
+08:21,[NYL 6-0] Dolson Putback Layup Shot: Made (2 PTS),-10,32,1,,203828,,1611661313,6,0,1
+08:01,[CHI] Quigley 3pt Shot: Missed,166,210,2,204296,201516,,1611661329,6,0,1
+08:00,[NYL] Dangerfield Rebound (Off:0 Def:1),166,210,4,,1630101,,1611661313,6,0,1
+07:56,[NYL 8-0] Howard Running Layup Shot: Made (4 PTS) Assist: Dangerfield (2 AST),-7,35,1,,203827,1630101,1611661313,8,0,1
+07:55,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,8,0,1
+07:45,[CHI] Allemand Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),109,128,5,203827,1627700,,1611661329,8,0,1
+07:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,0,1
+07:30,[NYL] Dangerfield Pullup Jump shot: Missed,-31,124,2,,1630101,,1611661313,8,0,1
+07:29,[CHI] Parker Rebound (Off:0 Def:1),-31,124,4,,201496,,1611661329,8,0,1
+07:15,[CHI] Copper Jump Shot: Missed,16,101,2,,1627674,,1611661329,8,0,1
+07:14,[NYL] Dangerfield Rebound (Off:0 Def:2),16,101,4,,1630101,,1611661313,8,0,1
+06:54,[NYL] Ionescu Turnover : Bad Pass (1 TO) Steal:Allemand (1 ST),10,178,5,1627700,1629477,,1611661313,8,0,1
+06:44,[CHI 2-8] Meesseman Cutting Layup Shot: Made (2 PTS) Assist: Copper (1 AST),-15,22,1,,203416,1627674,1611661329,8,2,1
+06:40,[NYL] Howard Turnover : Bad Pass (1 TO) Steal:Meesseman (1 ST),-13,704,5,203416,203827,,1611661313,8,2,1
+06:35,[CHI 5-8] Parker 3pt Shot: Made (3 PTS) Assist: Allemand (1 AST),-121,209,1,,201496,1627700,1611661329,8,5,1
+06:13,[NYL] Howard Layup Shot: Missed,-13,33,2,,203827,,1611661313,8,5,1
+06:12,[NYL] Howard Rebound (Off:3 Def:1),-13,33,4,,203827,,1611661313,8,5,1
+06:05,[NYL] Dolson Driving Layup Shot: Missed,-20,23,2,,203828,,1611661313,8,5,1
+06:04,[CHI] Parker Rebound (Off:0 Def:2),-20,23,4,,201496,,1611661329,8,5,1
+05:55,[NYL] Dangerfield Foul: Shooting (1 PF) (2 FTA),7,17,6,201496,1630101,,1611661313,8,5,1
+05:55,[CHI] Parker Free Throw 1 of 2 Missed,0,-80,3,,201496,,1611661329,8,5,1
+05:55,[CHI] Team Rebound,0,-80,4,,0,,1611661329,8,5,1
+05:55,[CHI 6-8] Parker Free Throw 2 of 2 (4 PTS),0,-80,3,,201496,,1611661329,8,6,1
+05:44,[NYL] Dolson 3pt Shot: Missed,139,203,2,,203828,,1611661313,8,6,1
+05:43,[CHI] Copper Rebound (Off:0 Def:1),139,203,4,,1627674,,1611661329,8,6,1
+05:37,[NYL] Howard Foul: Shooting (1 PF) (2 FTA),-11,25,6,1627674,203827,,1611661313,8,6,1
+05:37,[CHI 7-8] Copper Free Throw 1 of 2 (1 PTS),0,-80,3,,1627674,,1611661329,8,7,1
+05:37,[CHI] Parker Substitution replaced by Stevens,0,-80,8,,201496,1628922,1611661329,8,7,1
+05:37,[CHI] Quigley Substitution replaced by Gardner,0,-80,8,,201516,203822,1611661329,8,7,1
+05:37,[CHI] Allemand Substitution replaced by Evans,0,-80,8,,1627700,1630389,1611661329,8,7,1
+05:37,[CHI] Copper Free Throw 2 of 2 Missed,0,-80,3,,1627674,,1611661329,8,7,1
+05:36,[CHI] Copper Rebound (Off:1 Def:1),0,-80,4,,1627674,,1611661329,8,7,1
+05:32,[CHI] Copper Layup Shot: Missed,-13,20,2,,1627674,,1611661329,8,7,1
+05:31,[NYL] Dolson Rebound (Off:1 Def:1),-13,20,4,,203828,,1611661313,8,7,1
+05:21,[NYL] Ionescu Pullup Jump shot: Missed,-32,180,2,,1629477,,1611661313,8,7,1
+05:20,[CHI] Copper Rebound (Off:1 Def:2),-32,180,4,,1627674,,1611661329,8,7,1
+05:09,[CHI] Meesseman Driving Reverse Layup Shot: Missed,13,26,2,,203416,,1611661329,8,7,1
+05:08,[NYL] Dolson Rebound (Off:1 Def:2),13,26,4,,203828,,1611661313,8,7,1
+05:03,[NYL] Allen Layup Shot: Missed,-6,29,2,,204296,,1611661313,8,7,1
+05:02,[CHI] Stevens Rebound (Off:0 Def:1),-6,29,4,,1628922,,1611661329,8,7,1
+04:52,[NYL] Dolson Foul: Shooting (1 PF) (2 FTA),-16,17,6,1627674,203828,,1611661313,8,7,1
+04:52,[CHI 8-8] Copper Free Throw 1 of 2 (2 PTS),0,-80,3,,1627674,,1611661329,8,8,1
+04:52,[CHI] Copper Free Throw 2 of 2 Missed,0,-80,3,,1627674,,1611661329,8,8,1
+04:51,[NYL] Dolson Rebound (Off:1 Def:3),0,-80,4,,203828,,1611661313,8,8,1
+04:34,[NYL] Howard Driving Hook Shot: Missed,-22,53,2,,203827,,1611661313,8,8,1
+04:33,[CHI] Gardner Rebound (Off:0 Def:1),-22,53,4,,203822,,1611661329,8,8,1
+04:21,[CHI 10-8] Evans Driving Layup Shot: Made (2 PTS) Assist: Stevens (1 AST),-11,10,1,,1630389,1628922,1611661329,8,10,1
+04:06,[NYL] Howard Cutting Layup Shot: Missed,15,29,2,,203827,,1611661313,8,10,1
+04:05,[NYL] Howard Rebound (Off:4 Def:1),15,29,4,,203827,,1611661313,8,10,1
+04:04,[NYL 10-10] Howard Putback Layup Shot: Made (6 PTS),-10,33,1,,203827,,1611661313,10,10,1
+04:04,[CHI] Stevens Foul: Shooting (1 PF) (1 FTA),-10,33,6,203827,1628922,,1611661329,10,10,1
+04:04,[NYL] Dangerfield Substitution replaced by Johannes,0,-80,8,,1630101,1629546,1611661313,10,10,1
+04:04,[NYL] Allen Substitution replaced by Xu,0,-80,8,,204296,1629566,1611661313,10,10,1
+04:04,[NYL] Dolson Substitution replaced by Whitcomb,0,-80,8,,203828,1628244,1611661313,10,10,1
+04:04,[CHI] Meesseman Substitution replaced by Yueru,0,-80,8,,203416,1629574,1611661329,10,10,1
+04:04,[NYL 11-10] Howard Free Throw 1 of 1 (7 PTS),0,-80,3,,203827,,1611661313,11,10,1
+03:51,[CHI] Copper 3pt Shot: Missed,212,110,2,,1627674,,1611661329,11,10,1
+03:50,[NYL] Xu Rebound (Off:0 Def:1),212,110,4,,1629566,,1611661313,11,10,1
+03:37,[NYL] Xu 3pt Shot: Missed,-62,249,2,,1629566,,1611661313,11,10,1
+03:36,[NYL] Team Rebound,-62,249,4,,0,,1611661313,11,10,1
+03:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,10,1
+03:36,[CHI] Copper Substitution replaced by Quigley,0,-80,8,,1627674,201516,1611661329,11,10,1
+03:31,[NYL] Ionescu Driving Layup Shot: Missed,-20,29,2,,1629477,,1611661313,11,10,1
+03:30,[CHI] Stevens Rebound (Off:0 Def:2),-20,29,4,,1628922,,1611661329,11,10,1
+03:23,[CHI] Gardner 3pt Shot: Missed,-221,9,2,,203822,,1611661329,11,10,1
+03:22,[NYL] Whitcomb Rebound (Off:0 Def:1),-221,9,4,,1628244,,1611661313,11,10,1
+03:08,[CHI] Gardner Foul: Personal (1 PF),-17,44,6,203827,203822,,1611661329,11,10,1
+03:08,[NYL] Ionescu Substitution replaced by Dangerfield,0,-80,8,,1629477,1630101,1611661313,11,10,1
+03:07,[CHI] Stevens Violation:Kicked Ball,0,-80,7,,1628922,,1611661329,11,10,1
+02:59,[NYL 13-10] Xu Layup Shot: Made (2 PTS) Assist: Whitcomb (1 AST),-9,26,1,,1629566,1628244,1611661313,13,10,1
+02:44,[CHI] Yueru Turnover : Lost Ball (1 TO) Steal:Howard (2 ST),-11,42,5,203827,1629574,,1611661329,13,10,1
+02:33,[NYL] Howard Driving Layup Shot: Missed,5,34,2,,203827,,1611661313,13,10,1
+02:32,[CHI] Stevens Rebound (Off:0 Def:3),5,34,4,,1628922,,1611661329,13,10,1
+02:24,[CHI] Quigley 3pt Shot: Missed,-156,167,2,,201516,,1611661329,13,10,1
+02:23,[NYL] Team Rebound,-156,167,4,,0,,1611661313,13,10,1
+02:23,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,13,10,1
+02:04,[NYL] Xu Reverse Layup Shot: Missed,-11,28,2,,1629566,,1611661313,13,10,1
+02:03,[CHI] Stevens Rebound (Off:0 Def:4),-11,28,4,,1628922,,1611661329,13,10,1
+01:52,[NYL] Whitcomb Foul: Personal (1 PF),31,32,6,1628922,1628244,,1611661313,13,10,1
+01:45,[CHI 12-13] Stevens Turnaround Jump Shot: Made (2 PTS),113,53,1,,1628922,,1611661329,13,12,1
+01:31,[NYL 15-12] Johannes Driving Floating Jump Shot: Made (2 PTS) Assist: Xu (1 AST),-17,77,1,,1629546,1629566,1611661313,15,12,1
+01:15,[CHI] Quigley Turnaround Jump Shot: Missed,-81,31,2,,201516,,1611661329,15,12,1
+01:14,[NYL] Whitcomb Rebound (Off:0 Def:2),-81,31,4,,1628244,,1611661313,15,12,1
+01:08,[CHI] Evans Foul: Shooting (1 PF) (2 FTA),-16,39,6,1628244,1630389,,1611661329,15,12,1
+01:08,[NYL 16-12] Whitcomb Free Throw 1 of 2 (1 PTS),0,-80,3,,1628244,,1611661313,16,12,1
+01:08,[NYL 17-12] Whitcomb Free Throw 2 of 2 (2 PTS),0,-80,3,,1628244,,1611661313,17,12,1
+00:56.5,[CHI] Quigley Pullup Jump shot: Missed,32,76,2,,201516,,1611661329,17,12,1
+00:55.3,[NYL] Whitcomb Rebound (Off:0 Def:3),32,76,4,,1628244,,1611661313,17,12,1
+00:44.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,12,1
+00:38.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,12,1
+00:34.0,[NYL] Johannes Turnover : Lost Ball (1 TO) Steal:Gardner (1 ST),-7,785,5,203822,1629546,,1611661313,17,12,1
+00:29.2,[CHI 14-17] Stevens Running Layup Shot: Made (4 PTS) Assist: Gardner (1 AST),-15,21,1,,1628922,203822,1611661329,17,14,1
+00:16.2,[NYL] Xu Turnaround Jump Shot: Missed,-104,53,2,,1629566,,1611661313,17,14,1
+00:15.0,[CHI] Quigley Rebound (Off:0 Def:1),-104,53,4,,201516,,1611661329,17,14,1
+00:08.0,[CHI] Yueru Foul: Offensive (1 PF),-36,58,6,1630101,1629574,,1611661329,17,14,1
+00:08.0,[CHI] Yueru Turnover : Offensive Foul Turnover (2 TO),-36,58,5,,1629574,,1611661329,17,14,1
+00:01.5,[NYL] Johannes Driving Floating Bank Jump Shot: Missed,-48,55,2,,1629546,,1611661313,17,14,1
+00:00.3,[CHI] Stevens Rebound (Off:0 Def:5),-48,55,4,,1628922,,1611661329,17,14,1
+00:00.0,End Period,0,-80,13,,0,,0,17,14,1
+10:00,Start Period,0,-80,12,,0,,0,17,14,2
+09:47,[NYL] Dolson Foul: Personal (2 PF),-28,48,6,201496,203828,,1611661313,17,14,2
+09:37,[CHI] Parker 3pt Shot: Missed,-179,170,2,,201496,,1611661329,17,14,2
+09:36,[NYL] Ionescu Rebound (Off:0 Def:1),-179,170,4,,1629477,,1611661313,17,14,2
+09:16,[NYL 20-14] Ionescu 3pt Shot: Made (3 PTS) Assist: Dolson (1 AST),-224,53,1,,1629477,203828,1611661313,20,14,2
+09:04,[CHI] Quigley Cutting Layup Shot: Missed,13,20,2,,201516,,1611661329,20,14,2
+09:03,[CHI] Quigley Rebound (Off:1 Def:1),13,20,4,,201516,,1611661329,20,14,2
+09:01,[CHI 16-20] Quigley Turnaround Hook Shot: Made (2 PTS),29,48,1,,201516,,1611661329,20,16,2
+08:50,[NYL] Onyenwere 3pt Shot: Missed,-222,92,2,,1630446,,1611661313,20,16,2
+08:49,[CHI] Parker Rebound (Off:0 Def:3),-222,92,4,,201496,,1611661329,20,16,2
+08:38,[CHI] Stevens Turnover : Bad Pass (1 TO) Steal:Dolson (1 ST),39,60,5,203828,1628922,,1611661329,20,16,2
+08:30,[NYL] Ionescu Floating Jump shot: Missed,5,27,2,,1629477,,1611661313,20,16,2
+08:29,[CHI] Parker Rebound (Off:0 Def:4),5,27,4,,201496,,1611661329,20,16,2
+08:24,[CHI 18-20] Stevens Alley Oop Layup shot: Made (6 PTS) Assist: Quigley (1 AST),13,20,1,,1628922,201516,1611661329,20,18,2
+08:11,[NYL 22-18] Dolson Cutting Layup Shot: Made (4 PTS) Assist: Ionescu (1 AST),7,19,1,,203828,1629477,1611661313,22,18,2
+07:51,[NYL] Whitcomb Foul: Shooting (2 PF) (2 FTA),-18,24,6,203822,1628244,,1611661313,22,18,2
+07:51,[CHI 19-22] Gardner Free Throw 1 of 2 (1 PTS),0,-80,3,,203822,,1611661329,22,19,2
+07:51,[CHI 20-22] Gardner Free Throw 2 of 2 (2 PTS),0,-80,3,,203822,,1611661329,22,20,2
+07:34,[NYL] Dolson Turnover : Lost Ball (1 TO) Steal:Gardner (2 ST),112,119,5,203822,203828,,1611661313,22,20,2
+07:28,[CHI 22-22] Parker Running Layup Shot: Made (6 PTS) Assist: Gardner (2 AST),-12,20,1,,201496,203822,1611661329,22,22,2
+07:22,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,22,22,2
+07:22,[NYL] Whitcomb Substitution replaced by Johannes,0,-80,8,,1628244,1629546,1611661313,22,22,2
+07:22,[CHI] Gardner Substitution replaced by Copper,0,-80,8,,203822,1627674,1611661329,22,22,2
+07:17,[NYL] Dolson Foul: Offensive (3 PF),-42,59,6,1627700,203828,,1611661313,22,22,2
+07:17,[NYL] Dolson Turnover : Offensive Foul Turnover (2 TO),-42,59,5,,203828,,1611661313,22,22,2
+07:17,[NYL] Dolson Substitution replaced by Xu,0,-80,8,,203828,1629566,1611661313,22,22,2
+07:04,[CHI] Copper Pullup Jump shot: Missed,-49,92,2,,1627674,,1611661329,22,22,2
+07:03,[NYL] Allen Rebound (Off:0 Def:1),-49,92,4,,204296,,1611661313,22,22,2
+06:52,[NYL 24-22] Xu Jump Shot: Made (4 PTS) Assist: Ionescu (2 AST),-66,113,1,,1629566,1629477,1611661313,24,22,2
+06:38,[CHI] Allemand 3pt Shot: Missed,-115,218,2,,1627700,,1611661329,24,22,2
+06:37,[NYL] Onyenwere Rebound (Off:0 Def:1),-115,218,4,,1630446,,1611661313,24,22,2
+06:23,[NYL 26-22] Onyenwere Driving Layup Shot: Made (2 PTS) Assist: Ionescu (3 AST),8,34,1,,1630446,1629477,1611661313,26,22,2
+06:09,[CHI] Quigley Jump Shot: Missed,-35,90,2,,201516,,1611661329,26,22,2
+06:08,[CHI] Team Rebound,-35,90,4,,0,,1611661329,26,22,2
+06:08,[NYL] Onyenwere Foul: Loose Ball (1 PF),1,27,6,1628922,1630446,,1611661313,26,22,2
+06:08,[CHI] Stevens Substitution replaced by Meesseman,0,-80,8,,1628922,203416,1611661329,26,22,2
+05:58,[CHI] Parker 3pt Shot: Missed,-196,132,2,,201496,,1611661329,26,22,2
+05:57,[NYL] Team Rebound,-196,132,4,,0,,1611661313,26,22,2
+05:57,[CHI] Meesseman Foul: Loose Ball (2 PF),5,808,6,1630446,203416,,1611661329,26,22,2
+05:57,[NYL] Onyenwere Substitution replaced by Howard,0,-80,8,,1630446,203827,1611661313,26,22,2
+05:48,[NYL] Johannes Foul: Offensive (1 PF),147,323,6,1627700,1629546,,1611661313,26,22,2
+05:48,[NYL] Johannes Turnover : Offensive Foul Turnover (2 TO),147,323,5,,1629546,,1611661313,26,22,2
+05:32,[CHI] Allemand 3pt Shot: Missed,194,139,2,,1627700,,1611661329,26,22,2
+05:31,[NYL] Xu Rebound (Off:0 Def:2),194,139,4,,1629566,,1611661313,26,22,2
+05:19,[NYL] Howard Turnaround Hook Shot: Missed,1,32,2,,203827,,1611661313,26,22,2
+05:18,[NYL] Howard Rebound (Off:5 Def:1),1,32,4,,203827,,1611661313,26,22,2
+05:17,[NYL 28-22] Howard Putback Layup Shot: Made (9 PTS),-6,31,1,,203827,,1611661313,28,22,2
+04:53,[CHI] Copper Driving Layup Shot: Missed,9,20,2,,1627674,,1611661329,28,22,2
+04:52,[NYL] Ionescu Rebound (Off:0 Def:2),9,20,4,,1629477,,1611661313,28,22,2
+04:47,[NYL 30-22] Ionescu Running Jump Shot: Made (5 PTS),67,80,1,,1629477,,1611661313,30,22,2
+04:41,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,30,22,2
+04:41,[CHI] Quigley Substitution replaced by Gardner,0,-80,8,,201516,203822,1611661329,30,22,2
+04:33,[CHI 25-30] Gardner 3pt Shot: Made (5 PTS) Assist: Meesseman (1 AST),-130,208,1,,203822,203416,1611661329,30,25,2
+04:18,[NYL] Ionescu Pullup Jump shot: Missed,102,119,2,,1629477,,1611661313,30,25,2
+04:17,[CHI] Copper Rebound (Off:1 Def:3),102,119,4,,1627674,,1611661329,30,25,2
+04:04,[CHI] Gardner Cutting Layup Shot: Missed,24,17,2,1629546,203822,,1611661329,30,25,2
+04:03,[NYL] Xu Rebound (Off:0 Def:3),24,17,4,,1629566,,1611661313,30,25,2
+03:59,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-61,40,5,,1629477,,1611661313,30,25,2
+03:36,[CHI 27-30] Meesseman Reverse Layup Shot: Made (4 PTS) Assist: Gardner (3 AST),-11,10,1,,203416,203822,1611661329,30,27,2
+03:22,[NYL 32-27] Xu Cutting Layup Shot: Made (6 PTS) Assist: Howard (1 AST),4,28,1,,1629566,203827,1611661313,32,27,2
+03:04,[CHI] Meesseman Jump Shot: Missed,-29,64,2,,203416,,1611661329,32,27,2
+03:03,[NYL] Allen Rebound (Off:0 Def:2),-29,64,4,,204296,,1611661313,32,27,2
+02:55,[NYL] Ionescu Driving Layup Shot: Missed,-17,31,2,,1629477,,1611661313,32,27,2
+02:54,[NYL] Ionescu Rebound (Off:1 Def:2),-17,31,4,,1629477,,1611661313,32,27,2
+02:49,[NYL 35-27] Johannes 3pt Shot: Made (5 PTS) Assist: Xu (2 AST),-155,198,1,,1629546,1629566,1611661313,35,27,2
+02:36,[CHI 29-35] Parker Step Back Jump shot: Made (8 PTS),-111,63,1,,201496,,1611661329,35,29,2
+02:27,[NYL] Howard Turnover : Traveling (2 TO),-84,232,5,,203827,,1611661313,35,29,2
+02:14,[CHI] Parker Turnaround Fadeaway shot: Missed,96,17,2,,201496,,1611661329,35,29,2
+02:13,[NYL] Ionescu Rebound (Off:1 Def:3),96,17,4,,1629477,,1611661313,35,29,2
+02:01,[NYL] Xu Jump Shot: Missed,56,24,2,,1629566,,1611661313,35,29,2
+02:00,[CHI] Parker Rebound (Off:0 Def:5),56,24,4,,201496,,1611661329,35,29,2
+01:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,29,2
+01:45,[CHI 31-35] Copper Driving Layup Shot: Made (4 PTS),13,27,1,,1627674,,1611661329,35,31,2
+01:45,[NYL] Allen Foul: Shooting (1 PF) (1 FTA),13,27,6,1627674,204296,,1611661313,35,31,2
+01:45,[CHI 32-35] Copper Free Throw 1 of 1 (5 PTS),0,-80,3,,1627674,,1611661329,35,32,2
+01:43,[NYL] Howard Turnover : Bad Pass (3 TO) Steal:Gardner (3 ST),77,749,5,203822,203827,,1611661313,35,32,2
+01:42,[NYL] Howard Foul: Shooting (2 PF) (2 FTA),-8,41,6,203822,203827,,1611661313,35,32,2
+01:42,[CHI] Gardner Free Throw 1 of 2 Missed,0,-80,3,,203822,,1611661329,35,32,2
+01:42,[CHI] Team Rebound,0,-80,4,,0,,1611661329,35,32,2
+01:42,[CHI 33-35] Gardner Free Throw 2 of 2 (6 PTS),0,-80,3,,203822,,1611661329,35,33,2
+01:35,[NYL] Johannes Turnover : Bad Pass (3 TO) Steal:Copper (1 ST),37,451,5,1627674,1629546,,1611661313,35,33,2
+01:31,[NYL] Allen Foul: Shooting (2 PF) (2 FTA),11,40,6,1627674,204296,,1611661313,35,33,2
+01:31,[CHI 34-35] Copper Free Throw 1 of 2 (6 PTS),0,-80,3,,1627674,,1611661329,35,34,2
+01:31,[NYL] Johannes Substitution replaced by Dangerfield,0,-80,8,,1629546,1630101,1611661313,35,34,2
+01:31,[CHI 35-35] Copper Free Throw 2 of 2 (7 PTS),0,-80,3,,1627674,,1611661329,35,35,2
+01:16,[CHI] Copper Foul: Personal (1 PF),23,49,6,1629566,1627674,,1611661329,35,35,2
+01:10,[NYL 37-35] Ionescu Driving Floating Jump Shot: Made (7 PTS),-92,142,1,,1629477,,1611661313,37,35,2
+00:53.9,[NYL] Ionescu Foul: Personal (1 PF) (2 FTA),5,28,6,201496,1629477,,1611661313,37,35,2
+00:53.9,[CHI 36-37] Parker Free Throw 1 of 2 (9 PTS),0,-80,3,,201496,,1611661329,37,36,2
+00:53.9,[CHI 37-37] Parker Free Throw 2 of 2 (10 PTS),0,-80,3,,201496,,1611661329,37,37,2
+00:36.3,[NYL] Ionescu Turnover : Bad Pass (3 TO) Steal:Allemand (2 ST),55,87,5,1627700,1629477,,1611661313,37,37,2
+00:31.1,[NYL] Dangerfield Foul: Personal (2 PF) (2 FTA),4,41,6,1627674,1630101,,1611661313,37,37,2
+00:31.1,[CHI 38-37] Copper Free Throw 1 of 2 (8 PTS),0,-80,3,,1627674,,1611661329,37,38,2
+00:31.1,[CHI 39-37] Copper Free Throw 2 of 2 (9 PTS),0,-80,3,,1627674,,1611661329,37,39,2
+00:07.2,[NYL] Ionescu 3pt Shot: Missed,65,238,2,,1629477,,1611661313,37,39,2
+00:06.0,[NYL] Team Rebound,65,238,4,,0,,1611661313,37,39,2
+00:06.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,39,2
+00:06.0,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,37,39,2
+00:06.0,[NYL] Dangerfield Substitution replaced by Whitcomb,0,-80,8,,1630101,1628244,1611661313,37,39,2
+00:06.0,[CHI] Allemand Substitution replaced by Stevens,0,-80,8,,1627700,1628922,1611661329,37,39,2
+00:00.2,[NYL] Ionescu 3pt Shot: Missed,60,244,2,203822,1629477,,1611661313,37,39,2
+00:00.1,[NYL] Team Rebound,60,244,4,,0,,1611661313,37,39,2
+00:00.0,End Period,0,-80,13,,0,,0,37,39,2
+10:00,Start Period,0,-80,12,,0,,0,37,39,3
+09:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,39,3
+09:38,[CHI] Team Turnover : 5 Second Violation,39,21,5,,0,,1611661329,37,39,3
+09:25,[NYL 39-39] Dolson Cutting Layup Shot: Made (6 PTS) Assist: Ionescu (4 AST),7,20,1,,203828,1629477,1611661313,39,39,3
+09:08,[CHI] Parker Turnover : Bad Pass (1 TO) Steal:Howard (3 ST),-55,139,5,203827,201496,,1611661329,39,39,3
+08:58,[NYL] Allen Pullup Jump shot: Missed,-171,30,2,,204296,,1611661313,39,39,3
+08:57,[CHI] Parker Rebound (Off:0 Def:6),-171,30,4,,201496,,1611661329,39,39,3
+08:48,[CHI] Meesseman Jump Shot: Missed,-155,78,2,,203416,,1611661329,39,39,3
+08:47,[NYL] Ionescu Rebound (Off:1 Def:4),-155,78,4,,1629477,,1611661313,39,39,3
+08:33,[NYL] Allen Turnover : Lost Ball (1 TO) Steal:Allemand (3 ST),-57,70,5,1627700,204296,,1611661313,39,39,3
+08:28,[CHI] Quigley 3pt Shot: Missed,-161,184,2,,201516,,1611661329,39,39,3
+08:27,[NYL] Team Rebound,-161,184,4,,0,,1611661313,39,39,3
+08:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,39,3
+08:04,[NYL] Howard Turnaround Fadeaway Bank Jump Shot: Missed,-1,65,2,,203827,,1611661313,39,39,3
+08:03,[NYL] Team Rebound,-1,65,4,,0,,1611661313,39,39,3
+08:03,[NYL] Team Turnover : Shot Clock Turnover,65,44,5,,0,,1611661313,39,39,3
+07:43,[CHI] Meesseman Turnaround Fadeaway shot: Missed,-43,64,2,203827,203416,,1611661329,39,39,3
+07:42,[NYL] Allen Rebound (Off:0 Def:3),-43,64,4,,204296,,1611661313,39,39,3
+07:36,[NYL 41-39] Dolson Turnaround Hook Shot: Made (8 PTS) Assist: Allen (1 AST),53,58,1,,203828,204296,1611661313,41,39,3
+07:23,[NYL] Dangerfield Foul: Personal (3 PF),-202,167,6,201516,1630101,,1611661313,41,39,3
+07:11,[CHI 41-41] Meesseman Turnaround Fadeaway Bank Jump Shot: Made (6 PTS) Assist: Parker (1 AST),-51,47,1,,203416,201496,1611661329,41,41,3
+06:55,[NYL] Dangerfield Driving Floating Jump Shot: Missed,102,85,2,,1630101,,1611661313,41,41,3
+06:53,[CHI] Parker Rebound (Off:0 Def:7),102,85,4,,201496,,1611661329,41,41,3
+06:42,[CHI] Allemand 3pt Shot: Missed,-172,190,2,,1627700,,1611661329,41,41,3
+06:41,[CHI] Parker Rebound (Off:1 Def:7),-172,190,4,,201496,,1611661329,41,41,3
+06:40,[CHI 43-41] Parker Putback Layup Shot: Made (12 PTS),-10,32,1,,201496,,1611661329,41,43,3
+06:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,43,3
+06:21,[NYL] Allen Substitution replaced by Johannes,0,-80,8,,204296,1629546,1611661313,41,43,3
+06:21,[NYL] Dangerfield Substitution replaced by Whitcomb,0,-80,8,,1630101,1628244,1611661313,41,43,3
+06:11,[NYL 43-43] Dolson Pullup Jump shot: Made (10 PTS) Assist: Ionescu (5 AST),-44,53,1,,203828,1629477,1611661313,43,43,3
+05:52,[CHI] Copper Pullup Jump shot: Missed,-96,91,2,,1627674,,1611661329,43,43,3
+05:51,[NYL] Howard Rebound (Off:5 Def:2),-96,91,4,,203827,,1611661313,43,43,3
+05:43,[NYL 45-43] Dolson Cutting Layup Shot: Made (12 PTS) Assist: Ionescu (6 AST),11,13,1,,203828,1629477,1611661313,45,43,3
+05:43,[CHI] Parker Foul: Shooting (1 PF) (1 FTA),11,13,6,203828,201496,,1611661329,45,43,3
+05:43,InstantReplay Request Stands,0,-80,18,,0,,0,45,43,3
+05:43,[NYL] Dolson Technical (1 FTA),0,-80,6,,203828,,1611661313,45,43,3
+05:43,[CHI 44-45] Parker Free Throw Technical (13 PTS),0,-80,3,,201496,,1611661329,45,44,3
+05:43,[CHI] Parker Substitution replaced by Stevens,0,-80,8,,201496,1628922,1611661329,45,44,3
+05:43,[CHI] Quigley Substitution replaced by Gardner,0,-80,8,,201516,203822,1611661329,45,44,3
+05:43,[NYL 46-44] Dolson Free Throw 1 of 1 (13 PTS),0,-80,3,,203828,,1611661313,46,44,3
+05:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,44,3
+05:22,[NYL] Howard Foul: Personal (3 PF),-74,34,6,203416,203827,,1611661313,46,44,3
+05:17,[CHI] Stevens Pullup Jump shot: Missed,66,161,2,,1628922,,1611661329,46,44,3
+05:14,[CHI] Meesseman Rebound (Off:1 Def:0),66,161,4,,203416,,1611661329,46,44,3
+05:11,[CHI] Gardner 3pt Shot: Missed,-139,214,2,,203822,,1611661329,46,44,3
+05:08,[NYL] Howard Rebound (Off:5 Def:3),-139,214,4,,203827,,1611661313,46,44,3
+05:01,[NYL] Whitcomb 3pt Shot: Missed,-225,13,2,,1628244,,1611661313,46,44,3
+05:00,[CHI] Meesseman Rebound (Off:1 Def:1),-225,13,4,,203416,,1611661329,46,44,3
+04:54,[CHI 46-46] Gardner Driving Finger Roll Layup Shot: Made (8 PTS) Assist: Allemand (2 AST),-13,29,1,,203822,1627700,1611661329,46,46,3
+04:43,[NYL 48-46] Ionescu Pullup Jump shot: Made (9 PTS),-134,38,1,,1629477,,1611661313,48,46,3
+04:21,[CHI 48-48] Gardner Driving Layup Shot: Made (10 PTS),-10,29,1,,203822,,1611661329,48,48,3
+04:07,[CHI] Stevens Foul: Personal (2 PF),-110,85,6,203828,1628922,,1611661329,48,48,3
+04:07,Timeout Officials,0,-80,9,,0,,0,48,48,3
+04:07,[NYL] Dolson Substitution replaced by Xu,0,-80,8,,203828,1629566,1611661313,48,48,3
+03:57,[NYL] Xu Pullup Jump shot: Missed,-113,84,2,,1629566,,1611661313,48,48,3
+03:56,[NYL] Howard Rebound (Off:6 Def:3),-113,84,4,,203827,,1611661313,48,48,3
+03:55,[CHI] Gardner Foul: Shooting (2 PF) (2 FTA),12,27,6,203827,203822,,1611661329,48,48,3
+03:55,[NYL 49-48] Howard Free Throw 1 of 2 (10 PTS),0,-80,3,,203827,,1611661313,49,48,3
+03:55,[NYL 50-48] Howard Free Throw 2 of 2 (11 PTS),0,-80,3,,203827,,1611661313,50,48,3
+03:45,[CHI] Copper 3pt Shot: Missed,-207,128,2,,1627674,,1611661329,50,48,3
+03:42,[NYL] Ionescu Rebound (Off:1 Def:5),-207,128,4,,1629477,,1611661313,50,48,3
+03:31,[NYL 52-48] Howard Floating Jump shot: Made (13 PTS) Assist: Johannes (1 AST),27,76,1,,203827,1629546,1611661313,52,48,3
+03:15,[CHI] Gardner Pullup Jump shot: Missed,-138,117,2,,203822,,1611661329,52,48,3
+03:12,[NYL] Ionescu Rebound (Off:1 Def:6),-138,117,4,,1629477,,1611661313,52,48,3
+03:05,[NYL 55-48] Whitcomb 3pt Shot: Made (5 PTS) Assist: Howard (2 AST),123,223,1,,1628244,203827,1611661313,55,48,3
+02:42,[CHI] Allemand 3pt Shot: Missed,-67,249,2,,1627700,,1611661329,55,48,3
+02:39,[CHI] Copper Rebound (Off:2 Def:3),-67,249,4,,1627674,,1611661329,55,48,3
+02:37,[CHI] Copper Putback Layup Shot: Missed,-16,29,2,,1627674,,1611661329,55,48,3
+02:35,[CHI] Copper Rebound (Off:3 Def:3),-16,29,4,,1627674,,1611661329,55,48,3
+02:34,[CHI 50-55] Copper Putback Layup Shot: Made (11 PTS),-7,29,1,,1627674,,1611661329,55,50,3
+02:23,[NYL] Howard Foul: Offensive (4 PF),99,129,6,1627700,203827,,1611661313,55,50,3
+02:23,[NYL] Howard Turnover : Offensive Foul Turnover (4 TO),99,129,5,,203827,,1611661313,55,50,3
+02:23,[NYL] Ionescu Substitution replaced by Dangerfield,0,-80,8,,1629477,1630101,1611661313,55,50,3
+02:23,[CHI] Copper Substitution replaced by Parker,0,-80,8,,1627674,201496,1611661329,55,50,3
+02:23,[CHI] Meesseman Substitution replaced by Quigley,0,-80,8,,203416,201516,1611661329,55,50,3
+02:05,[CHI 53-55] Gardner 3pt Shot: Made (13 PTS) Assist: Quigley (2 AST),-227,70,1,,203822,201516,1611661329,55,53,3
+01:47,[NYL] Xu Cutting Layup Shot: Missed,7,17,2,,1629566,,1611661313,55,53,3
+01:43,[NYL] Xu Rebound (Off:1 Def:3),7,17,4,,1629566,,1611661313,55,53,3
+01:42,[NYL] Xu Turnover : Bad Pass (1 TO) Steal:Parker (1 ST),-11,40,5,201496,1629566,,1611661313,55,53,3
+01:23,[CHI] Quigley Turnover : Bad Pass (1 TO) Steal:Whitcomb (1 ST),-21,44,5,1628244,201516,,1611661329,55,53,3
+01:17,[NYL 58-53] Dangerfield 3pt Shot: Made (3 PTS) Assist: Whitcomb (2 AST),-63,234,1,,1630101,1628244,1611661313,58,53,3
+00:59.6,[CHI] Quigley 3pt Shot: Missed,-172,180,2,,201516,,1611661329,58,53,3
+00:56.5,[NYL] Howard Rebound (Off:6 Def:4),-172,180,4,,203827,,1611661313,58,53,3
+00:40.6,[NYL 60-53] Xu Jump Shot: Made (8 PTS) Assist: Johannes (2 AST),17,58,1,,1629566,1629546,1611661313,60,53,3
+00:22.1,[CHI] Stevens 3pt Shot: Missed,-179,179,2,,1628922,,1611661329,60,53,3
+00:18.2,[CHI] Parker Rebound (Off:2 Def:7),-179,179,4,,201496,,1611661329,60,53,3
+00:15.8,[CHI] Parker Fadeaway Jump Shot: Missed,-116,92,2,,201496,,1611661329,60,53,3
+00:13.1,[CHI] Gardner Rebound (Off:1 Def:1),-116,92,4,,203822,,1611661329,60,53,3
+00:12.6,[CHI 55-60] Allemand Reverse Layup Shot: Made (2 PTS) Assist: Parker (2 AST),-11,31,1,,1627700,201496,1611661329,60,55,3
+00:00.2,[CHI] Stevens Foul: Shooting (3 PF) (2 FTA),-16,20,6,203827,1628922,,1611661329,60,55,3
+00:00.2,[NYL 61-55] Howard Free Throw 1 of 2 (14 PTS),0,-80,3,,203827,,1611661313,61,55,3
+00:00.2,[NYL] Howard Free Throw 2 of 2 Missed,0,-80,3,,203827,,1611661313,61,55,3
+00:00.1,[NYL] Team Rebound,0,-80,4,,0,,1611661313,61,55,3
+00:00.0,End Period,0,-80,13,,0,,0,61,55,3
+10:00,Start Period,0,-80,12,,0,,0,61,55,4
+09:45,[NYL] Johannes Turnover : Bad Pass (4 TO) Steal:Parker (2 ST),112,74,5,201496,1629546,,1611661313,61,55,4
+09:33,[CHI 57-61] Stevens Layup Shot: Made (8 PTS) Assist: Parker (3 AST),10,29,1,,1628922,201496,1611661329,61,57,4
+09:10,[NYL 64-57] Onyenwere 3pt Shot: Made (5 PTS) Assist: Ionescu (7 AST),72,235,1,,1630446,1629477,1611661313,64,57,4
+08:52,[CHI] Gardner Driving Reverse Layup Shot: Missed,-21,32,2,,203822,,1611661329,64,57,4
+08:51,[CHI] Team Rebound,-21,32,4,,0,,1611661329,64,57,4
+08:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,57,4
+08:50,[NYL] Onyenwere Foul: Personal (2 PF),-13,27,6,1628922,1630446,,1611661313,64,57,4
+08:50,[CHI] Gardner Turnover : Bad Pass (1 TO) Steal:Dangerfield (1 ST),-11,53,5,1630101,203822,,1611661329,64,57,4
+08:40,[NYL] Ionescu 3pt Shot: Missed,-152,185,2,,1629477,,1611661313,64,57,4
+08:39,[NYL] Xu Rebound (Off:2 Def:3),-152,185,4,,1629566,,1611661313,64,57,4
+08:37,[NYL] Xu Putback Layup Shot: Missed,4,16,2,,1629566,,1611661313,64,57,4
+08:36,[NYL] Xu Rebound (Off:3 Def:3),4,16,4,,1629566,,1611661313,64,57,4
+08:35,[NYL 66-57] Xu Putback Layup Shot: Made (10 PTS),9,30,1,,1629566,,1611661313,66,57,4
+08:27,[NYL] Onyenwere Foul: Shooting (3 PF) (2 FTA),4,29,6,1628922,1630446,,1611661313,66,57,4
+08:27,[CHI 58-66] Stevens Free Throw 1 of 2 (9 PTS),0,-80,3,,1628922,,1611661329,66,58,4
+08:27,[CHI 59-66] Stevens Free Throw 2 of 2 (10 PTS),0,-80,3,,1628922,,1611661329,66,59,4
+08:15,[NYL] Ionescu Layup Shot: Missed,12,28,2,203822,1629477,,1611661313,66,59,4
+08:14,[CHI] Team Rebound,12,28,4,,0,,1611661329,66,59,4
+08:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,59,4
+08:14,[CHI] Parker Substitution replaced by Meesseman,0,-80,8,,201496,203416,1611661329,66,59,4
+07:48,[CHI] Gardner Pullup Jump shot: Missed,17,104,2,,203822,,1611661329,66,59,4
+07:45,[NYL] Ionescu Rebound (Off:1 Def:7),17,104,4,,1629477,,1611661313,66,59,4
+07:40,[NYL 69-59] Ionescu 3pt Shot: Made (12 PTS) Assist: Johannes (3 AST),-200,126,1,,1629477,1629546,1611661313,69,59,4
+07:24,[CHI] Quigley Pullup Jump shot: Missed,-146,31,2,,201516,,1611661329,69,59,4
+07:22,[CHI] Gardner Rebound (Off:2 Def:1),-146,31,4,,203822,,1611661329,69,59,4
+07:21,[NYL] Dangerfield Foul: Shooting (4 PF) (2 FTA),-10,37,6,203822,1630101,,1611661313,69,59,4
+07:21,[CHI] Quigley Substitution replaced by Copper,0,-80,8,,201516,1627674,1611661329,69,59,4
+07:21,[CHI] Gardner Free Throw 1 of 2 Missed,0,-80,3,,203822,,1611661329,69,59,4
+07:21,[CHI] Team Rebound,0,-80,4,,0,,1611661329,69,59,4
+07:21,[CHI 60-69] Gardner Free Throw 2 of 2 (14 PTS),0,-80,3,,203822,,1611661329,69,60,4
+07:08,[NYL] Onyenwere 3pt Shot: Missed,233,20,2,,1630446,,1611661313,69,60,4
+07:07,[CHI] Gardner Rebound (Off:2 Def:2),233,20,4,,203822,,1611661329,69,60,4
+06:57,[CHI] Gardner Driving Layup Shot: Missed,-20,26,2,,203822,,1611661329,69,60,4
+06:56,[NYL] Onyenwere Rebound (Off:0 Def:2),-20,26,4,,1630446,,1611661313,69,60,4
+06:40,[NYL] Xu Pullup Jump shot: Missed,-121,26,2,,1629566,,1611661313,69,60,4
+06:39,[CHI] Allemand Rebound (Off:0 Def:1),-121,26,4,,1627700,,1611661329,69,60,4
+06:30,[CHI 62-69] Allemand Driving Layup Shot: Made (4 PTS),-13,32,1,,1627700,,1611661329,69,62,4
+06:18,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,69,62,4
+06:18,[NYL] Dangerfield Substitution replaced by Dolson,0,-80,8,,1630101,203828,1611661313,69,62,4
+06:18,[NYL] Onyenwere Substitution replaced by Howard,0,-80,8,,1630446,203827,1611661313,69,62,4
+06:18,[NYL] Xu Substitution replaced by Allen,0,-80,8,,1629566,204296,1611661313,69,62,4
+06:18,[CHI] Gardner Substitution replaced by Parker,0,-80,8,,203822,201496,1611661329,69,62,4
+06:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,62,4
+06:09,[NYL] Allen Turnover : Traveling (2 TO),-127,96,5,,204296,,1611661313,69,62,4
+05:51,[CHI] Copper 3pt Shot: Missed,-196,166,2,,1627674,,1611661329,69,62,4
+05:50,[NYL] Allen Rebound (Off:0 Def:4),-196,166,4,,204296,,1611661313,69,62,4
+05:49,[CHI] Parker Foul: Personal (2 PF),9,799,6,204296,201496,,1611661329,69,62,4
+05:37,[NYL] Ionescu Turnover : Bad Pass (4 TO) Steal:Stevens (1 ST),50,60,5,1628922,1629477,,1611661313,69,62,4
+05:32,[CHI 64-69] Copper Running Layup Shot: Made (13 PTS) Assist: Stevens (2 AST),16,27,1,,1627674,1628922,1611661329,69,64,4
+05:24,[CHI] Copper Foul: Personal (2 PF),155,108,6,1629546,1627674,,1611661329,69,64,4
+05:16,[NYL] Allen 3pt Shot: Missed,173,175,2,,204296,,1611661313,69,64,4
+05:12,[CHI] Copper Rebound (Off:3 Def:4),173,175,4,,1627674,,1611661329,69,64,4
+04:57,[CHI] Allemand 3pt Shot: Missed,-124,225,2,,1627700,,1611661329,69,64,4
+04:53,[CHI] Meesseman Rebound (Off:2 Def:1),-124,225,4,,203416,,1611661329,69,64,4
+04:50,[CHI 66-69] Parker Turnaround Bank Hook Shot: Made (15 PTS) Assist: Copper (2 AST),67,27,1,,201496,1627674,1611661329,69,66,4
+04:33,[NYL] Dolson Layup Shot: Missed,13,25,2,,203828,,1611661313,69,66,4
+04:30,[CHI] Meesseman Rebound (Off:2 Def:2),13,25,4,,203416,,1611661329,69,66,4
+04:23,[CHI] Parker 3pt Shot: Missed,217,125,2,,201496,,1611661329,69,66,4
+04:22,[CHI] Allemand Rebound (Off:1 Def:1),217,125,4,,1627700,,1611661329,69,66,4
+04:17,[NYL] Johannes Foul: Shooting (2 PF) (2 FTA),10,33,6,1627674,1629546,,1611661313,69,66,4
+04:17,[CHI 67-69] Copper Free Throw 1 of 2 (14 PTS),0,-80,3,,1627674,,1611661329,69,67,4
+04:17,[NYL] Dolson Substitution replaced by Onyenwere,0,-80,8,,203828,1630446,1611661313,69,67,4
+04:17,[NYL] Allen Substitution replaced by Xu,0,-80,8,,204296,1629566,1611661313,69,67,4
+04:17,[CHI 68-69] Copper Free Throw 2 of 2 (15 PTS),0,-80,3,,1627674,,1611661329,69,68,4
+04:04,[CHI] Stevens Foul: Shooting (4 PF) (2 FTA),12,22,6,1629566,1628922,,1611661329,69,68,4
+04:04,[NYL 70-68] Xu Free Throw 1 of 2 (11 PTS),0,-80,3,,1629566,,1611661313,70,68,4
+04:04,[NYL 71-68] Xu Free Throw 2 of 2 (12 PTS),0,-80,3,,1629566,,1611661313,71,68,4
+03:48,[CHI 70-71] Copper Pullup Jump shot: Made (17 PTS),-20,172,1,,1627674,,1611661329,71,70,4
+03:30,[NYL] Johannes 3pt Shot: Missed,51,242,2,,1629546,,1611661313,71,70,4
+03:29,[CHI] Allemand Rebound (Off:1 Def:2),51,242,4,,1627700,,1611661329,71,70,4
+03:13,[CHI] Stevens 3pt Shot: Missed,223,40,2,,1628922,,1611661329,71,70,4
+03:12,[CHI] Parker Rebound (Off:3 Def:7),223,40,4,,201496,,1611661329,71,70,4
+03:11,[CHI 72-71] Parker Putback Layup Shot: Made (17 PTS),-6,31,1,,201496,,1611661329,71,72,4
+02:56,[NYL 73-72] Howard Cutting Finger Roll Layup Shot: Made (16 PTS) Assist: Ionescu (8 AST),-7,22,1,,203827,1629477,1611661313,73,72,4
+02:44,[CHI] Stevens Jump Shot: Missed,-161,54,2,,1628922,,1611661329,73,72,4
+02:43,[NYL] Johannes Rebound (Off:0 Def:1),-161,54,4,,1629546,,1611661313,73,72,4
+02:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,72,4
+02:42,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,73,72,4
+02:42,[CHI] Stevens Substitution replaced by Gardner,0,-80,8,,1628922,203822,1611661329,73,72,4
+02:24,[NYL] Onyenwere Cutting Layup Shot: Missed,13,26,2,,1630446,,1611661313,73,72,4
+02:23,[CHI] Team Rebound,13,26,4,,0,,1611661329,73,72,4
+02:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,72,4
+02:05,[CHI 74-73] Parker Cutting Layup Shot: Made (19 PTS) Assist: Meesseman (2 AST),-12,29,1,,201496,203416,1611661329,73,74,4
+02:05,[NYL] Howard Foul: Shooting (5 PF) (1 FTA),-12,29,6,201496,203827,,1611661313,73,74,4
+02:05,[CHI 75-73] Parker Free Throw 1 of 1 (20 PTS),0,-80,3,,201496,,1611661329,73,75,4
+01:55,[NYL] Ionescu 3pt Shot: Missed,37,242,2,203822,1629477,,1611661313,73,75,4
+01:54,[CHI] Parker Rebound (Off:3 Def:8),37,242,4,,201496,,1611661329,73,75,4
+01:50,[CHI] Parker Turnover : Lost Ball (2 TO) Steal:Howard (4 ST),-32,291,5,203827,201496,,1611661329,73,75,4
+01:49,[CHI] Copper Foul: Personal (3 PF),106,551,6,203827,1627674,,1611661329,73,75,4
+01:49,[NYL] Onyenwere Substitution replaced by Dolson,0,-80,8,,1630446,203828,1611661313,73,75,4
+01:49,[NYL] Xu Substitution replaced by Allen,0,-80,8,,1629566,204296,1611661313,73,75,4
+01:41,[NYL 76-75] Johannes 3pt Shot: Made (8 PTS) Assist: Ionescu (9 AST),193,144,1,,1629546,1629477,1611661313,76,75,4
+01:17,[CHI] Team Turnover : Shot Clock Turnover,4,32,5,,0,,1611661329,76,75,4
+01:08,[NYL] Johannes Turnover : Bad Pass (5 TO) Steal:Gardner (4 ST),63,323,5,203822,1629546,,1611661313,76,75,4
+01:04,[CHI 77-76] Gardner Running Finger Roll Layup Shot: Made (16 PTS),0,29,1,,203822,,1611661329,76,77,4
+01:03,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,76,77,4
+00:51.9,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (5 TO),60,41,5,,1629477,,1611661313,76,77,4
+00:51.9,Instant Replay - Support Ruling,0,-80,18,,0,,0,76,77,4
+00:43.2,[NYL] Howard Foul: Personal (6 PF) (2 FTA),-150,223,6,203416,203827,,1611661313,76,77,4
+00:43.2,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,76,77,4
+00:43.2,[CHI 78-76] Meesseman Free Throw 1 of 2 (7 PTS),0,-80,3,,203416,,1611661329,76,78,4
+00:43.2,[CHI 79-76] Meesseman Free Throw 2 of 2 (8 PTS),0,-80,3,,203416,,1611661329,76,79,4
+00:43.2,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,76,79,4
+00:36.9,[NYL 78-79] Ionescu Pullup Jump shot: Made (14 PTS),-119,87,1,,1629477,,1611661313,78,79,4
+00:19.0,[NYL] Dolson Foul: Personal (5 PF) (2 FTA),51,103,6,201496,203828,,1611661313,78,79,4
+00:19.0,[CHI] Parker Free Throw 1 of 2 Missed,0,-80,3,,201496,,1611661329,78,79,4
+00:19.0,[CHI] Team Rebound,0,-80,4,,0,,1611661329,78,79,4
+00:19.0,[CHI 80-78] Parker Free Throw 2 of 2 (21 PTS),0,-80,3,,201496,,1611661329,78,80,4
+00:19.0,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,78,80,4
+00:09.7,[NYL 80-80] Ionescu Driving Layup Shot: Made (16 PTS),9,19,1,,1629477,,1611661313,80,80,4
+00:09.7,[CHI] Gardner Foul: Shooting (3 PF) (1 FTA),9,19,6,1629477,203822,,1611661329,80,80,4
+00:09.7,[NYL 81-80] Ionescu Free Throw 1 of 1 (17 PTS),0,-80,3,,1629477,,1611661313,81,80,4
+00:09.7,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,81,80,4
+00:04.2,[CHI] Parker Turnaround Hook Shot: Missed,-24,49,2,,201496,,1611661329,81,80,4
+00:03.0,[NYL] Onyenwere Rebound (Off:0 Def:3),-24,49,4,,1630446,,1611661313,81,80,4
+00:01.8,[CHI] Parker Foul: Personal (3 PF) (2 FTA),12,796,6,1630446,201496,,1611661329,81,80,4
+00:01.8,[NYL 82-80] Onyenwere Free Throw 1 of 2 (6 PTS),0,-80,3,,1630446,,1611661313,82,80,4
+00:01.8,[NYL 83-80] Onyenwere Free Throw 2 of 2 (7 PTS),0,-80,3,,1630446,,1611661313,83,80,4
+00:01.8,[CHI] Team Timeout : Short,0,-80,9,,1611661329,,1611661329,83,80,4
+00:01.8,[NYL] Dolson Substitution replaced by Xu,0,-80,8,,203828,1629566,1611661313,83,80,4
+00:01.8,[CHI] Gardner Substitution replaced by Quigley,0,-80,8,,203822,201516,1611661329,83,80,4
+00:00.9,[CHI] Meesseman 3pt Shot: Missed,-89,260,2,,203416,,1611661329,83,80,4
+00:00.1,[CHI] Team Rebound,-89,260,4,,0,,1611661329,83,80,4
+00:00.0,End Period,0,-80,13,,0,,0,83,80,4
+00:00.0,Game End,0,-80,0,,0,,0,83,80,4

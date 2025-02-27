@@ -1,0 +1,411 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Jones vs Sykes (Laney gains possession),0,-80,10,1628279,1627673,204335,1611661313,0,0,0,1
+09:49,[WAS] Sykes Foul: Personal (1 PF),-27,54,6,1627673,1628279,1629422,1611661322,0,0,0,1
+09:44,[NYL] Jones Turnover : Out of Bounds - Bad Pass Turnover (1 TO),85,228,5,,1627673,1629422,1611661313,0,0,0,1
+09:24,[WAS] Hines-Allen Turnaround Jump Shot: Missed,-45,-28,2,,1628899,,1611661322,0,0,0,1
+09:22,[NYL] Stewart Rebound (Off:0 Def:1),-45,-28,4,,1627668,,1611661313,0,0,0,1
+09:05,[NYL] Laney Driving Layup Shot: Missed,-35,23,2,,204335,,1611661313,0,0,0,1
+09:03,[NYL] Jones Rebound (Off:1 Def:0),-35,23,4,,1627673,,1611661313,0,0,0,1
+09:03,[NYL] Jones Layup Shot: Missed,-1,6,2,,1627673,,1611661313,0,0,0,1
+08:58,[WAS] Cloud Rebound (Off:0 Def:1),-1,6,4,,204333,,1611661322,0,0,0,1
+08:54,[WAS] Hawkins Layup Shot: Missed Block: Jones (1 BLK),33,-10,2,1627673,203403,,1611661322,0,0,0,1
+08:51,[NYL] Jones Rebound (Off:1 Def:1),33,-10,4,,1627673,,1611661313,0,0,0,1
+08:43,[NYL] Stewart Jump Shot: Missed,157,22,2,,1627668,,1611661313,0,0,0,1
+08:40,[WAS] Sykes Rebound (Off:0 Def:1),157,22,4,,1628279,,1611661322,0,0,0,1
+08:29,[WAS 3-0] Sykes 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),176,159,1,,1628279,204333,1611661322,3,0,3,1
+08:16,[NYL 2-3] Vandersloot Driving Layup Shot: Made (2 PTS),19,8,1,,202664,,1611661313,3,2,2,1
+08:06,[WAS 5-2] Hawkins Running Jump Shot: Made (2 PTS) Assist: Hines-Allen (1 AST),-32,-18,1,,203403,1628899,1611661322,5,2,2,1
+08:00,[NYL] Laney Turnover : Step Out of Bounds Turnover (1 TO),230,56,5,,204335,1629176,1611661313,5,2,0,1
+07:43,[WAS 8-2] Sykes 3pt Shot: Made (6 PTS) Assist: Cloud (2 AST),-234,-35,1,,1628279,204333,1611661322,8,2,3,1
+07:33,[NYL] Vandersloot Turnover : Bad Pass (1 TO) Steal:Cloud (1 ST),-131,221,5,204333,202664,,1611661313,8,2,0,1
+07:29,[WAS 10-2] Cloud Running Layup Shot: Made (2 PTS) Assist: Hines-Allen (2 AST),16,-21,1,,204333,1628899,1611661322,10,2,2,1
+07:22,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,10,2,0,1
+07:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,2,0,1
+07:08,[NYL] Ionescu 3pt Shot: Missed,134,287,2,,1629477,,1611661313,10,2,0,1
+07:04,[NYL] Jones Rebound (Off:2 Def:1),134,287,4,,1627673,,1611661313,10,2,0,1
+07:02,[NYL 4-10] Jones Layup Shot: Made (2 PTS),-6,13,1,,1627673,,1611661313,10,4,2,1
+06:40,[WAS] Sykes Driving Layup Shot: Missed Block: Vandersloot (1 BLK),-17,-3,2,202664,1628279,,1611661322,10,4,0,1
+06:36,[NYL] Vandersloot Rebound (Off:0 Def:1),-17,-3,4,,202664,,1611661313,10,4,0,1
+06:34,[NYL] Stewart 3pt Shot: Missed,229,0,2,,1627668,,1611661313,10,4,0,1
+06:30,[WAS] Sykes Rebound (Off:0 Def:2),229,0,4,,1628279,,1611661322,10,4,0,1
+06:24,[WAS] Hines-Allen Turnaround Hook Shot: Missed,43,32,2,,1628899,,1611661322,10,4,0,1
+06:23,[WAS] Hawkins Rebound (Off:1 Def:0),43,32,4,,203403,,1611661322,10,4,0,1
+06:22,[WAS] Hawkins Layup Shot: Missed,-27,-12,2,,203403,,1611661322,10,4,0,1
+06:22,[WAS] Hines-Allen Rebound (Off:1 Def:0),-27,-12,4,,1628899,,1611661322,10,4,0,1
+06:19,[WAS] Hines-Allen Putback Layup Shot: Missed,16,4,2,,1628899,,1611661322,10,4,0,1
+06:19,[NYL] Stewart Rebound (Off:0 Def:2),16,4,4,,1627668,,1611661313,10,4,0,1
+06:15,[NYL 6-10] Jones Layup Shot: Made (4 PTS) Assist: Laney (1 AST),16,-6,1,,1627673,204335,1611661313,10,6,2,1
+06:15,[WAS] Cloud Foul: Shooting (1 PF) (1 FTA),19,-1,6,1627673,204333,100698,1611661322,10,6,0,1
+06:15,[WAS] Hines-Allen Substitution replaced by Egbo,0,-80,8,,1628899,1631031,1611661322,10,6,0,1
+06:15,[NYL 7-10] Jones Free Throw 1 of 1 (5 PTS),0,-80,3,,1627673,,1611661313,10,7,1,1
+06:04,[WAS] Cloud Turnover : Bad Pass (1 TO) Steal:Ionescu (1 ST),59,140,5,1629477,204333,,1611661322,10,7,0,1
+05:57,[NYL] Vandersloot Running Layup Shot: Missed,30,24,2,,202664,,1611661313,10,7,0,1
+05:55,[WAS] Sykes Rebound (Off:0 Def:3),30,24,4,,1628279,,1611661322,10,7,0,1
+05:41,[WAS 12-7] Walker-Kimbrough Pullup Jump shot: Made (2 PTS),99,121,1,,1628278,,1611661322,12,7,2,1
+05:30,[NYL 10-12] Ionescu 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),-233,-12,1,,1629477,1627673,1611661313,12,10,3,1
+05:07,[WAS] Sykes Driving Reverse Layup Shot: Missed,-38,-23,2,,1628279,,1611661322,12,10,0,1
+05:06,[NYL] Team Rebound,-38,-23,4,,0,,1611661313,12,10,0,1
+05:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,10,0,1
+04:56,[NYL 13-12] Jones 3pt Shot: Made (8 PTS) Assist: Laney (2 AST),-12,255,1,,1627673,204335,1611661313,12,13,3,1
+04:32,[WAS] Cloud Step Back Jump shot: Missed,-78,162,2,,204333,,1611661322,12,13,0,1
+04:28,[NYL] Ionescu Rebound (Off:0 Def:1),-78,162,4,,1629477,,1611661313,12,13,0,1
+04:26,[NYL 15-12] Jones Running Layup Shot: Made (10 PTS) Assist: Ionescu (1 AST),8,10,1,,1627673,1629477,1611661313,12,15,2,1
+04:12,[WAS] Egbo Reverse Layup Shot: Missed,-32,-11,2,,1631031,,1611661322,12,15,0,1
+04:09,[WAS] Egbo Rebound (Off:1 Def:0),-32,-11,4,,1631031,,1611661322,12,15,0,1
+04:04,[WAS] Sykes 3pt Shot: Missed,228,79,2,,1628279,,1611661322,12,15,0,1
+03:59,[NYL] Vandersloot Rebound (Off:0 Def:2),228,79,4,,202664,,1611661313,12,15,0,1
+03:53,[WAS] Cloud Foul: Shooting (2 PF) (3 FTA),-232,171,6,1629477,204333,100698,1611661322,12,15,0,1
+03:53,[NYL 16-12] Ionescu Free Throw 1 of 3 (4 PTS),0,-80,3,,1629477,,1611661313,12,16,1,1
+03:53,[WAS] Cloud Substitution replaced by Meng,0,-80,8,,204333,1641642,1611661322,12,16,0,1
+03:53,[NYL 17-12] Ionescu Free Throw 2 of 3 (5 PTS),0,-80,3,,1629477,,1611661313,12,17,1,1
+03:53,[NYL 18-12] Ionescu Free Throw 3 of 3 (6 PTS),0,-80,3,,1629477,,1611661313,12,18,1,1
+03:43,[WAS] Egbo Foul: Offensive (1 PF),11,232,6,1627673,1631031,1629176,1611661322,12,18,0,1
+03:43,[WAS] Egbo Turnover : Offensive Foul Turnover (1 TO),11,232,5,,1631031,1629176,1611661322,12,18,0,1
+03:43,[NYL] Vandersloot Substitution replaced by Johannès,0,-80,8,,202664,1629546,1611661313,12,18,0,1
+03:28,[NYL 21-12] Jones 3pt Shot: Made (13 PTS) Assist: Ionescu (2 AST),172,178,1,,1627673,1629477,1611661313,12,21,3,1
+03:27,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,12,21,0,1
+03:27,[NYL] Stewart Substitution replaced by Thornton,0,-80,8,,1627668,203866,1611661313,12,21,0,1
+03:13,[NYL] Thornton Foul: Shooting (1 PF) (2 FTA),-27,-17,6,1628278,203866,100698,1611661313,12,21,0,1
+03:13,[WAS 13-21] Walker-Kimbrough Free Throw 1 of 2 (3 PTS),0,-80,3,,1628278,,1611661322,13,21,1,1
+03:13,[WAS 14-21] Walker-Kimbrough Free Throw 2 of 2 (4 PTS),0,-80,3,,1628278,,1611661322,14,21,1,1
+03:01,[NYL 24-14] Ionescu 3pt Shot: Made (9 PTS) Assist: Thornton (1 AST),-218,169,1,,1629477,203866,1611661313,14,24,3,1
+02:49,[NYL] Johannès Foul: Personal (1 PF),-216,70,6,1628278,1629546,100698,1611661313,14,24,0,1
+02:38,[WAS 16-24] Egbo Layup Shot: Made (2 PTS) Assist: Walker-Kimbrough (1 AST),26,-13,1,,1631031,1628278,1611661322,16,24,2,1
+02:24,[NYL] Jones Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-48,195,5,,1627673,1629176,1611661313,16,24,0,1
+02:23,[WAS] Sykes Substitution replaced by Harper,0,-80,8,,1628279,1628897,1611661322,16,24,0,1
+02:23,[WAS] Walker-Kimbrough Substitution replaced by Cloud,0,-80,8,,1628278,204333,1611661322,16,24,0,1
+02:15,[WAS 18-24] Hawkins Driving Layup Shot: Made (4 PTS) Assist: Meng (1 AST),-17,-16,1,,203403,1641642,1611661322,18,24,2,1
+02:06,[NYL] Johannès 3pt Shot: Missed,2,273,2,,1629546,,1611661313,18,24,0,1
+02:05,[NYL] Team Rebound,2,273,4,,0,,1611661313,18,24,0,1
+02:05,[NYL] Ionescu Foul: Loose Ball (1 PF),6,80,6,1628897,1629477,100698,1611661313,18,24,0,1
+02:05,[NYL] Ionescu Turnover :   (1 TO),6,80,5,,1629477,100698,1611661313,18,24,0,1
+02:05,[NYL] Jones Substitution replaced by Stewart,0,-80,8,,1627673,1627668,1611661313,18,24,0,1
+01:59,[NYL] Ionescu Foul: Personal (2 PF),-141,180,6,1641642,1629477,1629176,1611661313,18,24,0,1
+01:50,[WAS] Meng Driving Layup Shot: Missed,105,40,2,,1641642,,1611661322,18,24,0,1
+01:47,[NYL] Johannès Rebound (Off:0 Def:1),105,40,4,,1629546,,1611661313,18,24,0,1
+01:47,[NYL] Johannès Turnover : Bad Pass (1 TO),238,169,5,,1629546,1629422,1611661313,18,24,0,1
+01:29,[WAS] Harper Layup Shot: Missed Block: Johannès (1 BLK),-46,32,2,1629546,1628897,,1611661322,18,24,0,1
+01:26,[NYL] Ionescu Rebound (Off:0 Def:2),-46,32,4,,1629477,,1611661313,18,24,0,1
+01:25,[NYL] Laney Turnover : Traveling (2 TO),4,42,5,,204335,1629176,1611661313,18,24,0,1
+01:07,[WAS] Egbo Turnaround Jump Shot: Missed,-99,15,2,,1631031,,1611661322,18,24,0,1
+01:05,[NYL] Johannès Rebound (Off:0 Def:2),-99,15,4,,1629546,,1611661313,18,24,0,1
+01:04,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,18,24,0,1
+00:55.1,[NYL] Thornton Jump Shot: Missed,174,109,2,,203866,,1611661313,18,24,0,1
+00:53.0,[NYL] Johannès Rebound (Off:1 Def:2),174,109,4,,1629546,,1611661313,18,24,0,1
+00:46.6,[NYL] Stewart Cutting Layup Shot: Missed Block: Egbo (1 BLK),-43,29,2,1631031,1627668,,1611661313,18,24,0,1
+00:43.7,[WAS] Cloud Rebound (Off:0 Def:2),-43,29,4,,204333,,1611661322,18,24,0,1
+00:41.5,[WAS] Cloud Turnover : Out of Bounds - Bad Pass Turnover (2 TO),163,204,5,,204333,1629422,1611661322,18,24,0,1
+00:41.5,[WAS] Hawkins Substitution replaced by Hines-Allen,0,-80,8,,203403,1628899,1611661322,18,24,0,1
+00:41.5,[NYL] Laney Substitution replaced by Willoughby,0,-80,8,,204335,1630139,1611661313,18,24,0,1
+00:34.3,[NYL 27-18] Ionescu 3pt Shot: Made (12 PTS),4,268,1,,1629477,,1611661313,18,27,3,1
+00:12.7,[WAS] Egbo Jump Shot: Missed,149,3,2,,1631031,,1611661322,18,27,0,1
+00:08.9,[NYL] Johannès Rebound (Off:1 Def:3),149,3,4,,1629546,,1611661313,18,27,0,1
+00:06.0,[WAS] Egbo Foul: Personal (2 PF),-67,157,6,1629477,1631031,100698,1611661322,18,27,0,1
+00:04.9,[NYL] Willoughby Turnover : Bad Pass (1 TO) Steal:Hines-Allen (1 ST),-235,164,5,1628899,1630139,,1611661313,18,27,0,1
+00:02.6,[NYL] Johannès Foul: Personal (2 PF) (2 FTA),92,78,6,1628899,1629546,100698,1611661313,18,27,0,1
+00:02.6,[WAS 19-27] Hines-Allen Free Throw 1 of 2 (1 PTS),0,-80,3,,1628899,,1611661322,19,27,1,1
+00:02.6,[WAS] Cloud Substitution replaced by Walker-Kimbrough,0,-80,8,,204333,1628278,1611661322,19,27,0,1
+00:02.6,[WAS 20-27] Hines-Allen Free Throw 2 of 2 (2 PTS),0,-80,3,,1628899,,1611661322,20,27,1,1
+00:00.5,[NYL] Johannès 3pt Shot: Missed,196,510,2,,1629546,,1611661313,20,27,0,1
+00:00.5,[NYL] Team Rebound,196,510,4,,0,,1611661313,20,27,0,1
+00:00.0,End Period,0,-80,13,,0,,0,20,27,0,1
+10:00,Start Period,0,-80,12,,0,,0,20,27,0,2
+09:35,[WAS] Meng 3pt Shot: Missed,229,32,2,,1641642,,1611661322,20,27,0,2
+09:33,[NYL] Jones Rebound (Off:2 Def:2),229,32,4,,1627673,,1611661313,20,27,0,2
+09:27,[NYL 29-20] Stewart Alley Oop Layup shot: Made (2 PTS) Assist: Johannès (1 AST),39,11,1,,1627668,1629546,1611661313,20,29,2,2
+09:05,[WAS] Cloud Driving Layup Shot: Missed,44,-24,2,,204333,,1611661322,20,29,0,2
+09:02,[NYL] Jones Rebound (Off:2 Def:3),44,-24,4,,1627673,,1611661313,20,29,0,2
+08:55,[NYL 32-20] Vandersloot 3pt Shot: Made (5 PTS) Assist: Johannès (2 AST),-239,28,1,,202664,1629546,1611661313,20,32,3,2
+08:36,[WAS] Harper Jump Shot: Missed,-54,138,2,,1628897,,1611661322,20,32,0,2
+08:33,[NYL] Stewart Rebound (Off:0 Def:3),-54,138,4,,1627668,,1611661313,20,32,0,2
+08:18,[NYL] Vandersloot Driving Layup Shot: Missed,-37,7,2,,202664,,1611661313,20,32,0,2
+08:16,[NYL] Jones Rebound (Off:3 Def:3),-37,7,4,,1627673,,1611661313,20,32,0,2
+08:16,[NYL 34-20] Jones Putback Layup Shot: Made (15 PTS),21,16,1,,1627673,,1611661313,20,34,2,2
+08:16,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,20,34,0,2
+08:16,[WAS] Meng Substitution replaced by Walker-Kimbrough,0,-80,8,,1641642,1628278,1611661322,20,34,0,2
+08:16,[WAS] Harper Substitution replaced by Sykes,0,-80,8,,1628897,1628279,1611661322,20,34,0,2
+07:58,[WAS] Sykes Jump Shot: Missed,140,112,2,,1628279,,1611661322,20,34,0,2
+07:55,[WAS] Sykes Rebound (Off:1 Def:3),140,112,4,,1628279,,1611661322,20,34,0,2
+07:54,[WAS 23-34] Walker-Kimbrough 3pt Shot: Made (7 PTS) Assist: Sykes (1 AST),-230,94,1,,1628278,1628279,1611661322,23,34,3,2
+07:39,[WAS] Hines-Allen Foul: Personal (1 PF),128,42,6,1627668,1628899,1629176,1611661322,23,34,0,2
+07:33,[NYL] Stewart Jump Shot: Missed,44,163,2,,1627668,,1611661313,23,34,0,2
+07:31,[NYL] Jones Rebound (Off:4 Def:3),44,163,4,,1627673,,1611661313,23,34,0,2
+07:30,[NYL 36-23] Jones Putback Layup Shot: Made (17 PTS),18,11,1,,1627673,,1611661313,23,36,2,2
+07:22,[WAS 25-36] Hines-Allen Driving Layup Shot: Made (4 PTS),-8,4,1,,1628899,,1611661322,25,36,2,2
+07:09,[NYL] Vandersloot 3pt Shot: Missed,-177,185,2,,202664,,1611661313,25,36,0,2
+07:06,[WAS] Sykes Rebound (Off:1 Def:4),-177,185,4,,1628279,,1611661322,25,36,0,2
+06:57,[WAS] Goree 3pt Shot: Missed,-216,92,2,,1627643,,1611661322,25,36,0,2
+06:55,[WAS] Hines-Allen Rebound (Off:2 Def:0),-216,92,4,,1628899,,1611661322,25,36,0,2
+06:45,[WAS] Cloud Step Back Jump shot: Missed,-66,118,2,,204333,,1611661322,25,36,0,2
+06:42,[NYL] Vandersloot Rebound (Off:0 Def:3),-66,118,4,,202664,,1611661313,25,36,0,2
+06:37,[NYL 38-25] Stewart Layup Shot: Made (4 PTS) Assist: Jones (2 AST),-33,12,1,,1627668,1627673,1611661313,25,38,2,2
+06:16,[WAS 27-38] Hines-Allen Jump Shot: Made (6 PTS) Assist: Cloud (3 AST),4,54,1,,1628899,204333,1611661322,27,38,2,2
+06:04,[NYL 40-27] Vandersloot Driving Layup Shot: Made (7 PTS),21,15,1,,202664,,1611661313,27,40,2,2
+05:54,[WAS] Sykes 3pt Shot: Missed,-230,-16,2,,1628279,,1611661322,27,40,0,2
+05:50,[NYL] Vandersloot Rebound (Off:0 Def:4),-230,-16,4,,202664,,1611661313,27,40,0,2
+05:45,[NYL] Vandersloot Driving Layup Shot: Missed Block: Walker-Kimbrough (1 BLK),-43,7,2,1628278,202664,,1611661313,27,40,0,2
+05:43,[WAS] Hines-Allen Rebound (Off:2 Def:1),-43,7,4,,1628899,,1611661322,27,40,0,2
+05:35,[WAS] Cloud 3pt Shot: Missed,-43,247,2,,204333,,1611661322,27,40,0,2
+05:32,[NYL] Johannès Rebound (Off:1 Def:4),-43,247,4,,1629546,,1611661313,27,40,0,2
+05:16,[NYL 42-27] Jones Layup Shot: Made (19 PTS),-22,24,1,,1627673,,1611661313,27,42,2,2
+04:53,[WAS] Sykes Driving Floating Jump Shot: Missed,-21,122,2,,1628279,,1611661322,27,42,0,2
+04:51,[WAS] Sykes Rebound (Off:2 Def:4),-21,122,4,,1628279,,1611661322,27,42,0,2
+04:51,[WAS 29-42] Sykes Layup Shot: Made (8 PTS),9,10,1,,1628279,,1611661322,29,42,2,2
+04:30,[NYL] Jones 3pt Shot: Missed,-5,262,2,,1627673,,1611661313,29,42,0,2
+04:27,[WAS] Walker-Kimbrough Rebound (Off:0 Def:1),-5,262,4,,1628278,,1611661322,29,42,0,2
+04:23,[NYL] Stewart Foul: Shooting (1 PF) (2 FTA),38,-1,6,204333,1627668,1629422,1611661313,29,42,0,2
+04:23,[WAS 30-42] Cloud Free Throw 1 of 2 (3 PTS),0,-80,3,,204333,,1611661322,30,42,1,2
+04:23,[WAS] Hines-Allen Substitution replaced by Egbo,0,-80,8,,1628899,1631031,1611661322,30,42,0,2
+04:23,[WAS] Goree Substitution replaced by Hawkins,0,-80,8,,1627643,203403,1611661322,30,42,0,2
+04:23,[NYL] Willoughby Substitution replaced by Ionescu,0,-80,8,,1630139,1629477,1611661313,30,42,0,2
+04:23,[NYL] Johannès Substitution replaced by Laney,0,-80,8,,1629546,204335,1611661313,30,42,0,2
+04:23,[NYL] Jones Substitution replaced by Thornton,0,-80,8,,1627673,203866,1611661313,30,42,0,2
+04:23,[WAS 31-42] Cloud Free Throw 2 of 2 (4 PTS),0,-80,3,,204333,,1611661322,31,42,1,2
+04:11,[NYL] Vandersloot Driving Layup Shot: Missed Block: Walker-Kimbrough (2 BLK),-31,11,2,1628278,202664,,1611661313,31,42,0,2
+04:11,[NYL] Team Rebound,-31,11,4,,0,,1611661313,31,42,0,2
+04:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,42,0,2
+04:08,[NYL] Thornton Turnover : Out of Bounds - Bad Pass Turnover (1 TO),127,238,5,,203866,100698,1611661313,31,42,0,2
+03:56,[WAS 34-42] Sykes 3pt Shot: Made (11 PTS),-43,234,1,,1628279,,1611661322,34,42,3,2
+03:49,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,34,42,0,2
+03:31,[NYL] Vandersloot 3pt Shot: Missed,-128,230,2,,202664,,1611661313,34,42,0,2
+03:28,[WAS] Walker-Kimbrough Rebound (Off:0 Def:2),-128,230,4,,1628278,,1611661322,34,42,0,2
+03:09,[WAS] Sykes Jump Shot: Missed,-72,169,2,,1628279,,1611661322,34,42,0,2
+03:06,[NYL] Ionescu Rebound (Off:0 Def:3),-72,169,4,,1629477,,1611661313,34,42,0,2
+02:55,[NYL 44-34] Laney Driving Layup Shot: Made (2 PTS),-23,13,1,,204335,,1611661313,34,44,2,2
+02:40,[WAS] Egbo Reverse Layup Shot: Missed,-34,-6,2,,1631031,,1611661322,34,44,0,2
+02:39,[WAS] Egbo Rebound (Off:2 Def:0),-34,-6,4,,1631031,,1611661322,34,44,0,2
+02:37,[WAS] Egbo Layup Shot: Missed,-30,13,2,,1631031,,1611661322,34,44,0,2
+02:37,[NYL] Laney Rebound (Off:0 Def:1),-30,13,4,,204335,,1611661313,34,44,0,2
+02:36,[NYL] Laney Foul: Flagrant Type 1 (1 PF) (2 FTA),-211,753,6,1628279,204335,1629422,1611661313,34,44,0,2
+02:36,[NYL] Laney Turnover : Offensive Foul Turnover (3 TO),-211,753,5,,204335,1629422,1611661313,34,44,0,2
+02:36,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,34,44,0,2
+02:36,[WAS 35-44] Sykes Free Throw Flagrant 1 of 2 (12 PTS),0,-80,3,,1628279,,1611661322,35,44,1,2
+02:36,[WAS 36-44] Sykes Free Throw Flagrant 2 of 2 (13 PTS),0,-80,3,,1628279,,1611661322,36,44,1,2
+02:36,[NYL] Vandersloot Substitution replaced by Johannès,0,-80,8,,202664,1629546,1611661313,36,44,0,2
+02:22,[WAS 39-44] Sykes 3pt Shot: Made (16 PTS) Assist: Hawkins (1 AST),50,248,1,,1628279,203403,1611661322,39,44,3,2
+02:02,[NYL 46-39] Johannès Driving Layup Shot: Made (2 PTS) Assist: Thornton (2 AST),27,10,1,,1629546,203866,1611661313,39,46,2,2
+01:49,[WAS] Egbo Turnover : Lost Ball (2 TO) Steal:Thornton (1 ST),21,160,5,203866,1631031,,1611661322,39,46,0,2
+01:42,[NYL 48-39] Stewart Cutting Layup Shot: Made (6 PTS) Assist: Ionescu (3 AST),11,28,1,,1627668,1629477,1611661313,39,48,2,2
+01:24,[WAS 41-48] Sykes Cutting Layup Shot: Made (18 PTS) Assist: Walker-Kimbrough (2 AST),32,-15,1,,1628279,1628278,1611661322,41,48,2,2
+01:02,[NYL 50-41] Laney Layup Shot: Made (4 PTS),15,16,1,,204335,,1611661313,41,50,2,2
+00:47.7,[WAS] Hawkins Foul: Offensive (1 PF),-51,137,6,204335,203403,100698,1611661322,41,50,0,2
+00:47.7,[WAS] Hawkins Turnover : Offensive Foul Turnover (1 TO),-51,137,5,,203403,100698,1611661322,41,50,0,2
+00:37.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,50,0,2
+00:34.7,[NYL] Stewart Jump Shot: Missed,90,94,2,,1627668,,1611661313,41,50,0,2
+00:32.1,[WAS] Sykes Rebound (Off:2 Def:5),90,94,4,,1628279,,1611661322,41,50,0,2
+00:30.0,[WAS] Hawkins Foul: Offensive (2 PF),15,46,6,1627668,203403,1629176,1611661322,41,50,0,2
+00:30.0,[WAS] Hawkins Turnover : Offensive Foul Turnover (2 TO),15,46,5,,203403,1629176,1611661322,41,50,0,2
+00:14.5,[NYL] Ionescu 3pt Shot: Missed,115,219,2,,1629477,,1611661313,41,50,0,2
+00:11.8,[WAS] Sykes Rebound (Off:2 Def:6),115,219,4,,1628279,,1611661322,41,50,0,2
+00:00.3,[WAS] Sykes Pullup Jump shot: Missed,13,162,2,,1628279,,1611661322,41,50,0,2
+00:00.3,[NYL] Johannès Rebound (Off:1 Def:5),13,162,4,,1629546,,1611661313,41,50,0,2
+00:00.0,End Period,0,-80,13,,0,,0,41,50,0,2
+10:00,Start Period,0,-80,12,,0,,0,41,50,0,3
+09:47,[WAS 43-50] Cloud Cutting Layup Shot: Made (6 PTS) Assist: Hines-Allen (3 AST),-28,7,1,,204333,1628899,1611661322,43,50,2,3
+09:31,[NYL] Laney Turnover : Lost Ball (4 TO) Steal:Sykes (1 ST),35,8,5,1628279,204335,,1611661313,43,50,0,3
+09:21,[WAS] Hawkins Turnover : Bad Pass (3 TO) Steal:Stewart (1 ST),-209,24,5,1627668,203403,,1611661322,43,50,0,3
+09:17,[NYL 52-43] Laney Running Layup Shot: Made (6 PTS) Assist: Vandersloot (1 AST),-26,-1,1,,204335,202664,1611661313,43,52,2,3
+09:01,[WAS 45-52] Cloud Layup Shot: Made (8 PTS) Assist: Hawkins (2 AST),24,2,1,,204333,203403,1611661322,45,52,2,3
+08:50,[NYL] Laney 3pt Shot: Missed,-223,42,2,,204335,,1611661313,45,52,0,3
+08:48,[WAS] Hines-Allen Rebound (Off:2 Def:2),-223,42,4,,1628899,,1611661322,45,52,0,3
+08:28,[WAS] Cloud Jump Bank Shot: Missed,-73,19,2,,204333,,1611661322,45,52,0,3
+08:27,[NYL] Jones Rebound (Off:4 Def:4),-73,19,4,,1627673,,1611661313,45,52,0,3
+08:19,[NYL 55-45] Vandersloot 3pt Shot: Made (10 PTS) Assist: Jones (3 AST),189,170,1,,202664,1627673,1611661313,45,55,3,3
+08:02,[WAS] Walker-Kimbrough Pullup Jump shot: Missed,-190,66,2,,1628278,,1611661322,45,55,0,3
+07:59,[NYL] Stewart Rebound (Off:0 Def:4),-190,66,4,,1627668,,1611661313,45,55,0,3
+07:51,[NYL 57-45] Laney Layup Shot: Made (8 PTS) Assist: Ionescu (4 AST),-21,9,1,,204335,1629477,1611661313,45,57,2,3
+07:33,[WAS 48-57] Cloud 3pt Shot: Made (11 PTS),223,65,1,,204333,,1611661322,48,57,3,3
+07:16,[NYL 60-48] Stewart 3pt Shot: Made (9 PTS) Assist: Ionescu (5 AST),178,159,1,,1627668,1629477,1611661313,48,60,3,3
+06:54,[WAS] Hines-Allen 3pt Shot: Missed,115,221,2,,1628899,,1611661322,48,60,0,3
+06:53,[NYL] Team Rebound,115,221,4,,0,,1611661313,48,60,0,3
+06:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,60,0,3
+06:53,[WAS] Hines-Allen Substitution replaced by Egbo,0,-80,8,,1628899,1631031,1611661322,48,60,0,3
+06:39,[NYL] Ionescu Jump Shot: Missed,51,164,2,,1629477,,1611661313,48,60,0,3
+06:36,[WAS] Sykes Rebound (Off:2 Def:7),51,164,4,,1628279,,1611661322,48,60,0,3
+06:26,[WAS] Hawkins Cutting Layup Shot: Missed Block: Jones (2 BLK),-53,16,2,1627673,203403,,1611661322,48,60,0,3
+06:24,[NYL] Ionescu Rebound (Off:0 Def:4),-53,16,4,,1629477,,1611661313,48,60,0,3
+06:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,60,0,3
+06:13,[WAS] Egbo Foul: Shooting (3 PF) (2 FTA),-15,46,6,1627668,1631031,100698,1611661322,48,60,0,3
+06:13,[NYL 61-48] Stewart Free Throw 1 of 2 (10 PTS),0,-80,3,,1627668,,1611661313,48,61,1,3
+06:13,[NYL 62-48] Stewart Free Throw 2 of 2 (11 PTS),0,-80,3,,1627668,,1611661313,48,62,1,3
+05:54,[WAS 51-62] Hawkins 3pt Shot: Made (7 PTS) Assist: Cloud (4 AST),-13,263,1,,203403,204333,1611661322,51,62,3,3
+05:38,[NYL 65-51] Stewart 3pt Shot: Made (14 PTS),43,252,1,,1627668,,1611661313,51,65,3,3
+05:11,[WAS] Cloud Step Back Jump shot: Missed,-107,162,2,,204333,,1611661322,51,65,0,3
+05:08,[NYL] Ionescu Rebound (Off:0 Def:5),-107,162,4,,1629477,,1611661313,51,65,0,3
+05:05,[NYL 68-51] Stewart 3pt Shot: Made (17 PTS) Assist: Ionescu (6 AST),237,0,1,,1627668,1629477,1611661313,51,68,3,3
+05:05,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,51,68,0,3
+04:50,[WAS] Walker-Kimbrough Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-3,241,5,,1628278,1629176,1611661322,51,68,0,3
+04:35,[NYL] Laney 3pt Shot: Missed,235,6,2,,204335,,1611661313,51,68,0,3
+04:31,[WAS] Hawkins Rebound (Off:1 Def:1),235,6,4,,203403,,1611661322,51,68,0,3
+04:19,[WAS 54-68] Walker-Kimbrough 3pt Shot: Made (10 PTS) Assist: Egbo (1 AST),166,196,1,,1628278,1631031,1611661322,54,68,3,3
+04:08,[NYL] Jones Foul: Offensive (1 PF),94,234,6,203403,1627673,100698,1611661313,54,68,0,3
+04:08,[NYL] Jones Turnover : Offensive Foul Turnover (3 TO),94,234,5,,1627673,100698,1611661313,54,68,0,3
+04:08,[WAS] Sykes Substitution replaced by Meng,0,-80,8,,1628279,1641642,1611661322,54,68,0,3
+04:08,[NYL] Vandersloot Substitution replaced by Johannès,0,-80,8,,202664,1629546,1611661313,54,68,0,3
+03:54,[WAS] Cloud Driving Layup Shot: Missed,-43,16,2,,204333,,1611661322,54,68,0,3
+03:52,[NYL] Stewart Rebound (Off:0 Def:5),-43,16,4,,1627668,,1611661313,54,68,0,3
+03:42,[NYL] Johannès 3pt Shot: Missed,199,216,2,,1629546,,1611661313,54,68,0,3
+03:39,[WAS] Team Rebound,199,216,4,,0,,1611661322,54,68,0,3
+03:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,68,0,3
+03:39,[NYL] Jones Substitution replaced by Thornton,0,-80,8,,1627673,203866,1611661313,54,68,0,3
+03:22,[WAS] Meng 3pt Shot: Missed,222,80,2,,1641642,,1611661322,54,68,0,3
+03:19,[NYL] Thornton Rebound (Off:0 Def:1),222,80,4,,203866,,1611661313,54,68,0,3
+03:13,[NYL] Stewart 3pt Shot: Missed,238,-12,2,,1627668,,1611661313,54,68,0,3
+03:10,[NYL] Laney Rebound (Off:1 Def:1),238,-12,4,,204335,,1611661313,54,68,0,3
+03:06,[NYL] Thornton 3pt Shot: Missed,230,-1,2,,203866,,1611661313,54,68,0,3
+03:02,[NYL] Stewart Rebound (Off:1 Def:5),230,-1,4,,1627668,,1611661313,54,68,0,3
+03:01,[NYL] Thornton Jump Shot: Missed,83,48,2,,203866,,1611661313,54,68,0,3
+02:58,[NYL] Ionescu Rebound (Off:1 Def:5),83,48,4,,1629477,,1611661313,54,68,0,3
+02:54,[NYL] Thornton Layup Shot: Missed Block: Egbo (2 BLK),34,24,2,1631031,203866,,1611661313,54,68,0,3
+02:54,[NYL] Thornton Rebound (Off:1 Def:1),34,24,4,,203866,,1611661313,54,68,0,3
+02:54,[WAS] Egbo Foul: Shooting (4 PF) (2 FTA),29,27,6,203866,1631031,1629176,1611661322,54,68,0,3
+02:54,[NYL 69-54] Thornton Free Throw 1 of 2 (1 PTS),0,-80,3,,203866,,1611661313,54,69,1,3
+02:54,[WAS] Egbo Substitution replaced by Sykes,0,-80,8,,1631031,1628279,1611661322,54,69,0,3
+02:54,[NYL 70-54] Thornton Free Throw 2 of 2 (2 PTS),0,-80,3,,203866,,1611661313,54,70,1,3
+02:43,[WAS] Cloud 3pt Shot: Missed,-184,173,2,,204333,,1611661322,54,70,0,3
+02:39,[WAS] Hawkins Rebound (Off:2 Def:1),-184,173,4,,203403,,1611661322,54,70,0,3
+02:38,[WAS 56-70] Hawkins Layup Shot: Made (9 PTS),8,3,1,,203403,,1611661322,56,70,2,3
+02:26,[NYL 73-56] Johannès 3pt Shot: Made (5 PTS),-146,212,1,,1629546,,1611661313,56,73,3,3
+02:07,[WAS 59-73] Hawkins 3pt Shot: Made (12 PTS) Assist: Meng (2 AST),200,157,1,,203403,1641642,1611661322,59,73,3,3
+01:53,[NYL] Johannès 3pt Shot: Missed,-184,199,2,,1629546,,1611661313,59,73,0,3
+01:51,[WAS] Team Rebound,-184,199,4,,0,,1611661322,59,73,0,3
+01:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,73,0,3
+01:51,[NYL] Laney Substitution replaced by Willoughby,0,-80,8,,204335,1630139,1611661313,59,73,0,3
+01:51,[NYL] Stewart Substitution replaced by Jones,0,-80,8,,1627668,1627673,1611661313,59,73,0,3
+01:29,[WAS] Walker-Kimbrough 3pt Shot: Missed,229,-9,2,,1628278,,1611661322,59,73,0,3
+01:26,[NYL] Ionescu Rebound (Off:1 Def:6),229,-9,4,,1629477,,1611661313,59,73,0,3
+01:13,[NYL] Willoughby Driving Layup Shot: Missed,-55,-2,2,,1630139,,1611661313,59,73,0,3
+01:10,[WAS] Cloud Rebound (Off:0 Def:3),-55,-2,4,,204333,,1611661322,59,73,0,3
+00:55.0,[WAS 61-73] Hawkins Layup Shot: Made (14 PTS) Assist: Sykes (2 AST),-23,3,1,,203403,1628279,1611661322,61,73,2,3
+00:41.2,[NYL] Johannès Turnover : Bad Pass (2 TO) Steal:Cloud (2 ST),-143,5,5,204333,1629546,,1611661313,61,73,0,3
+00:36.7,[WAS] Meng 3pt Shot: Missed,83,276,2,,1641642,,1611661322,61,73,0,3
+00:32.8,[NYL] Jones Rebound (Off:4 Def:5),83,276,4,,1627673,,1611661313,61,73,0,3
+00:18.0,[WAS] Walker-Kimbrough Foul: Shooting (1 PF) (2 FTA),-21,33,6,1629477,1628278,1629422,1611661322,61,73,0,3
+00:18.0,[NYL] Ionescu Free Throw 1 of 2 Missed,0,-80,3,,1629477,,1611661313,61,73,0,3
+00:18.0,[NYL] Team Rebound,0,-80,4,,0,,1611661313,61,73,0,3
+00:18.0,[NYL] Ionescu Free Throw 2 of 2 Missed,0,-80,3,,1629477,,1611661313,61,73,0,3
+00:16.0,[WAS] Meng Rebound (Off:0 Def:1),0,-80,4,,1641642,,1611661322,61,73,0,3
+00:02.6,[WAS] Sykes Driving Layup Shot: Missed,57,2,2,,1628279,,1611661322,61,73,0,3
+00:00.8,[NYL] Thornton Rebound (Off:1 Def:2),57,2,4,,203866,,1611661313,61,73,0,3
+00:00.1,[NYL] Jones 3pt Shot: Missed,16,376,2,,1627673,,1611661313,61,73,0,3
+00:00.1,[NYL] Team Rebound,16,376,4,,0,,1611661313,61,73,0,3
+00:00.0,End Period,0,-80,13,,0,,0,61,73,0,3
+10:00,Start Period,0,-80,12,,0,,0,61,73,0,4
+09:53,[NYL] Vandersloot Turnover : Bad Pass (2 TO) Steal:Walker-Kimbrough (1 ST),68,151,5,1628278,202664,,1611661313,61,73,0,4
+09:51,[WAS 63-73] Walker-Kimbrough Running Layup Shot: Made (12 PTS),8,17,1,,1628278,,1611661322,63,73,2,4
+09:37,[NYL] Vandersloot Pullup Jump shot: Missed,99,92,2,,202664,,1611661313,63,73,0,4
+09:34,[NYL] Jones Rebound (Off:5 Def:5),99,92,4,,1627673,,1611661313,63,73,0,4
+09:32,[NYL] Jones Turnover : Lost Ball (4 TO) Steal:Hawkins (1 ST),-23,-39,5,203403,1627673,,1611661313,63,73,0,4
+09:28,[WAS 65-73] Walker-Kimbrough Running Layup Shot: Made (14 PTS) Assist: Hawkins (3 AST),13,3,1,,1628278,203403,1611661322,65,73,2,4
+09:28,[NYL] Vandersloot Foul: Shooting (1 PF) (1 FTA),5,5,6,1628278,202664,100698,1611661313,65,73,0,4
+09:28,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,65,73,0,4
+09:28,[NYL] Johannès Substitution replaced by Ionescu,0,-80,8,,1629546,1629477,1611661313,65,73,0,4
+09:28,[WAS 66-73] Walker-Kimbrough Free Throw 1 of 1 (15 PTS),0,-80,3,,1628278,,1611661322,66,73,1,4
+09:19,[WAS] Meng Foul: Personal (1 PF),3,124,6,1627668,1641642,1629176,1611661322,66,73,0,4
+09:14,[NYL] Willoughby Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-90,253,5,,1630139,1629422,1611661313,66,73,0,4
+09:03,[NYL] Jones Foul: Shooting (2 PF) (2 FTA),28,26,6,204333,1627673,1629176,1611661313,66,73,0,4
+09:03,[WAS 67-73] Cloud Free Throw 1 of 2 (12 PTS),0,-80,3,,204333,,1611661322,67,73,1,4
+09:03,[NYL] Willoughby Substitution replaced by Laney,0,-80,8,,1630139,204335,1611661313,67,73,0,4
+09:03,[WAS 68-73] Cloud Free Throw 2 of 2 (13 PTS),0,-80,3,,204333,,1611661322,68,73,1,4
+08:42,[NYL] Ionescu 3pt Shot: Missed,221,169,2,,1629477,,1611661313,68,73,0,4
+08:38,[WAS] Sykes Rebound (Off:2 Def:8),221,169,4,,1628279,,1611661322,68,73,0,4
+08:33,[WAS 70-73] Sykes Driving Layup Shot: Made (20 PTS),-17,-1,1,,1628279,,1611661322,70,73,2,4
+08:23,[NYL] Vandersloot Driving Layup Shot: Missed Block: Hawkins (1 BLK),-43,-2,2,203403,202664,,1611661313,70,73,0,4
+08:23,[NYL] Laney Rebound (Off:2 Def:1),-43,-2,4,,204335,,1611661313,70,73,0,4
+08:19,Jump Ball Laney vs Meng (Jones gains possession),0,-80,10,1641642,204335,1627673,1611661313,70,73,0,4
+08:15,[NYL 75-70] Jones Layup Shot: Made (21 PTS) Assist: Vandersloot (2 AST),22,10,1,,1627673,202664,1611661313,70,75,2,4
+07:56,[WAS] Sykes Driving Layup Shot: Missed,-31,18,2,,1628279,,1611661322,70,75,0,4
+07:53,[NYL] Stewart Rebound (Off:1 Def:6),-31,18,4,,1627668,,1611661313,70,75,0,4
+07:49,[NYL] Stewart Cutting Layup Shot: Missed,-29,0,2,,1627668,,1611661313,70,75,0,4
+07:46,[WAS] Meng Rebound (Off:0 Def:2),-29,0,4,,1641642,,1611661322,70,75,0,4
+07:44,[NYL] Laney Foul: Personal (2 PF),140,296,6,1628279,204335,1629176,1611661313,70,75,0,4
+07:37,[WAS 72-75] Sykes Driving Layup Shot: Made (22 PTS),-35,5,1,,1628279,,1611661322,72,75,2,4
+07:21,[WAS] Walker-Kimbrough Foul: Personal (2 PF),87,51,6,1627673,1628278,1629176,1611661322,72,75,0,4
+07:09,[NYL] Laney 3pt Shot: Missed,235,-21,2,,204335,,1611661313,72,75,0,4
+07:04,[NYL] Stewart Rebound (Off:2 Def:6),235,-21,4,,1627668,,1611661313,72,75,0,4
+07:04,[NYL 77-72] Stewart Putback Layup Shot: Made (19 PTS),50,-16,1,,1627668,,1611661313,72,77,2,4
+06:56,[WAS] Meng 3pt Shot: Missed,-243,13,2,,1641642,,1611661322,72,77,0,4
+06:53,[NYL] Jones Rebound (Off:5 Def:6),-243,13,4,,1627673,,1611661313,72,77,0,4
+06:40,[WAS] Hawkins Foul: Shooting (3 PF) (2 FTA),43,6,6,1627673,203403,1629422,1611661322,72,77,0,4
+06:40,[NYL 78-72] Jones Free Throw 1 of 2 (22 PTS),0,-80,3,,1627673,,1611661313,72,78,1,4
+06:40,[NYL 79-72] Jones Free Throw 2 of 2 (23 PTS),0,-80,3,,1627673,,1611661313,72,79,1,4
+06:23,[WAS] Sykes Jump Shot: Missed,4,173,2,,1628279,,1611661322,72,79,0,4
+06:19,[NYL] Ionescu Rebound (Off:1 Def:7),4,173,4,,1629477,,1611661313,72,79,0,4
+06:15,[NYL 81-72] Stewart Layup Shot: Made (21 PTS) Assist: Ionescu (7 AST),-15,-5,1,,1627668,1629477,1611661313,72,81,2,4
+06:15,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,72,81,0,4
+06:01,[WAS 74-81] Cloud Driving Layup Shot: Made (15 PTS) Assist: Sykes (3 AST),-39,6,1,,204333,1628279,1611661322,74,81,2,4
+05:47,[WAS] Cloud Foul: Shooting (3 PF) (2 FTA),-1,32,6,1629477,204333,1629176,1611661322,74,81,0,4
+05:47,Timeout Officials,0,-80,9,,0,,0,74,81,0,4
+05:47,[NYL 82-74] Ionescu Free Throw 1 of 2 (13 PTS),0,-80,3,,1629477,,1611661313,74,82,1,4
+05:47,[NYL 83-74] Ionescu Free Throw 2 of 2 (14 PTS),0,-80,3,,1629477,,1611661313,74,83,1,4
+05:36,[WAS 77-83] Meng 3pt Shot: Made (3 PTS) Assist: Cloud (5 AST),210,130,1,,1641642,204333,1611661322,77,83,3,4
+05:14,[NYL] Jones 3pt Shot: Missed,100,244,2,,1627673,,1611661313,77,83,0,4
+05:13,[WAS] Team Rebound,100,244,4,,0,,1611661322,77,83,0,4
+05:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,83,0,4
+05:01,[WAS] Hawkins Foul: Offensive (4 PF),185,134,6,1627668,203403,1629176,1611661322,77,83,0,4
+05:01,[WAS] Hawkins Turnover : Offensive Foul Turnover (4 TO),185,134,5,,203403,1629176,1611661322,77,83,0,4
+05:01,[WAS] Meng Substitution replaced by Hines-Allen,0,-80,8,,1641642,1628899,1611661322,77,83,0,4
+04:49,[WAS] Hawkins Violation:Kicked Ball,0,-80,7,,203403,,1611661322,77,83,0,4
+04:35,[NYL 85-77] Vandersloot Driving Layup Shot: Made (12 PTS) Assist: Laney (3 AST),-30,0,1,,202664,204335,1611661313,77,85,2,4
+04:26,[WAS] Cloud 3pt Shot: Missed,-171,184,2,,204333,,1611661322,77,85,0,4
+04:23,[NYL] Ionescu Rebound (Off:1 Def:8),-171,184,4,,1629477,,1611661313,77,85,0,4
+04:17,[NYL 87-77] Ionescu Driving Floating Bank Jump Shot: Made (16 PTS),84,24,1,,1629477,,1611661313,77,87,2,4
+04:04,[WAS] Sykes Driving Layup Shot: Missed,36,22,2,,1628279,,1611661322,77,87,0,4
+04:02,[NYL] Stewart Rebound (Off:2 Def:7),36,22,4,,1627668,,1611661313,77,87,0,4
+03:51,[NYL] Vandersloot Turnover : Backcourt Turnover (3 TO),-163,446,5,,202664,,1611661313,77,87,0,4
+03:38,[NYL] Ionescu Foul: Personal (3 PF),-166,1,6,1628278,1629477,100698,1611661313,77,87,0,4
+03:23,[WAS] Cloud Driving Layup Shot: Missed,52,3,2,,204333,,1611661322,77,87,0,4
+03:21,[NYL] Ionescu Rebound (Off:1 Def:9),52,3,4,,1629477,,1611661313,77,87,0,4
+03:18,[NYL 89-77] Stewart Floating Jump shot: Made (23 PTS) Assist: Ionescu (8 AST),61,33,1,,1627668,1629477,1611661313,77,89,2,4
+03:18,[WAS] Sykes Foul: Shooting (2 PF) (1 FTA),63,37,6,1627668,1628279,100698,1611661322,77,89,0,4
+03:18,[NYL 90-77] Stewart Free Throw 1 of 1 (24 PTS),0,-80,3,,1627668,,1611661313,77,90,1,4
+02:58,[WAS 79-90] Sykes Driving Layup Shot: Made (24 PTS),4,55,1,,1628279,,1611661322,79,90,2,4
+02:58,[NYL] Stewart Foul: Shooting (2 PF) (1 FTA),8,50,6,1628279,1627668,100698,1611661313,79,90,0,4
+02:58,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,79,90,0,4
+02:58,[WAS] Hines-Allen Substitution replaced by Meng,0,-80,8,,1628899,1641642,1611661322,79,90,0,4
+02:58,[WAS 80-90] Sykes Free Throw 1 of 1 (25 PTS),0,-80,3,,1628279,,1611661322,80,90,1,4
+02:45,[NYL] Ionescu 3pt Shot: Missed,-107,269,2,,1629477,,1611661313,80,90,0,4
+02:41,[WAS] Hawkins Rebound (Off:2 Def:2),-107,269,4,,203403,,1611661322,80,90,0,4
+02:30,[WAS] Sykes Layup Shot: Missed Block: Jones (3 BLK),47,19,2,1627673,1628279,,1611661322,80,90,0,4
+02:27,[NYL] Stewart Rebound (Off:2 Def:8),47,19,4,,1627668,,1611661313,80,90,0,4
+02:23,[NYL 92-80] Laney Running Layup Shot: Made (10 PTS) Assist: Ionescu (9 AST),23,-11,1,,204335,1629477,1611661313,80,92,2,4
+02:11,[WAS 82-92] Cloud Jump Shot: Made (17 PTS),-22,215,1,,204333,,1611661322,82,92,2,4
+02:01,[NYL] Jones Turnover : 3 Second Violation (5 TO),-1,14,5,,1627673,100698,1611661313,82,92,0,4
+01:53,[NYL] Vandersloot Foul: Personal (2 PF) (2 FTA),78,174,6,1628279,202664,100698,1611661313,82,92,0,4
+01:53,[WAS 83-92] Sykes Free Throw 1 of 2 (26 PTS),0,-80,3,,1628279,,1611661322,83,92,1,4
+01:53,[WAS 84-92] Sykes Free Throw 2 of 2 (27 PTS),0,-80,3,,1628279,,1611661322,84,92,1,4
+01:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,84,92,0,4
+01:33,[NYL] Stewart Jump Shot: Missed,1,129,2,,1627668,,1611661313,84,92,0,4
+01:33,[WAS] Team Rebound,1,129,4,,0,,1611661322,84,92,0,4
+01:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,84,92,0,4
+01:28,[NYL] Laney Foul: Shooting (3 PF) (2 FTA),-82,18,6,1628279,204335,1629176,1611661313,84,92,0,4
+01:28,[WAS 85-92] Sykes Free Throw 1 of 2 (28 PTS),0,-80,3,,1628279,,1611661322,85,92,1,4
+01:28,[WAS 86-92] Sykes Free Throw 2 of 2 (29 PTS),0,-80,3,,1628279,,1611661322,86,92,1,4
+01:09,[NYL 94-86] Jones Layup Shot: Made (25 PTS) Assist: Vandersloot (3 AST),38,-15,1,,1627673,202664,1611661313,86,94,2,4
+01:09,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,86,94,0,4
+01:06,[WAS] Cloud Turnover : Out of Bounds - Bad Pass Turnover (3 TO),16,231,5,,204333,1629422,1611661322,86,94,0,4
+00:43.3,[NYL] Ionescu 3pt Shot: Missed,-141,307,2,,1629477,,1611661313,86,94,0,4
+00:40.7,[WAS] Cloud Rebound (Off:0 Def:4),-141,307,4,,204333,,1611661322,86,94,0,4
+00:33.4,[WAS] Cloud Layup Shot: Missed,-53,0,2,,204333,,1611661322,86,94,0,4
+00:31.2,[NYL] Ionescu Rebound (Off:1 Def:10),-53,0,4,,1629477,,1611661313,86,94,0,4
+00:27.7,[WAS] Meng Foul: Personal (2 PF) (2 FTA),16,57,6,1627673,1641642,1629176,1611661322,86,94,0,4
+00:27.7,[NYL 95-86] Jones Free Throw 1 of 2 (26 PTS),0,-80,3,,1627673,,1611661313,86,95,1,4
+00:27.7,[WAS] Cloud Substitution replaced by Egbo,0,-80,8,,204333,1631031,1611661322,86,95,0,4
+00:27.7,[WAS] Sykes Substitution replaced by Harper,0,-80,8,,1628279,1628897,1611661322,86,95,0,4
+00:27.7,[WAS] Hawkins Substitution replaced by Goree,0,-80,8,,203403,1627643,1611661322,86,95,0,4
+00:27.7,[WAS] Walker-Kimbrough Substitution replaced by Meyers,0,-80,8,,1628278,1641671,1611661322,86,95,0,4
+00:27.7,[NYL] Ionescu Substitution replaced by Johannès,0,-80,8,,1629477,1629546,1611661313,86,95,0,4
+00:27.7,[NYL] Vandersloot Substitution replaced by Prince,0,-80,8,,202664,202259,1611661313,86,95,0,4
+00:27.7,[NYL] Stewart Substitution replaced by Thornton,0,-80,8,,1627668,203866,1611661313,86,95,0,4
+00:27.7,[NYL] Laney Substitution replaced by Willoughby,0,-80,8,,204335,1630139,1611661313,86,95,0,4
+00:27.7,[NYL 96-86] Jones Free Throw 2 of 2 (27 PTS),0,-80,3,,1627673,,1611661313,86,96,1,4
+00:12.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,86,96,0,4
+00:12.9,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,86,96,0,4
+00:08.0,[WAS] Meng 3pt Shot: Missed,229,96,2,,1641642,,1611661322,86,96,0,4
+00:05.8,[WAS] Team Rebound,229,96,4,,0,,1611661322,86,96,0,4
+00:05.8,[NYL] Willoughby Foul: Loose Ball (1 PF) (2 FTA),-12,67,6,1627643,1630139,1629422,1611661313,86,96,0,4
+00:05.8,[WAS] Goree Free Throw 1 of 2 Missed,0,-80,3,,1627643,,1611661322,86,96,0,4
+00:05.8,[WAS] Team Rebound,0,-80,4,,0,,1611661322,86,96,0,4
+00:05.8,[WAS 87-96] Goree Free Throw 2 of 2 (1 PTS),0,-80,3,,1627643,,1611661322,87,96,1,4
+00:00.0,End Period,0,-80,13,,0,,0,87,96,0,4

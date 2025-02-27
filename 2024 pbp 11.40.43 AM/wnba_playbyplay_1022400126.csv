@@ -1,0 +1,419 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Hamby vs Hamby (Cloud gains possession),0,-80,10,204324,204324,204333,1611661317,0,0,0,1
+09:44,[PHO] Cunningham 3pt Shot: Missed,150,196,2,,1629482,,1611661317,0,0,0,1
+09:40,[LAS] Hamby Rebound (Off:0 Def:1),150,196,4,,204324,,1611661320,0,0,0,1
+09:23,[LAS] Talbot 3pt Shot: Missed,123,248,2,,203855,,1611661320,0,0,0,1
+09:19,[PHO] Copper Rebound (Off:0 Def:1),123,248,4,,1627674,,1611661317,0,0,0,1
+09:16,[LAS] Jackson Foul: Shooting (1 PF) (2 FTA),19,156,6,1627674,1642288,1627531,1611661320,0,0,0,1
+09:16,[PHO 1-0] Copper Free Throw 1 of 2 (1 PTS),0,-80,3,,1627674,,1611661317,0,1,1,1
+09:16,[PHO 2-0] Copper Free Throw 2 of 2 (2 PTS),0,-80,3,,1627674,,1611661317,0,2,1,1
+09:03,[PHO] Copper Violation:Kicked Ball,0,-80,7,,1627674,,1611661317,0,2,0,1
+08:57,[PHO] Cunningham Foul: Shooting (1 PF) (2 FTA),28,27,6,1630462,1629482,1627531,1611661317,0,2,0,1
+08:57,[LAS 1-2] McDonald Free Throw 1 of 2 (1 PTS),0,-80,3,,1630462,,1611661320,1,2,1,1
+08:57,[LAS 2-2] McDonald Free Throw 2 of 2 (2 PTS),0,-80,3,,1630462,,1611661320,2,2,1,1
+08:42,[LAS] Nurse Foul: Shooting (1 PF) (2 FTA),0,45,6,1630114,1628915,100697,1611661320,2,2,0,1
+08:42,[PHO] Herbert Harrigan Free Throw 1 of 2 Missed,0,-80,3,,1630114,,1611661317,2,2,0,1
+08:42,[PHO] Team Rebound,0,-80,4,,0,,1611661317,2,2,0,1
+08:42,[PHO 3-2] Herbert Harrigan Free Throw 2 of 2 (1 PTS),0,-80,3,,1630114,,1611661317,2,3,1,1
+08:27,[LAS 4-3] Hamby Layup Shot: Made (2 PTS) Assist: Jackson (1 AST),-1,30,1,,204324,1642288,1611661320,4,3,2,1
+08:14,[PHO 6-4] Cloud 3pt Shot: Made (3 PTS) Assist: Cunningham (1 AST),-146,212,1,,204333,1629482,1611661317,4,6,3,1
+08:06,[LAS 6-6] Jackson Driving Floating Jump Shot: Made (2 PTS) Assist: McDonald (1 AST),48,17,1,,1642288,1630462,1611661320,6,6,2,1
+08:06,[PHO] Copper Foul: Shooting (1 PF) (1 FTA),48,17,6,1642288,1627674,100697,1611661317,6,6,0,1
+08:06,[LAS 7-6] Jackson Free Throw 1 of 1 (3 PTS),0,-80,3,,1642288,,1611661320,7,6,1,1
+07:48,[PHO 8-7] Griner Turnaround Bank shot: Made (2 PTS) Assist: Cloud (1 AST),-35,33,1,,203398,204333,1611661317,7,8,2,1
+07:38,[LAS] Jackson 3pt Shot: Missed,-10,257,2,,1642288,,1611661320,7,8,0,1
+07:33,[PHO] Copper Rebound (Off:0 Def:2),-10,257,4,,1627674,,1611661317,7,8,0,1
+07:28,[PHO] Copper Running Layup Shot: Missed,-18,44,2,,1627674,,1611661317,7,8,0,1
+07:26,[LAS] Hamby Rebound (Off:0 Def:2),-18,44,4,,204324,,1611661320,7,8,0,1
+07:22,[LAS] McDonald 3pt Shot: Missed,-145,203,2,,1630462,,1611661320,7,8,0,1
+07:21,[LAS] Hamby Rebound (Off:1 Def:2),-145,203,4,,204324,,1611661320,7,8,0,1
+07:20,[LAS] Hamby Putback Layup Shot: Missed Block: Griner (1 BLK),24,41,2,203398,204324,,1611661320,7,8,0,1
+07:18,[PHO] Griner Rebound (Off:0 Def:1),24,41,4,,203398,,1611661317,7,8,0,1
+07:14,[PHO] Cloud Turnover : Out of Bounds - Bad Pass Turnover (1 TO),57,591,5,,204333,100697,1611661317,7,8,0,1
+06:55,[LAS] Jackson Pullup Jump shot: Missed,-96,130,2,,1642288,,1611661320,7,8,0,1
+06:51,[PHO] Copper Rebound (Off:0 Def:3),-96,130,4,,1627674,,1611661317,7,8,0,1
+06:50,[LAS] Hamby Foul: Personal (1 PF),83,114,6,203398,204324,100697,1611661320,7,8,0,1
+06:42,[PHO] Copper 3pt Shot: Missed,174,185,2,,1627674,,1611661317,7,8,0,1
+06:40,[LAS] Team Rebound,174,185,4,,0,,1611661320,7,8,0,1
+06:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,8,0,1
+06:18,[LAS 9-8] Talbot Cutting Layup Shot: Made (2 PTS) Assist: Hamby (1 AST),24,28,1,,203855,204324,1611661320,9,8,2,1
+06:10,[PHO 11-9] Cloud 3pt Shot: Made (6 PTS),69,233,1,,204333,,1611661317,9,11,3,1
+05:58,[LAS] Jackson Pullup Jump shot: Missed,50,113,2,,1642288,,1611661320,9,11,0,1
+05:55,[PHO] Cloud Rebound (Off:0 Def:1),50,113,4,,204333,,1611661317,9,11,0,1
+05:53,[PHO] Copper Foul: Offensive Charge (2 PF),52,66,6,1630462,1627674,100697,1611661317,9,11,0,1
+05:53,[PHO] Copper Turnover : Offensive Foul Turnover (1 TO),52,66,5,,1627674,100697,1611661317,9,11,0,1
+05:53,[LAS] Jackson Substitution replaced by Burrell,0,-80,8,,1642288,1630996,1611661320,9,11,0,1
+05:43,[LAS] McDonald Pullup Jump shot: Missed,50,95,2,,1630462,,1611661320,9,11,0,1
+05:40,[PHO] Herbert Harrigan Rebound (Off:0 Def:1),50,95,4,,1630114,,1611661317,9,11,0,1
+05:33,[PHO] Griner Jump Shot: Missed,-84,167,2,,203398,,1611661317,9,11,0,1
+05:30,[LAS] Talbot Rebound (Off:0 Def:1),-84,167,4,,203855,,1611661320,9,11,0,1
+05:23,[LAS 11-11] Hamby Driving Layup Shot: Made (4 PTS) Assist: Nurse (1 AST),12,22,1,,204324,1628915,1611661320,11,11,2,1
+05:06,[PHO 13-11] Cloud Pullup Jump shot: Made (8 PTS),-101,114,1,,204333,,1611661317,11,13,2,1
+04:48,[LAS 13-13] McDonald Driving Floating Jump Shot: Made (4 PTS) Assist: Talbot (1 AST),-55,65,1,,1630462,203855,1611661320,13,13,2,1
+04:34,[PHO 15-13] Herbert Harrigan Pullup Jump shot: Made (3 PTS) Assist: Copper (1 AST),-40,142,1,,1630114,1627674,1611661317,13,15,2,1
+04:18,[LAS] Hamby Jump Shot: Missed,-5,167,2,,204324,,1611661320,13,15,0,1
+04:14,[PHO] Copper Rebound (Off:0 Def:4),-5,167,4,,1627674,,1611661317,13,15,0,1
+04:11,[PHO] Copper Running Pull-Up Jump Shot: Missed,62,130,2,,1627674,,1611661317,13,15,0,1
+04:08,[LAS] Nurse Rebound (Off:0 Def:1),62,130,4,,1628915,,1611661320,13,15,0,1
+04:05,[PHO] Herbert Harrigan Foul: Personal (1 PF),-145,119,6,1628915,1630114,1627531,1611661317,13,15,0,1
+04:05,Timeout : Official,0,-80,9,,0,,0,13,15,0,1
+04:05,[LAS] Talbot Substitution replaced by Yueru,0,-80,8,,203855,1629574,1611661320,13,15,0,1
+04:05,[PHO] Cunningham Substitution replaced by Mack,0,-80,8,,1629482,1630442,1611661317,13,15,0,1
+04:05,[PHO] Herbert Harrigan Substitution replaced by Dixon,0,-80,8,,1630114,1641700,1611661317,13,15,0,1
+04:05,[PHO] Griner Substitution replaced by Sutton,0,-80,8,,203398,1630134,1611661317,13,15,0,1
+03:59,[LAS] Burrell 3pt Shot: Missed,20,261,2,,1630996,,1611661320,13,15,0,1
+03:56,[PHO] Team Rebound,20,261,4,,0,,1611661317,13,15,0,1
+03:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,15,0,1
+03:40,[PHO 18-13] Cloud 3pt Shot: Made (11 PTS) Assist: Copper (2 AST),162,191,1,,204333,1627674,1611661317,13,18,3,1
+03:17,[LAS] Hamby Driving Floating Jump Shot: Missed,26,53,2,,204324,,1611661320,13,18,0,1
+03:13,[PHO] Mack Rebound (Off:0 Def:1),26,53,4,,1630442,,1611661317,13,18,0,1
+03:09,[PHO 20-13] Dixon Turnaround Hook Shot: Made (2 PTS) Assist: Cloud (2 AST),-13,26,1,,1641700,204333,1611661317,13,20,2,1
+02:56,[PHO] Mack Foul: Personal (1 PF),-50,100,6,204324,1630442,1630880,1611661317,13,20,0,1
+02:56,[LAS] Nurse Substitution replaced by Jackson,0,-80,8,,1628915,1642288,1611661320,13,20,0,1
+02:50,[LAS] Hamby Turnover : Traveling (1 TO),35,48,5,,204324,1627531,1611661320,13,20,0,1
+02:39,[PHO] Cloud Pullup Jump shot: Missed,-6,177,2,,204333,,1611661317,13,20,0,1
+02:36,[LAS] Hamby Rebound (Off:1 Def:3),-6,177,4,,204324,,1611661320,13,20,0,1
+02:25,[LAS 15-20] Hamby Cutting Layup Shot: Made (6 PTS) Assist: McDonald (2 AST),18,31,1,,204324,1630462,1611661320,15,20,2,1
+02:10,[PHO] Cloud 3pt Shot: Missed,-189,162,2,,204333,,1611661317,15,20,0,1
+02:06,[LAS] Jackson Rebound (Off:0 Def:1),-189,162,4,,1642288,,1611661320,15,20,0,1
+02:01,[LAS] Jackson Running Layup Shot: Missed,20,35,2,,1642288,,1611661320,15,20,0,1
+01:56,[PHO] Dixon Rebound (Off:0 Def:1),20,35,4,,1641700,,1611661317,15,20,0,1
+01:42,[LAS] Yueru Foul: Shooting (1 PF) (2 FTA),-28,33,6,1627674,1629574,1630880,1611661320,15,20,0,1
+01:42,[PHO 21-15] Copper Free Throw 1 of 2 (3 PTS),0,-80,3,,1627674,,1611661317,15,21,1,1
+01:42,[LAS] McDonald Substitution replaced by Dangerfield,0,-80,8,,1630462,1630101,1611661320,15,21,0,1
+01:42,[PHO] Cloud Substitution replaced by Cunningham,0,-80,8,,204333,1629482,1611661317,15,21,0,1
+01:42,[PHO] Dixon Substitution replaced by Griner,0,-80,8,,1641700,203398,1611661317,15,21,0,1
+01:42,[PHO 22-15] Copper Free Throw 2 of 2 (4 PTS),0,-80,3,,1627674,,1611661317,15,22,1,1
+01:24,[LAS] Burrell Driving Layup Shot: Missed,24,40,2,,1630996,,1611661320,15,22,0,1
+01:22,[PHO] Griner Rebound (Off:0 Def:2),24,40,4,,203398,,1611661317,15,22,0,1
+01:20,[PHO] Griner Turnover : Traveling (1 TO),0,322,5,,203398,1627531,1611661317,15,22,0,1
+01:20,[PHO] Copper Substitution replaced by Cloud,0,-80,8,,1627674,204333,1611661317,15,22,0,1
+01:06,[LAS] Burrell 3pt Shot: Missed,112,228,2,,1630996,,1611661320,15,22,0,1
+01:05,[PHO] Mack Rebound (Off:0 Def:2),112,228,4,,1630442,,1611661317,15,22,0,1
+01:00,[LAS] Hamby Foul: Personal (2 PF) (2 FTA),1,64,6,204333,204324,100697,1611661320,15,22,0,1
+01:00,[PHO 23-15] Cloud Free Throw 1 of 2 (12 PTS),0,-80,3,,204333,,1611661317,15,23,1,1
+01:00,[LAS] Hamby Substitution replaced by Stevens,0,-80,8,,204324,1628922,1611661320,15,23,0,1
+01:00,[PHO 24-15] Cloud Free Throw 2 of 2 (13 PTS),0,-80,3,,204333,,1611661317,15,24,1,1
+00:50.1,[LAS] Stevens Pullup Jump shot: Missed,42,94,2,,1628922,,1611661320,15,24,0,1
+00:50.1,[LAS] Team Rebound,42,94,4,,0,,1611661320,15,24,0,1
+00:50.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,24,0,1
+00:44.2,[LAS] Yueru Foul: Offensive (2 PF),17,51,6,1630134,1629574,100697,1611661320,15,24,0,1
+00:44.2,[LAS] Yueru Turnover : Offensive Foul Turnover (1 TO),17,51,5,,1629574,100697,1611661320,15,24,0,1
+00:27.3,[LAS] Yueru Foul: Shooting (3 PF) (2 FTA),-9,81,6,203398,1629574,1630880,1611661320,15,24,0,1
+00:27.3,[PHO 25-15] Griner Free Throw 1 of 2 (3 PTS),0,-80,3,,203398,,1611661317,15,25,1,1
+00:27.3,[LAS] Yueru Substitution replaced by Hamby,0,-80,8,,1629574,204324,1611661320,15,25,0,1
+00:27.3,[PHO] Griner Free Throw 2 of 2 Missed,0,-80,3,,203398,,1611661317,15,25,0,1
+00:25.4,[LAS] Stevens Rebound (Off:0 Def:1),0,-80,4,,1628922,,1611661320,15,25,0,1
+00:03.0,[LAS] Burrell Pullup Jump shot: Missed,66,24,2,,1630996,,1611661320,15,25,0,1
+00:02.0,[PHO] Griner Rebound (Off:0 Def:3),66,24,4,,203398,,1611661317,15,25,0,1
+00:00.0,End Period,0,-80,13,,0,,0,15,25,0,1
+10:00,Start Period,0,-80,12,,0,,0,15,25,0,2
+09:39,[LAS] Stevens Jump Shot: Missed,139,130,2,,1628922,,1611661320,15,25,0,2
+09:35,[PHO] Copper Rebound (Off:0 Def:5),139,130,4,,1627674,,1611661317,15,25,0,2
+09:26,[PHO] Copper Pullup Jump shot: Missed,91,65,2,,1627674,,1611661317,15,25,0,2
+09:22,[LAS] Jackson Rebound (Off:0 Def:2),91,65,4,,1642288,,1611661320,15,25,0,2
+09:15,[LAS] Jackson Driving Layup Shot: Missed Block: Herbert Harrigan (1 BLK),26,33,2,1630114,1642288,,1611661320,15,25,0,2
+09:13,[LAS] Stevens Rebound (Off:1 Def:1),26,33,4,,1628922,,1611661320,15,25,0,2
+09:07,[LAS 17-25] Hamby Cutting Layup Shot: Made (8 PTS) Assist: Clarendon (1 AST),29,30,1,,204324,203406,1611661320,17,25,2,2
+08:44,[LAS] Clarendon Foul: Shooting (1 PF) (2 FTA),-20,37,6,1627674,203406,100697,1611661320,17,25,0,2
+08:44,[PHO 26-17] Copper Free Throw 1 of 2 (5 PTS),0,-80,3,,1627674,,1611661317,17,26,1,2
+08:44,[PHO 27-17] Copper Free Throw 2 of 2 (6 PTS),0,-80,3,,1627674,,1611661317,17,27,1,2
+08:23,[LAS] Dangerfield 3pt Shot: Missed,-166,169,2,,1630101,,1611661320,17,27,0,2
+08:18,[LAS] Hamby Rebound (Off:2 Def:3),-166,169,4,,204324,,1611661320,17,27,0,2
+08:18,[LAS 19-27] Hamby Putback Layup Shot: Made (10 PTS),0,-5,1,,204324,,1611661320,19,27,2,2
+08:03,[PHO] Sutton Turnover : Bad Pass (1 TO) Steal:Stevens (1 ST),-146,222,5,1628922,1630134,,1611661317,19,27,0,2
+08:00,[LAS 21-27] Stevens Running Layup Shot: Made (2 PTS),10,22,1,,1628922,,1611661320,21,27,2,2
+07:43,Timeout : Regular,0,-80,9,,1611661317,,1611661317,21,27,0,2
+07:38,[PHO 29-21] Copper Driving Layup Shot: Made (8 PTS) Assist: Sutton (1 AST),16,13,1,,1627674,1630134,1611661317,21,29,2,2
+07:24,[LAS] Stevens 3pt Shot: Missed,93,247,2,,1628922,,1611661320,21,29,0,2
+07:20,[LAS] Jackson Rebound (Off:1 Def:2),93,247,4,,1642288,,1611661320,21,29,0,2
+07:13,[LAS 23-29] Clarendon Driving Layup Shot: Made (2 PTS) Assist: Stevens (1 AST),39,37,1,,203406,1628922,1611661320,23,29,2,2
+06:54,[LAS] Clarendon Foul: Personal (2 PF),-28,54,6,203398,203406,1630880,1611661320,23,29,0,2
+06:54,[PHO] Sutton Substitution replaced by Cloud,0,-80,8,,1630134,204333,1611661317,23,29,0,2
+06:46,[PHO] Copper Foul: Offensive (3 PF),83,102,6,1630101,1627674,100697,1611661317,23,29,0,2
+06:46,[PHO] Copper Turnover : Offensive Foul Turnover (2 TO),83,102,5,,1627674,100697,1611661317,23,29,0,2
+06:46,[PHO] Copper Substitution replaced by Mack,0,-80,8,,1627674,1630442,1611661317,23,29,0,2
+06:35,[LAS] Stevens 3pt Shot: Missed,6,269,2,,1628922,,1611661320,23,29,0,2
+06:33,[PHO] Cloud Rebound (Off:0 Def:2),6,269,4,,204333,,1611661317,23,29,0,2
+06:21,[LAS] Stevens Foul: Personal (1 PF),-118,-1,6,203398,1628922,100697,1611661320,23,29,0,2
+06:13,[PHO] Griner Turnaround Jump Shot: Missed,81,10,2,,203398,,1611661317,23,29,0,2
+06:11,[PHO] Mack Rebound (Off:1 Def:2),81,10,4,,1630442,,1611661317,23,29,0,2
+06:02,[PHO] Cloud Turnaround Hook Shot: Missed,65,17,2,,204333,,1611661317,23,29,0,2
+05:58,[LAS] Clarendon Rebound (Off:0 Def:1),65,17,4,,203406,,1611661320,23,29,0,2
+05:34,[LAS] Clarendon 3pt Shot: Missed,79,285,2,,203406,,1611661320,23,29,0,2
+05:30,[PHO] Cloud Rebound (Off:0 Def:3),79,285,4,,204333,,1611661317,23,29,0,2
+05:25,[PHO] Herbert Harrigan Driving Reverse Layup Shot: Missed,-35,15,2,,1630114,,1611661317,23,29,0,2
+05:25,[PHO] Team Rebound,-35,15,4,,0,,1611661317,23,29,0,2
+05:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,29,0,2
+05:25,[LAS] Dangerfield Substitution replaced by McDonald,0,-80,8,,1630101,1630462,1611661320,23,29,0,2
+05:25,[LAS] Clarendon Substitution replaced by Cooke,0,-80,8,,203406,1641660,1611661320,23,29,0,2
+05:17,[PHO] Herbert Harrigan 3pt Shot: Missed,152,221,2,,1630114,,1611661317,23,29,0,2
+05:12,[PHO] Cloud Rebound (Off:1 Def:3),152,221,4,,204333,,1611661317,23,29,0,2
+05:12,[PHO] Cunningham 3pt Shot: Missed,-181,207,2,,1629482,,1611661317,23,29,0,2
+05:10,[PHO] Mack Rebound (Off:2 Def:2),-181,207,4,,1630442,,1611661317,23,29,0,2
+05:09,[PHO] Mack Tip Layup Shot: Missed,0,-5,2,,1630442,,1611661317,23,29,0,2
+05:08,[LAS] Team Rebound,0,-5,4,,0,,1611661320,23,29,0,2
+05:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,29,0,2
+04:51,[PHO] Cloud Foul: Shooting (1 PF) (2 FTA),29,31,6,1642288,204333,1630880,1611661317,23,29,0,2
+04:51,[LAS] Jackson Free Throw 1 of 2 Missed,0,-80,3,,1642288,,1611661320,23,29,0,2
+04:51,[LAS] Team Rebound,0,-80,4,,0,,1611661320,23,29,0,2
+04:51,[PHO] Griner Substitution replaced by Dixon,0,-80,8,,203398,1641700,1611661317,23,29,0,2
+04:51,[LAS] Jackson Free Throw 2 of 2 Missed,0,-80,3,,1642288,,1611661320,23,29,0,2
+04:49,[PHO] Mack Rebound (Off:2 Def:3),0,-80,4,,1630442,,1611661317,23,29,0,2
+04:37,[PHO 32-23] Cunningham 3pt Shot: Made (3 PTS) Assist: Cloud (3 AST),-90,248,1,,1629482,204333,1611661317,23,32,3,2
+04:32,Timeout : Regular,0,-80,9,,1611661320,,1611661320,23,32,0,2
+04:21,[PHO] Cunningham Violation:Kicked Ball,0,-80,7,,1629482,,1611661317,23,32,0,2
+04:12,[LAS 26-32] Jackson 3pt Shot: Made (6 PTS) Assist: Stevens (2 AST),-227,20,1,,1642288,1628922,1611661320,26,32,3,2
+03:56,[PHO] Mack Turnover : Bad Pass (1 TO) Steal:Cooke (1 ST),-46,243,5,1641660,1630442,,1611661317,26,32,0,2
+03:45,[LAS 28-32] Stevens Layup Shot: Made (4 PTS) Assist: Jackson (2 AST),28,31,1,,1628922,1642288,1611661320,28,32,2,2
+03:32,[PHO] Cloud Driving Floating Bank Jump Shot: Missed,4,55,2,,204333,,1611661317,28,32,0,2
+03:30,[LAS] Hamby Rebound (Off:2 Def:4),4,55,4,,204324,,1611661320,28,32,0,2
+03:17,[LAS 30-32] Jackson Driving Layup Shot: Made (8 PTS) Assist: McDonald (3 AST),17,58,1,,1642288,1630462,1611661320,30,32,2,2
+03:07,[PHO] Cloud Turnover : Bad Pass (2 TO) Steal:Cooke (2 ST),102,205,5,1641660,204333,,1611661317,30,32,0,2
+03:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,32,0,2
+03:05,[PHO] Mack Substitution replaced by Griner,0,-80,8,,1630442,203398,1611661317,30,32,0,2
+03:05,[PHO] Herbert Harrigan Substitution replaced by Copper,0,-80,8,,1630114,1627674,1611661317,30,32,0,2
+03:05,[PHO] Dixon Substitution replaced by Sutton,0,-80,8,,1641700,1630134,1611661317,30,32,0,2
+03:04,[PHO] Sutton Foul: Personal (1 PF),185,178,6,1630462,1630134,1627531,1611661317,30,32,0,2
+03:04,[PHO] Copper Violation:Kicked Ball,0,-80,7,,1627674,,1611661317,30,32,0,2
+03:01,[LAS] Stevens Turnover : Out of Bounds Lost Ball Turnover (1 TO),66,95,5,,1628922,1630880,1611661320,30,32,0,2
+02:43,[PHO 34-30] Griner Turnaround Hook Shot: Made (5 PTS) Assist: Cloud (4 AST),-1,15,1,,203398,204333,1611661317,30,34,2,2
+02:33,[LAS] Hamby Driving Layup Shot: Missed,-28,21,2,,204324,,1611661320,30,34,0,2
+02:30,[PHO] Copper Rebound (Off:0 Def:6),-28,21,4,,1627674,,1611661317,30,34,0,2
+02:24,[PHO 36-30] Copper Running Layup Shot: Made (10 PTS),12,18,1,,1627674,,1611661317,30,36,2,2
+02:12,[LAS] Hamby Layup Shot: Missed Block: Cloud (1 BLK),12,52,2,204333,204324,,1611661320,30,36,0,2
+02:10,[LAS] Hamby Rebound (Off:3 Def:4),12,52,4,,204324,,1611661320,30,36,0,2
+02:05,[LAS] McDonald 3pt Shot: Missed,-117,229,2,,1630462,,1611661320,30,36,0,2
+02:02,[PHO] Cloud Rebound (Off:1 Def:4),-117,229,4,,204333,,1611661317,30,36,0,2
+01:56,[PHO] Cloud 3pt Shot: Missed,-50,243,2,,204333,,1611661317,30,36,0,2
+01:54,[LAS] McDonald Rebound (Off:0 Def:1),-50,243,4,,1630462,,1611661320,30,36,0,2
+01:47,[LAS 32-36] Hamby Cutting Layup Shot: Made (12 PTS) Assist: McDonald (4 AST),11,27,1,,204324,1630462,1611661320,32,36,2,2
+01:24,[PHO] Cunningham 3pt Shot: Missed,-223,47,2,,1629482,,1611661317,32,36,0,2
+01:22,[LAS] Team Rebound,-223,47,4,,0,,1611661320,32,36,0,2
+01:22,[PHO] Sutton Foul: Loose Ball (2 PF),6,787,6,1641660,1630134,1630880,1611661317,32,36,0,2
+01:22,[PHO] Copper Substitution replaced by Herbert Harrigan,0,-80,8,,1627674,1630114,1611661317,32,36,0,2
+01:08,[PHO] Cunningham Foul: Shooting (2 PF) (2 FTA),37,69,6,1642288,1629482,100697,1611661317,32,36,0,2
+01:08,[LAS 33-36] Jackson Free Throw 1 of 2 (9 PTS),0,-80,3,,1642288,,1611661320,33,36,1,2
+01:08,[PHO] Herbert Harrigan Substitution replaced by Copper,0,-80,8,,1630114,1627674,1611661317,33,36,0,2
+01:08,[LAS 34-36] Jackson Free Throw 2 of 2 (10 PTS),0,-80,3,,1642288,,1611661320,34,36,1,2
+01:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,36,0,2
+00:54.8,[PHO 38-34] Copper Pullup Jump shot: Made (12 PTS),73,83,1,,1627674,,1611661317,34,38,2,2
+00:37.4,[LAS 37-38] Cooke 3pt Shot: Made (3 PTS) Assist: Stevens (3 AST),230,39,1,,1641660,1628922,1611661320,37,38,3,2
+00:26.9,[LAS] Jackson Foul: Shooting (2 PF) (3 FTA),-187,176,6,1627674,1642288,100697,1611661320,37,38,0,2
+00:26.9,[PHO 39-37] Copper Free Throw 1 of 3 (13 PTS),0,-80,3,,1627674,,1611661317,37,39,1,2
+00:26.9,[PHO] Copper Free Throw 2 of 3 Missed,0,-80,3,,1627674,,1611661317,37,39,0,2
+00:26.9,[PHO] Team Rebound,0,-80,4,,0,,1611661317,37,39,0,2
+00:26.9,[PHO] Copper Free Throw 3 of 3 Missed,0,-80,3,,1627674,,1611661317,37,39,0,2
+00:23.9,[PHO] Griner Rebound (Off:1 Def:3),0,-80,4,,203398,,1611661317,37,39,0,2
+00:11.7,[PHO 41-37] Cloud Driving Floating Jump Shot: Made (15 PTS) Assist: Copper (3 AST),5,74,1,,204333,1627674,1611661317,37,41,2,2
+00:11.7,[LAS] Cooke Foul: Shooting (1 PF) (1 FTA),5,74,6,204333,1641660,1630880,1611661320,37,41,0,2
+00:11.7,[PHO] Copper Substitution replaced by Herbert Harrigan,0,-80,8,,1627674,1630114,1611661317,37,41,0,2
+00:11.7,[PHO 42-37] Cloud Free Throw 1 of 1 (16 PTS),0,-80,3,,204333,,1611661317,37,42,1,2
+00:00.3,[LAS 39-42] Stevens Fadeaway Jump Shot: Made (6 PTS) Assist: McDonald (5 AST),-66,16,1,,1628922,1630462,1611661320,39,42,2,2
+00:00.0,End Period,0,-80,13,,0,,0,39,42,0,2
+10:00,Start Period,0,-80,12,,0,,0,39,42,0,3
+09:44,[PHO] Griner Violation:Kicked Ball,0,-80,7,,203398,,1611661317,39,42,0,3
+09:35,[LAS] Stevens Jump Shot: Missed,108,23,2,,1628922,,1611661320,39,42,0,3
+09:32,[LAS] Stevens Rebound (Off:2 Def:1),108,23,4,,1628922,,1611661320,39,42,0,3
+09:27,[LAS] Hamby Jump Shot: Missed Block: Cloud (2 BLK),-22,59,2,204333,204324,,1611661320,39,42,0,3
+09:27,[LAS] Team Rebound,-22,59,4,,0,,1611661320,39,42,0,3
+09:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,42,0,3
+09:20,[LAS 41-42] Hamby Layup Shot: Made (14 PTS) Assist: Nurse (2 AST),11,8,1,,204324,1628915,1611661320,41,42,2,3
+08:59,[LAS] Hamby Foul: Personal (3 PF),-106,83,6,203398,204324,1630880,1611661320,41,42,0,3
+08:52,[PHO] Griner Turnaround Jump Shot: Missed,-61,58,2,,203398,,1611661317,41,42,0,3
+08:52,[LAS] Jackson Rebound (Off:1 Def:3),-61,58,4,,1642288,,1611661320,41,42,0,3
+08:52,[PHO] Herbert Harrigan Foul: Personal (2 PF),-12,776,6,1642288,1630114,1630880,1611661317,41,42,0,3
+08:39,[LAS] Stevens Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-76,188,5,,1628922,1627531,1611661320,41,42,0,3
+08:29,[PHO] Cloud Driving Layup Shot: Missed Block: McDonald (1 BLK),24,52,2,1630462,204333,,1611661317,41,42,0,3
+08:28,[PHO] Team Rebound,24,52,4,,0,,1611661317,41,42,0,3
+08:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,42,0,3
+08:18,[PHO] Copper 3pt Shot: Missed,-225,3,2,,1627674,,1611661317,41,42,0,3
+08:14,[PHO] Griner Rebound (Off:2 Def:3),-225,3,4,,203398,,1611661317,41,42,0,3
+08:13,[PHO 44-41] Griner Driving Layup Shot: Made (7 PTS),-33,14,1,,203398,,1611661317,41,44,2,3
+07:55,[LAS] Hamby Turnaround Jump Shot: Missed,85,15,2,,204324,,1611661320,41,44,0,3
+07:54,[PHO] Cunningham Rebound (Off:0 Def:1),85,15,4,,1629482,,1611661317,41,44,0,3
+07:45,[PHO 46-41] Copper Turnaround Bank shot: Made (15 PTS) Assist: Cloud (5 AST),-26,46,1,,1627674,204333,1611661317,41,46,2,3
+07:45,[LAS] McDonald Foul: Shooting (1 PF) (1 FTA),-26,46,6,1627674,1630462,100697,1611661320,41,46,0,3
+07:45,[PHO 47-41] Copper Free Throw 1 of 1 (16 PTS),0,-80,3,,1627674,,1611661317,41,47,1,3
+07:33,[PHO] Cloud Foul: Personal (2 PF),-120,193,6,204324,204333,100697,1611661317,41,47,0,3
+07:33,InstantReplay Request Stands,0,-80,18,,0,,0,41,47,0,3
+07:27,[LAS 43-47] Nurse Jump Shot: Made (2 PTS) Assist: McDonald (6 AST),6,77,1,,1628915,1630462,1611661320,43,47,2,3
+07:15,[PHO] Griner Foul: Offensive (1 PF),-18,43,6,1628915,203398,100697,1611661317,43,47,0,3
+07:15,[PHO] Griner Turnover : Offensive Foul Turnover (2 TO),-18,43,5,,203398,100697,1611661317,43,47,0,3
+06:59,[LAS 46-47] Hamby 3pt Shot: Made (17 PTS) Assist: Stevens (4 AST),101,227,1,,204324,1628922,1611661320,46,47,3,3
+06:41,[PHO] Copper 3pt Shot: Missed,-138,207,2,,1627674,,1611661317,46,47,0,3
+06:41,[PHO] Team Rebound,-138,207,4,,0,,1611661317,46,47,0,3
+06:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,47,0,3
+06:36,[LAS] McDonald Foul: Personal (2 PF),-145,76,6,203398,1630462,1630880,1611661320,46,47,0,3
+06:33,[PHO] Cloud Turnover : Bad Pass (3 TO) Steal:Stevens (2 ST),-47,127,5,1628922,204333,,1611661317,46,47,0,3
+06:26,[LAS] McDonald 3pt Shot: Missed,-111,250,2,,1630462,,1611661320,46,47,0,3
+06:23,[PHO] Cunningham Rebound (Off:0 Def:2),-111,250,4,,1629482,,1611661317,46,47,0,3
+06:16,[PHO 49-46] Copper Driving Layup Shot: Made (18 PTS),-2,13,1,,1627674,,1611661317,46,49,2,3
+05:52,[LAS] Nurse Turnover : Lost Ball (1 TO) Steal:Herbert Harrigan (1 ST),-24,166,5,1630114,1628915,,1611661320,46,49,0,3
+05:52,[LAS] McDonald Foul: Transition Take (3 PF) (1 FTA),60,322,6,1627674,1630462,1627531,1611661320,46,49,0,3
+05:52,[PHO 50-46] Copper Free Throw 1 of 1 (19 PTS),0,-80,3,,1627674,,1611661317,46,50,1,3
+05:45,[PHO] Copper 3pt Shot: Missed,60,272,2,,1627674,,1611661317,46,50,0,3
+05:42,[LAS] Nurse Rebound (Off:0 Def:2),60,272,4,,1628915,,1611661320,46,50,0,3
+05:29,[LAS] Nurse 3pt Shot: Missed,-228,94,2,,1628915,,1611661320,46,50,0,3
+05:28,[LAS] Team Rebound,-228,94,4,,0,,1611661320,46,50,0,3
+05:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,50,0,3
+05:28,[LAS] Stevens Substitution replaced by Burrell,0,-80,8,,1628922,1630996,1611661320,46,50,0,3
+05:28,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,46,50,0,3
+05:13,[LAS] McDonald Turnover : Bad Pass (1 TO) Steal:Cloud (1 ST),140,53,5,204333,1630462,,1611661320,46,50,0,3
+05:10,[LAS] Nurse Foul: Shooting (2 PF) (2 FTA),23,36,6,204333,1628915,100697,1611661320,46,50,0,3
+05:10,[PHO 51-46] Cloud Free Throw 1 of 2 (17 PTS),0,-80,3,,204333,,1611661317,46,51,1,3
+05:10,[PHO 52-46] Cloud Free Throw 2 of 2 (18 PTS),0,-80,3,,204333,,1611661317,46,52,1,3
+05:01,[PHO] Herbert Harrigan Foul: Shooting (3 PF) (2 FTA),-5,64,6,1630996,1630114,100697,1611661317,46,52,0,3
+05:01,[LAS 47-52] Burrell Free Throw 1 of 2 (1 PTS),0,-80,3,,1630996,,1611661320,47,52,1,3
+05:01,[LAS] McDonald Substitution replaced by Clarendon,0,-80,8,,1630462,203406,1611661320,47,52,0,3
+05:01,[LAS 48-52] Burrell Free Throw 2 of 2 (2 PTS),0,-80,3,,1630996,,1611661320,48,52,1,3
+04:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,52,0,3
+04:53,Timeout : Official,0,-80,9,,0,,0,48,52,0,3
+04:45,[PHO] Copper Pullup Jump shot: Missed,16,69,2,,1627674,,1611661317,48,52,0,3
+04:43,[LAS] Burrell Rebound (Off:0 Def:1),16,69,4,,1630996,,1611661320,48,52,0,3
+04:37,[PHO] Cunningham Foul: Shooting (3 PF) (2 FTA),33,33,6,204324,1629482,1627531,1611661317,48,52,0,3
+04:37,[LAS 49-52] Hamby Free Throw 1 of 2 (18 PTS),0,-80,3,,204324,,1611661320,49,52,1,3
+04:37,[LAS] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661320,49,52,0,3
+04:35,[PHO] Copper Rebound (Off:0 Def:7),0,-80,4,,1627674,,1611661317,49,52,0,3
+04:20,[PHO 54-49] Mack Cutting Layup Shot: Made (2 PTS) Assist: Copper (4 AST),24,46,1,,1630442,1627674,1611661317,49,54,2,3
+04:18,[LAS] Clarendon Turnover : Backcourt Turnover (1 TO),-63,325,5,,203406,,1611661320,49,54,0,3
+04:04,[PHO 56-49] Copper Driving Layup Shot: Made (21 PTS),23,33,1,,1627674,,1611661317,49,56,2,3
+03:58,[LAS] Nurse Turnover : Traveling (2 TO),66,104,5,,1628915,100697,1611661320,49,56,0,3
+03:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,56,0,3
+03:43,[PHO] Copper 3pt Shot: Missed,122,252,2,,1627674,,1611661317,49,56,0,3
+03:38,[LAS] Nurse Rebound (Off:0 Def:3),122,252,4,,1628915,,1611661320,49,56,0,3
+03:30,[LAS 51-56] Clarendon Jump Shot: Made (4 PTS) Assist: Burrell (1 AST),81,91,1,,203406,1630996,1611661320,51,56,2,3
+03:08,[PHO] Cloud Turnover : Out of Bounds Lost Ball Turnover (4 TO),106,76,5,,204333,1627531,1611661317,51,56,0,3
+02:56,[LAS 53-56] Jackson Driving Layup Shot: Made (12 PTS) Assist: Clarendon (2 AST),27,38,1,,1642288,203406,1611661320,53,56,2,3
+02:56,[PHO] Cloud Foul: Shooting (3 PF) (1 FTA),27,38,6,1642288,204333,1630880,1611661317,53,56,0,3
+02:56,[PHO] Mack Substitution replaced by Griner,0,-80,8,,1630442,203398,1611661317,53,56,0,3
+02:56,[PHO] Herbert Harrigan Substitution replaced by Sutton,0,-80,8,,1630114,1630134,1611661317,53,56,0,3
+02:56,[LAS 54-56] Jackson Free Throw 1 of 1 (13 PTS),0,-80,3,,1642288,,1611661320,54,56,1,3
+02:41,[PHO] Griner Turnaround Jump Shot: Missed,11,59,2,,203398,,1611661317,54,56,0,3
+02:36,[LAS] Hamby Rebound (Off:3 Def:5),11,59,4,,204324,,1611661320,54,56,0,3
+02:30,[LAS] Clarendon Running Finger Roll Layup Shot: Missed,-17,40,2,,203406,,1611661320,54,56,0,3
+02:28,[PHO] Copper Rebound (Off:0 Def:8),-17,40,4,,1627674,,1611661317,54,56,0,3
+02:28,[PHO] Copper Turnover : Out of Bounds - Bad Pass Turnover (3 TO),121,476,5,,1627674,100697,1611661317,54,56,0,3
+02:13,[PHO] Griner Foul: Shooting (2 PF) (2 FTA),21,27,6,1630996,203398,1627531,1611661317,54,56,0,3
+02:13,[LAS 55-56] Burrell Free Throw 1 of 2 (3 PTS),0,-80,3,,1630996,,1611661320,55,56,1,3
+02:13,[LAS 56-56] Burrell Free Throw 2 of 2 (4 PTS),0,-80,3,,1630996,,1611661320,56,56,1,3
+01:58,[PHO 59-56] Cloud 3pt Shot: Made (21 PTS) Assist: Griner (1 AST),83,246,1,,204333,203398,1611661317,56,59,3,3
+01:37,[LAS 58-59] Jackson Cutting Layup Shot: Made (15 PTS) Assist: Burrell (2 AST),-13,27,1,,1642288,1630996,1611661320,58,59,2,3
+01:37,Timeout : Regular,0,-80,9,,1611661317,,1611661317,58,59,0,3
+01:22,[PHO 62-58] Cunningham 3pt Shot: Made (6 PTS) Assist: Copper (5 AST),226,76,1,,1629482,1627674,1611661317,58,62,3,3
+01:06,[LAS 61-62] Jackson 3pt Shot: Made (18 PTS) Assist: Clarendon (3 AST),79,246,1,,1642288,203406,1611661320,61,62,3,3
+00:45.5,[PHO] Sutton 3pt Shot: Missed,-225,4,2,,1630134,,1611661317,61,62,0,3
+00:41.2,[PHO] Cunningham Rebound (Off:1 Def:2),-225,4,4,,1629482,,1611661317,61,62,0,3
+00:41.2,[PHO 64-61] Cunningham Putback Layup Shot: Made (8 PTS),0,-5,1,,1629482,,1611661317,61,64,2,3
+00:30.5,[LAS] Hamby 3pt Shot: Missed,-48,249,2,,204324,,1611661320,61,64,0,3
+00:29.2,[PHO] Team Rebound,-48,249,4,,0,,1611661317,61,64,0,3
+00:29.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,64,0,3
+00:13.9,[LAS] Hamby Foul: Personal (4 PF) (2 FTA),189,111,6,1630134,204324,1630880,1611661320,61,64,0,3
+00:13.9,[PHO] Sutton Free Throw 1 of 2 Missed,0,-80,3,,1630134,,1611661317,61,64,0,3
+00:13.9,[PHO] Team Rebound,0,-80,4,,0,,1611661317,61,64,0,3
+00:13.9,[PHO 65-61] Sutton Free Throw 2 of 2 (1 PTS),0,-80,3,,1630134,,1611661317,61,65,1,3
+00:01.8,[LAS 63-65] Jackson Driving Floating Bank Jump Shot: Made (20 PTS) Assist: Clarendon (4 AST),-13,49,1,,1642288,203406,1611661320,63,65,2,3
+00:00.0,End Period,0,-80,13,,0,,0,63,65,0,3
+10:00,Start Period,0,-80,12,,0,,0,63,65,0,4
+09:36,[PHO] Griner Layup Shot: Missed Block: Stevens (1 BLK),-27,25,2,1628922,203398,,1611661317,63,65,0,4
+09:35,[LAS] Team Rebound,-27,25,4,,0,,1611661320,63,65,0,4
+09:35,Jump Ball Griner vs Griner (Stevens gains possession),0,-80,10,203398,203398,1628922,1611661320,63,65,0,4
+09:27,[PHO] Cunningham Foul: Personal (4 PF),-134,146,6,1642288,1629482,1630880,1611661317,63,65,0,4
+09:19,[LAS] Jackson 3pt Shot: Missed,-184,178,2,,1642288,,1611661320,63,65,0,4
+09:16,[PHO] Cloud Rebound (Off:1 Def:5),-184,178,4,,204333,,1611661317,63,65,0,4
+09:12,[PHO] Cloud Turnover : Out of Bounds - Bad Pass Turnover (5 TO),-63,242,5,,204333,1630880,1611661317,63,65,0,4
+08:57,[LAS 65-65] Cooke Pullup Jump shot: Made (5 PTS) Assist: Jackson (3 AST),132,18,1,,1641660,1642288,1611661320,65,65,2,4
+08:41,[LAS] Burrell Foul: Personal (1 PF),143,63,6,1627674,1630996,1630880,1611661320,65,65,0,4
+08:41,[PHO] Sutton Substitution replaced by Herbert Harrigan,0,-80,8,,1630134,1630114,1611661317,65,65,0,4
+08:32,[PHO] Griner Foul: Offensive (3 PF),0,208,6,1641660,203398,1630880,1611661317,65,65,0,4
+08:32,[PHO] Griner Turnover : Offensive Foul Turnover (3 TO),0,208,5,,203398,1630880,1611661317,65,65,0,4
+08:10,[PHO] Herbert Harrigan Foul: Personal (4 PF),2,90,6,203406,1630114,100697,1611661317,65,65,0,4
+07:55,[LAS] Cooke Driving Floating Jump Shot: Missed,-29,49,2,,1641660,,1611661320,65,65,0,4
+07:53,[PHO] Griner Rebound (Off:2 Def:4),-29,49,4,,203398,,1611661317,65,65,0,4
+07:39,[PHO] Copper Turnover : Lost Ball (4 TO) Steal:Clarendon (1 ST),-30,105,5,203406,1627674,,1611661317,65,65,0,4
+07:33,[LAS] Burrell Running Layup Shot: Missed,-3,59,2,,1630996,,1611661320,65,65,0,4
+07:31,[LAS] Jackson Rebound (Off:2 Def:3),-3,59,4,,1642288,,1611661320,65,65,0,4
+07:31,[LAS] Jackson Putback Layup Shot: Missed Block: Herbert Harrigan (2 BLK),7,40,2,1630114,1642288,,1611661320,65,65,0,4
+07:31,[PHO] Cloud Rebound (Off:1 Def:6),7,40,4,,204333,,1611661317,65,65,0,4
+07:31,[LAS] Cooke Foul: Personal (2 PF),23,613,6,204333,1641660,1630880,1611661320,65,65,0,4
+07:18,[PHO] Herbert Harrigan 3pt Shot: Missed,232,21,2,,1630114,,1611661317,65,65,0,4
+07:15,[LAS] Stevens Rebound (Off:2 Def:2),232,21,4,,1628922,,1611661320,65,65,0,4
+06:54,[LAS] Burrell Turnover : Bad Pass (1 TO) Steal:Cloud (2 ST),97,193,5,204333,1630996,,1611661320,65,65,0,4
+06:47,[PHO] Copper Driving Layup Shot: Missed,43,21,2,,1627674,,1611661317,65,65,0,4
+06:45,[PHO] Copper Rebound (Off:1 Def:8),43,21,4,,1627674,,1611661317,65,65,0,4
+06:40,[PHO 67-65] Cloud Pullup Jump shot: Made (23 PTS) Assist: Cunningham (2 AST),112,119,1,,204333,1629482,1611661317,65,67,2,4
+06:17,[LAS 67-67] Stevens Pullup Jump shot: Made (8 PTS) Assist: Clarendon (5 AST),91,43,1,,1628922,203406,1611661320,67,67,2,4
+06:03,[PHO] Cloud Turnover : Out of Bounds Lost Ball Turnover (6 TO),18,65,5,,204333,100697,1611661317,67,67,0,4
+06:03,[LAS] Burrell Substitution replaced by Hamby,0,-80,8,,1630996,204324,1611661320,67,67,0,4
+06:03,[LAS] Clarendon Substitution replaced by McDonald,0,-80,8,,203406,1630462,1611661320,67,67,0,4
+05:39,[LAS 70-67] Hamby 3pt Shot: Made (21 PTS) Assist: Cooke (1 AST),117,236,1,,204324,1641660,1611661320,70,67,3,4
+05:20,[LAS] Stevens Foul: Personal (2 PF),13,83,6,203398,1628922,1630880,1611661320,70,67,0,4
+05:20,Timeout : Regular,0,-80,9,,1611661320,,1611661320,70,67,0,4
+05:12,[LAS] Stevens Foul: Shooting (3 PF) (2 FTA),-66,11,6,203398,1628922,100697,1611661320,70,67,0,4
+05:12,[PHO 68-70] Griner Free Throw 1 of 2 (8 PTS),0,-80,3,,203398,,1611661317,70,68,1,4
+05:12,[PHO 69-70] Griner Free Throw 2 of 2 (9 PTS),0,-80,3,,203398,,1611661317,70,69,1,4
+04:53,[LAS] Jackson Driving Floating Bank Jump Shot: Missed,-50,62,2,,1642288,,1611661320,70,69,0,4
+04:50,[PHO] Herbert Harrigan Rebound (Off:0 Def:2),-50,62,4,,1630114,,1611661317,70,69,0,4
+04:48,[PHO] Herbert Harrigan Turnover : Bad Pass (1 TO) Steal:Cooke (3 ST),195,741,5,1641660,1630114,,1611661317,70,69,0,4
+04:44,[LAS] Cooke Driving Floating Jump Shot: Missed,-7,38,2,,1641660,,1611661320,70,69,0,4
+04:42,[PHO] Herbert Harrigan Rebound (Off:0 Def:3),-7,38,4,,1630114,,1611661317,70,69,0,4
+04:33,[PHO 71-70] Copper Driving Layup Shot: Made (23 PTS),-7,21,1,,1627674,,1611661317,70,71,2,4
+04:33,Timeout : Regular,0,-80,9,,1611661320,,1611661320,70,71,0,4
+04:17,[PHO] Griner Foul: Shooting (4 PF) (2 FTA),-39,48,6,204324,203398,1630880,1611661317,70,71,0,4
+04:17,[LAS] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661320,70,71,0,4
+04:17,[LAS] Team Rebound,0,-80,4,,0,,1611661320,70,71,0,4
+04:17,[LAS 71-71] Hamby Free Throw 2 of 2 (22 PTS),0,-80,3,,204324,,1611661320,71,71,1,4
+03:59,[PHO] Herbert Harrigan 3pt Shot: Missed,100,245,2,,1630114,,1611661317,71,71,0,4
+03:57,[LAS] McDonald Rebound (Off:0 Def:2),100,245,4,,1630462,,1611661320,71,71,0,4
+03:47,[LAS] Cooke Pullup Jump shot: Missed,-50,109,2,,1641660,,1611661320,71,71,0,4
+03:43,[PHO] Griner Rebound (Off:2 Def:5),-50,109,4,,203398,,1611661317,71,71,0,4
+03:27,[PHO] Herbert Harrigan Cutting Layup Shot: Missed,44,27,2,,1630114,,1611661317,71,71,0,4
+03:26,[PHO] Team Rebound,44,27,4,,0,,1611661317,71,71,0,4
+03:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,71,0,4
+03:26,Timeout : Regular,0,-80,9,,1611661317,,1611661317,71,71,0,4
+03:22,[PHO] Griner Turnaround Hook Shot: Missed,15,52,2,,203398,,1611661317,71,71,0,4
+03:20,[LAS] Hamby Rebound (Off:3 Def:6),15,52,4,,204324,,1611661320,71,71,0,4
+03:02,[LAS 73-71] Hamby Driving Layup Shot: Made (24 PTS),30,21,1,,204324,,1611661320,73,71,2,4
+03:02,[PHO] Griner Foul: Shooting (5 PF) (1 FTA),30,21,6,204324,203398,1627531,1611661317,73,71,0,4
+03:02,[LAS 74-71] Hamby Free Throw 1 of 1 (25 PTS),0,-80,3,,204324,,1611661320,74,71,1,4
+02:41,[PHO 73-74] Cloud Pullup Jump shot: Made (25 PTS) Assist: Griner (2 AST),50,156,1,,204333,203398,1611661317,74,73,2,4
+02:20,[LAS] Jackson Driving Reverse Layup Shot: Missed,-26,27,2,,1642288,,1611661320,74,73,0,4
+02:18,[LAS] Team Rebound,-26,27,4,,0,,1611661320,74,73,0,4
+02:18,Jump Ball Herbert Harrigan vs Herbert Harrigan (Cooke gains possession),0,-80,10,1630114,1630114,1641660,1611661320,74,73,0,4
+02:08,[PHO] Herbert Harrigan Foul: Personal (5 PF) (2 FTA),-123,66,6,1628922,1630114,1630880,1611661317,74,73,0,4
+02:08,[LAS 75-73] Stevens Free Throw 1 of 2 (9 PTS),0,-80,3,,1628922,,1611661320,75,73,1,4
+02:08,[LAS 76-73] Stevens Free Throw 2 of 2 (10 PTS),0,-80,3,,1628922,,1611661320,76,73,1,4
+01:54,[PHO 75-76] Cloud Pullup Jump shot: Made (27 PTS),89,150,1,,204333,,1611661317,76,75,2,4
+01:31,[LAS] McDonald Driving Layup Shot: Missed,16,29,2,,1630462,,1611661320,76,75,0,4
+01:30,[LAS] Team Rebound,16,29,4,,0,,1611661320,76,75,0,4
+01:30,[LAS] Team Turnover : Shot Clock Turnover,111,27,5,,0,1630880,1611661320,76,75,0,4
+01:30,[LAS] Cooke Substitution replaced by Burrell,0,-80,8,,1641660,1630996,1611661320,76,75,0,4
+01:10,[PHO 78-76] Herbert Harrigan 3pt Shot: Made (6 PTS) Assist: Griner (3 AST),-191,139,1,,1630114,203398,1611661317,76,78,3,4
+01:10,Timeout : Regular,0,-80,9,,1611661320,,1611661320,76,78,0,4
+00:55.2,[LAS] McDonald Driving Floating Jump Shot: Missed,10,90,2,,1630462,,1611661320,76,78,0,4
+00:51.8,[LAS] Stevens Rebound (Off:3 Def:2),10,90,4,,1628922,,1611661320,76,78,0,4
+00:44.8,[LAS] McDonald 3pt Shot: Missed,110,233,2,,1630462,,1611661320,76,78,0,4
+00:41.8,[LAS] Jackson Rebound (Off:3 Def:3),110,233,4,,1642288,,1611661320,76,78,0,4
+00:41.8,[LAS 78-78] Jackson Putback Layup Shot: Made (22 PTS),-7,10,1,,1642288,,1611661320,78,78,2,4
+00:41.8,Timeout : Regular,0,-80,9,,1611661317,,1611661317,78,78,0,4
+00:35.4,[PHO 80-78] Cloud Driving Finger Roll Layup Shot: Made (29 PTS),9,40,1,,204333,,1611661317,78,80,2,4
+00:35.4,Timeout : Regular,0,-80,9,,1611661320,,1611661320,78,80,0,4
+00:28.3,[LAS] McDonald 3pt Shot: Missed,-77,241,2,,1630462,,1611661320,78,80,0,4
+00:25.2,[PHO] Cloud Rebound (Off:1 Def:7),-77,241,4,,204333,,1611661317,78,80,0,4
+00:23.0,[LAS] Burrell Foul: Personal (2 PF) (2 FTA),171,180,6,204333,1630996,1627531,1611661320,78,80,0,4
+00:23.0,[PHO 81-78] Cloud Free Throw 1 of 2 (30 PTS),0,-80,3,,204333,,1611661317,78,81,1,4
+00:23.0,[PHO 82-78] Cloud Free Throw 2 of 2 (31 PTS),0,-80,3,,204333,,1611661317,78,82,1,4
+00:23.0,Timeout : Reset,0,-80,9,,1611661320,,1611661320,78,82,0,4
+00:23.0,[LAS] Burrell Substitution replaced by Nurse,0,-80,8,,1630996,1628915,1611661320,78,82,0,4
+00:23.0,[PHO] Cunningham Violation:Kicked Ball,0,-80,7,,1629482,,1611661317,78,82,0,4
+00:19.2,[LAS] Hamby 3pt Shot: Missed,-23,253,2,,204324,,1611661320,78,82,0,4
+00:16.4,[PHO] Cloud Rebound (Off:1 Def:8),-23,253,4,,204333,,1611661317,78,82,0,4
+00:13.7,[LAS] Nurse Foul: Personal (3 PF) (2 FTA),206,659,6,1627674,1628915,1627531,1611661320,78,82,0,4
+00:13.7,[PHO 83-78] Copper Free Throw 1 of 2 (24 PTS),0,-80,3,,1627674,,1611661317,78,83,1,4
+00:13.7,[PHO 84-78] Copper Free Throw 2 of 2 (25 PTS),0,-80,3,,1627674,,1611661317,78,84,1,4
+00:06.9,[LAS] Stevens 3pt Shot: Missed,96,235,2,,1628922,,1611661320,78,84,0,4
+00:03.1,[LAS] Stevens Rebound (Off:4 Def:2),96,235,4,,1628922,,1611661320,78,84,0,4
+00:01.7,[LAS] McDonald 3pt Shot: Missed,185,172,2,,1630462,,1611661320,78,84,0,4
+00:01.7,[PHO] Copper Rebound (Off:1 Def:9),185,172,4,,1627674,,1611661317,78,84,0,4
+00:00.0,End Period,0,-80,13,,0,,0,78,84,0,4

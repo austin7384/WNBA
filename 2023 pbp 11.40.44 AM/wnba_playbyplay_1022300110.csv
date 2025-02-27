@@ -1,0 +1,388 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:58,Jump Ball Griner vs Stevens (Taurasi gains possession),0,-80,10,1628922,203398,100940,1611661317,0,0,0,1
+09:46,[PHO] Cunningham 3pt Shot: Missed,-143,185,2,,1629482,,1611661317,0,0,0,1
+09:43,[PHO] Griner Rebound (Off:1 Def:0),-143,185,4,,203398,,1611661317,0,0,0,1
+09:41,[PHO 2-0] Griner Putback Layup Shot: Made (2 PTS),5,11,1,,203398,,1611661317,2,0,2,1
+09:21,[LAS] Thomas Pullup Jump shot: Missed,-22,208,2,,202662,,1611661320,2,0,0,1
+09:19,[PHO] Turner Rebound (Off:0 Def:1),-22,208,4,,1629488,,1611661317,2,0,0,1
+09:12,[PHO 4-0] Turner Reverse Layup Shot: Made (2 PTS) Assist: Taurasi (1 AST),7,-6,1,,1629488,100940,1611661317,4,0,2,1
+08:59,[LAS] Canada Pullup Jump shot: Missed,-179,83,2,,1628886,,1611661320,4,0,0,1
+08:58,[PHO] Team Rebound,-179,83,4,,0,,1611661317,4,0,0,1
+08:58,InstantReplay Request Stands,0,-80,18,,0,,0,4,0,0,1
+08:51,[LAS] Thomas Foul: Personal (1 PF),-134,80,6,1629482,202662,200667,1611661320,4,0,0,1
+08:46,[PHO 6-0] Griner Layup Shot: Made (4 PTS) Assist: Taurasi (2 AST),6,-1,1,,203398,100940,1611661317,6,0,2,1
+08:33,[LAS 2-6] N Ogwumike Turnaround Fadeaway shot: Made (2 PTS) Assist: Thomas (1 AST),118,47,1,,203014,202662,1611661320,6,2,2,1
+08:15,[PHO 8-2] Griner Turnaround Jump Shot: Made (6 PTS) Assist: Cunningham (1 AST),101,-12,1,,203398,1629482,1611661317,8,2,2,1
+08:03,[LAS] Hamby Turnover : Out of Bounds Lost Ball Turnover (1 TO),16,49,5,,204324,1627539,1611661320,8,2,0,1
+07:50,[PHO] Griner Jump Shot: Missed,21,166,2,,203398,,1611661317,8,2,0,1
+07:46,[LAS] Hamby Rebound (Off:0 Def:1),21,166,4,,204324,,1611661320,8,2,0,1
+07:36,[LAS] Hamby Turnover : Out of Bounds Lost Ball Turnover (2 TO),-208,368,5,,204324,200667,1611661320,8,2,0,1
+07:36,[PHO] Jefferson Substitution replaced by Onyenwere,0,-80,8,,1627669,1630446,1611661317,8,2,0,1
+07:23,[PHO] Griner Turnaround Hook Shot: Missed,54,6,2,,203398,,1611661317,8,2,0,1
+07:19,[LAS] N Ogwumike Rebound (Off:0 Def:1),54,6,4,,203014,,1611661320,8,2,0,1
+07:02,[PHO] Griner Foul: Personal (1 PF) (2 FTA),-52,46,6,1628886,203398,1627539,1611661317,8,2,0,1
+07:02,[LAS 3-8] Canada Free Throw 1 of 2 (1 PTS),0,-80,3,,1628886,,1611661320,8,3,1,1
+07:02,[LAS 4-8] Canada Free Throw 2 of 2 (2 PTS),0,-80,3,,1628886,,1611661320,8,4,1,1
+06:53,[PHO] Turner Turnover : Bad Pass (1 TO) Steal:Stevens (1 ST),97,270,5,1628922,1629488,,1611661317,8,4,0,1
+06:50,[LAS] Stevens Running Layup Shot: Missed,44,40,2,,1628922,,1611661320,8,4,0,1
+06:49,[LAS] Team Rebound,44,40,4,,0,,1611661320,8,4,0,1
+06:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,4,0,1
+06:40,[LAS 6-8] N Ogwumike Layup Shot: Made (4 PTS) Assist: Thomas (2 AST),59,25,1,,203014,202662,1611661320,8,6,2,1
+06:32,[PHO] Taurasi 3pt Shot: Missed,-105,254,2,,100940,,1611661317,8,6,0,1
+06:29,[LAS] N Ogwumike Rebound (Off:0 Def:2),-105,254,4,,203014,,1611661320,8,6,0,1
+06:25,[LAS] Stevens Running Alley Oop Layup Shot: Missed,28,27,2,,1628922,,1611661320,8,6,0,1
+06:23,[PHO] Griner Rebound (Off:1 Def:1),28,27,4,,203398,,1611661317,8,6,0,1
+06:10,[PHO] Cunningham 3pt Shot: Missed,-220,102,2,,1629482,,1611661317,8,6,0,1
+06:06,[LAS] Stevens Rebound (Off:0 Def:1),-220,102,4,,1628922,,1611661320,8,6,0,1
+06:00,[LAS 8-8] Thomas Pullup Jump shot: Made (2 PTS),-67,165,1,,202662,,1611661320,8,8,2,1
+05:33,[PHO] Griner Turnaround Jump Shot: Missed,-60,53,2,,203398,,1611661317,8,8,0,1
+05:30,[PHO] Onyenwere Rebound (Off:1 Def:0),-60,53,4,,1630446,,1611661317,8,8,0,1
+05:30,[PHO] Taurasi Substitution replaced by Sissoko,0,-80,8,,100940,1641690,1611661317,8,8,0,1
+05:30,[PHO] Turner Substitution replaced by Jefferson,0,-80,8,,1629488,1627669,1611661317,8,8,0,1
+05:26,Jump Ball Onyenwere vs N Ogwumike (Jefferson gains possession),0,-80,10,203014,1630446,1627669,1611661317,8,8,0,1
+05:12,[PHO] Jefferson 3pt Shot: Missed,-159,205,2,,1627669,,1611661317,8,8,0,1
+05:10,[PHO] Cunningham Rebound (Off:1 Def:0),-159,205,4,,1629482,,1611661317,8,8,0,1
+05:05,[PHO] Sissoko 3pt Shot: Missed,-229,15,2,,1641690,,1611661317,8,8,0,1
+05:05,[PHO] Onyenwere Rebound (Off:2 Def:0),-229,15,4,,1630446,,1611661317,8,8,0,1
+05:00,[LAS] Canada Foul: Personal (1 PF),-16,64,6,1630446,1628886,200667,1611661320,8,8,0,1
+05:00,[PHO] Griner Substitution replaced by Gustafson,0,-80,8,,203398,1629484,1611661317,8,8,0,1
+05:00,[LAS] Hamby Substitution replaced by Burrell,0,-80,8,,204324,1630996,1611661320,8,8,0,1
+05:00,[LAS] Thomas Substitution replaced by Cooke,0,-80,8,,202662,1641660,1611661320,8,8,0,1
+04:53,[PHO] Onyenwere Turnover : Lost Ball (1 TO) Steal:Canada (1 ST),-122,167,5,1628886,1630446,,1611661317,8,8,0,1
+04:49,[LAS 10-8] Canada Running Layup Shot: Made (4 PTS),-1,1,1,,1628886,,1611661320,8,10,2,1
+04:31,[PHO 10-10] Jefferson Driving Reverse Layup Shot: Made (2 PTS),-1,10,1,,1627669,,1611661317,10,10,2,1
+04:24,[LAS] Canada Layup Shot: Missed Block: Gustafson (1 BLK),9,27,2,1629484,1628886,,1611661320,10,10,0,1
+04:24,[LAS] Team Rebound,9,27,4,,0,,1611661320,10,10,0,1
+04:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,10,0,1
+04:24,Timeout Officials,0,-80,9,,0,,0,10,10,0,1
+04:24,[PHO] Cunningham Substitution replaced by Sutton,0,-80,8,,1629482,1630134,1611661317,10,10,0,1
+04:24,[LAS] Team Turnover : 5 Second Violation,-127,-42,5,,0,,1611661320,10,10,0,1
+03:58,[PHO] Onyenwere Driving Layup Shot: Missed,24,7,2,,1630446,,1611661317,10,10,0,1
+03:56,[LAS] N Ogwumike Rebound (Off:0 Def:3),24,7,4,,203014,,1611661320,10,10,0,1
+03:47,[LAS] Cooke 3pt Shot: Missed,-179,150,2,,1641660,,1611661320,10,10,0,1
+03:46,[LAS] Team Rebound,-179,150,4,,0,,1611661320,10,10,0,1
+03:46,[PHO] Onyenwere Foul: Loose Ball (1 PF),10,54,6,1628922,1630446,1627539,1611661317,10,10,0,1
+03:41,[LAS] Canada Pullup Jump shot: Missed,39,172,2,,1628886,,1611661320,10,10,0,1
+03:38,[PHO] Gustafson Rebound (Off:0 Def:1),39,172,4,,1629484,,1611661317,10,10,0,1
+03:31,[LAS] Canada Foul: Shooting (2 PF) (2 FTA),32,6,6,1627669,1628886,1627539,1611661320,10,10,0,1
+03:31,[PHO 11-10] Jefferson Free Throw 1 of 2 (3 PTS),0,-80,3,,1627669,,1611661317,11,10,1,1
+03:31,[PHO] Jefferson Free Throw 2 of 2 Missed,0,-80,3,,1627669,,1611661317,11,10,0,1
+03:27,[LAS] Stevens Rebound (Off:0 Def:2),0,-80,4,,1628922,,1611661320,11,10,0,1
+03:16,[LAS] N Ogwumike Turnover : Lost Ball (1 TO) Steal:Jefferson (1 ST),-49,25,5,1627669,203014,,1611661320,11,10,0,1
+03:09,[PHO 13-10] Gustafson Jump Shot: Made (2 PTS) Assist: Jefferson (1 AST),-131,0,1,,1629484,1627669,1611661317,13,10,2,1
+02:59,[LAS] N Ogwumike Foul: Offensive Charge (1 PF),-24,111,6,1641690,203014,203891,1611661320,13,10,0,1
+02:59,[LAS] N Ogwumike Turnover : Offensive Foul Turnover (2 TO),-24,111,5,,203014,203891,1611661320,13,10,0,1
+02:36,[PHO 15-10] Jefferson Pullup Jump shot: Made (5 PTS),35,109,1,,1627669,,1611661317,15,10,2,1
+02:24,[PHO] Jefferson Foul: Personal (1 PF),-10,74,6,1630996,1627669,200667,1611661317,15,10,0,1
+02:16,[LAS] Canada 3pt Shot: Missed,-193,150,2,,1628886,,1611661320,15,10,0,1
+02:13,[PHO] Gustafson Rebound (Off:0 Def:2),-193,150,4,,1629484,,1611661317,15,10,0,1
+02:07,[LAS] Cooke Foul: Personal (1 PF),-162,72,6,1630134,1641660,200667,1611661320,15,10,0,1
+02:07,[PHO] Gustafson Substitution replaced by Taurasi,0,-80,8,,1629484,100940,1611661317,15,10,0,1
+02:07,[PHO] Sutton Substitution replaced by Griner,0,-80,8,,1630134,203398,1611661317,15,10,0,1
+02:07,[LAS] Canada Substitution replaced by Henderson,0,-80,8,,1628886,1631089,1611661320,15,10,0,1
+01:54,[PHO 17-10] Taurasi Jump Shot: Made (2 PTS) Assist: Jefferson (2 AST),98,18,1,,100940,1627669,1611661317,17,10,2,1
+01:39,[LAS] Cooke Pullup Jump shot: Missed,82,110,2,,1641660,,1611661320,17,10,0,1
+01:39,[LAS] N Ogwumike Rebound (Off:1 Def:3),82,110,4,,203014,,1611661320,17,10,0,1
+01:34,[LAS 12-17] N Ogwumike Layup Shot: Made (6 PTS),0,13,1,,203014,,1611661320,17,12,2,1
+01:21,[PHO] Onyenwere Layup Shot: Missed,27,5,2,,1630446,,1611661317,17,12,0,1
+01:20,[LAS] Burrell Rebound (Off:0 Def:1),27,5,4,,1630996,,1611661320,17,12,0,1
+01:07,[PHO] Onyenwere Foul: Shooting (2 PF) (2 FTA),138,62,6,1631089,1630446,1627539,1611661317,17,12,0,1
+01:07,[LAS 13-17] Henderson Free Throw 1 of 2 (1 PTS),0,-80,3,,1631089,,1611661320,17,13,1,1
+01:07,[PHO] Onyenwere Substitution replaced by Cunningham,0,-80,8,,1630446,1629482,1611661317,17,13,0,1
+01:07,[PHO] Sissoko Substitution replaced by Turner,0,-80,8,,1641690,1629488,1611661317,17,13,0,1
+01:07,[LAS 14-17] Henderson Free Throw 2 of 2 (2 PTS),0,-80,3,,1631089,,1611661320,17,14,1,1
+00:51.3,[PHO] Griner Turnover : 3 Second Violation (1 TO),11,24,5,,203398,1627539,1611661317,17,14,0,1
+00:38.9,[LAS] N Ogwumike Jump Shot: Missed,111,70,2,,203014,,1611661320,17,14,0,1
+00:36.1,[PHO] Turner Rebound (Off:0 Def:2),111,70,4,,1629488,,1611661317,17,14,0,1
+00:31.1,[PHO] Taurasi 3pt Shot: Missed,100,219,2,,100940,,1611661317,17,14,0,1
+00:27.8,[LAS] Henderson Rebound (Off:0 Def:1),100,219,4,,1631089,,1611661320,17,14,0,1
+00:05.0,[LAS] Cooke Jump Shot: Missed Block: Turner (1 BLK),-46,83,2,1629488,1641660,,1611661320,17,14,0,1
+00:04.8,[LAS] Team Rebound,-46,83,4,,0,,1611661320,17,14,0,1
+00:04.8,[LAS] Team Turnover : Shot Clock Turnover,-29,62,5,,0,200667,1611661320,17,14,0,1
+00:00.0,[PHO] Jefferson Pullup Jump shot: Missed,127,139,2,,1627669,,1611661317,17,14,0,1
+00:00.0,[PHO] Team Rebound,127,139,4,,0,,1611661317,17,14,0,1
+00:00.0,End Period,0,-80,13,,0,,0,17,14,0,1
+10:00,Start Period,0,-80,12,,0,,0,17,14,0,2
+09:43,[LAS 17-17] Cooke 3pt Shot: Made (3 PTS) Assist: Burrell (1 AST),111,212,1,,1641660,1630996,1611661320,17,17,3,2
+09:25,[LAS] Stevens Foul: Shooting (1 PF) (2 FTA),-22,49,6,203398,1628922,1627539,1611661320,17,17,0,2
+09:25,[PHO 18-17] Griner Free Throw 1 of 2 (7 PTS),0,-80,3,,203398,,1611661317,18,17,1,2
+09:25,[PHO 19-17] Griner Free Throw 2 of 2 (8 PTS),0,-80,3,,203398,,1611661317,19,17,1,2
+09:06,[LAS 19-19] Thomas Jump Shot: Made (4 PTS) Assist: Cooke (1 AST),-73,202,1,,202662,1641660,1611661320,19,19,2,2
+08:59,[PHO] Sutton 3pt Shot: Missed,-229,67,2,,1630134,,1611661317,19,19,0,2
+08:56,[PHO] Cunningham Rebound (Off:2 Def:0),-229,67,4,,1629482,,1611661317,19,19,0,2
+08:50,[PHO 22-19] Sutton 3pt Shot: Made (3 PTS) Assist: Taurasi (3 AST),-206,109,1,,1630134,100940,1611661317,22,19,3,2
+08:42,[PHO] Taurasi Foul: Personal (1 PF),-221,-10,6,1641660,100940,200667,1611661317,22,19,0,2
+08:33,[LAS 22-22] Stevens 3pt Shot: Made (3 PTS) Assist: Cooke (2 AST),193,142,1,,1628922,1641660,1611661320,22,22,3,2
+08:19,[PHO] Cunningham Driving Layup Shot: Missed Block: Burrell (1 BLK),38,2,2,1630996,1629482,,1611661317,22,22,0,2
+08:15,[LAS] Stevens Rebound (Off:0 Def:3),38,2,4,,1628922,,1611661320,22,22,0,2
+08:14,[PHO] Taurasi Foul: Shooting (2 PF) (2 FTA),-86,8,6,1630996,100940,203891,1611661317,22,22,0,2
+08:14,[LAS] Burrell Free Throw 1 of 2 Missed,0,-80,3,,1630996,,1611661320,22,22,0,2
+08:14,[LAS] Team Rebound,0,-80,4,,0,,1611661320,22,22,0,2
+08:14,[PHO] Taurasi Substitution replaced by Onyenwere,0,-80,8,,100940,1630446,1611661317,22,22,0,2
+08:14,[LAS 23-22] Burrell Free Throw 2 of 2 (1 PTS),0,-80,3,,1630996,,1611661320,22,23,1,2
+07:57,[LAS] Henderson Foul: Personal (1 PF),72,28,6,1629482,1631089,203891,1611661320,22,23,0,2
+07:49,[LAS] Henderson Foul: Personal (2 PF),13,62,6,1630446,1631089,200667,1611661320,22,23,0,2
+07:45,[PHO 24-23] Griner Hook Shot: Made (10 PTS) Assist: Cunningham (2 AST),30,-4,1,,203398,1629482,1611661317,24,23,2,2
+07:34,[LAS] Cooke Layup Shot: Missed Block: Turner (2 BLK),7,33,2,1629488,1641660,,1611661320,24,23,0,2
+07:32,[PHO] Sutton Rebound (Off:0 Def:1),7,33,4,,1630134,,1611661317,24,23,0,2
+07:28,[PHO] Sutton Turnover : Out of Bounds - Bad Pass Turnover (1 TO),134,201,5,,1630134,200667,1611661317,24,23,0,2
+07:28,[PHO] Turner Substitution replaced by Sissoko,0,-80,8,,1629488,1641690,1611661317,24,23,0,2
+07:19,[LAS] Henderson 3pt Shot: Missed,22,240,2,,1631089,,1611661320,24,23,0,2
+07:16,[PHO] Griner Rebound (Off:1 Def:2),22,240,4,,203398,,1611661317,24,23,0,2
+07:03,[PHO 26-23] Griner Dunk Shot: Made (12 PTS) Assist: Sutton (1 AST),13,-1,1,,203398,1630134,1611661317,26,23,2,2
+06:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,23,0,2
+06:51,[LAS] Burrell Substitution replaced by Canada,0,-80,8,,1630996,1628886,1611661320,26,23,0,2
+06:51,[LAS] Henderson Substitution replaced by N Ogwumike,0,-80,8,,1631089,203014,1611661320,26,23,0,2
+06:51,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,26,23,0,2
+06:51,[PHO] Sissoko Substitution replaced by Taurasi,0,-80,8,,1641690,100940,1611661317,26,23,0,2
+06:42,[LAS 25-26] N Ogwumike Layup Shot: Made (8 PTS) Assist: Canada (1 AST),-32,21,1,,203014,1628886,1611661320,26,25,2,2
+06:30,[PHO 28-25] Taurasi Driving Finger Roll Layup Shot: Made (4 PTS),7,2,1,,100940,,1611661317,28,25,2,2
+06:15,[LAS] Thomas Floating Jump shot: Missed,117,52,2,,202662,,1611661320,28,25,0,2
+06:13,[PHO] Taurasi Rebound (Off:0 Def:1),117,52,4,,100940,,1611661317,28,25,0,2
+06:02,[PHO] Griner Turnaround Fadeaway shot: Missed,-105,40,2,,203398,,1611661317,28,25,0,2
+06:00,[PHO] Onyenwere Rebound (Off:3 Def:0),-105,40,4,,1630446,,1611661317,28,25,0,2
+05:56,Jump Ball Stevens vs Onyenwere (N Ogwumike gains possession),0,-80,10,1630446,1628922,203014,1611661320,28,25,0,2
+05:56,[PHO] Onyenwere Turnover : Lost Ball (2 TO) Steal:Stevens (2 ST),0,-80,5,1628922,1630446,,1611661317,28,25,0,2
+05:43,[LAS] Canada Pullup Jump shot: Missed,-66,170,2,,1628886,,1611661320,28,25,0,2
+05:40,[PHO] Cunningham Rebound (Off:2 Def:1),-66,170,4,,1629482,,1611661317,28,25,0,2
+05:36,[PHO] Cunningham 3pt Shot: Missed,93,231,2,,1629482,,1611661317,28,25,0,2
+05:33,[LAS] N Ogwumike Rebound (Off:1 Def:4),93,231,4,,203014,,1611661320,28,25,0,2
+05:24,[LAS 27-28] Canada Cutting Layup Shot: Made (6 PTS) Assist: Thomas (3 AST),-1,28,1,,1628886,202662,1611661320,28,27,2,2
+05:01,[PHO] Onyenwere Reverse Layup Shot: Missed,15,-3,2,,1630446,,1611661317,28,27,0,2
+04:57,[LAS] N Ogwumike Rebound (Off:1 Def:5),15,-3,4,,203014,,1611661320,28,27,0,2
+04:49,[LAS 29-28] N Ogwumike Cutting Layup Shot: Made (10 PTS) Assist: Cooke (3 AST),17,0,1,,203014,1641660,1611661320,28,29,2,2
+04:49,[PHO] Team Timeout : Short,0,-80,9,,1611661317,,1611661317,28,29,0,2
+04:49,[PHO] Sutton Substitution replaced by Jefferson,0,-80,8,,1630134,1627669,1611661317,28,29,0,2
+04:49,[PHO] Griner Substitution replaced by Gustafson,0,-80,8,,203398,1629484,1611661317,28,29,0,2
+04:33,[PHO 31-29] Jefferson 3pt Shot: Made (8 PTS) Assist: Taurasi (4 AST),229,0,1,,1627669,100940,1611661317,31,29,3,2
+04:26,[LAS] N Ogwumike Turnover : Bad Pass (3 TO) Steal:Cunningham (1 ST),87,870,5,1629482,203014,,1611661320,31,29,0,2
+04:26,[LAS] Stevens Foul: Personal (2 PF),-116,280,6,1629482,1628922,200667,1611661320,31,29,0,2
+04:26,[PHO] Onyenwere Substitution replaced by Turner,0,-80,8,,1630446,1629488,1611661317,31,29,0,2
+04:15,[PHO] Taurasi Turnover : Bad Pass (1 TO) Steal:Cooke (1 ST),-73,230,5,1641660,100940,,1611661317,31,29,0,2
+04:12,[LAS] Cooke Running Layup Shot: Missed Block: Cunningham (1 BLK),43,51,2,1629482,1641660,,1611661320,31,29,0,2
+04:12,[LAS] Team Rebound,43,51,4,,0,,1611661320,31,29,0,2
+04:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,29,0,2
+04:07,[LAS 31-31] N Ogwumike Reverse Layup Shot: Made (12 PTS) Assist: Stevens (1 AST),-30,19,1,,203014,1628922,1611661320,31,31,2,2
+03:55,[PHO] Taurasi 3pt Shot: Missed,-17,271,2,,100940,,1611661317,31,31,0,2
+03:53,[PHO] Team Rebound,-17,271,4,,0,,1611661317,31,31,0,2
+03:53,[LAS] Cooke Foul: Loose Ball (2 PF) (2 FTA),-12,279,6,100940,1641660,200667,1611661320,31,31,0,2
+03:53,[PHO 32-31] Taurasi Free Throw 1 of 2 (5 PTS),0,-80,3,,100940,,1611661317,32,31,1,2
+03:53,[PHO 33-31] Taurasi Free Throw 2 of 2 (6 PTS),0,-80,3,,100940,,1611661317,33,31,1,2
+03:43,[PHO] Taurasi Foul: Shooting (3 PF) (2 FTA),-29,13,6,1641660,100940,203891,1611661317,33,31,0,2
+03:43,[LAS 32-33] Canada Free Throw 1 of 2 (7 PTS),0,-80,3,,1628886,,1611661320,33,32,1,2
+03:43,[PHO] Taurasi Substitution replaced by Onyenwere,0,-80,8,,100940,1630446,1611661317,33,32,0,2
+03:43,[LAS 33-33] Canada Free Throw 2 of 2 (8 PTS),0,-80,3,,1628886,,1611661320,33,33,1,2
+03:29,[PHO] Jefferson Pullup Jump shot: Missed,24,123,2,,1627669,,1611661317,33,33,0,2
+03:26,[LAS] N Ogwumike Rebound (Off:1 Def:6),24,123,4,,203014,,1611661320,33,33,0,2
+03:20,[LAS 36-33] Thomas 3pt Shot: Made (7 PTS) Assist: Cooke (4 AST),-154,177,1,,202662,1641660,1611661320,33,36,3,2
+02:59,[PHO 36-36] Gustafson 3pt Shot: Made (5 PTS) Assist: Jefferson (3 AST),180,151,1,,1629484,1627669,1611661317,36,36,3,2
+02:42,[LAS] Thomas Jump Shot: Missed,102,151,2,,202662,,1611661320,36,36,0,2
+02:38,[LAS] N Ogwumike Rebound (Off:2 Def:6),102,151,4,,203014,,1611661320,36,36,0,2
+02:38,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,36,36,0,2
+02:38,[PHO] Cunningham Substitution replaced by Sutton,0,-80,8,,1629482,1630134,1611661317,36,36,0,2
+02:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,36,0,2
+02:33,[PHO] Gustafson Substitution replaced by Griner,0,-80,8,,1629484,203398,1611661317,36,36,0,2
+02:33,[PHO] Jefferson Substitution replaced by Cunningham,0,-80,8,,1627669,1629482,1611661317,36,36,0,2
+02:25,[LAS] N Ogwumike Turnaround Jump Shot: Missed,-127,92,2,,203014,,1611661320,36,36,0,2
+02:22,[PHO] Turner Rebound (Off:0 Def:3),-127,92,4,,1629488,,1611661317,36,36,0,2
+02:17,[PHO] Griner Foul: Offensive (2 PF),-155,2,6,1641660,203398,203891,1611661317,36,36,0,2
+02:17,[PHO] Griner Turnover : Offensive Foul Turnover (2 TO),-155,2,5,,203398,203891,1611661317,36,36,0,2
+01:56,[LAS] Cooke 3pt Shot: Missed,-138,192,2,,1641660,,1611661320,36,36,0,2
+01:53,[PHO] Cunningham Rebound (Off:2 Def:2),-138,192,4,,1629482,,1611661317,36,36,0,2
+01:42,[PHO] Sutton Turnover : Bad Pass (2 TO) Steal:N Ogwumike (1 ST),173,158,5,203014,1630134,,1611661317,36,36,0,2
+01:34,[LAS] N Ogwumike 3pt Shot: Missed,-155,178,2,,203014,,1611661320,36,36,0,2
+01:30,[PHO] Cunningham Rebound (Off:2 Def:3),-155,178,4,,1629482,,1611661317,36,36,0,2
+01:09,[PHO 38-36] Turner Cutting Layup Shot: Made (4 PTS) Assist: Griner (1 AST),21,-1,1,,1629488,203398,1611661317,38,36,2,2
+00:53.6,[LAS] N Ogwumike Layup Shot: Missed,-44,5,2,,203014,,1611661320,38,36,0,2
+00:51.7,[LAS] Stevens Rebound (Off:1 Def:3),-44,5,4,,1628922,,1611661320,38,36,0,2
+00:49.8,[LAS] Stevens Jump Shot: Missed,-16,8,2,,1628922,,1611661320,38,36,0,2
+00:49.8,[PHO] Sutton Rebound (Off:0 Def:2),-16,8,4,,1630134,,1611661317,38,36,0,2
+00:43.4,[PHO 40-36] Griner Hook Bank Shot: Made (14 PTS) Assist: Sutton (2 AST),4,22,1,,203398,1630134,1611661317,40,36,2,2
+00:29.4,[LAS] Canada Pullup Jump shot: Missed,137,140,2,,1628886,,1611661320,40,36,0,2
+00:26.3,[PHO] Onyenwere Rebound (Off:3 Def:1),137,140,4,,1630446,,1611661317,40,36,0,2
+00:09.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,36,0,2
+00:07.4,[PHO 42-36] Griner Jump Bank Shot: Made (16 PTS) Assist: Sutton (3 AST),45,27,1,,203398,1630134,1611661317,42,36,2,2
+00:04.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,36,0,2
+00:00.2,[LAS] Canada Layup Shot: Missed,83,31,2,,1628886,,1611661320,42,36,0,2
+00:00.1,[LAS] Team Rebound,83,31,4,,0,,1611661320,42,36,0,2
+00:00.0,End Period,0,-80,13,,0,,0,42,36,0,2
+10:00,Start Period,0,-80,12,,0,,0,42,36,0,3
+09:38,[LAS] Cooke Pullup Jump shot: Missed,75,130,2,,1641660,,1611661320,42,36,0,3
+09:34,[PHO] Griner Rebound (Off:1 Def:3),75,130,4,,203398,,1611661317,42,36,0,3
+09:22,[PHO] Taurasi Turnover : Out of Bounds - Bad Pass Turnover (2 TO),131,81,5,,100940,200667,1611661317,42,36,0,3
+09:04,[LAS 39-42] Thomas 3pt Shot: Made (10 PTS) Assist: Canada (2 AST),234,15,1,,202662,1628886,1611661320,42,39,3,3
+08:44,[PHO] Turner Jump Shot: Missed,165,56,2,,1629488,,1611661317,42,39,0,3
+08:42,[LAS] N Ogwumike Rebound (Off:2 Def:7),165,56,4,,203014,,1611661320,42,39,0,3
+08:35,[LAS] Canada Layup Shot: Missed,-18,10,2,,1628886,,1611661320,42,39,0,3
+08:31,[PHO] Griner Rebound (Off:1 Def:4),-18,10,4,,203398,,1611661317,42,39,0,3
+08:18,[PHO] Taurasi 3pt Shot: Missed,-208,138,2,,100940,,1611661317,42,39,0,3
+08:16,[LAS] Canada Rebound (Off:0 Def:1),-208,138,4,,1628886,,1611661320,42,39,0,3
+08:12,[LAS] Canada Driving Floating Jump Shot: Missed,4,53,2,,1628886,,1611661320,42,39,0,3
+08:11,[LAS] Cooke Rebound (Off:1 Def:0),4,53,4,,1641660,,1611661320,42,39,0,3
+08:09,[LAS] Cooke Layup Shot: Missed,5,22,2,,1641660,,1611661320,42,39,0,3
+08:09,[PHO] Taurasi Rebound (Off:0 Def:2),5,22,4,,100940,,1611661317,42,39,0,3
+08:07,[LAS] Canada Violation:Kicked Ball,0,-80,7,,1628886,,1611661320,42,39,0,3
+07:45,[PHO] Jefferson 3pt Shot: Missed,-230,49,2,,1627669,,1611661317,42,39,0,3
+07:42,[LAS] N Ogwumike Rebound (Off:2 Def:8),-230,49,4,,203014,,1611661320,42,39,0,3
+07:29,[LAS] Cooke Turnover : Lost Ball (1 TO) Steal:Jefferson (2 ST),-23,81,5,1627669,1641660,,1611661320,42,39,0,3
+07:26,[LAS] Canada Foul: Shooting (3 PF) (2 FTA),11,15,6,1627669,1628886,200667,1611661320,42,39,0,3
+07:26,[PHO] Jefferson Free Throw 1 of 2 Missed,0,-80,3,,1627669,,1611661317,42,39,0,3
+07:26,[PHO] Team Rebound,0,-80,4,,0,,1611661317,42,39,0,3
+07:26,[LAS] Cooke Substitution replaced by Burrell,0,-80,8,,1641660,1630996,1611661320,42,39,0,3
+07:26,[PHO 43-39] Jefferson Free Throw 2 of 2 (9 PTS),0,-80,3,,1627669,,1611661317,43,39,1,3
+07:04,[PHO] Cunningham Foul: Shooting (1 PF) (2 FTA),8,29,6,1630996,1629482,200667,1611661317,43,39,0,3
+07:04,[LAS 40-43] Burrell Free Throw 1 of 2 (2 PTS),0,-80,3,,1630996,,1611661320,43,40,1,3
+07:04,[PHO] Jefferson Substitution replaced by Onyenwere,0,-80,8,,1627669,1630446,1611661317,43,40,0,3
+07:04,[LAS 41-43] Burrell Free Throw 2 of 2 (3 PTS),0,-80,3,,1630996,,1611661320,43,41,1,3
+06:42,[PHO 45-41] Griner Reverse Layup Shot: Made (18 PTS) Assist: Onyenwere (1 AST),-23,0,1,,203398,1630446,1611661317,45,41,2,3
+06:20,[LAS] Stevens 3pt Shot: Missed,-212,97,2,,1628922,,1611661320,45,41,0,3
+06:16,[PHO] Taurasi Rebound (Off:0 Def:3),-212,97,4,,100940,,1611661317,45,41,0,3
+06:05,[PHO 47-41] Griner Jump Shot: Made (20 PTS) Assist: Onyenwere (2 AST),-106,24,1,,203398,1630446,1611661317,47,41,2,3
+05:52,[LAS] Thomas 3pt Shot: Missed,136,187,2,,202662,,1611661320,47,41,0,3
+05:49,[PHO] Cunningham Rebound (Off:2 Def:4),136,187,4,,1629482,,1611661317,47,41,0,3
+05:40,[PHO] Griner Jump Shot: Missed,-39,173,2,,203398,,1611661317,47,41,0,3
+05:35,[PHO] Onyenwere Rebound (Off:4 Def:1),-39,173,4,,1630446,,1611661317,47,41,0,3
+05:27,[PHO] Onyenwere Foul: Offensive (3 PF),-24,103,6,1630996,1630446,200667,1611661317,47,41,0,3
+05:27,[PHO] Onyenwere Turnover : Offensive Foul Turnover (3 TO),-24,103,5,,1630446,200667,1611661317,47,41,0,3
+05:12,[PHO] Onyenwere Foul: Personal (4 PF),62,32,6,1628922,1630446,200667,1611661317,47,41,0,3
+05:05,[LAS 43-47] Canada Driving Layup Shot: Made (10 PTS),-16,10,1,,1628886,,1611661320,47,43,2,3
+04:44,[PHO 49-43] Griner Turnaround Fadeaway shot: Made (22 PTS),-5,49,1,,203398,,1611661317,49,43,2,3
+04:35,[PHO] Cunningham Foul: Personal (2 PF),-117,128,6,203014,1629482,1627539,1611661317,49,43,0,3
+04:35,Timeout Officials,0,-80,9,,0,,0,49,43,0,3
+04:35,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,49,43,0,3
+04:35,[PHO] Griner Substitution replaced by Gustafson,0,-80,8,,203398,1629484,1611661317,49,43,0,3
+04:24,[LAS] Canada 3pt Shot: Missed,205,120,2,,1628886,,1611661320,49,43,0,3
+04:20,[PHO] Sutton Rebound (Off:0 Def:3),205,120,4,,1630134,,1611661317,49,43,0,3
+04:07,[PHO] Onyenwere Layup Shot: Missed Block: Thomas (1 BLK),-34,30,2,202662,1630446,,1611661317,49,43,0,3
+04:06,[LAS] N Ogwumike Rebound (Off:2 Def:9),-34,30,4,,203014,,1611661320,49,43,0,3
+04:06,[PHO] Onyenwere Foul: Personal (5 PF),-6,394,6,203014,1630446,200667,1611661317,49,43,0,3
+04:06,[PHO] Onyenwere Substitution replaced by Jefferson,0,-80,8,,1630446,1627669,1611661317,49,43,0,3
+03:55,[LAS] Burrell Turnover : Lost Ball (1 TO) Steal:Jefferson (3 ST),18,198,5,1627669,1630996,,1611661320,49,43,0,3
+03:51,[PHO 51-43] Jefferson Running Layup Shot: Made (11 PTS),-10,6,1,,1627669,,1611661317,51,43,2,3
+03:42,[PHO] Gustafson Foul: Personal (1 PF) (2 FTA),-81,86,6,1628922,1629484,200667,1611661317,51,43,0,3
+03:42,[LAS 44-51] Stevens Free Throw 1 of 2 (4 PTS),0,-80,3,,1628922,,1611661320,51,44,1,3
+03:42,[LAS 45-51] Stevens Free Throw 2 of 2 (5 PTS),0,-80,3,,1628922,,1611661320,51,45,1,3
+03:29,[PHO] Cunningham Layup Shot: Missed,3,1,2,,1629482,,1611661317,51,45,0,3
+03:27,[LAS] N Ogwumike Rebound (Off:2 Def:10),3,1,4,,203014,,1611661320,51,45,0,3
+03:16,[LAS 47-51] Stevens Hook Shot: Made (7 PTS),75,13,1,,1628922,,1611661320,51,47,2,3
+03:03,[LAS] Canada Foul: Personal (4 PF),137,68,6,1627669,1628886,1627539,1611661320,51,47,0,3
+03:03,[PHO] Cunningham Substitution replaced by Taurasi,0,-80,8,,1629482,100940,1611661317,51,47,0,3
+03:03,[LAS] Thomas Substitution replaced by Henderson,0,-80,8,,202662,1631089,1611661320,51,47,0,3
+02:51,[PHO 53-47] Taurasi Driving Layup Shot: Made (8 PTS) Assist: Jefferson (4 AST),-8,-2,1,,100940,1627669,1611661317,53,47,2,3
+02:30,[LAS] Canada Driving Layup Shot: Missed,26,12,2,,1628886,,1611661320,53,47,0,3
+02:28,[PHO] Gustafson Rebound (Off:0 Def:3),26,12,4,,1629484,,1611661317,53,47,0,3
+02:14,[PHO 55-47] Gustafson Cutting Layup Shot: Made (7 PTS) Assist: Jefferson (5 AST),7,4,1,,1629484,1627669,1611661317,55,47,2,3
+02:05,[LAS] Stevens 3pt Shot: Missed,-43,237,2,,1628922,,1611661320,55,47,0,3
+02:03,[PHO] Turner Rebound (Off:0 Def:4),-43,237,4,,1629488,,1611661317,55,47,0,3
+01:47,[PHO 57-47] Taurasi Pullup Jump shot: Made (10 PTS),20,153,1,,100940,,1611661317,57,47,2,3
+01:46,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,57,47,0,3
+01:46,[PHO] Turner Substitution replaced by Sissoko,0,-80,8,,1629488,1641690,1611661317,57,47,0,3
+01:46,[LAS] N Ogwumike Turnover : Inbound Turnover (4 TO),132,878,5,,203014,1627539,1611661320,57,47,0,3
+01:42,[PHO] Sutton Turnover : Bad Pass (3 TO) Steal:Canada (2 ST),-130,-35,5,1628886,1630134,,1611661317,57,47,0,3
+01:40,[LAS] Canada Turnover : Bad Pass (1 TO) Steal:Sutton (1 ST),24,64,5,1630134,1628886,,1611661320,57,47,0,3
+01:20,[PHO] Sutton Driving Layup Shot: Missed,42,24,2,,1630134,,1611661317,57,47,0,3
+01:16,[PHO] Sissoko Rebound (Off:1 Def:0),42,24,4,,1641690,,1611661317,57,47,0,3
+01:16,[PHO 59-47] Sissoko Putback Layup Shot: Made (2 PTS),0,-5,1,,1641690,,1611661317,59,47,2,3
+00:59.2,[LAS] Henderson Turnover : Bad Pass (1 TO) Steal:Jefferson (4 ST),177,166,5,1627669,1631089,,1611661320,59,47,0,3
+00:41.4,[PHO] Sissoko Turnover : Out of Bounds Lost Ball Turnover (1 TO),17,51,5,,1641690,203891,1611661317,59,47,0,3
+00:28.4,[LAS 50-59] Burrell 3pt Shot: Made (6 PTS),-135,190,1,,1630996,,1611661320,59,50,3,3
+00:11.2,[PHO] Taurasi Step Back Jump shot: Missed,-6,144,2,,100940,,1611661317,59,50,0,3
+00:07.3,[LAS] Canada Rebound (Off:0 Def:2),-6,144,4,,1628886,,1611661320,59,50,0,3
+00:00.0,End Period,0,-80,13,,0,,0,59,50,0,3
+10:00,Start Period,0,-80,12,,0,,0,59,50,0,4
+09:51,[PHO] Turner Turnover : Bad Pass (2 TO) Steal:Stevens (3 ST),79,-38,5,1628922,1629488,,1611661317,59,50,0,4
+09:37,[LAS 52-59] Stevens Alley Oop Layup shot: Made (9 PTS) Assist: Henderson (1 AST),13,-1,1,,1628922,1631089,1611661320,59,52,2,4
+09:15,[LAS] Henderson Foul: Personal (3 PF),70,182,6,1627669,1631089,200667,1611661320,59,52,0,4
+09:07,[PHO 62-52] Taurasi 3pt Shot: Made (13 PTS) Assist: Jefferson (6 AST),117,220,1,,100940,1627669,1611661317,62,52,3,4
+08:58,[LAS] Burrell Layup Shot: Missed Block: Taurasi (1 BLK),-9,16,2,100940,1630996,,1611661320,62,52,0,4
+08:58,[PHO] Team Rebound,-9,16,4,,0,,1611661317,62,52,0,4
+08:41,[PHO] Griner Turnaround Fadeaway shot: Missed,24,60,2,,203398,,1611661317,62,52,0,4
+08:37,[LAS] Stevens Rebound (Off:1 Def:4),24,60,4,,1628922,,1611661320,62,52,0,4
+08:27,[LAS] Cooke Pullup Jump shot: Missed,-123,112,2,,1641660,,1611661320,62,52,0,4
+08:25,[LAS] Stevens Rebound (Off:2 Def:4),-123,112,4,,1628922,,1611661320,62,52,0,4
+08:24,[LAS] Stevens Putback Layup Shot: Missed,0,-5,2,,1628922,,1611661320,62,52,0,4
+08:22,[PHO] Team Rebound,0,-5,4,,0,,1611661317,62,52,0,4
+08:22,[LAS] Stevens Foul: Loose Ball (3 PF),20,799,6,203398,1628922,203891,1611661320,62,52,0,4
+08:06,[PHO] Taurasi Jump Shot: Missed,145,99,2,,100940,,1611661317,62,52,0,4
+08:02,[LAS] N Ogwumike Rebound (Off:2 Def:11),145,99,4,,203014,,1611661320,62,52,0,4
+07:51,[LAS 55-62] Stevens 3pt Shot: Made (12 PTS) Assist: Henderson (2 AST),118,201,1,,1628922,1631089,1611661320,62,55,3,4
+07:31,[PHO 65-55] Taurasi 3pt Shot: Made (16 PTS) Assist: Jefferson (7 AST),-172,170,1,,100940,1627669,1611661317,65,55,3,4
+07:13,[LAS] Cooke Turnover : Lost Ball (2 TO) Steal:Jefferson (5 ST),155,194,5,1627669,1641660,,1611661320,65,55,0,4
+07:08,[PHO] Jefferson Pullup Jump shot: Missed,23,96,2,,1627669,,1611661317,65,55,0,4
+07:07,[PHO] Griner Rebound (Off:2 Def:4),23,96,4,,203398,,1611661317,65,55,0,4
+06:53,[PHO] Turner Pullup Jump shot: Missed,-50,139,2,,1629488,,1611661317,65,55,0,4
+06:50,[LAS] Burrell Rebound (Off:0 Def:2),-50,139,4,,1630996,,1611661320,65,55,0,4
+06:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,65,55,0,4
+06:42,[LAS] Cooke Substitution replaced by Thomas,0,-80,8,,1641660,202662,1611661320,65,55,0,4
+06:31,[LAS] Burrell 3pt Shot: Missed,200,115,2,,1630996,,1611661320,65,55,0,4
+06:26,[LAS] Henderson Rebound (Off:1 Def:1),200,115,4,,1631089,,1611661320,65,55,0,4
+06:19,[LAS] Stevens Pullup Jump shot: Missed,1,136,2,,1628922,,1611661320,65,55,0,4
+06:16,[PHO] Griner Rebound (Off:2 Def:5),1,136,4,,203398,,1611661317,65,55,0,4
+06:00,[PHO 67-55] Griner Layup Shot: Made (24 PTS) Assist: Taurasi (5 AST),-15,16,1,,203398,100940,1611661317,67,55,2,4
+06:00,[LAS] N Ogwumike Foul: Shooting (2 PF) (1 FTA),-22,5,6,203398,203014,200667,1611661320,67,55,0,4
+06:00,[PHO 68-55] Griner Free Throw 1 of 1 (25 PTS),0,-80,3,,203398,,1611661317,68,55,1,4
+05:48,[LAS] Henderson Layup Shot: Missed Block: Turner (3 BLK),32,8,2,1629488,1631089,,1611661320,68,55,0,4
+05:46,[LAS] N Ogwumike Rebound (Off:3 Def:11),32,8,4,,203014,,1611661320,68,55,0,4
+05:42,[LAS 57-68] N Ogwumike Putback Layup Shot: Made (14 PTS),33,1,1,,203014,,1611661320,68,57,2,4
+05:21,[PHO] Taurasi Turnover : Lost Ball (3 TO) Steal:Stevens (4 ST),82,181,5,1628922,100940,,1611661317,68,57,0,4
+05:14,[LAS] Burrell Layup Shot: Missed,38,7,2,,1630996,,1611661320,68,57,0,4
+05:10,[PHO] Griner Rebound (Off:2 Def:6),38,7,4,,203398,,1611661317,68,57,0,4
+04:48,[PHO] Cunningham 3pt Shot: Missed,-235,-23,2,,1629482,,1611661317,68,57,0,4
+04:45,[LAS] Stevens Rebound (Off:2 Def:5),-235,-23,4,,1628922,,1611661320,68,57,0,4
+04:42,[PHO] Cunningham Violation:Kicked Ball,0,-80,7,,1629482,,1611661317,68,57,0,4
+04:42,Timeout Officials,0,-80,9,,0,,0,68,57,0,4
+04:42,[LAS] Burrell Substitution replaced by Canada,0,-80,8,,1630996,1628886,1611661320,68,57,0,4
+04:28,[LAS 59-68] N Ogwumike Layup Shot: Made (16 PTS) Assist: Thomas (4 AST),15,6,1,,203014,202662,1611661320,68,59,2,4
+04:13,[LAS] Stevens Foul: Personal (4 PF),100,58,6,203398,1628922,1627539,1611661320,68,59,0,4
+04:03,[PHO] Griner Foul: Offensive (3 PF),60,51,6,203014,203398,203891,1611661317,68,59,0,4
+04:03,[PHO] Griner Turnover : Offensive Foul Turnover (3 TO),60,51,5,,203398,203891,1611661317,68,59,0,4
+03:53,[PHO] Griner Foul: Personal (4 PF),-21,112,6,202662,203398,1627539,1611661317,68,59,0,4
+03:39,[LAS 61-68] N Ogwumike Pullup Jump shot: Made (18 PTS) Assist: Canada (3 AST),73,-9,1,,203014,1628886,1611661320,68,61,2,4
+03:24,[PHO] Taurasi Foul: Offensive (4 PF),-13,235,6,1628886,100940,1627539,1611661317,68,61,0,4
+03:24,[PHO] Taurasi Turnover : Offensive Foul Turnover (4 TO),-13,235,5,,100940,1627539,1611661317,68,61,0,4
+03:24,[LAS] Team Timeout : Challenge,0,-80,9,,1611661320,,1611661320,68,61,0,4
+03:24,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661320,68,61,0,4
+03:15,[LAS 63-68] N Ogwumike Pullup Jump shot: Made (20 PTS),115,71,1,,203014,,1611661320,68,63,2,4
+02:59,[PHO 70-63] Taurasi Reverse Layup Shot: Made (18 PTS) Assist: Griner (2 AST),-27,-1,1,,100940,203398,1611661317,70,63,2,4
+02:41,[LAS 66-70] Canada 3pt Shot: Made (13 PTS),-150,179,1,,1628886,,1611661320,70,66,3,4
+02:23,[PHO 72-66] Griner Turnaround Jump Shot: Made (27 PTS) Assist: Jefferson (8 AST),-72,5,1,,203398,1627669,1611661317,72,66,2,4
+02:18,[PHO] Cunningham Foul: Personal (3 PF),-31,66,6,203014,1629482,200667,1611661317,72,66,0,4
+02:14,[LAS 69-72] Canada 3pt Shot: Made (16 PTS),18,236,1,,1628886,,1611661320,72,69,3,4
+01:49,[PHO] Jefferson Pullup Jump shot: Missed,50,113,2,,1627669,,1611661317,72,69,0,4
+01:47,[PHO] Griner Rebound (Off:3 Def:6),50,113,4,,203398,,1611661317,72,69,0,4
+01:35,[PHO] Team Turnover : Shot Clock Turnover,28,170,5,,0,203891,1611661317,72,69,0,4
+01:22,[LAS] Stevens 3pt Shot: Missed,19,238,2,,1628922,,1611661320,72,69,0,4
+01:21,[LAS] Stevens Rebound (Off:3 Def:5),19,238,4,,1628922,,1611661320,72,69,0,4
+01:21,[PHO] Cunningham Foul: Shooting (4 PF) (2 FTA),-7,54,6,1628922,1629482,1627539,1611661317,72,69,0,4
+01:21,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,72,69,0,4
+01:21,[LAS 70-72] Stevens Free Throw 1 of 2 (13 PTS),0,-80,3,,1628922,,1611661320,72,70,1,4
+01:21,[LAS] Stevens Free Throw 2 of 2 Missed,0,-80,3,,1628922,,1611661320,72,70,0,4
+01:21,[PHO] Taurasi Rebound (Off:0 Def:4),0,-80,4,,100940,,1611661317,72,70,0,4
+01:20,[PHO] Team Timeout : Short,0,-80,9,,1611661317,,1611661317,72,70,0,4
+01:02,[PHO] Griner Turnover : Lost Ball (4 TO) Steal:Henderson (1 ST),84,112,5,1631089,203398,,1611661317,72,70,0,4
+00:58.1,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,72,70,0,4
+00:58.1,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661317,72,70,0,4
+00:56.2,Challenge Jump Ball - Challenge Griner vs Stevens (Taurasi gains possession ),0,-80,10,1628922,203398,100940,1611661317,72,70,0,4
+00:45.8,[LAS] Stevens Foul: Shooting (5 PF) (2 FTA),-16,14,6,100940,1628922,1627539,1611661320,72,70,0,4
+00:45.8,[PHO 73-70] Taurasi Free Throw 1 of 2 (19 PTS),0,-80,3,,100940,,1611661317,73,70,1,4
+00:45.8,[PHO 74-70] Taurasi Free Throw 2 of 2 (20 PTS),0,-80,3,,100940,,1611661317,74,70,1,4
+00:45.8,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,74,70,0,4
+00:45.8,[LAS] Henderson Substitution replaced by Burrell,0,-80,8,,1631089,1630996,1611661320,74,70,0,4
+00:39.0,[LAS] Canada 3pt Shot: Missed,-155,188,2,,1628886,,1611661320,74,70,0,4
+00:36.1,[LAS] Team Rebound,-155,188,4,,0,,1611661320,74,70,0,4
+00:36.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,70,0,4
+00:31.0,[LAS] N Ogwumike Layup Shot: Missed,-55,-6,2,,203014,,1611661320,74,70,0,4
+00:29.2,[PHO] Griner Rebound (Off:3 Def:7),-55,-6,4,,203398,,1611661317,74,70,0,4
+00:21.0,[LAS] Canada Foul: Personal (5 PF) (2 FTA),163,310,6,100940,1628886,203891,1611661320,74,70,0,4
+00:21.0,[PHO 75-70] Taurasi Free Throw 1 of 2 (21 PTS),0,-80,3,,100940,,1611661317,75,70,1,4
+00:21.0,[PHO 76-70] Taurasi Free Throw 2 of 2 (22 PTS),0,-80,3,,100940,,1611661317,76,70,1,4
+00:21.0,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,76,70,0,4
+00:17.8,[LAS] Thomas 3pt Shot: Missed,-230,24,2,,202662,,1611661320,76,70,0,4
+00:15.1,[PHO] Griner Rebound (Off:3 Def:8),-230,24,4,,203398,,1611661317,76,70,0,4
+00:12.7,[LAS] Canada Foul: Personal (6 PF) (2 FTA),-52,847,6,203398,1628886,203891,1611661320,76,70,0,4
+00:12.7,[LAS] Canada Substitution replaced by Henderson,0,-80,8,,1628886,1631089,1611661320,76,70,0,4
+00:12.7,[PHO 77-70] Griner Free Throw 1 of 2 (28 PTS),0,-80,3,,203398,,1611661317,77,70,1,4
+00:12.7,[PHO 78-70] Griner Free Throw 2 of 2 (29 PTS),0,-80,3,,203398,,1611661317,78,70,1,4
+00:04.2,[LAS 72-78] Henderson Driving Layup Shot: Made (4 PTS),-5,-3,1,,1631089,,1611661320,78,72,2,4
+00:00.0,End Period,0,-80,13,,0,,0,78,72,0,4

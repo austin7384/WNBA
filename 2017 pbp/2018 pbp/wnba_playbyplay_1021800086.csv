@@ -1,0 +1,383 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Jones vs Achonwa (Thomas gains possession),0,-80,10,203831,1627673,202662,1611661323,0,0,1
+09:48,[CON 2-0] Thomas Driving Layup Shot: Made (2 PTS) Assist: Ogwumike (1 AST),-13,26,1,,202662,203823,1611661323,2,0,1
+09:48,[IND] Mitchell Foul: Shooting (1 PF) (1 FTA),-13,26,6,202662,1628909,,1611661325,2,0,1
+09:48,[CON 3-0] Thomas Free Throw 1 of 1 (3 PTS),0,-80,3,,202662,,1611661323,3,0,1
+09:32,[IND] Dupree Turnaround Jump Shot: Missed,106,48,2,203823,200676,,1611661325,3,0,1
+09:27,[CON] Williams Rebound (Off:0 Def:1),106,48,4,,1627675,,1611661323,3,0,1
+09:23,[CON] Thomas Jump Shot: Missed,47,38,2,,202662,,1611661323,3,0,1
+09:19,[CON] Jones Rebound (Off:1 Def:0),47,38,4,,1627673,,1611661323,3,0,1
+09:14,[CON 6-0] Stricklen 3pt Shot: Made (3 PTS),-224,43,1,,203015,,1611661323,6,0,1
+08:58,[IND] Mitchell Turnaround Jump Shot: Missed,-114,149,2,,1627676,,1611661325,6,0,1
+08:55,[CON] Jones Rebound (Off:1 Def:1),-114,149,4,,1627673,,1611661323,6,0,1
+08:40,[CON 9-0] Stricklen 3pt Shot: Made (6 PTS) Assist: Williams (1 AST),-192,160,1,,203015,1627675,1611661323,9,0,1
+08:32,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,9,0,1
+08:23,[IND] Dupree Pullup Jump shot: Missed,-55,133,2,,200676,,1611661325,9,0,1
+08:18,[CON] Ogwumike Rebound (Off:0 Def:1),-55,133,4,,203823,,1611661323,9,0,1
+08:08,[IND] Achonwa Foul: Shooting (1 PF) (2 FTA),-12,19,6,203823,203831,,1611661325,9,0,1
+08:08,[CON 10-0] Ogwumike Free Throw 1 of 2 (1 PTS),0,-80,3,,203823,,1611661323,10,0,1
+08:08,[CON 11-0] Ogwumike Free Throw 2 of 2 (2 PTS),0,-80,3,,203823,,1611661323,11,0,1
+07:50,[IND 3-11] Vivians 3pt Shot: Made (3 PTS) Assist: Dupree (1 AST),126,212,1,,1628927,200676,1611661325,11,3,1
+07:32,[CON 14-3] Jones 3pt Shot: Made (3 PTS) Assist: Thomas (1 AST),122,207,1,,1627673,202662,1611661323,14,3,1
+07:16,[IND] Vivians 3pt Shot: Missed,-230,27,2,,1628927,,1611661325,14,3,1
+07:13,[CON] Ogwumike Rebound (Off:0 Def:2),-230,27,4,,203823,,1611661323,14,3,1
+07:08,[IND] Vivians Foul: Shooting (1 PF) (2 FTA),121,5,6,1627675,1628927,,1611661325,14,3,1
+07:08,[CON] Williams Free Throw 1 of 2 Missed,0,-80,3,,1627675,,1611661323,14,3,1
+07:08,[CON] Team Rebound,0,-80,4,,0,,1611661323,14,3,1
+07:08,[CON] Williams Free Throw 2 of 2 Missed,0,-80,3,,1627675,,1611661323,14,3,1
+07:05,[IND] Vivians Rebound (Off:0 Def:1),0,-80,4,,1628927,,1611661325,14,3,1
+06:57,[IND 5-14] Dupree Driving Layup Shot: Made (2 PTS),-8,20,1,,200676,,1611661325,14,5,1
+06:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,5,1
+06:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,5,1
+06:32,[CON] Jones Turnaround Jump Shot: Missed,52,125,2,,1627673,,1611661323,14,5,1
+06:29,[IND] Achonwa Rebound (Off:0 Def:1),52,125,4,,203831,,1611661325,14,5,1
+06:19,[IND 7-14] Vivians Pullup Jump shot: Made (5 PTS),-89,178,1,,1628927,,1611661325,14,7,1
+06:08,[CON 16-7] Thomas Driving Layup Shot: Made (5 PTS),13,15,1,,202662,,1611661323,16,7,1
+05:59,[IND 10-16] Mitchell 3pt Shot: Made (3 PTS),59,229,1,,1628909,,1611661325,16,10,1
+05:44,[CON] Stricklen Jump Shot: Missed,27,199,2,,203015,,1611661323,16,10,1
+05:40,[CON] Ogwumike Rebound (Off:1 Def:2),27,199,4,,203823,,1611661323,16,10,1
+05:35,[CON 18-10] Williams Pullup Jump shot: Made (2 PTS),64,136,1,,1627675,,1611661323,18,10,1
+05:21,[IND] Achonwa Jump Shot: Missed,-155,33,2,,203831,,1611661325,18,10,1
+05:18,[CON] Ogwumike Rebound (Off:1 Def:3),-155,33,4,,203823,,1611661323,18,10,1
+05:12,[CON] Thomas Driving Layup Shot: Missed,25,16,2,,202662,,1611661323,18,10,1
+05:09,[IND] Achonwa Rebound (Off:0 Def:2),25,16,4,,203831,,1611661325,18,10,1
+05:03,[IND] Mitchell Turnover : Traveling (1 TO),-28,27,5,,1628909,,1611661325,18,10,1
+05:03,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1628909,204365,1611661325,18,10,1
+04:44,[CON] Jones Turnaround Jump Shot: Missed,-85,76,2,,1627673,,1611661323,18,10,1
+04:41,[IND] Vivians Rebound (Off:0 Def:2),-85,76,4,,1628927,,1611661325,18,10,1
+04:33,[IND] Dupree Turnover : Out of Bounds Lost Ball Turnover (1 TO),102,-21,5,,200676,,1611661325,18,10,1
+04:17,[CON 20-10] Ogwumike Driving Layup Shot: Made (4 PTS) Assist: Jones (1 AST),28,15,1,,203823,1627673,1611661323,20,10,1
+04:08,[CON] Williams Foul: Personal (1 PF),-49,25,6,1627676,1627675,,1611661323,20,10,1
+04:08,[IND] Mitchell Substitution replaced by Mitchell,0,-80,8,,1627676,1628909,1611661325,20,10,1
+03:57,[IND] Wheeler Running Layup Shot: Missed,-11,4,2,203823,204365,,1611661325,20,10,1
+03:51,[CON] Williams Rebound (Off:0 Def:2),-11,4,4,,1627675,,1611661323,20,10,1
+03:49,[CON] Jones Turnover : Traveling (1 TO),-3,28,5,,1627673,,1611661323,20,10,1
+03:33,[IND 12-20] Vivians Jump Shot: Made (7 PTS),119,87,1,,1628927,,1611661325,20,12,1
+03:17,[CON 23-12] Jones 3pt Shot: Made (6 PTS) Assist: Thomas (2 AST),-34,247,1,,1627673,202662,1611661323,23,12,1
+03:08,[CON] Thomas Foul: Personal (1 PF),-92,1,6,204365,202662,,1611661323,23,12,1
+03:08,[CON] Williams Substitution replaced by Bentley,0,-80,8,,1627675,203410,1611661323,23,12,1
+03:08,[CON] Ogwumike Substitution replaced by Tuck,0,-80,8,,203823,1627670,1611661323,23,12,1
+02:54,[IND] Vivians Pullup Jump shot: Missed,99,171,2,,1628927,,1611661325,23,12,1
+02:51,[CON] Thomas Rebound (Off:0 Def:1),57,202,4,,202662,,1611661323,23,12,1
+02:39,[CON 26-12] Jones 3pt Shot: Made (9 PTS) Assist: Bentley (1 AST),114,220,1,,1627673,203410,1611661323,26,12,1
+02:16,[IND] Mitchell Pullup Jump shot: Missed,121,41,2,,1628909,,1611661325,26,12,1
+02:14,[CON] Tuck Rebound (Off:0 Def:1),121,41,4,,1627670,,1611661323,26,12,1
+02:08,[CON 28-12] Bentley Jump Shot: Made (2 PTS) Assist: Thomas (3 AST),-152,96,1,,203410,202662,1611661323,28,12,1
+01:55,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,28,12,1
+01:55,[CON] Stricklen Substitution replaced by Banham,0,-80,8,,203015,1627671,1611661323,28,12,1
+01:55,[IND] Achonwa Substitution replaced by Alexander,0,-80,8,,203831,203405,1611661325,28,12,1
+01:44,[IND] Dupree Jump Shot: Missed,-137,63,2,,200676,,1611661325,28,12,1
+01:42,[IND] Alexander Rebound (Off:1 Def:0),-137,63,4,,203405,,1611661325,28,12,1
+01:41,[IND] Alexander Putback Layup Shot: Missed,10,53,2,,203405,,1611661325,28,12,1
+01:38,[CON] Jones Rebound (Off:1 Def:2),-142,36,4,,1627673,,1611661323,28,12,1
+01:34,[CON 30-12] Tuck Driving Layup Shot: Made (2 PTS) Assist: Banham (1 AST),0,16,1,,1627670,1627671,1611661323,30,12,1
+01:15,[IND] Mitchell 3pt Shot: Missed,116,214,2,,1628909,,1611661325,30,12,1
+01:10,[CON] Tuck Rebound (Off:0 Def:2),78,176,4,,1627670,,1611661323,30,12,1
+01:06,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Wheeler (1 ST),75,137,5,204365,202662,,1611661323,30,12,1
+00:52.0,[IND 14-30] Wheeler Pullup Jump shot: Made (2 PTS),46,155,1,,204365,,1611661325,30,14,1
+00:38.5,[CON] Banham 3pt Shot: Missed,-211,132,2,,1627671,,1611661323,30,14,1
+00:34.8,[IND] Dupree Rebound (Off:0 Def:1),-211,132,4,,200676,,1611661325,30,14,1
+00:21.2,[IND] Alexander Hook Shot: Missed,1,33,2,1627673,203405,,1611661325,30,14,1
+00:17.7,[CON] Thomas Rebound (Off:0 Def:2),1,33,4,,202662,,1611661323,30,14,1
+00:15.6,[IND] Vivians Foul: Personal (2 PF),-20,3,6,203410,1628927,,1611661325,30,14,1
+00:15.6,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,30,14,1
+00:15.6,[IND] Mitchell Substitution replaced by Mitchell,0,-80,8,,1628909,1627676,1611661325,30,14,1
+00:15.6,[IND] Dupree Substitution replaced by McCall,0,-80,8,,200676,1628286,1611661325,30,14,1
+00:15.6,[IND] Vivians Substitution replaced by Taylor,0,-80,8,,1628927,203859,1611661325,30,14,1
+00:00.0,[CON] Jones Jump Shot: Missed,-109,62,2,,1628280,,1611661323,30,14,1
+00:00.0,[CON] Team Rebound,-109,62,4,,0,,1611661323,30,14,1
+00:00.0,End Period,0,-80,13,,0,,0,30,14,1
+10:00,Start Period,0,-80,12,,0,,0,30,14,2
+09:53,[IND] Alexander Foul: Offensive Charge (1 PF),48,-21,6,1628280,203405,,1611661325,30,14,2
+09:53,[IND] Alexander Turnover : Offensive Foul Turnover (1 TO),48,-21,5,,203405,,1611661325,30,14,2
+09:34,[CON 32-14] Tuck Driving Layup Shot: Made (4 PTS) Assist: Thomas (4 AST),19,22,1,,1627670,202662,1611661323,32,14,2
+09:20,[IND 16-32] Alexander Jump Shot: Made (2 PTS) Assist: Wheeler (1 AST),152,59,1,,203405,204365,1611661325,32,16,2
+09:07,[CON 34-16] Banham Driving Layup Shot: Made (2 PTS),3,15,1,,1627671,,1611661323,34,16,2
+08:46,[IND] Alexander Jump Shot: Missed,143,16,2,,203405,,1611661325,34,16,2
+08:43,[CON] Jones Rebound (Off:0 Def:1),143,16,4,,1628280,,1611661323,34,16,2
+08:38,[CON] Banham 3pt Shot: Missed,-139,198,2,,1627671,,1611661323,34,16,2
+08:34,[IND] Alexander Rebound (Off:1 Def:1),-139,198,4,,203405,,1611661325,34,16,2
+08:31,[CON] Jones Foul: Shooting (1 PF) (2 FTA),-97,-6,6,1627676,1628280,,1611661323,34,16,2
+08:31,[IND 17-34] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,1627676,,1611661325,34,17,2
+08:31,[IND 18-34] Mitchell Free Throw 2 of 2 (2 PTS),0,-80,3,,1627676,,1611661325,34,18,2
+08:13,[CON] Thomas 3pt Shot: Missed,-235,9,2,,202662,,1611661323,34,18,2
+08:11,[IND] McCall Rebound (Off:0 Def:1),-162,21,4,,1628286,,1611661325,34,18,2
+08:08,[CON] Banham Foul: Shooting (1 PF) (2 FTA),121,16,6,203859,1627671,,1611661323,34,18,2
+08:08,[IND 19-34] Taylor Free Throw 1 of 2 (1 PTS),0,-80,3,,203859,,1611661325,34,19,2
+08:08,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,34,19,2
+08:08,[IND 20-34] Taylor Free Throw 2 of 2 (2 PTS),0,-80,3,,203859,,1611661325,34,20,2
+07:59,[CON] Jones Foul: Offensive Charge (2 PF),27,109,6,203859,1628280,,1611661323,34,20,2
+07:59,[CON] Jones Turnover : Offensive Foul Turnover (1 TO),27,109,5,,1628280,,1611661323,34,20,2
+07:59,[CON] Jones Substitution replaced by Ogwumike,0,-80,8,,1628280,203823,1611661323,34,20,2
+07:49,[IND 23-34] Mitchell 3pt Shot: Made (6 PTS),124,203,1,,1628909,,1611661325,34,23,2
+07:49,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,34,23,2
+07:38,[CON] Tuck 3pt Shot: Missed,-143,209,2,,1627670,,1611661323,34,23,2
+07:33,[IND] Taylor Rebound (Off:0 Def:1),-143,209,4,,203859,,1611661325,34,23,2
+07:20,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Bentley (1 ST),-97,52,5,203410,1627676,,1611661325,34,23,2
+07:13,[CON 36-23] Bentley Jump Shot: Made (4 PTS),2,167,1,,203410,,1611661323,36,23,2
+06:59,[CON] Banham Foul: Personal (2 PF),37,8,6,203859,1627671,,1611661323,36,23,2
+06:59,[CON] Banham Substitution replaced by Williams,0,-80,8,,1627671,1627675,1611661323,36,23,2
+06:59,[CON] Thomas Substitution replaced by Stricklen,0,-80,8,,202662,203015,1611661323,36,23,2
+06:59,[CON] Tuck Substitution replaced by Jones,0,-80,8,,1627670,1627673,1611661323,36,23,2
+06:52,[IND] Mitchell Turnover : Traveling (2 TO),-198,17,5,,1627676,,1611661325,36,23,2
+06:42,[IND] Alexander Foul: Shooting (2 PF) (2 FTA),24,26,6,203823,203405,,1611661325,36,23,2
+06:42,[CON 37-23] Ogwumike Free Throw 1 of 2 (5 PTS),0,-80,3,,203823,,1611661323,37,23,2
+06:42,[IND] Alexander Substitution replaced by Achonwa,0,-80,8,,203405,203831,1611661325,37,23,2
+06:42,[CON 38-23] Ogwumike Free Throw 2 of 2 (6 PTS),0,-80,3,,203823,,1611661323,38,23,2
+06:27,[IND 25-38] Mitchell Pullup Jump shot: Made (4 PTS) Assist: McCall (1 AST),134,40,1,,1627676,1628286,1611661325,38,25,2
+06:09,[CON 40-25] Ogwumike Cutting Layup Shot: Made (8 PTS) Assist: Jones (2 AST),22,11,1,,203823,1627673,1611661323,40,25,2
+05:48,[IND 27-40] McCall Jump Shot: Made (2 PTS) Assist: Mitchell (1 AST),-172,40,1,,1628286,1627676,1611661325,40,27,2
+05:35,[CON 43-27] Stricklen 3pt Shot: Made (9 PTS) Assist: Bentley (2 AST),-223,88,1,,203015,203410,1611661323,43,27,2
+05:25,[IND] Mitchell Turnover : Out of Bounds Lost Ball Turnover (2 TO),-165,43,5,,1628909,,1611661325,43,27,2
+05:25,[IND] McCall Substitution replaced by Dupree,0,-80,8,,1628286,200676,1611661325,43,27,2
+05:05,[CON 46-27] Stricklen 3pt Shot: Made (12 PTS) Assist: Williams (2 AST),-231,98,1,,203015,1627675,1611661323,46,27,2
+04:49,[CON] Bentley Foul: Personal (1 PF),-117,36,6,200676,203410,,1611661323,46,27,2
+04:42,[IND] Taylor Turnover : Lost Ball (1 TO) Steal:Ogwumike (1 ST),-25,22,5,203823,203859,,1611661325,46,27,2
+04:20,[CON] Ogwumike Turnover : Bad Pass (1 TO) Steal:Achonwa (1 ST),53,66,5,203831,203823,,1611661323,46,27,2
+04:16,[CON] Bentley Foul: Shooting (2 PF) (2 FTA),-13,20,6,1628909,203410,,1611661323,46,27,2
+04:16,[IND 28-46] Mitchell Free Throw 1 of 2 (7 PTS),0,-80,3,,1628909,,1611661325,46,28,2
+04:16,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1627676,1628927,1611661325,46,28,2
+04:16,[IND] Taylor Substitution replaced by Ben Abdelkader,0,-80,8,,203859,1628868,1611661325,46,28,2
+04:16,[IND 29-46] Mitchell Free Throw 2 of 2 (8 PTS),0,-80,3,,1628909,,1611661325,46,29,2
+04:01,[CON] Stricklen Floating Jump shot: Missed,-31,119,2,,203015,,1611661323,46,29,2
+03:57,[IND] Ben Abdelkader Rebound (Off:0 Def:1),-31,119,4,,1628868,,1611661325,46,29,2
+03:47,[IND] Ben Abdelkader Turnover : Out of Bounds Lost Ball Turnover (1 TO),109,-1,5,,1628868,,1611661325,46,29,2
+03:23,[CON 48-29] Jones Turnaround Fadeaway shot: Made (11 PTS),-170,55,1,,1627673,,1611661323,48,29,2
+03:05,[IND 31-48] Achonwa Cutting Layup Shot: Made (2 PTS) Assist: Vivians (1 AST),-11,15,1,,203831,1628927,1611661325,48,31,2
+02:52,[CON 50-31] Bentley Pullup Jump shot: Made (6 PTS),76,173,1,,203410,,1611661323,50,31,2
+02:34,[IND] Ben Abdelkader Turnover : Traveling (2 TO),97,16,5,,1628868,,1611661325,50,31,2
+02:34,Timeout Officials,0,-80,9,,0,,0,50,31,2
+02:34,[CON] Bentley Substitution replaced by Jones,0,-80,8,,203410,1628280,1611661323,50,31,2
+02:34,[CON] Jones Substitution replaced by Thomas,0,-80,8,,1627673,202662,1611661323,50,31,2
+02:13,[CON] Thomas Turnover : Out of Bounds Lost Ball Turnover (2 TO),92,-27,5,,202662,,1611661323,50,31,2
+02:01,[IND] Achonwa Jump Shot: Missed,79,162,2,,203831,,1611661325,50,31,2
+01:55,[CON] Ogwumike Rebound (Off:1 Def:4),79,162,4,,203823,,1611661323,50,31,2
+01:54,[IND] Achonwa Foul: Personal (2 PF),82,43,6,1628280,203831,,1611661325,50,31,2
+01:44,[CON] Williams Jump Shot: Missed,-112,39,2,,1627675,,1611661323,50,31,2
+01:41,[IND] Vivians Rebound (Off:0 Def:3),-112,39,4,,1628927,,1611661325,50,31,2
+01:34,[IND 34-50] Ben Abdelkader 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),196,142,1,,1628868,1628909,1611661325,50,34,2
+01:16,[IND] Achonwa Foul: Personal (3 PF) (2 FTA),-118,87,6,203823,203831,,1611661325,50,34,2
+01:16,[CON 51-34] Ogwumike Free Throw 1 of 2 (9 PTS),0,-80,3,,203823,,1611661323,51,34,2
+01:16,[IND] Achonwa Substitution replaced by Alexander,0,-80,8,,203831,203405,1611661325,51,34,2
+01:16,[CON 52-34] Ogwumike Free Throw 2 of 2 (10 PTS),0,-80,3,,203823,,1611661323,52,34,2
+00:58.3,[IND] Dupree Turnover : Bad Pass (2 TO) Steal:Thomas (1 ST),93,-21,5,202662,200676,,1611661325,52,34,2
+00:50.0,[CON] Thomas Jump Shot: Missed,14,151,2,,202662,,1611661323,52,34,2
+00:47.8,[IND] Vivians Rebound (Off:0 Def:4),14,151,4,,1628927,,1611661325,52,34,2
+00:43.1,[CON] Thomas Foul: Personal (2 PF) (2 FTA),-59,247,6,1628909,202662,,1611661323,52,34,2
+00:43.1,[IND 35-52] Mitchell Free Throw 1 of 2 (9 PTS),0,-80,3,,1628909,,1611661325,52,35,2
+00:43.1,[IND] Ben Abdelkader Substitution replaced by Mitchell,0,-80,8,,1628868,1627676,1611661325,52,35,2
+00:43.1,[IND] Vivians Substitution replaced by Taylor,0,-80,8,,1628927,203859,1611661325,52,35,2
+00:43.1,[IND 36-52] Mitchell Free Throw 2 of 2 (10 PTS),0,-80,3,,1628909,,1611661325,52,36,2
+00:26.7,[CON] Williams Turnover : Bad Pass (1 TO) Steal:Mitchell (1 ST),-101,128,5,1628909,1627675,,1611661323,52,36,2
+00:18.1,[IND] Taylor Foul: Offensive Charge (1 PF),48,113,6,203823,203859,,1611661325,52,36,2
+00:18.1,[IND] Taylor Turnover : Offensive Foul Turnover (2 TO),48,113,5,,203859,,1611661325,52,36,2
+00:00.0,[CON] Stricklen 3pt Shot: Missed,-36,292,2,,203015,,1611661323,52,36,2
+00:00.0,[CON] Team Rebound,-36,292,4,,0,,1611661323,52,36,2
+00:00.0,End Period,0,-80,13,,0,,0,52,36,2
+10:00,Start Period,0,-80,12,,0,,0,52,36,3
+09:46,[CON] Jones Foul: Shooting (1 PF) (2 FTA),-20,21,6,200676,1627673,,1611661323,52,36,3
+09:46,[IND 37-52] Dupree Free Throw 1 of 2 (3 PTS),0,-80,3,,200676,,1611661325,52,37,3
+09:46,[IND 38-52] Dupree Free Throw 2 of 2 (4 PTS),0,-80,3,,200676,,1611661325,52,38,3
+09:35,[CON 55-38] Jones 3pt Shot: Made (14 PTS) Assist: Thomas (5 AST),85,235,1,,1627673,202662,1611661323,55,38,3
+09:19,[IND 40-55] Dupree Jump Shot: Made (6 PTS) Assist: Vivians (2 AST),121,50,1,,200676,1628927,1611661325,55,40,3
+09:07,[CON] Stricklen Turnover : Bad Pass (1 TO) Steal:Vivians (1 ST),-133,79,5,1628927,203015,,1611661323,55,40,3
+09:02,[IND 42-55] Vivians Running Layup Shot: Made (9 PTS),9,11,1,,1628927,,1611661325,55,42,3
+08:50,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Mitchell (2 ST),135,5,5,1628909,202662,,1611661323,55,42,3
+08:45,[IND] Mitchell Running Layup Shot: Missed,21,22,2,,1628909,,1611661325,55,42,3
+08:41,[CON] Williams Rebound (Off:0 Def:3),21,22,4,,1627675,,1611661323,55,42,3
+08:37,[CON 58-42] Thomas 3pt Shot: Made (8 PTS) Assist: Williams (3 AST),191,144,1,,202662,1627675,1611661323,58,42,3
+08:16,[IND] Vivians 3pt Shot: Missed,-159,219,2,,1628927,,1611661325,58,42,3
+08:13,[CON] Thomas Rebound (Off:0 Def:3),-159,219,4,,202662,,1611661323,58,42,3
+08:03,[IND] Achonwa Foul: Personal (4 PF),84,4,6,1627673,203831,,1611661325,58,42,3
+08:03,[IND] Achonwa Substitution replaced by Alexander,0,-80,8,,203831,203405,1611661325,58,42,3
+07:55,[CON] Jones 3pt Shot: Missed,-202,135,2,,1627673,,1611661323,58,42,3
+07:54,[CON] Ogwumike Rebound (Off:2 Def:4),-202,135,4,,203823,,1611661323,58,42,3
+07:54,[CON 60-42] Ogwumike Putback Layup Shot: Made (12 PTS),0,3,1,,203823,,1611661323,60,42,3
+07:54,[IND] Dupree Foul: Shooting (1 PF) (1 FTA),0,3,6,203823,200676,,1611661325,60,42,3
+07:54,[CON 61-42] Ogwumike Free Throw 1 of 1 (13 PTS),0,-80,3,,203823,,1611661323,61,42,3
+07:40,[IND] Mitchell Driving Layup Shot: Missed,2,18,2,,1627676,,1611661325,61,42,3
+07:37,[CON] Thomas Rebound (Off:0 Def:4),2,18,4,,202662,,1611661323,61,42,3
+07:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,42,3
+07:30,[CON 63-42] Jones Reverse Layup Shot: Made (16 PTS) Assist: Thomas (6 AST),6,4,1,,1627673,202662,1611661323,63,42,3
+07:30,[IND] Alexander Foul: Shooting (3 PF) (1 FTA),6,4,6,1627673,203405,,1611661325,63,42,3
+07:30,[CON 64-42] Jones Free Throw 1 of 1 (17 PTS),0,-80,3,,1627673,,1611661323,64,42,3
+07:11,[IND 44-64] Mitchell Pullup Jump shot: Made (6 PTS),-153,9,1,,1627676,,1611661325,64,44,3
+06:52,[CON] Ogwumike Jump Shot: Missed,138,83,2,,203823,,1611661323,64,44,3
+06:49,[IND] Dupree Rebound (Off:0 Def:2),138,83,4,,200676,,1611661325,64,44,3
+06:39,[IND 46-64] Dupree Jump Shot: Made (8 PTS) Assist: Mitchell (2 AST),-54,129,1,,200676,1627676,1611661325,64,46,3
+06:25,[IND] Mitchell Foul: Shooting (1 PF) (3 FTA),-99,230,6,1627675,1627676,,1611661325,64,46,3
+06:25,[CON 65-46] Williams Free Throw 1 of 3 (3 PTS),0,-80,3,,1627675,,1611661323,65,46,3
+06:25,[CON 66-46] Williams Free Throw 2 of 3 (4 PTS),0,-80,3,,1627675,,1611661323,66,46,3
+06:25,[CON 67-46] Williams Free Throw 3 of 3 (5 PTS),0,-80,3,,1627675,,1611661323,67,46,3
+06:10,[IND] Mitchell 3pt Shot: Missed,136,209,2,,1627676,,1611661325,67,46,3
+06:09,[IND] Alexander Rebound (Off:2 Def:1),136,209,4,,203405,,1611661325,67,46,3
+06:07,[IND 48-67] Alexander Putback Layup Shot: Made (4 PTS),-22,27,1,,203405,,1611661325,67,48,3
+05:50,[CON 70-48] Williams 3pt Shot: Made (8 PTS) Assist: Jones (3 AST),-215,123,1,,1627675,1627673,1611661323,70,48,3
+05:41,[IND] Mitchell 3pt Shot: Missed,149,201,2,,1628909,,1611661325,70,48,3
+05:38,[CON] Stricklen Rebound (Off:0 Def:1),149,201,4,,203015,,1611661323,70,48,3
+05:25,[CON 72-48] Ogwumike Cutting Layup Shot: Made (15 PTS) Assist: Williams (4 AST),-11,1,1,,203823,1627675,1611661323,72,48,3
+05:25,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,72,48,3
+05:25,[CON] Ogwumike Substitution replaced by Tuck,0,-80,8,,203823,1627670,1611661323,72,48,3
+05:25,[IND] Mitchell Substitution replaced by Taylor,0,-80,8,,1628909,203859,1611661325,72,48,3
+05:25,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1627676,204365,1611661325,72,48,3
+05:25,[IND] Alexander Substitution replaced by McCall,0,-80,8,,203405,1628286,1611661325,72,48,3
+05:11,[IND 50-72] Dupree Driving Layup Shot: Made (10 PTS),33,34,1,,200676,,1611661325,72,50,3
+05:11,[CON] Jones Foul: Shooting (2 PF) (1 FTA),33,34,6,200676,1627673,,1611661323,72,50,3
+05:11,[IND 51-72] Dupree Free Throw 1 of 1 (11 PTS),0,-80,3,,200676,,1611661325,72,51,3
+04:59,[CON] Thomas Turnover : Bad Pass (4 TO) Steal:McCall (1 ST),26,148,5,1628286,202662,,1611661323,72,51,3
+04:49,[IND] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-106,-19,5,,204365,,1611661325,72,51,3
+04:34,[CON] Stricklen 3pt Shot: Missed,204,139,2,,203015,,1611661323,72,51,3
+04:30,[IND] Taylor Rebound (Off:0 Def:2),204,139,4,,203859,,1611661325,72,51,3
+04:09,[IND] Wheeler Driving Layup Shot: Missed,-7,26,2,,204365,,1611661325,72,51,3
+04:09,[IND] Wheeler Rebound (Off:1 Def:0),-7,26,4,,204365,,1611661325,72,51,3
+04:07,[IND 53-72] Wheeler Putback Layup Shot: Made (4 PTS),0,15,1,,204365,,1611661325,72,53,3
+03:52,[CON] Williams Driving Layup Shot: Missed,-16,17,2,1628286,1627675,,1611661323,72,53,3
+03:52,[CON] Team Rebound,-16,17,4,,0,,1611661323,72,53,3
+03:52,[CON] Stricklen Substitution replaced by Bentley,0,-80,8,,203015,203410,1611661323,72,53,3
+03:45,[CON] Thomas 3pt Shot: Missed,-222,41,2,,202662,,1611661323,72,53,3
+03:45,[IND] Dupree Rebound (Off:0 Def:3),-222,41,4,,200676,,1611661325,72,53,3
+03:22,[IND] McCall Layup Shot: Missed,-6,49,2,,1628286,,1611661325,72,53,3
+03:22,[IND] Team Rebound,-6,49,4,,0,,1611661325,72,53,3
+03:22,[CON] Tuck Foul: Personal (1 PF),-8,28,6,1628286,1627670,,1611661323,72,53,3
+03:22,[CON] Jones Substitution replaced by Ogwumike,0,-80,8,,1627673,203823,1611661323,72,53,3
+03:07,[IND 55-72] Wheeler Pullup Jump shot: Made (6 PTS),147,59,1,,204365,,1611661325,72,55,3
+03:04,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,72,55,3
+02:48,Jump Ball Vivians vs Williams (Vivians gains possession),0,-80,10,1627675,1628927,1628927,1611661325,72,55,3
+02:48,[CON] Williams Turnover : Lost Ball (2 TO) Steal:Vivians (2 ST),0,-80,5,1628927,1627675,,1611661323,72,55,3
+02:39,[IND 58-72] Vivians 3pt Shot: Made (12 PTS) Assist: Wheeler (2 AST),-104,233,1,,1628927,204365,1611661325,72,58,3
+02:22,[CON] Thomas Turnover : Bad Pass (5 TO) Steal:McCall (2 ST),108,122,5,1628286,202662,,1611661323,72,58,3
+02:19,[IND 60-72] McCall Running Layup Shot: Made (4 PTS),11,27,1,,1628286,,1611661325,72,60,3
+02:19,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,72,60,3
+02:19,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,72,60,3
+02:04,[CON] Ogwumike Turnover : Bad Pass (2 TO) Steal:Vivians (3 ST),-193,175,5,1628927,203823,,1611661323,72,60,3
+02:01,[IND] Vivians Turnover : Out of Bounds Lost Ball Turnover (1 TO),222,158,5,,1628927,,1611661325,72,60,3
+01:42,[CON] Banham Driving Floating Jump Shot: Missed,48,94,2,,1627671,,1611661323,72,60,3
+01:38,[IND] Vivians Rebound (Off:0 Def:5),48,94,4,,1628927,,1611661325,72,60,3
+01:31,[CON] Banham Foul: Personal (3 PF),-97,96,6,204365,1627671,,1611661323,72,60,3
+01:27,[IND 62-72] Taylor Cutting Layup Shot: Made (4 PTS) Assist: Dupree (2 AST),-12,27,1,,203859,200676,1611661325,72,62,3
+01:08,[CON 74-62] Ogwumike Driving Layup Shot: Made (17 PTS),-8,15,1,,203823,,1611661323,74,62,3
+00:57.7,[IND] Wheeler Pullup Jump shot: Missed,27,81,2,,204365,,1611661325,74,62,3
+00:53.4,[IND] McCall Rebound (Off:1 Def:1),27,81,4,,1628286,,1611661325,74,62,3
+00:51.4,[IND] McCall Pullup Jump shot: Missed,-150,59,2,,1628286,,1611661325,74,62,3
+00:49.6,[CON] Williams Rebound (Off:0 Def:4),-150,59,4,,1627675,,1611661323,74,62,3
+00:39.7,[CON] Bentley 3pt Shot: Missed,-2,235,2,,203410,,1611661323,74,62,3
+00:38.4,[IND] Wheeler Rebound (Off:1 Def:1),-2,235,4,,204365,,1611661325,74,62,3
+00:38.4,[CON] Williams Foul: Personal (2 PF) (2 FTA),2,601,6,204365,1627675,,1611661323,74,62,3
+00:38.4,[IND 63-74] Wheeler Free Throw 1 of 2 (7 PTS),0,-80,3,,204365,,1611661325,74,63,3
+00:38.4,[CON] Tuck Substitution replaced by Jones,0,-80,8,,1627670,1627673,1611661323,74,63,3
+00:38.4,[IND 64-74] Wheeler Free Throw 2 of 2 (8 PTS),0,-80,3,,204365,,1611661325,74,64,3
+00:27.2,[IND] McCall Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,1628286,,1611661325,74,64,3
+00:27.2,[CON 75-64] Bentley Free Throw Technical (7 PTS),0,-80,3,,203410,,1611661323,75,64,3
+00:23.8,[CON] Ogwumike Turnaround Jump Shot: Missed,145,35,2,,203823,,1611661323,75,64,3
+00:21.1,[CON] Jones Rebound (Off:2 Def:2),145,35,4,,1627673,,1611661323,75,64,3
+00:19.8,[CON] Jones Layup Shot: Missed,23,1,2,1628286,1627673,,1611661323,75,64,3
+00:19.8,[CON] Jones Rebound (Off:3 Def:2),23,1,4,,1627673,,1611661323,75,64,3
+00:15.7,[CON] Bentley 3pt Shot: Missed,53,236,2,,203410,,1611661323,75,64,3
+00:15.7,[CON] Jones Rebound (Off:4 Def:2),53,236,4,,1627673,,1611661323,75,64,3
+00:15.7,[IND] Wheeler Foul: Shooting (1 PF) (2 FTA),85,11,6,1627673,204365,,1611661325,75,64,3
+00:15.7,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,75,64,3
+00:15.7,[CON] Team Rebound,0,-80,4,,0,,1611661323,75,64,3
+00:15.7,[CON 76-64] Jones Free Throw 2 of 2 (18 PTS),0,-80,3,,1627673,,1611661323,76,64,3
+00:00.0,End Period,0,-80,13,,0,,0,76,64,3
+10:00,Start Period,0,-80,12,,0,,0,76,64,4
+09:44,[CON 78-64] Williams Driving Finger Roll Layup Shot: Made (10 PTS) Assist: Jones (4 AST),-2,19,1,,1627675,1627673,1611661323,78,64,4
+09:27,[CON] Ogwumike Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,203823,,1611661323,78,64,4
+09:27,[IND] Dupree Free Throw Technical Missed,0,-80,3,,200676,,1611661325,78,64,4
+09:27,[IND] Team Rebound,0,-80,4,,0,,1611661325,78,64,4
+09:21,[CON] Bentley Foul: Personal (3 PF),-215,129,6,203859,203410,,1611661323,78,64,4
+09:09,[IND 66-78] Dupree Turnaround Hook Shot: Made (13 PTS),-19,87,1,,200676,,1611661325,78,66,4
+08:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,78,66,4
+08:45,[CON 81-66] Banham 3pt Shot: Made (5 PTS) Assist: Ogwumike (2 AST),20,245,1,,1627671,203823,1611661323,81,66,4
+08:34,[IND] Taylor 3pt Shot: Missed,-113,232,2,,203859,,1611661325,81,66,4
+08:28,[IND] Dupree Rebound (Off:1 Def:3),-113,232,4,,200676,,1611661325,81,66,4
+08:20,[IND] Wheeler 3pt Shot: Missed,182,184,2,,204365,,1611661325,81,66,4
+08:18,[IND] Taylor Rebound (Off:1 Def:2),182,184,4,,203859,,1611661325,81,66,4
+08:16,[IND] Taylor Layup Shot: Missed,-15,21,2,,203859,,1611661325,81,66,4
+08:14,[CON] Ogwumike Rebound (Off:2 Def:5),-15,21,4,,203823,,1611661323,81,66,4
+08:07,[CON 83-66] Ogwumike Layup Shot: Made (19 PTS) Assist: Jones (5 AST),-17,8,1,,203823,1627673,1611661323,83,66,4
+07:50,[CON] Ogwumike Foul: Shooting (2 PF) (2 FTA),-1,39,6,200676,203823,,1611661323,83,66,4
+07:50,[IND 67-83] Dupree Free Throw 1 of 2 (14 PTS),0,-80,3,,200676,,1611661325,83,67,4
+07:50,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,83,67,4
+07:50,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1627676,1611661325,83,67,4
+07:50,[IND] McCall Substitution replaced by Achonwa,0,-80,8,,1628286,203831,1611661325,83,67,4
+07:50,[IND] Taylor Substitution replaced by Mitchell,0,-80,8,,203859,1628909,1611661325,83,67,4
+07:50,[IND] Dupree Free Throw 2 of 2 Missed,0,-80,3,,200676,,1611661325,83,67,4
+07:47,[IND] Achonwa Rebound (Off:1 Def:2),0,-80,4,,203831,,1611661325,83,67,4
+07:41,[IND] Vivians 3pt Shot: Missed,178,201,2,,1628927,,1611661325,83,67,4
+07:37,[CON] Ogwumike Rebound (Off:2 Def:6),178,201,4,,203823,,1611661323,83,67,4
+07:28,[CON 85-67] Jones Driving Layup Shot: Made (2 PTS),-13,15,1,,1628280,,1611661323,85,67,4
+07:14,[IND] Mitchell Running Layup Shot: Missed,7,7,2,,1628909,,1611661325,85,67,4
+07:12,[CON] Williams Rebound (Off:0 Def:5),7,7,4,,1627675,,1611661323,85,67,4
+07:02,[IND] Mitchell Foul: Shooting (2 PF) (2 FTA),-26,33,6,1627671,1628909,,1611661325,85,67,4
+07:02,[CON 86-67] Banham Free Throw 1 of 2 (6 PTS),0,-80,3,,1627671,,1611661323,86,67,4
+07:02,[CON 87-67] Banham Free Throw 2 of 2 (7 PTS),0,-80,3,,1627671,,1611661323,87,67,4
+06:42,[IND 70-87] Vivians 3pt Shot: Made (15 PTS) Assist: Mitchell (3 AST),-206,157,1,,1628927,1627676,1611661325,87,70,4
+06:29,[CON 89-70] Banham Cutting Layup Shot: Made (9 PTS) Assist: Ogwumike (3 AST),-9,15,1,,1627671,203823,1611661323,89,70,4
+06:17,[IND] Mitchell Jump Shot: Missed,-118,158,2,,1628909,,1611661325,89,70,4
+06:14,[CON] Ogwumike Rebound (Off:2 Def:7),-118,158,4,,203823,,1611661323,89,70,4
+06:02,[CON 91-70] Ogwumike Driving Layup Shot: Made (21 PTS),39,40,1,,203823,,1611661323,91,70,4
+05:51,[CON] Banham Foul: Personal (4 PF),-102,201,6,203831,1627671,,1611661323,91,70,4
+05:51,Timeout Officials,0,-80,9,,0,,0,91,70,4
+05:51,[CON] Banham Substitution replaced by Brown,0,-80,8,,1627671,1628882,1611661323,91,70,4
+05:51,[CON] Ogwumike Substitution replaced by Tuck,0,-80,8,,203823,1627670,1611661323,91,70,4
+05:43,[IND] Mitchell Pullup Jump shot: Missed,-18,137,2,,1627676,,1611661325,91,70,4
+05:40,[IND] Achonwa Rebound (Off:2 Def:2),-18,137,4,,203831,,1611661325,91,70,4
+05:30,[IND 73-91] Vivians 3pt Shot: Made (18 PTS) Assist: Mitchell (2 AST),202,153,1,,1628927,1628909,1611661325,91,73,4
+05:15,[CON] Williams Driving Floating Jump Shot: Missed,152,103,2,,1627675,,1611661323,91,73,4
+05:14,[IND] Achonwa Rebound (Off:2 Def:3),152,103,4,,203831,,1611661325,91,73,4
+05:14,[CON] Tuck Foul: Personal (2 PF),-119,807,6,203831,1627670,,1611661323,91,73,4
+04:59,[IND 76-91] Mitchell 3pt Shot: Made (13 PTS),-57,247,1,,1628909,,1611661325,91,76,4
+04:38,[CON] Bentley Pullup Jump shot: Missed,184,52,2,,203410,,1611661323,91,76,4
+04:34,[IND] Mitchell Rebound (Off:0 Def:1),184,52,4,,1628909,,1611661325,91,76,4
+04:24,[IND] Mitchell 3pt Shot: Missed,227,54,2,,1627676,,1611661325,91,76,4
+04:20,[IND] Dupree Rebound (Off:2 Def:3),227,54,4,,200676,,1611661325,91,76,4
+04:13,[IND] Achonwa Driving Floating Jump Shot: Missed,-171,71,2,,203831,,1611661325,91,76,4
+04:09,[IND] Achonwa Rebound (Off:3 Def:3),-171,71,4,,203831,,1611661325,91,76,4
+04:08,[IND] Achonwa Layup Shot: Missed,-12,11,2,1627670,203831,,1611661325,91,76,4
+04:05,[CON] Williams Rebound (Off:0 Def:6),-12,11,4,,1627675,,1611661323,91,76,4
+03:49,[CON] Williams Turnover : Lost Ball (3 TO) Steal:Achonwa (2 ST),97,33,5,203831,1627675,,1611661323,91,76,4
+03:42,[IND 78-91] Vivians Step Back Jump shot: Made (20 PTS),-151,125,1,,1628927,,1611661325,91,78,4
+03:41,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,91,78,4
+03:41,[CON] Jones Substitution replaced by Thomas,0,-80,8,,1628280,202662,1611661323,91,78,4
+03:41,[CON] Brown Substitution replaced by Jones,0,-80,8,,1628882,1627673,1611661323,91,78,4
+03:41,[CON] Tuck Substitution replaced by Ogwumike,0,-80,8,,1627670,203823,1611661323,91,78,4
+03:26,[IND] Vivians Foul: Personal (3 PF),79,236,6,202662,1628927,,1611661325,91,78,4
+03:13,[CON] Ogwumike Turnover : Out of Bounds Lost Ball Turnover (3 TO),86,3,5,,203823,,1611661323,91,78,4
+02:57,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,91,78,4
+02:54,Jump Ball Jones vs Achonwa (Thomas gains possession),0,-80,10,203831,1627673,202662,1611661323,91,78,4
+02:54,[IND] Mitchell Turnover : Lost Ball (3 TO) Steal:Jones (1 ST),0,-80,5,1627673,1627676,,1611661325,91,78,4
+02:49,[IND] Vivians Foul: Personal (4 PF),25,20,6,203823,1628927,,1611661325,91,78,4
+02:41,[CON] Thomas Pullup Jump shot: Missed,-16,143,2,,202662,,1611661323,91,78,4
+02:39,[CON] Jones Rebound (Off:5 Def:2),-16,143,4,,1627673,,1611661323,91,78,4
+02:39,[IND] Achonwa Foul: Shooting (5 PF),25,20,6,1627673,203831,,1611661325,91,78,4
+02:39,Instant Replay - Support Ruling,0,-80,18,,0,,0,91,78,4
+02:36,[CON] Williams Turnover : Out of Bounds Lost Ball Turnover (4 TO),146,-30,5,,1627675,,1611661323,91,78,4
+02:25,[CON] Williams Foul: Personal (3 PF) (2 FTA),145,85,6,1627676,1627675,,1611661323,91,78,4
+02:25,[IND 79-91] Mitchell Free Throw 1 of 2 (7 PTS),0,-80,3,,1627676,,1611661325,91,79,4
+02:25,[IND 80-91] Mitchell Free Throw 2 of 2 (8 PTS),0,-80,3,,1627676,,1611661325,91,80,4
+02:11,[CON 93-80] Bentley Driving Finger Roll Layup Shot: Made (9 PTS),-11,1,1,,203410,,1611661323,93,80,4
+01:54,[IND 82-93] Vivians Step Back Jump shot: Made (22 PTS),36,151,1,,1628927,,1611661325,93,82,4
+01:47,[IND] Mitchell Foul: Personal (3 PF) (2 FTA),-3,246,6,202662,1628909,,1611661325,93,82,4
+01:47,[CON 94-82] Thomas Free Throw 1 of 2 (9 PTS),0,-80,3,,202662,,1611661323,94,82,4
+01:47,[CON 95-82] Thomas Free Throw 2 of 2 (10 PTS),0,-80,3,,202662,,1611661323,95,82,4
+01:33,[IND] Achonwa Foul: Offensive Charge (6 PF),119,145,6,202662,203831,,1611661325,95,82,4
+01:33,[IND] Achonwa Turnover : Offensive Foul Turnover (1 TO),119,145,5,,203831,,1611661325,95,82,4
+01:33,[IND] Achonwa Substitution replaced by Alexander,0,-80,8,,203831,203405,1611661325,95,82,4
+01:33,[IND] Mitchell Substitution replaced by McCall,0,-80,8,,1627676,1628286,1611661325,95,82,4
+01:33,[IND] Dupree Substitution replaced by Ben Abdelkader,0,-80,8,,200676,1628868,1611661325,95,82,4
+01:21,[CON 98-82] Jones 3pt Shot: Made (21 PTS) Assist: Bentley (3 AST),168,181,1,,1627673,203410,1611661323,98,82,4
+01:15,[IND 84-98] Mitchell Running Jump Shot: Made (15 PTS),-37,113,1,,1628909,,1611661325,98,84,4
+01:15,[CON] Thomas Foul: Shooting (3 PF) (1 FTA),-37,113,6,1628909,202662,,1611661323,98,84,4
+01:15,[IND] Mitchell Free Throw 1 of 1 Missed,0,-80,3,,1628909,,1611661325,98,84,4
+01:13,[IND] McCall Rebound (Off:2 Def:1),0,-80,4,,1628286,,1611661325,98,84,4
+01:10,[IND] Mitchell 3pt Shot: Missed,-191,151,2,,1628909,,1611661325,98,84,4
+01:05,[CON] Ogwumike Rebound (Off:2 Def:8),-191,151,4,,203823,,1611661323,98,84,4
+01:05,[CON] Ogwumike Turnover : Out of Bounds Lost Ball Turnover (4 TO),218,120,5,,203823,,1611661323,98,84,4
+00:57.4,[IND 86-98] Alexander Jump Shot: Made (6 PTS) Assist: Vivians (3 AST),143,17,1,,203405,1628927,1611661325,98,86,4
+00:36.6,[CON] Thomas 3pt Shot: Missed,-166,173,2,,202662,,1611661323,98,86,4
+00:36.6,[CON] Bentley Rebound (Off:1 Def:0),-166,173,4,,203410,,1611661323,98,86,4
+00:19.7,[CON 101-86] Williams 3pt Shot: Made (13 PTS) Assist: Bentley (4 AST),-227,51,1,,1627675,203410,1611661323,101,86,4
+00:12.7,[IND 89-101] Vivians 3pt Shot: Made (25 PTS) Assist: Mitchell (3 AST),-190,161,1,,1628927,1628909,1611661325,101,89,4
+00:00.0,End Period,0,-80,13,,0,,0,101,89,4
+00:00.0,Game End,0,-80,0,,0,,0,101,89,4

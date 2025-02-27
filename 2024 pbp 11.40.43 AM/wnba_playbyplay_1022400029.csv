@@ -1,0 +1,423 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:58,Jump Ball Mack vs McCowan (Taurasi gains possession),0,-80,10,1629479,1630442,100940,1611661317,0,0,0,1
+09:50,[PHO] Copper Turnover : Bad Pass (1 TO) Steal:McCowan (1 ST),-96,211,5,1629479,1627674,,1611661317,0,0,0,1
+09:36,[DAL] Billings Turnover : Bad Pass (1 TO) Steal:Cloud (1 ST),27,68,5,204333,1628881,,1611661321,0,0,0,1
+09:29,[PHO 2-0] Cloud Running Pull-Up Jump Shot: Made (2 PTS),116,177,1,,204333,,1611661317,2,0,2,1
+09:10,[DAL] Siegrist 3pt Shot: Missed,-203,133,2,,1641652,,1611661321,2,0,0,1
+09:06,[PHO] Cloud Rebound (Off:0 Def:1),-203,133,4,,204333,,1611661317,2,0,0,1
+09:02,[PHO] Cloud Turnover : Bad Pass (1 TO) Steal:Uzun (1 ST),47,312,5,1642244,204333,,1611661317,2,0,0,1
+08:57,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,154,111,2,,1629481,,1611661321,2,0,0,1
+08:55,[PHO] Mack Rebound (Off:0 Def:1),154,111,4,,1630442,,1611661317,2,0,0,1
+08:52,[PHO 5-0] Copper 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),157,185,1,,1627674,204333,1611661317,5,0,3,1
+08:38,[DAL] Uzun 3pt Shot: Missed,-182,181,2,,1642244,,1611661321,5,0,0,1
+08:38,[PHO] Taurasi Rebound (Off:0 Def:1),-182,181,4,,100940,,1611661317,5,0,0,1
+08:30,[PHO] Copper Running Layup Shot: Missed,-17,26,2,,1627674,,1611661317,5,0,0,1
+08:26,[DAL] Billings Rebound (Off:0 Def:1),-17,26,4,,1628881,,1611661321,5,0,0,1
+08:17,[DAL 2-5] Billings Driving Layup Shot: Made (2 PTS) Assist: Uzun (1 AST),-13,47,1,,1628881,1642244,1611661321,5,2,2,1
+08:00,[PHO] Copper 3pt Shot: Missed,-133,211,2,,1627674,,1611661317,5,2,0,1
+07:57,[DAL] Siegrist Rebound (Off:0 Def:1),-133,211,4,,1641652,,1611661321,5,2,0,1
+07:46,[DAL] McCowan Driving Layup Shot: Missed Block: Mack (1 BLK),44,56,2,1630442,1629479,,1611661321,5,2,0,1
+07:45,[DAL] Team Rebound,44,56,4,,0,,1611661321,5,2,0,1
+07:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,2,0,1
+07:41,[DAL 4-5] Billings Driving Layup Shot: Made (4 PTS) Assist: Uzun (2 AST),-6,-6,1,,1628881,1642244,1611661321,5,4,2,1
+07:27,[PHO] Copper Pullup Jump shot: Missed,-10,182,2,,1627674,,1611661317,5,4,0,1
+07:25,[PHO] Team Rebound,-10,182,4,,0,,1611661317,5,4,0,1
+07:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,4,0,1
+07:20,[PHO 8-4] Taurasi 3pt Shot: Made (3 PTS) Assist: Cloud (2 AST),-216,88,1,,100940,204333,1611661317,8,4,3,1
+07:04,[PHO] Allen Foul: Personal (1 PF),18,31,6,1628881,204296,1630880,1611661317,8,4,0,1
+06:59,[DAL] Uzun Turnover : Bad Pass (1 TO) Steal:Mack (1 ST),-69,80,5,1630442,1642244,,1611661321,8,4,0,1
+06:57,[PHO] Taurasi Turnover : Bad Pass (1 TO) Steal:Siegrist (1 ST),34,737,5,1641652,100940,,1611661317,8,4,0,1
+06:52,[DAL 6-8] Siegrist Driving Layup Shot: Made (2 PTS),3,9,1,,1641652,,1611661321,8,6,2,1
+06:40,[PHO] Allen 3pt Shot: Missed,202,152,2,,204296,,1611661317,8,6,0,1
+06:36,[DAL] Ogunbowale Rebound (Off:0 Def:1),202,152,4,,1629481,,1611661321,8,6,0,1
+06:29,[DAL] Siegrist 3pt Shot: Missed,144,192,2,,1641652,,1611661321,8,6,0,1
+06:25,[PHO] Allen Rebound (Off:0 Def:1),144,192,4,,204296,,1611661317,8,6,0,1
+06:18,[PHO] Cloud 3pt Shot: Missed,-166,177,2,,204333,,1611661317,8,6,0,1
+06:15,[PHO] Team Rebound,-166,177,4,,0,,1611661317,8,6,0,1
+06:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,6,0,1
+06:08,[PHO] Taurasi 3pt Shot: Missed,100,247,2,,100940,,1611661317,8,6,0,1
+06:06,[DAL] Team Rebound,100,247,4,,0,,1611661321,8,6,0,1
+06:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,6,0,1
+05:55,[PHO] Mack Foul: Shooting (1 PF) (2 FTA),-39,37,6,1628881,1630442,100274,1611661317,8,6,0,1
+05:55,[DAL 7-8] Billings Free Throw 1 of 2 (5 PTS),0,-80,3,,1628881,,1611661321,8,7,1,1
+05:55,[DAL 8-8] Billings Free Throw 2 of 2 (6 PTS),0,-80,3,,1628881,,1611661321,8,8,1,1
+05:33,[PHO 11-8] Allen 3pt Shot: Made (3 PTS) Assist: Cloud (3 AST),234,-4,1,,204296,204333,1611661317,11,8,3,1
+05:23,[DAL] Uzun Pullup Jump shot: Missed,-124,27,2,,1642244,,1611661321,11,8,0,1
+05:19,[PHO] Copper Rebound (Off:0 Def:1),-124,27,4,,1627674,,1611661317,11,8,0,1
+05:08,[PHO] Taurasi 3pt Shot: Missed,-227,17,2,,100940,,1611661317,11,8,0,1
+05:05,[DAL] Uzun Rebound (Off:0 Def:1),-227,17,4,,1642244,,1611661321,11,8,0,1
+04:59,[DAL] Siegrist 3pt Shot: Missed,224,75,2,,1641652,,1611661321,11,8,0,1
+04:55,[DAL] Billings Rebound (Off:1 Def:1),224,75,4,,1628881,,1611661321,11,8,0,1
+04:53,[DAL 10-11] Billings Driving Layup Shot: Made (8 PTS),-2,1,1,,1628881,,1611661321,11,10,2,1
+04:39,[PHO] Allen Pullup Jump shot: Missed,22,182,2,,204296,,1611661317,11,10,0,1
+04:35,[DAL] Uzun Rebound (Off:0 Def:2),22,182,4,,1642244,,1611661321,11,10,0,1
+04:27,[DAL 12-11] McCowan Layup Shot: Made (2 PTS) Assist: Billings (1 AST),26,16,1,,1629479,1628881,1611661321,11,12,2,1
+04:14,[PHO] Cloud Turnover : Lost Ball (2 TO) Steal:Uzun (2 ST),-199,45,5,1642244,204333,,1611661317,11,12,0,1
+04:07,[DAL 14-11] Ogunbowale Running Layup Shot: Made (2 PTS),26,20,1,,1629481,,1611661321,11,14,2,1
+03:40,[PHO] Mack Turnaround Jump Shot: Missed,10,66,2,,1630442,,1611661317,11,14,0,1
+03:37,[DAL] Billings Rebound (Off:1 Def:2),10,66,4,,1628881,,1611661321,11,14,0,1
+03:23,[DAL 16-11] McCowan Cutting Layup Shot: Made (4 PTS) Assist: Ogunbowale (1 AST),20,19,1,,1629479,1629481,1611661321,11,16,2,1
+03:23,Timeout : Regular,0,-80,9,,1611661317,,1611661317,11,16,0,1
+03:23,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,11,16,0,1
+03:23,[PHO] Mack Substitution replaced by Cunningham,0,-80,8,,1630442,1629482,1611661317,11,16,0,1
+03:23,[PHO] Allen Substitution replaced by Dixon,0,-80,8,,204296,1641700,1611661317,11,16,0,1
+03:23,[DAL] Billings Substitution replaced by Soares,0,-80,8,,1628881,1641654,1611661321,11,16,0,1
+03:08,[PHO] Cunningham 3pt Shot: Missed,-193,179,2,,1629482,,1611661317,11,16,0,1
+03:05,[DAL] Ogunbowale Rebound (Off:0 Def:2),-193,179,4,,1629481,,1611661321,11,16,0,1
+03:03,[DAL] Ogunbowale 3pt Shot: Missed,89,221,2,,1629481,,1611661321,11,16,0,1
+03:00,[PHO] Sutton Rebound (Off:0 Def:1),89,221,4,,1630134,,1611661317,11,16,0,1
+02:54,[PHO] Cunningham 3pt Shot: Missed,-196,131,2,,1629482,,1611661317,11,16,0,1
+02:49,[DAL] Uzun Rebound (Off:0 Def:3),-196,131,4,,1642244,,1611661321,11,16,0,1
+02:33,[DAL 18-11] Soares Layup Shot: Made (2 PTS) Assist: McCowan (1 AST),31,10,1,,1641654,1629479,1611661321,11,18,2,1
+02:13,[PHO 14-18] Copper 3pt Shot: Made (6 PTS) Assist: Cunningham (1 AST),-206,115,1,,1627674,1629482,1611661317,14,18,3,1
+01:51,[DAL] McCowan Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-136,115,5,,1629479,100274,1611661321,14,18,0,1
+01:36,[PHO] Sutton Driving Layup Shot: Missed,-32,29,2,,1630134,,1611661317,14,18,0,1
+01:35,[DAL] McCowan Rebound (Off:0 Def:1),-32,29,4,,1629479,,1611661321,14,18,0,1
+01:28,[DAL 21-14] Siegrist 3pt Shot: Made (5 PTS) Assist: Soares (1 AST),-235,37,1,,1641652,1641654,1611661321,14,21,3,1
+01:08,[PHO] Sutton 3pt Shot: Missed,108,231,2,,1630134,,1611661317,14,21,0,1
+01:05,[PHO] Team Rebound,108,231,4,,0,,1611661317,14,21,0,1
+01:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,21,0,1
+01:05,[DAL] Ogunbowale Substitution replaced by Sheldon,0,-80,8,,1629481,1642292,1611661321,14,21,0,1
+00:56.7,[PHO] Sutton Turnover : Traveling (1 TO),-194,145,5,,1630134,100274,1611661317,14,21,0,1
+00:41.5,[DAL] McCowan Layup Shot: Missed Block: Dixon (1 BLK),-50,17,2,1641700,1629479,,1611661321,14,21,0,1
+00:41.5,[DAL] McCowan Rebound (Off:1 Def:1),-50,17,4,,1629479,,1611661321,14,21,0,1
+00:41.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,21,0,1
+00:41.5,[PHO] Copper Substitution replaced by Bertsch,0,-80,8,,1627674,1629571,1611661317,14,21,0,1
+00:41.5,[DAL] McCowan Turnover : Step Out of Bounds Turnover (2 TO),-7,-30,5,,1629479,100274,1611661321,14,21,0,1
+00:29.3,[PHO] Cunningham Turnover : Double Dribble (1 TO),-128,289,5,,1629482,1628168,1611661317,14,21,0,1
+00:13.7,[DAL] Uzun Turnover : Lost Ball (2 TO) Steal:Cloud (2 ST),72,151,5,204333,1642244,,1611661321,14,21,0,1
+00:00.0,[PHO] Sutton 3pt Shot: Missed,-160,248,2,,1630134,,1611661317,14,21,0,1
+00:00.0,[PHO] Team Rebound,-160,248,4,,0,,1611661317,14,21,0,1
+00:00.0,End Period,0,-80,13,,0,,0,14,21,0,1
+10:00,Start Period,0,-80,12,,0,,0,14,21,0,2
+09:40,[DAL] Ogunbowale 3pt Shot: Missed,163,209,2,,1629481,,1611661321,14,21,0,2
+09:36,[PHO] Herbert Harrigan Rebound (Off:0 Def:1),163,209,4,,1630114,,1611661317,14,21,0,2
+09:27,[PHO] Sutton Turnover : Out of Bounds Lost Ball Turnover (2 TO),-154,243,5,,1630134,1628168,1611661317,14,21,0,2
+09:05,[DAL 24-14] Ogunbowale 3pt Shot: Made (5 PTS) Assist: Brown (1 AST),-60,230,1,,1629481,1629480,1611661321,14,24,3,2
+08:51,[PHO] Bertsch Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-115,262,5,,1629571,1628168,1611661317,14,24,0,2
+08:51,[PHO] Bertsch Substitution replaced by Taurasi,0,-80,8,,1629571,100940,1611661317,14,24,0,2
+08:41,[DAL 26-14] Brown Jump Shot: Made (2 PTS) Assist: Siegrist (1 AST),60,95,1,,1629480,1641652,1611661321,14,26,2,2
+08:34,[DAL] Billings Foul: Personal (1 PF),-23,819,6,1630134,1628881,1628168,1611661321,14,26,0,2
+08:34,[PHO] Herbert Harrigan Substitution replaced by Mack,0,-80,8,,1630114,1630442,1611661317,14,26,0,2
+08:20,[PHO] Mack Layup Shot: Missed Block: Billings (1 BLK),22,49,2,1628881,1630442,,1611661317,14,26,0,2
+08:17,[DAL] Sheldon Rebound (Off:0 Def:1),22,49,4,,1642292,,1611661321,14,26,0,2
+08:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,26,0,2
+08:09,[DAL 29-14] Sheldon 3pt Shot: Made (3 PTS) Assist: Siegrist (2 AST),-236,-2,1,,1642292,1641652,1611661321,14,29,3,2
+08:08,Timeout : Regular,0,-80,9,,1611661317,,1611661317,14,29,0,2
+07:49,[PHO 16-29] Taurasi Pullup Jump shot: Made (5 PTS) Assist: Mack (1 AST),-108,165,1,,100940,1630442,1611661317,16,29,2,2
+07:25,[PHO] Allen Foul: Shooting (2 PF) (2 FTA),50,62,6,1629481,204296,100274,1611661317,16,29,0,2
+07:25,[DAL 30-16] Ogunbowale Free Throw 1 of 2 (6 PTS),0,-80,3,,1629481,,1611661321,16,30,1,2
+07:25,[PHO] Sutton Substitution replaced by Copper,0,-80,8,,1630134,1627674,1611661317,16,30,0,2
+07:25,[PHO] Allen Substitution replaced by Cloud,0,-80,8,,204296,204333,1611661317,16,30,0,2
+07:25,[DAL 31-16] Ogunbowale Free Throw 2 of 2 (7 PTS),0,-80,3,,1629481,,1611661321,16,31,1,2
+07:10,[PHO] Mack Turnover : Bad Pass (1 TO) Steal:Brown (1 ST),-68,49,5,1629480,1630442,,1611661317,16,31,0,2
+07:06,[DAL] Brown Running Layup Shot: Missed Block: Mack (2 BLK),22,15,2,1630442,1629480,,1611661321,16,31,0,2
+07:06,[PHO] Cunningham Rebound (Off:0 Def:1),22,15,4,,1629482,,1611661317,16,31,0,2
+07:03,[PHO] Cunningham Turnover : Lost Ball (2 TO) Steal:Ogunbowale (1 ST),-138,659,5,1629481,1629482,,1611661317,16,31,0,2
+06:56,[DAL] Billings Running Layup Shot: Missed,-2,17,2,,1628881,,1611661321,16,31,0,2
+06:55,[DAL] Siegrist Rebound (Off:1 Def:1),-2,17,4,,1641652,,1611661321,16,31,0,2
+06:53,[DAL 33-16] Siegrist Putback Layup Shot: Made (7 PTS),-11,16,1,,1641652,,1611661321,16,33,2,2
+06:38,[PHO 18-33] Copper Cutting Layup Shot: Made (8 PTS) Assist: Taurasi (1 AST),1,12,1,,1627674,100940,1611661317,18,33,2,2
+06:23,[DAL 35-18] Brown Jump Shot: Made (4 PTS) Assist: Sheldon (1 AST),-67,155,1,,1629480,1642292,1611661321,18,35,2,2
+06:06,[PHO] Copper Driving Layup Shot: Missed,18,31,2,,1627674,,1611661317,18,35,0,2
+06:06,[DAL] Team Rebound,18,31,4,,0,,1611661321,18,35,0,2
+06:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,35,0,2
+06:06,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,18,35,0,2
+05:54,[PHO] Dixon Foul: Shooting (1 PF) (2 FTA),-7,11,6,1628881,1641700,1630880,1611661317,18,35,0,2
+05:54,[DAL 36-18] Billings Free Throw 1 of 2 (9 PTS),0,-80,3,,1628881,,1611661321,18,36,1,2
+05:54,[DAL 37-18] Billings Free Throw 2 of 2 (10 PTS),0,-80,3,,1628881,,1611661321,18,37,1,2
+05:43,[PHO 21-37] Taurasi 3pt Shot: Made (8 PTS) Assist: Copper (1 AST),-88,238,1,,100940,1627674,1611661317,21,37,3,2
+05:23,[DAL 40-21] Sheldon 3pt Shot: Made (6 PTS) Assist: Ogunbowale (2 AST),-236,49,1,,1642292,1629481,1611661321,21,40,3,2
+05:11,[PHO 24-40] Cunningham 3pt Shot: Made (3 PTS) Assist: Cloud (4 AST),81,238,1,,1629482,204333,1611661317,24,40,3,2
+04:45,[DAL 43-24] Ogunbowale 3pt Shot: Made (10 PTS) Assist: Siegrist (3 AST),-206,119,1,,1629481,1641652,1611661321,24,43,3,2
+04:30,[PHO 27-43] Taurasi 3pt Shot: Made (11 PTS) Assist: Copper (2 AST),22,260,1,,100940,1627674,1611661317,27,43,3,2
+04:15,[DAL] Billings Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-155,186,5,,1628881,1628168,1611661321,27,43,0,2
+04:15,[PHO] Cunningham Substitution replaced by Allen,0,-80,8,,1629482,204296,1611661317,27,43,0,2
+04:15,[DAL] Siegrist Substitution replaced by Uzun,0,-80,8,,1641652,1642244,1611661321,27,43,0,2
+04:03,[PHO] Dixon Cutting Layup Shot: Missed Block: Billings (2 BLK),8,35,2,1628881,1641700,,1611661317,27,43,0,2
+03:52,[DAL] Ogunbowale Rebound (Off:0 Def:3),8,35,4,,1629481,,1611661321,27,43,0,2
+03:50,[DAL 46-27] Ogunbowale 3pt Shot: Made (13 PTS),-100,236,1,,1629481,,1611661321,27,46,3,2
+03:40,[PHO 29-46] Allen Cutting Layup Shot: Made (5 PTS) Assist: Cloud (5 AST),2,21,1,,204296,204333,1611661317,29,46,2,2
+03:29,[DAL] Sheldon Turnover : Step Out of Bounds Turnover (1 TO),-236,42,5,,1642292,1630880,1611661321,29,46,0,2
+03:29,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,29,46,0,2
+03:18,[DAL] Sheldon Foul: Shooting (1 PF) (2 FTA),71,29,6,1627674,1642292,1630880,1611661321,29,46,0,2
+03:18,[PHO 30-46] Copper Free Throw 1 of 2 (9 PTS),0,-80,3,,1627674,,1611661317,30,46,1,2
+03:18,[PHO 31-46] Copper Free Throw 2 of 2 (10 PTS),0,-80,3,,1627674,,1611661317,31,46,1,2
+03:08,[DAL] Billings Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-44,132,5,,1628881,1628168,1611661321,31,46,0,2
+02:57,[PHO] Taurasi 3pt Shot: Missed,-13,250,2,,100940,,1611661317,31,46,0,2
+02:56,[DAL] Team Rebound,-13,250,4,,0,,1611661321,31,46,0,2
+02:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,46,0,2
+02:56,Timeout : Official,0,-80,9,,0,,0,31,46,0,2
+02:43,[PHO] Cloud Violation:Kicked Ball,0,-80,7,,204333,,1611661317,31,46,0,2
+02:41,[DAL] McCowan Foul: Offensive (1 PF),-34,253,6,1627674,1629479,1630880,1611661321,31,46,0,2
+02:41,[DAL] McCowan Turnover : Offensive Foul Turnover (3 TO),-34,253,5,,1629479,1630880,1611661321,31,46,0,2
+02:24,[PHO 33-46] Taurasi Driving Layup Shot: Made (13 PTS) Assist: Dixon (1 AST),-33,19,1,,100940,1641700,1611661317,33,46,2,2
+02:03,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-90,73,2,,1629481,,1611661321,33,46,0,2
+01:59,[DAL] McCowan Rebound (Off:2 Def:1),-90,73,4,,1629479,,1611661321,33,46,0,2
+01:59,[PHO] Allen Foul: Personal (3 PF),94,21,6,1628881,204296,1628168,1611661317,33,46,0,2
+01:59,[DAL] Sheldon Substitution replaced by Siegrist,0,-80,8,,1642292,1641652,1611661321,33,46,0,2
+01:59,[PHO] Allen Substitution replaced by Cunningham,0,-80,8,,204296,1629482,1611661317,33,46,0,2
+01:48,[DAL 48-33] Siegrist Driving Floating Jump Shot: Made (9 PTS) Assist: McCowan (2 AST),-5,52,1,,1641652,1629479,1611661321,33,48,2,2
+01:48,[PHO] Cunningham Foul: Shooting (1 PF) (1 FTA),-6,40,6,1641652,1629482,100274,1611661317,33,48,0,2
+01:48,[DAL] Siegrist Free Throw 1 of 1 Missed,0,-80,3,,1641652,,1611661321,33,48,0,2
+01:45,[PHO] Cloud Rebound (Off:0 Def:2),0,-80,4,,204333,,1611661317,33,48,0,2
+01:32,[PHO] Dixon Turnover : Bad Pass (1 TO) Steal:Ogunbowale (2 ST),-87,99,5,1629481,1641700,,1611661317,33,48,0,2
+01:30,[PHO] Cloud Foul: Shooting (1 PF) (2 FTA),135,35,6,1629481,204333,1630880,1611661317,33,48,0,2
+01:30,[DAL 49-33] Ogunbowale Free Throw 1 of 2 (14 PTS),0,-80,3,,1629481,,1611661321,33,49,1,2
+01:30,[PHO] Dixon Substitution replaced by Mack,0,-80,8,,1641700,1630442,1611661317,33,49,0,2
+01:30,[DAL 50-33] Ogunbowale Free Throw 2 of 2 (15 PTS),0,-80,3,,1629481,,1611661321,33,50,1,2
+01:16,[PHO] Taurasi Driving Layup Shot: Missed Block: Billings (3 BLK),-11,40,2,1628881,100940,,1611661317,33,50,0,2
+01:16,[DAL] Ogunbowale Rebound (Off:0 Def:4),-11,40,4,,1629481,,1611661321,33,50,0,2
+01:16,[DAL] Ogunbowale Turnover : Bad Pass (1 TO) Steal:Cloud (3 ST),134,487,5,204333,1629481,,1611661321,33,50,0,2
+01:12,[DAL] Ogunbowale Foul: Personal (1 PF),74,360,6,204333,1629481,1628168,1611661321,33,50,0,2
+00:57.8,[PHO 35-50] Copper Driving Layup Shot: Made (12 PTS) Assist: Mack (2 AST),5,6,1,,1627674,1630442,1611661317,35,50,2,2
+00:36.3,[DAL 52-35] Billings Cutting Layup Shot: Made (12 PTS) Assist: Siegrist (4 AST),24,15,1,,1628881,1641652,1611661321,35,52,2,2
+00:18.3,[PHO] Cloud Step Back Jump shot: Missed,-113,134,2,,204333,,1611661317,35,52,0,2
+00:15.9,[DAL] Ogunbowale Rebound (Off:0 Def:5),-113,134,4,,1629481,,1611661321,35,52,0,2
+00:02.5,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-105,119,2,,1629481,,1611661321,35,52,0,2
+00:02.5,[DAL] Team Rebound,-105,119,4,,0,,1611661321,35,52,0,2
+00:00.0,End Period,0,-80,13,,0,,0,35,52,0,2
+10:00,Start Period,0,-80,12,,0,,0,35,52,0,3
+09:38,[DAL] Siegrist Driving Floating Jump Shot: Missed,-4,114,2,,1641652,,1611661321,35,52,0,3
+09:37,[DAL] Team Rebound,-4,114,4,,0,,1611661321,35,52,0,3
+09:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,52,0,3
+09:27,[DAL 55-35] Ogunbowale 3pt Shot: Made (18 PTS),125,212,1,,1629481,,1611661321,35,55,3,3
+09:13,[PHO] Copper Turnover : Bad Pass (2 TO) Steal:Siegrist (2 ST),-105,273,5,1641652,1627674,,1611661317,35,55,0,3
+09:08,[DAL] Siegrist Running Layup Shot: Missed,41,18,2,,1641652,,1611661321,35,55,0,3
+09:07,[DAL] Siegrist Rebound (Off:2 Def:1),41,18,4,,1641652,,1611661321,35,55,0,3
+09:06,[DAL] Siegrist Putback Layup Shot: Missed Block: Mack (3 BLK),26,17,2,1630442,1641652,,1611661321,35,55,0,3
+09:02,[DAL] Siegrist Rebound (Off:3 Def:1),26,17,4,,1641652,,1611661321,35,55,0,3
+09:02,[DAL 57-35] Siegrist Putback Layup Shot: Made (11 PTS),18,19,1,,1641652,,1611661321,35,57,2,3
+08:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,57,0,3
+08:51,[PHO] Taurasi Jump Shot: Missed,115,154,2,,100940,,1611661317,35,57,0,3
+08:46,[PHO] Allen Rebound (Off:1 Def:1),115,154,4,,204296,,1611661317,35,57,0,3
+08:44,[PHO 38-57] Taurasi 3pt Shot: Made (16 PTS) Assist: Allen (1 AST),120,262,1,,100940,204296,1611661317,38,57,3,3
+08:28,[DAL] McCowan Jump Shot: Missed,-40,161,2,,1629479,,1611661321,38,57,0,3
+08:25,[PHO] Team Rebound,-40,161,4,,0,,1611661317,38,57,0,3
+08:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,57,0,3
+08:20,[DAL] Siegrist Foul: Personal (1 PF),173,193,6,100940,1641652,100274,1611661321,38,57,0,3
+08:16,[PHO 40-57] Copper Pullup Jump shot: Made (14 PTS) Assist: Cloud (6 AST),35,91,1,,1627674,204333,1611661317,40,57,2,3
+07:56,[DAL 60-40] Ogunbowale 3pt Shot: Made (21 PTS) Assist: McCowan (3 AST),-137,215,1,,1629481,1629479,1611661321,40,60,3,3
+07:42,[PHO] Cloud 3pt Shot: Missed,-81,224,2,,204333,,1611661317,40,60,0,3
+07:42,[PHO] Allen Rebound (Off:2 Def:1),-81,224,4,,204296,,1611661317,40,60,0,3
+07:37,[PHO] Allen Turnover : Bad Pass (1 TO) Steal:Ogunbowale (3 ST),18,70,5,1629481,204296,,1611661317,40,60,0,3
+07:33,[DAL] Ogunbowale Running Layup Shot: Missed,-1,13,2,,1629481,,1611661321,40,60,0,3
+07:32,[DAL] Siegrist Rebound (Off:4 Def:1),-1,13,4,,1641652,,1611661321,40,60,0,3
+07:32,[DAL 62-40] Siegrist Putback Layup Shot: Made (13 PTS),-6,10,1,,1641652,,1611661321,40,62,2,3
+07:32,Timeout : Regular,0,-80,9,,1611661317,,1611661317,40,62,0,3
+07:17,[PHO 43-62] Taurasi 3pt Shot: Made (19 PTS) Assist: Mack (3 AST),-229,-6,1,,100940,1630442,1611661317,43,62,3,3
+06:58,[DAL 64-43] McCowan Cutting Layup Shot: Made (6 PTS) Assist: Uzun (3 AST),16,23,1,,1629479,1642244,1611661321,43,64,2,3
+06:58,[PHO] Cloud Foul: Shooting (2 PF) (1 FTA),6,8,6,1629479,204333,100274,1611661317,43,64,0,3
+06:58,Timeout : Regular,0,-80,9,,1611661317,,1611661317,43,64,0,3
+06:58,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,43,64,0,3
+06:58,[PHO] Allen Substitution replaced by Cunningham,0,-80,8,,204296,1629482,1611661317,43,64,0,3
+06:58,[DAL 65-43] McCowan Free Throw 1 of 1 (7 PTS),0,-80,3,,1629479,,1611661321,43,65,1,3
+06:52,[PHO] Cloud Turnover : Out of Bounds - Bad Pass Turnover (3 TO),173,210,5,,204333,,1611661317,43,65,0,3
+06:44,[DAL 67-43] Uzun Pullup Jump shot: Made (2 PTS),-138,31,1,,1642244,,1611661321,43,67,2,3
+06:33,[PHO 46-67] Taurasi 3pt Shot: Made (22 PTS) Assist: Cloud (7 AST),-15,244,1,,100940,204333,1611661317,46,67,3,3
+06:17,[DAL] McCowan Jump Shot: Missed,-21,182,2,,1629479,,1611661321,46,67,0,3
+06:13,[PHO] Cunningham Rebound (Off:0 Def:2),-21,182,4,,1629482,,1611661317,46,67,0,3
+06:08,[PHO 48-67] Cloud Pullup Jump shot: Made (4 PTS) Assist: Cunningham (2 AST),-12,49,1,,204333,1629482,1611661317,48,67,2,3
+06:08,[DAL] Uzun Foul: Shooting (1 PF) (1 FTA),-7,47,6,204333,1642244,100274,1611661321,48,67,0,3
+06:08,[PHO 49-67] Cloud Free Throw 1 of 1 (5 PTS),0,-80,3,,204333,,1611661317,49,67,1,3
+06:00,[DAL] Uzun Turnover : Bad Pass (3 TO) Steal:Copper (1 ST),151,591,5,1627674,1642244,,1611661321,49,67,0,3
+05:56,[PHO 51-67] Copper Running Pull-Up Jump Shot: Made (16 PTS),-7,156,1,,1627674,,1611661317,51,67,2,3
+05:55,Timeout : Regular,0,-80,9,,1611661321,,1611661321,51,67,0,3
+05:55,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,51,67,0,3
+05:55,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,51,67,0,3
+05:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,67,0,3
+05:41,[DAL] Ogunbowale 3pt Shot: Missed,-50,289,2,,1629481,,1611661321,51,67,0,3
+05:37,[DAL] Billings Rebound (Off:2 Def:2),-50,289,4,,1628881,,1611661321,51,67,0,3
+05:36,[DAL] Billings Putback Layup Shot: Missed,5,11,2,,1628881,,1611661321,51,67,0,3
+05:34,[DAL] Billings Rebound (Off:3 Def:2),5,11,4,,1628881,,1611661321,51,67,0,3
+05:33,[DAL 69-51] Siegrist Floating Jump shot: Made (15 PTS),-1,65,1,,1641652,,1611661321,51,69,2,3
+05:22,[PHO] Copper Driving Layup Shot: Missed,31,10,2,,1627674,,1611661317,51,69,0,3
+05:22,[DAL] McCowan Rebound (Off:2 Def:2),31,10,4,,1629479,,1611661321,51,69,0,3
+05:02,[DAL] McCowan Turnover : 3 Second Violation (4 TO),-9,42,5,,1629479,1628168,1611661321,51,69,0,3
+04:50,[PHO 53-69] Taurasi Driving Layup Shot: Made (24 PTS) Assist: Cloud (8 AST),42,41,1,,100940,204333,1611661317,53,69,2,3
+04:26,[DAL] Billings Foul: Offensive (2 PF),-124,152,6,1629482,1628881,1630880,1611661321,53,69,0,3
+04:26,[DAL] Billings Turnover : Offensive Foul Turnover (4 TO),-124,152,5,,1628881,1630880,1611661321,53,69,0,3
+04:14,[PHO] Taurasi 3pt Shot: Missed,-164,193,2,,100940,,1611661317,53,69,0,3
+04:11,[DAL] Siegrist Rebound (Off:4 Def:2),-164,193,4,,1641652,,1611661321,53,69,0,3
+03:59,[DAL 71-53] Siegrist Cutting Layup Shot: Made (17 PTS) Assist: McCowan (4 AST),-29,40,1,,1641652,1629479,1611661321,53,71,2,3
+03:59,[PHO] Taurasi Foul: Shooting (1 PF) (1 FTA),-23,24,6,1641652,100940,100274,1611661317,53,71,0,3
+03:59,[PHO] Taurasi Substitution replaced by Sutton,0,-80,8,,100940,1630134,1611661317,53,71,0,3
+03:59,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,53,71,0,3
+03:59,[DAL 72-53] Siegrist Free Throw 1 of 1 (18 PTS),0,-80,3,,1641652,,1611661321,53,72,1,3
+03:38,[DAL] Brown Foul: Shooting (1 PF) (2 FTA),-10,20,6,1641700,1629480,100274,1611661321,53,72,0,3
+03:38,[PHO 54-72] Dixon Free Throw 1 of 2 (1 PTS),0,-80,3,,1641700,,1611661317,54,72,1,3
+03:38,[PHO 55-72] Dixon Free Throw 2 of 2 (2 PTS),0,-80,3,,1641700,,1611661317,55,72,1,3
+03:15,[DAL] Sheldon Turnover : Out of Bounds - Bad Pass Turnover (2 TO),11,295,5,,1642292,1628168,1611661321,55,72,0,3
+03:06,[PHO] Cloud Pullup Jump shot: Missed,13,149,2,,204333,,1611661317,55,72,0,3
+03:04,[PHO] Dixon Rebound (Off:1 Def:0),13,149,4,,1641700,,1611661317,55,72,0,3
+03:03,[DAL] Billings Foul: Shooting (3 PF) (3 FTA),163,173,6,1629482,1628881,100274,1611661321,55,72,0,3
+03:03,[PHO 56-72] Cunningham Free Throw 1 of 3 (4 PTS),0,-80,3,,1629482,,1611661317,56,72,1,3
+03:03,[PHO 57-72] Cunningham Free Throw 2 of 3 (5 PTS),0,-80,3,,1629482,,1611661317,57,72,1,3
+03:03,[PHO 58-72] Cunningham Free Throw 3 of 3 (6 PTS),0,-80,3,,1629482,,1611661317,58,72,1,3
+02:51,[DAL] Brown Layup Shot: Missed Block: Dixon (2 BLK),-6,34,2,1641700,1629480,,1611661321,58,72,0,3
+02:48,[PHO] Dixon Rebound (Off:1 Def:1),-6,34,4,,1641700,,1611661317,58,72,0,3
+02:44,[PHO 61-72] Copper 3pt Shot: Made (19 PTS) Assist: Sutton (1 AST),-201,138,1,,1627674,1630134,1611661317,61,72,3,3
+02:43,Timeout : Regular,0,-80,9,,1611661321,,1611661321,61,72,0,3
+02:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,72,0,3
+02:23,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (2 TO),10,67,5,,1629481,100274,1611661321,61,72,0,3
+02:11,[PHO 63-72] Copper Driving Layup Shot: Made (21 PTS) Assist: Cloud (9 AST),45,36,1,,1627674,204333,1611661317,63,72,2,3
+01:58,[DAL] Ogunbowale Turnover : Out of Bounds Lost Ball Turnover (3 TO),18,83,5,,1629481,100274,1611661321,63,72,0,3
+01:58,[DAL] Sheldon Substitution replaced by McCowan,0,-80,8,,1642292,1629479,1611661321,63,72,0,3
+01:58,[DAL] Brown Substitution replaced by Uzun,0,-80,8,,1629480,1642244,1611661321,63,72,0,3
+01:42,[PHO] Dixon Jump Shot: Missed,-141,0,2,,1641700,,1611661317,63,72,0,3
+01:37,[PHO] Sutton Rebound (Off:1 Def:1),-141,0,4,,1630134,,1611661317,63,72,0,3
+01:35,[PHO] Dixon Turnover : 3 Second Violation (2 TO),-23,25,5,,1641700,1628168,1611661317,63,72,0,3
+01:28,[DAL] Billings Turnover : Lost Ball (5 TO) Steal:Cunningham (1 ST),-190,335,5,1629482,1628881,,1611661321,63,72,0,3
+01:23,[PHO] Copper Running Layup Shot: Missed,-38,21,2,,1627674,,1611661317,63,72,0,3
+01:21,[DAL] Billings Rebound (Off:3 Def:3),-38,21,4,,1628881,,1611661321,63,72,0,3
+01:16,[DAL] Ogunbowale Running Pull-Up Jump Shot: Missed,-83,182,2,,1629481,,1611661321,63,72,0,3
+01:13,[DAL] Siegrist Rebound (Off:5 Def:2),-83,182,4,,1641652,,1611661321,63,72,0,3
+01:08,Jump Ball Cunningham vs Ogunbowale (Sutton gains possession),0,-80,10,1629481,1629482,1630134,1611661317,63,72,0,3
+01:08,[DAL] Siegrist Turnover : Bad Pass (1 TO) Steal:Cunningham (2 ST),-11,674,5,1629482,1641652,,1611661321,63,72,0,3
+01:05,[PHO] Sutton Running Layup Shot: Missed,-36,17,2,,1630134,,1611661317,63,72,0,3
+00:55.7,[PHO] Cloud Rebound (Off:1 Def:2),-36,17,4,,204333,,1611661317,63,72,0,3
+00:55.7,[PHO 66-72] Copper 3pt Shot: Made (24 PTS) Assist: Sutton (2 AST),109,228,1,,1627674,1630134,1611661317,66,72,3,3
+00:46.2,[DAL 74-66] McCowan Driving Layup Shot: Made (9 PTS) Assist: Billings (2 AST),-22,6,1,,1629479,1628881,1611661321,66,74,2,3
+00:32.3,[PHO 69-74] Sutton 3pt Shot: Made (3 PTS) Assist: Dixon (2 AST),187,139,1,,1630134,1641700,1611661317,69,74,3,3
+00:08.1,[DAL] Ogunbowale 3pt Shot: Missed,-206,144,2,,1629481,,1611661321,69,74,0,3
+00:05.4,[DAL] Billings Rebound (Off:4 Def:3),-206,144,4,,1628881,,1611661321,69,74,0,3
+00:04.6,[DAL] Billings Putback Layup Shot: Missed,11,10,2,,1628881,,1611661321,69,74,0,3
+00:04.3,[DAL] Siegrist Rebound (Off:6 Def:2),11,10,4,,1641652,,1611661321,69,74,0,3
+00:04.3,[DAL 76-69] Siegrist Putback Layup Shot: Made (20 PTS),1,18,1,,1641652,,1611661321,69,76,2,3
+00:00.0,[PHO] Copper 3pt Shot: Missed,67,263,2,,1627674,,1611661317,69,76,0,3
+00:00.0,[PHO] Team Rebound,67,263,4,,0,,1611661317,69,76,0,3
+00:00.0,End Period,0,-80,13,,0,,0,69,76,0,3
+10:00,Start Period,0,-80,12,,0,,0,69,76,0,4
+09:45,[PHO] Copper Alley Oop Layup shot: Missed,33,30,2,,1627674,,1611661317,69,76,0,4
+09:43,[DAL] Billings Rebound (Off:4 Def:4),33,30,4,,1628881,,1611661321,69,76,0,4
+09:28,[DAL] Uzun 3pt Shot: Missed,-120,216,2,,1642244,,1611661321,69,76,0,4
+09:25,[PHO] Team Rebound,-120,216,4,,0,,1611661317,69,76,0,4
+09:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,76,0,4
+09:14,[PHO 71-76] Cloud Driving Layup Shot: Made (7 PTS),28,48,1,,204333,,1611661317,71,76,2,4
+09:14,[DAL] Sheldon Foul: Shooting (2 PF) (1 FTA),40,47,6,204333,1642292,1630880,1611661321,71,76,0,4
+09:14,[DAL] Sheldon Substitution replaced by Ogunbowale,0,-80,8,,1642292,1629481,1611661321,71,76,0,4
+09:14,[PHO 72-76] Cloud Free Throw 1 of 1 (8 PTS),0,-80,3,,204333,,1611661317,72,76,1,4
+09:05,[DAL 79-72] Ogunbowale 3pt Shot: Made (24 PTS) Assist: McCowan (5 AST),-187,190,1,,1629481,1629479,1611661321,72,79,3,4
+08:47,[PHO] Cloud Turnover : Traveling (4 TO),28,42,5,,204333,100274,1611661317,72,79,0,4
+08:47,[PHO] Copper Substitution replaced by Taurasi,0,-80,8,,1627674,100940,1611661317,72,79,0,4
+08:34,[DAL] McCowan Layup Shot: Missed,0,49,2,,1629479,,1611661321,72,79,0,4
+08:32,[DAL] McCowan Rebound (Off:3 Def:2),0,49,4,,1629479,,1611661321,72,79,0,4
+08:32,[DAL 81-72] McCowan Putback Layup Shot: Made (11 PTS),5,12,1,,1629479,,1611661321,72,81,2,4
+08:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,81,0,4
+08:25,[PHO 74-81] Taurasi Jump Shot: Made (26 PTS) Assist: Cloud (10 AST),-108,143,1,,100940,204333,1611661317,74,81,2,4
+08:08,[DAL 83-74] McCowan Layup Shot: Made (13 PTS) Assist: Billings (3 AST),11,18,1,,1629479,1628881,1611661321,74,83,2,4
+07:45,[PHO] Sutton Driving Layup Shot: Missed,32,65,2,,1630134,,1611661317,74,83,0,4
+07:43,[DAL] McCowan Rebound (Off:3 Def:3),32,65,4,,1629479,,1611661321,74,83,0,4
+07:40,[PHO] Sutton Foul: Personal (1 PF),-32,125,6,1629481,1630134,100274,1611661317,74,83,0,4
+07:40,[PHO] Cloud Substitution replaced by Copper,0,-80,8,,204333,1627674,1611661317,74,83,0,4
+07:40,[PHO] Dixon Substitution replaced by Mack,0,-80,8,,1641700,1630442,1611661317,74,83,0,4
+07:40,[PHO] Cunningham Substitution replaced by Bertsch,0,-80,8,,1629482,1629571,1611661317,74,83,0,4
+07:31,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-18,69,2,,1629481,,1611661321,74,83,0,4
+07:29,[PHO] Mack Rebound (Off:0 Def:2),-18,69,4,,1630442,,1611661317,74,83,0,4
+07:21,[PHO] Taurasi 3pt Shot: Missed,35,240,2,,100940,,1611661317,74,83,0,4
+07:19,[PHO] Bertsch Rebound (Off:1 Def:0),35,240,4,,1629571,,1611661317,74,83,0,4
+07:06,[PHO] Bertsch Pullup Jump shot: Missed Block: Uzun (1 BLK),67,122,2,1642244,1629571,,1611661317,74,83,0,4
+07:00,[DAL] McCowan Rebound (Off:3 Def:4),67,122,4,,1629479,,1611661321,74,83,0,4
+07:00,[PHO] Taurasi Foul: Personal (2 PF),-46,82,6,1628881,100940,1628168,1611661317,74,83,0,4
+06:54,[DAL 85-74] Billings Hook Shot: Made (14 PTS),-46,80,1,,1628881,,1611661321,74,85,2,4
+06:34,[PHO] Bertsch 3pt Shot: Missed,166,189,2,,1629571,,1611661317,74,85,0,4
+06:31,[DAL] Ogunbowale Rebound (Off:0 Def:6),166,189,4,,1629481,,1611661321,74,85,0,4
+06:26,[DAL 87-74] Ogunbowale Running Layup Shot: Made (26 PTS),26,10,1,,1629481,,1611661321,74,87,2,4
+06:13,[PHO] Copper Turnover : Traveling (3 TO),-75,-21,5,,1627674,100274,1611661317,74,87,0,4
+06:13,[PHO] Sutton Substitution replaced by Cloud,0,-80,8,,1630134,204333,1611661317,74,87,0,4
+06:13,[DAL] Billings Substitution replaced by Soares,0,-80,8,,1628881,1641654,1611661321,74,87,0,4
+05:58,[DAL] McCowan Driving Hook Shot: Missed,4,38,2,,1629479,,1611661321,74,87,0,4
+05:54,[PHO] Mack Rebound (Off:0 Def:3),4,38,4,,1630442,,1611661317,74,87,0,4
+05:50,[DAL] Uzun Foul: Shooting (2 PF) (3 FTA),-228,41,6,1627674,1642244,1628168,1611661321,74,87,0,4
+05:50,[PHO] Copper Free Throw 1 of 3 Missed,0,-80,3,,1627674,,1611661317,74,87,0,4
+05:50,[PHO] Team Rebound,0,-80,4,,0,,1611661317,74,87,0,4
+05:50,[PHO 75-87] Copper Free Throw 2 of 3 (25 PTS),0,-80,3,,1627674,,1611661317,75,87,1,4
+05:50,[PHO 76-87] Copper Free Throw 3 of 3 (26 PTS),0,-80,3,,1627674,,1611661317,76,87,1,4
+05:50,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,76,87,0,4
+05:50,Timeout : Official,0,-80,9,,0,,0,76,87,0,4
+05:26,[DAL] Brown Turnaround Hook Shot: Missed,0,49,2,,1629480,,1611661321,76,87,0,4
+05:22,[PHO] Taurasi Rebound (Off:0 Def:2),0,49,4,,100940,,1611661317,76,87,0,4
+05:20,[PHO] Copper Running Pull-Up Jump Shot: Missed,-5,140,2,,1627674,,1611661317,76,87,0,4
+05:17,[DAL] Soares Rebound (Off:0 Def:1),-5,140,4,,1641654,,1611661321,76,87,0,4
+05:04,[DAL 89-76] Ogunbowale Fadeaway Jump Shot: Made (28 PTS),-181,15,1,,1629481,,1611661321,76,89,2,4
+04:48,[PHO 78-89] Copper Driving Layup Shot: Made (28 PTS),40,22,1,,1627674,,1611661317,78,89,2,4
+04:36,[DAL 92-78] Ogunbowale 3pt Shot: Made (31 PTS),-152,205,1,,1629481,,1611661321,78,92,3,4
+04:23,[PHO] Cloud 3pt Shot: Missed,-99,224,2,,204333,,1611661317,78,92,0,4
+04:17,[PHO] Cloud Rebound (Off:2 Def:2),-99,224,4,,204333,,1611661317,78,92,0,4
+04:09,[PHO] Copper 3pt Shot: Missed,-13,239,2,,1627674,,1611661317,78,92,0,4
+04:05,[DAL] Brown Rebound (Off:0 Def:1),-13,239,4,,1629480,,1611661321,78,92,0,4
+04:01,[PHO] Copper Foul: Shooting (1 PF) (2 FTA),24,119,6,1629481,1627674,100274,1611661317,78,92,0,4
+04:01,[DAL 93-78] Ogunbowale Free Throw 1 of 2 (32 PTS),0,-80,3,,1629481,,1611661321,78,93,1,4
+04:01,[PHO] Mack Substitution replaced by Dixon,0,-80,8,,1630442,1641700,1611661317,78,93,0,4
+04:01,[PHO] Bertsch Substitution replaced by Cunningham,0,-80,8,,1629571,1629482,1611661317,78,93,0,4
+04:01,[DAL] Soares Substitution replaced by Billings,0,-80,8,,1641654,1628881,1611661321,78,93,0,4
+04:01,[DAL 94-78] Ogunbowale Free Throw 2 of 2 (33 PTS),0,-80,3,,1629481,,1611661321,78,94,1,4
+03:53,[DAL] Uzun Foul: Shooting (3 PF) (2 FTA),60,81,6,1627674,1642244,1630880,1611661321,78,94,0,4
+03:53,[PHO 79-94] Copper Free Throw 1 of 2 (29 PTS),0,-80,3,,1627674,,1611661317,79,94,1,4
+03:53,[PHO 80-94] Copper Free Throw 2 of 2 (30 PTS),0,-80,3,,1627674,,1611661317,80,94,1,4
+03:32,[DAL] Billings Jump Shot: Missed,121,22,2,,1628881,,1611661321,80,94,0,4
+03:31,[PHO] Team Rebound,121,22,4,,0,,1611661317,80,94,0,4
+03:31,[DAL] Brown Foul: Loose Ball (2 PF),16,795,6,1627674,1629480,1630880,1611661321,80,94,0,4
+03:22,[PHO] Taurasi Turnover : Bad Pass (2 TO) Steal:Ogunbowale (4 ST),-52,242,5,1629481,100940,,1611661317,80,94,0,4
+03:20,[PHO] Cloud Foul: Shooting (3 PF) (2 FTA),23,22,6,1629481,204333,1630880,1611661317,80,94,0,4
+03:20,[PHO] Taurasi Technical (1 FTA),0,-80,6,,100940,1628168,1611661317,80,94,0,4
+03:20,[DAL 95-80] Ogunbowale Free Throw Technical (34 PTS),0,-80,3,,1629481,,1611661321,80,95,1,4
+03:20,[DAL 96-80] Ogunbowale Free Throw 1 of 2 (35 PTS),0,-80,3,,1629481,,1611661321,80,96,1,4
+03:20,[DAL 97-80] Ogunbowale Free Throw 2 of 2 (36 PTS),0,-80,3,,1629481,,1611661321,80,97,1,4
+03:10,[PHO] Taurasi Driving Floating Bank Jump Shot: Missed,22,35,2,,100940,,1611661317,80,97,0,4
+03:10,[PHO] Team Rebound,22,35,4,,0,,1611661317,80,97,0,4
+03:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,97,0,4
+03:03,[PHO 82-97] Dixon Cutting Layup Shot: Made (4 PTS) Assist: Cloud (11 AST),-17,21,1,,1641700,204333,1611661317,82,97,2,4
+02:51,[PHO] Copper Foul: Shooting (2 PF) (2 FTA),22,71,6,1628881,1627674,100274,1611661317,82,97,0,4
+02:51,Timeout : Regular,0,-80,9,,1611661321,,1611661321,82,97,0,4
+02:51,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,82,97,0,4
+02:51,[DAL 98-82] Billings Free Throw 1 of 2 (15 PTS),0,-80,3,,1628881,,1611661321,82,98,1,4
+02:51,[DAL 99-82] Billings Free Throw 2 of 2 (16 PTS),0,-80,3,,1628881,,1611661321,82,99,1,4
+02:39,[PHO] Taurasi 3pt Shot: Missed,-234,-18,2,,100940,,1611661317,82,99,0,4
+02:36,[PHO] Dixon Rebound (Off:2 Def:1),-234,-18,4,,1641700,,1611661317,82,99,0,4
+02:34,[PHO] Cloud 3pt Shot: Missed,-15,240,2,,204333,,1611661317,82,99,0,4
+02:31,[PHO] Team Rebound,-15,240,4,,0,,1611661317,82,99,0,4
+02:31,[DAL] Siegrist Foul: Loose Ball (2 PF) (2 FTA),-86,-13,6,100940,1641652,1628168,1611661321,82,99,0,4
+02:31,[PHO 83-99] Taurasi Free Throw 1 of 2 (27 PTS),0,-80,3,,100940,,1611661317,83,99,1,4
+02:31,[PHO 84-99] Taurasi Free Throw 2 of 2 (28 PTS),0,-80,3,,100940,,1611661317,84,99,1,4
+02:19,[DAL 101-84] Ogunbowale Driving Floating Bank Jump Shot: Made (38 PTS) Assist: Uzun (4 AST),-44,47,1,,1629481,1642244,1611661321,84,101,2,4
+02:12,[PHO] Copper Turnover : Out of Bounds - Bad Pass Turnover (4 TO),31,236,5,,1627674,1628168,1611661317,84,101,0,4
+02:01,[DAL] Ogunbowale 3pt Shot: Missed,-113,214,2,,1629481,,1611661321,84,101,0,4
+01:57,[DAL] Siegrist Rebound (Off:7 Def:2),-113,214,4,,1641652,,1611661321,84,101,0,4
+01:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,84,101,0,4
+01:52,[DAL 103-84] Billings Turnaround Bank Hook Shot: Made (18 PTS) Assist: Ogunbowale (3 AST),75,28,1,,1628881,1629481,1611661321,84,103,2,4
+01:45,[PHO] Taurasi 3pt Shot: Missed,120,280,2,,100940,,1611661317,84,103,0,4
+01:45,[DAL] Team Rebound,120,280,4,,0,,1611661321,84,103,0,4
+01:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,84,103,0,4
+01:45,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,84,103,0,4
+01:31,[DAL] Ogunbowale Pullup Jump shot: Missed,77,61,2,,1629481,,1611661321,84,103,0,4
+01:31,[PHO] Taurasi Rebound (Off:0 Def:3),77,61,4,,100940,,1611661317,84,103,0,4
+01:26,[PHO 86-103] Copper Running Layup Shot: Made (32 PTS),31,9,1,,1627674,,1611661317,86,103,2,4
+01:20,[DAL] Ogunbowale Jump Shot: Missed,-195,61,2,,1629481,,1611661321,86,103,0,4
+01:17,[PHO] Taurasi Rebound (Off:0 Def:4),-195,61,4,,100940,,1611661317,86,103,0,4
+01:11,[PHO] Copper Running Layup Shot: Missed Block: Billings (4 BLK),40,78,2,1628881,1627674,,1611661317,86,103,0,4
+01:10,[DAL] Ogunbowale Rebound (Off:0 Def:7),40,78,4,,1629481,,1611661321,86,103,0,4
+01:07,[DAL 105-86] Siegrist Running Layup Shot: Made (22 PTS) Assist: Ogunbowale (4 AST),2,8,1,,1641652,1629481,1611661321,86,105,2,4
+01:07,Delay Technical - DAL (1 FTA),0,-80,6,,1611661321,1628168,1611661321,86,105,0,4
+01:07,[PHO 87-105] Cloud Free Throw Technical (9 PTS),0,-80,3,,204333,,1611661317,87,105,1,4
+01:07,[DAL] Uzun Substitution replaced by Lopez Sénéchal,0,-80,8,,1642244,1641661,1611661321,87,105,0,4
+01:01,[PHO] Dixon Jump Shot: Missed,6,52,2,,1641700,,1611661317,87,105,0,4
+00:58.0,[DAL] Lopez Sénéchal Rebound (Off:0 Def:1),6,52,4,,1641661,,1611661321,87,105,0,4
+00:46.5,[DAL] Billings Layup Shot: Missed Block: Dixon (3 BLK),0,33,2,1641700,1628881,,1611661321,87,105,0,4
+00:44.4,[PHO] Taurasi Rebound (Off:0 Def:5),0,33,4,,100940,,1611661317,87,105,0,4
+00:41.8,[PHO 89-105] Cunningham Running Layup Shot: Made (8 PTS) Assist: Cloud (12 AST),21,17,1,,1629482,204333,1611661317,89,105,2,4
+00:35.2,[PHO] Copper Foul: Personal (3 PF) (2 FTA),-190,270,6,1629481,1627674,100274,1611661317,89,105,0,4
+00:35.2,[PHO] Cloud Technical (1 FTA),0,-80,6,,204333,100274,1611661317,89,105,0,4
+00:35.2,[DAL 106-89] Ogunbowale Free Throw Technical (39 PTS),0,-80,3,,1629481,,1611661321,89,106,1,4
+00:35.2,[DAL] Ogunbowale Free Throw 1 of 2 Missed,0,-80,3,,1629481,,1611661321,89,106,0,4
+00:35.2,[DAL] Team Rebound,0,-80,4,,0,,1611661321,89,106,0,4
+00:35.2,[DAL] Siegrist Substitution replaced by Sheldon,0,-80,8,,1641652,1642292,1611661321,89,106,0,4
+00:35.2,[DAL] Billings Substitution replaced by Soares,0,-80,8,,1628881,1641654,1611661321,89,106,0,4
+00:35.2,[DAL 107-89] Ogunbowale Free Throw 2 of 2 (40 PTS),0,-80,3,,1629481,,1611661321,89,107,1,4
+00:26.8,[PHO 92-107] Cunningham 3pt Shot: Made (11 PTS) Assist: Taurasi (2 AST),-238,-22,1,,1629482,100940,1611661317,92,107,3,4
+00:00.9,[DAL] Team Turnover : Shot Clock Turnover,146,327,5,,0,1628168,1611661321,92,107,0,4
+00:00.3,[PHO] Cloud 3pt Shot: Missed,-51,570,2,,204333,,1611661317,92,107,0,4
+00:00.1,[DAL] Team Rebound,-51,570,4,,0,,1611661321,92,107,0,4
+00:00.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,92,107,0,4
+00:00.0,End Period,0,-80,13,,0,,0,92,107,0,4

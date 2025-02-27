@@ -1,0 +1,434 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball McCowan vs Coffey,0,-80,10,1628269,1629479,,1611661321,0,0,0,1
+09:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:47,[DAL 2-0] McCowan Layup Shot: Made (2 PTS) Assist: Sims (1 AST),35,13,1,,1629479,203824,1611661321,2,0,2,1
+09:24,[ATL] Charles Turnover : Out of Bounds - Bad Pass Turnover (1 TO),88,22,5,,202250,1641521,1611661330,2,0,0,1
+09:11,[DAL] McCowan Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),54,-3,5,1641650,1629479,,1611661321,2,0,0,1
+09:00,[ATL] Charles Step Back Jump shot: Missed,-49,207,2,,202250,,1611661330,2,0,0,1
+08:59,[DAL] Team Rebound,-49,207,4,,0,,1611661321,2,0,0,1
+08:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,0,0,1
+08:43,[DAL 5-0] Sheldon 3pt Shot: Made (3 PTS) Assist: Ogunbowale (1 AST),-221,6,1,,1642292,1629481,1611661321,5,0,3,1
+08:25,[ATL 2-5] Coffey Driving Layup Shot: Made (2 PTS) Assist: Caldwell (1 AST),-6,28,1,,1628269,1630471,1611661330,5,2,2,1
+08:18,[DAL] Sims Turnover : Lost Ball (1 TO) Steal:Caldwell (1 ST),3,52,5,1630471,203824,,1611661321,5,2,0,1
+08:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,2,0,1
+08:11,[ATL 4-5] Charles Cutting Layup Shot: Made (2 PTS) Assist: Jones (1 AST),27,17,1,,202250,1641650,1611661330,5,4,2,1
+07:56,[DAL] Howard Turnover : Lost Ball (1 TO) Steal:Coffey (1 ST),106,220,5,1628269,203827,,1611661321,5,4,0,1
+07:42,[ATL] Charles Cutting Layup Shot: Missed Block: Howard (1 BLK),-13,38,2,203827,202250,,1611661330,5,4,0,1
+07:40,[DAL] McCowan Rebound (Off:0 Def:1),-13,38,4,,1629479,,1611661321,5,4,0,1
+07:24,[DAL 7-4] Howard Turnaround Jump Shot: Made (2 PTS) Assist: McCowan (1 AST),18,28,1,,203827,1629479,1611661321,7,4,2,1
+07:08,[ATL] Gray Pullup Jump shot: Missed,-6,119,2,,1628277,,1611661330,7,4,0,1
+07:05,[DAL] McCowan Rebound (Off:0 Def:2),-6,119,4,,1629479,,1611661321,7,4,0,1
+06:57,[DAL] McCowan Turnover : Bad Pass (2 TO) Steal:Charles (1 ST),162,251,5,202250,1629479,,1611661321,7,4,0,1
+06:54,[ATL] Gray Turnover : Palming Turnover (1 TO),-118,201,5,,1628277,100697,1611661330,7,4,0,1
+06:54,[ATL] Charles Substitution replaced by Parker-Tyus,0,-80,8,,202250,204323,1611661330,7,4,0,1
+06:37,[DAL 9-4] Howard Turnaround Hook Shot: Made (4 PTS),33,30,1,,203827,,1611661321,9,4,2,1
+06:23,[ATL 6-9] Caldwell Jump Shot: Made (2 PTS) Assist: Gray (1 AST),-72,139,1,,1630471,1628277,1611661330,9,6,2,1
+06:23,[DAL] Howard Foul: Shooting (1 PF) (1 FTA),-87,146,6,1630471,203827,100697,1611661321,9,6,0,1
+06:23,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,9,6,0,1
+06:23,[ATL 7-9] Caldwell Free Throw 1 of 1 (3 PTS),0,-80,3,,1630471,,1611661330,9,7,1,1
+06:05,[DAL] Sims Driving Layup Shot: Missed Block: Jones (1 BLK),-21,9,2,1641650,203824,,1611661321,9,7,0,1
+06:05,[DAL] Team Rebound,-21,9,4,,0,,1611661321,9,7,0,1
+06:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,7,0,1
+06:03,[DAL] Ogunbowale Fadeaway Jump Shot: Missed,-119,58,2,,1629481,,1611661321,9,7,0,1
+05:59,[ATL] Parker-Tyus Rebound (Off:0 Def:1),-119,58,4,,204323,,1611661330,9,7,0,1
+05:54,[ATL] Parker-Tyus Running Layup Shot: Missed,26,24,2,,204323,,1611661330,9,7,0,1
+05:52,[ATL] Hillmon Rebound (Off:1 Def:0),26,24,4,,1631044,,1611661330,9,7,0,1
+05:52,[ATL] Gray Pullup Jump shot: Missed Block: Sims (1 BLK),-67,71,2,203824,1628277,,1611661330,9,7,0,1
+05:50,[ATL] Parker-Tyus Rebound (Off:1 Def:1),-67,71,4,,204323,,1611661330,9,7,0,1
+05:43,[ATL 9-9] Gray Turnaround Fadeaway shot: Made (2 PTS),47,113,1,,1628277,,1611661330,9,9,2,1
+05:33,[ATL] Gray Foul: Personal (1 PF),171,160,6,203824,1628277,1629771,1611661330,9,9,0,1
+05:33,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,9,9,0,1
+05:27,[DAL] Howard 3pt Shot: Missed,101,218,2,,203827,,1611661321,9,9,0,1
+05:24,[ATL] Gray Rebound (Off:0 Def:1),101,218,4,,1628277,,1611661330,9,9,0,1
+05:17,[ATL 11-9] Hillmon Jump Shot: Made (2 PTS) Assist: Caldwell (2 AST),162,-1,1,,1631044,1630471,1611661330,9,11,2,1
+04:56,[DAL] Howard Turnover : Out of Bounds - Bad Pass Turnover (2 TO),115,-24,5,,203827,100697,1611661321,9,11,0,1
+04:56,Timeout : Official,0,-80,9,,0,,0,9,11,0,1
+04:56,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661330,9,11,0,1
+04:56,[ATL] Caldwell Substitution replaced by Henderson,0,-80,8,,1630471,1631089,1611661330,9,11,0,1
+04:42,[ATL] Parker-Tyus Foul: Offensive (1 PF),-43,17,6,203824,204323,1641521,1611661330,9,11,0,1
+04:42,[ATL] Parker-Tyus Turnover : Offensive Foul Turnover (1 TO),43,819,5,,204323,1641521,1611661330,9,11,0,1
+04:25,[ATL] Jones Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (1 PF) (1 FTA),0,-80,6,,1641650,100697,1611661330,9,11,0,1
+04:25,[DAL 10-11] Ogunbowale Free Throw Technical (1 PTS),0,-80,3,,1629481,,1611661321,10,11,1,1
+04:15,[DAL 12-11] Ogunbowale Step Back Jump shot: Made (3 PTS) Assist: Howard (1 AST),-135,-3,1,,1629481,203827,1611661321,12,11,2,1
+04:02,[ATL] Parker-Tyus Turnover : Bad Pass (2 TO) Steal:Sims (1 ST),123,1,5,203824,204323,,1611661330,12,11,0,1
+03:57,[DAL] Ogunbowale 3pt Shot: Missed,221,53,2,,1629481,,1611661321,12,11,0,1
+03:52,[ATL] Hillmon Rebound (Off:1 Def:1),221,53,4,,1631044,,1611661330,12,11,0,1
+03:51,[ATL] Hillmon Turnover : Lost Ball (1 TO) Steal:Ogunbowale (1 ST),-43,817,5,1629481,1631044,,1611661330,12,11,0,1
+03:48,[DAL 14-11] Ogunbowale Layup Shot: Made (5 PTS),26,10,1,,1629481,,1611661321,14,11,2,1
+03:37,[ATL] Henderson Turnover : Bad Pass (1 TO) Steal:Brown (1 ST),-156,17,5,1629480,1631089,,1611661330,14,11,0,1
+03:29,[DAL] Ogunbowale Turnover : Bad Pass (1 TO) Steal:Hillmon (1 ST),3,275,5,1631044,1629481,,1611661321,14,11,0,1
+03:27,[DAL] Ogunbowale Foul: Transition Take (1 PF) (1 FTA),-161,501,6,1628277,1629481,1629771,1611661321,14,11,0,1
+03:27,[ATL] Gray Free Throw 1 of 1 Missed,0,-80,3,,1628277,,1611661330,14,11,0,1
+03:27,[ATL] Team Rebound,0,-80,4,,0,,1611661330,14,11,0,1
+03:27,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,14,11,0,1
+03:27,[ATL] Parker-Tyus Substitution replaced by Charles,0,-80,8,,204323,202250,1611661330,14,11,0,1
+03:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,11,0,1
+03:18,[ATL] Jones Substitution replaced by Amihere,0,-80,8,,1641650,1641656,1611661330,14,11,0,1
+03:15,[ATL] Gray 3pt Shot: Missed,193,126,2,,1628277,,1611661330,14,11,0,1
+03:11,[DAL] Brown Rebound (Off:0 Def:1),193,126,4,,1629480,,1611661321,14,11,0,1
+03:03,[DAL 16-11] Ogunbowale Step Back Jump shot: Made (7 PTS),128,153,1,,1629481,,1611661321,16,11,2,1
+02:42,[ATL] Amihere Driving Floating Jump Shot: Missed,-88,64,2,,1641656,,1611661330,16,11,0,1
+02:38,[DAL] Brown Rebound (Off:0 Def:2),-88,64,4,,1629480,,1611661321,16,11,0,1
+02:23,[DAL] Billings Jump Shot: Missed,65,164,2,,1628881,,1611661321,16,11,0,1
+02:19,[ATL] Charles Rebound (Off:0 Def:1),65,164,4,,202250,,1611661330,16,11,0,1
+02:15,[ATL 13-16] Hillmon Layup Shot: Made (4 PTS) Assist: Gray (2 AST),2,18,1,,1631044,1628277,1611661330,16,13,2,1
+02:15,[DAL] Billings Foul: Shooting (1 PF) (1 FTA),2,18,6,1631044,1628881,1641521,1611661321,16,13,0,1
+02:15,[ATL] Gray Substitution replaced by Caldwell,0,-80,8,,1628277,1630471,1611661330,16,13,0,1
+02:15,[ATL 14-16] Hillmon Free Throw 1 of 1 (5 PTS),0,-80,3,,1631044,,1611661330,16,14,1,1
+01:53,[DAL] Brown Driving Layup Shot: Missed Block: Charles (1 BLK),-32,11,2,202250,1629480,,1611661321,16,14,0,1
+01:53,[DAL] Team Rebound,-32,11,4,,0,,1611661321,16,14,0,1
+01:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,14,0,1
+01:53,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,16,14,0,1
+01:53,[ATL] Hillmon Substitution replaced by Parker-Tyus,0,-80,8,,1631044,204323,1611661330,16,14,0,1
+01:52,[DAL] Ogunbowale Jump Shot: Missed,194,80,2,,1629481,,1611661321,16,14,0,1
+01:51,[DAL] Team Rebound,194,80,4,,0,,1611661321,16,14,0,1
+01:51,[DAL] Team Turnover : Shot Clock Turnover,-1,3,5,,0,100697,1611661321,16,14,0,1
+01:31,[ATL] Henderson 3pt Shot: Missed,-226,10,2,,1631089,,1611661330,16,14,0,1
+01:26,[DAL] Billings Rebound (Off:0 Def:1),-226,10,4,,1628881,,1611661321,16,14,0,1
+01:19,[DAL] Sheldon 3pt Shot: Missed,215,121,2,,1642292,,1611661321,16,14,0,1
+01:18,[ATL] Team Rebound,215,121,4,,0,,1611661330,16,14,0,1
+01:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,14,0,1
+01:18,[DAL] Sheldon Substitution replaced by Uzun,0,-80,8,,1642292,1642244,1611661321,16,14,0,1
+01:06,[ATL] Charles Turnover : Bad Pass (2 TO) Steal:McCowan (1 ST),-100,139,5,1629479,202250,,1611661330,16,14,0,1
+01:04,[DAL 18-14] Billings Running Layup Shot: Made (2 PTS) Assist: McCowan (2 AST),17,10,1,,1628881,1629479,1611661321,18,14,2,1
+00:54.7,[ATL] Henderson Turnover : Lost Ball (2 TO) Steal:Sims (2 ST),-152,27,5,203824,1631089,,1611661330,18,14,0,1
+00:50.2,[DAL] McCowan Running Layup Shot: Missed Block: Charles (2 BLK),1,21,2,202250,1629479,,1611661321,18,14,0,1
+00:49.1,[ATL] Henderson Rebound (Off:0 Def:1),1,21,4,,1631089,,1611661330,18,14,0,1
+00:42.6,[DAL] Uzun Foul: Shooting (1 PF) (2 FTA),11,13,6,1641656,1642244,1629771,1611661321,18,14,0,1
+00:42.6,[ATL] Amihere Free Throw 1 of 2 Missed,0,-80,3,,1641656,,1611661330,18,14,0,1
+00:42.6,[ATL] Team Rebound,0,-80,4,,0,,1611661330,18,14,0,1
+00:42.6,[DAL] Ogunbowale Substitution replaced by Lopez Sénéchal,0,-80,8,,1629481,1641661,1611661321,18,14,0,1
+00:42.6,[ATL] Amihere Free Throw 2 of 2 Missed,0,-80,3,,1641656,,1611661330,18,14,0,1
+00:41.0,[DAL] Uzun Rebound (Off:0 Def:1),0,-80,4,,1642244,,1611661321,18,14,0,1
+00:19.2,[ATL] Charles Foul: Shooting (1 PF) (2 FTA),39,-1,6,1628881,202250,1641521,1611661330,18,14,0,1
+00:19.2,[DAL 19-14] Billings Free Throw 1 of 2 (3 PTS),0,-80,3,,1628881,,1611661321,19,14,1,1
+00:19.2,[DAL 20-14] Billings Free Throw 2 of 2 (4 PTS),0,-80,3,,1628881,,1611661321,20,14,1,1
+00:03.0,[ATL 16-20] Henderson Pullup Jump shot: Made (2 PTS),-72,174,1,,1631089,,1611661330,20,16,2,1
+00:00.0,End Period,0,-80,13,,0,,0,20,16,0,1
+10:00,Start Period,0,-80,12,,0,,0,20,16,0,2
+09:51,[ATL 18-20] Jones Driving Floating Bank Jump Shot: Made (2 PTS),-48,98,1,,1641650,,1611661330,20,18,2,2
+09:51,[DAL] Uzun Foul: Shooting (2 PF) (1 FTA),-48,98,6,1641650,1642244,1641521,1611661321,20,18,0,2
+09:51,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,20,18,0,2
+09:51,[ATL 19-20] Jones Free Throw 1 of 1 (3 PTS),0,-80,3,,1641650,,1611661330,20,19,1,2
+09:32,[DAL] Ogunbowale 3pt Shot: Missed,123,236,2,,1629481,,1611661321,20,19,0,2
+09:29,[ATL] Team Rebound,123,236,4,,0,,1611661330,20,19,0,2
+09:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,19,0,2
+09:08,[ATL] Coffey 3pt Shot: Missed,232,-3,2,,1628269,,1611661330,20,19,0,2
+09:05,[DAL] McCowan Rebound (Off:0 Def:3),232,-3,4,,1629479,,1611661321,20,19,0,2
+08:51,[DAL] Sheldon Pullup Jump shot: Missed,146,64,2,,1642292,,1611661321,20,19,0,2
+08:49,[DAL] McCowan Rebound (Off:1 Def:3),146,64,4,,1629479,,1611661321,20,19,0,2
+08:47,[DAL 22-19] McCowan Putback Layup Shot: Made (4 PTS),0,-5,1,,1629479,,1611661321,22,19,2,2
+08:31,[ATL] Jones Turnover : Bad Pass (1 TO) Steal:Sheldon (1 ST),-50,51,5,1642292,1641650,,1611661330,22,19,0,2
+08:23,[DAL] Billings Turnaround Fadeaway shot: Missed,-38,15,2,,1628881,,1611661321,22,19,0,2
+08:19,[ATL] Hillmon Rebound (Off:1 Def:2),-38,15,4,,1631044,,1611661330,22,19,0,2
+08:15,[ATL 21-22] Jones Running Finger Roll Layup Shot: Made (5 PTS) Assist: Hillmon (1 AST),44,17,1,,1641650,1631044,1611661330,22,21,2,2
+07:54,[DAL 25-21] Sheldon 3pt Shot: Made (6 PTS) Assist: Ogunbowale (2 AST),202,143,1,,1642292,1629481,1611661321,25,21,3,2
+07:41,[ATL] Gray Pullup Jump shot: Missed,10,120,2,,1628277,,1611661330,25,21,0,2
+07:38,[DAL] McCowan Rebound (Off:1 Def:4),10,120,4,,1629479,,1611661321,25,21,0,2
+07:30,[DAL] McCowan Jump Shot: Missed,-96,142,2,,1629479,,1611661321,25,21,0,2
+07:25,[ATL] Coffey Rebound (Off:0 Def:1),-96,142,4,,1628269,,1611661330,25,21,0,2
+07:21,[DAL] Sims Foul: Personal (1 PF),66,182,6,1628277,203824,1629771,1611661321,25,21,0,2
+07:21,[DAL] Billings Substitution replaced by Howard,0,-80,8,,1628881,203827,1611661321,25,21,0,2
+07:21,[ATL] Hillmon Substitution replaced by Cubaj,0,-80,8,,1631044,1631032,1611661330,25,21,0,2
+07:21,[ATL] Coffey Substitution replaced by Parker-Tyus,0,-80,8,,1628269,204323,1611661330,25,21,0,2
+07:21,[ATL] Charles Substitution replaced by Caldwell,0,-80,8,,202250,1630471,1611661330,25,21,0,2
+07:11,[ATL] Caldwell Jump Shot: Missed,116,1,2,,1630471,,1611661330,25,21,0,2
+07:08,[ATL] Cubaj Rebound (Off:1 Def:0),116,1,4,,1631032,,1611661330,25,21,0,2
+07:02,[ATL] Parker-Tyus Driving Layup Shot: Missed,17,22,2,,204323,,1611661330,25,21,0,2
+06:59,[ATL] Caldwell Rebound (Off:1 Def:0),17,22,4,,1630471,,1611661330,25,21,0,2
+06:59,[ATL 23-25] Caldwell Tip Layup Shot: Made (5 PTS),0,-5,1,,1630471,,1611661330,25,23,2,2
+06:42,[DAL] McCowan Layup Shot: Missed,-19,3,2,,1629479,,1611661321,25,23,0,2
+06:39,[ATL] Parker-Tyus Rebound (Off:1 Def:2),-19,3,4,,204323,,1611661330,25,23,0,2
+06:32,[ATL 25-25] Jones Reverse Layup Shot: Made (7 PTS) Assist: Gray (3 AST),21,15,1,,1641650,1628277,1611661330,25,25,2,2
+06:31,Timeout : Regular,0,-80,9,,1611661321,,1611661321,25,25,0,2
+06:16,[ATL] Parker-Tyus Foul: Personal (2 PF),6,17,6,1629479,204323,1629771,1611661330,25,25,0,2
+06:16,[ATL] Parker-Tyus Substitution replaced by Charles,0,-80,8,,204323,202250,1611661330,25,25,0,2
+06:06,[DAL] Ogunbowale Step Back Jump shot: Missed,-147,-6,2,,1629481,,1611661321,25,25,0,2
+06:03,[ATL] Gray Rebound (Off:0 Def:2),-147,-6,4,,1628277,,1611661330,25,25,0,2
+05:56,[ATL 27-25] Caldwell Pullup Jump shot: Made (7 PTS) Assist: Gray (4 AST),43,120,1,,1630471,1628277,1611661330,25,27,2,2
+05:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,25,27,0,2
+05:38,[DAL 28-27] Sheldon 3pt Shot: Made (9 PTS) Assist: Sims (2 AST),216,79,1,,1642292,203824,1611661321,28,27,3,2
+05:14,[DAL] Howard Foul: Shooting (2 PF) (2 FTA),-13,69,6,1628277,203827,1629771,1611661321,28,27,0,2
+05:14,[ATL 28-28] Gray Free Throw 1 of 2 (3 PTS),0,-80,3,,1628277,,1611661330,28,28,1,2
+05:14,[ATL 29-28] Gray Free Throw 2 of 2 (4 PTS),0,-80,3,,1628277,,1611661330,28,29,1,2
+04:59,[DAL] McCowan Layup Shot: Missed,-21,17,2,,1629479,,1611661321,28,29,0,2
+04:57,[DAL] McCowan Rebound (Off:2 Def:4),-21,17,4,,1629479,,1611661321,28,29,0,2
+04:57,[DAL 30-29] McCowan Hook Shot: Made (6 PTS),51,28,1,,1629479,,1611661321,30,29,2,2
+04:57,[ATL] Charles Foul: Shooting (2 PF) (1 FTA),51,28,6,1629479,202250,1629771,1611661330,30,29,0,2
+04:57,[DAL 31-29] McCowan Free Throw 1 of 1 (7 PTS),0,-80,3,,1629479,,1611661321,31,29,1,2
+04:34,[ATL 31-31] Gray Driving Layup Shot: Made (6 PTS) Assist: Charles (1 AST),-16,21,1,,1628277,202250,1611661330,31,31,2,2
+04:24,[ATL] Cubaj Foul: Personal (1 PF),226,118,6,1642292,1631032,1641521,1611661330,31,31,0,2
+04:24,[ATL] Cubaj Substitution replaced by Parker-Tyus,0,-80,8,,1631032,204323,1611661330,31,31,0,2
+04:24,[ATL] Charles Substitution replaced by Coffey,0,-80,8,,202250,1628269,1611661330,31,31,0,2
+04:19,[DAL] Ogunbowale 3pt Shot: Missed,-227,35,2,,1629481,,1611661321,31,31,0,2
+04:15,[ATL] Coffey Rebound (Off:0 Def:2),-227,35,4,,1628269,,1611661330,31,31,0,2
+04:10,[ATL 33-31] Parker-Tyus Running Layup Shot: Made (2 PTS) Assist: Gray (5 AST),-20,12,1,,204323,1628277,1611661330,31,33,2,2
+03:51,[DAL 33-33] Sims Pullup Jump shot: Made (2 PTS) Assist: Ogunbowale (3 AST),168,21,1,,203824,1629481,1611661321,33,33,2,2
+03:36,[ATL] Parker-Tyus Jump Shot: Missed,-142,10,2,,204323,,1611661330,33,33,0,2
+03:32,[DAL] Howard Rebound (Off:0 Def:1),-142,10,4,,203827,,1611661321,33,33,0,2
+03:26,[DAL 35-33] Ogunbowale Running Pull-Up Jump Shot: Made (9 PTS),-38,97,1,,1629481,,1611661321,35,33,2,2
+03:10,[ATL] Parker-Tyus Jump Shot: Missed,-102,105,2,,204323,,1611661330,35,33,0,2
+03:08,[DAL] Howard Rebound (Off:0 Def:2),-102,105,4,,203827,,1611661321,35,33,0,2
+02:49,[DAL 37-33] McCowan Cutting Layup Shot: Made (9 PTS) Assist: Ogunbowale (4 AST),-7,6,1,,1629479,1629481,1611661321,37,33,2,2
+02:49,[ATL] Parker-Tyus Foul: Shooting (3 PF) (1 FTA),-7,6,6,1629479,204323,1629771,1611661330,37,33,0,2
+02:49,Timeout : Regular,0,-80,9,,1611661330,,1611661330,37,33,0,2
+02:49,[ATL] Jones Substitution replaced by Charles,0,-80,8,,1641650,202250,1611661330,37,33,0,2
+02:49,[ATL] Parker-Tyus Substitution replaced by Henderson,0,-80,8,,204323,1631089,1611661330,37,33,0,2
+02:49,[DAL 38-33] McCowan Free Throw 1 of 1 (10 PTS),0,-80,3,,1629479,,1611661321,38,33,1,2
+02:24,[ATL] Henderson Driving Floating Jump Shot: Missed,94,29,2,,1631089,,1611661330,38,33,0,2
+02:24,[ATL] Team Rebound,94,29,4,,0,,1611661330,38,33,0,2
+02:24,[ATL] Team Turnover : Shot Clock Turnover,129,8,5,,0,100697,1611661330,38,33,0,2
+02:10,[DAL 40-33] McCowan Layup Shot: Made (12 PTS) Assist: Howard (2 AST),10,10,1,,1629479,203827,1611661321,40,33,2,2
+02:05,[ATL] Charles Turnover : Bad Pass (3 TO) Steal:Sheldon (2 ST),-99,554,5,1642292,202250,,1611661330,40,33,0,2
+01:58,[DAL] Ogunbowale Turnover : Bad Pass (2 TO) Steal:Caldwell (2 ST),182,226,5,1630471,1629481,,1611661321,40,33,0,2
+01:54,[ATL 35-40] Caldwell Running Finger Roll Layup Shot: Made (9 PTS),-23,8,1,,1630471,,1611661330,40,35,2,2
+01:43,[DAL] Sims 3pt Shot: Missed,230,-10,2,,203824,,1611661321,40,35,0,2
+01:38,[ATL] Gray Rebound (Off:0 Def:3),230,-10,4,,1628277,,1611661330,40,35,0,2
+01:36,[ATL] Gray Turnover : Traveling (2 TO),-71,13,5,,1628277,1641521,1611661330,40,35,0,2
+01:31,[DAL] Sheldon Driving Layup Shot: Missed,7,30,2,,1642292,,1611661321,40,35,0,2
+01:27,[DAL] Sheldon Rebound (Off:1 Def:0),7,30,4,,1642292,,1611661321,40,35,0,2
+01:25,[DAL] Ogunbowale 3pt Shot: Missed,-139,198,2,,1629481,,1611661321,40,35,0,2
+01:22,[ATL] Henderson Rebound (Off:0 Def:2),-139,198,4,,1631089,,1611661330,40,35,0,2
+01:20,[ATL] Henderson Turnover : Bad Pass (3 TO) Steal:Sims (3 ST),-23,510,5,203824,1631089,,1611661330,40,35,0,2
+01:15,[DAL] Sheldon 3pt Shot: Missed,-224,46,2,,1642292,,1611661321,40,35,0,2
+01:12,[ATL] Charles Rebound (Off:0 Def:2),-224,46,4,,202250,,1611661330,40,35,0,2
+01:12,Timeout : Regular,0,-80,9,,1611661330,,1611661330,40,35,0,2
+01:12,[ATL] Henderson Substitution replaced by Jones,0,-80,8,,1631089,1641650,1611661330,40,35,0,2
+01:04,[ATL] Gray Layup Shot: Missed Block: Howard (2 BLK),-1,29,2,203827,1628277,,1611661330,40,35,0,2
+01:03,[ATL] Team Rebound,-1,29,4,,0,,1611661330,40,35,0,2
+01:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,35,0,2
+01:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,35,0,2
+00:54.5,[DAL] Howard Foul: Shooting (3 PF) (2 FTA),1,183,6,1630471,203827,1641521,1611661321,40,35,0,2
+00:54.5,[ATL 36-40] Caldwell Free Throw 1 of 2 (10 PTS),0,-80,3,,1630471,,1611661330,40,36,1,2
+00:54.5,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,40,36,0,2
+00:54.5,[ATL 37-40] Caldwell Free Throw 2 of 2 (11 PTS),0,-80,3,,1630471,,1611661330,40,37,1,2
+00:41.1,[DAL] Howard Turnover : Traveling (3 TO),13,253,5,,203827,100697,1611661321,40,37,0,2
+00:41.1,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,40,37,0,2
+00:29.8,[ATL 39-40] Jones Driving Layup Shot: Made (9 PTS),28,-6,1,,1641650,,1611661330,40,39,2,2
+00:09.9,[ATL] Jones Foul: Personal (2 PF) (2 FTA),-27,25,6,203824,1641650,1641521,1611661330,40,39,0,2
+00:09.9,[DAL 41-39] Sims Free Throw 1 of 2 (3 PTS),0,-80,3,,203824,,1611661321,41,39,1,2
+00:09.9,[DAL 42-39] Sims Free Throw 2 of 2 (4 PTS),0,-80,3,,203824,,1611661321,42,39,1,2
+00:04.1,[DAL] Ogunbowale Foul: Personal (2 PF) (2 FTA),27,427,6,1641650,1629481,1629771,1611661321,42,39,0,2
+00:04.1,[DAL] Ogunbowale Technical (1 FTA),0,-80,6,,1629481,1629771,1611661321,42,39,0,2
+00:04.1,[ATL 40-42] Charles Free Throw Technical (3 PTS),0,-80,3,,202250,,1611661330,42,40,1,2
+00:04.1,[DAL] Ogunbowale Substitution replaced by Uzun,0,-80,8,,1629481,1642244,1611661321,42,40,0,2
+00:04.1,[ATL] Jones Free Throw 1 of 2 Missed,0,-80,3,,1641650,,1611661330,42,40,0,2
+00:04.1,[ATL] Team Rebound,0,-80,4,,0,,1611661330,42,40,0,2
+00:04.1,[ATL 41-42] Jones Free Throw 2 of 2 (10 PTS),0,-80,3,,1641650,,1611661330,42,41,1,2
+00:01.5,[DAL] Sims 3pt Shot: Missed,-183,386,2,,203824,,1611661321,42,41,0,2
+00:00.1,[DAL] Team Rebound,-183,386,4,,0,,1611661321,42,41,0,2
+00:00.0,End Period,0,-80,13,,0,,0,42,41,0,2
+10:00,Start Period,0,-80,12,,0,,0,42,41,0,3
+09:42,[ATL 44-42] Coffey 3pt Shot: Made (5 PTS) Assist: Gray (6 AST),-200,116,1,,1628269,1628277,1611661330,42,44,3,3
+09:23,[DAL 44-44] Sims Cutting Layup Shot: Made (6 PTS) Assist: McCowan (3 AST),-77,45,1,,203824,1629479,1611661321,44,44,2,3
+09:09,[ATL] Gray Turnaround Jump Shot: Missed,-27,41,2,,1628277,,1611661330,44,44,0,3
+09:06,[DAL] McCowan Rebound (Off:2 Def:5),-27,41,4,,1629479,,1611661321,44,44,0,3
+08:49,[DAL 47-44] Sheldon 3pt Shot: Made (12 PTS) Assist: Sims (3 AST),175,145,1,,1642292,203824,1611661321,47,44,3,3
+08:25,[ATL] Jones Turnover : Lost Ball (2 TO) Steal:Howard (1 ST),151,123,5,203827,1641650,,1611661330,47,44,0,3
+08:23,[ATL] Caldwell Substitution replaced by Hillmon,0,-80,8,,1630471,1631044,1611661330,47,44,0,3
+08:23,Jump Ball Sims vs Jones (Howard gains possession),0,-80,10,1641650,203824,203827,1611661321,47,44,0,3
+08:11,[DAL 49-44] Howard Turnaround Hook Shot: Made (6 PTS) Assist: Sheldon (1 AST),24,44,1,,203827,1642292,1611661321,49,44,2,3
+07:50,[ATL] Charles Jump Shot: Missed,123,127,2,,202250,,1611661330,49,44,0,3
+07:46,[DAL] Ogunbowale Rebound (Off:0 Def:1),123,127,4,,1629481,,1611661321,49,44,0,3
+07:32,[DAL] McCowan Layup Shot: Missed Block: Gray (1 BLK),26,7,2,1628277,1629479,,1611661321,49,44,0,3
+07:28,[DAL] Sheldon Rebound (Off:2 Def:0),26,7,4,,1642292,,1611661321,49,44,0,3
+07:28,[ATL] Coffey Foul: Shooting (1 PF) (2 FTA),-60,59,6,203827,1628269,1629771,1611661330,49,44,0,3
+07:28,[DAL] Howard Free Throw 1 of 2 Missed,0,-80,3,,203827,,1611661321,49,44,0,3
+07:28,[DAL] Team Rebound,0,-80,4,,0,,1611661321,49,44,0,3
+07:28,[DAL] Howard Free Throw 2 of 2 Missed,0,-80,3,,203827,,1611661321,49,44,0,3
+07:25,[ATL] Charles Rebound (Off:0 Def:3),0,-80,4,,202250,,1611661330,49,44,0,3
+07:18,[ATL] Hillmon Turnover : Bad Pass (2 TO) Steal:Sims (4 ST),13,65,5,203824,1631044,,1611661330,49,44,0,3
+07:10,[DAL 51-44] Howard Turnaround Hook Shot: Made (8 PTS) Assist: Sims (4 AST),21,55,1,,203827,203824,1611661321,51,44,2,3
+07:07,Timeout : Regular,0,-80,9,,1611661330,,1611661330,51,44,0,3
+06:54,[DAL] McCowan Foul: Shooting (1 PF) (2 FTA),-8,22,6,1628277,1629479,1629771,1611661321,51,44,0,3
+06:54,[ATL 45-51] Gray Free Throw 1 of 2 (7 PTS),0,-80,3,,1628277,,1611661330,51,45,1,3
+06:54,[ATL] Coffey Substitution replaced by Caldwell,0,-80,8,,1628269,1630471,1611661330,51,45,0,3
+06:54,[ATL 46-51] Gray Free Throw 2 of 2 (8 PTS),0,-80,3,,1628277,,1611661330,51,46,1,3
+06:43,[DAL] Howard Driving Finger Roll Layup Shot: Missed,23,21,2,,203827,,1611661321,51,46,0,3
+06:40,[ATL] Gray Rebound (Off:0 Def:4),23,21,4,,1628277,,1611661330,51,46,0,3
+06:37,[ATL 48-51] Jones Running Finger Roll Layup Shot: Made (12 PTS) Assist: Gray (7 AST),-4,10,1,,1641650,1628277,1611661330,51,48,2,3
+06:14,[DAL] Ogunbowale 3pt Shot: Missed,144,196,2,,1629481,,1611661321,51,48,0,3
+06:13,[ATL] Team Rebound,144,196,4,,0,,1611661330,51,48,0,3
+06:13,[DAL] McCowan Foul: Loose Ball (2 PF),50,841,6,1631044,1629479,1629771,1611661321,51,48,0,3
+06:13,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,51,48,0,3
+06:00,[ATL 50-51] Gray Cutting Layup Shot: Made (10 PTS),0,3,1,,1628277,,1611661330,51,50,2,3
+05:48,[DAL] Billings Fadeaway Jump Shot: Missed,-59,77,2,,1628881,,1611661321,51,50,0,3
+05:45,[DAL] McCowan Rebound (Off:3 Def:5),-59,77,4,,1629479,,1611661321,51,50,0,3
+05:43,[DAL] McCowan Putback Layup Shot: Missed,16,1,2,,1629479,,1611661321,51,50,0,3
+05:42,[ATL] Jones Rebound (Off:0 Def:1),16,1,4,,1641650,,1611661330,51,50,0,3
+05:33,[ATL] Caldwell Pullup Jump shot: Missed,129,113,2,,1630471,,1611661330,51,50,0,3
+05:32,[DAL] Billings Rebound (Off:0 Def:2),129,113,4,,1628881,,1611661321,51,50,0,3
+05:32,[DAL] McCowan Technical (1 FTA),0,-80,6,,1629479,1629771,1611661321,51,50,0,3
+05:32,[ATL] Charles Substitution replaced by Parker-Tyus,0,-80,8,,202250,204323,1611661330,51,50,0,3
+05:32,[ATL] Parker-Tyus Free Throw Technical Missed,0,-80,3,,204323,,1611661330,51,50,0,3
+05:32,[DAL] Team Rebound,0,-80,4,,0,,1611661321,51,50,0,3
+05:32,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,51,50,0,3
+05:32,[ATL] Hillmon Substitution replaced by Charles,0,-80,8,,1631044,202250,1611661330,51,50,0,3
+05:18,[DAL] Sims 3pt Shot: Missed,-184,171,2,,203824,,1611661321,51,50,0,3
+05:13,[ATL] Charles Rebound (Off:0 Def:4),-184,171,4,,202250,,1611661330,51,50,0,3
+05:01,[ATL 52-51] Charles Turnaround Hook Shot: Made (5 PTS) Assist: Parker-Tyus (1 AST),35,42,1,,202250,204323,1611661330,51,52,2,3
+05:01,[DAL] Billings Foul: Shooting (2 PF) (1 FTA),35,42,6,202250,1628881,100697,1611661321,51,52,0,3
+05:01,[ATL 53-51] Charles Free Throw 1 of 1 (6 PTS),0,-80,3,,202250,,1611661330,51,53,1,3
+04:45,[DAL] Sims Turnover : Out of Bounds Lost Ball Turnover (2 TO),-162,7,5,,203824,1641521,1611661321,51,53,0,3
+04:33,[ATL 55-51] Parker-Tyus Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Jones (2 AST),24,16,1,,204323,1641650,1611661330,51,55,2,3
+04:33,Timeout : Regular,0,-80,9,,1611661321,,1611661321,51,55,0,3
+04:33,[ATL] Gray Substitution replaced by Coffey,0,-80,8,,1628277,1628269,1611661330,51,55,0,3
+04:17,[DAL] Sheldon 3pt Shot: Missed,193,134,2,,1642292,,1611661321,51,55,0,3
+04:12,[ATL] Parker-Tyus Rebound (Off:1 Def:3),193,134,4,,204323,,1611661330,51,55,0,3
+04:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,55,0,3
+03:53,[ATL] Parker-Tyus Turnaround Bank shot: Missed,-66,9,2,,204323,,1611661330,51,55,0,3
+03:49,[DAL] Ogunbowale Rebound (Off:0 Def:2),-66,9,4,,1629481,,1611661321,51,55,0,3
+03:42,[DAL] Brown Jump Shot: Missed,-46,191,2,,1629480,,1611661321,51,55,0,3
+03:40,[DAL] Billings Rebound (Off:1 Def:2),-46,191,4,,1628881,,1611661321,51,55,0,3
+03:38,[DAL 53-55] Billings Tip Layup Shot: Made (6 PTS),0,-5,1,,1628881,,1611661321,53,55,2,3
+03:26,[ATL] Jones Driving Floating Jump Shot: Missed Block: Ogunbowale (1 BLK),34,11,2,1629481,1641650,,1611661330,53,55,0,3
+03:25,[DAL] Ogunbowale Rebound (Off:0 Def:3),34,11,4,,1629481,,1611661321,53,55,0,3
+03:18,[DAL] Billings Turnover : Out of Bounds Lost Ball Turnover (1 TO),-18,8,5,,1628881,100697,1611661321,53,55,0,3
+03:18,[ATL] Caldwell Substitution replaced by Gray,0,-80,8,,1630471,1628277,1611661330,53,55,0,3
+03:10,[ATL] Coffey Foul: Offensive (2 PF),-4,6,6,1628881,1628269,100697,1611661330,53,55,0,3
+03:10,[ATL] Coffey Turnover : Offensive Foul Turnover (1 TO),-4,6,5,,1628269,100697,1611661330,53,55,0,3
+02:59,[DAL 56-55] Ogunbowale 3pt Shot: Made (12 PTS) Assist: Sims (5 AST),-111,239,1,,1629481,203824,1611661321,56,55,3,3
+02:54,[ATL] Charles Turnover : Bad Pass (4 TO) Steal:Billings (1 ST),-73,867,5,1628881,202250,,1611661330,56,55,0,3
+02:54,[ATL] Jones Foul: Shooting (3 PF) (2 FTA),-20,18,6,1628881,1641650,1629771,1611661330,56,55,0,3
+02:54,[DAL] Billings Free Throw 1 of 2 Missed,0,-80,3,,1628881,,1611661321,56,55,0,3
+02:54,[DAL] Team Rebound,0,-80,4,,0,,1611661321,56,55,0,3
+02:54,[DAL 57-55] Billings Free Throw 2 of 2 (7 PTS),0,-80,3,,1628881,,1611661321,57,55,1,3
+02:38,[ATL 57-57] Coffey Layup Shot: Made (7 PTS) Assist: Parker-Tyus (2 AST),-12,14,1,,1628269,204323,1611661330,57,57,2,3
+02:15,[DAL] Ogunbowale 3pt Shot: Missed Block: Coffey (1 BLK),-226,78,2,1628269,1629481,,1611661321,57,57,0,3
+02:13,[ATL] Gray Rebound (Off:0 Def:5),-226,78,4,,1628277,,1611661330,57,57,0,3
+02:09,[ATL] Gray Turnover : Bad Pass (3 TO) Steal:Ogunbowale (2 ST),-130,209,5,1629481,1628277,,1611661330,57,57,0,3
+02:08,[ATL] Jones Foul: Personal (4 PF),-105,837,6,203824,1641650,1629771,1611661330,57,57,0,3
+02:08,[DAL] Sheldon Substitution replaced by Uzun,0,-80,8,,1642292,1642244,1611661321,57,57,0,3
+02:08,[ATL] Coffey Substitution replaced by Caldwell,0,-80,8,,1628269,1630471,1611661330,57,57,0,3
+01:58,[DAL 59-57] Billings Driving Layup Shot: Made (9 PTS) Assist: Sims (6 AST),-35,3,1,,1628881,203824,1611661321,59,57,2,3
+01:58,[ATL] Charles Foul: Shooting (3 PF),-35,3,6,1628881,202250,1641521,1611661330,59,57,0,3
+01:58,[DAL] Brown Turnover : Lane Violation (1 TO),-90,778,5,,1629480,,1611661321,59,57,0,3
+01:45,[ATL] Charles Fadeaway Jump Shot: Missed,53,80,2,,202250,,1611661330,59,57,0,3
+01:41,[DAL] Ogunbowale Rebound (Off:0 Def:4),53,80,4,,1629481,,1611661321,59,57,0,3
+01:40,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-46,383,5,,1629481,100697,1611661321,59,57,0,3
+01:40,[DAL] Ogunbowale Substitution replaced by Sheldon,0,-80,8,,1629481,1642292,1611661321,59,57,0,3
+01:40,[ATL] Charles Substitution replaced by Hillmon,0,-80,8,,202250,1631044,1611661330,59,57,0,3
+01:18,[ATL] Parker-Tyus Turnover : Bad Pass (3 TO) Steal:Uzun (1 ST),60,11,5,1642244,204323,,1611661330,59,57,0,3
+01:10,[ATL] Gray Foul: Shooting (2 PF) (2 FTA),-12,29,6,203824,1628277,100697,1611661330,59,57,0,3
+01:10,[DAL 60-57] Sims Free Throw 1 of 2 (7 PTS),0,-80,3,,203824,,1611661321,60,57,1,3
+01:10,[DAL] Sims Free Throw 2 of 2 Missed,0,-80,3,,203824,,1611661321,60,57,0,3
+01:09,[ATL] Team Rebound,0,-80,4,,0,,1611661330,60,57,0,3
+01:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,57,0,3
+01:09,[DAL] Sims Substitution replaced by Ogunbowale,0,-80,8,,203824,1629481,1611661321,60,57,0,3
+00:52.1,[ATL 59-60] Hillmon Cutting Layup Shot: Made (7 PTS) Assist: Parker-Tyus (3 AST),-15,9,1,,1631044,204323,1611661330,60,59,2,3
+00:36.8,[DAL] Brown Turnover : Step Out of Bounds Turnover (2 TO),-117,-32,5,,1629480,1641521,1611661321,60,59,0,3
+00:25.5,[ATL 61-60] Gray Cutting Layup Shot: Made (12 PTS) Assist: Caldwell (3 AST),27,5,1,,1628277,1630471,1611661330,60,61,2,3
+00:00.9,[DAL] Billings Floating Jump shot: Missed,-35,83,2,,1628881,,1611661321,60,61,0,3
+00:00.2,[ATL] Team Rebound,-35,83,4,,0,,1611661330,60,61,0,3
+00:00.2,Jump Ball Hillmon vs Billings,0,-80,10,1628881,1631044,,1611661330,60,61,0,3
+00:00.0,End Period,0,-80,13,,0,,0,60,61,0,3
+10:00,Start Period,0,-80,12,,0,,0,60,61,0,4
+09:43,[DAL 62-61] Sheldon Cutting Finger Roll Layup Shot: Made (14 PTS) Assist: McCowan (4 AST),-20,17,1,,1642292,1629479,1611661321,62,61,2,4
+09:25,[ATL] Gray Driving Layup Shot: Missed,12,47,2,,1628277,,1611661330,62,61,0,4
+09:20,[DAL] McCowan Rebound (Off:3 Def:6),12,47,4,,1629479,,1611661321,62,61,0,4
+09:11,[DAL] McCowan Jump Shot: Missed,4,184,2,,1629479,,1611661321,62,61,0,4
+09:09,[ATL] Team Rebound,4,184,4,,0,,1611661330,62,61,0,4
+09:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,62,61,0,4
+08:51,[ATL 63-62] Gray Pullup Jump shot: Made (14 PTS),100,83,1,,1628277,,1611661330,62,63,2,4
+08:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,62,63,0,4
+08:34,[DAL] McCowan Substitution replaced by Billings,0,-80,8,,1629479,1628881,1611661321,62,63,0,4
+08:34,[ATL] Hillmon Substitution replaced by Charles,0,-80,8,,1631044,202250,1611661330,62,63,0,4
+08:25,[DAL] Ogunbowale Floating Jump shot: Missed,18,133,2,,1629481,,1611661321,62,63,0,4
+08:19,[ATL] Parker-Tyus Rebound (Off:1 Def:4),18,133,4,,204323,,1611661330,62,63,0,4
+08:06,[ATL] Gray Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-105,224,5,,1628277,1629771,1611661330,62,63,0,4
+07:56,[DAL 65-63] Sheldon 3pt Shot: Made (17 PTS) Assist: Sims (7 AST),161,180,1,,1642292,203824,1611661321,65,63,3,4
+07:31,[ATL 65-65] Charles Jump Shot: Made (8 PTS) Assist: Parker-Tyus (4 AST),-129,-16,1,,202250,204323,1611661330,65,65,2,4
+07:22,[ATL] Gray Foul: Personal (3 PF),-218,176,6,203824,1628277,100697,1611661330,65,65,0,4
+07:12,[DAL] Howard 3pt Shot: Missed,193,129,2,,203827,,1611661321,65,65,0,4
+07:10,[ATL] Gray Rebound (Off:0 Def:6),193,129,4,,1628277,,1611661330,65,65,0,4
+07:10,[DAL] Sheldon Foul: Personal (1 PF),27,554,6,1628277,1642292,1629771,1611661321,65,65,0,4
+06:51,[ATL] Parker-Tyus Turnover : Bad Pass (4 TO) Steal:Howard (2 ST),24,241,5,203827,204323,,1611661330,65,65,0,4
+06:48,[DAL] Howard Turnover : Bad Pass (4 TO) Steal:Gray (1 ST),-62,490,5,1628277,203827,,1611661321,65,65,0,4
+06:44,[ATL 67-65] Charles Running Layup Shot: Made (10 PTS) Assist: Gray (8 AST),22,-6,1,,202250,1628277,1611661330,65,67,2,4
+06:43,Timeout : Regular,0,-80,9,,1611661321,,1611661321,65,67,0,4
+06:43,[DAL] Howard Substitution replaced by McCowan,0,-80,8,,203827,1629479,1611661321,65,67,0,4
+06:27,[DAL 67-67] Sims Jump Shot: Made (9 PTS) Assist: Sheldon (2 AST),-201,-6,1,,203824,1642292,1611661321,67,67,2,4
+06:11,[ATL] Charles Fadeaway Jump Shot: Missed,33,47,2,,202250,,1611661330,67,67,0,4
+06:09,[DAL] Sims Rebound (Off:0 Def:1),33,47,4,,203824,,1611661321,67,67,0,4
+06:09,[ATL] Caldwell Foul: Personal (1 PF),99,861,6,203824,1630471,1641521,1611661330,67,67,0,4
+05:54,[DAL] Sheldon Turnover : Bad Pass (1 TO) Steal:Parker-Tyus (1 ST),44,43,5,204323,1642292,,1611661321,67,67,0,4
+05:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,67,0,4
+05:37,[ATL 69-67] Charles Layup Shot: Made (12 PTS),33,28,1,,202250,,1611661330,67,69,2,4
+05:22,[DAL] Ogunbowale Foul: Offensive (4 PF),4,107,6,1630471,1629481,1629771,1611661321,67,69,0,4
+05:22,[DAL] Ogunbowale Turnover : Offensive Foul Turnover (4 TO),4,107,5,,1629481,1629771,1611661321,67,69,0,4
+05:00,[ATL] Charles Hook Shot: Missed,62,32,2,,202250,,1611661330,67,69,0,4
+04:58,[DAL] Ogunbowale Rebound (Off:0 Def:5),62,32,4,,1629481,,1611661321,67,69,0,4
+04:52,[DAL] Sheldon Running Layup Shot: Missed,39,28,2,,1642292,,1611661321,67,69,0,4
+04:49,[ATL] Gray Rebound (Off:0 Def:7),39,28,4,,1628277,,1611661330,67,69,0,4
+04:46,[ATL 71-67] Gray Running Layup Shot: Made (16 PTS),-23,-8,1,,1628277,,1611661330,67,71,2,4
+04:31,[DAL] Billings Turnaround Bank shot: Missed,-77,60,2,,1628881,,1611661321,67,71,0,4
+04:27,[ATL] Charles Rebound (Off:0 Def:5),-77,60,4,,202250,,1611661330,67,71,0,4
+04:14,[ATL] Jones Turnover : Bad Pass (3 TO) Steal:Billings (2 ST),53,240,5,1628881,1641650,,1611661330,67,71,0,4
+04:11,[DAL 69-71] Ogunbowale Running Layup Shot: Made (14 PTS),28,8,1,,1629481,,1611661321,69,71,2,4
+04:11,[ATL] Caldwell Foul: Shooting (2 PF) (1 FTA),28,8,6,1629481,1630471,100697,1611661330,69,71,0,4
+04:11,[DAL] Sheldon Substitution replaced by Uzun,0,-80,8,,1642292,1642244,1611661321,69,71,0,4
+04:11,[DAL] Billings Substitution replaced by Howard,0,-80,8,,1628881,203827,1611661321,69,71,0,4
+04:11,[DAL 70-71] Ogunbowale Free Throw 1 of 1 (15 PTS),0,-80,3,,1629481,,1611661321,70,71,1,4
+03:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,71,0,4
+03:48,[ATL] Parker-Tyus Turnover : Traveling (5 TO),-211,54,5,,204323,100697,1611661330,70,71,0,4
+03:40,[ATL] Jones Foul: Shooting (5 PF) (2 FTA),-24,7,6,1629479,1641650,1629771,1611661330,70,71,0,4
+03:40,Timeout : Regular,0,-80,9,,1611661330,,1611661330,70,71,0,4
+03:40,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661330,70,71,0,4
+03:40,[DAL 71-71] McCowan Free Throw 1 of 2 (13 PTS),0,-80,3,,1629479,,1611661321,71,71,1,4
+03:40,[DAL 72-71] McCowan Free Throw 2 of 2 (14 PTS),0,-80,3,,1629479,,1611661321,72,71,1,4
+03:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,71,0,4
+03:27,[ATL] Gray Turnover : Out of Bounds - Bad Pass Turnover (5 TO),240,352,5,,1628277,100697,1611661330,72,71,0,4
+03:18,[DAL] McCowan Layup Shot: Missed Block: Caldwell (1 BLK),-31,18,2,1630471,1629479,,1611661321,72,71,0,4
+03:17,[DAL] McCowan Rebound (Off:4 Def:6),-31,18,4,,1629479,,1611661321,72,71,0,4
+03:15,[DAL 74-71] McCowan Putback Layup Shot: Made (16 PTS),0,-5,1,,1629479,,1611661321,74,71,2,4
+03:03,[ATL 73-74] Parker-Tyus Driving Finger Roll Layup Shot: Made (6 PTS) Assist: Jones (3 AST),17,22,1,,204323,1641650,1611661330,74,73,2,4
+03:03,[DAL] McCowan Foul: Shooting (4 PF) (1 FTA),17,22,6,204323,1629479,1629771,1611661321,74,73,0,4
+03:03,[ATL] Parker-Tyus Free Throw 1 of 1 Missed,0,-80,3,,204323,,1611661330,74,73,0,4
+03:00,[ATL] Charles Rebound (Off:1 Def:5),0,-80,4,,202250,,1611661330,74,73,0,4
+02:51,[ATL] Jones Pullup Jump shot: Missed Block: McCowan (1 BLK),112,151,2,1629479,1641650,,1611661330,74,73,0,4
+02:51,[ATL] Team Rebound,112,151,4,,0,,1611661330,74,73,0,4
+02:50,Timeout : Challenge,0,-80,9,,1611661321,,1611661321,74,73,0,4
+02:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,73,0,4
+02:50,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661321,74,73,0,4
+02:47,[ATL] Charles Turnover : Out of Bounds Lost Ball Turnover (5 TO),-129,-18,5,,202250,1641521,1611661330,74,73,0,4
+02:37,[DAL] Howard Turnover : Out of Bounds - Bad Pass Turnover (5 TO),-165,26,5,,203827,1629771,1611661321,74,73,0,4
+02:28,[ATL] Jones Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-117,20,5,,1641650,1641521,1611661330,74,73,0,4
+02:03,[DAL 77-73] Sims 3pt Shot: Made (12 PTS) Assist: Uzun (1 AST),228,66,1,,203824,1642244,1611661321,77,73,3,4
+01:44,[ATL 76-77] Gray 3pt Shot: Made (19 PTS) Assist: Charles (2 AST),179,178,1,,1628277,202250,1611661330,77,76,3,4
+01:44,[DAL] Sims Foul: Shooting (2 PF) (1 FTA),179,178,6,1628277,203824,1629771,1611661321,77,76,0,4
+01:44,[ATL] Gray Free Throw 1 of 1 Missed,0,-80,3,,1628277,,1611661330,77,76,0,4
+01:41,[DAL] McCowan Rebound (Off:4 Def:7),0,-80,4,,1629479,,1611661321,77,76,0,4
+01:29,[DAL] Uzun Turnover : Traveling (1 TO),-211,10,5,,1642244,1641521,1611661321,77,76,0,4
+01:29,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,77,76,0,4
+01:11,[ATL] Gray Turnover : Lost Ball (6 TO) Steal:Sims (5 ST),124,192,5,203824,1628277,,1611661330,77,76,0,4
+01:08,[DAL 79-76] Sims Running Layup Shot: Made (14 PTS),-21,10,1,,203824,,1611661321,79,76,2,4
+01:08,Timeout : Regular,0,-80,9,,1611661330,,1611661330,79,76,0,4
+01:04,[ATL] Gray 3pt Shot: Missed,93,224,2,,1628277,,1611661330,79,76,0,4
+00:59.9,[ATL] Charles Rebound (Off:2 Def:5),93,224,4,,202250,,1611661330,79,76,0,4
+00:59.9,[ATL] Charles Turnover : Step Out of Bounds Turnover (6 TO),245,54,5,,202250,1641521,1611661330,79,76,0,4
+00:45.0,[DAL 81-76] Howard Jump Shot: Made (10 PTS) Assist: Sheldon (3 AST),33,164,1,,203827,1642292,1611661321,81,76,2,4
+00:28.3,[ATL 78-81] Parker-Tyus Jump Shot: Made (8 PTS) Assist: Jones (4 AST),-60,72,1,,204323,1641650,1611661330,81,78,2,4
+00:25.2,[ATL] Gray Foul: Personal (4 PF) (2 FTA),17,774,6,1629481,1628277,100697,1611661330,81,78,0,4
+00:25.2,[DAL 82-78] Ogunbowale Free Throw 1 of 2 (16 PTS),0,-80,3,,1629481,,1611661321,82,78,1,4
+00:25.2,[DAL 83-78] Ogunbowale Free Throw 2 of 2 (17 PTS),0,-80,3,,1629481,,1611661321,83,78,1,4
+00:25.2,Timeout : Reset,0,-80,9,,1611661330,,1611661330,83,78,0,4
+00:21.7,[ATL 80-83] Jones Cutting Layup Shot: Made (14 PTS) Assist: Parker-Tyus (5 AST),-12,-2,1,,1641650,204323,1611661330,83,80,2,4
+00:21.5,Timeout : Reset,0,-80,9,,1611661321,,1611661321,83,80,0,4
+00:21.5,[ATL] Parker-Tyus Substitution replaced by Hillmon,0,-80,8,,204323,1631044,1611661330,83,80,0,4
+00:21.5,[ATL] Jones Substitution replaced by Coffey,0,-80,8,,1641650,1628269,1611661330,83,80,0,4
+00:21.5,[ATL] Caldwell Substitution replaced by Amihere,0,-80,8,,1630471,1641656,1611661330,83,80,0,4
+00:20.5,[ATL] Coffey Foul: Personal (3 PF) (2 FTA),-168,338,6,1629481,1628269,100697,1611661330,83,80,0,4
+00:20.5,[DAL 84-80] Ogunbowale Free Throw 1 of 2 (18 PTS),0,-80,3,,1629481,,1611661321,84,80,1,4
+00:20.5,[ATL] Hillmon Substitution replaced by Jones,0,-80,8,,1631044,1641650,1611661330,84,80,0,4
+00:20.5,[ATL] Coffey Substitution replaced by Caldwell,0,-80,8,,1628269,1630471,1611661330,84,80,0,4
+00:20.5,[ATL] Amihere Substitution replaced by Parker-Tyus,0,-80,8,,1641656,204323,1611661330,84,80,0,4
+00:20.5,[DAL 85-80] Ogunbowale Free Throw 2 of 2 (19 PTS),0,-80,3,,1629481,,1611661321,85,80,1,4
+00:10.0,[ATL] Charles Turnover : Traveling (7 TO),-50,225,5,,202250,1641521,1611661330,85,80,0,4
+00:08.7,[ATL] Gray Foul: Personal (5 PF) (2 FTA),138,830,6,1629481,1628277,100697,1611661330,85,80,0,4
+00:08.7,[DAL] Ogunbowale Free Throw 1 of 2 Missed,0,-80,3,,1629481,,1611661321,85,80,0,4
+00:08.7,[DAL] Team Rebound,0,-80,4,,0,,1611661321,85,80,0,4
+00:08.7,[DAL] Ogunbowale Free Throw 2 of 2 Missed,0,-80,3,,1629481,,1611661321,85,80,0,4
+00:06.0,[ATL] Charles Rebound (Off:2 Def:6),0,-80,4,,202250,,1611661330,85,80,0,4
+00:01.6,[ATL 82-85] Jones Driving Layup Shot: Made (16 PTS),37,22,1,,1641650,,1611661330,85,82,2,4
+00:00.0,End Period,0,-80,13,,0,,0,85,82,0,4

@@ -1,0 +1,363 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:58,Jump Ball Jones vs Charles (Laney-Hamilton gains possession),0,-80,10,202250,1627673,204335,1611661313,0,0,0,1
+09:39,[NYL 3-0] Laney-Hamilton 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),6,240,1,,204335,1627673,1611661313,3,0,3,1
+09:17,[ATL] Charles Fadeaway Jump Shot: Missed,-4,65,2,,202250,,1611661330,3,0,0,1
+09:16,[NYL] Jones Rebound (Off:0 Def:1),-4,65,4,,1627673,,1611661313,3,0,0,1
+08:57,[NYL] Ionescu Pullup Jump shot: Missed,-157,-16,2,,1629477,,1611661313,3,0,0,1
+08:56,[ATL] Charles Rebound (Off:0 Def:1),-157,-16,4,,202250,,1611661330,3,0,0,1
+08:40,[ATL] Hillmon Turnover : Lost Ball (1 TO) Steal:Ionescu (1 ST),40,259,5,1629477,1631044,,1611661330,3,0,0,1
+08:36,[NYL 5-0] Stewart Running Layup Shot: Made (2 PTS) Assist: Ionescu (1 AST),21,6,1,,1627668,1629477,1611661313,5,0,2,1
+08:11,[ATL] Howard Pullup Jump shot: Missed Block: Ionescu (1 BLK),36,126,2,1629477,1631009,,1611661330,5,0,0,1
+08:08,[ATL] Howard Rebound (Off:1 Def:0),36,126,4,,1631009,,1611661330,5,0,0,1
+08:08,[ATL] Howard Jump Shot: Missed,39,107,2,,1631009,,1611661330,5,0,0,1
+08:06,[NYL] Jones Rebound (Off:0 Def:2),39,107,4,,1627673,,1611661313,5,0,0,1
+07:54,[NYL] Vandersloot Driving Layup Shot: Missed Block: Howard (1 BLK),45,-1,2,1631009,202664,,1611661313,5,0,0,1
+07:53,[NYL] Vandersloot Rebound (Off:1 Def:0),45,-1,4,,202664,,1611661313,5,0,0,1
+07:51,[ATL] Hillmon Foul: Personal (1 PF),-22,59,6,1627673,1631044,202764,1611661330,5,0,0,1
+07:41,[NYL] Ionescu Driving Floating Jump Shot: Missed,21,91,2,,1629477,,1611661313,5,0,0,1
+07:38,[ATL] Gray Rebound (Off:0 Def:1),21,91,4,,1628277,,1611661330,5,0,0,1
+07:28,[ATL] Charles Pullup Jump shot: Missed,-112,58,2,,202250,,1611661330,5,0,0,1
+07:27,[NYL] Stewart Rebound (Off:0 Def:1),-112,58,4,,1627668,,1611661313,5,0,0,1
+07:21,[NYL] Laney-Hamilton Running Layup Shot: Missed,-33,27,2,,204335,,1611661313,5,0,0,1
+07:20,[ATL] Charles Rebound (Off:0 Def:2),-33,27,4,,202250,,1611661330,5,0,0,1
+07:08,[NYL] Laney-Hamilton Foul: Personal (1 PF),82,33,6,1628886,204335,1628702,1611661313,5,0,0,1
+06:54,[ATL] Canada Pullup Jump shot: Missed,129,33,2,,1628886,,1611661330,5,0,0,1
+06:52,[ATL] Charles Rebound (Off:1 Def:2),129,33,4,,202250,,1611661330,5,0,0,1
+06:47,[ATL] Howard Pullup Jump shot: Missed,-48,196,2,,1631009,,1611661330,5,0,0,1
+06:43,[ATL] Charles Rebound (Off:2 Def:2),-48,196,4,,202250,,1611661330,5,0,0,1
+06:39,[ATL 2-5] Gray Driving Layup Shot: Made (2 PTS) Assist: Charles (1 AST),-26,13,1,,1628277,202250,1611661330,5,2,2,1
+06:23,[NYL] Vandersloot 3pt Shot: Missed,185,180,2,,202664,,1611661313,5,2,0,1
+06:22,[ATL] Howard Rebound (Off:1 Def:1),185,180,4,,1631009,,1611661330,5,2,0,1
+06:16,[ATL 4-5] Hillmon Running Layup Shot: Made (2 PTS) Assist: Gray (1 AST),-9,19,1,,1631044,1628277,1611661330,5,4,2,1
+05:56,[NYL] Stewart Turnaround Jump Shot: Missed,149,11,2,,1627668,,1611661313,5,4,0,1
+05:55,[ATL] Charles Rebound (Off:2 Def:3),149,11,4,,202250,,1611661330,5,4,0,1
+05:33,[ATL 7-5] Gray 3pt Shot: Made (5 PTS) Assist: Charles (2 AST),79,246,1,,1628277,202250,1611661330,5,7,3,1
+05:21,[NYL] Jones Foul: Offensive (1 PF),116,140,6,1631009,1627673,1628702,1611661313,5,7,0,1
+05:21,[NYL] Jones Turnover : Offensive Foul Turnover (1 TO),116,140,5,,1627673,1628702,1611661313,5,7,0,1
+05:03,[ATL 9-5] Howard Driving Layup Shot: Made (2 PTS) Assist: Canada (1 AST),18,13,1,,1631009,1628886,1611661330,5,9,2,1
+04:40,[NYL] Stewart 3pt Shot: Missed,88,242,2,,1627668,,1611661313,5,9,0,1
+04:39,[ATL] Gray Rebound (Off:0 Def:2),88,242,4,,1628277,,1611661330,5,9,0,1
+04:33,[ATL] Howard 3pt Shot: Missed,206,136,2,,1631009,,1611661330,5,9,0,1
+04:32,[NYL] Laney-Hamilton Rebound (Off:0 Def:1),206,136,4,,204335,,1611661313,5,9,0,1
+04:20,[NYL] Vandersloot Turnover : Traveling (1 TO),-168,31,5,,202664,202764,1611661313,5,9,0,1
+04:20,Timeout : Official,0,-80,9,,0,,0,5,9,0,1
+04:20,[NYL] Laney-Hamilton Substitution replaced by Fiebich,0,-80,8,,204335,1630142,1611661313,5,9,0,1
+04:20,[NYL] Vandersloot Substitution replaced by Thornton,0,-80,8,,202664,203866,1611661313,5,9,0,1
+04:07,[ATL 11-5] Gray Driving Layup Shot: Made (7 PTS) Assist: Canada (2 AST),-11,27,1,,1628277,1628886,1611661330,5,11,2,1
+03:49,[NYL 8-11] Fiebich 3pt Shot: Made (3 PTS) Assist: Ionescu (2 AST),-105,240,1,,1630142,1629477,1611661313,8,11,3,1
+03:36,[ATL 13-8] Canada Driving Finger Roll Layup Shot: Made (2 PTS),-13,18,1,,1628886,,1611661330,8,13,2,1
+03:26,[NYL 11-13] Stewart 3pt Shot: Made (5 PTS),124,242,1,,1627668,,1611661313,11,13,3,1
+03:09,[ATL 15-11] Hillmon Layup Shot: Made (4 PTS) Assist: Gray (2 AST),-5,31,1,,1631044,1628277,1611661330,11,15,2,1
+02:50,[NYL] Jones Turnaround Fadeaway shot: Missed,-138,-1,2,,1627673,,1611661313,11,15,0,1
+02:49,[NYL] Thornton Rebound (Off:1 Def:0),-138,-1,4,,203866,,1611661313,11,15,0,1
+02:47,[NYL] Thornton Turnover : Lost Ball (1 TO) Steal:Canada (1 ST),-32,20,5,1628886,203866,,1611661313,11,15,0,1
+02:41,[ATL 17-11] Canada Running Layup Shot: Made (4 PTS),1,17,1,,1628886,,1611661330,11,17,2,1
+02:23,[NYL] Stewart Driving Layup Shot: Missed,-32,14,2,,1627668,,1611661313,11,17,0,1
+02:22,[ATL] Charles Rebound (Off:2 Def:4),-32,14,4,,202250,,1611661330,11,17,0,1
+01:59,[ATL] Gray 3pt Shot: Missed,-117,260,2,,1628277,,1611661330,11,17,0,1
+01:58,[NYL] Jones Rebound (Off:0 Def:3),-117,260,4,,1627673,,1611661313,11,17,0,1
+01:48,[NYL 13-17] Stewart Cutting Layup Shot: Made (7 PTS) Assist: Ionescu (3 AST),21,15,1,,1627668,1629477,1611661313,13,17,2,1
+01:34,[NYL] Fiebich Foul: Personal (1 PF),196,222,6,1628277,1630142,202764,1611661313,13,17,0,1
+01:34,[NYL] Ionescu Substitution replaced by Sabally,0,-80,8,,1629477,1631055,1611661313,13,17,0,1
+01:34,[NYL] Jones Substitution replaced by Vandersloot,0,-80,8,,1627673,202664,1611661313,13,17,0,1
+01:34,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,13,17,0,1
+01:34,[ATL] Canada Substitution replaced by Jones,0,-80,8,,1628886,1641650,1611661330,13,17,0,1
+01:34,[ATL] Gray Substitution replaced by Caldwell,0,-80,8,,1628277,1630471,1611661330,13,17,0,1
+01:29,[ATL 19-13] Charles Driving Hook Shot: Made (2 PTS),12,49,1,,202250,,1611661330,13,19,2,1
+01:16,[NYL] Sabally Cutting Layup Shot: Missed Block: Charles (1 BLK),21,4,2,202250,1631055,,1611661313,13,19,0,1
+01:15,[NYL] Sabally Rebound (Off:1 Def:0),21,4,4,,1631055,,1611661313,13,19,0,1
+01:12,[NYL] Sabally Turnover : Lost Ball (1 TO) Steal:Jones (1 ST),-33,15,5,1641650,1631055,,1611661313,13,19,0,1
+01:02,[ATL] Charles Turnover : Bad Pass (1 TO) Steal:Stewart (1 ST),57,237,5,1627668,202250,,1611661330,13,19,0,1
+00:58.2,[ATL] Jones Foul: Shooting (1 PF) (2 FTA),-41,9,6,1627668,1641650,202764,1611661330,13,19,0,1
+00:58.2,[NYL 14-19] Stewart Free Throw 1 of 2 (8 PTS),0,-80,3,,1627668,,1611661313,14,19,1,1
+00:58.2,[ATL] Charles Substitution replaced by Cubaj,0,-80,8,,202250,1631032,1611661330,14,19,0,1
+00:58.2,[NYL 15-19] Stewart Free Throw 2 of 2 (9 PTS),0,-80,3,,1627668,,1611661313,15,19,1,1
+00:34.4,[ATL] Coffey Cutting Layup Shot: Missed,-39,38,2,,1628269,,1611661330,15,19,0,1
+00:33.2,[ATL] Caldwell Rebound (Off:1 Def:0),-39,38,4,,1630471,,1611661330,15,19,0,1
+00:32.0,[ATL 21-15] Caldwell Putback Layup Shot: Made (2 PTS),12,26,1,,1630471,,1611661330,15,21,2,1
+00:14.4,[NYL] Vandersloot Driving Layup Shot: Missed,-40,21,2,,202664,,1611661313,15,21,0,1
+00:13.2,[ATL] Coffey Rebound (Off:0 Def:1),-40,21,4,,1628269,,1611661330,15,21,0,1
+00:09.7,[ATL] Coffey Turnover : Out of Bounds Lost Ball Turnover (1 TO),-183,172,5,,1628269,202764,1611661330,15,21,0,1
+00:00.0,End Period,0,-80,13,,0,,0,15,21,0,1
+10:00,Start Period,0,-80,12,,0,,0,15,21,0,2
+09:54,[ATL] Jones Turnover : Out of Bounds Lost Ball Turnover (1 TO),186,303,5,,1641650,101044,1611661330,15,21,0,2
+09:43,[NYL] Fiebich Turnover : Out of Bounds - Bad Pass Turnover (1 TO),168,267,5,,1630142,202764,1611661313,15,21,0,2
+09:39,[ATL] Jones Foul: Offensive (2 PF),117,505,6,204335,1641650,101044,1611661330,15,21,0,2
+09:39,[ATL] Jones Turnover : Offensive Foul Turnover (2 TO),117,505,5,,1641650,101044,1611661330,15,21,0,2
+09:39,[ATL] Jones Substitution replaced by Canada,0,-80,8,,1641650,1628886,1611661330,15,21,0,2
+09:27,[NYL] Laney-Hamilton Pullup Jump shot: Missed,121,91,2,,204335,,1611661313,15,21,0,2
+09:26,[NYL] Burke Rebound (Off:1 Def:0),121,91,4,,1629568,,1611661313,15,21,0,2
+09:18,[NYL] Vandersloot Turnover : Double Dribble (2 TO),-78,241,5,,202664,202764,1611661313,15,21,0,2
+08:58,[ATL 23-15] Coffey Turnaround Bank shot: Made (2 PTS),-1,56,1,,1628269,,1611661330,15,23,2,2
+08:36,[NYL] Burke Driving Layup Shot: Missed,-19,42,2,,1629568,,1611661313,15,23,0,2
+08:35,[ATL] Caldwell Rebound (Off:1 Def:1),-19,42,4,,1630471,,1611661330,15,23,0,2
+08:27,[ATL] Gray 3pt Shot: Missed,-233,96,2,,1628277,,1611661330,15,23,0,2
+08:26,[ATL] Coffey Rebound (Off:1 Def:1),-233,96,4,,1628269,,1611661330,15,23,0,2
+08:21,[ATL] Coffey Turnover : Lost Ball (2 TO) Steal:Fiebich (1 ST),-250,200,5,1630142,1628269,,1611661330,15,23,0,2
+08:15,[NYL 18-23] Laney-Hamilton 3pt Shot: Made (6 PTS) Assist: Vandersloot (1 AST),-136,204,1,,204335,202664,1611661313,18,23,3,2
+07:50,[ATL 26-18] Caldwell 3pt Shot: Made (5 PTS) Assist: Gray (3 AST),189,174,1,,1630471,1628277,1611661330,18,26,3,2
+07:48,Timeout : Regular,0,-80,9,,1611661313,,1611661313,18,26,0,2
+07:48,[NYL] Vandersloot Substitution replaced by Ionescu,0,-80,8,,202664,1629477,1611661313,18,26,0,2
+07:48,[ATL] Cubaj Substitution replaced by Charles,0,-80,8,,1631032,202250,1611661330,18,26,0,2
+07:29,[NYL] Ionescu Driving Layup Shot: Missed,-38,8,2,,1629477,,1611661313,18,26,0,2
+07:28,[ATL] Charles Rebound (Off:2 Def:5),-38,8,4,,202250,,1611661330,18,26,0,2
+07:12,[NYL] Burke Foul: Shooting (1 PF) (2 FTA),-26,39,6,1628277,1629568,202764,1611661313,18,26,0,2
+07:12,[ATL] Gray Free Throw 1 of 2 Missed,0,-80,3,,1628277,,1611661330,18,26,0,2
+07:12,[ATL] Team Rebound,0,-80,4,,0,,1611661330,18,26,0,2
+07:12,[NYL] Sabally Substitution replaced by Thornton,0,-80,8,,1631055,203866,1611661313,18,26,0,2
+07:12,[NYL] Fiebich Substitution replaced by Jones,0,-80,8,,1630142,1627673,1611661313,18,26,0,2
+07:12,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,18,26,0,2
+07:12,[ATL] Caldwell Substitution replaced by Howard,0,-80,8,,1630471,1631009,1611661330,18,26,0,2
+07:12,[ATL 27-18] Gray Free Throw 2 of 2 (8 PTS),0,-80,3,,1628277,,1611661330,18,27,1,2
+06:58,[NYL] Jones Turnaround Jump Shot: Missed,-35,90,2,,1627673,,1611661313,18,27,0,2
+06:57,[ATL] Hillmon Rebound (Off:0 Def:1),-35,90,4,,1631044,,1611661330,18,27,0,2
+06:43,[ATL 29-18] Hillmon Cutting Layup Shot: Made (6 PTS) Assist: Howard (1 AST),8,12,1,,1631044,1631009,1611661330,18,29,2,2
+06:28,[NYL] Thornton 3pt Shot: Missed,232,72,2,,203866,,1611661313,18,29,0,2
+06:27,[NYL] Team Rebound,232,72,4,,0,,1611661313,18,29,0,2
+06:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,29,0,2
+06:27,[NYL] Burke Substitution replaced by Stewart,0,-80,8,,1629568,1627668,1611661313,18,29,0,2
+06:18,[NYL] Stewart Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),-188,38,5,1631009,1627668,,1611661313,18,29,0,2
+06:06,[ATL 31-18] Charles Fadeaway Jump Shot: Made (4 PTS) Assist: Gray (4 AST),-46,105,1,,202250,1628277,1611661330,18,31,2,2
+05:53,[NYL 21-31] Laney-Hamilton 3pt Shot: Made (9 PTS) Assist: Jones (2 AST),-207,110,1,,204335,1627673,1611661313,21,31,3,2
+05:35,[ATL] Howard 3pt Shot: Missed,-24,265,2,,1631009,,1611661330,21,31,0,2
+05:34,[ATL] Charles Rebound (Off:3 Def:5),-24,265,4,,202250,,1611661330,21,31,0,2
+05:30,[ATL 33-21] Charles Step Back Jump shot: Made (6 PTS),156,17,1,,202250,,1611661330,21,33,2,2
+05:19,[NYL] Thornton Turnover : Out of Bounds Lost Ball Turnover (2 TO),95,230,5,,203866,101044,1611661313,21,33,0,2
+05:05,[ATL] Charles Turnaround Fadeaway shot: Missed Block: Jones (1 BLK),-144,32,2,1627673,202250,,1611661330,21,33,0,2
+05:04,[NYL] Stewart Rebound (Off:0 Def:2),-144,32,4,,1627668,,1611661313,21,33,0,2
+04:58,[NYL] Ionescu 3pt Shot: Missed,-150,197,2,,1629477,,1611661313,21,33,0,2
+04:57,[ATL] Gray Rebound (Off:0 Def:3),-150,197,4,,1628277,,1611661330,21,33,0,2
+04:29,[ATL] Canada Jump Shot: Missed,-43,18,2,,1628886,,1611661330,21,33,0,2
+04:28,[NYL] Jones Rebound (Off:0 Def:4),-43,18,4,,1627673,,1611661313,21,33,0,2
+04:19,[NYL 23-33] Jones Cutting Layup Shot: Made (2 PTS) Assist: Ionescu (4 AST),-10,1,1,,1627673,1629477,1611661313,23,33,2,2
+03:53,[ATL 35-23] Hillmon Cutting Layup Shot: Made (8 PTS) Assist: Howard (2 AST),5,24,1,,1631044,1631009,1611661330,23,35,2,2
+03:39,[NYL] Stewart Driving Floating Jump Shot: Missed,-41,63,2,,1627668,,1611661313,23,35,0,2
+03:38,[ATL] Howard Rebound (Off:1 Def:2),-41,63,4,,1631009,,1611661330,23,35,0,2
+03:32,[NYL] Jones Foul: Shooting (2 PF) (2 FTA),43,24,6,1631009,1627673,202764,1611661313,23,35,0,2
+03:32,Timeout : Regular,0,-80,9,,1611661330,,1611661330,23,35,0,2
+03:32,[NYL] Laney-Hamilton Substitution replaced by Fiebich,0,-80,8,,204335,1630142,1611661313,23,35,0,2
+03:32,[ATL] Gray Substitution replaced by Caldwell,0,-80,8,,1628277,1630471,1611661330,23,35,0,2
+03:32,[ATL 36-23] Howard Free Throw 1 of 2 (3 PTS),0,-80,3,,1631009,,1611661330,23,36,1,2
+03:32,[ATL 37-23] Howard Free Throw 2 of 2 (4 PTS),0,-80,3,,1631009,,1611661330,23,37,1,2
+03:11,[NYL 25-37] Stewart Turnaround Jump Shot: Made (11 PTS) Assist: Ionescu (5 AST),-21,99,1,,1627668,1629477,1611661313,25,37,2,2
+03:11,[ATL] Howard Foul: Shooting (1 PF) (1 FTA),-21,99,6,1627668,1631009,202764,1611661330,25,37,0,2
+03:11,[NYL 26-37] Stewart Free Throw 1 of 1 (12 PTS),0,-80,3,,1627668,,1611661313,26,37,1,2
+02:49,[ATL] Canada 3pt Shot: Missed,-183,200,2,,1628886,,1611661330,26,37,0,2
+02:48,[NYL] Thornton Rebound (Off:1 Def:1),-183,200,4,,203866,,1611661313,26,37,0,2
+02:37,[NYL] Ionescu Driving Floating Bank Jump Shot: Missed,-34,52,2,,1629477,,1611661313,26,37,0,2
+02:36,[ATL] Canada Rebound (Off:0 Def:1),-34,52,4,,1628886,,1611661330,26,37,0,2
+02:27,[ATL 39-26] Hillmon Layup Shot: Made (10 PTS) Assist: Canada (3 AST),22,27,1,,1631044,1628886,1611661330,26,39,2,2
+02:16,[NYL 28-39] Stewart Driving Floating Jump Shot: Made (14 PTS) Assist: Ionescu (6 AST),-119,5,1,,1627668,1629477,1611661313,28,39,2,2
+02:04,[ATL] Canada Turnover : Out of Bounds Lost Ball Turnover (1 TO),201,189,5,,1628886,101044,1611661330,28,39,0,2
+02:04,[NYL] Ionescu Substitution replaced by Laney-Hamilton,0,-80,8,,1629477,204335,1611661313,28,39,0,2
+01:55,[NYL] Stewart Turnaround Jump Shot: Missed,-51,72,2,,1627668,,1611661313,28,39,0,2
+01:54,[ATL] Charles Rebound (Off:3 Def:6),-51,72,4,,202250,,1611661330,28,39,0,2
+01:48,[ATL] Canada Running Layup Shot: Missed,-42,40,2,,1628886,,1611661330,28,39,0,2
+01:47,[NYL] Fiebich Rebound (Off:0 Def:1),-42,40,4,,1630142,,1611661313,28,39,0,2
+01:35,[NYL] Thornton 3pt Shot: Missed,-230,1,2,,203866,,1611661313,28,39,0,2
+01:34,[ATL] Canada Rebound (Off:0 Def:2),-230,1,4,,1628886,,1611661330,28,39,0,2
+01:10,[ATL 41-28] Charles Jump Shot: Made (8 PTS) Assist: Howard (3 AST),125,70,1,,202250,1631009,1611661330,28,41,2,2
+00:46.2,[ATL] Hillmon Foul: Shooting (2 PF) (2 FTA),60,138,6,1627668,1631044,202764,1611661330,28,41,0,2
+00:46.2,[NYL 29-41] Stewart Free Throw 1 of 2 (15 PTS),0,-80,3,,1627668,,1611661313,29,41,1,2
+00:46.2,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,29,41,0,2
+00:46.2,[ATL] Canada Substitution replaced by Kalu,0,-80,8,,1628886,1642534,1611661330,29,41,0,2
+00:46.2,[NYL 30-41] Stewart Free Throw 2 of 2 (16 PTS),0,-80,3,,1627668,,1611661313,30,41,1,2
+00:31.9,[ATL] Charles Turnaround Fadeaway shot: Missed Block: Jones (2 BLK),11,101,2,1627673,202250,,1611661330,30,41,0,2
+00:30.7,[ATL] Team Rebound,11,101,4,,0,,1611661330,30,41,0,2
+00:30.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,41,0,2
+00:28.6,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,41,0,2
+00:22.6,[ATL 43-30] Coffey Pullup Jump shot: Made (4 PTS),-45,86,1,,1628269,,1611661330,30,43,2,2
+00:03.0,[NYL] Fiebich Turnover : Bad Pass (2 TO) Steal:Caldwell (1 ST),-191,54,5,1630471,1630142,,1611661313,30,43,0,2
+00:01.5,[ATL] Caldwell 3pt Shot: Missed,10,405,2,,1630471,,1611661330,30,43,0,2
+00:00.1,[ATL] Team Rebound,10,405,4,,0,,1611661330,30,43,0,2
+00:00.0,End Period,0,-80,13,,0,,0,30,43,0,2
+10:00,Start Period,0,-80,12,,0,,0,30,43,0,3
+09:37,[ATL 45-30] Hillmon Layup Shot: Made (12 PTS) Assist: Canada (4 AST),-6,25,1,,1631044,1628886,1611661330,30,45,2,3
+09:14,[NYL 32-45] Jones Reverse Layup Shot: Made (4 PTS) Assist: Ionescu (7 AST),16,13,1,,1627673,1629477,1611661313,32,45,2,3
+08:59,[ATL] Canada Driving Finger Roll Layup Shot: Missed,-38,149,2,,1628886,,1611661330,32,45,0,3
+08:58,[NYL] Jones Rebound (Off:0 Def:5),-38,149,4,,1627673,,1611661313,32,45,0,3
+08:53,[NYL 35-45] Ionescu 3pt Shot: Made (3 PTS) Assist: Burke (1 AST),188,172,1,,1629477,1629568,1611661313,35,45,3,3
+08:37,[ATL] Canada Turnover : Lost Ball (2 TO) Steal:Jones (1 ST),-102,268,5,1627673,1628886,,1611661330,35,45,0,3
+08:33,[NYL] Jones Turnover : Bad Pass (2 TO) Steal:Howard (2 ST),27,295,5,1631009,1627673,,1611661313,35,45,0,3
+08:16,[ATL 47-35] Charles Layup Shot: Made (10 PTS) Assist: Canada (5 AST),-10,17,1,,202250,1628886,1611661330,35,47,2,3
+08:05,[NYL] Vandersloot Driving Floating Jump Shot: Missed,-32,38,2,,202664,,1611661313,35,47,0,3
+08:03,[NYL] Ionescu Rebound (Off:1 Def:0),-32,38,4,,1629477,,1611661313,35,47,0,3
+08:01,[NYL] Burke 3pt Shot: Missed,-135,262,2,,1629568,,1611661313,35,47,0,3
+08:00,[NYL] Team Rebound,-135,262,4,,0,,1611661313,35,47,0,3
+08:00,[ATL] Charles Foul: Personal (1 PF),21,49,6,1627673,202250,202764,1611661330,35,47,0,3
+07:53,[NYL] Laney-Hamilton Pullup Jump shot: Missed,-73,121,2,,204335,,1611661313,35,47,0,3
+07:51,[ATL] Gray Rebound (Off:0 Def:4),-73,121,4,,1628277,,1611661330,35,47,0,3
+07:47,[ATL] Hillmon Running Layup Shot: Missed,40,16,2,,1631044,,1611661330,35,47,0,3
+07:46,[ATL] Hillmon Rebound (Off:1 Def:1),40,16,4,,1631044,,1611661330,35,47,0,3
+07:45,[NYL] Vandersloot Foul: Shooting (1 PF) (2 FTA),26,20,6,1631044,202664,1628702,1611661313,35,47,0,3
+07:45,[ATL 48-35] Hillmon Free Throw 1 of 2 (13 PTS),0,-80,3,,1631044,,1611661330,35,48,1,3
+07:45,[ATL] Hillmon Free Throw 2 of 2 Missed,0,-80,3,,1631044,,1611661330,35,48,0,3
+07:44,[ATL] Gray Rebound (Off:1 Def:4),0,-80,4,,1628277,,1611661330,35,48,0,3
+07:30,[ATL 50-35] Gray Driving Layup Shot: Made (10 PTS) Assist: Charles (3 AST),-50,9,1,,1628277,202250,1611661330,35,50,2,3
+07:18,[NYL] Vandersloot Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-188,263,5,,202664,202764,1611661313,35,50,0,3
+07:05,[ATL] Hillmon Driving Layup Shot: Missed Block: Vandersloot (1 BLK),32,8,2,202664,1631044,,1611661330,35,50,0,3
+07:04,[ATL] Team Rebound,32,8,4,,0,,1611661330,35,50,0,3
+07:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,50,0,3
+07:04,[NYL] Burke Substitution replaced by Sabally,0,-80,8,,1629568,1631055,1611661313,35,50,0,3
+06:58,[ATL] Howard Driving Floating Jump Shot: Missed,39,60,2,,1631009,,1611661330,35,50,0,3
+06:57,[NYL] Laney-Hamilton Rebound (Off:0 Def:2),39,60,4,,204335,,1611661313,35,50,0,3
+06:49,[NYL] Jones Foul: Offensive (3 PF),125,214,6,1628277,1627673,101044,1611661313,35,50,0,3
+06:49,[NYL] Jones Turnover : Offensive Foul Turnover (3 TO),125,214,5,,1627673,101044,1611661313,35,50,0,3
+06:26,[ATL 53-35] Howard 3pt Shot: Made (7 PTS) Assist: Gray (5 AST),-235,24,1,,1631009,1628277,1611661330,35,53,3,3
+06:19,Timeout : Regular,0,-80,9,,1611661313,,1611661313,35,53,0,3
+06:19,InstantReplay Request Stands,0,-80,18,,0,,0,35,53,0,3
+06:08,[NYL] Ionescu Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-183,75,5,,1629477,,1611661313,35,53,0,3
+05:56,[ATL 55-35] Canada Turnaround Hook Shot: Made (6 PTS) Assist: Howard (4 AST),7,40,1,,1628886,1631009,1611661330,35,55,2,3
+05:46,[NYL 37-55] Sabally Jump Shot: Made (2 PTS) Assist: Vandersloot (2 AST),-149,11,1,,1631055,202664,1611661313,37,55,2,3
+05:21,[ATL] Charles Driving Hook Shot: Missed,-27,49,2,,202250,,1611661330,37,55,0,3
+05:20,[NYL] Jones Rebound (Off:0 Def:6),-27,49,4,,1627673,,1611661313,37,55,0,3
+05:07,[NYL] Sabally Driving Layup Shot: Missed,44,22,2,,1631055,,1611661313,37,55,0,3
+05:06,[ATL] Charles Rebound (Off:3 Def:7),44,22,4,,202250,,1611661330,37,55,0,3
+04:56,[NYL] Vandersloot Foul: Personal (2 PF),113,-11,6,1628886,202664,101044,1611661313,37,55,0,3
+04:56,[NYL] Vandersloot Substitution replaced by Thornton,0,-80,8,,202664,203866,1611661313,37,55,0,3
+04:56,[ATL] Gray Substitution replaced by Caldwell,0,-80,8,,1628277,1630471,1611661330,37,55,0,3
+04:42,[ATL] Team Turnover : Shot Clock Turnover,-112,293,5,,0,,1611661330,37,55,0,3
+04:33,[NYL] Ionescu Driving Layup Shot: Missed,41,43,2,,1629477,,1611661313,37,55,0,3
+04:32,[NYL] Sabally Rebound (Off:2 Def:0),41,43,4,,1631055,,1611661313,37,55,0,3
+04:31,[NYL 39-55] Sabally Putback Layup Shot: Made (4 PTS),17,39,1,,1631055,,1611661313,39,55,2,3
+04:31,[ATL] Hillmon Foul: Shooting (3 PF) (1 FTA),17,39,6,1631055,1631044,1628702,1611661330,39,55,0,3
+04:31,[ATL] Charles Substitution replaced by Cubaj,0,-80,8,,202250,1631032,1611661330,39,55,0,3
+04:31,[NYL 40-55] Sabally Free Throw 1 of 1 (5 PTS),0,-80,3,,1631055,,1611661313,40,55,1,3
+04:16,[ATL 57-40] Canada Driving Finger Roll Layup Shot: Made (8 PTS),20,8,1,,1628886,,1611661330,40,57,2,3
+04:16,[NYL] Ionescu Foul: Shooting (1 PF) (1 FTA),20,8,6,1628886,1629477,101044,1611661313,40,57,0,3
+04:16,[ATL] Canada Free Throw 1 of 1 Missed,0,-80,3,,1628886,,1611661330,40,57,0,3
+04:15,[NYL] Jones Rebound (Off:0 Def:7),0,-80,4,,1627673,,1611661313,40,57,0,3
+03:57,[NYL] Jones Turnaround Fadeaway shot: Missed,-54,102,2,,1627673,,1611661313,40,57,0,3
+03:56,[ATL] Cubaj Rebound (Off:0 Def:1),-54,102,4,,1631032,,1611661330,40,57,0,3
+03:48,[ATL] Canada Running Layup Shot: Missed,-38,-5,2,,1628886,,1611661330,40,57,0,3
+03:47,[NYL] Jones Rebound (Off:0 Def:8),-38,-5,4,,1627673,,1611661313,40,57,0,3
+03:41,[NYL 42-57] Sabally Running Layup Shot: Made (7 PTS) Assist: Laney-Hamilton (1 AST),-4,68,1,,1631055,204335,1611661313,42,57,2,3
+03:41,[ATL] Cubaj Foul: Shooting (1 PF) (1 FTA),72,142,6,1631055,1631032,101044,1611661330,42,57,0,3
+03:41,[NYL] Laney-Hamilton Substitution replaced by Davis,0,-80,8,,204335,1642301,1611661313,42,57,0,3
+03:41,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,42,57,0,3
+03:41,[ATL] Canada Substitution replaced by Jones,0,-80,8,,1628886,1641650,1611661330,42,57,0,3
+03:41,[NYL] Sabally Free Throw 1 of 1 Missed,0,-80,3,,1631055,,1611661313,42,57,0,3
+03:40,[ATL] Coffey Rebound (Off:1 Def:2),0,-80,4,,1628269,,1611661330,42,57,0,3
+03:21,[ATL 60-42] Howard 3pt Shot: Made (10 PTS) Assist: Cubaj (1 AST),71,244,1,,1631009,1631032,1611661330,42,60,3,3
+02:56,[NYL] Ionescu 3pt Shot: Missed,197,150,2,,1629477,,1611661313,42,60,0,3
+02:55,[NYL] Thornton Rebound (Off:2 Def:1),197,150,4,,203866,,1611661313,42,60,0,3
+02:54,[NYL 44-60] Thornton Putback Layup Shot: Made (2 PTS),0,8,1,,203866,,1611661313,44,60,2,3
+02:30,[ATL 63-44] Howard 3pt Shot: Made (13 PTS) Assist: Caldwell (1 AST),-119,212,1,,1631009,1630471,1611661330,44,63,3,3
+02:14,[NYL] Thornton Turnover : Backcourt Turnover (3 TO),-162,458,5,,203866,101044,1611661313,44,63,0,3
+02:14,[NYL] Jones Substitution replaced by Burke,0,-80,8,,1627673,1629568,1611661313,44,63,0,3
+01:56,[NYL] Davis Foul: Shooting (1 PF) (2 FTA),1,32,6,1631032,1642301,202764,1611661313,44,63,0,3
+01:56,[ATL] Cubaj Free Throw 1 of 2 Missed,0,-80,3,,1631032,,1611661330,44,63,0,3
+01:56,[ATL] Team Rebound,0,-80,4,,0,,1611661330,44,63,0,3
+01:56,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,44,63,0,3
+01:56,[ATL] Howard Substitution replaced by Kalu,0,-80,8,,1631009,1642534,1611661330,44,63,0,3
+01:56,[ATL 64-44] Cubaj Free Throw 2 of 2 (1 PTS),0,-80,3,,1631032,,1611661330,44,64,1,3
+01:41,[ATL] Cubaj Foul: Shooting (2 PF) (2 FTA),46,45,6,1631055,1631032,1628702,1611661330,44,64,0,3
+01:41,[NYL 45-64] Sabally Free Throw 1 of 2 (8 PTS),0,-80,3,,1631055,,1611661313,45,64,1,3
+01:41,[NYL 46-64] Sabally Free Throw 2 of 2 (9 PTS),0,-80,3,,1631055,,1611661313,46,64,1,3
+01:33,[ATL] Coffey Turnover : Bad Pass (3 TO) Steal:Vandersloot (1 ST),95,542,5,202664,1628269,,1611661330,46,64,0,3
+01:30,[NYL] Vandersloot Driving Layup Shot: Missed,27,39,2,,202664,,1611661313,46,64,0,3
+01:29,[ATL] Team Rebound,27,39,4,,0,,1611661330,46,64,0,3
+01:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,64,0,3
+01:14,[NYL] Vandersloot Foul: Shooting (3 PF) (2 FTA),-40,20,6,1630471,202664,1628702,1611661313,46,64,0,3
+01:14,[ATL 65-46] Caldwell Free Throw 1 of 2 (6 PTS),0,-80,3,,1630471,,1611661330,46,65,1,3
+01:14,[ATL 66-46] Caldwell Free Throw 2 of 2 (7 PTS),0,-80,3,,1630471,,1611661330,46,66,1,3
+00:55.5,[NYL] Davis Pullup Jump shot: Missed,-38,88,2,,1642301,,1611661313,46,66,0,3
+00:53.5,[NYL] Davis Rebound (Off:1 Def:0),-38,88,4,,1642301,,1611661313,46,66,0,3
+00:48.2,[NYL] Davis Turnover : Lost Ball (1 TO) Steal:Kalu (1 ST),-26,86,5,1642534,1642301,,1611661313,46,66,0,3
+00:42.2,[ATL] Kalu Running Pull-Up Jump Shot: Missed,-72,54,2,,1642534,,1611661330,46,66,0,3
+00:40.4,[NYL] Team Rebound,-72,54,4,,0,,1611661313,46,66,0,3
+00:40.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,66,0,3
+00:32.8,[NYL 48-66] Sabally Driving Layup Shot: Made (11 PTS),-27,56,1,,1631055,,1611661313,48,66,2,3
+00:21.9,[ATL] Caldwell 3pt Shot: Missed,188,180,2,,1630471,,1611661330,48,66,0,3
+00:18.1,[NYL] Davis Rebound (Off:1 Def:1),188,180,4,,1642301,,1611661313,48,66,0,3
+00:06.1,[ATL] Kalu Foul: Personal (1 PF) (2 FTA),60,137,6,1629568,1642534,202764,1611661330,48,66,0,3
+00:06.1,[NYL 49-66] Burke Free Throw 1 of 2 (1 PTS),0,-80,3,,1629568,,1611661313,49,66,1,3
+00:06.1,[NYL] Burke Free Throw 2 of 2 Missed,0,-80,3,,1629568,,1611661313,49,66,0,3
+00:03.0,[ATL] Cubaj Rebound (Off:0 Def:2),0,-80,4,,1631032,,1611661330,49,66,0,3
+00:00.0,End Period,0,-80,13,,0,,0,49,66,0,3
+10:00,Start Period,0,-80,12,,0,,0,49,66,0,4
+09:45,[NYL] Laney-Hamilton Pullup Jump shot: Missed,128,5,2,,204335,,1611661313,49,66,0,4
+09:44,[ATL] Jones Rebound (Off:0 Def:1),128,5,4,,1641650,,1611661330,49,66,0,4
+09:26,[ATL 68-49] Amihere Driving Layup Shot: Made (2 PTS) Assist: Jones (1 AST),-21,26,1,,1641656,1641650,1611661330,49,68,2,4
+09:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,68,0,4
+09:03,[NYL 52-68] Jones 3pt Shot: Made (7 PTS) Assist: Davis (1 AST),22,254,1,,1627673,1642301,1611661313,52,68,3,4
+08:37,[NYL] Jones Foul: Personal (4 PF),-93,279,6,1642534,1627673,202764,1611661313,52,68,0,4
+08:29,[ATL 70-52] Kalu Pullup Jump shot: Made (2 PTS),-116,99,1,,1642534,,1611661330,52,70,2,4
+08:29,[NYL] Sherrod Foul: Shooting (1 PF) (1 FTA),-116,99,6,1642534,1642320,1628702,1611661313,52,70,0,4
+08:29,[ATL 71-52] Kalu Free Throw 1 of 1 (3 PTS),0,-80,3,,1642534,,1611661330,52,71,1,4
+08:12,[NYL 54-71] Davis Pullup Jump shot: Made (2 PTS),119,139,1,,1642301,,1611661313,54,71,2,4
+08:02,[ATL] Jones Turnover : Lost Ball (3 TO) Steal:Sherrod (1 ST),118,361,5,1642320,1641650,,1611661330,54,71,0,4
+07:57,[NYL 56-71] Sherrod Running Layup Shot: Made (2 PTS),-11,13,1,,1642320,,1611661313,56,71,2,4
+07:40,[ATL] Cubaj Turnaround Bank Hook Shot: Missed,37,87,2,,1631032,,1611661330,56,71,0,4
+07:39,[NYL] Jones Rebound (Off:0 Def:9),37,87,4,,1627673,,1611661313,56,71,0,4
+07:28,[NYL 58-71] Sabally Cutting Layup Shot: Made (13 PTS) Assist: Jones (3 AST),-23,24,1,,1631055,1627673,1611661313,58,71,2,4
+07:27,Timeout : Regular,0,-80,9,,1611661330,,1611661330,58,71,0,4
+07:27,[ATL] Jones Substitution replaced by Canada,0,-80,8,,1641650,1628886,1611661330,58,71,0,4
+07:09,[ATL] Caldwell Turnover : Bad Pass (1 TO) Steal:Sabally (1 ST),39,117,5,1631055,1630471,,1611661330,58,71,0,4
+07:03,[ATL] Kalu Foul: Personal (2 PF),-65,53,6,1627673,1642534,1628702,1611661330,58,71,0,4
+06:56,[ATL] Cubaj Foul: Personal (3 PF),63,31,6,1627673,1631032,202764,1611661330,58,71,0,4
+06:45,[NYL] Sherrod Turnaround Jump Shot: Missed,-10,66,2,,1642320,,1611661313,58,71,0,4
+06:44,[ATL] Canada Rebound (Off:0 Def:3),-10,66,4,,1628886,,1611661330,58,71,0,4
+06:23,[ATL] Amihere Turnover : Lost Ball (1 TO) Steal:Sabally (2 ST),23,213,5,1631055,1641656,,1611661330,58,71,0,4
+06:10,[NYL 60-71] Sherrod Driving Floating Bank Jump Shot: Made (4 PTS),-45,50,1,,1642320,,1611661313,60,71,2,4
+05:48,[ATL 73-60] Cubaj Jump Shot: Made (3 PTS) Assist: Canada (6 AST),-26,108,1,,1631032,1628886,1611661330,60,73,2,4
+05:31,[NYL] Sherrod 3pt Shot: Missed,183,174,2,,1642320,,1611661313,60,73,0,4
+05:30,[ATL] Kalu Rebound (Off:0 Def:1),183,174,4,,1642534,,1611661330,60,73,0,4
+05:17,[ATL] Amihere Turnover : Traveling (2 TO),66,4,5,,1641656,1628702,1611661330,60,73,0,4
+05:17,[NYL] Laney-Hamilton Substitution replaced by Thornton,0,-80,8,,204335,203866,1611661313,60,73,0,4
+05:17,[ATL] Canada Substitution replaced by Jones,0,-80,8,,1628886,1641650,1611661330,60,73,0,4
+04:57,[NYL] Thornton 3pt Shot: Missed,190,144,2,,203866,,1611661313,60,73,0,4
+04:56,[ATL] Team Rebound,190,144,4,,0,,1611661330,60,73,0,4
+04:46,[ATL] Cubaj Foul: Offensive (4 PF),-136,214,6,1627673,1631032,1628702,1611661330,60,73,0,4
+04:46,[ATL] Cubaj Turnover : Offensive Foul Turnover (1 TO),-136,214,5,,1631032,1628702,1611661330,60,73,0,4
+04:26,[NYL 62-73] Davis Jump Shot: Made (4 PTS) Assist: Sherrod (1 AST),58,145,1,,1642301,1642320,1611661313,62,73,2,4
+04:04,[ATL] Caldwell Driving Layup Shot: Missed Block: Jones (3 BLK),-33,17,2,1627673,1630471,,1611661330,62,73,0,4
+04:03,[ATL] Cubaj Rebound (Off:1 Def:2),-33,17,4,,1631032,,1611661330,62,73,0,4
+04:01,[ATL 75-62] Jones Floating Jump shot: Made (2 PTS) Assist: Cubaj (2 AST),-50,91,1,,1641650,1631032,1611661330,62,75,2,4
+03:51,[ATL] Kalu Foul: Shooting (3 PF) (2 FTA),34,31,6,1642320,1642534,101044,1611661330,62,75,0,4
+03:51,Timeout : Regular,0,-80,9,,1611661330,,1611661330,62,75,0,4
+03:51,[NYL] Sherrod Free Throw 1 of 2 Missed,0,-80,3,,1642320,,1611661313,62,75,0,4
+03:51,[NYL] Team Rebound,0,-80,4,,0,,1611661313,62,75,0,4
+03:51,[NYL 63-75] Sherrod Free Throw 2 of 2 (5 PTS),0,-80,3,,1642320,,1611661313,63,75,1,4
+03:27,[ATL] Kalu 3pt Shot: Missed,156,212,2,,1642534,,1611661330,63,75,0,4
+03:26,[NYL] Jones Rebound (Off:0 Def:10),156,212,4,,1627673,,1611661313,63,75,0,4
+03:19,[NYL] Davis Turnover : Lost Ball (2 TO) Steal:Jones (2 ST),91,44,5,1641650,1642301,,1611661313,63,75,0,4
+02:56,[ATL] Cubaj Turnaround Jump Shot: Missed,129,10,2,,1631032,,1611661330,63,75,0,4
+02:55,[ATL] Team Rebound,129,10,4,,0,,1611661330,63,75,0,4
+02:55,[ATL] Team Turnover : Shot Clock Turnover,-34,220,5,,0,1628702,1611661330,63,75,0,4
+02:55,[NYL] Jones Substitution replaced by Burke,0,-80,8,,1627673,1629568,1611661313,63,75,0,4
+02:46,[ATL] Cubaj Foul: Shooting (5 PF) (2 FTA),-21,64,6,1631055,1631032,1628702,1611661330,63,75,0,4
+02:46,[NYL] Sabally Free Throw 1 of 2 Missed,0,-80,3,,1631055,,1611661313,63,75,0,4
+02:46,[NYL] Team Rebound,0,-80,4,,0,,1611661313,63,75,0,4
+02:46,[NYL 64-75] Sabally Free Throw 2 of 2 (14 PTS),0,-80,3,,1631055,,1611661313,64,75,1,4
+02:24,[ATL] Cubaj Layup Shot: Missed Block: Davis (1 BLK),-43,20,2,1642301,1631032,,1611661330,64,75,0,4
+02:23,[NYL] Sabally Rebound (Off:2 Def:1),-43,20,4,,1631055,,1611661313,64,75,0,4
+02:15,[NYL 67-75] Sherrod 3pt Shot: Made (8 PTS) Assist: Burke (2 AST),-213,147,1,,1642320,1629568,1611661313,67,75,3,4
+01:54,[NYL] Sabally Foul: Personal (1 PF),-35,113,6,1631032,1631055,202764,1611661313,67,75,0,4
+01:54,InstantReplay Request Stands,0,-80,18,,0,,0,67,75,0,4
+01:54,Timeout : Regular,0,-80,9,,1611661313,,1611661313,67,75,0,4
+01:54,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661313,67,75,0,4
+01:53,[ATL] Cubaj Substitution replaced by Coffey,0,-80,8,,1631032,1628269,1611661330,67,75,0,4
+01:42,[ATL] Amihere Driving Layup Shot: Missed,42,6,2,,1641656,,1611661330,67,75,0,4
+01:41,[NYL] Sabally Rebound (Off:2 Def:2),42,6,4,,1631055,,1611661313,67,75,0,4
+01:36,[ATL] Kalu Foul: Personal (4 PF) (2 FTA),71,42,6,1642320,1642534,202764,1611661330,67,75,0,4
+01:36,[NYL] Sherrod Free Throw 1 of 2 Missed,0,-80,3,,1642320,,1611661313,67,75,0,4
+01:36,[NYL] Team Rebound,0,-80,4,,0,,1611661313,67,75,0,4
+01:36,[NYL] Sherrod Free Throw 2 of 2 Missed,0,-80,3,,1642320,,1611661313,67,75,0,4
+01:35,[NYL] Sherrod Rebound (Off:1 Def:0),0,-80,4,,1642320,,1611661313,67,75,0,4
+01:26,[NYL] Davis Cutting Layup Shot: Missed,13,21,2,,1642301,,1611661313,67,75,0,4
+01:25,[ATL] Caldwell Rebound (Off:1 Def:2),13,21,4,,1630471,,1611661330,67,75,0,4
+01:15,[NYL] Thornton Foul: Personal (1 PF) (2 FTA),89,267,6,1641650,203866,1628702,1611661313,67,75,0,4
+01:15,[ATL 76-67] Jones Free Throw 1 of 2 (3 PTS),0,-80,3,,1641650,,1611661330,67,76,1,4
+01:15,[ATL 77-67] Jones Free Throw 2 of 2 (4 PTS),0,-80,3,,1641650,,1611661330,67,77,1,4
+00:56.3,[NYL] Sabally Turnover : Lost Ball (2 TO) Steal:Coffey (1 ST),100,115,5,1628269,1631055,,1611661313,67,77,0,4
+00:52.1,[NYL] Sherrod Foul: Personal (2 PF) (2 FTA),-83,4,6,1628269,1642320,101044,1611661313,67,77,0,4
+00:52.1,[ATL] Coffey Free Throw 1 of 2 Missed,0,-80,3,,1628269,,1611661330,67,77,0,4
+00:52.1,[ATL] Team Rebound,0,-80,4,,0,,1611661330,67,77,0,4
+00:52.1,[ATL 78-67] Coffey Free Throw 2 of 2 (5 PTS),0,-80,3,,1628269,,1611661330,67,78,1,4
+00:52.1,Timeout : Regular,0,-80,9,,1611661313,,1611661313,67,78,0,4
+00:48.2,[NYL] Sabally Driving Layup Shot: Missed,30,33,2,,1631055,,1611661313,67,78,0,4
+00:47.0,[ATL] Amihere Rebound (Off:0 Def:1),30,33,4,,1641656,,1611661330,67,78,0,4
+00:23.0,[ATL] Team Turnover : Shot Clock Turnover,4,137,5,,0,1628702,1611661330,67,78,0,4
+00:00.0,End Period,0,-80,13,,0,,0,67,78,0,4

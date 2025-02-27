@@ -1,0 +1,353 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Ogwumike vs Wilson (Parker gains possession),0,-80,10,1628932,203014,201496,1611661320,0,0,1
+09:46,[LAS] Parker 3pt Shot: Missed,-97,246,2,,201496,,1611661320,0,0,1
+09:42,[LAS] Beard Rebound (Off:1 Def:0),-97,246,4,,100949,,1611661320,0,0,1
+09:40,[LAS 3-0] Gray 3pt Shot: Made (3 PTS) Assist: Beard (1 AST),135,216,1,,203833,100949,1611661320,3,0,1
+09:15,[LVA] McBride Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),-145,76,5,203833,203825,,1611661319,3,0,1
+09:06,[LAS 5-0] Ogwumike Cutting Layup Shot: Made (2 PTS) Assist: Parker (1 AST),11,10,1,,203014,201496,1611661320,5,0,1
+08:54,[LVA] McBride Jump Shot: Missed,154,12,2,,203825,,1611661319,5,0,1
+08:51,[LAS] Beard Rebound (Off:1 Def:1),154,12,4,,100949,,1611661320,5,0,1
+08:48,[LAS] Gray Turnover : Out of Bounds - Bad Pass Turnover (1 TO),136,-12,5,,203833,,1611661320,5,0,1
+08:28,[LVA 2-5] Bone Cutting Layup Shot: Made (2 PTS),16,10,1,,203402,,1611661319,5,2,1
+08:07,[LAS] Carson 3pt Shot: Missed,-195,142,2,,201502,,1611661320,5,2,1
+08:07,[LVA] McBride Rebound (Off:0 Def:1),-195,142,4,,203825,,1611661319,5,2,1
+08:07,[LAS] Ogwumike Foul: Loose Ball (1 PF),2,758,6,203402,203014,,1611661320,5,2,1
+07:56,[LVA] Young Turnover : Bad Pass (1 TO) Steal:Gray (2 ST),-107,215,5,203833,201477,,1611661319,5,2,1
+07:52,[LAS 7-2] Ogwumike Running Layup Shot: Made (4 PTS) Assist: Gray (1 AST),12,14,1,,203014,203833,1611661320,7,2,1
+07:35,[LVA 4-7] Wilson Jump Shot: Made (2 PTS) Assist: Bone (1 AST),-15,88,1,,1628932,203402,1611661319,7,4,1
+07:27,[LAS 10-4] Gray 3pt Shot: Made (6 PTS) Assist: Ogwumike (1 AST),168,208,1,,203833,203014,1611661320,10,4,1
+07:16,[LVA] McBride Turnover : Bad Pass (2 TO) Steal:Beard (1 ST),50,56,5,100949,203825,,1611661319,10,4,1
+07:07,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),106,15,6,201496,1628932,,1611661319,10,4,1
+07:07,[LAS 11-4] Parker Free Throw 1 of 2 (1 PTS),0,-80,3,,201496,,1611661320,11,4,1
+07:07,[LAS 12-4] Parker Free Throw 2 of 2 (2 PTS),0,-80,3,,201496,,1611661320,12,4,1
+06:59,[LAS] Carson Foul: Personal (1 PF),-146,136,6,203825,201502,,1611661320,12,4,1
+06:54,[LVA] Wilson Turnover : Out of Bounds Lost Ball Turnover (1 TO),-145,38,5,,1628932,,1611661319,12,4,1
+06:43,[LAS] Ogwumike Turnaround Jump Shot: Missed,164,-7,2,,203014,,1611661320,12,4,1
+06:39,[LVA] Plum Rebound (Off:0 Def:1),164,-7,4,,1628276,,1611661319,12,4,1
+06:33,[LVA] Wilson Foul: Offensive Charge (2 PF),-32,78,6,201496,1628932,,1611661319,12,4,1
+06:33,[LVA] Wilson Turnover : Offensive Foul Turnover (2 TO),-32,78,5,,1628932,,1611661319,12,4,1
+06:33,[LVA] Wilson Substitution replaced by Hamby,0,-80,8,,1628932,204324,1611661319,12,4,1
+06:23,[LAS] Beard Turnover : Out of Bounds - Bad Pass Turnover (1 TO),101,24,5,,100949,,1611661320,12,4,1
+06:05,[LVA 6-12] Young Jump Shot: Made (2 PTS) Assist: Bone (2 AST),147,64,1,,201477,203402,1611661319,12,6,1
+05:52,[LAS] Gray 3pt Shot: Missed,-161,183,2,,203833,,1611661320,12,6,1
+05:48,[LVA] Bone Rebound (Off:0 Def:1),-161,183,4,,203402,,1611661319,12,6,1
+05:42,[LVA 8-12] Young Pullup Jump shot: Made (4 PTS) Assist: Plum (1 AST),121,133,1,,201477,1628276,1611661319,12,8,1
+05:16,[LAS] Beard Jump Shot: Missed,-98,51,2,,100949,,1611661320,12,8,1
+05:13,[LVA] Young Rebound (Off:0 Def:1),-98,51,4,,201477,,1611661319,12,8,1
+05:09,[LVA 11-12] Plum 3pt Shot: Made (3 PTS) Assist: Young (1 AST),-117,219,1,,1628276,201477,1611661319,12,11,1
+04:50,[LAS 14-11] Beard Reverse Layup Shot: Made (2 PTS) Assist: Parker (2 AST),12,15,1,,100949,201496,1611661320,14,11,1
+04:41,[LVA 13-14] Young Pullup Jump shot: Made (6 PTS),36,172,1,,201477,,1611661319,14,13,1
+04:30,[LVA] Bone Foul: Personal (1 PF),-53,133,6,203014,203402,,1611661319,14,13,1
+04:30,Timeout Officials,0,-80,9,,0,,0,14,13,1
+04:30,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,14,13,1
+04:30,[LAS] Ogwumike Technical (1 FTA),0,-80,6,,203014,,1611661320,14,13,1
+04:30,[LVA 14-14] McBride Free Throw Technical (1 PTS),0,-80,3,,203825,,1611661319,14,14,1
+04:30,[LAS] Gray Substitution replaced by Lavender,0,-80,8,,203833,202650,1611661320,14,14,1
+04:30,[LAS] Ogwumike Substitution replaced by Sims,0,-80,8,,203014,203824,1611661320,14,14,1
+04:30,[LVA] Bone Substitution replaced by Park,0,-80,8,,203402,1628917,1611661319,14,14,1
+04:21,[LAS 17-14] Carson 3pt Shot: Made (3 PTS) Assist: Beard (2 AST),132,204,1,,201502,100949,1611661320,17,14,1
+04:04,[LVA] Young Turnover : Bad Pass (2 TO) Steal:Sims (1 ST),-128,128,5,203824,201477,,1611661319,17,14,1
+04:00,[LVA] McBride Foul: Personal (1 PF),12,122,6,203824,203825,,1611661319,17,14,1
+03:53,[LAS] Carson 3pt Shot: Missed,142,209,2,,201502,,1611661320,17,14,1
+03:49,[LVA] Hamby Rebound (Off:0 Def:1),142,209,4,,204324,,1611661319,17,14,1
+03:39,[LVA 16-17] Hamby Jump Shot: Made (2 PTS) Assist: Young (2 AST),-36,70,1,,204324,201477,1611661319,17,16,1
+03:24,[LAS 19-16] Carson Cutting Layup Shot: Made (5 PTS) Assist: Parker (3 AST),-11,13,1,,201502,201496,1611661320,19,16,1
+03:09,[LVA 18-19] McBride Pullup Jump shot: Made (3 PTS) Assist: Park (1 AST),-14,215,1,,203825,1628917,1611661319,19,18,1
+02:51,[LAS 22-18] Parker 3pt Shot: Made (5 PTS) Assist: Beard (3 AST),-127,221,1,,201496,100949,1611661320,22,18,1
+02:41,[LVA] Plum Turnover : Bad Pass (1 TO) Steal:Carson (1 ST),-167,76,5,201502,1628276,,1611661319,22,18,1
+02:26,[LAS] Parker Hook Shot: Missed,23,81,2,,201496,,1611661320,22,18,1
+02:22,[LVA] Park Rebound (Off:0 Def:1),23,81,4,,1628917,,1611661319,22,18,1
+02:12,[LVA] Hamby Layup Shot: Missed,19,28,2,,204324,,1611661319,22,18,1
+02:10,[LAS] Lavender Rebound (Off:0 Def:1),19,28,4,,202650,,1611661320,22,18,1
+01:54,[LAS 24-18] Sims Driving Floating Bank Jump Shot: Made (2 PTS),-5,16,1,,203824,,1611661320,24,18,1
+01:27,[LVA] Plum Jump Shot: Missed,-42,151,2,202650,1628276,,1611661319,24,18,1
+01:24,[LAS] Parker Rebound (Off:0 Def:1),-42,151,4,,201496,,1611661320,24,18,1
+01:21,[LAS] Sims Driving Layup Shot: Missed,-3,24,2,,203824,,1611661320,24,18,1
+01:19,[LVA] Park Rebound (Off:0 Def:2),-3,24,4,,1628917,,1611661319,24,18,1
+01:14,[LVA 20-24] Hamby Driving Layup Shot: Made (4 PTS) Assist: Young (3 AST),3,16,1,,204324,201477,1611661319,24,20,1
+01:00,[LAS 26-20] Parker Cutting Layup Shot: Made (7 PTS) Assist: Sims (1 AST),-8,10,1,,201496,203824,1611661320,26,20,1
+00:43.4,[LVA] Young Jump Shot: Missed,-12,65,2,,201477,,1611661319,26,20,1
+00:38.9,[LAS] Carson Rebound (Off:0 Def:1),-12,65,4,,201502,,1611661320,26,20,1
+00:36.8,[LAS 28-20] Lavender Cutting Layup Shot: Made (2 PTS) Assist: Sims (2 AST),8,25,1,,202650,203824,1611661320,28,20,1
+00:22.0,[LVA] Hamby Turnover : Traveling (1 TO),-79,169,5,,204324,,1611661319,28,20,1
+00:22.0,[LAS] Beard Substitution replaced by Gray,0,-80,8,,100949,203833,1611661320,28,20,1
+00:22.0,[LAS] Parker Substitution replaced by Williams,0,-80,8,,201496,203029,1611661320,28,20,1
+00:22.0,[LAS] Carson Substitution replaced by Ogwumike,0,-80,8,,201502,203014,1611661320,28,20,1
+00:22.0,[LVA] Hamby Substitution replaced by Coffey,0,-80,8,,204324,1628269,1611661319,28,20,1
+00:22.0,[LVA] Plum Substitution replaced by Nared,0,-80,8,,1628276,1628913,1611661319,28,20,1
+00:22.0,[LVA] McBride Substitution replaced by Jefferson,0,-80,8,,203825,1627669,1611661319,28,20,1
+00:02.4,[LAS 30-20] Lavender Layup Shot: Made (4 PTS) Assist: Sims (3 AST),13,17,1,,202650,203824,1611661320,30,20,1
+00:00.0,End Period,0,-80,13,,0,,0,30,20,1
+10:00,Start Period,0,-80,12,,0,,0,30,20,2
+09:42,[LVA 22-30] Park Pullup Jump shot: Made (2 PTS) Assist: Young (4 AST),54,133,1,,1628917,201477,1611661319,30,22,2
+09:18,[LAS 33-22] Sims 3pt Shot: Made (5 PTS),141,209,1,,203824,,1611661320,33,22,2
+09:01,[LVA] Young Jump Shot: Missed,-26,60,2,,201477,,1611661319,33,22,2
+09:01,[LVA] Team Rebound,-26,60,4,,0,,1611661319,33,22,2
+09:01,[LAS] Williams Foul: Loose Ball (1 PF),-6,18,6,1628917,203029,,1611661320,33,22,2
+08:47,[LVA] Park Jump Shot: Missed,-74,190,2,,1628917,,1611661319,33,22,2
+08:45,[LAS] Ogwumike Rebound (Off:0 Def:1),-74,190,4,,203014,,1611661320,33,22,2
+08:33,[LAS 35-22] Ogwumike Driving Layup Shot: Made (6 PTS),-2,41,1,,203014,,1611661320,35,22,2
+08:14,[LVA] Young Foul: Offensive Charge (1 PF),-37,78,6,203014,201477,,1611661319,35,22,2
+08:14,[LVA] Young Turnover : Offensive Foul Turnover (3 TO),-37,78,5,,201477,,1611661319,35,22,2
+08:14,[LVA] Young Substitution replaced by McBride,0,-80,8,,201477,203825,1611661319,35,22,2
+08:01,[LAS 37-22] Sims Driving Reverse Layup Shot: Made (7 PTS),-5,14,1,,203824,,1611661320,37,22,2
+07:49,[LVA] Coffey Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-26,29,5,,1628269,,1611661319,37,22,2
+07:49,[LVA] Park Substitution replaced by Wilson,0,-80,8,,1628917,1628932,1611661319,37,22,2
+07:30,[LAS 39-22] Gray Pullup Jump shot: Made (8 PTS),131,133,1,,203833,,1611661320,39,22,2
+07:24,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,39,22,2
+07:24,[LAS] Lavender Substitution replaced by Parker,0,-80,8,,202650,201496,1611661320,39,22,2
+07:24,[LVA] Coffey Substitution replaced by Hamby,0,-80,8,,1628269,204324,1611661319,39,22,2
+07:16,[LVA] Jefferson Turnover : Lost Ball (1 TO) Steal:Ogwumike (1 ST),-124,87,5,203014,1627669,,1611661319,39,22,2
+07:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,22,2
+07:04,[LAS] Parker Turnover : Out of Bounds - Bad Pass Turnover (1 TO),145,10,5,,201496,,1611661320,39,22,2
+06:56,[LAS] Parker Foul: Personal (1 PF),-140,176,6,1628932,201496,,1611661320,39,22,2
+06:56,[LAS] Williams Substitution replaced by Beard,0,-80,8,,203029,100949,1611661320,39,22,2
+06:53,[LVA] Nared Turnover : Bad Pass (1 TO) Steal:Gray (3 ST),-119,124,5,203833,1628913,,1611661319,39,22,2
+06:49,[LVA] Wilson Foul: Personal (3 PF),-2,101,6,203014,1628932,,1611661319,39,22,2
+06:49,[LVA] Wilson Substitution replaced by Bone,0,-80,8,,1628932,203402,1611661319,39,22,2
+06:37,[LAS 42-22] Gray 3pt Shot: Made (11 PTS) Assist: Beard (4 AST),-108,234,1,,203833,100949,1611661320,42,22,2
+06:16,[LVA] Hamby Layup Shot: Missed,-12,15,2,,204324,,1611661319,42,22,2
+06:16,[LAS] Team Rebound,-12,15,4,,0,,1611661320,42,22,2
+06:16,[LVA] Jefferson Substitution replaced by Plum,0,-80,8,,1627669,1628276,1611661319,42,22,2
+06:16,[LVA] Nared Substitution replaced by Young,0,-80,8,,1628913,201477,1611661319,42,22,2
+06:02,[LAS 44-22] Sims Pullup Jump shot: Made (9 PTS),75,151,1,,203824,,1611661320,44,22,2
+05:47,[LVA 24-44] Young Pullup Jump shot: Made (8 PTS) Assist: Hamby (1 AST),0,129,1,,201477,204324,1611661319,44,24,2
+05:27,[LAS 46-24] Ogwumike Driving Layup Shot: Made (8 PTS) Assist: Gray (2 AST),-7,22,1,,203014,203833,1611661320,46,24,2
+05:16,[LVA] Young Pullup Jump shot: Missed,-9,168,2,,201477,,1611661319,46,24,2
+05:15,[LAS] Ogwumike Rebound (Off:0 Def:2),-9,168,4,,203014,,1611661320,46,24,2
+05:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,24,2
+05:15,[LAS] Ogwumike Substitution replaced by Lavender,0,-80,8,,203014,202650,1611661320,46,24,2
+04:56,[LAS] Parker Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-100,13,5,,201496,,1611661320,46,24,2
+04:40,[LVA 26-46] Bone Driving Layup Shot: Made (4 PTS) Assist: McBride (1 AST),13,6,1,,203402,203825,1611661319,46,26,2
+04:24,[LAS 48-26] Lavender Jump Shot: Made (6 PTS) Assist: Gray (3 AST),189,89,1,,202650,203833,1611661320,48,26,2
+04:13,[LAS] Sims Foul: Personal (1 PF),-103,285,6,1628276,203824,,1611661320,48,26,2
+04:13,[LAS] Sims Substitution replaced by Carson,0,-80,8,,203824,201502,1611661320,48,26,2
+04:04,[LVA] Plum Turnover : Lost Ball (2 TO) Steal:Beard (2 ST),-39,307,5,100949,1628276,,1611661319,48,26,2
+04:04,[LAS] Lavender Turnover : Out of Bounds Lost Ball Turnover (1 TO),119,228,5,,202650,,1611661320,48,26,2
+03:53,[LVA 28-48] Plum Driving Layup Shot: Made (5 PTS),8,27,1,,1628276,,1611661319,48,28,2
+03:32,[LAS 50-28] Parker Driving Floating Jump Shot: Made (9 PTS),11,28,1,,201496,,1611661320,50,28,2
+03:23,[LVA 31-50] McBride 3pt Shot: Made (6 PTS) Assist: Young (5 AST),-2,239,1,,203825,201477,1611661319,50,31,2
+03:08,[LAS 52-31] Lavender Driving Layup Shot: Made (8 PTS) Assist: Parker (4 AST),17,17,1,,202650,201496,1611661320,52,31,2
+03:00,[LAS] Parker Foul: Shooting (2 PF) (2 FTA),-53,64,6,204324,201496,,1611661320,52,31,2
+03:00,[LVA] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,52,31,2
+03:00,[LVA] Team Rebound,0,-80,4,,0,,1611661319,52,31,2
+03:00,[LAS] Beard Substitution replaced by Ogwumike,0,-80,8,,100949,203014,1611661320,52,31,2
+03:00,[LAS] Parker Substitution replaced by Williams,0,-80,8,,201496,203029,1611661320,52,31,2
+03:00,[LVA 32-52] Hamby Free Throw 2 of 2 (5 PTS),0,-80,3,,204324,,1611661319,52,32,2
+02:48,[LAS] Gray Turnover : Bad Pass (2 TO) Steal:Hamby (1 ST),103,19,5,204324,203833,,1611661320,52,32,2
+02:42,[LVA 34-52] McBride Running Reverse Layup Shot: Made (8 PTS) Assist: Plum (2 AST),-3,28,1,,203825,1628276,1611661319,52,34,2
+02:14,[LAS 55-34] Carson 3pt Shot: Made (8 PTS),-141,226,1,,201502,,1611661320,55,34,2
+02:13,[LAS] Team Violation : Delay Of Game,0,-80,7,,0,,1611661320,55,34,2
+02:00,[LVA] Young Turnover : Bad Pass (4 TO) Steal:Gray (4 ST),-35,99,5,203833,201477,,1611661319,55,34,2
+01:58,[LVA] Young Foul: Personal (2 PF),-2,194,6,203029,201477,,1611661319,55,34,2
+01:58,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,55,34,2
+01:58,[LAS] Gray Substitution replaced by Sims,0,-80,8,,203833,203824,1611661320,55,34,2
+01:58,[LVA] Young Substitution replaced by Nared,0,-80,8,,201477,1628913,1611661319,55,34,2
+01:47,[LAS 57-34] Williams Driving Floating Jump Shot: Made (2 PTS),19,86,1,,203029,,1611661320,57,34,2
+01:30,[LVA] Nared Turnover : Lost Ball (2 TO) Steal:Williams (1 ST),-57,128,5,203029,1628913,,1611661319,57,34,2
+01:21,[LAS] Carson Layup Shot: Missed,-14,38,2,,201502,,1611661320,57,34,2
+01:18,[LVA] Bone Rebound (Off:0 Def:2),-14,38,4,,203402,,1611661319,57,34,2
+01:13,[LVA 36-57] Plum Pullup Jump shot: Made (7 PTS) Assist: McBride (2 AST),-108,56,1,,1628276,203825,1611661319,57,36,2
+00:57.1,[LAS 59-36] Lavender Jump Shot: Made (10 PTS) Assist: Carson (1 AST),125,159,1,,202650,201502,1611661320,59,36,2
+00:45.4,[LVA] Plum Driving Layup Shot: Missed,-11,19,2,,1628276,,1611661319,59,36,2
+00:44.0,[LAS] Ogwumike Rebound (Off:0 Def:3),-11,19,4,,203014,,1611661320,59,36,2
+00:44.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,36,2
+00:44.0,[LAS] Ogwumike Substitution replaced by Vadeeva,0,-80,8,,203014,1628926,1611661320,59,36,2
+00:25.8,[LAS] Vadeeva Turnover : Bad Pass (1 TO) Steal:Hamby (2 ST),-22,241,5,204324,1628926,,1611661320,59,36,2
+00:23.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,36,2
+00:23.2,[LAS] Carson Foul: Inbound (2 PF) (1 FTA),50,62,6,203825,201502,,1611661320,59,36,2
+00:23.2,[LVA 37-59] McBride Free Throw 1 of 1 (9 PTS),0,-80,3,,203825,,1611661319,59,37,2
+00:21.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,37,2
+00:17.0,[LVA] McBride Turnover : Out of Bounds Lost Ball Turnover (3 TO),-158,7,5,,203825,,1611661319,59,37,2
+00:03.2,[LAS] Sims Turnover : Bad Pass (1 TO) Steal:McBride (1 ST),121,21,5,203825,203824,,1611661320,59,37,2
+00:00.8,[LVA] Nared Layup Shot: Missed,-3,19,2,,1628913,,1611661319,59,37,2
+00:00.1,[LVA] Team Rebound,-3,19,4,,0,,1611661319,59,37,2
+00:00.0,End Period,0,-80,13,,0,,0,59,37,2
+10:00,Start Period,0,-80,12,,0,,0,59,37,3
+09:43,[LVA] Bone Jump Shot: Missed,-63,181,2,,203402,,1611661319,59,37,3
+09:39,[LAS] Ogwumike Rebound (Off:0 Def:4),-63,181,4,,203014,,1611661320,59,37,3
+09:26,[LAS] Parker Turnover : Bad Pass (3 TO) Steal:Young (1 ST),-109,163,5,201477,201496,,1611661320,59,37,3
+09:25,[LAS] Parker Foul: Personal Take (3 PF),-2,503,6,201477,201496,,1611661320,59,37,3
+09:09,[LVA] Plum 3pt Shot: Missed,-86,236,2,,1628276,,1611661319,59,37,3
+09:06,[LAS] Ogwumike Rebound (Off:0 Def:5),-86,236,4,,203014,,1611661320,59,37,3
+08:55,[LAS] Ogwumike Jump Shot: Missed,-69,117,2,,203014,,1611661320,59,37,3
+08:51,[LVA] Young Rebound (Off:0 Def:2),-69,117,4,,201477,,1611661319,59,37,3
+08:45,[LVA] Wilson Turnaround Jump Shot: Missed,54,99,2,,1628932,,1611661319,59,37,3
+08:43,[LAS] Parker Rebound (Off:0 Def:2),54,99,4,,201496,,1611661320,59,37,3
+08:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,37,3
+08:30,[LAS 61-37] Ogwumike Jump Shot: Made (10 PTS) Assist: Gray (4 AST),82,176,1,,203014,203833,1611661320,61,37,3
+08:19,[LVA] Wilson Turnover : Lost Ball (3 TO) Steal:Ogwumike (2 ST),46,106,5,203014,1628932,,1611661319,61,37,3
+08:03,[LAS] Parker 3pt Shot: Missed,-136,199,2,,201496,,1611661320,61,37,3
+07:59,[LVA] Bone Rebound (Off:0 Def:3),-136,199,4,,203402,,1611661319,61,37,3
+07:50,[LVA] McBride 3pt Shot: Missed,-120,226,2,,203825,,1611661319,61,37,3
+07:47,[LAS] Parker Rebound (Off:0 Def:3),137,212,4,,201496,,1611661320,61,37,3
+07:25,[LAS] Gray Jump Shot: Missed,-76,173,2,,203833,,1611661320,61,37,3
+07:23,[LVA] Bone Rebound (Off:0 Def:4),-76,173,4,,203402,,1611661319,61,37,3
+07:13,[LVA] McBride Jump Shot: Missed,-48,122,2,,203825,,1611661319,61,37,3
+07:11,[LAS] Parker Rebound (Off:0 Def:4),-48,122,4,,201496,,1611661320,61,37,3
+06:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,37,3
+06:55,[LAS] Carson 3pt Shot: Missed,-111,236,2,,201502,,1611661320,61,37,3
+06:51,[LAS] Beard Rebound (Off:2 Def:1),-111,236,4,,100949,,1611661320,61,37,3
+06:41,[LAS 63-37] Gray Driving Layup Shot: Made (13 PTS),-11,16,1,,203833,,1611661320,63,37,3
+06:25,[LAS] Beard Foul: Shooting Block (1 PF) (2 FTA),-4,27,6,1628932,100949,,1611661320,63,37,3
+06:25,[LVA 38-63] Wilson Free Throw 1 of 2 (3 PTS),0,-80,3,,1628932,,1611661319,63,38,3
+06:25,[LVA] Bone Substitution replaced by Park,0,-80,8,,203402,1628917,1611661319,63,38,3
+06:25,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,63,38,3
+06:21,[LAS] Parker Rebound (Off:0 Def:5),0,-80,4,,201496,,1611661320,63,38,3
+06:12,[LVA] Plum Foul: Shooting (1 PF) (2 FTA),-1,21,6,100949,1628276,,1611661319,63,38,3
+06:12,[LAS 64-38] Beard Free Throw 1 of 2 (3 PTS),0,-80,3,,100949,,1611661320,64,38,3
+06:12,[LAS 65-38] Beard Free Throw 2 of 2 (4 PTS),0,-80,3,,100949,,1611661320,65,38,3
+05:59,[LVA 40-65] Wilson Turnaround Jump Shot: Made (5 PTS) Assist: McBride (3 AST),-99,137,1,,1628932,203825,1611661319,65,40,3
+05:31,[LAS] Ogwumike Jump Shot: Missed,-37,120,2,1628917,203014,,1611661320,65,40,3
+05:28,[LVA] Wilson Rebound (Off:0 Def:1),-37,120,4,,1628932,,1611661319,65,40,3
+05:26,[LVA 42-65] McBride Running Layup Shot: Made (11 PTS) Assist: Young (6 AST),-15,14,1,,203825,201477,1611661319,65,42,3
+04:56,[LAS] Parker Turnover : Bad Pass (4 TO) Steal:Young (2 ST),-114,39,5,201477,201496,,1611661320,65,42,3
+04:54,[LAS] Gray Foul: Shooting (1 PF) (2 FTA),2,42,6,1628276,203833,,1611661320,65,42,3
+04:54,Timeout Officials,0,-80,9,,0,,0,65,42,3
+04:54,[LAS] Parker Substitution replaced by Lavender,0,-80,8,,201496,202650,1611661320,65,42,3
+04:54,[LVA 43-65] Plum Free Throw 1 of 2 (8 PTS),0,-80,3,,1628276,,1611661319,65,43,3
+04:54,[LVA 44-65] Plum Free Throw 2 of 2 (9 PTS),0,-80,3,,1628276,,1611661319,65,44,3
+04:35,[LAS] Gray Pullup Jump shot: Missed,-118,125,2,,203833,,1611661320,65,44,3
+04:31,[LVA] Park Rebound (Off:0 Def:3),-118,125,4,,1628917,,1611661319,65,44,3
+04:22,[LVA 46-65] Wilson Turnaround Jump Shot: Made (7 PTS) Assist: Plum (3 AST),118,37,1,,1628932,1628276,1611661319,65,46,3
+04:05,[LAS] Carson 3pt Shot: Missed,-28,237,2,,201502,,1611661320,65,46,3
+04:05,[LVA] Park Rebound (Off:0 Def:4),-28,237,4,,1628917,,1611661319,65,46,3
+03:56,[LVA 48-65] McBride Driving Layup Shot: Made (13 PTS) Assist: Plum (4 AST),4,16,1,,203825,1628276,1611661319,65,48,3
+03:37,[LAS] Lavender Jump Shot: Missed,-128,75,2,,202650,,1611661320,65,48,3
+03:37,[LVA] Park Rebound (Off:0 Def:5),-128,75,4,,1628917,,1611661319,65,48,3
+03:30,[LVA] Young Pullup Jump shot: Missed,-67,142,2,,201477,,1611661319,65,48,3
+03:27,[LAS] Ogwumike Rebound (Off:0 Def:6),-67,142,4,,203014,,1611661320,65,48,3
+03:12,[LAS] Lavender Turnover : Bad Pass (2 TO) Steal:Wilson (1 ST),-141,113,5,1628932,202650,,1611661320,65,48,3
+03:06,[LVA 50-65] Young Running Layup Shot: Made (10 PTS) Assist: Plum (5 AST),-3,13,1,,201477,1628276,1611661319,65,50,3
+02:55,[LVA] Plum Foul: Personal (2 PF),75,163,6,203014,1628276,,1611661319,65,50,3
+02:55,[LAS] Beard Substitution replaced by Sims,0,-80,8,,100949,203824,1611661320,65,50,3
+02:55,[LAS] Carson Substitution replaced by Williams,0,-80,8,,201502,203029,1611661320,65,50,3
+02:55,[LAS] Ogwumike Substitution replaced by Parker,0,-80,8,,203014,201496,1611661320,65,50,3
+02:45,[LAS 68-50] Parker 3pt Shot: Made (12 PTS) Assist: Sims (4 AST),64,244,1,,201496,203824,1611661320,68,50,3
+02:33,[LAS] Lavender Foul: Personal (1 PF),-76,145,6,1628932,202650,,1611661320,68,50,3
+02:30,[LAS] Lavender Foul: Shooting (2 PF) (2 FTA),25,0,6,201477,202650,,1611661320,68,50,3
+02:30,[LVA 51-68] Young Free Throw 1 of 2 (11 PTS),0,-80,3,,201477,,1611661319,68,51,3
+02:30,[LAS] Gray Substitution replaced by Beard,0,-80,8,,203833,100949,1611661320,68,51,3
+02:30,[LVA 52-68] Young Free Throw 2 of 2 (12 PTS),0,-80,3,,201477,,1611661319,68,52,3
+02:12,[LAS 70-52] Lavender Jump Shot: Made (12 PTS) Assist: Sims (5 AST),75,185,1,,202650,203824,1611661320,70,52,3
+01:54,[LVA 54-70] Young Cutting Layup Shot: Made (14 PTS) Assist: Wilson (1 AST),-8,10,1,,201477,1628932,1611661319,70,54,3
+01:28,[LAS] Sims Turnover : Lost Ball (2 TO) Steal:Plum (1 ST),-78,142,5,1628276,203824,,1611661320,70,54,3
+01:23,[LVA] Wilson Driving Layup Shot: Missed,7,15,2,,1628932,,1611661319,70,54,3
+01:22,[LAS] Lavender Rebound (Off:0 Def:2),7,15,4,,202650,,1611661320,70,54,3
+01:22,[LVA] Young Foul: Personal (3 PF),4,701,6,203029,201477,,1611661319,70,54,3
+01:22,[LVA] Plum Substitution replaced by Jefferson,0,-80,8,,1628276,1627669,1611661319,70,54,3
+01:22,[LAS] Williams Substitution replaced by Carson,0,-80,8,,203029,201502,1611661320,70,54,3
+01:02,[LAS] Lavender Jump Shot: Missed,-11,162,2,,202650,,1611661320,70,54,3
+00:57.9,[LVA] Park Rebound (Off:0 Def:6),-11,162,4,,1628917,,1611661319,70,54,3
+00:53.1,[LVA] McBride Turnover : Bad Pass (4 TO) Steal:Beard (3 ST),12,89,5,100949,203825,,1611661319,70,54,3
+00:38.9,[LVA] McBride Foul: Personal (2 PF) (2 FTA),-52,88,6,202650,203825,,1611661319,70,54,3
+00:38.9,[LAS] Lavender Free Throw 1 of 2 Missed,0,-80,3,,202650,,1611661320,70,54,3
+00:38.9,[LAS] Team Rebound,0,-80,4,,0,,1611661320,70,54,3
+00:38.9,[LAS 71-54] Lavender Free Throw 2 of 2 (13 PTS),0,-80,3,,202650,,1611661320,71,54,3
+00:20.8,[LAS] Lavender Foul: Shooting (3 PF) (2 FTA),3,41,6,1628917,202650,,1611661320,71,54,3
+00:20.8,[LVA 55-71] Park Free Throw 1 of 2 (3 PTS),0,-80,3,,1628917,,1611661319,71,55,3
+00:20.8,[LAS] Beard Substitution replaced by Williams,0,-80,8,,100949,203029,1611661320,71,55,3
+00:20.8,[LAS] Carson Substitution replaced by Gray,0,-80,8,,201502,203833,1611661320,71,55,3
+00:20.8,[LVA] McBride Substitution replaced by Nared,0,-80,8,,203825,1628913,1611661319,71,55,3
+00:20.8,[LVA 56-71] Park Free Throw 2 of 2 (4 PTS),0,-80,3,,1628917,,1611661319,71,56,3
+00:00.0,End Period,0,-80,13,,0,,0,71,56,3
+10:00,Start Period,0,-80,12,,0,,0,71,56,4
+09:43,[LAS] Gray 3pt Shot: Missed,124,233,2,,203833,,1611661320,71,56,4
+09:40,[LVA] Young Rebound (Off:0 Def:3),124,233,4,,201477,,1611661319,71,56,4
+09:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,56,4
+09:19,[LVA] Young Jump Shot: Missed,-121,37,2,,201477,,1611661319,71,56,4
+09:16,[LVA] Nared Rebound (Off:1 Def:0),-121,37,4,,1628913,,1611661319,71,56,4
+09:09,[LVA] Park Jump Shot: Missed,154,48,2,,1628917,,1611661319,71,56,4
+09:07,[LVA] Wilson Rebound (Off:1 Def:1),154,48,4,,1628932,,1611661319,71,56,4
+09:06,[LVA] Wilson Layup Shot: Missed,-3,26,2,,1628932,,1611661319,71,56,4
+09:04,[LAS] Parker Rebound (Off:0 Def:6),-3,26,4,,201496,,1611661320,71,56,4
+08:55,[LAS] Ogwumike Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-120,-11,5,,203014,,1611661320,71,56,4
+08:40,[LVA 58-71] Wilson Pullup Jump shot: Made (9 PTS) Assist: Jefferson (1 AST),-69,68,1,,1628932,1627669,1611661319,71,58,4
+08:40,[LAS] Ogwumike Foul: Shooting (3 PF) (1 FTA),-54,62,6,1628932,203014,,1611661320,71,58,4
+08:40,[LVA] Wilson Free Throw 1 of 1 Missed,0,-80,3,,1628932,,1611661319,71,58,4
+08:40,[LVA] Young Rebound (Off:1 Def:3),0,-80,4,,201477,,1611661319,71,58,4
+08:35,[LVA] Nared 3pt Shot: Missed,112,228,2,,1628913,,1611661319,71,58,4
+08:35,[LAS] Team Rebound,112,228,4,,0,,1611661320,71,58,4
+08:18,[LVA] Nared Foul: Shooting (1 PF) (2 FTA),85,136,6,203029,1628913,,1611661319,71,58,4
+08:18,[LAS 72-58] Williams Free Throw 1 of 2 (3 PTS),0,-80,3,,203029,,1611661320,72,58,4
+08:18,[LVA] Nared Substitution replaced by McBride,0,-80,8,,1628913,203825,1611661319,72,58,4
+08:18,[LAS 73-58] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,203029,,1611661320,73,58,4
+08:00,[LVA] Park Jump Shot: Missed,70,123,2,,1628917,,1611661319,73,58,4
+07:57,[LVA] Wilson Rebound (Off:2 Def:1),70,123,4,,1628932,,1611661319,73,58,4
+07:52,[LVA] Jefferson Floating Jump shot: Missed,29,123,2,,1627669,,1611661319,73,58,4
+07:50,[LAS] Gray Rebound (Off:0 Def:1),29,123,4,,203833,,1611661320,73,58,4
+07:47,[LAS 75-58] Williams Running Layup Shot: Made (6 PTS) Assist: Gray (5 AST),-7,10,1,,203029,203833,1611661320,75,58,4
+07:47,[LVA] McBride Foul: Shooting (3 PF) (1 FTA),-6,19,6,203029,203825,,1611661319,75,58,4
+07:47,[LAS] Parker Substitution replaced by Lavender,0,-80,8,,201496,202650,1611661320,75,58,4
+07:47,[LVA] Jefferson Substitution replaced by Plum,0,-80,8,,1627669,1628276,1611661319,75,58,4
+07:47,[LAS 76-58] Williams Free Throw 1 of 1 (7 PTS),0,-80,3,,203029,,1611661320,76,58,4
+07:35,[LAS] Ogwumike Foul: Shooting Block (4 PF) (2 FTA),-41,41,6,1628932,203014,,1611661320,76,58,4
+07:35,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,76,58,4
+07:35,[LVA] Team Rebound,0,-80,4,,0,,1611661319,76,58,4
+07:35,[LVA 59-76] Wilson Free Throw 2 of 2 (10 PTS),0,-80,3,,1628932,,1611661319,76,59,4
+07:20,[LAS] Sims Layup Shot: Missed,5,53,2,,203824,,1611661320,76,59,4
+07:17,[LVA] Wilson Rebound (Off:2 Def:2),5,53,4,,1628932,,1611661319,76,59,4
+07:05,[LVA] Wilson Turnover : Bad Pass (4 TO) Steal:Ogwumike (3 ST),108,1,5,203014,1628932,,1611661319,76,59,4
+06:59,[LAS 78-59] Ogwumike Running Layup Shot: Made (12 PTS) Assist: Gray (6 AST),-2,23,1,,203014,203833,1611661320,78,59,4
+06:44,[LVA] Young Turnover : Out of Bounds - Bad Pass Turnover (5 TO),101,-21,5,,201477,,1611661319,78,59,4
+06:44,[LVA] Park Substitution replaced by Hamby,0,-80,8,,1628917,204324,1611661319,78,59,4
+06:28,[LAS] Lavender Jump Shot: Missed,-91,187,2,,202650,,1611661320,78,59,4
+06:26,[LVA] Team Rebound,-113,217,4,,0,,1611661319,78,59,4
+06:16,[LAS] Lavender Foul: Personal (4 PF),-32,107,6,1628932,202650,,1611661320,78,59,4
+06:06,[LVA 61-78] Young Turnaround Fadeaway Bank Jump Shot: Made (16 PTS),-37,63,1,,201477,,1611661319,78,61,4
+05:54,[LAS] Sims 3pt Shot: Missed,100,233,2,,203824,,1611661320,78,61,4
+05:50,[LVA] Young Rebound (Off:1 Def:4),100,233,4,,201477,,1611661319,78,61,4
+05:37,[LVA] Wilson Jump Bank Shot: Missed,-61,96,2,,1628932,,1611661319,78,61,4
+05:35,[LAS] Ogwumike Rebound (Off:0 Def:7),-61,96,4,,203014,,1611661320,78,61,4
+05:30,[LAS] Gray Turnover : Out of Bounds Lost Ball Turnover (3 TO),60,-19,5,,203833,,1611661320,78,61,4
+05:30,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,78,61,4
+05:30,[LAS] Gray Substitution replaced by Beard,0,-80,8,,203833,100949,1611661320,78,61,4
+05:30,[LAS] Ogwumike Substitution replaced by Vadeeva,0,-80,8,,203014,1628926,1611661320,78,61,4
+05:30,[LVA] Wilson Substitution replaced by Coffey,0,-80,8,,1628932,1628269,1611661319,78,61,4
+05:17,[LVA 63-78] Hamby Driving Layup Shot: Made (7 PTS) Assist: Young (7 AST),2,22,1,,204324,201477,1611661319,78,63,4
+04:51,[LAS] Williams Jump Shot: Missed,-76,199,2,,203029,,1611661320,78,63,4
+04:49,[LVA] Hamby Rebound (Off:0 Def:2),-76,199,4,,204324,,1611661319,78,63,4
+04:46,[LVA] Coffey Foul: Offensive Charge (1 PF),22,96,6,203029,1628269,,1611661319,78,63,4
+04:46,[LVA] Coffey Turnover : Offensive Foul Turnover (2 TO),22,96,5,,1628269,,1611661319,78,63,4
+04:46,[LAS] Williams Substitution replaced by Gray,0,-80,8,,203029,203833,1611661320,78,63,4
+04:30,[LAS] Beard Jump Shot: Missed,-193,83,2,,100949,,1611661320,78,63,4
+04:29,[LVA] Plum Rebound (Off:0 Def:2),-193,83,4,,1628276,,1611661319,78,63,4
+04:20,[LVA 66-78] Plum 3pt Shot: Made (12 PTS) Assist: Young (8 AST),107,224,1,,1628276,201477,1611661319,78,66,4
+04:00,[LAS 80-66] Lavender Jump Shot: Made (15 PTS) Assist: Beard (5 AST),192,47,1,,202650,100949,1611661320,80,66,4
+03:47,[LVA] Young Jump Shot: Missed,-89,135,2,,201477,,1611661319,80,66,4
+03:42,[LAS] Vadeeva Rebound (Off:0 Def:1),-89,135,4,,1628926,,1611661320,80,66,4
+03:25,[LAS 82-66] Vadeeva Turnaround Hook Shot: Made (2 PTS) Assist: Sims (6 AST),38,54,1,,1628926,203824,1611661320,82,66,4
+03:22,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,82,66,4
+03:22,Instant Replay - Support Ruling,0,-80,18,,0,,0,82,66,4
+03:22,[LAS] Vadeeva Substitution replaced by Ogwumike,0,-80,8,,1628926,203014,1611661320,82,66,4
+03:22,[LVA] Young Substitution replaced by Jefferson,0,-80,8,,201477,1627669,1611661319,82,66,4
+03:22,[LVA] Plum Substitution replaced by Nared,0,-80,8,,1628276,1628913,1611661319,82,66,4
+03:22,[LVA] McBride Substitution replaced by Park,0,-80,8,,203825,1628917,1611661319,82,66,4
+03:12,[LVA] Hamby Driving Layup Shot: Missed,9,17,2,,204324,,1611661319,82,66,4
+03:09,[LAS] Lavender Rebound (Off:0 Def:3),9,17,4,,202650,,1611661320,82,66,4
+02:49,[LAS 84-66] Lavender Jump Shot: Made (17 PTS) Assist: Beard (6 AST),183,39,1,,202650,100949,1611661320,84,66,4
+02:32,[LAS] Sims Foul: Shooting (2 PF) (2 FTA),-7,117,6,1628913,203824,,1611661320,84,66,4
+02:32,[LVA] Nared Free Throw 1 of 2 Missed,0,-80,3,,1628913,,1611661319,84,66,4
+02:32,[LVA] Team Rebound,0,-80,4,,0,,1611661319,84,66,4
+02:32,[LAS] Beard Substitution replaced by Samuelson,0,-80,8,,100949,1628317,1611661320,84,66,4
+02:32,[LAS] Gray Substitution replaced by Williams,0,-80,8,,203833,203029,1611661320,84,66,4
+02:32,[LAS] Ogwumike Substitution replaced by Vadeeva,0,-80,8,,203014,1628926,1611661320,84,66,4
+02:32,[LVA 67-84] Nared Free Throw 2 of 2 (1 PTS),0,-80,3,,1628913,,1611661319,84,67,4
+02:08,[LAS] Team Turnover : Shot Clock Turnover,80,38,5,,0,,1611661320,84,67,4
+01:58,[LVA] Jefferson Jump Shot: Missed,0,126,2,,1627669,,1611661319,84,67,4
+01:54,[LAS] Vadeeva Rebound (Off:0 Def:2),0,126,4,,1628926,,1611661320,84,67,4
+01:41,[LAS 86-67] Samuelson Jump Shot: Made (2 PTS),41,145,1,,1628317,,1611661320,86,67,4
+01:26,[LVA 69-86] Coffey Jump Shot: Made (2 PTS) Assist: Hamby (2 AST),-49,154,1,,1628269,204324,1611661319,86,69,4
+01:08,[LVA] Jefferson Foul: Shooting (1 PF) (2 FTA),-35,56,6,203824,1627669,,1611661319,86,69,4
+01:08,[LVA] Team Timeout : Short,0,-80,9,,1611661319,,1611661319,86,69,4
+01:08,[LAS] Sims Free Throw 1 of 2 Missed,0,-80,3,,203824,,1611661320,86,69,4
+01:08,[LAS] Team Rebound,0,-80,4,,0,,1611661320,86,69,4
+01:08,[LAS 87-69] Sims Free Throw 2 of 2 (10 PTS),0,-80,3,,203824,,1611661320,87,69,4
+00:53.6,[LVA 71-87] Park Layup Shot: Made (6 PTS) Assist: Nared (1 AST),4,24,1,,1628917,1628913,1611661319,87,71,4
+00:42.8,[LAS] Williams 3pt Shot: Missed,133,217,2,,203029,,1611661320,87,71,4
+00:38.8,[LVA] Hamby Rebound (Off:0 Def:3),133,217,4,,204324,,1611661319,87,71,4
+00:24.2,[LVA] Nared Jump Shot: Missed,-4,38,2,,1628913,,1611661319,87,71,4
+00:21.9,[LAS] Vadeeva Rebound (Off:0 Def:3),-4,38,4,,1628926,,1611661320,87,71,4
+00:00.0,End Period,0,-80,13,,0,,0,87,71,4
+00:00.0,Game End,0,-80,0,,0,,0,87,71,4

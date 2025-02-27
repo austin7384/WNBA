@@ -1,0 +1,398 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Wilson vs Parker (Stokes gains possession),0,-80,10,204323,1628932,204329,1611661319,0,0,0,1
+09:42,[LVA 2-0] Wilson Driving Layup Shot: Made (2 PTS),-19,28,1,,1628932,,1611661319,2,0,2,1
+09:28,[ATL 2-2] Parker Fadeaway Jump Shot: Made (2 PTS) Assist: Robinson (1 AST),-61,48,1,,204323,202658,1611661330,2,2,2,1
+09:17,[LVA] Plum Driving Layup Shot: Missed Block: Parker (1 BLK),-27,19,2,204323,1628276,,1611661319,2,2,0,1
+09:13,[ATL] Robinson Rebound (Off:0 Def:1),-27,19,4,,202658,,1611661330,2,2,0,1
+09:10,[ATL] Coffey Turnover : Lost Ball (1 TO) Steal:Stokes (1 ST),-16,80,5,204329,1628269,,1611661330,2,2,0,1
+09:06,[LVA] Plum 3pt Shot: Missed,-155,196,2,,1628276,,1611661319,2,2,0,1
+09:02,[ATL] Parker Rebound (Off:0 Def:1),-155,196,4,,204323,,1611661330,2,2,0,1
+08:53,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),5,61,6,1628269,1628932,1628952,1611661319,2,2,0,1
+08:53,[ATL 3-2] Coffey Free Throw 1 of 2 (1 PTS),0,-80,3,,1628269,,1611661330,2,3,1,1
+08:53,[ATL] Coffey Free Throw 2 of 2 Missed,0,-80,3,,1628269,,1611661330,2,3,0,1
+08:50,[ATL] Coffey Rebound (Off:1 Def:0),0,-80,4,,1628269,,1611661330,2,3,0,1
+08:42,[ATL] Gray Pullup Jump shot: Missed,133,60,2,,1628277,,1611661330,2,3,0,1
+08:40,[LVA] Stokes Rebound (Off:0 Def:1),133,60,4,,204329,,1611661319,2,3,0,1
+08:20,[LVA] Wilson Jump Shot: Missed,16,176,2,,1628932,,1611661319,2,3,0,1
+08:16,[ATL] Robinson Rebound (Off:0 Def:2),16,176,4,,202658,,1611661330,2,3,0,1
+08:08,[ATL 5-2] Gray Driving Floating Jump Shot: Made (2 PTS),18,64,1,,1628277,,1611661330,2,5,2,1
+07:44,[LVA] Wilson Pullup Jump shot: Missed,27,65,2,,1628932,,1611661319,2,5,0,1
+07:42,[ATL] Coffey Rebound (Off:1 Def:1),27,65,4,,1628269,,1611661330,2,5,0,1
+07:32,[ATL 7-2] Parker Driving Layup Shot: Made (4 PTS),-11,37,1,,204323,,1611661330,2,7,2,1
+07:21,[LVA] Stokes Foul: Offensive (1 PF),56,250,6,1628277,204329,1628169,1611661319,2,7,0,1
+07:21,[LVA] Stokes Turnover : Offensive Foul Turnover (1 TO),56,250,5,,204329,1628169,1611661319,2,7,0,1
+07:06,[ATL] Coffey Turnover : Bad Pass (2 TO) Steal:Stokes (2 ST),2,99,5,204329,1628269,,1611661330,2,7,0,1
+06:54,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,2,7,0,1
+06:46,[LVA] Stokes 3pt Shot: Missed,-234,-5,2,,204329,,1611661319,2,7,0,1
+06:43,[ATL] Coffey Rebound (Off:1 Def:2),-234,-5,4,,1628269,,1611661330,2,7,0,1
+06:28,[ATL 9-2] Coffey Jump Shot: Made (3 PTS) Assist: Parker (1 AST),-5,182,1,,1628269,204323,1611661330,2,9,2,1
+06:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,9,0,1
+06:06,[LVA 5-9] Plum 3pt Shot: Made (3 PTS) Assist: Wilson (1 AST),-38,244,1,,1628276,1628932,1611661319,5,9,3,1
+05:48,[ATL] Coffey Driving Layup Shot: Missed Block: Stokes (1 BLK),-15,48,2,204329,1628269,,1611661330,5,9,0,1
+05:48,[ATL] Team Rebound,-15,48,4,,0,,1611661330,5,9,0,1
+05:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,9,0,1
+05:46,[ATL 11-5] Howard Jump Shot: Made (2 PTS) Assist: Robinson (2 AST),-10,193,1,,1631009,202658,1611661330,5,11,2,1
+05:27,[LVA] Wilson 3pt Shot: Missed,-175,160,2,,1628932,,1611661319,5,11,0,1
+05:26,[LVA] Team Rebound,-175,160,4,,0,,1611661319,5,11,0,1
+05:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,11,0,1
+05:25,[LVA 7-11] Young Cutting Layup Shot: Made (2 PTS) Assist: Gray (1 AST),11,47,1,,1629498,203833,1611661319,7,11,2,1
+05:25,[ATL] Howard Foul: Shooting (1 PF) (1 FTA),11,47,6,1629498,1631009,1628952,1611661330,7,11,0,1
+05:25,[LVA 8-11] Young Free Throw 1 of 1 (3 PTS),0,-80,3,,1629498,,1611661319,8,11,1,1
+05:12,[ATL] Howard Jump Shot: Missed Block: Gray (1 BLK),20,23,2,203833,1631009,,1611661330,8,11,0,1
+05:12,[LVA] Team Rebound,20,23,4,,0,,1611661319,8,11,0,1
+05:01,[LVA] Plum Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-129,123,5,,1628276,1628169,1611661319,8,11,0,1
+04:41,[ATL] Coffey Layup Shot: Missed Block: Wilson (1 BLK),-6,69,2,1628932,1628269,,1611661330,8,11,0,1
+04:37,[LVA] Wilson Rebound (Off:0 Def:1),-6,69,4,,1628932,,1611661319,8,11,0,1
+04:35,[LVA] Wilson Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),3,736,5,1631009,1628932,,1611661319,8,11,0,1
+04:35,[LVA] Young Foul: Shooting (1 PF) (2 FTA),34,35,6,1631009,1629498,1628702,1611661319,8,11,0,1
+04:35,[ATL 12-8] Howard Free Throw 1 of 2 (3 PTS),0,-80,3,,1631009,,1611661330,8,12,1,1
+04:35,[ATL 13-8] Howard Free Throw 2 of 2 (4 PTS),0,-80,3,,1631009,,1611661330,8,13,1,1
+04:25,[LVA] Wilson Pullup Jump shot: Missed,-96,47,2,,1628932,,1611661319,8,13,0,1
+04:21,[ATL] Parker Rebound (Off:0 Def:2),-96,47,4,,204323,,1611661330,8,13,0,1
+04:08,[ATL] Robinson Driving Floating Jump Shot: Missed,-120,43,2,,202658,,1611661330,8,13,0,1
+04:05,[LVA] Stokes Rebound (Off:0 Def:2),-120,43,4,,204329,,1611661319,8,13,0,1
+03:50,[LVA] Young 3pt Shot: Missed,-193,148,2,,1629498,,1611661319,8,13,0,1
+03:46,[ATL] Parker Rebound (Off:0 Def:3),-193,148,4,,204323,,1611661330,8,13,0,1
+03:29,[ATL] Parker 3pt Shot: Missed,230,3,2,,204323,,1611661330,8,13,0,1
+03:26,[LVA] Young Rebound (Off:0 Def:1),230,3,4,,1629498,,1611661319,8,13,0,1
+03:13,[LVA 11-13] Stokes 3pt Shot: Made (3 PTS) Assist: Gray (2 AST),-227,17,1,,204329,203833,1611661319,11,13,3,1
+02:45,[ATL] Howard 3pt Shot: Missed,229,10,2,,1631009,,1611661330,11,13,0,1
+02:42,[LVA] Plum Rebound (Off:0 Def:1),229,10,4,,1628276,,1611661319,11,13,0,1
+02:40,[ATL] Robinson Foul: Shooting (1 PF) (3 FTA),143,229,6,1629498,202658,1628702,1611661330,11,13,0,1
+02:40,[LVA 12-13] Young Free Throw 1 of 3 (4 PTS),0,-80,3,,1629498,,1611661319,12,13,1,1
+02:40,[LVA 13-13] Young Free Throw 2 of 3 (5 PTS),0,-80,3,,1629498,,1611661319,13,13,1,1
+02:40,[LVA] Gray Substitution replaced by Bell,0,-80,8,,203833,1631006,1611661319,13,13,0,1
+02:40,[LVA] Stokes Substitution replaced by George,0,-80,8,,204329,204297,1611661319,13,13,0,1
+02:40,[ATL] Robinson Substitution replaced by Durr,0,-80,8,,202658,1629476,1611661330,13,13,0,1
+02:40,[ATL] Howard Substitution replaced by McDonald,0,-80,8,,1631009,1630462,1611661330,13,13,0,1
+02:40,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,13,13,0,1
+02:40,[LVA] Young Free Throw 3 of 3 Missed,0,-80,3,,1629498,,1611661319,13,13,0,1
+02:31,[ATL] Gray Rebound (Off:0 Def:1),0,-80,4,,1628277,,1611661330,13,13,0,1
+02:31,[LVA] George Foul: Personal (1 PF),-1,67,6,204323,204297,1628169,1611661319,13,13,0,1
+02:25,[ATL 15-13] Durr Driving Layup Shot: Made (2 PTS) Assist: Parker (2 AST),-18,35,1,,1629476,204323,1611661330,13,15,2,1
+02:13,[LVA 15-15] Wilson Driving Floating Jump Shot: Made (4 PTS) Assist: Young (1 AST),70,33,1,,1628932,1629498,1611661319,15,15,2,1
+02:13,[ATL] Durr Foul: Shooting (1 PF) (1 FTA),70,33,6,1628932,1629476,1628169,1611661330,15,15,0,1
+02:13,[LVA] Wilson Free Throw 1 of 1 Missed,0,-80,3,,1628932,,1611661319,15,15,0,1
+02:11,[ATL] McDonald Rebound (Off:0 Def:1),0,-80,4,,1630462,,1611661330,15,15,0,1
+01:50,[ATL] Durr Turnover : Bad Pass (1 TO) Steal:Wilson (1 ST),12,56,5,1628932,1629476,,1611661330,15,15,0,1
+01:44,[LVA] Wilson Turnover : Lost Ball (2 TO) Steal:Parker (1 ST),13,90,5,204323,1628932,,1611661319,15,15,0,1
+01:34,[ATL] Gray Driving Layup Shot: Missed,-18,22,2,,1628277,,1611661330,15,15,0,1
+01:32,[LVA] Wilson Rebound (Off:0 Def:2),-18,22,4,,1628932,,1611661319,15,15,0,1
+01:32,[LVA] Wilson Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-32,568,5,,1628932,1628702,1611661319,15,15,0,1
+01:32,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,15,15,0,1
+01:16,[ATL] Durr Turnover : Out of Bounds - Bad Pass Turnover (2 TO),145,187,5,,1629476,1628952,1611661330,15,15,0,1
+01:03,[LVA 17-15] Young Pullup Jump shot: Made (7 PTS) Assist: Wilson (2 AST),-21,194,1,,1629498,1628932,1611661319,17,15,2,1
+01:03,[ATL] Parker Foul: Shooting (1 PF) (1 FTA),-21,194,6,1629498,204323,1628952,1611661330,17,15,0,1
+01:03,[LVA 18-15] Young Free Throw 1 of 1 (8 PTS),0,-80,3,,1629498,,1611661319,18,15,1,1
+00:54.1,[ATL 17-18] Gray Pullup Jump shot: Made (4 PTS),21,99,1,,1628277,,1611661330,18,17,2,1
+00:47.6,[LVA] Young 3pt Shot: Missed,-18,260,2,,1629498,,1611661319,18,17,0,1
+00:45.1,[ATL] Durr Rebound (Off:0 Def:1),-18,260,4,,1629476,,1611661330,18,17,0,1
+00:32.7,[ATL] McDonald Turnover : Bad Pass (1 TO) Steal:Young (1 ST),38,56,5,1629498,1630462,,1611661330,18,17,0,1
+00:28.4,[LVA] Wilson Running Layup Shot: Missed Block: Gray (1 BLK),-32,35,2,1628277,1628932,,1611661319,18,17,0,1
+00:22.4,[ATL] Hillmon Rebound (Off:0 Def:1),-32,35,4,,1631044,,1611661330,18,17,0,1
+00:05.4,[ATL 19-18] Hillmon Cutting Layup Shot: Made (2 PTS) Assist: Parker (3 AST),22,17,1,,1631044,204323,1611661330,18,19,2,1
+00:00.7,[ATL] McDonald Foul: Shooting (1 PF) (2 FTA),22,25,6,1628276,1630462,1628702,1611661330,18,19,0,1
+00:00.7,Instant Replay - Support Ruling,0,-80,18,,0,,0,18,19,0,1
+00:00.7,[LVA 19-19] Plum Free Throw 1 of 2 (4 PTS),0,-80,3,,1628276,,1611661319,19,19,1,1
+00:00.7,[LVA 20-19] Plum Free Throw 2 of 2 (5 PTS),0,-80,3,,1628276,,1611661319,20,19,1,1
+00:00.0,End Period,0,-80,13,,0,,0,20,19,0,1
+10:00,Start Period,0,-80,12,,0,,0,20,19,0,2
+09:48,[ATL] Durr 3pt Shot: Missed,-123,219,2,,1629476,,1611661330,20,19,0,2
+09:43,[LVA] Stokes Rebound (Off:0 Def:3),-123,219,4,,204329,,1611661319,20,19,0,2
+09:32,[LVA] Young Fadeaway Jump Shot: Missed,-30,59,2,,1629498,,1611661319,20,19,0,2
+09:30,[ATL] Coffey Rebound (Off:1 Def:3),-30,59,4,,1628269,,1611661330,20,19,0,2
+09:24,[ATL] Howard 3pt Shot: Missed,183,167,2,,1631009,,1611661330,20,19,0,2
+09:21,[ATL] Billings Rebound (Off:1 Def:0),183,167,4,,1628881,,1611661330,20,19,0,2
+09:17,[ATL] Howard Jump Shot: Missed,-200,37,2,,1631009,,1611661330,20,19,0,2
+09:13,[LVA] Young Rebound (Off:0 Def:2),-200,37,4,,1629498,,1611661319,20,19,0,2
+09:05,[LVA 22-19] Gray Step Back Jump shot: Made (2 PTS),5,169,1,,203833,,1611661319,22,19,2,2
+08:49,[ATL] Durr Turnover : Bad Pass (3 TO) Steal:Young (2 ST),-60,246,5,1629498,1629476,,1611661330,22,19,0,2
+08:43,[LVA] Young Running Layup Shot: Missed,18,36,2,,1629498,,1611661319,22,19,0,2
+08:41,[LVA] Young Rebound (Off:1 Def:2),18,36,4,,1629498,,1611661319,22,19,0,2
+08:38,[LVA] George 3pt Shot: Missed,53,244,2,,204297,,1611661319,22,19,0,2
+08:35,[ATL] Coffey Rebound (Off:1 Def:4),53,244,4,,1628269,,1611661330,22,19,0,2
+08:15,[ATL] Howard Pullup Jump shot: Missed,34,163,2,,1631009,,1611661330,22,19,0,2
+08:13,[LVA] Bell Rebound (Off:0 Def:1),34,163,4,,1631006,,1611661319,22,19,0,2
+08:02,[LVA] Bell 3pt Shot: Missed,-222,54,2,,1631006,,1611661319,22,19,0,2
+07:58,[ATL] Howard Rebound (Off:0 Def:1),-222,54,4,,1631009,,1611661330,22,19,0,2
+07:43,[ATL] Durr Pullup Jump shot: Missed,97,67,2,,1629476,,1611661330,22,19,0,2
+07:40,[LVA] Stokes Rebound (Off:0 Def:4),97,67,4,,204329,,1611661319,22,19,0,2
+07:28,[LVA 24-19] Gray Step Back Jump shot: Made (4 PTS),-16,158,1,,203833,,1611661319,24,19,2,2
+07:03,[LVA] Bell Foul: Shooting (1 PF) (2 FTA),2,50,6,1628269,1631006,1628952,1611661319,24,19,0,2
+07:03,[ATL] Coffey Free Throw 1 of 2 Missed,0,-80,3,,1628269,,1611661330,24,19,0,2
+07:03,[ATL] Team Rebound,0,-80,4,,0,,1611661330,24,19,0,2
+07:03,[LVA] Young Substitution replaced by Plum,0,-80,8,,1629498,1628276,1611661319,24,19,0,2
+07:03,[ATL] Durr Substitution replaced by Gray,0,-80,8,,1629476,1628277,1611661330,24,19,0,2
+07:03,[ATL 20-24] Coffey Free Throw 2 of 2 (4 PTS),0,-80,3,,1628269,,1611661330,24,20,1,2
+06:55,[ATL] Gray Foul: Personal (1 PF),-8,253,6,203833,1628277,1628702,1611661330,24,20,0,2
+06:55,[LVA] George Substitution replaced by Wilson,0,-80,8,,204297,1628932,1611661319,24,20,0,2
+06:40,[LVA] Gray Jump Shot: Missed,3,180,2,,203833,,1611661319,24,20,0,2
+06:37,[LVA] Wilson Rebound (Off:1 Def:2),3,180,4,,1628932,,1611661319,24,20,0,2
+06:33,[LVA] Wilson Turnaround Jump Shot: Missed,-60,51,2,,1628932,,1611661319,24,20,0,2
+06:31,[ATL] Billings Rebound (Off:1 Def:1),-60,51,4,,1628881,,1611661330,24,20,0,2
+06:14,[ATL] Gray Driving Layup Shot: Missed,46,42,2,,1628277,,1611661330,24,20,0,2
+06:12,[LVA] Stokes Rebound (Off:0 Def:5),46,42,4,,204329,,1611661319,24,20,0,2
+06:09,[LVA] Wilson Foul: Offensive Charge (2 PF),9,54,6,1628269,1628932,1628952,1611661319,24,20,0,2
+06:09,[LVA] Wilson Turnover : Offensive Foul Turnover (4 TO),9,54,5,,1628932,1628952,1611661319,24,20,0,2
+06:09,[ATL] Howard Substitution replaced by Parker,0,-80,8,,1631009,204323,1611661330,24,20,0,2
+05:51,[ATL] McDonald 3pt Shot: Missed,156,198,2,,1630462,,1611661330,24,20,0,2
+05:49,[LVA] Team Rebound,156,198,4,,0,,1611661319,24,20,0,2
+05:49,[ATL] Coffey Foul: Loose Ball (1 PF),-2,749,6,1628932,1628269,1628169,1611661330,24,20,0,2
+05:49,Timeout Officials,0,-80,9,,0,,0,24,20,0,2
+05:34,[LVA] Plum Pullup Jump shot: Missed,3,123,2,,1628276,,1611661319,24,20,0,2
+05:31,[ATL] Parker Rebound (Off:0 Def:4),3,123,4,,204323,,1611661330,24,20,0,2
+05:19,[ATL 22-24] Parker Jump Shot: Made (6 PTS) Assist: McDonald (1 AST),-53,178,1,,204323,1630462,1611661330,24,22,2,2
+05:03,[LVA] Wilson Step Back Jump shot: Missed,1,156,2,,1628932,,1611661319,24,22,0,2
+05:00,[ATL] Coffey Rebound (Off:1 Def:5),1,156,4,,1628269,,1611661330,24,22,0,2
+04:52,[ATL 24-24] Billings Floating Jump shot: Made (2 PTS) Assist: Parker (4 AST),1,60,1,,1628881,204323,1611661330,24,24,2,2
+04:40,[LVA 26-24] Gray Pullup Jump shot: Made (6 PTS),-128,102,1,,203833,,1611661319,26,24,2,2
+04:28,[ATL] Billings Layup Shot: Missed Block: Wilson (2 BLK),-7,58,2,1628932,1628881,,1611661330,26,24,0,2
+04:24,[LVA] Bell Rebound (Off:0 Def:2),-7,58,4,,1631006,,1611661319,26,24,0,2
+04:23,[ATL] Coffey Foul: Shooting (2 PF) (2 FTA),15,43,6,1631006,1628269,1628169,1611661330,26,24,0,2
+04:23,[LVA 27-24] Bell Free Throw 1 of 2 (1 PTS),0,-80,3,,1631006,,1611661319,27,24,1,2
+04:23,[LVA] Stokes Substitution replaced by George,0,-80,8,,204329,204297,1611661319,27,24,0,2
+04:23,[ATL] Coffey Substitution replaced by Howard,0,-80,8,,1628269,1631009,1611661330,27,24,0,2
+04:23,[LVA 28-24] Bell Free Throw 2 of 2 (2 PTS),0,-80,3,,1631006,,1611661319,28,24,1,2
+04:13,[ATL] Parker Driving Layup Shot: Missed,10,43,2,,204323,,1611661330,28,24,0,2
+04:10,[LVA] Plum Rebound (Off:0 Def:2),10,43,4,,1628276,,1611661319,28,24,0,2
+04:05,[LVA] Plum Turnover : Traveling (2 TO),11,101,5,,1628276,1628169,1611661319,28,24,0,2
+04:05,[LVA] Bell Substitution replaced by Young,0,-80,8,,1631006,1629498,1611661319,28,24,0,2
+03:53,[ATL] Billings Turnover : Out of Bounds - Bad Pass Turnover (1 TO),16,115,5,,1628881,1628169,1611661330,28,24,0,2
+03:32,[LVA] Gray Pullup Jump shot: Missed,173,70,2,,203833,,1611661319,28,24,0,2
+03:29,[ATL] Billings Rebound (Off:1 Def:2),173,70,4,,1628881,,1611661330,28,24,0,2
+03:26,[LVA] Wilson Foul: Personal (3 PF),-35,129,6,1628881,1628932,1628169,1611661319,28,24,0,2
+03:26,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,28,24,0,2
+03:26,[ATL] Billings Substitution replaced by Rupert,0,-80,8,,1628881,1630387,1611661330,28,24,0,2
+03:17,[ATL] McDonald 3pt Shot: Missed,13,263,2,,1630462,,1611661330,28,24,0,2
+03:13,[LVA] Gray Rebound (Off:0 Def:1),13,263,4,,203833,,1611661319,28,24,0,2
+03:04,[LVA] George Pullup Jump shot: Missed,9,208,2,,204297,,1611661319,28,24,0,2
+03:01,[ATL] Rupert Rebound (Off:0 Def:1),9,208,4,,1630387,,1611661330,28,24,0,2
+02:55,[ATL 26-28] McDonald Driving Layup Shot: Made (2 PTS),24,19,1,,1630462,,1611661330,28,26,2,2
+02:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,26,0,2
+02:40,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,28,26,0,2
+02:37,[LVA] Young Layup Shot: Missed,11,31,2,,1629498,,1611661319,28,26,0,2
+02:34,[ATL] Rupert Rebound (Off:0 Def:2),11,31,4,,1630387,,1611661330,28,26,0,2
+02:14,[ATL] McDonald Layup Shot: Missed,-23,50,2,,1630462,,1611661330,28,26,0,2
+02:12,[LVA] Stokes Rebound (Off:0 Def:6),-23,50,4,,204329,,1611661319,28,26,0,2
+02:05,[LVA] Gray 3pt Shot: Missed,-133,234,2,,203833,,1611661319,28,26,0,2
+02:01,[ATL] McDonald Rebound (Off:0 Def:2),-133,234,4,,1630462,,1611661330,28,26,0,2
+01:43,[ATL] Howard 3pt Shot: Missed,234,31,2,,1631009,,1611661330,28,26,0,2
+01:40,[ATL] Gray Rebound (Off:1 Def:1),234,31,4,,1628277,,1611661330,28,26,0,2
+01:40,[LVA] Young Foul: Shooting (2 PF) (2 FTA),-7,37,6,1628277,1629498,1628952,1611661319,28,26,0,2
+01:40,[ATL 27-28] Gray Free Throw 1 of 2 (5 PTS),0,-80,3,,1628277,,1611661330,28,27,1,2
+01:40,[ATL 28-28] Gray Free Throw 2 of 2 (6 PTS),0,-80,3,,1628277,,1611661330,28,28,1,2
+01:27,[LVA 31-28] George 3pt Shot: Made (3 PTS) Assist: Gray (3 AST),176,189,1,,204297,203833,1611661319,31,28,3,2
+01:13,[ATL 30-31] Parker Cutting Finger Roll Layup Shot: Made (8 PTS) Assist: McDonald (2 AST),-17,26,1,,204323,1630462,1611661330,31,30,2,2
+01:03,[LVA 34-30] George 3pt Shot: Made (6 PTS) Assist: Gray (4 AST),10,252,1,,204297,203833,1611661319,34,30,3,2
+00:56.1,[ATL] Rupert Foul: Offensive (1 PF),-116,214,6,1628276,1630387,1628169,1611661330,34,30,0,2
+00:56.1,[ATL] Rupert Turnover : Offensive Foul Turnover (1 TO),-116,214,5,,1630387,1628169,1611661330,34,30,0,2
+00:45.8,[LVA] Gray Driving Reverse Layup Shot: Missed,-29,27,2,,203833,,1611661319,34,30,0,2
+00:43.2,[ATL] Rupert Rebound (Off:0 Def:3),-29,27,4,,1630387,,1611661330,34,30,0,2
+00:29.2,[ATL] Gray Step Back Jump shot: Missed,17,130,2,,1628277,,1611661330,34,30,0,2
+00:26.2,[LVA] Stokes Rebound (Off:0 Def:7),17,130,4,,204329,,1611661319,34,30,0,2
+00:17.3,[LVA 36-30] Stokes Cutting Layup Shot: Made (5 PTS) Assist: Plum (1 AST),-21,21,1,,204329,1628276,1611661319,36,30,2,2
+00:00.8,[ATL] Howard Driving Floating Bank Jump Shot: Missed,68,43,2,,1631009,,1611661330,36,30,0,2
+00:00.8,[ATL] Team Rebound,68,43,4,,0,,1611661330,36,30,0,2
+00:00.0,End Period,0,-80,13,,0,,0,36,30,0,2
+10:00,Start Period,0,-80,12,,0,,0,36,30,0,3
+09:45,[ATL] Howard 3pt Shot: Missed,-167,167,2,,1631009,,1611661330,36,30,0,3
+09:41,[ATL] Gray Rebound (Off:2 Def:1),-167,167,4,,1628277,,1611661330,36,30,0,3
+09:40,[ATL 32-36] Gray Putback Layup Shot: Made (8 PTS),10,40,1,,1628277,,1611661330,36,32,2,3
+09:23,[LVA] Stokes 3pt Shot: Missed,-234,47,2,,204329,,1611661319,36,32,0,3
+09:20,[ATL] Howard Rebound (Off:0 Def:2),-234,47,4,,1631009,,1611661330,36,32,0,3
+09:05,[ATL] Parker Jump Shot: Missed,155,81,2,,204323,,1611661330,36,32,0,3
+09:02,[LVA] Stokes Rebound (Off:0 Def:8),155,81,4,,204329,,1611661319,36,32,0,3
+08:43,[LVA] Wilson Driving Layup Shot: Missed,29,18,2,,1628932,,1611661319,36,32,0,3
+08:40,[ATL] Coffey Rebound (Off:1 Def:6),29,18,4,,1628269,,1611661330,36,32,0,3
+08:34,[ATL 35-36] Coffey 3pt Shot: Made (7 PTS) Assist: Howard (1 AST),109,232,1,,1628269,1631009,1611661330,36,35,3,3
+08:22,[ATL] Gray Foul: Personal (2 PF),-100,184,6,203833,1628277,1628169,1611661330,36,35,0,3
+08:15,[LVA] Gray 3pt Shot: Missed,-228,29,2,,203833,,1611661319,36,35,0,3
+08:12,[ATL] Howard Rebound (Off:0 Def:3),-228,29,4,,1631009,,1611661330,36,35,0,3
+08:07,[ATL] Coffey Running Layup Shot: Missed Block: Stokes (2 BLK),-44,38,2,204329,1628269,,1611661330,36,35,0,3
+08:06,[LVA] Gray Rebound (Off:0 Def:2),-44,38,4,,203833,,1611661319,36,35,0,3
+08:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,35,0,3
+07:48,[LVA] Stokes Layup Shot: Missed,-13,33,2,,204329,,1611661319,36,35,0,3
+07:45,[LVA] Plum Rebound (Off:1 Def:2),-13,33,4,,1628276,,1611661319,36,35,0,3
+07:42,[LVA] Plum Layup Shot: Missed,-21,44,2,,1628276,,1611661319,36,35,0,3
+07:42,[LVA] Team Rebound,-21,44,4,,0,,1611661319,36,35,0,3
+07:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,35,0,3
+07:40,[LVA] Plum Jump Shot: Missed,183,109,2,,1628276,,1611661319,36,35,0,3
+07:36,[ATL] Howard Rebound (Off:0 Def:4),183,109,4,,1631009,,1611661330,36,35,0,3
+07:17,[ATL] Parker Turnaround Fadeaway shot: Missed,-4,73,2,,204323,,1611661330,36,35,0,3
+07:14,[LVA] Young Rebound (Off:1 Def:3),-4,73,4,,1629498,,1611661319,36,35,0,3
+07:07,[LVA] Wilson Turnaround Jump Shot: Missed,47,70,2,,1628932,,1611661319,36,35,0,3
+07:04,[ATL] Howard Rebound (Off:0 Def:5),47,70,4,,1631009,,1611661330,36,35,0,3
+06:59,[LVA] Plum Foul: Personal (1 PF),0,40,6,204323,1628276,1628702,1611661319,36,35,0,3
+06:54,[ATL 37-36] Howard Driving Layup Shot: Made (6 PTS),16,37,1,,1631009,,1611661330,36,37,2,3
+06:54,[LVA] Young Foul: Shooting (3 PF) (1 FTA),16,37,6,1631009,1629498,1628952,1611661319,36,37,0,3
+06:54,[ATL 38-36] Howard Free Throw 1 of 1 (7 PTS),0,-80,3,,1631009,,1611661330,36,38,1,3
+06:47,[ATL] Coffey Foul: Shooting (3 PF) (2 FTA),-18,61,6,203833,1628269,1628952,1611661330,36,38,0,3
+06:47,[LVA 37-38] Gray Free Throw 1 of 2 (7 PTS),0,-80,3,,203833,,1611661319,37,38,1,3
+06:47,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,37,38,0,3
+06:47,[LVA 38-38] Gray Free Throw 2 of 2 (8 PTS),0,-80,3,,203833,,1611661319,38,38,1,3
+06:24,[ATL] Gray Turnover : Bad Pass (1 TO) Steal:Wilson (2 ST),135,144,5,1628932,1628277,,1611661330,38,38,0,3
+06:12,[LVA] Wilson Jump Shot: Missed,-66,123,2,,1628932,,1611661319,38,38,0,3
+06:09,[ATL] Robinson Rebound (Off:0 Def:3),-66,123,4,,202658,,1611661330,38,38,0,3
+05:52,[ATL] Parker Cutting Layup Shot: Missed,-28,41,2,,204323,,1611661330,38,38,0,3
+05:49,[LVA] Stokes Rebound (Off:0 Def:9),-28,41,4,,204329,,1611661319,38,38,0,3
+05:42,[LVA] Wilson Layup Shot: Missed,-26,32,2,,1628932,,1611661319,38,38,0,3
+05:42,[LVA] Wilson Rebound (Off:2 Def:2),-26,32,4,,1628932,,1611661319,38,38,0,3
+05:39,[LVA 40-38] Wilson Putback Layup Shot: Made (6 PTS),-11,27,1,,1628932,,1611661319,40,38,2,3
+05:31,[ATL] Hillmon Turnover : Bad Pass (1 TO) Steal:Wilson (3 ST),140,167,5,1628932,1631044,,1611661330,40,38,0,3
+05:26,[LVA] Young Running Layup Shot: Missed,26,22,2,,1629498,,1611661319,40,38,0,3
+05:26,[LVA] Wilson Rebound (Off:3 Def:2),26,22,4,,1628932,,1611661319,40,38,0,3
+05:26,[ATL] Hillmon Foul: Shooting (1 PF) (2 FTA),-20,42,6,1628932,1631044,1628702,1611661330,40,38,0,3
+05:26,[LVA 41-38] Wilson Free Throw 1 of 2 (7 PTS),0,-80,3,,1628932,,1611661319,41,38,1,3
+05:26,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,41,38,0,3
+05:26,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,41,38,0,3
+05:26,[LVA] Stokes Substitution replaced by George,0,-80,8,,204329,204297,1611661319,41,38,0,3
+05:26,[LVA 42-38] Wilson Free Throw 2 of 2 (8 PTS),0,-80,3,,1628932,,1611661319,42,38,1,3
+05:12,[LVA] Plum Foul: Personal (2 PF),106,138,6,1628881,1628276,1628952,1611661319,42,38,0,3
+05:07,[ATL] Gray Driving Layup Shot: Missed Block: Gray (2 BLK),-27,36,2,203833,1628277,,1611661330,42,38,0,3
+05:04,[LVA] Wilson Rebound (Off:3 Def:3),-27,36,4,,1628932,,1611661319,42,38,0,3
+05:00,[LVA] Young 3pt Shot: Missed,180,171,2,,1629498,,1611661319,42,38,0,3
+04:55,[LVA] Wilson Rebound (Off:4 Def:3),180,171,4,,1628932,,1611661319,42,38,0,3
+04:54,[LVA 44-38] Wilson Jump Shot: Made (10 PTS),8,56,1,,1628932,,1611661319,44,38,2,3
+04:44,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,44,38,0,3
+04:44,[ATL] Robinson Substitution replaced by McDonald,0,-80,8,,202658,1630462,1611661330,44,38,0,3
+04:37,[LVA] Gray Foul: Shooting (1 PF) (2 FTA),3,65,6,1628277,203833,1628169,1611661319,44,38,0,3
+04:37,[ATL 39-44] Gray Free Throw 1 of 2 (9 PTS),0,-80,3,,1628277,,1611661330,44,39,1,3
+04:37,[ATL 40-44] Gray Free Throw 2 of 2 (10 PTS),0,-80,3,,1628277,,1611661330,44,40,1,3
+04:24,[LVA 46-40] Wilson Jump Shot: Made (12 PTS) Assist: George (1 AST),5,167,1,,1628932,204297,1611661319,46,40,2,3
+04:10,[ATL 42-46] Howard Turnaround Fadeaway shot: Made (9 PTS),-1,151,1,,1631009,,1611661330,46,42,2,3
+03:53,[ATL] Billings Foul: Personal (1 PF),2,104,6,1628932,1628881,1628702,1611661330,46,42,0,3
+03:53,[ATL] Billings Substitution replaced by Parker,0,-80,8,,1628881,204323,1611661330,46,42,0,3
+03:50,[LVA] Gray Foul: Offensive (2 PF),10,53,6,204323,203833,1628169,1611661319,46,42,0,3
+03:50,[LVA] Gray Turnover : Offensive Foul Turnover (1 TO),10,53,5,,203833,1628169,1611661319,46,42,0,3
+03:50,[LVA] Young Substitution replaced by Bell,0,-80,8,,1629498,1631006,1611661319,46,42,0,3
+03:39,[ATL 44-46] Parker Jump Shot: Made (10 PTS) Assist: Howard (2 AST),9,161,1,,204323,1631009,1611661330,46,44,2,3
+03:26,[LVA 49-44] George 3pt Shot: Made (9 PTS) Assist: Gray (5 AST),-237,22,1,,204297,203833,1611661319,49,44,3,3
+03:13,[ATL] Gray Pullup Jump shot: Missed,-12,155,2,,1628277,,1611661330,49,44,0,3
+03:10,[ATL] Parker Rebound (Off:1 Def:4),-12,155,4,,204323,,1611661330,49,44,0,3
+03:06,Jump Ball Parker vs Plum (McDonald gains possession),0,-80,10,1628276,204323,1630462,1611661330,49,44,0,3
+03:00,[ATL] Coffey Turnover : Bad Pass (3 TO) Steal:Plum (1 ST),-85,78,5,1628276,1628269,,1611661330,49,44,0,3
+02:52,[LVA] Plum Turnover : Bad Pass (3 TO) Steal:Gray (1 ST),65,92,5,1628277,1628276,,1611661319,49,44,0,3
+02:44,[ATL 47-49] Coffey 3pt Shot: Made (10 PTS) Assist: Howard (3 AST),90,244,1,,1628269,1631009,1611661330,49,47,3,3
+02:31,[LVA 51-47] Gray Step Back Jump shot: Made (10 PTS),-137,108,1,,203833,,1611661319,51,47,2,3
+02:31,[ATL] Gray Foul: Shooting (3 PF) (1 FTA),-137,108,6,203833,1628277,1628702,1611661330,51,47,0,3
+02:31,[LVA] Plum Substitution replaced by Young,0,-80,8,,1628276,1629498,1611661319,51,47,0,3
+02:31,[LVA 52-47] Gray Free Throw 1 of 1 (11 PTS),0,-80,3,,203833,,1611661319,52,47,1,3
+02:14,[LVA] Gray Foul: Personal (3 PF) (2 FTA),-29,52,6,204323,203833,1628702,1611661319,52,47,0,3
+02:14,[ATL] Parker Free Throw 1 of 2 Missed,0,-80,3,,204323,,1611661330,52,47,0,3
+02:14,[ATL] Team Rebound,0,-80,4,,0,,1611661330,52,47,0,3
+02:14,[ATL 48-52] Parker Free Throw 2 of 2 (11 PTS),0,-80,3,,204323,,1611661330,52,48,1,3
+02:01,[LVA] Gray Pullup Jump shot: Missed,49,156,2,,203833,,1611661319,52,48,0,3
+01:58,[ATL] McDonald Rebound (Off:0 Def:3),49,156,4,,1630462,,1611661330,52,48,0,3
+01:42,[ATL] Howard Turnaround Fadeaway shot: Missed,109,44,2,,1631009,,1611661330,52,48,0,3
+01:39,[LVA] George Rebound (Off:0 Def:1),109,44,4,,204297,,1611661319,52,48,0,3
+01:29,[LVA] George 3pt Shot: Missed,66,254,2,,204297,,1611661319,52,48,0,3
+01:27,[ATL] Coffey Rebound (Off:1 Def:7),66,254,4,,1628269,,1611661330,52,48,0,3
+01:09,[ATL] Howard Turnover : Bad Pass (1 TO) Steal:Wilson (4 ST),77,221,5,1628932,1631009,,1611661330,52,48,0,3
+01:04,[LVA 54-48] George Running Layup Shot: Made (11 PTS) Assist: Young (2 AST),36,18,1,,204297,1629498,1611661319,54,48,2,3
+01:04,[ATL] McDonald Foul: Shooting (2 PF) (1 FTA),36,18,6,204297,1630462,1628702,1611661330,54,48,0,3
+01:04,[LVA] George Free Throw 1 of 1 Missed,0,-80,3,,204297,,1611661319,54,48,0,3
+01:00,[ATL] Coffey Rebound (Off:1 Def:8),0,-80,4,,1628269,,1611661330,54,48,0,3
+00:42.9,[LVA] Gray Foul: Shooting (4 PF) (2 FTA),43,38,6,1628277,203833,1628702,1611661319,54,48,0,3
+00:42.9,[ATL 49-54] Gray Free Throw 1 of 2 (11 PTS),0,-80,3,,1628277,,1611661330,54,49,1,3
+00:42.9,[LVA] Gray Substitution replaced by Plum,0,-80,8,,203833,1628276,1611661319,54,49,0,3
+00:42.9,[ATL 50-54] Gray Free Throw 2 of 2 (12 PTS),0,-80,3,,1628277,,1611661330,54,50,1,3
+00:26.8,[ATL] Parker Foul: Shooting (2 PF) (2 FTA),-23,47,6,1628932,204323,1628702,1611661330,54,50,0,3
+00:26.8,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,54,50,0,3
+00:26.8,[LVA] Team Rebound,0,-80,4,,0,,1611661319,54,50,0,3
+00:26.8,[LVA 55-50] Wilson Free Throw 2 of 2 (13 PTS),0,-80,3,,1628932,,1611661319,55,50,1,3
+00:07.8,[ATL] Parker Turnaround Jump Shot: Missed,-41,54,2,,204323,,1611661330,55,50,0,3
+00:05.2,[LVA] Young Rebound (Off:1 Def:4),-41,54,4,,1629498,,1611661319,55,50,0,3
+00:01.8,[LVA 58-50] Young 3pt Shot: Made (11 PTS),-3,260,1,,1629498,,1611661319,58,50,3,3
+00:00.0,End Period,0,-80,13,,0,,0,58,50,0,3
+10:00,Start Period,0,-80,12,,0,,0,58,50,0,4
+09:43,[LVA 60-50] Wilson Pullup Jump shot: Made (15 PTS),1,172,1,,1628932,,1611661319,60,50,2,4
+09:16,[ATL 53-60] Howard 3pt Shot: Made (12 PTS),73,253,1,,1631009,,1611661330,60,53,3,4
+09:02,[LVA 62-53] Wilson Step Back Jump shot: Made (17 PTS),-20,105,1,,1628932,,1611661319,62,53,2,4
+08:43,[ATL 55-62] Parker Layup Shot: Made (13 PTS),23,37,1,,204323,,1611661330,62,55,2,4
+08:26,[LVA 64-55] Wilson Pullup Jump shot: Made (19 PTS) Assist: Plum (2 AST),-20,113,1,,1628932,1628276,1611661319,64,55,2,4
+07:59,[ATL] Team Turnover : Shot Clock Turnover,-211,196,5,,0,1628169,1611661330,64,55,0,4
+07:48,[ATL] Coffey Foul: Personal (4 PF),-22,244,6,1628932,1628269,1628702,1611661330,64,55,0,4
+07:44,[LVA 66-55] Wilson Jump Shot: Made (21 PTS) Assist: Young (3 AST),-110,177,1,,1628932,1629498,1611661319,66,55,2,4
+07:31,[ATL 58-66] Gray 3pt Shot: Made (15 PTS) Assist: Robinson (3 AST),-224,79,1,,1628277,202658,1611661330,66,58,3,4
+07:20,[LVA 69-58] Plum 3pt Shot: Made (8 PTS),32,259,1,,1628276,,1611661319,69,58,3,4
+07:08,[ATL] Coffey Turnover : Bad Pass (4 TO) Steal:Plum (2 ST),191,110,5,1628276,1628269,,1611661330,69,58,0,4
+07:03,[LVA 71-58] Bell Running Layup Shot: Made (4 PTS) Assist: Plum (3 AST),26,24,1,,1631006,1628276,1611661319,71,58,2,4
+07:02,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,71,58,0,4
+07:02,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,71,58,0,4
+06:48,[LVA] Stokes Foul: Shooting (2 PF) (2 FTA),-32,31,6,1628277,204329,1628702,1611661319,71,58,0,4
+06:48,[ATL 59-71] Gray Free Throw 1 of 2 (16 PTS),0,-80,3,,1628277,,1611661330,71,59,1,4
+06:48,[ATL 60-71] Gray Free Throw 2 of 2 (17 PTS),0,-80,3,,1628277,,1611661330,71,60,1,4
+06:35,[LVA 73-60] Plum Driving Finger Roll Layup Shot: Made (10 PTS),-21,39,1,,1628276,,1611661319,73,60,2,4
+06:17,[ATL] Howard Floating Jump shot: Missed,-16,72,2,,1631009,,1611661330,73,60,0,4
+06:15,[LVA] Bell Rebound (Off:0 Def:3),-16,72,4,,1631006,,1611661319,73,60,0,4
+06:06,[LVA] Plum 3pt Shot: Missed,202,133,2,,1628276,,1611661319,73,60,0,4
+06:03,[ATL] Coffey Rebound (Off:1 Def:9),202,133,4,,1628269,,1611661330,73,60,0,4
+05:55,[ATL 62-73] Gray Pullup Jump shot: Made (19 PTS) Assist: Howard (4 AST),7,126,1,,1628277,1631009,1611661330,73,62,2,4
+05:54,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,73,62,0,4
+05:54,[LVA] Bell Substitution replaced by Gray,0,-80,8,,1631006,203833,1611661319,73,62,0,4
+05:54,[LVA] George Substitution replaced by Wilson,0,-80,8,,204297,1628932,1611661319,73,62,0,4
+05:37,[LVA] Wilson Turnaround Jump Shot: Missed,-4,148,2,,1628932,,1611661319,73,62,0,4
+05:33,[LVA] Young Rebound (Off:2 Def:4),-4,148,4,,1629498,,1611661319,73,62,0,4
+05:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,62,0,4
+05:30,[LVA 75-62] Young Cutting Layup Shot: Made (13 PTS) Assist: Gray (6 AST),32,29,1,,1629498,203833,1611661319,75,62,2,4
+05:11,[ATL] Coffey Turnover : Bad Pass (5 TO) Steal:Gray (1 ST),87,150,5,203833,1628269,,1611661330,75,62,0,4
+05:04,[LVA] Gray 3pt Shot: Missed,-95,255,2,,203833,,1611661319,75,62,0,4
+05:01,[ATL] Parker Rebound (Off:1 Def:5),-95,255,4,,204323,,1611661330,75,62,0,4
+04:46,[ATL] Coffey 3pt Shot: Missed,-224,49,2,,1628269,,1611661330,75,62,0,4
+04:41,[LVA] Stokes Rebound (Off:0 Def:10),-224,49,4,,204329,,1611661319,75,62,0,4
+04:31,[LVA 77-62] Plum Driving Reverse Layup Shot: Made (12 PTS),32,22,1,,1628276,,1611661319,77,62,2,4
+04:31,[ATL] Parker Foul: Shooting (3 PF) (1 FTA),32,22,6,1628276,204323,1628169,1611661330,77,62,0,4
+04:31,[ATL] Robinson Substitution replaced by McDonald,0,-80,8,,202658,1630462,1611661330,77,62,0,4
+04:31,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,77,62,0,4
+04:31,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,77,62,0,4
+04:31,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661330,77,62,0,4
+04:31,[ATL] Coffey Substitution replaced by Parker,0,-80,8,,1628269,204323,1611661330,77,62,0,4
+04:31,[LVA 78-62] Plum Free Throw 1 of 1 (13 PTS),0,-80,3,,1628276,,1611661319,78,62,1,4
+04:18,[LVA] Gray Foul: Personal (5 PF),-147,44,6,1631009,203833,1628952,1611661319,78,62,0,4
+04:10,[ATL] Parker Turnaround Fadeaway shot: Missed,-41,30,2,,204323,,1611661330,78,62,0,4
+04:08,[LVA] Wilson Rebound (Off:4 Def:4),-41,30,4,,1628932,,1611661319,78,62,0,4
+03:58,[ATL] McDonald Foul: Personal (3 PF),-152,74,6,1629498,1630462,1628169,1611661330,78,62,0,4
+03:58,[ATL] Howard Substitution replaced by Durr,0,-80,8,,1631009,1629476,1611661330,78,62,0,4
+03:58,[ATL] Gray Substitution replaced by Jones,0,-80,8,,1628277,1641650,1611661330,78,62,0,4
+03:58,[ATL] Parker Substitution replaced by Rupert,0,-80,8,,204323,1630387,1611661330,78,62,0,4
+03:56,[LVA] Plum 3pt Shot: Missed,-96,254,2,,1628276,,1611661319,78,62,0,4
+03:52,[ATL] Jones Rebound (Off:0 Def:1),-96,254,4,,1641650,,1611661330,78,62,0,4
+03:35,[ATL] Durr Turnover : Bad Pass (4 TO) Steal:Wilson (5 ST),111,57,5,1628932,1629476,,1611661330,78,62,0,4
+03:23,[LVA 80-62] Gray Step Back Jump shot: Made (13 PTS),125,32,1,,203833,,1611661319,80,62,2,4
+03:06,[ATL] McDonald 3pt Shot: Missed,113,237,2,,1630462,,1611661330,80,62,0,4
+03:02,[LVA] Gray Rebound (Off:0 Def:3),113,237,4,,203833,,1611661319,80,62,0,4
+02:51,[LVA] Wilson Pullup Jump shot: Missed,-34,131,2,,1628932,,1611661319,80,62,0,4
+02:49,[ATL] Rupert Rebound (Off:0 Def:4),-34,131,4,,1630387,,1611661330,80,62,0,4
+02:36,[ATL] Durr 3pt Shot: Missed,-230,5,2,,1629476,,1611661330,80,62,0,4
+02:33,[LVA] Wilson Rebound (Off:4 Def:5),-230,5,4,,1628932,,1611661319,80,62,0,4
+02:22,[LVA 82-62] Young Cutting Layup Shot: Made (15 PTS) Assist: Wilson (3 AST),39,28,1,,1629498,1628932,1611661319,82,62,2,4
+02:05,[ATL] McDonald Pullup Jump shot: Missed,-95,139,2,,1630462,,1611661330,82,62,0,4
+02:02,[LVA] Plum Rebound (Off:1 Def:3),-95,139,4,,1628276,,1611661319,82,62,0,4
+01:59,[LVA] Plum Running Layup Shot: Missed,-22,33,2,,1628276,,1611661319,82,62,0,4
+01:55,[ATL] Billings Rebound (Off:1 Def:3),-22,33,4,,1628881,,1611661330,82,62,0,4
+01:51,[ATL] Rupert 3pt Shot: Missed,-190,124,2,,1630387,,1611661330,82,62,0,4
+01:48,[LVA] Stokes Rebound (Off:0 Def:11),-190,124,4,,204329,,1611661319,82,62,0,4
+01:45,[LVA 84-62] Young Running Layup Shot: Made (17 PTS),-11,33,1,,1629498,,1611661319,84,62,2,4
+01:33,[ATL] McDonald Turnover : Bad Pass (2 TO) Steal:Gray (2 ST),83,96,5,203833,1630462,,1611661330,84,62,0,4
+01:25,[LVA] Stokes Layup Shot: Missed,-6,27,2,,204329,,1611661319,84,62,0,4
+01:24,[LVA] Stokes Rebound (Off:1 Def:11),-6,27,4,,204329,,1611661319,84,62,0,4
+01:21,[LVA] Plum 3pt Shot: Missed,-182,183,2,,1628276,,1611661319,84,62,0,4
+01:21,[ATL] Jones Rebound (Off:0 Def:2),-182,183,4,,1641650,,1611661330,84,62,0,4
+01:16,[LVA] Young Foul: Personal (4 PF),0,536,6,1641650,1629498,1628702,1611661319,84,62,0,4
+01:16,[LVA] Young Substitution replaced by Bell,0,-80,8,,1629498,1631006,1611661319,84,62,0,4
+01:16,[LVA] Gray Substitution replaced by George,0,-80,8,,203833,204297,1611661319,84,62,0,4
+01:16,[LVA] Wilson Substitution replaced by Colson,0,-80,8,,1628932,202641,1611661319,84,62,0,4
+01:16,[LVA] Stokes Substitution replaced by Coates,0,-80,8,,204329,1628268,1611661319,84,62,0,4
+01:06,[LVA] Colson Foul: Shooting (1 PF) (2 FTA),-6,75,6,1629476,202641,1628952,1611661319,84,62,0,4
+01:06,[ATL] Durr Free Throw 1 of 2 Missed,0,-80,3,,1629476,,1611661330,84,62,0,4
+01:06,[ATL] Team Rebound,0,-80,4,,0,,1611661330,84,62,0,4
+01:06,[ATL 63-84] Durr Free Throw 2 of 2 (3 PTS),0,-80,3,,1629476,,1611661330,84,63,1,4
+00:48.4,[LVA 86-63] Colson Pullup Jump shot: Made (2 PTS),40,171,1,,202641,,1611661319,86,63,2,4
+00:33.8,[ATL] Jones Turnaround Jump Shot: Missed,-16,63,2,,1641650,,1611661330,86,63,0,4
+00:33.8,[LVA] Team Rebound,-16,63,4,,0,,1611661319,86,63,0,4
+00:33.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,86,63,0,4
+00:19.7,[LVA] George Layup Shot: Missed,-27,48,2,,204297,,1611661319,86,63,0,4
+00:17.7,[ATL] Durr Rebound (Off:0 Def:2),-27,48,4,,1629476,,1611661330,86,63,0,4
+00:13.5,[ATL 65-86] Durr Pullup Jump shot: Made (5 PTS),18,113,1,,1629476,,1611661330,86,65,2,4
+00:00.0,End Period,0,-80,13,,0,,0,86,65,0,4

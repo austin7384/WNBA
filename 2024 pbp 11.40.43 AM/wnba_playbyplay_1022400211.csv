@@ -1,0 +1,390 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Stevens vs Jones (Hamby gains possession),0,-80,10,1628280,1628922,204324,1611661320,0,0,0,1
+09:46,[LAS 2-0] Jackson Cutting Layup Shot: Made (2 PTS) Assist: Stevens (1 AST),-11,11,1,,1642288,1628922,1611661320,2,0,2,1
+09:22,[CON 2-2] Thomas Driving Layup Shot: Made (2 PTS) Assist: Harris (1 AST),12,13,1,,203826,1630112,1611661323,2,2,2,1
+09:05,[CON] Harris Foul: Shooting (1 PF) (2 FTA),71,-6,6,203824,1630112,1629174,1611661323,2,2,0,1
+09:05,[LAS] Sims Free Throw 1 of 2 Missed,0,-80,3,,203824,,1611661320,2,2,0,1
+09:05,[LAS] Team Rebound,0,-80,4,,0,,1611661320,2,2,0,1
+09:05,[LAS 3-2] Sims Free Throw 2 of 2 (1 PTS),0,-80,3,,203824,,1611661320,3,2,1,1
+08:57,[CON] Harris Turnover : Traveling (1 TO),-142,254,5,,1630112,202679,1611661323,3,2,0,1
+08:44,[LAS] Hamby Layup Shot: Missed Block: Bonner (1 BLK),-28,0,2,201886,204324,,1611661320,3,2,0,1
+08:40,[CON] Bonner Rebound (Off:0 Def:1),-28,0,4,,201886,,1611661323,3,2,0,1
+08:38,[CON 4-3] Thomas Running Layup Shot: Made (4 PTS) Assist: Bonner (1 AST),15,21,1,,203826,201886,1611661323,3,4,2,1
+08:38,[LAS] Burrell Foul: Shooting (1 PF) (1 FTA),0,12,6,203826,1630996,1629174,1611661320,3,4,0,1
+08:38,[CON] Thomas Free Throw 1 of 1 Missed,0,-80,3,,203826,,1611661323,3,4,0,1
+08:35,[LAS] Hamby Rebound (Off:0 Def:1),0,-80,4,,204324,,1611661320,3,4,0,1
+08:31,[LAS] Sims Running Layup Shot: Missed Block: Harris (1 BLK),-4,26,2,1630112,203824,,1611661320,3,4,0,1
+08:31,[CON] Harris Rebound (Off:0 Def:1),-4,26,4,,1630112,,1611661323,3,4,0,1
+08:16,[CON] Jones Layup Shot: Missed,-28,-8,2,,1628280,,1611661323,3,4,0,1
+08:14,[LAS] Stevens Rebound (Off:0 Def:1),-28,-8,4,,1628922,,1611661320,3,4,0,1
+08:03,[LAS 5-4] Jackson Driving Layup Shot: Made (4 PTS),40,9,1,,1642288,,1611661320,5,4,2,1
+07:45,[CON 6-5] Jones Cutting Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),16,8,1,,1628280,203826,1611661323,5,6,2,1
+07:33,[LAS 8-6] Stevens 3pt Shot: Made (3 PTS) Assist: Sims (1 AST),-19,232,1,,1628922,203824,1611661320,8,6,3,1
+07:20,[CON 8-8] Carrington Cutting Layup Shot: Made (2 PTS) Assist: Harris (2 AST),-21,2,1,,1630096,1630112,1611661323,8,8,2,1
+06:55,[LAS] Stevens Fadeaway Jump Shot: Missed,120,5,2,,1628922,,1611661320,8,8,0,1
+06:55,[LAS] Team Rebound,120,5,4,,0,,1611661320,8,8,0,1
+06:55,[LAS] Team Turnover : Shot Clock Turnover,137,5,5,,0,1628702,1611661320,8,8,0,1
+06:36,[CON] Bonner 3pt Shot: Missed,-230,-1,2,,201886,,1611661323,8,8,0,1
+06:32,[LAS] Burrell Rebound (Off:0 Def:1),-230,-1,4,,1630996,,1611661320,8,8,0,1
+06:27,[LAS] Sims 3pt Shot: Missed,194,153,2,,203824,,1611661320,8,8,0,1
+06:23,[CON] Jones Rebound (Off:0 Def:1),194,153,4,,1628280,,1611661323,8,8,0,1
+06:10,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-29,29,5,,203826,,1611661323,8,8,0,1
+06:10,Stoppage: Court Cleanup,0,-80,20,,0,,0,8,8,0,1
+05:55,[LAS] Sims Jump Bank Shot: Missed,-21,9,2,,203824,,1611661320,8,8,0,1
+05:52,[CON] Jones Rebound (Off:0 Def:2),-21,9,4,,1628280,,1611661323,8,8,0,1
+05:46,[CON] Harris Pullup Jump shot: Missed,120,148,2,,1630112,,1611661323,8,8,0,1
+05:43,[CON] Jones Rebound (Off:1 Def:2),156,182,4,,1628280,,1611661323,8,8,0,1
+05:41,[CON 10-8] Jones Layup Shot: Made (4 PTS),10,8,1,,1628280,,1611661323,8,10,2,1
+05:30,[LAS] Jackson Turnover : Lost Ball (1 TO) Steal:Carrington (1 ST),10,63,5,1630096,1642288,,1611661320,8,10,0,1
+05:25,[CON 12-8] Jones Running Layup Shot: Made (6 PTS) Assist: Thomas (2 AST),7,3,1,,1628280,203826,1611661323,8,12,2,1
+04:59,[LAS] Burrell Turnaround Jump Shot: Missed,-94,57,2,,1630996,,1611661320,8,12,0,1
+04:54,[CON] Jones Rebound (Off:1 Def:3),-94,57,4,,1628280,,1611661323,8,12,0,1
+04:39,[CON] Harris 3pt Shot: Missed,-233,8,2,,1630112,,1611661323,8,12,0,1
+04:35,[LAS] Burrell Rebound (Off:0 Def:2),-233,8,4,,1630996,,1611661320,8,12,0,1
+04:24,[LAS 11-12] Sims 3pt Shot: Made (4 PTS) Assist: Stevens (2 AST),217,81,1,,203824,1628922,1611661320,11,12,3,1
+04:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,12,0,1
+04:06,Timeout : Official,0,-80,9,,0,,0,11,12,0,1
+04:06,[LAS] Stevens Substitution replaced by Yueru,0,-80,8,,1628922,1629574,1611661320,11,12,0,1
+04:06,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,11,12,0,1
+04:06,[CON] Bonner Substitution replaced by Mabrey,0,-80,8,,201886,1629497,1611661323,11,12,0,1
+04:03,[CON] Mabrey 3pt Shot: Missed,130,205,2,,1629497,,1611661323,11,12,0,1
+04:00,[LAS] Yueru Rebound (Off:0 Def:1),130,205,4,,1629574,,1611661320,11,12,0,1
+03:43,[LAS] Burrell Turnover : Lost Ball (1 TO) Steal:Carrington (2 ST),-47,153,5,1630096,1630996,,1611661320,11,12,0,1
+03:39,[CON] Carrington Running Layup Shot: Missed Block: Burrell (1 BLK),-7,7,2,1630996,1630096,,1611661323,11,12,0,1
+03:36,[LAS] Yueru Rebound (Off:0 Def:2),-7,7,4,,1629574,,1611661320,11,12,0,1
+03:34,[LAS] Yueru Turnover : Lost Ball (1 TO) Steal:Carrington (3 ST),-49,737,5,1630096,1629574,,1611661320,11,12,0,1
+03:31,[CON 14-11] Carrington Layup Shot: Made (4 PTS),6,6,1,,1630096,,1611661323,11,14,2,1
+03:26,[LAS] Sims Driving Layup Shot: Missed,20,1,2,,203824,,1611661320,11,14,0,1
+03:26,[CON] Team Rebound,20,1,4,,0,,1611661323,11,14,0,1
+03:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,14,0,1
+03:25,[LAS] Burrell Substitution replaced by Nurse,0,-80,8,,1630996,1628915,1611661320,11,14,0,1
+03:13,[CON 17-11] Mabrey 3pt Shot: Made (3 PTS) Assist: Thomas (3 AST),-235,-1,1,,1629497,203826,1611661323,11,17,3,1
+02:57,[LAS] Jackson Pullup Jump shot: Missed,156,110,2,,1642288,,1611661320,11,17,0,1
+02:54,[CON] Mabrey Rebound (Off:0 Def:1),156,110,4,,1629497,,1611661323,11,17,0,1
+02:51,[CON] Mabrey Turnover : Bad Pass (1 TO) Steal:Jackson (1 ST),96,619,5,1642288,1629497,,1611661323,11,17,0,1
+02:46,[LAS] Jackson Running Pull-Up Jump Shot: Missed,-52,110,2,,1642288,,1611661320,11,17,0,1
+02:44,[LAS] Yueru Rebound (Off:1 Def:2),-52,110,4,,1629574,,1611661320,11,17,0,1
+02:42,[LAS 13-17] Yueru Putback Layup Shot: Made (2 PTS),17,11,1,,1629574,,1611661320,13,17,2,1
+02:21,[CON] Thomas Layup Shot: Missed,11,-8,2,,203826,,1611661323,13,17,0,1
+02:18,[LAS] Yueru Rebound (Off:1 Def:3),11,-8,4,,1629574,,1611661320,13,17,0,1
+02:14,[LAS] Hamby Layup Shot: Missed Block: Jones (1 BLK),21,0,2,1628280,204324,,1611661320,13,17,0,1
+02:13,[LAS] Team Rebound,21,0,4,,0,,1611661320,13,17,0,1
+02:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,17,0,1
+02:09,[LAS] Yueru Layup Shot: Missed,-28,6,2,,1629574,,1611661320,13,17,0,1
+02:06,[LAS] Yueru Rebound (Off:2 Def:3),-28,6,4,,1629574,,1611661320,13,17,0,1
+02:04,[LAS] Sims Turnover : Step Out of Bounds Turnover (1 TO),234,16,5,,203824,1628702,1611661320,13,17,0,1
+02:04,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,13,17,0,1
+01:44,[CON] Carrington Reverse Layup Shot: Missed,-6,7,2,,1630096,,1611661323,13,17,0,1
+01:42,[LAS] Hamby Rebound (Off:0 Def:2),-6,7,4,,204324,,1611661320,13,17,0,1
+01:38,[LAS] Sims Running Layup Shot: Missed,-4,27,2,,203824,,1611661320,13,17,0,1
+01:38,[LAS] Team Rebound,-4,27,4,,0,,1611661320,13,17,0,1
+01:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,17,0,1
+01:33,[LAS] Nurse Turnover : Lost Ball (1 TO) Steal:Mabrey (1 ST),-49,191,5,1629497,1628915,,1611661320,13,17,0,1
+01:29,[CON 19-13] Mabrey Running Layup Shot: Made (5 PTS),-1,7,1,,1629497,,1611661323,13,19,2,1
+01:28,Timeout : Regular,0,-80,9,,1611661320,,1611661320,13,19,0,1
+01:28,[LAS] Sims Substitution replaced by Dangerfield,0,-80,8,,203824,1630101,1611661320,13,19,0,1
+01:28,[CON] Thomas Substitution replaced by Bonner,0,-80,8,,203826,201886,1611661323,13,19,0,1
+01:04,[LAS] Yueru Turnaround Jump Shot: Missed,-2,76,2,,1629574,,1611661320,13,19,0,1
+01:00,[CON] Bonner Rebound (Off:0 Def:2),-2,76,4,,201886,,1611661323,13,19,0,1
+00:50.3,[CON] Carrington 3pt Shot: Missed,-227,37,2,,1630096,,1611661323,13,19,0,1
+00:46.6,[LAS] Yueru Rebound (Off:2 Def:4),-227,37,4,,1629574,,1611661320,13,19,0,1
+00:42.3,[CON] Mabrey Foul: Shooting (1 PF) (2 FTA),13,13,6,204324,1629497,202679,1611661323,13,19,0,1
+00:42.3,[LAS 14-19] Hamby Free Throw 1 of 2 (1 PTS),0,-80,3,,204324,,1611661320,14,19,1,1
+00:42.3,[LAS 15-19] Hamby Free Throw 2 of 2 (2 PTS),0,-80,3,,204324,,1611661320,15,19,1,1
+00:26.3,[CON] Mabrey 3pt Shot: Missed,2,280,2,,1629497,,1611661323,15,19,0,1
+00:25.6,[LAS] Team Rebound,2,280,4,,0,,1611661320,15,19,0,1
+00:25.6,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,19,0,1
+00:25.6,[LAS] Hamby Substitution replaced by Talbot,0,-80,8,,204324,203855,1611661320,15,19,0,1
+00:03.4,[LAS 18-19] Yueru 3pt Shot: Made (5 PTS) Assist: Dangerfield (1 AST),-124,205,1,,1629574,1630101,1611661320,18,19,3,1
+00:01.5,[CON] Mabrey 3pt Shot: Missed,193,500,2,,1629497,,1611661323,18,19,0,1
+00:01.0,[CON] Team Rebound,193,500,4,,0,,1611661323,18,19,0,1
+00:00.0,End Period,0,-80,13,,0,,0,18,19,0,1
+10:00,Start Period,0,-80,12,,0,,0,18,19,0,2
+09:46,[CON] Burton 3pt Shot: Missed,-224,31,2,,1631007,,1611661323,18,19,0,2
+09:44,[LAS] Talbot Rebound (Off:0 Def:1),-224,31,4,,203855,,1611661320,18,19,0,2
+09:32,[CON] Carrington Foul: Shooting (1 PF) (2 FTA),15,10,6,1642288,1630096,202679,1611661323,18,19,0,2
+09:32,[LAS 19-19] Jackson Free Throw 1 of 2 (5 PTS),0,-80,3,,1642288,,1611661320,19,19,1,2
+09:32,[LAS 20-19] Jackson Free Throw 2 of 2 (6 PTS),0,-80,3,,1642288,,1611661320,20,19,1,2
+09:21,[LAS] Yueru Foul: Personal (1 PF),-6,108,6,1631135,1629574,202679,1611661320,20,19,0,2
+09:16,[CON] Mabrey Turnaround Jump Shot: Missed,-113,163,2,,1629497,,1611661323,20,19,0,2
+09:13,[CON] Burton Rebound (Off:1 Def:0),-113,163,4,,1631007,,1611661323,20,19,0,2
+09:10,[CON 22-20] Bonner 3pt Shot: Made (3 PTS) Assist: Mabrey (1 AST),-68,233,1,,201886,1629497,1611661323,20,22,3,2
+08:57,[LAS 22-22] Dangerfield Driving Floating Jump Shot: Made (2 PTS),65,110,1,,1630101,,1611661320,22,22,2,2
+08:43,[CON] Nelson-Ododa Reverse Layup Shot: Missed,-20,13,2,,1631135,,1611661323,22,22,0,2
+08:41,[LAS] Yueru Rebound (Off:2 Def:5),-20,13,4,,1629574,,1611661320,22,22,0,2
+08:32,[LAS 24-22] Jackson Driving Layup Shot: Made (8 PTS),-4,8,1,,1642288,,1611661320,24,22,2,2
+08:21,[CON] Bonner 3pt Shot: Missed,-13,278,2,,201886,,1611661323,24,22,0,2
+08:18,[LAS] Yueru Rebound (Off:2 Def:6),-13,278,4,,1629574,,1611661320,24,22,0,2
+08:10,[LAS 26-22] Jackson Fadeaway Jump Shot: Made (10 PTS) Assist: Nurse (1 AST),-36,100,1,,1642288,1628915,1611661320,26,22,2,2
+08:10,Timeout : Regular,0,-80,9,,1611661323,,1611661323,26,22,0,2
+08:10,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,26,22,0,2
+08:10,[CON] Carrington Substitution replaced by Harris,0,-80,8,,1630096,1630112,1611661323,26,22,0,2
+08:10,[CON] Burton Substitution replaced by Thomas,0,-80,8,,1631007,203826,1611661323,26,22,0,2
+07:56,[LAS] Yueru Foul: Personal (2 PF),-21,91,6,1628280,1629574,1629174,1611661320,26,22,0,2
+07:56,[LAS] Yueru Substitution replaced by Hamby,0,-80,8,,1629574,204324,1611661320,26,22,0,2
+07:46,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-72,250,5,,203826,,1611661323,26,22,0,2
+07:29,[CON] Bonner Foul: Shooting (1 PF) (2 FTA),-19,11,6,1642288,201886,202679,1611661323,26,22,0,2
+07:29,Timeout : Regular,0,-80,9,,1611661323,,1611661323,26,22,0,2
+07:29,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661323,26,22,0,2
+07:29,[LAS 27-22] Jackson Free Throw 1 of 2 (11 PTS),0,-80,3,,1642288,,1611661320,27,22,1,2
+07:29,[LAS] Jackson Free Throw 2 of 2 Missed,0,-80,3,,1642288,,1611661320,27,22,0,2
+07:27,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,203826,,1611661323,27,22,0,2
+07:21,[LAS] Talbot Foul: Shooting (1 PF) (2 FTA),-7,24,6,203826,203855,1628702,1611661320,27,22,0,2
+07:21,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,27,22,0,2
+07:21,[CON] Team Rebound,0,-80,4,,0,,1611661323,27,22,0,2
+07:21,[CON 23-27] Thomas Free Throw 2 of 2 (5 PTS),0,-80,3,,203826,,1611661323,27,23,1,2
+07:10,[CON] Mabrey Foul: Personal (2 PF),181,182,6,1628915,1629497,202679,1611661323,27,23,0,2
+06:57,[LAS 29-23] Hamby Layup Shot: Made (4 PTS) Assist: Talbot (1 AST),-17,9,1,,204324,203855,1611661320,29,23,2,2
+06:39,[CON 25-29] Jones Layup Shot: Made (8 PTS) Assist: Thomas (4 AST),13,5,1,,1628280,203826,1611661323,29,25,2,2
+06:17,[LAS] Hamby 3pt Shot: Missed,-85,226,2,,204324,,1611661320,29,25,0,2
+06:14,[LAS] Talbot Rebound (Off:1 Def:1),-85,226,4,,203855,,1611661320,29,25,0,2
+06:14,[LAS] Talbot Reverse Layup Shot: Missed,24,6,2,,203855,,1611661320,29,25,0,2
+06:10,[CON] Harris Rebound (Off:0 Def:2),24,6,4,,1630112,,1611661323,29,25,0,2
+06:03,[LAS] Hamby Foul: Personal (1 PF),40,27,6,1628280,204324,202679,1611661320,29,25,0,2
+05:51,[CON] Jones Turnover : Out of Bounds Lost Ball Turnover (1 TO),-55,13,5,,1628280,1629174,1611661323,29,25,0,2
+05:32,[LAS] Jackson Pullup Jump shot: Missed,-127,6,2,,1642288,,1611661320,29,25,0,2
+05:31,[CON] Thomas Rebound (Off:0 Def:2),-127,6,4,,203826,,1611661323,29,25,0,2
+05:31,[LAS] Talbot Foul: Personal (2 PF) (2 FTA),62,560,6,203826,203855,1628702,1611661320,29,25,0,2
+05:31,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,29,25,0,2
+05:31,[CON] Team Rebound,0,-80,4,,0,,1611661323,29,25,0,2
+05:31,[LAS] Talbot Substitution replaced by Stevens,0,-80,8,,203855,1628922,1611661320,29,25,0,2
+05:31,Stoppage: Blood Rule,0,-80,20,,0,,0,29,25,0,2
+05:31,[CON 26-29] Thomas Free Throw 2 of 2 (6 PTS),0,-80,3,,203826,,1611661323,29,26,1,2
+05:19,[LAS 32-26] Dangerfield 3pt Shot: Made (5 PTS) Assist: Hamby (1 AST),76,234,1,,1630101,204324,1611661320,32,26,3,2
+05:00,[CON 28-32] Thomas Cutting Layup Shot: Made (8 PTS) Assist: Mabrey (2 AST),18,11,1,,203826,1629497,1611661323,32,28,2,2
+04:46,[LAS 34-28] Nurse Driving Layup Shot: Made (2 PTS) Assist: Stevens (3 AST),46,8,1,,1628915,1628922,1611661320,34,28,2,2
+04:34,[CON 30-34] Jones Layup Shot: Made (10 PTS) Assist: Thomas (5 AST),6,19,1,,1628280,203826,1611661323,34,30,2,2
+04:20,[LAS] Jackson 3pt Shot: Missed,224,81,2,,1642288,,1611661320,34,30,0,2
+04:20,[CON] Mabrey Rebound (Off:0 Def:2),224,81,4,,1629497,,1611661323,34,30,0,2
+04:01,[CON 33-34] Harris 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),225,15,1,,1630112,1628280,1611661323,34,33,3,2
+03:47,[LAS 36-33] Dangerfield Pullup Jump shot: Made (7 PTS) Assist: Stevens (4 AST),100,166,1,,1630101,1628922,1611661320,36,33,2,2
+03:33,[CON] Harris Pullup Jump shot: Missed,18,163,2,,1630112,,1611661323,36,33,0,2
+03:30,[LAS] Stevens Rebound (Off:0 Def:2),18,163,4,,1628922,,1611661320,36,33,0,2
+03:22,[LAS] Dangerfield Turnover : Out of Bounds - Bad Pass Turnover (1 TO),228,245,5,,1630101,1628702,1611661320,36,33,0,2
+03:22,[LAS] Dangerfield Substitution replaced by Sims,0,-80,8,,1630101,203824,1611661320,36,33,0,2
+03:22,[CON] Mabrey Substitution replaced by Carrington,0,-80,8,,1629497,1630096,1611661323,36,33,0,2
+03:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,36,33,0,2
+03:09,[CON] Bonner Jump Shot: Missed,-113,55,2,,201886,,1611661323,36,33,0,2
+03:09,[CON] Team Rebound,-113,55,4,,0,,1611661323,36,33,0,2
+03:07,Timeout : Challenge,0,-80,9,,1611661320,,1611661320,36,33,0,2
+03:07,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661320,36,33,0,2
+03:07,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,36,33,0,2
+03:07,JumpBall Lost Challenge,0,-80,10,1628922,1628280,,1611661323,36,33,0,2
+02:48,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (3 TO),38,23,5,,203826,,1611661323,36,33,0,2
+02:33,[CON] Jones Foul: Shooting (1 PF) (2 FTA),-4,16,6,204324,1628280,1629174,1611661323,36,33,0,2
+02:33,[LAS 37-33] Hamby Free Throw 1 of 2 (5 PTS),0,-80,3,,204324,,1611661320,37,33,1,2
+02:33,[LAS 38-33] Hamby Free Throw 2 of 2 (6 PTS),0,-80,3,,204324,,1611661320,38,33,1,2
+02:09,[CON] Thomas Turnaround Hook Shot: Missed,1,47,2,,203826,,1611661323,38,33,0,2
+02:04,[LAS] Jackson Rebound (Off:0 Def:1),1,47,4,,1642288,,1611661320,38,33,0,2
+01:49,[LAS] Jackson Turnaround Fadeaway shot: Missed,9,65,2,,1642288,,1611661320,38,33,0,2
+01:44,[CON] Bonner Rebound (Off:0 Def:3),9,65,4,,201886,,1611661323,38,33,0,2
+01:30,[CON] Jones Jump Shot: Missed,26,97,2,,1628280,,1611661323,38,33,0,2
+01:28,[LAS] Hamby Rebound (Off:0 Def:3),26,97,4,,204324,,1611661320,38,33,0,2
+01:20,[CON] Jones Foul: Personal (2 PF) (2 FTA),1,16,6,204324,1628280,1629174,1611661323,38,33,0,2
+01:20,[LAS 39-33] Hamby Free Throw 1 of 2 (7 PTS),0,-80,3,,204324,,1611661320,39,33,1,2
+01:20,[LAS 40-33] Hamby Free Throw 2 of 2 (8 PTS),0,-80,3,,204324,,1611661320,40,33,1,2
+01:08,[LAS] Stevens Foul: Shooting (1 PF) (2 FTA),36,15,6,1628280,1628922,202679,1611661320,40,33,0,2
+01:08,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,40,33,0,2
+01:08,[CON] Team Rebound,0,-80,4,,0,,1611661323,40,33,0,2
+01:08,[CON] Burton Substitution replaced by Mabrey,0,-80,8,,1631007,1629497,1611661323,40,33,0,2
+01:08,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,40,33,0,2
+01:02,[CON] Jones Rebound (Off:2 Def:3),0,-80,4,,1628280,,1611661323,40,33,0,2
+01:02,[CON 35-40] Jones Putback Layup Shot: Made (12 PTS),11,6,1,,1628280,,1611661323,40,35,2,2
+00:44.4,[CON] Carrington Foul: Shooting (2 PF) (2 FTA),18,13,6,204324,1630096,202679,1611661323,40,35,0,2
+00:44.4,[LAS 41-35] Hamby Free Throw 1 of 2 (9 PTS),0,-80,3,,204324,,1611661320,41,35,1,2
+00:44.4,[LAS 42-35] Hamby Free Throw 2 of 2 (10 PTS),0,-80,3,,204324,,1611661320,42,35,1,2
+00:32.7,[CON 37-42] Thomas Cutting Layup Shot: Made (10 PTS) Assist: Mabrey (3 AST),-13,8,1,,203826,1629497,1611661323,42,37,2,2
+00:08.2,[LAS] Jackson Turnover : Bad Pass (2 TO) Steal:Carrington (4 ST),127,353,5,1630096,1642288,,1611661320,42,37,0,2
+00:07.1,[CON 39-42] Carrington Running Layup Shot: Made (6 PTS),-17,-1,1,,1630096,,1611661323,42,39,2,2
+00:00.0,[LAS 45-39] Nurse 3pt Shot: Made (5 PTS) Assist: Stevens (5 AST),-113,285,1,,1628915,1628922,1611661320,45,39,3,2
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,45,39,0,2
+00:00.0,End Period,0,-80,13,,0,,0,45,39,0,2
+10:00,Start Period,0,-80,12,,0,,0,45,39,0,3
+09:46,[LAS] Stevens Foul: Personal (2 PF),45,24,6,1628280,1628922,1629174,1611661320,45,39,0,3
+09:37,[CON 41-45] Jones Layup Shot: Made (14 PTS) Assist: Thomas (6 AST),-22,-2,1,,1628280,203826,1611661323,45,41,2,3
+09:15,[LAS 47-41] Sims Driving Floating Jump Shot: Made (6 PTS) Assist: Hamby (2 AST),-4,43,1,,203824,204324,1611661320,47,41,2,3
+09:03,[LAS] Stevens Foul: Shooting (3 PF) (2 FTA),60,32,6,1628280,1628922,1628702,1611661320,47,41,0,3
+09:03,[CON 42-47] Jones Free Throw 1 of 2 (15 PTS),0,-80,3,,1628280,,1611661323,47,42,1,3
+09:03,[CON 43-47] Jones Free Throw 2 of 2 (16 PTS),0,-80,3,,1628280,,1611661323,47,43,1,3
+08:45,[LAS] Hamby Foul: Offensive (2 PF),-48,87,6,1630096,204324,1628702,1611661320,47,43,0,3
+08:45,[LAS] Hamby Turnover : Offensive Foul Turnover (1 TO),-48,87,5,,204324,1628702,1611661320,47,43,0,3
+08:32,[LAS] Stevens Foul: Personal (4 PF),37,3,6,1630096,1628922,202679,1611661320,47,43,0,3
+08:32,[LAS] Stevens Substitution replaced by Yueru,0,-80,8,,1628922,1629574,1611661320,47,43,0,3
+08:19,[CON 45-47] Thomas Turnaround Bank Hook Shot: Made (12 PTS) Assist: Carrington (1 AST),27,11,1,,203826,1630096,1611661323,47,45,2,3
+08:05,[LAS] Sims Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-165,195,5,,203824,1628702,1611661320,47,45,0,3
+07:39,[CON] Carrington 3pt Shot: Missed,-143,208,2,,1630096,,1611661323,47,45,0,3
+07:36,[LAS] Hamby Rebound (Off:0 Def:4),-143,208,4,,204324,,1611661320,47,45,0,3
+07:31,[CON] Jones Foul: Personal (3 PF),-118,193,6,203824,1628280,1629174,1611661323,47,45,0,3
+07:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,45,0,3
+07:18,[LAS] Yueru Reverse Layup Shot: Missed,18,12,2,,1629574,,1611661320,47,45,0,3
+07:13,[CON] Thomas Rebound (Off:0 Def:3),18,12,4,,203826,,1611661323,47,45,0,3
+07:09,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (4 TO),48,210,5,,203826,202679,1611661323,47,45,0,3
+06:47,[LAS] Sims 3pt Shot: Missed,-230,42,2,,203824,,1611661320,47,45,0,3
+06:42,[CON] Thomas Rebound (Off:0 Def:4),-230,42,4,,203826,,1611661323,47,45,0,3
+06:37,[CON] Thomas Turnover : Bad Pass (5 TO) Steal:Sims (1 ST),-149,416,5,203824,203826,,1611661323,47,45,0,3
+06:36,[LAS] Sims Running Layup Shot: Missed Block: Jones (2 BLK),-17,28,2,1628280,203824,,1611661320,47,45,0,3
+06:36,[LAS] Team Rebound,-17,28,4,,0,,1611661320,47,45,0,3
+06:36,Jump Ball Sims vs Jones,0,-80,10,1628280,203824,,1611661320,47,45,0,3
+06:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,45,0,3
+06:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,45,0,3
+06:15,[CON] Thomas Foul: Personal (1 PF),146,185,6,204324,203826,1629174,1611661323,47,45,0,3
+06:07,[LAS 49-45] Jackson Step Back Jump shot: Made (13 PTS) Assist: Hamby (3 AST),-17,146,1,,1642288,204324,1611661320,49,45,2,3
+05:49,[CON] Thomas Layup Shot: Missed,27,8,2,,203826,,1611661323,49,45,0,3
+05:46,[CON] Thomas Rebound (Off:1 Def:4),27,8,4,,203826,,1611661323,49,45,0,3
+05:44,[CON] Bonner 3pt Shot: Missed,-138,229,2,,201886,,1611661323,49,45,0,3
+05:39,[CON] Jones Rebound (Off:3 Def:3),-138,229,4,,1628280,,1611661323,49,45,0,3
+05:38,[CON 47-49] Jones Putback Layup Shot: Made (18 PTS),22,13,1,,1628280,,1611661323,49,47,2,3
+05:28,[LAS] Hamby Turnover : Out of Bounds - Bad Pass Turnover (2 TO),61,239,5,,204324,1629174,1611661320,49,47,0,3
+05:28,[CON] Harris Substitution replaced by Mabrey,0,-80,8,,1630112,1629497,1611661323,49,47,0,3
+05:14,[CON] Jones Layup Shot: Missed,24,10,2,,1628280,,1611661323,49,47,0,3
+05:11,[LAS] Hamby Rebound (Off:0 Def:5),24,10,4,,204324,,1611661320,49,47,0,3
+04:56,[CON] Bonner Foul: Personal (2 PF),-61,27,6,204324,201886,1628702,1611661323,49,47,0,3
+04:56,Timeout : Official,0,-80,9,,0,,0,49,47,0,3
+04:42,[LAS] Sims Pullup Jump shot: Missed,-50,214,2,,203824,,1611661320,49,47,0,3
+04:38,[CON] Mabrey Rebound (Off:0 Def:3),-50,214,4,,1629497,,1611661323,49,47,0,3
+04:23,Jump Ball Jackson vs Jones (Jackson gains possession),0,-80,10,1628280,1642288,1642288,1611661320,49,47,0,3
+04:19,[CON] Jones Turnover : Lost Ball (2 TO) Steal:Jackson (2 ST),0,-80,5,1642288,1628280,,1611661323,49,47,0,3
+04:11,[LAS] Jackson Pullup Jump shot: Missed,-38,176,2,,1642288,,1611661320,49,47,0,3
+04:06,[CON] Thomas Rebound (Off:1 Def:5),-38,176,4,,203826,,1611661323,49,47,0,3
+04:02,[CON 49-49] Carrington Running Layup Shot: Made (8 PTS) Assist: Thomas (7 AST),-4,8,1,,1630096,203826,1611661323,49,49,2,3
+03:47,[LAS 51-49] Sims Driving Layup Shot: Made (8 PTS),-15,10,1,,203824,,1611661320,51,49,2,3
+03:25,[CON] Jones Jump Shot: Missed,40,181,2,,1628280,,1611661323,51,49,0,3
+03:22,[LAS] Jackson Rebound (Off:0 Def:2),40,181,4,,1642288,,1611661320,51,49,0,3
+03:07,[LAS 54-49] Jackson 3pt Shot: Made (16 PTS) Assist: Burrell (1 AST),102,235,1,,1642288,1630996,1611661320,54,49,3,3
+02:45,[CON] Jones Turnover : Bad Pass (3 TO) Steal:Jackson (3 ST),63,144,5,1642288,1628280,,1611661323,54,49,0,3
+02:38,[LAS] Jackson Pullup Jump shot: Missed,-4,180,2,,1642288,,1611661320,54,49,0,3
+02:34,[CON] Jones Rebound (Off:3 Def:4),-4,180,4,,1628280,,1611661323,54,49,0,3
+02:20,[CON 51-54] Carrington Cutting Layup Shot: Made (10 PTS) Assist: Thomas (8 AST),15,6,1,,1630096,203826,1611661323,54,51,2,3
+01:55,[LAS 56-51] Jackson Driving Layup Shot: Made (18 PTS),-37,13,1,,1642288,,1611661320,56,51,2,3
+01:35,[CON] Thomas Layup Shot: Missed,17,19,2,,203826,,1611661323,56,51,0,3
+01:33,[LAS] Jackson Rebound (Off:0 Def:3),17,19,4,,1642288,,1611661320,56,51,0,3
+01:28,[CON] Jones Foul: Shooting (4 PF) (2 FTA),-70,67,6,203824,1628280,202679,1611661323,56,51,0,3
+01:28,[LAS 57-51] Sims Free Throw 1 of 2 (9 PTS),0,-80,3,,203824,,1611661320,57,51,1,3
+01:28,[LAS] Burrell Substitution replaced by Nurse,0,-80,8,,1630996,1628915,1611661320,57,51,0,3
+01:28,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,57,51,0,3
+01:28,[LAS 58-51] Sims Free Throw 2 of 2 (10 PTS),0,-80,3,,203824,,1611661320,58,51,1,3
+01:06,[CON] Mabrey 3pt Shot: Missed,166,192,2,,1629497,,1611661323,58,51,0,3
+01:03,[LAS] Nurse Rebound (Off:0 Def:1),166,192,4,,1628915,,1611661320,58,51,0,3
+00:49.9,[LAS] Sims Turnover : Bad Pass (3 TO) Steal:Carrington (5 ST),-37,158,5,1630096,203824,,1611661320,58,51,0,3
+00:40.2,[LAS] Sims Foul: Personal (1 PF),193,41,6,203826,203824,202679,1611661320,58,51,0,3
+00:31.5,[LAS] Sims Foul: Personal (2 PF) (2 FTA),176,202,6,201886,203824,202679,1611661320,58,51,0,3
+00:31.5,[CON 52-58] Bonner Free Throw 1 of 2 (4 PTS),0,-80,3,,201886,,1611661323,58,52,1,3
+00:31.5,[CON 53-58] Bonner Free Throw 2 of 2 (5 PTS),0,-80,3,,201886,,1611661323,58,53,1,3
+00:19.9,[LAS] Sims Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-184,82,5,,203824,202679,1611661320,58,53,0,3
+00:04.5,[LAS] Jackson Foul: Shooting (1 PF) (2 FTA),-29,27,6,201886,1642288,1628702,1611661320,58,53,0,3
+00:04.5,[CON 54-58] Bonner Free Throw 1 of 2 (6 PTS),0,-80,3,,201886,,1611661323,58,54,1,3
+00:04.5,[CON 55-58] Bonner Free Throw 2 of 2 (7 PTS),0,-80,3,,201886,,1611661323,58,55,1,3
+00:03.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,55,0,3
+00:02.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,55,0,3
+00:00.0,End Period,0,-80,13,,0,,0,58,55,0,3
+10:00,Start Period,0,-80,12,,0,,0,58,55,0,4
+09:47,[LAS 60-55] Jackson Pullup Jump shot: Made (20 PTS) Assist: Yueru (1 AST),19,160,1,,1642288,1629574,1611661320,60,55,2,4
+09:20,[CON] Nelson-Ododa Pullup Jump shot: Missed,-45,76,2,,1631135,,1611661323,60,55,0,4
+09:18,[CON] Carrington Rebound (Off:1 Def:0),-45,76,4,,1630096,,1611661323,60,55,0,4
+09:17,[CON 57-60] Carrington Putback Layup Shot: Made (12 PTS),22,-12,1,,1630096,,1611661323,60,57,2,4
+09:07,[LAS] Dangerfield Pullup Jump shot: Missed,56,115,2,,1630101,,1611661320,60,57,0,4
+09:03,[LAS] Jackson Rebound (Off:1 Def:3),56,115,4,,1642288,,1611661320,60,57,0,4
+09:01,[LAS 63-57] Nurse 3pt Shot: Made (8 PTS) Assist: Jackson (1 AST),228,37,1,,1628915,1642288,1611661320,63,57,3,4
+08:50,[LAS] Dangerfield Foul: Personal (1 PF),-41,16,6,1629497,1630101,202679,1611661320,63,57,0,4
+08:36,[CON 59-63] Bonner Layup Shot: Made (9 PTS),-17,3,1,,201886,,1611661323,63,59,2,4
+08:23,[CON] Mabrey Foul: Shooting (3 PF) (2 FTA),18,86,6,1628915,1629497,202679,1611661323,63,59,0,4
+08:23,[LAS 64-59] Nurse Free Throw 1 of 2 (9 PTS),0,-80,3,,1628915,,1611661320,64,59,1,4
+08:23,[LAS] Nurse Free Throw 2 of 2 Missed,0,-80,3,,1628915,,1611661320,64,59,0,4
+08:20,[CON] Thomas Rebound (Off:1 Def:6),0,-80,4,,203826,,1611661323,64,59,0,4
+08:17,[LAS] Jackson Foul: Shooting (2 PF) (2 FTA),6,84,6,1630096,1642288,202679,1611661320,64,59,0,4
+08:17,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,64,59,0,4
+08:17,[CON] Team Rebound,0,-80,4,,0,,1611661323,64,59,0,4
+08:17,[CON] Carrington Free Throw 2 of 2 Missed,0,-80,3,,1630096,,1611661323,64,59,0,4
+08:12,[CON] Thomas Rebound (Off:2 Def:6),0,-80,4,,203826,,1611661323,64,59,0,4
+08:10,[CON] Nelson-Ododa Alley Oop Layup shot: Missed Block: Jackson (1 BLK),34,1,2,1642288,1631135,,1611661323,64,59,0,4
+08:08,[CON] Team Rebound,34,1,4,,0,,1611661323,64,59,0,4
+08:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,59,0,4
+08:02,[CON 61-64] Mabrey Jump Shot: Made (7 PTS) Assist: Thomas (9 AST),-175,15,1,,1629497,203826,1611661323,64,61,2,4
+07:54,[LAS] Dangerfield Driving Layup Shot: Missed,-45,31,2,,1630101,,1611661320,64,61,0,4
+07:52,[CON] Thomas Rebound (Off:2 Def:7),-45,31,4,,203826,,1611661323,64,61,0,4
+07:46,[CON 64-64] Bonner 3pt Shot: Made (12 PTS),-104,220,1,,201886,,1611661323,64,64,3,4
+07:17,[LAS] Jackson 3pt Shot: Missed,191,184,2,,1642288,,1611661320,64,64,0,4
+07:15,[CON] Nelson-Ododa Rebound (Off:0 Def:1),191,184,4,,1631135,,1611661323,64,64,0,4
+07:04,[CON] Carrington Step Back Jump shot: Missed,118,102,2,,1630096,,1611661323,64,64,0,4
+07:02,[CON] Team Rebound,118,102,4,,0,,1611661323,64,64,0,4
+07:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,64,0,4
+07:02,[LAS] Dangerfield Substitution replaced by Sims,0,-80,8,,1630101,203824,1611661320,64,64,0,4
+07:02,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,64,64,0,4
+07:00,[CON] Mabrey Jump Shot: Missed,-168,87,2,,1629497,,1611661323,64,64,0,4
+06:56,[LAS] Nurse Rebound (Off:0 Def:2),-168,87,4,,1628915,,1611661320,64,64,0,4
+06:44,[LAS 66-64] Jackson Turnaround Fadeaway shot: Made (22 PTS),-40,67,1,,1642288,,1611661320,66,64,2,4
+06:26,[CON 67-66] Mabrey 3pt Shot: Made (10 PTS) Assist: Jones (2 AST),109,218,1,,1629497,1628280,1611661323,66,67,3,4
+06:17,[CON] Bonner Foul: Personal (3 PF),-204,179,6,1642288,201886,202679,1611661323,66,67,0,4
+06:15,[LAS] Nurse Foul: Offensive (1 PF),133,94,6,1629497,1628915,1628702,1611661320,66,67,0,4
+06:15,[LAS] Nurse Turnover : Offensive Foul Turnover (2 TO),133,94,5,,1628915,1628702,1611661320,66,67,0,4
+05:58,[CON 69-66] Carrington Alley Oop Layup shot: Made (14 PTS) Assist: Jones (3 AST),-19,-8,1,,1630096,1628280,1611661323,66,69,2,4
+05:58,Timeout : Regular,0,-80,9,,1611661320,,1611661320,66,69,0,4
+05:35,[LAS] Jackson Pullup Jump shot: Missed,-109,38,2,,1642288,,1611661320,66,69,0,4
+05:31,[CON] Mabrey Rebound (Off:0 Def:4),-109,38,4,,1629497,,1611661323,66,69,0,4
+05:18,[CON] Mabrey 3pt Shot: Missed,-210,123,2,,1629497,,1611661323,66,69,0,4
+05:17,[LAS] Team Rebound,-210,123,4,,0,,1611661320,66,69,0,4
+05:17,[CON] Jones Foul: Loose Ball (5 PF),-17,827,6,1629574,1628280,202679,1611661323,66,69,0,4
+05:07,[LAS] Yueru Foul: Offensive (3 PF),-21,193,6,1628280,1629574,1628702,1611661320,66,69,0,4
+05:07,[LAS] Yueru Turnover : Offensive Foul Turnover (2 TO),-21,193,5,,1629574,1628702,1611661320,66,69,0,4
+05:07,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,66,69,0,4
+04:53,[CON] Bonner Turnover : Lost Ball (1 TO) Steal:Hamby (1 ST),15,42,5,204324,201886,,1611661323,66,69,0,4
+04:47,[LAS] Jackson Turnover : Traveling (3 TO),-39,59,5,,1642288,202679,1611661320,66,69,0,4
+04:34,[CON] Thomas Cutting Layup Shot: Missed,-12,19,2,,203826,,1611661323,66,69,0,4
+04:34,[CON] Team Rebound,-12,19,4,,0,,1611661323,66,69,0,4
+04:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,69,0,4
+04:22,[CON] Team Turnover : Shot Clock Turnover,35,64,5,,0,202679,1611661323,66,69,0,4
+04:05,[LAS] Nurse Turnover : Bad Pass (3 TO) Steal:Thomas (1 ST),1,228,5,203826,1628915,,1611661320,66,69,0,4
+04:04,[LAS] Sims Foul: Personal (3 PF),-19,74,6,203826,203824,1628702,1611661320,66,69,0,4
+04:04,[LAS] Nurse Substitution replaced by Burrell,0,-80,8,,1628915,1630996,1611661320,66,69,0,4
+04:04,[LAS] Yueru Substitution replaced by Stevens,0,-80,8,,1629574,1628922,1611661320,66,69,0,4
+03:52,[CON] Thomas Driving Floating Bank Jump Shot: Missed,-7,84,2,,203826,,1611661323,66,69,0,4
+03:50,[LAS] Hamby Rebound (Off:0 Def:6),-7,84,4,,204324,,1611661320,66,69,0,4
+03:36,[CON] Nelson-Ododa Foul: Shooting (1 PF) (2 FTA),35,139,6,1642288,1631135,202679,1611661323,66,69,0,4
+03:36,[LAS] Jackson Free Throw 1 of 2 Missed,0,-80,3,,1642288,,1611661320,66,69,0,4
+03:36,[LAS] Team Rebound,0,-80,4,,0,,1611661320,66,69,0,4
+03:36,[LAS 67-69] Jackson Free Throw 2 of 2 (23 PTS),0,-80,3,,1642288,,1611661320,67,69,1,4
+03:36,Timeout : Regular,0,-80,9,,1611661323,,1611661323,67,69,0,4
+03:36,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,67,69,0,4
+03:20,[CON] Jones Layup Shot: Missed,39,16,2,,1628280,,1611661323,67,69,0,4
+03:17,[LAS] Hamby Rebound (Off:0 Def:7),39,16,4,,204324,,1611661320,67,69,0,4
+03:05,[LAS] Sims Driving Layup Shot: Missed Block: Thomas (1 BLK),-26,11,2,203826,203824,,1611661320,67,69,0,4
+03:02,[CON] Jones Rebound (Off:3 Def:5),-26,11,4,,1628280,,1611661323,67,69,0,4
+03:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,69,0,4
+03:02,Timeout : Regular,0,-80,9,,1611661320,,1611661320,67,69,0,4
+03:02,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661320,67,69,0,4
+02:57,[CON] Bonner Jump Shot: Missed,143,26,2,,201886,,1611661323,67,69,0,4
+02:52,[CON] Jones Rebound (Off:4 Def:5),143,26,4,,1628280,,1611661323,67,69,0,4
+02:51,[CON] Jones Putback Layup Shot: Missed,17,14,2,,1628280,,1611661323,67,69,0,4
+02:49,[LAS] Stevens Rebound (Off:0 Def:3),17,14,4,,1628922,,1611661320,67,69,0,4
+02:41,[LAS] Stevens Pullup Jump shot: Missed,-62,113,2,,1628922,,1611661320,67,69,0,4
+02:38,[CON] Thomas Rebound (Off:2 Def:8),-62,113,4,,203826,,1611661323,67,69,0,4
+02:24,[CON 72-67] Carrington 3pt Shot: Made (17 PTS) Assist: Thomas (10 AST),235,11,1,,1630096,203826,1611661323,67,72,3,4
+02:08,[LAS] Hamby Turnover : Lost Ball (3 TO) Steal:Thomas (2 ST),-140,74,5,203826,204324,,1611661320,67,72,0,4
+01:56,[CON 74-67] Jones Cutting Layup Shot: Made (20 PTS) Assist: Thomas (11 AST),23,1,1,,1628280,203826,1611661323,67,74,2,4
+01:56,[LAS] Burrell Foul: Shooting (2 PF) (1 FTA),24,13,6,1628280,1630996,1628702,1611661320,67,74,0,4
+01:56,[CON 75-67] Jones Free Throw 1 of 1 (21 PTS),0,-80,3,,1628280,,1611661323,67,75,1,4
+01:56,Timeout : Regular,0,-80,9,,1611661320,,1611661320,67,75,0,4
+01:40,[LAS] Burrell 3pt Shot: Missed,143,205,2,,1630996,,1611661320,67,75,0,4
+01:37,[CON] Bonner Rebound (Off:0 Def:4),143,205,4,,201886,,1611661323,67,75,0,4
+01:25,[CON 77-67] Carrington Cutting Layup Shot: Made (19 PTS) Assist: Mabrey (4 AST),-16,1,1,,1630096,1629497,1611661323,67,77,2,4
+01:15,[LAS] Jackson Turnover : Lost Ball (4 TO) Steal:Bonner (1 ST),-196,259,5,201886,1642288,,1611661320,67,77,0,4
+01:13,[CON 79-67] Bonner Running Layup Shot: Made (14 PTS),7,4,1,,201886,,1611661323,67,79,2,4
+01:13,Timeout : Regular,0,-80,9,,1611661320,,1611661320,67,79,0,4
+01:13,[LAS] Hamby Substitution replaced by Nurse,0,-80,8,,204324,1628915,1611661320,67,79,0,4
+01:13,[LAS] Burrell Substitution replaced by Yueru,0,-80,8,,1630996,1629574,1611661320,67,79,0,4
+01:13,[LAS] Stevens Substitution replaced by Talbot,0,-80,8,,1628922,203855,1611661320,67,79,0,4
+01:13,[LAS] Sims Turnover : Out of Bounds - Bad Pass Turnover (5 TO),-237,177,5,,203824,1629174,1611661320,67,79,0,4
+00:55.1,Timeout : Regular,0,-80,9,,1611661323,,1611661323,67,79,0,4
+00:55.1,[CON] Mabrey Substitution replaced by Burton,0,-80,8,,1629497,1631007,1611661323,67,79,0,4
+00:55.1,[CON] Carrington Substitution replaced by Nelson-Ododa,0,-80,8,,1630096,1631135,1611661323,67,79,0,4
+00:55.1,[CON] Bonner Substitution replaced by Harris,0,-80,8,,201886,1630112,1611661323,67,79,0,4
+00:55.1,[CON] Thomas Substitution replaced by Ndour-Fall,0,-80,8,,203826,203838,1611661323,67,79,0,4
+00:55.1,[CON] Jones Substitution replaced by Bickle,0,-80,8,,1628280,1641698,1611661323,67,79,0,4
+00:49.2,[CON] Harris Driving Finger Roll Layup Shot: Missed,28,0,2,,1630112,,1611661323,67,79,0,4
+00:48.2,[CON] Team Rebound,28,0,4,,0,,1611661323,67,79,0,4
+00:48.2,[CON] Team Turnover : Shot Clock Turnover,55,-17,5,,0,202679,1611661323,67,79,0,4
+00:36.2,[LAS] Talbot 3pt Shot: Missed,-139,262,2,,203855,,1611661320,67,79,0,4
+00:31.4,[CON] Ndour-Fall Rebound (Off:0 Def:1),-139,262,4,,203838,,1611661323,67,79,0,4
+00:09.6,[CON] Team Turnover : Shot Clock Turnover,166,277,5,,0,1628702,1611661323,67,79,0,4
+00:00.0,End Period,0,-80,13,,0,,0,67,79,0,4

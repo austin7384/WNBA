@@ -1,0 +1,380 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Stewart vs Wilson (Magbegor gains possession),0,-80,10,1628932,1627668,1629496,1611661328,0,0,1
+09:42,[SEA] Loyd Jump Shot: Missed,99,167,2,,204319,,1611661328,0,0,1
+09:37,[LVA] Young Rebound (Off:0 Def:1),99,167,4,,1629498,,1611661319,0,0,1
+09:27,[LVA] Young Turnaround Jump Shot: Missed,65,43,2,,1629498,,1611661319,0,0,1
+09:23,[SEA] Magbegor Rebound (Off:0 Def:1),65,43,4,,1629496,,1611661328,0,0,1
+09:11,[SEA] Williams Turnover : Bad Pass (1 TO) Steal:Young (1 ST),27,207,5,1629498,1628931,,1611661328,0,0,1
+09:04,[SEA] Magbegor Foul: Shooting (1 PF) (2 FTA),-57,115,6,1628932,1629496,,1611661328,0,0,1
+09:04,[LVA 1-0] Wilson Free Throw 1 of 2 (1 PTS),0,-80,3,,1628932,,1611661319,0,1,1
+09:04,[LVA 2-0] Wilson Free Throw 2 of 2 (2 PTS),0,-80,3,,1628932,,1611661319,0,2,1
+08:56,[SEA 3-2] Loyd 3pt Shot: Made (3 PTS) Assist: Bird (1 AST),141,210,1,,204319,100720,1611661328,3,2,1
+08:38,[LVA 4-3] Gray Turnaround Fadeaway Bank Jump Shot: Made (2 PTS) Assist: Young (1 AST),37,65,1,,203833,1629498,1611661319,3,4,1
+08:27,[SEA] Loyd Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),79,230,5,203833,204319,,1611661328,3,4,1
+08:18,[LVA] Wilson Jump Shot: Missed,-108,52,2,,1628932,,1611661319,3,4,1
+08:14,[LVA] Wilson Rebound (Off:1 Def:0),-108,52,4,,1628932,,1611661319,3,4,1
+08:12,[LVA] Wilson Jump Shot: Missed,-57,48,2,1629496,1628932,,1611661319,3,4,1
+08:09,[LVA] Wilson Rebound (Off:2 Def:0),-57,48,4,,1628932,,1611661319,3,4,1
+08:07,[LVA] Hamby Jump Shot: Missed,-129,41,2,,204324,,1611661319,3,4,1
+08:05,[LVA] Wilson Rebound (Off:3 Def:0),-129,41,4,,1628932,,1611661319,3,4,1
+08:05,[SEA] Loyd Foul: Personal (1 PF),7,19,6,1628932,204319,,1611661328,3,4,1
+08:03,[SEA] Magbegor Foul: Personal (2 PF),-60,101,6,1628932,1629496,,1611661328,3,4,1
+08:03,[SEA] Magbegor Substitution replaced by Charles,0,-80,8,,1629496,202250,1611661328,3,4,1
+07:58,[LVA 6-3] Wilson Jump Shot: Made (4 PTS) Assist: Gray (1 AST),-135,115,1,,1628932,203833,1611661319,3,6,1
+07:41,[SEA] Charles Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),180,12,5,204324,202250,,1611661328,3,6,1
+07:35,[LVA] Gray 3pt Shot: Missed,-202,133,2,,203833,,1611661319,3,6,1
+07:31,[SEA] Williams Rebound (Off:0 Def:1),-202,133,4,,1628931,,1611661328,3,6,1
+07:25,[SEA 5-6] Williams Driving Layup Shot: Made (2 PTS),-26,18,1,,1628931,,1611661328,5,6,1
+07:05,[LVA] Plum Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-13,96,5,,1628276,,1611661319,5,6,1
+06:53,[SEA 8-6] Bird 3pt Shot: Made (3 PTS) Assist: Williams (1 AST),108,221,1,,100720,1628931,1611661328,8,6,1
+06:42,[LVA 8-8] Young Jump Shot: Made (2 PTS) Assist: Wilson (1 AST),-13,167,1,,1629498,1628932,1611661319,8,8,1
+06:28,[LVA] Gray Foul: Shooting (1 PF) (2 FTA),18,13,6,1628931,203833,,1611661319,8,8,1
+06:28,[SEA] Williams Free Throw 1 of 2 Missed,0,-80,3,,1628931,,1611661328,8,8,1
+06:28,[SEA] Team Rebound,0,-80,4,,0,,1611661328,8,8,1
+06:28,[SEA 9-8] Williams Free Throw 2 of 2 (3 PTS),0,-80,3,,1628931,,1611661328,9,8,1
+06:17,[LVA] Hamby 3pt Shot: Missed,28,260,2,,204324,,1611661319,9,8,1
+06:14,[SEA] Charles Rebound (Off:0 Def:1),28,260,4,,202250,,1611661328,9,8,1
+06:09,[SEA] Loyd Driving Layup Shot: Missed,39,29,2,,204319,,1611661328,9,8,1
+06:06,[LVA] Young Rebound (Off:0 Def:2),39,29,4,,1629498,,1611661319,9,8,1
+06:03,[LVA 11-9] Plum 3pt Shot: Made (3 PTS) Assist: Young (2 AST),161,210,1,,1628276,1629498,1611661319,9,11,1
+05:47,[SEA 12-11] Bird 3pt Shot: Made (6 PTS) Assist: Loyd (1 AST),94,238,1,,100720,204319,1611661328,12,11,1
+05:29,[LVA] Plum Turnover : Out of Bounds Lost Ball Turnover (2 TO),176,22,5,,1628276,,1611661319,12,11,1
+05:12,[SEA] Stewart Pullup Jump shot: Missed,40,133,2,,1627668,,1611661328,12,11,1
+05:09,[SEA] Williams Rebound (Off:1 Def:1),40,133,4,,1628931,,1611661328,12,11,1
+05:07,[SEA] Stewart 3pt Shot: Missed,-227,54,2,,1627668,,1611661328,12,11,1
+05:03,[LVA] Wilson Rebound (Off:3 Def:1),-227,54,4,,1628932,,1611661319,12,11,1
+04:54,[LVA] Wilson Turnover : Bad Pass (1 TO) Steal:Bird (1 ST),7,269,5,100720,1628932,,1611661319,12,11,1
+04:50,[SEA 14-11] Bird Running Layup Shot: Made (8 PTS),-12,7,1,,100720,,1611661328,14,11,1
+04:30,[SEA] Loyd Foul: Shooting (2 PF) (2 FTA),57,76,6,1629498,204319,,1611661328,14,11,1
+04:30,Timeout Officials,0,-80,9,,0,,0,14,11,1
+04:30,[SEA] Loyd Substitution replaced by Prince,0,-80,8,,204319,202259,1611661328,14,11,1
+04:30,[LVA] Hamby Substitution replaced by Rupert,0,-80,8,,204324,1630387,1611661319,14,11,1
+04:30,[LVA] Gray Substitution replaced by Plaisance,0,-80,8,,203833,203849,1611661319,14,11,1
+04:30,[LVA 12-14] Young Free Throw 1 of 2 (3 PTS),0,-80,3,,1629498,,1611661319,14,12,1
+04:30,[LVA 13-14] Young Free Throw 2 of 2 (4 PTS),0,-80,3,,1629498,,1611661319,14,13,1
+04:16,[SEA 16-13] Charles Layup Shot: Made (2 PTS) Assist: Prince (1 AST),-6,51,1,,202250,202259,1611661328,16,13,1
+03:53,[LVA] Plum Turnaround Jump Shot: Missed,59,51,2,,1628276,,1611661319,16,13,1
+03:49,[SEA] Stewart Rebound (Off:0 Def:1),59,51,4,,1627668,,1611661328,16,13,1
+03:41,[SEA] Williams Layup Shot: Missed,19,2,2,,1628931,,1611661328,16,13,1
+03:38,[LVA] Young Rebound (Off:0 Def:3),19,2,4,,1629498,,1611661319,16,13,1
+03:34,[LVA] Plum Turnover : Lost Ball (3 TO) Steal:Charles (1 ST),-125,97,5,202250,1628276,,1611661319,16,13,1
+03:28,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),17,8,6,1628931,1628932,,1611661319,16,13,1
+03:28,[SEA] Williams Free Throw 1 of 2 Missed,0,-80,3,,1628931,,1611661328,16,13,1
+03:28,[SEA] Team Rebound,0,-80,4,,0,,1611661328,16,13,1
+03:28,[SEA] Bird Substitution replaced by January,0,-80,8,,100720,201896,1611661328,16,13,1
+03:28,[SEA 17-13] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,1628931,,1611661328,17,13,1
+03:12,[LVA 16-17] Rupert 3pt Shot: Made (3 PTS) Assist: Wilson (2 AST),230,3,1,,1630387,1628932,1611661319,17,16,1
+02:58,[SEA] Charles Turnover : Bad Pass (2 TO) Steal:Plum (1 ST),206,16,5,1628276,202250,,1611661328,17,16,1
+02:55,[SEA] January Foul: Personal (1 PF) (2 FTA),-61,70,6,1628276,201896,,1611661328,17,16,1
+02:55,[LVA 17-17] Plum Free Throw 1 of 2 (4 PTS),0,-80,3,,1628276,,1611661319,17,17,1
+02:55,[SEA] Williams Substitution replaced by Talbot,0,-80,8,,1628931,203855,1611661328,17,17,1
+02:55,[SEA] Stewart Substitution replaced by Lavender,0,-80,8,,1627668,202650,1611661328,17,17,1
+02:55,[LVA] Plum Free Throw 2 of 2 Missed,0,-80,3,,1628276,,1611661319,17,17,1
+02:52,[SEA] Lavender Rebound (Off:0 Def:1),0,-80,4,,202650,,1611661328,17,17,1
+02:43,[SEA] Prince 3pt Shot: Missed,101,220,2,,202259,,1611661328,17,17,1
+02:39,[SEA] Team Rebound,101,220,4,,0,,1611661328,17,17,1
+02:39,[LVA] Plum Substitution replaced by Williams,0,-80,8,,1628276,203029,1611661319,17,17,1
+02:39,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,17,17,1
+02:30,[SEA] Lavender Jump Shot: Missed,44,209,2,,202650,,1611661328,17,17,1
+02:26,[LVA] Young Rebound (Off:0 Def:4),44,209,4,,1629498,,1611661319,17,17,1
+02:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,17,1
+02:19,[LVA] Plaisance Jump Shot: Missed,165,20,2,,203849,,1611661319,17,17,1
+02:11,[LVA] Team Rebound,165,20,4,,0,,1611661319,17,17,1
+02:11,Jump Ball Plaisance vs Prince (Rupert gains possession),0,-80,10,202259,203849,1630387,1611661319,17,17,1
+02:10,[LVA 20-17] Rupert 3pt Shot: Made (6 PTS) Assist: Plaisance (1 AST),-188,167,1,,1630387,203849,1611661319,17,20,1
+01:55,[SEA] Charles Step Back Jump shot: Missed,4,140,2,,202250,,1611661328,17,20,1
+01:51,[LVA] Rupert Rebound (Off:0 Def:1),4,140,4,,1630387,,1611661319,17,20,1
+01:46,[LVA 22-17] Young Pullup Jump shot: Made (6 PTS),49,113,1,,1629498,,1611661319,17,22,1
+01:45,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,17,22,1
+01:45,[SEA] Charles Substitution replaced by Stewart,0,-80,8,,202250,1627668,1611661328,17,22,1
+01:45,[LVA] Young Substitution replaced by Gray,0,-80,8,,1629498,203833,1611661319,17,22,1
+01:29,[SEA 20-22] Talbot 3pt Shot: Made (3 PTS) Assist: Prince (2 AST),145,189,1,,203855,202259,1611661328,20,22,1
+01:06,[LVA] Plaisance Turnover : Out of Bounds - Bad Pass Turnover (1 TO),161,223,5,,203849,,1611661319,20,22,1
+00:52.3,[SEA] Talbot 3pt Shot: Missed,18,258,2,,203855,,1611661328,20,22,1
+00:48.7,[LVA] Gray Rebound (Off:0 Def:1),18,258,4,,203833,,1611661319,20,22,1
+00:39.5,[LVA] Gray Fadeaway Jump Shot: Missed,-41,123,2,,203833,,1611661319,20,22,1
+00:37.9,[LVA] Team Rebound,-41,123,4,,0,,1611661319,20,22,1
+00:37.9,[SEA] Prince Foul: Loose Ball (1 PF) (2 FTA),-6,20,6,204329,202259,,1611661328,20,22,1
+00:37.9,[LVA 23-20] Stokes Free Throw 1 of 2 (1 PTS),0,-80,3,,204329,,1611661319,20,23,1
+00:37.9,[LVA] Plaisance Substitution replaced by Plum,0,-80,8,,203849,1628276,1611661319,20,23,1
+00:37.9,[LVA 24-20] Stokes Free Throw 2 of 2 (2 PTS),0,-80,3,,204329,,1611661319,20,24,1
+00:29.1,[SEA 23-24] Prince 3pt Shot: Made (3 PTS) Assist: January (1 AST),-51,247,1,,202259,201896,1611661328,23,24,1
+00:12.4,[LVA 27-23] Rupert 3pt Shot: Made (9 PTS) Assist: Gray (2 AST),-35,252,1,,1630387,203833,1611661319,23,27,1
+00:00.2,[SEA] Prince Step Back Jump shot: Missed,65,212,2,,202259,,1611661328,23,27,1
+00:00.1,[SEA] Team Rebound,65,212,4,,0,,1611661328,23,27,1
+00:00.0,End Period,0,-80,13,,0,,0,23,27,1
+10:00,Start Period,0,-80,12,,0,,0,23,27,2
+09:48,[LVA] Gray Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-199,126,5,,203833,,1611661319,23,27,2
+09:32,[SEA 25-27] Stewart Turnaround Jump Shot: Made (2 PTS) Assist: January (2 AST),-44,118,1,,1627668,201896,1611661328,25,27,2
+09:18,[LVA] Plum Driving Layup Shot: Missed,-52,20,2,,1628276,,1611661319,25,27,2
+09:09,[LVA] Stokes Rebound (Off:1 Def:0),-52,20,4,,204329,,1611661319,25,27,2
+09:09,[LVA] Stokes Putback Layup Shot: Missed,0,-5,2,,204329,,1611661319,25,27,2
+09:08,[SEA] January Rebound (Off:0 Def:1),0,-5,4,,201896,,1611661328,25,27,2
+09:05,[SEA 28-27] Lavender 3pt Shot: Made (3 PTS) Assist: January (3 AST),-1,278,1,,202650,201896,1611661328,28,27,2
+08:48,[SEA] Prince Foul: Personal (2 PF),-118,64,6,203833,202259,,1611661328,28,27,2
+08:48,[SEA] Prince Substitution replaced by Magbegor,0,-80,8,,202259,1629496,1611661328,28,27,2
+08:48,[SEA] Lavender Substitution replaced by Loyd,0,-80,8,,202650,204319,1611661328,28,27,2
+08:48,[LVA] Stokes Substitution replaced by Hamby,0,-80,8,,204329,204324,1611661319,28,27,2
+08:48,[LVA] Williams Substitution replaced by Young,0,-80,8,,203029,1629498,1611661319,28,27,2
+08:48,[LVA] Rupert Substitution replaced by Wilson,0,-80,8,,1630387,1628932,1611661319,28,27,2
+08:43,[LVA 30-28] Plum 3pt Shot: Made (7 PTS) Assist: Gray (3 AST),159,186,1,,1628276,203833,1611661319,28,30,2
+08:32,[LVA] Hamby Foul: Personal (1 PF),-32,53,6,1627668,204324,,1611661319,28,30,2
+08:23,[LVA] Young Foul: Personal (1 PF),127,88,6,1627668,1629498,,1611661319,28,30,2
+08:17,[SEA] Stewart Jump Shot: Missed,121,16,2,,1627668,,1611661328,28,30,2
+08:14,[LVA] Wilson Rebound (Off:3 Def:2),121,16,4,,1628932,,1611661319,28,30,2
+08:08,[LVA] Plum Jump Shot: Missed,-57,52,2,203855,1628276,,1611661319,28,30,2
+08:08,[LVA] Team Rebound,-57,52,4,,0,,1611661319,28,30,2
+08:00,[LVA] Hamby Driving Layup Shot: Missed,21,15,2,,204324,,1611661319,28,30,2
+07:58,[SEA] Stewart Rebound (Off:0 Def:2),21,15,4,,1627668,,1611661328,28,30,2
+07:52,[SEA 31-30] Loyd 3pt Shot: Made (6 PTS) Assist: January (4 AST),135,217,1,,204319,201896,1611661328,31,30,2
+07:40,[LVA 33-31] Wilson 3pt Shot: Made (7 PTS) Assist: Gray (4 AST),45,237,1,,1628932,203833,1611661319,31,33,2
+07:24,[SEA] Talbot 3pt Shot: Missed,-230,12,2,,203855,,1611661328,31,33,2
+07:19,[LVA] Hamby Rebound (Off:0 Def:1),-230,12,4,,204324,,1611661319,31,33,2
+07:10,[LVA 35-31] Gray Turnaround Jump Shot: Made (4 PTS),0,116,1,,203833,,1611661319,31,35,2
+07:00,[SEA] Stewart Jump Shot: Missed,-21,102,2,,1627668,,1611661328,31,35,2
+06:56,[SEA] Stewart Rebound (Off:1 Def:2),-21,102,4,,1627668,,1611661328,31,35,2
+06:45,[SEA] Talbot Turnover : Bad Pass (1 TO) Steal:Wilson (1 ST),-20,262,5,1628932,203855,,1611661328,31,35,2
+06:33,[SEA] January Foul: Shooting (2 PF) (2 FTA),-15,171,6,1628932,201896,,1611661328,31,35,2
+06:33,[LVA 36-31] Wilson Free Throw 1 of 2 (8 PTS),0,-80,3,,1628932,,1611661319,31,36,2
+06:33,[SEA] January Substitution replaced by Bird,0,-80,8,,201896,100720,1611661328,31,36,2
+06:33,[SEA] Stewart Substitution replaced by Charles,0,-80,8,,1627668,202250,1611661328,31,36,2
+06:33,[LVA] Gray Substitution replaced by Williams,0,-80,8,,203833,203029,1611661319,31,36,2
+06:33,[LVA 37-31] Wilson Free Throw 2 of 2 (9 PTS),0,-80,3,,1628932,,1611661319,31,37,2
+06:19,[SEA] Loyd Jump Shot: Missed,-70,195,2,,204319,,1611661328,31,37,2
+06:17,[LVA] Wilson Rebound (Off:3 Def:3),-70,195,4,,1628932,,1611661319,31,37,2
+06:06,[LVA] Wilson Turnover : Bad Pass (2 TO) Steal:Talbot (1 ST),159,289,5,203855,1628932,,1611661319,31,37,2
+06:03,[SEA 33-37] Talbot Driving Layup Shot: Made (5 PTS) Assist: Bird (2 AST),21,12,1,,203855,100720,1611661328,33,37,2
+05:50,[LVA] Plum Turnover : Bad Pass (4 TO) Steal:Loyd (1 ST),-33,284,5,204319,1628276,,1611661319,33,37,2
+05:47,[LVA] Williams Foul: Shooting (1 PF) (2 FTA),38,16,6,204319,203029,,1611661319,33,37,2
+05:47,Timeout Officials,0,-80,9,,0,,0,33,37,2
+05:47,[SEA 34-37] Loyd Free Throw 1 of 2 (7 PTS),0,-80,3,,204319,,1611661328,34,37,2
+05:47,[SEA 35-37] Loyd Free Throw 2 of 2 (8 PTS),0,-80,3,,204319,,1611661328,35,37,2
+05:26,[LVA] Wilson Turnaround Jump Shot: Missed,104,98,2,,1628932,,1611661319,35,37,2
+05:23,[SEA] Talbot Rebound (Off:0 Def:1),104,98,4,,203855,,1611661328,35,37,2
+05:13,[SEA] Charles Step Back Jump shot: Missed,27,76,2,,202250,,1611661328,35,37,2
+05:11,[LVA] Wilson Rebound (Off:3 Def:4),27,76,4,,1628932,,1611661319,35,37,2
+05:04,[LVA] Hamby 3pt Shot: Missed,233,17,2,,204324,,1611661319,35,37,2
+05:01,[LVA] Young Rebound (Off:1 Def:4),233,17,4,,1629498,,1611661319,35,37,2
+04:58,[LVA 39-35] Plum Step Back Jump shot: Made (9 PTS) Assist: Young (3 AST),-13,183,1,,1628276,1629498,1611661319,35,39,2
+04:40,[SEA 37-39] Talbot Cutting Layup Shot: Made (7 PTS) Assist: Bird (3 AST),-16,17,1,,203855,100720,1611661328,37,39,2
+04:26,[LVA] Plum Turnover : Bad Pass (5 TO) Steal:Talbot (2 ST),182,187,5,203855,1628276,,1611661319,37,39,2
+04:22,[SEA] Bird 3pt Shot: Missed,-104,227,2,,100720,,1611661328,37,39,2
+04:17,[LVA] Young Rebound (Off:1 Def:5),-104,227,4,,1629498,,1611661319,37,39,2
+04:07,[LVA] Wilson 3pt Shot: Missed,89,237,2,,1628932,,1611661319,37,39,2
+04:04,[SEA] Loyd Rebound (Off:0 Def:1),89,237,4,,204319,,1611661328,37,39,2
+03:57,[SEA] Magbegor 3pt Shot: Missed,71,236,2,,1629496,,1611661328,37,39,2
+03:54,[LVA] Wilson Rebound (Off:3 Def:5),71,236,4,,1628932,,1611661319,37,39,2
+03:48,[LVA] Williams 3pt Shot: Missed,-232,30,2,,203029,,1611661319,37,39,2
+03:46,[SEA] Magbegor Rebound (Off:0 Def:2),-232,30,4,,1629496,,1611661328,37,39,2
+03:39,[SEA 39-39] Bird Pullup Jump shot: Made (10 PTS),-39,191,1,,100720,,1611661328,39,39,2
+03:22,[LVA 41-39] Hamby Layup Shot: Made (2 PTS) Assist: Williams (1 AST),-29,8,1,,204324,203029,1611661319,39,41,2
+03:07,[SEA] Charles 3pt Shot: Missed,123,204,2,,202250,,1611661328,39,41,2
+03:05,[LVA] Wilson Rebound (Off:3 Def:6),123,204,4,,1628932,,1611661319,39,41,2
+02:58,[LVA] Williams 3pt Shot: Missed,110,236,2,,203029,,1611661319,39,41,2
+02:54,[SEA] Magbegor Rebound (Off:0 Def:3),110,236,4,,1629496,,1611661328,39,41,2
+02:38,[SEA] Magbegor Jump Shot: Missed,2,74,2,1628932,1629496,,1611661328,39,41,2
+02:36,[LVA] Team Rebound,2,74,4,,0,,1611661319,39,41,2
+02:36,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,39,41,2
+02:36,[SEA] Charles Substitution replaced by Stewart,0,-80,8,,202250,1627668,1611661328,39,41,2
+02:36,[LVA] Williams Substitution replaced by Gray,0,-80,8,,203029,203833,1611661319,39,41,2
+02:22,[LVA] Wilson Jump Shot: Missed,5,186,2,,1628932,,1611661319,39,41,2
+02:17,[SEA] Magbegor Rebound (Off:0 Def:4),5,186,4,,1629496,,1611661328,39,41,2
+02:04,[SEA] Loyd 3pt Shot: Missed,16,248,2,,204319,,1611661328,39,41,2
+02:00,[LVA] Wilson Rebound (Off:3 Def:7),16,248,4,,1628932,,1611661319,39,41,2
+01:44,[LVA 43-39] Gray Pullup Jump shot: Made (6 PTS) Assist: Young (4 AST),-49,106,1,,203833,1629498,1611661319,39,43,2
+01:23,[SEA 42-43] Talbot 3pt Shot: Made (10 PTS) Assist: Loyd (2 AST),-118,247,1,,203855,204319,1611661328,42,43,2
+01:06,[LVA 45-42] Wilson Hook Shot: Made (11 PTS) Assist: Gray (5 AST),54,49,1,,1628932,203833,1611661319,42,45,2
+00:56.5,[SEA] Loyd Pullup Jump shot: Missed,101,124,2,,204319,,1611661328,42,45,2
+00:54.3,[LVA] Wilson Rebound (Off:3 Def:8),101,124,4,,1628932,,1611661319,42,45,2
+00:45.0,[LVA 47-42] Hamby Layup Shot: Made (4 PTS) Assist: Wilson (3 AST),12,5,1,,204324,1628932,1611661319,42,47,2
+00:35.2,[SEA 44-47] Magbegor Cutting Layup Shot: Made (2 PTS) Assist: Bird (4 AST),-24,18,1,,1629496,100720,1611661328,44,47,2
+00:32.3,[SEA] Bird Foul: Personal (1 PF),-117,282,6,203833,100720,,1611661328,44,47,2
+00:23.0,[LVA] Gray Turnover : Lost Ball (2 TO) Steal:Bird (2 ST),-130,116,5,100720,203833,,1611661319,44,47,2
+00:07.0,[SEA] Bird Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-95,332,5,,100720,,1611661328,44,47,2
+00:03.5,[LVA] Gray Floating Jump shot: Missed,9,67,2,,203833,,1611661319,44,47,2
+00:00.2,[LVA] Plum Rebound (Off:1 Def:0),9,67,4,,1628276,,1611661319,44,47,2
+00:00.0,End Period,0,-80,13,,0,,0,44,47,2
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,44,47,2
+10:00,Start Period,0,-80,12,,0,,0,44,47,3
+09:48,[LVA] Wilson Pullup Jump shot: Missed,-46,101,2,,1628932,,1611661319,44,47,3
+09:45,[LVA] Plum Rebound (Off:2 Def:0),-46,101,4,,1628276,,1611661319,44,47,3
+09:42,[LVA] Gray 3pt Shot: Missed,77,225,2,,203833,,1611661319,44,47,3
+09:38,[SEA] Williams Rebound (Off:1 Def:2),77,225,4,,1628931,,1611661328,44,47,3
+09:15,[SEA] Magbegor Turnover : Bad Pass (1 TO) Steal:Young (2 ST),179,112,5,1629498,1629496,,1611661328,44,47,3
+09:09,[LVA] Hamby Turnover : Traveling (1 TO),-198,146,5,,204324,,1611661319,44,47,3
+08:48,[SEA 46-47] Williams Jump Shot: Made (6 PTS) Assist: Bird (5 AST),-179,15,1,,1628931,100720,1611661328,46,47,3
+08:33,[LVA] Wilson 3pt Shot: Missed,234,26,2,,1628932,,1611661319,46,47,3
+08:31,[SEA] Stewart Rebound (Off:1 Def:3),234,26,4,,1627668,,1611661328,46,47,3
+08:26,[LVA] Young Foul: Shooting (2 PF) (2 FTA),-38,130,6,1627668,1629498,,1611661319,46,47,3
+08:26,[SEA 47-47] Stewart Free Throw 1 of 2 (3 PTS),0,-80,3,,1627668,,1611661328,47,47,3
+08:26,[SEA 48-47] Stewart Free Throw 2 of 2 (4 PTS),0,-80,3,,1627668,,1611661328,48,47,3
+08:08,[LVA] Young Turnaround Jump Shot: Missed,2,31,2,,1629498,,1611661319,48,47,3
+08:06,[SEA] Loyd Rebound (Off:0 Def:2),2,31,4,,204319,,1611661328,48,47,3
+07:59,[SEA] Bird 3pt Shot: Missed,-197,115,2,,100720,,1611661328,48,47,3
+07:54,[LVA] Gray Rebound (Off:0 Def:2),-197,115,4,,203833,,1611661319,48,47,3
+07:45,[LVA] Hamby Turnover : Lost Ball (2 TO) Steal:Magbegor (1 ST),30,51,5,1629496,204324,,1611661319,48,47,3
+07:33,[SEA 50-47] Williams Driving Layup Shot: Made (8 PTS),12,15,1,,1628931,,1611661328,50,47,3
+07:33,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,50,47,3
+07:08,[LVA] Hamby Driving Layup Shot: Missed,29,47,2,,204324,,1611661319,50,47,3
+07:08,[LVA] Team Rebound,29,47,4,,0,,1611661319,50,47,3
+07:08,[LVA] Team Turnover : Shot Clock Turnover,-18,15,5,,0,,1611661319,50,47,3
+06:55,[SEA 52-47] Loyd Layup Shot: Made (10 PTS),35,54,1,,204319,,1611661328,52,47,3
+06:42,[LVA] Wilson Turnover : Bad Pass (3 TO) Steal:Stewart (1 ST),51,284,5,1627668,1628932,,1611661319,52,47,3
+06:37,[SEA 55-47] Bird 3pt Shot: Made (13 PTS) Assist: Magbegor (1 AST),-147,194,1,,100720,1629496,1611661328,55,47,3
+06:24,[SEA] Loyd Foul: Personal (3 PF),0,37,6,1628932,204319,,1611661328,55,47,3
+06:24,[LVA] Hamby Substitution replaced by Rupert,0,-80,8,,204324,1630387,1611661319,55,47,3
+06:12,[LVA] Rupert Jump Shot: Missed,154,24,2,1627668,1630387,,1611661319,55,47,3
+06:10,[LVA] Team Rebound,154,24,4,,0,,1611661319,55,47,3
+06:10,[LVA] Team Turnover : Shot Clock Turnover,44,34,5,,0,,1611661319,55,47,3
+05:58,[SEA] Stewart Jump Shot: Missed,-125,17,2,,1627668,,1611661328,55,47,3
+05:53,[SEA] Stewart Rebound (Off:2 Def:3),-125,17,4,,1627668,,1611661328,55,47,3
+05:48,[SEA] Loyd Pullup Jump shot: Missed,-99,164,2,,204319,,1611661328,55,47,3
+05:45,[LVA] Wilson Rebound (Off:3 Def:9),-99,164,4,,1628932,,1611661319,55,47,3
+05:36,[LVA] Plum Layup Shot: Missed,7,19,2,,1628276,,1611661319,55,47,3
+05:33,[SEA] Magbegor Rebound (Off:0 Def:5),7,19,4,,1629496,,1611661328,55,47,3
+05:29,[SEA 58-47] Loyd 3pt Shot: Made (13 PTS) Assist: Williams (2 AST),-225,-5,1,,204319,1628931,1611661328,58,47,3
+05:13,[LVA 50-58] Young 3pt Shot: Made (9 PTS) Assist: Plum (1 AST),135,199,1,,1629498,1628276,1611661319,58,50,3
+04:58,[SEA] Loyd 3pt Shot: Missed,218,89,2,,204319,,1611661328,58,50,3
+04:53,[LVA] Rupert Rebound (Off:0 Def:2),218,89,4,,1630387,,1611661319,58,50,3
+04:50,[LVA 52-58] Young Jump Shot: Made (11 PTS) Assist: Gray (6 AST),-101,163,1,,1629498,203833,1611661319,58,52,3
+04:27,[SEA] Bird 3pt Shot: Missed,127,245,2,,100720,,1611661328,58,52,3
+04:25,[LVA] Team Rebound,127,245,4,,0,,1611661319,58,52,3
+04:25,[LVA] Gray Substitution replaced by Williams,0,-80,8,,203833,203029,1611661319,58,52,3
+04:11,[LVA 54-58] Wilson Driving Layup Shot: Made (13 PTS) Assist: Young (5 AST),-49,45,1,,1628932,1629498,1611661319,58,54,3
+04:00,[SEA] Bird Pullup Jump shot: Missed,-154,137,2,,100720,,1611661328,58,54,3
+03:51,[SEA] Stewart Rebound (Off:3 Def:3),-154,137,4,,1627668,,1611661328,58,54,3
+03:51,[SEA] Stewart Putback Layup Shot: Missed,0,-5,2,,1627668,,1611661328,58,54,3
+03:49,[LVA] Young Rebound (Off:1 Def:6),0,-5,4,,1629498,,1611661319,58,54,3
+03:48,[LVA] Wilson Turnaround Jump Shot: Missed,-55,101,2,,1628932,,1611661319,58,54,3
+03:44,[SEA] Stewart Rebound (Off:3 Def:4),-55,101,4,,1627668,,1611661328,58,54,3
+03:41,[SEA] Bird 3pt Shot: Missed,-171,162,2,,100720,,1611661328,58,54,3
+03:39,[LVA] Young Rebound (Off:1 Def:7),-171,162,4,,1629498,,1611661319,58,54,3
+03:29,[LVA] Young Pullup Jump shot: Missed,-113,160,2,,1629498,,1611661319,58,54,3
+03:26,[SEA] Bird Rebound (Off:0 Def:1),-113,160,4,,100720,,1611661328,58,54,3
+03:18,[LVA] Plum Foul: Personal (1 PF),-18,40,6,1628931,1628276,,1611661319,58,54,3
+03:18,[SEA] Williams Substitution replaced by Talbot,0,-80,8,,1628931,203855,1611661328,58,54,3
+03:18,[SEA] Bird Substitution replaced by January,0,-80,8,,100720,201896,1611661328,58,54,3
+03:18,[SEA] Magbegor Substitution replaced by Charles,0,-80,8,,1629496,202250,1611661328,58,54,3
+03:18,[LVA] Plum Substitution replaced by Gray,0,-80,8,,1628276,203833,1611661319,58,54,3
+03:11,[LVA] Young Foul: Shooting (3 PF) (2 FTA),-50,118,6,1627668,1629498,,1611661319,58,54,3
+03:11,[SEA 59-54] Stewart Free Throw 1 of 2 (5 PTS),0,-80,3,,1627668,,1611661328,59,54,3
+03:11,[SEA 60-54] Stewart Free Throw 2 of 2 (6 PTS),0,-80,3,,1627668,,1611661328,60,54,3
+02:55,[LVA] Gray Jump Shot: Missed,-12,126,2,,203833,,1611661319,60,54,3
+02:55,[LVA] Rupert Rebound (Off:1 Def:2),-12,126,4,,1630387,,1611661319,60,54,3
+02:49,[LVA] Young 3pt Shot: Missed,-156,231,2,,1629498,,1611661319,60,54,3
+02:46,[SEA] Charles Rebound (Off:0 Def:2),-156,231,4,,202250,,1611661328,60,54,3
+02:38,[SEA] Charles Layup Shot: Missed,0,67,2,,202250,,1611661328,60,54,3
+02:34,[SEA] Charles Rebound (Off:1 Def:2),0,67,4,,202250,,1611661328,60,54,3
+02:33,[SEA] Charles Layup Shot: Missed,-27,5,2,,202250,,1611661328,60,54,3
+02:33,[LVA] Wilson Rebound (Off:3 Def:10),-27,5,4,,1628932,,1611661319,60,54,3
+02:22,[LVA] Rupert 3pt Shot: Missed,-227,16,2,,1630387,,1611661319,60,54,3
+02:18,[LVA] Rupert Rebound (Off:2 Def:2),-227,16,4,,1630387,,1611661319,60,54,3
+02:16,[LVA 56-60] Rupert Layup Shot: Made (11 PTS),-9,26,1,,1630387,,1611661319,60,56,3
+02:09,[SEA] Stewart 3pt Shot: Missed,7,256,2,,1627668,,1611661328,60,56,3
+02:05,[LVA] Gray Rebound (Off:0 Def:3),7,256,4,,203833,,1611661319,60,56,3
+01:56,[LVA 58-60] Wilson Jump Shot: Made (15 PTS) Assist: Gray (7 AST),-48,205,1,,1628932,203833,1611661319,60,58,3
+01:43,[SEA] Stewart 3pt Shot: Missed,-63,237,2,,1627668,,1611661328,60,58,3
+01:40,[LVA] Gray Rebound (Off:0 Def:4),-63,237,4,,203833,,1611661319,60,58,3
+01:29,[LVA 60-60] Gray Driving Layup Shot: Made (8 PTS),12,34,1,,203833,,1611661319,60,60,3
+01:23,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,60,60,3
+01:23,[SEA] Stewart Substitution replaced by Lavender,0,-80,8,,1627668,202650,1611661328,60,60,3
+01:23,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,60,60,3
+01:06,[SEA 62-60] Charles Layup Shot: Made (4 PTS) Assist: January (5 AST),1,26,1,,202250,201896,1611661328,62,60,3
+00:51.3,[LVA] Stokes Layup Shot: Missed,1,28,2,202650,204329,,1611661319,62,60,3
+00:47.3,[SEA] Lavender Rebound (Off:0 Def:2),1,28,4,,202650,,1611661328,62,60,3
+00:44.1,[SEA] Loyd Pullup Jump shot: Missed,115,31,2,,204319,,1611661328,62,60,3
+00:40.7,[LVA] Rupert Rebound (Off:2 Def:3),87,94,4,,1630387,,1611661319,62,60,3
+00:34.1,[LVA] Williams 3pt Shot: Missed,164,191,2,,203029,,1611661319,62,60,3
+00:30.9,[SEA] Lavender Rebound (Off:0 Def:3),164,191,4,,202650,,1611661328,62,60,3
+00:24.0,[SEA 64-60] Talbot Pullup Jump shot: Made (12 PTS),57,197,1,,203855,,1611661328,64,60,3
+00:06.0,[LVA 62-64] Young Layup Shot: Made (13 PTS) Assist: Gray (8 AST),-1,75,1,,1629498,203833,1611661319,64,62,3
+00:01.2,[SEA] Loyd Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-125,333,5,,204319,,1611661328,64,62,3
+00:00.0,End Period,0,-80,13,,0,,0,64,62,3
+10:00,Start Period,0,-80,12,,0,,0,64,62,4
+09:48,[SEA 67-62] Talbot 3pt Shot: Made (15 PTS) Assist: Charles (1 AST),177,170,1,,203855,202250,1611661328,67,62,4
+09:24,[LVA 64-67] Williams Pullup Jump shot: Made (2 PTS) Assist: Plum (2 AST),163,42,1,,203029,1628276,1611661319,67,64,4
+09:09,[SEA] Talbot Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-77,81,5,,203855,,1611661328,67,64,4
+09:02,[LVA] Plum 3pt Shot: Missed,-81,250,2,,1628276,,1611661319,67,64,4
+08:57,[SEA] Charles Rebound (Off:1 Def:3),-81,250,4,,202250,,1611661328,67,64,4
+08:51,[SEA] Charles Foul: Offensive (1 PF),112,118,6,1628276,202250,,1611661328,67,64,4
+08:51,[SEA] Charles Turnover : Offensive Foul Turnover (3 TO),112,118,5,,202250,,1611661328,67,64,4
+08:41,[LVA] Gray Step Back Jump shot: Missed,108,23,2,,203833,,1611661319,67,64,4
+08:39,[SEA] Charles Rebound (Off:1 Def:4),164,67,4,,202250,,1611661328,67,64,4
+08:30,[SEA] January 3pt Shot: Missed,178,170,2,,201896,,1611661328,67,64,4
+08:26,[LVA] Gray Rebound (Off:0 Def:5),178,170,4,,203833,,1611661319,67,64,4
+08:16,[LVA] Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-178,204,5,,203029,,1611661319,67,64,4
+07:54,[SEA] Charles Jump Shot: Missed,105,182,2,,202250,,1611661328,67,64,4
+07:50,[LVA] Williams Rebound (Off:0 Def:1),105,182,4,,203029,,1611661319,67,64,4
+07:38,[LVA 67-67] Williams 3pt Shot: Made (5 PTS) Assist: Rupert (1 AST),235,12,1,,203029,1630387,1611661319,67,67,4
+07:24,[SEA] Prince Turnover : Bad Pass (1 TO) Steal:Plum (2 ST),57,60,5,1628276,202259,,1611661328,67,67,4
+07:17,[LVA 70-67] Plum 3pt Shot: Made (12 PTS) Assist: Williams (2 AST),-178,183,1,,1628276,203029,1611661319,67,70,4
+07:15,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,67,70,4
+07:15,[SEA] Lavender Substitution replaced by Stewart,0,-80,8,,202650,1627668,1611661328,67,70,4
+07:15,[SEA] Charles Substitution replaced by Magbegor,0,-80,8,,202250,1629496,1611661328,67,70,4
+07:15,[SEA] Prince Substitution replaced by Loyd,0,-80,8,,202259,204319,1611661328,67,70,4
+07:15,[LVA] Rupert Substitution replaced by Hamby,0,-80,8,,1630387,204324,1611661319,67,70,4
+06:57,[SEA 69-70] Stewart Turnaround Jump Shot: Made (8 PTS) Assist: Talbot (1 AST),35,107,1,,1627668,203855,1611661328,69,70,4
+06:36,[LVA 72-69] Gray Pullup Jump shot: Made (10 PTS) Assist: Williams (3 AST),11,172,1,,203833,203029,1611661319,69,72,4
+06:22,[SEA 72-72] Loyd 3pt Shot: Made (16 PTS) Assist: January (6 AST),-223,15,1,,204319,201896,1611661328,72,72,4
+06:03,[LVA] Gray Turnover : Bad Pass (3 TO) Steal:Stewart (2 ST),-37,135,5,1627668,203833,,1611661319,72,72,4
+05:53,[SEA] Magbegor Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-65,255,5,,1629496,,1611661328,72,72,4
+05:53,[SEA] January Substitution replaced by Bird,0,-80,8,,201896,100720,1611661328,72,72,4
+05:53,[LVA] Williams Substitution replaced by Young,0,-80,8,,203029,1629498,1611661319,72,72,4
+05:53,[LVA] Stokes Substitution replaced by Wilson,0,-80,8,,204329,1628932,1611661319,72,72,4
+05:34,[LVA] Wilson Turnaround Jump Shot: Missed,-40,21,2,1629496,1628932,,1611661319,72,72,4
+05:30,[LVA] Wilson Rebound (Off:4 Def:10),-40,21,4,,1628932,,1611661319,72,72,4
+05:30,[LVA] Hamby 3pt Shot: Missed,223,-16,2,,204324,,1611661319,72,72,4
+05:29,[LVA] Team Rebound,223,-16,4,,0,,1611661319,72,72,4
+05:29,[LVA] Team Turnover : Shot Clock Turnover,10,10,5,,0,,1611661319,72,72,4
+05:22,[LVA] Plum Foul: Personal (2 PF),167,220,6,204319,1628276,,1611661319,72,72,4
+05:11,[SEA] Talbot Driving Layup Shot: Missed,21,19,2,,203855,,1611661328,72,72,4
+05:08,[LVA] Wilson Rebound (Off:4 Def:11),21,19,4,,1628932,,1611661319,72,72,4
+05:05,[LVA] Plum Foul: Offensive Charge (3 PF),-37,93,6,203855,1628276,,1611661319,72,72,4
+05:05,[LVA] Plum Turnover : Offensive Foul Turnover (6 TO),-37,93,5,,1628276,,1611661319,72,72,4
+04:41,[SEA] Stewart Turnaround Jump Shot: Missed,-169,5,2,,1627668,,1611661328,72,72,4
+04:40,[SEA] Team Rebound,-169,5,4,,0,,1611661328,72,72,4
+04:40,[SEA] Team Turnover : Shot Clock Turnover,7,-2,5,,0,,1611661328,72,72,4
+04:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,72,4
+04:16,[LVA] Hamby Turnaround Jump Shot: Missed,68,20,2,,204324,,1611661319,72,72,4
+04:14,[SEA] Bird Rebound (Off:0 Def:2),68,20,4,,100720,,1611661328,72,72,4
+03:57,[SEA 74-72] Magbegor Layup Shot: Made (4 PTS) Assist: Bird (6 AST),56,42,1,,1629496,100720,1611661328,74,72,4
+03:38,[LVA] Plum 3pt Shot: Missed,-202,152,2,,1628276,,1611661319,74,72,4
+03:35,[SEA] Talbot Rebound (Off:0 Def:2),-202,152,4,,203855,,1611661328,74,72,4
+03:25,[SEA 76-72] Loyd Step Back Jump shot: Made (18 PTS) Assist: Stewart (1 AST),-15,197,1,,204319,1627668,1611661328,76,72,4
+03:17,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,76,72,4
+03:06,[LVA] Plum 3pt Shot: Missed,-32,254,2,,1628276,,1611661319,76,72,4
+03:02,[SEA] Magbegor Rebound (Off:0 Def:6),-32,254,4,,1629496,,1611661328,76,72,4
+02:43,[SEA 79-72] Stewart 3pt Shot: Made (11 PTS) Assist: Loyd (3 AST),-39,240,1,,1627668,204319,1611661328,79,72,4
+02:27,[LVA] Wilson Layup Shot: Missed,-13,53,2,,1628932,,1611661319,79,72,4
+02:25,[LVA] Wilson Rebound (Off:5 Def:11),-13,53,4,,1628932,,1611661319,79,72,4
+02:23,[LVA 74-79] Wilson Layup Shot: Made (17 PTS),-21,13,1,,1628932,,1611661319,79,74,4
+02:08,[SEA 82-74] Stewart 3pt Shot: Made (14 PTS) Assist: Loyd (4 AST),-186,137,1,,1627668,204319,1611661328,82,74,4
+01:50,[LVA] Young Jump Shot: Missed,-21,108,2,1627668,1629498,,1611661319,82,74,4
+01:46,[SEA] Magbegor Rebound (Off:0 Def:7),-21,108,4,,1629496,,1611661328,82,74,4
+01:29,[SEA] Stewart Turnaround Jump Shot: Missed,-134,49,2,,1627668,,1611661328,82,74,4
+01:24,[LVA] Hamby Rebound (Off:0 Def:2),-134,49,4,,204324,,1611661319,82,74,4
+01:20,[SEA] Talbot Foul: Shooting (1 PF) (2 FTA),-49,71,6,1628276,203855,,1611661328,82,74,4
+01:20,[LVA 75-82] Plum Free Throw 1 of 2 (13 PTS),0,-80,3,,1628276,,1611661319,82,75,4
+01:20,[LVA] Hamby Substitution replaced by Rupert,0,-80,8,,204324,1630387,1611661319,82,75,4
+01:20,[LVA 76-82] Plum Free Throw 2 of 2 (14 PTS),0,-80,3,,1628276,,1611661319,82,76,4
+00:58.8,[LVA] Gray Foul: Shooting (2 PF) (2 FTA),40,78,6,204319,203833,,1611661319,82,76,4
+00:58.8,[SEA 83-76] Loyd Free Throw 1 of 2 (19 PTS),0,-80,3,,204319,,1611661328,83,76,4
+00:58.8,[SEA 84-76] Loyd Free Throw 2 of 2 (20 PTS),0,-80,3,,204319,,1611661328,84,76,4
+00:58.8,[LVA] Team Timeout : Short,0,-80,9,,1611661319,,1611661319,84,76,4
+00:54.9,[LVA 78-84] Plum Driving Layup Shot: Made (16 PTS),-13,15,1,,1628276,,1611661319,84,78,4
+00:54.5,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,84,78,4
+00:54.5,[LVA] Plum Substitution replaced by Hamby,0,-80,8,,1628276,204324,1611661319,84,78,4
+00:33.9,[SEA 86-78] Loyd Pullup Jump shot: Made (22 PTS),33,203,1,,204319,,1611661328,86,78,4
+00:32.8,[LVA] Team Timeout : Short,0,-80,9,,1611661319,,1611661319,86,78,4
+00:32.8,[SEA] Bird Substitution replaced by January,0,-80,8,,100720,201896,1611661328,86,78,4
+00:32.8,[LVA] Rupert Substitution replaced by Plum,0,-80,8,,1630387,1628276,1611661319,86,78,4
+00:31.6,[LVA] Young Turnover : Bad Pass (1 TO) Steal:Talbot (3 ST),-207,307,5,203855,1629498,,1611661319,86,78,4
+00:28.1,[LVA] Plum Foul: Personal (4 PF) (2 FTA),-9,366,6,204319,1628276,,1611661319,86,78,4
+00:28.1,[SEA 87-78] Loyd Free Throw 1 of 2 (23 PTS),0,-80,3,,204319,,1611661328,87,78,4
+00:28.1,[SEA 88-78] Loyd Free Throw 2 of 2 (24 PTS),0,-80,3,,204319,,1611661328,88,78,4
+00:23.6,[SEA] Loyd Violation:Kicked Ball,0,-80,7,,204319,,1611661328,88,78,4
+00:17.7,[LVA] Gray Pullup Jump shot: Missed,43,206,2,,203833,,1611661319,88,78,4
+00:14.5,[SEA] Magbegor Rebound (Off:0 Def:8),43,206,4,,1629496,,1611661328,88,78,4
+00:00.0,End Period,0,-80,13,,0,,0,88,78,4
+00:00.0,Game End,0,-80,0,,0,,0,88,78,4

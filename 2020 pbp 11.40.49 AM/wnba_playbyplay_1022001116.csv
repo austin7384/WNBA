@@ -1,0 +1,392 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Stewart vs Collier (Clark gains possession),0,-80,10,1629483,1627668,202252,1611661328,0,0,1
+09:34,[SEA] Stewart Jump Shot: Missed,-30,70,2,,1627668,,1611661328,0,0,1
+09:34,[SEA] Clark Rebound (Off:1 Def:0),-30,70,4,,202252,,1611661328,0,0,1
+09:34,InstantReplay Request Stands,0,-80,18,,0,,0,0,0,1
+09:34,[MIN] Carleton Foul: Shooting (1 PF) (2 FTA),-8,62,6,202252,1629524,,1611661324,0,0,1
+09:34,[SEA 1-0] Clark Free Throw 1 of 2 (1 PTS),0,-80,3,,202252,,1611661328,0,1,1
+09:34,[SEA 2-0] Clark Free Throw 2 of 2 (2 PTS),0,-80,3,,202252,,1611661328,0,2,1
+09:24,[MIN 2-2] Sims Pullup Jump shot: Made (2 PTS),-23,187,1,,203824,,1611661324,2,2,1
+09:12,[SEA 5-2] Bird 3pt Shot: Made (3 PTS) Assist: Stewart (1 AST),-172,177,1,,100720,1627668,1611661328,2,5,1
+08:56,[MIN] Dantas 3pt Shot: Missed,22,242,2,,203024,,1611661324,2,5,1
+08:52,[MIN] Sims Rebound (Off:1 Def:0),22,242,4,,203824,,1611661324,2,5,1
+08:52,[MIN] Sims Turnover : Lost Ball (1 TO),227,313,5,,203824,,1611661324,2,5,1
+08:33,[SEA 7-2] Howard Layup Shot: Made (2 PTS) Assist: Bird (1 AST),-46,15,1,,203827,100720,1611661328,2,7,1
+08:23,[MIN] Sims 3pt Shot: Missed,93,228,2,,203824,,1611661324,2,7,1
+08:19,[SEA] Clark Rebound (Off:1 Def:1),93,228,4,,202252,,1611661328,2,7,1
+08:05,[SEA] Howard Layup Shot: Missed,29,63,2,,203827,,1611661328,2,7,1
+08:00,[MIN] Sims Rebound (Off:1 Def:1),29,63,4,,203824,,1611661324,2,7,1
+07:52,[MIN 4-7] Sims Layup Shot: Made (4 PTS),-43,66,1,,203824,,1611661324,4,7,1
+07:42,[SEA] Stewart 3pt Shot: Missed,-2,241,2,,1627668,,1611661328,4,7,1
+07:39,[MIN] Sims Rebound (Off:1 Def:2),-2,241,4,,203824,,1611661324,4,7,1
+07:29,[MIN] Carleton Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),-15,15,5,203827,1629524,,1611661324,4,7,1
+07:29,[SEA] Howard Turnover : Lost Ball (1 TO),63,733,5,,203827,,1611661328,4,7,1
+07:26,[MIN 7-7] Collier 3pt Shot: Made (3 PTS) Assist: Carleton (1 AST),178,174,1,,1629483,1629524,1611661324,7,7,1
+07:08,[SEA] Bird 3pt Shot: Missed,-211,132,2,,100720,,1611661328,7,7,1
+07:05,[MIN] Dantas Rebound (Off:0 Def:1),-211,132,4,,203024,,1611661324,7,7,1
+06:53,[MIN 9-7] Dantas Pullup Jump shot: Made (2 PTS) Assist: Sims (1 AST),-26,70,1,,203024,203824,1611661324,9,7,1
+06:41,[SEA] Stewart Jump Shot: Missed,-39,72,2,,1627668,,1611661328,9,7,1
+06:40,[MIN] Team Rebound,-39,72,4,,0,,1611661324,9,7,1
+06:40,[SEA] Howard Foul: Loose Ball (1 PF),7,799,6,1629483,203827,,1611661328,9,7,1
+06:40,[MIN] Sims Substitution replaced by Brown,0,-80,8,,203824,1628882,1611661324,9,7,1
+06:23,[SEA] Loyd Foul: Shooting (1 PF) (2 FTA),-4,74,6,1629524,204319,,1611661328,9,7,1
+06:23,[MIN 10-7] Carleton Free Throw 1 of 2 (1 PTS),0,-80,3,,1629524,,1611661324,10,7,1
+06:23,[MIN 11-7] Carleton Free Throw 2 of 2 (2 PTS),0,-80,3,,1629524,,1611661324,11,7,1
+06:08,[SEA 9-11] Stewart Turnaround Jump Shot: Made (2 PTS),48,85,1,,1627668,,1611661328,11,9,1
+05:55,[MIN] Dantas Turnover : Bad Pass (1 TO),20,212,5,,203024,,1611661324,11,9,1
+05:37,[SEA 11-11] Howard Layup Shot: Made (4 PTS) Assist: Loyd (1 AST),22,27,1,,203827,204319,1611661328,11,11,1
+05:25,[MIN] Collier Jump Shot: Missed,-70,77,2,,1629483,,1611661324,11,11,1
+05:22,[SEA] Clark Rebound (Off:1 Def:2),-70,77,4,,202252,,1611661328,11,11,1
+05:12,[SEA] Loyd Turnover : Bad Pass (1 TO) Steal:Collier (1 ST),218,72,5,1629483,204319,,1611661328,11,11,1
+05:07,[MIN] Dangerfield Layup Shot: Missed,22,17,2,,1630101,,1611661324,11,11,1
+05:02,[MIN] Collier Rebound (Off:1 Def:0),22,17,4,,1629483,,1611661324,11,11,1
+05:02,[MIN 13-11] Collier Putback Layup Shot: Made (5 PTS),0,-5,1,,1629483,,1611661324,13,11,1
+04:50,[SEA 13-13] Loyd Pullup Jump shot: Made (2 PTS),31,144,1,,204319,,1611661328,13,13,1
+04:22,[MIN] Collier Jump Shot: Missed,-125,40,2,,1629483,,1611661324,13,13,1
+04:19,[SEA] Clark Rebound (Off:1 Def:3),-125,40,4,,202252,,1611661328,13,13,1
+04:12,[SEA 16-13] Clark 3pt Shot: Made (5 PTS) Assist: Bird (2 AST),-147,208,1,,202252,100720,1611661328,13,16,1
+03:53,[MIN] Carleton Turnover : Lost Ball (2 TO) Steal:Howard (2 ST),-23,62,5,203827,1629524,,1611661324,13,16,1
+03:47,[SEA 18-13] Stewart Jump Shot: Made (4 PTS) Assist: Loyd (2 AST),25,36,1,,1627668,204319,1611661328,13,18,1
+03:47,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,13,18,1
+03:47,[MIN] Dantas Substitution replaced by Herbert Harrigan,0,-80,8,,203024,1630114,1611661324,13,18,1
+03:26,[MIN] Herbert Harrigan Turnover : Lost Ball (1 TO) Steal:Howard (3 ST),61,126,5,203827,1630114,,1611661324,13,18,1
+03:20,[SEA 20-13] Howard Layup Shot: Made (6 PTS) Assist: Stewart (2 AST),28,21,1,,203827,1627668,1611661328,13,20,1
+02:56,[MIN 16-20] Herbert Harrigan 3pt Shot: Made (3 PTS) Assist: Brown (1 AST),86,236,1,,1630114,1628882,1611661324,16,20,1
+02:37,[SEA] Clark Layup Shot: Missed,-33,15,2,,202252,,1611661328,16,20,1
+02:35,[SEA] Clark Rebound (Off:2 Def:3),-33,15,4,,202252,,1611661328,16,20,1
+02:30,[SEA] Howard Jump Shot: Missed,23,11,2,,203827,,1611661328,16,20,1
+02:28,[MIN] Collier Rebound (Off:1 Def:1),23,11,4,,1629483,,1611661324,16,20,1
+02:20,[MIN] Carleton Turnover : Bad Pass (3 TO) Steal:Loyd (1 ST),-104,151,5,204319,1629524,,1611661324,16,20,1
+02:14,[SEA 22-16] Howard Layup Shot: Made (8 PTS) Assist: Stewart (3 AST),19,20,1,,203827,1627668,1611661328,16,22,1
+01:51,[MIN] Brown Turnover : Bad Pass (1 TO),9,47,5,,1628882,,1611661324,16,22,1
+01:51,[MIN] Dangerfield Substitution replaced by Banham,0,-80,8,,1630101,1627671,1611661324,16,22,1
+01:51,[MIN] Carleton Substitution replaced by Johnson,0,-80,8,,1629524,203018,1611661324,16,22,1
+01:51,[SEA] Howard Substitution replaced by Prince,0,-80,8,,203827,202259,1611661328,16,22,1
+01:51,[SEA] Bird Substitution replaced by Magbegor,0,-80,8,,100720,1629496,1611661328,16,22,1
+01:51,[SEA] Clark Substitution replaced by Whitcomb,0,-80,8,,202252,1628244,1611661328,16,22,1
+01:34,[SEA 24-16] Magbegor Layup Shot: Made (2 PTS) Assist: Loyd (3 AST),24,17,1,,1629496,204319,1611661328,16,24,1
+01:14,[MIN] Herbert Harrigan Turnover : Bad Pass (2 TO) Steal:Stewart (1 ST),-23,42,5,1627668,1630114,,1611661324,16,24,1
+01:04,[SEA] Prince 3pt Shot: Missed,-115,234,2,,202259,,1611661328,16,24,1
+01:00,[MIN] Johnson Rebound (Off:0 Def:1),-115,234,4,,203018,,1611661324,16,24,1
+00:56.4,[SEA] Stewart Foul: Shooting (1 PF) (2 FTA),-26,33,6,203018,1627668,,1611661328,16,24,1
+00:56.4,[MIN 17-24] Johnson Free Throw 1 of 2 (1 PTS),0,-80,3,,203018,,1611661324,17,24,1
+00:56.4,[SEA] Stewart Substitution replaced by Russell,0,-80,8,,1627668,1628920,1611661328,17,24,1
+00:56.4,[MIN 18-24] Johnson Free Throw 2 of 2 (2 PTS),0,-80,3,,203018,,1611661324,18,24,1
+00:40.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,24,1
+00:40.0,[MIN] Collier Substitution replaced by Alexander,0,-80,8,,1629483,203405,1611661324,18,24,1
+00:34.4,[SEA] Prince Jump Shot: Missed,48,126,2,,202259,,1611661328,18,24,1
+00:30.8,[MIN] Team Rebound,48,126,4,,0,,1611661324,18,24,1
+00:19.9,[MIN 21-24] Herbert Harrigan 3pt Shot: Made (6 PTS) Assist: Johnson (1 AST),-1,244,1,,1630114,203018,1611661324,21,24,1
+00:01.8,[SEA 26-21] Loyd Jump Shot: Made (4 PTS) Assist: Prince (1 AST),-158,110,1,,204319,202259,1611661328,21,26,1
+00:00.0,End Period,0,-80,13,,0,,0,21,26,1
+10:00,Start Period,0,-80,12,,0,,0,21,26,2
+09:47,[MIN 24-26] Dantas 3pt Shot: Made (5 PTS) Assist: Sims (2 AST),72,237,1,,203024,203824,1611661324,24,26,2
+09:34,[SEA] Clark Turnover : Bad Pass (1 TO) Steal:Alexander (1 ST),120,214,5,203405,202252,,1611661328,24,26,2
+09:23,[MIN] Alexander Jump Shot: Missed,-46,54,2,1628920,203405,,1611661324,24,26,2
+09:19,[SEA] Whitcomb Rebound (Off:0 Def:1),-46,54,4,,1628244,,1611661328,24,26,2
+09:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,26,2
+09:12,[MIN] Banham Foul: Personal (1 PF),-48,225,6,1628244,1627671,,1611661324,24,26,2
+08:56,[SEA 29-24] Prince 3pt Shot: Made (3 PTS),-171,349,1,,202259,,1611661328,24,29,2
+08:32,[MIN] Alexander Turnover : Bad Pass (1 TO),215,137,5,,203405,,1611661324,24,29,2
+08:17,[SEA] Whitcomb 3pt Shot: Missed,-158,207,2,,1628244,,1611661328,24,29,2
+08:14,[MIN] Dantas Rebound (Off:0 Def:2),-158,207,4,,203024,,1611661324,24,29,2
+08:06,[SEA] Prince Foul: Shooting (1 PF) (2 FTA),-111,136,6,203824,202259,,1611661328,24,29,2
+08:06,[MIN 25-29] Sims Free Throw 1 of 2 (5 PTS),0,-80,3,,203824,,1611661324,25,29,2
+08:06,[MIN 26-29] Sims Free Throw 2 of 2 (6 PTS),0,-80,3,,203824,,1611661324,26,29,2
+07:56,[MIN] Alexander Foul: Shooting (1 PF) (2 FTA),-44,19,6,202259,203405,,1611661324,26,29,2
+07:56,[SEA 30-26] Prince Free Throw 1 of 2 (4 PTS),0,-80,3,,202259,,1611661328,26,30,2
+07:56,[SEA 31-26] Prince Free Throw 2 of 2 (5 PTS),0,-80,3,,202259,,1611661328,26,31,2
+07:43,[MIN] Banham 3pt Shot: Missed,149,207,2,,1627671,,1611661324,26,31,2
+07:40,[MIN] Team Rebound,149,207,4,,0,,1611661324,26,31,2
+07:40,[MIN] Banham Substitution replaced by Collier,0,-80,8,,1627671,1629483,1611661324,26,31,2
+07:40,[MIN] Alexander Substitution replaced by Dangerfield,0,-80,8,,203405,1630101,1611661324,26,31,2
+07:26,[MIN] Dantas Jump Shot: Missed,-92,189,2,,203024,,1611661324,26,31,2
+07:22,[SEA] Russell Rebound (Off:0 Def:1),-92,189,4,,1628920,,1611661328,26,31,2
+07:13,[SEA 33-26] Whitcomb Jump Shot: Made (2 PTS) Assist: Russell (1 AST),0,203,1,,1628244,1628920,1611661328,26,33,2
+06:58,[MIN] Dantas Turnover : Bad Pass (2 TO) Steal:Magbegor (1 ST),-11,259,5,1629496,203024,,1611661324,26,33,2
+06:50,[SEA] Magbegor Layup Shot: Missed,6,47,2,,1629496,,1611661328,26,33,2
+06:47,[SEA] Magbegor Rebound (Off:1 Def:0),6,47,4,,1629496,,1611661328,26,33,2
+06:47,[SEA 35-26] Magbegor Putback Layup Shot: Made (4 PTS),0,-5,1,,1629496,,1611661328,26,35,2
+06:47,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,26,35,2
+06:47,[MIN] Johnson Substitution replaced by Carleton,0,-80,8,,203018,1629524,1611661324,26,35,2
+06:47,[SEA] Russell Substitution replaced by Bird,0,-80,8,,1628920,100720,1611661328,26,35,2
+06:47,[SEA] Prince Substitution replaced by Howard,0,-80,8,,202259,203827,1611661328,26,35,2
+06:47,[SEA] Magbegor Substitution replaced by Stewart,0,-80,8,,1629496,1627668,1611661328,26,35,2
+06:34,[MIN] Collier Foul: Offensive (1 PF),-74,177,6,1628244,1629483,,1611661324,26,35,2
+06:34,[MIN] Collier Turnover : Offensive Foul Turnover (1 TO),-74,177,5,,1629483,,1611661324,26,35,2
+06:24,[SEA] Bird 3pt Shot: Missed,-25,230,2,,100720,,1611661328,26,35,2
+06:20,[MIN] Dantas Rebound (Off:0 Def:3),-25,230,4,,203024,,1611661324,26,35,2
+06:06,[MIN] Collier 3pt Shot: Missed,32,227,2,,1629483,,1611661324,26,35,2
+06:03,[SEA] Whitcomb Rebound (Off:0 Def:2),32,227,4,,1628244,,1611661328,26,35,2
+05:44,[SEA 37-26] Howard Jump Shot: Made (10 PTS) Assist: Bird (3 AST),25,22,1,,203827,100720,1611661328,26,37,2
+05:32,[SEA] Clark Foul: Shooting (1 PF) (2 FTA),-30,140,6,203824,202252,,1611661328,26,37,2
+05:32,[MIN 27-37] Sims Free Throw 1 of 2 (7 PTS),0,-80,3,,203824,,1611661324,27,37,2
+05:32,[SEA] Clark Substitution replaced by Loyd,0,-80,8,,202252,204319,1611661328,27,37,2
+05:32,[MIN 28-37] Sims Free Throw 2 of 2 (8 PTS),0,-80,3,,203824,,1611661324,28,37,2
+05:14,[SEA 39-28] Howard Hook Shot: Made (12 PTS) Assist: Loyd (4 AST),23,11,1,,203827,204319,1611661328,28,39,2
+04:57,[MIN] Dangerfield 3pt Shot: Missed,-124,225,2,,1630101,,1611661324,28,39,2
+04:54,[SEA] Howard Rebound (Off:0 Def:1),-124,225,4,,203827,,1611661328,28,39,2
+04:45,[MIN] Collier Foul: Shooting (2 PF) (2 FTA),36,21,6,1627668,1629483,,1611661324,28,39,2
+04:45,[SEA 40-28] Stewart Free Throw 1 of 2 (5 PTS),0,-80,3,,1627668,,1611661328,28,40,2
+04:45,[MIN] Sims Substitution replaced by Herbert Harrigan,0,-80,8,,203824,1630114,1611661324,28,40,2
+04:45,[MIN] Carleton Substitution replaced by Brown,0,-80,8,,1629524,1628882,1611661324,28,40,2
+04:45,[SEA 41-28] Stewart Free Throw 2 of 2 (6 PTS),0,-80,3,,1627668,,1611661328,28,41,2
+04:26,[MIN] Dangerfield Turnover : Bad Pass (1 TO) Steal:Bird (1 ST),195,80,5,100720,1630101,,1611661324,28,41,2
+04:18,[SEA] Bird 3pt Shot: Missed,-94,223,2,,100720,,1611661328,28,41,2
+04:15,[MIN] Brown Rebound (Off:0 Def:1),-94,223,4,,1628882,,1611661324,28,41,2
+04:10,[MIN 30-41] Dangerfield Jump Shot: Made (2 PTS) Assist: Brown (2 AST),26,29,1,,1630101,1628882,1611661324,30,41,2
+03:52,[SEA 43-30] Stewart Hook Shot: Made (8 PTS),-4,59,1,,1627668,,1611661328,30,43,2
+03:32,[MIN] Dangerfield Layup Shot: Missed,36,18,2,100720,1630101,,1611661324,30,43,2
+03:28,[MIN] Collier Rebound (Off:2 Def:1),36,18,4,,1629483,,1611661324,30,43,2
+03:26,Jump Ball Collier vs Stewart (Collier gains possession),0,-80,10,1627668,1629483,1629483,1611661324,30,43,2
+03:26,[MIN] Team Turnover : Shot Clock Turnover,17,250,5,,0,,1611661324,30,43,2
+03:26,[MIN] Dangerfield Substitution replaced by Banham,0,-80,8,,1630101,1627671,1611661324,30,43,2
+03:26,[SEA] Whitcomb Substitution replaced by Clark,0,-80,8,,1628244,202252,1611661328,30,43,2
+03:17,[SEA] Stewart Turnover : Bad Pass (1 TO),214,307,5,,1627668,,1611661328,30,43,2
+03:06,[MIN 32-43] Collier Jump Shot: Made (7 PTS) Assist: Dantas (1 AST),35,29,1,,1629483,203024,1611661324,32,43,2
+02:54,[SEA] Bird Jump Shot: Missed,-124,118,2,,100720,,1611661328,32,43,2
+02:52,[MIN] Brown Rebound (Off:0 Def:2),-124,118,4,,1628882,,1611661324,32,43,2
+02:38,[MIN] Brown Jump Shot: Missed,-117,128,2,,1628882,,1611661324,32,43,2
+02:34,[SEA] Bird Rebound (Off:0 Def:1),-117,128,4,,100720,,1611661328,32,43,2
+02:30,[MIN] Herbert Harrigan Foul: Personal (1 PF),-13,14,6,1627668,1630114,,1611661324,32,43,2
+02:30,Timeout Officials,0,-80,9,,0,,0,32,43,2
+02:24,[SEA] Stewart 3pt Shot: Missed,-108,225,2,,1627668,,1611661328,32,43,2
+02:23,[MIN] Team Rebound,-108,225,4,,0,,1611661324,32,43,2
+02:08,[MIN] Brown Turnover : Bad Pass (2 TO) Steal:Stewart (2 ST),-69,239,5,1627668,1628882,,1611661324,32,43,2
+01:58,[SEA] Stewart Turnover : Lost Ball (2 TO) Steal:Collier (2 ST),40,32,5,1629483,1627668,,1611661328,32,43,2
+01:50,[MIN] Banham 3pt Shot: Missed,35,243,2,,1627671,,1611661324,32,43,2
+01:46,[SEA] Howard Rebound (Off:0 Def:2),35,243,4,,203827,,1611661328,32,43,2
+01:44,[SEA] Bird Turnover : Bad Pass (1 TO) Steal:Herbert Harrigan (1 ST),11,59,5,1630114,100720,,1611661328,32,43,2
+01:43,[MIN] Herbert Harrigan Turnover : Bad Pass (3 TO),-213,611,5,,1630114,,1611661324,32,43,2
+01:31,[SEA] Clark 3pt Shot: Missed,186,158,2,,202252,,1611661328,32,43,2
+01:28,[MIN] Banham Rebound (Off:0 Def:1),186,158,4,,1627671,,1611661324,32,43,2
+01:25,[SEA] Clark Foul: Shooting (2 PF) (2 FTA),-13,49,6,1629483,202252,,1611661328,32,43,2
+01:25,[MIN] Collier Free Throw 1 of 2 Missed,0,-80,3,,1629483,,1611661324,32,43,2
+01:25,[MIN] Team Rebound,0,-80,4,,0,,1611661324,32,43,2
+01:25,[MIN 33-43] Collier Free Throw 2 of 2 (8 PTS),0,-80,3,,1629483,,1611661324,33,43,2
+01:13,[SEA] Bird 3pt Shot: Missed,-147,183,2,,100720,,1611661328,33,43,2
+01:08,[MIN] Dantas Rebound (Off:0 Def:4),-147,183,4,,203024,,1611661324,33,43,2
+00:58.2,[MIN] Brown Turnover : Bad Pass (3 TO) Steal:Stewart (3 ST),114,126,5,1627668,1628882,,1611661324,33,43,2
+00:54.1,[SEA] Stewart Layup Shot: Missed,-25,8,2,,1627668,,1611661328,33,43,2
+00:51.3,[MIN] Brown Rebound (Off:0 Def:3),-25,8,4,,1628882,,1611661324,33,43,2
+00:42.6,[SEA] Stewart Foul: Shooting (2 PF) (2 FTA),33,16,6,203024,1627668,,1611661328,33,43,2
+00:42.6,[MIN 34-43] Dantas Free Throw 1 of 2 (6 PTS),0,-80,3,,203024,,1611661324,34,43,2
+00:42.6,[MIN 35-43] Dantas Free Throw 2 of 2 (7 PTS),0,-80,3,,203024,,1611661324,35,43,2
+00:38.3,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,35,43,2
+00:38.3,[MIN] Brown Substitution replaced by Sims,0,-80,8,,1628882,203824,1611661324,35,43,2
+00:36.8,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,43,2
+00:29.7,[SEA] Loyd Step Back Jump shot: Missed,58,192,2,,204319,,1611661328,35,43,2
+00:26.7,[MIN] Herbert Harrigan Rebound (Off:0 Def:1),58,192,4,,1630114,,1611661324,35,43,2
+00:11.7,[MIN] Dantas Hook Shot: Missed,49,35,2,,203024,,1611661324,35,43,2
+00:09.3,[MIN] Banham Rebound (Off:1 Def:1),49,35,4,,1627671,,1611661324,35,43,2
+00:08.1,[MIN] Banham Layup Shot: Missed,-34,6,2,,1627671,,1611661324,35,43,2
+00:08.1,[SEA] Howard Rebound (Off:0 Def:3),-34,6,4,,203827,,1611661328,35,43,2
+00:02.4,[MIN] Herbert Harrigan Foul: Shooting (2 PF) (2 FTA),13,13,6,1627668,1630114,,1611661324,35,43,2
+00:02.4,[SEA 44-35] Stewart Free Throw 1 of 2 (9 PTS),0,-80,3,,1627668,,1611661328,35,44,2
+00:02.4,[SEA 45-35] Stewart Free Throw 2 of 2 (10 PTS),0,-80,3,,1627668,,1611661328,35,45,2
+00:00.0,[MIN 38-45] Sims 3pt Shot: Made (11 PTS) Assist: Collier (1 AST),-186,384,1,,203824,1629483,1611661324,38,45,2
+00:00.0,End Period,0,-80,13,,0,,0,38,45,2
+10:00,Start Period,0,-80,12,,0,,0,38,45,3
+09:42,[MIN] Sims Layup Shot: Missed,1,59,2,,203824,,1611661324,38,45,3
+09:40,[MIN] Sims Rebound (Off:2 Def:2),1,59,4,,203824,,1611661324,38,45,3
+09:34,[MIN 41-45] Dangerfield 3pt Shot: Made (5 PTS) Assist: Collier (2 AST),170,182,1,,1630101,1629483,1611661324,41,45,3
+09:14,[SEA 47-41] Loyd Layup Shot: Made (6 PTS) Assist: Stewart (4 AST),26,37,1,,204319,1627668,1611661328,41,47,3
+08:58,[SEA] Howard Foul: Shooting (2 PF) (2 FTA),14,33,6,203024,203827,,1611661328,41,47,3
+08:58,[MIN 42-47] Dantas Free Throw 1 of 2 (8 PTS),0,-80,3,,203024,,1611661324,42,47,3
+08:58,[MIN 43-47] Dantas Free Throw 2 of 2 (9 PTS),0,-80,3,,203024,,1611661324,43,47,3
+08:44,[SEA 49-43] Howard Layup Shot: Made (14 PTS) Assist: Loyd (5 AST),24,17,1,,203827,204319,1611661328,43,49,3
+08:33,[MIN] Dantas 3pt Shot: Missed,-136,208,2,,203024,,1611661324,43,49,3
+08:30,[SEA] Stewart Rebound (Off:0 Def:1),-136,208,4,,1627668,,1611661328,43,49,3
+08:26,[SEA 51-43] Clark Layup Shot: Made (7 PTS) Assist: Bird (4 AST),35,48,1,,202252,100720,1611661328,43,51,3
+08:05,Jump Ball Clark vs Dangerfield (Stewart gains possession),0,-80,10,1630101,202252,1627668,1611661328,43,51,3
+08:05,[MIN] Dangerfield Turnover : Lost Ball (2 TO) Steal:Clark (1 ST),0,-80,5,202252,1630101,,1611661324,43,51,3
+08:03,[MIN] Sims Foul: Personal (1 PF) (2 FTA),-13,24,6,203827,203824,,1611661324,43,51,3
+08:03,[SEA 52-43] Howard Free Throw 1 of 2 (15 PTS),0,-80,3,,203827,,1611661328,43,52,3
+08:03,[SEA 53-43] Howard Free Throw 2 of 2 (16 PTS),0,-80,3,,203827,,1611661328,43,53,3
+07:46,[MIN 45-53] Dantas Cutting Layup Shot: Made (11 PTS) Assist: Carleton (2 AST),-3,21,1,,203024,1629524,1611661324,45,53,3
+07:30,[SEA 56-45] Clark 3pt Shot: Made (10 PTS) Assist: Loyd (6 AST),-230,15,1,,202252,204319,1611661328,45,56,3
+07:17,[MIN] Dangerfield 3pt Shot: Missed,-172,197,2,,1630101,,1611661324,45,56,3
+07:13,[SEA] Stewart Rebound (Off:0 Def:2),-172,197,4,,1627668,,1611661328,45,56,3
+07:06,[SEA] Bird 3pt Shot: Missed,-182,187,2,,100720,,1611661328,45,56,3
+07:03,[SEA] Howard Rebound (Off:1 Def:3),-182,187,4,,203827,,1611661328,45,56,3
+07:02,[SEA 59-45] Clark 3pt Shot: Made (13 PTS) Assist: Howard (1 AST),75,235,1,,202252,203827,1611661328,45,59,3
+06:55,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,45,59,3
+06:41,[MIN] Sims Jump Shot: Missed,-50,36,2,,203824,,1611661324,45,59,3
+06:39,[MIN] Dantas Rebound (Off:1 Def:4),-50,36,4,,203024,,1611661324,45,59,3
+06:37,[MIN 48-59] Carleton 3pt Shot: Made (5 PTS) Assist: Dantas (2 AST),209,134,1,,1629524,203024,1611661324,48,59,3
+06:20,[SEA 62-48] Loyd 3pt Shot: Made (9 PTS) Assist: Clark (1 AST),-220,115,1,,204319,202252,1611661328,48,62,3
+06:10,[MIN] Sims Turnover : Bad Pass (2 TO) Steal:Clark (2 ST),103,92,5,202252,203824,,1611661324,48,62,3
+06:03,[SEA 65-48] Stewart 3pt Shot: Made (13 PTS) Assist: Bird (5 AST),-226,113,1,,1627668,100720,1611661328,48,65,3
+05:46,[MIN] Collier 3pt Shot: Missed,-3,244,2,,1629483,,1611661324,48,65,3
+05:42,[MIN] Dantas Rebound (Off:2 Def:4),-3,244,4,,203024,,1611661324,48,65,3
+05:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,65,3
+05:41,[MIN] Sims Substitution replaced by Banham,0,-80,8,,203824,1627671,1611661324,48,65,3
+05:31,[MIN] Dangerfield Jump Shot: Missed,47,185,2,,1630101,,1611661324,48,65,3
+05:29,[MIN] Collier Rebound (Off:3 Def:1),47,185,4,,1629483,,1611661324,48,65,3
+05:29,[MIN] Team Turnover : Shot Clock Turnover,39,33,5,,0,,1611661324,48,65,3
+05:15,[SEA] Loyd 3pt Shot: Missed,53,239,2,,204319,,1611661328,48,65,3
+05:13,[MIN] Dantas Rebound (Off:2 Def:5),53,239,4,,203024,,1611661324,48,65,3
+05:05,[MIN 50-65] Carleton Layup Shot: Made (7 PTS) Assist: Banham (1 AST),37,3,1,,1629524,1627671,1611661324,50,65,3
+04:54,[SEA] Howard 3pt Shot: Missed,-81,230,2,,203827,,1611661328,50,65,3
+04:50,[MIN] Banham Rebound (Off:1 Def:2),-81,230,4,,1627671,,1611661324,50,65,3
+04:50,[MIN] Banham Turnover : Bad Pass (1 TO) Steal:Howard (4 ST),148,558,5,203827,1627671,,1611661324,50,65,3
+04:46,[SEA] Howard Turnover : Bad Pass (2 TO) Steal:Carleton (1 ST),111,506,5,1629524,203827,,1611661328,50,65,3
+04:42,[MIN] Collier Turnover : Bad Pass (2 TO),131,-17,5,,1629483,,1611661324,50,65,3
+04:32,[SEA] Stewart Turnover : Out of Bounds - Bad Pass Turnover (3 TO),48,249,5,,1627668,,1611661328,50,65,3
+04:32,[MIN] Dangerfield Substitution replaced by Johnson,0,-80,8,,1630101,203018,1611661324,50,65,3
+04:18,[MIN 52-65] Johnson Running Layup Shot: Made (4 PTS),-61,116,1,,203018,,1611661324,52,65,3
+04:07,[MIN] Johnson Foul: Shooting (1 PF) (2 FTA),43,55,6,204319,203018,,1611661324,52,65,3
+04:07,[SEA 66-52] Loyd Free Throw 1 of 2 (10 PTS),0,-80,3,,204319,,1611661328,52,66,3
+04:07,[SEA] Clark Substitution replaced by Whitcomb,0,-80,8,,202252,1628244,1611661328,52,66,3
+04:07,[SEA 67-52] Loyd Free Throw 2 of 2 (11 PTS),0,-80,3,,204319,,1611661328,52,67,3
+03:51,[MIN] Carleton Foul: Offensive Charge (2 PF),-87,-11,6,1628244,1629524,,1611661324,52,67,3
+03:51,[MIN] Carleton Turnover : Offensive Foul Turnover (4 TO),-87,-11,5,,1629524,,1611661324,52,67,3
+03:34,[SEA 70-52] Bird 3pt Shot: Made (6 PTS) Assist: Loyd (7 AST),-146,205,1,,100720,204319,1611661328,52,70,3
+03:13,[MIN 55-70] Dantas 3pt Shot: Made (14 PTS) Assist: Banham (2 AST),98,216,1,,203024,1627671,1611661324,55,70,3
+03:03,[SEA] Stewart Jump Shot: Missed,-14,78,2,,1627668,,1611661328,55,70,3
+02:59,[SEA] Loyd Rebound (Off:1 Def:0),-14,78,4,,204319,,1611661328,55,70,3
+02:59,[SEA 72-55] Loyd Putback Layup Shot: Made (13 PTS),0,-5,1,,204319,,1611661328,55,72,3
+02:51,[MIN] Collier Jump Shot: Missed,-91,110,2,,1629483,,1611661324,55,72,3
+02:47,[MIN] Collier Rebound (Off:4 Def:1),-91,110,4,,1629483,,1611661324,55,72,3
+02:47,[MIN 57-72] Collier Putback Layup Shot: Made (10 PTS),0,-5,1,,1629483,,1611661324,57,72,3
+02:33,[MIN] Collier Foul: Personal (3 PF),-34,17,6,203827,1629483,,1611661324,57,72,3
+02:33,[MIN] Dantas Substitution replaced by Herbert Harrigan,0,-80,8,,203024,1630114,1611661324,57,72,3
+02:33,[SEA] Howard Substitution replaced by Prince,0,-80,8,,203827,202259,1611661328,57,72,3
+02:33,[SEA] Bird Substitution replaced by Magbegor,0,-80,8,,100720,1629496,1611661328,57,72,3
+02:31,[SEA 74-57] Stewart Pullup Jump shot: Made (15 PTS) Assist: Whitcomb (1 AST),-51,77,1,,1627668,1628244,1611661328,57,74,3
+02:15,[MIN] Herbert Harrigan Pullup Jump shot: Missed,147,-29,2,,1630114,,1611661324,57,74,3
+02:13,[SEA] Loyd Rebound (Off:1 Def:1),147,-29,4,,204319,,1611661328,57,74,3
+02:10,[SEA] Loyd Turnover : Bad Pass (2 TO),49,308,5,,204319,,1611661328,57,74,3
+02:10,[MIN] Collier Substitution replaced by McCall,0,-80,8,,1629483,1628286,1611661324,57,74,3
+01:48,[MIN] Johnson Jump Shot: Missed,-64,128,2,,203018,,1611661324,57,74,3
+01:42,[SEA] Stewart Rebound (Off:0 Def:3),-64,128,4,,1627668,,1611661328,57,74,3
+01:40,[SEA] Prince 3pt Shot: Missed,-164,203,2,,202259,,1611661328,57,74,3
+01:40,[MIN] Team Rebound,-164,203,4,,0,,1611661324,57,74,3
+01:40,[SEA] Magbegor Foul: Loose Ball (1 PF),2,795,6,1629524,1629496,,1611661328,57,74,3
+01:25,[MIN] Banham Jump Shot: Missed,30,57,2,,1627671,,1611661324,57,74,3
+01:25,[SEA] Team Rebound,30,57,4,,0,,1611661328,57,74,3
+01:25,[SEA] Loyd Substitution replaced by Langhorne,0,-80,8,,204319,201518,1611661328,57,74,3
+01:25,[SEA] Stewart Substitution replaced by Russell,0,-80,8,,1627668,1628920,1611661328,57,74,3
+01:02,[SEA] Magbegor Turnover : Lost Ball (1 TO) Steal:Johnson (1 ST),41,60,5,203018,1629496,,1611661328,57,74,3
+00:57.4,[MIN] Johnson Turnover : Bad Pass (1 TO) Steal:Whitcomb (1 ST),75,170,5,1628244,203018,,1611661324,57,74,3
+00:44.7,[MIN] McCall Foul: Shooting (1 PF) (2 FTA),25,12,6,202259,1628286,,1611661324,57,74,3
+00:44.7,[SEA 75-57] Prince Free Throw 1 of 2 (6 PTS),0,-80,3,,202259,,1611661328,57,75,3
+00:44.7,[MIN] Johnson Substitution replaced by Sims,0,-80,8,,203018,203824,1611661324,57,75,3
+00:44.7,[SEA 76-57] Prince Free Throw 2 of 2 (7 PTS),0,-80,3,,202259,,1611661328,57,76,3
+00:34.6,[SEA] Magbegor Foul: Shooting (2 PF) (2 FTA),24,10,6,1628286,1629496,,1611661328,57,76,3
+00:34.6,[MIN 58-76] McCall Free Throw 1 of 2 (1 PTS),0,-80,3,,1628286,,1611661324,58,76,3
+00:34.6,[MIN] McCall Free Throw 2 of 2 Missed,0,-80,3,,1628286,,1611661324,58,76,3
+00:30.9,[MIN] Carleton Rebound (Off:1 Def:0),0,-80,4,,1629524,,1611661324,58,76,3
+00:23.2,[MIN] Banham 3pt Shot: Missed,-96,216,2,,1627671,,1611661324,58,76,3
+00:19.6,[SEA] Langhorne Rebound (Off:0 Def:1),-96,216,4,,201518,,1611661328,58,76,3
+00:03.8,[SEA] Prince Jump Shot: Missed,42,74,2,,202259,,1611661328,58,76,3
+00:01.0,[MIN] McCall Rebound (Off:0 Def:1),42,74,4,,1628286,,1611661324,58,76,3
+00:00.0,[MIN] Carleton 3pt Shot: Missed,0,390,2,,1629524,,1611661324,58,76,3
+00:00.0,[MIN] Team Rebound,0,390,4,,0,,1611661324,58,76,3
+00:00.0,End Period,0,-80,13,,0,,0,58,76,3
+10:00,Start Period,0,-80,12,,0,,0,58,76,4
+09:47,[SEA 79-58] Whitcomb 3pt Shot: Made (5 PTS) Assist: Prince (2 AST),-213,115,1,,1628244,202259,1611661328,58,79,4
+09:27,[MIN] Carleton 3pt Shot: Missed,184,185,2,,1629524,,1611661324,58,79,4
+09:26,[MIN] McCall Rebound (Off:1 Def:1),184,185,4,,1628286,,1611661324,58,79,4
+09:26,[SEA] Whitcomb Foul: Shooting (1 PF) (2 FTA),63,-3,6,1628286,1628244,,1611661328,58,79,4
+09:26,[MIN 59-79] McCall Free Throw 1 of 2 (2 PTS),0,-80,3,,1628286,,1611661324,59,79,4
+09:26,[MIN 60-79] McCall Free Throw 2 of 2 (3 PTS),0,-80,3,,1628286,,1611661324,60,79,4
+09:12,[SEA] Prince Layup Shot: Missed,49,22,2,,202259,,1611661328,60,79,4
+09:12,[SEA] Team Rebound,49,22,4,,0,,1611661328,60,79,4
+09:08,[SEA 81-60] Magbegor Turnaround Jump Shot: Made (6 PTS) Assist: Prince (3 AST),33,53,1,,1629496,202259,1611661328,60,81,4
+08:52,[MIN 62-81] Dangerfield Jump Shot: Made (7 PTS) Assist: McCall (1 AST),-71,145,1,,1630101,1628286,1611661324,62,81,4
+08:29,[SEA] Russell Jump Shot: Missed,-3,42,2,,1628920,,1611661328,62,81,4
+08:23,[SEA] Russell Rebound (Off:1 Def:1),-3,42,4,,1628920,,1611661328,62,81,4
+08:23,[SEA] Russell Putback Layup Shot: Missed,0,-5,2,,1628920,,1611661328,62,81,4
+08:22,[MIN] McCall Rebound (Off:1 Def:2),0,-5,4,,1628286,,1611661324,62,81,4
+08:16,[MIN] McCall Jump Shot: Missed,-20,186,2,,1628286,,1611661324,62,81,4
+08:14,[MIN] Carleton Rebound (Off:2 Def:0),-20,186,4,,1629524,,1611661324,62,81,4
+08:12,[MIN] Sims 3pt Shot: Missed,186,166,2,,203824,,1611661324,62,81,4
+08:12,[MIN] Herbert Harrigan Rebound (Off:1 Def:1),186,166,4,,1630114,,1611661324,62,81,4
+08:03,[MIN] Sims Turnover : Lost Ball (3 TO) Steal:Prince (1 ST),43,62,5,202259,203824,,1611661324,62,81,4
+07:55,[MIN] McCall Foul: Shooting (2 PF) (2 FTA),-26,42,6,1629496,1628286,,1611661324,62,81,4
+07:55,[SEA 82-62] Magbegor Free Throw 1 of 2 (7 PTS),0,-80,3,,1629496,,1611661328,62,82,4
+07:55,[MIN] Herbert Harrigan Substitution replaced by Dantas,0,-80,8,,1630114,203024,1611661324,62,82,4
+07:55,[MIN] McCall Substitution replaced by Collier,0,-80,8,,1628286,1629483,1611661324,62,82,4
+07:55,[SEA 83-62] Magbegor Free Throw 2 of 2 (8 PTS),0,-80,3,,1629496,,1611661328,62,83,4
+07:46,[MIN] Dantas 3pt Shot: Missed,123,207,2,,203024,,1611661324,62,83,4
+07:41,[SEA] Whitcomb Rebound (Off:0 Def:3),123,207,4,,1628244,,1611661328,62,83,4
+07:25,[SEA] Langhorne Turnover : Lost Ball (1 TO) Steal:Sims (1 ST),26,28,5,203824,201518,,1611661328,62,83,4
+07:22,[MIN 64-83] Sims Layup Shot: Made (13 PTS),-27,19,1,,203824,,1611661324,64,83,4
+07:22,[SEA] Prince Foul: Shooting (2 PF) (1 FTA),-11,-6,6,203824,202259,,1611661328,64,83,4
+07:22,[SEA] Langhorne Substitution replaced by Clark,0,-80,8,,201518,202252,1611661328,64,83,4
+07:22,[SEA] Magbegor Substitution replaced by Stewart,0,-80,8,,1629496,1627668,1611661328,64,83,4
+07:22,[MIN 65-83] Sims Free Throw 1 of 1 (14 PTS),0,-80,3,,203824,,1611661324,65,83,4
+07:13,[SEA] Stewart Jump Shot: Missed,46,207,2,,1627668,,1611661328,65,83,4
+07:10,[MIN] Dantas Rebound (Off:2 Def:6),46,207,4,,203024,,1611661324,65,83,4
+06:56,[MIN 67-83] Dangerfield Jump Shot: Made (9 PTS) Assist: Sims (3 AST),-25,166,1,,1630101,203824,1611661324,67,83,4
+06:42,[SEA 85-67] Whitcomb Jump Shot: Made (7 PTS) Assist: Russell (2 AST),-2,180,1,,1628244,1628920,1611661328,67,85,4
+06:19,[SEA] Stewart Foul: Personal (3 PF),-3,27,6,1629483,1627668,,1611661328,67,85,4
+06:19,[SEA] Prince Substitution replaced by Bird,0,-80,8,,202259,100720,1611661328,67,85,4
+06:12,[MIN 69-85] Dantas Layup Shot: Made (16 PTS) Assist: Sims (4 AST),-25,81,1,,203024,203824,1611661324,69,85,4
+05:57,[MIN] Carleton Foul: Shooting (3 PF) (2 FTA),-2,69,6,1628920,1629524,,1611661324,69,85,4
+05:57,Timeout Officials,0,-80,9,,0,,0,69,85,4
+05:57,[MIN] Sims Substitution replaced by Brown,0,-80,8,,203824,1628882,1611661324,69,85,4
+05:57,[SEA] Whitcomb Substitution replaced by Loyd,0,-80,8,,1628244,204319,1611661328,69,85,4
+05:57,[SEA] Russell Free Throw 1 of 2 Missed,0,-80,3,,1628920,,1611661328,69,85,4
+05:57,[SEA] Team Rebound,0,-80,4,,0,,1611661328,69,85,4
+05:57,[SEA 86-69] Russell Free Throw 2 of 2 (1 PTS),0,-80,3,,1628920,,1611661328,69,86,4
+05:42,[MIN 72-86] Dantas 3pt Shot: Made (19 PTS) Assist: Carleton (3 AST),-148,188,1,,203024,1629524,1611661324,72,86,4
+05:28,[SEA] Stewart Foul: Offensive Charge (4 PF),-32,88,6,1628882,1627668,,1611661328,72,86,4
+05:28,[SEA] Stewart Turnover : Offensive Foul Turnover (4 TO),-32,88,5,,1627668,,1611661328,72,86,4
+05:28,[SEA] Russell Substitution replaced by Howard,0,-80,8,,1628920,203827,1611661328,72,86,4
+05:06,[MIN 74-86] Dangerfield Jump Shot: Made (11 PTS) Assist: Brown (3 AST),151,13,1,,1630101,1628882,1611661324,74,86,4
+04:53,[MIN] Dantas Foul: Shooting (1 PF) (2 FTA),16,42,6,203827,203024,,1611661324,74,86,4
+04:53,[SEA] Howard Free Throw 1 of 2 Missed,0,-80,3,,203827,,1611661328,74,86,4
+04:53,[SEA] Team Rebound,0,-80,4,,0,,1611661328,74,86,4
+04:53,[SEA 87-74] Howard Free Throw 2 of 2 (17 PTS),0,-80,3,,203827,,1611661328,74,87,4
+04:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,87,4
+04:30,[MIN 76-87] Dangerfield Driving Layup Shot: Made (13 PTS),25,11,1,,1630101,,1611661324,76,87,4
+04:19,[MIN] Carleton Foul: Personal (4 PF),0,86,6,202252,1629524,,1611661324,76,87,4
+04:10,[SEA 90-76] Loyd 3pt Shot: Made (16 PTS) Assist: Howard (2 AST),88,217,1,,204319,203827,1611661328,76,90,4
+04:01,[MIN] Carleton Jump Shot: Missed,71,60,2,,1629524,,1611661324,76,90,4
+03:59,[SEA] Stewart Rebound (Off:0 Def:4),71,60,4,,1627668,,1611661328,76,90,4
+03:50,[SEA 93-76] Stewart 3pt Shot: Made (18 PTS) Assist: Bird (6 AST),-20,248,1,,1627668,100720,1611661328,76,93,4
+03:35,[MIN] Carleton Foul: Offensive Charge (5 PF),30,241,6,204319,1629524,,1611661324,76,93,4
+03:35,[MIN] Carleton Turnover : Offensive Foul Turnover (5 TO),30,241,5,,1629524,,1611661324,76,93,4
+03:19,[SEA] Stewart 3pt Shot: Missed,11,239,2,,1627668,,1611661328,76,93,4
+03:14,[MIN] Collier Rebound (Off:4 Def:2),11,239,4,,1629483,,1611661324,76,93,4
+03:09,[MIN 79-93] Brown 3pt Shot: Made (3 PTS) Assist: Dangerfield (1 AST),-131,209,1,,1628882,1630101,1611661324,79,93,4
+02:58,[SEA 95-79] Bird Layup Shot: Made (8 PTS) Assist: Stewart (5 AST),4,53,1,,100720,1627668,1611661328,79,95,4
+02:40,[MIN 82-95] Dantas 3pt Shot: Made (22 PTS) Assist: Dangerfield (2 AST),7,237,1,,203024,1630101,1611661324,82,95,4
+02:14,[SEA] Howard Jump Shot: Missed,138,-3,2,,203827,,1611661328,82,95,4
+02:13,[MIN] Dantas Rebound (Off:2 Def:7),138,-3,4,,203024,,1611661324,82,95,4
+02:13,[SEA] Howard Foul: Personal (3 PF),-72,800,6,203024,203827,,1611661328,82,95,4
+02:13,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,82,95,4
+02:13,[MIN] Dangerfield Substitution replaced by Herbert Harrigan,0,-80,8,,1630101,1630114,1611661324,82,95,4
+02:13,[MIN] Carleton Substitution replaced by McCall,0,-80,8,,1629524,1628286,1611661324,82,95,4
+02:13,[MIN] Dantas Substitution replaced by Johnson,0,-80,8,,203024,203018,1611661324,82,95,4
+02:13,[MIN] Collier Substitution replaced by Banham,0,-80,8,,1629483,1627671,1611661324,82,95,4
+01:59,[MIN 85-95] Brown 3pt Shot: Made (6 PTS) Assist: Johnson (2 AST),-141,193,1,,1628882,203018,1611661324,85,95,4
+01:39,[SEA 97-85] Howard Turnaround Hook Shot: Made (19 PTS) Assist: Bird (7 AST),-9,102,1,,203827,100720,1611661328,85,97,4
+01:32,[MIN] McCall Layup Shot: Missed,47,33,2,,1628286,,1611661324,85,97,4
+01:29,[MIN] McCall Rebound (Off:2 Def:2),47,33,4,,1628286,,1611661324,85,97,4
+01:29,[MIN 87-97] McCall Putback Layup Shot: Made (5 PTS),0,-5,1,,1628286,,1611661324,87,97,4
+01:21,[MIN] Johnson Foul: Shooting (2 PF) (2 FTA),-19,40,6,202252,203018,,1611661324,87,97,4
+01:21,[SEA 98-87] Clark Free Throw 1 of 2 (14 PTS),0,-80,3,,202252,,1611661328,87,98,4
+01:21,[SEA 99-87] Clark Free Throw 2 of 2 (15 PTS),0,-80,3,,202252,,1611661328,87,99,4
+01:05,[MIN] Johnson Turnover : Lost Ball (2 TO) Steal:Clark (3 ST),-2,106,5,202252,203018,,1611661324,87,99,4
+00:58.8,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,87,99,4
+00:58.8,[SEA] Howard Substitution replaced by Magbegor,0,-80,8,,203827,1629496,1611661328,87,99,4
+00:58.8,[SEA] Bird Substitution replaced by Russell,0,-80,8,,100720,1628920,1611661328,87,99,4
+00:58.8,[SEA] Loyd Substitution replaced by Prince,0,-80,8,,204319,202259,1611661328,87,99,4
+00:58.8,[SEA] Stewart Substitution replaced by Whitcomb,0,-80,8,,1627668,1628244,1611661328,87,99,4
+00:58.8,[SEA] Clark Substitution replaced by Langhorne,0,-80,8,,202252,201518,1611661328,87,99,4
+00:46.0,[SEA] Whitcomb 3pt Shot: Missed,147,193,2,,1628244,,1611661328,87,99,4
+00:42.8,[SEA] Magbegor Rebound (Off:2 Def:0),147,193,4,,1629496,,1611661328,87,99,4
+00:42.8,[SEA 101-87] Magbegor Putback Layup Shot: Made (10 PTS),0,-5,1,,1629496,,1611661328,87,101,4
+00:33.7,[SEA] Magbegor Foul: Shooting (3 PF) (2 FTA),26,35,6,1630114,1629496,,1611661328,87,101,4
+00:33.7,[MIN] Herbert Harrigan Free Throw 1 of 2 Missed,0,-80,3,,1630114,,1611661324,87,101,4
+00:33.7,[MIN] Team Rebound,0,-80,4,,0,,1611661324,87,101,4
+00:33.7,[MIN 88-101] Herbert Harrigan Free Throw 2 of 2 (7 PTS),0,-80,3,,1630114,,1611661324,88,101,4
+00:21.0,[MIN] Johnson Foul: Shooting (3 PF) (2 FTA),-23,35,6,1629496,203018,,1611661324,88,101,4
+00:21.0,[SEA 102-88] Magbegor Free Throw 1 of 2 (11 PTS),0,-80,3,,1629496,,1611661328,88,102,4
+00:21.0,[SEA 103-88] Magbegor Free Throw 2 of 2 (12 PTS),0,-80,3,,1629496,,1611661328,88,103,4
+00:00.0,End Period,0,-80,13,,0,,0,88,103,4
+00:00.0,Game End,0,-80,0,,0,,0,88,103,4

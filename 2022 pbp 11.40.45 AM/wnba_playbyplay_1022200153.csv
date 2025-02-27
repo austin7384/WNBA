@@ -1,0 +1,416 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Stewart vs Egbo (Magbegor gains possession),0,-80,10,1631031,1627668,1629496,1611661328,0,0,1
+09:36,[SEA] Loyd 3pt Shot: Missed,-193,175,2,,204319,,1611661328,0,0,1
+09:34,[SEA] Team Rebound,-193,175,4,,0,,1611661328,0,0,1
+09:34,[SEA] Team Turnover : Shot Clock Turnover,40,251,5,,0,,1611661328,0,0,1
+09:22,[IND] Smith Pullup Jump shot: Missed,125,53,2,,1631019,,1611661325,0,0,1
+09:19,[SEA] Williams Rebound (Off:0 Def:1),125,53,4,,1628931,,1611661328,0,0,1
+09:10,[SEA] Williams Turnover : Bad Pass (1 TO) Steal:Smith (1 ST),206,207,5,1631019,1628931,,1611661328,0,0,1
+09:06,[IND 2-0] Mitchell Running Layup Shot: Made (2 PTS) Assist: Smith (1 AST),-44,-9,1,,1628909,1631019,1611661325,0,2,1
+08:51,[SEA 2-2] Magbegor Driving Layup Shot: Made (2 PTS),-28,10,1,,1629496,,1611661328,2,2,1
+08:42,[IND] Vivians 3pt Shot: Missed,122,214,2,,1628927,,1611661325,2,2,1
+08:39,[SEA] Williams Rebound (Off:0 Def:2),101,150,4,,1628931,,1611661328,2,2,1
+08:37,[IND] Egbo Foul: Personal (1 PF),-101,686,6,1628931,1631031,,1611661325,2,2,1
+08:28,[IND] Robinson Foul: Shooting (1 PF) (2 FTA),61,826,6,1628931,202658,,1611661325,2,2,1
+08:28,[SEA 3-2] Stewart Free Throw 1 of 2 (1 PTS),0,-80,3,,1627668,,1611661328,3,2,1
+08:28,[SEA 4-2] Stewart Free Throw 2 of 2 (2 PTS),0,-80,3,,1627668,,1611661328,4,2,1
+08:15,[SEA] Magbegor Foul: Shooting (1 PF) (2 FTA),-61,10,6,1631031,1629496,,1611661328,4,2,1
+08:15,[IND] Egbo Free Throw 1 of 2 Missed,0,-80,3,,1631031,,1611661325,4,2,1
+08:15,[IND] Team Rebound,0,-80,4,,0,,1611661325,4,2,1
+08:15,[IND 3-4] Egbo Free Throw 2 of 2 (1 PTS),0,-80,3,,1631031,,1611661325,4,3,1
+07:58,[SEA] Stewart Turnaround Jump Shot: Missed,-97,17,2,,1627668,,1611661328,4,3,1
+07:55,[IND] Egbo Rebound (Off:0 Def:1),-97,17,4,,1631031,,1611661325,4,3,1
+07:45,[IND 6-4] Smith 3pt Shot: Made (3 PTS) Assist: Vivians (1 AST),223,48,1,,1631019,1628927,1611661325,4,6,1
+07:38,[IND] Smith Foul: Personal (1 PF),96,30,6,1629496,1631019,,1611661325,4,6,1
+07:30,[SEA 6-6] Stewart Jump Bank Shot: Made (4 PTS) Assist: Magbegor (1 AST),-43,5,1,,1627668,1629496,1611661328,6,6,1
+07:17,[IND] Smith Driving Layup Shot: Missed,49,23,2,,1631019,,1611661325,6,6,1
+07:13,[SEA] Bird Rebound (Off:0 Def:1),49,23,4,,100720,,1611661328,6,6,1
+07:10,[SEA 8-6] Loyd Running Layup Shot: Made (2 PTS) Assist: Bird (1 AST),-33,1,1,,204319,100720,1611661328,8,6,1
+06:56,[IND 8-8] Egbo Hook Shot: Made (3 PTS) Assist: Robinson (1 AST),-27,10,1,,1631031,202658,1611661325,8,8,1
+06:45,[SEA] Loyd Pullup Jump shot: Missed,-127,57,2,,204319,,1611661328,8,8,1
+06:41,[IND] Vivians Rebound (Off:0 Def:1),-127,57,4,,1628927,,1611661325,8,8,1
+06:28,[IND 10-8] Vivians Turnaround Jump Shot: Made (2 PTS) Assist: Smith (2 AST),-31,27,1,,1628927,1631019,1611661325,8,10,1
+06:19,[SEA] Loyd Turnover : Out of Bounds - Bad Pass Turnover (1 TO),177,20,5,,204319,,1611661328,8,10,1
+06:09,[SEA] Williams Foul: Shooting (1 PF) (2 FTA),-28,38,6,1628909,1628931,,1611661328,8,10,1
+06:09,[IND] Mitchell Free Throw 1 of 2 Missed,0,-80,3,,1628909,,1611661325,8,10,1
+06:09,[IND] Team Rebound,0,-80,4,,0,,1611661325,8,10,1
+06:09,[IND] Egbo Substitution replaced by Cannon,0,-80,8,,1631031,1628242,1611661325,8,10,1
+06:09,[IND 11-8] Mitchell Free Throw 2 of 2 (3 PTS),0,-80,3,,1628909,,1611661325,8,11,1
+05:58,[SEA 10-11] Magbegor Layup Shot: Made (4 PTS) Assist: Loyd (1 AST),42,9,1,,1629496,204319,1611661328,10,11,1
+05:53,[IND] Robinson Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),-160,656,5,1628931,202658,,1611661325,10,11,1
+05:46,[SEA] Stewart 3pt Shot: Missed,-230,3,2,,1627668,,1611661328,10,11,1
+05:43,[IND] Mitchell Rebound (Off:0 Def:1),-230,3,4,,1628909,,1611661325,10,11,1
+05:40,[IND] Vivians Running Pull-Up Jump Shot: Missed,127,136,2,,1628927,,1611661325,10,11,1
+05:37,[SEA] Stewart Rebound (Off:0 Def:1),127,136,4,,1627668,,1611661328,10,11,1
+05:27,[SEA 12-11] Magbegor Driving Floating Bank Jump Shot: Made (6 PTS) Assist: Bird (2 AST),-36,1,1,,1629496,100720,1611661328,12,11,1
+05:16,[IND] Robinson Pullup Jump shot: Missed,-127,142,2,,202658,,1611661325,12,11,1
+05:16,[SEA] Loyd Rebound (Off:0 Def:1),-127,142,4,,204319,,1611661328,12,11,1
+05:10,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),57,63,6,204319,1628909,,1611661325,12,11,1
+05:10,[SEA 13-11] Loyd Free Throw 1 of 2 (3 PTS),0,-80,3,,204319,,1611661328,13,11,1
+05:10,[SEA] Magbegor Substitution replaced by Charles,0,-80,8,,1629496,202250,1611661328,13,11,1
+05:10,[IND] Robinson Substitution replaced by Henderson,0,-80,8,,202658,1631089,1611661325,13,11,1
+05:10,[IND] Vivians Substitution replaced by Mitchell,0,-80,8,,1628927,1627676,1611661325,13,11,1
+05:10,[SEA 14-11] Loyd Free Throw 2 of 2 (4 PTS),0,-80,3,,204319,,1611661328,14,11,1
+04:51,[IND 13-14] Cannon Finger Roll Layup Shot: Made (2 PTS),39,13,1,,1628242,,1611661325,14,13,1
+04:40,[IND] Mitchell Foul: Shooting (2 PF) (2 FTA),7,47,6,202250,1628909,,1611661325,14,13,1
+04:40,Timeout Officials,0,-80,9,,0,,0,14,13,1
+04:40,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1628909,1628927,1611661325,14,13,1
+04:40,[SEA 15-13] Charles Free Throw 1 of 2 (1 PTS),0,-80,3,,202250,,1611661328,15,13,1
+04:40,[SEA 16-13] Charles Free Throw 2 of 2 (2 PTS),0,-80,3,,202250,,1611661328,16,13,1
+04:15,[IND] Cannon Turnaround Fadeaway Bank Jump Shot: Missed,24,64,2,,1628242,,1611661325,16,13,1
+04:13,[SEA] Williams Rebound (Off:0 Def:3),24,64,4,,1628931,,1611661328,16,13,1
+03:54,[SEA 18-13] Stewart Turnaround Jump Shot: Made (6 PTS) Assist: Loyd (2 AST),10,57,1,,1627668,204319,1611661328,18,13,1
+03:32,[IND] Smith 3pt Shot: Missed,149,195,2,,1631019,,1611661325,18,13,1
+03:31,[SEA] Stewart Rebound (Off:0 Def:2),149,195,4,,1627668,,1611661328,18,13,1
+03:26,[IND] Smith Foul: Shooting (2 PF) (2 FTA),22,22,6,1628931,1631019,,1611661325,18,13,1
+03:26,[SEA 19-13] Williams Free Throw 1 of 2 (1 PTS),0,-80,3,,1628931,,1611661328,19,13,1
+03:26,[IND] Smith Substitution replaced by Egbo,0,-80,8,,1631019,1631031,1611661325,19,13,1
+03:26,[IND] Cannon Substitution replaced by Engstler,0,-80,8,,1628242,1631083,1611661325,19,13,1
+03:26,[SEA 20-13] Williams Free Throw 2 of 2 (2 PTS),0,-80,3,,1628931,,1611661328,20,13,1
+03:12,[IND] Mitchell 3pt Shot: Missed,122,201,2,,1627676,,1611661325,20,13,1
+03:09,[SEA] Williams Rebound (Off:0 Def:4),122,201,4,,1628931,,1611661328,20,13,1
+03:06,[SEA] Stewart Running Layup Shot: Missed,13,20,2,,1627668,,1611661328,20,13,1
+03:04,[SEA] Loyd Rebound (Off:1 Def:1),13,20,4,,204319,,1611661328,20,13,1
+03:01,[SEA] Stewart Foul: Offensive Charge (1 PF),-16,26,6,1627676,1627668,,1611661328,20,13,1
+03:01,[SEA] Stewart Turnover : Offensive Foul Turnover (1 TO),-16,26,5,,1627668,,1611661328,20,13,1
+02:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,13,1
+02:45,[IND] Mitchell Turnover : Step Out of Bounds Turnover (1 TO),234,76,5,,1627676,,1611661325,20,13,1
+02:33,[SEA] Bird 3pt Shot: Missed,-149,187,2,,100720,,1611661328,20,13,1
+02:33,[IND] Team Rebound,-149,187,4,,0,,1611661325,20,13,1
+02:33,[SEA] Charles Foul: Loose Ball (1 PF),-7,776,6,1631031,202250,,1611661328,20,13,1
+02:20,[IND] Egbo Turnaround Hook Shot: Missed,-28,49,2,,1631031,,1611661325,20,13,1
+02:18,[SEA] Williams Rebound (Off:0 Def:5),-28,49,4,,1628931,,1611661328,20,13,1
+02:11,[SEA 23-13] Stewart 3pt Shot: Made (9 PTS) Assist: Williams (1 AST),-222,-8,1,,1627668,1628931,1611661328,23,13,1
+02:06,[SEA] Stewart Foul: Personal (2 PF),101,6,6,1627676,1627668,,1611661328,23,13,1
+02:06,[SEA] Bird Substitution replaced by January,0,-80,8,,100720,201896,1611661328,23,13,1
+02:06,[SEA] Stewart Substitution replaced by Magbegor,0,-80,8,,1627668,1629496,1611661328,23,13,1
+01:56,[IND] Egbo Turnover : Lost Ball (1 TO) Steal:Charles (1 ST),-62,23,5,202250,1631031,,1611661325,23,13,1
+01:49,[SEA] January Turnover : Bad Pass (1 TO) Steal:Henderson (1 ST),152,187,5,1631089,201896,,1611661328,23,13,1
+01:43,[IND 15-23] Henderson Running Layup Shot: Made (2 PTS),9,15,1,,1631089,,1611661325,23,15,1
+01:30,[SEA] Charles Jump Shot: Missed,102,197,2,,202250,,1611661328,23,15,1
+01:28,[IND] Egbo Rebound (Off:0 Def:2),102,197,4,,1631031,,1611661325,23,15,1
+01:10,[IND] Mitchell Driving Layup Shot: Missed,26,7,2,,1627676,,1611661325,23,15,1
+01:08,[SEA] Magbegor Rebound (Off:0 Def:1),26,7,4,,1629496,,1611661328,23,15,1
+01:03,[SEA] Loyd 3pt Shot: Missed,94,237,2,,204319,,1611661328,23,15,1
+01:01,[IND] Egbo Rebound (Off:0 Def:3),94,237,4,,1631031,,1611661325,23,15,1
+00:55.3,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,23,15,1
+00:55.3,[SEA] Williams Substitution replaced by Talbot,0,-80,8,,1628931,203855,1611661328,23,15,1
+00:55.3,[SEA] Loyd Substitution replaced by Prince,0,-80,8,,204319,202259,1611661328,23,15,1
+00:55.3,[IND] Henderson Substitution replaced by Robinson,0,-80,8,,1631089,202658,1611661325,23,15,1
+00:52.3,[IND] Vivians Turnover : Out of Bounds - Bad Pass Turnover (1 TO),127,87,5,,1628927,,1611661325,23,15,1
+00:35.7,[IND] Egbo Foul: Personal (2 PF) (2 FTA),-177,162,6,202259,1631031,,1611661325,23,15,1
+00:35.7,[SEA 24-15] Prince Free Throw 1 of 2 (1 PTS),0,-80,3,,202259,,1611661328,24,15,1
+00:35.7,[SEA] Prince Free Throw 2 of 2 Missed,0,-80,3,,202259,,1611661328,24,15,1
+00:33.2,[SEA] Charles Rebound (Off:1 Def:0),0,-80,4,,202250,,1611661328,24,15,1
+00:31.7,[SEA] Charles Putback Layup Shot: Missed,21,22,2,,202250,,1611661328,24,15,1
+00:29.4,[IND] Engstler Rebound (Off:0 Def:1),21,22,4,,1631083,,1611661325,24,15,1
+00:12.9,[IND] Mitchell Pullup Jump shot: Missed,59,124,2,,1627676,,1611661325,24,15,1
+00:10.6,[SEA] Talbot Rebound (Off:0 Def:1),59,124,4,,203855,,1611661328,24,15,1
+00:00.6,[IND] Egbo Foul: Shooting (3 PF) (2 FTA),-58,169,6,202259,1631031,,1611661325,24,15,1
+00:00.6,[SEA 25-15] Prince Free Throw 1 of 2 (2 PTS),0,-80,3,,202259,,1611661328,25,15,1
+00:00.6,[SEA 26-15] Prince Free Throw 2 of 2 (3 PTS),0,-80,3,,202259,,1611661328,26,15,1
+00:00.0,End Period,0,-80,13,,0,,0,26,15,1
+10:00,Start Period,0,-80,12,,0,,0,26,15,2
+09:48,[IND] Vivians Pullup Jump shot: Missed,-87,65,2,,1628927,,1611661325,26,15,2
+09:45,[SEA] January Rebound (Off:0 Def:1),-87,65,4,,201896,,1611661328,26,15,2
+09:31,[SEA] Prince Turnover : Bad Pass (1 TO) Steal:Cannon (1 ST),-132,221,5,1628242,202259,,1611661328,26,15,2
+09:28,[IND] Robinson Running Layup Shot: Missed,41,11,2,202259,202658,,1611661325,26,15,2
+09:28,[IND] Team Rebound,41,11,4,,0,,1611661325,26,15,2
+09:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,15,2
+09:22,[IND 17-26] Cannon Jump Shot: Made (4 PTS) Assist: Mitchell (1 AST),113,174,1,,1628242,1628909,1611661325,26,17,2
+08:56,[SEA 28-17] Magbegor Layup Shot: Made (8 PTS) Assist: January (1 AST),-40,10,1,,1629496,201896,1611661328,28,17,2
+08:44,[IND 20-28] Mitchell 3pt Shot: Made (6 PTS) Assist: Robinson (2 AST),100,223,1,,1628909,202658,1611661325,28,20,2
+08:28,[SEA] Prince 3pt Shot: Missed,229,17,2,,202259,,1611661328,28,20,2
+08:27,[SEA] Magbegor Rebound (Off:1 Def:1),229,17,4,,1629496,,1611661328,28,20,2
+08:16,[SEA] Prince Turnover : Traveling (2 TO),-102,218,5,,202259,,1611661328,28,20,2
+08:16,[IND] Vivians Substitution replaced by Pointer,0,-80,8,,1628927,1631062,1611661325,28,20,2
+08:08,[IND] Mitchell 3pt Shot: Missed,-129,209,2,,1628909,,1611661325,28,20,2
+08:04,[IND] Engstler Rebound (Off:1 Def:1),-129,209,4,,1631083,,1611661325,28,20,2
+08:02,[IND 23-28] Cannon 3pt Shot: Made (7 PTS) Assist: Engstler (1 AST),-166,187,1,,1628242,1631083,1611661325,28,23,2
+07:42,[SEA] Charles 3pt Shot: Missed,235,30,2,,202250,,1611661328,28,23,2
+07:40,[SEA] Talbot Rebound (Off:1 Def:1),235,30,4,,203855,,1611661328,28,23,2
+07:40,[IND] Mitchell Foul: Personal (3 PF),-94,3,6,203855,1628909,,1611661325,28,23,2
+07:40,[SEA] Magbegor Substitution replaced by Bird,0,-80,8,,1629496,100720,1611661328,28,23,2
+07:40,[SEA] January Substitution replaced by Stewart,0,-80,8,,201896,1627668,1611661328,28,23,2
+07:26,[SEA] Team Turnover : Shot Clock Turnover,-1,248,5,,0,,1611661328,28,23,2
+07:09,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Bird (1 ST),-45,18,5,100720,1628909,,1611661325,28,23,2
+06:56,[IND] Cannon Foul: Personal (1 PF),72,49,6,202259,1628242,,1611661325,28,23,2
+06:43,[SEA 31-23] Stewart 3pt Shot: Made (12 PTS) Assist: Prince (1 AST),128,212,1,,1627668,202259,1611661328,31,23,2
+06:24,[IND] Robinson 3pt Shot: Missed,-163,205,2,,202658,,1611661325,31,23,2
+06:21,[SEA] Prince Rebound (Off:0 Def:1),-163,205,4,,202259,,1611661328,31,23,2
+06:17,[SEA] Stewart Running Layup Shot: Missed,-34,4,2,1631083,1627668,,1611661328,31,23,2
+06:12,[IND] Cannon Rebound (Off:0 Def:1),-34,4,4,,1628242,,1611661325,31,23,2
+06:11,[IND] Cannon Turnover : Bad Pass (1 TO) Steal:Bird (2 ST),29,592,5,100720,1628242,,1611661325,31,23,2
+06:06,[SEA] Stewart 3pt Shot: Missed,-228,31,2,,1627668,,1611661328,31,23,2
+06:04,[IND] Engstler Rebound (Off:1 Def:2),-228,31,4,,1631083,,1611661325,31,23,2
+06:01,[IND] Mitchell Running Layup Shot: Missed,-46,11,2,,1628909,,1611661325,31,23,2
+05:56,[SEA] Charles Rebound (Off:1 Def:1),-46,11,4,,202250,,1611661328,31,23,2
+05:51,[SEA 34-23] Stewart 3pt Shot: Made (15 PTS) Assist: Prince (2 AST),-166,162,1,,1627668,202259,1611661328,34,23,2
+05:51,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,34,23,2
+05:51,[SEA] Prince Substitution replaced by Loyd,0,-80,8,,202259,204319,1611661328,34,23,2
+05:51,[IND] Mitchell Substitution replaced by Smith,0,-80,8,,1628909,1631019,1611661325,34,23,2
+05:51,[IND] Engstler Substitution replaced by Davis,0,-80,8,,1631083,1630452,1611661325,34,23,2
+05:41,[SEA] Charles Foul: Shooting (2 PF) (2 FTA),-33,3,6,1628242,202250,,1611661328,34,23,2
+05:41,[IND] Cannon Free Throw 1 of 2 Missed,0,-80,3,,1628242,,1611661325,34,23,2
+05:41,[IND] Team Rebound,0,-80,4,,0,,1611661325,34,23,2
+05:41,[IND 24-34] Cannon Free Throw 2 of 2 (8 PTS),0,-80,3,,1628242,,1611661325,34,24,2
+05:27,[SEA] Stewart 3pt Shot: Missed,143,201,2,,1627668,,1611661328,34,24,2
+05:25,[SEA] Charles Rebound (Off:2 Def:1),143,201,4,,202250,,1611661328,34,24,2
+05:24,[SEA 36-24] Stewart Cutting Finger Roll Layup Shot: Made (17 PTS) Assist: Charles (1 AST),24,30,1,,1627668,202250,1611661328,36,24,2
+04:58,[IND] Davis Pullup Jump shot: Missed,-131,83,2,,1630452,,1611661325,36,24,2
+04:55,[SEA] Charles Rebound (Off:2 Def:2),-131,83,4,,202250,,1611661328,36,24,2
+04:37,[SEA 38-24] Loyd Driving Layup Shot: Made (6 PTS),-34,14,1,,204319,,1611661328,38,24,2
+04:26,[SEA] Stewart Foul: Shooting (3 PF) (2 FTA),-35,29,6,1628242,1627668,,1611661328,38,24,2
+04:26,[SEA] Talbot Substitution replaced by Williams,0,-80,8,,203855,1628931,1611661328,38,24,2
+04:26,[SEA] Charles Substitution replaced by Magbegor,0,-80,8,,202250,1629496,1611661328,38,24,2
+04:26,[IND 25-38] Cannon Free Throw 1 of 2 (9 PTS),0,-80,3,,1628242,,1611661325,38,25,2
+04:26,[IND 26-38] Cannon Free Throw 2 of 2 (10 PTS),0,-80,3,,1628242,,1611661325,38,26,2
+04:13,[SEA] Stewart Step Back Jump shot: Missed,-115,16,2,,1627668,,1611661328,38,26,2
+04:11,[SEA] Bird Rebound (Off:1 Def:1),-115,16,4,,100720,,1611661328,38,26,2
+04:09,[IND] Davis Foul: Personal (1 PF),-106,148,6,100720,1630452,,1611661325,38,26,2
+04:09,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,38,26,2
+04:03,[SEA] Loyd 3pt Shot: Missed,-167,185,2,,204319,,1611661328,38,26,2
+03:59,[IND] Cannon Rebound (Off:0 Def:2),-167,185,4,,1628242,,1611661325,38,26,2
+03:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,26,2
+03:46,[IND] Robinson Turnover : Bad Pass (2 TO) Steal:Magbegor (1 ST),-67,-22,5,1629496,202658,,1611661325,38,26,2
+03:30,[SEA] Stewart 3pt Shot: Missed,-152,182,2,,1627668,,1611661328,38,26,2
+03:27,[SEA] Loyd Rebound (Off:2 Def:1),-152,182,4,,204319,,1611661328,38,26,2
+03:27,[SEA] Loyd Turnover : Bad Pass (2 TO) Steal:Davis (1 ST),82,75,5,1630452,204319,,1611661328,38,26,2
+03:27,[SEA] Williams Foul: Personal (2 PF),-79,623,6,1630452,1628931,,1611661328,38,26,2
+03:27,[IND] Pointer Substitution replaced by Vivians,0,-80,8,,1631062,1628927,1611661325,38,26,2
+03:12,[IND] Cannon Turnover : 3 Second Violation (2 TO),50,12,5,,1628242,,1611661325,38,26,2
+02:57,[SEA] Magbegor Reverse Layup Shot: Missed,32,14,2,,1629496,,1611661328,38,26,2
+02:55,[IND] Smith Rebound (Off:0 Def:1),32,14,4,,1631019,,1611661325,38,26,2
+02:43,[IND] Smith Hook Shot: Missed,43,16,2,,1631019,,1611661325,38,26,2
+02:43,[SEA] Team Rebound,43,16,4,,0,,1611661328,38,26,2
+02:43,[IND] Smith Foul: Loose Ball (3 PF),-55,824,6,1627668,1631019,,1611661325,38,26,2
+02:43,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,38,26,2
+02:43,[SEA] Stewart Substitution replaced by Charles,0,-80,8,,1627668,202250,1611661328,38,26,2
+02:43,[IND] Smith Substitution replaced by Henderson,0,-80,8,,1631019,1631089,1611661325,38,26,2
+02:43,[IND] Robinson Substitution replaced by Engstler,0,-80,8,,202658,1631083,1611661325,38,26,2
+02:27,[SEA 40-26] Loyd Turnaround Jump Shot: Made (8 PTS) Assist: Bird (3 AST),-75,132,1,,204319,100720,1611661328,40,26,2
+02:03,[IND] Engstler 3pt Shot: Missed,2,248,2,,1631083,,1611661325,40,26,2
+02:00,[IND] Davis Rebound (Off:1 Def:0),2,248,4,,1630452,,1611661325,40,26,2
+01:54,[IND] Vivians 3pt Shot: Missed,-230,-15,2,,1628927,,1611661325,40,26,2
+01:52,[SEA] Williams Rebound (Off:0 Def:6),-230,-15,4,,1628931,,1611661328,40,26,2
+01:47,[IND] Engstler Foul: Shooting (1 PF) (2 FTA),-35,15,6,204319,1631083,,1611661325,40,26,2
+01:47,[SEA 41-26] Loyd Free Throw 1 of 2 (9 PTS),0,-80,3,,204319,,1611661328,41,26,2
+01:47,[IND] Davis Substitution replaced by Mitchell,0,-80,8,,1630452,1627676,1611661325,41,26,2
+01:47,[SEA 42-26] Loyd Free Throw 2 of 2 (10 PTS),0,-80,3,,204319,,1611661328,42,26,2
+01:26,[IND] Engstler Turnover : Bad Pass (1 TO) Steal:Magbegor (2 ST),-32,120,5,1629496,1631083,,1611661325,42,26,2
+01:11,[SEA] Loyd Floating Jump shot: Missed,-41,40,2,,204319,,1611661328,42,26,2
+01:08,[IND] Vivians Rebound (Off:0 Def:2),-41,40,4,,1628927,,1611661325,42,26,2
+01:02,[IND 28-42] Cannon Running Jump Shot: Made (12 PTS) Assist: Henderson (1 AST),113,3,1,,1628242,1631089,1611661325,42,28,2
+00:45.8,[SEA] Loyd Step Back Jump shot: Missed,126,69,2,,204319,,1611661328,42,28,2
+00:43.9,[IND] Engstler Rebound (Off:1 Def:3),126,69,4,,1631083,,1611661325,42,28,2
+00:31.1,[IND 31-42] Engstler 3pt Shot: Made (3 PTS) Assist: Cannon (1 AST),-137,216,1,,1631083,1628242,1611661325,42,31,2
+00:20.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,31,2
+00:20.4,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,42,31,2
+00:14.7,[SEA] Magbegor Turnover : Bad Pass (1 TO) Steal:Henderson (2 ST),-116,148,5,1631089,1629496,,1611661328,42,31,2
+00:14.7,[SEA] Bird Foul: Personal (1 PF),124,701,6,1631089,100720,,1611661328,42,31,2
+00:03.3,[IND] Engstler Turnover : Lost Ball (2 TO) Steal:Magbegor (3 ST),2,61,5,1629496,1631083,,1611661325,42,31,2
+00:01.4,[SEA] Williams 3pt Shot: Missed,132,220,2,,1628931,,1611661328,42,31,2
+00:00.8,[SEA] Team Rebound,132,220,4,,0,,1611661328,42,31,2
+00:00.0,End Period,0,-80,13,,0,,0,42,31,2
+10:00,Start Period,0,-80,12,,0,,0,42,31,3
+09:41,[IND] Egbo Turnaround Hook Shot: Missed,-1,27,2,,1631031,,1611661325,42,31,3
+09:38,[SEA] Magbegor Rebound (Off:1 Def:2),-1,27,4,,1629496,,1611661328,42,31,3
+09:21,[SEA] Loyd 3pt Shot: Missed,110,228,2,,204319,,1611661328,42,31,3
+09:19,[IND] Smith Rebound (Off:0 Def:2),110,228,4,,1631019,,1611661325,42,31,3
+09:04,[IND 33-42] Egbo Pullup Jump shot: Made (5 PTS),17,92,1,,1631031,,1611661325,42,33,3
+08:52,[SEA 44-33] Loyd Cutting Layup Shot: Made (12 PTS) Assist: Bird (4 AST),-32,11,1,,204319,100720,1611661328,44,33,3
+08:40,[IND 35-44] Egbo Pullup Jump shot: Made (7 PTS) Assist: Robinson (3 AST),20,51,1,,1631031,202658,1611661325,44,35,3
+08:15,[SEA] Loyd Turnover : Bad Pass (3 TO) Steal:Egbo (1 ST),-45,76,5,1631031,204319,,1611661328,44,35,3
+08:07,[IND] Mitchell Running Layup Shot: Missed,9,26,2,,1628909,,1611661325,44,35,3
+08:04,[SEA] Stewart Rebound (Off:0 Def:3),9,26,4,,1627668,,1611661328,44,35,3
+07:59,[SEA] Bird Running Pull-Up Jump Shot: Missed,-23,76,2,,100720,,1611661328,44,35,3
+07:56,[IND] Egbo Rebound (Off:0 Def:4),-23,76,4,,1631031,,1611661325,44,35,3
+07:44,[IND] Egbo Layup Shot: Missed,16,32,2,1629496,1631031,,1611661325,44,35,3
+07:44,[IND] Team Rebound,16,32,4,,0,,1611661325,44,35,3
+07:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,35,3
+07:36,[IND] Robinson 3pt Shot: Missed,-230,0,2,,202658,,1611661325,44,35,3
+07:35,[IND] Smith Rebound (Off:1 Def:2),-230,0,4,,1631019,,1611661325,44,35,3
+07:35,[SEA] Stewart Foul: Shooting (4 PF) (2 FTA),9,36,6,1631019,1627668,,1611661328,44,35,3
+07:35,[IND 36-44] Smith Free Throw 1 of 2 (4 PTS),0,-80,3,,1631019,,1611661325,44,36,3
+07:35,[IND 37-44] Smith Free Throw 2 of 2 (5 PTS),0,-80,3,,1631019,,1611661325,44,37,3
+07:16,[SEA] Stewart 3pt Shot: Missed,89,235,2,,1627668,,1611661328,44,37,3
+07:14,[IND] Smith Rebound (Off:1 Def:3),89,235,4,,1631019,,1611661325,44,37,3
+07:02,[IND 39-44] Egbo Driving Floating Jump Shot: Made (9 PTS),3,41,1,,1631031,,1611661325,44,39,3
+06:48,[SEA] Williams Pullup Jump shot: Missed,83,178,2,,1628931,,1611661328,44,39,3
+06:47,[SEA] Loyd Rebound (Off:3 Def:1),83,178,4,,204319,,1611661328,44,39,3
+06:44,[SEA] Magbegor Jump Shot: Missed,26,43,2,,1629496,,1611661328,44,39,3
+06:40,[IND] Smith Rebound (Off:1 Def:4),26,43,4,,1631019,,1611661325,44,39,3
+06:39,[IND] Egbo Foul: Offensive (4 PF),117,250,6,204319,1631031,,1611661325,44,39,3
+06:39,[IND] Egbo Turnover : Offensive Foul Turnover (2 TO),117,250,5,,1631031,,1611661325,44,39,3
+06:39,[IND] Egbo Substitution replaced by Cannon,0,-80,8,,1631031,1628242,1611661325,44,39,3
+06:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,39,3
+06:18,[SEA] Stewart Layup Shot: Missed,-53,16,2,,1627668,,1611661328,44,39,3
+06:16,[IND] Cannon Rebound (Off:0 Def:3),-53,16,4,,1628242,,1611661325,44,39,3
+06:11,[IND 41-44] Robinson Running Pull-Up Jump Shot: Made (2 PTS),-62,84,1,,202658,,1611661325,44,41,3
+06:11,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,44,41,3
+05:58,[SEA 46-41] Stewart Turnaround Hook Shot: Made (19 PTS) Assist: Bird (5 AST),-35,50,1,,1627668,100720,1611661328,46,41,3
+05:36,[IND] Mitchell Turnover : Bad Pass (2 TO) Steal:Williams (2 ST),-73,300,5,1628931,1628909,,1611661325,46,41,3
+05:31,[SEA] Williams Running Layup Shot: Missed,18,11,2,,1628931,,1611661328,46,41,3
+05:30,[SEA] Magbegor Rebound (Off:2 Def:2),18,11,4,,1629496,,1611661328,46,41,3
+05:30,[SEA 48-41] Magbegor Putback Layup Shot: Made (10 PTS),-23,12,1,,1629496,,1611661328,48,41,3
+05:30,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,48,41,3
+05:30,[SEA] Stewart Substitution replaced by Charles,0,-80,8,,1627668,202250,1611661328,48,41,3
+05:17,[IND 43-48] Robinson Cutting Layup Shot: Made (4 PTS) Assist: Mitchell (2 AST),33,27,1,,202658,1628909,1611661325,48,43,3
+05:02,[IND] Robinson Violation:Kicked Ball,0,-80,7,,202658,,1611661325,48,43,3
+04:46,[SEA] Bird 3pt Shot: Missed,-117,248,2,,100720,,1611661328,48,43,3
+04:43,[IND] Smith Rebound (Off:1 Def:5),-117,248,4,,1631019,,1611661325,48,43,3
+04:39,[IND] Mitchell 3pt Shot: Missed,-236,-10,2,,1628909,,1611661325,48,43,3
+04:39,[IND] Team Rebound,-236,-10,4,,0,,1611661325,48,43,3
+04:24,[IND] Team Turnover : Shot Clock Turnover,55,235,5,,0,,1611661325,48,43,3
+04:18,[SEA] Magbegor Foul: Offensive (2 PF),199,133,6,202658,1629496,,1611661328,48,43,3
+04:18,[SEA] Magbegor Turnover : Offensive Foul Turnover (2 TO),199,133,5,,1629496,,1611661328,48,43,3
+04:04,[IND] Vivians Pullup Jump shot: Missed,104,162,2,,1628927,,1611661325,48,43,3
+04:00,[IND] Smith Rebound (Off:2 Def:5),104,162,4,,1631019,,1611661325,48,43,3
+04:00,[IND 45-48] Smith Tip Layup Shot: Made (7 PTS),0,-5,1,,1631019,,1611661325,48,45,3
+03:47,[SEA] Loyd Turnover : Lost Ball (4 TO) Steal:Cannon (2 ST),-28,244,5,1628242,204319,,1611661328,48,45,3
+03:47,[SEA] Loyd Foul: Personal Take (1 PF),78,636,6,202658,204319,,1611661328,48,45,3
+03:37,[IND] Mitchell Turnover : Traveling (3 TO),-102,170,5,,1628909,,1611661325,48,45,3
+03:37,[SEA] Loyd Substitution replaced by Prince,0,-80,8,,204319,202259,1611661328,48,45,3
+03:17,[SEA] Magbegor Turnaround Jump Shot: Missed,-70,50,2,,1629496,,1611661328,48,45,3
+03:14,[SEA] Magbegor Rebound (Off:3 Def:2),-70,50,4,,1629496,,1611661328,48,45,3
+03:10,[SEA 50-45] Charles Jump Shot: Made (4 PTS) Assist: Magbegor (2 AST),-31,15,1,,202250,1629496,1611661328,50,45,3
+03:06,[IND] Smith Foul: Offensive (4 PF),-101,123,6,1628931,1631019,,1611661325,50,45,3
+03:06,[IND] Smith Turnover : Offensive Foul Turnover (1 TO),-101,123,5,,1631019,,1611661325,50,45,3
+02:54,[SEA] Charles Foul: Offensive (3 PF),19,78,6,1628242,202250,,1611661328,50,45,3
+02:54,[SEA] Charles Turnover : Offensive Foul Turnover (1 TO),19,78,5,,202250,,1611661328,50,45,3
+02:54,[IND] Smith Substitution replaced by Engstler,0,-80,8,,1631019,1631083,1611661325,50,45,3
+02:50,[IND] Robinson 3pt Shot: Missed,171,183,2,,202658,,1611661325,50,45,3
+02:45,[SEA] Magbegor Rebound (Off:3 Def:3),171,183,4,,1629496,,1611661328,50,45,3
+02:42,[IND] Cannon Foul: Personal (2 PF),-142,598,6,1628931,1628242,,1611661325,50,45,3
+02:42,[SEA] Magbegor Substitution replaced by Stewart,0,-80,8,,1629496,1627668,1611661328,50,45,3
+02:32,[SEA 52-45] Charles Hook Shot: Made (6 PTS) Assist: Williams (2 AST),-7,75,1,,202250,1628931,1611661328,52,45,3
+02:16,[IND] Engstler Turnover : Bad Pass (3 TO) Steal:Williams (3 ST),106,140,5,1628931,1631083,,1611661325,52,45,3
+02:09,[SEA] Charles 3pt Shot: Missed,-110,221,2,,202250,,1611661328,52,45,3
+02:06,[IND] Vivians Rebound (Off:0 Def:3),-110,221,4,,1628927,,1611661325,52,45,3
+01:49,[IND] Cannon 3pt Shot: Missed,21,245,2,,1628242,,1611661325,52,45,3
+01:46,[SEA] Stewart Rebound (Off:0 Def:4),21,245,4,,1627668,,1611661328,52,45,3
+01:38,[SEA 54-45] Charles Floating Jump shot: Made (8 PTS) Assist: Bird (6 AST),21,31,1,,202250,100720,1611661328,54,45,3
+01:28,[SEA] Williams Foul: Personal (3 PF),-16,376,6,1628909,1628931,,1611661328,54,45,3
+01:28,[SEA] Bird Substitution replaced by January,0,-80,8,,100720,201896,1611661328,54,45,3
+01:28,[IND] Robinson Substitution replaced by Henderson,0,-80,8,,202658,1631089,1611661325,54,45,3
+01:17,[IND] Engstler 3pt Shot: Missed,85,237,2,,1631083,,1611661325,54,45,3
+01:15,[IND] Henderson Rebound (Off:1 Def:0),85,237,4,,1631089,,1611661325,54,45,3
+01:14,[IND] Henderson Turnover : Lost Ball (1 TO) Steal:Charles (2 ST),32,27,5,202250,1631089,,1611661325,54,45,3
+01:10,[IND] Cannon Foul: Personal (3 PF),-82,769,6,201896,1628242,,1611661325,54,45,3
+00:54.4,[IND] Henderson Foul: Personal (1 PF) (2 FTA),-7,54,6,202250,1631089,,1611661325,54,45,3
+00:54.4,[SEA] Charles Free Throw 1 of 2 Missed,0,-80,3,,202250,,1611661328,54,45,3
+00:54.4,[SEA] Team Rebound,0,-80,4,,0,,1611661328,54,45,3
+00:54.4,[SEA 55-45] Charles Free Throw 2 of 2 (9 PTS),0,-80,3,,202250,,1611661328,55,45,3
+00:48.8,[SEA] January Foul: Personal (1 PF) (2 FTA),-104,223,6,1631089,201896,,1611661328,55,45,3
+00:48.8,[IND 46-55] Henderson Free Throw 1 of 2 (3 PTS),0,-80,3,,1631089,,1611661325,55,46,3
+00:48.8,[IND] Henderson Free Throw 2 of 2 Missed,0,-80,3,,1631089,,1611661325,55,46,3
+00:45.6,[SEA] Charles Rebound (Off:2 Def:3),0,-80,4,,202250,,1611661328,55,46,3
+00:35.5,[SEA] January 3pt Shot: Missed,-127,209,2,,201896,,1611661328,55,46,3
+00:33.3,[SEA] Williams Rebound (Off:1 Def:6),-127,209,4,,1628931,,1611661328,55,46,3
+00:30.2,[SEA] Williams 3pt Shot: Missed,-27,246,2,,1628931,,1611661328,55,46,3
+00:27.8,[IND] Cannon Rebound (Off:0 Def:4),-27,246,4,,1628242,,1611661325,55,46,3
+00:09.1,[IND 48-55] Mitchell Driving Finger Roll Layup Shot: Made (8 PTS),-36,4,1,,1628909,,1611661325,55,48,3
+00:03.3,[SEA] Stewart Pullup Jump shot: Missed,-84,130,2,,1627668,,1611661328,55,48,3
+00:01.2,[IND] Henderson Rebound (Off:1 Def:1),-84,130,4,,1631089,,1611661325,55,48,3
+00:00.0,End Period,0,-80,13,,0,,0,55,48,3
+10:00,Start Period,0,-80,12,,0,,0,55,48,4
+09:48,[SEA 57-48] Stewart Pullup Jump shot: Made (21 PTS) Assist: Prince (3 AST),-20,145,1,,1627668,202259,1611661328,57,48,4
+09:35,[IND] Smith 3pt Shot: Missed,21,237,2,,1631019,,1611661325,57,48,4
+09:33,[SEA] Stewart Rebound (Off:0 Def:5),21,237,4,,1627668,,1611661328,57,48,4
+09:27,[SEA 60-48] Talbot 3pt Shot: Made (3 PTS) Assist: January (2 AST),235,-12,1,,203855,201896,1611661328,60,48,4
+09:27,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,60,48,4
+09:04,[IND] Vivians Pullup Jump shot: Missed,94,94,2,,1628927,,1611661325,60,48,4
+09:01,[IND] Henderson Rebound (Off:2 Def:1),94,94,4,,1631089,,1611661325,60,48,4
+08:59,[IND] Mitchell Pullup Jump shot: Missed,-90,197,2,203855,1628909,,1611661325,60,48,4
+08:58,[IND] Mitchell Rebound (Off:1 Def:1),-90,197,4,,1628909,,1611661325,60,48,4
+08:57,[IND] Mitchell Turnover : Bad Pass (4 TO) Steal:Stewart (1 ST),-47,151,5,1627668,1628909,,1611661325,60,48,4
+08:50,[SEA 62-48] Talbot Running Layup Shot: Made (5 PTS) Assist: Prince (4 AST),-22,3,1,,203855,202259,1611661328,62,48,4
+08:31,[IND 50-62] Henderson Driving Layup Shot: Made (5 PTS) Assist: Mitchell (3 AST),31,5,1,,1631089,1628909,1611661325,62,50,4
+08:18,[SEA] Charles Cutting Layup Shot: Missed,1,37,2,1631083,202250,,1611661328,62,50,4
+08:16,[IND] Mitchell Rebound (Off:1 Def:2),1,37,4,,1628909,,1611661325,62,50,4
+07:57,[IND] Smith Turnaround Fadeaway shot: Missed,66,138,2,,1631019,,1611661325,62,50,4
+07:55,[SEA] Stewart Rebound (Off:0 Def:6),66,138,4,,1627668,,1611661328,62,50,4
+07:53,[SEA 64-50] January Running Finger Roll Layup Shot: Made (2 PTS) Assist: Stewart (1 AST),-20,15,1,,201896,1627668,1611661328,64,50,4
+07:34,[IND] Henderson 3pt Shot: Missed,166,183,2,,1631089,,1611661325,64,50,4
+07:30,[SEA] Charles Rebound (Off:2 Def:4),166,183,4,,202250,,1611661328,64,50,4
+07:25,[SEA] Stewart Jump Bank Shot: Missed,44,5,2,,1627668,,1611661328,64,50,4
+07:25,[SEA] Stewart Rebound (Off:1 Def:6),44,5,4,,1627668,,1611661328,64,50,4
+07:25,[IND] Engstler Foul: Shooting (2 PF) (2 FTA),6,24,6,1627668,1631083,,1611661325,64,50,4
+07:25,[SEA 65-50] Stewart Free Throw 1 of 2 (22 PTS),0,-80,3,,1627668,,1611661328,65,50,4
+07:25,[IND] Engstler Substitution replaced by Robinson,0,-80,8,,1631083,202658,1611661325,65,50,4
+07:25,[IND] Henderson Substitution replaced by Egbo,0,-80,8,,1631089,1631031,1611661325,65,50,4
+07:25,[SEA] Stewart Free Throw 2 of 2 Missed,0,-80,3,,1627668,,1611661328,65,50,4
+07:22,[IND] Egbo Rebound (Off:0 Def:5),0,-80,4,,1631031,,1611661325,65,50,4
+07:15,[IND 52-65] Smith Driving Layup Shot: Made (9 PTS) Assist: Robinson (4 AST),29,19,1,,1631019,202658,1611661325,65,52,4
+07:02,[SEA] Charles Turnover : Bad Pass (2 TO) Steal:Egbo (2 ST),151,180,5,1631031,202250,,1611661328,65,52,4
+06:45,[IND] Mitchell 3pt Shot: Missed,115,221,2,,1628909,,1611661325,65,52,4
+06:42,[IND] Smith Rebound (Off:3 Def:5),115,221,4,,1631019,,1611661325,65,52,4
+06:40,[IND 54-65] Smith Putback Layup Shot: Made (11 PTS),21,15,1,,1631019,,1611661325,65,54,4
+06:28,[SEA] Prince Pullup Jump shot: Missed,75,124,2,,202259,,1611661328,65,54,4
+06:27,[IND] Team Rebound,75,124,4,,0,,1611661325,65,54,4
+06:26,[SEA] Prince Foul: Loose Ball (1 PF),-41,787,6,1631031,202259,,1611661328,65,54,4
+06:09,[SEA] Prince Foul: Shooting (2 PF) (2 FTA),28,73,6,1628927,202259,,1611661328,65,54,4
+06:09,[IND 55-65] Vivians Free Throw 1 of 2 (3 PTS),0,-80,3,,1628927,,1611661325,65,55,4
+06:09,[SEA] Prince Substitution replaced by Loyd,0,-80,8,,202259,204319,1611661328,65,55,4
+06:09,[IND] Vivians Free Throw 2 of 2 Missed,0,-80,3,,1628927,,1611661325,65,55,4
+06:05,[SEA] Talbot Rebound (Off:1 Def:2),0,-80,4,,203855,,1611661328,65,55,4
+05:49,[SEA 67-55] Charles Jump Shot: Made (11 PTS) Assist: Stewart (2 AST),19,201,1,,202250,1627668,1611661328,67,55,4
+05:31,[IND] Smith Turnaround Fadeaway shot: Missed,-112,-2,2,,1631019,,1611661325,67,55,4
+05:28,[SEA] Charles Rebound (Off:2 Def:5),-112,-2,4,,202250,,1611661328,67,55,4
+05:22,[SEA 70-55] Stewart 3pt Shot: Made (25 PTS) Assist: January (3 AST),-23,239,1,,1627668,201896,1611661328,70,55,4
+05:22,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,70,55,4
+05:04,[IND 57-70] Egbo Turnaround Jump Shot: Made (11 PTS) Assist: Mitchell (4 AST),7,51,1,,1631031,1628909,1611661325,70,57,4
+04:46,[SEA] Loyd Step Back Jump shot: Missed,-122,5,2,,204319,,1611661328,70,57,4
+04:44,[IND] Egbo Rebound (Off:0 Def:6),-122,5,4,,1631031,,1611661325,70,57,4
+04:40,[IND] Egbo Foul: Offensive (5 PF),-17,225,6,203855,1631031,,1611661325,70,57,4
+04:40,[IND] Egbo Turnover : Offensive Foul Turnover (3 TO),-17,225,5,,1631031,,1611661325,70,57,4
+04:19,[SEA 72-57] Charles Floating Jump shot: Made (13 PTS) Assist: Talbot (1 AST),13,59,1,,202250,203855,1611661328,72,57,4
+04:02,[IND] Smith 3pt Shot: Missed,-206,133,2,,1631019,,1611661325,72,57,4
+03:59,[SEA] Stewart Rebound (Off:1 Def:7),-206,133,4,,1627668,,1611661328,72,57,4
+03:44,[SEA 75-57] Loyd 3pt Shot: Made (15 PTS) Assist: Stewart (3 AST),-193,139,1,,204319,1627668,1611661328,75,57,4
+03:24,[IND 59-75] Egbo Turnaround Jump Shot: Made (13 PTS),31,49,1,,1631031,,1611661325,75,59,4
+03:13,[SEA] Charles Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-98,238,5,,202250,,1611661328,75,59,4
+03:13,[SEA] Stewart Substitution replaced by Magbegor,0,-80,8,,1627668,1629496,1611661328,75,59,4
+03:00,[IND] Mitchell 3pt Shot: Missed,121,212,2,,1628909,,1611661325,75,59,4
+02:58,[SEA] Loyd Rebound (Off:3 Def:2),121,212,4,,204319,,1611661328,75,59,4
+02:53,[SEA] Loyd 3pt Shot: Missed,97,225,2,,204319,,1611661328,75,59,4
+02:50,[IND] Robinson Rebound (Off:0 Def:1),97,225,4,,202658,,1611661325,75,59,4
+02:49,[IND] Robinson Turnover : Lost Ball (3 TO) Steal:Talbot (1 ST),102,600,5,203855,202658,,1611661325,75,59,4
+02:44,[SEA 77-59] Charles Layup Shot: Made (15 PTS) Assist: Talbot (2 AST),-22,26,1,,202250,203855,1611661328,77,59,4
+02:19,[SEA] Charles Foul: Personal (4 PF),-67,63,6,202658,202250,,1611661328,77,59,4
+02:19,Timeout Officials,0,-80,9,,0,,0,77,59,4
+02:19,[SEA] Loyd Substitution replaced by Williams,0,-80,8,,204319,1628931,1611661328,77,59,4
+02:19,[SEA] Charles Substitution replaced by Prince,0,-80,8,,202250,202259,1611661328,77,59,4
+02:19,[IND] Mitchell Substitution replaced by Pointer,0,-80,8,,1628909,1631062,1611661325,77,59,4
+02:19,[IND] Robinson Substitution replaced by Henderson,0,-80,8,,202658,1631089,1611661325,77,59,4
+02:03,[IND] Vivians 3pt Shot: Missed,82,240,2,,1628927,,1611661325,77,59,4
+01:58,[IND] Pointer Rebound (Off:1 Def:0),82,240,4,,1631062,,1611661325,77,59,4
+01:53,[IND] Egbo Turnaround Jump Shot: Missed,10,35,2,,1631031,,1611661325,77,59,4
+01:52,[IND] Smith Rebound (Off:4 Def:5),10,35,4,,1631019,,1611661325,77,59,4
+01:52,[SEA] Talbot Foul: Shooting (1 PF) (2 FTA),28,8,6,1631019,203855,,1611661328,77,59,4
+01:52,[IND 60-77] Smith Free Throw 1 of 2 (12 PTS),0,-80,3,,1631019,,1611661325,77,60,4
+01:52,[IND] Egbo Substitution replaced by Cannon,0,-80,8,,1631031,1628242,1611661325,77,60,4
+01:52,[IND] Vivians Substitution replaced by Davis,0,-80,8,,1628927,1630452,1611661325,77,60,4
+01:52,[IND 61-77] Smith Free Throw 2 of 2 (13 PTS),0,-80,3,,1631019,,1611661325,77,61,4
+01:37,[SEA 79-61] Talbot Jump Bank Shot: Made (7 PTS) Assist: Prince (5 AST),-55,37,1,,203855,202259,1611661328,79,61,4
+01:22,[IND] Henderson 3pt Shot: Missed,81,235,2,,1631089,,1611661325,79,61,4
+01:20,[SEA] Williams Rebound (Off:1 Def:7),81,235,4,,1628931,,1611661328,79,61,4
+01:15,[SEA 81-61] Williams Running Layup Shot: Made (4 PTS),40,6,1,,1628931,,1611661328,81,61,4
+00:58.7,[SEA] Talbot Foul: Shooting (2 PF) (2 FTA),21,25,6,1631062,203855,,1611661328,81,61,4
+00:58.7,[IND] Pointer Free Throw 1 of 2 Missed,0,-80,3,,1631062,,1611661325,81,61,4
+00:58.7,[IND] Team Rebound,0,-80,4,,0,,1611661325,81,61,4
+00:58.7,[IND] Pointer Free Throw 2 of 2 Missed,0,-80,3,,1631062,,1611661325,81,61,4
+00:55.0,[IND] Cannon Rebound (Off:1 Def:4),0,-80,4,,1628242,,1611661325,81,61,4
+00:55.0,[SEA] Magbegor Foul: Shooting (3 PF) (2 FTA),28,26,6,1628242,1629496,,1611661328,81,61,4
+00:55.0,[IND 62-81] Cannon Free Throw 1 of 2 (13 PTS),0,-80,3,,1628242,,1611661325,81,62,4
+00:55.0,[IND 63-81] Cannon Free Throw 2 of 2 (14 PTS),0,-80,3,,1628242,,1611661325,81,63,4
+00:49.1,[SEA] January Turnover : Out of Bounds Lost Ball Turnover (2 TO),63,817,5,,201896,,1611661328,81,63,4
+00:40.0,[IND] Pointer 3pt Shot: Missed,55,236,2,,1631062,,1611661325,81,63,4
+00:39.4,[SEA] Team Rebound,55,236,4,,0,,1611661328,81,63,4
+00:39.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,81,63,4
+00:17.3,[SEA] January 3pt Shot: Missed,-227,3,2,,201896,,1611661328,81,63,4
+00:14.7,[IND] Pointer Rebound (Off:1 Def:1),-227,3,4,,1631062,,1611661325,81,63,4
+00:00.6,[IND 65-81] Smith Jump Bank Shot: Made (15 PTS),31,4,1,,1631019,,1611661325,81,65,4
+00:00.0,End Period,0,-80,13,,0,,0,81,65,4
+00:00.0,Game End,0,-80,0,,0,,0,81,65,4

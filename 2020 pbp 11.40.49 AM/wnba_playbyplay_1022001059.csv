@@ -1,0 +1,416 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Stokes vs Collier (Clarendon gains possession),0,-80,10,1629483,204329,203406,1611661313,0,0,1
+09:48,[NYL] Zahui B Jump Shot: Missed,-121,150,2,,204320,,1611661313,0,0,1
+09:44,[MIN] Collier Rebound (Off:0 Def:1),-121,150,4,,1629483,,1611661324,0,0,1
+09:37,[MIN 2-0] Collier Jump Shot: Made (2 PTS),-2,43,1,,1629483,,1611661324,2,0,1
+09:15,[NYL 2-2] Odom Layup Shot: Made (2 PTS) Assist: Zahui B (1 AST),15,21,1,,1630127,204320,1611661313,2,2,1
+09:03,Jump Ball Collier vs Odom (Carleton gains possession),0,-80,10,1630127,1629483,1629524,1611661324,2,2,1
+08:56,[MIN 4-2] Dantas Jump Shot: Made (2 PTS) Assist: Dangerfield (1 AST),-98,149,1,,203024,1630101,1611661324,4,2,1
+08:34,[NYL] Odom Turnover : Lost Ball (1 TO) Steal:Brown (1 ST),-11,161,5,1628882,1630127,,1611661313,4,2,1
+08:25,[MIN 7-2] Dantas 3pt Shot: Made (5 PTS) Assist: Dangerfield (2 AST),167,177,1,,203024,1630101,1611661324,7,2,1
+08:08,[NYL 4-7] Odom Driving Layup Shot: Made (4 PTS),15,5,1,,1630127,,1611661313,7,4,1
+07:59,[MIN] Brown 3pt Shot: Missed,120,219,2,,1628882,,1611661324,7,4,1
+07:56,[MIN] Carleton Rebound (Off:1 Def:0),120,219,4,,1629524,,1611661324,7,4,1
+07:49,[MIN] Dantas Turnaround Jump Shot: Missed,43,32,2,,203024,,1611661324,7,4,1
+07:47,[NYL] Nurse Rebound (Off:0 Def:1),43,32,4,,1628915,,1611661313,7,4,1
+07:34,[NYL 6-7] Odom Cutting Layup Shot: Made (6 PTS) Assist: Nurse (1 AST),25,15,1,,1630127,1628915,1611661313,7,6,1
+07:17,[MIN 9-6] Collier Turnaround Fadeaway Bank Jump Shot: Made (4 PTS) Assist: Dantas (1 AST),17,15,1,,1629483,203024,1611661324,9,6,1
+06:55,[NYL] Nurse 3pt Shot: Missed,-95,238,2,,1628915,,1611661313,9,6,1
+06:53,[MIN] Brown Rebound (Off:0 Def:1),-95,238,4,,1628882,,1611661324,9,6,1
+06:44,[MIN] Carleton 3pt Shot: Missed,93,234,2,,1629524,,1611661324,9,6,1
+06:42,[NYL] Team Rebound,93,234,4,,0,,1611661313,9,6,1
+06:19,[NYL] Odom Layup Shot: Missed,43,16,2,,1630127,,1611661313,9,6,1
+06:19,[MIN] Collier Rebound (Off:0 Def:2),43,16,4,,1629483,,1611661324,9,6,1
+06:19,[NYL] Zahui B Foul: Personal (1 PF),-38,808,6,1629483,204320,,1611661313,9,6,1
+06:12,[NYL] Zahui B Foul: Personal (2 PF),37,214,6,203024,204320,,1611661313,9,6,1
+05:59,[MIN] Collier 3pt Shot: Missed,85,232,2,,1629483,,1611661324,9,6,1
+05:57,[NYL] Stokes Rebound (Off:0 Def:1),85,232,4,,204329,,1611661313,9,6,1
+05:48,[NYL 9-9] Stokes 3pt Shot: Made (3 PTS) Assist: Nurse (2 AST),3,246,1,,204329,1628915,1611661313,9,9,1
+05:32,[MIN] Collier Driving Layup Shot: Missed,17,17,2,,1629483,,1611661324,9,9,1
+05:30,[NYL] Zahui B Rebound (Off:0 Def:1),17,17,4,,204320,,1611661313,9,9,1
+05:10,[MIN] Brown Foul: Shooting (1 PF) (2 FTA),-97,37,6,1628915,1628882,,1611661324,9,9,1
+05:10,[NYL 10-9] Nurse Free Throw 1 of 2 (1 PTS),0,-80,3,,1628915,,1611661313,9,10,1
+05:10,Stoppage: Blood Rule,0,-80,20,,0,,0,9,10,1
+05:10,[NYL] Nurse Free Throw 2 of 2 Missed,0,-80,3,,1628915,,1611661313,9,10,1
+05:07,[MIN] Collier Rebound (Off:0 Def:3),0,-80,4,,1629483,,1611661324,9,10,1
+05:00,[MIN 11-10] Dangerfield Jump Shot: Made (2 PTS),109,129,1,,1630101,,1611661324,11,10,1
+04:43,[NYL] Stokes Turnover : Bad Pass (1 TO) Steal:Brown (2 ST),-146,47,5,1628882,204329,,1611661313,11,10,1
+04:36,[MIN 14-10] Brown 3pt Shot: Made (3 PTS) Assist: Collier (1 AST),-120,220,1,,1628882,1629483,1611661324,14,10,1
+04:24,[NYL 12-14] Clarendon Driving Reverse Layup Shot: Made (2 PTS),-13,3,1,,203406,,1611661313,14,12,1
+04:17,[NYL] Clarendon Foul: Personal (1 PF),-110,137,6,1630101,203406,,1611661313,14,12,1
+04:17,Timeout Officials,0,-80,9,,0,,0,14,12,1
+04:17,[MIN] Dantas Substitution replaced by Alexander,0,-80,8,,203024,203405,1611661324,14,12,1
+04:17,[MIN] Dangerfield Substitution replaced by Sims,0,-80,8,,1630101,203824,1611661324,14,12,1
+04:17,[NYL] Clarendon Substitution replaced by Jones,0,-80,8,,203406,1630119,1611661313,14,12,1
+04:17,[NYL] Stokes Substitution replaced by Shook,0,-80,8,,204329,1630131,1611661313,14,12,1
+03:59,[MIN] Alexander Jump Shot: Missed,86,24,2,,203405,,1611661324,14,12,1
+03:57,[NYL] Zahui B Rebound (Off:0 Def:2),86,24,4,,204320,,1611661313,14,12,1
+03:42,[NYL] Zahui B Turnover : Bad Pass (1 TO) Steal:Carleton (1 ST),169,39,5,1629524,204320,,1611661313,14,12,1
+03:32,[MIN] Collier Turnaround Jump Shot: Missed,-30,79,2,,1629483,,1611661324,14,12,1
+03:30,[NYL] Zahui B Rebound (Off:0 Def:3),-30,79,4,,204320,,1611661313,14,12,1
+03:18,[NYL] Zahui B 3pt Shot: Missed,109,238,2,,204320,,1611661313,14,12,1
+03:16,[NYL] Nurse Rebound (Off:1 Def:1),109,238,4,,1628915,,1611661313,14,12,1
+03:09,[NYL 14-14] Shook Pullup Jump shot: Made (2 PTS) Assist: Nurse (3 AST),-1,147,1,,1630131,1628915,1611661313,14,14,1
+02:48,[MIN] Sims Pullup Jump shot: Missed,-47,137,2,,203824,,1611661324,14,14,1
+02:46,[NYL] Zahui B Rebound (Off:0 Def:4),-47,137,4,,204320,,1611661313,14,14,1
+02:31,[MIN] Brown Foul: Shooting (2 PF) (2 FTA),74,44,6,1630127,1628882,,1611661324,14,14,1
+02:31,[NYL 15-14] Odom Free Throw 1 of 2 (7 PTS),0,-80,3,,1630127,,1611661313,14,15,1
+02:31,[MIN] Brown Substitution replaced by Dangerfield,0,-80,8,,1628882,1630101,1611661324,14,15,1
+02:31,[MIN] Carleton Substitution replaced by Johnson,0,-80,8,,1629524,203018,1611661324,14,15,1
+02:31,[NYL 16-14] Odom Free Throw 2 of 2 (8 PTS),0,-80,3,,1630127,,1611661313,14,16,1
+02:22,[MIN] Sims Floating Jump shot: Missed,-11,65,2,1630131,203824,,1611661324,14,16,1
+02:19,[NYL] Shook Rebound (Off:0 Def:1),-11,65,4,,1630131,,1611661313,14,16,1
+02:16,[NYL] Nurse Turnover : Out of Bounds - Bad Pass Turnover (1 TO),97,51,5,,1628915,,1611661313,14,16,1
+02:04,[MIN 16-16] Collier Layup Shot: Made (6 PTS) Assist: Alexander (1 AST),22,11,1,,1629483,203405,1611661324,16,16,1
+01:59,[MIN] Sims Foul: Personal (1 PF),-163,104,6,1628915,203824,,1611661324,16,16,1
+01:59,[NYL] Nurse Substitution replaced by Holmes,0,-80,8,,1628915,1630115,1611661313,16,16,1
+01:59,[NYL] Zahui B Substitution replaced by Walker,0,-80,8,,204320,1630136,1611661313,16,16,1
+01:59,[NYL] Odom Substitution replaced by Willoughby,0,-80,8,,1630127,1630139,1611661313,16,16,1
+01:50,[NYL] Jones Jump Shot: Missed,-114,145,2,,1630119,,1611661313,16,16,1
+01:48,[NYL] Holmes Rebound (Off:1 Def:0),-114,145,4,,1630115,,1611661313,16,16,1
+01:47,[NYL] Shook 3pt Shot: Missed,-135,199,2,,1630131,,1611661313,16,16,1
+01:47,[MIN] Johnson Rebound (Off:0 Def:1),-135,199,4,,203018,,1611661324,16,16,1
+01:43,[NYL] Jones Foul: Personal (1 PF),-144,275,6,203018,1630119,,1611661313,16,16,1
+01:28,[MIN 18-16] Alexander Jump Shot: Made (2 PTS) Assist: Collier (2 AST),-72,132,1,,203405,1629483,1611661324,18,16,1
+01:06,[NYL] Jones 3pt Shot: Missed,113,223,2,,1630119,,1611661313,18,16,1
+01:03,[MIN] Johnson Rebound (Off:0 Def:2),113,223,4,,203018,,1611661324,18,16,1
+00:59.1,[NYL] Jones Foul: Shooting (2 PF) (2 FTA),-33,33,6,1629483,1630119,,1611661313,18,16,1
+00:59.1,[MIN 19-16] Collier Free Throw 1 of 2 (7 PTS),0,-80,3,,1629483,,1611661324,19,16,1
+00:59.1,[NYL] Jones Substitution replaced by Clarendon,0,-80,8,,1630119,203406,1611661313,19,16,1
+00:59.1,[MIN 20-16] Collier Free Throw 2 of 2 (8 PTS),0,-80,3,,1629483,,1611661324,20,16,1
+00:48.7,[NYL 18-20] Willoughby Jump Shot: Made (2 PTS),-108,173,1,,1630139,,1611661313,20,18,1
+00:36.3,[MIN 22-18] Sims Driving Reverse Layup Shot: Made (2 PTS),24,15,1,,203824,,1611661324,22,18,1
+00:36.3,[NYL] Willoughby Foul: Shooting (1 PF) (1 FTA),18,9,6,203824,1630139,,1611661313,22,18,1
+00:36.3,[MIN 23-18] Sims Free Throw 1 of 1 (3 PTS),0,-80,3,,203824,,1611661324,23,18,1
+00:25.0,[NYL] Holmes 3pt Shot: Missed,-121,219,2,,1630115,,1611661313,23,18,1
+00:22.4,[MIN] Collier Rebound (Off:0 Def:4),-121,219,4,,1629483,,1611661324,23,18,1
+00:02.4,[MIN 25-18] Collier Driving Layup Shot: Made (10 PTS),15,16,1,,1629483,,1611661324,25,18,1
+00:00.6,[MIN] Johnson Foul: Personal (1 PF) (2 FTA),-100,640,6,203406,203018,,1611661324,25,18,1
+00:00.6,[NYL 19-25] Clarendon Free Throw 1 of 2 (3 PTS),0,-80,3,,203406,,1611661313,25,19,1
+00:00.6,[NYL 20-25] Clarendon Free Throw 2 of 2 (4 PTS),0,-80,3,,203406,,1611661313,25,20,1
+00:00.6,[MIN] Collier Turnover : Out of Bounds Lost Ball Turnover (1 TO),75,846,5,,1629483,,1611661324,25,20,1
+00:00.1,[NYL] Shook Jump Shot: Missed,35,11,2,,1630131,,1611661313,25,20,1
+00:00.1,[NYL] Team Rebound,35,11,4,,0,,1611661313,25,20,1
+00:00.0,End Period,0,-80,13,,0,,0,25,20,1
+10:00,Start Period,0,-80,12,,0,,0,25,20,2
+09:45,[MIN 27-20] Collier Jump Bank Shot: Made (12 PTS) Assist: Dantas (2 AST),-67,63,1,,1629483,203024,1611661324,27,20,2
+09:21,[NYL 22-27] Shook Reverse Layup Shot: Made (4 PTS) Assist: Holmes (1 AST),-12,26,1,,1630131,1630115,1611661313,27,22,2
+09:02,[MIN 29-22] Dantas Turnaround Fadeaway Bank Jump Shot: Made (7 PTS) Assist: Dangerfield (3 AST),23,48,1,,203024,1630101,1611661324,29,22,2
+08:40,[NYL] Holmes Fadeaway Jump Shot: Missed,-71,31,2,,1630115,,1611661313,29,22,2
+08:40,[MIN] Team Rebound,-71,31,4,,0,,1611661324,29,22,2
+08:24,[MIN] Collier Jump Shot: Missed,3,64,2,,1629483,,1611661324,29,22,2
+08:24,[NYL] Willoughby Rebound (Off:0 Def:1),3,64,4,,1630139,,1611661313,29,22,2
+08:02,[NYL] Willoughby 3pt Shot: Missed,116,223,2,,1630139,,1611661313,29,22,2
+08:00,[MIN] Dantas Rebound (Off:0 Def:1),116,223,4,,203024,,1611661324,29,22,2
+07:50,[MIN] Dangerfield Driving Layup Shot: Missed,25,5,2,,1630101,,1611661324,29,22,2
+07:48,[NYL] Clarendon Rebound (Off:0 Def:1),25,5,4,,203406,,1611661313,29,22,2
+07:26,[NYL] Shook Jump Shot: Missed,125,87,2,,1630131,,1611661313,29,22,2
+07:25,[MIN] Johnson Rebound (Off:0 Def:3),125,87,4,,203018,,1611661324,29,22,2
+07:15,[MIN] Dantas 3pt Shot: Missed,24,246,2,,203024,,1611661324,29,22,2
+07:10,[NYL] Holmes Rebound (Off:1 Def:1),24,246,4,,1630115,,1611661313,29,22,2
+07:02,[NYL 25-29] Walker 3pt Shot: Made (3 PTS) Assist: Holmes (2 AST),-158,235,1,,1630136,1630115,1611661313,29,25,2
+06:43,[MIN] Dangerfield 3pt Shot: Missed,82,262,2,,1630101,,1611661324,29,25,2
+06:40,[NYL] Holmes Rebound (Off:1 Def:2),82,262,4,,1630115,,1611661313,29,25,2
+06:34,[NYL 27-29] Holmes Pullup Jump shot: Made (2 PTS),-34,31,1,,1630115,,1611661313,29,27,2
+06:29,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,29,27,2
+06:29,[MIN] Dangerfield Substitution replaced by Carleton,0,-80,8,,1630101,1629524,1611661324,29,27,2
+06:29,[MIN] Collier Substitution replaced by McCall,0,-80,8,,1629483,1628286,1611661324,29,27,2
+06:29,[MIN] Johnson Substitution replaced by Sims,0,-80,8,,203018,203824,1611661324,29,27,2
+06:17,[MIN] Sims Jump Shot: Missed,-76,142,2,,203824,,1611661324,29,27,2
+06:17,[NYL] Team Rebound,-76,142,4,,0,,1611661313,29,27,2
+06:17,[MIN] McCall Foul: Personal (1 PF),0,764,6,1630115,1628286,,1611661324,29,27,2
+06:11,[NYL] Shook Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-22,214,5,,1630131,,1611661313,29,27,2
+05:52,[MIN] Sims Floating Jump shot: Missed,-38,90,2,,203824,,1611661324,29,27,2
+05:50,[MIN] Sims Rebound (Off:1 Def:0),-38,90,4,,203824,,1611661324,29,27,2
+05:50,[NYL] Walker Substitution replaced by Stokes,0,-80,8,,1630136,204329,1611661313,29,27,2
+05:50,[NYL] Holmes Substitution replaced by Nurse,0,-80,8,,1630115,1628915,1611661313,29,27,2
+05:50,[NYL] Willoughby Substitution replaced by Odom,0,-80,8,,1630139,1630127,1611661313,29,27,2
+05:50,[NYL] Shook Substitution replaced by Zahui B,0,-80,8,,1630131,204320,1611661313,29,27,2
+05:47,Jump Ball Clarendon vs Sims (Zahui B gains possession),0,-80,10,203824,203406,204320,1611661313,29,27,2
+05:47,[MIN] Sims Turnover : Lost Ball (1 TO) Steal:Clarendon (1 ST),0,-80,5,203406,203824,,1611661324,29,27,2
+05:34,[NYL] Nurse Pullup Jump shot: Missed,-47,112,2,,1628915,,1611661313,29,27,2
+05:32,[MIN] McCall Rebound (Off:0 Def:1),-47,112,4,,1628286,,1611661324,29,27,2
+05:22,[MIN 31-27] McCall Layup Shot: Made (2 PTS) Assist: Brown (1 AST),-26,16,1,,1628286,1628882,1611661324,31,27,2
+05:01,[NYL] Odom Jump Shot: Missed,38,47,2,,1630127,,1611661313,31,27,2
+05:00,[MIN] McCall Rebound (Off:0 Def:2),38,47,4,,1628286,,1611661324,31,27,2
+04:52,[MIN 33-27] Brown Driving Layup Shot: Made (5 PTS),-65,33,1,,1628882,,1611661324,33,27,2
+04:44,[NYL] Odom Jump Shot: Missed,-50,51,2,203024,1630127,,1611661313,33,27,2
+04:42,[MIN] Carleton Rebound (Off:1 Def:1),-50,51,4,,1629524,,1611661324,33,27,2
+04:36,[MIN] Sims Layup Shot: Missed,-31,17,2,,203824,,1611661324,33,27,2
+04:34,[MIN] McCall Rebound (Off:1 Def:2),-31,17,4,,1628286,,1611661324,33,27,2
+04:32,[MIN] Brown 3pt Shot: Missed,-91,237,2,,1628882,,1611661324,33,27,2
+04:29,[MIN] Dantas Rebound (Off:1 Def:1),-91,237,4,,203024,,1611661324,33,27,2
+04:29,[MIN] Dantas Putback Layup Shot: Missed,0,-5,2,,203024,,1611661324,33,27,2
+04:28,[NYL] Clarendon Rebound (Off:0 Def:2),0,-5,4,,203406,,1611661313,33,27,2
+04:28,[MIN] Sims Foul: Loose Ball (2 PF),3,650,6,203406,203824,,1611661324,33,27,2
+04:28,[MIN] Sims Substitution replaced by Dangerfield,0,-80,8,,203824,1630101,1611661324,33,27,2
+04:28,[MIN] Carleton Substitution replaced by Collier,0,-80,8,,1629524,1629483,1611661324,33,27,2
+04:28,[NYL] Clarendon Substitution replaced by Jones,0,-80,8,,203406,1630119,1611661313,33,27,2
+04:05,[NYL] Jones Jump Shot: Missed,-56,110,2,,1630119,,1611661313,33,27,2
+04:03,[MIN] Collier Rebound (Off:0 Def:5),-56,110,4,,1629483,,1611661324,33,27,2
+03:58,[MIN] McCall Jump Shot: Missed,69,51,2,,1628286,,1611661324,33,27,2
+03:56,[NYL] Stokes Rebound (Off:0 Def:2),69,51,4,,204329,,1611661313,33,27,2
+03:48,[NYL] Odom Jump Shot: Missed,49,50,2,203024,1630127,,1611661313,33,27,2
+03:45,[NYL] Odom Rebound (Off:1 Def:0),49,50,4,,1630127,,1611661313,33,27,2
+03:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,27,2
+03:33,[NYL] Stokes 3pt Shot: Missed,-36,247,2,,204329,,1611661313,33,27,2
+03:31,[MIN] Collier Rebound (Off:0 Def:6),-36,247,4,,1629483,,1611661324,33,27,2
+03:27,[NYL] Jones Foul: Personal (3 PF),158,218,6,1630101,1630119,,1611661313,33,27,2
+03:27,[NYL] Jones Technical (1 FTA),0,-80,6,,1630119,,1611661313,33,27,2
+03:27,[MIN 34-27] Collier Free Throw Technical (13 PTS),0,-80,3,,1629483,,1611661324,34,27,2
+03:27,[NYL] Jones Substitution replaced by Clarendon,0,-80,8,,1630119,203406,1611661313,34,27,2
+03:27,[NYL] Clarendon Foul: Away From Play (2 PF) (1 FTA),196,256,6,1630101,203406,,1611661313,34,27,2
+03:27,Instant Replay - Support Ruling,0,-80,18,,0,,0,34,27,2
+03:27,[MIN 35-27] Dangerfield Free Throw 1 of 1 (3 PTS),0,-80,3,,1630101,,1611661324,35,27,2
+03:09,[NYL] Odom Foul: Shooting (1 PF) (2 FTA),101,153,6,1630101,1630127,,1611661313,35,27,2
+03:09,[MIN 36-27] Dangerfield Free Throw 1 of 2 (4 PTS),0,-80,3,,1630101,,1611661324,36,27,2
+03:09,[MIN 37-27] Dangerfield Free Throw 2 of 2 (5 PTS),0,-80,3,,1630101,,1611661324,37,27,2
+02:51,[MIN] McCall Foul: Shooting (2 PF) (2 FTA),37,5,6,1628915,1628286,,1611661324,37,27,2
+02:51,Timeout Officials,0,-80,9,,0,,0,37,27,2
+02:51,[NYL 28-37] Nurse Free Throw 1 of 2 (2 PTS),0,-80,3,,1628915,,1611661313,37,28,2
+02:51,[NYL] Nurse Free Throw 2 of 2 Missed,0,-80,3,,1628915,,1611661313,37,28,2
+02:49,[MIN] Collier Rebound (Off:0 Def:7),0,-80,4,,1629483,,1611661324,37,28,2
+02:41,[MIN] Dantas Foul: Offensive Charge (1 PF),85,234,6,204320,203024,,1611661324,37,28,2
+02:41,[MIN] Dantas Turnover : Offensive Foul Turnover (1 TO),85,234,5,,203024,,1611661324,37,28,2
+02:27,[NYL] Zahui B Turnover : Bad Pass (2 TO) Steal:McCall (1 ST),-104,225,5,1628286,204320,,1611661313,37,28,2
+02:13,[MIN 39-28] Dantas Driving Layup Shot: Made (9 PTS) Assist: Collier (3 AST),14,10,1,,203024,1629483,1611661324,39,28,2
+02:13,[NYL] Stokes Foul: Shooting (1 PF) (1 FTA),22,10,6,203024,204329,,1611661313,39,28,2
+02:13,[MIN 40-28] Dantas Free Throw 1 of 1 (10 PTS),0,-80,3,,203024,,1611661324,40,28,2
+02:03,[NYL 31-40] Zahui B 3pt Shot: Made (3 PTS) Assist: Clarendon (1 AST),-104,226,1,,204320,203406,1611661313,40,31,2
+01:40,[MIN] Brown Jump Shot: Missed,107,161,2,,1628882,,1611661324,40,31,2
+01:38,[NYL] Team Rebound,107,161,4,,0,,1611661313,40,31,2
+01:38,[MIN] McCall Foul: Loose Ball (3 PF),52,840,6,203406,1628286,,1611661324,40,31,2
+01:38,[MIN] McCall Substitution replaced by Carleton,0,-80,8,,1628286,1629524,1611661324,40,31,2
+01:27,[MIN] Dantas Foul: Personal (2 PF) (2 FTA),74,23,6,203406,203024,,1611661324,40,31,2
+01:27,[NYL 32-40] Clarendon Free Throw 1 of 2 (5 PTS),0,-80,3,,203406,,1611661313,40,32,2
+01:27,[MIN] Dantas Substitution replaced by Alexander,0,-80,8,,203024,203405,1611661324,40,32,2
+01:27,[NYL 33-40] Clarendon Free Throw 2 of 2 (6 PTS),0,-80,3,,203406,,1611661313,40,33,2
+01:04,[MIN] Brown Jump Shot: Missed,-106,149,2,,1628882,,1611661324,40,33,2
+01:02,[NYL] Zahui B Rebound (Off:0 Def:5),-106,149,4,,204320,,1611661313,40,33,2
+00:44.2,[NYL] Nurse Driving Layup Shot: Missed,48,205,2,,1628915,,1611661313,40,33,2
+00:43.0,[NYL] Team Rebound,48,205,4,,0,,1611661313,40,33,2
+00:28.7,[NYL] Nurse Layup Shot: Missed,37,19,2,,1628915,,1611661313,40,33,2
+00:27.5,[NYL] Zahui B Rebound (Off:1 Def:5),37,19,4,,204320,,1611661313,40,33,2
+00:27.5,[NYL] Zahui B Putback Layup Shot: Missed,0,-5,2,,204320,,1611661313,40,33,2
+00:27.5,[NYL] Team Rebound,0,-5,4,,0,,1611661313,40,33,2
+00:27.5,[NYL] Team Turnover : Shot Clock Turnover,27,13,5,,0,,1611661313,40,33,2
+00:16.8,[MIN 42-33] Dangerfield Pullup Jump shot: Made (7 PTS),68,76,1,,1630101,,1611661324,42,33,2
+00:02.8,[NYL] Clarendon 3pt Shot: Missed,-135,223,2,,203406,,1611661313,42,33,2
+00:00.4,[MIN] Team Rebound,-135,223,4,,0,,1611661324,42,33,2
+00:00.0,End Period,0,-80,13,,0,,0,42,33,2
+10:00,Start Period,0,-80,12,,0,,0,42,33,3
+09:48,[MIN 44-33] Dangerfield Hook Shot: Made (9 PTS),28,19,1,,1630101,,1611661324,44,33,3
+09:34,[NYL] Nurse Jump Shot: Missed,93,156,2,,1628915,,1611661313,44,33,3
+09:27,[MIN] Collier Rebound (Off:0 Def:8),93,156,4,,1629483,,1611661324,44,33,3
+09:16,[MIN 47-33] Collier 3pt Shot: Made (16 PTS) Assist: Dantas (3 AST),156,187,1,,1629483,203024,1611661324,47,33,3
+08:53,[NYL] Zahui B Turnover : Bad Pass (3 TO) Steal:Collier (1 ST),148,175,5,1629483,204320,,1611661313,47,33,3
+08:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,33,3
+08:36,[MIN 49-33] Brown Layup Shot: Made (7 PTS) Assist: Collier (4 AST),26,16,1,,1628882,1629483,1611661324,49,33,3
+08:26,[NYL] Nurse Driving Layup Shot: Missed,-27,14,2,,1628915,,1611661313,49,33,3
+08:24,[MIN] Brown Rebound (Off:0 Def:2),-27,14,4,,1628882,,1611661324,49,33,3
+08:22,[NYL] Clarendon Foul: Personal (3 PF),-39,168,6,1628882,203406,,1611661313,49,33,3
+08:22,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,49,33,3
+08:14,[MIN 51-33] Carleton Jump Shot: Made (2 PTS) Assist: Dangerfield (4 AST),-96,163,1,,1629524,1630101,1611661324,51,33,3
+08:06,[NYL] Clarendon Turnover : Out of Bounds - Bad Pass Turnover (1 TO),36,43,5,,203406,,1611661313,51,33,3
+07:53,[MIN] Dangerfield Jump Shot: Missed,-89,148,2,,1630101,,1611661324,51,33,3
+07:50,[NYL] Zahui B Rebound (Off:1 Def:6),-89,148,4,,204320,,1611661313,51,33,3
+07:43,[NYL] Zahui B 3pt Shot: Missed,85,234,2,,204320,,1611661313,51,33,3
+07:39,[MIN] Dangerfield Rebound (Off:0 Def:1),85,234,4,,1630101,,1611661324,51,33,3
+07:37,[NYL] Zahui B Foul: Personal (3 PF),-74,34,6,1629483,204320,,1611661313,51,33,3
+07:37,[NYL] Odom Substitution replaced by Walker,0,-80,8,,1630127,1630136,1611661313,51,33,3
+07:37,[NYL] Nurse Substitution replaced by Willoughby,0,-80,8,,1628915,1630139,1611661313,51,33,3
+07:37,[NYL] Clarendon Substitution replaced by Jones,0,-80,8,,203406,1630119,1611661313,51,33,3
+07:37,[NYL] Zahui B Substitution replaced by Holmes,0,-80,8,,204320,1630115,1611661313,51,33,3
+07:37,[NYL] Stokes Substitution replaced by Shook,0,-80,8,,204329,1630131,1611661313,51,33,3
+07:31,[MIN 53-33] Collier Fadeaway Jump Shot: Made (18 PTS) Assist: Dantas (4 AST),35,67,1,,1629483,203024,1611661324,53,33,3
+07:22,[NYL 36-53] Shook 3pt Shot: Made (7 PTS) Assist: Jones (1 AST),102,228,1,,1630131,1630119,1611661313,53,36,3
+07:08,[MIN 55-36] Dangerfield Driving Layup Shot: Made (11 PTS),-20,11,1,,1630101,,1611661324,55,36,3
+06:55,[NYL 38-55] Willoughby Driving Layup Shot: Made (4 PTS) Assist: Jones (2 AST),23,25,1,,1630139,1630119,1611661313,55,38,3
+06:46,[MIN] Carleton Driving Layup Shot: Missed,-15,27,2,,1629524,,1611661324,55,38,3
+06:46,[NYL] Team Rebound,-15,27,4,,0,,1611661313,55,38,3
+06:46,[MIN] Dantas Foul: Loose Ball (3 PF),-33,814,6,1630131,203024,,1611661324,55,38,3
+06:27,[NYL 41-55] Walker 3pt Shot: Made (6 PTS) Assist: Willoughby (1 AST),-202,146,1,,1630136,1630139,1611661313,55,41,3
+06:12,[NYL] Shook Foul: Shooting (1 PF) (2 FTA),-35,43,6,1629483,1630131,,1611661313,55,41,3
+06:12,[MIN 56-41] Collier Free Throw 1 of 2 (19 PTS),0,-80,3,,1629483,,1611661324,56,41,3
+06:12,[MIN 57-41] Collier Free Throw 2 of 2 (20 PTS),0,-80,3,,1629483,,1611661324,57,41,3
+05:57,[NYL] Holmes Turnaround Jump Shot: Missed,-50,81,2,1629483,1630115,,1611661313,57,41,3
+05:54,[NYL] Holmes Rebound (Off:2 Def:2),-50,81,4,,1630115,,1611661313,57,41,3
+05:54,[NYL] Holmes Turnover : Lost Ball (1 TO) Steal:Brown (3 ST),-87,91,5,1628882,1630115,,1611661313,57,41,3
+05:54,[MIN] Collier Turnover : Step Out of Bounds Turnover (2 TO),71,762,5,,1629483,,1611661324,57,41,3
+05:45,[NYL 44-57] Jones 3pt Shot: Made (3 PTS) Assist: Walker (1 AST),-91,224,1,,1630119,1630136,1611661313,57,44,3
+05:33,[NYL] Shook Foul: Personal (2 PF),91,-4,6,203024,1630131,,1611661313,57,44,3
+05:29,[NYL] Walker Foul: Shooting (1 PF) (2 FTA),-15,21,6,1629483,1630136,,1611661313,57,44,3
+05:29,[MIN 58-44] Collier Free Throw 1 of 2 (21 PTS),0,-80,3,,1629483,,1611661324,58,44,3
+05:29,[MIN] Collier Free Throw 2 of 2 Missed,0,-80,3,,1629483,,1611661324,58,44,3
+05:27,[NYL] Willoughby Rebound (Off:0 Def:2),0,-80,4,,1630139,,1611661313,58,44,3
+05:24,[MIN] Carleton Foul: Personal (1 PF),70,95,6,1630131,1629524,,1611661324,58,44,3
+05:21,[NYL] Willoughby Turnover : Bad Pass (1 TO) Steal:Collier (2 ST),-115,207,5,1629483,1630139,,1611661313,58,44,3
+05:17,[MIN] Collier Driving Layup Shot: Missed,75,18,2,,1629483,,1611661324,58,44,3
+05:17,[NYL] Team Rebound,75,18,4,,0,,1611661313,58,44,3
+05:07,[NYL] Shook Cutting Layup Shot: Missed,-43,13,2,,1630131,,1611661313,58,44,3
+05:06,[MIN] Carleton Rebound (Off:1 Def:2),-43,13,4,,1629524,,1611661324,58,44,3
+05:03,[MIN] Carleton Turnover : Bad Pass (1 TO) Steal:Holmes (1 ST),-82,196,5,1630115,1629524,,1611661324,58,44,3
+04:57,[NYL] Holmes Turnover : Out of Bounds - Bad Pass Turnover (2 TO),28,244,5,,1630115,,1611661313,58,44,3
+04:37,[MIN 60-44] Brown Driving Layup Shot: Made (9 PTS),15,12,1,,1628882,,1611661324,60,44,3
+04:25,[NYL] Walker 3pt Shot: Missed,-170,165,2,,1630136,,1611661313,60,44,3
+04:21,[MIN] Collier Rebound (Off:0 Def:9),-170,165,4,,1629483,,1611661324,60,44,3
+04:13,[MIN 62-44] Dangerfield Pullup Jump shot: Made (13 PTS),-1,167,1,,1630101,,1611661324,62,44,3
+04:05,[MIN] Dangerfield Foul: Personal (1 PF),51,284,6,1630119,1630101,,1611661324,62,44,3
+04:05,[MIN] Dantas Substitution replaced by Herbert Harrigan,0,-80,8,,203024,1630114,1611661324,62,44,3
+04:05,[MIN] Collier Substitution replaced by Alexander,0,-80,8,,1629483,203405,1611661324,62,44,3
+03:56,[NYL] Holmes Turnover : Bad Pass (3 TO) Steal:Brown (4 ST),-49,166,5,1628882,1630115,,1611661313,62,44,3
+03:47,[MIN] Carleton Layup Shot: Missed,48,56,2,,1629524,,1611661324,62,44,3
+03:45,[MIN] Herbert Harrigan Rebound (Off:1 Def:0),48,56,4,,1630114,,1611661324,62,44,3
+03:40,[MIN 64-44] Dangerfield Pullup Jump shot: Made (15 PTS),-39,152,1,,1630101,,1611661324,64,44,3
+03:24,[NYL] Jones Jump Shot: Missed,50,112,2,,1630119,,1611661313,64,44,3
+03:22,[MIN] Alexander Rebound (Off:0 Def:1),50,112,4,,203405,,1611661324,64,44,3
+03:19,[MIN] Carleton Turnover : Out of Bounds Lost Ball Turnover (2 TO),-120,2,5,,1629524,,1611661324,64,44,3
+03:19,[MIN] Dangerfield Substitution replaced by Sims,0,-80,8,,1630101,203824,1611661324,64,44,3
+03:06,[NYL] Walker Pullup Jump shot: Missed,70,100,2,,1630136,,1611661313,64,44,3
+03:04,[MIN] Brown Rebound (Off:0 Def:3),70,100,4,,1628882,,1611661324,64,44,3
+02:54,[MIN 66-44] Herbert Harrigan Jump Shot: Made (2 PTS) Assist: Sims (1 AST),50,199,1,,1630114,203824,1611661324,66,44,3
+02:29,[NYL] Jones Driving Layup Shot: Missed,24,10,2,,1630119,,1611661313,66,44,3
+02:29,[NYL] Jones Rebound (Off:1 Def:0),24,10,4,,1630119,,1611661313,66,44,3
+02:29,[NYL] Jones Putback Layup Shot: Missed,0,-5,2,,1630119,,1611661313,66,44,3
+02:29,[NYL] Jones Rebound (Off:2 Def:0),0,-5,4,,1630119,,1611661313,66,44,3
+02:29,[MIN] Carleton Foul: Shooting (2 PF) (2 FTA),25,19,6,1630119,1629524,,1611661324,66,44,3
+02:29,[NYL 45-66] Jones Free Throw 1 of 2 (4 PTS),0,-80,3,,1630119,,1611661313,66,45,3
+02:29,[NYL 46-66] Jones Free Throw 2 of 2 (5 PTS),0,-80,3,,1630119,,1611661313,66,46,3
+02:14,[MIN 68-46] Alexander Cutting Layup Shot: Made (4 PTS) Assist: Sims (2 AST),-23,18,1,,203405,203824,1611661324,68,46,3
+02:05,[MIN] Sims Foul: Shooting (3 PF) (2 FTA),-47,47,6,1630119,203824,,1611661324,68,46,3
+02:05,[NYL] Jones Free Throw 1 of 2 Missed,0,-80,3,,1630119,,1611661313,68,46,3
+02:05,[NYL] Team Rebound,0,-80,4,,0,,1611661313,68,46,3
+02:05,[NYL] Walker Substitution replaced by Stokes,0,-80,8,,1630136,204329,1611661313,68,46,3
+02:05,[NYL] Holmes Substitution replaced by Zahui B,0,-80,8,,1630115,204320,1611661313,68,46,3
+02:05,[NYL] Willoughby Substitution replaced by Nurse,0,-80,8,,1630139,1628915,1611661313,68,46,3
+02:05,[NYL] Shook Substitution replaced by Odom,0,-80,8,,1630131,1630127,1611661313,68,46,3
+02:05,[NYL 47-68] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1630119,,1611661313,68,47,3
+01:53,[MIN] Alexander Turnover : Lost Ball (1 TO) Steal:Nurse (1 ST),-102,182,5,1628915,203405,,1611661324,68,47,3
+01:49,[NYL] Jones Layup Shot: Missed,-41,22,2,,1630119,,1611661313,68,47,3
+01:46,[MIN] Carleton Rebound (Off:1 Def:3),-41,22,4,,1629524,,1611661324,68,47,3
+01:36,[MIN] Brown Reverse Layup Shot: Missed,-23,16,2,,1628882,,1611661324,68,47,3
+01:34,[NYL] Zahui B Rebound (Off:1 Def:7),-23,16,4,,204320,,1611661313,68,47,3
+01:19,[NYL] Nurse 3pt Shot: Missed,-98,223,2,,1628915,,1611661313,68,47,3
+01:18,[MIN] Sims Rebound (Off:1 Def:1),-98,223,4,,203824,,1611661324,68,47,3
+01:13,[MIN] Sims Jump Shot: Missed,46,191,2,,203824,,1611661324,68,47,3
+01:09,[MIN] Alexander Rebound (Off:1 Def:1),46,191,4,,203405,,1611661324,68,47,3
+00:57.0,[MIN] Sims Driving Layup Shot: Missed,-25,12,2,,203824,,1611661324,68,47,3
+00:55.3,[NYL] Stokes Rebound (Off:0 Def:3),-25,12,4,,204329,,1611661313,68,47,3
+00:51.8,[NYL] Nurse Foul: Offensive Charge (1 PF),52,64,6,1629524,1628915,,1611661313,68,47,3
+00:51.8,[NYL] Nurse Turnover : Offensive Foul Turnover (2 TO),52,64,5,,1628915,,1611661313,68,47,3
+00:51.8,[MIN] Carleton Substitution replaced by Collier,0,-80,8,,1629524,1629483,1611661324,68,47,3
+00:51.8,[NYL] Jones Substitution replaced by Clarendon,0,-80,8,,1630119,203406,1611661313,68,47,3
+00:43.8,[MIN] Alexander Foul: Offensive (1 PF),-45,45,6,1628915,203405,,1611661324,68,47,3
+00:43.8,[MIN] Alexander Turnover : Offensive Foul Turnover (2 TO),-45,45,5,,203405,,1611661324,68,47,3
+00:31.7,[NYL] Nurse Jump Shot: Missed,32,213,2,,1628915,,1611661313,68,47,3
+00:28.6,[MIN] Collier Rebound (Off:0 Def:10),32,213,4,,1629483,,1611661324,68,47,3
+00:11.9,[MIN] Sims Turnover : Bad Pass (2 TO) Steal:Clarendon (2 ST),-43,190,5,203406,203824,,1611661324,68,47,3
+00:11.9,[MIN] Alexander Foul: Personal (2 PF) (2 FTA),20,676,6,203406,203405,,1611661324,68,47,3
+00:11.9,[NYL 48-68] Clarendon Free Throw 1 of 2 (7 PTS),0,-80,3,,203406,,1611661313,68,48,3
+00:11.9,[NYL 49-68] Clarendon Free Throw 2 of 2 (8 PTS),0,-80,3,,203406,,1611661313,68,49,3
+00:03.0,[MIN] Sims Driving Layup Shot: Missed,-23,28,2,204320,203824,,1611661324,68,49,3
+00:03.0,[MIN] Team Rebound,-23,28,4,,0,,1611661324,68,49,3
+00:00.0,[MIN] Collier Jump Shot: Missed,124,92,2,204320,1629483,,1611661324,68,49,3
+00:00.0,[NYL] Nurse Rebound (Off:1 Def:2),124,92,4,,1628915,,1611661313,68,49,3
+00:00.0,End Period,0,-80,13,,0,,0,68,49,3
+10:00,Start Period,0,-80,12,,0,,0,68,49,4
+09:46,[NYL 51-68] Zahui B Driving Layup Shot: Made (5 PTS),-24,17,1,,204320,,1611661313,68,51,4
+09:25,[MIN 70-51] Dangerfield Driving Layup Shot: Made (17 PTS),-4,28,1,,1630101,,1611661324,70,51,4
+09:20,[NYL 53-70] Jones Layup Shot: Made (8 PTS) Assist: Clarendon (2 AST),14,13,1,,1630119,203406,1611661313,70,53,4
+09:03,[MIN] Collier Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-36,18,5,,1629483,,1611661324,70,53,4
+08:49,[NYL] Nurse 3pt Shot: Missed,-228,35,2,,1628915,,1611661313,70,53,4
+08:45,[MIN] Collier Rebound (Off:0 Def:11),-228,35,4,,1629483,,1611661324,70,53,4
+08:38,[MIN] Collier Foul: Offensive Charge (1 PF),48,42,6,204320,1629483,,1611661324,70,53,4
+08:38,[MIN] Collier Turnover : Offensive Foul Turnover (4 TO),48,42,5,,1629483,,1611661324,70,53,4
+08:26,[NYL] Clarendon Turnover : Lost Ball (2 TO) Steal:Dantas (1 ST),4,242,5,203024,203406,,1611661313,70,53,4
+08:22,[MIN] Brown Running Layup Shot: Missed,-24,28,2,204320,1628882,,1611661324,70,53,4
+08:22,[MIN] Team Rebound,-24,28,4,,0,,1611661324,70,53,4
+08:12,[MIN] Brown Turnover : Out of Bounds Lost Ball Turnover (1 TO),31,13,5,,1628882,,1611661324,70,53,4
+07:58,[NYL] Clarendon Jump Shot: Missed,52,73,2,,203406,,1611661313,70,53,4
+07:55,[MIN] Dantas Rebound (Off:1 Def:2),52,73,4,,203024,,1611661324,70,53,4
+07:44,[MIN] Collier Layup Shot: Missed,27,27,2,,1629483,,1611661324,70,53,4
+07:44,[MIN] Collier Rebound (Off:1 Def:11),27,27,4,,1629483,,1611661324,70,53,4
+07:44,[NYL] Zahui B Foul: Shooting (4 PF) (2 FTA),16,16,6,1629483,204320,,1611661313,70,53,4
+07:44,[MIN 71-53] Collier Free Throw 1 of 2 (22 PTS),0,-80,3,,1629483,,1611661324,71,53,4
+07:44,[NYL] Clarendon Substitution replaced by Walker,0,-80,8,,203406,1630136,1611661313,71,53,4
+07:44,[MIN 72-53] Collier Free Throw 2 of 2 (23 PTS),0,-80,3,,1629483,,1611661324,72,53,4
+07:38,[MIN] Collier Foul: Shooting (2 PF) (2 FTA),-43,69,6,1630119,1629483,,1611661324,72,53,4
+07:38,[NYL] Jones Free Throw 1 of 2 Missed,0,-80,3,,1630119,,1611661313,72,53,4
+07:38,[NYL] Team Rebound,0,-80,4,,0,,1611661313,72,53,4
+07:38,[NYL 54-72] Jones Free Throw 2 of 2 (9 PTS),0,-80,3,,1630119,,1611661313,72,54,4
+07:29,[MIN] Brown Turnover : Bad Pass (2 TO) Steal:Zahui B (1 ST),48,179,5,204320,1628882,,1611661324,72,54,4
+07:13,[MIN] Brown Foul: Personal (3 PF),-19,64,6,1628915,1628882,,1611661324,72,54,4
+07:13,[MIN] Dantas Substitution replaced by Herbert Harrigan,0,-80,8,,203024,1630114,1611661324,72,54,4
+07:01,[NYL] Zahui B Turnover : Out of Bounds - Bad Pass Turnover (4 TO),162,99,5,,204320,,1611661313,72,54,4
+07:01,Stoppage: Court Cleanup,0,-80,20,,0,,0,72,54,4
+06:50,[MIN 75-54] Collier 3pt Shot: Made (26 PTS) Assist: Carleton (1 AST),-47,246,1,,1629483,1629524,1611661324,75,54,4
+06:28,[NYL] Walker Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-41,212,5,,1630136,,1611661313,75,54,4
+06:11,[MIN] Dangerfield Turnover : Out of Bounds Lost Ball Turnover (1 TO),188,135,5,,1630101,,1611661324,75,54,4
+05:54,[NYL] Zahui B Turnaround Fadeaway shot: Missed,-106,26,2,,204320,,1611661313,75,54,4
+05:52,[MIN] Collier Rebound (Off:1 Def:12),-106,26,4,,1629483,,1611661324,75,54,4
+05:46,[MIN 77-54] Dangerfield Floating Jump shot: Made (19 PTS) Assist: Collier (5 AST),83,145,1,,1630101,1629483,1611661324,77,54,4
+05:37,[MIN] Herbert Harrigan Foul: Shooting (1 PF) (2 FTA),-37,15,6,1628915,1630114,,1611661324,77,54,4
+05:37,Timeout Officials,0,-80,9,,0,,0,77,54,4
+05:37,[MIN] Carleton Substitution replaced by McCall,0,-80,8,,1629524,1628286,1611661324,77,54,4
+05:37,[NYL] Zahui B Substitution replaced by Holmes,0,-80,8,,204320,1630115,1611661313,77,54,4
+05:37,[NYL 55-77] Nurse Free Throw 1 of 2 (3 PTS),0,-80,3,,1628915,,1611661313,77,55,4
+05:37,[NYL 56-77] Nurse Free Throw 2 of 2 (4 PTS),0,-80,3,,1628915,,1611661313,77,56,4
+05:22,[MIN 79-56] Herbert Harrigan Pullup Jump shot: Made (4 PTS) Assist: Brown (2 AST),-85,151,1,,1630114,1628882,1611661324,79,56,4
+04:56,[NYL] Walker Turnover : Lost Ball (2 TO) Steal:Brown (5 ST),85,69,5,1628882,1630136,,1611661313,79,56,4
+04:52,[MIN 82-56] Dangerfield 3pt Shot: Made (22 PTS) Assist: Brown (3 AST),149,200,1,,1630101,1628882,1611661324,82,56,4
+04:51,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,82,56,4
+04:51,[NYL] Nurse Substitution replaced by Willoughby,0,-80,8,,1628915,1630139,1611661313,82,56,4
+04:40,[NYL 58-82] Jones Driving Layup Shot: Made (11 PTS),24,25,1,,1630119,,1611661313,82,58,4
+04:23,[MIN 85-58] Herbert Harrigan 3pt Shot: Made (7 PTS) Assist: Brown (4 AST),-135,210,1,,1630114,1628882,1611661324,85,58,4
+04:09,[NYL] Walker 3pt Shot: Missed,-219,101,2,1629483,1630136,,1611661313,85,58,4
+04:09,[NYL] Team Rebound,-219,101,4,,0,,1611661313,85,58,4
+04:09,[MIN] Dangerfield Substitution replaced by Sims,0,-80,8,,1630101,203824,1611661324,85,58,4
+04:09,[MIN] Collier Substitution replaced by Carleton,0,-80,8,,1629483,1629524,1611661324,85,58,4
+03:56,[NYL] Jones 3pt Shot: Missed,-24,255,2,,1630119,,1611661313,85,58,4
+03:54,[MIN] Herbert Harrigan Rebound (Off:1 Def:1),-24,255,4,,1630114,,1611661324,85,58,4
+03:45,[MIN 87-58] Herbert Harrigan Jump Shot: Made (9 PTS) Assist: Sims (3 AST),69,198,1,,1630114,203824,1611661324,87,58,4
+03:35,[NYL] Holmes 3pt Shot: Missed,-124,209,2,,1630115,,1611661313,87,58,4
+03:31,[NYL] Shook Rebound (Off:1 Def:1),-124,209,4,,1630131,,1611661313,87,58,4
+03:28,[MIN] Sims Foul: Personal (4 PF),73,137,6,1630119,203824,,1611661324,87,58,4
+03:14,[NYL] Willoughby Layup Shot: Missed,24,20,2,,1630139,,1611661313,87,58,4
+03:14,[MIN] Team Rebound,24,20,4,,0,,1611661324,87,58,4
+03:14,Jump Ball McCall vs Willoughby (Carleton gains possession),0,-80,10,1630139,1628286,1629524,1611661324,87,58,4
+02:55,[MIN] Carleton Turnover : Bad Pass (3 TO) Steal:Willoughby (1 ST),198,50,5,1630139,1629524,,1611661324,87,58,4
+02:54,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,87,58,4
+02:51,Jump Ball McCall vs Shook (Sims gains possession),0,-80,10,1630131,1628286,203824,1611661324,87,58,4
+02:51,[NYL] Shook Turnover : Lost Ball (2 TO) Steal:McCall (2 ST),0,-80,5,1628286,1630131,,1611661313,87,58,4
+02:46,[MIN] Sims Layup Shot: Missed,-12,13,2,,203824,,1611661324,87,58,4
+02:44,[MIN] Sims Rebound (Off:2 Def:1),-12,13,4,,203824,,1611661324,87,58,4
+02:43,[MIN] McCall Layup Shot: Missed,-29,54,2,,1628286,,1611661324,87,58,4
+02:41,[NYL] Jones Rebound (Off:2 Def:1),-29,54,4,,1630119,,1611661313,87,58,4
+02:37,[NYL 60-87] Jones Running Layup Shot: Made (13 PTS),24,13,1,,1630119,,1611661313,87,60,4
+02:29,[NYL] Willoughby Foul: Personal (2 PF),-12,51,6,1628286,1630139,,1611661313,87,60,4
+02:16,[MIN 89-60] Brown Driving Layup Shot: Made (11 PTS) Assist: Sims (4 AST),26,18,1,,1628882,203824,1611661324,89,60,4
+02:00,[NYL 62-89] Shook Turnaround Fadeaway shot: Made (9 PTS),-86,76,1,,1630131,,1611661313,89,62,4
+01:44,[MIN] Herbert Harrigan 3pt Shot: Missed,-30,249,2,,1630114,,1611661324,89,62,4
+01:42,[NYL] Jones Rebound (Off:2 Def:2),-30,249,4,,1630119,,1611661313,89,62,4
+01:31,[MIN] Herbert Harrigan Foul: Shooting (2 PF) (2 FTA),-16,15,6,1630139,1630114,,1611661324,89,62,4
+01:31,[NYL 63-89] Willoughby Free Throw 1 of 2 (5 PTS),0,-80,3,,1630139,,1611661313,89,63,4
+01:31,[NYL 64-89] Willoughby Free Throw 2 of 2 (6 PTS),0,-80,3,,1630139,,1611661313,89,64,4
+01:20,[MIN] McCall Foul: Offensive (4 PF),-54,237,6,1630119,1628286,,1611661324,89,64,4
+01:20,[MIN] McCall Turnover : Offensive Foul Turnover (1 TO),-54,237,5,,1628286,,1611661324,89,64,4
+01:02,[NYL] Shook Jump Shot: Missed,-85,9,2,,1630131,,1611661313,89,64,4
+00:58.9,[NYL] Holmes Rebound (Off:3 Def:2),-85,9,4,,1630115,,1611661313,89,64,4
+00:58.9,[NYL] Holmes Tip Layup Shot: Missed,0,-5,2,,1630115,,1611661313,89,64,4
+00:58.1,[MIN] Sims Rebound (Off:2 Def:2),0,-5,4,,203824,,1611661324,89,64,4
+00:51.7,[MIN 91-64] Herbert Harrigan Jump Shot: Made (11 PTS) Assist: Sims (5 AST),74,196,1,,1630114,203824,1611661324,91,64,4
+00:40.5,[NYL] Willoughby 3pt Shot: Missed,-126,213,2,,1630139,,1611661313,91,64,4
+00:36.8,[MIN] Brown Rebound (Off:0 Def:4),-126,213,4,,1628882,,1611661324,91,64,4
+00:15.5,[NYL] Jones Foul: Shooting (5 PF) (2 FTA),-31,45,6,1629524,1630119,,1611661313,91,64,4
+00:15.5,[MIN 92-64] Carleton Free Throw 1 of 2 (3 PTS),0,-80,3,,1629524,,1611661324,92,64,4
+00:15.5,[MIN 93-64] Carleton Free Throw 2 of 2 (4 PTS),0,-80,3,,1629524,,1611661324,93,64,4
+00:07.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,93,64,4
+00:01.1,[NYL] Willoughby Layup Shot: Missed,13,15,2,,1630139,,1611661313,93,64,4
+00:01.1,[MIN] Team Rebound,13,15,4,,0,,1611661324,93,64,4
+00:01.1,[NYL] Jones Foul: Loose Ball (6 PF) (2 FTA),-6,816,6,1629524,1630119,,1611661313,93,64,4
+00:01.1,[MIN 94-64] Carleton Free Throw 1 of 2 (5 PTS),0,-80,3,,1629524,,1611661324,94,64,4
+00:01.1,[MIN] Carleton Free Throw 2 of 2 Missed,0,-80,3,,1629524,,1611661324,94,64,4
+00:01.1,[NYL] Shook Rebound (Off:1 Def:2),0,-80,4,,1630131,,1611661313,94,64,4
+00:00.0,End Period,0,-80,13,,0,,0,94,64,4
+00:00.0,Game End,0,-80,0,,0,,0,94,64,4

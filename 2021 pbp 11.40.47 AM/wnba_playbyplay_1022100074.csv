@@ -1,0 +1,391 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Griner vs Zahui B (Cunningham gains possession),0,-80,10,204320,203398,1629482,1611661317,0,0,1
+09:40,[PHO 2-0] Griner Layup Shot: Made (2 PTS) Assist: Cunningham (1 AST),-41,7,1,,203398,1629482,1611661317,0,2,1
+09:28,[PHO] Diggins-Smith Foul: Shooting (1 PF) (2 FTA),-43,22,6,204365,203400,,1611661317,0,2,1
+09:28,[LAS] Wheeler Free Throw 1 of 2 Missed,0,-80,3,,204365,,1611661320,0,2,1
+09:28,[LAS] Team Rebound,0,-80,4,,0,,1611661320,0,2,1
+09:28,[LAS] Wheeler Free Throw 2 of 2 Missed,0,-80,3,,204365,,1611661320,0,2,1
+09:26,[PHO] Griner Rebound (Off:0 Def:1),0,-80,4,,203398,,1611661317,0,2,1
+09:22,[PHO] Diggins-Smith Driving Layup Shot: Missed,-53,28,2,1627678,203400,,1611661317,0,2,1
+09:20,[PHO] Team Rebound,-53,28,4,,0,,1611661317,0,2,1
+09:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,2,1
+09:04,[PHO 4-0] Griner Layup Shot: Made (4 PTS),-23,28,1,,203398,,1611661317,0,4,1
+08:47,[LAS] Zahui B 3pt Shot: Missed,-117,212,2,,204320,,1611661320,0,4,1
+08:42,[PHO] Nurse Rebound (Off:0 Def:1),-117,212,4,,1628915,,1611661317,0,4,1
+08:30,[PHO] Griner 3pt Shot: Missed,20,258,2,,203398,,1611661317,0,4,1
+08:27,[PHO] Diggins-Smith Rebound (Off:1 Def:0),20,258,4,,203400,,1611661317,0,4,1
+08:26,[PHO 6-0] Diggins-Smith Floating Jump shot: Made (2 PTS),-13,64,1,,203400,,1611661317,0,6,1
+08:07,[LAS 2-6] Toliver Driving Layup Shot: Made (2 PTS),6,21,1,,201911,,1611661320,2,6,1
+07:42,[PHO] Griner Layup Shot: Missed,-18,37,2,,203398,,1611661317,2,6,1
+07:39,[LAS] Zahui B Rebound (Off:0 Def:1),-18,37,4,,204320,,1611661320,2,6,1
+07:29,[LAS] Wheeler 3pt Shot: Missed,-121,219,2,,204365,,1611661320,2,6,1
+07:25,[PHO] Nurse Rebound (Off:0 Def:2),-121,219,4,,1628915,,1611661317,2,6,1
+07:17,[PHO] Diggins-Smith Pullup Jump shot: Missed,117,8,2,,203400,,1611661317,2,6,1
+07:11,[LAS] Coffey Rebound (Off:0 Def:1),117,8,4,,1628269,,1611661320,2,6,1
+06:54,[PHO] Nurse Foul: Shooting (1 PF) (2 FTA),58,31,6,1627678,1628915,,1611661317,2,6,1
+06:54,[LAS 3-6] Holmes Free Throw 1 of 2 (1 PTS),0,-80,3,,1627678,,1611661320,3,6,1
+06:54,[LAS] Holmes Free Throw 2 of 2 Missed,0,-80,3,,1627678,,1611661320,3,6,1
+06:52,[PHO] Diggins-Smith Rebound (Off:1 Def:1),0,-80,4,,203400,,1611661317,3,6,1
+06:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,3,6,1
+06:31,[PHO 9-3] Cunningham 3pt Shot: Made (3 PTS) Assist: Nurse (1 AST),231,28,1,,1629482,1628915,1611661317,3,9,1
+06:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,3,9,1
+06:03,[LAS] Wheeler 3pt Shot: Missed,-124,219,2,,204365,,1611661320,3,9,1
+05:59,[PHO] Turner Rebound (Off:0 Def:1),-124,219,4,,1629488,,1611661317,3,9,1
+05:53,[PHO 11-3] Turner Cutting Layup Shot: Made (2 PTS) Assist: Nurse (2 AST),-14,29,1,,1629488,1628915,1611661317,3,11,1
+05:45,[LAS] Toliver Jump Shot: Missed,-167,121,2,,201911,,1611661320,3,11,1
+05:42,[PHO] Turner Rebound (Off:0 Def:2),-167,121,4,,1629488,,1611661317,3,11,1
+05:37,[PHO 13-3] Diggins-Smith Driving Layup Shot: Made (4 PTS),-15,22,1,,203400,,1611661317,3,13,1
+05:21,[LAS 5-13] Toliver Fadeaway Jump Shot: Made (4 PTS),-149,69,1,,201911,,1611661320,5,13,1
+05:07,[PHO] Griner Turnover : Bad Pass (1 TO) Steal:Toliver (1 ST),131,77,5,201911,203398,,1611661317,5,13,1
+05:01,[LAS 8-13] Zahui B 3pt Shot: Made (3 PTS) Assist: Holmes (1 AST),-187,176,1,,204320,1627678,1611661320,8,13,1
+04:42,[LAS] Zahui B Foul: Personal (1 PF),-97,94,6,203398,204320,,1611661320,8,13,1
+04:42,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,8,13,1
+04:28,[PHO] Team Turnover : Shot Clock Turnover,50,248,5,,0,,1611661317,8,13,1
+04:14,[LAS 11-13] Holmes 3pt Shot: Made (4 PTS) Assist: Toliver (1 AST),169,196,1,,1627678,201911,1611661320,11,13,1
+04:01,[LAS] Zahui B Foul: Personal (2 PF),61,70,6,203398,204320,,1611661320,11,13,1
+04:01,[LAS] Toliver Substitution replaced by Cooper,0,-80,8,,201911,1630099,1611661320,11,13,1
+04:01,[LAS] Wheeler Substitution replaced by Sykes,0,-80,8,,204365,1628279,1611661320,11,13,1
+03:52,[LAS] Cooper Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,1630099,,1611661320,11,13,1
+03:52,[PHO 14-11] Diggins-Smith Free Throw Technical (5 PTS),0,-80,3,,203400,,1611661317,11,14,1
+03:47,[PHO] Diggins-Smith Jump Shot: Missed,-101,40,2,1627678,203400,,1611661317,11,14,1
+03:44,[LAS] Zahui B Rebound (Off:0 Def:2),-101,40,4,,204320,,1611661320,11,14,1
+03:40,[LAS] Holmes Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),126,162,5,1629488,1627678,,1611661320,11,14,1
+03:25,[PHO] Turner Layup Shot: Missed,25,18,2,,1629488,,1611661317,11,14,1
+03:22,[LAS] Cooper Rebound (Off:0 Def:1),25,18,4,,1630099,,1611661320,11,14,1
+03:13,[LAS] Zahui B 3pt Shot: Missed,-126,209,2,,204320,,1611661320,11,14,1
+03:09,[PHO] Diggins-Smith Rebound (Off:1 Def:2),-126,209,4,,203400,,1611661317,11,14,1
+03:01,[LAS] Zahui B Foul: Shooting (3 PF) (2 FTA),-22,45,6,203398,204320,,1611661320,11,14,1
+03:01,[PHO 15-11] Griner Free Throw 1 of 2 (5 PTS),0,-80,3,,203398,,1611661317,11,15,1
+03:01,[LAS] Zahui B Substitution replaced by Anigwe,0,-80,8,,204320,1629485,1611661320,11,15,1
+03:01,[LAS] Holmes Substitution replaced by Toliver,0,-80,8,,1627678,201911,1611661320,11,15,1
+03:01,[PHO] Nurse Substitution replaced by Peddy,0,-80,8,,1628915,203035,1611661317,11,15,1
+03:01,[PHO] Griner Free Throw 2 of 2 Missed,0,-80,3,,203398,,1611661317,11,15,1
+02:58,[LAS] Sykes Rebound (Off:0 Def:1),0,-80,4,,1628279,,1611661320,11,15,1
+02:46,[PHO] Peddy Foul: Shooting (1 PF) (2 FTA),-13,32,6,201911,203035,,1611661317,11,15,1
+02:46,[LAS 12-15] Toliver Free Throw 1 of 2 (5 PTS),0,-80,3,,201911,,1611661320,12,15,1
+02:46,[PHO] Cunningham Substitution replaced by Walker,0,-80,8,,1629482,1630136,1611661317,12,15,1
+02:46,[LAS 13-15] Toliver Free Throw 2 of 2 (6 PTS),0,-80,3,,201911,,1611661320,13,15,1
+02:27,[PHO] Turner Turnover : Out of Bounds Lost Ball Turnover (1 TO),-45,161,5,,1629488,,1611661317,13,15,1
+02:27,[PHO] Griner Substitution replaced by Vaughn,0,-80,8,,203398,201913,1611661317,13,15,1
+02:14,[LAS] Toliver 3pt Shot: Missed,-99,234,2,,201911,,1611661320,13,15,1
+02:13,[PHO] Team Rebound,-99,234,4,,0,,1611661317,13,15,1
+02:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,15,1
+02:03,[PHO] Diggins-Smith 3pt Shot: Missed,39,247,2,,203400,,1611661317,13,15,1
+01:59,[LAS] Cooper Rebound (Off:0 Def:2),39,247,4,,1630099,,1611661320,13,15,1
+01:54,[LAS 15-15] Toliver Running Layup Shot: Made (8 PTS) Assist: Anigwe (1 AST),-30,42,1,,201911,1629485,1611661320,15,15,1
+01:40,[PHO] Diggins-Smith Foul: Offensive Charge (2 PF),43,31,6,1628279,203400,,1611661317,15,15,1
+01:40,[PHO] Diggins-Smith Turnover : Offensive Foul Turnover (1 TO),43,31,5,,203400,,1611661317,15,15,1
+01:40,[PHO] Diggins-Smith Substitution replaced by Nurse,0,-80,8,,203400,1628915,1611661317,15,15,1
+01:31,[LAS] Cooper Driving Layup Shot: Missed,-27,28,2,,1630099,,1611661320,15,15,1
+01:28,[LAS] Sykes Rebound (Off:1 Def:1),-27,28,4,,1628279,,1611661320,15,15,1
+01:19,[LAS] Cooper Turnover : Bad Pass (1 TO) Steal:Peddy (1 ST),3,138,5,203035,1630099,,1611661320,15,15,1
+01:06,[PHO] Walker Turnover : Bad Pass (1 TO) Steal:Toliver (2 ST),-141,184,5,201911,1630136,,1611661317,15,15,1
+01:02,[LAS 17-15] Sykes Running Layup Shot: Made (2 PTS),-4,15,1,,1628279,,1611661320,17,15,1
+00:44.0,[LAS] Sykes Foul: Personal (1 PF),13,227,6,1629488,1628279,,1611661320,17,15,1
+00:44.0,[LAS] Coffey Substitution replaced by Holmes,0,-80,8,,1628269,1627678,1611661320,17,15,1
+00:44.0,[PHO] Turner Substitution replaced by Griner,0,-80,8,,1629488,203398,1611661317,17,15,1
+00:35.4,[PHO 17-17] Griner Jump Shot: Made (7 PTS) Assist: Nurse (3 AST),3,163,1,,203398,1628915,1611661317,17,17,1
+00:13.3,[LAS] Anigwe Layup Shot: Missed,-41,32,2,,1629485,,1611661320,17,17,1
+00:11.6,[PHO] Vaughn Rebound (Off:0 Def:1),-41,32,4,,201913,,1611661317,17,17,1
+00:00.0,[PHO] Griner Jump Shot: Missed,72,47,2,,203398,,1611661317,17,17,1
+00:00.0,[PHO] Team Rebound,72,47,4,,0,,1611661317,17,17,1
+00:00.0,End Period,0,-80,13,,0,,0,17,17,1
+10:00,Start Period,0,-80,12,,0,,0,17,17,2
+09:35,[LAS 19-17] Wheeler Step Back Jump shot: Made (2 PTS),-139,26,1,,204365,,1611661320,19,17,2
+09:18,[PHO 20-19] Walker 3pt Shot: Made (3 PTS) Assist: Vaughn (1 AST),231,51,1,,1630136,201913,1611661317,19,20,2
+08:51,[LAS 21-20] Sykes Driving Layup Shot: Made (4 PTS) Assist: Cooper (1 AST),20,21,1,,1628279,1630099,1611661320,21,20,2
+08:51,[PHO] Griner Foul: Shooting (1 PF) (1 FTA),20,21,6,1628279,203398,,1611661317,21,20,2
+08:51,[LAS 22-20] Sykes Free Throw 1 of 1 (5 PTS),0,-80,3,,1628279,,1611661320,22,20,2
+08:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,20,2
+08:29,[PHO 22-22] Vaughn Driving Layup Shot: Made (2 PTS),25,26,1,,201913,,1611661317,22,22,2
+08:14,[LAS] Anigwe Hook Shot: Missed,12,25,2,,1629485,,1611661320,22,22,2
+08:12,[PHO] Nurse Rebound (Off:0 Def:3),12,25,4,,1628915,,1611661317,22,22,2
+08:00,[LAS] Anigwe Foul: Shooting (1 PF) (2 FTA),16,80,6,203398,1629485,,1611661320,22,22,2
+08:00,[PHO 23-22] Griner Free Throw 1 of 2 (8 PTS),0,-80,3,,203398,,1611661317,22,23,2
+08:00,[PHO] Peddy Substitution replaced by Diggins-Smith,0,-80,8,,203035,203400,1611661317,22,23,2
+08:00,[PHO 24-22] Griner Free Throw 2 of 2 (9 PTS),0,-80,3,,203398,,1611661317,22,24,2
+07:40,[LAS] Anigwe Driving Layup Shot: Missed,19,37,2,,1629485,,1611661320,22,24,2
+07:38,[PHO] Vaughn Rebound (Off:0 Def:2),19,37,4,,201913,,1611661317,22,24,2
+07:30,[PHO] Walker 3pt Shot: Missed,-192,162,2,,1630136,,1611661317,22,24,2
+07:26,[LAS] Sykes Rebound (Off:1 Def:2),-192,162,4,,1628279,,1611661320,22,24,2
+07:18,[LAS] Cooper 3pt Shot: Missed,126,212,2,,1630099,,1611661320,22,24,2
+07:15,[LAS] Wheeler Rebound (Off:1 Def:0),126,212,4,,204365,,1611661320,22,24,2
+07:09,[LAS] Anigwe Turnover : Bad Pass (1 TO) Steal:Diggins-Smith (1 ST),-88,41,5,203400,1629485,,1611661320,22,24,2
+07:05,[PHO 26-22] Diggins-Smith Running Layup Shot: Made (7 PTS),-12,16,1,,203400,,1611661317,22,26,2
+06:53,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,22,26,2
+06:53,[LAS] Cooper Substitution replaced by Coffey,0,-80,8,,1630099,1628269,1611661320,22,26,2
+06:53,[LAS] Sykes Substitution replaced by Toliver,0,-80,8,,1628279,201911,1611661320,22,26,2
+06:43,[LAS] Coffey Turnover : Out of Bounds Lost Ball Turnover (1 TO),95,167,5,,1628269,,1611661320,22,26,2
+06:21,[PHO 29-22] Walker 3pt Shot: Made (6 PTS) Assist: Diggins-Smith (1 AST),-173,168,1,,1630136,203400,1611661317,22,29,2
+06:00,[LAS 25-29] Coffey 3pt Shot: Made (3 PTS) Assist: Wheeler (1 AST),218,92,1,,1628269,204365,1611661320,25,29,2
+05:47,[PHO] Nurse Jump Shot: Missed,-51,203,2,,1628915,,1611661317,25,29,2
+05:44,[PHO] Vaughn Rebound (Off:1 Def:2),-51,203,4,,201913,,1611661317,25,29,2
+05:44,[PHO 31-25] Vaughn Hook Shot: Made (4 PTS),27,38,1,,201913,,1611661317,25,31,2
+05:29,[LAS] Holmes Layup Shot: Missed,28,24,2,,1627678,,1611661320,25,31,2
+05:26,[LAS] Coffey Rebound (Off:1 Def:1),28,24,4,,1628269,,1611661320,25,31,2
+05:24,[LAS] Holmes Jump Shot: Missed,-202,15,2,,1627678,,1611661320,25,31,2
+05:21,[LAS] Holmes Rebound (Off:1 Def:0),-202,15,4,,1627678,,1611661320,25,31,2
+05:18,[LAS 27-31] Holmes Reverse Layup Shot: Made (6 PTS),9,36,1,,1627678,,1611661320,27,31,2
+05:05,[PHO] Vaughn Turnaround Jump Shot: Missed,-76,32,2,,201913,,1611661317,27,31,2
+05:01,[LAS] Wheeler Rebound (Off:1 Def:1),-76,32,4,,204365,,1611661320,27,31,2
+04:46,[LAS] Coffey Pullup Jump shot: Missed,107,137,2,,1628269,,1611661320,27,31,2
+04:42,[PHO] Nurse Rebound (Off:0 Def:4),107,137,4,,1628915,,1611661317,27,31,2
+04:40,[LAS] Holmes Foul: Shooting (1 PF) (2 FTA),30,38,6,1628915,1627678,,1611661320,27,31,2
+04:40,[PHO 32-27] Nurse Free Throw 1 of 2 (1 PTS),0,-80,3,,1628915,,1611661317,27,32,2
+04:40,[PHO] Vaughn Substitution replaced by Turner,0,-80,8,,201913,1629488,1611661317,27,32,2
+04:40,[PHO] Nurse Free Throw 2 of 2 Missed,0,-80,3,,1628915,,1611661317,27,32,2
+04:38,[LAS] Holmes Rebound (Off:1 Def:1),0,-80,4,,1627678,,1611661320,27,32,2
+04:18,[LAS] Wheeler Driving Layup Shot: Missed,-26,17,2,,204365,,1611661320,27,32,2
+04:16,[PHO] Nurse Rebound (Off:0 Def:5),-26,17,4,,1628915,,1611661317,27,32,2
+04:16,[LAS] Wheeler Foul: Personal (1 PF),121,361,6,1628915,204365,,1611661320,27,32,2
+04:16,[PHO] Nurse Substitution replaced by Cunningham,0,-80,8,,1628915,1629482,1611661317,27,32,2
+04:06,[LAS] Anigwe Foul: Personal (2 PF),-82,80,6,203398,1629485,,1611661320,27,32,2
+03:56,[PHO] Walker 3pt Shot: Missed,147,204,2,,1630136,,1611661317,27,32,2
+03:53,[LAS] Toliver Rebound (Off:0 Def:1),147,204,4,,201911,,1611661320,27,32,2
+03:49,[PHO] Griner Foul: Shooting (2 PF) (2 FTA),-4,62,6,1629485,203398,,1611661317,27,32,2
+03:49,[LAS] Anigwe Free Throw 1 of 2 Missed,0,-80,3,,1629485,,1611661320,27,32,2
+03:49,[LAS] Team Rebound,0,-80,4,,0,,1611661320,27,32,2
+03:49,[LAS 28-32] Anigwe Free Throw 2 of 2 (1 PTS),0,-80,3,,1629485,,1611661320,28,32,2
+03:29,[PHO 34-28] Turner Alley Oop Layup shot: Made (4 PTS) Assist: Griner (1 AST),-13,28,1,,1629488,203398,1611661317,28,34,2
+03:16,[LAS] Anigwe Driving Reverse Layup Shot: Missed,-15,13,2,,1629485,,1611661320,28,34,2
+03:14,[PHO] Griner Rebound (Off:0 Def:2),-15,13,4,,203398,,1611661317,28,34,2
+03:09,[PHO 36-28] Diggins-Smith Floating Jump shot: Made (9 PTS),17,55,1,,203400,,1611661317,28,36,2
+02:47,[LAS] Toliver 3pt Shot: Missed,-148,214,2,,201911,,1611661320,28,36,2
+02:43,[PHO] Griner Rebound (Off:0 Def:3),-148,214,4,,203398,,1611661317,28,36,2
+02:39,[PHO] Diggins-Smith 3pt Shot: Missed,102,216,2,,203400,,1611661317,28,36,2
+02:34,[LAS] Coffey Rebound (Off:1 Def:2),102,216,4,,1628269,,1611661320,28,36,2
+02:22,[LAS] Coffey Foul: Offensive (1 PF),7,80,6,203400,1628269,,1611661320,28,36,2
+02:22,[LAS] Coffey Turnover : Offensive Foul Turnover (2 TO),7,80,5,,1628269,,1611661320,28,36,2
+02:22,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,28,36,2
+02:08,[PHO] Diggins-Smith 3pt Shot: Missed,-208,104,2,,203400,,1611661317,28,36,2
+02:08,[PHO] Team Rebound,-208,104,4,,0,,1611661317,28,36,2
+02:08,[LAS] Anigwe Foul: Loose Ball (3 PF) (2 FTA),-50,129,6,203400,1629485,,1611661320,28,36,2
+02:08,[PHO 37-28] Diggins-Smith Free Throw 1 of 2 (10 PTS),0,-80,3,,203400,,1611661317,28,37,2
+02:08,[PHO 38-28] Diggins-Smith Free Throw 2 of 2 (11 PTS),0,-80,3,,203400,,1611661317,28,38,2
+01:45,[PHO] Walker Foul: Shooting (1 PF) (2 FTA),-97,84,6,204365,1630136,,1611661317,28,38,2
+01:45,[LAS 29-38] Wheeler Free Throw 1 of 2 (3 PTS),0,-80,3,,204365,,1611661320,29,38,2
+01:45,[LAS 30-38] Wheeler Free Throw 2 of 2 (4 PTS),0,-80,3,,204365,,1611661320,30,38,2
+01:31,[LAS] Holmes Foul: Shooting (2 PF) (2 FTA),26,32,6,1630136,1627678,,1611661320,30,38,2
+01:31,[PHO] Walker Free Throw 1 of 2 Missed,0,-80,3,,1630136,,1611661317,30,38,2
+01:31,[PHO] Team Rebound,0,-80,4,,0,,1611661317,30,38,2
+01:31,[PHO 39-30] Walker Free Throw 2 of 2 (7 PTS),0,-80,3,,1630136,,1611661317,30,39,2
+01:13,[LAS 32-39] Wheeler Driving Layup Shot: Made (6 PTS),-22,19,1,,204365,,1611661320,32,39,2
+01:07,[PHO 41-32] Diggins-Smith Driving Floating Jump Shot: Made (13 PTS),16,15,1,,203400,,1611661317,32,41,2
+01:07,[LAS] Wheeler Foul: Shooting (2 PF) (1 FTA),16,15,6,203400,204365,,1611661320,32,41,2
+01:07,[PHO 42-32] Diggins-Smith Free Throw 1 of 1 (14 PTS),0,-80,3,,203400,,1611661317,32,42,2
+00:48.0,[LAS 34-42] Holmes Driving Layup Shot: Made (8 PTS) Assist: Coffey (1 AST),-15,14,1,,1627678,1628269,1611661320,34,42,2
+00:39.8,[LAS] Coffey Foul: Shooting (2 PF) (2 FTA),-23,33,6,1629488,1628269,,1611661320,34,42,2
+00:39.8,[PHO 43-34] Turner Free Throw 1 of 2 (5 PTS),0,-80,3,,1629488,,1611661317,34,43,2
+00:39.8,[PHO 44-34] Turner Free Throw 2 of 2 (6 PTS),0,-80,3,,1629488,,1611661317,34,44,2
+00:23.8,[LAS 36-44] Coffey Turnaround Jump Shot: Made (5 PTS),46,35,1,,1628269,,1611661320,36,44,2
+00:03.7,[PHO] Diggins-Smith Jump Shot: Missed,-35,40,2,,203400,,1611661317,36,44,2
+00:02.2,[LAS] Holmes Rebound (Off:1 Def:2),-35,40,4,,1627678,,1611661320,36,44,2
+00:00.3,[LAS] Toliver Jump Shot: Missed,47,102,2,,201911,,1611661320,36,44,2
+00:00.1,[LAS] Team Rebound,47,102,4,,0,,1611661320,36,44,2
+00:00.0,End Period,0,-80,13,,0,,0,36,44,2
+10:00,Start Period,0,-80,12,,0,,0,36,44,3
+09:44,[LAS] Wheeler Turnover : Bad Pass (1 TO) Steal:Diggins-Smith (2 ST),-31,228,5,203400,204365,,1611661320,36,44,3
+09:30,[PHO] Cunningham 3pt Shot: Missed,124,245,2,,1629482,,1611661317,36,44,3
+09:26,[LAS] Zahui B Rebound (Off:0 Def:3),124,245,4,,204320,,1611661320,36,44,3
+09:10,[LAS 39-44] Holmes 3pt Shot: Made (11 PTS) Assist: Wheeler (2 AST),99,227,1,,1627678,204365,1611661320,39,44,3
+08:51,[PHO 46-39] Turner Cutting Layup Shot: Made (8 PTS) Assist: Griner (2 AST),-26,14,1,,1629488,203398,1611661317,39,46,3
+08:36,[LAS] Wheeler Driving Floating Bank Jump Shot: Missed,3,40,2,,204365,,1611661320,39,46,3
+08:33,[PHO] Turner Rebound (Off:0 Def:3),3,40,4,,1629488,,1611661317,39,46,3
+08:26,[PHO 48-39] Griner Jump Shot: Made (11 PTS) Assist: Diggins-Smith (2 AST),102,137,1,,203398,203400,1611661317,39,48,3
+08:12,[LAS 41-48] Wheeler Pullup Jump shot: Made (8 PTS),-67,185,1,,204365,,1611661320,41,48,3
+07:56,[PHO] Nurse Driving Layup Shot: Missed,7,37,2,,1628915,,1611661317,41,48,3
+07:52,[LAS] Zahui B Rebound (Off:0 Def:4),7,37,4,,204320,,1611661320,41,48,3
+07:50,[LAS] Zahui B Turnover : Bad Pass (1 TO) Steal:Cunningham (1 ST),-12,521,5,1629482,204320,,1611661320,41,48,3
+07:48,[PHO] Cunningham Layup Shot: Missed,-11,32,2,,1629482,,1611661317,41,48,3
+07:46,[LAS] Holmes Rebound (Off:1 Def:3),-11,32,4,,1627678,,1611661320,41,48,3
+07:43,[LAS] Toliver Running Jump Shot: Missed,-96,64,2,,201911,,1611661320,41,48,3
+07:40,[PHO] Griner Rebound (Off:0 Def:4),-96,64,4,,203398,,1611661317,41,48,3
+07:30,[PHO] Diggins-Smith Driving Layup Shot: Missed,35,19,2,,203400,,1611661317,41,48,3
+07:28,[PHO] Turner Rebound (Off:1 Def:3),35,19,4,,1629488,,1611661317,41,48,3
+07:28,[PHO 50-41] Turner Tip Layup Shot: Made (10 PTS),0,-5,1,,1629488,,1611661317,41,50,3
+07:28,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,41,50,3
+07:18,[LAS] Wheeler Pullup Jump shot: Missed,-22,77,2,,204365,,1611661320,41,50,3
+07:17,[PHO] Team Rebound,-22,77,4,,0,,1611661317,41,50,3
+07:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,50,3
+06:58,[PHO] Diggins-Smith Turnover : Lost Ball (2 TO) Steal:Zahui B (1 ST),23,14,5,204320,203400,,1611661317,41,50,3
+06:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,50,3
+06:45,[LAS] Zahui B 3pt Shot: Missed,144,211,2,,204320,,1611661320,41,50,3
+06:43,[PHO] Diggins-Smith Rebound (Off:1 Def:3),144,211,4,,203400,,1611661317,41,50,3
+06:35,[PHO] Griner Turnover : Lost Ball (2 TO) Steal:Toliver (3 ST),29,65,5,201911,203398,,1611661317,41,50,3
+06:27,[LAS] Holmes 3pt Shot: Missed,-96,237,2,,1627678,,1611661320,41,50,3
+06:22,[LAS] Wheeler Rebound (Off:2 Def:1),-96,237,4,,204365,,1611661320,41,50,3
+06:21,[PHO] Diggins-Smith Foul: Personal (3 PF),52,140,6,204365,203400,,1611661317,41,50,3
+06:18,[PHO] Griner Foul: Personal (3 PF),-109,119,6,204320,203398,,1611661317,41,50,3
+06:09,[LAS 43-50] Zahui B Layup Shot: Made (5 PTS) Assist: Toliver (2 AST),36,28,1,,204320,201911,1611661320,43,50,3
+05:51,[PHO] Nurse Turnover : Lost Ball (1 TO) Steal:Coffey (1 ST),142,167,5,1628269,1628915,,1611661317,43,50,3
+05:47,[PHO] Cunningham Foul: Personal (1 PF),13,44,6,204320,1629482,,1611661317,43,50,3
+05:40,[LAS 45-50] Wheeler Jump Shot: Made (10 PTS),63,168,1,,204365,,1611661320,45,50,3
+05:24,[PHO] Nurse 3pt Shot: Missed,157,209,2,,1628915,,1611661317,45,50,3
+05:21,[LAS] Wheeler Rebound (Off:2 Def:2),157,209,4,,204365,,1611661320,45,50,3
+05:08,[LAS] Coffey Driving Layup Shot: Missed,25,62,2,,1628269,,1611661320,45,50,3
+05:06,[PHO] Griner Rebound (Off:0 Def:5),25,62,4,,203398,,1611661317,45,50,3
+04:59,[PHO 52-45] Diggins-Smith Driving Layup Shot: Made (16 PTS),-11,15,1,,203400,,1611661317,45,52,3
+04:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,52,3
+04:56,[LAS] Coffey Substitution replaced by Sykes,0,-80,8,,1628269,1628279,1611661320,45,52,3
+04:52,[PHO] Cunningham Foul: Personal (2 PF),-91,198,6,1627678,1629482,,1611661317,45,52,3
+04:45,[LAS] Wheeler Jump Shot: Missed,69,112,2,203398,204365,,1611661320,45,52,3
+04:42,[PHO] Griner Rebound (Off:0 Def:6),69,112,4,,203398,,1611661317,45,52,3
+04:36,[LAS] Wheeler Foul: Personal (3 PF),-16,185,6,203398,204365,,1611661320,45,52,3
+04:36,[LAS] Wheeler Substitution replaced by Cooper,0,-80,8,,204365,1630099,1611661320,45,52,3
+04:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,52,3
+04:26,[PHO] Griner Jump Shot: Missed,-19,62,2,,203398,,1611661317,45,52,3
+04:23,[LAS] Zahui B Rebound (Off:0 Def:5),-19,62,4,,204320,,1611661320,45,52,3
+04:17,[LAS] Toliver Jump Shot: Missed,50,150,2,,201911,,1611661320,45,52,3
+04:14,[PHO] Cunningham Rebound (Off:0 Def:1),50,150,4,,1629482,,1611661317,45,52,3
+04:08,[LAS] Toliver Foul: Personal (1 PF),-149,49,6,203400,201911,,1611661320,45,52,3
+04:08,[PHO] Nurse Substitution replaced by Walker,0,-80,8,,1628915,1630136,1611661317,45,52,3
+03:51,[PHO] Team Turnover : Shot Clock Turnover,-70,85,5,,0,,1611661317,45,52,3
+03:32,[PHO] Diggins-Smith Foul: Loose Ball (4 PF) (2 FTA),77,296,6,1628279,203400,,1611661317,45,52,3
+03:32,[LAS 46-52] Sykes Free Throw 1 of 2 (6 PTS),0,-80,3,,1628279,,1611661320,46,52,3
+03:32,[PHO] Diggins-Smith Substitution replaced by Peddy,0,-80,8,,203400,203035,1611661317,46,52,3
+03:32,[PHO] Cunningham Substitution replaced by Nurse,0,-80,8,,1629482,1628915,1611661317,46,52,3
+03:32,[LAS 47-52] Sykes Free Throw 2 of 2 (7 PTS),0,-80,3,,1628279,,1611661320,47,52,3
+03:20,[LAS] Zahui B Foul: Personal (4 PF),73,160,6,203398,204320,,1611661320,47,52,3
+03:20,[LAS] Zahui B Substitution replaced by Anigwe,0,-80,8,,204320,1629485,1611661320,47,52,3
+03:05,[PHO] Team Turnover : Shot Clock Turnover,120,213,5,,0,,1611661317,47,52,3
+02:49,[PHO] Nurse Foul: Personal (2 PF) (2 FTA),-47,82,6,1628279,1628915,,1611661317,47,52,3
+02:49,[LAS 48-52] Sykes Free Throw 1 of 2 (8 PTS),0,-80,3,,1628279,,1611661320,48,52,3
+02:49,[LAS] Sykes Free Throw 2 of 2 Missed,0,-80,3,,1628279,,1611661320,48,52,3
+02:46,[PHO] Griner Rebound (Off:0 Def:7),0,-80,4,,203398,,1611661317,48,52,3
+02:29,[PHO 55-48] Peddy 3pt Shot: Made (3 PTS),181,170,1,,203035,,1611661317,48,55,3
+02:29,[LAS] Cooper Foul: Shooting (2 PF) (1 FTA),181,170,6,203035,1630099,,1611661320,48,55,3
+02:29,[PHO 56-48] Peddy Free Throw 1 of 1 (4 PTS),0,-80,3,,203035,,1611661317,48,56,3
+02:12,[LAS] Sykes Pullup Jump shot: Missed,-95,151,2,,1628279,,1611661320,48,56,3
+02:07,[PHO] Turner Rebound (Off:1 Def:4),-95,151,4,,1629488,,1611661317,48,56,3
+01:48,[PHO] Peddy Driving Layup Shot: Missed,11,49,2,,203035,,1611661317,48,56,3
+01:48,[PHO] Team Rebound,11,49,4,,0,,1611661317,48,56,3
+01:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,56,3
+01:45,[PHO] Griner Jump Shot: Missed,-144,8,2,,203398,,1611661317,48,56,3
+01:42,[LAS] Sykes Rebound (Off:1 Def:3),-144,8,4,,1628279,,1611661320,48,56,3
+01:29,[LAS] Holmes Driving Layup Shot: Missed,25,37,2,,1627678,,1611661320,48,56,3
+01:27,[PHO] Griner Rebound (Off:0 Def:8),25,37,4,,203398,,1611661317,48,56,3
+01:27,[LAS] Fisher Technical (1 FTA),0,-80,6,,204006,,1611661320,48,56,3
+01:27,[PHO 57-48] Peddy Free Throw Technical (5 PTS),0,-80,3,,203035,,1611661317,48,57,3
+01:09,[PHO 60-48] Nurse 3pt Shot: Made (4 PTS) Assist: Walker (1 AST),221,54,1,,1628915,1630136,1611661317,48,60,3
+00:55.8,[PHO] Nurse Foul: Personal (3 PF) (2 FTA),-146,139,6,1629485,1628915,,1611661317,48,60,3
+00:55.8,[LAS] Anigwe Free Throw 1 of 2 Missed,0,-80,3,,1629485,,1611661320,48,60,3
+00:55.8,[LAS] Team Rebound,0,-80,4,,0,,1611661320,48,60,3
+00:55.8,[LAS 49-60] Anigwe Free Throw 2 of 2 (2 PTS),0,-80,3,,1629485,,1611661320,49,60,3
+00:32.1,[LAS] Sykes Foul: Shooting (2 PF) (2 FTA),13,33,6,1628915,1628279,,1611661320,49,60,3
+00:32.1,[PHO 61-49] Nurse Free Throw 1 of 2 (5 PTS),0,-80,3,,1628915,,1611661317,49,61,3
+00:32.1,[PHO 62-49] Nurse Free Throw 2 of 2 (6 PTS),0,-80,3,,1628915,,1611661317,49,62,3
+00:19.9,[LAS] Toliver Turnover : Bad Pass (1 TO) Steal:Turner (2 ST),-176,38,5,1629488,201911,,1611661320,49,62,3
+00:00.0,[PHO] Walker 3pt Shot: Missed,-139,219,2,,1630136,,1611661317,49,62,3
+00:00.0,[PHO] Team Rebound,-139,219,4,,0,,1611661317,49,62,3
+00:00.0,End Period,0,-80,13,,0,,0,49,62,3
+10:00,Start Period,0,-80,12,,0,,0,49,62,4
+09:48,[PHO] Walker Turnaround Jump Shot: Missed,-94,90,2,,1630136,,1611661317,49,62,4
+09:45,[LAS] Zahui B Rebound (Off:0 Def:6),-94,90,4,,204320,,1611661320,49,62,4
+09:36,[LAS] Zahui B Turnaround Jump Shot: Missed,78,62,2,,204320,,1611661320,49,62,4
+09:32,[PHO] Turner Rebound (Off:1 Def:5),78,62,4,,1629488,,1611661317,49,62,4
+09:10,[PHO] Walker Pullup Jump shot: Missed,-136,13,2,,1630136,,1611661317,49,62,4
+09:07,[LAS] Sykes Rebound (Off:1 Def:4),-136,13,4,,1628279,,1611661320,49,62,4
+08:52,[LAS] Holmes Driving Layup Shot: Missed,-28,58,2,,1627678,,1611661320,49,62,4
+08:52,[LAS] Team Rebound,-28,58,4,,0,,1611661320,49,62,4
+08:52,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,62,4
+08:51,[LAS] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-59,40,5,,204365,,1611661320,49,62,4
+08:36,[PHO] Walker 3pt Shot: Missed,-102,231,2,,1630136,,1611661317,49,62,4
+08:32,[LAS] Wheeler Rebound (Off:2 Def:3),-102,231,4,,204365,,1611661320,49,62,4
+08:23,[LAS 51-62] Sykes Cutting Finger Roll Layup Shot: Made (10 PTS) Assist: Zahui B (1 AST),-11,28,1,,1628279,204320,1611661320,51,62,4
+08:02,[PHO] Vaughn Foul: Offensive (1 PF),-13,40,6,1628279,201913,,1611661317,51,62,4
+08:02,[PHO] Vaughn Turnover : Offensive Foul Turnover (1 TO),-13,40,5,,201913,,1611661317,51,62,4
+08:02,[PHO] Nurse Substitution replaced by Griner,0,-80,8,,1628915,203398,1611661317,51,62,4
+08:02,[PHO] Turner Substitution replaced by Cunningham,0,-80,8,,1629488,1629482,1611661317,51,62,4
+07:49,[LAS] Sykes Jump Shot: Missed,0,196,2,,1628279,,1611661320,51,62,4
+07:49,[LAS] Team Rebound,0,196,4,,0,,1611661320,51,62,4
+07:49,[PHO] Walker Foul: Loose Ball (2 PF),14,74,6,204320,1630136,,1611661317,51,62,4
+07:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,62,4
+07:34,[LAS] Wheeler Turnover : Bad Pass (3 TO) Steal:Walker (1 ST),85,191,5,1630136,204365,,1611661320,51,62,4
+07:29,[LAS] Zahui B Foul: Shooting (5 PF) (2 FTA),-53,26,6,203400,204320,,1611661320,51,62,4
+07:29,[PHO 63-51] Diggins-Smith Free Throw 1 of 2 (17 PTS),0,-80,3,,203400,,1611661317,51,63,4
+07:29,[PHO] Diggins-Smith Free Throw 2 of 2 Missed,0,-80,3,,203400,,1611661317,51,63,4
+07:27,[PHO] Team Rebound,0,-80,4,,0,,1611661317,51,63,4
+07:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,63,4
+07:20,[LAS] Sykes Foul: Shooting (3 PF) (2 FTA),-28,31,6,1629482,1628279,,1611661320,51,63,4
+07:20,Instant Replay - Support Ruling,0,-80,18,,0,,0,51,63,4
+07:20,[PHO] Cunningham Technical (1 FTA),0,-80,6,,1629482,,1611661317,51,63,4
+07:20,[LAS 52-63] Wheeler Free Throw Technical (11 PTS),0,-80,3,,204365,,1611661320,52,63,4
+07:20,[PHO 64-52] Cunningham Free Throw 1 of 2 (4 PTS),0,-80,3,,1629482,,1611661317,52,64,4
+07:20,[PHO 65-52] Cunningham Free Throw 2 of 2 (5 PTS),0,-80,3,,1629482,,1611661317,52,65,4
+07:02,[PHO] Diggins-Smith Foul: Shooting (5 PF) (2 FTA),26,49,6,204365,203400,,1611661317,52,65,4
+07:02,[LAS 53-65] Wheeler Free Throw 1 of 2 (12 PTS),0,-80,3,,204365,,1611661320,53,65,4
+07:02,[LAS 54-65] Wheeler Free Throw 2 of 2 (13 PTS),0,-80,3,,204365,,1611661320,54,65,4
+06:42,[LAS] Sykes Foul: Shooting (4 PF) (2 FTA),-32,15,6,1630136,1628279,,1611661320,54,65,4
+06:42,[PHO] Walker Free Throw 1 of 2 Missed,0,-80,3,,1630136,,1611661317,54,65,4
+06:42,[PHO] Team Rebound,0,-80,4,,0,,1611661317,54,65,4
+06:42,[PHO 66-54] Walker Free Throw 2 of 2 (8 PTS),0,-80,3,,1630136,,1611661317,54,66,4
+06:28,[LAS 56-66] Wheeler Driving Layup Shot: Made (15 PTS),19,18,1,,204365,,1611661320,56,66,4
+06:16,[PHO 68-56] Diggins-Smith Driving Layup Shot: Made (19 PTS),-21,22,1,,203400,,1611661317,56,68,4
+05:55,[LAS] Wheeler Pullup Jump shot: Missed,37,76,2,,204365,,1611661320,56,68,4
+05:52,[PHO] Vaughn Rebound (Off:1 Def:3),37,76,4,,201913,,1611661317,56,68,4
+05:42,[LAS] Holmes Foul: Shooting (3 PF) (2 FTA),28,51,6,203398,1627678,,1611661320,56,68,4
+05:42,Timeout Officials,0,-80,9,,0,,0,56,68,4
+05:42,[PHO] Walker Substitution replaced by Nurse,0,-80,8,,1630136,1628915,1611661317,56,68,4
+05:42,[PHO] Diggins-Smith Substitution replaced by Peddy,0,-80,8,,203400,203035,1611661317,56,68,4
+05:42,[PHO 69-56] Griner Free Throw 1 of 2 (12 PTS),0,-80,3,,203398,,1611661317,56,69,4
+05:42,[PHO 70-56] Griner Free Throw 2 of 2 (13 PTS),0,-80,3,,203398,,1611661317,56,70,4
+05:26,[LAS 58-70] Sykes Driving Layup Shot: Made (12 PTS),13,28,1,,1628279,,1611661320,58,70,4
+05:11,[PHO] Peddy Turnover : Traveling (1 TO),-182,43,5,,203035,,1611661317,58,70,4
+04:51,[PHO] Peddy Foul: Shooting (2 PF) (2 FTA),38,28,6,204365,203035,,1611661317,58,70,4
+04:51,[LAS 59-70] Wheeler Free Throw 1 of 2 (16 PTS),0,-80,3,,204365,,1611661320,59,70,4
+04:51,[LAS 60-70] Wheeler Free Throw 2 of 2 (17 PTS),0,-80,3,,204365,,1611661320,60,70,4
+04:40,[LAS] Zahui B Foul: Personal (6 PF) (2 FTA),-121,60,6,203398,204320,,1611661320,60,70,4
+04:40,[LAS] Zahui B Substitution replaced by Toliver,0,-80,8,,204320,201911,1611661320,60,70,4
+04:40,[PHO] Griner Free Throw 1 of 2 Missed,0,-80,3,,203398,,1611661317,60,70,4
+04:40,[PHO] Team Rebound,0,-80,4,,0,,1611661317,60,70,4
+04:40,[PHO 71-60] Griner Free Throw 2 of 2 (14 PTS),0,-80,3,,203398,,1611661317,60,71,4
+04:26,[LAS 62-71] Sykes Step Back Jump shot: Made (14 PTS),-11,114,1,,1628279,,1611661320,62,71,4
+04:16,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,62,71,4
+04:16,[PHO] Vaughn Substitution replaced by Diggins-Smith,0,-80,8,,201913,203400,1611661317,62,71,4
+04:16,[PHO] Peddy Substitution replaced by Turner,0,-80,8,,203035,1629488,1611661317,62,71,4
+04:16,[PHO] Cunningham Substitution replaced by Walker,0,-80,8,,1629482,1630136,1611661317,62,71,4
+04:05,[PHO 73-62] Turner Driving Layup Shot: Made (12 PTS) Assist: Nurse (4 AST),-16,15,1,,1629488,1628915,1611661317,62,73,4
+04:05,[LAS] Coffey Foul: Shooting (3 PF) (1 FTA),-16,15,6,1629488,1628269,,1611661320,62,73,4
+04:05,[PHO 74-62] Turner Free Throw 1 of 1 (13 PTS),0,-80,3,,1629488,,1611661317,62,74,4
+03:41,[LAS] Wheeler 3pt Shot: Missed,86,243,2,203400,204365,,1611661320,62,74,4
+03:40,[LAS] Team Rebound,86,243,4,,0,,1611661320,62,74,4
+03:40,[LAS] Team Turnover : Shot Clock Turnover,96,173,5,,0,,1611661320,62,74,4
+03:24,[PHO 76-62] Turner Cutting Finger Roll Layup Shot: Made (15 PTS) Assist: Diggins-Smith (3 AST),8,15,1,,1629488,203400,1611661317,62,76,4
+03:24,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,62,76,4
+03:11,[LAS] Holmes Turnover : Out of Bounds - Bad Pass Turnover (2 TO),97,77,5,,1627678,,1611661320,62,76,4
+02:54,[PHO 78-62] Walker Jump Shot: Made (10 PTS) Assist: Diggins-Smith (4 AST),-119,25,1,,1630136,203400,1611661317,62,78,4
+02:41,[LAS] Toliver Driving Floating Jump Shot: Missed,50,55,2,,201911,,1611661320,62,78,4
+02:39,[PHO] Turner Rebound (Off:1 Def:6),50,55,4,,1629488,,1611661317,62,78,4
+02:17,[PHO] Diggins-Smith Jump Shot: Missed,-26,63,2,,203400,,1611661317,62,78,4
+02:14,[PHO] Turner Rebound (Off:2 Def:6),-26,63,4,,1629488,,1611661317,62,78,4
+02:14,[PHO] Turner Tip Layup Shot: Missed,0,-5,2,,1629488,,1611661317,62,78,4
+02:13,[LAS] Holmes Rebound (Off:1 Def:4),0,-5,4,,1627678,,1611661320,62,78,4
+02:04,[LAS] Wheeler Driving Layup Shot: Missed,30,55,2,,204365,,1611661320,62,78,4
+01:59,[PHO] Walker Rebound (Off:0 Def:1),30,55,4,,1630136,,1611661317,62,78,4
+01:58,[LAS] Holmes Foul: Shooting (4 PF) (2 FTA),-16,16,6,203400,1627678,,1611661320,62,78,4
+01:58,[PHO 79-62] Diggins-Smith Free Throw 1 of 2 (20 PTS),0,-80,3,,203400,,1611661317,62,79,4
+01:58,[LAS] Coffey Substitution replaced by Anigwe,0,-80,8,,1628269,1629485,1611661320,62,79,4
+01:58,[LAS] Wheeler Substitution replaced by Cooper,0,-80,8,,204365,1630099,1611661320,62,79,4
+01:58,[LAS] Toliver Substitution replaced by Guirantes,0,-80,8,,201911,1630441,1611661320,62,79,4
+01:58,[LAS] Holmes Substitution replaced by Samuelson,0,-80,8,,1627678,1628317,1611661320,62,79,4
+01:58,[PHO 80-62] Diggins-Smith Free Throw 2 of 2 (21 PTS),0,-80,3,,203400,,1611661317,62,80,4
+01:40,[LAS] Sykes Jump Shot: Missed,122,40,2,203398,1628279,,1611661320,62,80,4
+01:36,[PHO] Walker Rebound (Off:0 Def:2),122,40,4,,1630136,,1611661317,62,80,4
+01:28,[PHO] Turner Turnover : Bad Pass (2 TO) Steal:Cooper (1 ST),100,209,5,1630099,1629488,,1611661317,62,80,4
+01:22,[LAS 64-80] Anigwe Cutting Layup Shot: Made (4 PTS) Assist: Samuelson (1 AST),11,16,1,,1629485,1628317,1611661320,64,80,4
+01:04,[PHO] Nurse Turnover : Bad Pass (2 TO) Steal:Anigwe (1 ST),-96,191,5,1629485,1628915,,1611661317,64,80,4
+00:49.5,[LAS] Guirantes Turnover : Bad Pass (1 TO) Steal:Turner (3 ST),-59,32,5,1629488,1630441,,1611661320,64,80,4
+00:33.1,[PHO] Walker 3pt Shot: Missed,115,234,2,,1630136,,1611661317,64,80,4
+00:29.2,[LAS] Guirantes Rebound (Off:0 Def:1),115,234,4,,1630441,,1611661320,64,80,4
+00:26.1,[PHO] Walker Foul: Personal Take (3 PF),136,215,6,1630441,1630136,,1611661317,64,80,4
+00:26.1,[PHO] Nurse Substitution replaced by Smith,0,-80,8,,1628915,1629501,1611661317,64,80,4
+00:26.1,[PHO] Diggins-Smith Substitution replaced by Peddy,0,-80,8,,203400,203035,1611661317,64,80,4
+00:26.1,[PHO] Turner Substitution replaced by Vaughn,0,-80,8,,1629488,201913,1611661317,64,80,4
+00:26.1,[PHO] Griner Substitution replaced by Gorecki,0,-80,8,,203398,1630110,1611661317,64,80,4
+00:15.0,[LAS] Cooper Driving Layup Shot: Missed,19,40,2,,1630099,,1611661320,64,80,4
+00:11.6,[PHO] Walker Rebound (Off:0 Def:3),19,40,4,,1630136,,1611661317,64,80,4
+00:11.1,[PHO] Walker Turnover : Bad Pass (2 TO) Steal:Sykes (1 ST),97,553,5,1628279,1630136,,1611661317,64,80,4
+00:01.8,[LAS 66-80] Guirantes Step Back Jump shot: Made (2 PTS),-70,162,1,,1630441,,1611661320,66,80,4
+00:00.0,End Period,0,-80,13,,0,,0,66,80,4
+00:00.0,Game End,0,-80,0,,0,,0,66,80,4

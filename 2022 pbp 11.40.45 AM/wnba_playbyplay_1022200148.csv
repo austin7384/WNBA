@@ -1,0 +1,403 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Jones vs Parker (Thomas gains possession),0,-80,10,204323,1627673,203826,1611661323,0,0,1
+09:53,[CON 2-0] Thomas Driving Layup Shot: Made (2 PTS),-1,-1,1,,203826,,1611661323,0,2,1
+09:37,[ATL] Hayes Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),-16,76,5,201886,203026,,1611661330,0,2,1
+09:22,[ATL] Parker Foul: Shooting (1 PF) (2 FTA),-3,99,6,1627673,204323,,1611661330,0,2,1
+09:22,[CON 3-0] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1627673,,1611661323,0,3,1
+09:22,[CON 4-0] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1627673,,1611661323,0,4,1
+09:09,[CON] Jones Foul: Personal (1 PF),-58,33,6,1628881,1627673,,1611661323,0,4,1
+08:57,[ATL] Durr 3pt Shot: Missed,104,210,2,,1629476,,1611661330,0,4,1
+08:53,[CON] Jones Rebound (Off:0 Def:1),104,210,4,,1627673,,1611661323,0,4,1
+08:43,[CON 6-0] Jones Layup Shot: Made (4 PTS) Assist: Thomas (1 AST),17,6,1,,1627673,203826,1611661323,0,6,1
+08:31,[CON] Jones Foul: Shooting (2 PF) (2 FTA),11,10,6,204323,1627673,,1611661323,0,6,1
+08:31,[ATL 1-6] Parker Free Throw 1 of 2 (1 PTS),0,-80,3,,204323,,1611661330,1,6,1
+08:31,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,1,6,1
+08:31,[ATL] Parker Free Throw 2 of 2 Missed,0,-80,3,,204323,,1611661330,1,6,1
+08:29,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,203826,,1611661323,1,6,1
+08:13,[CON 8-1] Thomas Turnaround Jump Shot: Made (4 PTS),46,105,1,,203826,,1611661323,1,8,1
+08:03,[ATL 3-8] Billings Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Wheeler (1 AST),-30,4,1,,1628881,204365,1611661330,3,8,1
+07:43,[CON] Jones Foul: Offensive (1 PF),-50,60,6,204323,1628280,,1611661323,3,8,1
+07:43,[CON] Jones Turnover : Offensive Foul Turnover (1 TO),-50,60,5,,1628280,,1611661323,3,8,1
+07:28,[ATL] Wheeler Pullup Jump shot: Missed,60,38,2,,204365,,1611661330,3,8,1
+07:25,[CON] Thomas Rebound (Off:0 Def:2),60,38,4,,203826,,1611661323,3,8,1
+07:17,[ATL] Wheeler Foul: Personal (1 PF),-34,28,6,1628280,204365,,1611661330,3,8,1
+07:05,[CON] Hiedeman Pullup Jump shot: Missed,160,86,2,,1629567,,1611661323,3,8,1
+07:01,[ATL] Billings Rebound (Off:0 Def:1),160,86,4,,1628881,,1611661330,3,8,1
+06:56,[ATL 5-8] Durr Pullup Jump shot: Made (2 PTS),-19,150,1,,1629476,,1611661330,5,8,1
+06:38,[CON] Thomas Floating Jump shot: Missed,46,151,2,,203826,,1611661323,5,8,1
+06:34,[CON] Jones Rebound (Off:1 Def:0),46,151,4,,1628280,,1611661323,5,8,1
+06:26,[CON 10-5] Williams Pullup Jump shot: Made (2 PTS),-92,185,1,,1627675,,1611661323,5,10,1
+06:09,[ATL] Parker Turnover : Lost Ball (1 TO) Steal:Thomas (1 ST),45,37,5,203826,204323,,1611661330,5,10,1
+06:06,[ATL] Hayes Foul: Shooting (1 PF) (2 FTA),5,21,6,203826,203026,,1611661330,5,10,1
+06:06,[CON 11-5] Thomas Free Throw 1 of 2 (5 PTS),0,-80,3,,203826,,1611661323,5,11,1
+06:06,[ATL] Durr Substitution replaced by Wallace,0,-80,8,,1629476,1628929,1611661330,5,11,1
+06:06,[ATL] Parker Substitution replaced by Vaughn,0,-80,8,,204323,201913,1611661330,5,11,1
+06:06,[CON 12-5] Thomas Free Throw 2 of 2 (6 PTS),0,-80,3,,203826,,1611661323,5,12,1
+05:54,[ATL] Hayes Turnover : Lost Ball (2 TO) Steal:Hiedeman (1 ST),-39,169,5,1629567,203026,,1611661330,5,12,1
+05:50,[CON 14-5] Bonner Running Layup Shot: Made (2 PTS) Assist: Hiedeman (1 AST),6,10,1,,201886,1629567,1611661323,5,14,1
+05:25,[ATL] Hayes 3pt Shot: Missed,82,242,2,,203026,,1611661330,5,14,1
+05:23,[ATL] Team Rebound,49,221,4,,0,,1611661330,5,14,1
+05:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,14,1
+05:16,[ATL 7-14] Hayes Driving Layup Shot: Made (2 PTS) Assist: Wallace (1 AST),3,9,1,,203026,1628929,1611661330,7,14,1
+05:05,[ATL] Vaughn Foul: Personal (1 PF),-62,91,6,1628280,201913,,1611661330,7,14,1
+04:58,[ATL] Vaughn Foul: Shooting (2 PF) (2 FTA),34,28,6,1628280,201913,,1611661330,7,14,1
+04:58,Timeout Officials,0,-80,9,,0,,0,7,14,1
+04:58,[ATL] Billings Substitution replaced by Hillmon,0,-80,8,,1628881,1631044,1611661330,7,14,1
+04:58,[ATL] Vaughn Substitution replaced by Mompremier,0,-80,8,,201913,1629492,1611661330,7,14,1
+04:58,[CON 15-7] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1628280,,1611661323,7,15,1
+04:58,[CON 16-7] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1628280,,1611661323,7,16,1
+04:35,[ATL] Mompremier Layup Shot: Missed,-24,0,2,,1629492,,1611661330,7,16,1
+04:31,[CON] Thomas Rebound (Off:0 Def:3),-24,0,4,,203826,,1611661323,7,16,1
+04:20,[CON 19-7] Hiedeman 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),-144,183,1,,1629567,1628280,1611661323,7,19,1
+03:59,[ATL 9-19] Mompremier Layup Shot: Made (2 PTS) Assist: Wallace (2 AST),-18,-8,1,,1629492,1628929,1611661330,9,19,1
+03:43,[CON] Jones Cutting Layup Shot: Missed,19,22,2,,1628280,,1611661323,9,19,1
+03:41,[ATL] Mompremier Rebound (Off:0 Def:1),19,22,4,,1629492,,1611661330,9,19,1
+03:34,[ATL 11-19] Hayes Turnaround Fadeaway shot: Made (4 PTS) Assist: Wheeler (2 AST),34,59,1,,203026,204365,1611661330,11,19,1
+03:34,[CON] Hiedeman Foul: Shooting (1 PF) (1 FTA),34,59,6,203026,1629567,,1611661323,11,19,1
+03:34,[ATL 12-19] Hayes Free Throw 1 of 1 (5 PTS),0,-80,3,,203026,,1611661330,12,19,1
+03:14,[CON] Hiedeman 3pt Shot: Missed,240,-12,2,1629492,1629567,,1611661323,12,19,1
+03:13,[CON] Team Rebound,240,-12,4,,0,,1611661323,12,19,1
+03:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,19,1
+03:13,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,12,19,1
+03:10,[CON] Jones Pullup Jump shot: Missed,-1,117,2,,1628280,,1611661323,12,19,1
+03:07,[CON] Jones Rebound (Off:2 Def:0),-1,117,4,,1628280,,1611661323,12,19,1
+02:59,[CON 21-12] Thomas Cutting Layup Shot: Made (8 PTS) Assist: Williams (1 AST),11,0,1,,203826,1627675,1611661323,12,21,1
+02:52,[CON] Jones Foul: Shooting (2 PF) (2 FTA),-21,0,6,203026,1628280,,1611661323,12,21,1
+02:52,[ATL] Hayes Free Throw 1 of 2 Missed,0,-80,3,,203026,,1611661330,12,21,1
+02:52,[ATL] Team Rebound,0,-80,4,,0,,1611661330,12,21,1
+02:52,[ATL] Wheeler Substitution replaced by McDonald,0,-80,8,,204365,1630462,1611661330,12,21,1
+02:52,[ATL 13-21] Hayes Free Throw 2 of 2 (6 PTS),0,-80,3,,203026,,1611661330,13,21,1
+02:32,[CON] Thomas Turnover : 3 Second Violation (1 TO),17,42,5,,203826,,1611661323,13,21,1
+02:21,[ATL] Hayes 3pt Shot: Missed,176,151,2,,203026,,1611661330,13,21,1
+02:16,[CON] Williams Rebound (Off:0 Def:1),176,151,4,,1627675,,1611661323,13,21,1
+02:13,[CON] Williams Running Pull-Up Jump Shot: Missed,-7,183,2,,1627675,,1611661323,13,21,1
+02:09,[ATL] Mompremier Rebound (Off:0 Def:2),-7,183,4,,1629492,,1611661330,13,21,1
+02:00,[ATL] Hayes Turnover : Bad Pass (3 TO) Steal:Hiedeman (2 ST),-177,35,5,1629567,203026,,1611661330,13,21,1
+01:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,21,1
+01:36,[CON] Carrington Pullup Jump shot: Missed,65,185,2,,1630096,,1611661323,13,21,1
+01:35,[CON] Team Rebound,65,185,4,,0,,1611661323,13,21,1
+01:35,[CON] Team Turnover : Shot Clock Turnover,7,23,5,,0,,1611661323,13,21,1
+01:23,[ATL] Hayes Turnover : Out of Bounds Lost Ball Turnover (4 TO),84,-32,5,,203026,,1611661330,13,21,1
+01:07,[CON 24-13] Carrington 3pt Shot: Made (3 PTS) Assist: Thomas (2 AST),191,150,1,,1630096,203826,1611661323,13,24,1
+00:56.5,[ATL 15-24] Hayes Driving Layup Shot: Made (8 PTS) Assist: McDonald (1 AST),-10,-10,1,,203026,1630462,1611661330,15,24,1
+00:42.3,[CON 26-15] Jones Reverse Layup Shot: Made (4 PTS) Assist: Thomas (3 AST),7,3,1,,1628280,203826,1611661323,15,26,1
+00:32.6,[ATL] McDonald Driving Layup Shot: Missed,-41,37,2,,1630462,,1611661330,15,26,1
+00:31.9,[ATL] Team Rebound,-41,37,4,,0,,1611661330,15,26,1
+00:31.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,26,1
+00:23.3,[ATL] Hayes Turnover : Lost Ball (5 TO) Steal:Williams (1 ST),-15,38,5,1627675,203026,,1611661330,15,26,1
+00:17.4,[CON 28-15] Hiedeman Running Layup Shot: Made (5 PTS) Assist: Williams (2 AST),10,11,1,,1629567,1627675,1611661323,15,28,1
+00:04.4,[ATL] Hillmon Driving Layup Shot: Missed,17,30,2,,1631044,,1611661330,15,28,1
+00:04.4,[CON] Jones Rebound (Off:2 Def:1),17,30,4,,1628280,,1611661323,15,28,1
+00:00.3,[CON] Williams 3pt Shot: Missed,221,384,2,,1627675,,1611661323,15,28,1
+00:00.1,[CON] Team Rebound,221,384,4,,0,,1611661323,15,28,1
+00:00.0,End Period,0,-80,13,,0,,0,15,28,1
+10:00,Start Period,0,-80,12,,0,,0,15,28,2
+09:44,[ATL] Durr 3pt Shot: Missed,94,216,2,,1629476,,1611661330,15,28,2
+09:40,[CON] Hiedeman Rebound (Off:0 Def:1),94,216,4,,1629567,,1611661323,15,28,2
+09:19,[CON] Hiedeman 3pt Shot: Missed,240,17,2,,1629567,,1611661323,15,28,2
+09:14,[ATL] Hillmon Rebound (Off:0 Def:1),240,17,4,,1631044,,1611661330,15,28,2
+09:03,[ATL] Hillmon Turnover : Bad Pass (1 TO) Steal:Carrington (1 ST),9,62,5,1630096,1631044,,1611661330,15,28,2
+08:59,[CON 30-15] Hiedeman Running Layup Shot: Made (7 PTS) Assist: Carrington (1 AST),8,8,1,,1629567,1630096,1611661323,15,30,2
+08:45,[ATL 17-30] McDonald Driving Layup Shot: Made (2 PTS) Assist: Wallace (3 AST),-29,44,1,,1630462,1628929,1611661330,17,30,2
+08:27,[ATL] Parker Foul: Shooting (2 PF) (2 FTA),6,8,6,1627673,204323,,1611661330,17,30,2
+08:27,[CON 31-17] Jones Free Throw 1 of 2 (5 PTS),0,-80,3,,1627673,,1611661323,17,31,2
+08:27,[CON] Williams Substitution replaced by Jones,0,-80,8,,1627675,1630119,1611661323,17,31,2
+08:27,[CON 32-17] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1627673,,1611661323,17,32,2
+08:16,[ATL 19-32] Durr Pullup Jump shot: Made (4 PTS) Assist: Wallace (4 AST),-27,75,1,,1629476,1628929,1611661330,19,32,2
+07:59,[ATL] Parker Foul: Shooting (3 PF) (2 FTA),24,17,6,1629567,204323,,1611661330,19,32,2
+07:59,[CON] Hiedeman Free Throw 1 of 2 Missed,0,-80,3,,1629567,,1611661323,19,32,2
+07:59,[CON] Team Rebound,0,-80,4,,0,,1611661323,19,32,2
+07:59,[ATL] Wallace Substitution replaced by Mompremier,0,-80,8,,1628929,1629492,1611661330,19,32,2
+07:59,[ATL] Parker Substitution replaced by Hayes,0,-80,8,,204323,203026,1611661330,19,32,2
+07:59,[CON 33-19] Hiedeman Free Throw 2 of 2 (8 PTS),0,-80,3,,1629567,,1611661323,19,33,2
+07:46,[ATL] Hayes Turnover : Bad Pass (6 TO) Steal:Jones (1 ST),-32,31,5,1627673,203026,,1611661330,19,33,2
+07:41,[CON] Jones Running Layup Shot: Missed,23,15,2,,1630119,,1611661323,19,33,2
+07:36,[ATL] Mompremier Rebound (Off:0 Def:3),23,15,4,,1629492,,1611661330,19,33,2
+07:32,[ATL 21-33] Hayes Driving Layup Shot: Made (10 PTS),-11,0,1,,203026,,1611661330,21,33,2
+07:32,[CON] Hiedeman Foul: Shooting (2 PF) (1 FTA),-11,0,6,203026,1629567,,1611661323,21,33,2
+07:32,[ATL 22-33] Hayes Free Throw 1 of 1 (11 PTS),0,-80,3,,203026,,1611661330,22,33,2
+07:23,[CON] Holmes Turnover : Lost Ball (1 TO) Steal:McDonald (1 ST),18,134,5,1630462,1630115,,1611661323,22,33,2
+07:18,[ATL 24-33] McDonald Running Layup Shot: Made (4 PTS),-7,3,1,,1630462,,1611661330,24,33,2
+07:00,[CON] Hiedeman Step Back Jump shot: Missed,96,0,2,,1629567,,1611661323,24,33,2
+06:55,[CON] Holmes Rebound (Off:1 Def:0),96,0,4,,1630115,,1611661323,24,33,2
+06:52,[CON] Jones Driving Reverse Layup Shot: Missed,-27,49,2,,1630119,,1611661323,24,33,2
+06:50,[ATL] McDonald Rebound (Off:0 Def:1),-27,49,4,,1630462,,1611661330,24,33,2
+06:49,[ATL] Durr Reverse Layup Shot: Missed,-5,10,2,,1629476,,1611661330,24,33,2
+06:44,[CON] Carrington Rebound (Off:0 Def:1),-5,10,4,,1630096,,1611661323,24,33,2
+06:41,[CON 36-24] Hiedeman 3pt Shot: Made (11 PTS) Assist: Carrington (2 AST),119,209,1,,1629567,1630096,1611661323,24,36,2
+06:31,[ATL] Durr Layup Shot: Missed,60,164,2,,1629476,,1611661330,24,36,2
+06:30,[ATL] Mompremier Rebound (Off:1 Def:3),60,164,4,,1629492,,1611661330,24,36,2
+06:28,[ATL] Mompremier Putback Layup Shot: Missed,9,6,2,,1629492,,1611661330,24,36,2
+06:25,[ATL] Hayes Rebound (Off:1 Def:0),9,6,4,,203026,,1611661330,24,36,2
+06:24,[ATL] Hayes Putback Layup Shot: Missed,10,8,2,,203026,,1611661330,24,36,2
+06:23,[CON] Team Rebound,10,8,4,,0,,1611661323,24,36,2
+06:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,36,2
+06:23,[CON] Hiedeman Substitution replaced by Clouden,0,-80,8,,1629567,1631002,1611661323,24,36,2
+06:23,[CON] Holmes Substitution replaced by Thomas,0,-80,8,,1630115,203826,1611661323,24,36,2
+06:23,[CON] Jones Substitution replaced by Bonner,0,-80,8,,1630119,201886,1611661323,24,36,2
+06:23,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,24,36,2
+06:23,[ATL] McDonald Substitution replaced by Wheeler,0,-80,8,,1630462,204365,1611661330,24,36,2
+06:00,[ATL] Mompremier Foul: Personal (1 PF),-1,21,6,203826,1629492,,1611661330,24,36,2
+05:45,[CON] Thomas Turnaround Jump Shot: Missed,96,-8,2,,203826,,1611661323,24,36,2
+05:40,[ATL] Hayes Rebound (Off:1 Def:1),96,-8,4,,203026,,1611661330,24,36,2
+05:33,[ATL 26-36] Mompremier Layup Shot: Made (4 PTS) Assist: Hayes (1 AST),3,28,1,,1629492,203026,1611661330,26,36,2
+05:20,[CON] Jones 3pt Shot: Missed,-81,223,2,,1627673,,1611661323,26,36,2
+05:15,[ATL] Hayes Rebound (Off:1 Def:2),-81,223,4,,203026,,1611661330,26,36,2
+05:11,[ATL] Durr 3pt Shot: Missed,-191,146,2,1630096,1629476,,1611661330,26,36,2
+05:07,[ATL] Durr Rebound (Off:1 Def:0),-191,146,4,,1629476,,1611661330,26,36,2
+05:07,[ATL 28-36] Hillmon Jump Shot: Made (2 PTS) Assist: Durr (1 AST),109,154,1,,1631044,1629476,1611661330,28,36,2
+05:07,[ATL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661330,28,36,2
+04:49,[ATL] Durr Foul: Shooting (1 PF) (2 FTA),44,21,6,1630096,1629476,,1611661330,28,36,2
+04:49,[CON 37-28] Carrington Free Throw 1 of 2 (4 PTS),0,-80,3,,1630096,,1611661323,28,37,2
+04:49,[CON] Carrington Free Throw 2 of 2 Missed,0,-80,3,,1630096,,1611661323,28,37,2
+04:45,[CON] Thomas Rebound (Off:1 Def:3),0,-80,4,,203826,,1611661323,28,37,2
+04:45,[CON] Thomas Putback Layup Shot: Missed,0,-5,2,,203826,,1611661323,28,37,2
+04:44,[ATL] Hillmon Rebound (Off:0 Def:2),0,-5,4,,1631044,,1611661330,28,37,2
+04:23,[ATL] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-112,5,5,,204365,,1611661330,28,37,2
+04:23,[CON] Clouden Substitution replaced by Hiedeman,0,-80,8,,1631002,1629567,1611661323,28,37,2
+04:11,[CON] Jones Turnover : 3 Second Violation (1 TO),30,85,5,,1627673,,1611661323,28,37,2
+04:00,[ATL] Hayes Driving Floating Jump Shot: Missed,11,60,2,,203026,,1611661330,28,37,2
+03:56,[CON] Jones Rebound (Off:0 Def:2),11,60,4,,1627673,,1611661323,28,37,2
+03:48,[CON 39-28] Jones Layup Shot: Made (8 PTS) Assist: Thomas (4 AST),-6,47,1,,1627673,203826,1611661323,28,39,2
+03:48,[ATL] Hillmon Foul: Shooting (1 PF) (1 FTA),-6,47,6,1627673,1631044,,1611661330,28,39,2
+03:48,[ATL] Durr Substitution replaced by McDonald,0,-80,8,,1629476,1630462,1611661330,28,39,2
+03:48,[CON 40-28] Jones Free Throw 1 of 1 (9 PTS),0,-80,3,,1627673,,1611661323,28,40,2
+03:32,[ATL 30-40] Hillmon Cutting Layup Shot: Made (4 PTS) Assist: Mompremier (1 AST),15,5,1,,1631044,1629492,1611661330,30,40,2
+03:19,[CON] Hiedeman 3pt Shot: Missed,191,156,2,,1629567,,1611661323,30,40,2
+03:12,[ATL] Hillmon Rebound (Off:0 Def:3),191,156,4,,1631044,,1611661330,30,40,2
+03:09,[ATL 32-40] Wheeler Running Layup Shot: Made (2 PTS),-41,32,1,,204365,,1611661330,32,40,2
+02:53,[CON 43-32] Jones 3pt Shot: Made (12 PTS) Assist: Bonner (1 AST),155,188,1,,1627673,201886,1611661323,32,43,2
+02:39,[ATL] Hillmon Jump Shot: Missed,-196,1,2,,1631044,,1611661330,32,43,2
+02:34,[CON] Thomas Rebound (Off:1 Def:4),-196,1,4,,203826,,1611661323,32,43,2
+02:28,Stoppage Other,0,-80,20,,0,,0,32,43,2
+02:28,Instant Replay - Support Ruling,0,-80,18,,0,,0,32,43,2
+02:28,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,32,43,2
+02:28,[ATL] Mompremier Substitution replaced by Vaughn,0,-80,8,,1629492,201913,1611661330,32,43,2
+02:28,[CON] Carrington Substitution replaced by Williams,0,-80,8,,1630096,1627675,1611661323,32,43,2
+02:21,[ATL] Hayes Foul: Personal (2 PF) (2 FTA),-50,39,6,203826,203026,,1611661330,32,43,2
+02:21,[CON 44-32] Thomas Free Throw 1 of 2 (9 PTS),0,-80,3,,203826,,1611661323,32,44,2
+02:21,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,32,44,2
+02:18,[ATL] Hayes Rebound (Off:1 Def:3),0,-80,4,,203026,,1611661330,32,44,2
+02:10,[ATL] Wheeler 3pt Shot: Missed,122,194,2,,204365,,1611661330,32,44,2
+02:06,[CON] Bonner Rebound (Off:0 Def:1),122,194,4,,201886,,1611661323,32,44,2
+01:50,[CON] Jones Turnover : Bad Pass (2 TO) Steal:Hillmon (1 ST),32,87,5,1631044,1627673,,1611661323,32,44,2
+01:41,[ATL] McDonald 3pt Shot: Missed,-191,145,2,,1630462,,1611661330,32,44,2
+01:37,[CON] Jones Rebound (Off:0 Def:3),-191,145,4,,1627673,,1611661323,32,44,2
+01:24,[CON] Jones Turnaround Jump Shot: Missed,97,117,2,,1627673,,1611661323,32,44,2
+01:21,[ATL] Hayes Rebound (Off:1 Def:4),97,117,4,,203026,,1611661330,32,44,2
+01:10,[ATL] Wheeler Pullup Jump shot: Missed,93,113,2,,204365,,1611661330,32,44,2
+01:07,[CON] Williams Rebound (Off:0 Def:2),93,113,4,,1627675,,1611661323,32,44,2
+01:00,[CON 46-32] Thomas Driving Floating Jump Shot: Made (11 PTS) Assist: Williams (3 AST),2,137,1,,203826,1627675,1611661323,32,46,2
+00:55.6,[CON] Williams Foul: Shooting (1 PF) (2 FTA),4,1,6,204365,1627675,,1611661323,32,46,2
+00:55.6,[ATL 33-46] Wheeler Free Throw 1 of 2 (3 PTS),0,-80,3,,204365,,1611661330,33,46,2
+00:55.6,[ATL] Wheeler Free Throw 2 of 2 Missed,0,-80,3,,204365,,1611661330,33,46,2
+00:49.7,[CON] Hiedeman Rebound (Off:0 Def:2),0,-80,4,,1629567,,1611661323,33,46,2
+00:46.5,[CON] Williams Pullup Jump shot: Missed,-127,34,2,,1627675,,1611661323,33,46,2
+00:43.4,[ATL] Hillmon Rebound (Off:0 Def:4),-127,34,4,,1631044,,1611661330,33,46,2
+00:27.9,[ATL] Wheeler Turnover : Bad Pass (2 TO) Steal:Bonner (2 ST),4,62,5,201886,204365,,1611661330,33,46,2
+00:17.8,[ATL] Wheeler Foul: Personal (2 PF) (2 FTA),113,280,6,1629567,204365,,1611661330,33,46,2
+00:17.8,[ATL] Wheeler Technical (1 FTA),0,-80,6,,204365,,1611661330,33,46,2
+00:17.8,[CON] Jones Free Throw Technical Missed,0,-80,3,,1627673,,1611661323,33,46,2
+00:17.8,[CON] Team Rebound,0,-80,4,,0,,1611661323,33,46,2
+00:17.8,[CON 47-33] Hiedeman Free Throw 1 of 2 (12 PTS),0,-80,3,,1629567,,1611661323,33,47,2
+00:17.8,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,33,47,2
+00:17.8,[CON 48-33] Hiedeman Free Throw 2 of 2 (13 PTS),0,-80,3,,1629567,,1611661323,33,48,2
+00:07.8,[ATL] McDonald 3pt Shot: Missed,220,32,2,,1630462,,1611661330,33,48,2
+00:02.7,[CON] Williams Rebound (Off:0 Def:3),220,32,4,,1627675,,1611661323,33,48,2
+00:00.0,[CON 51-33] Bonner 3pt Shot: Made (5 PTS) Assist: Hiedeman (2 AST),240,77,1,,201886,1629567,1611661323,33,51,2
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,33,51,2
+00:00.0,End Period,0,-80,13,,0,,0,33,51,2
+10:00,Start Period,0,-80,12,,0,,0,33,51,3
+09:41,[ATL 35-51] Parker Driving Layup Shot: Made (3 PTS) Assist: Vaughn (1 AST),-16,26,1,,204323,201913,1611661330,35,51,3
+09:24,[CON] Hiedeman Driving Layup Shot: Missed,5,13,2,,1629567,,1611661323,35,51,3
+09:21,[ATL] Vaughn Rebound (Off:0 Def:1),5,13,4,,201913,,1611661330,35,51,3
+09:07,[ATL] Parker Jump Shot: Missed,-24,121,2,,204323,,1611661330,35,51,3
+09:04,[CON] Thomas Rebound (Off:1 Def:5),-24,121,4,,203826,,1611661323,35,51,3
+08:54,[CON] Williams Turnover : Bad Pass (1 TO) Steal:Parker (1 ST),-46,43,5,204323,1627675,,1611661323,35,51,3
+08:51,[CON] Hiedeman Foul: Shooting (3 PF) (2 FTA),-1,11,6,1629476,1629567,,1611661323,35,51,3
+08:51,[ATL 36-51] Durr Free Throw 1 of 2 (5 PTS),0,-80,3,,1629476,,1611661330,36,51,3
+08:51,[ATL 37-51] Durr Free Throw 2 of 2 (6 PTS),0,-80,3,,1629476,,1611661330,37,51,3
+08:39,[CON 53-37] Williams Jump Shot: Made (4 PTS) Assist: Thomas (5 AST),178,8,1,,1627675,203826,1611661323,37,53,3
+08:26,[ATL 39-53] Vaughn Jump Shot: Made (2 PTS) Assist: Wheeler (3 AST),-142,8,1,,201913,204365,1611661330,39,53,3
+08:10,[CON] Jones Turnover : Bad Pass (3 TO) Steal:Parker (2 ST),16,20,5,204323,1627673,,1611661323,39,53,3
+08:04,[CON] Thomas Foul: Loose Ball (1 PF),-66,341,6,204323,203826,,1611661323,39,53,3
+07:52,[ATL] Parker Turnover : Out of Bounds Lost Ball Turnover (2 TO),-72,29,5,,204323,,1611661330,39,53,3
+07:50,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,39,53,3
+07:40,[CON] Thomas Floating Jump shot: Missed,-33,103,2,,203826,,1611661323,39,53,3
+07:35,[CON] Jones Rebound (Off:1 Def:3),-33,103,4,,1627673,,1611661323,39,53,3
+07:35,[CON 55-39] Jones Putback Layup Shot: Made (14 PTS),0,-5,1,,1627673,,1611661323,39,55,3
+07:25,[ATL] Parker Driving Layup Shot: Missed,21,32,2,,204323,,1611661330,39,55,3
+07:23,[CON] Williams Rebound (Off:0 Def:4),21,32,4,,1627675,,1611661323,39,55,3
+07:19,[ATL] Hayes Foul: Shooting (3 PF) (2 FTA),-8,6,6,1627673,203026,,1611661330,39,55,3
+07:19,[CON 56-39] Jones Free Throw 1 of 2 (15 PTS),0,-80,3,,1627673,,1611661323,39,56,3
+07:19,[CON 57-39] Jones Free Throw 2 of 2 (16 PTS),0,-80,3,,1627673,,1611661323,39,57,3
+07:11,[ATL] Durr Driving Layup Shot: Missed,-4,24,2,,1629476,,1611661330,39,57,3
+07:07,[CON] Bonner Rebound (Off:0 Def:2),-4,24,4,,201886,,1611661323,39,57,3
+06:58,[CON] Williams Jump Shot: Missed,-135,130,2,,1627675,,1611661323,39,57,3
+06:54,[ATL] Durr Rebound (Off:1 Def:1),-135,130,4,,1629476,,1611661330,39,57,3
+06:48,[ATL 41-57] Durr Pullup Jump shot: Made (8 PTS) Assist: Wheeler (4 AST),-21,164,1,,1629476,204365,1611661330,41,57,3
+06:32,[CON] Thomas Floating Jump shot: Missed,-7,150,2,,203826,,1611661323,41,57,3
+06:28,[ATL] Hayes Rebound (Off:1 Def:5),-7,150,4,,203026,,1611661330,41,57,3
+06:21,[ATL 43-57] Hayes Driving Layup Shot: Made (13 PTS),-29,33,1,,203026,,1611661330,43,57,3
+05:56,[CON 60-43] Bonner 3pt Shot: Made (8 PTS) Assist: Hiedeman (3 AST),229,-6,1,,201886,1629567,1611661323,43,60,3
+05:44,[ATL 46-60] Hayes 3pt Shot: Made (16 PTS) Assist: Wheeler (5 AST),-122,228,1,,203026,204365,1611661330,46,60,3
+05:27,[CON 63-46] Jones 3pt Shot: Made (19 PTS) Assist: Williams (4 AST),-61,221,1,,1627673,1627675,1611661323,46,63,3
+05:13,[ATL] Wheeler Step Back Jump shot: Missed,161,3,2,,204365,,1611661330,46,63,3
+05:09,[CON] Jones Rebound (Off:1 Def:4),161,3,4,,1627673,,1611661323,46,63,3
+04:57,[ATL] Vaughn Foul: Shooting (3 PF) (2 FTA),-11,-3,6,1627673,201913,,1611661330,46,63,3
+04:57,Timeout Officials,0,-80,9,,0,,0,46,63,3
+04:57,[ATL] Wheeler Substitution replaced by Hillmon,0,-80,8,,204365,1631044,1611661330,46,63,3
+04:57,[ATL] Durr Substitution replaced by Wallace,0,-80,8,,1629476,1628929,1611661330,46,63,3
+04:57,[ATL] Parker Substitution replaced by McDonald,0,-80,8,,204323,1630462,1611661330,46,63,3
+04:57,[CON] Hiedeman Substitution replaced by Clouden,0,-80,8,,1629567,1631002,1611661323,46,63,3
+04:57,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,46,63,3
+04:57,[CON 64-46] Jones Free Throw 1 of 2 (20 PTS),0,-80,3,,1627673,,1611661323,46,64,3
+04:57,[CON 65-46] Jones Free Throw 2 of 2 (21 PTS),0,-80,3,,1627673,,1611661323,46,65,3
+04:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,65,3
+04:31,[ATL] Team Turnover : Shot Clock Turnover,-22,63,5,,0,,1611661330,46,65,3
+04:31,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,46,65,3
+04:18,[ATL] Hillmon Foul: Shooting (2 PF) (2 FTA),-19,-6,6,1628280,1631044,,1611661330,46,65,3
+04:18,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,46,65,3
+04:18,[CON] Team Rebound,0,-80,4,,0,,1611661323,46,65,3
+04:18,[CON 66-46] Jones Free Throw 2 of 2 (5 PTS),0,-80,3,,1628280,,1611661323,46,66,3
+04:09,[ATL] Vaughn Jump Shot: Missed,-146,-5,2,,201913,,1611661330,46,66,3
+04:05,[CON] Bonner Rebound (Off:0 Def:3),-146,-5,4,,201886,,1611661323,46,66,3
+03:54,[CON] Jones Turnaround Fadeaway shot: Missed,-112,14,2,,1627673,,1611661323,46,66,3
+03:51,[ATL] Hillmon Rebound (Off:0 Def:5),-112,14,4,,1631044,,1611661330,46,66,3
+03:44,Jump Ball Jones vs Hillmon (Bonner gains possession),0,-80,10,1631044,1627673,201886,1611661323,46,66,3
+03:44,[ATL] Hillmon Turnover : Lost Ball (2 TO) Steal:Jones (2 ST),0,-80,5,1627673,1631044,,1611661330,46,66,3
+03:26,[CON 68-46] Jones Floating Jump shot: Made (7 PTS) Assist: Jones (1 AST),-2,95,1,,1628280,1627673,1611661323,46,68,3
+03:16,[ATL 48-68] Hayes Driving Layup Shot: Made (18 PTS) Assist: McDonald (2 AST),-3,12,1,,203026,1630462,1611661330,48,68,3
+02:52,[CON 70-48] Williams Jump Shot: Made (6 PTS) Assist: Jones (2 AST),-111,1,1,,1627675,1627673,1611661323,48,70,3
+02:42,[ATL] Wallace Turnover : Bad Pass (1 TO) Steal:Williams (2 ST),65,66,5,1627675,1628929,,1611661330,48,70,3
+02:35,[CON] Bonner Turnover : Bad Pass (1 TO) Steal:Wallace (1 ST),11,74,5,1628929,201886,,1611661323,48,70,3
+02:29,[ATL] McDonald Pullup Jump shot: Missed,-127,86,2,,1630462,,1611661330,48,70,3
+02:25,[CON] Bonner Rebound (Off:0 Def:4),-127,86,4,,201886,,1611661323,48,70,3
+02:16,[ATL] Vaughn Foul: Shooting (4 PF) (2 FTA),-8,0,6,1627675,201913,,1611661330,48,70,3
+02:16,[CON 71-48] Williams Free Throw 1 of 2 (7 PTS),0,-80,3,,1627675,,1611661323,48,71,3
+02:16,[ATL] Vaughn Substitution replaced by Mompremier,0,-80,8,,201913,1629492,1611661330,48,71,3
+02:16,[ATL] Hayes Substitution replaced by Wheeler,0,-80,8,,203026,204365,1611661330,48,71,3
+02:16,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,48,71,3
+02:16,[CON] Jones Substitution replaced by Holmes,0,-80,8,,1627673,1630115,1611661323,48,71,3
+02:16,[CON 72-48] Williams Free Throw 2 of 2 (8 PTS),0,-80,3,,1627675,,1611661323,48,72,3
+02:07,[CON] Carrington Foul: Shooting (1 PF) (2 FTA),5,11,6,1628929,1630096,,1611661323,48,72,3
+02:07,[ATL] Wallace Free Throw 1 of 2 Missed,0,-80,3,,1628929,,1611661330,48,72,3
+02:07,[ATL] Team Rebound,0,-80,4,,0,,1611661330,48,72,3
+02:07,[ATL 49-72] Wallace Free Throw 2 of 2 (1 PTS),0,-80,3,,1628929,,1611661330,49,72,3
+01:54,[CON] Jones Layup Shot: Missed,35,25,2,,1628280,,1611661323,49,72,3
+01:53,[ATL] Hillmon Rebound (Off:0 Def:6),35,25,4,,1631044,,1611661330,49,72,3
+01:51,[ATL] Hillmon Turnover : Bad Pass (3 TO) Steal:Williams (3 ST),-18,448,5,1627675,1631044,,1611661330,49,72,3
+01:47,[CON] Williams Driving Layup Shot: Missed,23,17,2,,1627675,,1611661323,49,72,3
+01:45,[CON] Jones Rebound (Off:3 Def:1),23,17,4,,1628280,,1611661323,49,72,3
+01:44,[CON 74-49] Jones Putback Layup Shot: Made (9 PTS),6,20,1,,1628280,,1611661323,49,74,3
+01:28,[ATL] Wheeler Pullup Jump shot: Missed,155,99,2,,204365,,1611661330,49,74,3
+01:25,[CON] Jones Rebound (Off:3 Def:2),155,99,4,,1628280,,1611661323,49,74,3
+01:16,[CON 76-49] Holmes Jump Shot: Made (2 PTS) Assist: Clouden (1 AST),-158,11,1,,1630115,1631002,1611661323,49,76,3
+01:02,[ATL] McDonald 3pt Shot: Missed,-198,153,2,,1630462,,1611661330,49,76,3
+00:59.4,[CON] Clouden Rebound (Off:0 Def:1),-198,153,4,,1631002,,1611661323,49,76,3
+00:57.3,[ATL] Wheeler Foul: Personal (4 PF) (2 FTA),-79,24,6,1631002,204365,,1611661330,49,76,3
+00:57.3,[CON] Clouden Free Throw 1 of 2 Missed,0,-80,3,,1631002,,1611661323,49,76,3
+00:57.3,[CON] Team Rebound,0,-80,4,,0,,1611661323,49,76,3
+00:57.3,[CON] Williams Substitution replaced by Jones,0,-80,8,,1627675,1630119,1611661323,49,76,3
+00:57.3,[CON 77-49] Clouden Free Throw 2 of 2 (1 PTS),0,-80,3,,1631002,,1611661323,49,77,3
+00:41.0,[ATL] Hillmon Jump Shot: Missed,162,-26,2,,1631044,,1611661330,49,77,3
+00:37.0,[CON] Holmes Rebound (Off:1 Def:1),162,-26,4,,1630115,,1611661323,49,77,3
+00:23.1,[CON] Holmes Foul: Offensive (1 PF),-93,167,6,1630462,1630115,,1611661323,49,77,3
+00:23.1,[CON] Holmes Turnover : Offensive Foul Turnover (2 TO),-93,167,5,,1630115,,1611661323,49,77,3
+00:05.4,[ATL 51-77] Hillmon Driving Layup Shot: Made (6 PTS) Assist: Wheeler (6 AST),10,7,1,,1631044,204365,1611661330,51,77,3
+00:05.4,[CON] Holmes Foul: Shooting (2 PF) (1 FTA),10,7,6,1631044,1630115,,1611661323,51,77,3
+00:05.4,[ATL 52-77] Hillmon Free Throw 1 of 1 (7 PTS),0,-80,3,,1631044,,1611661330,52,77,3
+00:00.0,[CON] Holmes 3pt Shot: Missed,-93,250,2,,1630115,,1611661323,52,77,3
+00:00.0,[CON] Team Rebound,-93,250,4,,0,,1611661323,52,77,3
+00:00.0,End Period,0,-80,13,,0,,0,52,77,3
+10:00,Start Period,0,-80,12,,0,,0,52,77,4
+09:40,[CON] Jones Turnover : Out of Bounds Lost Ball Turnover (2 TO),93,1,5,,1628280,,1611661323,52,77,4
+09:29,[CON] Carrington Foul: Shooting (2 PF) (2 FTA),18,177,6,1629476,1630096,,1611661323,52,77,4
+09:29,[ATL 53-77] Durr Free Throw 1 of 2 (9 PTS),0,-80,3,,1629476,,1611661330,53,77,4
+09:29,[ATL 54-77] Durr Free Throw 2 of 2 (10 PTS),0,-80,3,,1629476,,1611661330,54,77,4
+09:08,[CON] Clouden 3pt Shot: Missed,51,230,2,,1631002,,1611661323,54,77,4
+09:05,[ATL] Hillmon Rebound (Off:0 Def:7),51,230,4,,1631044,,1611661330,54,77,4
+08:58,[ATL] McDonald Turnover : Out of Bounds Lost Ball Turnover (1 TO),43,44,5,,1630462,,1611661330,54,77,4
+08:48,[CON] Carrington 3pt Shot: Missed,167,156,2,,1630096,,1611661323,54,77,4
+08:44,[CON] Holmes Rebound (Off:2 Def:1),167,156,4,,1630115,,1611661323,54,77,4
+08:44,[CON 79-54] Holmes Putback Layup Shot: Made (4 PTS),-1,10,1,,1630115,,1611661323,54,79,4
+08:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,54,79,4
+08:22,[ATL] Wheeler 3pt Shot: Missed,10,243,2,,204365,,1611661330,54,79,4
+08:19,[CON] Holmes Rebound (Off:2 Def:2),10,243,4,,1630115,,1611661323,54,79,4
+08:14,[ATL] McDonald Foul: Shooting (1 PF) (2 FTA),-12,-1,6,1628280,1630462,,1611661330,54,79,4
+08:14,[CON 80-54] Jones Free Throw 1 of 2 (10 PTS),0,-80,3,,1628280,,1611661323,54,80,4
+08:14,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,54,80,4
+08:12,[ATL] Parker Rebound (Off:0 Def:1),0,-80,4,,204323,,1611661330,54,80,4
+07:54,[ATL] Wheeler Turnover : Bad Pass (3 TO) Steal:Holmes (1 ST),47,11,5,1630115,204365,,1611661330,54,80,4
+07:48,[CON 82-54] Holmes Running Layup Shot: Made (6 PTS),9,1,1,,1630115,,1611661323,54,82,4
+07:23,[ATL] Wheeler 3pt Shot: Missed,-226,35,2,,204365,,1611661330,54,82,4
+07:22,[ATL] Team Rebound,-226,35,4,,0,,1611661330,54,82,4
+07:22,[ATL] Team Turnover : Shot Clock Turnover,-9,12,5,,0,,1611661330,54,82,4
+07:22,[ATL] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661330,54,82,4
+07:10,[CON] Jones Turnover : Jump Ball Violation (1 TO),0,-80,5,,1630119,,1611661323,54,82,4
+07:10,[ATL] Parker Substitution replaced by Mompremier,0,-80,8,,204323,1629492,1611661330,54,82,4
+06:51,[ATL] Durr Pullup Jump shot: Missed,-29,121,2,,1629476,,1611661330,54,82,4
+06:47,[CON] Jones Rebound (Off:3 Def:3),-29,121,4,,1628280,,1611661323,54,82,4
+06:43,[CON 84-54] Carrington Running Layup Shot: Made (6 PTS),10,103,1,,1630096,,1611661323,54,84,4
+06:21,[ATL 57-84] Wallace 3pt Shot: Made (4 PTS) Assist: McDonald (3 AST),-187,148,1,,1628929,1630462,1611661330,57,84,4
+05:55,[CON 86-57] Jones Pullup Jump shot: Made (2 PTS),123,36,1,,1630119,,1611661323,57,86,4
+05:54,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,57,86,4
+05:37,[ATL 59-86] Hillmon Layup Shot: Made (9 PTS) Assist: Durr (2 AST),46,11,1,,1631044,1629476,1611661330,59,86,4
+05:20,[CON] Jones 3pt Shot: Missed,233,-1,2,,1630119,,1611661323,59,86,4
+05:16,[CON] Carrington Rebound (Off:1 Def:1),233,-1,4,,1630096,,1611661323,59,86,4
+05:10,[CON] Holmes 3pt Shot: Missed,-145,186,2,,1630115,,1611661323,59,86,4
+05:03,[CON] Carrington Rebound (Off:2 Def:1),-145,186,4,,1630096,,1611661323,59,86,4
+05:02,[CON] Clouden 3pt Shot: Missed,-18,240,2,,1631002,,1611661323,59,86,4
+05:02,[ATL] Mompremier Rebound (Off:1 Def:4),-18,240,4,,1629492,,1611661330,59,86,4
+04:50,[ATL] Mompremier Turnaround Jump Shot: Missed,-96,48,2,,1629492,,1611661330,59,86,4
+04:47,[CON] Holmes Rebound (Off:2 Def:3),-96,48,4,,1630115,,1611661323,59,86,4
+04:35,[ATL] Mompremier Foul: Personal (2 PF),112,4,6,1631002,1629492,,1611661330,59,86,4
+04:25,[CON 88-59] Jones Pullup Jump shot: Made (4 PTS),-99,76,1,,1630119,,1611661323,59,88,4
+04:08,[ATL] Hillmon Jump Shot: Missed,183,-1,2,,1631044,,1611661330,59,88,4
+04:05,[CON] Carrington Rebound (Off:2 Def:2),183,-1,4,,1630096,,1611661323,59,88,4
+04:03,[CON] Carrington Foul: Offensive (3 PF),76,48,6,1630462,1630096,,1611661323,59,88,4
+04:03,[CON] Carrington Turnover : Offensive Foul Turnover (1 TO),76,48,5,,1630096,,1611661323,59,88,4
+03:43,[ATL 61-88] Hillmon Layup Shot: Made (11 PTS) Assist: Durr (3 AST),4,21,1,,1631044,1629476,1611661330,61,88,4
+03:21,[CON] Carrington 3pt Shot: Missed,-197,154,2,,1630096,,1611661323,61,88,4
+03:19,[ATL] Hillmon Rebound (Off:0 Def:8),-197,154,4,,1631044,,1611661330,61,88,4
+03:16,[ATL] Wallace Foul: Offensive Charge (1 PF),118,26,6,1631002,1628929,,1611661330,61,88,4
+03:16,[ATL] Wallace Turnover : Offensive Foul Turnover (2 TO),118,26,5,,1628929,,1611661330,61,88,4
+03:16,[CON] Jones Substitution replaced by Jones,0,-80,8,,1628280,1627673,1611661323,61,88,4
+03:16,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,61,88,4
+02:51,[CON] Holmes Pullup Jump shot: Missed,43,165,2,,1630115,,1611661323,61,88,4
+02:46,[CON] Clouden Rebound (Off:1 Def:1),43,165,4,,1631002,,1611661323,61,88,4
+02:37,[CON] Carrington Cutting Layup Shot: Missed,22,60,2,,1630096,,1611661323,61,88,4
+02:34,[ATL] Hillmon Rebound (Off:0 Def:9),22,60,4,,1631044,,1611661330,61,88,4
+02:22,[ATL 63-88] Durr Turnaround Jump Shot: Made (12 PTS),-28,119,1,,1629476,,1611661330,63,88,4
+02:06,[CON] Jones 3pt Shot: Missed,-161,196,2,,1630119,,1611661323,63,88,4
+02:03,[ATL] Hillmon Rebound (Off:0 Def:10),-161,196,4,,1631044,,1611661330,63,88,4
+01:58,[ATL] McDonald Driving Layup Shot: Missed,-18,24,2,,1630462,,1611661330,63,88,4
+01:53,[CON] Jones Rebound (Off:1 Def:5),-18,24,4,,1627673,,1611661323,63,88,4
+01:45,[CON] Jones Layup Shot: Missed,16,9,2,1629492,1627673,,1611661323,63,88,4
+01:42,[ATL] Hillmon Rebound (Off:0 Def:11),16,9,4,,1631044,,1611661330,63,88,4
+01:40,[CON] Jones Foul: Personal (1 PF),35,144,6,1629476,1630119,,1611661323,63,88,4
+01:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,88,4
+01:27,[CON] Jones Foul: Shooting (3 PF) (2 FTA),-1,10,6,1629492,1627673,,1611661323,63,88,4
+01:27,[ATL] Mompremier Free Throw 1 of 2 Missed,0,-80,3,,1629492,,1611661330,63,88,4
+01:27,[ATL] Team Rebound,0,-80,4,,0,,1611661330,63,88,4
+01:27,[ATL 64-88] Mompremier Free Throw 2 of 2 (5 PTS),0,-80,3,,1629492,,1611661330,64,88,4
+01:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,88,4
+01:04,[CON] Clouden Driving Floating Jump Shot: Missed,-21,115,2,,1631002,,1611661323,64,88,4
+00:59.6,[ATL] Durr Rebound (Off:1 Def:2),-21,115,4,,1629476,,1611661330,64,88,4
+00:56.7,[ATL] Durr Pullup Jump shot: Missed,67,125,2,,1629476,,1611661330,64,88,4
+00:52.2,[ATL] McDonald Rebound (Off:1 Def:1),67,125,4,,1630462,,1611661330,64,88,4
+00:51.5,[ATL] McDonald Driving Floating Jump Shot: Missed,-45,62,2,,1630462,,1611661330,64,88,4
+00:48.7,[ATL] Team Rebound,-45,62,4,,0,,1611661330,64,88,4
+00:48.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,88,4
+00:47.0,[ATL 66-88] Hillmon Cutting Layup Shot: Made (13 PTS) Assist: McDonald (4 AST),4,16,1,,1631044,1630462,1611661330,66,88,4
+00:40.7,[ATL] Wallace Foul: Shooting (2 PF) (2 FTA),-11,105,6,1630096,1628929,,1611661330,66,88,4
+00:40.7,[CON 89-66] Carrington Free Throw 1 of 2 (7 PTS),0,-80,3,,1630096,,1611661323,66,89,4
+00:40.7,[CON 90-66] Carrington Free Throw 2 of 2 (8 PTS),0,-80,3,,1630096,,1611661323,66,90,4
+00:31.3,[ATL] Hillmon Turnover : Bad Pass (4 TO) Steal:Holmes (2 ST),95,55,5,1630115,1631044,,1611661330,66,90,4
+00:26.1,[CON 93-66] Clouden 3pt Shot: Made (4 PTS) Assist: Holmes (1 AST),226,38,1,,1631002,1630115,1611661323,66,93,4
+00:13.4,[CON] Jones Foul: Shooting (2 PF) (2 FTA),0,72,6,1628929,1630119,,1611661323,66,93,4
+00:13.4,[ATL 67-93] Wallace Free Throw 1 of 2 (5 PTS),0,-80,3,,1628929,,1611661330,67,93,4
+00:13.4,[ATL 68-93] Wallace Free Throw 2 of 2 (6 PTS),0,-80,3,,1628929,,1611661330,68,93,4
+00:00.0,End Period,0,-80,13,,0,,0,68,93,4
+00:00.0,Game End,0,-80,0,,0,,0,68,93,4

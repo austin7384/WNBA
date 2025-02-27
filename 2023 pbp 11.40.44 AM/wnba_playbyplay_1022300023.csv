@@ -1,0 +1,402 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Shepard vs Sabally,0,-80,10,1630149,1629491,,1611661324,0,0,0,1
+09:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:48,[MIN] Mitchell Foul: Offensive (1 PF),83,104,6,1630101,1627676,100698,1611661324,0,0,0,1
+09:48,[MIN] Mitchell Turnover : Offensive Foul Turnover (1 TO),83,104,5,,1627676,,1611661324,0,0,0,1
+09:31,[DAL] Burton Driving Layup Shot: Missed,-19,19,2,,1631007,,1611661321,0,0,0,1
+09:30,[MIN] Team Rebound,-19,19,4,,0,,1611661324,0,0,0,1
+09:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:14,[MIN 2-0] Shepard Driving Layup Shot: Made (2 PTS) Assist: Miller (1 AST),18,51,1,,1629491,1641649,1611661324,0,2,2,1
+09:14,[DAL] Howard Foul: Shooting (1 PF) (1 FTA),18,51,6,1629491,203827,100698,1611661321,0,2,0,1
+09:14,[MIN 3-0] Shepard Free Throw 1 of 1 (3 PTS),0,-80,3,,1629491,,1611661324,0,3,1,1
+08:57,[DAL] Sabally Cutting Layup Shot: Missed,-32,11,2,,1630149,,1611661321,0,3,0,1
+08:56,[MIN] Miller Rebound (Off:0 Def:1),-32,11,4,,1641649,,1611661324,0,3,0,1
+08:52,Jump Ball Miller vs Sabally (Mitchell gains possession),0,-80,10,1630149,1641649,1627676,1611661324,0,3,0,1
+08:44,[MIN 6-0] Miller 3pt Shot: Made (3 PTS) Assist: Shepard (1 AST),112,217,1,,1641649,1629491,1611661324,0,6,3,1
+08:29,[DAL] Dangerfield Pullup Jump shot: Missed,149,62,2,,1630101,,1611661321,0,6,0,1
+08:27,[DAL] Sabally Rebound (Off:1 Def:0),149,62,4,,1630149,,1611661321,0,6,0,1
+08:27,[MIN] Miller Foul: Shooting (1 PF) (2 FTA),24,26,6,1630149,1641649,201538,1611661324,0,6,0,1
+08:27,[DAL 1-6] Sabally Free Throw 1 of 2 (1 PTS),0,-80,3,,1630149,,1611661321,1,6,1,1
+08:27,[DAL 2-6] Sabally Free Throw 2 of 2 (2 PTS),0,-80,3,,1630149,,1611661321,2,6,1,1
+08:01,[MIN] McBride Pullup Jump shot: Missed,168,124,2,,203825,,1611661324,2,6,0,1
+07:58,[DAL] Sabally Rebound (Off:1 Def:1),168,124,4,,1630149,,1611661321,2,6,0,1
+07:55,[DAL] Ogunbowale 3pt Shot: Missed,-196,142,2,,1629481,,1611661321,2,6,0,1
+07:51,[MIN] Mitchell Rebound (Off:0 Def:1),-196,142,4,,1627676,,1611661324,2,6,0,1
+07:45,[MIN 8-2] Shepard Jump Shot: Made (5 PTS) Assist: Miller (2 AST),-126,114,1,,1629491,1641649,1611661324,2,8,2,1
+07:24,[DAL 4-8] Howard Layup Shot: Made (2 PTS) Assist: Burton (1 AST),55,49,1,,203827,1631007,1611661321,4,8,2,1
+07:10,[MIN] Collier Jump Shot: Missed,-29,76,2,,1629483,,1611661324,4,8,0,1
+07:09,[DAL] Team Rebound,-29,76,4,,0,,1611661321,4,8,0,1
+07:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,8,0,1
+06:56,[DAL 6-8] Ogunbowale Driving Floating Jump Shot: Made (2 PTS) Assist: Sabally (1 AST),21,65,1,,1629481,1630149,1611661321,6,8,2,1
+06:45,[MIN 10-6] Mitchell Step Back Jump shot: Made (2 PTS),144,45,1,,1627676,,1611661324,6,10,2,1
+06:23,[DAL] Howard Floating Jump shot: Missed,84,26,2,,203827,,1611661321,6,10,0,1
+06:21,[MIN] Miller Rebound (Off:0 Def:2),84,26,4,,1641649,,1611661324,6,10,0,1
+06:17,[MIN 12-6] Miller Running Layup Shot: Made (5 PTS),-48,54,1,,1641649,,1611661324,6,12,2,1
+06:02,[DAL] Sabally Cutting Layup Shot: Missed,28,53,2,,1630149,,1611661321,6,12,0,1
+06:01,[DAL] Howard Rebound (Off:1 Def:0),28,53,4,,203827,,1611661321,6,12,0,1
+05:59,[DAL 8-12] Howard Putback Layup Shot: Made (4 PTS),-24,26,1,,203827,,1611661321,8,12,2,1
+05:34,[MIN 14-8] Collier Turnaround Bank shot: Made (2 PTS),-26,130,1,,1629483,,1611661324,8,14,2,1
+05:24,[DAL] Ogunbowale Fadeaway Jump Shot: Missed,-139,21,2,,1629481,,1611661321,8,14,0,1
+05:21,[MIN] Shepard Rebound (Off:0 Def:1),-139,21,4,,1629491,,1611661324,8,14,0,1
+05:16,[MIN 17-8] McBride 3pt Shot: Made (3 PTS) Assist: Miller (3 AST),221,58,1,,203825,1641649,1611661324,8,17,3,1
+05:08,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,8,17,0,1
+05:08,[DAL] Dangerfield Substitution replaced by Brown,0,-80,8,,1630101,1629480,1611661321,8,17,0,1
+05:08,[DAL] Howard Substitution replaced by Dickey,0,-80,8,,203827,1631029,1611661321,8,17,0,1
+05:04,[DAL] Sabally 3pt Shot: Missed,-212,92,2,,1630149,,1611661321,8,17,0,1
+05:00,[MIN] McBride Rebound (Off:0 Def:1),-212,92,4,,203825,,1611661324,8,17,0,1
+04:59,[MIN 19-8] Shepard Running Layup Shot: Made (7 PTS) Assist: McBride (1 AST),21,38,1,,1629491,203825,1611661324,8,19,2,1
+04:59,[DAL] Burton Foul: Shooting (1 PF) (1 FTA),21,38,6,1629491,1631007,201538,1611661321,8,19,0,1
+04:59,[MIN 20-8] Shepard Free Throw 1 of 1 (8 PTS),0,-80,3,,1629491,,1611661324,8,20,1,1
+04:47,[DAL] Ogunbowale 3pt Shot: Missed,-218,86,2,,1629481,,1611661321,8,20,0,1
+04:42,[MIN] Miller Rebound (Off:0 Def:3),-218,86,4,,1641649,,1611661324,8,20,0,1
+04:38,[MIN 22-8] Miller Running Layup Shot: Made (7 PTS),29,51,1,,1641649,,1611661324,8,22,2,1
+04:20,[DAL] Sabally Turnover : Bad Pass (1 TO) Steal:Collier (1 ST),-21,237,5,1629483,1630149,,1611661321,8,22,0,1
+04:13,[MIN] McBride Turnover : Bad Pass (1 TO) Steal:Ogunbowale (1 ST),1,246,5,1629481,203825,,1611661324,8,22,0,1
+04:07,[DAL 11-22] Sabally 3pt Shot: Made (5 PTS) Assist: Burton (2 AST),-134,201,1,,1630149,1631007,1611661321,11,22,3,1
+03:45,[MIN] Mitchell Layup Shot: Missed Block: Brown (1 BLK),22,38,2,1629480,1627676,,1611661324,11,22,0,1
+03:44,[DAL] Team Rebound,22,38,4,,0,,1611661321,11,22,0,1
+03:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,22,0,1
+03:44,[DAL] Ogunbowale Substitution replaced by Kuier,0,-80,8,,1629481,1630386,1611661321,11,22,0,1
+03:33,[MIN] Miller Foul: Shooting (2 PF) (2 FTA),0,62,6,1630149,1641649,201538,1611661324,11,22,0,1
+03:33,[DAL 12-22] Sabally Free Throw 1 of 2 (6 PTS),0,-80,3,,1630149,,1611661321,12,22,1,1
+03:33,[DAL] Burton Substitution replaced by Dangerfield,0,-80,8,,1631007,1630101,1611661321,12,22,0,1
+03:33,[MIN] Miller Substitution replaced by Milic,0,-80,8,,1641649,1631263,1611661324,12,22,0,1
+03:33,[DAL 13-22] Sabally Free Throw 2 of 2 (7 PTS),0,-80,3,,1630149,,1611661321,13,22,1,1
+03:18,[MIN] McBride Turnover : Bad Pass (2 TO) Steal:Sabally (1 ST),-137,151,5,1630149,203825,,1611661324,13,22,0,1
+03:10,[DAL] Kuier Layup Shot: Missed,55,91,2,,1630386,,1611661321,13,22,0,1
+03:09,[DAL] Dickey Rebound (Off:1 Def:0),55,91,4,,1631029,,1611661321,13,22,0,1
+03:08,[DAL] Dickey Putback Layup Shot: Missed Block: Milic (1 BLK),-1,28,2,1631263,1631029,,1611661321,13,22,0,1
+03:07,[MIN] Milic Rebound (Off:0 Def:1),-1,28,4,,1631263,,1611661324,13,22,0,1
+02:52,[MIN 25-13] Mitchell 3pt Shot: Made (5 PTS) Assist: Milic (1 AST),-206,129,1,,1627676,1631263,1611661324,13,25,3,1
+02:42,[DAL 16-25] Sabally 3pt Shot: Made (10 PTS) Assist: Dangerfield (1 AST),172,166,1,,1630149,1630101,1611661321,16,25,3,1
+02:23,[MIN 27-16] McBride Jump Shot: Made (5 PTS) Assist: Shepard (2 AST),-178,65,1,,203825,1629491,1611661324,16,27,2,1
+02:12,[DAL 18-27] Sabally Driving Finger Roll Layup Shot: Made (12 PTS),4,69,1,,1630149,,1611661321,18,27,2,1
+01:58,[MIN] Milic Fadeaway Jump Shot: Missed,-117,54,2,,1631263,,1611661324,18,27,0,1
+01:57,[DAL] Team Rebound,-117,54,4,,0,,1611661321,18,27,0,1
+01:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,27,0,1
+01:57,[DAL] Dangerfield Substitution replaced by Ogunbowale,0,-80,8,,1630101,1629481,1611661321,18,27,0,1
+01:57,[MIN] McBride Substitution replaced by Banham,0,-80,8,,203825,1627671,1611661324,18,27,0,1
+01:57,[MIN] Collier Substitution replaced by Powers,0,-80,8,,1629483,1627672,1611661324,18,27,0,1
+01:43,[MIN] Milic Foul: Shooting (1 PF) (2 FTA),71,44,6,1629481,1631263,1629178,1611661324,18,27,0,1
+01:43,[DAL] Ogunbowale Free Throw 1 of 2 Missed,0,-80,3,,1629481,,1611661321,18,27,0,1
+01:43,[DAL] Team Rebound,0,-80,4,,0,,1611661321,18,27,0,1
+01:43,[DAL 19-27] Ogunbowale Free Throw 2 of 2 (3 PTS),0,-80,3,,1629481,,1611661321,19,27,1,1
+01:17,[MIN] Mitchell Jump Shot: Missed,13,103,2,,1627676,,1611661324,19,27,0,1
+01:14,[DAL] Brown Rebound (Off:0 Def:1),13,103,4,,1629480,,1611661321,19,27,0,1
+01:09,[DAL 22-27] Sabally 3pt Shot: Made (15 PTS) Assist: Ogunbowale (1 AST),-221,49,1,,1630149,1629481,1611661321,22,27,3,1
+00:55.0,[MIN] Banham 3pt Shot: Missed,-159,183,2,,1627671,,1611661324,22,27,0,1
+00:51.4,[DAL] Sabally Rebound (Off:1 Def:2),-159,183,4,,1630149,,1611661321,22,27,0,1
+00:46.7,[DAL 25-27] Ogunbowale 3pt Shot: Made (6 PTS),-100,234,1,,1629481,,1611661321,25,27,3,1
+00:24.7,[MIN 29-25] Powers Driving Layup Shot: Made (2 PTS),-40,28,1,,1627672,,1611661324,25,29,2,1
+00:05.8,[DAL] Dickey Jump Shot: Missed,-155,128,2,,1631029,,1611661321,25,29,0,1
+00:03.6,[MIN] Powers Rebound (Off:0 Def:1),-155,128,4,,1627672,,1611661324,25,29,0,1
+00:01.1,[MIN 31-25] Mitchell Running Layup Shot: Made (7 PTS) Assist: Powers (1 AST),23,13,1,,1627676,1627672,1611661324,25,31,2,1
+00:00.0,End Period,0,-80,13,,0,,0,25,31,0,1
+10:00,Start Period,0,-80,12,,0,,0,25,31,0,2
+09:46,[DAL] Ogunbowale Jump Shot: Missed,6,137,2,,1629481,,1611661321,25,31,0,2
+09:43,[DAL] Brown Rebound (Off:1 Def:1),6,137,4,,1629480,,1611661321,25,31,0,2
+09:43,[MIN] Milic Foul: Shooting (2 PF) (2 FTA),-24,33,6,1629480,1631263,1629178,1611661324,25,31,0,2
+09:43,[DAL 26-31] Brown Free Throw 1 of 2 (1 PTS),0,-80,3,,1629480,,1611661321,26,31,1,2
+09:43,[MIN] Milic Substitution replaced by Juhász,0,-80,8,,1631263,1641657,1611661324,26,31,0,2
+09:43,[DAL 27-31] Brown Free Throw 2 of 2 (2 PTS),0,-80,3,,1629480,,1611661321,27,31,1,2
+09:20,[MIN] Juhász Layup Shot: Missed,44,34,2,,1641657,,1611661324,27,31,0,2
+09:19,[MIN] Team Rebound,44,34,4,,0,,1611661324,27,31,0,2
+09:19,[MIN] Team Turnover : Shot Clock Turnover,32,56,5,,0,,1611661324,27,31,0,2
+09:08,[DAL 30-31] Howard 3pt Shot: Made (7 PTS) Assist: Sabally (2 AST),183,169,1,,203827,1630149,1611661321,30,31,3,2
+08:51,[MIN] Banham Pullup Jump shot: Missed,1,121,2,,1627671,,1611661324,30,31,0,2
+08:49,[MIN] Juhász Rebound (Off:1 Def:0),1,121,4,,1641657,,1611661324,30,31,0,2
+08:46,[MIN] Juhász Turnover : Bad Pass (1 TO) Steal:Sabally (2 ST),-18,74,5,1630149,1641657,,1611661324,30,31,0,2
+08:36,[DAL 32-31] Howard Driving Hook Shot: Made (9 PTS),-26,20,1,,203827,,1611661321,32,31,2,2
+08:31,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,32,31,0,2
+08:31,[MIN] Banham Substitution replaced by Collier,0,-80,8,,1627671,1629483,1611661324,32,31,0,2
+08:31,[MIN] Juhász Substitution replaced by McBride,0,-80,8,,1641657,203825,1611661324,32,31,0,2
+08:22,[DAL] Dangerfield Foul: Personal (1 PF),102,78,6,1627676,1630101,1629178,1611661321,32,31,0,2
+08:22,[MIN] Powers Substitution replaced by Miller,0,-80,8,,1627672,1641649,1611661324,32,31,0,2
+08:19,[MIN] Collier Layup Shot: Missed Block: Howard (1 BLK),44,29,2,203827,1629483,,1611661324,32,31,0,2
+08:18,[DAL] Ogunbowale Rebound (Off:0 Def:1),44,29,4,,1629481,,1611661321,32,31,0,2
+08:10,[DAL] Ogunbowale Jump Shot: Missed,-66,47,2,,1629481,,1611661321,32,31,0,2
+08:10,[MIN] Shepard Rebound (Off:0 Def:2),-66,47,4,,1629491,,1611661324,32,31,0,2
+08:04,[MIN 33-32] Collier Layup Shot: Made (4 PTS) Assist: Shepard (3 AST),-22,50,1,,1629483,1629491,1611661324,32,33,2,2
+07:52,[DAL] Dangerfield Driving Layup Shot: Missed,-44,32,2,,1630101,,1611661321,32,33,0,2
+07:50,[MIN] Miller Rebound (Off:0 Def:4),-44,32,4,,1641649,,1611661324,32,33,0,2
+07:44,[DAL] Howard Foul: Shooting (2 PF) (2 FTA),-24,29,6,1629483,203827,100698,1611661321,32,33,0,2
+07:44,[MIN 34-32] Collier Free Throw 1 of 2 (5 PTS),0,-80,3,,1629483,,1611661324,32,34,1,2
+07:44,[MIN 35-32] Collier Free Throw 2 of 2 (6 PTS),0,-80,3,,1629483,,1611661324,32,35,1,2
+07:32,[DAL] Brown Turnover : 3 Second Violation (1 TO),-16,97,5,,1629480,,1611661321,32,35,0,2
+07:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,35,0,2
+07:13,[MIN] McBride Driving Floating Jump Shot: Missed,-28,158,2,,203825,,1611661324,32,35,0,2
+07:10,[DAL] Sabally Rebound (Off:1 Def:3),-28,158,4,,1630149,,1611661321,32,35,0,2
+07:05,[DAL] Sabally Layup Shot: Missed,-29,27,2,,1630149,,1611661321,32,35,0,2
+07:04,[MIN] Team Rebound,-29,27,4,,0,,1611661324,32,35,0,2
+07:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,35,0,2
+06:51,[MIN 37-32] Mitchell Layup Shot: Made (9 PTS),-16,35,1,,1627676,,1611661324,32,37,2,2
+06:41,[DAL] Ogunbowale Jump Shot: Missed,-156,105,2,,1629481,,1611661321,32,37,0,2
+06:40,[MIN] McBride Rebound (Off:0 Def:2),-156,105,4,,203825,,1611661324,32,37,0,2
+06:32,[MIN] Collier Layup Shot: Missed,-20,39,2,,1629483,,1611661324,32,37,0,2
+06:31,[DAL] Sabally Rebound (Off:1 Def:4),-20,39,4,,1630149,,1611661321,32,37,0,2
+06:25,[DAL 34-37] Howard Layup Shot: Made (11 PTS) Assist: Ogunbowale (2 AST),29,26,1,,203827,1629481,1611661321,34,37,2,2
+06:09,[DAL] Sabally Foul: Shooting (1 PF) (2 FTA),23,23,6,1627676,1630149,201538,1611661321,34,37,0,2
+06:09,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,34,37,0,2
+06:09,[DAL] Dangerfield Substitution replaced by Burton,0,-80,8,,1630101,1631007,1611661321,34,37,0,2
+06:09,[DAL] Brown Substitution replaced by Kuier,0,-80,8,,1629480,1630386,1611661321,34,37,0,2
+06:09,[MIN 38-34] Mitchell Free Throw 1 of 2 (10 PTS),0,-80,3,,1627676,,1611661324,34,38,1,2
+06:09,[MIN 39-34] Mitchell Free Throw 2 of 2 (11 PTS),0,-80,3,,1627676,,1611661324,34,39,1,2
+05:45,[DAL 36-39] Sabally Jump Shot: Made (17 PTS) Assist: Ogunbowale (3 AST),132,33,1,,1630149,1629481,1611661321,36,39,2,2
+05:25,[DAL] Sabally Foul: Personal (2 PF),-50,19,6,1641649,1630149,1629178,1611661321,36,39,0,2
+05:17,[MIN] Collier Jump Shot: Missed,106,67,2,,1629483,,1611661324,36,39,0,2
+05:13,[DAL] Howard Rebound (Off:1 Def:1),106,67,4,,203827,,1611661321,36,39,0,2
+04:55,[DAL] Sabally 3pt Shot: Missed,49,269,2,,1630149,,1611661321,36,39,0,2
+04:51,[MIN] McBride Rebound (Off:0 Def:3),49,269,4,,203825,,1611661324,36,39,0,2
+04:51,[MIN] Mitchell Turnover : Double Dribble (2 TO),-152,275,5,,1627676,,1611661324,36,39,0,2
+04:35,[DAL 39-39] Howard 3pt Shot: Made (14 PTS) Assist: Kuier (1 AST),-97,213,1,,203827,1630386,1611661321,39,39,3,2
+04:24,[MIN] Mitchell Turnover : Lost Ball (3 TO) Steal:Burton (1 ST),-111,232,5,1631007,1627676,,1611661324,39,39,0,2
+04:20,[DAL] Ogunbowale 3pt Shot: Missed,199,153,2,,1629481,,1611661321,39,39,0,2
+04:17,[DAL] Burton Rebound (Off:1 Def:0),199,153,4,,1631007,,1611661321,39,39,0,2
+04:15,[DAL 41-39] Howard Layup Shot: Made (16 PTS) Assist: Burton (3 AST),-24,17,1,,203827,1631007,1611661321,41,39,2,2
+03:51,[DAL] Sabally Substitution replaced by Siegrist,0,-80,8,,1630149,1641652,1611661321,41,39,0,2
+03:46,Jump Ball Collier vs Kuier (McBride gains possession),0,-80,10,1630386,1629483,203825,1611661324,41,39,0,2
+03:46,[MIN 41-41] McBride Floating Jump shot: Made (7 PTS),-5,48,1,,203825,,1611661324,41,41,2,2
+03:35,[DAL 43-41] Howard Floating Jump shot: Made (18 PTS) Assist: Burton (4 AST),-17,95,1,,203827,1631007,1611661321,43,41,2,2
+03:23,[MIN 43-43] Mitchell Driving Reverse Layup Shot: Made (13 PTS) Assist: Miller (4 AST),-24,23,1,,1627676,1641649,1611661324,43,43,2,2
+03:11,[DAL] Kuier 3pt Shot: Missed,-79,225,2,,1630386,,1611661321,43,43,0,2
+03:07,[MIN] Miller Rebound (Off:0 Def:5),-79,225,4,,1641649,,1611661324,43,43,0,2
+03:04,[DAL] Burton Foul: Shooting (2 PF) (2 FTA),16,43,6,1641649,1631007,100698,1611661321,43,43,0,2
+03:04,Stoppage: Court Cleanup,0,-80,20,,0,,0,43,43,0,2
+03:04,[MIN] Miller Free Throw 1 of 2 Missed,0,-80,3,,1641649,,1611661324,43,43,0,2
+03:04,[MIN] Team Rebound,0,-80,4,,0,,1611661324,43,43,0,2
+03:04,[MIN 44-43] Miller Free Throw 2 of 2 (8 PTS),0,-80,3,,1641649,,1611661324,43,44,1,2
+03:03,[MIN] McBride Foul: Transition Take (1 PF) (1 FTA),-151,714,6,1631007,203825,1629178,1611661324,43,44,0,2
+03:03,[DAL] Kuier Substitution replaced by Brown,0,-80,8,,1630386,1629480,1611661321,43,44,0,2
+03:03,[MIN] Miller Substitution replaced by Milic,0,-80,8,,1641649,1631263,1611661324,43,44,0,2
+03:03,[DAL 44-44] Burton Free Throw 1 of 1 (1 PTS),0,-80,3,,1631007,,1611661321,44,44,1,2
+02:49,[DAL] Brown Foul: Offensive (1 PF),-104,612,6,1627676,1629480,201538,1611661321,44,44,0,2
+02:49,[DAL] Brown Turnover : Offensive Foul Turnover (2 TO),-104,612,5,,1629480,,1611661321,44,44,0,2
+02:49,Timeout Officials,0,-80,9,,0,,0,44,44,0,2
+02:38,[MIN] Shepard Turnover : Bad Pass (1 TO) Steal:Burton (2 ST),-118,171,5,1631007,1629491,,1611661324,44,44,0,2
+02:34,[DAL 46-44] Ogunbowale Driving Layup Shot: Made (8 PTS) Assist: Burton (5 AST),-7,30,1,,1629481,1631007,1611661321,46,44,2,2
+02:34,[MIN] Milic Foul: Shooting (3 PF) (1 FTA),-7,30,6,1629481,1631263,201538,1611661324,46,44,0,2
+02:34,[DAL] Siegrist Substitution replaced by Sabally,0,-80,8,,1641652,1630149,1611661321,46,44,0,2
+02:34,[MIN] Milic Substitution replaced by Juhász,0,-80,8,,1631263,1641657,1611661324,46,44,0,2
+02:34,[DAL 47-44] Ogunbowale Free Throw 1 of 1 (9 PTS),0,-80,3,,1629481,,1611661321,47,44,1,2
+02:13,[MIN] Collier Jump Shot: Missed,6,157,2,,1629483,,1611661324,47,44,0,2
+02:10,[DAL] Brown Rebound (Off:1 Def:2),6,157,4,,1629480,,1611661321,47,44,0,2
+01:53,[DAL] Ogunbowale Fadeaway Jump Shot: Missed,1,74,2,,1629481,,1611661321,47,44,0,2
+01:51,[MIN] Collier Rebound (Off:0 Def:1),1,74,4,,1629483,,1611661324,47,44,0,2
+01:47,[MIN] McBride 3pt Shot: Missed,-168,173,2,,203825,,1611661324,47,44,0,2
+01:43,[MIN] Mitchell Rebound (Off:1 Def:1),-168,173,4,,1627676,,1611661324,47,44,0,2
+01:33,[DAL] Ogunbowale Foul: Flagrant Type 1 (1 PF) (3 FTA),-194,146,6,1627676,1629481,100698,1611661321,47,44,0,2
+01:33,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,47,44,0,2
+01:33,[MIN] Mitchell Free Throw Flagrant 1 of 3 Missed,0,-80,3,,1627676,,1611661324,47,44,0,2
+01:33,[MIN] Team Rebound,0,-80,4,,0,,1611661324,47,44,0,2
+01:33,[MIN 45-47] Mitchell Free Throw Flagrant 2 of 3 (14 PTS),0,-80,3,,1627676,,1611661324,47,45,1,2
+01:33,[MIN 46-47] Mitchell Free Throw Flagrant 3 of 3 (15 PTS),0,-80,3,,1627676,,1611661324,47,46,1,2
+01:26,[MIN] Juhász Foul: Offensive (1 PF),10,588,6,1631007,1641657,1629178,1611661324,47,46,0,2
+01:26,[MIN] Juhász Turnover : Offensive Foul Turnover (2 TO),10,588,5,,1641657,,1611661324,47,46,0,2
+01:12,[DAL] Sabally 3pt Shot: Missed,163,182,2,,1630149,,1611661321,47,46,0,2
+01:07,[DAL] Ogunbowale Rebound (Off:1 Def:1),163,182,4,,1629481,,1611661321,47,46,0,2
+01:02,[DAL 50-46] Ogunbowale 3pt Shot: Made (12 PTS),-223,36,1,,1629481,,1611661321,50,46,3,2
+00:47.7,[MIN] McBride Pullup Jump shot: Missed,27,178,2,,203825,,1611661324,50,46,0,2
+00:45.3,[DAL] Howard Rebound (Off:1 Def:2),27,178,4,,203827,,1611661321,50,46,0,2
+00:37.7,[DAL 52-46] Howard Driving Floating Jump Shot: Made (20 PTS) Assist: Sabally (3 AST),31,28,1,,203827,1630149,1611661321,52,46,2,2
+00:32.7,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,52,46,0,2
+00:27.6,[MIN] Collier 3pt Shot: Missed,180,157,2,,1629483,,1611661324,52,46,0,2
+00:24.1,[DAL] Howard Rebound (Off:1 Def:3),180,157,4,,203827,,1611661321,52,46,0,2
+00:15.3,[DAL] Brown Layup Shot: Missed,37,20,2,,1629480,,1611661321,52,46,0,2
+00:11.7,[MIN] Juhász Rebound (Off:1 Def:1),37,20,4,,1641657,,1611661324,52,46,0,2
+00:03.5,[MIN] McBride Pullup Jump shot: Missed,-17,189,2,,203825,,1611661324,52,46,0,2
+00:00.5,[DAL] Burton Rebound (Off:1 Def:1),-17,189,4,,1631007,,1611661321,52,46,0,2
+00:00.0,End Period,0,-80,13,,0,,0,52,46,0,2
+10:00,Start Period,0,-80,12,,0,,0,52,46,0,3
+09:42,[DAL] Sabally Jump Shot: Missed,-44,196,2,,1630149,,1611661321,52,46,0,3
+09:40,[MIN] Powers Rebound (Off:0 Def:2),-44,196,4,,1627672,,1611661324,52,46,0,3
+09:30,[MIN] Collier Jump Shot: Missed,-82,137,2,,1629483,,1611661324,52,46,0,3
+09:28,[DAL] Sabally Rebound (Off:1 Def:5),-82,137,4,,1630149,,1611661321,52,46,0,3
+09:20,[DAL 54-46] Howard Layup Shot: Made (22 PTS) Assist: Burton (6 AST),23,15,1,,203827,1631007,1611661321,54,46,2,3
+09:06,[MIN 48-54] Powers Jump Shot: Made (4 PTS),-17,181,1,,1627672,,1611661324,54,48,2,3
+08:55,[DAL 56-48] Burton Running Layup Shot: Made (3 PTS),-22,21,1,,1631007,,1611661321,56,48,2,3
+08:31,[MIN] Powers 3pt Shot: Missed,232,52,2,,1627672,,1611661324,56,48,0,3
+08:27,[DAL] Howard Rebound (Off:1 Def:4),232,52,4,,203827,,1611661321,56,48,0,3
+08:13,[DAL] Burton 3pt Shot: Missed,-48,247,2,,1631007,,1611661321,56,48,0,3
+08:09,[MIN] McBride Rebound (Off:0 Def:4),-48,247,4,,203825,,1611661324,56,48,0,3
+07:54,[MIN 50-56] Shepard Driving Layup Shot: Made (10 PTS),18,32,1,,1629491,,1611661324,56,50,2,3
+07:41,[MIN] Shepard Foul: Shooting (1 PF) (2 FTA),24,33,6,1630149,1629491,100698,1611661324,56,50,0,3
+07:41,[DAL 57-50] Sabally Free Throw 1 of 2 (18 PTS),0,-80,3,,1630149,,1611661321,57,50,1,3
+07:41,[DAL 58-50] Sabally Free Throw 2 of 2 (19 PTS),0,-80,3,,1630149,,1611661321,58,50,1,3
+07:25,[MIN] Collier Turnover : Lost Ball (1 TO) Steal:Sabally (3 ST),-16,70,5,1630149,1629483,,1611661324,58,50,0,3
+07:16,[DAL] Howard 3pt Shot: Missed,-163,191,2,,203827,,1611661321,58,50,0,3
+07:12,[MIN] Shepard Rebound (Off:0 Def:3),-163,191,4,,1629491,,1611661324,58,50,0,3
+07:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,50,0,3
+06:59,[DAL] Howard Foul: Personal (3 PF),-34,41,6,1629491,203827,1629178,1611661321,58,50,0,3
+06:51,[MIN] McBride Jump Shot: Missed Block: Ogunbowale (1 BLK),-116,113,2,1629481,203825,,1611661324,58,50,0,3
+06:50,[DAL] Burton Rebound (Off:1 Def:2),-116,113,4,,1631007,,1611661321,58,50,0,3
+06:40,[DAL 60-50] Sabally Floating Jump shot: Made (21 PTS) Assist: Burton (7 AST),38,32,1,,1630149,1631007,1611661321,60,50,2,3
+06:22,Jump Ball Burton vs Powers (Dangerfield gains possession),0,-80,10,1627672,1631007,1630101,1611661321,60,50,0,3
+06:22,[MIN] Powers Turnover : Lost Ball (1 TO) Steal:Burton (3 ST),0,-80,5,1631007,1627672,,1611661324,60,50,0,3
+06:19,[DAL] Ogunbowale Step Back Jump shot: Missed,-105,147,2,,1629481,,1611661321,60,50,0,3
+06:16,[DAL] Sabally Rebound (Off:2 Def:5),-105,147,4,,1630149,,1611661321,60,50,0,3
+06:16,[DAL 62-50] Howard Layup Shot: Made (24 PTS) Assist: Sabally (4 AST),-16,24,1,,203827,1630149,1611661321,62,50,2,3
+06:16,[MIN] Mitchell Foul: Shooting (2 PF) (1 FTA),-16,24,6,203827,1627676,1629178,1611661324,62,50,0,3
+06:16,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,62,50,0,3
+06:16,[DAL 63-50] Howard Free Throw 1 of 1 (25 PTS),0,-80,3,,203827,,1611661321,63,50,1,3
+06:00,[MIN 52-63] Powers Step Back Jump shot: Made (6 PTS),133,60,1,,1627672,,1611661324,63,52,2,3
+05:40,[DAL] Burton Turnover : Bad Pass (1 TO) Steal:Collier (2 ST),41,3,5,1629483,1631007,,1611661321,63,52,0,3
+05:35,[MIN] Collier Fadeaway Jump Shot: Missed,-43,26,2,,1629483,,1611661324,63,52,0,3
+05:34,[MIN] Shepard Rebound (Off:1 Def:3),-43,26,4,,1629491,,1611661324,63,52,0,3
+05:31,[MIN 54-63] Shepard Putback Layup Shot: Made (12 PTS),0,-5,1,,1629491,,1611661324,63,54,2,3
+05:14,[DAL] Sabally 3pt Shot: Missed,-93,225,2,,1630149,,1611661321,63,54,0,3
+05:11,[DAL] Team Rebound,-93,225,4,,0,,1611661321,63,54,0,3
+05:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,54,0,3
+05:11,[DAL] Dangerfield Substitution replaced by Brown,0,-80,8,,1630101,1629480,1611661321,63,54,0,3
+05:01,[DAL] Ogunbowale Floating Jump shot: Missed,-28,113,2,,1629481,,1611661321,63,54,0,3
+04:58,[MIN] Mitchell Rebound (Off:1 Def:2),-28,113,4,,1627676,,1611661324,63,54,0,3
+04:53,[MIN 57-63] McBride 3pt Shot: Made (10 PTS) Assist: Mitchell (1 AST),-190,127,1,,203825,1627676,1611661324,63,57,3,3
+04:37,[DAL] Sabally Turnover : Out of Bounds Lost Ball Turnover (2 TO),218,86,5,,1630149,,1611661321,63,57,0,3
+04:37,[DAL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661321,63,57,0,3
+04:26,[MIN] McBride Turnover : Bad Pass (3 TO),184,291,5,,203825,,1611661324,63,57,0,3
+04:26,[MIN] Mitchell Foul: Loose Ball (3 PF),-198,606,6,1631007,1627676,201538,1611661324,63,57,0,3
+04:20,[DAL] Howard Foul: Offensive (4 PF),79,210,6,203825,203827,100698,1611661321,63,57,0,3
+04:20,[DAL] Howard Turnover : Offensive Foul Turnover (1 TO),79,210,5,,203827,,1611661321,63,57,0,3
+04:01,[MIN] Powers Jump Shot: Missed,51,126,2,,1627672,,1611661324,63,57,0,3
+03:57,[DAL] Brown Rebound (Off:1 Def:3),51,126,4,,1629480,,1611661321,63,57,0,3
+03:50,[DAL 65-57] Brown Cutting Layup Shot: Made (4 PTS) Assist: Ogunbowale (4 AST),-23,32,1,,1629480,1629481,1611661321,65,57,2,3
+03:30,[MIN] Collier Driving Layup Shot: Missed Block: Brown (2 BLK),-33,35,2,1629480,1629483,,1611661324,65,57,0,3
+03:28,[DAL] Sabally Rebound (Off:2 Def:6),-33,35,4,,1630149,,1611661321,65,57,0,3
+03:13,[DAL] Howard 3pt Shot: Missed,-174,158,2,,203827,,1611661321,65,57,0,3
+03:11,[MIN] Team Rebound,-174,158,4,,0,,1611661324,65,57,0,3
+03:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,65,57,0,3
+03:11,[MIN] Collier Substitution replaced by Juhász,0,-80,8,,1629483,1641657,1611661324,65,57,0,3
+02:45,[MIN] Powers Pullup Jump shot: Missed,7,146,2,,1627672,,1611661324,65,57,0,3
+02:43,[MIN] Juhász Rebound (Off:2 Def:1),7,146,4,,1641657,,1611661324,65,57,0,3
+02:39,[MIN 59-65] McBride Floating Jump shot: Made (12 PTS) Assist: Juhász (1 AST),56,100,1,,203825,1641657,1611661324,65,59,2,3
+02:23,[DAL] Ogunbowale Layup Shot: Missed Block: Juhász (1 BLK),-24,49,2,1641657,1629481,,1611661321,65,59,0,3
+02:21,[MIN] Mitchell Rebound (Off:1 Def:3),-24,49,4,,1627676,,1611661324,65,59,0,3
+02:12,[MIN 62-65] McBride 3pt Shot: Made (15 PTS) Assist: Juhász (2 AST),233,51,1,,203825,1641657,1611661324,65,62,3,3
+02:11,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,65,62,0,3
+01:55,[MIN] Juhász Foul: Shooting (2 PF) (2 FTA),-29,40,6,1629480,1641657,1629178,1611661324,65,62,0,3
+01:55,[DAL 66-62] Brown Free Throw 1 of 2 (5 PTS),0,-80,3,,1629480,,1611661321,66,62,1,3
+01:55,[DAL 67-62] Brown Free Throw 2 of 2 (6 PTS),0,-80,3,,1629480,,1611661321,67,62,1,3
+01:36,[MIN] Powers 3pt Shot: Missed,-135,188,2,,1627672,,1611661324,67,62,0,3
+01:33,[DAL] Brown Rebound (Off:1 Def:4),-135,188,4,,1629480,,1611661321,67,62,0,3
+01:18,[DAL 69-62] Brown Layup Shot: Made (8 PTS) Assist: Burton (8 AST),-26,33,1,,1629480,1631007,1611661321,69,62,2,3
+01:06,[MIN] Mitchell Layup Shot: Missed Block: Howard (2 BLK),34,54,2,203827,1627676,,1611661324,69,62,0,3
+01:04,[DAL] Ogunbowale Rebound (Off:1 Def:2),34,54,4,,1629481,,1611661321,69,62,0,3
+00:56.9,[DAL] Ogunbowale Driving Layup Shot: Missed,23,31,2,,1629481,,1611661321,69,62,0,3
+00:55.0,[MIN] Mitchell Rebound (Off:1 Def:4),23,31,4,,1627676,,1611661324,69,62,0,3
+00:49.6,[DAL] Burton Foul: Personal (3 PF),46,137,6,1627672,1631007,201538,1611661321,69,62,0,3
+00:42.5,[DAL] Ogunbowale Foul: Shooting (2 PF) (2 FTA),49,81,6,1627672,1629481,201538,1611661321,69,62,0,3
+00:42.5,[MIN 63-69] Powers Free Throw 1 of 2 (7 PTS),0,-80,3,,1627672,,1611661324,69,63,1,3
+00:42.5,[DAL] Howard Substitution replaced by Dickey,0,-80,8,,203827,1631029,1611661321,69,63,0,3
+00:42.5,[DAL] Ogunbowale Substitution replaced by Kuier,0,-80,8,,1629481,1630386,1611661321,69,63,0,3
+00:42.5,[MIN 64-69] Powers Free Throw 2 of 2 (8 PTS),0,-80,3,,1627672,,1611661324,69,64,1,3
+00:30.2,[DAL] Sabally Driving Layup Shot: Missed,35,47,2,,1630149,,1611661321,69,64,0,3
+00:28.1,[MIN] Shepard Rebound (Off:1 Def:4),35,47,4,,1629491,,1611661324,69,64,0,3
+00:18.2,[MIN] Powers Jump Shot: Missed,-44,173,2,,1627672,,1611661324,69,64,0,3
+00:15.5,[DAL] Sabally Rebound (Off:2 Def:7),-44,173,4,,1630149,,1611661321,69,64,0,3
+00:04.2,[DAL] Kuier Jump Shot: Missed,-165,83,2,,1630386,,1611661321,69,64,0,3
+00:02.1,[DAL] Burton Rebound (Off:2 Def:2),-165,83,4,,1631007,,1611661321,69,64,0,3
+00:00.5,[DAL] Burton 3pt Shot: Missed,-223,80,2,,1631007,,1611661321,69,64,0,3
+00:00.5,[MIN] Powers Rebound (Off:0 Def:3),-223,80,4,,1627672,,1611661324,69,64,0,3
+00:00.0,End Period,0,-80,13,,0,,0,69,64,0,3
+10:00,Start Period,0,-80,12,,0,,0,69,64,0,4
+09:47,[MIN] Powers 3pt Shot: Missed,181,171,2,,1627672,,1611661324,69,64,0,4
+09:42,[DAL] Burton Rebound (Off:2 Def:3),181,171,4,,1631007,,1611661321,69,64,0,4
+09:30,[DAL 71-64] Brown Cutting Layup Shot: Made (10 PTS) Assist: Burton (9 AST),-17,31,1,,1629480,1631007,1611661321,71,64,2,4
+09:14,[MIN] McBride Jump Shot: Missed,-177,116,2,,203825,,1611661324,71,64,0,4
+09:13,[DAL] Sabally Rebound (Off:2 Def:8),-177,116,4,,1630149,,1611661321,71,64,0,4
+09:08,[DAL] Ogunbowale 3pt Shot: Missed,-178,173,2,,1629481,,1611661321,71,64,0,4
+09:05,[DAL] Brown Rebound (Off:2 Def:4),-178,173,4,,1629480,,1611661321,71,64,0,4
+09:03,[DAL 73-64] Brown Layup Shot: Made (12 PTS),-22,31,1,,1629480,,1611661321,73,64,2,4
+09:00,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,73,64,0,4
+09:00,[DAL] Burton Substitution replaced by Dangerfield,0,-80,8,,1631007,1630101,1611661321,73,64,0,4
+08:49,[MIN 67-73] Banham 3pt Shot: Made (3 PTS) Assist: McBride (2 AST),15,234,1,,1627671,203825,1611661324,73,67,3,4
+08:26,[DAL 75-67] Sabally Driving Layup Shot: Made (23 PTS) Assist: Ogunbowale (5 AST),-23,60,1,,1630149,1629481,1611661321,75,67,2,4
+08:05,[DAL] Howard Foul: Shooting (5 PF) (2 FTA),26,43,6,1629491,203827,201538,1611661321,75,67,0,4
+08:05,[MIN] Shepard Free Throw 1 of 2 Missed,0,-80,3,,1629491,,1611661324,75,67,0,4
+08:05,[MIN] Team Rebound,0,-80,4,,0,,1611661324,75,67,0,4
+08:05,[DAL] Howard Substitution replaced by Burton,0,-80,8,,203827,1631007,1611661321,75,67,0,4
+08:05,[MIN] Powers Substitution replaced by Mitchell,0,-80,8,,1627672,1627676,1611661324,75,67,0,4
+08:05,[MIN] Juhász Substitution replaced by Collier,0,-80,8,,1641657,1629483,1611661324,75,67,0,4
+08:05,[MIN 68-75] Shepard Free Throw 2 of 2 (13 PTS),0,-80,3,,1629491,,1611661324,75,68,1,4
+07:45,[DAL] Dangerfield 3pt Shot: Missed,133,221,2,,1630101,,1611661321,75,68,0,4
+07:45,[MIN] Shepard Rebound (Off:1 Def:5),133,221,4,,1629491,,1611661324,75,68,0,4
+07:36,[MIN] Banham 3pt Shot: Missed,-149,210,2,,1627671,,1611661324,75,68,0,4
+07:33,[DAL] Ogunbowale Rebound (Off:1 Def:3),-149,210,4,,1629481,,1611661321,75,68,0,4
+07:29,[DAL 77-68] Ogunbowale Step Back Jump shot: Made (14 PTS),-142,140,1,,1629481,,1611661321,77,68,2,4
+07:12,[MIN 70-77] Shepard Jump Shot: Made (15 PTS) Assist: Collier (1 AST),177,14,1,,1629491,1629483,1611661324,77,70,2,4
+06:49,[MIN] Mitchell Foul: Personal (4 PF),102,157,6,1630101,1627676,1629178,1611661324,77,70,0,4
+06:49,[DAL] Brown Substitution replaced by Dickey,0,-80,8,,1629480,1631029,1611661321,77,70,0,4
+06:41,[DAL] Dickey Layup Shot: Missed,-12,27,2,,1631029,,1611661321,77,70,0,4
+06:39,[MIN] Shepard Rebound (Off:1 Def:6),-12,27,4,,1629491,,1611661324,77,70,0,4
+06:29,[MIN 73-77] McBride 3pt Shot: Made (18 PTS) Assist: Mitchell (2 AST),-184,151,1,,203825,1627676,1611661324,77,73,3,4
+06:28,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,77,73,0,4
+06:28,[DAL] Burton Substitution replaced by Howard,0,-80,8,,1631007,203827,1611661321,77,73,0,4
+06:28,[DAL] Dickey Substitution replaced by Brown,0,-80,8,,1631029,1629480,1611661321,77,73,0,4
+06:16,[DAL] Brown Turnaround Hook Shot: Missed,-16,27,2,,1629480,,1611661321,77,73,0,4
+06:12,[MIN] Collier Rebound (Off:0 Def:2),-16,27,4,,1629483,,1611661324,77,73,0,4
+06:07,[DAL] Brown Foul: Shooting (2 PF) (2 FTA),28,25,6,1629483,1629480,100698,1611661321,77,73,0,4
+06:07,[MIN 74-77] Collier Free Throw 1 of 2 (7 PTS),0,-80,3,,1629483,,1611661324,77,74,1,4
+06:07,[MIN 75-77] Collier Free Throw 2 of 2 (8 PTS),0,-80,3,,1629483,,1611661324,77,75,1,4
+05:53,[DAL 79-75] Dangerfield Pullup Jump shot: Made (2 PTS) Assist: Sabally (5 AST),19,35,1,,1630101,1630149,1611661321,79,75,2,4
+05:34,[MIN] McBride Jump Shot: Missed,10,148,2,,203825,,1611661324,79,75,0,4
+05:32,[MIN] Shepard Rebound (Off:2 Def:6),10,148,4,,1629491,,1611661324,79,75,0,4
+05:31,[MIN 77-79] Collier Layup Shot: Made (10 PTS) Assist: Shepard (4 AST),7,22,1,,1629483,1629491,1611661324,79,77,2,4
+05:16,[DAL 81-77] Dangerfield Pullup Jump shot: Made (4 PTS),50,109,1,,1630101,,1611661321,81,77,2,4
+04:54,[MIN] Banham 3pt Shot: Missed,166,170,2,,1627671,,1611661324,81,77,0,4
+04:54,[DAL] Howard Rebound (Off:1 Def:5),166,170,4,,203827,,1611661321,81,77,0,4
+04:32,[DAL] Ogunbowale Jump Shot: Missed,-22,28,2,,1629481,,1611661321,81,77,0,4
+04:31,[DAL] Ogunbowale Rebound (Off:2 Def:3),-22,28,4,,1629481,,1611661321,81,77,0,4
+04:31,[DAL 83-77] Ogunbowale Layup Shot: Made (16 PTS),-15,33,1,,1629481,,1611661321,83,77,2,4
+04:31,[MIN] Banham Foul: Shooting (1 PF) (1 FTA),-15,33,6,1629481,1627671,201538,1611661324,83,77,0,4
+04:31,[DAL 84-77] Ogunbowale Free Throw 1 of 1 (17 PTS),0,-80,3,,1629481,,1611661321,84,77,1,4
+04:20,[MIN] Collier Foul: Offensive (1 PF),143,124,6,1630101,1629483,1629178,1611661324,84,77,0,4
+04:20,[MIN] Collier Turnover : Offensive Foul Turnover (2 TO),143,124,5,,1629483,,1611661324,84,77,0,4
+04:09,[DAL] Howard 3pt Shot: Missed,-226,45,2,,203827,,1611661321,84,77,0,4
+04:07,[DAL] Brown Rebound (Off:3 Def:4),-226,45,4,,1629480,,1611661321,84,77,0,4
+04:06,[DAL] Brown Putback Layup Shot: Missed,-39,28,2,,1629480,,1611661321,84,77,0,4
+04:04,[DAL] Sabally Rebound (Off:3 Def:8),-39,28,4,,1630149,,1611661321,84,77,0,4
+04:01,[DAL] Sabally Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-28,31,5,,1630149,,1611661321,84,77,0,4
+03:32,[MIN] Mitchell Jump Shot: Missed,-116,158,2,,1627676,,1611661324,84,77,0,4
+03:30,[MIN] Shepard Rebound (Off:3 Def:6),-116,158,4,,1629491,,1611661324,84,77,0,4
+03:28,[MIN 80-84] Collier 3pt Shot: Made (13 PTS) Assist: Shepard (5 AST),65,230,1,,1629483,1629491,1611661324,84,80,3,4
+03:02,[DAL 87-80] Dangerfield 3pt Shot: Made (7 PTS) Assist: Brown (1 AST),-183,183,1,,1630101,1629480,1611661321,87,80,3,4
+02:46,[MIN] Mitchell Turnover : Traveling (4 TO),-235,48,5,,1627676,,1611661324,87,80,0,4
+02:46,Timeout Officials,0,-80,9,,0,,0,87,80,0,4
+02:22,[DAL] Team Turnover : Shot Clock Turnover,19,54,5,,0,,1611661321,87,80,0,4
+02:11,[MIN 82-87] Mitchell Running Reverse Layup Shot: Made (17 PTS),11,20,1,,1627676,,1611661324,87,82,2,4
+02:00,[DAL 89-82] Dangerfield Driving Layup Shot: Made (9 PTS),-13,33,1,,1630101,,1611661321,89,82,2,4
+01:45,[MIN] Shepard Jump Shot: Missed,44,108,2,,1629491,,1611661324,89,82,0,4
+01:41,[MIN] Shepard Rebound (Off:4 Def:6),44,108,4,,1629491,,1611661324,89,82,0,4
+01:36,[MIN] Banham Foul: Offensive (2 PF),-5,123,6,203827,1627671,1629178,1611661324,89,82,0,4
+01:36,[MIN] Banham Turnover : Offensive Foul Turnover (1 TO),-5,123,5,,1627671,,1611661324,89,82,0,4
+01:36,[MIN] Team Timeout : Challenge,0,-80,9,,1611661324,,1611661324,89,82,0,4
+01:36,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661324,89,82,0,4
+01:23,[DAL] Dangerfield Turnover : Out of Bounds - Bad Pass Turnover (1 TO),6,119,5,,1630101,,1611661321,89,82,0,4
+01:14,[DAL] Dangerfield Foul: Personal (2 PF),156,128,6,1627676,1630101,201538,1611661321,89,82,0,4
+01:14,[DAL] Dangerfield Substitution replaced by Burton,0,-80,8,,1630101,1631007,1611661321,89,82,0,4
+01:03,[MIN 84-89] Collier Driving Layup Shot: Made (15 PTS) Assist: Banham (1 AST),27,72,1,,1629483,1627671,1611661324,89,84,2,4
+00:41.8,[DAL] Ogunbowale Turnover : Lost Ball (1 TO) Steal:Banham (1 ST),-48,119,5,1627671,1629481,,1611661321,89,84,0,4
+00:37.8,[MIN] Mitchell Turnover : Out of Bounds Lost Ball Turnover (5 TO),-52,47,5,,1627676,,1611661324,89,84,0,4
+00:37.8,[DAL] Burton Substitution replaced by Dangerfield,0,-80,8,,1631007,1630101,1611661321,89,84,0,4
+00:35.2,[MIN] Collier Foul: Personal Take (2 PF),-193,318,6,1629481,1629483,1629178,1611661324,89,84,0,4
+00:35.2,[DAL] Dangerfield Substitution replaced by Burton,0,-80,8,,1630101,1631007,1611661321,89,84,0,4
+00:33.7,[MIN] Banham Foul: Personal Take (3 PF) (2 FTA),-139,225,6,1631007,1627671,1629178,1611661324,89,84,0,4
+00:33.7,[DAL 90-84] Burton Free Throw 1 of 2 (4 PTS),0,-80,3,,1631007,,1611661321,90,84,1,4
+00:33.7,[DAL] Burton Free Throw 2 of 2 Missed,0,-80,3,,1631007,,1611661321,90,84,0,4
+00:32.8,[MIN] Collier Rebound (Off:0 Def:3),0,-80,4,,1629483,,1611661324,90,84,0,4
+00:32.8,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,90,84,0,4
+00:28.6,[MIN 86-90] Collier Jump Shot: Made (17 PTS) Assist: McBride (3 AST),-17,210,1,,1629483,203825,1611661324,90,86,2,4
+00:22.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,90,86,0,4
+00:22.9,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,90,86,0,4
+00:19.4,[MIN] Mitchell Foul: Personal Take (5 PF) (2 FTA),44,368,6,1629481,1627676,1629178,1611661324,90,86,0,4
+00:19.4,[DAL 91-86] Ogunbowale Free Throw 1 of 2 (18 PTS),0,-80,3,,1629481,,1611661321,91,86,1,4
+00:19.4,[DAL 92-86] Ogunbowale Free Throw 2 of 2 (19 PTS),0,-80,3,,1629481,,1611661321,92,86,1,4
+00:10.0,[MIN 89-92] Banham 3pt Shot: Made (6 PTS) Assist: Mitchell (3 AST),149,210,1,,1627671,1627676,1611661324,92,89,3,4
+00:07.2,[MIN] McBride Foul: Personal Take (2 PF) (2 FTA),199,626,6,1629481,203825,201538,1611661324,92,89,0,4
+00:07.2,Stoppage: Blood Rule,0,-80,20,,0,,0,92,89,0,4
+00:07.2,[MIN] Mitchell Substitution replaced by Allen,0,-80,8,,1627676,1628263,1611661324,92,89,0,4
+00:07.2,[DAL 93-89] Ogunbowale Free Throw 1 of 2 (20 PTS),0,-80,3,,1629481,,1611661321,93,89,1,4
+00:07.2,[DAL 94-89] Ogunbowale Free Throw 2 of 2 (21 PTS),0,-80,3,,1629481,,1611661321,94,89,1,4
+00:01.5,[MIN] Banham 3pt Shot: Missed,88,325,2,,1627671,,1611661324,94,89,0,4
+00:00.4,[DAL] Howard Rebound (Off:1 Def:6),88,325,4,,203827,,1611661321,94,89,0,4
+00:00.0,End Period,0,-80,13,,0,,0,94,89,0,4

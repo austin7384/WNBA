@@ -1,0 +1,408 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Parker vs N Ogwumike (Coffey gains possession),0,-80,10,203014,204323,1628269,1611661330,0,0,0,1
+09:43,[ATL 3-0] Howard 3pt Shot: Made (3 PTS) Assist: Robinson (1 AST),169,183,1,,1631009,202658,1611661330,0,3,3,1
+09:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,3,0,1
+09:19,[LAS] Samuelson 3pt Shot: Missed,202,119,2,,1628317,,1611661320,0,3,0,1
+09:15,[ATL] Robinson Rebound (Off:0 Def:1),202,119,4,,202658,,1611661330,0,3,0,1
+09:01,[ATL] Coffey 3pt Shot: Missed,232,53,2,,1628269,,1611661330,0,3,0,1
+09:00,[LAS] Team Rebound,232,53,4,,0,,1611661320,0,3,0,1
+09:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,3,0,1
+08:48,[LAS] Samuelson 3pt Shot: Missed,1,252,2,,1628317,,1611661320,0,3,0,1
+08:43,[ATL] Parker Rebound (Off:0 Def:1),1,252,4,,204323,,1611661330,0,3,0,1
+08:39,[ATL] Gray 3pt Shot: Missed,234,67,2,,1628277,,1611661330,0,3,0,1
+08:35,[LAS] Canada Rebound (Off:0 Def:1),234,67,4,,1628886,,1611661320,0,3,0,1
+08:25,[LAS 3-3] N Ogwumike 3pt Shot: Made (3 PTS) Assist: Canada (1 AST),228,19,1,,203014,1628886,1611661320,3,3,3,1
+08:10,[ATL] Robinson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-29,250,5,,202658,1629770,1611661330,3,3,0,1
+07:52,[LAS 5-3] Canada Driving Finger Roll Layup Shot: Made (2 PTS) Assist: N Ogwumike (1 AST),-6,42,1,,1628886,203014,1611661320,5,3,2,1
+07:40,[ATL 6-5] Coffey 3pt Shot: Made (3 PTS) Assist: Howard (1 AST),233,61,1,,1628269,1631009,1611661330,5,6,3,1
+07:22,[LAS] Thomas 3pt Shot: Missed,199,134,2,,202662,,1611661320,5,6,0,1
+07:19,[ATL] Coffey Rebound (Off:0 Def:1),199,134,4,,1628269,,1611661330,5,6,0,1
+07:11,[ATL 8-5] Parker Cutting Layup Shot: Made (2 PTS) Assist: Robinson (2 AST),-18,39,1,,204323,202658,1611661330,5,8,2,1
+06:51,[LAS] N Ogwumike Jump Bank Shot: Missed,-67,38,2,,203014,,1611661320,5,8,0,1
+06:45,[ATL] Parker Rebound (Off:0 Def:2),-67,38,4,,204323,,1611661330,5,8,0,1
+06:45,[LAS] N Ogwumike Foul: Shooting (1 PF) (2 FTA),-15,74,6,204323,203014,1629770,1611661320,5,8,0,1
+06:45,[ATL] Parker Free Throw 1 of 2 Missed,0,-80,3,,204323,,1611661330,5,8,0,1
+06:45,[ATL] Team Rebound,0,-80,4,,0,,1611661330,5,8,0,1
+06:45,[ATL 9-5] Parker Free Throw 2 of 2 (3 PTS),0,-80,3,,204323,,1611661330,5,9,1,1
+06:22,[LAS] N Ogwumike Jump Shot: Missed,12,155,2,,203014,,1611661320,5,9,0,1
+06:17,[ATL] Coffey Rebound (Off:0 Def:2),12,155,4,,1628269,,1611661330,5,9,0,1
+06:10,[ATL 12-5] Howard 3pt Shot: Made (6 PTS) Assist: Gray (1 AST),-134,223,1,,1631009,1628277,1611661330,5,12,3,1
+05:54,[LAS] Hamby 3pt Shot: Missed,-101,224,2,,204324,,1611661320,5,12,0,1
+05:50,[ATL] Robinson Rebound (Off:0 Def:2),-101,224,4,,202658,,1611661330,5,12,0,1
+05:48,[LAS] Thomas Foul: Personal (1 PF),171,134,6,1631009,202662,1628168,1611661320,5,12,0,1
+05:48,[LAS] Thomas Substitution replaced by Cooke,0,-80,8,,202662,1641660,1611661320,5,12,0,1
+05:44,[ATL] Parker Turnaround Jump Shot: Missed,77,40,2,,204323,,1611661330,5,12,0,1
+05:43,[LAS] Team Rebound,77,40,4,,0,,1611661320,5,12,0,1
+05:43,[ATL] Coffey Foul: Loose Ball (1 PF),-8,776,6,1628317,1628269,200667,1611661330,5,12,0,1
+05:30,[LAS] Cooke 3pt Shot: Missed,-112,234,2,,1641660,,1611661320,5,12,0,1
+05:26,[ATL] Coffey Rebound (Off:0 Def:3),-112,234,4,,1628269,,1611661330,5,12,0,1
+05:19,[ATL 15-5] Coffey 3pt Shot: Made (6 PTS) Assist: Parker (1 AST),118,214,1,,1628269,204323,1611661330,5,15,3,1
+05:18,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,5,15,0,1
+05:06,[LAS 7-15] N Ogwumike Driving Floating Bank Jump Shot: Made (5 PTS) Assist: Canada (2 AST),33,49,1,,203014,1628886,1611661320,7,15,2,1
+04:42,[ATL] Parker Hook Bank Shot: Missed,30,42,2,,204323,,1611661330,7,15,0,1
+04:39,[LAS] Hamby Rebound (Off:0 Def:1),30,42,4,,204324,,1611661320,7,15,0,1
+04:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,15,0,1
+04:22,[LAS 9-15] Canada Pullup Jump shot: Made (4 PTS),-30,181,1,,1628886,,1611661320,9,15,2,1
+03:57,[ATL 17-9] Gray Driving Layup Shot: Made (2 PTS) Assist: Coffey (1 AST),-13,32,1,,1628277,1628269,1611661330,9,17,2,1
+03:47,[LAS] Hamby Layup Shot: Missed Block: Parker (1 BLK),9,32,2,204323,204324,,1611661320,9,17,0,1
+03:46,[ATL] Howard Rebound (Off:0 Def:1),9,32,4,,1631009,,1611661330,9,17,0,1
+03:32,[ATL] Robinson 3pt Shot: Missed,-156,198,2,,202658,,1611661330,9,17,0,1
+03:29,[LAS] Team Rebound,-156,198,4,,0,,1611661320,9,17,0,1
+03:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,17,0,1
+03:16,[LAS] N Ogwumike Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),95,226,5,1631009,203014,,1611661320,9,17,0,1
+03:09,[ATL 19-9] Parker Pullup Jump shot: Made (5 PTS) Assist: Howard (2 AST),54,121,1,,204323,1631009,1611661330,9,19,2,1
+02:53,[ATL] Howard Foul: Personal (1 PF),3,89,6,1641660,1631009,1628168,1611661330,9,19,0,1
+02:53,[LAS] Hamby Substitution replaced by Stevens,0,-80,8,,204324,1628922,1611661320,9,19,0,1
+02:53,[ATL] Coffey Substitution replaced by Billings,0,-80,8,,1628269,1628881,1611661330,9,19,0,1
+02:53,[ATL] Parker Substitution replaced by Hillmon,0,-80,8,,204323,1631044,1611661330,9,19,0,1
+02:41,[LAS] Stevens Layup Shot: Missed,23,38,2,,1628922,,1611661320,9,19,0,1
+02:37,[ATL] Billings Rebound (Off:0 Def:1),23,38,4,,1628881,,1611661330,9,19,0,1
+02:32,[ATL 21-9] Robinson Floating Jump shot: Made (2 PTS) Assist: Gray (2 AST),-18,113,1,,202658,1628277,1611661330,9,21,2,1
+02:24,[LAS] N Ogwumike Jump Shot: Missed Block: Hillmon (1 BLK),21,41,2,1631044,203014,,1611661320,9,21,0,1
+02:22,[ATL] Howard Rebound (Off:0 Def:2),21,41,4,,1631009,,1611661330,9,21,0,1
+02:11,[ATL] Billings Jump Shot: Missed Block: Stevens (1 BLK),-16,44,2,1628922,1628881,,1611661330,9,21,0,1
+02:11,[ATL] Team Rebound,-16,44,4,,0,,1611661330,9,21,0,1
+02:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,21,0,1
+02:09,[ATL] Howard 3pt Shot: Missed,-178,187,2,,1631009,,1611661330,9,21,0,1
+02:04,[LAS] Samuelson Rebound (Off:0 Def:1),-178,187,4,,1628317,,1611661320,9,21,0,1
+01:57,[LAS 11-21] Stevens Cutting Layup Shot: Made (2 PTS) Assist: Samuelson (1 AST),-17,65,1,,1628922,1628317,1611661320,11,21,2,1
+01:45,[ATL 23-11] Hillmon Cutting Layup Shot: Made (2 PTS) Assist: Howard (3 AST),28,28,1,,1631044,1631009,1611661330,11,23,2,1
+01:30,[LAS] N Ogwumike Jump Shot: Missed,16,48,2,,203014,,1611661320,11,23,0,1
+01:28,[ATL] Gray Rebound (Off:0 Def:1),16,48,4,,1628277,,1611661330,11,23,0,1
+01:20,[ATL 25-11] Billings Cutting Layup Shot: Made (2 PTS) Assist: Howard (4 AST),-6,35,1,,1628881,1631009,1611661330,11,25,2,1
+01:19,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,11,25,0,1
+01:19,[ATL] Robinson Substitution replaced by Jones,0,-80,8,,202658,1641650,1611661330,11,25,0,1
+01:09,[LAS] N Ogwumike Turnover : Traveling (2 TO),48,57,5,,203014,200667,1611661320,11,25,0,1
+01:00,[ATL] Billings Foul: Offensive (1 PF),129,190,6,1641660,1628881,1628168,1611661330,11,25,0,1
+01:00,[ATL] Billings Turnover : Offensive Foul Turnover (1 TO),129,190,5,,1628881,1628168,1611661330,11,25,0,1
+00:50.6,[ATL] Jones Foul: Personal (1 PF),-29,70,6,203014,1641650,1628168,1611661330,11,25,0,1
+00:44.2,[LAS 14-25] Cooke 3pt Shot: Made (3 PTS) Assist: Canada (3 AST),-65,236,1,,1641660,1628886,1611661320,14,25,3,1
+00:36.3,[ATL 28-14] Howard 3pt Shot: Made (9 PTS),-46,249,1,,1631009,,1611661330,14,28,3,1
+00:25.5,[LAS] Samuelson Jump Shot: Missed,-62,182,2,,1628317,,1611661320,14,28,0,1
+00:21.7,[ATL] Howard Rebound (Off:0 Def:3),-62,182,4,,1631009,,1611661330,14,28,0,1
+00:16.6,[LAS] Cooke Foul: Personal (1 PF),-21,87,6,1631009,1641660,200667,1611661320,14,28,0,1
+00:16.4,[LAS] Stevens Foul: Personal (1 PF) (2 FTA),-133,141,6,1628881,1628922,1629770,1611661320,14,28,0,1
+00:16.4,[ATL] Billings Free Throw 1 of 2 Missed,0,-80,3,,1628881,,1611661330,14,28,0,1
+00:16.4,[ATL] Team Rebound,0,-80,4,,0,,1611661330,14,28,0,1
+00:16.4,[ATL] Howard Substitution replaced by Durr,0,-80,8,,1631009,1629476,1611661330,14,28,0,1
+00:16.4,[ATL 29-14] Billings Free Throw 2 of 2 (3 PTS),0,-80,3,,1628881,,1611661330,14,29,1,1
+00:02.3,[LAS] Cooke 3pt Shot: Missed,-168,183,2,,1641660,,1611661320,14,29,0,1
+00:00.5,[LAS] Team Rebound,-168,183,4,,0,,1611661320,14,29,0,1
+00:00.4,[ATL] Durr Foul: Loose Ball (1 PF) (2 FTA),11,127,6,1628317,1629476,1628168,1611661330,14,29,0,1
+00:00.4,[LAS 15-29] Samuelson Free Throw 1 of 2 (1 PTS),0,-80,3,,1628317,,1611661320,15,29,1,1
+00:00.4,[LAS 16-29] Samuelson Free Throw 2 of 2 (2 PTS),0,-80,3,,1628317,,1611661320,16,29,1,1
+00:00.4,[LAS] N Ogwumike Substitution replaced by Hamby,0,-80,8,,203014,204324,1611661320,16,29,0,1
+00:00.4,InstantReplay Request Stands,0,-80,18,,0,,0,16,29,0,1
+00:00.0,End Period,0,-80,13,,0,,0,16,29,0,1
+10:00,Start Period,0,-80,12,,0,,0,16,29,0,2
+09:44,[LAS] Canada Driving Floating Jump Shot: Missed,-5,90,2,,1628886,,1611661320,16,29,0,2
+09:42,[ATL] Hillmon Rebound (Off:0 Def:1),-5,90,4,,1631044,,1611661330,16,29,0,2
+09:26,[ATL 31-16] Jones Cutting Layup Shot: Made (2 PTS) Assist: Billings (1 AST),30,27,1,,1641650,1628881,1611661330,16,31,2,2
+09:02,[ATL] Jones Foul: Shooting (2 PF) (2 FTA),-43,53,6,1628886,1641650,200667,1611661330,16,31,0,2
+09:02,[LAS 17-31] Canada Free Throw 1 of 2 (5 PTS),0,-80,3,,1628886,,1611661320,17,31,1,2
+09:02,[LAS] Cooke Substitution replaced by Henderson,0,-80,8,,1641660,1631089,1611661320,17,31,0,2
+09:02,[LAS 18-31] Canada Free Throw 2 of 2 (6 PTS),0,-80,3,,1628886,,1611661320,18,31,1,2
+08:48,[ATL 33-18] Gray Pullup Jump shot: Made (4 PTS) Assist: Hillmon (1 AST),28,163,1,,1628277,1631044,1611661330,18,33,2,2
+08:22,[LAS] Hamby Hook Shot: Missed,35,27,2,,204324,,1611661320,18,33,0,2
+08:19,[ATL] Jones Rebound (Off:0 Def:1),35,27,4,,1641650,,1611661330,18,33,0,2
+08:10,[ATL 35-18] Hillmon Jump Shot: Made (4 PTS) Assist: Gray (3 AST),-120,77,1,,1631044,1628277,1611661330,18,35,2,2
+08:01,[LAS 20-35] Canada Running Layup Shot: Made (8 PTS),-32,31,1,,1628886,,1611661320,20,35,2,2
+07:50,[LAS] Hamby Foul: Personal (1 PF),56,70,6,1628881,204324,200667,1611661320,20,35,0,2
+07:50,[ATL] Gray Substitution replaced by Parker,0,-80,8,,1628277,204323,1611661330,20,35,0,2
+07:50,[ATL] Billings Substitution replaced by Howard,0,-80,8,,1628881,1631009,1611661330,20,35,0,2
+07:42,[ATL 37-20] Jones Turnaround Jump Shot: Made (4 PTS) Assist: Parker (2 AST),24,35,1,,1641650,204323,1611661330,20,37,2,2
+07:27,[LAS 23-37] Samuelson 3pt Shot: Made (5 PTS) Assist: Hamby (1 AST),95,239,1,,1628317,204324,1611661320,23,37,3,2
+07:16,[LAS] Canada Foul: Personal (1 PF),-144,123,6,1631009,1628886,1629770,1611661320,23,37,0,2
+07:16,[LAS] Hamby Substitution replaced by N Ogwumike,0,-80,8,,204324,203014,1611661320,23,37,0,2
+07:05,[ATL 39-23] Durr Pullup Jump shot: Made (2 PTS) Assist: Jones (1 AST),-66,8,1,,1629476,1641650,1611661330,23,39,2,2
+06:57,[LAS 25-39] Stevens Cutting Layup Shot: Made (4 PTS) Assist: Canada (4 AST),-17,57,1,,1628922,1628886,1611661320,25,39,2,2
+06:30,[ATL] Team Turnover : Shot Clock Turnover,-92,241,5,,0,1629770,1611661330,25,39,0,2
+06:30,[ATL] Hillmon Substitution replaced by Amihere,0,-80,8,,1631044,1641656,1611661330,25,39,0,2
+06:18,[LAS 27-39] N Ogwumike Driving Reverse Layup Shot: Made (7 PTS) Assist: Samuelson (2 AST),18,19,1,,203014,1628317,1611661320,27,39,2,2
+06:01,[ATL 41-27] Jones Cutting Layup Shot: Made (6 PTS) Assist: Parker (3 AST),5,90,1,,1641650,204323,1611661330,27,41,2,2
+05:51,[LAS] Henderson 3pt Shot: Missed,1,263,2,,1631089,,1611661320,27,41,0,2
+05:49,[ATL] Parker Rebound (Off:0 Def:3),1,263,4,,204323,,1611661330,27,41,0,2
+05:42,[ATL] Jones Turnaround Jump Shot: Missed,-31,109,2,,1641650,,1611661330,27,41,0,2
+05:39,[LAS] Stevens Rebound (Off:0 Def:1),-31,109,4,,1628922,,1611661320,27,41,0,2
+05:36,[ATL] Howard Foul: Shooting (2 PF) (2 FTA),-30,65,6,1628886,1631009,1629770,1611661330,27,41,0,2
+05:36,Timeout Officials,0,-80,9,,0,,0,27,41,0,2
+05:36,[LAS] Samuelson Substitution replaced by Burrell,0,-80,8,,1628317,1630996,1611661320,27,41,0,2
+05:36,[ATL] Howard Substitution replaced by Coffey,0,-80,8,,1631009,1628269,1611661330,27,41,0,2
+05:36,[LAS 28-41] Canada Free Throw 1 of 2 (9 PTS),0,-80,3,,1628886,,1611661320,28,41,1,2
+05:36,[LAS 29-41] Canada Free Throw 2 of 2 (10 PTS),0,-80,3,,1628886,,1611661320,29,41,1,2
+05:24,[LAS] Henderson Foul: Shooting (1 PF) (2 FTA),29,31,6,1629476,1631089,1629770,1611661320,29,41,0,2
+05:24,[ATL 42-29] Durr Free Throw 1 of 2 (3 PTS),0,-80,3,,1629476,,1611661330,29,42,1,2
+05:24,[LAS] Canada Substitution replaced by Thomas,0,-80,8,,1628886,202662,1611661320,29,42,0,2
+05:24,[ATL 43-29] Durr Free Throw 2 of 2 (4 PTS),0,-80,3,,1629476,,1611661330,29,43,1,2
+05:11,[LAS 32-43] N Ogwumike 3pt Shot: Made (10 PTS) Assist: Henderson (1 AST),105,221,1,,203014,1631089,1611661320,32,43,3,2
+04:53,[ATL] Parker 3pt Shot: Missed,68,238,2,,204323,,1611661330,32,43,0,2
+04:50,[LAS] Stevens Rebound (Off:0 Def:2),68,238,4,,1628922,,1611661320,32,43,0,2
+04:41,[LAS 34-43] Stevens Driving Layup Shot: Made (6 PTS),-2,42,1,,1628922,,1611661320,34,43,2,2
+04:26,[LAS] Burrell Foul: Shooting (1 PF) (2 FTA),18,137,6,1629476,1630996,200667,1611661320,34,43,0,2
+04:26,[ATL] Durr Free Throw 1 of 2 Missed,0,-80,3,,1629476,,1611661330,34,43,0,2
+04:26,[ATL] Team Rebound,0,-80,4,,0,,1611661330,34,43,0,2
+04:26,[ATL 44-34] Durr Free Throw 2 of 2 (5 PTS),0,-80,3,,1629476,,1611661330,34,44,1,2
+04:16,[LAS] Henderson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),62,242,5,,1631089,,1611661320,34,44,0,2
+04:16,[ATL] Durr Substitution replaced by Robinson,0,-80,8,,1629476,202658,1611661330,34,44,0,2
+04:16,[ATL] Amihere Substitution replaced by Gray,0,-80,8,,1641656,1628277,1611661330,34,44,0,2
+04:02,[ATL 46-34] Robinson Jump Shot: Made (4 PTS) Assist: Gray (4 AST),26,26,1,,202658,1628277,1611661330,34,46,2,2
+03:49,[LAS] Stevens 3pt Shot: Missed,96,240,2,,1628922,,1611661320,34,46,0,2
+03:49,[ATL] Parker Rebound (Off:0 Def:4),96,240,4,,204323,,1611661330,34,46,0,2
+03:40,[LAS] Burrell Foul: Shooting (2 PF) (2 FTA),21,42,6,1628269,1630996,1628168,1611661320,34,46,0,2
+03:40,[ATL 47-34] Coffey Free Throw 1 of 2 (7 PTS),0,-80,3,,1628269,,1611661330,34,47,1,2
+03:40,[LAS] Henderson Substitution replaced by Cooke,0,-80,8,,1631089,1641660,1611661320,34,47,0,2
+03:40,[ATL] Coffey Free Throw 2 of 2 Missed,0,-80,3,,1628269,,1611661330,34,47,0,2
+03:37,[LAS] N Ogwumike Rebound (Off:0 Def:1),0,-80,4,,203014,,1611661320,34,47,0,2
+03:25,[LAS] Thomas 3pt Shot: Missed,129,205,2,,202662,,1611661320,34,47,0,2
+03:21,[ATL] Jones Rebound (Off:0 Def:2),129,205,4,,1641650,,1611661330,34,47,0,2
+03:13,[ATL] Robinson Jump Shot: Missed Block: Stevens (2 BLK),1,66,2,1628922,202658,,1611661330,34,47,0,2
+03:12,[LAS] Stevens Rebound (Off:0 Def:3),1,66,4,,1628922,,1611661320,34,47,0,2
+03:04,[LAS] Stevens Turnover : Bad Pass (1 TO) Steal:Parker (1 ST),66,352,5,204323,1628922,,1611661320,34,47,0,2
+02:59,[LAS] Stevens Violation:Kicked Ball,0,-80,7,,1628922,,1611661320,34,47,0,2
+02:59,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,34,47,0,2
+02:48,[ATL] Jones Jump Shot: Missed,-12,117,2,,1641650,,1611661330,34,47,0,2
+02:46,[LAS] Stevens Rebound (Off:0 Def:4),-12,117,4,,1628922,,1611661320,34,47,0,2
+02:42,[ATL] Jones Foul: Personal (3 PF),-8,106,6,203014,1641650,200667,1611661330,34,47,0,2
+02:42,[ATL] Jones Substitution replaced by Durr,0,-80,8,,1641650,1629476,1611661330,34,47,0,2
+02:27,[LAS] Cooke Jump Shot: Missed,13,63,2,,1641660,,1611661320,34,47,0,2
+02:25,[ATL] Coffey Rebound (Off:0 Def:4),13,63,4,,1628269,,1611661330,34,47,0,2
+02:16,[ATL] Durr 3pt Shot: Missed,-174,205,2,,1629476,,1611661330,34,47,0,2
+02:14,[LAS] N Ogwumike Rebound (Off:0 Def:2),-174,205,4,,203014,,1611661320,34,47,0,2
+02:03,[ATL] Coffey Foul: Shooting (2 PF) (2 FTA),22,27,6,1641660,1628269,1629770,1611661330,34,47,0,2
+02:03,[LAS 35-47] Cooke Free Throw 1 of 2 (4 PTS),0,-80,3,,1641660,,1611661320,35,47,1,2
+02:03,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,35,47,0,2
+02:03,[LAS] Burrell Substitution replaced by Canada,0,-80,8,,1630996,1628886,1611661320,35,47,0,2
+02:03,[LAS] Thomas Substitution replaced by Hamby,0,-80,8,,202662,204324,1611661320,35,47,0,2
+02:03,[LAS] Cooke Free Throw 2 of 2 Missed,0,-80,3,,1641660,,1611661320,35,47,0,2
+02:00,[ATL] Parker Rebound (Off:0 Def:5),0,-80,4,,204323,,1611661330,35,47,0,2
+01:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,47,0,2
+01:38,[ATL 49-35] Durr Cutting Layup Shot: Made (7 PTS) Assist: Robinson (3 AST),26,10,1,,1629476,202658,1611661330,35,49,2,2
+01:26,[ATL] Gray Foul: Personal (1 PF) (2 FTA),-8,48,6,204324,1628277,1628168,1611661330,35,49,0,2
+01:26,[LAS 36-49] Hamby Free Throw 1 of 2 (1 PTS),0,-80,3,,204324,,1611661320,36,49,1,2
+01:26,[LAS] Cooke Substitution replaced by Burrell,0,-80,8,,1641660,1630996,1611661320,36,49,0,2
+01:26,[LAS] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661320,36,49,0,2
+01:24,[LAS] Stevens Rebound (Off:1 Def:4),0,-80,4,,1628922,,1611661320,36,49,0,2
+01:24,[ATL] Gray Foul: Shooting (2 PF) (2 FTA),4,49,6,1628922,1628277,1629770,1611661330,36,49,0,2
+01:24,[LAS 37-49] Stevens Free Throw 1 of 2 (7 PTS),0,-80,3,,1628922,,1611661320,37,49,1,2
+01:24,[LAS 38-49] Stevens Free Throw 2 of 2 (8 PTS),0,-80,3,,1628922,,1611661320,38,49,1,2
+01:15,[ATL 52-38] Gray 3pt Shot: Made (7 PTS) Assist: Robinson (4 AST),195,169,1,,1628277,202658,1611661330,38,52,3,2
+01:08,[LAS 40-52] N Ogwumike Layup Shot: Made (12 PTS) Assist: Canada (5 AST),15,25,1,,203014,1628886,1611661320,40,52,2,2
+01:03,[LAS] Stevens Foul: Personal (2 PF) (2 FTA),93,134,6,204323,1628922,1629770,1611661320,40,52,0,2
+01:03,[ATL 53-40] Parker Free Throw 1 of 2 (6 PTS),0,-80,3,,204323,,1611661330,40,53,1,2
+01:03,[ATL] Gray Substitution replaced by Billings,0,-80,8,,1628277,1628881,1611661330,40,53,0,2
+01:03,[ATL] Parker Free Throw 2 of 2 Missed,0,-80,3,,204323,,1611661330,40,53,0,2
+01:00,[ATL] Hillmon Rebound (Off:1 Def:1),0,-80,4,,1631044,,1611661330,40,53,0,2
+00:59.6,[ATL] Hillmon Jump Shot: Missed Block: N Ogwumike (1 BLK),-23,53,2,203014,1631044,,1611661330,40,53,0,2
+00:57.3,[LAS] N Ogwumike Rebound (Off:0 Def:3),-23,53,4,,203014,,1611661320,40,53,0,2
+00:48.6,[LAS] N Ogwumike 3pt Shot: Missed,118,220,2,,203014,,1611661320,40,53,0,2
+00:44.2,[ATL] Parker Rebound (Off:0 Def:6),118,220,4,,204323,,1611661330,40,53,0,2
+00:29.3,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,40,53,0,2
+00:22.6,[ATL] Robinson Driving Layup Shot: Missed,-12,72,2,,202658,,1611661330,40,53,0,2
+00:19.9,[LAS] Canada Rebound (Off:0 Def:2),-12,72,4,,1628886,,1611661320,40,53,0,2
+00:03.2,[LAS] N Ogwumike Jump Shot: Missed,37,91,2,,203014,,1611661320,40,53,0,2
+00:03.2,[ATL] Parker Rebound (Off:0 Def:7),37,91,4,,204323,,1611661330,40,53,0,2
+00:00.0,End Period,0,-80,13,,0,,0,40,53,0,2
+10:00,Start Period,0,-80,12,,0,,0,40,53,0,3
+09:44,[LAS] N Ogwumike Jump Shot: Missed,119,65,2,,203014,,1611661320,40,53,0,3
+09:38,[ATL] Howard Rebound (Off:0 Def:4),119,65,4,,1631009,,1611661330,40,53,0,3
+09:19,[ATL] Coffey 3pt Shot: Missed Block: Thomas (1 BLK),-7,237,2,202662,1628269,,1611661330,40,53,0,3
+09:18,[LAS] N Ogwumike Rebound (Off:0 Def:4),-7,237,4,,203014,,1611661320,40,53,0,3
+09:02,[LAS] N Ogwumike Jump Shot: Missed Block: Coffey (1 BLK),36,28,2,1628269,203014,,1611661320,40,53,0,3
+08:56,[LAS] Stevens Rebound (Off:2 Def:4),36,28,4,,1628922,,1611661320,40,53,0,3
+08:56,[LAS 42-53] Stevens Putback Layup Shot: Made (10 PTS),23,26,1,,1628922,,1611661320,42,53,2,3
+08:51,[ATL] Parker Jump Shot: Missed,115,126,2,,204323,,1611661330,42,53,0,3
+08:47,[LAS] Hamby Rebound (Off:0 Def:2),115,126,4,,204324,,1611661320,42,53,0,3
+08:39,[ATL] Parker Foul: Shooting (1 PF) (2 FTA),27,38,6,204324,204323,1629770,1611661330,42,53,0,3
+08:39,[LAS] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661320,42,53,0,3
+08:39,[LAS] Team Rebound,0,-80,4,,0,,1611661320,42,53,0,3
+08:39,[LAS] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661320,42,53,0,3
+08:36,[ATL] Robinson Rebound (Off:0 Def:3),0,-80,4,,202658,,1611661330,42,53,0,3
+08:30,[ATL] Gray Reverse Layup Shot: Missed,-21,30,2,,1628277,,1611661330,42,53,0,3
+08:27,[LAS] Stevens Rebound (Off:2 Def:5),-21,30,4,,1628922,,1611661320,42,53,0,3
+08:21,[LAS] Stevens 3pt Shot: Missed,39,248,2,,1628922,,1611661320,42,53,0,3
+08:16,[ATL] Howard Rebound (Off:0 Def:5),39,248,4,,1631009,,1611661330,42,53,0,3
+08:05,[ATL] Gray Pullup Jump shot: Missed,4,175,2,,1628277,,1611661330,42,53,0,3
+08:01,[LAS] N Ogwumike Rebound (Off:0 Def:5),4,175,4,,203014,,1611661320,42,53,0,3
+07:53,[LAS 45-53] Thomas 3pt Shot: Made (3 PTS) Assist: Canada (6 AST),-229,29,1,,202662,1628886,1611661320,45,53,3,3
+07:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,53,0,3
+07:28,[ATL] Howard 3pt Shot: Missed,128,271,2,,1631009,,1611661330,45,53,0,3
+07:27,[ATL] Team Rebound,128,271,4,,0,,1611661330,45,53,0,3
+07:27,[ATL] Team Turnover : Shot Clock Turnover,115,58,5,,0,1628168,1611661330,45,53,0,3
+07:13,[LAS] Stevens Turnover : Bad Pass (2 TO) Steal:Parker (2 ST),-99,225,5,204323,1628922,,1611661320,45,53,0,3
+07:07,[ATL] Parker Turnover : Out of Bounds Lost Ball Turnover (1 TO),-5,49,5,,204323,1628168,1611661330,45,53,0,3
+06:54,[LAS] Thomas 3pt Shot: Missed,82,223,2,,202662,,1611661320,45,53,0,3
+06:51,[ATL] Gray Rebound (Off:0 Def:2),82,223,4,,1628277,,1611661330,45,53,0,3
+06:39,[ATL 56-45] Howard 3pt Shot: Made (12 PTS) Assist: Robinson (5 AST),-193,172,1,,1631009,202658,1611661330,45,56,3,3
+06:22,[LAS 47-56] Stevens Turnaround Jump Shot: Made (12 PTS) Assist: N Ogwumike (2 AST),7,75,1,,1628922,203014,1611661320,47,56,2,3
+06:07,[ATL] Coffey Floating Jump shot: Missed,59,79,2,,1628269,,1611661330,47,56,0,3
+06:04,[LAS] N Ogwumike Rebound (Off:0 Def:6),59,79,4,,203014,,1611661320,47,56,0,3
+05:47,[ATL] Howard Foul: Personal (3 PF),-90,55,6,1628886,1631009,1629770,1611661330,47,56,0,3
+05:34,[LAS] Stevens Jump Shot: Missed,45,28,2,,1628922,,1611661320,47,56,0,3
+05:29,[LAS] Stevens Rebound (Off:3 Def:5),45,28,4,,1628922,,1611661320,47,56,0,3
+05:29,[LAS 49-56] Stevens Putback Layup Shot: Made (14 PTS),0,-5,1,,1628922,,1611661320,49,56,2,3
+05:16,[ATL] Coffey 3pt Shot: Missed,189,182,2,,1628269,,1611661330,49,56,0,3
+05:11,[LAS] N Ogwumike Rebound (Off:0 Def:7),189,182,4,,203014,,1611661320,49,56,0,3
+05:05,[LAS 51-56] Stevens Layup Shot: Made (16 PTS) Assist: Thomas (1 AST),29,26,1,,1628922,202662,1611661320,51,56,2,3
+04:59,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,51,56,0,3
+04:59,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,51,56,0,3
+04:59,[ATL] Coffey Substitution replaced by Billings,0,-80,8,,1628269,1628881,1611661330,51,56,0,3
+04:40,[ATL] Team Turnover : Shot Clock Turnover,38,242,5,,0,1628168,1611661330,51,56,0,3
+04:26,[LAS] Stevens 3pt Shot: Missed,-167,183,2,,1628922,,1611661320,51,56,0,3
+04:21,[ATL] Parker Rebound (Off:0 Def:8),-167,183,4,,204323,,1611661330,51,56,0,3
+04:15,[ATL 58-51] Billings Layup Shot: Made (5 PTS) Assist: Robinson (6 AST),33,22,1,,1628881,202658,1611661330,51,58,2,3
+03:55,[LAS] Hamby Driving Hook Shot: Missed,2,65,2,,204324,,1611661320,51,58,0,3
+03:52,[ATL] Robinson Rebound (Off:0 Def:4),2,65,4,,202658,,1611661330,51,58,0,3
+03:43,[ATL 61-51] Howard 3pt Shot: Made (15 PTS) Assist: Gray (5 AST),-179,181,1,,1631009,1628277,1611661330,51,61,3,3
+03:43,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,51,61,0,3
+03:20,[LAS] Canada Turnover : Bad Pass (1 TO),-107,96,5,,1628886,,1611661320,51,61,0,3
+03:20,[LAS] Thomas Foul: Loose Ball (2 PF),-27,653,6,1631009,202662,200667,1611661320,51,61,0,3
+03:20,[LAS] Thomas Substitution replaced by Cooke,0,-80,8,,202662,1641660,1611661320,51,61,0,3
+03:05,[ATL] Gray 3pt Shot: Missed,-107,220,2,,1628277,,1611661330,51,61,0,3
+03:02,[LAS] Hamby Rebound (Off:0 Def:3),-107,220,4,,204324,,1611661320,51,61,0,3
+02:56,[LAS] Canada Turnover : Out of Bounds Lost Ball Turnover (2 TO),100,209,5,,1628886,1628168,1611661320,51,61,0,3
+02:34,[LAS] Canada Foul: Shooting (2 PF) (2 FTA),1,103,6,1628277,1628886,1628168,1611661320,51,61,0,3
+02:34,[ATL] Gray Free Throw 1 of 2 Missed,0,-80,3,,1628277,,1611661330,51,61,0,3
+02:34,[ATL] Team Rebound,0,-80,4,,0,,1611661330,51,61,0,3
+02:34,[ATL] Gray Free Throw 2 of 2 Missed,0,-80,3,,1628277,,1611661330,51,61,0,3
+02:34,[ATL] Billings Rebound (Off:1 Def:1),0,-80,4,,1628881,,1611661330,51,61,0,3
+02:34,[ATL] Robinson Substitution replaced by Jones,0,-80,8,,202658,1641650,1611661330,51,61,0,3
+02:32,[ATL] Jones Driving Layup Shot: Missed Block: Cooke (1 BLK),-2,63,2,1641660,1641650,,1611661330,51,61,0,3
+02:31,[ATL] Team Rebound,-2,63,4,,0,,1611661330,51,61,0,3
+02:28,Jump Ball Jones vs Cooke (Howard gains possession),0,-80,10,1641660,1641650,1631009,1611661330,51,61,0,3
+02:19,[LAS] Stevens Foul: Shooting (3 PF) (3 FTA),128,225,6,1628277,1628922,1628168,1611661320,51,61,0,3
+02:19,[ATL 62-51] Gray Free Throw 1 of 3 (8 PTS),0,-80,3,,1628277,,1611661330,51,62,1,3
+02:19,[ATL 63-51] Gray Free Throw 2 of 3 (9 PTS),0,-80,3,,1628277,,1611661330,51,63,1,3
+02:19,[ATL 64-51] Gray Free Throw 3 of 3 (10 PTS),0,-80,3,,1628277,,1611661330,51,64,1,3
+02:07,[LAS] N Ogwumike Jump Shot: Missed,73,130,2,,203014,,1611661320,51,64,0,3
+02:02,[ATL] Parker Rebound (Off:0 Def:9),73,130,4,,204323,,1611661330,51,64,0,3
+01:51,[ATL 66-51] Parker Cutting Layup Shot: Made (8 PTS) Assist: Jones (2 AST),-41,37,1,,204323,1641650,1611661330,51,66,2,3
+01:40,[LAS] Canada Turnover : Bad Pass (3 TO) Steal:Billings (1 ST),83,90,5,1628881,1628886,,1611661320,51,66,0,3
+01:37,[ATL 68-51] Gray Running Layup Shot: Made (12 PTS) Assist: Howard (5 AST),12,24,1,,1628277,1631009,1611661330,51,68,2,3
+01:37,[LAS] Cooke Foul: Shooting (2 PF) (1 FTA),12,24,6,1628277,1641660,1629770,1611661320,51,68,0,3
+01:37,[ATL 69-51] Gray Free Throw 1 of 1 (13 PTS),0,-80,3,,1628277,,1611661330,51,69,1,3
+01:37,[LAS] Hamby Substitution replaced by Henderson,0,-80,8,,204324,1631089,1611661320,51,69,0,3
+01:20,[ATL] Billings Foul: Shooting (2 PF) (2 FTA),34,157,6,203014,1628881,1629770,1611661330,51,69,0,3
+01:20,[LAS 52-69] N Ogwumike Free Throw 1 of 2 (13 PTS),0,-80,3,,203014,,1611661320,52,69,1,3
+01:20,[LAS] Canada Substitution replaced by Burrell,0,-80,8,,1628886,1630996,1611661320,52,69,0,3
+01:20,[LAS 53-69] N Ogwumike Free Throw 2 of 2 (14 PTS),0,-80,3,,203014,,1611661320,53,69,1,3
+01:02,[ATL 71-53] Parker Driving Layup Shot: Made (10 PTS),6,37,1,,204323,,1611661330,53,71,2,3
+00:39.6,[LAS] Cooke 3pt Shot: Missed,-106,235,2,,1641660,,1611661320,53,71,0,3
+00:39.1,[LAS] Team Rebound,-106,235,4,,0,,1611661320,53,71,0,3
+00:39.1,[LAS] Team Turnover : Shot Clock Turnover,-98,77,5,,0,1628168,1611661320,53,71,0,3
+00:32.9,[ATL] Howard 3pt Shot: Missed,117,245,2,,1631009,,1611661330,53,71,0,3
+00:29.4,[LAS] Stevens Rebound (Off:3 Def:6),117,245,4,,1628922,,1611661320,53,71,0,3
+00:26.1,[LAS 55-71] N Ogwumike Jump Shot: Made (16 PTS) Assist: Henderson (2 AST),30,32,1,,203014,1631089,1611661320,55,71,2,3
+00:26.1,[ATL] Howard Foul: Shooting (4 PF) (1 FTA),30,32,6,203014,1631009,1628168,1611661330,55,71,0,3
+00:26.1,[ATL] Howard Substitution replaced by Durr,0,-80,8,,1631009,1629476,1611661330,55,71,0,3
+00:26.1,[LAS 56-71] N Ogwumike Free Throw 1 of 1 (17 PTS),0,-80,3,,203014,,1611661320,56,71,1,3
+00:08.0,[ATL] Parker Turnover : Lost Ball (2 TO) Steal:Cooke (1 ST),35,74,5,1641660,204323,,1611661330,56,71,0,3
+00:03.8,[LAS 58-71] Cooke Pullup Jump shot: Made (6 PTS),36,188,1,,1641660,,1611661320,58,71,2,3
+00:00.0,End Period,0,-80,13,,0,,0,58,71,0,3
+10:00,Start Period,0,-80,12,,0,,0,58,71,0,4
+09:45,[ATL] Jones 3pt Shot: Missed,-229,15,2,,1641650,,1611661330,58,71,0,4
+09:40,[LAS] Burrell Rebound (Off:0 Def:1),-229,15,4,,1630996,,1611661320,58,71,0,4
+09:20,[LAS] Henderson Turnover : Bad Pass (2 TO) Steal:Coffey (1 ST),49,65,5,1628269,1631089,,1611661320,58,71,0,4
+09:14,[ATL 73-58] Gray Cutting Layup Shot: Made (15 PTS) Assist: Jones (3 AST),33,26,1,,1628277,1641650,1611661330,58,73,2,4
+09:14,[LAS] Stevens Foul: Shooting (4 PF) (1 FTA),33,26,6,1628277,1628922,1628168,1611661320,58,73,0,4
+09:14,[ATL 74-58] Gray Free Throw 1 of 1 (16 PTS),0,-80,3,,1628277,,1611661330,58,74,1,4
+09:02,[LAS] Burrell Driving Layup Shot: Missed,32,23,2,,1630996,,1611661320,58,74,0,4
+09:00,[ATL] Billings Rebound (Off:1 Def:2),32,23,4,,1628881,,1611661330,58,74,0,4
+08:50,[ATL 77-58] Gray 3pt Shot: Made (19 PTS) Assist: Durr (1 AST),84,241,1,,1628277,1629476,1611661330,58,77,3,4
+08:37,[LAS] Cooke Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),60,48,5,1628277,1641660,,1611661320,58,77,0,4
+08:31,[ATL] Coffey Turnover : Out of Bounds Lost Ball Turnover (1 TO),54,36,5,,1628269,1628168,1611661330,58,77,0,4
+08:18,[LAS] Stevens Jump Shot: Missed,-128,23,2,,1628922,,1611661320,58,77,0,4
+08:16,[ATL] Jones Rebound (Off:0 Def:3),-128,23,4,,1641650,,1611661330,58,77,0,4
+08:11,[LAS] Stevens Foul: Personal (5 PF),128,812,6,1628881,1628922,1628168,1611661320,58,77,0,4
+08:11,[LAS] Henderson Substitution replaced by Canada,0,-80,8,,1631089,1628886,1611661320,58,77,0,4
+08:11,[ATL] Billings Substitution replaced by Hillmon,0,-80,8,,1628881,1631044,1611661330,58,77,0,4
+08:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,77,0,4
+07:53,[ATL] Hillmon Turnaround Jump Shot: Missed,111,149,2,,1631044,,1611661330,58,77,0,4
+07:49,[LAS] Hamby Rebound (Off:0 Def:4),111,149,4,,204324,,1611661320,58,77,0,4
+07:44,[LAS] Canada Jump Shot: Missed Block: Jones (1 BLK),26,21,2,1641650,1628886,,1611661320,58,77,0,4
+07:41,[ATL] Gray Rebound (Off:0 Def:3),26,21,4,,1628277,,1611661330,58,77,0,4
+07:38,[ATL 79-58] Gray Jump Shot: Made (21 PTS) Assist: Durr (2 AST),12,13,1,,1628277,1629476,1611661330,58,79,2,4
+07:24,[LAS] Stevens Jump Shot: Missed,29,28,2,,1628922,,1611661320,58,79,0,4
+07:24,[LAS] Team Rebound,29,28,4,,0,,1611661320,58,79,0,4
+07:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,79,0,4
+07:24,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,58,79,0,4
+07:13,[LAS 61-79] Burrell 3pt Shot: Made (3 PTS) Assist: Cooke (1 AST),-140,246,1,,1630996,1641660,1611661320,61,79,3,4
+06:55,[ATL 81-61] Coffey Jump Shot: Made (9 PTS),4,73,1,,1628269,,1611661330,61,81,2,4
+06:44,[LAS 63-81] Burrell Driving Layup Shot: Made (5 PTS) Assist: Stevens (1 AST),15,66,1,,1630996,1628922,1611661320,63,81,2,4
+06:44,[ATL] Coffey Foul: Shooting (3 PF) (1 FTA),15,66,6,1630996,1628269,200667,1611661330,63,81,0,4
+06:44,[LAS] Burrell Free Throw 1 of 1 Missed,0,-80,3,,1630996,,1611661320,63,81,0,4
+06:40,[ATL] Coffey Rebound (Off:0 Def:5),0,-80,4,,1628269,,1611661330,63,81,0,4
+06:32,[ATL] Gray Turnover : Bad Pass (1 TO) Steal:Stevens (1 ST),24,210,5,1628922,1628277,,1611661330,63,81,0,4
+06:27,[LAS 65-81] Cooke Pullup Jump shot: Made (8 PTS) Assist: Hamby (2 AST),-118,72,1,,1641660,204324,1611661320,65,81,2,4
+06:15,[ATL] Durr 3pt Shot: Missed,11,246,2,,1629476,,1611661330,65,81,0,4
+06:10,[LAS] Canada Rebound (Off:0 Def:3),11,246,4,,1628886,,1611661320,65,81,0,4
+05:59,[LAS 67-81] Hamby Driving Layup Shot: Made (3 PTS),17,21,1,,204324,,1611661320,67,81,2,4
+05:46,[ATL] Jones Turnaround Jump Shot: Missed,-19,72,2,,1641650,,1611661330,67,81,0,4
+05:44,[LAS] Stevens Rebound (Off:3 Def:7),-19,72,4,,1628922,,1611661320,67,81,0,4
+05:38,[LAS 69-81] Canada Layup Shot: Made (12 PTS),-9,32,1,,1628886,,1611661320,69,81,2,4
+05:25,[ATL 83-69] Gray Pullup Jump shot: Made (23 PTS) Assist: Jones (4 AST),-73,124,1,,1628277,1641650,1611661330,69,83,2,4
+05:10,[LAS] Burrell 3pt Shot: Missed,-226,26,2,,1630996,,1611661320,69,83,0,4
+05:05,[ATL] Durr Rebound (Off:0 Def:1),-226,26,4,,1629476,,1611661330,69,83,0,4
+05:03,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,69,83,0,4
+05:03,[LAS] Stevens Substitution replaced by N Ogwumike,0,-80,8,,1628922,203014,1611661320,69,83,0,4
+05:03,[ATL] Jones Substitution replaced by Robinson,0,-80,8,,1641650,202658,1611661330,69,83,0,4
+05:03,[ATL] Gray Substitution replaced by Howard,0,-80,8,,1628277,1631009,1611661330,69,83,0,4
+05:03,[ATL] Hillmon Substitution replaced by Parker,0,-80,8,,1631044,204323,1611661330,69,83,0,4
+04:49,[ATL] Parker Turnover : Lost Ball (3 TO) Steal:N Ogwumike (1 ST),68,74,5,203014,204323,,1611661330,69,83,0,4
+04:34,[LAS 71-83] Burrell Cutting Layup Shot: Made (7 PTS) Assist: N Ogwumike (3 AST),23,34,1,,1630996,203014,1611661320,71,83,2,4
+04:20,[LAS] Canada Foul: Personal (3 PF),37,64,6,1631009,1628886,200667,1611661320,71,83,0,4
+04:10,[ATL] Durr Floating Jump shot: Missed,5,56,2,,1629476,,1611661330,71,83,0,4
+04:07,[LAS] N Ogwumike Rebound (Off:0 Def:8),5,56,4,,203014,,1611661320,71,83,0,4
+04:04,[ATL] Robinson Foul: Shooting (1 PF) (2 FTA),-32,43,6,1628886,202658,1629770,1611661330,71,83,0,4
+04:04,[LAS] Canada Free Throw 1 of 2 Missed,0,-80,3,,1628886,,1611661320,71,83,0,4
+04:04,[LAS] Team Rebound,0,-80,4,,0,,1611661320,71,83,0,4
+04:04,[LAS 72-83] Canada Free Throw 2 of 2 (13 PTS),0,-80,3,,1628886,,1611661320,72,83,1,4
+03:53,[ATL] Parker Jump Shot: Missed,111,121,2,,204323,,1611661330,72,83,0,4
+03:49,[LAS] N Ogwumike Rebound (Off:0 Def:9),111,121,4,,203014,,1611661320,72,83,0,4
+03:42,[LAS] N Ogwumike Foul: Offensive (2 PF),11,104,6,202658,203014,1629770,1611661320,72,83,0,4
+03:42,[LAS] N Ogwumike Turnover : Offensive Foul Turnover (3 TO),11,104,5,,203014,1629770,1611661320,72,83,0,4
+03:42,[ATL] Durr Substitution replaced by Gray,0,-80,8,,1629476,1628277,1611661330,72,83,0,4
+03:32,[ATL 85-72] Robinson Cutting Layup Shot: Made (6 PTS) Assist: Gray (6 AST),-44,13,1,,202658,1628277,1611661330,72,85,2,4
+03:23,[ATL] Gray Foul: Personal (3 PF),127,171,6,1630996,1628277,200667,1611661330,72,85,0,4
+03:14,[LAS 74-85] N Ogwumike Jump Shot: Made (19 PTS) Assist: Canada (7 AST),-44,189,1,,203014,1628886,1611661320,74,85,2,4
+03:01,[LAS] Cooke Foul: Shooting (3 PF) (2 FTA),23,36,6,202658,1641660,200667,1611661320,74,85,0,4
+03:01,[ATL 86-74] Robinson Free Throw 1 of 2 (7 PTS),0,-80,3,,202658,,1611661330,74,86,1,4
+03:01,[ATL] Robinson Free Throw 2 of 2 Missed,0,-80,3,,202658,,1611661330,74,86,0,4
+02:57,[LAS] N Ogwumike Rebound (Off:0 Def:10),0,-80,4,,203014,,1611661320,74,86,0,4
+02:47,[LAS] Canada 3pt Shot: Missed,21,259,2,,1628886,,1611661320,74,86,0,4
+02:45,[ATL] Parker Rebound (Off:0 Def:10),21,259,4,,204323,,1611661330,74,86,0,4
+02:37,[ATL 89-74] Parker 3pt Shot: Made (13 PTS) Assist: Howard (6 AST),71,244,1,,204323,1631009,1611661330,74,89,3,4
+02:20,[LAS] Cooke Jump Shot: Missed,39,105,2,,1641660,,1611661320,74,89,0,4
+02:17,[ATL] Coffey Rebound (Off:0 Def:6),39,105,4,,1628269,,1611661330,74,89,0,4
+02:07,[ATL] Howard 3pt Shot: Missed,-166,180,2,,1631009,,1611661330,74,89,0,4
+02:05,[ATL] Parker Rebound (Off:1 Def:10),-166,180,4,,204323,,1611661330,74,89,0,4
+02:05,[LAS] N Ogwumike Foul: Shooting (3 PF) (2 FTA),-13,49,6,204323,203014,1628168,1611661320,74,89,0,4
+02:05,[ATL 90-74] Parker Free Throw 1 of 2 (14 PTS),0,-80,3,,204323,,1611661330,74,90,1,4
+02:05,[LAS] N Ogwumike Substitution replaced by Stevens,0,-80,8,,203014,1628922,1611661320,74,90,0,4
+02:05,[ATL] Parker Free Throw 2 of 2 Missed,0,-80,3,,204323,,1611661330,74,90,0,4
+02:04,[LAS] Hamby Rebound (Off:0 Def:5),0,-80,4,,204324,,1611661320,74,90,0,4
+02:04,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,74,90,0,4
+02:03,[ATL] Robinson Substitution replaced by Jones,0,-80,8,,202658,1641650,1611661330,74,90,0,4
+02:03,[ATL] Howard Substitution replaced by Hillmon,0,-80,8,,1631009,1631044,1611661330,74,90,0,4
+02:03,[ATL] Coffey Substitution replaced by Durr,0,-80,8,,1628269,1629476,1611661330,74,90,0,4
+02:03,[ATL] Parker Substitution replaced by Amihere,0,-80,8,,204323,1641656,1611661330,74,90,0,4
+01:41,[LAS] Canada Jump Shot: Missed,-54,92,2,,1628886,,1611661320,74,90,0,4
+01:37,[LAS] Hamby Rebound (Off:1 Def:5),-54,92,4,,204324,,1611661320,74,90,0,4
+01:36,[ATL] Gray Foul: Shooting (4 PF) (2 FTA),44,31,6,1641660,1628277,200667,1611661330,74,90,0,4
+01:36,[LAS] Cooke Free Throw 1 of 2 Missed,0,-80,3,,1641660,,1611661320,74,90,0,4
+01:36,[LAS] Team Rebound,0,-80,4,,0,,1611661320,74,90,0,4
+01:36,[LAS] Canada Substitution replaced by Henderson,0,-80,8,,1628886,1631089,1611661320,74,90,0,4
+01:36,[LAS 75-90] Cooke Free Throw 2 of 2 (9 PTS),0,-80,3,,1641660,,1611661320,75,90,1,4
+01:25,[ATL] Gray Pullup Jump shot: Missed,34,108,2,,1628277,,1611661330,75,90,0,4
+01:22,[ATL] Team Rebound,34,108,4,,0,,1611661330,75,90,0,4
+01:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,75,90,0,4
+01:17,[ATL] Jones Turnaround Jump Shot: Missed,39,35,2,,1641650,,1611661330,75,90,0,4
+01:13,[LAS] Stevens Rebound (Off:3 Def:8),39,35,4,,1628922,,1611661320,75,90,0,4
+01:11,[LAS 77-90] Hamby Jump Shot: Made (5 PTS) Assist: Henderson (3 AST),19,22,1,,204324,1631089,1611661320,77,90,2,4
+00:56.3,[ATL] Amihere Turnover : Traveling (1 TO),57,89,5,,1641656,1629770,1611661330,77,90,0,4
+00:44.4,[LAS 79-90] Cooke Jump Shot: Made (11 PTS),-18,163,1,,1641660,,1611661320,79,90,2,4
+00:35.4,[ATL] Gray Cutting Layup Shot: Missed,-27,15,2,,1628277,,1611661330,79,90,0,4
+00:32.9,[LAS] Stevens Rebound (Off:3 Def:9),-27,15,4,,1628922,,1611661320,79,90,0,4
+00:24.0,[LAS] Hamby Hook Shot: Missed Block: Amihere (1 BLK),7,64,2,1641656,204324,,1611661320,79,90,0,4
+00:19.0,[ATL] Gray Rebound (Off:0 Def:4),7,64,4,,1628277,,1611661330,79,90,0,4
+00:00.0,End Period,0,-80,13,,0,,0,79,90,0,4

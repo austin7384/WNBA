@@ -1,0 +1,376 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Egbo vs Hines-Allen (Henderson gains possession),0,-80,10,1628899,1631031,1631089,1611661325,0,0,1
+09:47,[WAS] Hines-Allen Foul: Personal (1 PF),128,237,6,1628909,1628899,,1611661322,0,0,1
+09:33,Jump Ball Smith vs Atkins (Henderson gains possession),0,-80,10,1628878,1631019,1631089,1611661325,0,0,1
+09:31,[IND] Henderson Jump Shot: Missed,116,91,2,1628278,1631089,,1611661325,0,0,1
+09:31,[IND] Team Rebound,116,91,4,,0,,1611661325,0,0,1
+09:31,[IND] Team Turnover : Shot Clock Turnover,69,32,5,,0,,1611661325,0,0,1
+09:11,[WAS] Delle Donne Turnaround Fadeaway Bank Jump Shot: Missed,-128,1,2,,203399,,1611661322,0,0,1
+09:07,[IND] Egbo Rebound (Off:0 Def:1),-128,1,4,,1631031,,1611661325,0,0,1
+08:58,[IND 2-0] Mitchell Cutting Layup Shot: Made (2 PTS) Assist: Henderson (1 AST),39,16,1,,1627676,1631089,1611661325,0,2,1
+08:44,[WAS 2-2] Cloud Driving Layup Shot: Made (2 PTS),-35,-2,1,,204333,,1611661322,2,2,1
+08:32,[IND 5-2] Mitchell 3pt Shot: Made (5 PTS) Assist: Henderson (2 AST),-157,203,1,,1627676,1631089,1611661325,2,5,1
+08:10,[WAS 4-5] Cloud Cutting Layup Shot: Made (4 PTS) Assist: Hines-Allen (1 AST),23,-7,1,,204333,1628899,1611661322,4,5,1
+07:58,[IND 7-4] Mitchell Driving Layup Shot: Made (2 PTS),-32,26,1,,1628909,,1611661325,4,7,1
+07:58,[WAS] Walker-Kimbrough Foul: Shooting (1 PF) (1 FTA),-23,37,6,1628909,1628278,,1611661322,4,7,1
+07:58,[IND 8-4] Mitchell Free Throw 1 of 1 (3 PTS),0,-80,3,,1628909,,1611661325,4,8,1
+07:41,[WAS 6-8] Walker-Kimbrough Pullup Jump shot: Made (2 PTS),-130,36,1,,1628278,,1611661322,6,8,1
+07:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,8,1
+07:16,[IND] Smith Pullup Jump shot: Missed,-117,157,2,,1631019,,1611661325,6,8,1
+07:12,[WAS] Cloud Rebound (Off:0 Def:1),-117,157,4,,204333,,1611661322,6,8,1
+07:07,[WAS] Cloud 3pt Shot: Missed,56,224,2,,204333,,1611661322,6,8,1
+07:05,[WAS] Delle Donne Rebound (Off:1 Def:0),56,224,4,,203399,,1611661322,6,8,1
+07:03,[WAS 8-8] Delle Donne Jump Shot: Made (2 PTS),45,86,1,,203399,,1611661322,8,8,1
+06:55,[IND] Mitchell 3pt Shot: Missed,168,185,2,,1628909,,1611661325,8,8,1
+06:55,[IND] Mitchell Rebound (Off:1 Def:0),168,185,4,,1627676,,1611661325,8,8,1
+06:41,[IND 10-8] Mitchell Alley Oop Layup shot: Made (7 PTS) Assist: Henderson (3 AST),16,26,1,,1627676,1631089,1611661325,8,10,1
+06:30,[WAS 10-10] Hines-Allen Turnaround Jump Shot: Made (2 PTS),7,17,1,,1628899,,1611661322,10,10,1
+06:07,[IND] Smith 3pt Shot: Missed,230,102,2,,1631019,,1611661325,10,10,1
+06:04,[WAS] Hines-Allen Rebound (Off:0 Def:1),230,102,4,,1628899,,1611661322,10,10,1
+05:59,[WAS] Walker-Kimbrough Driving Layup Shot: Missed,37,-2,2,,1628278,,1611661322,10,10,1
+05:56,[IND] Egbo Rebound (Off:0 Def:2),37,-2,4,,1631031,,1611661325,10,10,1
+05:48,[IND] Egbo Foul: Offensive Charge (1 PF),-27,133,6,1628278,1631031,,1611661325,10,10,1
+05:48,[IND] Egbo Turnover : Offensive Foul Turnover (1 TO),-27,133,5,,1631031,,1611661325,10,10,1
+05:30,[WAS 12-10] Delle Donne Layup Shot: Made (4 PTS) Assist: Walker-Kimbrough (1 AST),-38,-1,1,,203399,1628278,1611661322,12,10,1
+05:16,[IND 12-12] Egbo Layup Shot: Made (2 PTS) Assist: Henderson (4 AST),40,24,1,,1631031,1631089,1611661325,12,12,1
+05:06,[WAS 15-12] Atkins 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),228,-16,1,,1628878,204333,1611661322,15,12,1
+04:57,[IND 14-15] Henderson Pullup Jump shot: Made (2 PTS),2,169,1,,1631089,,1611661325,15,14,1
+04:45,[WAS 17-14] Atkins Driving Layup Shot: Made (5 PTS),-21,4,1,,1628878,,1611661322,17,14,1
+04:36,[IND] Smith Foul: Offensive (1 PF),-77,178,6,1628878,1631019,,1611661325,17,14,1
+04:36,[IND] Smith Turnover : Offensive Foul Turnover (1 TO),-77,178,5,,1631019,,1611661325,17,14,1
+04:36,Timeout Officials,0,-80,9,,0,,0,17,14,1
+04:36,[WAS] Walker-Kimbrough Substitution replaced by Hawkins,0,-80,8,,1628278,203403,1611661322,17,14,1
+04:36,[WAS] Delle Donne Substitution replaced by Machida,0,-80,8,,203399,1630957,1611661322,17,14,1
+04:36,[IND] Egbo Substitution replaced by Smith,0,-80,8,,1631031,1629501,1611661325,17,14,1
+04:36,[IND] Henderson Substitution replaced by Dangerfield,0,-80,8,,1631089,1630101,1611661325,17,14,1
+04:24,[WAS 20-14] Hawkins 3pt Shot: Made (3 PTS) Assist: Machida (1 AST),-230,-35,1,,203403,1630957,1611661322,20,14,1
+04:11,[IND] Smith Foul: Offensive (1 PF),-165,222,6,203403,1629501,,1611661325,20,14,1
+04:11,[IND] Smith Turnover : Offensive Foul Turnover (1 TO),-165,222,5,,1629501,,1611661325,20,14,1
+03:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,14,1
+03:49,[WAS] Hawkins Foul: Offensive Charge (1 PF),102,27,6,1629501,203403,,1611661322,20,14,1
+03:49,[WAS] Hawkins Turnover : Offensive Foul Turnover (1 TO),102,27,5,,203403,,1611661322,20,14,1
+03:24,[IND] Mitchell Jump Bank Shot: Missed,96,61,2,,1627676,,1611661325,20,14,1
+03:24,[IND] Team Rebound,96,61,4,,0,,1611661325,20,14,1
+03:24,[IND] Team Turnover : Shot Clock Turnover,88,28,5,,0,,1611661325,20,14,1
+03:13,[WAS 22-14] Cloud Layup Shot: Made (6 PTS) Assist: Hines-Allen (2 AST),20,-1,1,,204333,1628899,1611661322,22,14,1
+02:57,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Atkins (1 ST),16,253,5,1628878,1628909,,1611661325,22,14,1
+02:51,[WAS 24-14] Hawkins Layup Shot: Made (5 PTS) Assist: Atkins (1 AST),17,-1,1,,203403,1628878,1611661322,24,14,1
+02:45,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,24,14,1
+02:45,[WAS] Hines-Allen Substitution replaced by Walker-Kimbrough,0,-80,8,,1628899,1628278,1611661322,24,14,1
+02:45,[WAS] Atkins Substitution replaced by Austin,0,-80,8,,1628878,1631022,1611661322,24,14,1
+02:45,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1628909,1628927,1611661325,24,14,1
+02:45,[IND] Smith Substitution replaced by Engstler,0,-80,8,,1631019,1631083,1611661325,24,14,1
+02:45,[IND] Mitchell Substitution replaced by Hull,0,-80,8,,1627676,1631086,1611661325,24,14,1
+02:32,[IND] Dangerfield Turnover : Out of Bounds Lost Ball Turnover (1 TO),143,21,5,,1630101,,1611661325,24,14,1
+02:12,[WAS 26-14] Austin Reverse Layup Shot: Made (2 PTS) Assist: Cloud (2 AST),-32,-5,1,,1631022,204333,1611661322,26,14,1
+02:12,[IND] Vivians Foul: Shooting (1 PF) (1 FTA),-24,-15,6,1631022,1628927,,1611661325,26,14,1
+02:12,[IND] Dangerfield Substitution replaced by Henderson,0,-80,8,,1630101,1631089,1611661325,26,14,1
+02:12,[WAS 27-14] Austin Free Throw 1 of 1 (3 PTS),0,-80,3,,1631022,,1611661322,27,14,1
+01:58,[IND] Engstler Driving Layup Shot: Missed,-23,24,2,,1631083,,1611661325,27,14,1
+01:55,[IND] Engstler Rebound (Off:1 Def:0),-23,24,4,,1631083,,1611661325,27,14,1
+01:54,[IND 16-27] Engstler Putback Layup Shot: Made (2 PTS),-10,23,1,,1631083,,1611661325,27,16,1
+01:47,[IND] Vivians Foul: Personal (2 PF),-78,33,6,1631022,1628927,,1611661325,27,16,1
+01:39,[IND] Hull Foul: Personal (1 PF) (2 FTA),-150,182,6,1628278,1631086,,1611661325,27,16,1
+01:39,[WAS 28-16] Walker-Kimbrough Free Throw 1 of 2 (3 PTS),0,-80,3,,1628278,,1611661322,28,16,1
+01:39,[WAS 29-16] Walker-Kimbrough Free Throw 2 of 2 (4 PTS),0,-80,3,,1628278,,1611661322,29,16,1
+01:16,[IND] Smith 3pt Shot: Missed,227,115,2,,1629501,,1611661325,29,16,1
+01:14,[IND] Team Rebound,227,115,4,,0,,1611661325,29,16,1
+01:14,[WAS] Hawkins Foul: Loose Ball (2 PF),5,120,6,1631083,203403,,1611661322,29,16,1
+01:11,[IND] Vivians Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-138,-6,5,,1628927,,1611661325,29,16,1
+01:00,[WAS] Cloud Turnover : Traveling (1 TO),132,208,5,,204333,,1611661322,29,16,1
+01:00,[IND] Smith Substitution replaced by Egbo,0,-80,8,,1629501,1631031,1611661325,29,16,1
+00:46.5,[IND] Vivians Pullup Jump shot: Missed,33,194,2,204333,1628927,,1611661325,29,16,1
+00:43.5,[WAS] Hawkins Rebound (Off:0 Def:1),33,194,4,,203403,,1611661322,29,16,1
+00:33.7,[WAS] Cloud 3pt Shot: Missed,227,68,2,,204333,,1611661322,29,16,1
+00:30.3,[IND] Egbo Rebound (Off:0 Def:3),227,68,4,,1631031,,1611661325,29,16,1
+00:13.9,[IND] Egbo Jump Shot: Missed,-4,180,2,,1631031,,1611661325,29,16,1
+00:10.8,[WAS] Walker-Kimbrough Rebound (Off:0 Def:1),-4,180,4,,1628278,,1611661322,29,16,1
+00:00.5,[IND] Egbo Foul: Shooting (2 PF) (2 FTA),20,3,6,204333,1631031,,1611661325,29,16,1
+00:00.5,[WAS 30-16] Cloud Free Throw 1 of 2 (7 PTS),0,-80,3,,204333,,1611661322,30,16,1
+00:00.5,[WAS 31-16] Cloud Free Throw 2 of 2 (8 PTS),0,-80,3,,204333,,1611661322,31,16,1
+00:00.0,End Period,0,-80,13,,0,,0,31,16,1
+10:00,Start Period,0,-80,12,,0,,0,31,16,2
+09:43,[WAS] Delle Donne 3pt Shot: Missed,-133,193,2,,203399,,1611661322,31,16,2
+09:39,[IND] Engstler Rebound (Off:1 Def:1),-133,193,4,,1631083,,1611661325,31,16,2
+09:27,[IND] Henderson 3pt Shot: Missed,-232,-5,2,,1631089,,1611661325,31,16,2
+09:24,[IND] Henderson Rebound (Off:1 Def:0),-232,-5,4,,1631089,,1611661325,31,16,2
+09:20,[IND 18-31] Henderson Driving Layup Shot: Made (4 PTS),-20,23,1,,1631089,,1611661325,31,18,2
+09:06,[WAS] Hines-Allen Layup Shot: Missed,-39,22,2,1631083,1628899,,1611661322,31,18,2
+09:03,[IND] Smith Rebound (Off:0 Def:1),-39,22,4,,1631019,,1611661325,31,18,2
+09:01,[IND] Engstler Turnover : Traveling (1 TO),175,163,5,,1631083,,1611661325,31,18,2
+08:46,[WAS] Hines-Allen 3pt Shot: Missed,-167,185,2,,1628899,,1611661322,31,18,2
+08:42,[IND] Engstler Rebound (Off:1 Def:2),-167,185,4,,1631083,,1611661325,31,18,2
+08:26,[IND] Mitchell Pullup Jump shot: Missed,81,184,2,,1628909,,1611661325,31,18,2
+08:22,[WAS] Delle Donne Rebound (Off:1 Def:1),100,244,4,,203399,,1611661322,31,18,2
+08:20,[IND] Engstler Foul: Personal (1 PF),-21,166,6,203399,1631083,,1611661325,31,18,2
+08:08,[WAS] Walker-Kimbrough Pullup Jump shot: Missed,-15,138,2,,1628278,,1611661322,31,18,2
+08:04,[WAS] Hines-Allen Rebound (Off:1 Def:1),-15,138,4,,1628899,,1611661322,31,18,2
+07:58,[WAS] Hines-Allen Hook Shot: Missed,53,14,2,1631083,1628899,,1611661322,31,18,2
+07:55,[IND] Engstler Rebound (Off:1 Def:3),53,14,4,,1631083,,1611661325,31,18,2
+07:53,[IND] Mitchell Pullup Jump shot: Missed,7,171,2,,1628909,,1611661325,31,18,2
+07:52,[IND] Team Rebound,7,171,4,,0,,1611661325,31,18,2
+07:52,[WAS] Delle Donne Foul: Loose Ball (1 PF),22,55,6,1631019,203399,,1611661322,31,18,2
+07:37,[IND] Henderson Reverse Layup Shot: Missed,33,16,2,,1631089,,1611661325,31,18,2
+07:34,[IND] Smith Rebound (Off:1 Def:1),33,16,4,,1631019,,1611661325,31,18,2
+07:29,[IND] Smith 3pt Shot: Missed,-195,144,2,,1631019,,1611661325,31,18,2
+07:25,[WAS] Machida Rebound (Off:0 Def:1),-195,144,4,,1630957,,1611661322,31,18,2
+07:21,[WAS] Walker-Kimbrough Running Layup Shot: Missed,43,-1,2,,1628278,,1611661322,31,18,2
+07:19,[IND] Henderson Rebound (Off:1 Def:1),43,-1,4,,1631089,,1611661325,31,18,2
+07:16,[IND] Engstler Turnover : Traveling (2 TO),29,40,5,,1631083,,1611661325,31,18,2
+07:00,[WAS] Atkins 3pt Shot: Missed,-6,251,2,,1628878,,1611661322,31,18,2
+06:57,[IND] Smith Rebound (Off:1 Def:2),-6,251,4,,1631019,,1611661325,31,18,2
+06:50,[WAS] Walker-Kimbrough Foul: Personal (2 PF),60,61,6,1628909,1628278,,1611661322,31,18,2
+06:50,[WAS] Machida Substitution replaced by Cloud,0,-80,8,,1630957,204333,1611661322,31,18,2
+06:50,[IND] Engstler Substitution replaced by Egbo,0,-80,8,,1631083,1631031,1611661325,31,18,2
+06:50,[IND] Team Turnover : 5 Second Violation,233,236,5,,0,,1611661325,31,18,2
+06:37,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),6,36,6,204333,1627676,,1611661325,31,18,2
+06:37,[WAS 32-18] Cloud Free Throw 1 of 2 (9 PTS),0,-80,3,,204333,,1611661322,32,18,2
+06:37,[WAS 33-18] Cloud Free Throw 2 of 2 (10 PTS),0,-80,3,,204333,,1611661322,33,18,2
+06:15,[IND 20-33] Egbo Step Back Jump shot: Made (4 PTS),50,167,1,,1631031,,1611661325,33,20,2
+05:57,[WAS 35-20] Hines-Allen Turnaround Fadeaway shot: Made (4 PTS) Assist: Walker-Kimbrough (2 AST),-6,42,1,,1628899,1628278,1611661322,35,20,2
+05:57,[IND] Smith Foul: Shooting (2 PF) (1 FTA),-17,40,6,1628899,1631019,,1611661325,35,20,2
+05:57,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,35,20,2
+05:57,[IND] Egbo Substitution replaced by Smith,0,-80,8,,1631031,1629501,1611661325,35,20,2
+05:57,[WAS] Hines-Allen Free Throw 1 of 1 Missed,0,-80,3,,1628899,,1611661322,35,20,2
+05:54,[IND] Mitchell Rebound (Off:0 Def:1),0,-80,4,,1628909,,1611661325,35,20,2
+05:40,[WAS] Cloud Foul: Shooting (1 PF) (2 FTA),-28,40,6,1628909,204333,,1611661322,35,20,2
+05:40,[IND 21-35] Mitchell Free Throw 1 of 2 (4 PTS),0,-80,3,,1628909,,1611661325,35,21,2
+05:40,[IND] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,1628909,,1611661325,35,21,2
+05:38,[WAS] Cloud Rebound (Off:0 Def:2),0,-80,4,,204333,,1611661322,35,21,2
+05:15,[WAS] Atkins Fadeaway Jump Shot: Missed,-152,-3,2,,1628878,,1611661322,35,21,2
+05:12,[IND] Smith Rebound (Off:1 Def:3),-152,-3,4,,1631019,,1611661325,35,21,2
+05:05,[IND 23-35] Smith Layup Shot: Made (2 PTS) Assist: Smith (1 AST),43,23,1,,1631019,1629501,1611661325,35,23,2
+05:05,[WAS] Hines-Allen Foul: Shooting (2 PF) (1 FTA),43,17,6,1631019,1628899,,1611661322,35,23,2
+05:05,[IND 24-35] Smith Free Throw 1 of 1 (3 PTS),0,-80,3,,1631019,,1611661325,35,24,2
+04:46,[IND] Mitchell Foul: Personal (1 PF),-45,25,6,1628899,1628909,,1611661325,35,24,2
+04:46,[WAS] Hines-Allen Substitution replaced by Hawkins,0,-80,8,,1628899,203403,1611661322,35,24,2
+04:46,[IND] Henderson Substitution replaced by Hull,0,-80,8,,1631089,1631086,1611661325,35,24,2
+04:36,[WAS] Delle Donne Jump Bank Shot: Missed,51,24,2,,203399,,1611661322,35,24,2
+04:33,[IND] Smith Rebound (Off:1 Def:4),51,24,4,,1631019,,1611661325,35,24,2
+04:28,[WAS] Atkins Foul: Personal (1 PF) (2 FTA),73,70,6,1628909,1628878,,1611661322,35,24,2
+04:28,[IND 25-35] Smith Free Throw 1 of 2 (4 PTS),0,-80,3,,1631019,,1611661325,35,25,2
+04:28,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1627676,1628927,1611661325,35,25,2
+04:28,[IND] Smith Free Throw 2 of 2 Missed,0,-80,3,,1631019,,1611661325,35,25,2
+04:26,[WAS] Delle Donne Rebound (Off:1 Def:2),0,-80,4,,203399,,1611661322,35,25,2
+04:12,[WAS 37-25] Hawkins Layup Shot: Made (7 PTS) Assist: Cloud (3 AST),27,-10,1,,203403,204333,1611661322,37,25,2
+04:01,[IND] Mitchell 3pt Shot: Missed,172,184,2,,1628909,,1611661325,37,25,2
+04:00,[WAS] Atkins Rebound (Off:0 Def:1),172,184,4,,1628878,,1611661322,37,25,2
+04:00,[IND] Smith Foul: Personal (2 PF) (2 FTA),-66,801,6,1628878,1629501,,1611661325,37,25,2
+04:00,[WAS 38-25] Atkins Free Throw 1 of 2 (6 PTS),0,-80,3,,1628878,,1611661322,38,25,2
+04:00,[IND] Smith Substitution replaced by Engstler,0,-80,8,,1631019,1631083,1611661325,38,25,2
+04:00,[IND] Smith Substitution replaced by Egbo,0,-80,8,,1629501,1631031,1611661325,38,25,2
+04:00,[WAS 39-25] Atkins Free Throw 2 of 2 (7 PTS),0,-80,3,,1628878,,1611661322,39,25,2
+03:45,[IND] Engstler Turnover : Bad Pass (3 TO) Steal:Walker-Kimbrough (1 ST),-89,257,5,1628278,1631083,,1611661325,39,25,2
+03:36,[WAS 41-25] Delle Donne Driving Layup Shot: Made (6 PTS) Assist: Walker-Kimbrough (3 AST),-36,3,1,,203399,1628278,1611661322,41,25,2
+03:24,[IND 27-41] Egbo Cutting Layup Shot: Made (6 PTS) Assist: Engstler (1 AST),-46,26,1,,1631031,1631083,1611661325,41,27,2
+02:59,[WAS] Delle Donne Pullup Jump shot: Missed,-66,32,2,,203399,,1611661322,41,27,2
+02:57,[IND] Engstler Rebound (Off:1 Def:4),-66,32,4,,1631083,,1611661325,41,27,2
+02:51,[IND] Hull 3pt Shot: Missed,232,59,2,,1631086,,1611661325,41,27,2
+02:47,[WAS] Cloud Rebound (Off:0 Def:3),232,59,4,,204333,,1611661322,41,27,2
+02:41,[WAS 43-27] Cloud Driving Layup Shot: Made (12 PTS),54,30,1,,204333,,1611661322,43,27,2
+02:41,[IND] Egbo Foul: Shooting (3 PF) (1 FTA),50,32,6,204333,1631031,,1611661325,43,27,2
+02:41,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,43,27,2
+02:41,[IND] Egbo Substitution replaced by Smith,0,-80,8,,1631031,1631019,1611661325,43,27,2
+02:41,[WAS 44-27] Cloud Free Throw 1 of 1 (13 PTS),0,-80,3,,204333,,1611661322,44,27,2
+02:19,[IND] Vivians Floating Jump shot: Missed,50,15,2,203399,1628927,,1611661325,44,27,2
+02:15,[WAS] Delle Donne Rebound (Off:1 Def:3),50,15,4,,203399,,1611661322,44,27,2
+02:12,[WAS] Delle Donne 3pt Shot: Missed,-29,240,2,,203399,,1611661322,44,27,2
+02:09,[WAS] Atkins Rebound (Off:1 Def:1),-29,240,4,,1628878,,1611661322,44,27,2
+02:07,[WAS 46-27] Walker-Kimbrough Jump Shot: Made (6 PTS) Assist: Atkins (2 AST),112,165,1,,1628278,1628878,1611661322,46,27,2
+01:42,[IND] Vivians 3pt Shot: Missed,128,236,2,,1628927,,1611661325,46,27,2
+01:42,[WAS] Team Rebound,128,236,4,,0,,1611661322,46,27,2
+01:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,27,2
+01:24,[IND] Engstler Foul: Shooting (2 PF) (2 FTA),33,28,6,1628278,1631083,,1611661325,46,27,2
+01:24,[WAS 47-27] Walker-Kimbrough Free Throw 1 of 2 (7 PTS),0,-80,3,,1628278,,1611661322,47,27,2
+01:24,[IND] Smith Substitution replaced by Smith,0,-80,8,,1631019,1629501,1611661325,47,27,2
+01:24,[WAS 48-27] Walker-Kimbrough Free Throw 2 of 2 (8 PTS),0,-80,3,,1628278,,1611661322,48,27,2
+01:12,[IND 29-48] Mitchell Layup Shot: Made (6 PTS),-27,32,1,,1628909,,1611661325,48,29,2
+01:02,[WAS 50-29] Cloud Jump Shot: Made (15 PTS),33,128,1,,204333,,1611661322,50,29,2
+00:44.2,[IND] Engstler Layup Shot: Missed,-59,26,2,,1631083,,1611661325,50,29,2
+00:42.6,[IND] Vivians Rebound (Off:1 Def:0),-59,26,4,,1628927,,1611661325,50,29,2
+00:42.6,[IND 31-50] Vivians Layup Shot: Made (2 PTS),12,10,1,,1628927,,1611661325,50,31,2
+00:32.0,[WAS] Atkins 3pt Shot: Missed,-160,167,2,,1628878,,1611661322,50,31,2
+00:29.4,[IND] Smith Rebound (Off:0 Def:1),-160,167,4,,1629501,,1611661325,50,31,2
+00:20.7,[IND] Mitchell Pullup Jump shot: Missed,44,198,2,,1628909,,1611661325,50,31,2
+00:17.4,[WAS] Delle Donne Rebound (Off:1 Def:4),44,198,4,,203399,,1611661322,50,31,2
+00:01.2,[WAS] Cloud Turnover : Bad Pass (2 TO) Steal:Engstler (1 ST),31,81,5,1631083,204333,,1611661322,50,31,2
+00:00.0,End Period,0,-80,13,,0,,0,50,31,2
+10:00,Start Period,0,-80,12,,0,,0,50,31,3
+09:41,[IND] Smith Foul: Shooting (3 PF) (2 FTA),-105,55,6,203399,1631019,,1611661325,50,31,3
+09:41,[WAS 51-31] Delle Donne Free Throw 1 of 2 (7 PTS),0,-80,3,,203399,,1611661322,51,31,3
+09:41,[WAS 52-31] Delle Donne Free Throw 2 of 2 (8 PTS),0,-80,3,,203399,,1611661322,52,31,3
+09:23,[IND] Henderson Step Back Jump shot: Missed,21,165,2,,1631089,,1611661325,52,31,3
+09:19,[IND] Smith Rebound (Off:2 Def:4),21,165,4,,1631019,,1611661325,52,31,3
+09:18,[IND 33-52] Smith Putback Layup Shot: Made (6 PTS),-36,-5,1,,1631019,,1611661325,52,33,3
+09:04,[WAS] Atkins 3pt Shot: Missed,-123,237,2,,1628878,,1611661322,52,33,3
+09:01,[IND] Smith Rebound (Off:2 Def:5),-123,237,4,,1631019,,1611661325,52,33,3
+08:52,[IND] Egbo Turnaround Jump Shot: Missed,-2,60,2,,1631031,,1611661325,52,33,3
+08:50,[WAS] Hines-Allen Rebound (Off:1 Def:2),-2,60,4,,1628899,,1611661322,52,33,3
+08:39,[WAS] Cloud 3pt Shot: Missed,-177,195,2,,204333,,1611661322,52,33,3
+08:36,[IND] Smith Rebound (Off:2 Def:6),-177,195,4,,1631019,,1611661325,52,33,3
+08:16,[IND] Egbo Hook Shot: Missed,-51,64,2,,1631031,,1611661325,52,33,3
+08:14,[WAS] Hines-Allen Rebound (Off:1 Def:3),-51,64,4,,1628899,,1611661322,52,33,3
+08:04,[WAS] Delle Donne 3pt Shot: Missed,-53,268,2,,203399,,1611661322,52,33,3
+08:00,[IND] Smith Rebound (Off:2 Def:7),-53,268,4,,1631019,,1611661325,52,33,3
+07:51,[IND 35-52] Mitchell Pullup Jump shot: Made (8 PTS) Assist: Henderson (5 AST),143,-8,1,,1628909,1631089,1611661325,52,35,3
+07:30,[WAS 54-35] Delle Donne Driving Layup Shot: Made (10 PTS) Assist: Atkins (3 AST),-29,13,1,,203399,1628878,1611661322,54,35,3
+07:15,[IND 37-54] Egbo Layup Shot: Made (8 PTS) Assist: Mitchell (1 AST),-23,6,1,,1631031,1627676,1611661325,54,37,3
+06:55,[IND] Mitchell Foul: Personal (2 PF),-126,86,6,203399,1628909,,1611661325,54,37,3
+06:51,[WAS 56-37] Atkins Pullup Jump shot: Made (9 PTS) Assist: Hines-Allen (3 AST),-146,32,1,,1628878,1628899,1611661322,56,37,3
+06:31,[IND 40-56] Mitchell 3pt Shot: Made (11 PTS) Assist: Egbo (1 AST),20,256,1,,1628909,1631031,1611661325,56,40,3
+06:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,40,3
+06:15,[WAS 59-40] Delle Donne 3pt Shot: Made (13 PTS) Assist: Cloud (4 AST),147,222,1,,203399,204333,1611661322,59,40,3
+06:04,[IND] Mitchell Pullup Jump shot: Missed,-75,129,2,,1627676,,1611661325,59,40,3
+06:01,[IND] Egbo Rebound (Off:1 Def:3),-75,129,4,,1631031,,1611661325,59,40,3
+05:55,[IND 42-59] Smith Driving Floating Jump Shot: Made (8 PTS) Assist: Egbo (2 AST),-33,44,1,,1631019,1631031,1611661325,59,42,3
+05:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,42,3
+05:39,[IND] Henderson Substitution replaced by Dangerfield,0,-80,8,,1631089,1630101,1611661325,59,42,3
+05:38,[WAS] Atkins Pullup Jump shot: Missed,-98,88,2,1630101,1628878,,1611661322,59,42,3
+05:36,[IND] Mitchell Rebound (Off:0 Def:2),-98,88,4,,1628909,,1611661325,59,42,3
+05:17,[IND] Smith Fadeaway Jump Shot: Missed,-30,32,2,,1631019,,1611661325,59,42,3
+05:17,[WAS] Delle Donne Rebound (Off:1 Def:5),-30,32,4,,203399,,1611661322,59,42,3
+05:06,[WAS] Hines-Allen Turnover : Out of Bounds - Bad Pass Turnover (1 TO),78,140,5,,1628899,,1611661322,59,42,3
+04:53,[IND] Smith Turnover : Bad Pass (2 TO) Steal:Walker-Kimbrough (2 ST),-35,139,5,1628278,1631019,,1611661325,59,42,3
+04:42,[WAS] Walker-Kimbrough Driving Layup Shot: Missed,54,28,2,1630101,1628278,,1611661322,59,42,3
+04:42,[IND] Team Rebound,54,28,4,,0,,1611661325,59,42,3
+04:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,42,3
+04:42,Timeout Officials,0,-80,9,,0,,0,59,42,3
+04:42,[WAS] Delle Donne Substitution replaced by Hawkins,0,-80,8,,203399,203403,1611661322,59,42,3
+04:27,[WAS] Hawkins Foul: Personal (3 PF) (2 FTA),49,22,6,1631019,203403,,1611661322,59,42,3
+04:27,[IND] Smith Free Throw 1 of 2 Missed,0,-80,3,,1631019,,1611661325,59,42,3
+04:27,[IND] Team Rebound,0,-80,4,,0,,1611661325,59,42,3
+04:27,[WAS] Walker-Kimbrough Substitution replaced by Machida,0,-80,8,,1628278,1630957,1611661322,59,42,3
+04:27,[IND] Egbo Substitution replaced by Vivians,0,-80,8,,1631031,1628927,1611661325,59,42,3
+04:27,[IND] Mitchell Substitution replaced by Engstler,0,-80,8,,1627676,1631083,1611661325,59,42,3
+04:27,[IND 43-59] Smith Free Throw 2 of 2 (9 PTS),0,-80,3,,1631019,,1611661325,59,43,3
+04:18,[IND] Engstler Foul: Shooting (3 PF) (2 FTA),41,37,6,1628899,1631083,,1611661325,59,43,3
+04:18,[WAS 60-43] Hines-Allen Free Throw 1 of 2 (5 PTS),0,-80,3,,1628899,,1611661322,60,43,3
+04:18,[WAS 61-43] Hines-Allen Free Throw 2 of 2 (6 PTS),0,-80,3,,1628899,,1611661322,61,43,3
+04:06,[IND] Engstler 3pt Shot: Missed,-205,130,2,,1631083,,1611661325,61,43,3
+04:04,[IND] Vivians Rebound (Off:2 Def:0),-205,130,4,,1628927,,1611661325,61,43,3
+04:02,[IND 46-61] Dangerfield 3pt Shot: Made (3 PTS) Assist: Mitchell (1 AST),176,215,1,,1630101,1628909,1611661325,61,46,3
+03:49,[WAS] Machida Pullup Jump shot: Missed,-9,205,2,,1630957,,1611661322,61,46,3
+03:45,[IND] Vivians Rebound (Off:2 Def:1),-9,205,4,,1628927,,1611661325,61,46,3
+03:33,[IND 48-61] Vivians Driving Floating Jump Shot: Made (4 PTS) Assist: Mitchell (2 AST),57,73,1,,1628927,1628909,1611661325,61,48,3
+03:13,[WAS] Hawkins 3pt Shot: Missed,-22,269,2,,203403,,1611661322,61,48,3
+03:10,[IND] Vivians Rebound (Off:2 Def:2),-22,269,4,,1628927,,1611661325,61,48,3
+03:00,[IND] Smith 3pt Shot: Missed,-69,239,2,,1631019,,1611661325,61,48,3
+02:56,[WAS] Hawkins Rebound (Off:0 Def:2),-69,239,4,,203403,,1611661322,61,48,3
+02:46,[WAS] Hines-Allen Pullup Jump shot: Missed,-29,160,2,,1628899,,1611661322,61,48,3
+02:43,[IND] Engstler Rebound (Off:1 Def:5),-29,160,4,,1631083,,1611661325,61,48,3
+02:38,[IND] Mitchell 3pt Shot: Missed,227,74,2,,1628909,,1611661325,61,48,3
+02:35,[WAS] Hines-Allen Rebound (Off:1 Def:4),227,74,4,,1628899,,1611661322,61,48,3
+02:28,[WAS] Cloud 3pt Shot: Missed,6,259,2,,204333,,1611661322,61,48,3
+02:25,[IND] Vivians Rebound (Off:2 Def:3),6,259,4,,1628927,,1611661325,61,48,3
+02:13,[IND] Vivians 3pt Shot: Missed,212,108,2,,1628927,,1611661325,61,48,3
+02:10,[WAS] Cloud Rebound (Off:0 Def:4),212,108,4,,204333,,1611661322,61,48,3
+01:55,[WAS] Hawkins Turnover : Bad Pass (2 TO) Steal:Engstler (2 ST),-77,242,5,1631083,203403,,1611661322,61,48,3
+01:48,[IND 50-61] Vivians Pullup Jump shot: Made (6 PTS) Assist: Dangerfield (1 AST),90,135,1,,1628927,1630101,1611661325,61,50,3
+01:19,[WAS] Cloud Driving Floating Jump Shot: Missed,69,71,2,,204333,,1611661322,61,50,3
+01:16,[IND] Smith Rebound (Off:2 Def:8),69,71,4,,1631019,,1611661325,61,50,3
+00:56.3,[IND] Dangerfield Driving Floating Jump Shot: Missed,94,64,2,,1630101,,1611661325,61,50,3
+00:54.6,[IND] Engstler Rebound (Off:2 Def:5),94,64,4,,1631083,,1611661325,61,50,3
+00:54.6,[IND 52-61] Engstler Putback Layup Shot: Made (4 PTS),0,-5,1,,1631083,,1611661325,61,52,3
+00:41.1,[WAS 64-52] Hines-Allen 3pt Shot: Made (9 PTS) Assist: Cloud (5 AST),19,258,1,,1628899,204333,1611661322,64,52,3
+00:29.8,[IND] Dangerfield 3pt Shot: Missed,206,149,2,,1630101,,1611661325,64,52,3
+00:25.7,[WAS] Hines-Allen Rebound (Off:1 Def:5),206,149,4,,1628899,,1611661322,64,52,3
+00:03.1,[WAS] Cloud Pullup Jump shot: Missed,39,141,2,,204333,,1611661322,64,52,3
+00:01.5,[IND] Engstler Rebound (Off:2 Def:6),39,141,4,,1631083,,1611661325,64,52,3
+00:00.1,[IND] Dangerfield 3pt Shot: Missed,152,390,2,,1630101,,1611661325,64,52,3
+00:00.1,[IND] Team Rebound,152,390,4,,0,,1611661325,64,52,3
+00:00.0,End Period,0,-80,13,,0,,0,64,52,3
+10:00,Start Period,0,-80,12,,0,,0,64,52,4
+09:43,[IND 55-64] Vivians 3pt Shot: Made (9 PTS) Assist: Smith (1 AST),166,229,1,,1628927,1631019,1611661325,64,55,4
+09:15,[WAS] Austin Pullup Jump shot: Missed,-150,109,2,,1631022,,1611661322,64,55,4
+09:12,[WAS] Austin Rebound (Off:1 Def:0),-150,109,4,,1631022,,1611661322,64,55,4
+09:08,[WAS] Walker-Kimbrough Jump Shot: Missed,212,7,2,,1628278,,1611661322,64,55,4
+09:03,[IND] Engstler Rebound (Off:2 Def:7),234,6,4,,1631083,,1611661325,64,55,4
+08:57,[IND] Vivians Pullup Jump shot: Missed,159,35,2,,1628927,,1611661325,64,55,4
+08:54,[WAS] Hawkins Rebound (Off:0 Def:3),159,35,4,,203403,,1611661322,64,55,4
+08:45,[WAS 66-55] Machida Driving Finger Roll Layup Shot: Made (2 PTS),6,38,1,,1630957,,1611661322,66,55,4
+08:30,[IND] Engstler Turnover : Out of Bounds Lost Ball Turnover (4 TO),-62,54,5,,1631083,,1611661325,66,55,4
+08:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,55,4
+08:16,[WAS] Machida Driving Layup Shot: Missed,45,26,2,,1630957,,1611661322,66,55,4
+08:14,[IND] Smith Rebound (Off:2 Def:9),45,26,4,,1631019,,1611661325,66,55,4
+08:10,[IND 57-66] Smith Pullup Jump shot: Made (11 PTS),74,153,1,,1631019,,1611661325,66,57,4
+07:49,[WAS 68-57] Delle Donne Turnaround Jump Shot: Made (15 PTS) Assist: Machida (2 AST),-38,67,1,,203399,1630957,1611661322,68,57,4
+07:49,[IND] Engstler Foul: Shooting (4 PF) (1 FTA),-49,55,6,203399,1631083,,1611661325,68,57,4
+07:49,[IND] Engstler Substitution replaced by Egbo,0,-80,8,,1631083,1631031,1611661325,68,57,4
+07:49,[WAS] Hawkins Substitution replaced by Atkins,0,-80,8,,203403,1628878,1611661322,68,57,4
+07:49,[WAS 69-57] Delle Donne Free Throw 1 of 1 (16 PTS),0,-80,3,,203399,,1611661322,69,57,4
+07:35,[IND 59-69] Egbo Layup Shot: Made (10 PTS) Assist: Mitchell (3 AST),-32,-2,1,,1631031,1628909,1611661325,69,59,4
+07:24,[WAS] Machida Turnover : Bad Pass (1 TO) Steal:Vivians (1 ST),-162,287,5,1628927,1630957,,1611661322,69,59,4
+07:22,[IND 61-69] Smith Layup Shot: Made (13 PTS) Assist: Dangerfield (2 AST),-10,0,1,,1631019,1630101,1611661325,69,61,4
+07:22,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,69,61,4
+07:01,[WAS 71-61] Atkins Pullup Jump shot: Made (11 PTS),-133,107,1,,1628878,,1611661322,71,61,4
+06:44,[IND] Vivians 3pt Shot: Missed,218,91,2,,1628927,,1611661325,71,61,4
+06:40,[WAS] Machida Rebound (Off:0 Def:2),218,91,4,,1630957,,1611661322,71,61,4
+06:32,[WAS] Austin Driving Layup Shot: Missed,47,34,2,,1631022,,1611661322,71,61,4
+06:30,[IND] Egbo Rebound (Off:1 Def:4),47,34,4,,1631031,,1611661325,71,61,4
+06:22,[WAS] Machida Substitution replaced by Cloud,0,-80,8,,1630957,204333,1611661322,71,61,4
+06:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,61,4
+06:10,[IND 63-71] Dangerfield Pullup Jump shot: Made (5 PTS) Assist: Vivians (1 AST),98,108,1,,1630101,1628927,1611661325,71,63,4
+05:57,[WAS] Walker-Kimbrough Turnover : Out of Bounds - Bad Pass Turnover (1 TO),58,179,5,,1628278,,1611661322,71,63,4
+05:47,[IND] Mitchell Layup Shot: Missed,-18,19,2,1631022,1628909,,1611661325,71,63,4
+05:43,[IND] Mitchell Rebound (Off:1 Def:2),-18,19,4,,1628909,,1611661325,71,63,4
+05:42,[IND 65-71] Mitchell Putback Layup Shot: Made (13 PTS),-36,-8,1,,1628909,,1611661325,71,65,4
+05:30,[WAS] Delle Donne 3pt Shot: Missed,-140,233,2,,203399,,1611661322,71,65,4
+05:27,[WAS] Team Rebound,-140,233,4,,0,,1611661322,71,65,4
+05:19,[WAS 73-65] Delle Donne Layup Shot: Made (18 PTS) Assist: Cloud (6 AST),26,27,1,,203399,204333,1611661322,73,65,4
+05:07,[IND] Mitchell 3pt Shot: Missed,-188,156,2,,1628909,,1611661325,73,65,4
+05:05,[IND] Smith Rebound (Off:3 Def:9),-188,156,4,,1631019,,1611661325,73,65,4
+05:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,65,4
+04:55,[IND] Smith Pullup Jump shot: Missed,-134,105,2,,1631019,,1611661325,73,65,4
+04:52,[WAS] Walker-Kimbrough Rebound (Off:0 Def:2),-134,105,4,,1628278,,1611661322,73,65,4
+04:49,[IND] Dangerfield Foul: Personal (1 PF),151,381,6,1628278,1630101,,1611661325,73,65,4
+04:33,[WAS] Austin Hook Shot: Missed,36,39,2,,1631022,,1611661322,73,65,4
+04:31,[IND] Egbo Rebound (Off:1 Def:5),36,39,4,,1631031,,1611661325,73,65,4
+04:27,[WAS] Cloud Foul: Personal (2 PF),-47,148,6,1631031,204333,,1611661322,73,65,4
+04:23,[IND] Mitchell 3pt Shot: Missed,179,215,2,,1628909,,1611661325,73,65,4
+04:19,[WAS] Austin Rebound (Off:1 Def:1),179,215,4,,1631022,,1611661322,73,65,4
+04:00,[WAS 75-65] Cloud Pullup Jump shot: Made (17 PTS) Assist: Delle Donne (1 AST),-139,75,1,,204333,203399,1611661322,75,65,4
+03:38,[IND] Egbo Driving Layup Shot: Missed,44,1,2,203399,1631031,,1611661325,75,65,4
+03:35,[WAS] Austin Rebound (Off:1 Def:2),44,1,4,,1631022,,1611661322,75,65,4
+03:31,[WAS] Walker-Kimbrough Jump Shot: Missed,-207,58,2,,1628278,,1611661322,75,65,4
+03:27,[WAS] Delle Donne Rebound (Off:2 Def:5),-207,58,4,,203399,,1611661322,75,65,4
+03:24,[IND] Smith Foul: Shooting (4 PF) (2 FTA),-4,62,6,203399,1631019,,1611661325,75,65,4
+03:24,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,75,65,4
+03:24,[WAS 76-65] Delle Donne Free Throw 1 of 2 (19 PTS),0,-80,3,,203399,,1611661322,76,65,4
+03:24,[WAS] Delle Donne Free Throw 2 of 2 Missed,0,-80,3,,203399,,1611661322,76,65,4
+03:21,[WAS] Delle Donne Rebound (Off:3 Def:5),0,-80,4,,203399,,1611661322,76,65,4
+03:20,[WAS 78-65] Delle Donne Driving Layup Shot: Made (21 PTS),11,26,1,,203399,,1611661322,78,65,4
+03:00,[IND] Smith Turnover : Out of Bounds - Bad Pass Turnover (3 TO),104,199,5,,1631019,,1611661325,78,65,4
+02:35,[WAS] Cloud Fadeaway Jump Shot: Missed,-117,32,2,,204333,,1611661322,78,65,4
+02:34,[WAS] Team Rebound,-117,32,4,,0,,1611661322,78,65,4
+02:34,[WAS] Team Turnover : Shot Clock Turnover,-87,43,5,,0,,1611661322,78,65,4
+02:21,[IND] Vivians Pullup Jump shot: Missed,-12,161,2,,1628927,,1611661325,78,65,4
+02:19,[WAS] Team Rebound,-12,161,4,,0,,1611661322,78,65,4
+02:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,78,65,4
+02:04,[WAS 80-65] Atkins Pullup Jump shot: Made (13 PTS),172,78,1,,1628878,,1611661322,80,65,4
+01:54,[IND] Dangerfield Turnover : Bad Pass (2 TO) Steal:Walker-Kimbrough (3 ST),-158,165,5,1628278,1630101,,1611661325,80,65,4
+01:51,[WAS 82-65] Walker-Kimbrough Driving Layup Shot: Made (10 PTS) Assist: Delle Donne (2 AST),45,19,1,,1628278,203399,1611661322,82,65,4
+01:50,[IND] Egbo Turnover : Out of Bounds - Bad Pass Turnover (2 TO),44,824,5,,1631031,,1611661325,82,65,4
+01:50,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,82,65,4
+01:50,[IND] Egbo Substitution replaced by Smith,0,-80,8,,1631031,1629501,1611661325,82,65,4
+01:44,[WAS 84-65] Atkins Alley Oop Layup shot: Made (15 PTS) Assist: Delle Donne (3 AST),-33,29,1,,1628878,203399,1611661322,84,65,4
+01:30,[IND] Smith Pullup Jump shot: Missed,172,21,2,,1631019,,1611661325,84,65,4
+01:27,[IND] Vivians Rebound (Off:3 Def:3),172,21,4,,1628927,,1611661325,84,65,4
+01:18,[IND] Smith Jump Shot: Missed,157,1,2,,1631019,,1611661325,84,65,4
+01:15,[WAS] Delle Donne Rebound (Off:3 Def:6),157,1,4,,203399,,1611661322,84,65,4
+01:07,[WAS] Delle Donne Turnaround Fadeaway shot: Missed,-145,62,2,,203399,,1611661322,84,65,4
+01:06,[IND] Team Rebound,-145,62,4,,0,,1611661325,84,65,4
+01:06,[WAS] Austin Foul: Loose Ball (1 PF),105,783,6,1628909,1631022,,1611661322,84,65,4
+01:06,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,84,65,4
+01:06,[WAS] Cloud Substitution replaced by Hawkins,0,-80,8,,204333,203403,1611661322,84,65,4
+01:06,[WAS] Delle Donne Substitution replaced by Machida,0,-80,8,,203399,1630957,1611661322,84,65,4
+01:06,[WAS] Austin Substitution replaced by Jones,0,-80,8,,1631022,1630120,1611661322,84,65,4
+01:06,[IND] Team Turnover : 5 Second Violation,-244,308,5,,0,,1611661325,84,65,4
+00:50.9,[WAS] Hawkins 3pt Shot: Missed,-9,282,2,,203403,,1611661322,84,65,4
+00:47.1,[IND] Smith Rebound (Off:3 Def:10),-9,282,4,,1631019,,1611661325,84,65,4
+00:37.0,[IND 67-84] Mitchell Floating Jump shot: Made (15 PTS),3,10,1,,1628909,,1611661325,84,67,4
+00:19.5,[WAS] Jones Layup Shot: Missed,10,62,2,,1630120,,1611661322,84,67,4
+00:16.7,[IND] Smith Rebound (Off:0 Def:2),10,62,4,,1629501,,1611661325,84,67,4
+00:11.9,[IND 70-84] Mitchell 3pt Shot: Made (18 PTS),-33,247,1,,1628909,,1611661325,84,70,4
+00:00.0,End Period,0,-80,13,,0,,0,84,70,4
+00:00.0,Game End,0,-80,0,,0,,0,84,70,4

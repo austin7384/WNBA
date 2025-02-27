@@ -1,0 +1,410 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Williams vs Magbegor (Smith gains possession),0,-80,10,1629496,204322,1629501,1611661329,0,0,0,1
+09:45,[CHI] Williams Pullup Jump shot: Missed,49,96,2,,1627675,,1611661329,0,0,0,1
+09:43,[SEA] Whitcomb Rebound (Off:0 Def:1),49,96,4,,1628244,,1611661328,0,0,0,1
+09:23,[SEA] Williams 3pt Shot: Missed,-243,33,2,,1628931,,1611661328,0,0,0,1
+09:20,[SEA] Whitcomb Rebound (Off:1 Def:1),-243,33,4,,1628244,,1611661328,0,0,0,1
+09:08,[SEA] Whitcomb 3pt Shot: Missed,211,93,2,,1628244,,1611661328,0,0,0,1
+09:05,[CHI] Williams Rebound (Off:0 Def:1),211,93,4,,204322,,1611661329,0,0,0,1
+08:52,[CHI] Copper 3pt Shot: Missed,-161,186,2,,1627674,,1611661329,0,0,0,1
+08:49,[SEA] Magbegor Rebound (Off:0 Def:1),-161,186,4,,1629496,,1611661328,0,0,0,1
+08:42,[SEA] Williams Running Finger Roll Layup Shot: Missed Block: Smith (1 BLK),12,15,2,1629501,1628931,,1611661328,0,0,0,1
+08:40,[SEA] Fankam Mendjiadeu Rebound (Off:1 Def:0),12,15,4,,1641675,,1611661328,0,0,0,1
+08:37,[SEA] Fankam Mendjiadeu Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),-100,43,5,204322,1641675,,1611661328,0,0,0,1
+08:31,[CHI] Mabrey Running Finger Roll Layup Shot: Missed,1,27,2,,1629497,,1611661329,0,0,0,1
+08:28,[SEA] Loyd Rebound (Off:0 Def:1),1,27,4,,204319,,1611661328,0,0,0,1
+08:26,[SEA] Magbegor Turnover : Step Out of Bounds Turnover (1 TO),-250,81,5,,1629496,203891,1611661328,0,0,0,1
+08:09,[CHI] Williams Floating Jump shot: Missed,7,108,2,,204322,,1611661329,0,0,0,1
+08:05,[SEA] Magbegor Rebound (Off:0 Def:2),7,108,4,,1629496,,1611661328,0,0,0,1
+07:46,[SEA 3-0] Whitcomb 3pt Shot: Made (3 PTS) Assist: Magbegor (1 AST),235,8,1,,1628244,1629496,1611661328,0,3,3,1
+07:31,[CHI] Mabrey Jump Shot: Missed,-75,159,2,,1629497,,1611661329,0,3,0,1
+07:28,[SEA] Fankam Mendjiadeu Rebound (Off:1 Def:1),-75,159,4,,1641675,,1611661328,0,3,0,1
+07:18,[SEA 5-0] Fankam Mendjiadeu Cutting Layup Shot: Made (2 PTS) Assist: Whitcomb (1 AST),12,10,1,,1641675,1628244,1611661328,0,5,2,1
+07:07,[CHI] Copper 3pt Shot: Missed Block: Williams (1 BLK),-214,74,2,1628931,1627674,,1611661329,0,5,0,1
+07:07,[CHI] Team Rebound,-214,74,4,,0,,1611661329,0,5,0,1
+07:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,5,0,1
+07:03,[SEA] Fankam Mendjiadeu Foul: Shooting (1 PF) (2 FTA),7,21,6,204322,1641675,203891,1611661328,0,5,0,1
+07:03,[CHI] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661329,0,5,0,1
+07:03,[CHI] Team Rebound,0,-80,4,,0,,1611661329,0,5,0,1
+07:03,[CHI 1-5] Williams Free Throw 2 of 2 (1 PTS),0,-80,3,,204322,,1611661329,1,5,1,1
+06:55,[SEA] Loyd 3pt Shot: Missed,113,217,2,,204319,,1611661328,1,5,0,1
+06:52,[SEA] Fankam Mendjiadeu Rebound (Off:2 Def:1),113,217,4,,1641675,,1611661328,1,5,0,1
+06:42,[SEA 8-1] Whitcomb 3pt Shot: Made (6 PTS) Assist: Williams (1 AST),-235,60,1,,1628244,1628931,1611661328,1,8,3,1
+06:40,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,1,8,0,1
+06:17,[CHI] Williams Turnaround Hook Shot: Missed,-13,44,2,,204322,,1611661329,1,8,0,1
+06:14,[SEA] Williams Rebound (Off:0 Def:1),-13,44,4,,1628931,,1611661328,1,8,0,1
+06:12,[SEA] Fankam Mendjiadeu Running Layup Shot: Missed Block: Williams (1 BLK),21,13,2,204322,1641675,,1611661328,1,8,0,1
+06:09,[CHI] Team Rebound,21,13,4,,0,,1611661329,1,8,0,1
+06:09,Jump Ball Williams vs Fankam Mendjiadeu (Copper gains possession),0,-80,10,1641675,204322,1627674,1611661329,1,8,0,1
+05:58,[CHI 4-8] Mabrey 3pt Shot: Made (3 PTS) Assist: Williams (1 AST),106,225,1,,1629497,204322,1611661329,4,8,3,1
+05:46,[SEA] Whitcomb 3pt Shot: Missed,-237,-9,2,,1628244,,1611661328,4,8,0,1
+05:43,[CHI] Copper Rebound (Off:0 Def:1),-237,-9,4,,1627674,,1611661329,4,8,0,1
+05:38,[SEA] Magbegor Foul: Shooting (1 PF) (2 FTA),9,26,6,204322,1629496,203891,1611661328,4,8,0,1
+05:38,[CHI 5-8] Williams Free Throw 1 of 2 (2 PTS),0,-80,3,,204322,,1611661329,5,8,1,1
+05:38,[CHI 6-8] Williams Free Throw 2 of 2 (3 PTS),0,-80,3,,204322,,1611661329,6,8,1,1
+05:24,[SEA] Loyd Pullup Jump shot: Missed,125,125,2,,204319,,1611661328,6,8,0,1
+05:22,[CHI] Smith Rebound (Off:0 Def:1),125,125,4,,1629501,,1611661329,6,8,0,1
+05:17,[CHI] Mabrey Turnover : Lost Ball (1 TO) Steal:Magbegor (1 ST),-83,312,5,1629496,1629497,,1611661329,6,8,0,1
+05:11,[SEA] Loyd Running Layup Shot: Missed,-12,22,2,,204319,,1611661328,6,8,0,1
+05:11,[SEA] Team Rebound,-12,22,4,,0,,1611661328,6,8,0,1
+05:11,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,8,0,1
+05:04,[SEA 10-6] Magbegor Cutting Layup Shot: Made (2 PTS) Assist: Loyd (1 AST),12,16,1,,1629496,204319,1611661328,6,10,2,1
+04:49,[CHI 8-10] Williams Jump Shot: Made (2 PTS) Assist: Smith (1 AST),179,48,1,,1627675,1629501,1611661329,8,10,2,1
+04:35,[SEA] Magbegor Turnaround Jump Shot: Missed,32,49,2,,1629496,,1611661328,8,10,0,1
+04:33,[CHI] Williams Rebound (Off:0 Def:1),32,49,4,,1627675,,1611661329,8,10,0,1
+04:22,[CHI] Copper Turnover : Lost Ball (1 TO) Steal:Loyd (1 ST),-100,126,5,204319,1627674,,1611661329,8,10,0,1
+04:18,[SEA 12-8] Williams Running Finger Roll Layup Shot: Made (2 PTS) Assist: Loyd (2 AST),2,18,1,,1628931,204319,1611661328,8,12,2,1
+03:58,[CHI] Mabrey Turnover : Out of Bounds Lost Ball Turnover (2 TO),-91,56,5,,1629497,101044,1611661329,8,12,0,1
+03:58,[SEA] Fankam Mendjiadeu Substitution replaced by Horston,0,-80,8,,1641675,1641651,1611661328,8,12,0,1
+03:42,[CHI] Williams Foul: Shooting (1 PF) (2 FTA),13,18,6,204319,204322,203891,1611661329,8,12,0,1
+03:42,[SEA 13-8] Loyd Free Throw 1 of 2 (1 PTS),0,-80,3,,204319,,1611661328,8,13,1,1
+03:42,[CHI] Mabrey Substitution replaced by Evans,0,-80,8,,1629497,1630389,1611661329,8,13,0,1
+03:42,[CHI] Smith Substitution replaced by Parks,0,-80,8,,1629501,1641641,1611661329,8,13,0,1
+03:42,[SEA 14-8] Loyd Free Throw 2 of 2 (2 PTS),0,-80,3,,204319,,1611661328,8,14,1,1
+03:25,[CHI 10-14] Williams Pullup Jump shot: Made (4 PTS) Assist: Parks (1 AST),99,162,1,,1627675,1641641,1611661329,10,14,2,1
+03:09,[SEA] Horston Driving Floating Jump Shot: Missed,18,65,2,,1641651,,1611661328,10,14,0,1
+03:09,[SEA] Team Rebound,18,65,4,,0,,1611661328,10,14,0,1
+03:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,14,0,1
+03:02,[SEA 17-10] Loyd 3pt Shot: Made (5 PTS) Assist: Williams (2 AST),84,223,1,,204319,1628931,1611661328,10,17,3,1
+02:41,[CHI] Copper 3pt Shot: Missed,-17,244,2,,1627674,,1611661329,10,17,0,1
+02:38,[SEA] Whitcomb Rebound (Off:1 Def:2),-17,244,4,,1628244,,1611661328,10,17,0,1
+02:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,17,0,1
+02:23,[SEA 19-10] Magbegor Driving Layup Shot: Made (4 PTS),-5,17,1,,1629496,,1611661328,10,19,2,1
+02:10,[CHI 12-19] Evans Driving Finger Roll Layup Shot: Made (2 PTS),16,10,1,,1630389,,1611661329,12,19,2,1
+01:56,[SEA] Magbegor 3pt Shot: Missed,-202,141,2,,1629496,,1611661328,12,19,0,1
+01:54,[SEA] Williams Rebound (Off:1 Def:1),-202,141,4,,1628931,,1611661328,12,19,0,1
+01:54,[SEA] Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),1,137,5,,1628931,203440,1611661328,12,19,0,1
+01:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,19,0,1
+01:54,[SEA] Williams Substitution replaced by Russell,0,-80,8,,1628931,1628920,1611661328,12,19,0,1
+01:54,[SEA] Magbegor Substitution replaced by Nurse,0,-80,8,,1629496,1628915,1611661328,12,19,0,1
+01:39,[CHI 14-19] Copper Driving Layup Shot: Made (2 PTS),6,15,1,,1627674,,1611661329,14,19,2,1
+01:25,[SEA] Whitcomb Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-99,212,5,,1628244,101044,1611661328,14,19,0,1
+01:25,[CHI] Williams Substitution replaced by Mabrey,0,-80,8,,1627675,1629497,1611661329,14,19,0,1
+01:11,[CHI] Evans Driving Floating Jump Shot: Missed,37,97,2,,1630389,,1611661329,14,19,0,1
+01:09,[SEA] Loyd Rebound (Off:0 Def:2),37,97,4,,204319,,1611661328,14,19,0,1
+01:02,[SEA] Loyd Running Pull-Up Jump Shot: Missed,13,109,2,,204319,,1611661328,14,19,0,1
+01:01,[SEA] Whitcomb Rebound (Off:2 Def:2),13,109,4,,1628244,,1611661328,14,19,0,1
+00:57.1,[SEA] Loyd Driving Layup Shot: Missed,-11,18,2,,204319,,1611661328,14,19,0,1
+00:57.1,[SEA] Russell Rebound (Off:1 Def:0),-11,18,4,,1628920,,1611661328,14,19,0,1
+00:56.4,[SEA 21-14] Russell Putback Layup Shot: Made (2 PTS),0,-5,1,,1628920,,1611661328,14,21,2,1
+00:46.0,[CHI 17-21] Parks 3pt Shot: Made (3 PTS) Assist: Evans (1 AST),-227,-2,1,,1641641,1630389,1611661329,17,21,3,1
+00:36.2,[SEA] Russell Hook Shot: Missed,0,93,2,,1628920,,1611661328,17,21,0,1
+00:34.7,[CHI] Team Rebound,0,93,4,,0,,1611661329,17,21,0,1
+00:34.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,21,0,1
+00:34.7,[SEA] Whitcomb Substitution replaced by Dojkić,0,-80,8,,1628244,1641602,1611661328,17,21,0,1
+00:34.7,[CHI] Williams Substitution replaced by Hebard,0,-80,8,,204322,1630113,1611661329,17,21,0,1
+00:19.7,[CHI 19-21] Copper Alley Oop Layup shot: Made (4 PTS) Assist: Mabrey (1 AST),10,10,1,,1627674,1629497,1611661329,19,21,2,1
+00:02.2,[SEA 23-19] Russell Cutting Layup Shot: Made (4 PTS) Assist: Dojkić (1 AST),-7,21,1,,1628920,1641602,1611661328,19,23,2,1
+00:00.0,End Period,0,-80,13,,0,,0,19,23,0,1
+10:00,Start Period,0,-80,12,,0,,0,19,23,0,2
+09:40,[SEA] Dojkić Pullup Jump shot: Missed,-88,176,2,,1641602,,1611661328,19,23,0,2
+09:37,[CHI] Mabrey Rebound (Off:0 Def:1),-88,176,4,,1629497,,1611661329,19,23,0,2
+09:30,[CHI 22-23] Evans 3pt Shot: Made (5 PTS) Assist: Mabrey (2 AST),-166,176,1,,1630389,1629497,1611661329,22,23,3,2
+09:17,[SEA] Nurse 3pt Shot: Missed,208,131,2,,1628915,,1611661328,22,23,0,2
+09:13,[SEA] Dojkić Rebound (Off:1 Def:0),208,131,4,,1641602,,1611661328,22,23,0,2
+09:03,[SEA] Horston 3pt Shot: Missed,136,196,2,,1641651,,1611661328,22,23,0,2
+08:59,[CHI] Mabrey Rebound (Off:0 Def:2),136,196,4,,1629497,,1611661329,22,23,0,2
+08:47,[CHI 24-23] Hebard Layup Shot: Made (2 PTS) Assist: Smith (2 AST),10,15,1,,1630113,1629501,1611661329,24,23,2,2
+08:25,[SEA 25-24] Horston Driving Layup Shot: Made (2 PTS) Assist: Dojkić (2 AST),-23,18,1,,1641651,1641602,1611661328,24,25,2,2
+08:12,[CHI 26-25] Hebard Floating Jump shot: Made (4 PTS) Assist: Evans (2 AST),6,68,1,,1630113,1630389,1611661329,26,25,2,2
+07:45,[SEA] Horston Turnover : Lost Ball (1 TO) Steal:Parks (1 ST),164,-1,5,1641641,1641651,,1611661328,26,25,0,2
+07:33,[CHI] Evans 3pt Shot: Missed,92,225,2,,1630389,,1611661329,26,25,0,2
+07:30,[CHI] Hebard Rebound (Off:1 Def:0),92,225,4,,1630113,,1611661329,26,25,0,2
+07:26,[CHI] Mabrey 3pt Shot: Missed,-223,28,2,,1629497,,1611661329,26,25,0,2
+07:23,[SEA] Loyd Rebound (Off:0 Def:3),-223,28,4,,204319,,1611661328,26,25,0,2
+07:11,[SEA] Russell Driving Floating Jump Shot: Missed,45,50,2,,1628920,,1611661328,26,25,0,2
+07:09,[CHI] Smith Rebound (Off:0 Def:2),45,50,4,,1629501,,1611661329,26,25,0,2
+06:59,[CHI 28-25] Mabrey Driving Floating Jump Shot: Made (5 PTS),-102,8,1,,1629497,,1611661329,28,25,2,2
+06:54,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,28,25,0,2
+06:54,[CHI] Parks Substitution replaced by Copper,0,-80,8,,1641641,1627674,1611661329,28,25,0,2
+06:54,[SEA] Dojkić Substitution replaced by Whitcomb,0,-80,8,,1641602,1628244,1611661328,28,25,0,2
+06:54,[SEA] Russell Substitution replaced by Fankam Mendjiadeu,0,-80,8,,1628920,1641675,1611661328,28,25,0,2
+06:54,[SEA] Horston Substitution replaced by Magbegor,0,-80,8,,1641651,1629496,1611661328,28,25,0,2
+06:54,[SEA] Loyd Substitution replaced by Williams,0,-80,8,,204319,1628931,1611661328,28,25,0,2
+06:40,[SEA] Magbegor Driving Layup Shot: Missed,17,3,2,,1629496,,1611661328,28,25,0,2
+06:38,[SEA] Williams Rebound (Off:2 Def:1),17,3,4,,1628931,,1611661328,28,25,0,2
+06:32,[SEA 27-28] Williams Turnaround Fadeaway shot: Made (4 PTS),94,28,1,,1628931,,1611661328,28,27,2,2
+06:21,[SEA] Nurse Foul: Shooting (1 PF) (2 FTA),26,26,6,1627674,1628915,203891,1611661328,28,27,0,2
+06:21,[CHI 29-27] Copper Free Throw 1 of 2 (5 PTS),0,-80,3,,1627674,,1611661329,29,27,1,2
+06:21,[CHI 30-27] Copper Free Throw 2 of 2 (6 PTS),0,-80,3,,1627674,,1611661329,30,27,1,2
+05:59,[SEA] Fankam Mendjiadeu Cutting Layup Shot: Missed Block: Mabrey (1 BLK),17,5,2,1629497,1641675,,1611661328,30,27,0,2
+05:55,[CHI] Copper Rebound (Off:0 Def:2),17,5,4,,1627674,,1611661329,30,27,0,2
+05:52,[CHI] Copper Running Layup Shot: Missed,12,20,2,,1627674,,1611661329,30,27,0,2
+05:52,[CHI] Hebard Rebound (Off:2 Def:0),12,20,4,,1630113,,1611661329,30,27,0,2
+05:43,[CHI] Evans Pullup Jump shot: Missed Block: Whitcomb (1 BLK),1,145,2,1628244,1630389,,1611661329,30,27,0,2
+05:40,[SEA] Nurse Rebound (Off:0 Def:1),1,145,4,,1628915,,1611661328,30,27,0,2
+05:23,[SEA] Fankam Mendjiadeu Turnover : Lost Ball (2 TO) Steal:Copper (1 ST),2,15,5,1627674,1641675,,1611661328,30,27,0,2
+05:17,[CHI] Evans 3pt Shot: Missed,216,130,2,,1630389,,1611661329,30,27,0,2
+05:14,[SEA] Fankam Mendjiadeu Rebound (Off:2 Def:2),216,130,4,,1641675,,1611661328,30,27,0,2
+05:03,[SEA] Williams Turnover : Bad Pass (2 TO) Steal:Smith (1 ST),-31,54,5,1629501,1628931,,1611661328,30,27,0,2
+05:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,27,0,2
+05:03,[CHI] Evans Substitution replaced by Williams,0,-80,8,,1630389,204322,1611661329,30,27,0,2
+05:03,[CHI] Hebard Substitution replaced by Williams,0,-80,8,,1630113,1627675,1611661329,30,27,0,2
+05:03,[SEA] Nurse Substitution replaced by Loyd,0,-80,8,,1628915,204319,1611661328,30,27,0,2
+04:57,[CHI] Smith Turnover : Out of Bounds - Bad Pass Turnover (1 TO),227,22,5,,1629501,203440,1611661329,30,27,0,2
+04:33,[SEA] Williams Driving Layup Shot: Missed Block: Williams (2 BLK),26,16,2,204322,1628931,,1611661328,30,27,0,2
+04:33,[SEA] Team Rebound,26,16,4,,0,,1611661328,30,27,0,2
+04:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,27,0,2
+04:32,[SEA] Team Turnover : Shot Clock Turnover,68,86,5,,0,101044,1611661328,30,27,0,2
+04:15,[CHI 32-27] Smith Driving Layup Shot: Made (2 PTS) Assist: Copper (1 AST),-17,10,1,,1629501,1627674,1611661329,32,27,2,2
+04:02,[SEA 30-32] Whitcomb 3pt Shot: Made (9 PTS) Assist: Fankam Mendjiadeu (1 AST),83,241,1,,1628244,1641675,1611661328,32,30,3,2
+03:49,[CHI] Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-41,235,5,,204322,203440,1611661329,32,30,0,2
+03:29,[SEA] Magbegor Cutting Layup Shot: Missed Block: Smith (2 BLK),-13,27,2,1629501,1629496,,1611661328,32,30,0,2
+03:28,[SEA] Magbegor Rebound (Off:1 Def:2),-13,27,4,,1629496,,1611661328,32,30,0,2
+03:28,[SEA 32-32] Magbegor Putback Layup Shot: Made (6 PTS),-11,51,1,,1629496,,1611661328,32,32,2,2
+03:28,[CHI] Williams Foul: Shooting (2 PF) (1 FTA),-11,51,6,1629496,204322,203891,1611661329,32,32,0,2
+03:28,[SEA] Fankam Mendjiadeu Substitution replaced by Horston,0,-80,8,,1641675,1641651,1611661328,32,32,0,2
+03:28,[SEA 33-32] Magbegor Free Throw 1 of 1 (7 PTS),0,-80,3,,1629496,,1611661328,32,33,1,2
+03:18,[SEA] Horston Foul: Personal (1 PF),144,105,6,1629501,1641651,203440,1611661328,32,33,0,2
+03:04,[CHI] Mabrey Pullup Jump shot: Missed,149,11,2,,1629497,,1611661329,32,33,0,2
+03:02,[CHI] Smith Rebound (Off:1 Def:2),149,11,4,,1629501,,1611661329,32,33,0,2
+02:59,[CHI 34-33] Smith Turnaround Jump Shot: Made (4 PTS),-49,57,1,,1629501,,1611661329,34,33,2,2
+02:38,[SEA 35-34] Horston Jump Shot: Made (4 PTS) Assist: Loyd (3 AST),179,-3,1,,1641651,204319,1611661328,34,35,2,2
+02:24,[CHI 36-35] Smith Driving Floating Bank Jump Shot: Made (6 PTS) Assist: Williams (1 AST),-23,13,1,,1629501,1627675,1611661329,36,35,2,2
+02:24,[SEA] Horston Foul: Shooting (2 PF) (1 FTA),-23,13,6,1629501,1641651,203891,1611661328,36,35,0,2
+02:24,Timeout Officials,0,-80,9,,0,,0,36,35,0,2
+02:24,[CHI] Mabrey Substitution replaced by Evans,0,-80,8,,1629497,1630389,1611661329,36,35,0,2
+02:24,[SEA] Horston Substitution replaced by Holmes,0,-80,8,,1641651,1630115,1611661328,36,35,0,2
+02:24,[CHI] Smith Free Throw 1 of 1 Missed,0,-80,3,,1629501,,1611661329,36,35,0,2
+02:23,[CHI] Williams Rebound (Off:1 Def:1),0,-80,4,,204322,,1611661329,36,35,0,2
+02:23,[SEA] Williams Foul: Personal (1 PF),-2,27,6,204322,1628931,101044,1611661328,36,35,0,2
+02:12,[CHI 39-35] Copper 3pt Shot: Made (9 PTS) Assist: Williams (2 AST),-164,172,1,,1627674,204322,1611661329,39,35,3,2
+01:52,[SEA 37-39] Magbegor Driving Reverse Layup Shot: Made (9 PTS) Assist: Loyd (4 AST),13,7,1,,1629496,204319,1611661328,39,37,2,2
+01:38,[CHI] Williams Turnaround Hook Shot: Missed,-1,52,2,,204322,,1611661329,39,37,0,2
+01:37,[SEA] Magbegor Rebound (Off:1 Def:3),-1,52,4,,1629496,,1611661328,39,37,0,2
+01:23,[SEA 39-39] Williams Pullup Jump shot: Made (6 PTS) Assist: Magbegor (2 AST),57,150,1,,1628931,1629496,1611661328,39,39,2,2
+01:08,[CHI] Williams Turnaround Hook Shot: Missed,-21,24,2,,204322,,1611661329,39,39,0,2
+01:06,[SEA] Loyd Rebound (Off:0 Def:4),-21,24,4,,204319,,1611661328,39,39,0,2
+00:56.3,[SEA] Whitcomb 3pt Shot: Missed Block: Williams (3 BLK),-38,257,2,204322,1628244,,1611661328,39,39,0,2
+00:56.2,[CHI] Williams Rebound (Off:1 Def:2),-38,257,4,,204322,,1611661329,39,39,0,2
+00:56.2,[SEA] Whitcomb Foul: Personal (1 PF) (2 FTA),37,590,6,204322,1628244,101044,1611661328,39,39,0,2
+00:56.2,[CHI] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661329,39,39,0,2
+00:56.2,[CHI] Team Rebound,0,-80,4,,0,,1611661329,39,39,0,2
+00:56.2,[CHI 40-39] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,204322,,1611661329,40,39,1,2
+00:45.7,[SEA] Loyd Turnover : Bad Pass (1 TO) Steal:Copper (2 ST),-53,259,5,1627674,204319,,1611661328,40,39,0,2
+00:40.5,[CHI] Copper Running Finger Roll Layup Shot: Missed,-19,8,2,,1627674,,1611661329,40,39,0,2
+00:38.8,[SEA] Williams Rebound (Off:2 Def:2),-19,8,4,,1628931,,1611661328,40,39,0,2
+00:32.4,[CHI] Copper Foul: Personal (1 PF),-3,35,6,1629496,1627674,203440,1611661329,40,39,0,2
+00:32.4,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,40,39,0,2
+00:21.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,39,0,2
+00:21.0,[CHI] Williams Foul: Away From Play (1 PF) (1 FTA),154,19,6,204319,1627675,203440,1611661329,40,39,0,2
+00:21.0,[SEA 40-40] Loyd Free Throw 1 of 1 (6 PTS),0,-80,3,,204319,,1611661328,40,40,1,2
+00:08.0,[SEA] Whitcomb 3pt Shot: Missed,11,244,2,,1628244,,1611661328,40,40,0,2
+00:06.1,[SEA] Williams Rebound (Off:3 Def:2),11,244,4,,1628931,,1611661328,40,40,0,2
+00:03.3,[SEA 42-40] Williams Driving Floating Jump Shot: Made (8 PTS),-20,90,1,,1628931,,1611661328,40,42,2,2
+00:00.0,[CHI] Williams 3pt Shot: Missed,165,486,2,,1627675,,1611661329,40,42,0,2
+00:00.0,[CHI] Team Rebound,165,486,4,,0,,1611661329,40,42,0,2
+00:00.0,End Period,0,-80,13,,0,,0,40,42,0,2
+10:00,Start Period,0,-80,12,,0,,0,40,42,0,3
+09:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,42,0,3
+09:35,[SEA] Whitcomb 3pt Shot: Missed,139,197,2,,1628244,,1611661328,40,42,0,3
+09:32,[CHI] Copper Rebound (Off:0 Def:3),139,197,4,,1627674,,1611661329,40,42,0,3
+09:24,[CHI] Copper Driving Layup Shot: Missed,-16,11,2,,1627674,,1611661329,40,42,0,3
+09:21,[SEA] Whitcomb Rebound (Off:2 Def:3),-16,11,4,,1628244,,1611661328,40,42,0,3
+09:18,[SEA] Williams Running Layup Shot: Missed Block: Williams (1 BLK),32,26,2,1627675,1628931,,1611661328,40,42,0,3
+09:18,[SEA] Team Rebound,32,26,4,,0,,1611661328,40,42,0,3
+09:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,42,0,3
+09:12,[SEA] Magbegor Driving Layup Shot: Missed,-19,14,2,,1629496,,1611661328,40,42,0,3
+09:10,[CHI] Copper Rebound (Off:0 Def:4),-19,14,4,,1627674,,1611661329,40,42,0,3
+08:58,[CHI 42-42] Williams Cutting Layup Shot: Made (6 PTS) Assist: Williams (2 AST),-3,11,1,,204322,1627675,1611661329,42,42,2,3
+08:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,42,0,3
+08:29,[SEA 45-42] Loyd 3pt Shot: Made (9 PTS) Assist: Magbegor (3 AST),159,191,1,,204319,1629496,1611661328,42,45,3,3
+08:18,[CHI] Mabrey 3pt Shot: Missed,112,206,2,,1629497,,1611661329,42,45,0,3
+08:15,[SEA] Whitcomb Rebound (Off:2 Def:4),112,206,4,,1628244,,1611661328,42,45,0,3
+08:07,[SEA] Fankam Mendjiadeu Driving Layup Shot: Missed Block: Williams (4 BLK),17,25,2,204322,1641675,,1611661328,42,45,0,3
+08:07,[SEA] Team Rebound,17,25,4,,0,,1611661328,42,45,0,3
+08:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,45,0,3
+08:00,[SEA 48-42] Williams 3pt Shot: Made (11 PTS) Assist: Loyd (5 AST),-146,173,1,,1628931,204319,1611661328,42,48,3,3
+07:59,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,42,48,0,3
+07:42,[CHI] Williams Pullup Jump shot: Missed,160,119,2,,1627675,,1611661329,42,48,0,3
+07:40,[SEA] Magbegor Rebound (Off:1 Def:4),160,119,4,,1629496,,1611661328,42,48,0,3
+07:27,[SEA 50-42] Williams Pullup Jump shot: Made (13 PTS) Assist: Magbegor (4 AST),60,176,1,,1628931,1629496,1611661328,42,50,2,3
+07:01,[CHI] Mabrey 3pt Shot: Missed,-240,-4,2,,1629497,,1611661329,42,50,0,3
+06:59,[SEA] Whitcomb Rebound (Off:2 Def:5),-240,-4,4,,1628244,,1611661328,42,50,0,3
+06:54,[SEA] Loyd Turnover : Bad Pass (2 TO) Steal:Smith (2 ST),-41,477,5,1629501,204319,,1611661328,42,50,0,3
+06:52,[CHI] Smith Turnover : Bad Pass (2 TO) Steal:Magbegor (2 ST),74,377,5,1629496,1629501,,1611661329,42,50,0,3
+06:49,[SEA] Whitcomb Turnover : Backcourt Turnover (2 TO),220,424,5,,1628244,203440,1611661328,42,50,0,3
+06:33,[CHI 44-50] Copper Pullup Jump shot: Made (11 PTS) Assist: Williams (3 AST),-23,150,1,,1627674,204322,1611661329,44,50,2,3
+06:15,[SEA 52-44] Magbegor Cutting Layup Shot: Made (11 PTS) Assist: Williams (3 AST),23,4,1,,1629496,1628931,1611661328,44,52,2,3
+05:58,[CHI] Williams 3pt Shot: Missed,-4,242,2,,1627675,,1611661329,44,52,0,3
+05:56,[SEA] Whitcomb Rebound (Off:2 Def:6),-4,242,4,,1628244,,1611661328,44,52,0,3
+05:53,[SEA] Loyd 3pt Shot: Missed,212,122,2,,204319,,1611661328,44,52,0,3
+05:49,[CHI] Copper Rebound (Off:0 Def:5),212,122,4,,1627674,,1611661329,44,52,0,3
+05:37,[CHI 46-52] Williams Floating Jump shot: Made (8 PTS) Assist: Williams (3 AST),-13,77,1,,204322,1627675,1611661329,46,52,2,3
+05:17,[SEA 54-46] Fankam Mendjiadeu Cutting Layup Shot: Made (4 PTS) Assist: Loyd (6 AST),-6,1,1,,1641675,204319,1611661328,46,54,2,3
+05:03,[CHI] Copper Pullup Jump shot: Missed,-124,156,2,,1627674,,1611661329,46,54,0,3
+05:00,[SEA] Fankam Mendjiadeu Rebound (Off:2 Def:3),-124,156,4,,1641675,,1611661328,46,54,0,3
+04:49,[SEA] Williams Fadeaway Jump Shot: Missed,-52,27,2,,1628931,,1611661328,46,54,0,3
+04:47,[CHI] Copper Rebound (Off:0 Def:6),-52,27,4,,1627674,,1611661329,46,54,0,3
+04:40,[CHI] Mabrey Driving Finger Roll Layup Shot: Missed,-1,29,2,,1629497,,1611661329,46,54,0,3
+04:38,[SEA] Fankam Mendjiadeu Rebound (Off:2 Def:4),-1,29,4,,1641675,,1611661328,46,54,0,3
+04:34,[SEA] Magbegor Running Layup Shot: Missed Block: Williams (5 BLK),6,27,2,204322,1629496,,1611661328,46,54,0,3
+04:34,[SEA] Team Rebound,6,27,4,,0,,1611661328,46,54,0,3
+04:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,54,0,3
+04:34,[CHI] Mabrey Substitution replaced by Parks,0,-80,8,,1629497,1641641,1611661329,46,54,0,3
+04:34,[SEA] Fankam Mendjiadeu Substitution replaced by Horston,0,-80,8,,1641675,1641651,1611661328,46,54,0,3
+04:34,[SEA] Magbegor Foul: Offensive (2 PF),76,121,6,204322,1629496,203891,1611661328,46,54,0,3
+04:34,[SEA] Magbegor Turnover : Offensive Foul Turnover (2 TO),76,121,5,,1629496,203891,1611661328,46,54,0,3
+04:05,[CHI] Williams 3pt Shot: Missed,-20,253,2,,1627675,,1611661329,46,54,0,3
+04:03,[SEA] Loyd Rebound (Off:0 Def:5),-20,253,4,,204319,,1611661328,46,54,0,3
+03:59,[SEA 56-46] Loyd Fadeaway Jump Shot: Made (11 PTS),-11,97,1,,204319,,1611661328,46,56,2,3
+03:42,[CHI] Copper Driving Floating Jump Shot: Missed,0,18,2,,1627674,,1611661329,46,56,0,3
+03:39,[SEA] Magbegor Rebound (Off:1 Def:5),0,18,4,,1629496,,1611661328,46,56,0,3
+03:34,[CHI] Smith Foul: Personal (1 PF),18,32,6,1629496,1629501,101044,1611661329,46,56,0,3
+03:34,[CHI] Williams Substitution replaced by Evans,0,-80,8,,1627675,1630389,1611661329,46,56,0,3
+03:34,[SEA] Williams Substitution replaced by Nurse,0,-80,8,,1628931,1628915,1611661328,46,56,0,3
+03:27,[SEA 58-46] Loyd Pullup Jump shot: Made (13 PTS) Assist: Magbegor (5 AST),-106,156,1,,204319,1629496,1611661328,46,58,2,3
+03:27,[CHI] Team Timeout : Regular,0,-80,9,,1611661329,,1611661329,46,58,0,3
+03:27,[CHI] Williams Substitution replaced by Hebard,0,-80,8,,204322,1630113,1611661329,46,58,0,3
+03:26,[CHI] Team Violation : Delay Of Game,0,-80,7,,0,,1611661329,46,58,0,3
+03:10,[SEA] Nurse Foul: Personal (2 PF),45,124,6,1641641,1628915,203440,1611661328,46,58,0,3
+02:59,[CHI] Smith Driving Floating Jump Shot: Missed Block: Magbegor (1 BLK),-24,34,2,1629496,1629501,,1611661329,46,58,0,3
+02:59,[CHI] Team Rebound,-24,34,4,,0,,1611661329,46,58,0,3
+02:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,58,0,3
+02:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,58,0,3
+02:54,[CHI 48-58] Hebard Pullup Jump shot: Made (6 PTS) Assist: Evans (3 AST),43,118,1,,1630113,1630389,1611661329,48,58,2,3
+02:38,[SEA 61-48] Magbegor 3pt Shot: Made (14 PTS) Assist: Horston (1 AST),10,230,1,,1629496,1641651,1611661328,48,61,3,3
+02:18,[CHI 50-61] Copper Driving Layup Shot: Made (13 PTS),1,5,1,,1627674,,1611661329,50,61,2,3
+02:02,[SEA 63-50] Loyd Driving Layup Shot: Made (15 PTS) Assist: Horston (2 AST),10,6,1,,204319,1641651,1611661328,50,63,2,3
+01:44,[CHI] Evans Driving Layup Shot: Missed,-7,26,2,,1630389,,1611661329,50,63,0,3
+01:40,[CHI] Hebard Rebound (Off:3 Def:0),-7,26,4,,1630113,,1611661329,50,63,0,3
+01:40,[CHI] Hebard Putback Layup Shot: Missed Block: Magbegor (2 BLK),0,-5,2,1629496,1630113,,1611661329,50,63,0,3
+01:40,[SEA] Magbegor Rebound (Off:1 Def:6),0,-5,4,,1629496,,1611661328,50,63,0,3
+01:40,[SEA] Magbegor Running Layup Shot: Missed Block: Copper (1 BLK),4,24,2,1627674,1629496,,1611661328,50,63,0,3
+01:40,[SEA] Team Rebound,4,24,4,,0,,1611661328,50,63,0,3
+01:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,63,0,3
+01:40,[CHI] Copper Substitution replaced by Williams,0,-80,8,,1627674,1627675,1611661329,50,63,0,3
+01:40,[CHI] Smith Substitution replaced by Mabrey,0,-80,8,,1629501,1629497,1611661329,50,63,0,3
+01:40,[SEA] Whitcomb Substitution replaced by Williams,0,-80,8,,1628244,1628931,1611661328,50,63,0,3
+01:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,63,0,3
+01:30,[SEA] Horston Cutting Layup Shot: Missed,-10,13,2,,1641651,,1611661328,50,63,0,3
+01:28,[SEA] Magbegor Rebound (Off:2 Def:6),-10,13,4,,1629496,,1611661328,50,63,0,3
+01:22,[SEA] Loyd 3pt Shot: Missed,127,216,2,,204319,,1611661328,50,63,0,3
+01:22,[CHI] Parks Rebound (Off:0 Def:1),127,216,4,,1641641,,1611661329,50,63,0,3
+01:03,[CHI 52-63] Williams Driving Layup Shot: Made (6 PTS),18,5,1,,1627675,,1611661329,52,63,2,3
+00:41.9,[CHI] Mabrey Foul: Shooting (1 PF) (2 FTA),43,92,6,1628931,1629497,203440,1611661329,52,63,0,3
+00:41.9,[SEA 64-52] Williams Free Throw 1 of 2 (14 PTS),0,-80,3,,1628931,,1611661328,52,64,1,3
+00:41.9,[SEA] Magbegor Substitution replaced by Russell,0,-80,8,,1629496,1628920,1611661328,52,64,0,3
+00:41.9,[SEA] Loyd Substitution replaced by Whitcomb,0,-80,8,,204319,1628244,1611661328,52,64,0,3
+00:41.9,[SEA 65-52] Williams Free Throw 2 of 2 (15 PTS),0,-80,3,,1628931,,1611661328,52,65,1,3
+00:21.5,[SEA] Williams Foul: Personal (2 PF),-102,98,6,1630113,1628931,203891,1611661328,52,65,0,3
+00:15.6,[CHI] Williams 3pt Shot: Missed,-31,239,2,,1627675,,1611661329,52,65,0,3
+00:15.6,[CHI] Team Rebound,-31,239,4,,0,,1611661329,52,65,0,3
+00:15.6,[SEA] Nurse Foul: Loose Ball (3 PF) (2 FTA),-13,33,6,1630113,1628915,101044,1611661328,52,65,0,3
+00:15.6,[CHI] Hebard Free Throw 1 of 2 Missed,0,-80,3,,1630113,,1611661329,52,65,0,3
+00:15.6,[CHI] Team Rebound,0,-80,4,,0,,1611661329,52,65,0,3
+00:15.6,[CHI 53-65] Hebard Free Throw 2 of 2 (7 PTS),0,-80,3,,1630113,,1611661329,53,65,1,3
+00:01.0,[SEA 67-53] Horston Driving Layup Shot: Made (6 PTS) Assist: Williams (4 AST),-2,25,1,,1641651,1628931,1611661328,53,67,2,3
+00:00.0,End Period,0,-80,13,,0,,0,53,67,0,3
+10:00,Start Period,0,-80,12,,0,,0,53,67,0,4
+09:45,[CHI 55-67] Hebard Cutting Layup Shot: Made (9 PTS) Assist: Williams (4 AST),15,22,1,,1630113,1627675,1611661329,55,67,2,4
+09:45,[SEA] Williams Foul: Shooting (3 PF) (1 FTA),15,22,6,1630113,1628931,203891,1611661328,55,67,0,4
+09:45,[CHI] Hebard Free Throw 1 of 1 Missed,0,-80,3,,1630113,,1611661329,55,67,0,4
+09:42,[SEA] Williams Rebound (Off:3 Def:3),0,-80,4,,1628931,,1611661328,55,67,0,4
+09:30,[SEA 69-55] Williams Driving Layup Shot: Made (17 PTS),22,11,1,,1628931,,1611661328,55,69,2,4
+09:12,[CHI] Parks 3pt Shot: Missed,206,119,2,,1641641,,1611661329,55,69,0,4
+09:10,[SEA] Whitcomb Rebound (Off:2 Def:7),206,119,4,,1628244,,1611661328,55,69,0,4
+09:02,[SEA] Nurse 3pt Shot: Missed,137,209,2,,1628915,,1611661328,55,69,0,4
+08:56,[SEA] Horston Rebound (Off:1 Def:0),137,209,4,,1641651,,1611661328,55,69,0,4
+08:56,[SEA 71-55] Horston Putback Layup Shot: Made (8 PTS),0,-5,1,,1641651,,1611661328,55,71,2,4
+08:39,[CHI] Hebard Jump Shot: Missed,-6,153,2,,1630113,,1611661329,55,71,0,4
+08:37,[SEA] Horston Rebound (Off:1 Def:1),-6,153,4,,1641651,,1611661328,55,71,0,4
+08:33,[SEA 73-55] Nurse Running Layup Shot: Made (2 PTS),11,24,1,,1628915,,1611661328,55,73,2,4
+08:33,[CHI] Team Timeout : Short,0,-80,9,,1611661329,,1611661329,55,73,0,4
+08:33,[CHI] Mabrey Substitution replaced by Smith,0,-80,8,,1629497,1629501,1611661329,55,73,0,4
+08:33,[CHI] Parks Substitution replaced by Williams,0,-80,8,,1641641,204322,1611661329,55,73,0,4
+08:33,[CHI] Hebard Substitution replaced by Copper,0,-80,8,,1630113,1627674,1611661329,55,73,0,4
+08:33,[SEA] Team Violation : Delay Of Game,0,-80,7,,0,,1611661328,55,73,0,4
+08:15,[SEA] Horston Foul: Shooting (3 PF) (2 FTA),18,18,6,1629501,1641651,101044,1611661328,55,73,0,4
+08:15,Stoppage Other,0,-80,20,,0,,0,55,73,0,4
+08:15,[CHI] Smith Free Throw 1 of 2 Missed,0,-80,3,,1629501,,1611661329,55,73,0,4
+08:15,[CHI] Team Rebound,0,-80,4,,0,,1611661329,55,73,0,4
+08:15,[SEA] Nurse Substitution replaced by Loyd,0,-80,8,,1628915,204319,1611661328,55,73,0,4
+08:15,[CHI 56-73] Smith Free Throw 2 of 2 (7 PTS),0,-80,3,,1629501,,1611661329,56,73,1,4
+07:48,[SEA] Whitcomb Pullup Jump shot: Missed,-111,165,2,,1628244,,1611661328,56,73,0,4
+07:45,[CHI] Copper Rebound (Off:0 Def:7),-111,165,4,,1627674,,1611661329,56,73,0,4
+07:38,[CHI] Copper 3pt Shot: Missed,5,246,2,,1627674,,1611661329,56,73,0,4
+07:37,[CHI] Team Rebound,5,246,4,,0,,1611661329,56,73,0,4
+07:37,[SEA] Russell Foul: Loose Ball (1 PF),73,35,6,1629501,1628920,203891,1611661328,56,73,0,4
+07:37,[SEA] Horston Substitution replaced by Magbegor,0,-80,8,,1641651,1629496,1611661328,56,73,0,4
+07:26,[CHI] Williams Cutting Layup Shot: Missed,-6,33,2,,204322,,1611661329,56,73,0,4
+07:25,[SEA] Whitcomb Rebound (Off:2 Def:8),-6,33,4,,1628244,,1611661328,56,73,0,4
+07:08,Jump Ball Copper vs Loyd (Williams gains possession),0,-80,10,204319,1627674,1627675,1611661329,56,73,0,4
+07:08,[SEA] Loyd Turnover : Lost Ball (3 TO) Steal:Copper (3 ST),0,-80,5,1627674,204319,,1611661328,56,73,0,4
+07:00,[SEA] Whitcomb Foul: Shooting (2 PF) (2 FTA),-23,13,6,1630389,1628244,101044,1611661328,56,73,0,4
+07:00,[CHI 57-73] Evans Free Throw 1 of 2 (6 PTS),0,-80,3,,1630389,,1611661329,57,73,1,4
+07:00,[CHI 58-73] Evans Free Throw 2 of 2 (7 PTS),0,-80,3,,1630389,,1611661329,58,73,1,4
+06:45,[SEA] Whitcomb 3pt Shot: Missed,184,165,2,,1628244,,1611661328,58,73,0,4
+06:43,[CHI] Williams Rebound (Off:1 Def:3),184,165,4,,204322,,1611661329,58,73,0,4
+06:39,[CHI 60-73] Copper Running Layup Shot: Made (15 PTS) Assist: Williams (5 AST),10,8,1,,1627674,1627675,1611661329,60,73,2,4
+06:38,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,60,73,0,4
+06:14,[SEA] Williams 3pt Shot: Missed,148,201,2,,1628931,,1611661328,60,73,0,4
+06:11,[SEA] Russell Rebound (Off:2 Def:0),148,201,4,,1628920,,1611661328,60,73,0,4
+06:11,[SEA 75-60] Russell Putback Layup Shot: Made (6 PTS),0,-5,1,,1628920,,1611661328,60,75,2,4
+06:00,[CHI 62-75] Williams Pullup Jump shot: Made (8 PTS),66,194,1,,1627675,,1611661329,62,75,2,4
+05:58,[CHI] Copper Foul: Personal (2 PF),-4,740,6,204319,1627674,203891,1611661329,62,75,0,4
+05:37,[CHI] Copper Foul: Personal (3 PF),-17,40,6,1628920,1627674,101044,1611661329,62,75,0,4
+05:20,[SEA] Williams Pullup Jump shot: Missed,-101,111,2,,1628931,,1611661328,62,75,0,4
+05:18,[CHI] Williams Rebound (Off:0 Def:2),-101,111,4,,1627675,,1611661329,62,75,0,4
+05:10,[CHI 64-75] Smith Jump Shot: Made (9 PTS) Assist: Copper (2 AST),55,123,1,,1629501,1627674,1611661329,64,75,2,4
+04:42,Jump Ball Magbegor vs Smith,0,-80,10,1629501,1629496,,1611661328,64,75,0,4
+04:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,75,0,4
+04:40,[SEA] Team Turnover : Shot Clock Turnover,55,60,5,,0,101044,1611661328,64,75,0,4
+04:31,[CHI] Evans Turnover : Out of Bounds Lost Ball Turnover (1 TO),61,-27,5,,1630389,101044,1611661329,64,75,0,4
+04:11,[SEA] Loyd Driving Floating Jump Shot: Missed Block: Smith (3 BLK),1,53,2,1629501,204319,,1611661328,64,75,0,4
+04:11,[CHI] Team Rebound,1,53,4,,0,,1611661329,64,75,0,4
+04:11,[SEA] Magbegor Foul: Loose Ball (3 PF) (2 FTA),6,812,6,1629501,1629496,101044,1611661328,64,75,0,4
+04:11,[CHI] Smith Free Throw 1 of 2 Missed,0,-80,3,,1629501,,1611661329,64,75,0,4
+04:11,[CHI] Team Rebound,0,-80,4,,0,,1611661329,64,75,0,4
+04:11,[CHI 65-75] Smith Free Throw 2 of 2 (10 PTS),0,-80,3,,1629501,,1611661329,65,75,1,4
+03:52,[SEA] Loyd 3pt Shot: Missed,-208,118,2,,204319,,1611661328,65,75,0,4
+03:50,[CHI] Team Rebound,-208,118,4,,0,,1611661329,65,75,0,4
+03:50,[SEA] Loyd Foul: Loose Ball (1 PF) (2 FTA),78,704,6,1627674,204319,203891,1611661328,65,75,0,4
+03:50,[CHI 66-75] Copper Free Throw 1 of 2 (16 PTS),0,-80,3,,1627674,,1611661329,66,75,1,4
+03:50,[CHI 67-75] Copper Free Throw 2 of 2 (17 PTS),0,-80,3,,1627674,,1611661329,67,75,1,4
+03:30,[SEA] Whitcomb 3pt Shot: Missed,-21,260,2,,1628244,,1611661328,67,75,0,4
+03:27,[SEA] Russell Rebound (Off:3 Def:0),-21,260,4,,1628920,,1611661328,67,75,0,4
+03:16,[SEA] Magbegor Driving Layup Shot: Missed,-6,21,2,,1629496,,1611661328,67,75,0,4
+03:13,[SEA] Russell Rebound (Off:4 Def:0),-6,21,4,,1628920,,1611661328,67,75,0,4
+03:13,[SEA 77-67] Russell Putback Layup Shot: Made (8 PTS),0,-5,1,,1628920,,1611661328,67,77,2,4
+03:05,[CHI 70-77] Evans 3pt Shot: Made (10 PTS),-127,225,1,,1630389,,1611661329,70,77,3,4
+02:45,[SEA 79-70] Magbegor Cutting Layup Shot: Made (16 PTS) Assist: Whitcomb (2 AST),3,24,1,,1629496,1628244,1611661328,70,79,2,4
+02:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,79,0,4
+02:30,Timeout Officials,0,-80,9,,0,,0,70,79,0,4
+02:25,[SEA] Loyd Foul: Shooting (2 PF) (2 FTA),13,11,6,1630389,204319,203440,1611661328,70,79,0,4
+02:25,[CHI 71-79] Evans Free Throw 1 of 2 (11 PTS),0,-80,3,,1630389,,1611661329,71,79,1,4
+02:25,[CHI 72-79] Evans Free Throw 2 of 2 (12 PTS),0,-80,3,,1630389,,1611661329,72,79,1,4
+02:00,[SEA] Russell Cutting Layup Shot: Missed Block: Williams (6 BLK),-95,12,2,204322,1628920,,1611661328,72,79,0,4
+01:58,[CHI] Williams Rebound (Off:0 Def:3),-95,12,4,,1627675,,1611661329,72,79,0,4
+01:37,[CHI] Evans 3pt Shot: Missed,-109,221,2,,1630389,,1611661329,72,79,0,4
+01:36,[SEA] Loyd Rebound (Off:0 Def:6),-109,221,4,,204319,,1611661328,72,79,0,4
+01:36,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,72,79,0,4
+01:21,[CHI] Evans Foul: Personal (1 PF),-88,20,6,1629496,1630389,203440,1611661329,72,79,0,4
+01:18,[CHI] Smith Foul: Personal (2 PF) (2 FTA),-97,252,6,1629496,1629501,203440,1611661329,72,79,0,4
+01:18,[SEA 80-72] Magbegor Free Throw 1 of 2 (17 PTS),0,-80,3,,1629496,,1611661328,72,80,1,4
+01:18,[SEA] Magbegor Free Throw 2 of 2 Missed,0,-80,3,,1629496,,1611661328,72,80,0,4
+01:16,[CHI] Williams Rebound (Off:1 Def:4),0,-80,4,,204322,,1611661329,72,80,0,4
+00:59.0,[CHI] Copper Turnover : Lost Ball (2 TO) Steal:Williams (1 ST),-77,7,5,1628931,1627674,,1611661329,72,80,0,4
+00:44.9,[SEA] Magbegor 3pt Shot: Missed,129,216,2,,1629496,,1611661328,72,80,0,4
+00:40.0,[SEA] Magbegor Rebound (Off:3 Def:6),129,216,4,,1629496,,1611661328,72,80,0,4
+00:35.8,[SEA] Whitcomb 3pt Shot: Missed,222,117,2,,1628244,,1611661328,72,80,0,4
+00:33.6,[CHI] Williams Rebound (Off:1 Def:5),222,117,4,,204322,,1611661329,72,80,0,4
+00:28.5,[CHI 74-80] Williams Running Pull-Up Jump Shot: Made (10 PTS),-99,146,1,,1627675,,1611661329,74,80,2,4
+00:25.0,[SEA] Magbegor Turnover : Bad Pass (3 TO) Steal:Copper (4 ST),126,744,5,1627674,1629496,,1611661328,74,80,0,4
+00:19.9,[CHI] Williams Jump Shot: Missed,48,147,2,,1627675,,1611661329,74,80,0,4
+00:19.9,[CHI] Copper Rebound (Off:1 Def:7),48,147,4,,1627674,,1611661329,74,80,0,4
+00:19.9,[CHI] Copper Turnover : Bad Pass (3 TO) Steal:Loyd (2 ST),34,70,5,204319,1627674,,1611661329,74,80,0,4
+00:19.9,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,74,80,0,4
+00:18.1,[CHI] Williams Foul: Personal (2 PF) (2 FTA),70,352,6,1628244,1627675,101044,1611661329,74,80,0,4
+00:18.1,[SEA] Whitcomb Free Throw 1 of 2 Missed,0,-80,3,,1628244,,1611661328,74,80,0,4
+00:18.1,[SEA] Team Rebound,0,-80,4,,0,,1611661328,74,80,0,4
+00:18.1,[SEA 81-74] Whitcomb Free Throw 2 of 2 (10 PTS),0,-80,3,,1628244,,1611661328,74,81,1,4
+00:18.1,[CHI] Team Timeout : Short,0,-80,9,,1611661329,,1611661329,74,81,0,4
+00:14.1,[CHI] Williams Turnover : Bad Pass (2 TO),147,160,5,,204322,,1611661329,74,81,0,4
+00:14.1,[CHI] Williams Foul: Loose Ball (3 PF) (2 FTA),-113,650,6,1628244,204322,203891,1611661329,74,81,0,4
+00:14.1,[SEA 82-74] Whitcomb Free Throw 1 of 2 (11 PTS),0,-80,3,,1628244,,1611661328,74,82,1,4
+00:14.1,[SEA 83-74] Whitcomb Free Throw 2 of 2 (12 PTS),0,-80,3,,1628244,,1611661328,74,83,1,4
+00:00.3,[CHI] Evans Driving Floating Bank Jump Shot: Missed,-26,80,2,,1630389,,1611661329,74,83,0,4
+00:00.3,[SEA] Russell Rebound (Off:4 Def:1),-26,80,4,,1628920,,1611661328,74,83,0,4
+00:00.0,End Period,0,-80,13,,0,,0,74,83,0,4

@@ -1,0 +1,458 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:50,Jump Ball Williams vs Harrison (Hayes gains possession),0,-80,10,204330,204322,203026,1611661330,0,0,1
+09:42,[ATL] Williams Turnover : Out of Bounds Lost Ball Turnover (1 TO),64,-16,5,,204322,,1611661330,0,0,1
+09:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,1
+09:18,[DAL 2-0] Johnson Turnaround Jump Shot: Made (2 PTS),-54,133,1,,203017,,1611661321,0,2,1
+08:57,[ATL 2-2] Williams Turnaround Fadeaway Bank Jump Shot: Made (2 PTS) Assist: Montgomery (1 AST),-46,32,1,,204322,201904,1611661330,2,2,1
+08:38,[DAL 4-2] Davis Floating Jump shot: Made (2 PTS) Assist: Johnson (1 AST),-36,113,1,,1628273,203017,1611661321,2,4,1
+08:14,[ATL] Hayes 3pt Shot: Missed,84,223,2,,203026,,1611661330,2,4,1
+08:11,[DAL] Ogunbowale Rebound (Off:0 Def:1),84,223,4,,1629481,,1611661321,2,4,1
+08:07,[DAL] Harrison Running Layup Shot: Missed,-22,13,2,1628279,204330,,1611661321,2,4,1
+08:01,[ATL] Williams Rebound (Off:0 Def:1),-22,13,4,,204322,,1611661330,2,4,1
+07:54,[ATL] Breland Pullup Jump shot: Missed,-48,128,2,,202638,,1611661330,2,4,1
+07:52,[ATL] Team Rebound,-48,128,4,,0,,1611661330,2,4,1
+07:37,[ATL 4-4] Montgomery Driving Layup Shot: Made (2 PTS),3,-2,1,,201904,,1611661330,4,4,1
+07:28,[DAL] Hill 3pt Shot: Missed,74,221,2,,203401,,1611661321,4,4,1
+07:25,[ATL] Breland Rebound (Off:0 Def:1),74,221,4,,202638,,1611661330,4,4,1
+07:17,[ATL] Hayes 3pt Shot: Missed,115,207,2,,203026,,1611661330,4,4,1
+07:12,[ATL] Williams Rebound (Off:1 Def:1),115,207,4,,204322,,1611661330,4,4,1
+07:07,[ATL] Williams Driving Hook Shot: Missed,-21,26,2,,204322,,1611661330,4,4,1
+07:07,[DAL] Johnson Rebound (Off:0 Def:1),-21,26,4,,203017,,1611661321,4,4,1
+06:59,[DAL] Harrison Foul: Offensive (1 PF),3,239,6,201904,204330,,1611661321,4,4,1
+06:59,[DAL] Harrison Turnover : Offensive Foul Turnover (1 TO),3,239,5,,204330,,1611661321,4,4,1
+06:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,4,1
+06:40,[ATL] Hayes 3pt Shot: Missed,-231,3,2,,203026,,1611661330,4,4,1
+06:36,[DAL] Ogunbowale Rebound (Off:0 Def:2),-231,3,4,,1629481,,1611661321,4,4,1
+06:32,[DAL] Ogunbowale Running Layup Shot: Missed,-8,19,2,,1629481,,1611661321,4,4,1
+06:29,[ATL] Williams Rebound (Off:1 Def:2),-8,19,4,,204322,,1611661330,4,4,1
+06:24,[ATL 7-4] Montgomery 3pt Shot: Made (5 PTS) Assist: Sykes (1 AST),-170,169,1,,201904,1628279,1611661330,7,4,1
+06:04,[DAL] Ogunbowale 3pt Shot: Missed,-150,176,2,,1629481,,1611661321,7,4,1
+06:00,[ATL] Hayes Rebound (Off:0 Def:1),-150,176,4,,203026,,1611661330,7,4,1
+05:55,[ATL 9-4] Montgomery Driving Floating Jump Shot: Made (7 PTS),81,51,1,,201904,,1611661330,9,4,1
+05:53,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,9,4,1
+05:53,[ATL] Hayes Substitution replaced by Coffey,0,-80,8,,203026,1628269,1611661330,9,4,1
+05:28,[DAL] Team Turnover : Shot Clock Turnover,-20,6,5,,0,,1611661321,9,4,1
+05:22,[ATL 11-4] Coffey Driving Layup Shot: Made (2 PTS),-8,-5,1,,1628269,,1611661330,11,4,1
+05:22,[DAL] Davis Foul: Shooting (1 PF) (1 FTA),-8,-5,6,1628269,1628273,,1611661321,11,4,1
+05:22,[DAL] Hill Substitution replaced by Gray,0,-80,8,,203401,1628277,1611661321,11,4,1
+05:22,[DAL] Davis Substitution replaced by Thornton,0,-80,8,,1628273,203866,1611661321,11,4,1
+05:22,[ATL 12-4] Coffey Free Throw 1 of 1 (3 PTS),0,-80,3,,1628269,,1611661330,12,4,1
+05:08,[DAL] Ogunbowale 3pt Shot: Missed,52,230,2,,1629481,,1611661321,12,4,1
+05:02,[DAL] Johnson Rebound (Off:1 Def:1),52,230,4,,203017,,1611661321,12,4,1
+05:01,[DAL] Johnson Turnover : Bad Pass (1 TO) Steal:Coffey (1 ST),-126,31,5,1628269,203017,,1611661321,12,4,1
+04:58,[ATL] Montgomery Turnover : Bad Pass (1 TO) Steal:Ogunbowale (1 ST),123,278,5,1629481,201904,,1611661330,12,4,1
+04:53,[DAL 6-12] Ogunbowale Running Layup Shot: Made (2 PTS),2,-3,1,,1629481,,1611661321,12,6,1
+04:38,[DAL] Ogunbowale Foul: Personal (1 PF),-63,181,6,201904,1629481,,1611661321,12,6,1
+04:32,[ATL 14-6] Breland Driving Layup Shot: Made (2 PTS),3,3,1,,202638,,1611661330,14,6,1
+04:17,[DAL] Thornton Pullup Jump shot: Missed,-131,7,2,,203866,,1611661321,14,6,1
+04:12,[DAL] Harrison Rebound (Off:1 Def:0),-131,7,4,,204330,,1611661321,14,6,1
+04:11,[DAL] Harrison Putback Layup Shot: Missed,-11,1,2,,204330,,1611661321,14,6,1
+04:09,[ATL] Breland Rebound (Off:0 Def:2),-11,1,4,,202638,,1611661330,14,6,1
+03:57,[DAL] Ogunbowale Foul: Personal (2 PF),41,231,6,201904,1629481,,1611661321,14,6,1
+03:57,[ATL] Breland Substitution replaced by Billings,0,-80,8,,202638,1628881,1611661330,14,6,1
+03:57,[DAL] Harrison Substitution replaced by McCarty-Williams,0,-80,8,,204330,1628907,1611661321,14,6,1
+03:57,[DAL] Ogunbowale Substitution replaced by Plaisance,0,-80,8,,1629481,203849,1611661321,14,6,1
+03:50,[DAL] Plaisance Foul: Shooting (1 PF) (2 FTA),13,17,6,1628279,203849,,1611661321,14,6,1
+03:50,[ATL] Montgomery Substitution replaced by Bentley,0,-80,8,,201904,203410,1611661330,14,6,1
+03:50,[ATL] Sykes Free Throw 1 of 2 Missed,0,-80,3,,1628279,,1611661330,14,6,1
+03:50,[ATL] Team Rebound,0,-80,4,,0,,1611661330,14,6,1
+03:50,[ATL 15-6] Sykes Free Throw 2 of 2 (1 PTS),0,-80,3,,1628279,,1611661330,15,6,1
+03:36,[DAL] Plaisance 3pt Shot: Missed,-160,190,2,,203849,,1611661321,15,6,1
+03:34,[DAL] Gray Rebound (Off:1 Def:0),-93,120,4,,1628277,,1611661321,15,6,1
+03:27,[DAL 9-15] Gray 3pt Shot: Made (3 PTS) Assist: McCarty-Williams (1 AST),-91,223,1,,1628277,1628907,1611661321,15,9,1
+03:12,[ATL] Coffey Turnover : Lost Ball (1 TO) Steal:Thornton (1 ST),37,36,5,203866,1628269,,1611661330,15,9,1
+02:55,[DAL] Plaisance Jump Shot: Missed,-114,125,2,,203849,,1611661321,15,9,1
+02:51,[ATL] Williams Rebound (Off:1 Def:3),-114,125,4,,204322,,1611661330,15,9,1
+02:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,9,1
+02:49,[ATL] Sykes Substitution replaced by Hayes,0,-80,8,,1628279,203026,1611661330,15,9,1
+02:38,[ATL 17-9] Hayes Driving Layup Shot: Made (2 PTS),-4,1,1,,203026,,1611661330,17,9,1
+02:27,[ATL] Billings Foul: Personal (1 PF),96,-42,6,203017,1628881,,1611661330,17,9,1
+02:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,9,1
+02:15,[DAL 11-17] Thornton Driving Floating Jump Shot: Made (2 PTS) Assist: Gray (1 AST),75,97,1,,203866,1628277,1611661321,17,11,1
+01:50,[ATL 19-11] Coffey Driving Layup Shot: Made (5 PTS) Assist: Billings (1 AST),-4,6,1,,1628269,1628881,1611661330,19,11,1
+01:25,[DAL 14-19] Plaisance 3pt Shot: Made (3 PTS) Assist: Thornton (1 AST),185,145,1,,203849,203866,1611661321,19,14,1
+01:07,[DAL] Plaisance Foul: Shooting (2 PF) (2 FTA),4,6,6,1628269,203849,,1611661321,19,14,1
+01:07,[ATL] Coffey Free Throw 1 of 2 Missed,0,-80,3,,1628269,,1611661330,19,14,1
+01:07,[ATL] Team Rebound,0,-80,4,,0,,1611661330,19,14,1
+01:07,[ATL] Williams Substitution replaced by Gülich,0,-80,8,,204322,1628895,1611661330,19,14,1
+01:07,[DAL] Johnson Substitution replaced by Harrison,0,-80,8,,203017,204330,1611661321,19,14,1
+01:07,[ATL 20-14] Coffey Free Throw 2 of 2 (6 PTS),0,-80,3,,1628269,,1611661330,20,14,1
+00:57.2,[DAL 16-20] Harrison Cutting Layup Shot: Made (2 PTS) Assist: Gray (2 AST),11,-6,1,,204330,1628277,1611661321,20,16,1
+00:57.2,[ATL] Gülich Foul: Shooting (1 PF) (1 FTA),11,-6,6,204330,1628895,,1611661330,20,16,1
+00:57.2,[DAL] Plaisance Substitution replaced by McGee-Stafford,0,-80,8,,203849,1627677,1611661321,20,16,1
+00:57.2,[DAL 17-20] Harrison Free Throw 1 of 1 (3 PTS),0,-80,3,,204330,,1611661321,20,17,1
+00:38.9,[ATL] Bentley Turnover : Bad Pass (1 TO) Steal:McGee-Stafford (1 ST),134,58,5,1627677,203410,,1611661330,20,17,1
+00:33.0,[DAL] Gray Running Layup Shot: Missed,-13,16,2,,1628277,,1611661321,20,17,1
+00:30.1,[DAL] McGee-Stafford Rebound (Off:1 Def:0),-13,16,4,,1627677,,1611661321,20,17,1
+00:30.1,[DAL] McGee-Stafford Putback Layup Shot: Missed,-20,1,2,,1627677,,1611661321,20,17,1
+00:30.1,[DAL] Team Rebound,-20,1,4,,0,,1611661321,20,17,1
+00:29.2,[ATL] Hayes Foul: Personal (1 PF) (2 FTA),97,230,6,1628277,203026,,1611661330,20,17,1
+00:29.2,[DAL 18-20] Gray Free Throw 1 of 2 (4 PTS),0,-80,3,,1628277,,1611661321,20,18,1
+00:29.2,[DAL 19-20] Gray Free Throw 2 of 2 (5 PTS),0,-80,3,,1628277,,1611661321,20,19,1
+00:11.5,[ATL] Bentley Turnover : Bad Pass (2 TO) Steal:Gray (1 ST),34,46,5,1628277,203410,,1611661330,20,19,1
+00:01.9,[DAL] Thornton Jump Shot: Missed,127,6,2,,203866,,1611661321,20,19,1
+00:01.9,[DAL] McGee-Stafford Rebound (Off:2 Def:0),127,6,4,,1627677,,1611661321,20,19,1
+00:00.0,End Period,0,-80,13,,0,,0,20,19,1
+10:00,Start Period,0,-80,12,,0,,0,20,19,2
+09:46,[DAL] McCarty-Williams 3pt Shot: Missed,-76,221,2,,1628907,,1611661321,20,19,2
+09:41,[ATL] Bentley Rebound (Off:0 Def:1),-76,221,4,,203410,,1611661330,20,19,2
+09:31,[ATL] Bentley 3pt Shot: Missed,100,219,2,,203410,,1611661330,20,19,2
+09:27,[DAL] Thornton Rebound (Off:0 Def:1),100,219,4,,203866,,1611661321,20,19,2
+09:10,[DAL] Thornton 3pt Shot: Missed,-163,173,2,,203866,,1611661321,20,19,2
+09:07,[ATL] Coffey Rebound (Off:0 Def:1),-163,173,4,,1628269,,1611661330,20,19,2
+09:05,[ATL] Billings Foul: Offensive (2 PF),106,214,6,203866,1628881,,1611661330,20,19,2
+09:05,[ATL] Billings Turnover : Offensive Foul Turnover (1 TO),106,214,5,,1628881,,1611661330,20,19,2
+09:05,[ATL] Billings Substitution replaced by Breland,0,-80,8,,1628881,202638,1611661330,20,19,2
+08:47,[DAL] Harrison Turnaround Jump Shot: Missed,-53,32,2,1628269,204330,,1611661321,20,19,2
+08:42,[ATL] Coffey Rebound (Off:0 Def:2),-53,32,4,,1628269,,1611661330,20,19,2
+08:38,[DAL] Gray Foul: Personal (1 PF),-4,10,6,1628895,1628277,,1611661321,20,19,2
+08:28,[DAL] McCarty-Williams Foul: Personal (1 PF),87,231,6,203410,1628907,,1611661321,20,19,2
+08:16,[ATL] Hayes 3pt Shot: Missed,51,231,2,,203026,,1611661330,20,19,2
+08:13,[ATL] Gülich Rebound (Off:1 Def:0),51,231,4,,1628895,,1611661330,20,19,2
+08:13,[ATL] Team Turnover : Shot Clock Turnover,-24,-6,5,,0,,1611661330,20,19,2
+08:00,[ATL] Breland Foul: Shooting (1 PF) (2 FTA),0,15,6,203866,202638,,1611661330,20,19,2
+08:00,[DAL 20-20] Thornton Free Throw 1 of 2 (3 PTS),0,-80,3,,203866,,1611661321,20,20,2
+08:00,[ATL] Coffey Substitution replaced by Sykes,0,-80,8,,1628269,1628279,1611661330,20,20,2
+08:00,[DAL] Harrison Substitution replaced by Johnson,0,-80,8,,204330,203017,1611661321,20,20,2
+08:00,[DAL 21-20] Thornton Free Throw 2 of 2 (4 PTS),0,-80,3,,203866,,1611661321,20,21,2
+07:59,Stoppage: Blood Rule,0,-80,20,,0,,0,20,21,2
+07:46,[ATL] Gülich Turnover : Lost Ball (1 TO) Steal:Gray (2 ST),-7,257,5,1628277,1628895,,1611661330,20,21,2
+07:42,[DAL 23-20] McCarty-Williams Running Layup Shot: Made (2 PTS) Assist: Gray (3 AST),3,-4,1,,1628907,1628277,1611661321,20,23,2
+07:23,[ATL] Bentley Pullup Jump shot: Missed,131,32,2,,203410,,1611661330,20,23,2
+07:20,[DAL] Thornton Rebound (Off:0 Def:2),131,32,4,,203866,,1611661321,20,23,2
+07:15,[DAL 26-20] Gray 3pt Shot: Made (8 PTS) Assist: Thornton (2 AST),183,155,1,,1628277,203866,1611661321,20,26,2
+07:15,[DAL] McGee-Stafford Foul: Loose Ball (1 PF),1,830,6,1628895,1627677,,1611661321,20,26,2
+07:15,[ATL] Gülich Substitution replaced by Williams,0,-80,8,,1628895,204322,1611661330,20,26,2
+07:15,[DAL] McCarty-Williams Substitution replaced by Hill,0,-80,8,,1628907,203401,1611661321,20,26,2
+07:15,[DAL] Gray Substitution replaced by Ogunbowale,0,-80,8,,1628277,1629481,1611661321,20,26,2
+07:06,[DAL] Thornton Foul: Personal (1 PF),-4,9,6,203026,203866,,1611661321,20,26,2
+07:06,[ATL] Bentley Substitution replaced by Montgomery,0,-80,8,,203410,201904,1611661330,20,26,2
+07:06,[ATL] Hayes Technical (1 FTA),0,-80,6,,203026,,1611661330,20,26,2
+07:06,[DAL 27-20] Thornton Free Throw Technical (5 PTS),0,-80,3,,203866,,1611661321,20,27,2
+07:00,[ATL] Sykes Jump Shot: Missed,4,10,2,,1628279,,1611661330,20,27,2
+06:57,[DAL] Thornton Rebound (Off:0 Def:3),4,10,4,,203866,,1611661321,20,27,2
+06:48,[DAL] Hill 3pt Shot: Missed,224,55,2,,203401,,1611661321,20,27,2
+06:40,[DAL] McGee-Stafford Rebound (Off:3 Def:0),224,55,4,,1627677,,1611661321,20,27,2
+06:40,[DAL 29-20] McGee-Stafford Putback Layup Shot: Made (2 PTS),0,-5,1,,1627677,,1611661321,20,29,2
+06:30,[ATL 22-29] Sykes Pullup Jump shot: Made (3 PTS) Assist: Breland (1 AST),-117,68,1,,1628279,202638,1611661330,22,29,2
+06:30,[DAL] Ogunbowale Foul: Shooting (3 PF) (1 FTA),-117,68,6,1628279,1629481,,1611661321,22,29,2
+06:30,[DAL] Ogunbowale Substitution replaced by McCarty-Williams,0,-80,8,,1629481,1628907,1611661321,22,29,2
+06:30,[ATL 23-29] Sykes Free Throw 1 of 1 (4 PTS),0,-80,3,,1628279,,1611661330,23,29,2
+06:19,[DAL 32-23] Johnson 3pt Shot: Made (5 PTS) Assist: McCarty-Williams (2 AST),-54,236,1,,203017,1628907,1611661321,23,32,2
+06:02,[ATL] Breland Jump Shot: Missed,-55,189,2,,202638,,1611661330,23,32,2
+05:58,[DAL] Hill Rebound (Off:0 Def:1),-55,189,4,,203401,,1611661321,23,32,2
+05:42,[DAL] McGee-Stafford Turnover : Bad Pass (1 TO) Steal:Sykes (1 ST),88,74,5,1628279,1627677,,1611661321,23,32,2
+05:38,[ATL] Sykes Running Layup Shot: Missed,-13,5,2,,1628279,,1611661330,23,32,2
+05:35,[DAL] McGee-Stafford Rebound (Off:3 Def:1),-13,5,4,,1627677,,1611661321,23,32,2
+05:33,[DAL] Thornton Pullup Jump shot: Missed,87,23,2,,203866,,1611661321,23,32,2
+05:29,[DAL] Hill Rebound (Off:1 Def:1),87,23,4,,203401,,1611661321,23,32,2
+05:16,[DAL] Thornton Driving Layup Shot: Missed,77,24,2,204322,203866,,1611661321,23,32,2
+05:11,[ATL] Montgomery Rebound (Off:0 Def:1),77,24,4,,201904,,1611661330,23,32,2
+05:07,[ATL 25-32] Breland Pullup Jump shot: Made (4 PTS) Assist: Montgomery (2 AST),126,96,1,,202638,201904,1611661330,25,32,2
+05:00,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,25,32,2
+05:00,[DAL] Thornton Substitution replaced by Plaisance,0,-80,8,,203866,203849,1611661321,25,32,2
+05:00,[DAL] McGee-Stafford Substitution replaced by Davis,0,-80,8,,1627677,1628273,1611661321,25,32,2
+04:40,[DAL] Hill Driving Layup Shot: Missed,-90,97,2,,203401,,1611661321,25,32,2
+04:37,[ATL] Sykes Rebound (Off:0 Def:1),-90,97,4,,1628279,,1611661330,25,32,2
+04:27,[ATL 27-32] Breland Driving Layup Shot: Made (6 PTS) Assist: Sykes (2 AST),53,32,1,,202638,1628279,1611661330,27,32,2
+04:12,[DAL] McCarty-Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-168,-15,5,,1628907,,1611661321,27,32,2
+04:12,[ATL] Hayes Substitution replaced by Coffey,0,-80,8,,203026,1628269,1611661330,27,32,2
+04:01,[DAL] Plaisance Foul: Shooting (3 PF) (2 FTA),43,22,6,202638,203849,,1611661321,27,32,2
+04:01,[ATL 28-32] Breland Free Throw 1 of 2 (7 PTS),0,-80,3,,202638,,1611661330,28,32,2
+04:01,[ATL 29-32] Breland Free Throw 2 of 2 (8 PTS),0,-80,3,,202638,,1611661330,29,32,2
+03:39,[DAL] Johnson 3pt Shot: Missed,171,156,2,,203017,,1611661321,29,32,2
+03:39,[DAL] Team Rebound,171,156,4,,0,,1611661321,29,32,2
+03:39,[DAL] Plaisance Substitution replaced by Harrison,0,-80,8,,203849,204330,1611661321,29,32,2
+03:25,[DAL 35-29] Hill 3pt Shot: Made (3 PTS) Assist: McCarty-Williams (3 AST),-134,195,1,,203401,1628907,1611661321,29,35,2
+03:14,[ATL] Sykes 3pt Shot: Missed,-215,113,2,,1628279,,1611661330,29,35,2
+03:10,[DAL] Davis Rebound (Off:0 Def:1),-215,113,4,,1628273,,1611661321,29,35,2
+03:08,[DAL 37-29] Davis Running Pull-Up Jump Shot: Made (4 PTS),32,147,1,,1628273,,1611661321,29,37,2
+02:47,[ATL] Breland Pullup Jump shot: Missed,13,192,2,,202638,,1611661330,29,37,2
+02:45,[ATL] Team Rebound,13,192,4,,0,,1611661330,29,37,2
+02:45,Timeout Officials,0,-80,9,,0,,0,29,37,2
+02:45,[DAL] Hill Substitution replaced by Gray,0,-80,8,,203401,1628277,1611661321,29,37,2
+02:37,[ATL] Coffey 3pt Shot: Missed,-121,204,2,,1628269,,1611661330,29,37,2
+02:33,[DAL] McCarty-Williams Rebound (Off:0 Def:1),-121,204,4,,1628907,,1611661321,29,37,2
+02:19,[DAL] McCarty-Williams Driving Layup Shot: Missed,4,-3,2,,1628907,,1611661321,29,37,2
+02:15,[ATL] Montgomery Rebound (Off:0 Def:2),4,-3,4,,201904,,1611661330,29,37,2
+02:14,[ATL] Sykes Running Layup Shot: Missed,4,13,2,204330,1628279,,1611661330,29,37,2
+02:14,[ATL] Team Rebound,4,13,4,,0,,1611661330,29,37,2
+02:07,[ATL 32-37] Montgomery 3pt Shot: Made (10 PTS) Assist: Williams (1 AST),-88,219,1,,201904,204322,1611661330,32,37,2
+01:51,Jump Ball Williams vs McCarty-Williams (Sykes gains possession),0,-80,10,1628907,204322,1628279,1611661330,32,37,2
+01:51,[DAL] McCarty-Williams Turnover : Lost Ball (2 TO) Steal:Williams (1 ST),0,-80,5,204322,1628907,,1611661321,32,37,2
+01:44,[ATL] Coffey Driving Layup Shot: Missed,2,5,2,204330,1628269,,1611661330,32,37,2
+01:44,[ATL] Team Rebound,2,5,4,,0,,1611661330,32,37,2
+01:37,[DAL] McCarty-Williams Foul: Shooting (2 PF) (3 FTA),26,235,6,201904,1628907,,1611661321,32,37,2
+01:37,[ATL] Montgomery Free Throw 1 of 3 Missed,0,-80,3,,201904,,1611661330,32,37,2
+01:37,[ATL] Team Rebound,0,-80,4,,0,,1611661330,32,37,2
+01:37,[ATL 33-37] Montgomery Free Throw 2 of 3 (11 PTS),0,-80,3,,201904,,1611661330,33,37,2
+01:37,[ATL] Sykes Substitution replaced by Bentley,0,-80,8,,1628279,203410,1611661330,33,37,2
+01:37,[DAL] Davis Substitution replaced by Thornton,0,-80,8,,1628273,203866,1611661321,33,37,2
+01:37,[ATL 34-37] Montgomery Free Throw 3 of 3 (12 PTS),0,-80,3,,201904,,1611661330,34,37,2
+01:17,[DAL] Harrison Driving Layup Shot: Missed,14,12,2,202638,204330,,1611661321,34,37,2
+01:17,[ATL] Team Rebound,14,12,4,,0,,1611661330,34,37,2
+01:17,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,34,37,2
+01:06,[DAL] Johnson Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,203017,,1611661321,34,37,2
+01:06,[ATL] Montgomery Free Throw Technical Missed,0,-80,3,,201904,,1611661330,34,37,2
+01:06,[ATL] Team Rebound,0,-80,4,,0,,1611661330,34,37,2
+00:59.6,[ATL] Bentley Driving Layup Shot: Missed,13,8,2,,203410,,1611661330,34,37,2
+00:57.3,[DAL] Johnson Rebound (Off:1 Def:2),13,8,4,,203017,,1611661321,34,37,2
+00:54.4,[DAL 39-34] Gray Running Layup Shot: Made (10 PTS) Assist: McCarty-Williams (4 AST),3,-1,1,,1628277,1628907,1611661321,34,39,2
+00:46.9,[ATL] Coffey 3pt Shot: Missed,-211,90,2,,1628269,,1611661330,34,39,2
+00:42.2,[DAL] Harrison Rebound (Off:1 Def:1),-211,90,4,,204330,,1611661321,34,39,2
+00:41.1,[DAL] Harrison Turnover : Bad Pass (2 TO) Steal:Bentley (1 ST),-98,270,5,203410,204330,,1611661321,34,39,2
+00:36.4,[ATL] Breland Jump Shot: Missed,-181,6,2,,202638,,1611661330,34,39,2
+00:33.4,[DAL] Johnson Rebound (Off:1 Def:3),-181,6,4,,203017,,1611661321,34,39,2
+00:09.2,[DAL] Harrison Driving Layup Shot: Missed,3,2,2,,204330,,1611661321,34,39,2
+00:06.9,[ATL] Breland Rebound (Off:0 Def:3),3,2,4,,202638,,1611661330,34,39,2
+00:00.9,[ATL] Montgomery Driving Layup Shot: Missed,40,49,2,204330,201904,,1611661330,34,39,2
+00:00.9,[ATL] Bentley Rebound (Off:1 Def:1),40,49,4,,203410,,1611661330,34,39,2
+00:00.0,End Period,0,-80,13,,0,,0,34,39,2
+10:00,Start Period,0,-80,12,,0,,0,34,39,3
+10:00,[ATL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661330,34,39,3
+10:00,[DAL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661321,34,39,3
+09:47,[DAL] Johnson Turnaround Jump Shot: Missed,101,59,2,204322,203017,,1611661321,34,39,3
+09:44,[DAL] Johnson Rebound (Off:2 Def:3),101,59,4,,203017,,1611661321,34,39,3
+09:42,[DAL] Johnson Jump Shot: Missed,28,68,2,204322,203017,,1611661321,34,39,3
+09:40,[DAL] Johnson Rebound (Off:3 Def:3),28,68,4,,203017,,1611661321,34,39,3
+09:38,[DAL] Johnson Jump Shot: Missed,23,67,2,204322,203017,,1611661321,34,39,3
+09:36,[DAL] Johnson Rebound (Off:4 Def:3),23,67,4,,203017,,1611661321,34,39,3
+09:35,[DAL] Johnson Putback Layup Shot: Missed,4,46,2,202638,203017,,1611661321,34,39,3
+09:35,[DAL] Team Rebound,4,46,4,,0,,1611661321,34,39,3
+09:33,[DAL] Team Turnover : Shot Clock Turnover,-39,4,5,,0,,1611661321,34,39,3
+09:25,[ATL] Hayes Driving Layup Shot: Missed,-4,17,2,204330,203026,,1611661330,34,39,3
+09:21,[DAL] Harrison Rebound (Off:1 Def:2),-4,17,4,,204330,,1611661321,34,39,3
+09:14,[DAL] Davis Driving Reverse Layup Shot: Missed,20,10,2,,1628273,,1611661321,34,39,3
+09:12,[ATL] Williams Rebound (Off:1 Def:4),20,10,4,,204322,,1611661330,34,39,3
+08:57,[ATL] Williams Driving Layup Shot: Missed,21,23,2,204330,204322,,1611661330,34,39,3
+08:54,[DAL] Davis Rebound (Off:0 Def:2),21,23,4,,1628273,,1611661321,34,39,3
+08:53,[ATL] Hayes Foul: Shooting (3 PF) (2 FTA),7,-3,6,203017,203026,,1611661330,34,39,3
+08:53,[DAL] Johnson Free Throw 1 of 2 Missed,0,-80,3,,203017,,1611661321,34,39,3
+08:53,[DAL] Team Rebound,0,-80,4,,0,,1611661321,34,39,3
+08:53,[DAL 40-34] Johnson Free Throw 2 of 2 (6 PTS),0,-80,3,,203017,,1611661321,34,40,3
+08:35,[ATL] Sykes Driving Layup Shot: Missed,-24,97,2,,1628279,,1611661330,34,40,3
+08:31,[DAL] Harrison Rebound (Off:1 Def:3),-24,97,4,,204330,,1611661321,34,40,3
+08:22,[DAL] Ogunbowale Pullup Jump shot: Missed,113,19,2,,1629481,,1611661321,34,40,3
+08:19,[ATL] Williams Rebound (Off:1 Def:5),113,19,4,,204322,,1611661330,34,40,3
+08:16,[ATL] Montgomery 3pt Shot: Missed,-137,195,2,,201904,,1611661330,34,40,3
+08:16,[ATL] Team Rebound,-137,195,4,,0,,1611661330,34,40,3
+08:15,[DAL] Hill Foul: Loose Ball (1 PF),-3,7,6,201904,203401,,1611661321,34,40,3
+08:07,[ATL 36-40] Breland Layup Shot: Made (10 PTS) Assist: Sykes (3 AST),-2,-1,1,,202638,1628279,1611661330,36,40,3
+07:52,[DAL] Davis Jump Shot: Missed,-94,103,2,1628279,1628273,,1611661321,36,40,3
+07:52,[ATL] Sykes Rebound (Off:0 Def:2),-94,103,4,,1628279,,1611661330,36,40,3
+07:40,Jump Ball Williams vs Harrison (Hayes gains possession),0,-80,10,204330,204322,203026,1611661330,36,40,3
+07:39,[DAL] Harrison Foul: Personal (2 PF),-2,7,6,204322,204330,,1611661321,36,40,3
+07:39,[DAL] Ogunbowale Substitution replaced by McCarty-Williams,0,-80,8,,1629481,1628907,1611661321,36,40,3
+07:32,[ATL 38-40] Hayes Driving Layup Shot: Made (4 PTS),-1,-4,1,,203026,,1611661330,38,40,3
+07:24,[DAL] Harrison Foul: Offensive (3 PF),89,209,6,1628279,204330,,1611661321,38,40,3
+07:24,[DAL] Harrison Turnover : Offensive Foul Turnover (3 TO),89,209,5,,204330,,1611661321,38,40,3
+07:24,[DAL] Harrison Substitution replaced by Thornton,0,-80,8,,204330,203866,1611661321,38,40,3
+07:12,[DAL] Davis Foul: Personal (2 PF),-48,153,6,204322,1628273,,1611661321,38,40,3
+06:58,[ATL 40-40] Breland Layup Shot: Made (12 PTS) Assist: Hayes (1 AST),-6,66,1,,202638,203026,1611661330,40,40,3
+06:50,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,40,40,3
+06:50,[DAL] Davis Substitution replaced by Gray,0,-80,8,,1628273,1628277,1611661321,40,40,3
+06:35,[DAL 43-40] McCarty-Williams 3pt Shot: Made (5 PTS) Assist: Hill (1 AST),-52,225,1,,1628907,203401,1611661321,40,43,3
+06:13,[ATL] Breland Alley Oop Layup shot: Missed,-7,8,2,,202638,,1611661330,40,43,3
+06:13,[ATL] Breland Rebound (Off:1 Def:3),-7,8,4,,202638,,1611661330,40,43,3
+06:13,[ATL] Breland Putback Layup Shot: Missed,-18,-1,2,,202638,,1611661330,40,43,3
+06:13,[DAL] Team Rebound,-18,-1,4,,0,,1611661321,40,43,3
+05:54,[DAL 45-40] Thornton Turnaround Jump Shot: Made (7 PTS),65,102,1,,203866,,1611661321,40,45,3
+05:37,[ATL] Montgomery Turnover : Lost Ball (2 TO) Steal:Hill (1 ST),-115,139,5,203401,201904,,1611661330,40,45,3
+05:32,[DAL] Thornton Running Layup Shot: Missed,3,6,2,1628279,203866,,1611661321,40,45,3
+05:29,[DAL] Thornton Rebound (Off:1 Def:3),3,6,4,,203866,,1611661321,40,45,3
+05:26,[DAL 48-40] McCarty-Williams 3pt Shot: Made (8 PTS) Assist: Johnson (2 AST),146,191,1,,1628907,203017,1611661321,40,48,3
+05:14,[ATL] Montgomery Foul: Offensive Charge (1 PF),16,629,6,1628907,201904,,1611661330,40,48,3
+05:14,[ATL] Montgomery Turnover : Offensive Foul Turnover (3 TO),16,629,5,,201904,,1611661330,40,48,3
+05:02,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,40,48,3
+04:54,[DAL] Johnson Turnover : Out of Bounds - Bad Pass Turnover (2 TO),221,146,5,,203017,,1611661321,40,48,3
+04:49,[DAL] Johnson Foul: Personal (2 PF),174,219,6,201904,203017,,1611661321,40,48,3
+04:49,Instant Replay - Support Ruling,0,-80,18,,0,,0,40,48,3
+04:38,[ATL 42-48] Williams Hook Shot: Made (4 PTS) Assist: Sykes (4 AST),-50,53,1,,204322,1628279,1611661330,42,48,3
+04:21,[ATL] Montgomery Substitution replaced by Bentley,0,-80,8,,201904,203410,1611661330,42,48,3
+04:17,[DAL] Thornton Foul: Offensive Charge (2 PF),19,62,6,204322,203866,,1611661321,42,48,3
+04:17,[DAL] Thornton Turnover : Offensive Foul Turnover (1 TO),19,62,5,,203866,,1611661321,42,48,3
+04:04,[ATL] Breland Jump Shot: Missed,196,-15,2,,202638,,1611661330,42,48,3
+04:02,[DAL] McCarty-Williams Rebound (Off:0 Def:2),-17,248,4,,1628907,,1611661321,42,48,3
+03:53,[ATL] Williams Foul: Personal (1 PF),2,3,6,203017,204322,,1611661330,42,48,3
+03:45,[DAL 50-42] Hill Driving Layup Shot: Made (5 PTS) Assist: McCarty-Williams (5 AST),3,8,1,,203401,1628907,1611661321,42,50,3
+03:27,[ATL] Bentley Pullup Jump shot: Missed,-41,158,2,,203410,,1611661330,42,50,3
+03:23,[DAL] Gray Rebound (Off:1 Def:1),-41,158,4,,1628277,,1611661321,42,50,3
+03:22,[DAL] Gray Turnover : Lost Ball (1 TO) Steal:Breland (1 ST),100,117,5,202638,1628277,,1611661321,42,50,3
+03:18,[ATL] Sykes Turnover : Bad Pass (1 TO) Steal:Johnson (1 ST),-102,97,5,203017,1628279,,1611661330,42,50,3
+03:12,[DAL] Thornton 3pt Shot: Missed,173,167,2,,203866,,1611661321,42,50,3
+03:10,[ATL] Team Rebound,173,167,4,,0,,1611661330,42,50,3
+03:10,[DAL] Hill Foul: Loose Ball (2 PF) (2 FTA),-4,828,6,204322,203401,,1611661321,42,50,3
+03:10,[ATL 43-50] Williams Free Throw 1 of 2 (5 PTS),0,-80,3,,204322,,1611661330,43,50,3
+03:10,[ATL] Breland Substitution replaced by Coffey,0,-80,8,,202638,1628269,1611661330,43,50,3
+03:10,[DAL] Hill Substitution replaced by Ogunbowale,0,-80,8,,203401,1629481,1611661321,43,50,3
+03:10,[ATL] Williams Free Throw 2 of 2 Missed,0,-80,3,,204322,,1611661330,43,50,3
+03:08,[DAL] McCarty-Williams Rebound (Off:0 Def:3),0,-80,4,,1628907,,1611661321,43,50,3
+02:50,[DAL] Johnson Foul: Offensive Charge (3 PF),6,8,6,204322,203017,,1611661321,43,50,3
+02:50,[DAL] Johnson Turnover : Offensive Foul Turnover (3 TO),6,8,5,,203017,,1611661321,43,50,3
+02:50,[ATL] Williams Substitution replaced by Billings,0,-80,8,,204322,1628881,1611661330,43,50,3
+02:50,[DAL] Johnson Substitution replaced by McGee-Stafford,0,-80,8,,203017,1627677,1611661321,43,50,3
+02:33,[ATL] Billings Jump Shot: Missed,154,118,2,,1628881,,1611661330,43,50,3
+02:30,[DAL] Ogunbowale Rebound (Off:0 Def:3),154,118,4,,1629481,,1611661321,43,50,3
+02:21,[DAL] Thornton Turnover : Traveling (2 TO),54,30,5,,203866,,1611661321,43,50,3
+02:10,[ATL] Billings Turnover : Lost Ball (2 TO) Steal:McCarty-Williams (1 ST),75,124,5,1628907,1628881,,1611661330,43,50,3
+02:01,[DAL 52-43] Ogunbowale Driving Layup Shot: Made (4 PTS) Assist: Gray (4 AST),3,10,1,,1629481,1628277,1611661321,43,52,3
+01:52,[ATL 45-52] Sykes Driving Layup Shot: Made (6 PTS),2,7,1,,1628279,,1611661330,45,52,3
+01:30,[DAL] Ogunbowale Pullup Jump shot: Missed,-92,124,2,,1629481,,1611661321,45,52,3
+01:27,[DAL] McGee-Stafford Rebound (Off:4 Def:1),-92,124,4,,1627677,,1611661321,45,52,3
+01:17,[DAL 55-45] Ogunbowale 3pt Shot: Made (7 PTS) Assist: McCarty-Williams (6 AST),-203,127,1,,1629481,1628907,1611661321,45,55,3
+00:57.4,[ATL] Bentley 3pt Shot: Missed,-192,124,2,,203410,,1611661330,45,55,3
+00:54.6,[ATL] Billings Rebound (Off:1 Def:0),-192,124,4,,1628881,,1611661330,45,55,3
+00:52.7,[ATL] Billings Turnover : Lost Ball (3 TO) Steal:McGee-Stafford (2 ST),-6,22,5,1627677,1628881,,1611661330,45,55,3
+00:48.8,[DAL] McCarty-Williams Turnover : Bad Pass (3 TO) Steal:Billings (1 ST),51,343,5,1628881,1628907,,1611661321,45,55,3
+00:42.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,55,3
+00:35.8,[ATL] Sykes Pullup Jump shot: Missed,8,193,2,,1628279,,1611661330,45,55,3
+00:33.1,[DAL] McGee-Stafford Rebound (Off:4 Def:2),8,193,4,,1627677,,1611661321,45,55,3
+00:12.3,[DAL] Gray 3pt Shot: Missed,234,24,2,,1628277,,1611661321,45,55,3
+00:08.6,[ATL] Coffey Rebound (Off:0 Def:3),234,24,4,,1628269,,1611661330,45,55,3
+00:06.1,[ATL 47-55] Sykes Running Layup Shot: Made (8 PTS) Assist: Coffey (1 AST),11,1,1,,1628279,1628269,1611661330,47,55,3
+00:00.6,[DAL] McCarty-Williams Driving Floating Jump Shot: Missed,14,117,2,,1628907,,1611661321,47,55,3
+00:00.6,[DAL] Team Rebound,14,117,4,,0,,1611661321,47,55,3
+00:00.0,End Period,0,-80,13,,0,,0,47,55,3
+10:00,Start Period,0,-80,12,,0,,0,47,55,4
+09:39,[ATL 49-55] Gülich Jump Shot: Made (2 PTS) Assist: Hayes (2 AST),71,160,1,,1628895,203026,1611661330,49,55,4
+09:11,[DAL] McCarty-Williams Driving Hook Shot: Missed,65,119,2,,1628907,,1611661321,49,55,4
+09:07,[ATL] Gülich Rebound (Off:1 Def:1),65,119,4,,1628895,,1611661330,49,55,4
+09:02,[ATL] Bentley Pullup Jump shot: Missed,-143,107,2,,203410,,1611661330,49,55,4
+08:54,[ATL] Coffey Rebound (Off:1 Def:3),-143,107,4,,1628269,,1611661330,49,55,4
+08:54,[ATL 51-55] Coffey Putback Layup Shot: Made (8 PTS),0,-5,1,,1628269,,1611661330,51,55,4
+08:39,[DAL] Gray Driving Layup Shot: Missed,17,37,2,,1628277,,1611661321,51,55,4
+08:35,[DAL] Gray Rebound (Off:2 Def:1),17,37,4,,1628277,,1611661321,51,55,4
+08:33,[DAL] Ogunbowale 3pt Shot: Missed,-143,193,2,,1629481,,1611661321,51,55,4
+08:29,[DAL] Thornton Rebound (Off:2 Def:3),-143,193,4,,203866,,1611661321,51,55,4
+08:29,[DAL 57-51] Thornton Putback Layup Shot: Made (9 PTS),0,-5,1,,203866,,1611661321,51,57,4
+08:20,[ATL] Hayes Driving Layup Shot: Missed,-31,16,2,1628277,203026,,1611661330,51,57,4
+08:20,[ATL] Team Rebound,-31,16,4,,0,,1611661330,51,57,4
+08:20,[DAL] McCarty-Williams Substitution replaced by Hill,0,-80,8,,1628907,203401,1611661321,51,57,4
+08:20,[DAL] Gray Substitution replaced by Johnson,0,-80,8,,1628277,203017,1611661321,51,57,4
+08:20,[DAL] McGee-Stafford Substitution replaced by Harrison,0,-80,8,,1627677,204330,1611661321,51,57,4
+08:12,[ATL] Bentley Pullup Jump shot: Missed,-121,81,2,,203410,,1611661330,51,57,4
+08:04,[DAL] Johnson Rebound (Off:4 Def:4),-121,81,4,,203017,,1611661321,51,57,4
+07:49,[ATL] Billings Foul: Defense 3 Second (3 PF) (1 FTA),0,-80,6,,1628881,,1611661330,51,57,4
+07:49,[DAL 58-51] Hill Free Throw Technical (6 PTS),0,-80,3,,203401,,1611661321,51,58,4
+07:38,[DAL 60-51] Harrison Layup Shot: Made (5 PTS) Assist: Ogunbowale (1 AST),4,6,1,,204330,1629481,1611661321,51,60,4
+07:38,[ATL] Bentley Foul: Shooting (1 PF) (1 FTA),4,6,6,204330,203410,,1611661330,51,60,4
+07:38,[DAL] Harrison Free Throw 1 of 1 Missed,0,-80,3,,204330,,1611661321,51,60,4
+07:35,[ATL] Gülich Rebound (Off:1 Def:2),0,-80,4,,1628895,,1611661330,51,60,4
+07:26,[DAL] Johnson Foul: Shooting (4 PF) (2 FTA),81,45,6,1628895,203017,,1611661321,51,60,4
+07:26,[ATL 52-60] Gülich Free Throw 1 of 2 (3 PTS),0,-80,3,,1628895,,1611661330,52,60,4
+07:26,[ATL] Hayes Substitution replaced by Montgomery,0,-80,8,,203026,201904,1611661330,52,60,4
+07:26,[ATL 53-60] Gülich Free Throw 2 of 2 (4 PTS),0,-80,3,,1628895,,1611661330,53,60,4
+07:03,[DAL] Ogunbowale Pullup Jump shot: Missed,36,143,2,,1629481,,1611661321,53,60,4
+07:00,[DAL] Thornton Rebound (Off:3 Def:3),36,143,4,,203866,,1611661321,53,60,4
+06:51,[DAL] Ogunbowale Driving Layup Shot: Missed,4,9,2,,1629481,,1611661321,53,60,4
+06:48,[ATL] Bentley Rebound (Off:1 Def:2),4,9,4,,203410,,1611661330,53,60,4
+06:44,[ATL 56-60] Bentley 3pt Shot: Made (3 PTS),121,214,1,,203410,,1611661330,56,60,4
+06:22,[DAL] Johnson Foul: Offensive Charge (5 PF),32,49,6,1628895,203017,,1611661321,56,60,4
+06:22,[DAL] Johnson Turnover : Offensive Foul Turnover (4 TO),32,49,5,,203017,,1611661321,56,60,4
+06:22,[DAL] Ogunbowale Substitution replaced by McCarty-Williams,0,-80,8,,1629481,1628907,1611661321,56,60,4
+06:22,[DAL] Johnson Substitution replaced by Gray,0,-80,8,,203017,1628277,1611661321,56,60,4
+06:00,[ATL 58-60] Gülich Jump Shot: Made (6 PTS) Assist: Billings (2 AST),44,97,1,,1628895,1628881,1611661330,58,60,4
+05:32,[DAL] Thornton 3pt Shot: Missed,76,231,2,,203866,,1611661321,58,60,4
+05:29,[DAL] Harrison Rebound (Off:2 Def:3),76,231,4,,204330,,1611661321,58,60,4
+05:20,[DAL] Thornton 3pt Shot: Missed,85,224,2,,203866,,1611661321,58,60,4
+05:20,[ATL] Montgomery Rebound (Off:0 Def:3),85,224,4,,201904,,1611661330,58,60,4
+05:12,[ATL 60-60] Billings Driving Layup Shot: Made (2 PTS) Assist: Montgomery (3 AST),4,-4,1,,1628881,201904,1611661330,60,60,4
+05:12,[DAL] Harrison Foul: Shooting (4 PF) (1 FTA),4,-4,6,1628881,204330,,1611661321,60,60,4
+05:12,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,60,60,4
+05:12,[DAL] Hill Substitution replaced by Ogunbowale,0,-80,8,,203401,1629481,1611661321,60,60,4
+05:12,[DAL] Thornton Substitution replaced by Johnson,0,-80,8,,203866,203017,1611661321,60,60,4
+05:12,[ATL 61-60] Billings Free Throw 1 of 1 (3 PTS),0,-80,3,,1628881,,1611661330,61,60,4
+05:00,[DAL 62-61] Ogunbowale Pullup Jump shot: Made (9 PTS),40,118,1,,1629481,,1611661321,61,62,4
+04:43,[ATL] Bentley Driving Layup Shot: Missed,-3,7,2,,203410,,1611661330,61,62,4
+04:40,[DAL] Harrison Rebound (Off:2 Def:4),-3,7,4,,204330,,1611661321,61,62,4
+04:40,[DAL] Johnson Foul: Offensive Charge (6 PF),23,730,6,1628269,203017,,1611661321,61,62,4
+04:40,[DAL] Johnson Turnover : Offensive Foul Turnover (5 TO),23,730,5,,203017,,1611661321,61,62,4
+04:40,[DAL] Johnson Substitution replaced by McGee-Stafford,0,-80,8,,203017,1627677,1611661321,61,62,4
+04:27,[ATL 63-62] Bentley Pullup Jump shot: Made (5 PTS),148,21,1,,203410,,1611661330,63,62,4
+04:06,[DAL] Harrison Driving Layup Shot: Missed,30,65,2,,204330,,1611661321,63,62,4
+04:02,[ATL] Gülich Rebound (Off:1 Def:3),30,65,4,,1628895,,1611661330,63,62,4
+03:49,[ATL] Gülich Turnover : Bad Pass (2 TO) Steal:Ogunbowale (2 ST),-70,249,5,1629481,1628895,,1611661330,63,62,4
+03:46,[DAL 64-63] Ogunbowale Running Layup Shot: Made (11 PTS),4,5,1,,1629481,,1611661321,63,64,4
+03:31,[ATL] Bentley Pullup Jump shot: Missed,-84,171,2,,203410,,1611661330,63,64,4
+03:30,[DAL] Harrison Rebound (Off:2 Def:5),-84,171,4,,204330,,1611661321,63,64,4
+03:30,[ATL] Coffey Foul: Personal (1 PF),11,843,6,204330,1628269,,1611661330,63,64,4
+03:30,[ATL] Gülich Substitution replaced by Breland,0,-80,8,,1628895,202638,1611661330,63,64,4
+03:30,[ATL] Billings Substitution replaced by Williams,0,-80,8,,1628881,204322,1611661330,63,64,4
+03:17,[DAL] Ogunbowale Driving Layup Shot: Missed,29,17,2,202638,1629481,,1611661321,63,64,4
+03:17,[DAL] Team Rebound,29,17,4,,0,,1611661321,63,64,4
+03:17,[ATL] Coffey Substitution replaced by Hayes,0,-80,8,,1628269,203026,1611661330,63,64,4
+03:07,[ATL] Williams Foul: Shooting (2 PF) (2 FTA),-25,10,6,1627677,204322,,1611661330,63,64,4
+03:07,[DAL] McGee-Stafford Free Throw 1 of 2 Missed,0,-80,3,,1627677,,1611661321,63,64,4
+03:07,[DAL] Team Rebound,0,-80,4,,0,,1611661321,63,64,4
+03:07,[DAL 65-63] McGee-Stafford Free Throw 2 of 2 (3 PTS),0,-80,3,,1627677,,1611661321,63,65,4
+02:49,[ATL 65-65] Williams Layup Shot: Made (7 PTS) Assist: Breland (2 AST),5,13,1,,204322,202638,1611661330,65,65,4
+02:37,[DAL 67-65] McGee-Stafford Cutting Layup Shot: Made (5 PTS) Assist: McCarty-Williams (7 AST),4,10,1,,1627677,1628907,1611661321,65,67,4
+02:31,[ATL] Williams Turnover : Bad Pass (2 TO) Steal:McCarty-Williams (2 ST),-25,827,5,1628907,204322,,1611661330,65,67,4
+02:29,[DAL 69-65] Gray Cutting Layup Shot: Made (12 PTS) Assist: McCarty-Williams (8 AST),23,-3,1,,1628277,1628907,1611661321,65,69,4
+02:29,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,65,69,4
+02:29,[DAL] Harrison Substitution replaced by Thornton,0,-80,8,,204330,203866,1611661321,65,69,4
+02:18,[ATL] Breland Turnover : Bad Pass (1 TO) Steal:Gray (3 ST),88,176,5,1628277,202638,,1611661330,65,69,4
+02:16,[ATL] Hayes Foul: Shooting (4 PF) (2 FTA),2,0,6,1628277,203026,,1611661330,65,69,4
+02:16,[DAL 70-65] Gray Free Throw 1 of 2 (13 PTS),0,-80,3,,1628277,,1611661321,65,70,4
+02:16,[DAL] Ogunbowale Substitution replaced by Hill,0,-80,8,,1629481,203401,1611661321,65,70,4
+02:16,[DAL 71-65] Gray Free Throw 2 of 2 (14 PTS),0,-80,3,,1628277,,1611661321,65,71,4
+01:57,[ATL 68-71] Montgomery 3pt Shot: Made (15 PTS) Assist: Bentley (1 AST),-73,247,1,,201904,203410,1611661330,68,71,4
+01:37,[DAL] Hill 3pt Shot: Missed,15,240,2,,203401,,1611661321,68,71,4
+01:37,[ATL] Team Rebound,15,240,4,,0,,1611661330,68,71,4
+01:37,[ATL] Bentley Substitution replaced by Sykes,0,-80,8,,203410,1628279,1611661330,68,71,4
+01:37,[DAL] Hill Substitution replaced by Ogunbowale,0,-80,8,,203401,1629481,1611661321,68,71,4
+01:24,[DAL] Ogunbowale Foul: Shooting (4 PF) (3 FTA),216,86,6,1628279,1629481,,1611661321,68,71,4
+01:24,[ATL 69-71] Sykes Free Throw 1 of 3 (9 PTS),0,-80,3,,1628279,,1611661330,69,71,4
+01:24,[ATL 70-71] Sykes Free Throw 2 of 3 (10 PTS),0,-80,3,,1628279,,1611661330,70,71,4
+01:24,[DAL] McGee-Stafford Substitution replaced by Harrison,0,-80,8,,1627677,204330,1611661321,70,71,4
+01:24,[ATL] Sykes Free Throw 3 of 3 Missed,0,-80,3,,1628279,,1611661330,70,71,4
+01:22,[ATL] Sykes Rebound (Off:1 Def:2),0,-80,4,,1628279,,1611661330,70,71,4
+01:17,[ATL 72-71] Breland Turnaround Jump Shot: Made (14 PTS),2,119,1,,202638,,1611661330,72,71,4
+01:17,[DAL] Thornton Foul: Shooting (3 PF) (1 FTA),2,119,6,202638,203866,,1611661321,72,71,4
+01:17,[ATL 73-71] Breland Free Throw 1 of 1 (15 PTS),0,-80,3,,202638,,1611661330,73,71,4
+01:17,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,73,71,4
+01:02,[DAL] Thornton Driving Layup Shot: Missed,4,75,2,,203866,,1611661321,73,71,4
+00:58.3,[ATL] Breland Rebound (Off:1 Def:4),4,75,4,,202638,,1611661330,73,71,4
+00:58.3,[DAL] Thornton Foul: Personal (4 PF) (2 FTA),22,733,6,202638,203866,,1611661321,73,71,4
+00:58.3,[ATL] Breland Free Throw 1 of 2 Missed,0,-80,3,,202638,,1611661330,73,71,4
+00:58.3,[ATL] Team Rebound,0,-80,4,,0,,1611661330,73,71,4
+00:58.3,[DAL] Harrison Substitution replaced by Johnson,0,-80,8,,204330,203017,1611661321,73,71,4
+00:58.3,[ATL 74-71] Breland Free Throw 2 of 2 (16 PTS),0,-80,3,,202638,,1611661330,74,71,4
+00:35.1,[DAL] Ogunbowale 3pt Shot: Missed,-108,215,2,,1629481,,1611661321,74,71,4
+00:28.7,[DAL] Johnson Rebound (Off:5 Def:4),-108,215,4,,203017,,1611661321,74,71,4
+00:28.1,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,74,71,4
+00:28.1,[ATL] Sykes Substitution replaced by Bentley,0,-80,8,,1628279,203410,1611661330,74,71,4
+00:17.5,[DAL] Ogunbowale 3pt Shot: Missed,102,229,2,,1629481,,1611661321,74,71,4
+00:17.3,[DAL] Team Rebound,102,229,4,,0,,1611661321,74,71,4
+00:17.3,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,74,71,4
+00:17.3,[DAL] Team Turnover : Shot Clock Turnover,51,-18,5,,0,,1611661321,74,71,4
+00:17.3,[ATL] Williams Substitution replaced by Coffey,0,-80,8,,204322,1628269,1611661330,74,71,4
+00:17.3,[DAL] McCarty-Williams Substitution replaced by Harrison,0,-80,8,,1628907,204330,1611661321,74,71,4
+00:12.7,[DAL] Gray Foul: Personal (2 PF) (2 FTA),25,241,6,203026,1628277,,1611661321,74,71,4
+00:12.7,[ATL] Hayes Free Throw 1 of 2 Missed,0,-80,3,,203026,,1611661330,74,71,4
+00:12.7,[ATL] Team Rebound,0,-80,4,,0,,1611661330,74,71,4
+00:12.7,[ATL] Montgomery Substitution replaced by Williams,0,-80,8,,201904,204322,1611661330,74,71,4
+00:12.7,[DAL] Johnson Substitution replaced by McCarty-Williams,0,-80,8,,203017,1628907,1611661321,74,71,4
+00:12.7,[ATL 75-71] Hayes Free Throw 2 of 2 (5 PTS),0,-80,3,,203026,,1611661330,75,71,4
+00:06.2,[ATL] Hayes Foul: Shooting (5 PF) (2 FTA),40,11,6,1629481,203026,,1611661330,75,71,4
+00:06.2,[DAL 72-75] Ogunbowale Free Throw 1 of 2 (12 PTS),0,-80,3,,1629481,,1611661321,75,72,4
+00:06.2,[ATL] Coffey Substitution replaced by Montgomery,0,-80,8,,1628269,201904,1611661330,75,72,4
+00:06.2,[DAL] Harrison Substitution replaced by Hill,0,-80,8,,204330,203401,1611661321,75,72,4
+00:06.2,[DAL] Ogunbowale Free Throw 2 of 2 Missed,0,-80,3,,1629481,,1611661321,75,72,4
+00:06.2,[ATL] Team Rebound,0,-80,4,,0,,1611661330,75,72,4
+00:06.2,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,75,72,4
+00:06.2,[ATL] Williams Substitution replaced by Coffey,0,-80,8,,204322,1628269,1611661330,75,72,4
+00:06.2,[DAL] Hill Substitution replaced by Johnson,0,-80,8,,203401,203017,1611661321,75,72,4
+00:05.3,[DAL] Gray Foul: Personal (3 PF) (2 FTA),22,147,6,203026,1628277,,1611661321,75,72,4
+00:05.3,[ATL] Hayes Free Throw 1 of 2 Missed,0,-80,3,,203026,,1611661330,75,72,4
+00:05.3,[ATL] Team Rebound,0,-80,4,,0,,1611661330,75,72,4
+00:05.3,[ATL] Hayes Free Throw 2 of 2 Missed,0,-80,3,,203026,,1611661330,75,72,4
+00:03.7,[ATL] Breland Rebound (Off:2 Def:4),0,-80,4,,202638,,1611661330,75,72,4
+00:03.7,[DAL] Thornton Foul: Personal Take (5 PF) (2 FTA),-46,96,6,202638,203866,,1611661321,75,72,4
+00:03.7,[ATL 76-72] Breland Free Throw 1 of 2 (17 PTS),0,-80,3,,202638,,1611661330,76,72,4
+00:03.7,[DAL] Thornton Substitution replaced by Harrison,0,-80,8,,203866,204330,1611661321,76,72,4
+00:03.7,[ATL] Breland Free Throw 2 of 2 Missed,0,-80,3,,202638,,1611661330,76,72,4
+00:01.4,[DAL] Harrison Rebound (Off:2 Def:6),0,-80,4,,204330,,1611661321,76,72,4
+00:00.0,End Period,0,-80,13,,0,,0,76,72,4
+00:00.0,Game End,0,-80,0,,0,,0,76,72,4

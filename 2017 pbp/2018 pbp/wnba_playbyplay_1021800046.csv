@@ -1,0 +1,382 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Vaughn vs Achonwa (Zellous gains possession),0,-80,10,203831,201913,201919,1611661313,0,0,1
+09:38,[NYL] Charles Hook Shot: Missed,-6,27,2,,202250,,1611661313,0,0,1
+09:36,[NYL] Vaughn Rebound (Off:1 Def:0),-6,27,4,,201913,,1611661313,0,0,1
+09:35,[NYL 2-0] Vaughn Putback Layup Shot: Made (2 PTS),-9,8,1,,201913,,1611661313,2,0,1
+09:22,[IND] Achonwa Foul: Offensive Charge (1 PF),-83,90,6,203829,203831,,1611661325,2,0,1
+09:22,[IND] Achonwa Turnover : Offensive Foul Turnover (1 TO),-83,90,5,,203831,,1611661325,2,0,1
+09:07,[NYL] Hartley 3pt Shot: Missed,180,172,2,,203829,,1611661313,2,0,1
+09:05,[IND] Achonwa Rebound (Off:0 Def:1),180,172,4,,203831,,1611661325,2,0,1
+08:54,[IND] Mitchell Layup Shot: Missed,17,19,2,201919,1627676,,1611661325,2,0,1
+08:54,[IND] Team Rebound,17,19,4,,0,,1611661325,2,0,1
+08:54,[NYL] Zellous Foul: Inbound (1 PF) (1 FTA),70,10,6,204365,201919,,1611661313,2,0,1
+08:54,[IND 1-2] Mitchell Free Throw 1 of 1 (1 PTS),0,-80,3,,1627676,,1611661325,2,1,1
+08:49,[IND 3-2] Mitchell Jump Shot: Made (3 PTS) Assist: McCall (1 AST),90,124,1,,1627676,1628286,1611661325,2,3,1
+08:36,[NYL] Coleman Foul: Offensive Charge (1 PF),-48,134,6,1627676,201889,,1611661313,2,3,1
+08:36,[NYL] Coleman Turnover : Offensive Foul Turnover (1 TO),-48,134,5,,201889,,1611661313,2,3,1
+08:20,[IND] Wheeler Turnover : Traveling (1 TO),-2,162,5,,204365,,1611661325,2,3,1
+08:03,[NYL] Charles Jump Shot: Missed,-14,209,2,,202250,,1611661313,2,3,1
+08:03,[IND] Mitchell Rebound (Off:0 Def:1),-14,209,4,,1627676,,1611661325,2,3,1
+07:54,[IND 5-2] Achonwa Jump Shot: Made (2 PTS) Assist: Mitchell (1 AST),-116,99,1,,203831,1627676,1611661325,2,5,1
+07:41,[NYL 5-5] Zellous 3pt Shot: Made (3 PTS) Assist: Vaughn (1 AST),170,166,1,,201919,201913,1611661313,5,5,1
+07:37,Stoppage: Blood Rule,0,-80,20,,0,,0,5,5,1
+07:33,[NYL] Vaughn Foul: Shooting (1 PF) (2 FTA),56,150,6,204365,201913,,1611661313,5,5,1
+07:33,[IND 6-5] Wheeler Free Throw 1 of 2 (1 PTS),0,-80,3,,204365,,1611661325,5,6,1
+07:33,[IND 7-5] Wheeler Free Throw 2 of 2 (2 PTS),0,-80,3,,204365,,1611661325,5,7,1
+07:19,[NYL] Vaughn Turnover : Bad Pass (1 TO) Steal:Achonwa (1 ST),0,198,5,203831,201913,,1611661313,5,7,1
+07:15,[IND] Mitchell Layup Shot: Missed,1,8,2,201913,1627676,,1611661325,5,7,1
+07:15,[IND] Team Rebound,1,8,4,,0,,1611661325,5,7,1
+07:03,[IND] Achonwa Layup Shot: Missed,11,16,2,202250,203831,,1611661325,5,7,1
+07:00,[NYL] Charles Rebound (Off:0 Def:1),11,16,4,,202250,,1611661313,5,7,1
+06:51,[NYL] Coleman Turnaround Hook Shot: Missed,-22,47,2,,201889,,1611661313,5,7,1
+06:49,[IND] Achonwa Rebound (Off:0 Def:2),-22,47,4,,203831,,1611661325,5,7,1
+06:26,[IND] Achonwa Jump Shot: Missed,-91,89,2,,203831,,1611661325,5,7,1
+06:25,[IND] Team Rebound,-91,89,4,,0,,1611661325,5,7,1
+06:25,[IND] Team Turnover : Shot Clock Turnover,-2,15,5,,0,,1611661325,5,7,1
+06:01,[NYL 7-7] Zellous Jump Shot: Made (5 PTS) Assist: Hartley (1 AST),-165,27,1,,201919,203829,1611661313,7,7,1
+05:31,[IND] McCall Turnaround Jump Shot: Missed,47,87,2,,1628286,,1611661325,7,7,1
+05:30,[NYL] Coleman Rebound (Off:0 Def:1),47,87,4,,201889,,1611661313,7,7,1
+05:18,[NYL] Charles Jump Shot: Missed,-62,64,2,,202250,,1611661313,7,7,1
+05:15,[IND] Mitchell Rebound (Off:0 Def:2),-62,64,4,,1627676,,1611661325,7,7,1
+05:09,[IND] Achonwa Jump Shot: Missed,-96,176,2,,203831,,1611661325,7,7,1
+05:05,[NYL] Zellous Rebound (Off:0 Def:1),-96,176,4,,201919,,1611661313,7,7,1
+05:02,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),17,10,6,201919,1627676,,1611661325,7,7,1
+05:02,[NYL] Vaughn Substitution replaced by Zahui B,0,-80,8,,201913,204320,1611661313,7,7,1
+05:02,[NYL 8-7] Zellous Free Throw 1 of 2 (6 PTS),0,-80,3,,201919,,1611661313,8,7,1
+05:02,[NYL 9-7] Zellous Free Throw 2 of 2 (7 PTS),0,-80,3,,201919,,1611661313,9,7,1
+04:48,[IND] Mitchell Jump Shot: Missed,-15,214,2,,1627676,,1611661325,9,7,1
+04:45,[IND] Achonwa Rebound (Off:1 Def:2),-15,214,4,,203831,,1611661325,9,7,1
+04:36,[IND] McCall Jump Shot: Missed,-27,186,2,,1628286,,1611661325,9,7,1
+04:32,[NYL] Coleman Rebound (Off:0 Def:2),-27,186,4,,201889,,1611661313,9,7,1
+04:24,[NYL] Zellous Layup Shot: Missed,-2,21,2,,201919,,1611661313,9,7,1
+04:24,[NYL] Team Rebound,-2,21,4,,0,,1611661313,9,7,1
+04:24,[NYL] Zellous Turnover : Traveling (1 TO),-2,19,5,,201919,,1611661313,9,7,1
+04:24,Timeout Officials,0,-80,9,,0,,0,9,7,1
+04:24,[NYL] Zellous Substitution replaced by Nurse,0,-80,8,,201919,1628915,1611661313,9,7,1
+04:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,7,1
+04:15,[IND] Mitchell Turnover : Traveling (1 TO),-19,16,5,,1627676,,1611661325,9,7,1
+04:05,[IND] Mitchell Foul: Personal (1 PF),35,15,6,201889,1628909,,1611661325,9,7,1
+03:57,[NYL] Coleman Turnover : Out of Bounds Lost Ball Turnover (2 TO),-220,255,5,,201889,,1611661313,9,7,1
+03:43,[IND] McCall Hook Shot: Missed,1,48,2,,1628286,,1611661325,9,7,1
+03:41,[NYL] Charles Rebound (Off:0 Def:2),1,48,4,,202250,,1611661313,9,7,1
+03:34,[NYL] Zahui B 3pt Shot: Missed,43,252,2,,204320,,1611661313,9,7,1
+03:30,[IND] Mitchell Rebound (Off:0 Def:1),43,252,4,,1628909,,1611661325,9,7,1
+03:21,[IND 9-9] Achonwa Jump Shot: Made (4 PTS) Assist: Mitchell (2 AST),-160,27,1,,203831,1627676,1611661325,9,9,1
+03:10,[IND] McCall Foul: Personal (1 PF),-25,18,6,202250,1628286,,1611661325,9,9,1
+03:10,[NYL] Coleman Substitution replaced by Rodgers,0,-80,8,,201889,203411,1611661313,9,9,1
+03:10,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,9,9,1
+03:10,[IND] Wheeler Substitution replaced by Vivians,0,-80,8,,204365,1628927,1611661325,9,9,1
+03:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,9,1
+02:59,[NYL] Nurse 3pt Shot: Missed,227,10,2,,1628915,,1611661313,9,9,1
+02:56,[IND] Achonwa Rebound (Off:1 Def:3),227,10,4,,203831,,1611661325,9,9,1
+02:35,[IND] Mitchell Layup Shot: Missed,-15,15,2,,1627676,,1611661325,9,9,1
+02:33,[NYL] Zahui B Rebound (Off:0 Def:1),-15,15,4,,204320,,1611661313,9,9,1
+02:30,[IND] Vivians Foul: Shooting (1 PF) (2 FTA),16,8,6,1628915,1628927,,1611661325,9,9,1
+02:30,[NYL] Nurse Free Throw 1 of 2 Missed,0,-80,3,,1628915,,1611661313,9,9,1
+02:30,[NYL] Team Rebound,0,-80,4,,0,,1611661313,9,9,1
+02:30,[NYL 10-9] Nurse Free Throw 2 of 2 (1 PTS),0,-80,3,,1628915,,1611661313,10,9,1
+02:20,[IND 11-10] Mitchell Driving Layup Shot: Made (2 PTS) Assist: Mitchell (3 AST),3,4,1,,1628909,1627676,1611661325,10,11,1
+02:08,[NYL] Charles 3pt Shot: Missed,-19,246,2,,202250,,1611661313,10,11,1
+02:08,[NYL] Team Rebound,-19,246,4,,0,,1611661313,10,11,1
+02:08,[IND] Achonwa Substitution replaced by Mavunga,0,-80,8,,203831,1628906,1611661325,10,11,1
+02:02,[NYL] Rodgers 3pt Shot: Missed,-109,232,2,,203411,,1611661313,10,11,1
+02:00,[NYL] Rodgers Rebound (Off:1 Def:0),-109,232,4,,203411,,1611661313,10,11,1
+01:58,[NYL 12-11] Charles Jump Bank Shot: Made (2 PTS) Assist: Rodgers (1 AST),139,0,1,,202250,203411,1611661313,12,11,1
+01:56,[NYL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661313,12,11,1
+01:43,[IND 13-12] Mitchell Jump Shot: Made (4 PTS),-127,128,1,,1628909,,1611661325,12,13,1
+01:24,[IND] Vivians Foul: Personal (2 PF) (2 FTA),-7,29,6,202250,1628927,,1611661325,12,13,1
+01:24,[IND] Mitchell Substitution replaced by Gwathmey,0,-80,8,,1627676,1627681,1611661325,12,13,1
+01:24,[NYL 13-13] Charles Free Throw 1 of 2 (3 PTS),0,-80,3,,202250,,1611661313,13,13,1
+01:24,[NYL 14-13] Charles Free Throw 2 of 2 (4 PTS),0,-80,3,,202250,,1611661313,14,13,1
+01:04,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Charles (1 ST),171,19,5,202250,1628909,,1611661325,14,13,1
+00:57.5,[NYL] Boyd Layup Shot: Missed,-6,10,2,,204327,,1611661313,14,13,1
+00:54.6,[IND] Team Rebound,-6,10,4,,0,,1611661325,14,13,1
+00:39.1,[IND 16-14] Mitchell 3pt Shot: Made (7 PTS) Assist: Gwathmey (1 AST),111,224,1,,1628909,1627681,1611661325,14,16,1
+00:22.0,[NYL] Charles Hook Shot: Missed,-7,13,2,1628906,202250,,1611661313,14,16,1
+00:22.0,[IND] Gwathmey Rebound (Off:0 Def:1),-7,13,4,,1627681,,1611661325,14,16,1
+00:13.2,[IND 18-14] Vivians Jump Shot: Made (2 PTS) Assist: McCall (2 AST),158,15,1,,1628927,1628286,1611661325,14,18,1
+00:01.7,[NYL 17-18] Boyd 3pt Shot: Made (3 PTS),-53,253,1,,204327,,1611661313,17,18,1
+00:00.0,End Period,0,-80,13,,0,,0,17,18,1
+10:00,Start Period,0,-80,12,,0,,0,17,18,2
+09:43,[IND] Vivians 3pt Shot: Missed,189,170,2,,1628927,,1611661325,17,18,2
+09:39,[IND] Mitchell Rebound (Off:1 Def:1),189,170,4,,1628909,,1611661325,17,18,2
+09:32,[IND] Gwathmey Running Jump Shot: Missed,2,106,2,,1627681,,1611661325,17,18,2
+09:30,[NYL] Zahui B Rebound (Off:0 Def:2),2,106,4,,204320,,1611661313,17,18,2
+09:10,[NYL 20-18] Nurse 3pt Shot: Made (4 PTS) Assist: Rodgers (2 AST),-229,2,1,,1628915,203411,1611661313,20,18,2
+08:58,[IND] Mitchell 3pt Shot: Missed,181,170,2,,1628909,,1611661325,20,18,2
+08:56,[IND] McCall Rebound (Off:1 Def:0),181,170,4,,1628286,,1611661325,20,18,2
+08:49,[IND] Mitchell 3pt Shot: Missed,12,246,2,,1628909,,1611661325,20,18,2
+08:46,[NYL] Nurse Rebound (Off:0 Def:1),12,246,4,,1628915,,1611661313,20,18,2
+08:39,[NYL] Nurse 3pt Shot: Missed,-95,235,2,,1628915,,1611661313,20,18,2
+08:35,[IND] Mavunga Rebound (Off:0 Def:1),-95,235,4,,1628906,,1611661325,20,18,2
+08:29,[NYL] Nurse Foul: Personal (1 PF),58,47,6,1627681,1628915,,1611661313,20,18,2
+08:29,[NYL] Boyd Substitution replaced by Hartley,0,-80,8,,204327,203829,1611661313,20,18,2
+08:29,[IND] Mitchell Substitution replaced by Achonwa,0,-80,8,,1628909,203831,1611661325,20,18,2
+08:29,[IND] McCall Substitution replaced by Wheeler,0,-80,8,,1628286,204365,1611661325,20,18,2
+08:15,[IND 20-20] Wheeler Jump Shot: Made (4 PTS),15,101,1,,204365,,1611661325,20,20,2
+08:00,[IND] Achonwa Foul: Personal (2 PF),8,24,6,201913,203831,,1611661325,20,20,2
+07:55,[NYL] Hartley Turnover : Bad Pass (1 TO) Steal:Gwathmey (1 ST),33,174,5,1627681,203829,,1611661313,20,20,2
+07:49,[IND 22-20] Mavunga Layup Shot: Made (2 PTS) Assist: Gwathmey (2 AST),-3,15,1,,1628906,1627681,1611661325,20,22,2
+07:39,[NYL] Vaughn Turnover : 3 Second Violation (2 TO),-6,27,5,,201913,,1611661313,20,22,2
+07:39,[IND] Achonwa Substitution replaced by Alexander,0,-80,8,,203831,203405,1611661325,20,22,2
+07:23,[IND 24-20] Mavunga Fadeaway Jump Shot: Made (4 PTS) Assist: Wheeler (1 AST),63,69,1,,1628906,204365,1611661325,20,24,2
+07:11,[NYL 23-24] Rodgers 3pt Shot: Made (3 PTS),-101,225,1,,203411,,1611661313,23,24,2
+06:51,[IND] Gwathmey 3pt Shot: Missed,240,15,2,,1627681,,1611661325,23,24,2
+06:48,[NYL] Rodgers Rebound (Off:1 Def:1),240,15,4,,203411,,1611661313,23,24,2
+06:40,[IND] Wheeler Foul: Shooting (1 PF) (2 FTA),39,22,6,1628915,204365,,1611661325,23,24,2
+06:40,[NYL] Rodgers Substitution replaced by Charles,0,-80,8,,203411,202250,1611661313,23,24,2
+06:40,[NYL] Zahui B Substitution replaced by Zellous,0,-80,8,,204320,201919,1611661313,23,24,2
+06:40,[NYL] Nurse Free Throw 1 of 2 Missed,0,-80,3,,1628915,,1611661313,23,24,2
+06:40,[NYL] Team Rebound,0,-80,4,,0,,1611661313,23,24,2
+06:40,[NYL 24-24] Nurse Free Throw 2 of 2 (5 PTS),0,-80,3,,1628915,,1611661313,24,24,2
+06:37,[NYL] Hartley Foul: Personal (1 PF),28,822,6,204365,203829,,1611661313,24,24,2
+06:18,[IND] Mavunga Layup Shot: Missed,-20,11,2,,1628906,,1611661325,24,24,2
+06:15,[IND] Mavunga Rebound (Off:1 Def:1),-20,11,4,,1628906,,1611661325,24,24,2
+06:05,[IND] Wheeler Jump Shot: Missed,-26,197,2,,204365,,1611661325,24,24,2
+06:01,[NYL] Hartley Rebound (Off:0 Def:1),-26,197,4,,203829,,1611661313,24,24,2
+05:54,[NYL] Zellous Layup Shot: Missed,-24,31,2,,201919,,1611661313,24,24,2
+05:53,[IND] Wheeler Rebound (Off:0 Def:1),-24,31,4,,204365,,1611661325,24,24,2
+05:47,[IND] Mavunga 3pt Shot: Missed,-53,235,2,,1628906,,1611661325,24,24,2
+05:43,[NYL] Hartley Rebound (Off:0 Def:2),-53,235,4,,203829,,1611661313,24,24,2
+05:37,[NYL] Vaughn Jump Shot: Missed,11,183,2,,201913,,1611661313,24,24,2
+05:34,[IND] Mavunga Rebound (Off:1 Def:2),11,183,4,,1628906,,1611661325,24,24,2
+05:13,[IND] Wheeler Jump Shot: Missed,-19,199,2,,204365,,1611661325,24,24,2
+05:10,[NYL] Charles Rebound (Off:0 Def:3),-19,199,4,,202250,,1611661313,24,24,2
+05:08,[IND] Wheeler Foul: Personal (2 PF),44,85,6,203829,204365,,1611661325,24,24,2
+05:08,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,24,24,2
+05:08,[NYL] Vaughn Substitution replaced by Coleman,0,-80,8,,201913,201889,1611661313,24,24,2
+05:08,[IND] Gwathmey Substitution replaced by Mitchell,0,-80,8,,1627681,1627676,1611661325,24,24,2
+05:08,[IND] Mavunga Substitution replaced by Mitchell,0,-80,8,,1628906,1628909,1611661325,24,24,2
+05:08,[IND] Wheeler Substitution replaced by McCall,0,-80,8,,204365,1628286,1611661325,24,24,2
+05:02,[NYL] Charles Jump Shot: Missed,75,50,2,,202250,,1611661313,24,24,2
+04:59,[IND] Alexander Rebound (Off:0 Def:1),75,50,4,,203405,,1611661325,24,24,2
+04:49,[IND] Vivians Foul: Offensive Charge (3 PF),134,38,6,1628915,1628927,,1611661325,24,24,2
+04:49,[IND] Vivians Turnover : Offensive Foul Turnover (1 TO),134,38,5,,1628927,,1611661325,24,24,2
+04:49,[IND] Vivians Substitution replaced by Ben Abdelkader,0,-80,8,,1628927,1628868,1611661325,24,24,2
+04:38,[NYL 26-24] Charles Hook Shot: Made (6 PTS),-1,47,1,,202250,,1611661313,26,24,2
+04:20,[NYL] Zellous Foul: Shooting (2 PF) (2 FTA),8,16,6,1627676,201919,,1611661313,26,24,2
+04:20,[IND 25-26] Mitchell Free Throw 1 of 2 (4 PTS),0,-80,3,,1627676,,1611661325,26,25,2
+04:20,[IND 26-26] Mitchell Free Throw 2 of 2 (5 PTS),0,-80,3,,1627676,,1611661325,26,26,2
+04:06,[NYL] Charles Turnover : Traveling (1 TO),64,1,5,,202250,,1611661313,26,26,2
+04:06,[IND] Mitchell Substitution replaced by Gwathmey,0,-80,8,,1627676,1627681,1611661325,26,26,2
+03:52,[IND] Ben Abdelkader Turnover : Traveling (1 TO),-43,75,5,,1628868,,1611661325,26,26,2
+03:52,[IND] Team Violation : Delay Of Game,0,-80,7,,0,,1611661325,26,26,2
+03:36,[NYL] Hartley Turnover : Bad Pass (2 TO) Steal:Alexander (1 ST),-80,-9,5,203405,203829,,1611661313,26,26,2
+03:31,[NYL] Hartley Foul: Personal (2 PF),-74,52,6,1628909,203829,,1611661313,26,26,2
+03:28,[NYL] Charles Foul: Personal (1 PF) (2 FTA),-75,181,6,203405,202250,,1611661313,26,26,2
+03:28,[IND] Alexander Free Throw 1 of 2 Missed,0,-80,3,,203405,,1611661325,26,26,2
+03:28,[IND] Team Rebound,0,-80,4,,0,,1611661325,26,26,2
+03:28,[IND 27-26] Alexander Free Throw 2 of 2 (1 PTS),0,-80,3,,203405,,1611661325,26,27,2
+03:19,[IND] Mitchell Foul: Personal (2 PF),-34,99,6,201919,1628909,,1611661325,26,27,2
+03:11,[IND] Alexander Foul: Personal (1 PF) (2 FTA),-202,-22,6,201919,203405,,1611661325,26,27,2
+03:11,[NYL 27-27] Zellous Free Throw 1 of 2 (8 PTS),0,-80,3,,201919,,1611661313,27,27,2
+03:11,[NYL 28-27] Zellous Free Throw 2 of 2 (9 PTS),0,-80,3,,201919,,1611661313,28,27,2
+02:56,[IND 29-28] Gwathmey Driving Layup Shot: Made (2 PTS),11,13,1,,1627681,,1611661325,28,29,2
+02:53,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,28,29,2
+02:30,[NYL 30-29] Hartley Jump Shot: Made (2 PTS),121,176,1,,203829,,1611661313,30,29,2
+02:16,[IND] Gwathmey 3pt Shot: Missed,153,203,2,,1627681,,1611661325,30,29,2
+02:14,[IND] Team Rebound,153,203,4,,0,,1611661325,30,29,2
+02:14,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,30,29,2
+02:14,[NYL] Zellous Substitution replaced by Vaughn,0,-80,8,,201919,201913,1611661313,30,29,2
+02:04,[IND] Mitchell 3pt Shot: Missed,37,237,2,,1628909,,1611661325,30,29,2
+02:01,[NYL] Hartley Rebound (Off:0 Def:3),37,237,4,,203829,,1611661313,30,29,2
+01:50,[NYL 33-29] Nurse 3pt Shot: Made (8 PTS) Assist: Charles (1 AST),-228,6,1,,1628915,202250,1611661313,33,29,2
+01:29,[NYL] Nurse Foul: Shooting (2 PF) (2 FTA),-26,17,6,1628909,1628915,,1611661313,33,29,2
+01:29,[IND] Alexander Substitution replaced by Mavunga,0,-80,8,,203405,1628906,1611661325,33,29,2
+01:29,[IND] Ben Abdelkader Substitution replaced by Mitchell,0,-80,8,,1628868,1627676,1611661325,33,29,2
+01:29,[IND 30-33] Mitchell Free Throw 1 of 2 (8 PTS),0,-80,3,,1628909,,1611661325,33,30,2
+01:29,[IND 31-33] Mitchell Free Throw 2 of 2 (9 PTS),0,-80,3,,1628909,,1611661325,33,31,2
+01:13,[NYL] Charles Turnaround Fadeaway shot: Missed,-97,-11,2,,202250,,1611661313,33,31,2
+01:11,[IND] Gwathmey Rebound (Off:0 Def:2),-97,-11,4,,1627681,,1611661325,33,31,2
+01:02,[IND 33-33] Mavunga Cutting Layup Shot: Made (6 PTS) Assist: Gwathmey (3 AST),6,9,1,,1628906,1627681,1611661325,33,33,2
+00:47.6,[NYL 36-33] Hartley 3pt Shot: Made (5 PTS),-36,246,1,,203829,,1611661313,36,33,2
+00:44.5,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,36,33,2
+00:28.4,[IND 36-36] McCall 3pt Shot: Made (3 PTS) Assist: Gwathmey (4 AST),-226,-6,1,,1628286,1627681,1611661325,36,36,2
+00:28.3,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,36,36,2
+00:09.9,[NYL 38-36] Coleman Step Back Jump shot: Made (2 PTS),-63,133,1,,201889,,1611661313,38,36,2
+00:00.4,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,38,36,2
+00:00.0,[IND] Mitchell Running Jump Shot: Missed,-4,97,2,,1627676,,1611661325,38,36,2
+00:00.0,[IND] Team Rebound,-4,97,4,,0,,1611661325,38,36,2
+00:00.0,End Period,0,-80,13,,0,,0,38,36,2
+10:00,Start Period,0,-80,12,,0,,0,38,36,3
+09:42,[IND 38-38] Achonwa Driving Layup Shot: Made (6 PTS) Assist: Mitchell (1 AST),-1,17,1,,203831,1628909,1611661325,38,38,3
+09:16,[NYL] Coleman 3pt Shot: Missed,95,216,2,,201889,,1611661313,38,38,3
+09:12,[NYL] Team Rebound,95,216,4,,0,,1611661313,38,38,3
+09:12,"Foul : Double Personal - Coleman (2 PF), Mitchell (3 PF)",-6,619,6,1628909,201889,,1611661313,38,38,3
+09:12,Jump Ball Vaughn vs Achonwa (Hartley gains possession),0,-80,10,203831,201913,203829,1611661313,38,38,3
+09:12,"Foul : Double Personal - Mitchell (3 PF), Coleman (2 PF)",-6,619,6,201889,1628909,,1611661325,38,38,3
+09:01,[NYL 40-38] Charles Jump Shot: Made (8 PTS) Assist: Zellous (1 AST),70,193,1,,202250,201919,1611661313,40,38,3
+08:41,Jump Ball Vaughn vs McCall (Hartley gains possession),0,-80,10,1628286,201913,203829,1611661313,40,38,3
+08:35,[IND] Mitchell Turnover : No Turnover (2 TO) Steal:Vaughn (1 ST),0,-80,5,201913,1627676,,1611661325,40,38,3
+08:27,[NYL 42-38] Coleman Layup Shot: Made (4 PTS) Assist: Charles (2 AST),-13,15,1,,201889,202250,1611661313,42,38,3
+08:11,[IND 40-42] Mitchell Layup Shot: Made (11 PTS) Assist: Achonwa (1 AST),-2,12,1,,1628909,203831,1611661325,42,40,3
+08:00,[NYL] Charles Turnover : Bad Pass (2 TO) Steal:Wheeler (1 ST),-4,56,5,204365,202250,,1611661313,42,40,3
+07:54,[IND] Mitchell Turnover : Step Out of Bounds Turnover (3 TO),100,-36,5,,1627676,,1611661325,42,40,3
+07:38,[NYL] Charles Turnover : Lost Ball (3 TO) Steal:Mitchell (1 ST),-24,35,5,1628909,202250,,1611661313,42,40,3
+07:28,[IND] Wheeler Turnover : Bad Pass (2 TO) Steal:Zellous (1 ST),126,85,5,201919,204365,,1611661325,42,40,3
+07:23,[NYL] Coleman Layup Shot: Missed,-2,20,2,,201889,,1611661313,42,40,3
+07:21,[IND] Achonwa Rebound (Off:1 Def:4),-2,20,4,,203831,,1611661325,42,40,3
+07:13,[IND 42-42] Mitchell Layup Shot: Made (13 PTS),-3,12,1,,1628909,,1611661325,42,42,3
+07:12,[IND] Team Violation : Delay Of Game,0,-80,7,,0,,1611661325,42,42,3
+07:12,Delay Technical - IND (1 FTA),0,-80,6,,1611661325,,1611661325,42,42,3
+07:12,[NYL 43-42] Zellous Free Throw Technical (10 PTS),0,-80,3,,201919,,1611661313,43,42,3
+06:55,[NYL] Hartley 3pt Shot: Missed,-102,223,2,,203829,,1611661313,43,42,3
+06:54,[IND] Team Rebound,-102,223,4,,0,,1611661325,43,42,3
+06:31,[IND] McCall Fadeaway Jump Shot: Missed,75,158,2,,1628286,,1611661325,43,42,3
+06:29,[IND] Team Rebound,75,158,4,,0,,1611661325,43,42,3
+06:29,[IND] Team Turnover : Shot Clock Turnover,24,60,5,,0,,1611661325,43,42,3
+06:13,[NYL] Vaughn Turnaround Hook Shot: Missed,-5,16,2,,201913,,1611661313,43,42,3
+06:10,[IND] Achonwa Rebound (Off:1 Def:5),-5,16,4,,203831,,1611661325,43,42,3
+05:58,[IND] Mitchell 3pt Shot: Missed,-140,222,2,,1627676,,1611661325,43,42,3
+05:54,[NYL] Zellous Rebound (Off:0 Def:2),-140,222,4,,201919,,1611661313,43,42,3
+05:47,[NYL 45-42] Vaughn Layup Shot: Made (4 PTS) Assist: Coleman (1 AST),6,15,1,,201913,201889,1611661313,45,42,3
+05:47,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,45,42,3
+05:47,[IND] Wheeler Substitution replaced by Gwathmey,0,-80,8,,204365,1627681,1611661325,45,42,3
+05:28,[IND 44-45] Mitchell Running Pull-Up Jump Shot: Made (7 PTS) Assist: Mitchell (2 AST),160,112,1,,1627676,1628909,1611661325,45,44,3
+05:11,[NYL 47-44] Charles Turnaround Fadeaway Bank Jump Shot: Made (10 PTS) Assist: Zellous (2 AST),-49,16,1,,202250,201919,1611661313,47,44,3
+04:49,[IND 46-47] Achonwa Turnaround Jump Shot: Made (8 PTS),-36,139,1,,203831,,1611661325,47,46,3
+04:41,[NYL] Vaughn Turnover : 3 Second Violation (3 TO),-10,25,5,,201913,,1611661313,47,46,3
+04:17,[IND 48-47] Mitchell Jump Shot: Made (15 PTS) Assist: Mitchell (4 AST),25,142,1,,1628909,1627676,1611661325,47,48,3
+03:56,[NYL] Hartley Driving Layup Shot: Missed,12,38,2,203831,203829,,1611661313,47,48,3
+03:53,[IND] Achonwa Rebound (Off:1 Def:6),12,38,4,,203831,,1611661325,47,48,3
+03:47,[IND] Mitchell Layup Shot: Missed,-2,29,2,,1627676,,1611661325,47,48,3
+03:46,[IND] Team Rebound,-2,29,4,,0,,1611661325,47,48,3
+03:46,[NYL] Coleman Substitution replaced by Nurse,0,-80,8,,201889,1628915,1611661313,47,48,3
+03:46,[NYL] Vaughn Substitution replaced by Zahui B,0,-80,8,,201913,204320,1611661313,47,48,3
+03:46,[IND] Achonwa Substitution replaced by Mavunga,0,-80,8,,203831,1628906,1611661325,47,48,3
+03:33,[IND 51-47] Mitchell 3pt Shot: Made (18 PTS) Assist: Mitchell (5 AST),-100,233,1,,1628909,1627676,1611661325,47,51,3
+03:16,[IND] McCall Foul: Defense 3 Second (2 PF) (1 FTA),0,-80,6,,1628286,,1611661325,47,51,3
+03:16,[NYL] Zellous Free Throw Technical Missed,0,-80,3,,201919,,1611661313,47,51,3
+03:16,[NYL] Team Rebound,0,-80,4,,0,,1611661313,47,51,3
+03:16,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,47,51,3
+03:12,[NYL 49-51] Nurse Jump Shot: Made (10 PTS) Assist: Boyd (1 AST),158,86,1,,1628915,204327,1611661313,49,51,3
+02:46,[NYL] Boyd Foul: Shooting (1 PF) (2 FTA),8,150,6,1627681,204327,,1611661313,49,51,3
+02:46,[IND 52-49] Gwathmey Free Throw 1 of 2 (3 PTS),0,-80,3,,1627681,,1611661325,49,52,3
+02:46,[IND 53-49] Gwathmey Free Throw 2 of 2 (4 PTS),0,-80,3,,1627681,,1611661325,49,53,3
+02:31,[NYL] Zellous Substitution replaced by Rodgers,0,-80,8,,201919,203411,1611661313,49,53,3
+02:31,[IND] McCall Substitution replaced by Achonwa,0,-80,8,,1628286,203831,1611661325,49,53,3
+02:31,[IND] Mavunga Foul: Shooting (1 PF) (2 FTA),-75,28,6,202250,1628906,,1611661325,49,53,3
+02:31,[NYL 50-53] Charles Free Throw 1 of 2 (11 PTS),0,-80,3,,202250,,1611661313,50,53,3
+02:31,[NYL] Charles Free Throw 2 of 2 Missed,0,-80,3,,202250,,1611661313,50,53,3
+02:28,[IND] Mitchell Rebound (Off:1 Def:2),0,-80,4,,1628909,,1611661325,50,53,3
+02:22,[IND 55-50] Gwathmey Jump Shot: Made (6 PTS) Assist: Mitchell (3 AST),-112,-11,1,,1627681,1628909,1611661325,50,55,3
+02:07,[NYL 53-55] Rodgers 3pt Shot: Made (6 PTS) Assist: Zahui B (1 AST),-141,199,1,,203411,204320,1611661313,53,55,3
+01:43,[IND] Gwathmey Turnover : Lost Ball (1 TO) Steal:Zahui B (1 ST),-153,-12,5,204320,1627681,,1611661325,53,55,3
+01:30,[NYL] Rodgers 3pt Shot: Missed,-10,239,2,,203411,,1611661313,53,55,3
+01:29,[IND] Team Rebound,-10,239,4,,0,,1611661325,53,55,3
+01:15,[IND] Mavunga Turnover : Traveling (1 TO),78,1,5,,1628906,,1611661325,53,55,3
+01:04,[IND] Achonwa Foul: Shooting (3 PF) (2 FTA),-74,15,6,203411,203831,,1611661325,53,55,3
+01:04,[NYL] Rodgers Free Throw 1 of 2 Missed,0,-80,3,,203411,,1611661313,53,55,3
+01:04,[NYL] Team Rebound,0,-80,4,,0,,1611661313,53,55,3
+01:04,[NYL 54-55] Rodgers Free Throw 2 of 2 (7 PTS),0,-80,3,,203411,,1611661313,54,55,3
+00:50.2,[IND] Achonwa Jump Shot: Missed,-82,135,2,,203831,,1611661325,54,55,3
+00:48.0,[NYL] Nurse Rebound (Off:0 Def:2),-82,135,4,,1628915,,1611661313,54,55,3
+00:32.4,[NYL] Charles Layup Shot: Missed,24,40,2,1628906,202250,,1611661313,54,55,3
+00:29.7,[IND] Mavunga Rebound (Off:1 Def:3),24,40,4,,1628906,,1611661325,54,55,3
+00:20.9,[IND] Mitchell Layup Shot: Missed,-23,19,2,,1628909,,1611661325,54,55,3
+00:18.9,[NYL] Rodgers Rebound (Off:1 Def:2),-23,19,4,,203411,,1611661313,54,55,3
+00:03.4,[NYL 57-55] Zahui B 3pt Shot: Made (3 PTS) Assist: Boyd (2 AST),-25,242,1,,204320,204327,1611661313,57,55,3
+00:00.0,[IND] Mitchell 3pt Shot: Missed,-3,475,2,,1628909,,1611661325,57,55,3
+00:00.0,[IND] Team Rebound,-3,475,4,,0,,1611661325,57,55,3
+00:00.0,End Period,0,-80,13,,0,,0,57,55,3
+10:00,Start Period,0,-80,12,,0,,0,57,55,4
+09:46,[NYL 60-55] Rodgers 3pt Shot: Made (10 PTS) Assist: Nurse (1 AST),156,183,1,,203411,1628915,1611661313,60,55,4
+09:29,[IND] Achonwa Foul: Offensive Charge (4 PF),-114,129,6,203411,203831,,1611661325,60,55,4
+09:29,[IND] Achonwa Turnover : Offensive Foul Turnover (2 TO),-114,129,5,,203831,,1611661325,60,55,4
+09:20,[NYL] Zahui B Foul: Offensive Charge (1 PF),93,53,6,203831,204320,,1611661313,60,55,4
+09:20,[NYL] Zahui B Turnover : Offensive Foul Turnover (1 TO),93,53,5,,204320,,1611661313,60,55,4
+09:04,[IND] Gwathmey Jump Shot: Missed,131,0,2,,1627681,,1611661325,60,55,4
+09:02,[IND] Gwathmey Rebound (Off:1 Def:2),131,0,4,,1627681,,1611661325,60,55,4
+08:56,[IND 58-60] Mitchell 3pt Shot: Made (10 PTS),31,247,1,,1627676,,1611661325,60,58,4
+08:42,[IND] Wheeler Foul: Personal (3 PF),17,32,6,204327,204365,,1611661325,60,58,4
+08:36,[NYL] Rodgers 3pt Shot: Missed,-233,-1,2,,203411,,1611661313,60,58,4
+08:33,[IND] Achonwa Rebound (Off:1 Def:7),-233,-1,4,,203831,,1611661325,60,58,4
+08:25,[NYL] Zahui B Foul: Personal (2 PF),-24,11,6,1627681,204320,,1611661313,60,58,4
+08:13,[NYL] Vaughn Foul: Shooting (2 PF) (2 FTA),24,13,6,1628906,201913,,1611661313,60,58,4
+08:13,[IND 59-60] Mavunga Free Throw 1 of 2 (7 PTS),0,-80,3,,1628906,,1611661325,60,59,4
+08:13,[IND] Mavunga Free Throw 2 of 2 Missed,0,-80,3,,1628906,,1611661325,60,59,4
+08:11,[NYL] Zahui B Rebound (Off:0 Def:3),0,-80,4,,204320,,1611661313,60,59,4
+07:59,[NYL] Rodgers Driving Finger Roll Layup Shot: Missed,6,10,2,,203411,,1611661313,60,59,4
+07:56,[IND] Mavunga Rebound (Off:1 Def:4),6,10,4,,1628906,,1611661325,60,59,4
+07:41,[IND] Achonwa Jump Shot: Missed,-148,11,2,,203831,,1611661325,60,59,4
+07:41,[IND] Team Rebound,-148,11,4,,0,,1611661325,60,59,4
+07:41,[NYL] Boyd Foul: Loose Ball (2 PF),-2,61,6,1628906,204327,,1611661313,60,59,4
+07:36,[IND] Mitchell Turnover : Step Out of Bounds Turnover (4 TO),144,-35,5,,1627676,,1611661325,60,59,4
+07:36,[NYL] Vaughn Substitution replaced by Charles,0,-80,8,,201913,202250,1611661313,60,59,4
+07:21,[NYL 63-59] Rodgers 3pt Shot: Made (13 PTS) Assist: Nurse (2 AST),128,194,1,,203411,1628915,1611661313,63,59,4
+07:09,[IND] Wheeler Jump Shot: Missed,128,97,2,,204365,,1611661325,63,59,4
+07:07,[NYL] Team Rebound,128,97,4,,0,,1611661313,63,59,4
+07:07,[IND] Mavunga Substitution replaced by McCall,0,-80,8,,1628906,1628286,1611661325,63,59,4
+06:50,[NYL 66-59] Rodgers 3pt Shot: Made (16 PTS) Assist: Boyd (3 AST),232,41,1,,203411,204327,1611661313,66,59,4
+06:46,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,66,59,4
+06:46,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,66,59,4
+06:22,[IND] Team Turnover : Shot Clock Turnover,14,-16,5,,0,,1611661325,66,59,4
+06:07,[NYL] Charles Turnaround Fadeaway shot: Missed,-48,113,2,,202250,,1611661313,66,59,4
+06:05,[IND] Team Rebound,-48,113,4,,0,,1611661325,66,59,4
+05:42,[IND] Gwathmey Turnover : Lost Ball (2 TO) Steal:Zahui B (2 ST),-11,35,5,204320,1627681,,1611661325,66,59,4
+05:37,[NYL] Rodgers 3pt Shot: Missed,-234,-21,2,,203411,,1611661313,66,59,4
+05:36,[IND] McCall Rebound (Off:1 Def:1),-234,-21,4,,1628286,,1611661325,66,59,4
+05:36,[NYL] Rodgers Foul: Personal (1 PF),53,842,6,1628286,203411,,1611661313,66,59,4
+05:36,[NYL] Boyd Substitution replaced by Hartley,0,-80,8,,204327,203829,1611661313,66,59,4
+05:36,[IND] Gwathmey Substitution replaced by Vivians,0,-80,8,,1627681,1628927,1611661325,66,59,4
+05:18,[IND 61-66] Mitchell Pullup Jump shot: Made (12 PTS),156,74,1,,1627676,,1611661325,66,61,4
+05:02,[IND] McCall Foul: Shooting (3 PF) (2 FTA),-27,15,6,202250,1628286,,1611661325,66,61,4
+05:02,[NYL 67-61] Charles Free Throw 1 of 2 (12 PTS),0,-80,3,,202250,,1611661313,67,61,4
+05:02,[NYL 68-61] Charles Free Throw 2 of 2 (13 PTS),0,-80,3,,202250,,1611661313,68,61,4
+04:41,[IND] McCall Jump Shot: Missed,171,10,2,,1628286,,1611661325,68,61,4
+04:37,[IND] Achonwa Rebound (Off:2 Def:7),171,10,4,,203831,,1611661325,68,61,4
+04:37,[IND] Vivians Layup Shot: Missed,15,11,2,202250,1628927,,1611661325,68,61,4
+04:36,[IND] Team Rebound,15,11,4,,0,,1611661325,68,61,4
+04:28,[IND] McCall 3pt Shot: Missed,-208,150,2,,1628286,,1611661325,68,61,4
+04:27,[IND] Vivians Rebound (Off:1 Def:0),-208,150,4,,1628927,,1611661325,68,61,4
+04:27,[NYL] Nurse Foul: Personal (3 PF) (2 FTA),120,1,6,1628927,1628915,,1611661313,68,61,4
+04:27,[IND] Vivians Free Throw 1 of 2 Missed,0,-80,3,,1628927,,1611661325,68,61,4
+04:27,[IND] Team Rebound,0,-80,4,,0,,1611661325,68,61,4
+04:27,[IND 62-68] Vivians Free Throw 2 of 2 (3 PTS),0,-80,3,,1628927,,1611661325,68,62,4
+04:11,[NYL] Zahui B Turnover : Bad Pass (2 TO) Steal:McCall (1 ST),0,38,5,1628286,204320,,1611661313,68,62,4
+04:02,[IND 65-68] Vivians 3pt Shot: Made (6 PTS) Assist: Mitchell (6 AST),-2,247,1,,1628927,1627676,1611661325,68,65,4
+03:44,[NYL] Charles Turnaround Jump Shot: Missed,-35,9,2,,202250,,1611661313,68,65,4
+03:42,[IND] Mitchell Rebound (Off:0 Def:3),-35,9,4,,1627676,,1611661325,68,65,4
+03:35,[IND 67-68] Mitchell Layup Shot: Made (14 PTS),-9,12,1,,1627676,,1611661325,68,67,4
+03:34,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,68,67,4
+03:34,[NYL] Rodgers Substitution replaced by Vaughn,0,-80,8,,203411,201913,1611661313,68,67,4
+03:34,[NYL] Zahui B Substitution replaced by Zellous,0,-80,8,,204320,201919,1611661313,68,67,4
+03:22,[NYL] Vaughn Foul: Offensive Charge (3 PF),109,99,6,1628909,201913,,1611661313,68,67,4
+03:22,[NYL] Vaughn Turnover : Offensive Foul Turnover (4 TO),109,99,5,,201913,,1611661313,68,67,4
+03:01,[IND] Mitchell Jump Shot: Missed,154,3,2,,1628909,,1611661325,68,67,4
+02:56,[IND] Achonwa Rebound (Off:3 Def:7),154,3,4,,203831,,1611661325,68,67,4
+02:56,[IND] Vivians 3pt Shot: Missed,-129,223,2,,1628927,,1611661325,68,67,4
+02:53,[IND] McCall Rebound (Off:2 Def:1),-129,223,4,,1628286,,1611661325,68,67,4
+02:53,[IND] McCall Putback Layup Shot: Missed,-19,12,2,202250,1628286,,1611661325,68,67,4
+02:53,[IND] Team Rebound,-19,12,4,,0,,1611661325,68,67,4
+02:46,[IND 69-68] Achonwa Cutting Layup Shot: Made (10 PTS) Assist: Mitchell (7 AST),8,7,1,,203831,1627676,1611661325,68,69,4
+02:32,[NYL] Hartley Turnover : Bad Pass (3 TO) Steal:Vivians (1 ST),-119,321,5,1628927,203829,,1611661313,68,69,4
+02:30,[NYL] Hartley Foul: Shooting (3 PF) (2 FTA),16,6,6,1628927,203829,,1611661313,68,69,4
+02:30,[IND 70-68] Vivians Free Throw 1 of 2 (7 PTS),0,-80,3,,1628927,,1611661325,68,70,4
+02:30,[IND 71-68] Vivians Free Throw 2 of 2 (8 PTS),0,-80,3,,1628927,,1611661325,68,71,4
+02:10,[NYL] Hartley Jump Shot: Missed,-100,63,2,,203829,,1611661313,68,71,4
+02:09,[NYL] Charles Rebound (Off:1 Def:3),-100,63,4,,202250,,1611661313,68,71,4
+02:06,[NYL 71-71] Hartley 3pt Shot: Made (8 PTS) Assist: Charles (3 AST),-211,129,1,,203829,202250,1611661313,71,71,4
+01:43,[IND] Mitchell 3pt Shot: Missed,-174,166,2,,1627676,,1611661325,71,71,4
+01:41,[NYL] Hartley Rebound (Off:0 Def:4),-174,166,4,,203829,,1611661313,71,71,4
+01:31,[NYL] Charles Turnaround Jump Shot: Missed,3,65,2,,202250,,1611661313,71,71,4
+01:29,[IND] Mitchell Rebound (Off:0 Def:4),3,65,4,,1627676,,1611661325,71,71,4
+01:17,[IND] Mitchell Turnover : Bad Pass (2 TO) Steal:Vaughn (2 ST),-48,160,5,201913,1628909,,1611661325,71,71,4
+01:11,[NYL 73-71] Hartley Driving Layup Shot: Made (10 PTS) Assist: Zellous (3 AST),-14,6,1,,203829,201919,1611661313,73,71,4
+01:11,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,73,71,4
+00:58.8,[NYL] Hartley Foul: Personal (4 PF) (2 FTA),78,177,6,1628909,203829,,1611661313,73,71,4
+00:58.8,[IND] Mitchell Free Throw 1 of 2 Missed,0,-80,3,,1628909,,1611661325,73,71,4
+00:58.8,[IND] Team Rebound,0,-80,4,,0,,1611661325,73,71,4
+00:58.8,[IND 72-73] Mitchell Free Throw 2 of 2 (19 PTS),0,-80,3,,1628909,,1611661325,73,72,4
+00:37.9,[NYL 75-72] Hartley Driving Layup Shot: Made (12 PTS) Assist: Vaughn (2 AST),9,10,1,,203829,201913,1611661313,75,72,4
+00:33.3,[IND 75-75] Vivians 3pt Shot: Made (11 PTS) Assist: Mitchell (4 AST),-202,162,1,,1628927,1628909,1611661325,75,75,4
+00:32.8,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,75,75,4
+00:32.3,[NYL] Vaughn Substitution replaced by Coleman,0,-80,8,,201913,201889,1611661313,75,75,4
+00:16.8,[NYL 78-75] Coleman 3pt Shot: Made (7 PTS) Assist: Nurse (3 AST),-72,224,1,,201889,1628915,1611661313,78,75,4
+00:16.1,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,78,75,4
+00:01.8,[IND] Mitchell 3pt Shot: Missed,115,221,2,,1628909,,1611661325,78,75,4
+00:00.7,[NYL] Zellous Rebound (Off:0 Def:3),115,221,4,,201919,,1611661313,78,75,4
+00:00.7,[IND] McCall Foul: Personal (4 PF),30,824,6,201919,1628286,,1611661325,78,75,4
+00:00.0,End Period,0,-80,13,,0,,0,78,75,4
+00:00.0,Game End,0,-80,0,,0,,0,78,75,4

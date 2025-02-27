@@ -1,0 +1,428 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Griner vs Dolson (Taurasi gains possession),0,-80,10,203828,203398,100940,1611661317,0,0,1
+09:43,[PHO] Griner Layup Shot: Missed,14,-11,2,,203398,,1611661317,0,0,1
+09:41,[PHO] Griner Rebound (Off:1 Def:0),0,-80,4,,203398,,1611661317,0,0,1
+09:41,[PHO] Griner Putback Layup Shot: Missed,25,3,2,,203398,,1611661317,0,0,1
+09:37,[PHO] Griner Rebound (Off:2 Def:0),0,-80,4,,203398,,1611661317,0,0,1
+09:37,[PHO] Griner Tip Layup Shot: Missed,9,8,2,,203398,,1611661317,0,0,1
+09:36,[CHI] Young Rebound (Off:0 Def:1),0,-80,4,,201477,,1611661329,0,0,1
+09:24,[CHI] Quigley 3pt Shot: Missed,99,205,2,,201516,,1611661329,0,0,1
+09:24,[PHO] Taurasi Rebound (Off:0 Def:1),0,-80,4,,100940,,1611661317,0,0,1
+09:05,[PHO] Griner Turnaround Jump Shot: Missed,-16,75,2,,203398,,1611661317,0,0,1
+09:03,[CHI] Dolson Rebound (Off:0 Def:1),0,-80,4,,203828,,1611661329,0,0,1
+08:49,[CHI] Dolson Layup Shot: Missed Block: Little (1 BLK),22,-15,2,201067,203828,,1611661329,0,0,1
+08:48,[PHO] Talbot Rebound (Off:0 Def:1),0,-80,4,,203855,,1611661317,0,0,1
+08:43,[CHI] Breland Foul: Personal (1 PF),30,16,6,203398,202638,,1611661329,0,0,1
+08:36,[PHO 2-0] Mitchell Driving Layup Shot: Made (2 PTS),-16,2,1,,201507,,1611661317,2,0,1
+08:19,[CHI] Young 3pt Shot: Missed,236,-10,2,,201477,,1611661329,2,0,1
+08:19,[PHO] Mitchell Rebound (Off:0 Def:1),0,-80,4,,201507,,1611661317,2,0,1
+08:08,[PHO] Mitchell Turnover : Bad Pass (1 TO) Steal:Breland (1 ST),0,-80,5,202638,201507,,1611661317,2,0,1
+08:00,[CHI 3-2] Young 3pt Shot: Made (3 PTS) Assist: Quigley (1 AST),182,144,1,,201477,201516,1611661329,2,3,1
+07:48,[CHI] Quigley Foul: Personal (1 PF),-112,218,6,100940,201516,,1611661329,2,3,1
+07:38,[PHO] Little 3pt Shot: Missed,-156,183,2,,201067,,1611661317,2,3,1
+07:38,[CHI] Team Rebound,0,-80,4,,0,,1611661329,2,3,1
+07:38,[PHO] Talbot Foul: Loose Ball (1 PF),4,776,6,203828,203855,,1611661317,2,3,1
+07:26,[CHI] Young Pullup Jump shot: Missed,30,101,2,,201477,,1611661329,2,3,1
+07:26,[CHI] Team Rebound,0,-80,4,,0,,1611661329,2,3,1
+07:26,[PHO] Taurasi Foul: Shooting (1 PF) (2 FTA),-16,2,6,202638,100940,,1611661317,2,3,1
+07:26,[CHI 4-2] Breland Free Throw 1 of 2 (1 PTS),0,-80,3,,202638,,1611661329,2,4,1
+07:26,[CHI] Breland Free Throw 2 of 2 Missed,0,-80,3,,202638,,1611661329,2,4,1
+07:25,[PHO] Griner Rebound (Off:2 Def:1),0,-80,4,,203398,,1611661317,2,4,1
+07:16,[PHO 5-4] Taurasi 3pt Shot: Made (3 PTS),9,257,1,,100940,,1611661317,5,4,1
+06:52,[CHI] Breland 3pt Shot: Missed,6,242,2,,202638,,1611661329,5,4,1
+06:52,[PHO] Mitchell Rebound (Off:0 Def:2),0,-80,4,,201507,,1611661317,5,4,1
+06:45,[PHO] Mitchell Turnover : Bad Pass (2 TO) Steal:Young (1 ST),0,-80,5,201477,201507,,1611661317,5,4,1
+06:38,[CHI 7-5] Quigley 3pt Shot: Made (3 PTS) Assist: Young (1 AST),-230,21,1,,201516,201477,1611661329,5,7,1
+06:17,[PHO 7-7] Little Layup Shot: Made (2 PTS),17,11,1,,201067,,1611661317,7,7,1
+06:02,[CHI] Dolson Cutting Layup Shot: Missed Block: Little (2 BLK),9,23,2,201067,203828,,1611661329,7,7,1
+06:01,[PHO] Griner Rebound (Off:2 Def:2),0,-80,4,,203398,,1611661317,7,7,1
+05:56,[CHI] Breland Foul: Personal (2 PF),61,51,6,203398,202638,,1611661329,7,7,1
+05:56,[CHI] Breland Substitution replaced by Boyette,0,-80,8,,202638,1627677,1611661329,7,7,1
+05:56,[CHI] Young Substitution replaced by Copper,0,-80,8,,201477,1627674,1611661329,7,7,1
+05:56,[CHI] Dolson Substitution replaced by Parker,0,-80,8,,203828,204323,1611661329,7,7,1
+05:56,[CHI] Team Violation : Delay Of Game,0,-80,7,,0,,1611661329,7,7,1
+05:47,[CHI] Parker Foul: Shooting (1 PF) (2 FTA),-19,16,6,203855,204323,,1611661329,7,7,1
+05:47,[PHO] Talbot Free Throw 1 of 2 Missed,0,-80,3,,203855,,1611661317,7,7,1
+05:47,[PHO] Team Rebound,0,-80,4,,0,,1611661317,7,7,1
+05:47,[PHO 8-7] Talbot Free Throw 2 of 2 (1 PTS),0,-80,3,,203855,,1611661317,8,7,1
+05:31,[CHI 9-8] Pondexter Step Back Jump shot: Made (2 PTS),-196,65,1,,200665,,1611661329,8,9,1
+05:21,[PHO] Taurasi 3pt Shot: Missed,4,232,2,,100940,,1611661317,8,9,1
+05:21,[PHO] Little Rebound (Off:1 Def:0),0,-80,4,,201067,,1611661317,8,9,1
+05:18,[PHO] Little Putback Layup Shot: Missed,-16,-1,2,,201067,,1611661317,8,9,1
+05:18,[CHI] Parker Rebound (Off:0 Def:1),0,-80,4,,204323,,1611661329,8,9,1
+05:07,[CHI 11-8] Quigley Jump Shot: Made (5 PTS),105,159,1,,201516,,1611661329,8,11,1
+04:52,[PHO 10-11] Griner Turnaround Jump Shot: Made (2 PTS) Assist: Talbot (1 AST),-106,46,1,,203398,203855,1611661317,10,11,1
+04:42,[CHI] Boyette Jump Shot: Missed,141,7,2,,1627677,,1611661329,10,11,1
+04:41,[PHO] Little Rebound (Off:1 Def:1),0,-80,4,,201067,,1611661317,10,11,1
+04:28,[CHI] Parker Foul: Shooting (2 PF) (2 FTA),-20,18,6,203398,204323,,1611661329,10,11,1
+04:28,Timeout : Official,0,-80,9,,0,,0,10,11,1
+04:28,[PHO] Little Substitution replaced by Cannon,0,-80,8,,201067,1628242,1611661317,10,11,1
+04:28,[PHO] Taurasi Substitution replaced by Murphy,0,-80,8,,100940,201062,1611661317,10,11,1
+04:28,[CHI] Quigley Substitution replaced by Dolson,0,-80,8,,201516,203828,1611661329,10,11,1
+04:28,[CHI] Parker Substitution replaced by Young,0,-80,8,,204323,201477,1611661329,10,11,1
+04:28,[PHO] Griner Free Throw 1 of 2 Missed,0,-80,3,,203398,,1611661317,10,11,1
+04:28,[PHO] Team Rebound,0,-80,4,,0,,1611661317,10,11,1
+04:28,[PHO 11-11] Griner Free Throw 2 of 2 (3 PTS),0,-80,3,,203398,,1611661317,11,11,1
+04:08,[CHI] Young 3pt Shot: Missed,79,219,2,,201477,,1611661329,11,11,1
+04:07,[PHO] Cannon Rebound (Off:0 Def:1),0,-80,4,,1628242,,1611661317,11,11,1
+03:43,[PHO] Griner Turnaround Bank shot: Missed,-71,87,2,,203398,,1611661317,11,11,1
+03:41,[CHI] Young Rebound (Off:0 Def:2),0,-80,4,,201477,,1611661329,11,11,1
+03:24,[CHI] Boyette Turnaround Hook Shot: Missed,0,56,2,,1627677,,1611661329,11,11,1
+03:22,[PHO] Mitchell Rebound (Off:0 Def:3),0,-80,4,,201507,,1611661317,11,11,1
+03:05,[PHO] Murphy 3pt Shot: Missed,-222,70,2,,201062,,1611661317,11,11,1
+03:04,[PHO] Talbot Rebound (Off:1 Def:1),0,-80,4,,203855,,1611661317,11,11,1
+03:04,[CHI] Dolson Foul: Shooting (1 PF) (2 FTA),24,7,6,203855,203828,,1611661329,11,11,1
+03:04,[PHO 12-11] Talbot Free Throw 1 of 2 (2 PTS),0,-80,3,,203855,,1611661317,12,11,1
+03:04,[CHI] Pondexter Substitution replaced by Quigley,0,-80,8,,200665,201516,1611661329,12,11,1
+03:04,[PHO 13-11] Talbot Free Throw 2 of 2 (3 PTS),0,-80,3,,203855,,1611661317,13,11,1
+02:49,[CHI] Copper Turnover : Bad Pass (1 TO) Steal:Talbot (1 ST),0,-80,5,203855,1627674,,1611661329,13,11,1
+02:47,[CHI] Young Foul: Personal (1 PF) (2 FTA),-222,434,6,203855,201477,,1611661329,13,11,1
+02:47,[PHO] Talbot Free Throw 1 of 2 Missed,0,-80,3,,203855,,1611661317,13,11,1
+02:47,[PHO] Team Rebound,0,-80,4,,0,,1611661317,13,11,1
+02:47,[PHO] Talbot Free Throw 2 of 2 Missed,0,-80,3,,203855,,1611661317,13,11,1
+02:46,[CHI] Copper Rebound (Off:0 Def:1),0,-80,4,,1627674,,1611661329,13,11,1
+02:29,[CHI] Boyette Reverse Layup Shot: Missed Block: Griner (1 BLK),19,7,2,203398,1627677,,1611661329,13,11,1
+02:28,[PHO] Griner Rebound (Off:2 Def:3),0,-80,4,,203398,,1611661317,13,11,1
+02:23,[PHO 15-11] Talbot Running Layup Shot: Made (5 PTS) Assist: Mitchell (1 AST),9,2,1,,203855,201507,1611661317,15,11,1
+02:06,[CHI 13-15] Quigley Jump Shot: Made (7 PTS),-73,85,1,,201516,,1611661329,15,13,1
+01:40,[PHO 17-13] Cannon Jump Shot: Made (2 PTS) Assist: Murphy (1 AST),146,70,1,,1628242,201062,1611661317,17,13,1
+01:23,[PHO] Griner Foul: Shooting (1 PF) (2 FTA),14,-1,6,1627677,203398,,1611661317,17,13,1
+01:23,[CHI] Boyette Free Throw 1 of 2 Missed,0,-80,3,,1627677,,1611661329,17,13,1
+01:23,[CHI] Team Rebound,0,-80,4,,0,,1611661329,17,13,1
+01:23,[PHO] Talbot Substitution replaced by Taurasi,0,-80,8,,203855,100940,1611661317,17,13,1
+01:23,[PHO] Mitchell Substitution replaced by Turner,0,-80,8,,201507,203389,1611661317,17,13,1
+01:23,[CHI] Copper Substitution replaced by Pondexter,0,-80,8,,1627674,200665,1611661329,17,13,1
+01:23,[CHI 14-17] Boyette Free Throw 2 of 2 (1 PTS),0,-80,3,,1627677,,1611661329,17,14,1
+01:09,[PHO] Cannon Jump Shot: Missed Block: Dolson (1 BLK),40,13,2,203828,1628242,,1611661317,17,14,1
+01:09,[PHO] Team Rebound,0,-80,4,,0,,1611661317,17,14,1
+01:09,[CHI] Boyette Substitution replaced by Harris,0,-80,8,,1627677,202644,1611661329,17,14,1
+01:06,[PHO 19-14] Murphy Cutting Layup Shot: Made (2 PTS) Assist: Taurasi (1 AST),10,11,1,,201062,100940,1611661317,19,14,1
+00:51.9,[CHI] Pondexter Jump Shot: Missed,107,169,2,,200665,,1611661329,19,14,1
+00:50.9,[PHO] Griner Rebound (Off:2 Def:4),0,-80,4,,203398,,1611661317,19,14,1
+00:37.0,[PHO 21-14] Griner Jump Shot: Made (5 PTS) Assist: Murphy (2 AST),1,174,1,,203398,201062,1611661317,21,14,1
+00:20.9,[CHI] Pondexter Jump Shot: Missed,9,61,2,,200665,,1611661329,21,14,1
+00:19.9,[CHI] Harris Rebound (Off:1 Def:0),0,-80,4,,202644,,1611661329,21,14,1
+00:18.6,[CHI 16-21] Harris Putback Layup Shot: Made (2 PTS),28,-5,1,,202644,,1611661329,21,16,1
+00:00.2,[PHO] Turner 3pt Shot: Missed,236,11,2,,203389,,1611661317,21,16,1
+00:00.0,[PHO] Team Rebound,0,-80,4,,0,,1611661317,21,16,1
+00:00.0,End Period,0,-80,13,,0,,0,21,16,1
+10:00,Start Period,0,-80,12,,0,,0,21,16,2
+09:44,[CHI] Young Driving Layup Shot: Missed,-16,2,2,,201477,,1611661329,21,16,2
+09:43,[PHO] Taurasi Rebound (Off:0 Def:2),0,-80,4,,100940,,1611661317,21,16,2
+09:29,[PHO] Taurasi Jump Shot: Missed,-124,31,2,,100940,,1611661317,21,16,2
+09:29,[CHI] Quigley Rebound (Off:0 Def:1),0,-80,4,,201516,,1611661329,21,16,2
+09:23,[CHI 18-21] Pondexter Running Layup Shot: Made (4 PTS) Assist: Quigley (2 AST),14,0,1,,200665,201516,1611661329,21,18,2
+09:22,[CHI] Team Violation : Delay Of Game,0,-80,7,,0,,1611661329,21,18,2
+09:22,[PHO 22-18] Taurasi Free Throw Technical (4 PTS),0,-80,3,,100940,,1611661317,22,18,2
+09:09,[PHO] Taurasi Jump Shot: Missed,97,154,2,,100940,,1611661317,22,18,2
+09:09,[CHI] Boyette Rebound (Off:0 Def:1),0,-80,4,,1627677,,1611661329,22,18,2
+08:57,[PHO] Cannon Foul: Personal Block (1 PF),-122,205,6,200665,1628242,,1611661317,22,18,2
+08:49,[PHO] Murphy Foul: Personal (1 PF),-94,190,6,200665,201062,,1611661317,22,18,2
+08:39,[CHI] Young Jump Shot: Missed,42,80,2,,201477,,1611661329,22,18,2
+08:38,[PHO] Murphy Rebound (Off:0 Def:1),0,-80,4,,201062,,1611661317,22,18,2
+08:29,[PHO] Turner Jump Shot: Missed,204,41,2,,203389,,1611661317,22,18,2
+08:29,[CHI] Quigley Rebound (Off:0 Def:2),0,-80,4,,201516,,1611661329,22,18,2
+08:05,[CHI 21-22] Quigley 3pt Shot: Made (10 PTS) Assist: Pondexter (1 AST),-34,244,1,,201516,200665,1611661329,22,21,2
+07:42,[PHO] Taurasi Driving Layup Shot: Missed Block: Dolson (2 BLK),-7,18,2,203828,100940,,1611661317,22,21,2
+07:41,[CHI] Dolson Rebound (Off:0 Def:2),0,-80,4,,203828,,1611661329,22,21,2
+07:17,[CHI] Pondexter 3pt Shot: Missed,-225,7,2,,200665,,1611661329,22,21,2
+07:17,[PHO] Cannon Rebound (Off:0 Def:2),0,-80,4,,1628242,,1611661317,22,21,2
+07:06,[PHO] Cannon Reverse Layup Shot: Missed,25,7,2,,1628242,,1611661317,22,21,2
+07:06,[PHO] Team Rebound,0,-80,4,,0,,1611661317,22,21,2
+07:06,[CHI] Dolson Foul: Loose Ball (2 PF),27,8,6,203398,203828,,1611661329,22,21,2
+07:06,[PHO] Griner Substitution replaced by Little,0,-80,8,,203398,201067,1611661317,22,21,2
+07:06,[CHI] Young Substitution replaced by Breland,0,-80,8,,201477,202638,1611661329,22,21,2
+07:06,[CHI] Boyette Substitution replaced by Hampton,0,-80,8,,1627677,203034,1611661329,22,21,2
+06:56,[PHO 24-21] Little Layup Shot: Made (4 PTS) Assist: Turner (1 AST),-16,7,1,,201067,203389,1611661317,24,21,2
+06:56,[CHI] Dolson Foul: Shooting (3 PF) (1 FTA),-16,7,6,201067,203828,,1611661329,24,21,2
+06:56,[CHI] Dolson Substitution replaced by Boyette,0,-80,8,,203828,1627677,1611661329,24,21,2
+06:56,[PHO 25-21] Little Free Throw 1 of 1 (5 PTS),0,-80,3,,201067,,1611661317,25,21,2
+06:47,[CHI] Pondexter Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),0,-80,5,203389,200665,,1611661329,25,21,2
+06:41,[CHI] Boyette Foul: Shooting (1 PF) (2 FTA),17,2,6,1628242,1627677,,1611661329,25,21,2
+06:41,[PHO 26-21] Cannon Free Throw 1 of 2 (3 PTS),0,-80,3,,1628242,,1611661317,26,21,2
+06:41,[PHO] Cannon Free Throw 2 of 2 Missed,0,-80,3,,1628242,,1611661317,26,21,2
+06:41,[PHO] Murphy Rebound (Off:1 Def:1),0,-80,4,,201062,,1611661317,26,21,2
+06:36,[PHO 29-21] Taurasi 3pt Shot: Made (7 PTS) Assist: Murphy (3 AST),0,262,1,,100940,201062,1611661317,29,21,2
+06:14,[CHI] Boyette Jump Shot: Missed,-38,28,2,,1627677,,1611661329,29,21,2
+06:14,[CHI] Boyette Rebound (Off:1 Def:1),0,-80,4,,1627677,,1611661329,29,21,2
+06:10,[CHI 23-29] Breland Jump Shot: Made (3 PTS) Assist: Boyette (1 AST),-22,23,1,,202638,1627677,1611661329,29,23,2
+05:49,[PHO 32-23] Turner 3pt Shot: Made (3 PTS) Assist: Little (1 AST),-235,0,1,,203389,201067,1611661317,32,23,2
+05:32,[CHI] Pondexter Foul: Offensive Charge (1 PF),35,16,6,201067,200665,,1611661329,32,23,2
+05:32,[CHI] Pondexter Turnover : Foul (2 TO),0,-80,5,,200665,,1611661329,32,23,2
+05:32,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,32,23,2
+05:16,[PHO] Taurasi Jump Shot: Missed,1,51,2,,100940,,1611661317,32,23,2
+05:16,[CHI] Breland Rebound (Off:0 Def:1),0,-80,4,,202638,,1611661329,32,23,2
+05:10,[CHI 25-32] Pondexter Running Layup Shot: Made (6 PTS),-17,21,1,,200665,,1611661329,32,25,2
+05:10,[PHO] Turner Foul: Shooting Block (1 PF) (1 FTA),-17,21,6,200665,203389,,1611661317,32,25,2
+05:10,[CHI 26-32] Pondexter Free Throw 1 of 1 (7 PTS),0,-80,3,,200665,,1611661329,32,26,2
+05:00,[PHO 34-26] Turner Jump Shot: Made (5 PTS) Assist: Taurasi (2 AST),-117,164,1,,203389,100940,1611661317,34,26,2
+04:44,[CHI 28-34] Quigley Jump Shot: Made (12 PTS) Assist: Pondexter (2 AST),-137,146,1,,201516,200665,1611661329,34,28,2
+04:33,[CHI] Pondexter Foul: Shooting (2 PF) (3 FTA),1,237,6,100940,200665,,1611661329,34,28,2
+04:33,[PHO 35-28] Taurasi Free Throw 1 of 3 (8 PTS),0,-80,3,,100940,,1611661317,35,28,2
+04:33,[PHO 36-28] Taurasi Free Throw 2 of 3 (9 PTS),0,-80,3,,100940,,1611661317,36,28,2
+04:33,[CHI] Hampton Substitution replaced by Young,0,-80,8,,203034,201477,1611661329,36,28,2
+04:33,[PHO] Cannon Substitution replaced by Griner,0,-80,8,,1628242,203398,1611661317,36,28,2
+04:33,[PHO] Taurasi Free Throw 3 of 3 Missed,0,-80,3,,100940,,1611661317,36,28,2
+04:32,[CHI] Breland Rebound (Off:0 Def:2),0,-80,4,,202638,,1611661329,36,28,2
+04:17,[PHO] Taurasi Substitution replaced by Mitchell,0,-80,8,,100940,201507,1611661317,36,28,2
+04:16,Jump Ball Turner vs Quigley (Boyette gains possession),0,-80,10,201516,203389,1627677,1611661317,36,28,2
+04:05,[CHI] Breland Jump Shot: Missed,120,124,2,,202638,,1611661329,36,28,2
+04:05,[CHI] Boyette Rebound (Off:2 Def:1),0,-80,4,,1627677,,1611661329,36,28,2
+04:02,[CHI] Boyette Putback Layup Shot: Missed,0,7,2,,1627677,,1611661329,36,28,2
+04:02,[PHO] Murphy Rebound (Off:1 Def:2),0,-80,4,,201062,,1611661317,36,28,2
+03:56,[CHI] Boyette Foul: Personal (2 PF) (2 FTA),-49,34,6,203398,1627677,,1611661329,36,28,2
+03:56,[PHO] Griner Free Throw 1 of 2 Missed,0,-80,3,,203398,,1611661317,36,28,2
+03:56,[PHO] Team Rebound,0,-80,4,,0,,1611661317,36,28,2
+03:56,[PHO] Griner Free Throw 2 of 2 Missed,0,-80,3,,203398,,1611661317,36,28,2
+03:56,[CHI] Boyette Rebound (Off:2 Def:2),0,-80,4,,1627677,,1611661329,36,28,2
+03:32,[CHI] Quigley 3pt Shot: Missed,-73,228,2,,201516,,1611661329,36,28,2
+03:32,[CHI] Team Rebound,0,-80,4,,0,,1611661329,36,28,2
+03:31,[CHI] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661329,36,28,2
+03:25,[CHI] Pondexter Foul: Personal (3 PF) (2 FTA),102,229,6,201507,200665,,1611661329,36,28,2
+03:25,[PHO 37-28] Mitchell Free Throw 1 of 2 (3 PTS),0,-80,3,,201507,,1611661317,37,28,2
+03:25,[PHO] Murphy Substitution replaced by Talbot,0,-80,8,,201062,203855,1611661317,37,28,2
+03:25,[CHI] Pondexter Substitution replaced by Copper,0,-80,8,,200665,1627674,1611661329,37,28,2
+03:25,[PHO] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,201507,,1611661317,37,28,2
+03:24,[CHI] Boyette Rebound (Off:2 Def:3),0,-80,4,,1627677,,1611661329,37,28,2
+03:05,[PHO] Griner Foul: Shooting (2 PF) (2 FTA),-63,23,6,201477,203398,,1611661317,37,28,2
+03:05,[CHI] Young Free Throw 1 of 2 Missed,0,-80,3,,201477,,1611661329,37,28,2
+03:05,[CHI] Team Rebound,0,-80,4,,0,,1611661329,37,28,2
+03:05,[CHI 29-37] Young Free Throw 2 of 2 (4 PTS),0,-80,3,,201477,,1611661329,37,29,2
+02:47,[PHO 39-29] Turner Jump Shot: Made (7 PTS) Assist: Mitchell (2 AST),10,198,1,,203389,201507,1611661317,39,29,2
+02:31,[PHO] Turner Foul: Personal (2 PF) (2 FTA),99,214,6,201516,203389,,1611661317,39,29,2
+02:31,[CHI] Team Timeout : Regular,0,-80,9,,0,,1611661329,39,29,2
+02:31,[PHO] Turner Substitution replaced by Taurasi,0,-80,8,,203389,100940,1611661317,39,29,2
+02:31,[CHI 30-39] Quigley Free Throw 1 of 2 (13 PTS),0,-80,3,,201516,,1611661329,39,30,2
+02:31,[CHI 31-39] Quigley Free Throw 2 of 2 (14 PTS),0,-80,3,,201516,,1611661329,39,31,2
+02:09,[PHO 41-31] Mitchell Cutting Layup Shot: Made (5 PTS) Assist: Griner (1 AST),-6,2,1,,201507,203398,1611661317,41,31,2
+01:57,[CHI] Quigley Turnover : Bad Pass (1 TO) Steal:Talbot (2 ST),0,-80,5,203855,201516,,1611661329,41,31,2
+01:52,[CHI] Boyette Foul: Personal (3 PF) (2 FTA),-65,26,6,203398,1627677,,1611661329,41,31,2
+01:52,[PHO 42-31] Griner Free Throw 1 of 2 (6 PTS),0,-80,3,,203398,,1611661317,42,31,2
+01:52,[CHI] Breland Substitution replaced by Parker,0,-80,8,,202638,204323,1611661329,42,31,2
+01:52,[PHO 43-31] Griner Free Throw 2 of 2 (7 PTS),0,-80,3,,203398,,1611661317,43,31,2
+01:36,[CHI] Copper Turnover : Bad Pass (2 TO) Steal:Mitchell (1 ST),0,-80,5,201507,1627674,,1611661329,43,31,2
+01:22,[PHO] Little 3pt Shot: Missed,120,198,2,,201067,,1611661317,43,31,2
+01:22,[CHI] Team Rebound,0,-80,4,,0,,1611661329,43,31,2
+01:22,[PHO] Talbot Foul: Loose Ball (2 PF) (2 FTA),4,865,6,1627674,203855,,1611661317,43,31,2
+01:22,[CHI] Copper Free Throw 1 of 2 Missed,0,-80,3,,1627674,,1611661329,43,31,2
+01:22,[CHI] Team Rebound,0,-80,4,,0,,1611661329,43,31,2
+01:22,[CHI 32-43] Copper Free Throw 2 of 2 (1 PTS),0,-80,3,,1627674,,1611661329,43,32,2
+01:05,[PHO] Griner Driving Bank shot: Missed,12,31,2,,203398,,1611661317,43,32,2
+01:05,[CHI] Boyette Rebound (Off:2 Def:4),0,-80,4,,1627677,,1611661329,43,32,2
+00:59.9,[CHI] Copper Alley Oop Layup shot: Missed,25,16,2,,1627674,,1611661329,43,32,2
+00:59.1,[PHO] Talbot Rebound (Off:1 Def:2),0,-80,4,,203855,,1611661317,43,32,2
+00:37.3,[PHO 45-32] Little Jump Shot: Made (7 PTS),1,46,1,,201067,,1611661317,45,32,2
+00:20.9,[CHI] Boyette Jump Shot: Missed,9,183,2,,1627677,,1611661329,45,32,2
+00:19.9,[CHI] Team Rebound,0,-80,4,,0,,1611661329,45,32,2
+00:18.3,[CHI] Team Timeout : Regular,0,-80,9,,0,,1611661329,45,32,2
+00:18.3,[PHO] Griner Substitution replaced by Cannon,0,-80,8,,203398,1628242,1611661317,45,32,2
+00:18.3,[CHI] Boyette Substitution replaced by Breland,0,-80,8,,1627677,202638,1611661329,45,32,2
+00:00.9,[CHI] Quigley Turnover : Lost Ball (2 TO) Steal:Cannon (1 ST),0,-80,5,1628242,201516,,1611661329,45,32,2
+00:00.2,[PHO] Mitchell 3pt Shot: Missed,-114,208,2,,201507,,1611661317,45,32,2
+00:00.0,[PHO] Team Rebound,0,-80,4,,0,,1611661317,45,32,2
+00:00.0,End Period,0,-80,13,,0,,0,45,32,2
+10:00,Start Period,0,-80,12,,0,,0,45,32,3
+09:43,[CHI 34-45] Breland Jump Shot: Made (5 PTS),79,169,1,,202638,,1611661329,45,34,3
+09:34,[CHI] Dolson Foul: Personal (4 PF),-35,85,6,203398,203828,,1611661329,45,34,3
+09:22,[PHO 48-34] Mitchell 3pt Shot: Made (8 PTS) Assist: Griner (2 AST),117,208,1,,201507,203398,1611661317,48,34,3
+09:09,[CHI 36-48] Breland Jump Shot: Made (7 PTS) Assist: Quigley (3 AST),60,185,1,,202638,201516,1611661329,48,36,3
+08:51,[PHO] Mitchell Turnover : Discontinue Dribble (3 TO),0,-80,5,,201507,,1611661317,48,36,3
+08:51,[CHI] Dolson Substitution replaced by Boyette,0,-80,8,,203828,1627677,1611661329,48,36,3
+08:44,[CHI] Young Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,201477,,1611661329,48,36,3
+08:33,[PHO] Taurasi 3pt Shot: Missed,-155,178,2,,100940,,1611661317,48,36,3
+08:32,[CHI] Boyette Rebound (Off:2 Def:5),0,-80,4,,1627677,,1611661329,48,36,3
+08:22,[CHI] Young 3pt Shot: Missed,-70,218,2,,201477,,1611661329,48,36,3
+08:22,[PHO] Taurasi Rebound (Off:0 Def:3),0,-80,4,,100940,,1611661317,48,36,3
+08:05,[PHO] Little 3pt Shot: Missed,-19,229,2,,201067,,1611661317,48,36,3
+08:04,[CHI] Boyette Rebound (Off:2 Def:6),0,-80,4,,1627677,,1611661329,48,36,3
+07:40,[CHI 38-48] Boyette Jump Shot: Made (3 PTS) Assist: Breland (1 AST),163,11,1,,1627677,202638,1611661329,48,38,3
+07:28,[PHO] Taurasi Jump Shot: Missed,128,2,2,,100940,,1611661317,48,38,3
+07:27,[CHI] Breland Rebound (Off:0 Def:3),0,-80,4,,202638,,1611661329,48,38,3
+07:22,[CHI] Quigley 3pt Shot: Missed,68,228,2,,201516,,1611661329,48,38,3
+07:21,[PHO] Griner Rebound (Off:2 Def:5),0,-80,4,,203398,,1611661317,48,38,3
+07:07,[CHI] Breland Foul: Shooting (3 PF) (2 FTA),-14,13,6,203398,202638,,1611661329,48,38,3
+07:07,[PHO 49-38] Griner Free Throw 1 of 2 (8 PTS),0,-80,3,,203398,,1611661317,49,38,3
+07:07,[CHI] Breland Substitution replaced by Parker,0,-80,8,,202638,204323,1611661329,49,38,3
+07:07,[PHO 50-38] Griner Free Throw 2 of 2 (9 PTS),0,-80,3,,203398,,1611661317,50,38,3
+06:54,[CHI 41-50] Quigley 3pt Shot: Made (17 PTS) Assist: Boyette (2 AST),-107,213,1,,201516,1627677,1611661329,50,41,3
+06:37,[PHO 52-41] Talbot Layup Shot: Made (7 PTS) Assist: Taurasi (3 AST),14,7,1,,203855,100940,1611661317,52,41,3
+06:26,[CHI 43-52] Boyette Turnaround Jump Shot: Made (5 PTS) Assist: Pondexter (3 AST),89,26,1,,1627677,200665,1611661329,52,43,3
+06:26,Timeout : Official,0,-80,9,,0,,0,52,43,3
+06:26,[CHI] Young Substitution replaced by Copper,0,-80,8,,201477,1627674,1611661329,52,43,3
+06:07,[PHO] Mitchell Floating Jump shot: Missed,9,95,2,,201507,,1611661317,52,43,3
+06:05,[CHI] Parker Rebound (Off:0 Def:2),0,-80,4,,204323,,1611661329,52,43,3
+05:56,[CHI] Boyette Jump Shot: Missed,-202,-5,2,,1627677,,1611661329,52,43,3
+05:56,[CHI] Boyette Rebound (Off:3 Def:6),0,-80,4,,1627677,,1611661329,52,43,3
+05:53,[CHI] Boyette Jump Shot: Missed,30,21,2,,1627677,,1611661329,52,43,3
+05:52,[CHI] Parker Rebound (Off:1 Def:2),0,-80,4,,204323,,1611661329,52,43,3
+05:49,[CHI 45-52] Parker Reverse Layup Shot: Made (2 PTS),-6,11,1,,204323,,1611661329,52,45,3
+05:37,[PHO] Taurasi Turnover : Bad Pass (1 TO) Steal:Boyette (1 ST),0,-80,5,1627677,100940,,1611661317,52,45,3
+05:31,[CHI] Quigley Running Layup Shot: Missed,22,11,2,,201516,,1611661329,52,45,3
+05:29,[PHO] Mitchell Rebound (Off:0 Def:4),0,-80,4,,201507,,1611661317,52,45,3
+05:24,[PHO] Griner Jump Shot: Missed,84,28,2,,203398,,1611661317,52,45,3
+05:22,[CHI] Boyette Rebound (Off:3 Def:7),0,-80,4,,1627677,,1611661329,52,45,3
+05:07,[CHI] Pondexter Jump Shot: Missed,9,124,2,,200665,,1611661329,52,45,3
+05:07,[PHO] Griner Rebound (Off:2 Def:6),0,-80,4,,203398,,1611661317,52,45,3
+04:48,[CHI] Parker Foul: Shooting (3 PF) (2 FTA),0,23,6,203398,204323,,1611661329,52,45,3
+04:48,[PHO 53-45] Griner Free Throw 1 of 2 (10 PTS),0,-80,3,,203398,,1611661317,53,45,3
+04:48,[CHI] Quigley Substitution replaced by Young,0,-80,8,,201516,201477,1611661329,53,45,3
+04:48,[PHO] Little Substitution replaced by Murphy,0,-80,8,,201067,201062,1611661317,53,45,3
+04:48,[PHO] Taurasi Substitution replaced by Cannon,0,-80,8,,100940,1628242,1611661317,53,45,3
+04:48,[PHO 54-45] Griner Free Throw 2 of 2 (11 PTS),0,-80,3,,203398,,1611661317,54,45,3
+04:35,[CHI] Parker Foul: Offensive (4 PF),71,223,6,201062,204323,,1611661329,54,45,3
+04:35,[CHI] Parker Turnover : Foul (1 TO),0,-80,5,,204323,,1611661329,54,45,3
+04:23,[CHI] Boyette Foul: Shooting (4 PF) (2 FTA),-1,33,6,203398,1627677,,1611661329,54,45,3
+04:23,[PHO 55-45] Griner Free Throw 1 of 2 (12 PTS),0,-80,3,,203398,,1611661317,55,45,3
+04:23,[PHO 56-45] Griner Free Throw 2 of 2 (13 PTS),0,-80,3,,203398,,1611661317,56,45,3
+04:03,[CHI] Copper 3pt Shot: Missed,-135,203,2,,1627674,,1611661329,56,45,3
+04:03,[PHO] Cannon Rebound (Off:0 Def:3),0,-80,4,,1628242,,1611661317,56,45,3
+03:57,[PHO] Talbot Running Reverse Layup Shot: Missed,22,8,2,,203855,,1611661317,56,45,3
+03:55,[CHI] Copper Rebound (Off:0 Def:2),0,-80,4,,1627674,,1611661329,56,45,3
+03:43,[CHI] Young Layup Shot: Missed,4,23,2,,201477,,1611661329,56,45,3
+03:43,[PHO] Talbot Rebound (Off:1 Def:3),0,-80,4,,203855,,1611661317,56,45,3
+03:32,[CHI] Copper Foul: Shooting (1 PF) (2 FTA),-63,28,6,201507,1627674,,1611661329,56,45,3
+03:32,[PHO 57-45] Mitchell Free Throw 1 of 2 (9 PTS),0,-80,3,,201507,,1611661317,57,45,3
+03:32,[CHI] Young Substitution replaced by Quigley,0,-80,8,,201477,201516,1611661329,57,45,3
+03:32,[PHO 58-45] Mitchell Free Throw 2 of 2 (10 PTS),0,-80,3,,201507,,1611661317,58,45,3
+03:18,[PHO] Murphy Foul: Personal (2 PF),-147,156,6,1627674,201062,,1611661317,58,45,3
+03:18,[CHI] Boyette Substitution replaced by Breland,0,-80,8,,1627677,202638,1611661329,58,45,3
+03:18,[CHI] Parker Substitution replaced by Harris,0,-80,8,,204323,202644,1611661329,58,45,3
+03:08,[CHI 47-58] Pondexter Jump Shot: Made (9 PTS) Assist: Breland (2 AST),58,203,1,,200665,202638,1611661329,58,47,3
+02:46,[PHO] Griner Layup Shot: Missed,22,2,2,,203398,,1611661317,58,47,3
+02:45,[PHO] Griner Rebound (Off:3 Def:6),0,-80,4,,203398,,1611661317,58,47,3
+02:43,[PHO 60-47] Griner Putback Layup Shot: Made (15 PTS),12,-1,1,,203398,,1611661317,60,47,3
+02:18,[CHI] Pondexter 3pt Shot: Missed,28,234,2,,200665,,1611661329,60,47,3
+02:17,[CHI] Copper Rebound (Off:1 Def:2),0,-80,4,,1627674,,1611661329,60,47,3
+02:04,[CHI 50-60] Breland 3pt Shot: Made (10 PTS) Assist: Pondexter (4 AST),24,234,1,,202638,200665,1611661329,60,50,3
+01:53,[PHO] Talbot Turnover : Lost Ball (1 TO) Steal:Breland (2 ST),0,-80,5,202638,203855,,1611661317,60,50,3
+01:47,[CHI 52-60] Pondexter Running Layup Shot: Made (11 PTS) Assist: Breland (3 AST),-2,3,1,,200665,202638,1611661329,60,52,3
+01:30,[PHO 62-52] Cannon Cutting Layup Shot: Made (5 PTS) Assist: Talbot (2 AST),-2,2,1,,1628242,203855,1611661317,62,52,3
+01:19,[CHI] Quigley Turnover : Lost Ball (3 TO) Steal:Mitchell (2 ST),0,-80,5,201507,201516,,1611661329,62,52,3
+01:13,[PHO] Mitchell Running Layup Shot: Missed,12,7,2,,201507,,1611661317,62,52,3
+01:13,[PHO] Talbot Rebound (Off:2 Def:3),0,-80,4,,203855,,1611661317,62,52,3
+01:10,[PHO 64-52] Talbot Putback Layup Shot: Made (9 PTS),-4,3,1,,203855,,1611661317,64,52,3
+00:46.6,[CHI 55-64] Breland 3pt Shot: Made (13 PTS) Assist: Quigley (4 AST),-20,232,1,,202638,201516,1611661329,64,55,3
+00:23.6,[PHO 66-55] Cannon Reverse Layup Shot: Made (7 PTS) Assist: Murphy (4 AST),4,7,1,,1628242,201062,1611661317,66,55,3
+00:00.8,[CHI] Pondexter Turnaround Jump Shot: Missed,-55,41,2,,200665,,1611661329,66,55,3
+00:00.2,[CHI] Harris Rebound (Off:2 Def:0),0,-80,4,,202644,,1611661329,66,55,3
+00:00.2,[PHO] Cannon Foul: Shooting (2 PF) (2 FTA),-29,11,6,202644,1628242,,1611661317,66,55,3
+00:00.2,[CHI 56-66] Harris Free Throw 1 of 2 (3 PTS),0,-80,3,,202644,,1611661329,66,56,3
+00:00.2,[PHO] Talbot Substitution replaced by Turner,0,-80,8,,203855,203389,1611661317,66,56,3
+00:00.2,[PHO] Murphy Substitution replaced by Taurasi,0,-80,8,,201062,100940,1611661317,66,56,3
+00:00.2,[CHI] Copper Substitution replaced by Young,0,-80,8,,1627674,201477,1611661329,66,56,3
+00:00.2,[CHI] Harris Free Throw 2 of 2 Missed,0,-80,3,,202644,,1611661329,66,56,3
+00:00.0,[CHI] Team Rebound,0,-80,4,,0,,1611661329,66,56,3
+00:00.0,End Period,0,-80,13,,0,,0,66,56,3
+10:00,Start Period,0,-80,12,,0,,0,66,56,4
+09:43,[PHO 68-56] Griner Jump Shot: Made (17 PTS) Assist: Taurasi (4 AST),51,7,1,,203398,100940,1611661317,68,56,4
+09:43,[CHI] Boyette Foul: Shooting (5 PF) (1 FTA),51,7,6,203398,1627677,,1611661329,68,56,4
+09:43,[PHO 69-56] Griner Free Throw 1 of 1 (18 PTS),0,-80,3,,203398,,1611661317,69,56,4
+09:29,[CHI 58-69] Breland Jump Shot: Made (15 PTS) Assist: Boyette (3 AST),-81,174,1,,202638,1627677,1611661329,69,58,4
+09:01,[PHO 71-58] Cannon Jump Shot: Made (9 PTS) Assist: Murphy (5 AST),89,46,1,,1628242,201062,1611661317,71,58,4
+08:40,[CHI] Boyette Turnover : Bad Pass (1 TO),0,-80,5,,1627677,,1611661329,71,58,4
+08:40,[CHI] Boyette Substitution replaced by Dolson,0,-80,8,,1627677,203828,1611661329,71,58,4
+08:23,[PHO] Griner Turnaround Jump Shot: Missed,-43,106,2,,203398,,1611661317,71,58,4
+08:22,[CHI] Young Rebound (Off:0 Def:3),0,-80,4,,201477,,1611661329,71,58,4
+08:15,[CHI] Dolson Foul: Offensive (5 PF),33,232,6,203389,203828,,1611661329,71,58,4
+08:15,[CHI] Dolson Turnover : Foul (1 TO),0,-80,5,,203828,,1611661329,71,58,4
+08:03,[PHO] Cannon Turnover : Bad Pass (1 TO) Steal:Dolson (1 ST),0,-80,5,203828,1628242,,1611661317,71,58,4
+07:52,[CHI] Quigley Turnover : Lost Ball (4 TO) Steal:Murphy (1 ST),0,-80,5,201062,201516,,1611661329,71,58,4
+07:47,[PHO] Murphy 3pt Shot: Missed,105,208,2,,201062,,1611661317,71,58,4
+07:45,[CHI] Pondexter Rebound (Off:0 Def:1),0,-80,4,,200665,,1611661329,71,58,4
+07:36,[PHO] Cannon Foul: Shooting (3 PF) (2 FTA),46,18,6,200665,1628242,,1611661317,71,58,4
+07:36,[CHI 59-71] Pondexter Free Throw 1 of 2 (12 PTS),0,-80,3,,200665,,1611661329,71,59,4
+07:36,[CHI 60-71] Pondexter Free Throw 2 of 2 (13 PTS),0,-80,3,,200665,,1611661329,71,60,4
+07:19,[PHO] Turner Hook Shot: Missed,1,31,2,,203389,,1611661317,71,60,4
+07:18,[CHI] Quigley Rebound (Off:0 Def:3),0,-80,4,,201516,,1611661329,71,60,4
+07:09,[PHO] Murphy Foul: Personal (3 PF),-68,56,6,201477,201062,,1611661317,71,60,4
+07:03,[CHI 62-71] Young Layup Shot: Made (6 PTS),-6,7,1,,201477,,1611661329,71,62,4
+07:03,[PHO] Cannon Foul: Shooting (4 PF) (1 FTA),-6,7,6,201477,1628242,,1611661317,71,62,4
+07:03,[PHO] Cannon Substitution replaced by Little,0,-80,8,,1628242,201067,1611661317,71,62,4
+07:03,[CHI] Pondexter Substitution replaced by Copper,0,-80,8,,200665,1627674,1611661329,71,62,4
+07:03,[CHI] Dolson Substitution replaced by Boyette,0,-80,8,,203828,1627677,1611661329,71,62,4
+07:03,[CHI] Young Free Throw 1 of 1 Missed,0,-80,3,,201477,,1611661329,71,62,4
+07:02,[PHO] Little Rebound (Off:1 Def:2),0,-80,4,,201067,,1611661317,71,62,4
+06:53,[CHI] Quigley Foul: Personal (2 PF),-88,218,6,100940,201516,,1611661329,71,62,4
+06:44,[PHO 73-62] Griner Jump Shot: Made (20 PTS) Assist: Taurasi (5 AST),-16,164,1,,203398,100940,1611661317,73,62,4
+06:23,[CHI] Breland 3pt Shot: Missed,9,232,2,,202638,,1611661329,73,62,4
+06:23,[PHO] Team Rebound,0,-80,4,,0,,1611661317,73,62,4
+06:06,[PHO 75-62] Griner Jump Shot: Made (22 PTS),51,75,1,,203398,,1611661317,75,62,4
+05:48,[CHI] Breland Jump Shot: Missed Block: Griner (2 BLK),-40,11,2,203398,202638,,1611661329,75,62,4
+05:48,[CHI] Team Rebound,0,-80,4,,0,,1611661329,75,62,4
+05:48,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,75,62,4
+05:48,[CHI] Boyette Substitution replaced by Dolson,0,-80,8,,1627677,203828,1611661329,75,62,4
+05:48,[CHI] Copper Substitution replaced by Pondexter,0,-80,8,,1627674,200665,1611661329,75,62,4
+05:46,[CHI] Breland Foul: Offensive Charge (4 PF),10,11,6,201062,202638,,1611661329,75,62,4
+05:46,[CHI] Breland Turnover : Foul (1 TO),0,-80,5,,202638,,1611661329,75,62,4
+05:23,[PHO] Taurasi Jump Shot: Missed,-186,77,2,,100940,,1611661317,75,62,4
+05:23,[CHI] Pondexter Rebound (Off:0 Def:2),0,-80,4,,200665,,1611661329,75,62,4
+05:13,[CHI] Breland Turnover : Bad Pass (2 TO),0,-80,5,,202638,,1611661329,75,62,4
+04:57,[PHO] Turner Turnover : Bad Pass (1 TO) Steal:Pondexter (1 ST),0,-80,5,200665,203389,,1611661317,75,62,4
+04:57,[PHO] Taurasi Foul: Personal (2 PF),123,555,6,200665,100940,,1611661317,75,62,4
+04:57,[PHO] Murphy Substitution replaced by Talbot,0,-80,8,,201062,203855,1611661317,75,62,4
+04:39,[CHI] Pondexter Driving Layup Shot: Missed,-6,21,2,,200665,,1611661329,75,62,4
+04:39,[CHI] Team Rebound,0,-80,4,,0,,1611661329,75,62,4
+04:35,[CHI] Pondexter Jump Shot: Missed,-204,7,2,,200665,,1611661329,75,62,4
+04:35,[CHI] Quigley Rebound (Off:1 Def:3),0,-80,4,,201516,,1611661329,75,62,4
+04:27,[PHO] Griner Foul: Personal (3 PF) (2 FTA),-2,200,6,203828,203398,,1611661317,75,62,4
+04:27,[CHI 63-75] Dolson Free Throw 1 of 2 (1 PTS),0,-80,3,,203828,,1611661329,75,63,4
+04:27,[PHO] Little Violation:Double Lane,0,-80,7,,201067,,1611661317,75,63,4
+04:27,[CHI 64-75] Dolson Free Throw 2 of 2 (2 PTS),0,-80,3,,203828,,1611661329,75,64,4
+04:09,[CHI] Dolson Foul: Shooting (6 PF) (2 FTA),-68,51,6,201067,203828,,1611661329,75,64,4
+04:09,[PHO] Turner Substitution replaced by Mitchell,0,-80,8,,203389,201507,1611661317,75,64,4
+04:09,[CHI] Dolson Substitution replaced by Boyette,0,-80,8,,203828,1627677,1611661329,75,64,4
+04:09,[PHO] Little Free Throw 1 of 2 Missed,0,-80,3,,201067,,1611661317,75,64,4
+04:09,[PHO] Team Rebound,0,-80,4,,0,,1611661317,75,64,4
+04:09,[PHO] Little Free Throw 2 of 2 Missed,0,-80,3,,201067,,1611661317,75,64,4
+04:09,[CHI] Team Rebound,0,-80,4,,0,,1611661329,75,64,4
+04:09,[PHO] Talbot Foul: Personal (3 PF) (2 FTA),-37,835,6,1627677,203855,,1611661317,75,64,4
+04:09,[CHI 65-75] Boyette Free Throw 1 of 2 (6 PTS),0,-80,3,,1627677,,1611661329,75,65,4
+04:09,[CHI 66-75] Boyette Free Throw 2 of 2 (7 PTS),0,-80,3,,1627677,,1611661329,75,66,4
+04:04,[PHO] Griner Foul: Offensive (4 PF),133,239,6,201516,203398,,1611661317,75,66,4
+04:04,[PHO] Griner Turnover : Foul (1 TO),0,-80,5,,203398,,1611661317,75,66,4
+03:54,[CHI] Quigley 3pt Shot: Missed,-133,200,2,,201516,,1611661329,75,66,4
+03:54,[CHI] Young Rebound (Off:1 Def:3),0,-80,4,,201477,,1611661329,75,66,4
+03:40,[CHI] Boyette Hook Shot: Missed Block: Griner (3 BLK),-11,36,2,203398,1627677,,1611661329,75,66,4
+03:39,[CHI] Team Rebound,0,-80,4,,0,,1611661329,75,66,4
+03:39,[CHI] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661329,75,66,4
+03:27,[PHO] Mitchell 3pt Shot: Missed,155,175,2,,201507,,1611661317,75,66,4
+03:26,[CHI] Quigley Rebound (Off:1 Def:4),0,-80,4,,201516,,1611661329,75,66,4
+03:10,[CHI 68-75] Boyette Cutting Layup Shot: Made (9 PTS) Assist: Quigley (5 AST),-16,13,1,,1627677,201516,1611661329,75,68,4
+02:47,[PHO 77-68] Griner Jump Shot: Made (24 PTS) Assist: Mitchell (3 AST),24,110,1,,203398,201507,1611661317,77,68,4
+02:35,[CHI 70-77] Young Jump Shot: Made (8 PTS),-81,149,1,,201477,,1611661329,77,70,4
+02:35,[PHO] Team Timeout : Short,0,-80,9,,0,,1611661317,77,70,4
+02:35,[CHI] Team Timeout : Regular,0,-80,9,,0,,1611661329,77,70,4
+02:17,[PHO] Griner Turnover : Bad Pass (2 TO) Steal:Pondexter (2 ST),0,-80,5,200665,203398,,1611661317,77,70,4
+02:12,[CHI] Pondexter Turnover : Bad Pass (3 TO) Steal:Little (1 ST),0,-80,5,201067,200665,,1611661329,77,70,4
+01:48,[PHO 79-70] Griner Cutting Layup Shot: Made (26 PTS) Assist: Mitchell (4 AST),9,3,1,,203398,201507,1611661317,79,70,4
+01:48,[CHI] Breland Foul: Shooting (5 PF) (1 FTA),9,3,6,203398,202638,,1611661329,79,70,4
+01:48,[CHI] Young Substitution replaced by Copper,0,-80,8,,201477,1627674,1611661329,79,70,4
+01:48,[PHO 80-70] Griner Free Throw 1 of 1 (27 PTS),0,-80,3,,203398,,1611661317,80,70,4
+01:40,[CHI 72-80] Quigley Jump Shot: Made (19 PTS) Assist: Pondexter (5 AST),166,110,1,,201516,200665,1611661329,80,72,4
+01:16,[PHO] Griner Jump Shot: Missed,1,160,2,,203398,,1611661317,80,72,4
+01:16,[CHI] Breland Rebound (Off:0 Def:4),0,-80,4,,202638,,1611661329,80,72,4
+00:57.9,[CHI 75-80] Breland 3pt Shot: Made (18 PTS) Assist: Quigley (6 AST),-135,190,1,,202638,201516,1611661329,80,75,4
+00:46.5,[CHI] Pondexter Foul: Shooting (4 PF) (2 FTA),102,149,6,100940,200665,,1611661329,80,75,4
+00:46.5,[CHI] Pondexter Technical,0,-80,6,,200665,,1611661329,80,75,4
+00:46.5,[CHI] Pondexter Ejection:No Ejection,0,-80,11,,200665,,1611661329,80,75,4
+00:46.5,[CHI] Pondexter Technical,0,-80,6,,200665,,1611661329,80,75,4
+00:46.5,[CHI] Pondexter Substitution replaced by Young,0,-80,8,,200665,201477,1611661329,80,75,4
+00:46.5,[PHO 81-75] Taurasi Free Throw Technical (10 PTS),0,-80,3,,100940,,1611661317,81,75,4
+00:46.5,[PHO 82-75] Taurasi Free Throw Technical (11 PTS),0,-80,3,,100940,,1611661317,82,75,4
+00:46.5,[PHO 83-75] Taurasi Free Throw 1 of 2 (12 PTS),0,-80,3,,100940,,1611661317,83,75,4
+00:46.5,[PHO 84-75] Taurasi Free Throw 2 of 2 (13 PTS),0,-80,3,,100940,,1611661317,84,75,4
+00:46.5,[CHI] Team Timeout : Short,0,-80,9,,0,,1611661329,84,75,4
+00:32.5,[CHI] Breland 3pt Shot: Missed,43,232,2,,202638,,1611661329,84,75,4
+00:32.0,[CHI] Copper Rebound (Off:2 Def:2),0,-80,4,,1627674,,1611661329,84,75,4
+00:32.0,[CHI 77-84] Copper Putback Layup Shot: Made (3 PTS),9,2,1,,1627674,,1611661329,84,77,4
+00:32.0,[PHO] Taurasi Foul: Shooting (3 PF) (1 FTA),9,2,6,1627674,100940,,1611661317,84,77,4
+00:32.0,[CHI 78-84] Copper Free Throw 1 of 1 (4 PTS),0,-80,3,,1627674,,1611661329,84,78,4
+00:32.0,[PHO] Team Timeout : Short,0,-80,9,,0,,1611661317,84,78,4
+00:30.7,[CHI] Copper Foul: Personal Take (2 PF) (2 FTA),166,237,6,100940,1627674,,1611661329,84,78,4
+00:30.7,[PHO 85-78] Taurasi Free Throw 1 of 2 (14 PTS),0,-80,3,,100940,,1611661317,85,78,4
+00:30.7,[PHO 86-78] Taurasi Free Throw 2 of 2 (15 PTS),0,-80,3,,100940,,1611661317,86,78,4
+00:30.7,[CHI] Team Timeout : Short,0,-80,9,,0,,1611661329,86,78,4
+00:14.6,[CHI] Young Jump Shot: Missed,101,144,2,,201477,,1611661329,86,78,4
+00:13.9,[PHO] Taurasi Rebound (Off:0 Def:4),0,-80,4,,100940,,1611661317,86,78,4
+00:00.0,End Period,0,-80,13,,0,,0,86,78,4

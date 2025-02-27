@@ -1,0 +1,387 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Cambage vs Turner (Brown gains possession),0,-80,10,1629488,202633,1628882,1611661320,0,0,1
+09:44,[LAS 3-0] Brown 3pt Shot: Made (3 PTS) Assist: Samuelson (1 AST),126,197,1,,1628882,1629478,1611661320,3,0,1
+09:29,[PHO 2-3] Diggins-Smith Cutting Layup Shot: Made (2 PTS) Assist: Turner (1 AST),-3,7,1,,203400,1629488,1611661317,3,2,1
+09:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,3,2,1
+09:13,[LAS] Cambage Layup Shot: Missed,-11,3,2,,202633,,1611661320,3,2,1
+09:11,[PHO] Turner Rebound (Off:0 Def:1),-11,3,4,,1629488,,1611661317,3,2,1
+09:06,[PHO] Taurasi 3pt Shot: Missed,85,222,2,,100940,,1611661317,3,2,1
+09:03,[PHO] Turner Rebound (Off:1 Def:1),85,222,4,,1629488,,1611661317,3,2,1
+08:58,[PHO] Peddy 3pt Shot: Missed,-223,-11,2,,203035,,1611661317,3,2,1
+08:55,[LAS] Cambage Rebound (Off:0 Def:1),-223,-11,4,,202633,,1611661320,3,2,1
+08:50,[LAS] Brown Turnover : Out of Bounds Lost Ball Turnover (1 TO),-234,56,5,,1628882,,1611661320,3,2,1
+08:35,[PHO] Cunningham 3pt Shot: Missed,107,248,2,,1629482,,1611661317,3,2,1
+08:32,[LAS] Canada Rebound (Off:0 Def:1),107,248,4,,1628886,,1611661320,3,2,1
+08:32,[PHO] Cunningham Foul: Personal (1 PF),1,580,6,1628886,1629482,,1611661317,3,2,1
+08:14,[LAS 5-2] Cambage Cutting Layup Shot: Made (2 PTS) Assist: Brown (1 AST),4,25,1,,202633,1628882,1611661320,5,2,1
+07:55,[PHO 5-5] Cunningham 3pt Shot: Made (3 PTS) Assist: Taurasi (1 AST),69,239,1,,1629482,100940,1611661317,5,5,1
+07:36,[LAS 7-5] Cambage Cutting Layup Shot: Made (4 PTS) Assist: N Ogwumike (1 AST),0,10,1,,202633,203014,1611661320,7,5,1
+07:26,[PHO] Diggins-Smith Driving Floating Jump Shot: Missed,7,50,2,,203400,,1611661317,7,5,1
+07:23,[LAS] Cambage Rebound (Off:0 Def:2),7,50,4,,202633,,1611661320,7,5,1
+07:08,[LAS 9-5] N Ogwumike Cutting Layup Shot: Made (2 PTS) Assist: Brown (2 AST),-10,1,1,,203014,1628882,1611661320,9,5,1
+06:41,[PHO 7-9] Taurasi Pullup Jump shot: Made (2 PTS),82,119,1,,100940,,1611661317,9,7,1
+06:25,[LAS] Cambage Turnover : Double Dribble (1 TO),-18,62,5,,202633,,1611661320,9,7,1
+06:25,[LAS] Cambage Substitution replaced by C Ogwumike,0,-80,8,,202633,203823,1611661320,9,7,1
+06:14,[PHO 9-9] Turner Cutting Layup Shot: Made (2 PTS) Assist: Taurasi (2 AST),10,7,1,,1629488,100940,1611661317,9,9,1
+05:52,[LAS] N Ogwumike Turnaround Jump Shot: Missed,-84,49,2,,203014,,1611661320,9,9,1
+05:50,[PHO] Turner Rebound (Off:1 Def:2),-84,49,4,,1629488,,1611661317,9,9,1
+05:32,[PHO] Diggins-Smith Turnover : Traveling (1 TO),100,166,5,,203400,,1611661317,9,9,1
+05:23,[LAS] Canada Turnover : Bad Pass (1 TO) Steal:Diggins-Smith (1 ST),87,284,5,203400,1628886,,1611661320,9,9,1
+05:19,[LAS] Canada Foul: Shooting (1 PF) (2 FTA),-3,28,6,203400,1628886,,1611661320,9,9,1
+05:19,[PHO 10-9] Diggins-Smith Free Throw 1 of 2 (3 PTS),0,-80,3,,203400,,1611661317,9,10,1
+05:19,[PHO 11-9] Diggins-Smith Free Throw 2 of 2 (4 PTS),0,-80,3,,203400,,1611661317,9,11,1
+05:03,[LAS] Canada Turnover : Bad Pass (2 TO) Steal:Peddy (1 ST),26,44,5,203035,1628886,,1611661320,9,11,1
+04:59,[PHO 13-9] Cunningham Running Layup Shot: Made (5 PTS) Assist: Taurasi (3 AST),-1,7,1,,1629482,100940,1611661317,9,13,1
+04:44,[PHO] Taurasi Foul: Shooting (1 PF) (2 FTA),20,15,6,203823,100940,,1611661317,9,13,1
+04:44,Timeout Officials,0,-80,9,,0,,0,9,13,1
+04:44,[LAS] N Ogwumike Substitution replaced by Cambage,0,-80,8,,203014,202633,1611661320,9,13,1
+04:44,[PHO] Taurasi Substitution replaced by Gustafson,0,-80,8,,100940,1629484,1611661317,9,13,1
+04:44,[PHO] Turner Substitution replaced by DeShields,0,-80,8,,1629488,1628890,1611661317,9,13,1
+04:44,[LAS] C Ogwumike Free Throw 1 of 2 Missed,0,-80,3,,203823,,1611661320,9,13,1
+04:44,[LAS] Team Rebound,0,-80,4,,0,,1611661320,9,13,1
+04:44,[LAS] C Ogwumike Free Throw 2 of 2 Missed,0,-80,3,,203823,,1611661320,9,13,1
+04:41,[PHO] DeShields Rebound (Off:0 Def:1),0,-80,4,,1628890,,1611661317,9,13,1
+04:32,[PHO] DeShields Turnover : Lost Ball (1 TO) Steal:Brown (1 ST),160,130,5,1628882,1628890,,1611661317,9,13,1
+04:19,[LAS 11-13] C Ogwumike Jump Shot: Made (2 PTS),-85,159,1,,203823,,1611661320,11,13,1
+03:53,[PHO] Cunningham 3pt Shot: Missed,-111,258,2,,1629482,,1611661317,11,13,1
+03:51,[PHO] Gustafson Rebound (Off:1 Def:0),-111,258,4,,1629484,,1611661317,11,13,1
+03:51,[PHO] Team Turnover : Shot Clock Turnover,8,64,5,,0,,1611661317,11,13,1
+03:39,[LAS] Canada Turnover : Bad Pass (3 TO) Steal:Cunningham (1 ST),-13,771,5,1629482,1628886,,1611661320,11,13,1
+03:36,[PHO] DeShields Turnover : Traveling (2 TO),13,65,5,,1628890,,1611661317,11,13,1
+03:19,[LAS] Canada Turnover : Traveling (4 TO),39,51,5,,1628886,,1611661320,11,13,1
+03:01,[PHO] Cunningham 3pt Shot: Missed,145,204,2,,1629482,,1611661317,11,13,1
+02:57,[LAS] Brown Rebound (Off:0 Def:1),145,204,4,,1628882,,1611661320,11,13,1
+02:51,[LAS 13-13] Cambage Driving Bank Hook Shot: Made (6 PTS) Assist: Canada (1 AST),31,69,1,,202633,1628886,1611661320,13,13,1
+02:51,[PHO] Gustafson Foul: Shooting (1 PF) (1 FTA),31,69,6,202633,1629484,,1611661317,13,13,1
+02:51,[LAS] Samuelson Substitution replaced by Walker,0,-80,8,,1629478,1630444,1611661320,13,13,1
+02:51,[LAS 14-13] Cambage Free Throw 1 of 1 (7 PTS),0,-80,3,,202633,,1611661320,14,13,1
+02:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,13,1
+02:35,[PHO] Gustafson Substitution replaced by Taurasi,0,-80,8,,1629484,100940,1611661317,14,13,1
+02:35,[PHO] Peddy Substitution replaced by Gray,0,-80,8,,203035,204334,1611661317,14,13,1
+02:27,[PHO] DeShields Turnover : Lost Ball (3 TO) Steal:Walker (1 ST),38,72,5,1630444,1628890,,1611661317,14,13,1
+02:19,[LAS] Canada Floating Jump shot: Missed,3,87,2,,1628886,,1611661320,14,13,1
+02:16,[LAS] Canada Rebound (Off:1 Def:1),3,87,4,,1628886,,1611661320,14,13,1
+02:15,[LAS 16-13] Canada Layup Shot: Made (2 PTS),-15,14,1,,1628886,,1611661320,16,13,1
+02:12,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,16,13,1
+02:12,[PHO] DeShields Substitution replaced by Simms,0,-80,8,,1628890,1628287,1611661317,16,13,1
+01:57,[PHO 16-16] Gray 3pt Shot: Made (3 PTS) Assist: Diggins-Smith (1 AST),6,244,1,,204334,203400,1611661317,16,16,1
+01:38,[LAS] Canada Turnover : Bad Pass (5 TO) Steal:Simms (1 ST),23,40,5,1628287,1628886,,1611661320,16,16,1
+01:32,[PHO 18-16] Simms Running Layup Shot: Made (2 PTS) Assist: Diggins-Smith (2 AST),-1,13,1,,1628287,203400,1611661317,16,18,1
+01:05,[LAS] Canada Driving Layup Shot: Missed,-21,15,2,204334,1628886,,1611661320,16,18,1
+01:05,[LAS] Team Rebound,-21,15,4,,0,,1611661320,16,18,1
+01:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,18,1
+01:04,[LAS] Brown Cutting Layup Shot: Missed,15,1,2,,1628882,,1611661320,16,18,1
+01:02,[PHO] Diggins-Smith Rebound (Off:0 Def:1),15,1,4,,203400,,1611661317,16,18,1
+01:02,[LAS] C Ogwumike Foul: Personal (1 PF),-92,690,6,203400,203823,,1611661320,16,18,1
+00:53.0,[PHO] Taurasi 3pt Shot: Missed,-92,247,2,,100940,,1611661317,16,18,1
+00:51.2,[LAS] Walker Rebound (Off:0 Def:1),-92,247,4,,1630444,,1611661320,16,18,1
+00:43.3,[PHO] Gray Foul: Shooting (1 PF) (2 FTA),24,17,6,202633,204334,,1611661317,16,18,1
+00:43.3,[LAS 17-18] Cambage Free Throw 1 of 2 (8 PTS),0,-80,3,,202633,,1611661320,17,18,1
+00:43.3,[LAS 18-18] Cambage Free Throw 2 of 2 (9 PTS),0,-80,3,,202633,,1611661320,18,18,1
+00:31.9,[LAS] Brown Foul: Personal (1 PF) (2 FTA),-74,227,6,100940,1628882,,1611661320,18,18,1
+00:31.9,[PHO 19-18] Taurasi Free Throw 1 of 2 (3 PTS),0,-80,3,,100940,,1611661317,18,19,1
+00:31.9,[PHO 20-18] Taurasi Free Throw 2 of 2 (4 PTS),0,-80,3,,100940,,1611661317,18,20,1
+00:15.7,[LAS] C Ogwumike Turnover : Out of Bounds - Bad Pass Turnover (1 TO),71,-17,5,,203823,,1611661320,18,20,1
+00:03.9,[PHO] Diggins-Smith Driving Floating Jump Shot: Missed,-51,85,2,,203400,,1611661317,18,20,1
+00:01.1,[LAS] Canada Rebound (Off:1 Def:2),-51,85,4,,1628886,,1611661320,18,20,1
+00:01.0,[LAS] Canada 3pt Shot: Missed,-61,420,2,,1628886,,1611661320,18,20,1
+00:00.1,[LAS] Team Rebound,-61,420,4,,0,,1611661320,18,20,1
+00:00.0,End Period,0,-80,13,,0,,0,18,20,1
+10:00,Start Period,0,-80,12,,0,,0,18,20,2
+09:50,[PHO] Peddy Foul: Offensive (1 PF),150,130,6,1628882,203035,,1611661317,18,20,2
+09:50,[PHO] Peddy Turnover : Offensive Foul Turnover (1 TO),150,130,5,,203035,,1611661317,18,20,2
+09:30,[LAS 20-20] Brown Pullup Jump shot: Made (5 PTS),-96,111,1,,1628882,,1611661320,20,20,2
+09:13,[PHO] Gray Turnover : Out of Bounds Lost Ball Turnover (1 TO),-61,-3,5,,204334,,1611661317,20,20,2
+08:54,[LAS 22-20] N Ogwumike Jump Shot: Made (4 PTS) Assist: Canada (2 AST),-97,111,1,,203014,1628886,1611661320,22,20,2
+08:35,[PHO 22-22] Gray Cutting Layup Shot: Made (5 PTS) Assist: Peddy (1 AST),-17,21,1,,204334,203035,1611661317,22,22,2
+08:16,[LAS] Brown Turnover : Bad Pass (2 TO) Steal:Peddy (2 ST),-74,123,5,203035,1628882,,1611661320,22,22,2
+08:11,[PHO 24-22] Gray Running Layup Shot: Made (7 PTS) Assist: Peddy (2 AST),-4,17,1,,204334,203035,1611661317,22,24,2
+07:51,[LAS 24-24] Cambage Hook Shot: Made (11 PTS),10,58,1,,202633,,1611661320,24,24,2
+07:51,[PHO] Gray Foul: Shooting (2 PF) (1 FTA),10,58,6,202633,204334,,1611661317,24,24,2
+07:51,[LAS 25-24] Cambage Free Throw 1 of 1 (12 PTS),0,-80,3,,202633,,1611661320,25,24,2
+07:39,[PHO] Taurasi 3pt Shot: Missed,207,90,2,,100940,,1611661317,25,24,2
+07:35,[LAS] N Ogwumike Rebound (Off:0 Def:1),207,90,4,,203014,,1611661320,25,24,2
+07:31,[LAS] Samuelson 3pt Shot: Missed,222,69,2,,1629478,,1611661320,25,24,2
+07:29,[LAS] Team Rebound,222,69,4,,0,,1611661320,25,24,2
+07:29,[PHO] Gray Foul: Loose Ball (3 PF),27,90,6,202633,204334,,1611661317,25,24,2
+07:29,"Double Technical - Gray, Cambage",0,-80,6,202633,204334,,1611661317,25,24,2
+07:16,[LAS 27-24] Canada Driving Finger Roll Layup Shot: Made (4 PTS),4,41,1,,1628886,,1611661320,27,24,2
+07:08,[PHO 26-27] DeShields Driving Layup Shot: Made (2 PTS) Assist: Taurasi (4 AST),-10,7,1,,1628890,100940,1611661317,27,26,2
+06:53,[LAS 29-26] N Ogwumike Cutting Layup Shot: Made (6 PTS) Assist: Canada (3 AST),12,15,1,,203014,1628886,1611661320,29,26,2
+06:37,[PHO] Taurasi Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-65,45,5,,100940,,1611661317,29,26,2
+06:21,[PHO] Turner Foul: Personal (1 PF),-11,35,6,203014,1629488,,1611661317,29,26,2
+06:21,[PHO] Gray Substitution replaced by Diggins-Smith,0,-80,8,,204334,203400,1611661317,29,26,2
+06:21,[PHO] Peddy Substitution replaced by Cunningham,0,-80,8,,203035,1629482,1611661317,29,26,2
+06:13,[LAS 31-26] N Ogwumike Jump Shot: Made (8 PTS) Assist: Samuelson (2 AST),172,103,1,,203014,1629478,1611661320,31,26,2
+05:58,[PHO] Taurasi Driving Hook Shot: Missed,4,16,2,,100940,,1611661317,31,26,2
+05:58,[LAS] Samuelson Rebound (Off:0 Def:1),4,16,4,,1629478,,1611661320,31,26,2
+05:51,[PHO] DeShields Foul: Shooting (1 PF) (2 FTA),-27,116,6,1629478,1628890,,1611661317,31,26,2
+05:51,Timeout Officials,0,-80,9,,0,,0,31,26,2
+05:51,[LAS] Brown Substitution replaced by Smith,0,-80,8,,1628882,1631147,1611661320,31,26,2
+05:51,[LAS 32-26] Samuelson Free Throw 1 of 2 (1 PTS),0,-80,3,,1629478,,1611661320,32,26,2
+05:51,[LAS 33-26] Samuelson Free Throw 2 of 2 (2 PTS),0,-80,3,,1629478,,1611661320,33,26,2
+05:35,[PHO] Diggins-Smith Foul: Offensive (1 PF),46,88,6,1628886,203400,,1611661317,33,26,2
+05:35,[PHO] Diggins-Smith Turnover : Offensive Foul Turnover (2 TO),46,88,5,,203400,,1611661317,33,26,2
+05:35,InstantReplay Request Stands,0,-80,18,,0,,0,33,26,2
+05:22,[LAS] Smith 3pt Shot: Missed,201,112,2,,1631147,,1611661320,33,26,2
+05:18,[LAS] Smith Rebound (Off:1 Def:0),201,112,4,,1631147,,1611661320,33,26,2
+05:14,[LAS 36-26] Samuelson 3pt Shot: Made (5 PTS) Assist: Smith (1 AST),-83,236,1,,1629478,1631147,1611661320,36,26,2
+05:03,[PHO] Turner Foul: Offensive (2 PF),-59,239,6,1629478,1629488,,1611661317,36,26,2
+05:03,[PHO] Turner Turnover : Offensive Foul Turnover (1 TO),-59,239,5,,1629488,,1611661317,36,26,2
+04:47,[LAS] N Ogwumike Floating Jump shot: Missed,-10,65,2,,203014,,1611661320,36,26,2
+04:44,[PHO] DeShields Rebound (Off:0 Def:2),-10,65,4,,1628890,,1611661317,36,26,2
+04:40,[PHO] Taurasi 3pt Shot: Missed,-161,203,2,,100940,,1611661317,36,26,2
+04:37,[LAS] Cambage Rebound (Off:0 Def:3),-161,203,4,,202633,,1611661320,36,26,2
+04:20,[LAS] Cambage Turnaround Fadeaway Bank Jump Shot: Missed,-50,52,2,,202633,,1611661320,36,26,2
+04:17,[PHO] Cunningham Rebound (Off:0 Def:1),-50,52,4,,1629482,,1611661317,36,26,2
+04:03,[PHO 28-36] Diggins-Smith Driving Layup Shot: Made (6 PTS) Assist: Cunningham (1 AST),-17,17,1,,203400,1629482,1611661317,36,28,2
+03:52,[LAS] Canada Pullup Jump shot: Missed,149,132,2,,1628886,,1611661320,36,28,2
+03:48,[PHO] Turner Rebound (Off:1 Def:3),149,132,4,,1629488,,1611661317,36,28,2
+03:42,[PHO] DeShields Pullup Jump shot: Missed,82,147,2,,1628890,,1611661317,36,28,2
+03:39,[LAS] N Ogwumike Rebound (Off:0 Def:2),82,147,4,,203014,,1611661320,36,28,2
+03:28,[PHO] DeShields Foul: Personal (2 PF) (2 FTA),173,202,6,1629478,1628890,,1611661317,36,28,2
+03:28,[LAS 37-28] Samuelson Free Throw 1 of 2 (6 PTS),0,-80,3,,1629478,,1611661320,37,28,2
+03:28,[LAS] Cambage Substitution replaced by C Ogwumike,0,-80,8,,202633,203823,1611661320,37,28,2
+03:28,[PHO] Taurasi Substitution replaced by Peddy,0,-80,8,,100940,203035,1611661317,37,28,2
+03:28,[LAS 38-28] Samuelson Free Throw 2 of 2 (7 PTS),0,-80,3,,1629478,,1611661320,38,28,2
+03:15,[PHO] Turner Turnover : Traveling (2 TO),17,38,5,,1629488,,1611661317,38,28,2
+03:01,[LAS] Canada Driving Finger Roll Layup Shot: Missed,-16,26,2,1629488,1628886,,1611661320,38,28,2
+02:55,[PHO] Peddy Rebound (Off:0 Def:1),-16,26,4,,203035,,1611661317,38,28,2
+02:54,[LAS] Samuelson Foul: Personal (1 PF),-111,71,6,203400,1629478,,1611661320,38,28,2
+02:54,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,38,28,2
+02:54,[PHO] Turner Substitution replaced by Gray,0,-80,8,,1629488,204334,1611661317,38,28,2
+02:50,[PHO 30-38] Peddy Cutting Layup Shot: Made (2 PTS) Assist: Cunningham (2 AST),-10,32,1,,203035,1629482,1611661317,38,30,2
+02:29,[LAS] C Ogwumike Jump Shot: Missed,-29,194,2,,203823,,1611661320,38,30,2
+02:25,[LAS] Smith Rebound (Off:2 Def:0),-29,194,4,,1631147,,1611661320,38,30,2
+02:16,[LAS] Canada Step Back Jump shot: Missed,-32,181,2,,1628886,,1611661320,38,30,2
+02:14,[LAS] Smith Rebound (Off:3 Def:0),-32,181,4,,1631147,,1611661320,38,30,2
+02:07,[LAS 40-30] N Ogwumike Cutting Layup Shot: Made (10 PTS) Assist: C Ogwumike (1 AST),-5,16,1,,203014,203823,1611661320,40,30,2
+02:07,[PHO] Cunningham Foul: Shooting (2 PF) (1 FTA),-5,16,6,203014,1629482,,1611661317,40,30,2
+02:07,[PHO] DeShields Substitution replaced by Taurasi,0,-80,8,,1628890,100940,1611661317,40,30,2
+02:07,[LAS 41-30] N Ogwumike Free Throw 1 of 1 (11 PTS),0,-80,3,,203014,,1611661320,41,30,2
+01:55,[PHO 32-41] Diggins-Smith Driving Layup Shot: Made (8 PTS),-26,26,1,,203400,,1611661317,41,32,2
+01:55,[LAS] Canada Foul: Shooting (2 PF) (1 FTA),-26,26,6,203400,1628886,,1611661320,41,32,2
+01:55,[PHO 33-41] Diggins-Smith Free Throw 1 of 1 (9 PTS),0,-80,3,,203400,,1611661317,41,33,2
+01:38,[LAS] Samuelson 3pt Shot: Missed,223,40,2,,1629478,,1611661320,41,33,2
+01:33,[PHO] Gray Rebound (Off:0 Def:1),223,40,4,,204334,,1611661317,41,33,2
+01:25,[PHO 35-41] Cunningham Driving Reverse Layup Shot: Made (7 PTS) Assist: Diggins-Smith (3 AST),-1,16,1,,1629482,203400,1611661317,41,35,2
+01:09,[LAS] N Ogwumike Foul: Offensive Charge (1 PF),49,22,6,204334,203014,,1611661320,41,35,2
+01:09,[LAS] N Ogwumike Turnover : Offensive Foul Turnover (1 TO),49,22,5,,203014,,1611661320,41,35,2
+01:09,[LAS] N Ogwumike Substitution replaced by Nelson-Ododa,0,-80,8,,203014,1631135,1611661320,41,35,2
+01:00,[PHO] Diggins-Smith Pullup Jump shot: Missed,-66,87,2,,203400,,1611661317,41,35,2
+00:56.6,[PHO] Diggins-Smith Rebound (Off:1 Def:1),-66,87,4,,203400,,1611661317,41,35,2
+00:53.1,[PHO 37-41] Peddy Driving Layup Shot: Made (4 PTS),0,38,1,,203035,,1611661317,41,37,2
+00:31.2,[LAS] Canada 3pt Shot: Missed,170,186,2,,1628886,,1611661320,41,37,2
+00:23.6,[PHO] Peddy Rebound (Off:0 Def:2),170,186,4,,203035,,1611661317,41,37,2
+00:19.8,[PHO 40-41] Peddy 3pt Shot: Made (7 PTS) Assist: Gray (1 AST),219,64,1,,203035,204334,1611661317,41,40,2
+00:01.2,[PHO] Gray Foul: Shooting (5 PF) (2 FTA),46,26,6,1628886,204334,,1611661317,41,40,2
+00:01.2,[LAS] Canada Free Throw 1 of 2 Missed,0,-80,3,,1628886,,1611661320,41,40,2
+00:01.2,[LAS] Team Rebound,0,-80,4,,0,,1611661320,41,40,2
+00:01.2,[LAS 42-40] Canada Free Throw 2 of 2 (5 PTS),0,-80,3,,1628886,,1611661320,42,40,2
+00:00.3,[PHO] Taurasi Turnover : Bad Pass (2 TO) Steal:Smith (1 ST),44,125,5,1631147,100940,,1611661317,42,40,2
+00:00.0,End Period,0,-80,13,,0,,0,42,40,2
+10:00,Start Period,0,-80,12,,0,,0,42,40,3
+09:50,[PHO] Diggins-Smith Turnover : Bad Pass (3 TO) Steal:Samuelson (1 ST),-204,108,5,1629478,203400,,1611661317,42,40,3
+09:49,[LAS] Samuelson Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),224,717,5,1629488,1629478,,1611661320,42,40,3
+09:33,[LAS] Samuelson Foul: Personal (2 PF),-173,161,6,1629482,1629478,,1611661320,42,40,3
+09:33,InstantReplay Request Stands,0,-80,18,,0,,0,42,40,3
+09:30,[PHO 43-42] Taurasi 3pt Shot: Made (7 PTS) Assist: Cunningham (3 AST),-169,169,1,,100940,1629482,1611661317,42,43,3
+09:03,[LAS] N Ogwumike Turnover : Lost Ball (2 TO) Steal:Turner (2 ST),51,58,5,1629488,203014,,1611661320,42,43,3
+08:49,[PHO] Taurasi 3pt Shot: Missed,-156,209,2,,100940,,1611661317,42,43,3
+08:45,[LAS] Samuelson Rebound (Off:0 Def:2),-156,209,4,,1629478,,1611661320,42,43,3
+08:37,[LAS 44-43] Cambage Turnaround Jump Shot: Made (14 PTS) Assist: N Ogwumike (2 AST),19,54,1,,202633,203014,1611661320,44,43,3
+08:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,43,3
+08:12,[PHO 46-44] Diggins-Smith 3pt Shot: Made (12 PTS) Assist: Taurasi (5 AST),49,246,1,,203400,100940,1611661317,44,46,3
+08:00,[PHO] Diggins-Smith Foul: Personal (2 PF),-182,254,6,1628886,203400,,1611661317,44,46,3
+07:55,[LAS 46-46] Canada Pullup Jump shot: Made (7 PTS),60,188,1,,1628886,,1611661320,46,46,3
+07:31,[PHO] Cunningham 3pt Shot: Missed,-184,176,2,,1629482,,1611661317,46,46,3
+07:28,[LAS] N Ogwumike Rebound (Off:0 Def:3),-184,176,4,,203014,,1611661320,46,46,3
+07:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,46,3
+07:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,46,3
+07:18,[LAS 49-46] Brown 3pt Shot: Made (8 PTS) Assist: Samuelson (3 AST),163,198,1,,1628882,1629478,1611661320,49,46,3
+07:02,[PHO 49-49] Diggins-Smith 3pt Shot: Made (15 PTS) Assist: Peddy (3 AST),76,245,1,,203400,203035,1611661317,49,49,3
+06:46,[LAS] Canada Jump Shot: Missed,-176,134,2,,1628886,,1611661320,49,49,3
+06:46,[PHO] Team Rebound,-176,134,4,,0,,1611661317,49,49,3
+06:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,49,49,3
+06:30,[PHO] Diggins-Smith Turnover : Out of Bounds - Bad Pass Turnover (4 TO),224,81,5,,203400,,1611661317,49,49,3
+06:30,[LAS] Cambage Substitution replaced by C Ogwumike,0,-80,8,,202633,203823,1611661320,49,49,3
+06:14,[PHO] Turner Foul: Shooting (3 PF) (2 FTA),-17,39,6,203014,1629488,,1611661317,49,49,3
+06:14,[LAS] N Ogwumike Free Throw 1 of 2 Missed,0,-80,3,,203014,,1611661320,49,49,3
+06:14,[LAS] Team Rebound,0,-80,4,,0,,1611661320,49,49,3
+06:14,[LAS 50-49] N Ogwumike Free Throw 2 of 2 (12 PTS),0,-80,3,,203014,,1611661320,50,49,3
+06:01,[LAS] Samuelson Foul: Personal (3 PF),196,166,6,100940,1629478,,1611661320,50,49,3
+06:01,[PHO] Turner Substitution replaced by Gustafson,0,-80,8,,1629488,1629484,1611661317,50,49,3
+05:59,[PHO] Taurasi Turnover : Bad Pass (3 TO) Steal:N Ogwumike (1 ST),193,-10,5,203014,100940,,1611661317,50,49,3
+05:49,[LAS] Brown Step Back Jump shot: Missed,105,39,2,,1628882,,1611661320,50,49,3
+05:46,[PHO] Diggins-Smith Rebound (Off:1 Def:2),105,39,4,,203400,,1611661317,50,49,3
+05:30,[PHO] Diggins-Smith Turnover : Bad Pass (5 TO) Steal:Brown (2 ST),-57,26,5,1628882,203400,,1611661317,50,49,3
+05:22,[LAS] Canada Turnover : Lost Ball (6 TO) Steal:Peddy (3 ST),73,131,5,203035,1628886,,1611661320,50,49,3
+05:22,[LAS] N Ogwumike Foul: Personal (2 PF),-117,649,6,203035,203014,,1611661320,50,49,3
+05:22,[LAS] Brown Substitution replaced by Cambage,0,-80,8,,1628882,202633,1611661320,50,49,3
+05:04,[PHO] Cunningham 3pt Shot: Missed,-229,10,2,,1629482,,1611661317,50,49,3
+04:57,[LAS] Canada Rebound (Off:1 Def:3),-229,10,4,,1628886,,1611661320,50,49,3
+04:56,[PHO] Gustafson Foul: Personal (2 PF),33,78,6,203014,1629484,,1611661317,50,49,3
+04:56,Timeout Officials,0,-80,9,,0,,0,50,49,3
+04:56,[LAS] Cambage Substitution replaced by Brown,0,-80,8,,202633,1628882,1611661320,50,49,3
+04:56,[PHO] Diggins-Smith Substitution replaced by DeShields,0,-80,8,,203400,1628890,1611661317,50,49,3
+04:49,[LAS] C Ogwumike Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-100,144,5,,203823,,1611661320,50,49,3
+04:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,49,3
+04:26,[PHO] Gustafson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),235,473,5,,1629484,,1611661317,50,49,3
+04:17,[LAS] Samuelson 3pt Shot: Missed,-182,220,2,,1629478,,1611661320,50,49,3
+04:14,[PHO] Peddy Rebound (Off:0 Def:3),-182,220,4,,203035,,1611661317,50,49,3
+04:10,[PHO] DeShields Running Pull-Up Jump Shot: Missed,89,110,2,,1628890,,1611661317,50,49,3
+04:05,[PHO] Cunningham Rebound (Off:1 Def:1),89,110,4,,1629482,,1611661317,50,49,3
+04:01,[PHO] Taurasi Turnover : Lost Ball (4 TO) Steal:Canada (1 ST),-35,234,5,1628886,100940,,1611661317,50,49,3
+04:01,[LAS] Canada Turnover : Out of Bounds - Bad Pass Turnover (7 TO),39,614,5,,1628886,,1611661320,50,49,3
+04:01,[PHO] Taurasi Substitution replaced by Diggins-Smith,0,-80,8,,100940,203400,1611661317,50,49,3
+04:01,[PHO] Cunningham Substitution replaced by Turner,0,-80,8,,1629482,1629488,1611661317,50,49,3
+03:54,[LAS] C Ogwumike Foul: Shooting (2 PF) (2 FTA),74,40,6,1628890,203823,,1611661320,50,49,3
+03:54,[PHO 50-50] DeShields Free Throw 1 of 2 (3 PTS),0,-80,3,,1628890,,1611661317,50,50,3
+03:54,[PHO 51-50] DeShields Free Throw 2 of 2 (4 PTS),0,-80,3,,1628890,,1611661317,50,51,3
+03:39,[LAS] C Ogwumike Jump Shot: Missed,95,108,2,,203823,,1611661320,50,51,3
+03:36,[PHO] DeShields Rebound (Off:0 Def:3),95,108,4,,1628890,,1611661317,50,51,3
+03:20,[PHO] Diggins-Smith Turnover : Bad Pass (6 TO) Steal:Brown (3 ST),155,138,5,1628882,203400,,1611661317,50,51,3
+03:17,[LAS] Canada 3pt Shot: Missed,169,166,2,,1628886,,1611661320,50,51,3
+03:13,[PHO] DeShields Rebound (Off:0 Def:4),169,166,4,,1628890,,1611661317,50,51,3
+02:57,[PHO] Peddy Turnover : Lost Ball (2 TO) Steal:Canada (2 ST),-16,261,5,1628886,203035,,1611661317,50,51,3
+02:37,[LAS] Brown Fadeaway Jump Shot: Missed,-60,27,2,,1628882,,1611661320,50,51,3
+02:37,[LAS] Team Rebound,-60,27,4,,0,,1611661320,50,51,3
+02:37,[PHO] Gustafson Foul: Loose Ball (3 PF),-5,80,6,203823,1629484,,1611661317,50,51,3
+02:37,[LAS] C Ogwumike Substitution replaced by Cambage,0,-80,8,,203823,202633,1611661320,50,51,3
+02:37,[LAS] Canada Substitution replaced by Smith,0,-80,8,,1628886,1631147,1611661320,50,51,3
+02:37,[PHO] Gustafson Substitution replaced by Cunningham,0,-80,8,,1629484,1629482,1611661317,50,51,3
+02:37,[PHO] Turner Substitution replaced by Gray,0,-80,8,,1629488,204334,1611661317,50,51,3
+02:29,[LAS] Samuelson Pullup Jump shot: Missed,107,80,2,,1629478,,1611661320,50,51,3
+02:24,[PHO] Peddy Rebound (Off:0 Def:4),107,80,4,,203035,,1611661317,50,51,3
+02:05,[LAS] Samuelson Foul: Shooting (4 PF) (2 FTA),-111,14,6,1628890,1629478,,1611661320,50,51,3
+02:05,[PHO 52-50] DeShields Free Throw 1 of 2 (5 PTS),0,-80,3,,1628890,,1611661317,50,52,3
+02:05,[LAS] Samuelson Substitution replaced by Walker,0,-80,8,,1629478,1630444,1611661320,50,52,3
+02:05,[PHO] DeShields Free Throw 2 of 2 Missed,0,-80,3,,1628890,,1611661317,50,52,3
+02:01,[LAS] Brown Rebound (Off:0 Def:2),0,-80,4,,1628882,,1611661320,50,52,3
+01:52,[PHO] Cunningham Foul: Shooting (3 PF) (2 FTA),0,38,6,203014,1629482,,1611661317,50,52,3
+01:52,[LAS 51-52] N Ogwumike Free Throw 1 of 2 (13 PTS),0,-80,3,,203014,,1611661320,51,52,3
+01:52,[LAS 52-52] N Ogwumike Free Throw 2 of 2 (14 PTS),0,-80,3,,203014,,1611661320,52,52,3
+01:38,[PHO] Diggins-Smith Driving Layup Shot: Missed,-22,3,2,,203400,,1611661317,52,52,3
+01:33,[LAS] Walker Rebound (Off:0 Def:2),-22,3,4,,1630444,,1611661320,52,52,3
+01:29,[LAS] Cambage Foul: Offensive (2 PF),-37,55,6,204334,202633,,1611661320,52,52,3
+01:29,[LAS] Cambage Turnover : Offensive Foul Turnover (2 TO),-37,55,5,,202633,,1611661320,52,52,3
+01:17,[PHO] Diggins-Smith 3pt Shot: Missed,137,201,2,,203400,,1611661317,52,52,3
+01:14,[LAS] Cambage Rebound (Off:0 Def:4),137,201,4,,202633,,1611661320,52,52,3
+01:08,[LAS] Walker 3pt Shot: Missed,224,38,2,,1630444,,1611661320,52,52,3
+01:05,[PHO] DeShields Rebound (Off:0 Def:5),224,38,4,,1628890,,1611661317,52,52,3
+01:02,[LAS] Smith Foul: Shooting (1 PF) (2 FTA),26,20,6,1628890,1631147,,1611661320,52,52,3
+01:02,[PHO 53-52] DeShields Free Throw 1 of 2 (6 PTS),0,-80,3,,1628890,,1611661317,52,53,3
+01:02,[PHO] Peddy Substitution replaced by Taurasi,0,-80,8,,203035,100940,1611661317,52,53,3
+01:02,[PHO 54-52] DeShields Free Throw 2 of 2 (7 PTS),0,-80,3,,1628890,,1611661317,52,54,3
+00:45.9,[LAS 54-54] N Ogwumike Driving Layup Shot: Made (16 PTS) Assist: Brown (3 AST),-4,12,1,,203014,1628882,1611661320,54,54,3
+00:32.5,[PHO] Taurasi 3pt Shot: Missed,-55,247,2,,100940,,1611661317,54,54,3
+00:30.2,[LAS] Cambage Rebound (Off:0 Def:5),-55,247,4,,202633,,1611661320,54,54,3
+00:22.5,[LAS 56-54] Cambage Driving Layup Shot: Made (16 PTS) Assist: Smith (2 AST),-12,16,1,,202633,1631147,1611661320,56,54,3
+00:04.2,[PHO] Taurasi 3pt Shot: Missed,127,204,2,,100940,,1611661317,56,54,3
+00:04.2,[LAS] Walker Rebound (Off:0 Def:3),127,204,4,,1630444,,1611661320,56,54,3
+00:00.0,End Period,0,-80,13,,0,,0,56,54,3
+10:00,Start Period,0,-80,12,,0,,0,56,54,4
+09:46,[LAS] Canada Floating Jump shot: Missed,-1,161,2,,1628886,,1611661320,56,54,4
+09:41,[PHO] Cunningham Rebound (Off:1 Def:2),-1,161,4,,1629482,,1611661317,56,54,4
+09:20,[PHO] Gray 3pt Shot: Missed,-227,5,2,,204334,,1611661317,56,54,4
+09:15,[LAS] N Ogwumike Rebound (Off:0 Def:4),-227,5,4,,203014,,1611661320,56,54,4
+09:10,[LAS 58-54] Cambage Turnaround Fadeaway Bank Jump Shot: Made (18 PTS) Assist: Canada (4 AST),-5,0,1,,202633,1628886,1611661320,58,54,4
+09:10,[PHO] Gray Foul: Shooting (6 PF) (1 FTA),-5,0,6,202633,204334,,1611661317,58,54,4
+09:10,[LAS 59-54] Cambage Free Throw 1 of 1 (19 PTS),0,-80,3,,202633,,1611661320,59,54,4
+08:53,[PHO] DeShields 3pt Shot: Missed,-39,234,2,,1628890,,1611661317,59,54,4
+08:49,[PHO] Cunningham Rebound (Off:2 Def:2),-39,234,4,,1629482,,1611661317,59,54,4
+08:48,[PHO] Taurasi 3pt Shot: Missed,-144,188,2,,100940,,1611661317,59,54,4
+08:45,[LAS] N Ogwumike Rebound (Off:0 Def:5),-144,188,4,,203014,,1611661320,59,54,4
+08:40,[LAS 61-54] N Ogwumike Running Layup Shot: Made (18 PTS),11,8,1,,203014,,1611661320,61,54,4
+08:40,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,61,54,4
+08:40,[PHO] DeShields Substitution replaced by Peddy,0,-80,8,,1628890,203035,1611661317,61,54,4
+08:23,[PHO 57-61] Peddy 3pt Shot: Made (10 PTS) Assist: Taurasi (6 AST),223,-18,1,,203035,100940,1611661317,61,57,4
+08:06,[LAS] N Ogwumike Turnover : Bad Pass (3 TO) Steal:Gray (1 ST),-10,64,5,204334,203014,,1611661320,61,57,4
+08:01,[PHO 60-61] Cunningham 3pt Shot: Made (10 PTS) Assist: Diggins-Smith (4 AST),209,89,1,,1629482,203400,1611661317,61,60,4
+08:00,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,61,60,4
+07:46,[LAS 64-60] Brown 3pt Shot: Made (11 PTS) Assist: N Ogwumike (3 AST),91,226,1,,1628882,203014,1611661320,64,60,4
+07:20,[PHO] Gray Layup Shot: Missed,-6,4,2,,204334,,1611661317,64,60,4
+07:15,[LAS] Cambage Rebound (Off:0 Def:6),-6,4,4,,202633,,1611661320,64,60,4
+07:03,[LAS 66-60] N Ogwumike Jump Shot: Made (20 PTS) Assist: Brown (4 AST),-77,203,1,,203014,1628882,1611661320,66,60,4
+06:38,[PHO 62-66] Taurasi Pullup Jump shot: Made (9 PTS) Assist: Gray (2 AST),-16,119,1,,100940,204334,1611661317,66,62,4
+06:27,[PHO] Taurasi Foul: Personal (2 PF),86,242,6,1629478,100940,,1611661317,66,62,4
+06:27,[LAS] Cambage Substitution replaced by C Ogwumike,0,-80,8,,202633,203823,1611661320,66,62,4
+06:27,[PHO] Gray Substitution replaced by Turner,0,-80,8,,204334,1629488,1611661317,66,62,4
+06:16,[LAS] Brown 3pt Shot: Missed,-215,87,2,,1628882,,1611661320,66,62,4
+06:12,[PHO] Turner Rebound (Off:1 Def:4),-215,87,4,,1629488,,1611661317,66,62,4
+06:01,[LAS] Brown Foul: Shooting (2 PF) (2 FTA),72,9,6,203400,1628882,,1611661320,66,62,4
+06:01,[PHO 63-66] Diggins-Smith Free Throw 1 of 2 (16 PTS),0,-80,3,,203400,,1611661317,66,63,4
+06:01,[PHO 64-66] Diggins-Smith Free Throw 2 of 2 (17 PTS),0,-80,3,,203400,,1611661317,66,64,4
+05:39,[LAS] N Ogwumike Jump Shot: Missed,68,145,2,,203014,,1611661320,66,64,4
+05:35,[LAS] Samuelson Rebound (Off:1 Def:2),68,145,4,,1629478,,1611661320,66,64,4
+05:35,[LAS 68-64] Samuelson Putback Layup Shot: Made (9 PTS),0,-5,1,,1629478,,1611661320,68,64,4
+05:23,[PHO 66-68] Turner Cutting Layup Shot: Made (4 PTS) Assist: Diggins-Smith (5 AST),-1,14,1,,1629488,203400,1611661317,68,66,4
+05:07,[LAS] Canada Driving Layup Shot: Missed,-4,15,2,,1628886,,1611661320,68,66,4
+05:03,[LAS] Brown Rebound (Off:1 Def:2),-4,15,4,,1628882,,1611661320,68,66,4
+04:55,[LAS 70-66] N Ogwumike Driving Layup Shot: Made (22 PTS),8,15,1,,203014,,1611661320,70,66,4
+04:45,[PHO 68-70] Taurasi Driving Layup Shot: Made (11 PTS),-13,5,1,,100940,,1611661317,70,68,4
+04:31,[LAS] Canada Turnover : Bad Pass (8 TO) Steal:Turner (3 ST),102,113,5,1629488,1628886,,1611661320,70,68,4
+04:27,[PHO] Peddy Running Layup Shot: Missed,-6,9,2,,203035,,1611661317,70,68,4
+04:21,[PHO] Diggins-Smith Rebound (Off:2 Def:2),-6,9,4,,203400,,1611661317,70,68,4
+04:21,[PHO 70-70] Diggins-Smith Putback Layup Shot: Made (19 PTS),0,-5,1,,203400,,1611661317,70,70,4
+04:03,[LAS] N Ogwumike Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-240,356,5,,203014,,1611661320,70,70,4
+03:51,[PHO] Diggins-Smith Layup Shot: Missed,-1,15,2,,203400,,1611661317,70,70,4
+03:47,[LAS] N Ogwumike Rebound (Off:0 Def:6),-1,15,4,,203014,,1611661320,70,70,4
+03:43,[LAS] N Ogwumike Turnover : Lost Ball (5 TO) Steal:Peddy (4 ST),-15,762,5,203035,203014,,1611661320,70,70,4
+03:38,[PHO] Diggins-Smith 3pt Shot: Missed,154,219,2,,203400,,1611661317,70,70,4
+03:35,[LAS] Team Rebound,154,219,4,,0,,1611661320,70,70,4
+03:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,70,4
+03:33,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,70,70,4
+03:33,[LAS] C Ogwumike Substitution replaced by Cambage,0,-80,8,,203823,202633,1611661320,70,70,4
+03:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,70,4
+03:23,[PHO] Cunningham Foul: Away From Play (4 PF) (1 FTA),-117,135,6,1629478,1629482,,1611661317,70,70,4
+03:23,[LAS 71-70] Samuelson Free Throw 1 of 1 (10 PTS),0,-80,3,,1629478,,1611661320,71,70,4
+03:20,[LAS] Samuelson Pullup Jump shot: Missed,-156,29,2,,1629478,,1611661320,71,70,4
+03:15,[PHO] Peddy Rebound (Off:0 Def:5),-156,29,4,,203035,,1611661317,71,70,4
+02:55,[PHO] Peddy Floating Jump shot: Missed,9,110,2,,203035,,1611661317,71,70,4
+02:52,[LAS] Cambage Rebound (Off:0 Def:7),9,110,4,,202633,,1611661320,71,70,4
+02:36,[LAS 74-70] Brown 3pt Shot: Made (14 PTS) Assist: Canada (5 AST),130,239,1,,1628882,1628886,1611661320,74,70,4
+02:21,[PHO] Turner Turnover : Out of Bounds Lost Ball Turnover (3 TO),-46,8,5,,1629488,,1611661317,74,70,4
+02:06,[LAS] Cambage Jump Shot: Missed,-16,189,2,,202633,,1611661320,74,70,4
+02:02,[PHO] Cunningham Rebound (Off:2 Def:3),-16,189,4,,1629482,,1611661317,74,70,4
+01:54,[PHO 72-74] Diggins-Smith Driving Floating Jump Shot: Made (21 PTS) Assist: Turner (2 AST),46,13,1,,203400,1629488,1611661317,74,72,4
+01:54,[LAS] Brown Foul: Shooting (3 PF) (1 FTA),46,13,6,203400,1628882,,1611661320,74,72,4
+01:54,[PHO] Turner Substitution replaced by Gray,0,-80,8,,1629488,204334,1611661317,74,72,4
+01:54,[PHO 73-74] Diggins-Smith Free Throw 1 of 1 (22 PTS),0,-80,3,,203400,,1611661317,74,73,4
+01:39,[PHO] Cunningham Foul: Shooting (5 PF) (2 FTA),-11,61,6,1628886,1629482,,1611661317,74,73,4
+01:39,[LAS 75-73] Canada Free Throw 1 of 2 (8 PTS),0,-80,3,,1628886,,1611661320,75,73,4
+01:39,[LAS] Canada Free Throw 2 of 2 Missed,0,-80,3,,1628886,,1611661320,75,73,4
+01:36,[PHO] Gray Rebound (Off:0 Def:2),0,-80,4,,204334,,1611661317,75,73,4
+01:22,[PHO] Diggins-Smith Pullup Jump shot: Missed,56,70,2,,203400,,1611661317,75,73,4
+01:19,[LAS] N Ogwumike Rebound (Off:0 Def:7),56,70,4,,203014,,1611661320,75,73,4
+01:05,[LAS] N Ogwumike Cutting Layup Shot: Missed,-11,15,2,,203014,,1611661320,75,73,4
+01:05,[LAS] N Ogwumike Rebound (Off:1 Def:7),-11,15,4,,203014,,1611661320,75,73,4
+01:04,[LAS] N Ogwumike Putback Layup Shot: Missed,-11,23,2,203400,203014,,1611661320,75,73,4
+01:01,[PHO] Gray Rebound (Off:0 Def:3),-11,23,4,,204334,,1611661317,75,73,4
+01:01,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,75,73,4
+01:01,[PHO] Cunningham Substitution replaced by Turner,0,-80,8,,1629482,1629488,1611661317,75,73,4
+00:40.0,[PHO] Peddy Turnover : Bad Pass (3 TO) Steal:N Ogwumike (2 ST),-107,46,5,203014,203035,,1611661317,75,73,4
+00:35.3,[PHO] Peddy Foul: Personal (2 PF) (2 FTA),-187,816,6,1628886,203035,,1611661317,75,73,4
+00:35.3,[LAS 76-73] Canada Free Throw 1 of 2 (9 PTS),0,-80,3,,1628886,,1611661320,76,73,4
+00:35.3,[LAS 77-73] Canada Free Throw 2 of 2 (10 PTS),0,-80,3,,1628886,,1611661320,77,73,4
+00:35.3,[PHO] Team Timeout : Short,0,-80,9,,1611661317,,1611661317,77,73,4
+00:35.3,[PHO] Gray Substitution replaced by Cunningham,0,-80,8,,204334,1629482,1611661317,77,73,4
+00:29.7,[LAS] Brown Foul: Shooting (4 PF) (2 FTA),0,86,6,100940,1628882,,1611661320,77,73,4
+00:29.7,[PHO 74-77] Taurasi Free Throw 1 of 2 (12 PTS),0,-80,3,,100940,,1611661317,77,74,4
+00:29.7,[PHO 75-77] Taurasi Free Throw 2 of 2 (13 PTS),0,-80,3,,100940,,1611661317,77,75,4
+00:29.7,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,77,75,4
+00:29.7,[PHO] Cunningham Substitution replaced by Gray,0,-80,8,,1629482,204334,1611661317,77,75,4
+00:11.8,[LAS] N Ogwumike Jump Shot: Missed,-178,18,2,,203014,,1611661320,77,75,4
+00:09.6,[PHO] Peddy Rebound (Off:0 Def:6),-178,18,4,,203035,,1611661317,77,75,4
+00:09.6,[PHO] Team Timeout : Short,0,-80,9,,1611661317,,1611661317,77,75,4
+00:09.6,[PHO] Gray Substitution replaced by DeShields,0,-80,8,,204334,1628890,1611661317,77,75,4
+00:07.9,[PHO] Taurasi 3pt Shot: Missed,-222,25,2,,100940,,1611661317,77,75,4
+00:04.9,[LAS] N Ogwumike Rebound (Off:1 Def:8),-222,25,4,,203014,,1611661320,77,75,4
+00:04.4,[PHO] DeShields Foul: Personal Take (3 PF) (2 FTA),-237,619,6,203014,1628890,,1611661317,77,75,4
+00:04.4,[LAS 78-75] N Ogwumike Free Throw 1 of 2 (23 PTS),0,-80,3,,203014,,1611661320,78,75,4
+00:04.4,[PHO] DeShields Substitution replaced by Cunningham,0,-80,8,,1628890,1629482,1611661317,78,75,4
+00:04.4,[LAS] N Ogwumike Free Throw 2 of 2 Missed,0,-80,3,,203014,,1611661320,78,75,4
+00:03.1,[PHO] Cunningham Rebound (Off:2 Def:4),0,-80,4,,1629482,,1611661317,78,75,4
+00:00.0,End Period,0,-80,13,,0,,0,78,75,4
+00:00.0,Game End,0,-80,0,,0,,0,78,75,4

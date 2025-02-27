@@ -1,0 +1,373 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Stewart vs Jones (Bird gains possession),0,-80,10,1627673,1627668,100720,1611661328,0,0,1
+09:43,[SEA] Clark Turnover : Traveling (1 TO),0,-80,5,,202252,,1611661328,0,0,1
+09:26,[CON] Thomas Jump Shot: Missed,-129,144,2,,202662,,1611661323,0,0,1
+09:24,[CON] Jones Rebound (Off:1 Def:0),0,-80,4,,1627673,,1611661323,0,0,1
+09:21,[CON 2-0] Jones Layup Shot: Made (2 PTS),20,2,1,,1627673,,1611661323,0,2,1
+09:12,[SEA] Stewart Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),0,-80,5,202662,1627668,,1611661328,0,2,1
+09:02,[CON 5-0] Stricklen 3pt Shot: Made (3 PTS) Assist: Thomas (1 AST),240,21,1,,203015,203826,1611661323,0,5,1
+08:40,[SEA 3-5] Bird 3pt Shot: Made (3 PTS) Assist: Loyd (1 AST),-184,146,1,,100720,204319,1611661328,3,5,1
+08:12,[CON] Williams 3pt Shot: Missed,-153,175,2,,1627675,,1611661323,3,5,1
+08:10,[SEA] Stewart Rebound (Off:0 Def:1),0,-80,4,,1627668,,1611661328,3,5,1
+08:05,[SEA] Stewart Foul: Offensive (1 PF),-187,159,6,202662,1627668,,1611661328,3,5,1
+08:05,[SEA] Stewart Turnover : Foul (2 TO),0,-80,5,,1627668,,1611661328,3,5,1
+07:45,[CON] Thomas Layup Shot: Missed,-17,11,2,,203826,,1611661323,3,5,1
+07:44,[SEA] Stewart Rebound (Off:0 Def:2),0,-80,4,,1627668,,1611661328,3,5,1
+07:33,[SEA] Loyd Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,204319,,1611661328,3,5,1
+07:18,[CON] Jones Jump Shot: Missed,38,-1,2,,1627673,,1611661323,3,5,1
+07:17,[CON] Jones Rebound (Off:2 Def:0),0,-80,4,,1627673,,1611661323,3,5,1
+07:14,[CON 7-3] Jones Jump Bank Shot: Made (4 PTS),79,41,1,,1627673,,1611661323,3,7,1
+06:59,[SEA] Bird Turnover : Lost Ball (1 TO) Steal:Thomas (2 ST),0,-80,5,202662,100720,,1611661328,3,7,1
+06:55,[CON 9-3] Thomas Driving Layup Shot: Made (2 PTS),-7,7,1,,202662,,1611661323,3,9,1
+06:46,[SEA] Langhorne Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,201518,,1611661328,3,9,1
+06:36,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Loyd (1 ST),0,-80,5,204319,202662,,1611661323,3,9,1
+06:31,[SEA] Loyd Layup Shot: Missed,-6,-1,2,,204319,,1611661328,3,9,1
+06:30,[SEA] Stewart Rebound (Off:1 Def:2),0,-80,4,,1627668,,1611661328,3,9,1
+06:16,[SEA 5-9] Stewart Jump Shot: Made (2 PTS) Assist: Bird (1 AST),128,21,1,,1627668,100720,1611661328,5,9,1
+05:46,[CON] Stricklen Jump Shot: Missed,-155,62,2,,203015,,1611661323,5,9,1
+05:44,[SEA] Bird Rebound (Off:0 Def:1),0,-80,4,,100720,,1611661328,5,9,1
+05:36,[SEA] Loyd 3pt Shot: Missed,-232,3,2,,204319,,1611661328,5,9,1
+05:33,[CON] Stricklen Rebound (Off:0 Def:1),0,-80,4,,203015,,1611661323,5,9,1
+05:28,[CON] Williams Jump Shot: Missed,140,61,2,,1627675,,1611661323,5,9,1
+05:27,[SEA] Loyd Rebound (Off:0 Def:1),0,-80,4,,204319,,1611661328,5,9,1
+05:17,[SEA] Stewart 3pt Shot: Missed,45,228,2,,1627668,,1611661328,5,9,1
+05:16,[CON] Williams Rebound (Off:0 Def:1),0,-80,4,,1627675,,1611661323,5,9,1
+05:04,[CON 11-5] Thomas Running Jump Shot: Made (2 PTS) Assist: Thomas (1 AST),2,41,1,,203826,202662,1611661323,5,11,1
+04:48,[SEA] Loyd Jump Shot: Missed,164,77,2,,204319,,1611661328,5,11,1
+04:47,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,202662,,1611661323,5,11,1
+04:39,[CON 13-5] Thomas Jump Shot: Made (4 PTS),148,141,1,,202662,,1611661323,5,13,1
+04:20,[SEA 7-13] Stewart Layup Shot: Made (4 PTS) Assist: Langhorne (1 AST),-9,7,1,,1627668,201518,1611661328,7,13,1
+04:00,[CON] Thomas Jump Shot: Missed,-83,139,2,,203826,,1611661323,7,13,1
+03:59,[SEA] Stewart Rebound (Off:1 Def:3),0,-80,4,,1627668,,1611661328,7,13,1
+03:49,[SEA 9-13] Clark Layup Shot: Made (2 PTS) Assist: Bird (2 AST),15,8,1,,202252,100720,1611661328,9,13,1
+03:30,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,202662,,1611661323,9,13,1
+03:30,Timeout : Official,0,-80,9,,0,,0,9,13,1
+03:30,[SEA] Loyd Substitution replaced by Whitcomb,0,-80,8,,204319,1628244,1611661328,9,13,1
+03:30,[SEA] Langhorne Substitution replaced by Tokashiki,0,-80,8,,201518,204317,1611661328,9,13,1
+03:30,[CON] Williams Substitution replaced by Bentley,0,-80,8,,1627675,203410,1611661323,9,13,1
+03:20,[CON] Thomas Foul: Personal (1 PF),168,193,6,202252,202662,,1611661323,9,13,1
+03:14,[SEA] Bird 3pt Shot: Missed,173,174,2,,100720,,1611661328,9,13,1
+03:13,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,203826,,1611661323,9,13,1
+03:02,[CON] Bentley Jump Shot: Missed,-137,120,2,,203410,,1611661323,9,13,1
+03:00,[CON] Jones Rebound (Off:3 Def:0),0,-80,4,,1627673,,1611661323,9,13,1
+02:57,[CON] Jones Layup Shot: Missed Block: Stewart (1 BLK),19,2,2,1627668,1627673,,1611661323,9,13,1
+02:56,[CON] Thomas Rebound (Off:1 Def:1),0,-80,4,,202662,,1611661323,9,13,1
+02:56,[SEA] Stewart Foul: Shooting (2 PF) (2 FTA),37,26,6,1627673,1627668,,1611661328,9,13,1
+02:56,[CON 14-9] Jones Free Throw 1 of 2 (5 PTS),0,-80,3,,1627673,,1611661323,9,14,1
+02:56,[SEA] Stewart Substitution replaced by Langhorne,0,-80,8,,1627668,201518,1611661328,9,14,1
+02:56,[CON 15-9] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1627673,,1611661323,9,15,1
+02:44,[SEA] Whitcomb 3pt Shot: Missed,-165,208,2,,1628244,,1611661328,9,15,1
+02:42,[CON] Thomas Rebound (Off:0 Def:2),0,-80,4,,203826,,1611661323,9,15,1
+02:29,[CON 18-9] Stricklen 3pt Shot: Made (6 PTS) Assist: Thomas (2 AST),133,214,1,,203015,203826,1611661323,9,18,1
+02:06,[SEA] Tokashiki Jump Shot: Missed,73,41,2,,204317,,1611661328,9,18,1
+02:05,[CON] Thomas Rebound (Off:0 Def:3),0,-80,4,,203826,,1611661323,9,18,1
+01:58,[CON] Stricklen 3pt Shot: Missed,161,175,2,,203015,,1611661323,9,18,1
+01:57,[CON] Jones Rebound (Off:4 Def:0),0,-80,4,,1627673,,1611661323,9,18,1
+01:56,[SEA] Tokashiki Foul: Shooting (1 PF) (2 FTA),-25,3,6,1627673,204317,,1611661328,9,18,1
+01:56,[CON 19-9] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1627673,,1611661323,9,19,1
+01:56,[SEA] Bird Substitution replaced by Quinn,0,-80,8,,100720,201049,1611661328,9,19,1
+01:56,[SEA] Clark Substitution replaced by Loyd,0,-80,8,,202252,204319,1611661328,9,19,1
+01:56,[CON 20-9] Jones Free Throw 2 of 2 (8 PTS),0,-80,3,,1627673,,1611661323,9,20,1
+01:36,[SEA 11-20] Langhorne Jump Shot: Made (2 PTS) Assist: Loyd (2 AST),-160,3,1,,201518,204319,1611661328,11,20,1
+01:20,[CON] Thomas Jump Shot: Missed,-12,47,2,,203826,,1611661323,11,20,1
+01:20,[CON] Team Rebound,0,-80,4,,0,,1611661323,11,20,1
+01:20,[SEA] Whitcomb Foul: Loose Ball (1 PF) (2 FTA),-9,31,6,1627673,1628244,,1611661328,11,20,1
+01:20,[CON 21-11] Jones Free Throw 1 of 2 (9 PTS),0,-80,3,,1627673,,1611661323,11,21,1
+01:20,[CON] Thomas Substitution replaced by Williams,0,-80,8,,202662,1627675,1611661323,11,21,1
+01:20,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1627673,,1611661323,11,21,1
+01:20,[SEA] Langhorne Rebound (Off:0 Def:1),0,-80,4,,201518,,1611661328,11,21,1
+01:00,[SEA 13-21] Langhorne Hook Shot: Made (4 PTS),-9,51,1,,201518,,1611661328,13,21,1
+00:40.1,[CON 23-13] Bentley Jump Shot: Made (2 PTS),-142,110,1,,203410,,1611661323,13,23,1
+00:33.3,[CON] Jones Foul: Personal (1 PF),-83,7,6,201518,1627673,,1611661323,13,23,1
+00:33.3,[CON] Jones Substitution replaced by Kizer,0,-80,8,,1627673,203041,1611661323,13,23,1
+00:22.1,[SEA 15-23] Langhorne Running Jump Shot: Made (6 PTS),19,61,1,,201518,,1611661328,15,23,1
+00:22.1,[CON] Stricklen Foul: Shooting (1 PF) (1 FTA),19,61,6,201518,203015,,1611661323,15,23,1
+00:22.1,[SEA] Tokashiki Substitution replaced by Swords,0,-80,8,,204317,202670,1611661328,15,23,1
+00:22.1,[SEA] Langhorne Free Throw 1 of 1 Missed,0,-80,3,,201518,,1611661328,15,23,1
+00:21.8,[CON] Thomas Rebound (Off:0 Def:4),0,-80,4,,203826,,1611661323,15,23,1
+00:02.9,[CON 25-15] Kizer Jump Shot: Made (2 PTS) Assist: Thomas (3 AST),-89,175,1,,203041,203826,1611661323,15,25,1
+00:00.4,[SEA] Loyd 3pt Shot: Missed,4,380,2,,204319,,1611661328,15,25,1
+00:00.0,[SEA] Team Rebound,0,-80,4,,0,,1611661328,15,25,1
+00:00.0,End Period,0,-80,13,,0,,0,15,25,1
+10:00,Start Period,0,-80,12,,0,,0,15,25,2
+09:43,[CON] Williams Jump Shot: Missed,156,13,2,,1627675,,1611661323,15,25,2
+09:41,[CON] Kizer Rebound (Off:1 Def:0),0,-80,4,,203041,,1611661323,15,25,2
+09:35,[CON] Bentley Jump Shot: Missed,-34,36,2,,203410,,1611661323,15,25,2
+09:34,[SEA] Stewart Rebound (Off:1 Def:4),0,-80,4,,1627668,,1611661328,15,25,2
+09:18,[SEA 18-25] Whitcomb 3pt Shot: Made (3 PTS) Assist: Quinn (1 AST),-201,124,1,,1628244,201049,1611661328,18,25,2
+09:03,[SEA] Swords Foul: Shooting (1 PF) (2 FTA),1,61,6,203826,202670,,1611661328,18,25,2
+09:03,[CON 26-18] Thomas Free Throw 1 of 2 (3 PTS),0,-80,3,,203826,,1611661323,18,26,2
+09:03,[CON 27-18] Thomas Free Throw 2 of 2 (4 PTS),0,-80,3,,203826,,1611661323,18,27,2
+08:40,[SEA] Stewart Jump Shot: Missed,58,41,2,,1627668,,1611661328,18,27,2
+08:39,[CON] Stricklen Rebound (Off:0 Def:2),0,-80,4,,203015,,1611661323,18,27,2
+08:30,[CON 30-18] Stricklen 3pt Shot: Made (9 PTS),8,263,1,,203015,,1611661323,18,30,2
+08:13,[CON] Williams Foul: Personal (1 PF),-43,70,6,204319,1627675,,1611661323,18,30,2
+08:13,[CON] Thomas Substitution replaced by Pedersen,0,-80,8,,203826,202653,1611661323,18,30,2
+08:13,[CON] Kizer Substitution replaced by Jones,0,-80,8,,203041,1627673,1611661323,18,30,2
+08:13,[SEA] Quinn Substitution replaced by Bird,0,-80,8,,201049,100720,1611661328,18,30,2
+08:07,[SEA 21-30] Stewart 3pt Shot: Made (7 PTS) Assist: Loyd (3 AST),235,75,1,,1627668,204319,1611661328,21,30,2
+07:57,[SEA] Swords Foul: Personal (2 PF),-163,-21,6,1627675,202670,,1611661328,21,30,2
+07:57,[SEA] Loyd Substitution replaced by Clark,0,-80,8,,204319,202252,1611661328,21,30,2
+07:46,[CON] Pedersen Jump Shot: Missed,-58,159,2,,202653,,1611661323,21,30,2
+07:44,[SEA] Clark Rebound (Off:0 Def:1),0,-80,4,,202252,,1611661328,21,30,2
+07:34,[CON] Williams Foul: Personal (2 PF),-47,21,6,1628244,1627675,,1611661323,21,30,2
+07:34,[CON] Williams Substitution replaced by Thomas,0,-80,8,,1627675,202662,1611661323,21,30,2
+07:29,[SEA 23-30] Stewart Jump Shot: Made (9 PTS) Assist: Clark (1 AST),53,129,1,,1627668,202252,1611661328,23,30,2
+07:07,[CON] Bentley Jump Shot: Missed,-1,188,2,,203410,,1611661323,23,30,2
+07:04,[SEA] Swords Rebound (Off:0 Def:1),0,-80,4,,202670,,1611661328,23,30,2
+06:54,[SEA 25-30] Stewart Jump Shot: Made (11 PTS) Assist: Bird (3 AST),74,100,1,,1627668,100720,1611661328,25,30,2
+06:38,[CON 32-25] Bentley Fadeaway Jump Shot: Made (4 PTS),-168,33,1,,203410,,1611661323,25,32,2
+06:23,[SEA 27-32] Swords Driving Layup Shot: Made (2 PTS) Assist: Whitcomb (1 AST),14,7,1,,202670,1628244,1611661328,27,32,2
+06:03,[CON] Bentley 3pt Shot: Missed,-168,169,2,,203410,,1611661323,27,32,2
+06:01,[SEA] Stewart Rebound (Off:1 Def:5),0,-80,4,,1627668,,1611661328,27,32,2
+05:56,[CON] Thomas Foul: Personal (2 PF),-163,164,6,1627668,202662,,1611661323,27,32,2
+05:56,[SEA] Team Timeout : Regular,0,-80,9,,0,,1611661328,27,32,2
+05:56,[SEA] Whitcomb Substitution replaced by Loyd,0,-80,8,,1628244,204319,1611661328,27,32,2
+05:56,[CON] Pedersen Substitution replaced by Thomas,0,-80,8,,202653,203826,1611661323,27,32,2
+05:39,[SEA 29-32] Stewart Jump Bank Shot: Made (13 PTS),-65,8,1,,1627668,,1611661328,29,32,2
+05:26,[SEA] Swords Foul: Personal (3 PF),-66,21,6,1627673,202670,,1611661328,29,32,2
+05:20,[SEA] Swords Foul: Shooting (4 PF) (2 FTA),4,52,6,203826,202670,,1611661328,29,32,2
+05:20,[CON 33-29] Thomas Free Throw 1 of 2 (5 PTS),0,-80,3,,203826,,1611661323,29,33,2
+05:20,[SEA] Swords Substitution replaced by Langhorne,0,-80,8,,202670,201518,1611661328,29,33,2
+05:20,[CON 34-29] Thomas Free Throw 2 of 2 (6 PTS),0,-80,3,,203826,,1611661323,29,34,2
+05:06,[CON] Stricklen Substitution replaced by Tuck,0,-80,8,,203015,1627670,1611661323,29,34,2
+04:58,[SEA 31-34] Loyd Driving Layup Shot: Made (2 PTS),-4,7,1,,204319,,1611661328,31,34,2
+04:32,[CON 36-31] Jones Layup Shot: Made (11 PTS) Assist: Thomas (4 AST),0,-1,1,,1627673,203826,1611661323,31,36,2
+04:13,[SEA 34-36] Stewart 3pt Shot: Made (16 PTS) Assist: Loyd (4 AST),-150,205,1,,1627668,204319,1611661328,34,36,2
+03:54,[CON] Thomas Foul: Offensive (1 PF),110,106,6,204319,203826,,1611661323,34,36,2
+03:54,[CON] Thomas Turnover : Foul (1 TO),0,-80,5,,203826,,1611661323,34,36,2
+03:35,[SEA 37-36] Bird 3pt Shot: Made (6 PTS) Assist: Langhorne (2 AST),-227,11,1,,100720,201518,1611661328,37,36,2
+03:34,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,37,36,2
+03:27,[CON] Thomas Turnover : Traveling (3 TO),0,-80,5,,202662,,1611661323,37,36,2
+03:17,[SEA 39-36] Langhorne Layup Shot: Made (8 PTS) Assist: Loyd (5 AST),-17,2,1,,201518,204319,1611661328,39,36,2
+03:03,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,203826,,1611661323,39,36,2
+02:51,[SEA 42-36] Bird 3pt Shot: Made (9 PTS) Assist: Loyd (6 AST),-212,111,1,,100720,204319,1611661328,42,36,2
+02:39,[CON 38-42] Thomas Jump Shot: Made (6 PTS),-165,31,1,,202662,,1611661323,42,38,2
+02:28,[SEA 44-38] Loyd Jump Shot: Made (4 PTS) Assist: Bird (4 AST),-165,115,1,,204319,100720,1611661328,44,38,2
+02:14,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (3 TO),0,-80,5,,203826,,1611661323,44,38,2
+02:14,[SEA] Clark Substitution replaced by Mosqueda-Lewis,0,-80,8,,202252,204321,1611661328,44,38,2
+02:04,[SEA] Bird Turnover : Bad Pass (2 TO) Steal:Bentley (1 ST),0,-80,5,203410,100720,,1611661328,44,38,2
+01:58,[CON] Thomas Jump Shot: Missed Block: Loyd (1 BLK),-96,26,2,204319,202662,,1611661323,44,38,2
+01:58,[CON] Team Rebound,0,-80,4,,0,,1611661323,44,38,2
+01:51,[CON 40-44] Thomas Layup Shot: Made (8 PTS) Assist: Jones (1 AST),-16,2,1,,203826,1627673,1611661323,44,40,2
+01:41,[CON] Bentley Foul: Personal (1 PF),-130,21,6,204319,203410,,1611661323,44,40,2
+01:41,[CON] Tuck Substitution replaced by Stricklen,0,-80,8,,1627670,203015,1611661323,44,40,2
+01:41,[CON] Bentley Substitution replaced by Williams,0,-80,8,,203410,1627675,1611661323,44,40,2
+01:30,[CON] Stricklen Foul: Shooting (2 PF) (2 FTA),25,7,6,204321,203015,,1611661323,44,40,2
+01:30,[SEA 45-40] Mosqueda-Lewis Free Throw 1 of 2 (1 PTS),0,-80,3,,204321,,1611661328,45,40,2
+01:30,[SEA 46-40] Mosqueda-Lewis Free Throw 2 of 2 (2 PTS),0,-80,3,,204321,,1611661328,46,40,2
+01:09,[CON 43-46] Thomas 3pt Shot: Made (9 PTS) Assist: Thomas (5 AST),-191,139,1,,202662,203826,1611661323,46,43,2
+01:09,[SEA] Team Timeout : Regular,0,-80,9,,0,,1611661328,46,43,2
+00:55.4,[CON] Williams Foul: Shooting (3 PF) (2 FTA),30,21,6,204319,1627675,,1611661323,46,43,2
+00:55.4,[SEA 47-43] Loyd Free Throw 1 of 2 (5 PTS),0,-80,3,,204319,,1611661328,47,43,2
+00:55.4,[SEA] Bird Substitution replaced by Quinn,0,-80,8,,100720,201049,1611661328,47,43,2
+00:55.4,[SEA] Mosqueda-Lewis Substitution replaced by Clark,0,-80,8,,204321,202252,1611661328,47,43,2
+00:55.4,[SEA 48-43] Loyd Free Throw 2 of 2 (6 PTS),0,-80,3,,204319,,1611661328,48,43,2
+00:41.6,[SEA] Quinn Foul: Personal (1 PF) (2 FTA),150,134,6,203826,201049,,1611661328,48,43,2
+00:41.6,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,48,43,2
+00:41.6,[CON] Team Rebound,0,-80,4,,0,,1611661323,48,43,2
+00:41.6,[CON] Williams Substitution replaced by Bentley,0,-80,8,,1627675,203410,1611661323,48,43,2
+00:41.6,[CON 44-48] Thomas Free Throw 2 of 2 (9 PTS),0,-80,3,,203826,,1611661323,48,44,2
+00:24.9,[SEA] Loyd Jump Shot: Missed,-142,21,2,,204319,,1611661328,48,44,2
+00:24.7,[CON] Team Rebound,0,-80,4,,0,,1611661323,48,44,2
+00:03.9,[CON] Thomas Jump Shot: Missed,-129,97,2,,202662,,1611661323,48,44,2
+00:02.5,[SEA] Clark Rebound (Off:0 Def:2),0,-80,4,,202252,,1611661328,48,44,2
+00:00.3,[SEA] Loyd 3pt Shot: Missed,-12,483,2,,204319,,1611661328,48,44,2
+00:00.0,[SEA] Team Rebound,0,-80,4,,0,,1611661328,48,44,2
+00:00.0,End Period,0,-80,13,,0,,0,48,44,2
+10:00,Start Period,0,-80,12,,0,,0,48,44,3
+09:41,[CON] Stricklen 3pt Shot: Missed,-235,16,2,,203015,,1611661323,48,44,3
+09:39,[SEA] Clark Rebound (Off:0 Def:3),0,-80,4,,202252,,1611661328,48,44,3
+09:18,[SEA 50-44] Stewart Jump Shot: Made (18 PTS) Assist: Bird (5 AST),4,61,1,,1627668,100720,1611661328,50,44,3
+09:05,[CON 46-50] Williams Pullup Jump shot: Made (2 PTS),9,169,1,,1627675,,1611661323,50,46,3
+08:37,[SEA] Bird 3pt Shot: Missed,-217,105,2,,100720,,1611661328,50,46,3
+08:36,[SEA] Langhorne Rebound (Off:1 Def:1),0,-80,4,,201518,,1611661328,50,46,3
+08:35,[CON] Thomas Foul: Shooting (2 PF) (2 FTA),-17,7,6,201518,203826,,1611661323,50,46,3
+08:35,[SEA 51-46] Langhorne Free Throw 1 of 2 (9 PTS),0,-80,3,,201518,,1611661328,51,46,3
+08:35,[SEA 52-46] Langhorne Free Throw 2 of 2 (10 PTS),0,-80,3,,201518,,1611661328,52,46,3
+08:24,[SEA] Langhorne Foul: Personal Block (1 PF),76,13,6,203015,201518,,1611661328,52,46,3
+08:18,[CON] Thomas Jump Shot: Missed,9,51,2,,203826,,1611661323,52,46,3
+08:16,[CON] Jones Rebound (Off:5 Def:0),0,-80,4,,1627673,,1611661323,52,46,3
+08:15,[CON] Jones Layup Shot: Missed,-22,3,2,,1627673,,1611661323,52,46,3
+08:15,[CON] Team Rebound,0,-80,4,,0,,1611661323,52,46,3
+08:12,[CON 48-52] Williams Jump Shot: Made (4 PTS) Assist: Thomas (2 AST),182,110,1,,1627675,202662,1611661323,52,48,3
+07:52,[SEA] Langhorne Turnover : Bad Pass (2 TO) Steal:Stricklen (1 ST),0,-80,5,203015,201518,,1611661328,52,48,3
+07:33,[CON] Thomas Layup Shot: Missed,20,11,2,,203826,,1611661323,52,48,3
+07:32,[SEA] Stewart Rebound (Off:1 Def:6),0,-80,4,,1627668,,1611661328,52,48,3
+07:28,[SEA] Bird Turnover : Lost Ball (3 TO) Steal:Thomas (3 ST),0,-80,5,202662,100720,,1611661328,52,48,3
+07:24,[CON 50-52] Thomas Driving Layup Shot: Made (11 PTS),1,11,1,,202662,,1611661323,52,50,3
+06:58,[SEA 54-50] Langhorne Layup Shot: Made (12 PTS) Assist: Bird (6 AST),-6,8,1,,201518,100720,1611661328,54,50,3
+06:45,"Foul : Double Personal - Stewart (3 PF), Jones (2 PF)",32,41,6,1627673,1627668,,1611661328,54,50,3
+06:45,Jump Ball Stewart vs Jones (Bird gains possession),0,-80,10,1627673,1627668,100720,1611661328,54,50,3
+06:37,[SEA] Stewart 3pt Shot: Missed,-127,198,2,,1627668,,1611661328,54,50,3
+06:35,[CON] Jones Rebound (Off:5 Def:1),0,-80,4,,1627673,,1611661323,54,50,3
+06:26,[CON 52-54] Williams Pullup Jump shot: Made (6 PTS),-42,116,1,,1627675,,1611661323,54,52,3
+06:22,[SEA] Team Timeout : Regular,0,-80,9,,0,,1611661328,54,52,3
+06:09,[SEA 56-52] Loyd Driving Layup Shot: Made (8 PTS),17,-1,1,,204319,,1611661328,56,52,3
+05:57,[CON] Jones 3pt Shot: Missed,-181,174,2,,1627673,,1611661323,56,52,3
+05:55,[CON] Thomas Rebound (Off:1 Def:4),0,-80,4,,203826,,1611661323,56,52,3
+05:48,[CON] Williams Jump Shot: Missed,112,106,2,,1627675,,1611661323,56,52,3
+05:47,[SEA] Bird Rebound (Off:0 Def:2),0,-80,4,,100720,,1611661328,56,52,3
+05:41,[SEA] Loyd Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,204319,,1611661328,56,52,3
+05:24,[CON 55-56] Stricklen 3pt Shot: Made (12 PTS) Assist: Thomas (3 AST),187,159,1,,203015,202662,1611661323,56,55,3
+05:06,[SEA] Loyd Jump Shot: Missed,-130,149,2,,204319,,1611661328,56,55,3
+05:05,[CON] Thomas Rebound (Off:1 Def:2),0,-80,4,,202662,,1611661323,56,55,3
+04:55,[CON 58-56] Stricklen 3pt Shot: Made (15 PTS) Assist: Jones (2 AST),-43,237,1,,203015,1627673,1611661323,56,58,3
+04:35,[SEA] Bird 3pt Shot: Missed,-101,223,2,,100720,,1611661328,56,58,3
+04:34,[CON] Thomas Rebound (Off:1 Def:5),0,-80,4,,203826,,1611661323,56,58,3
+04:32,[SEA] Bird Foul: Personal (1 PF),-19,486,6,203826,100720,,1611661328,56,58,3
+04:32,[SEA] Loyd Substitution replaced by Whitcomb,0,-80,8,,204319,1628244,1611661328,56,58,3
+04:32,[SEA] Langhorne Substitution replaced by Tokashiki,0,-80,8,,201518,204317,1611661328,56,58,3
+04:25,[SEA] Clark Foul: Personal (1 PF),133,223,6,202662,202252,,1611661328,56,58,3
+04:22,[CON] Williams 3pt Shot: Missed,-184,151,2,,1627675,,1611661323,56,58,3
+04:20,[SEA] Clark Rebound (Off:0 Def:4),0,-80,4,,202252,,1611661328,56,58,3
+04:04,[SEA] Clark 3pt Shot: Missed,-114,223,2,,202252,,1611661328,56,58,3
+04:02,[CON] Thomas Rebound (Off:1 Def:6),0,-80,4,,203826,,1611661323,56,58,3
+03:53,[CON 60-56] Thomas Jump Shot: Made (13 PTS),-68,129,1,,202662,,1611661323,56,60,3
+03:40,[SEA] Whitcomb 3pt Shot: Missed,200,154,2,,1628244,,1611661328,56,60,3
+03:39,[CON] Thomas Rebound (Off:1 Def:7),0,-80,4,,203826,,1611661323,56,60,3
+03:34,[CON] Williams Jump Shot: Missed,-91,65,2,,1627675,,1611661323,56,60,3
+03:33,[SEA] Whitcomb Rebound (Off:0 Def:1),0,-80,4,,1628244,,1611661328,56,60,3
+03:24,[SEA 58-60] Bird Jump Shot: Made (11 PTS),-155,72,1,,100720,,1611661328,58,60,3
+03:12,[CON] Thomas Layup Shot: Missed,-17,3,2,,202662,,1611661323,58,60,3
+03:12,[SEA] Team Rebound,0,-80,4,,0,,1611661328,58,60,3
+03:12,[CON] Jones Foul: Loose Ball (3 PF),-7,2,6,1627668,1627673,,1611661323,58,60,3
+03:12,[CON] Thomas Substitution replaced by Bentley,0,-80,8,,202662,203410,1611661323,58,60,3
+03:12,[CON] Jones Substitution replaced by Pedersen,0,-80,8,,1627673,202653,1611661323,58,60,3
+02:56,[CON] Bentley Foul: Personal (2 PF),-70,11,6,100720,203410,,1611661323,58,60,3
+02:51,[CON] Williams Foul: Shooting (4 PF) (2 FTA),10,146,6,100720,1627675,,1611661323,58,60,3
+02:51,[SEA 59-60] Bird Free Throw 1 of 2 (12 PTS),0,-80,3,,100720,,1611661328,59,60,3
+02:51,[SEA 60-60] Bird Free Throw 2 of 2 (13 PTS),0,-80,3,,100720,,1611661328,60,60,3
+02:35,[CON] Bentley 3pt Shot: Missed,-174,165,2,,203410,,1611661323,60,60,3
+02:34,[CON] Team Rebound,0,-80,4,,0,,1611661323,60,60,3
+02:33,[SEA] Bird Substitution replaced by Quinn,0,-80,8,,100720,201049,1611661328,60,60,3
+02:33,[SEA] Clark Substitution replaced by Loyd,0,-80,8,,202252,204319,1611661328,60,60,3
+02:30,[CON 63-60] Stricklen 3pt Shot: Made (18 PTS) Assist: Bentley (1 AST),238,28,1,,203015,203410,1611661323,60,63,3
+02:17,[SEA] Tokashiki Jump Shot: Missed,-148,-6,2,,204317,,1611661328,60,63,3
+02:16,[CON] Stricklen Rebound (Off:0 Def:3),0,-80,4,,203015,,1611661323,60,63,3
+02:06,[CON 65-60] Thomas Driving Layup Shot: Made (11 PTS) Assist: Stricklen (1 AST),9,-6,1,,203826,203015,1611661323,60,65,3
+01:51,[SEA] Tokashiki Jump Shot: Missed,-65,16,2,,204317,,1611661328,60,65,3
+01:49,[CON] Team Rebound,0,-80,4,,0,,1611661323,60,65,3
+01:49,[SEA] Whitcomb Substitution replaced by Mosqueda-Lewis,0,-80,8,,1628244,204321,1611661328,60,65,3
+01:49,[CON] Williams Substitution replaced by Thomas,0,-80,8,,1627675,202662,1611661323,60,65,3
+01:49,Jump Ball Loyd vs Pedersen (Thomas gains possession),0,-80,10,202653,204319,203826,1611661328,60,65,3
+01:25,[CON] Thomas Turnover : Bad Pass (4 TO) Steal:Loyd (2 ST),0,-80,5,204319,203826,,1611661323,60,65,3
+01:17,[SEA] Mosqueda-Lewis 3pt Shot: Missed,228,87,2,,204321,,1611661328,60,65,3
+01:15,[CON] Bentley Rebound (Off:0 Def:1),0,-80,4,,203410,,1611661323,60,65,3
+01:11,[CON] Bentley 3pt Shot: Missed,-145,183,2,,203410,,1611661323,60,65,3
+01:10,[SEA] Quinn Rebound (Off:0 Def:1),0,-80,4,,201049,,1611661328,60,65,3
+00:56.4,[CON] Thomas Foul: Personal (3 PF) (2 FTA),-97,18,6,204319,203826,,1611661323,60,65,3
+00:56.4,[SEA] Loyd Free Throw 1 of 2 Missed,0,-80,3,,204319,,1611661328,60,65,3
+00:56.4,[SEA] Team Rebound,0,-80,4,,0,,1611661328,60,65,3
+00:56.4,[SEA 61-65] Loyd Free Throw 2 of 2 (9 PTS),0,-80,3,,204319,,1611661328,61,65,3
+00:45.5,[CON] Thomas Foul: Offensive (4 PF),-78,115,6,204319,203826,,1611661323,61,65,3
+00:45.5,[CON] Thomas Turnover : Foul (5 TO),0,-80,5,,203826,,1611661323,61,65,3
+00:45.5,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1627673,1611661323,61,65,3
+00:34.7,[SEA] Stewart Jump Shot: Missed,58,115,2,,1627668,,1611661328,61,65,3
+00:33.7,[CON] Jones Rebound (Off:5 Def:2),0,-80,4,,1627673,,1611661323,61,65,3
+00:15.4,[CON] Thomas Jump Shot: Missed,-68,46,2,,202662,,1611661323,61,65,3
+00:14.7,[SEA] Stewart Rebound (Off:1 Def:7),0,-80,4,,1627668,,1611661328,61,65,3
+00:01.6,[SEA 63-65] Loyd Fadeaway Jump Shot: Made (11 PTS),-187,80,1,,204319,,1611661328,63,65,3
+00:00.3,[CON] Bentley 3pt Shot: Missed,-14,557,2,,203410,,1611661323,63,65,3
+00:00.0,[CON] Team Rebound,0,-80,4,,0,,1611661323,63,65,3
+00:00.0,End Period,0,-80,13,,0,,0,63,65,3
+10:00,Start Period,0,-80,12,,0,,0,63,65,4
+09:46,[SEA 65-65] Loyd Jump Shot: Made (13 PTS),138,70,1,,204319,,1611661328,65,65,4
+09:40,[CON 67-65] Bentley Jump Shot: Made (6 PTS),-160,36,1,,203410,,1611661323,65,67,4
+09:26,[SEA] Tokashiki Foul: Offensive (2 PF),-119,139,6,1627670,204317,,1611661328,65,67,4
+09:26,[SEA] Tokashiki Turnover : Foul (1 TO),0,-80,5,,204317,,1611661328,65,67,4
+09:24,[SEA] Tokashiki Substitution replaced by Swords,0,-80,8,,204317,202670,1611661328,65,67,4
+09:09,[CON] Jones Jump Shot: Missed,-178,47,2,,1627673,,1611661323,65,67,4
+09:08,[SEA] Langhorne Rebound (Off:1 Def:2),0,-80,4,,201518,,1611661328,65,67,4
+09:00,[SEA] Loyd Jump Shot: Missed,133,23,2,,204319,,1611661328,65,67,4
+08:58,[CON] Pedersen Rebound (Off:0 Def:1),0,-80,4,,202653,,1611661323,65,67,4
+08:44,[CON 69-65] Pedersen Jump Shot: Made (2 PTS) Assist: Bentley (2 AST),78,141,1,,202653,203410,1611661323,65,69,4
+08:22,[SEA] Loyd Turnover : Backcourt Turnover (3 TO),0,-80,5,,204319,,1611661328,65,69,4
+08:15,[CON 72-65] Jones 3pt Shot: Made (14 PTS) Assist: Thomas (4 AST),-135,195,1,,1627673,202662,1611661323,65,72,4
+07:59,[SEA 67-72] Swords Running Layup Shot: Made (4 PTS) Assist: Quinn (2 AST),20,-1,1,,202670,201049,1611661328,67,72,4
+07:42,[CON] Pedersen Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,202653,,1611661323,67,72,4
+07:42,[SEA] Quinn Substitution replaced by Bird,0,-80,8,,201049,100720,1611661328,67,72,4
+07:42,[SEA] Langhorne Substitution replaced by Stewart,0,-80,8,,201518,1627668,1611661328,67,72,4
+07:30,[CON] Bentley Foul: Personal (3 PF),-88,41,6,100720,203410,,1611661323,67,72,4
+07:30,[CON] Pedersen Substitution replaced by Stricklen,0,-80,8,,202653,203015,1611661323,67,72,4
+07:30,[CON] Tuck Substitution replaced by Thomas,0,-80,8,,1627670,203826,1611661323,67,72,4
+07:24,[SEA] Mosqueda-Lewis Jump Shot: Missed,104,164,2,,204321,,1611661328,67,72,4
+07:22,[CON] Jones Rebound (Off:5 Def:3),0,-80,4,,1627673,,1611661323,67,72,4
+07:08,[CON] Thomas Jump Shot: Missed,-29,26,2,,203826,,1611661323,67,72,4
+07:07,[SEA] Team Rebound,0,-80,4,,0,,1611661328,67,72,4
+07:07,[CON] Jones Foul: Loose Ball (4 PF),-7,26,6,202670,1627673,,1611661323,67,72,4
+06:54,[SEA 69-72] Swords Layup Shot: Made (6 PTS) Assist: Bird (7 AST),-12,-1,1,,202670,100720,1611661328,69,72,4
+06:41,[CON 74-69] Thomas Jump Shot: Made (13 PTS) Assist: Thomas (5 AST),4,52,1,,203826,202662,1611661323,69,74,4
+06:24,[SEA 71-74] Bird Jump Shot: Made (15 PTS),86,169,1,,100720,,1611661328,71,74,4
+06:14,[SEA] Bird Foul: Personal (2 PF),-163,116,6,202662,100720,,1611661328,71,74,4
+06:14,[SEA] Mosqueda-Lewis Substitution replaced by Clark,0,-80,8,,204321,202252,1611661328,71,74,4
+06:14,[CON] Bentley Substitution replaced by Williams,0,-80,8,,203410,1627675,1611661323,71,74,4
+06:13,[CON] Thomas Foul: Offensive (5 PF),-194,282,6,1627668,203826,,1611661323,71,74,4
+06:13,[CON] Thomas Turnover : Foul (6 TO),0,-80,5,,203826,,1611661323,71,74,4
+06:13,[CON] Thomas Substitution replaced by Pedersen,0,-80,8,,203826,202653,1611661323,71,74,4
+06:01,[SEA] Loyd Jump Shot: Missed,-68,21,2,,204319,,1611661328,71,74,4
+06:00,[CON] Jones Rebound (Off:5 Def:4),0,-80,4,,1627673,,1611661323,71,74,4
+05:46,[CON 76-71] Williams Jump Bank Shot: Made (8 PTS),-145,120,1,,1627675,,1611661323,71,76,4
+05:25,[SEA 73-76] Stewart Step Back Jump shot: Made (20 PTS),110,70,1,,1627668,,1611661328,73,76,4
+04:58,[CON] Stricklen 3pt Shot: Missed,207,262,2,,203015,,1611661323,73,76,4
+04:58,[CON] Team Rebound,0,-80,4,,0,,1611661323,73,76,4
+04:58,[CON] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661323,73,76,4
+04:58,Timeout : Official,0,-80,9,,0,,0,73,76,4
+04:49,[SEA 75-76] Loyd Jump Bank Shot: Made (15 PTS),43,33,1,,204319,,1611661328,75,76,4
+04:35,[CON] Thomas Jump Shot: Missed,158,51,2,,202662,,1611661323,75,76,4
+04:33,[SEA] Swords Rebound (Off:0 Def:2),0,-80,4,,202670,,1611661328,75,76,4
+04:22,[SEA] Swords Turnover : Bad Pass (1 TO) Steal:Thomas (4 ST),0,-80,5,202662,202670,,1611661328,75,76,4
+04:18,[CON 78-75] Thomas Driving Layup Shot: Made (15 PTS),9,2,1,,202662,,1611661323,75,78,4
+04:03,[CON] Pedersen Foul: Personal (1 PF),-78,16,6,1627668,202653,,1611661323,75,78,4
+03:53,[SEA] Bird Jump Shot: Missed,163,120,2,,100720,,1611661328,75,78,4
+03:52,[CON] Williams Rebound (Off:0 Def:2),0,-80,4,,1627675,,1611661323,75,78,4
+03:34,[CON] Thomas Turnover : Lost Ball (4 TO) Steal:Clark (1 ST),0,-80,5,202252,202662,,1611661323,75,78,4
+03:19,[SEA 77-78] Stewart Driving Layup Shot: Made (22 PTS),-19,11,1,,1627668,,1611661328,77,78,4
+03:09,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,77,78,4
+03:09,[CON] Pedersen Substitution replaced by Thomas,0,-80,8,,202653,203826,1611661323,77,78,4
+02:55,[CON] Thomas 3pt Shot: Missed,-166,170,2,,202662,,1611661323,77,78,4
+02:53,[SEA] Swords Rebound (Off:0 Def:3),0,-80,4,,202670,,1611661328,77,78,4
+02:37,[SEA] Stewart Jump Shot: Missed,128,23,2,,1627668,,1611661328,77,78,4
+02:35,[CON] Williams Rebound (Off:0 Def:3),0,-80,4,,1627675,,1611661323,77,78,4
+02:22,[SEA] Stewart Foul: Shooting (4 PF) (2 FTA),-86,21,6,203826,1627668,,1611661328,77,78,4
+02:22,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,77,78,4
+02:22,[CON] Team Rebound,0,-80,4,,0,,1611661323,77,78,4
+02:22,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,77,78,4
+02:22,[SEA] Swords Rebound (Off:0 Def:4),0,-80,4,,202670,,1611661328,77,78,4
+02:06,[SEA] Bird Jump Shot: Missed,89,164,2,,100720,,1611661328,77,78,4
+02:03,[CON] Stricklen Rebound (Off:0 Def:4),0,-80,4,,203015,,1611661323,77,78,4
+01:56,[CON] Williams Jump Shot: Missed,191,61,2,,1627675,,1611661323,77,78,4
+01:56,[SEA] Team Rebound,0,-80,4,,0,,1611661328,77,78,4
+01:41,[SEA] Clark Jump Shot: Missed,-53,26,2,,202252,,1611661328,77,78,4
+01:40,[CON] Jones Rebound (Off:5 Def:5),0,-80,4,,1627673,,1611661323,77,78,4
+01:36,[CON] Thomas Turnover : Bad Pass (5 TO) Steal:Stewart (1 ST),0,-80,5,1627668,202662,,1611661323,77,78,4
+01:27,[SEA] Loyd Jump Shot: Missed Block: Jones (1 BLK),14,43,2,1627673,204319,,1611661328,77,78,4
+01:25,[CON] Jones Rebound (Off:5 Def:6),0,-80,4,,1627673,,1611661323,77,78,4
+01:08,[CON 81-77] Stricklen 3pt Shot: Made (21 PTS) Assist: Thomas (6 AST),0,254,1,,203015,202662,1611661323,77,81,4
+01:08,[SEA] Team Timeout : Short,0,-80,9,,0,,1611661328,77,81,4
+01:02,[SEA] Stewart Turnover : Bad Pass (3 TO) Steal:Thomas (5 ST),0,-80,5,202662,1627668,,1611661328,77,81,4
+00:41.8,[CON] Williams Jump Shot: Missed,38,21,2,,1627675,,1611661323,77,81,4
+00:40.8,[CON] Jones Rebound (Off:6 Def:6),0,-80,4,,1627673,,1611661323,77,81,4
+00:38.9,[CON] Jones Jump Shot: Missed Block: Swords (1 BLK),-30,21,2,202670,1627673,,1611661323,77,81,4
+00:36.8,[SEA] Bird Rebound (Off:0 Def:3),0,-80,4,,100720,,1611661328,77,81,4
+00:33.9,[SEA] Stewart 3pt Shot: Missed,-78,232,2,,1627668,,1611661328,77,81,4
+00:32.4,[SEA] Loyd Rebound (Off:1 Def:1),0,-80,4,,204319,,1611661328,77,81,4
+00:31.2,[SEA 79-81] Loyd Layup Shot: Made (17 PTS),-16,2,1,,204319,,1611661328,79,81,4
+00:31.2,[CON] Team Timeout : Short,0,-80,9,,0,,1611661323,79,81,4
+00:16.8,[CON] Thomas Jump Shot: Missed,9,38,2,,203826,,1611661323,79,81,4
+00:15.7,[SEA] Swords Rebound (Off:0 Def:5),0,-80,4,,202670,,1611661328,79,81,4
+00:15.7,[SEA] Team Timeout : Short,0,-80,9,,0,,1611661328,79,81,4
+00:10.6,[SEA] Stewart Foul: Offensive Charge (5 PF),-60,16,6,1627675,1627668,,1611661328,79,81,4
+00:10.6,[SEA] Stewart Turnover : Foul (4 TO),0,-80,5,,1627668,,1611661328,79,81,4
+00:10.6,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,79,81,4
+00:10.6,[SEA] Swords Substitution replaced by Langhorne,0,-80,8,,202670,201518,1611661328,79,81,4
+00:10.2,[SEA] Clark Foul: Personal (2 PF),213,223,6,202662,202252,,1611661328,79,81,4
+00:09.4,[SEA] Loyd Foul: Personal (1 PF) (2 FTA),4,316,6,1627675,204319,,1611661328,79,81,4
+00:09.4,[CON 82-79] Williams Free Throw 1 of 2 (9 PTS),0,-80,3,,1627675,,1611661323,79,82,4
+00:09.4,[CON 83-79] Williams Free Throw 2 of 2 (10 PTS),0,-80,3,,1627675,,1611661323,79,83,4
+00:09.4,[SEA] Team Timeout : Regular,0,-80,9,,0,,1611661328,79,83,4
+00:09.4,[SEA] Clark Substitution replaced by Quinn,0,-80,8,,202252,201049,1611661328,79,83,4
+00:04.9,[SEA] Stewart 3pt Shot: Missed,-232,100,2,,1627668,,1611661328,79,83,4
+00:03.3,[CON] Team Rebound,0,-80,4,,0,,1611661323,79,83,4
+00:00.0,End Period,0,-80,13,,0,,0,79,83,4

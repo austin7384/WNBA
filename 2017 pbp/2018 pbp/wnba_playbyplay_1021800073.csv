@@ -1,0 +1,423 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Wilson vs Vaughn (Plum gains possession),0,-80,10,201913,1628932,1628276,1611661319,0,0,1
+09:46,[LVA] McBride Jump Shot: Missed,121,160,2,,203825,,1611661319,0,0,1
+09:42,[NYL] Hartley Rebound (Off:0 Def:1),121,160,4,,203829,,1611661313,0,0,1
+09:19,[NYL] Hartley 3pt Shot: Missed,204,137,2,,203829,,1611661313,0,0,1
+09:19,[NYL] Team Rebound,204,137,4,,0,,1611661313,0,0,1
+09:19,[NYL] Team Turnover : Shot Clock Turnover,183,163,5,,0,,1611661313,0,0,1
+09:08,[LVA] Wilson Jump Shot: Missed,-131,24,2,,1628932,,1611661319,0,0,1
+09:05,[NYL] Vaughn Rebound (Off:0 Def:1),-131,24,4,,201913,,1611661313,0,0,1
+08:49,[NYL 2-0] Charles Hook Shot: Made (2 PTS) Assist: Rodgers (1 AST),-1,64,1,,202250,203411,1611661313,0,2,1
+08:38,[LVA] Coffey Turnover : Bad Pass (1 TO) Steal:Charles (1 ST),-120,51,5,202250,1628269,,1611661319,0,2,1
+08:34,[NYL 4-0] Rodgers Layup Shot: Made (2 PTS) Assist: Hartley (1 AST),-114,38,1,,203411,203829,1611661313,0,4,1
+08:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,4,1
+08:18,[LVA] Park Jump Shot: Missed,-10,124,2,,1628917,,1611661319,0,4,1
+08:13,[NYL] Charles Rebound (Off:0 Def:1),-10,124,4,,202250,,1611661313,0,4,1
+08:08,[NYL] Rodgers 3pt Shot: Missed,219,112,2,,203411,,1611661313,0,4,1
+08:04,[LVA] Wilson Rebound (Off:0 Def:1),219,112,4,,1628932,,1611661319,0,4,1
+07:49,[LVA 2-4] Park Jump Shot: Made (2 PTS) Assist: Wilson (1 AST),101,162,1,,1628917,1628932,1611661319,2,4,1
+07:30,[NYL 6-2] Vaughn Cutting Layup Shot: Made (2 PTS) Assist: Charles (1 AST),-101,38,1,,201913,202250,1611661313,2,6,1
+07:16,[LVA] Wilson Jump Shot: Missed,-109,58,2,,1628932,,1611661319,2,6,1
+07:12,[LVA] Coffey Rebound (Off:1 Def:0),-109,58,4,,1628269,,1611661319,2,6,1
+07:10,[LVA 5-6] McBride 3pt Shot: Made (3 PTS) Assist: Coffey (1 AST),146,212,1,,203825,1628269,1611661319,5,6,1
+06:53,[NYL] Charles Turnover : Traveling (1 TO),-97,145,5,,202250,,1611661313,5,6,1
+06:40,[LVA] McBride Jump Shot: Missed,-133,15,2,,203825,,1611661319,5,6,1
+06:36,[NYL] Charles Rebound (Off:0 Def:2),-133,15,4,,202250,,1611661313,5,6,1
+06:30,[NYL] Coleman Jump Shot: Missed,-132,136,2,,201889,,1611661313,5,6,1
+06:29,[NYL] Vaughn Rebound (Off:1 Def:1),-132,136,4,,201913,,1611661313,5,6,1
+06:29,[LVA] Plum Foul: Personal (1 PF),-132,136,6,201913,1628276,,1611661319,5,6,1
+06:21,[NYL] Coleman Jump Shot: Missed,69,113,2,,201889,,1611661313,5,6,1
+06:16,[LVA] Park Rebound (Off:0 Def:1),69,113,4,,1628917,,1611661319,5,6,1
+06:15,[LVA 7-6] McBride Running Layup Shot: Made (5 PTS) Assist: Plum (1 AST),108,-7,1,,203825,1628276,1611661319,7,6,1
+05:57,[NYL] Charles Jump Shot: Missed,-109,136,2,,202250,,1611661313,7,6,1
+05:54,[NYL] Vaughn Rebound (Off:2 Def:1),-109,136,4,,201913,,1611661313,7,6,1
+05:53,[NYL] Vaughn Layup Shot: Missed,74,34,2,,201913,,1611661313,7,6,1
+05:53,[LVA] Coffey Rebound (Off:1 Def:1),74,34,4,,1628269,,1611661319,7,6,1
+05:47,[LVA] Plum Jump Shot: Missed,-35,164,2,,1628276,,1611661319,7,6,1
+05:42,[NYL] Rodgers Rebound (Off:0 Def:1),-35,164,4,,203411,,1611661313,7,6,1
+05:34,[NYL 8-7] Vaughn Jump Shot: Made (4 PTS) Assist: Hartley (2 AST),143,28,1,,201913,203829,1611661313,7,8,1
+05:17,[LVA] McBride Layup Shot: Missed,98,116,2,,203825,,1611661319,7,8,1
+05:14,[LVA] McBride Rebound (Off:1 Def:0),98,116,4,,203825,,1611661319,7,8,1
+05:12,[LVA] Park Jump Shot: Missed,41,189,2,,1628917,,1611661319,7,8,1
+05:09,[NYL] Vaughn Rebound (Off:2 Def:2),41,189,4,,201913,,1611661313,7,8,1
+05:05,[NYL] Rodgers 3pt Shot: Missed,155,189,2,,203411,,1611661313,7,8,1
+05:05,[LVA] Wilson Rebound (Off:0 Def:2),155,189,4,,1628932,,1611661319,7,8,1
+04:53,[LVA 9-8] Wilson Jump Shot: Made (2 PTS) Assist: Coffey (2 AST),74,115,1,,1628932,1628269,1611661319,9,8,1
+04:53,[NYL] Vaughn Foul: Shooting (1 PF) (1 FTA),74,115,6,1628932,201913,,1611661313,9,8,1
+04:53,Timeout Officials,0,-80,9,,0,,0,9,8,1
+04:53,[LVA] Coffey Substitution replaced by Young,0,-80,8,,1628269,201477,1611661319,9,8,1
+04:53,[NYL] Rodgers Substitution replaced by Prince,0,-80,8,,203411,202259,1611661313,9,8,1
+04:53,[LVA 10-8] Wilson Free Throw 1 of 1 (3 PTS),0,-80,3,,1628932,,1611661319,10,8,1
+04:33,[NYL] Charles Turnover : Traveling (2 TO),97,176,5,,202250,,1611661313,10,8,1
+04:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,8,1
+04:07,[LVA] Wilson Running Layup Shot: Missed,82,75,2,,1628932,,1611661319,10,8,1
+04:04,[LVA] Wilson Rebound (Off:1 Def:2),82,75,4,,1628932,,1611661319,10,8,1
+04:02,[LVA] McBride 3pt Shot: Missed,73,256,2,,203825,,1611661319,10,8,1
+03:59,[NYL] Charles Rebound (Off:0 Def:3),73,256,4,,202250,,1611661313,10,8,1
+03:47,[NYL 10-10] Vaughn Jump Shot: Made (6 PTS) Assist: Coleman (1 AST),-146,16,1,,201913,201889,1611661313,10,10,1
+03:37,[NYL] Coleman Foul: Personal (1 PF),-55,186,6,201477,201889,,1611661313,10,10,1
+03:37,[NYL] Vaughn Substitution replaced by Stokes,0,-80,8,,201913,204329,1611661313,10,10,1
+03:33,[LVA] Plum Pullup Jump shot: Missed,97,137,2,,1628276,,1611661319,10,10,1
+03:31,[NYL] Team Rebound,97,137,4,,0,,1611661313,10,10,1
+03:31,[LVA] Park Substitution replaced by Bone,0,-80,8,,1628917,203402,1611661319,10,10,1
+03:19,[NYL] Prince Pullup Jump shot: Missed,145,15,2,,202259,,1611661313,10,10,1
+03:16,[LVA] Bone Rebound (Off:0 Def:1),145,15,4,,203402,,1611661319,10,10,1
+03:09,[NYL] Stokes Foul: Shooting (1 PF) (2 FTA),34,87,6,1628932,204329,,1611661313,10,10,1
+03:09,[LVA 11-10] Wilson Free Throw 1 of 2 (4 PTS),0,-80,3,,1628932,,1611661319,11,10,1
+03:09,[LVA] Plum Substitution replaced by Allen,0,-80,8,,1628276,1628263,1611661319,11,10,1
+03:09,[LVA 12-10] Wilson Free Throw 2 of 2 (5 PTS),0,-80,3,,1628932,,1611661319,12,10,1
+02:46,[NYL] Charles Driving Hook Shot: Missed,-23,130,2,,202250,,1611661313,12,10,1
+02:42,[LVA] Bone Rebound (Off:0 Def:2),-23,130,4,,203402,,1611661319,12,10,1
+02:41,[NYL] Hartley Foul: Personal (1 PF),158,162,6,1628263,203829,,1611661313,12,10,1
+02:29,[LVA] Bone Turnover : Out of Bounds - Bad Pass Turnover (1 TO),52,198,5,,203402,,1611661319,12,10,1
+02:29,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,12,10,1
+02:17,[NYL] Prince Pullup Jump shot: Missed,-146,101,2,,202259,,1611661313,12,10,1
+02:17,[NYL] Team Rebound,-146,101,4,,0,,1611661313,12,10,1
+02:17,[NYL] Coleman Substitution replaced by Nurse,0,-80,8,,201889,1628915,1611661313,12,10,1
+02:14,[NYL] Charles Jump Shot: Missed,-134,76,2,,202250,,1611661313,12,10,1
+02:09,[LVA] Allen Rebound (Off:0 Def:1),-134,76,4,,1628263,,1611661319,12,10,1
+02:07,[LVA] Allen Turnover : Bad Pass (1 TO) Steal:Boyd (1 ST),169,230,5,204327,1628263,,1611661319,12,10,1
+02:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,10,1
+01:55,[LVA] McBride Foul: Shooting (1 PF) (2 FTA),99,32,6,202259,203825,,1611661319,12,10,1
+01:55,[NYL 11-12] Prince Free Throw 1 of 2 (1 PTS),0,-80,3,,202259,,1611661313,12,11,1
+01:55,[NYL 12-12] Prince Free Throw 2 of 2 (2 PTS),0,-80,3,,202259,,1611661313,12,12,1
+01:39,[NYL] Prince Foul: Personal (1 PF) (2 FTA),98,90,6,1628932,202259,,1611661313,12,12,1
+01:39,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,12,12,1
+01:39,[LVA] Team Rebound,0,-80,4,,0,,1611661319,12,12,1
+01:39,[NYL] Charles Substitution replaced by Zahui B,0,-80,8,,202250,204320,1611661313,12,12,1
+01:39,[LVA 13-12] Wilson Free Throw 2 of 2 (6 PTS),0,-80,3,,1628932,,1611661319,13,12,1
+01:29,[NYL] Boyd Driving Layup Shot: Missed,-9,121,2,,204327,,1611661313,13,12,1
+01:27,[LVA] Wilson Rebound (Off:1 Def:3),-9,121,4,,1628932,,1611661319,13,12,1
+01:21,[LVA] Young Pullup Jump shot: Missed,115,115,2,,201477,,1611661319,13,12,1
+01:17,[LVA] Bone Rebound (Off:1 Def:2),115,115,4,,203402,,1611661319,13,12,1
+01:15,[LVA] Allen Jump Shot: Missed,-133,16,2,,1628263,,1611661319,13,12,1
+01:15,[LVA] Wilson Rebound (Off:2 Def:3),-133,16,4,,1628932,,1611661319,13,12,1
+01:06,[LVA 15-12] Wilson Putback Layup Shot: Made (8 PTS),0,-5,1,,1628932,,1611661319,15,12,1
+01:02,[NYL 15-15] Zahui B 3pt Shot: Made (3 PTS) Assist: Prince (1 AST),120,237,1,,204320,202259,1611661313,15,15,1
+00:53.5,[LVA] Young 3pt Shot: Missed,200,197,2,,201477,,1611661319,15,15,1
+00:48.8,[NYL] Nurse Rebound (Off:0 Def:1),200,197,4,,1628915,,1611661313,15,15,1
+00:45.8,[NYL] Prince 3pt Shot: Missed,-181,193,2,,202259,,1611661313,15,15,1
+00:42.8,[NYL] Stokes Rebound (Off:1 Def:0),-181,193,4,,204329,,1611661313,15,15,1
+00:41.2,[NYL] Nurse 3pt Shot: Missed,115,233,2,,1628915,,1611661313,15,15,1
+00:41.2,[LVA] Young Rebound (Off:0 Def:1),115,233,4,,201477,,1611661319,15,15,1
+00:31.7,[LVA] Allen Turnover : Bad Pass (2 TO) Steal:Stokes (1 ST),111,111,5,204329,1628263,,1611661319,15,15,1
+00:10.2,[NYL] Prince Driving Layup Shot: Missed,92,67,2,,202259,,1611661313,15,15,1
+00:07.8,[LVA] Wilson Rebound (Off:2 Def:4),92,67,4,,1628932,,1611661319,15,15,1
+00:03.1,[LVA] McBride Cutting Layup Shot: Missed,-108,64,2,,203825,,1611661319,15,15,1
+00:03.1,[NYL] Stokes Rebound (Off:1 Def:1),-108,64,4,,204329,,1611661313,15,15,1
+00:00.0,[NYL] Nurse 3pt Shot: Missed,11,371,2,,1628915,,1611661313,15,15,1
+00:00.0,[NYL] Team Rebound,11,371,4,,0,,1611661313,15,15,1
+00:00.0,End Period,0,-80,13,,0,,0,15,15,1
+10:00,Start Period,0,-80,12,,0,,0,15,15,2
+09:46,[NYL] Zahui B Turnover : Bad Pass (1 TO) Steal:Bone (1 ST),38,266,5,203402,204320,,1611661313,15,15,2
+09:41,[LVA 17-15] Hamby Driving Layup Shot: Made (2 PTS),103,41,1,,204324,,1611661319,17,15,2
+09:27,[NYL] Rodgers Turnover : Lost Ball (1 TO) Steal:Nared (1 ST),110,156,5,1628913,203411,,1611661313,17,15,2
+09:21,[LVA 19-15] Bone Finger Roll Layup Shot: Made (2 PTS) Assist: Allen (1 AST),101,15,1,,203402,1628263,1611661319,19,15,2
+09:20,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,19,15,2
+09:04,[NYL] Zahui B Hook Shot: Missed,17,115,2,,204320,,1611661313,19,15,2
+08:59,[NYL] Stokes Rebound (Off:2 Def:1),17,115,4,,204329,,1611661313,19,15,2
+08:58,[NYL] Stokes Tip Layup Shot: Missed,10,39,2,,204329,,1611661313,19,15,2
+08:55,[LVA] Bone Rebound (Off:1 Def:3),10,39,4,,203402,,1611661319,19,15,2
+08:53,[NYL] Zahui B Foul: Shooting (1 PF) (2 FTA),-36,22,6,204324,204320,,1611661313,19,15,2
+08:53,[LVA] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,19,15,2
+08:53,[LVA] Team Rebound,0,-80,4,,0,,1611661319,19,15,2
+08:53,[NYL] Zahui B Substitution replaced by Charles,0,-80,8,,204320,202250,1611661313,19,15,2
+08:53,[LVA 20-15] Hamby Free Throw 2 of 2 (3 PTS),0,-80,3,,204324,,1611661319,20,15,2
+08:40,[NYL 17-20] Boyd Cutting Layup Shot: Made (2 PTS) Assist: Charles (2 AST),-48,60,1,,204327,202250,1611661313,20,17,2
+08:19,[LVA] Hamby Turnover : Lost Ball (1 TO) Steal:Boyd (2 ST),95,244,5,204327,204324,,1611661319,20,17,2
+08:15,[LVA] Allen Foul: Personal (1 PF),120,110,6,203411,1628263,,1611661319,20,17,2
+08:15,[LVA] Bone Substitution replaced by Wilson,0,-80,8,,203402,1628932,1611661319,20,17,2
+08:06,[NYL] Rodgers Cutting Layup Shot: Missed,25,109,2,1628932,203411,,1611661313,20,17,2
+08:06,[NYL] Team Rebound,25,109,4,,0,,1611661313,20,17,2
+08:00,[NYL] Rodgers Jump Shot: Missed,-141,129,2,,203411,,1611661313,20,17,2
+07:57,[NYL] Charles Rebound (Off:1 Def:3),-141,129,4,,202250,,1611661313,20,17,2
+07:55,[NYL] Charles Layup Shot: Missed,-67,38,2,,202250,,1611661313,20,17,2
+07:55,[LVA] Young Rebound (Off:0 Def:2),-67,38,4,,201477,,1611661319,20,17,2
+07:40,[LVA] Young Jump Shot: Missed,-93,49,2,204327,201477,,1611661319,20,17,2
+07:36,[LVA] Allen Rebound (Off:1 Def:1),-93,49,4,,1628263,,1611661319,20,17,2
+07:31,[LVA] Allen Turnover : Bad Pass (3 TO) Steal:Rodgers (1 ST),-94,148,5,203411,1628263,,1611661319,20,17,2
+07:28,[NYL 19-20] Nurse Finger Roll Layup Shot: Made (2 PTS) Assist: Rodgers (2 AST),85,12,1,,1628915,203411,1611661313,20,19,2
+07:28,[LVA] Nared Foul: Shooting (1 PF) (1 FTA),85,12,6,1628915,1628913,,1611661319,20,19,2
+07:28,[LVA] Allen Substitution replaced by Plum,0,-80,8,,1628263,1628276,1611661319,20,19,2
+07:28,[NYL] Boyd Substitution replaced by Hartley,0,-80,8,,204327,203829,1611661313,20,19,2
+07:28,[NYL 20-20] Nurse Free Throw 1 of 1 (3 PTS),0,-80,3,,1628915,,1611661313,20,20,2
+07:15,[LVA] Wilson Turnaround Jump Shot: Missed,121,17,2,,1628932,,1611661319,20,20,2
+07:10,[NYL] Rodgers Rebound (Off:0 Def:2),121,17,4,,203411,,1611661313,20,20,2
+07:05,[NYL] Hartley Driving Layup Shot: Missed,43,49,2,1628932,203829,,1611661313,20,20,2
+07:00,[LVA] Wilson Rebound (Off:2 Def:5),43,49,4,,1628932,,1611661319,20,20,2
+06:46,[LVA] Hamby Driving Layup Shot: Missed,113,89,2,202250,204324,,1611661319,20,20,2
+06:43,[NYL] Stokes Rebound (Off:2 Def:2),113,89,4,,204329,,1611661313,20,20,2
+06:39,[NYL] Charles Turnover : 3 Second Violation (3 TO),54,42,5,,202250,,1611661313,20,20,2
+06:39,[LVA] Hamby Substitution replaced by McBride,0,-80,8,,204324,203825,1611661319,20,20,2
+06:39,[LVA] Nared Substitution replaced by Coffey,0,-80,8,,1628913,1628269,1611661319,20,20,2
+06:39,[LVA] Young Substitution replaced by Park,0,-80,8,,201477,1628917,1611661319,20,20,2
+06:19,[NYL] Nurse Foul: Shooting (1 PF) (2 FTA),-108,74,6,203825,1628915,,1611661313,20,20,2
+06:19,[LVA 21-20] McBride Free Throw 1 of 2 (6 PTS),0,-80,3,,203825,,1611661319,21,20,2
+06:19,[LVA 22-20] McBride Free Throw 2 of 2 (7 PTS),0,-80,3,,203825,,1611661319,22,20,2
+06:00,[NYL] Hartley 3pt Shot: Missed,205,160,2,,203829,,1611661313,22,20,2
+05:55,[LVA] McBride Rebound (Off:1 Def:1),205,160,4,,203825,,1611661319,22,20,2
+05:52,[LVA] Coffey Foul: Offensive Charge (1 PF),-32,68,6,1628915,1628269,,1611661319,22,20,2
+05:52,[LVA] Coffey Turnover : Offensive Foul Turnover (2 TO),-32,68,5,,1628269,,1611661319,22,20,2
+05:52,[NYL] Stokes Substitution replaced by Vaughn,0,-80,8,,204329,201913,1611661313,22,20,2
+05:42,[NYL] Charles Pullup Jump shot: Missed,-82,184,2,,202250,,1611661313,22,20,2
+05:38,[NYL] Nurse Rebound (Off:1 Def:1),-82,184,4,,1628915,,1611661313,22,20,2
+05:34,[LVA] Plum Foul: Personal (2 PF),82,33,6,203829,1628276,,1611661319,22,20,2
+05:30,[NYL 22-22] Charles Turnaround Hook Shot: Made (4 PTS) Assist: Nurse (1 AST),49,42,1,,202250,1628915,1611661313,22,22,2
+05:16,[NYL] Nurse Foul: Personal (2 PF),123,108,6,1628269,1628915,,1611661313,22,22,2
+05:16,[LVA] Coffey Substitution replaced by Young,0,-80,8,,1628269,201477,1611661319,22,22,2
+05:10,[NYL] Charles Foul: Personal (1 PF),-49,137,6,1628932,202250,,1611661313,22,22,2
+04:58,[LVA] Young Jump Shot: Missed,160,3,2,,201477,,1611661319,22,22,2
+04:53,[LVA] Park Rebound (Off:1 Def:1),160,3,4,,1628917,,1611661319,22,22,2
+04:42,[LVA 24-22] McBride Pullup Jump shot: Made (9 PTS),-27,186,1,,203825,,1611661319,24,22,2
+04:20,[NYL] Charles Turnaround Fadeaway shot: Missed,109,86,2,,202250,,1611661313,24,22,2
+04:17,[LVA] Young Rebound (Off:0 Def:3),109,86,4,,201477,,1611661319,24,22,2
+04:08,[LVA 26-22] Wilson Cutting Layup Shot: Made (10 PTS) Assist: McBride (1 AST),84,33,1,,1628932,203825,1611661319,26,22,2
+03:58,[NYL] Charles Pullup Jump shot: Missed,83,157,2,,202250,,1611661313,26,22,2
+03:56,[NYL] Nurse Rebound (Off:2 Def:1),83,157,4,,1628915,,1611661313,26,22,2
+03:56,[LVA] Young Foul: Shooting (1 PF) (2 FTA),54,77,6,1628915,201477,,1611661319,26,22,2
+03:56,[NYL 23-26] Nurse Free Throw 1 of 2 (4 PTS),0,-80,3,,1628915,,1611661313,26,23,2
+03:56,[LVA] Plum Substitution replaced by Allen,0,-80,8,,1628276,1628263,1611661319,26,23,2
+03:56,[NYL] Rodgers Substitution replaced by Prince,0,-80,8,,203411,202259,1611661313,26,23,2
+03:56,[NYL 24-26] Nurse Free Throw 2 of 2 (5 PTS),0,-80,3,,1628915,,1611661313,26,24,2
+03:46,[LVA 29-24] McBride 3pt Shot: Made (12 PTS),-86,257,1,,203825,,1611661319,29,24,2
+03:33,[NYL] Hartley 3pt Shot: Missed,67,235,2,,203829,,1611661313,29,24,2
+03:28,[NYL] Hartley Rebound (Off:1 Def:1),67,235,4,,203829,,1611661313,29,24,2
+03:28,[NYL] Hartley Turnover : Bad Pass (1 TO),60,87,5,,203829,,1611661313,29,24,2
+03:28,[NYL] Nurse Substitution replaced by Coleman,0,-80,8,,1628915,201889,1611661313,29,24,2
+03:10,[LVA] Wilson Step Back Jump shot: Missed,132,63,2,,1628932,,1611661319,29,24,2
+03:08,[LVA] Park Rebound (Off:2 Def:1),132,63,4,,1628917,,1611661319,29,24,2
+03:08,[NYL] Hartley Foul: Personal (2 PF) (2 FTA),132,63,6,1628917,203829,,1611661313,29,24,2
+03:08,[LVA 30-24] Park Free Throw 1 of 2 (3 PTS),0,-80,3,,1628917,,1611661319,30,24,2
+03:08,[LVA 31-24] Park Free Throw 2 of 2 (4 PTS),0,-80,3,,1628917,,1611661319,31,24,2
+02:43,[NYL] Coleman Fadeaway Jump Shot: Missed,155,38,2,,201889,,1611661313,31,24,2
+02:39,[LVA] Wilson Rebound (Off:2 Def:6),155,38,4,,1628932,,1611661319,31,24,2
+02:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,24,2
+02:38,Timeout Officials,0,-80,9,,0,,0,31,24,2
+02:32,[NYL] Prince Foul: Personal (2 PF) (2 FTA),-141,112,6,1628917,202259,,1611661313,31,24,2
+02:32,[LVA] Park Free Throw 1 of 2 Missed,0,-80,3,,1628917,,1611661319,31,24,2
+02:32,[LVA] Team Rebound,0,-80,4,,0,,1611661319,31,24,2
+02:32,[LVA 32-24] Park Free Throw 2 of 2 (5 PTS),0,-80,3,,1628917,,1611661319,32,24,2
+02:14,[NYL] Charles Driving Hook Shot: Missed,55,91,2,1628917,202250,,1611661313,32,24,2
+02:10,[NYL] Charles Rebound (Off:2 Def:3),55,91,4,,202250,,1611661313,32,24,2
+02:08,[NYL] Prince Pullup Jump shot: Missed,38,182,2,,202259,,1611661313,32,24,2
+02:04,[LVA] Young Rebound (Off:0 Def:4),38,182,4,,201477,,1611661319,32,24,2
+01:49,[LVA] Young Driving Layup Shot: Missed,101,58,2,201913,201477,,1611661319,32,24,2
+01:45,[NYL] Vaughn Rebound (Off:2 Def:3),101,58,4,,201913,,1611661313,32,24,2
+01:38,[NYL] Vaughn Jump Shot: Missed,75,166,2,,201913,,1611661313,32,24,2
+01:33,[LVA] Wilson Rebound (Off:2 Def:7),75,166,4,,1628932,,1611661319,32,24,2
+01:25,[LVA] Allen Turnover : Bad Pass (4 TO) Steal:Hartley (1 ST),-15,187,5,203829,1628263,,1611661319,32,24,2
+01:11,[NYL 26-32] Prince Pullup Jump shot: Made (4 PTS),80,150,1,,202259,,1611661313,32,26,2
+00:48.9,[LVA] Park Layup Shot: Missed,-64,37,2,202250,1628917,,1611661319,32,26,2
+00:45.4,[NYL] Charles Rebound (Off:2 Def:4),-64,37,4,,202250,,1611661313,32,26,2
+00:38.4,[NYL] Charles 3pt Shot: Missed,113,259,2,,202250,,1611661313,32,26,2
+00:35.0,[LVA] McBride Rebound (Off:1 Def:2),113,259,4,,203825,,1611661319,32,26,2
+00:30.6,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,32,26,2
+00:20.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,26,2
+00:18.1,[NYL] Vaughn Foul: Shooting (2 PF) (2 FTA),108,65,6,1628932,201913,,1611661313,32,26,2
+00:18.1,[LVA 33-26] Wilson Free Throw 1 of 2 (11 PTS),0,-80,3,,1628932,,1611661319,33,26,2
+00:18.1,[LVA 34-26] Wilson Free Throw 2 of 2 (12 PTS),0,-80,3,,1628932,,1611661319,34,26,2
+00:02.8,[NYL] Hartley Pullup Jump shot: Missed,130,112,2,,203829,,1611661313,34,26,2
+00:02.8,[LVA] Young Rebound (Off:0 Def:5),130,112,4,,201477,,1611661319,34,26,2
+00:00.0,End Period,0,-80,13,,0,,0,34,26,2
+10:00,Start Period,0,-80,12,,0,,0,34,26,3
+09:41,[NYL] Vaughn Reverse Layup Shot: Missed,-53,27,2,,201913,,1611661313,34,26,3
+09:38,[LVA] Coffey Rebound (Off:1 Def:2),-53,27,4,,1628269,,1611661319,34,26,3
+09:27,[LVA] Coffey Jump Shot: Missed,-132,113,2,201889,1628269,,1611661319,34,26,3
+09:23,[NYL] Charles Rebound (Off:2 Def:5),-132,113,4,,202250,,1611661313,34,26,3
+09:17,[NYL 28-34] Hartley Driving Finger Roll Layup Shot: Made (2 PTS),-2,67,1,,203829,,1611661313,34,28,3
+09:00,[LVA] Park Jump Shot: Missed,-146,61,2,,1628917,,1611661319,34,28,3
+08:57,[NYL] Rodgers Rebound (Off:0 Def:3),-146,61,4,,203411,,1611661313,34,28,3
+08:48,[NYL] Coleman 3pt Shot: Missed,-98,236,2,,201889,,1611661313,34,28,3
+08:45,[LVA] Park Rebound (Off:2 Def:2),-98,236,4,,1628917,,1611661319,34,28,3
+08:30,[LVA] Park Jump Shot: Missed,15,156,2,,1628917,,1611661319,34,28,3
+08:24,[NYL] Rodgers Rebound (Off:0 Def:4),15,156,4,,203411,,1611661313,34,28,3
+08:20,[NYL 30-34] Charles Jump Shot: Made (6 PTS) Assist: Rodgers (3 AST),76,177,1,,202250,203411,1611661313,34,30,3
+08:06,[LVA 37-30] McBride 3pt Shot: Made (15 PTS) Assist: Park (1 AST),-167,203,1,,203825,1628917,1611661319,37,30,3
+07:57,[LVA] Plum Foul: Personal (3 PF),168,284,6,203829,1628276,,1611661319,37,30,3
+07:40,[NYL] Coleman Finger Roll Layup Shot: Missed,104,139,2,,201889,,1611661313,37,30,3
+07:39,[NYL] Vaughn Rebound (Off:3 Def:3),104,139,4,,201913,,1611661313,37,30,3
+07:39,[NYL] Team Turnover : Shot Clock Turnover,-87,246,5,,0,,1611661313,37,30,3
+07:26,[LVA 39-30] Coffey Cutting Layup Shot: Made (2 PTS) Assist: Wilson (2 AST),69,15,1,,1628269,1628932,1611661319,39,30,3
+07:10,[NYL 32-39] Vaughn Turnaround Fadeaway shot: Made (8 PTS) Assist: Charles (3 AST),-59,64,1,,201913,202250,1611661313,39,32,3
+06:55,[NYL] Vaughn Foul: Shooting (3 PF) (2 FTA),-22,147,6,1628932,201913,,1611661313,39,32,3
+06:55,[LVA 40-32] Wilson Free Throw 1 of 2 (13 PTS),0,-80,3,,1628932,,1611661319,40,32,3
+06:55,[LVA 41-32] Wilson Free Throw 2 of 2 (14 PTS),0,-80,3,,1628932,,1611661319,41,32,3
+06:38,[NYL 35-41] Coleman 3pt Shot: Made (3 PTS) Assist: Charles (4 AST),-156,205,1,,201889,202250,1611661313,41,35,3
+06:24,[LVA] McBride Turnover : Bad Pass (1 TO) Steal:Hartley (2 ST),-121,27,5,203829,203825,,1611661319,41,35,3
+06:20,[NYL] Hartley Turnover : Bad Pass (2 TO) Steal:McBride (1 ST),-100,580,5,203825,203829,,1611661313,41,35,3
+06:19,[LVA] Wilson Turnover : Traveling (1 TO),-135,49,5,,1628932,,1611661319,41,35,3
+06:01,[NYL 37-41] Hartley Cutting Layup Shot: Made (4 PTS) Assist: Charles (5 AST),98,68,1,,203829,202250,1611661313,41,37,3
+05:44,[NYL] Hartley Foul: Shooting (3 PF) (2 FTA),85,26,6,1628276,203829,,1611661313,41,37,3
+05:44,[LVA 42-37] Plum Free Throw 1 of 2 (1 PTS),0,-80,3,,1628276,,1611661319,42,37,3
+05:44,[LVA 43-37] Plum Free Throw 2 of 2 (2 PTS),0,-80,3,,1628276,,1611661319,43,37,3
+05:29,[NYL 40-43] Charles 3pt Shot: Made (9 PTS) Assist: Rodgers (4 AST),142,209,1,,202250,203411,1611661313,43,40,3
+05:07,[LVA 45-40] McBride Floating Jump shot: Made (17 PTS),-1,103,1,,203825,,1611661319,45,40,3
+05:01,[NYL] Vaughn Foul: Offensive Charge (4 PF),-137,138,6,1628276,201913,,1611661313,45,40,3
+05:01,[NYL] Vaughn Turnover : Offensive Foul Turnover (1 TO),-137,138,5,,201913,,1611661313,45,40,3
+05:01,[LVA] Plum Substitution replaced by Allen,0,-80,8,,1628276,1628263,1611661319,45,40,3
+04:50,[LVA] Wilson Foul: Offensive Charge (1 PF),110,64,6,203829,1628932,,1611661319,45,40,3
+04:50,[LVA] Wilson Turnover : Offensive Foul Turnover (2 TO),110,64,5,,1628932,,1611661319,45,40,3
+04:50,Timeout Officials,0,-80,9,,0,,0,45,40,3
+04:50,[LVA] Coffey Substitution replaced by Hamby,0,-80,8,,1628269,204324,1611661319,45,40,3
+04:50,[LVA] Park Substitution replaced by Young,0,-80,8,,1628917,201477,1611661319,45,40,3
+04:50,[NYL] Vaughn Substitution replaced by Stokes,0,-80,8,,201913,204329,1611661313,45,40,3
+04:36,[NYL] Charles Jump Shot: Missed,-36,95,2,,202250,,1611661313,45,40,3
+04:33,[LVA] McBride Rebound (Off:1 Def:3),-36,95,4,,203825,,1611661319,45,40,3
+04:20,[LVA] Allen Jump Shot: Missed,-135,88,2,,1628263,,1611661319,45,40,3
+04:16,[NYL] Stokes Rebound (Off:2 Def:3),-135,88,4,,204329,,1611661313,45,40,3
+04:09,[NYL 43-45] Charles 3pt Shot: Made (12 PTS) Assist: Rodgers (5 AST),134,242,1,,202250,203411,1611661313,45,43,3
+03:51,[LVA] Wilson Driving Layup Shot: Missed,-123,54,2,,1628932,,1611661319,45,43,3
+03:49,[NYL] Coleman Rebound (Off:0 Def:1),-123,54,4,,201889,,1611661313,45,43,3
+03:34,[NYL 45-45] Coleman Turnaround Hook Shot: Made (5 PTS) Assist: Hartley (3 AST),25,64,1,,201889,203829,1611661313,45,45,3
+03:20,[LVA 48-45] Hamby 3pt Shot: Made (6 PTS) Assist: Young (1 AST),-157,209,1,,204324,201477,1611661319,48,45,3
+02:58,[NYL] Charles Turnover : Bad Pass (4 TO) Steal:McBride (2 ST),0,176,5,203825,202250,,1611661313,48,45,3
+02:56,[LVA] McBride Turnover : Bad Pass (2 TO) Steal:Hartley (3 ST),-97,537,5,203829,203825,,1611661319,48,45,3
+02:56,[NYL] Charles 3pt Shot: Missed,-222,121,2,,202250,,1611661313,48,45,3
+02:56,[NYL] Hartley Rebound (Off:2 Def:1),-224,727,4,,203829,,1611661313,48,45,3
+02:47,[NYL] Hartley 3pt Shot: Missed,-14,243,2,,203829,,1611661313,48,45,3
+02:46,[LVA] Team Rebound,-16,600,4,,0,,1611661319,48,45,3
+02:46,[LVA] Allen Substitution replaced by Plum,0,-80,8,,1628263,1628276,1611661319,48,45,3
+02:46,[NYL] Coleman Substitution replaced by Zahui B,0,-80,8,,201889,204320,1611661313,48,45,3
+02:46,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,48,45,3
+02:46,[NYL] Rodgers Substitution replaced by Nurse,0,-80,8,,203411,1628915,1611661313,48,45,3
+02:46,[NYL] Charles Substitution replaced by Prince,0,-80,8,,202250,202259,1611661313,48,45,3
+02:18,[LVA 50-45] Hamby Jump Shot: Made (8 PTS),-126,15,1,,204324,,1611661319,50,45,3
+02:12,[NYL 47-50] Nurse Jump Shot: Made (7 PTS),103,21,1,,1628915,,1611661313,50,47,3
+01:54,[LVA] Hamby 3pt Shot: Missed,-168,233,2,,204324,,1611661319,50,47,3
+01:54,[NYL] Stokes Rebound (Off:2 Def:4),-168,233,4,,204329,,1611661313,50,47,3
+01:48,[NYL] Boyd Jump Shot: Missed,-83,19,2,,204327,,1611661313,50,47,3
+01:44,[LVA] Hamby Rebound (Off:0 Def:1),-83,19,4,,204324,,1611661319,50,47,3
+01:30,[LVA] Wilson Jump Shot: Missed,106,145,2,,1628932,,1611661319,50,47,3
+01:27,[LVA] Wilson Rebound (Off:3 Def:7),106,145,4,,1628932,,1611661319,50,47,3
+01:24,[LVA 52-47] Hamby Jump Shot: Made (10 PTS) Assist: Wilson (3 AST),52,34,1,,204324,1628932,1611661319,52,47,3
+01:10,[NYL 50-52] Zahui B 3pt Shot: Made (6 PTS) Assist: Boyd (1 AST),-33,235,1,,204320,204327,1611661313,52,50,3
+00:52.0,[LVA] McBride Floating Jump shot: Missed,72,35,2,,203825,,1611661319,52,50,3
+00:49.6,[NYL] Prince Rebound (Off:0 Def:1),72,35,4,,202259,,1611661313,52,50,3
+00:45.2,[NYL] Prince 3pt Shot: Missed,-98,273,2,,202259,,1611661313,52,50,3
+00:41.1,[LVA] Hamby Rebound (Off:0 Def:2),-98,273,4,,204324,,1611661319,52,50,3
+00:36.8,[NYL] Stokes Foul: Personal (2 PF),-108,65,6,1628932,204329,,1611661313,52,50,3
+00:36.8,[LVA] Wilson Substitution replaced by Bone,0,-80,8,,1628932,203402,1611661319,52,50,3
+00:36.8,[NYL] Zahui B Substitution replaced by Vaughn,0,-80,8,,204320,201913,1611661313,52,50,3
+00:36.8,[LVA] McBride Substitution replaced by Nared,0,-80,8,,203825,1628913,1611661319,52,50,3
+00:36.8,[NYL] Stokes Substitution replaced by Zahui B,0,-80,8,,204329,204320,1611661313,52,50,3
+00:26.8,[LVA 54-50] Bone Layup Shot: Made (4 PTS) Assist: Young (2 AST),81,65,1,,203402,201477,1611661319,54,50,3
+00:03.3,[NYL] Boyd 3pt Shot: Missed,-167,218,2,,204327,,1611661313,54,50,3
+00:03.3,[NYL] Zahui B Rebound (Off:1 Def:0),-167,218,4,,204320,,1611661313,54,50,3
+00:00.0,[NYL 52-54] Zahui B Putback Layup Shot: Made (8 PTS),75,33,1,,204320,,1611661313,54,52,3
+00:00.0,End Period,0,-80,13,,0,,0,54,52,3
+10:00,Start Period,0,-80,12,,0,,0,54,52,4
+09:42,[LVA] Young Turnover : Bad Pass (1 TO) Steal:Prince (1 ST),47,180,5,202259,201477,,1611661319,54,52,4
+09:36,[LVA] Young Foul: Personal (2 PF),-135,53,6,1628915,201477,,1611661319,54,52,4
+09:28,[NYL 54-54] Zahui B Finger Roll Layup Shot: Made (10 PTS),-66,24,1,,204320,,1611661313,54,54,4
+09:09,[LVA 56-54] Young Pullup Jump shot: Made (2 PTS) Assist: Bone (1 AST),-97,105,1,,201477,203402,1611661319,56,54,4
+08:46,[NYL 56-56] Zahui B Pullup Jump shot: Made (12 PTS),97,92,1,,204320,,1611661313,56,56,4
+08:35,[LVA] Hamby 3pt Shot: Missed,-118,257,2,,204324,,1611661319,56,56,4
+08:32,[LVA] Plum Rebound (Off:1 Def:0),-118,257,4,,1628276,,1611661319,56,56,4
+08:32,[NYL] Boyd Foul: Personal (1 PF),-186,110,6,1628276,204327,,1611661313,56,56,4
+08:22,[LVA] Young Pullup Jump shot: Missed,-93,167,2,,201477,,1611661319,56,56,4
+08:19,[LVA] Nared Rebound (Off:1 Def:0),-93,167,4,,1628913,,1611661319,56,56,4
+08:15,[LVA 59-56] Plum 3pt Shot: Made (5 PTS) Assist: Hamby (1 AST),180,183,1,,1628276,204324,1611661319,59,56,4
+07:59,[NYL] Prince Turnover : Bad Pass (1 TO) Steal:Young (1 ST),31,187,5,201477,202259,,1611661313,59,56,4
+07:53,[LVA] Young Layup Shot: Missed,28,35,2,,201477,,1611661319,59,56,4
+07:52,[NYL] Boyd Rebound (Off:0 Def:1),28,35,4,,204327,,1611661313,59,56,4
+07:49,[NYL 58-59] Nurse Cutting Layup Shot: Made (9 PTS) Assist: Boyd (2 AST),23,25,1,,1628915,204327,1611661313,59,58,4
+07:49,[LVA] Plum Foul: Shooting (4 PF) (1 FTA),-113,108,6,1628915,1628276,,1611661319,59,58,4
+07:49,[LVA] Young Substitution replaced by McBride,0,-80,8,,201477,203825,1611661319,59,58,4
+07:49,[NYL 59-59] Nurse Free Throw 1 of 1 (10 PTS),0,-80,3,,1628915,,1611661313,59,59,4
+07:35,[LVA 61-59] Hamby Cutting Layup Shot: Made (12 PTS),99,23,1,,204324,,1611661319,61,59,4
+07:27,[NYL] Prince Foul: Offensive Charge (3 PF),95,47,6,203402,202259,,1611661313,61,59,4
+07:27,[NYL] Prince Turnover : Offensive Foul Turnover (2 TO),95,47,5,,202259,,1611661313,61,59,4
+07:27,[LVA] Bone Substitution replaced by Wilson,0,-80,8,,203402,1628932,1611661319,61,59,4
+07:27,[LVA] Hamby Substitution replaced by Park,0,-80,8,,204324,1628917,1611661319,61,59,4
+07:27,[NYL] Vaughn Substitution replaced by Charles,0,-80,8,,201913,202250,1611661313,61,59,4
+07:09,[LVA 63-59] Wilson Running Finger Roll Layup Shot: Made (16 PTS),-12,29,1,,1628932,,1611661319,63,59,4
+07:08,[LVA] Plum Foul: Shooting (5 PF) (2 FTA),-126,35,6,204327,1628276,,1611661319,63,59,4
+07:08,[NYL 60-63] Boyd Free Throw 1 of 2 (3 PTS),0,-80,3,,204327,,1611661313,63,60,4
+07:08,[LVA] Plum Substitution replaced by Allen,0,-80,8,,1628276,1628263,1611661319,63,60,4
+07:08,[NYL 61-63] Boyd Free Throw 2 of 2 (4 PTS),0,-80,3,,204327,,1611661313,63,61,4
+06:56,[LVA 66-61] McBride 3pt Shot: Made (20 PTS),-11,273,1,,203825,,1611661319,66,61,4
+06:36,[NYL] Prince Jump Shot: Missed,120,121,2,,202259,,1611661313,66,61,4
+06:32,[LVA] Wilson Rebound (Off:3 Def:8),120,121,4,,1628932,,1611661319,66,61,4
+06:14,[LVA] Wilson Jump Shot: Missed,58,92,2,202250,1628932,,1611661319,66,61,4
+06:10,[NYL] Charles Rebound (Off:2 Def:6),58,92,4,,202250,,1611661313,66,61,4
+06:04,[NYL 63-66] Zahui B Layup Shot: Made (14 PTS),-60,17,1,,204320,,1611661313,66,63,4
+05:46,[LVA] McBride Driving Layup Shot: Missed,-92,40,2,,203825,,1611661319,66,63,4
+05:45,[LVA] McBride Rebound (Off:2 Def:3),-92,40,4,,203825,,1611661319,66,63,4
+05:45,[LVA 68-63] McBride Putback Layup Shot: Made (22 PTS),50,21,1,,203825,,1611661319,68,63,4
+05:45,[NYL] Zahui B Foul: Shooting (2 PF) (1 FTA),50,21,6,203825,204320,,1611661313,68,63,4
+05:45,[NYL] Prince Substitution replaced by Rodgers,0,-80,8,,202259,203411,1611661313,68,63,4
+05:45,Timeout Officials,0,-80,9,,0,,0,68,63,4
+05:45,[LVA 69-63] McBride Free Throw 1 of 1 (23 PTS),0,-80,3,,203825,,1611661319,69,63,4
+05:33,[LVA] Wilson Foul: Shooting (2 PF) (2 FTA),-130,38,6,204327,1628932,,1611661319,69,63,4
+05:33,[NYL 64-69] Boyd Free Throw 1 of 2 (5 PTS),0,-80,3,,204327,,1611661313,69,64,4
+05:33,[NYL 65-69] Boyd Free Throw 2 of 2 (6 PTS),0,-80,3,,204327,,1611661313,69,65,4
+05:17,[LVA] McBride Turnover : Out of Bounds - Bad Pass Turnover (3 TO),119,249,5,,203825,,1611661319,69,65,4
+05:08,[NYL 68-69] Rodgers 3pt Shot: Made (5 PTS) Assist: Boyd (3 AST),-209,115,1,,203411,204327,1611661313,69,68,4
+04:57,[LVA] Park Foul: Offensive Charge (1 PF),145,55,6,204320,1628917,,1611661319,69,68,4
+04:57,[LVA] Park Turnover : Offensive Foul Turnover (1 TO),145,55,5,,1628917,,1611661319,69,68,4
+04:57,[LVA] Park Substitution replaced by Hamby,0,-80,8,,1628917,204324,1611661319,69,68,4
+04:57,[LVA] Nared Substitution replaced by Young,0,-80,8,,1628913,201477,1611661319,69,68,4
+04:48,[NYL] Charles Turnover : Traveling (5 TO),-114,94,5,,202250,,1611661313,69,68,4
+04:34,[NYL] Rodgers Foul: Shooting (1 PF) (2 FTA),108,45,6,203825,203411,,1611661313,69,68,4
+04:34,[LVA 70-68] McBride Free Throw 1 of 2 (24 PTS),0,-80,3,,203825,,1611661319,70,68,4
+04:34,[LVA 71-68] McBride Free Throw 2 of 2 (25 PTS),0,-80,3,,203825,,1611661319,71,68,4
+04:22,[NYL] Rodgers 3pt Shot: Missed,-180,199,2,,203411,,1611661313,71,68,4
+04:18,[LVA] Wilson Rebound (Off:3 Def:9),-180,199,4,,1628932,,1611661319,71,68,4
+03:59,[LVA] Young Pullup Jump shot: Missed,65,112,2,,201477,,1611661319,71,68,4
+03:58,[NYL] Boyd Rebound (Off:0 Def:2),65,112,4,,204327,,1611661313,71,68,4
+03:52,[NYL] Boyd Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),79,231,5,204324,204327,,1611661313,71,68,4
+03:46,[LVA 73-68] Allen Cutting Layup Shot: Made (2 PTS) Assist: Young (3 AST),44,38,1,,1628263,201477,1611661319,73,68,4
+03:46,[NYL] Charles Foul: Shooting (2 PF) (1 FTA),44,38,6,1628263,202250,,1611661313,73,68,4
+03:46,[LVA 74-68] Allen Free Throw 1 of 1 (3 PTS),0,-80,3,,1628263,,1611661319,74,68,4
+03:34,[NYL 71-74] Nurse 3pt Shot: Made (13 PTS) Assist: Boyd (4 AST),-193,173,1,,1628915,204327,1611661313,74,71,4
+03:10,[LVA] Wilson Jump Shot: Missed,-80,135,2,,1628932,,1611661319,74,71,4
+03:07,[NYL] Zahui B Rebound (Off:1 Def:1),-80,135,4,,204320,,1611661313,74,71,4
+02:59,[NYL] Rodgers Cutting Layup Shot: Missed,-53,48,2,1628932,203411,,1611661313,74,71,4
+02:54,[LVA] Hamby Rebound (Off:0 Def:3),-53,48,4,,204324,,1611661319,74,71,4
+02:53,[LVA] Hamby Turnover : Bad Pass (2 TO) Steal:Boyd (3 ST),36,174,5,204327,204324,,1611661319,74,71,4
+02:49,[NYL] Boyd Layup Shot: Missed,-72,13,2,,204327,,1611661313,74,71,4
+02:46,[NYL] Rodgers Rebound (Off:1 Def:4),-72,13,4,,203411,,1611661313,74,71,4
+02:46,[NYL] Rodgers Turnover : Lost Ball (2 TO) Steal:Hamby (2 ST),129,41,5,204324,203411,,1611661313,74,71,4
+02:46,[NYL] Boyd Foul: Personal (2 PF) (2 FTA),-152,665,6,204324,204327,,1611661313,74,71,4
+02:46,Timeout Officials,0,-80,9,,0,,0,74,71,4
+02:46,[LVA] Allen Substitution replaced by Plum,0,-80,8,,1628263,1628276,1611661319,74,71,4
+02:46,[LVA 75-71] Hamby Free Throw 1 of 2 (13 PTS),0,-80,3,,204324,,1611661319,75,71,4
+02:46,[LVA 76-71] Hamby Free Throw 2 of 2 (14 PTS),0,-80,3,,204324,,1611661319,76,71,4
+02:31,[NYL 73-76] Charles Turnaround Hook Shot: Made (14 PTS) Assist: Boyd (5 AST),126,15,1,,202250,204327,1611661313,76,73,4
+02:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,76,73,4
+02:10,[LVA 78-73] Young Jump Shot: Made (4 PTS) Assist: Wilson (4 AST),128,3,1,,201477,1628932,1611661319,78,73,4
+01:53,[NYL] Boyd Floating Jump shot: Missed,48,96,2,,204327,,1611661313,78,73,4
+01:53,[LVA] Wilson Rebound (Off:3 Def:10),48,96,4,,1628932,,1611661319,78,73,4
+01:37,[LVA 80-73] Wilson Jump Shot: Made (18 PTS) Assist: Plum (2 AST),110,117,1,,1628932,1628276,1611661319,80,73,4
+01:37,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,80,73,4
+01:33,[NYL] Boyd 3pt Shot: Missed,120,236,2,,204327,,1611661313,80,73,4
+01:29,[LVA] Wilson Rebound (Off:3 Def:11),120,236,4,,1628932,,1611661319,80,73,4
+01:19,[LVA] Plum Foul: Offensive Charge (6 PF),-113,157,6,204327,1628276,,1611661319,80,73,4
+01:19,[LVA] Plum Turnover : Offensive Foul Turnover (1 TO),-113,157,5,,1628276,,1611661319,80,73,4
+01:19,[LVA] Plum Substitution replaced by Allen,0,-80,8,,1628276,1628263,1611661319,80,73,4
+01:19,[NYL] Boyd Substitution replaced by Hartley,0,-80,8,,204327,203829,1611661313,80,73,4
+01:08,[NYL] Charles 3pt Shot: Missed,87,239,2,,202250,,1611661313,80,73,4
+01:03,[NYL] Zahui B Rebound (Off:2 Def:1),87,239,4,,204320,,1611661313,80,73,4
+00:59.1,[NYL 75-80] Rodgers Driving Layup Shot: Made (7 PTS),-57,19,1,,203411,,1611661313,80,75,4
+00:45.2,[NYL] Zahui B Foul: Personal (3 PF) (2 FTA),135,64,6,203825,204320,,1611661313,80,75,4
+00:45.2,[LVA 81-75] McBride Free Throw 1 of 2 (26 PTS),0,-80,3,,203825,,1611661319,81,75,4
+00:45.2,[LVA 82-75] McBride Free Throw 2 of 2 (27 PTS),0,-80,3,,203825,,1611661319,82,75,4
+00:37.5,[NYL] Hartley Turnover : Traveling (3 TO),97,24,5,,203829,,1611661313,82,75,4
+00:23.2,[NYL] Charles Foul: Shooting (3 PF) (2 FTA),-114,109,6,1628932,202250,,1611661313,82,75,4
+00:23.2,[LVA 83-75] Wilson Free Throw 1 of 2 (19 PTS),0,-80,3,,1628932,,1611661319,83,75,4
+00:23.2,[LVA] McBride Substitution replaced by Nared,0,-80,8,,203825,1628913,1611661319,83,75,4
+00:23.2,[LVA 84-75] Wilson Free Throw 2 of 2 (20 PTS),0,-80,3,,1628932,,1611661319,84,75,4
+00:23.2,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,84,75,4
+00:23.2,[LVA] Wilson Substitution replaced by Bone,0,-80,8,,1628932,203402,1611661319,84,75,4
+00:18.2,[NYL 78-84] Rodgers 3pt Shot: Made (10 PTS) Assist: Hartley (4 AST),-155,191,1,,203411,203829,1611661313,84,78,4
+00:16.1,[NYL] Hartley Foul: Personal (4 PF) (2 FTA),97,720,6,1628263,203829,,1611661313,84,78,4
+00:16.1,[LVA 85-78] Allen Free Throw 1 of 2 (4 PTS),0,-80,3,,1628263,,1611661319,85,78,4
+00:16.1,[LVA 86-78] Allen Free Throw 2 of 2 (5 PTS),0,-80,3,,1628263,,1611661319,86,78,4
+00:16.1,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,86,78,4
+00:13.6,[NYL] Charles Turnover : Bad Pass (6 TO) Steal:Hamby (3 ST),-124,269,5,204324,202250,,1611661313,86,78,4
+00:10.6,[LVA 88-78] Hamby Finger Roll Layup Shot: Made (16 PTS),-63,24,1,,204324,,1611661319,88,78,4
+00:03.4,[NYL] Hartley 3pt Shot: Missed,181,173,2,,203829,,1611661313,88,78,4
+00:03.4,[LVA] Bone Rebound (Off:1 Def:4),181,173,4,,203402,,1611661319,88,78,4
+00:00.0,End Period,0,-80,13,,0,,0,88,78,4
+00:00.0,Game End,0,-80,0,,0,,0,88,78,4

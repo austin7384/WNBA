@@ -1,0 +1,372 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:58,Jump Ball Cambage vs Jones (Wilson gains possession),0,-80,10,1627673,202633,1628932,1611661319,0,0,1
+09:46,[CON] Jones Foul: Shooting (1 PF) (2 FTA),11,64,6,202633,1627673,,1611661323,0,0,1
+09:46,[LVA] Cambage Free Throw 1 of 2 Missed,0,-80,3,,202633,,1611661319,0,0,1
+09:46,[LVA] Team Rebound,0,-80,4,,0,,1611661319,0,0,1
+09:46,[LVA] Cambage Free Throw 2 of 2 Missed,0,-80,3,,202633,,1611661319,0,0,1
+09:43,[CON] Bonner Rebound (Off:0 Def:1),0,-80,4,,201886,,1611661323,0,0,1
+09:27,[CON 3-0] Bonner 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),-155,209,1,,201886,1627673,1611661323,0,3,1
+09:08,[LVA 2-3] Wilson Jump Shot: Made (2 PTS) Assist: Williams (1 AST),52,205,1,,1628932,203029,1611661319,2,3,1
+08:51,[CON 5-2] Jones Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),-43,13,1,,1627673,202662,1611661323,2,5,1
+08:40,[LVA] Williams Pullup Jump shot: Missed,-1,176,2,,203029,,1611661319,2,5,1
+08:36,[CON] Hiedeman Rebound (Off:0 Def:1),-1,176,4,,1629567,,1611661323,2,5,1
+08:17,[CON] Bonner 3pt Shot: Missed,-215,111,2,,201886,,1611661323,2,5,1
+08:13,[CON] Jones Rebound (Off:1 Def:0),-215,111,4,,1627673,,1611661323,2,5,1
+08:06,[CON] Jones Layup Shot: Missed,-28,36,2,,1628280,,1611661323,2,5,1
+08:04,[CON] Jones Rebound (Off:1 Def:0),-28,36,4,,1628280,,1611661323,2,5,1
+08:03,[CON] Jones Putback Layup Shot: Missed,-21,22,2,,1628280,,1611661323,2,5,1
+08:02,[CON] Team Rebound,-21,22,4,,0,,1611661323,2,5,1
+08:02,[LVA] Cambage Foul: Personal (1 PF),-33,48,6,1628280,202633,,1611661319,2,5,1
+07:53,[CON] Thomas Pullup Jump shot: Missed,100,142,2,,202662,,1611661323,2,5,1
+07:48,[LVA] Cambage Rebound (Off:0 Def:1),100,142,4,,202633,,1611661319,2,5,1
+07:40,[LVA] Wilson Jump Shot: Missed,131,3,2,,1628932,,1611661319,2,5,1
+07:37,[CON] Hiedeman Rebound (Off:0 Def:2),131,3,4,,1629567,,1611661323,2,5,1
+07:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,5,1
+07:30,[CON] Jones 3pt Shot: Missed,-175,171,2,,1627673,,1611661323,2,5,1
+07:29,[CON] Jones Rebound (Off:2 Def:0),-175,171,4,,1628280,,1611661323,2,5,1
+07:29,[LVA] Cambage Foul: Shooting (2 PF) (2 FTA),-21,15,6,1628280,202633,,1611661319,2,5,1
+07:29,[CON 6-2] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1628280,,1611661323,2,6,1
+07:29,[LVA] Cambage Substitution replaced by Park,0,-80,8,,202633,1628917,1611661319,2,6,1
+07:29,[CON 7-2] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1628280,,1611661323,2,7,1
+07:17,[LVA] Wilson Jump Shot: Missed,-62,168,2,,1628932,,1611661319,2,7,1
+07:13,[CON] Thomas Rebound (Off:0 Def:1),-62,168,4,,202662,,1611661323,2,7,1
+07:01,[CON] Hiedeman 3pt Shot: Missed,-239,-2,2,203029,1629567,,1611661323,2,7,1
+07:01,[CON] Team Rebound,-239,-2,4,,0,,1611661323,2,7,1
+06:51,[CON 9-2] Thomas Driving Layup Shot: Made (2 PTS),37,14,1,,202662,,1611661323,2,9,1
+06:38,[LVA] Wilson Turnaround Jump Shot: Missed,-101,12,2,,1628932,,1611661319,2,9,1
+06:36,[CON] Bonner Rebound (Off:0 Def:2),-101,12,4,,201886,,1611661323,2,9,1
+06:24,[CON] Bonner Driving Layup Shot: Missed,-42,25,2,,201886,,1611661323,2,9,1
+06:22,[CON] Jones Rebound (Off:2 Def:0),-42,25,4,,1627673,,1611661323,2,9,1
+06:21,[CON] Jones Putback Layup Shot: Missed,28,14,2,1628932,1627673,,1611661323,2,9,1
+06:21,[LVA] Team Rebound,28,14,4,,0,,1611661319,2,9,1
+06:06,[LVA] Gray 3pt Shot: Missed,158,207,2,,203833,,1611661319,2,9,1
+06:06,[CON] Jones Rebound (Off:2 Def:1),158,207,4,,1627673,,1611661323,2,9,1
+05:55,[CON 11-2] Jones Layup Shot: Made (4 PTS) Assist: Jones (2 AST),20,14,1,,1628280,1627673,1611661323,2,11,1
+05:55,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,2,11,1
+05:44,[LVA 4-11] Young Pullup Jump shot: Made (2 PTS) Assist: Park (1 AST),-67,177,1,,1629498,1628917,1611661319,4,11,1
+05:18,[CON] Jones 3pt Shot: Missed,186,185,2,,1627673,,1611661323,4,11,1
+05:15,[LVA] Team Rebound,186,185,4,,0,,1611661319,4,11,1
+04:54,[LVA] Wilson Layup Shot: Missed,-7,72,2,,1628932,,1611661319,4,11,1
+04:53,[LVA] Team Rebound,-7,72,4,,0,,1611661319,4,11,1
+04:48,[LVA] Wilson Jump Shot: Missed,-1,99,2,,1628932,,1611661319,4,11,1
+04:44,[CON] Bonner Rebound (Off:0 Def:3),-1,99,4,,201886,,1611661323,4,11,1
+04:35,[CON] Jones Driving Layup Shot: Missed,-2,53,2,,1628280,,1611661323,4,11,1
+04:34,[CON] Jones Rebound (Off:3 Def:0),-2,53,4,,1628280,,1611661323,4,11,1
+04:26,[CON 14-4] Jones 3pt Shot: Made (5 PTS) Assist: Bonner (1 AST),-139,215,1,,1627673,201886,1611661323,4,14,1
+04:05,[LVA] Williams 3pt Shot: Missed,177,180,2,,203029,,1611661319,4,14,1
+04:02,[CON] Bonner Rebound (Off:0 Def:4),177,180,4,,201886,,1611661323,4,14,1
+03:56,[CON] Jones Jump Shot: Missed,-92,17,2,,1628280,,1611661323,4,14,1
+03:54,[LVA] Park Rebound (Off:0 Def:1),-92,17,4,,1628917,,1611661319,4,14,1
+03:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,14,1
+03:54,[CON] Jones Substitution replaced by Mompremier,0,-80,8,,1627673,1629492,1611661323,4,14,1
+03:38,[LVA] Young Jump Shot: Missed,-53,167,2,,1629498,,1611661319,4,14,1
+03:34,[CON] Mompremier Rebound (Off:0 Def:1),-53,167,4,,1629492,,1611661323,4,14,1
+03:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,14,1
+03:31,[LVA] Williams Substitution replaced by Hamby,0,-80,8,,203029,204324,1611661319,4,14,1
+03:22,[CON] Bonner Layup Shot: Missed,28,13,2,,201886,,1611661323,4,14,1
+03:19,[LVA] Wilson Rebound (Off:0 Def:1),28,13,4,,1628932,,1611661319,4,14,1
+03:07,[LVA] Hamby 3pt Shot: Missed,-226,-3,2,,204324,,1611661319,4,14,1
+03:03,[CON] Thomas Rebound (Off:0 Def:2),-226,-3,4,,202662,,1611661323,4,14,1
+02:48,[CON] Thomas Driving Layup Shot: Missed,56,81,2,,202662,,1611661323,4,14,1
+02:48,[LVA] Team Rebound,56,81,4,,0,,1611661319,4,14,1
+02:48,[CON] Hiedeman Substitution replaced by Charles,0,-80,8,,1629567,1630097,1611661323,4,14,1
+02:38,[CON] Mompremier Foul: Shooting (1 PF) (2 FTA),3,83,6,1628932,1629492,,1611661323,4,14,1
+02:38,[LVA 5-14] Wilson Free Throw 1 of 2 (3 PTS),0,-80,3,,1628932,,1611661319,5,14,1
+02:38,[LVA 6-14] Wilson Free Throw 2 of 2 (4 PTS),0,-80,3,,1628932,,1611661319,6,14,1
+02:20,[CON] Thomas Driving Layup Shot: Missed,22,25,2,,202662,,1611661323,6,14,1
+02:17,[LVA] Wilson Rebound (Off:0 Def:2),22,25,4,,1628932,,1611661319,6,14,1
+02:13,[LVA 8-14] Gray Pullup Jump shot: Made (2 PTS) Assist: Young (1 AST),-25,136,1,,203833,1629498,1611661319,8,14,1
+01:47,[CON 16-8] Jones Driving Layup Shot: Made (6 PTS),17,22,1,,1628280,,1611661323,8,16,1
+01:34,[LVA] Park Step Back Jump shot: Missed,-96,6,2,,1628917,,1611661319,8,16,1
+01:33,[CON] Charles Rebound (Off:0 Def:1),-96,6,4,,1630097,,1611661323,8,16,1
+01:28,[CON] Mompremier Layup Shot: Missed,-33,0,2,1628917,1629492,,1611661323,8,16,1
+01:28,[CON] Team Rebound,-33,0,4,,0,,1611661323,8,16,1
+01:28,[CON] Jones Substitution replaced by Jones,0,-80,8,,1628280,1627673,1611661323,8,16,1
+01:12,[CON] Mompremier Jump Shot: Missed,-144,8,2,1628917,1629492,,1611661323,8,16,1
+01:11,[CON] Team Rebound,-144,8,4,,0,,1611661323,8,16,1
+01:11,[CON] Team Turnover : Shot Clock Turnover,-81,11,5,,0,,1611661323,8,16,1
+00:58.2,[LVA] Park Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),92,148,5,201886,1628917,,1611661319,8,16,1
+00:58.2,[LVA] Hamby Foul: Personal (1 PF),-49,707,6,201886,204324,,1611661319,8,16,1
+00:58.2,[LVA] Park Substitution replaced by Slocum,0,-80,8,,1628917,1630435,1611661319,8,16,1
+00:48.4,[CON] Mompremier Jump Shot: Missed,-132,-12,2,,1629492,,1611661323,8,16,1
+00:47.1,[LVA] Team Rebound,-132,-12,4,,0,,1611661319,8,16,1
+00:37.6,[LVA] Young Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-151,222,5,,1629498,,1611661319,8,16,1
+00:22.9,[CON 18-8] Jones Turnaround Jump Shot: Made (7 PTS) Assist: Charles (1 AST),-10,37,1,,1627673,1630097,1611661323,8,18,1
+00:03.8,[LVA] Gray Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),-1,306,5,202662,203833,,1611661319,8,18,1
+00:00.0,[CON] Thomas Layup Shot: Missed,48,48,2,203833,202662,,1611661323,8,18,1
+00:00.0,[CON] Team Rebound,48,48,4,,0,,1611661323,8,18,1
+00:00.0,End Period,0,-80,13,,0,,0,8,18,1
+10:00,Start Period,0,-80,12,,0,,0,8,18,2
+09:42,[CON] Charles 3pt Shot: Missed,12,260,2,,1630097,,1611661323,8,18,2
+09:38,[LVA] Young Rebound (Off:0 Def:1),12,260,4,,1629498,,1611661319,8,18,2
+09:27,[CON] Mompremier Foul: Shooting (2 PF) (2 FTA),-53,34,6,204324,1629492,,1611661323,8,18,2
+09:27,[LVA] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,8,18,2
+09:27,[LVA] Team Rebound,0,-80,4,,0,,1611661319,8,18,2
+09:27,[LVA 9-18] Hamby Free Throw 2 of 2 (1 PTS),0,-80,3,,204324,,1611661319,9,18,2
+08:59,[CON 20-9] Bonner Pullup Jump shot: Made (5 PTS),153,135,1,,201886,,1611661323,9,20,2
+08:48,[LVA] Hamby 3pt Shot: Missed,20,257,2,,204324,,1611661319,9,20,2
+08:46,[CON] Hiedeman Rebound (Off:0 Def:3),20,257,4,,1629567,,1611661323,9,20,2
+08:41,[CON] Mompremier Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,242,5,,1629492,,1611661323,9,20,2
+08:26,[LVA] Young Turnover : Bad Pass (2 TO) Steal:Bonner (2 ST),-13,209,5,201886,1629498,,1611661319,9,20,2
+08:19,[CON] Jones 3pt Shot: Missed,163,209,2,,1627673,,1611661323,9,20,2
+08:19,[LVA] Team Rebound,163,209,4,,0,,1611661319,9,20,2
+08:19,[CON] Mompremier Foul: Loose Ball (3 PF),70,795,6,204324,1629492,,1611661323,9,20,2
+08:19,[LVA] Wilson Substitution replaced by Cambage,0,-80,8,,1628932,202633,1611661319,9,20,2
+08:19,[CON] Mompremier Substitution replaced by Jones,0,-80,8,,1629492,1628280,1611661323,9,20,2
+07:57,[LVA 11-20] Hamby Driving Layup Shot: Made (3 PTS) Assist: Gray (1 AST),60,13,1,,204324,203833,1611661319,11,20,2
+07:45,[LVA] Slocum Foul: Personal (1 PF),-31,111,6,1629567,1630435,,1611661319,11,20,2
+07:41,[LVA] Young Foul: Personal (1 PF),163,97,6,201886,1629498,,1611661319,11,20,2
+07:29,[CON] Jones Jump Shot: Missed,2,62,2,202633,1628280,,1611661323,11,20,2
+07:25,[LVA] Hamby Rebound (Off:0 Def:1),2,62,4,,204324,,1611661319,11,20,2
+07:21,[CON] Hiedeman Foul: Shooting (1 PF) (2 FTA),14,86,6,204324,1629567,,1611661323,11,20,2
+07:21,[LVA 12-20] Hamby Free Throw 1 of 2 (4 PTS),0,-80,3,,204324,,1611661319,12,20,2
+07:21,[LVA] Gray Substitution replaced by Williams,0,-80,8,,203833,203029,1611661319,12,20,2
+07:21,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,12,20,2
+07:21,[LVA 13-20] Hamby Free Throw 2 of 2 (5 PTS),0,-80,3,,204324,,1611661319,13,20,2
+07:10,[CON] Hiedeman Floating Jump shot: Missed,41,100,2,,1629567,,1611661323,13,20,2
+07:06,[CON] Team Rebound,41,100,4,,0,,1611661323,13,20,2
+06:50,[CON] Hiedeman 3pt Shot: Missed,-192,161,2,,1629567,,1611661323,13,20,2
+06:47,[LVA] Cambage Rebound (Off:0 Def:2),-192,161,4,,202633,,1611661319,13,20,2
+06:41,[LVA 16-20] Williams 3pt Shot: Made (3 PTS) Assist: Young (2 AST),-135,222,1,,203029,1629498,1611661319,16,20,2
+06:40,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,16,20,2
+06:21,[CON] Jones Turnaround Fadeaway shot: Missed,-131,60,2,,1627673,,1611661323,16,20,2
+06:15,[LVA] Slocum Rebound (Off:0 Def:1),-131,60,4,,1630435,,1611661319,16,20,2
+06:12,[LVA 19-20] Williams 3pt Shot: Made (6 PTS) Assist: Slocum (1 AST),-159,230,1,,203029,1630435,1611661319,19,20,2
+05:48,[CON] Jones Jump Shot: Missed,15,28,2,204324,1627673,,1611661323,19,20,2
+05:45,[CON] Jones Rebound (Off:3 Def:1),15,28,4,,1627673,,1611661323,19,20,2
+05:42,[CON] Charles 3pt Shot: Missed,-236,-26,2,,1630097,,1611661323,19,20,2
+05:42,[LVA] Slocum Rebound (Off:0 Def:2),-236,-26,4,,1630435,,1611661319,19,20,2
+05:24,[LVA] Young Pullup Jump shot: Missed,-59,147,2,,1629498,,1611661319,19,20,2
+05:22,[CON] Charles Rebound (Off:0 Def:2),-59,147,4,,1630097,,1611661323,19,20,2
+05:07,[CON] Charles Turnover : Lost Ball (1 TO) Steal:Hamby (1 ST),118,261,5,204324,1630097,,1611661323,19,20,2
+05:07,[CON] Charles Foul: Personal (1 PF),9,250,6,204324,1630097,,1611661323,19,20,2
+05:07,[CON] Charles Substitution replaced by Thomas,0,-80,8,,1630097,202662,1611661323,19,20,2
+05:07,[CON] Jones Substitution replaced by Bonner,0,-80,8,,1628280,201886,1611661323,19,20,2
+05:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,20,2
+04:55,[LVA] Young Turnaround Jump Shot: Missed,-13,85,2,,1629498,,1611661319,19,20,2
+04:52,[CON] Carrington Rebound (Off:0 Def:1),-13,85,4,,1630096,,1611661323,19,20,2
+04:50,[CON] Carrington Foul: Offensive Charge (1 PF),45,49,6,1630435,1630096,,1611661323,19,20,2
+04:50,[CON] Carrington Turnover : Offensive Foul Turnover (1 TO),45,49,5,,1630096,,1611661323,19,20,2
+04:50,[LVA] Young Substitution replaced by Gray,0,-80,8,,1629498,203833,1611661319,19,20,2
+04:37,[LVA] Hamby Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),0,233,5,1627673,204324,,1611661319,19,20,2
+04:29,[CON] Carrington Turnover : Lost Ball (2 TO) Steal:Slocum (1 ST),148,37,5,1630435,1630096,,1611661323,19,20,2
+04:18,[LVA] Hamby 3pt Shot: Missed,-40,241,2,,204324,,1611661319,19,20,2
+04:14,[CON] Bonner Rebound (Off:0 Def:5),-40,241,4,,201886,,1611661323,19,20,2
+04:00,[CON] Carrington 3pt Shot: Missed,200,202,2,,1630096,,1611661323,19,20,2
+03:56,[LVA] Slocum Rebound (Off:0 Def:3),200,202,4,,1630435,,1611661319,19,20,2
+03:47,[LVA] Williams 3pt Shot: Missed,208,131,2,,203029,,1611661319,19,20,2
+03:44,[CON] Jones Rebound (Off:3 Def:2),208,131,4,,1627673,,1611661323,19,20,2
+03:27,[CON] Hiedeman Turnaround Fadeaway shot: Missed,-114,10,2,,1629567,,1611661323,19,20,2
+03:23,[LVA] Cambage Rebound (Off:0 Def:3),-114,10,4,,202633,,1611661319,19,20,2
+03:17,[LVA 21-20] Gray Pullup Jump shot: Made (4 PTS),5,76,1,,203833,,1611661319,21,20,2
+03:17,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,21,20,2
+03:17,[LVA] Cambage Substitution replaced by Wilson,0,-80,8,,202633,1628932,1611661319,21,20,2
+02:56,[CON] Thomas 3pt Shot: Missed,-87,268,2,,202662,,1611661323,21,20,2
+02:52,[CON] Jones Rebound (Off:4 Def:2),-87,268,4,,1627673,,1611661323,21,20,2
+02:51,[CON 22-21] Jones Putback Layup Shot: Made (9 PTS),-21,22,1,,1627673,,1611661323,21,22,2
+02:36,[LVA] Wilson Turnover : Bad Pass (1 TO) Steal:Carrington (1 ST),-57,75,5,1630096,1628932,,1611661319,21,22,2
+02:34,[CON] Hiedeman Layup Shot: Missed,-61,38,2,1630435,1629567,,1611661323,21,22,2
+02:33,[CON] Carrington Rebound (Off:1 Def:1),-61,38,4,,1630096,,1611661323,21,22,2
+02:32,[CON] Carrington Layup Shot: Missed,-41,28,2,204324,1630096,,1611661323,21,22,2
+02:31,[LVA] Slocum Rebound (Off:0 Def:4),-41,28,4,,1630435,,1611661319,21,22,2
+02:27,[LVA 24-22] Gray 3pt Shot: Made (7 PTS) Assist: Slocum (2 AST),145,210,1,,203833,1630435,1611661319,24,22,2
+02:05,[CON] Thomas Jump Shot: Missed,-39,32,2,,202662,,1611661323,24,22,2
+02:05,[CON] Thomas Rebound (Off:1 Def:2),-39,32,4,,202662,,1611661323,24,22,2
+02:05,[LVA] Williams Foul: Shooting (1 PF) (2 FTA),-30,40,6,202662,203029,,1611661319,24,22,2
+02:05,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202662,,1611661323,24,22,2
+02:05,[CON] Team Rebound,0,-80,4,,0,,1611661323,24,22,2
+02:05,[CON 23-24] Thomas Free Throw 2 of 2 (3 PTS),0,-80,3,,202662,,1611661323,24,23,2
+02:00,[CON] Bonner Foul: Personal (1 PF) (2 FTA),109,38,6,204324,201886,,1611661323,24,23,2
+02:00,[LVA 25-23] Hamby Free Throw 1 of 2 (6 PTS),0,-80,3,,204324,,1611661319,25,23,2
+02:00,[LVA] Slocum Substitution replaced by Young,0,-80,8,,1630435,1629498,1611661319,25,23,2
+02:00,[LVA 26-23] Hamby Free Throw 2 of 2 (7 PTS),0,-80,3,,204324,,1611661319,26,23,2
+01:42,[CON] Thomas Layup Shot: Missed,12,63,2,203833,202662,,1611661323,26,23,2
+01:39,[LVA] Wilson Rebound (Off:0 Def:3),12,63,4,,1628932,,1611661319,26,23,2
+01:37,[LVA 28-23] Hamby Layup Shot: Made (9 PTS) Assist: Gray (2 AST),30,59,1,,204324,203833,1611661319,28,23,2
+01:37,[CON] Jones Foul: Shooting (2 PF) (1 FTA),31,49,6,204324,1627673,,1611661323,28,23,2
+01:37,[CON] Carrington Substitution replaced by Jones,0,-80,8,,1630096,1628280,1611661323,28,23,2
+01:37,[LVA 29-23] Hamby Free Throw 1 of 1 (10 PTS),0,-80,3,,204324,,1611661319,29,23,2
+01:15,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),142,209,5,203833,202662,,1611661323,29,23,2
+01:04,[LVA] Wilson Turnover : Bad Pass (2 TO) Steal:Jones (2 ST),-209,188,5,1627673,1628932,,1611661319,29,23,2
+00:55.5,[CON 25-29] Jones Turnaround Jump Shot: Made (8 PTS),64,-6,1,,1628280,,1611661323,29,25,2
+00:45.5,[LVA 31-25] Gray Layup Shot: Made (9 PTS),50,22,1,,203833,,1611661319,31,25,2
+00:32.0,[CON] Thomas 3pt Shot: Missed,-178,171,2,,202662,,1611661323,31,25,2
+00:29.6,[LVA] Team Rebound,-178,171,4,,0,,1611661319,31,25,2
+00:29.6,[LVA] Williams Substitution replaced by Park,0,-80,8,,203029,1628917,1611661319,31,25,2
+00:09.7,[LVA 33-25] Hamby Layup Shot: Made (12 PTS) Assist: Gray (3 AST),58,24,1,,204324,203833,1611661319,33,25,2
+00:00.1,[LVA] Hamby Foul: Shooting (2 PF) (2 FTA),-121,22,6,201886,204324,,1611661319,33,25,2
+00:00.1,[CON 26-33] Bonner Free Throw 1 of 2 (6 PTS),0,-80,3,,201886,,1611661323,33,26,2
+00:00.1,[CON 27-33] Bonner Free Throw 2 of 2 (7 PTS),0,-80,3,,201886,,1611661323,33,27,2
+00:00.0,End Period,0,-80,13,,0,,0,33,27,2
+10:00,Start Period,0,-80,12,,0,,0,33,27,3
+09:46,[CON] Thomas Jump Shot: Missed,16,183,2,,202662,,1611661323,33,27,3
+09:42,[CON] Jones Rebound (Off:5 Def:2),16,183,4,,1627673,,1611661323,33,27,3
+09:41,[CON] Jones Layup Shot: Missed,48,24,2,202633,1627673,,1611661323,33,27,3
+09:38,[LVA] Cambage Rebound (Off:0 Def:4),48,24,4,,202633,,1611661319,33,27,3
+09:32,[LVA 35-27] Young Driving Layup Shot: Made (4 PTS) Assist: Gray (4 AST),14,40,1,,1629498,203833,1611661319,35,27,3
+09:19,[LVA] Cambage Foul: Shooting (3 PF) (2 FTA),61,61,6,1627673,202633,,1611661319,35,27,3
+09:19,[CON 28-35] Jones Free Throw 1 of 2 (10 PTS),0,-80,3,,1627673,,1611661323,35,28,3
+09:19,[CON 29-35] Jones Free Throw 2 of 2 (11 PTS),0,-80,3,,1627673,,1611661323,35,29,3
+09:05,[LVA] Williams Jump Shot: Missed,-106,133,2,,203029,,1611661319,35,29,3
+09:03,[CON] Thomas Rebound (Off:1 Def:3),-106,133,4,,202662,,1611661323,35,29,3
+08:44,[CON] Jones 3pt Shot: Missed,-160,199,2,,1627673,,1611661323,35,29,3
+08:40,[LVA] Cambage Rebound (Off:0 Def:5),-160,199,4,,202633,,1611661319,35,29,3
+08:31,[LVA] Gray 3pt Shot: Missed,-238,1,2,,203833,,1611661319,35,29,3
+08:29,[CON] Jones Rebound (Off:5 Def:3),-238,1,4,,1627673,,1611661323,35,29,3
+08:12,[CON 31-35] Bonner Pullup Jump shot: Made (9 PTS),-115,22,1,,201886,,1611661323,35,31,3
+07:50,[LVA] Young Turnover : Lost Ball (3 TO) Steal:Hiedeman (1 ST),-59,161,5,1629567,1629498,,1611661319,35,31,3
+07:46,[CON] Jones Foul: Offensive Charge (3 PF),-47,112,6,203833,1627673,,1611661323,35,31,3
+07:46,[CON] Jones Turnover : Offensive Foul Turnover (1 TO),-47,112,5,,1627673,,1611661323,35,31,3
+07:28,[LVA] Young Jump Shot: Missed,-116,112,2,,1629498,,1611661319,35,31,3
+07:24,[CON] Jones Rebound (Off:5 Def:4),-116,112,4,,1627673,,1611661323,35,31,3
+07:16,[CON] Bonner Driving Layup Shot: Missed,-1,92,2,202633,201886,,1611661323,35,31,3
+07:16,[CON] Team Rebound,-1,92,4,,0,,1611661323,35,31,3
+07:08,[CON] Jones Jump Shot: Missed,85,173,2,,1628280,,1611661323,35,31,3
+07:04,[LVA] Wilson Rebound (Off:0 Def:4),85,173,4,,1628932,,1611661319,35,31,3
+06:53,[CON] Jones Foul: Shooting (4 PF) (2 FTA),-57,37,6,1628932,1627673,,1611661323,35,31,3
+06:53,[LVA 36-31] Wilson Free Throw 1 of 2 (5 PTS),0,-80,3,,1628932,,1611661319,36,31,3
+06:53,[LVA 37-31] Wilson Free Throw 2 of 2 (6 PTS),0,-80,3,,1628932,,1611661319,37,31,3
+06:32,[CON 33-37] Bonner Layup Shot: Made (11 PTS) Assist: Jones (1 AST),-28,17,1,,201886,1628280,1611661323,37,33,3
+06:14,[LVA 39-33] Cambage Layup Shot: Made (2 PTS) Assist: Williams (2 AST),-42,21,1,,202633,203029,1611661319,39,33,3
+05:51,[CON 35-39] Jones Driving Layup Shot: Made (10 PTS) Assist: Hiedeman (1 AST),44,38,1,,1628280,1629567,1611661323,39,35,3
+05:43,[LVA] Wilson Foul: Offensive Charge (1 PF),-87,112,6,201886,1628932,,1611661319,39,35,3
+05:43,[LVA] Wilson Turnover : Offensive Foul Turnover (3 TO),-87,112,5,,1628932,,1611661319,39,35,3
+05:43,[LVA] Cambage Substitution replaced by Park,0,-80,8,,202633,1628917,1611661319,39,35,3
+05:30,[CON] Hiedeman Driving Layup Shot: Missed,-22,42,2,,1629567,,1611661323,39,35,3
+05:25,[LVA] Wilson Rebound (Off:0 Def:5),-22,42,4,,1628932,,1611661319,39,35,3
+05:18,[LVA] Gray Turnover : Lost Ball (2 TO) Steal:Jones (3 ST),45,137,5,1627673,203833,,1611661319,39,35,3
+05:13,[CON 37-39] Jones Layup Shot: Made (13 PTS),33,21,1,,1627673,,1611661323,39,37,3
+04:46,[LVA] Young Jump Shot: Missed,-8,139,2,,1629498,,1611661319,39,37,3
+04:44,[CON] Jones Rebound (Off:3 Def:1),-8,139,4,,1628280,,1611661323,39,37,3
+04:39,[CON] Hiedeman 3pt Shot: Missed,195,187,2,,1629567,,1611661323,39,37,3
+04:35,[CON] Jones Rebound (Off:4 Def:1),195,187,4,,1628280,,1611661323,39,37,3
+04:31,[CON 39-39] Jones Reverse Layup Shot: Made (12 PTS),-13,24,1,,1628280,,1611661323,39,39,3
+04:21,[LVA] Gray 3pt Shot: Missed,68,235,2,,203833,,1611661319,39,39,3
+04:17,[CON] Jones Rebound (Off:5 Def:5),68,235,4,,1627673,,1611661323,39,39,3
+04:05,[CON 41-39] Bonner Driving Layup Shot: Made (13 PTS),25,47,1,,201886,,1611661323,39,41,3
+04:05,[LVA] Young Foul: Shooting (2 PF) (1 FTA),33,28,6,201886,1629498,,1611661319,39,41,3
+04:05,[LVA] Young Substitution replaced by Slocum,0,-80,8,,1629498,1630435,1611661319,39,41,3
+04:05,[LVA] Williams Substitution replaced by Hamby,0,-80,8,,203029,204324,1611661319,39,41,3
+04:05,[CON] Jones Substitution replaced by Mompremier,0,-80,8,,1627673,1629492,1611661323,39,41,3
+04:05,[CON 42-39] Bonner Free Throw 1 of 1 (14 PTS),0,-80,3,,201886,,1611661323,39,42,3
+03:51,[LVA] Park Jump Shot: Missed,134,118,2,,1628917,,1611661319,39,42,3
+03:49,[CON] Thomas Rebound (Off:1 Def:4),134,118,4,,202662,,1611661323,39,42,3
+03:49,[LVA] Hamby Foul: Personal (3 PF),94,738,6,201886,204324,,1611661319,39,42,3
+03:35,[CON 44-39] Thomas Driving Layup Shot: Made (5 PTS),50,37,1,,202662,,1611661323,39,44,3
+03:29,[LVA] Gray Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-117,161,5,,203833,,1611661319,39,44,3
+03:12,[CON 47-39] Bonner 3pt Shot: Made (17 PTS) Assist: Jones (2 AST),-221,49,1,,201886,1628280,1611661323,39,47,3
+03:00,[LVA] Slocum Turnover : Out of Bounds - Bad Pass Turnover (1 TO),162,173,5,,1630435,,1611661319,39,47,3
+02:46,[CON 49-39] Jones Layup Shot: Made (14 PTS) Assist: Mompremier (1 AST),32,13,1,,1628280,1629492,1611661323,39,49,3
+02:46,[LVA] Park Foul: Shooting (1 PF) (1 FTA),41,31,6,1628280,1628917,,1611661319,39,49,3
+02:46,[LVA] Park Substitution replaced by Cambage,0,-80,8,,1628917,202633,1611661319,39,49,3
+02:46,[LVA] Gray Substitution replaced by Young,0,-80,8,,203833,1629498,1611661319,39,49,3
+02:46,[CON] Thomas Substitution replaced by Charles,0,-80,8,,202662,1630097,1611661323,39,49,3
+02:46,[CON 50-39] Jones Free Throw 1 of 1 (15 PTS),0,-80,3,,1628280,,1611661323,39,50,3
+02:23,[LVA 41-50] Cambage Layup Shot: Made (4 PTS) Assist: Wilson (1 AST),-28,14,1,,202633,1628932,1611661319,41,50,3
+02:06,[CON] Jones Layup Shot: Missed,48,43,2,,1628280,,1611661323,41,50,3
+02:06,[LVA] Team Rebound,48,43,4,,0,,1611661319,41,50,3
+01:49,[LVA 43-50] Wilson Turnaround Fadeaway shot: Made (8 PTS),-15,63,1,,1628932,,1611661319,43,50,3
+01:31,[CON] Bonner 3pt Shot: Missed,142,207,2,,201886,,1611661323,43,50,3
+01:28,[LVA] Young Rebound (Off:0 Def:2),142,207,4,,1629498,,1611661319,43,50,3
+01:21,[LVA] Wilson Layup Shot: Missed,20,41,2,1630097,1628932,,1611661319,43,50,3
+01:18,[CON] Charles Rebound (Off:0 Def:3),20,41,4,,1630097,,1611661323,43,50,3
+00:57.1,[CON] Bonner Pullup Jump shot: Missed,13,183,2,,201886,,1611661323,43,50,3
+00:54.6,[CON] Mompremier Rebound (Off:1 Def:1),13,183,4,,1629492,,1611661323,43,50,3
+00:52.1,[CON] Hiedeman 3pt Shot: Missed,104,222,2,,1629567,,1611661323,43,50,3
+00:48.8,[LVA] Hamby Rebound (Off:0 Def:2),104,222,4,,204324,,1611661319,43,50,3
+00:44.2,[CON] Jones Foul: Shooting (1 PF) (2 FTA),-15,63,6,204324,1628280,,1611661323,43,50,3
+00:44.2,[LVA] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,43,50,3
+00:44.2,[LVA] Team Rebound,0,-80,4,,0,,1611661319,43,50,3
+00:44.2,[LVA] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661319,43,50,3
+00:41.4,[CON] Charles Rebound (Off:0 Def:4),0,-80,4,,1630097,,1611661323,43,50,3
+00:18.3,[CON] Bonner Jump Shot: Missed,127,163,2,,201886,,1611661323,43,50,3
+00:18.3,[CON] Team Rebound,127,163,4,,0,,1611661323,43,50,3
+00:18.3,[CON] Team Turnover : Shot Clock Turnover,-75,50,5,,0,,1611661323,43,50,3
+00:04.0,[LVA] Wilson Jump Shot: Missed,-126,85,2,,1628932,,1611661319,43,50,3
+00:02.0,[CON] Hiedeman Rebound (Off:0 Def:4),-126,85,4,,1629567,,1611661323,43,50,3
+00:00.4,[CON] Hiedeman 3pt Shot: Missed,81,421,2,,1629567,,1611661323,43,50,3
+00:00.1,[CON] Team Rebound,81,421,4,,0,,1611661323,43,50,3
+00:00.0,End Period,0,-80,13,,0,,0,43,50,3
+10:00,Start Period,0,-80,12,,0,,0,43,50,4
+09:45,[LVA] Young Turnaround Jump Shot: Missed,-4,64,2,,1629498,,1611661319,43,50,4
+09:43,[CON] Thomas Rebound (Off:1 Def:5),-4,64,4,,202662,,1611661323,43,50,4
+09:30,[CON] Jones Jump Shot: Missed,-14,58,2,,1628280,,1611661323,43,50,4
+09:28,[LVA] Cambage Rebound (Off:0 Def:6),-14,58,4,,202633,,1611661319,43,50,4
+09:26,[LVA] Cambage Turnover : Bad Pass (1 TO) Steal:Thomas (2 ST),-27,660,5,202662,202633,,1611661319,43,50,4
+09:16,[LVA] Cambage Foul: Personal (4 PF),69,33,6,202662,202633,,1611661319,43,50,4
+09:03,[CON] Team Turnover : Shot Clock Turnover,171,66,5,,0,,1611661323,43,50,4
+08:39,[LVA 46-50] Slocum 3pt Shot: Made (3 PTS) Assist: Cambage (1 AST),226,9,1,,1630435,202633,1611661319,46,50,4
+08:27,[CON] Mompremier Foul: Offensive Charge (4 PF),-84,94,6,204324,1629492,,1611661323,46,50,4
+08:27,[CON] Mompremier Turnover : Offensive Foul Turnover (2 TO),-84,94,5,,1629492,,1611661323,46,50,4
+08:05,[LVA] Hamby Layup Shot: Missed,26,15,2,1629492,204324,,1611661319,46,50,4
+08:02,[LVA] Slocum Rebound (Off:1 Def:4),26,15,4,,1630435,,1611661319,46,50,4
+08:02,[CON] Charles Foul: Shooting (2 PF) (2 FTA),17,27,6,202633,1630097,,1611661323,46,50,4
+08:02,[LVA 47-50] Cambage Free Throw 1 of 2 (5 PTS),0,-80,3,,202633,,1611661319,47,50,4
+08:02,[LVA 48-50] Cambage Free Throw 2 of 2 (6 PTS),0,-80,3,,202633,,1611661319,48,50,4
+07:41,[CON] Bonner Jump Shot: Missed,61,35,2,202633,201886,,1611661323,48,50,4
+07:38,[LVA] Young Rebound (Off:0 Def:3),61,35,4,,1629498,,1611661319,48,50,4
+07:29,[LVA] Wilson Jump Shot: Missed,-3,176,2,,1628932,,1611661319,48,50,4
+07:25,[CON] Bonner Rebound (Off:0 Def:6),-3,176,4,,201886,,1611661323,48,50,4
+07:14,[CON 52-48] Thomas Jump Shot: Made (7 PTS),110,135,1,,202662,,1611661323,48,52,4
+07:01,[CON] Thomas Foul: Personal (1 PF),43,8,6,202633,202662,,1611661323,48,52,4
+07:01,[CON] Mompremier Substitution replaced by Jones,0,-80,8,,1629492,1627673,1611661323,48,52,4
+07:01,[CON] Charles Substitution replaced by Hiedeman,0,-80,8,,1630097,1629567,1611661323,48,52,4
+07:01,[LVA] Cambage Substitution replaced by Gray,0,-80,8,,202633,203833,1611661319,48,52,4
+06:45,[LVA] Young 3pt Shot: Missed,-228,20,2,,1629498,,1611661319,48,52,4
+06:42,[CON] Thomas Rebound (Off:1 Def:6),-228,20,4,,202662,,1611661323,48,52,4
+06:30,[CON] Thomas 3pt Shot: Missed,150,196,2,,202662,,1611661323,48,52,4
+06:26,[LVA] Wilson Rebound (Off:0 Def:6),150,196,4,,1628932,,1611661319,48,52,4
+06:19,[CON] Bonner Foul: Shooting (2 PF) (2 FTA),-50,111,6,1628932,201886,,1611661323,48,52,4
+06:19,[LVA 49-52] Wilson Free Throw 1 of 2 (9 PTS),0,-80,3,,1628932,,1611661319,49,52,4
+06:19,[LVA] Young Substitution replaced by Williams,0,-80,8,,1629498,203029,1611661319,49,52,4
+06:19,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,49,52,4
+06:19,[LVA 50-52] Wilson Free Throw 2 of 2 (10 PTS),0,-80,3,,1628932,,1611661319,50,52,4
+05:57,[CON] Hiedeman Floating Jump shot: Missed,-39,65,2,,1629567,,1611661323,50,52,4
+05:53,[LVA] Slocum Rebound (Off:1 Def:5),-39,65,4,,1630435,,1611661319,50,52,4
+05:46,[LVA] Gray Pullup Jump shot: Missed,-39,181,2,,203833,,1611661319,50,52,4
+05:42,[CON] Thomas Rebound (Off:1 Def:7),-39,181,4,,202662,,1611661323,50,52,4
+05:25,[CON 55-50] Hiedeman 3pt Shot: Made (3 PTS) Assist: Jones (3 AST),158,199,1,,1629567,1627673,1611661323,50,55,4
+05:14,[LVA 52-55] Wilson Turnaround Fadeaway shot: Made (12 PTS),-94,0,1,,1628932,,1611661319,52,55,4
+04:59,[CON 58-52] Jones 3pt Shot: Made (16 PTS) Assist: Thomas (2 AST),-221,59,1,,1627673,202662,1611661323,52,58,4
+04:42,[LVA] Williams 3pt Shot: Missed,-228,26,2,,203029,,1611661319,52,58,4
+04:39,[CON] Thomas Rebound (Off:1 Def:8),-228,26,4,,202662,,1611661323,52,58,4
+04:25,[CON 60-52] Hiedeman Jump Shot: Made (5 PTS) Assist: Thomas (3 AST),-152,-1,1,,1629567,202662,1611661323,52,60,4
+04:19,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,52,60,4
+04:19,[LVA] Slocum Substitution replaced by Cambage,0,-80,8,,1630435,202633,1611661319,52,60,4
+04:19,[LVA] Williams Substitution replaced by Young,0,-80,8,,203029,1629498,1611661319,52,60,4
+04:04,[LVA 54-60] Gray Floating Jump shot: Made (11 PTS),-82,80,1,,203833,,1611661319,54,60,4
+03:51,[CON 63-54] Jones 3pt Shot: Made (19 PTS) Assist: Jones (3 AST),-141,230,1,,1627673,1628280,1611661323,54,63,4
+03:34,[LVA 56-63] Cambage Layup Shot: Made (8 PTS) Assist: Wilson (2 AST),-3,40,1,,202633,1628932,1611661319,56,63,4
+03:14,[CON 65-56] Jones Jump Shot: Made (17 PTS) Assist: Thomas (4 AST),-61,125,1,,1628280,202662,1611661323,56,65,4
+02:54,[LVA] Wilson Driving Layup Shot: Missed,-20,58,2,,1628932,,1611661319,56,65,4
+02:52,[CON] Jones Rebound (Off:5 Def:6),-20,58,4,,1627673,,1611661323,56,65,4
+02:51,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,56,65,4
+02:51,[LVA] Hamby Substitution replaced by Williams,0,-80,8,,204324,203029,1611661319,56,65,4
+02:51,[CON] Carrington Substitution replaced by Bonner,0,-80,8,,1630096,201886,1611661323,56,65,4
+02:40,[CON] Jones 3pt Shot: Missed,-217,59,2,,1627673,,1611661323,56,65,4
+02:36,[LVA] Wilson Rebound (Off:0 Def:7),-217,59,4,,1628932,,1611661319,56,65,4
+02:19,[LVA 58-65] Gray Step Back Jump shot: Made (13 PTS),2,144,1,,203833,,1611661319,58,65,4
+02:02,[CON 67-58] Jones Jump Shot: Made (19 PTS) Assist: Thomas (5 AST),-48,126,1,,1628280,202662,1611661323,58,67,4
+01:48,[LVA 61-67] Williams 3pt Shot: Made (9 PTS) Assist: Young (3 AST),-143,209,1,,203029,1629498,1611661319,61,67,4
+01:26,[CON] Thomas 3pt Shot: Missed,2,259,2,,202662,,1611661323,61,67,4
+01:22,[LVA] Cambage Rebound (Off:0 Def:7),2,259,4,,202633,,1611661319,61,67,4
+01:19,[CON] Jones Foul: Shooting (2 PF) (2 FTA),51,15,6,202633,1628280,,1611661323,61,67,4
+01:19,[LVA 62-67] Cambage Free Throw 1 of 2 (9 PTS),0,-80,3,,202633,,1611661319,62,67,4
+01:19,[LVA 63-67] Cambage Free Throw 2 of 2 (10 PTS),0,-80,3,,202633,,1611661319,63,67,4
+01:01,[LVA] Young Foul: Personal (3 PF),99,72,6,201886,1629498,,1611661319,63,67,4
+00:54.1,[CON] Bonner Turnover : Bad Pass (1 TO) Steal:Gray (2 ST),36,144,5,203833,201886,,1611661323,63,67,4
+00:48.6,[LVA 65-67] Wilson Layup Shot: Made (14 PTS) Assist: Gray (5 AST),-41,21,1,,1628932,203833,1611661319,65,67,4
+00:48.6,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,65,67,4
+00:48.6,[LVA] Young Substitution replaced by Hamby,0,-80,8,,1629498,204324,1611661319,65,67,4
+00:38.6,[CON 70-65] Bonner 3pt Shot: Made (20 PTS) Assist: Jones (4 AST),-206,119,1,,201886,1628280,1611661323,65,70,4
+00:29.2,[LVA] Gray Turnover : Bad Pass (4 TO) Steal:Jones (1 ST),71,171,5,1628280,203833,,1611661319,65,70,4
+00:22.3,[LVA] Hamby Foul: Personal Take (4 PF) (2 FTA),-61,321,6,201886,204324,,1611661319,65,70,4
+00:22.3,[CON 71-65] Bonner Free Throw 1 of 2 (21 PTS),0,-80,3,,201886,,1611661323,65,71,4
+00:22.3,[CON 72-65] Bonner Free Throw 2 of 2 (22 PTS),0,-80,3,,201886,,1611661323,65,72,4
+00:22.3,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,65,72,4
+00:22.3,[LVA] Cambage Substitution replaced by Young,0,-80,8,,202633,1629498,1611661319,65,72,4
+00:19.5,[LVA] Hamby 3pt Shot: Missed,-136,208,2,,204324,,1611661319,65,72,4
+00:16.1,[CON] Bonner Rebound (Off:0 Def:7),-136,208,4,,201886,,1611661323,65,72,4
+00:00.0,End Period,0,-80,13,,0,,0,65,72,4
+00:00.0,Game End,0,-80,0,,0,,0,65,72,4

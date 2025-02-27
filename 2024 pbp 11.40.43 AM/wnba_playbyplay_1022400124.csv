@@ -1,0 +1,411 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball McCowan vs Wilson (Sims gains possession),0,-80,10,1628932,1629479,203824,1611661321,0,0,0,1
+09:47,[DAL 2-0] McCowan Layup Shot: Made (2 PTS) Assist: Howard (1 AST),38,13,1,,1629479,203827,1611661321,0,2,2,1
+09:30,[LVA 3-2] Plum 3pt Shot: Made (3 PTS) Assist: Gray (1 AST),187,180,1,,1628276,203833,1611661319,3,2,3,1
+09:06,[DAL] Howard Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-48,71,5,,203827,1627539,1611661321,3,2,0,1
+08:56,[LVA 6-2] Wilson 3pt Shot: Made (3 PTS) Assist: Young (1 AST),206,123,1,,1628932,1629498,1611661319,6,2,3,1
+08:37,[DAL 5-6] Sims 3pt Shot: Made (3 PTS) Assist: Sheldon (1 AST),-229,74,1,,203824,1642292,1611661321,6,5,3,1
+08:17,[LVA 8-5] Gray Driving Reverse Layup Shot: Made (2 PTS),-32,16,1,,203833,,1611661319,8,5,2,1
+08:11,[DAL 7-8] Sheldon Layup Shot: Made (2 PTS) Assist: Sims (1 AST),-43,7,1,,1642292,203824,1611661321,8,7,2,1
+08:02,[LVA] Plum Driving Layup Shot: Missed Block: Sheldon (1 BLK),51,63,2,1642292,1628276,,1611661319,8,7,0,1
+07:59,[LVA] Team Rebound,51,63,4,,0,,1611661319,8,7,0,1
+07:59,Jump Ball Plum vs Sheldon (Gray gains possession),0,-80,10,1642292,1628276,203833,1611661319,8,7,0,1
+07:55,[LVA] Gray Turnover : Bad Pass (1 TO) Steal:Ogunbowale (1 ST),-45,73,5,1629481,203833,,1611661319,8,7,0,1
+07:50,[DAL] Sims Running Layup Shot: Missed,-40,16,2,,203824,,1611661321,8,7,0,1
+07:48,[LVA] Gray Rebound (Off:0 Def:1),-40,16,4,,203833,,1611661319,8,7,0,1
+07:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,7,0,1
+07:34,[LVA 10-7] Gray Driving Layup Shot: Made (4 PTS) Assist: Clark (1 AST),44,22,1,,203833,202252,1611661319,10,7,2,1
+07:21,[DAL] Howard Turnover : Out of Bounds Lost Ball Turnover (2 TO),144,76,5,,203827,200667,1611661321,10,7,0,1
+07:09,[LVA 12-7] Young Driving Layup Shot: Made (2 PTS),34,19,1,,1629498,,1611661319,12,7,2,1
+07:09,[DAL] Howard Foul: Shooting (1 PF) (1 FTA),43,-3,6,1629498,203827,1627539,1611661321,12,7,0,1
+07:09,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,12,7,0,1
+07:09,[LVA 13-7] Young Free Throw 1 of 1 (3 PTS),0,-80,3,,1629498,,1611661319,13,7,1,1
+06:55,[DAL 9-13] Brown Layup Shot: Made (2 PTS) Assist: Howard (2 AST),-37,40,1,,1629480,203827,1611661321,13,9,2,1
+06:38,[LVA] Young 3pt Shot: Missed,-68,241,2,,1629498,,1611661319,13,9,0,1
+06:35,[DAL] Howard Rebound (Off:0 Def:1),-68,241,4,,203827,,1611661321,13,9,0,1
+06:28,[DAL 12-13] Ogunbowale 3pt Shot: Made (3 PTS),77,249,1,,1629481,,1611661321,13,12,3,1
+06:16,[LVA 15-12] Young Driving Layup Shot: Made (5 PTS),55,26,1,,1629498,,1611661319,15,12,2,1
+06:00,[DAL] Sheldon 3pt Shot: Missed,190,126,2,,1642292,,1611661321,15,12,0,1
+05:58,[LVA] Wilson Rebound (Off:0 Def:1),190,126,4,,1628932,,1611661319,15,12,0,1
+05:52,[LVA] Young 3pt Shot: Missed,-138,215,2,,1629498,,1611661319,15,12,0,1
+05:49,[DAL] Brown Rebound (Off:0 Def:1),-138,215,4,,1629480,,1611661321,15,12,0,1
+05:36,[DAL] Brown Turnover : Bad Pass (1 TO) Steal:Clark (1 ST),-77,129,5,202252,1629480,,1611661321,15,12,0,1
+05:31,[LVA] Plum 3pt Shot: Missed,113,220,2,,1628276,,1611661319,15,12,0,1
+05:28,[DAL] Howard Rebound (Off:0 Def:2),113,220,4,,203827,,1611661321,15,12,0,1
+05:16,[DAL] Howard Pullup Jump shot: Missed,99,185,2,,203827,,1611661321,15,12,0,1
+05:12,[DAL] Sheldon Rebound (Off:1 Def:0),99,185,4,,1642292,,1611661321,15,12,0,1
+05:11,[DAL] Sheldon 3pt Shot: Missed,-81,247,2,,1642292,,1611661321,15,12,0,1
+05:09,[LVA] Wilson Rebound (Off:0 Def:2),-81,247,4,,1628932,,1611661319,15,12,0,1
+05:03,[LVA] Gray 3pt Shot: Missed,229,26,2,,203833,,1611661319,15,12,0,1
+05:00,[LVA] Wilson Rebound (Off:1 Def:2),229,26,4,,1628932,,1611661319,15,12,0,1
+05:00,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,12,0,1
+05:00,[LVA] Gray Substitution replaced by Hayes,0,-80,8,,203833,203026,1611661319,15,12,0,1
+05:00,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,15,12,0,1
+04:58,[LVA] Wilson Jump Shot: Missed,142,-11,2,,1628932,,1611661319,15,12,0,1
+04:55,[DAL] Billings Rebound (Off:0 Def:1),142,-11,4,,1628881,,1611661321,15,12,0,1
+04:53,[LVA] Clark Foul: Shooting (1 PF) (2 FTA),-55,-4,6,1629480,202252,1627539,1611661319,15,12,0,1
+04:53,Timeout : Official,0,-80,9,,0,,0,15,12,0,1
+04:53,[DAL 13-15] Brown Free Throw 1 of 2 (3 PTS),0,-80,3,,1629480,,1611661321,15,13,1,1
+04:53,[DAL] Brown Free Throw 2 of 2 Missed,0,-80,3,,1629480,,1611661321,15,13,0,1
+04:51,[LVA] Team Rebound,0,-80,4,,0,,1611661319,15,13,0,1
+04:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,13,0,1
+04:41,[LVA] Wilson Pullup Jump shot: Missed,-50,129,2,,1628932,,1611661319,15,13,0,1
+04:36,[DAL] Brown Rebound (Off:0 Def:2),-50,129,4,,1629480,,1611661321,15,13,0,1
+04:32,[LVA] Plum Foul: Shooting (1 PF) (3 FTA),134,231,6,1629481,1628276,1627539,1611661319,15,13,0,1
+04:32,[DAL 14-15] Ogunbowale Free Throw 1 of 3 (4 PTS),0,-80,3,,1629481,,1611661321,15,14,1,1
+04:32,[DAL 15-15] Ogunbowale Free Throw 2 of 3 (5 PTS),0,-80,3,,1629481,,1611661321,15,15,1,1
+04:32,[LVA] Clark Substitution replaced by Gustafson,0,-80,8,,202252,1629484,1611661319,15,15,0,1
+04:32,[DAL 16-15] Ogunbowale Free Throw 3 of 3 (6 PTS),0,-80,3,,1629481,,1611661321,15,16,1,1
+04:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,16,0,1
+04:18,[DAL] Sheldon Foul: Shooting (1 PF) (2 FTA),-93,9,6,1628276,1642292,1627539,1611661321,15,16,0,1
+04:18,[LVA 16-16] Plum Free Throw 1 of 2 (4 PTS),0,-80,3,,1628276,,1611661319,16,16,1,1
+04:18,[LVA 17-16] Plum Free Throw 2 of 2 (5 PTS),0,-80,3,,1628276,,1611661319,17,16,1,1
+04:01,[DAL 18-17] Billings Turnaround Jump Shot: Made (2 PTS),19,112,1,,1628881,,1611661321,17,18,2,1
+03:46,[LVA 20-18] Gustafson 3pt Shot: Made (3 PTS) Assist: Plum (1 AST),234,49,1,,1629484,1628276,1611661319,20,18,3,1
+03:33,[DAL] Brown Jump Shot: Missed,-34,148,2,,1629480,,1611661321,20,18,0,1
+03:30,[LVA] Young Rebound (Off:0 Def:1),-34,148,4,,1629498,,1611661319,20,18,0,1
+03:24,[LVA] Young Running Layup Shot: Missed,-41,31,2,,1629498,,1611661319,20,18,0,1
+03:21,[DAL] Brown Rebound (Off:0 Def:3),-41,31,4,,1629480,,1611661321,20,18,0,1
+03:12,[DAL] Sims Driving Layup Shot: Missed,-17,64,2,,203824,,1611661321,20,18,0,1
+03:09,[DAL] Sims Rebound (Off:1 Def:0),-17,64,4,,203824,,1611661321,20,18,0,1
+03:09,[DAL 20-20] Sims Putback Layup Shot: Made (5 PTS),-50,-5,1,,203824,,1611661321,20,20,2,1
+02:54,[DAL] Billings Foul: Personal (1 PF),122,194,6,1629498,1628881,1627539,1611661321,20,20,0,1
+02:43,[LVA 23-20] Plum 3pt Shot: Made (8 PTS) Assist: Young (2 AST),-232,-16,1,,1628276,1629498,1611661319,23,20,3,1
+02:17,[DAL 22-23] Billings Driving Layup Shot: Made (4 PTS),-42,31,1,,1628881,,1611661321,23,22,2,1
+02:04,[LVA] Plum Driving Layup Shot: Missed,-27,33,2,,1628276,,1611661319,23,22,0,1
+02:03,[LVA] Gustafson Rebound (Off:1 Def:0),-27,33,4,,1629484,,1611661319,23,22,0,1
+02:01,[LVA] Young 3pt Shot: Missed,129,202,2,,1629498,,1611661319,23,22,0,1
+01:58,[DAL] Ogunbowale Rebound (Off:0 Def:1),129,202,4,,1629481,,1611661321,23,22,0,1
+01:54,[DAL 24-23] Sims Running Layup Shot: Made (7 PTS) Assist: Ogunbowale (1 AST),34,13,1,,203824,1629481,1611661321,23,24,2,1
+01:35,[DAL] Brown Foul: Personal (1 PF),63,80,6,1628276,1629480,1628952,1611661321,23,24,0,1
+01:35,[LVA] Young Substitution replaced by Martin,0,-80,8,,1629498,1642324,1611661319,23,24,0,1
+01:35,[DAL] Sims Substitution replaced by Uzun,0,-80,8,,203824,1642244,1611661321,23,24,0,1
+01:35,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,23,24,0,1
+01:26,[LVA] Gustafson Driving Layup Shot: Missed,-43,17,2,,1629484,,1611661319,23,24,0,1
+01:23,[DAL] Ogunbowale Rebound (Off:0 Def:2),-43,17,4,,1629481,,1611661321,23,24,0,1
+01:18,[DAL 27-23] Ogunbowale 3pt Shot: Made (9 PTS),-188,188,1,,1629481,,1611661321,23,27,3,1
+00:55.6,[LVA 25-27] Wilson Turnaround Fadeaway shot: Made (5 PTS) Assist: Martin (1 AST),146,-1,1,,1628932,1642324,1611661319,25,27,2,1
+00:35.7,[DAL] Sheldon Driving Layup Shot: Missed Block: Wilson (1 BLK),-56,23,2,1628932,1642292,,1611661321,25,27,0,1
+00:32.3,[LVA] Gustafson Rebound (Off:1 Def:1),-56,23,4,,1629484,,1611661319,25,27,0,1
+00:28.7,[LVA] Hayes Layup Shot: Missed,-36,28,2,,203026,,1611661319,25,27,0,1
+00:23.4,[LVA] Gustafson Rebound (Off:2 Def:1),-36,28,4,,1629484,,1611661319,25,27,0,1
+00:22.1,[LVA] Wilson Layup Shot: Missed Block: McCowan (1 BLK),-40,17,2,1629479,1628932,,1611661319,25,27,0,1
+00:22.1,[LVA] Wilson Rebound (Off:2 Def:2),-40,17,4,,1628932,,1611661319,25,27,0,1
+00:20.5,[LVA] Wilson Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,54,5,,1628932,1627539,1611661319,25,27,0,1
+00:20.5,[LVA] Wilson Substitution replaced by Clark,0,-80,8,,1628932,202252,1611661319,25,27,0,1
+00:20.5,[DAL] Sheldon Substitution replaced by Soares,0,-80,8,,1642292,1641654,1611661321,25,27,0,1
+00:08.5,[DAL] Ogunbowale 3pt Shot: Missed,132,219,2,,1629481,,1611661321,25,27,0,1
+00:05.8,[LVA] Hayes Rebound (Off:0 Def:1),132,219,4,,203026,,1611661319,25,27,0,1
+00:00.3,[LVA] Clark 3pt Shot: Missed,226,113,2,,202252,,1611661319,25,27,0,1
+00:00.3,[LVA] Team Rebound,226,113,4,,0,,1611661319,25,27,0,1
+00:00.0,End Period,0,-80,13,,0,,0,25,27,0,1
+10:00,Start Period,0,-80,12,,0,,0,25,27,0,2
+09:38,[LVA 28-27] Martin 3pt Shot: Made (3 PTS) Assist: Hayes (1 AST),228,119,1,,1642324,203026,1611661319,28,27,3,2
+09:18,[DAL] McCowan Layup Shot: Missed Block: Gray (1 BLK),-18,37,2,203833,1629479,,1611661321,28,27,0,2
+09:16,[DAL] McCowan Rebound (Off:1 Def:0),-18,37,4,,1629479,,1611661321,28,27,0,2
+09:16,[DAL 29-28] McCowan Putback Layup Shot: Made (4 PTS),-50,15,1,,1629479,,1611661321,28,29,2,2
+09:06,[LVA] Gray Pullup Jump shot: Missed,-51,173,2,,203833,,1611661319,28,29,0,2
+09:03,[DAL] Ogunbowale Rebound (Off:0 Def:3),-51,173,4,,1629481,,1611661321,28,29,0,2
+08:51,[DAL] Ogunbowale Pullup Jump shot: Missed,45,131,2,,1629481,,1611661321,28,29,0,2
+08:47,[LVA] Martin Rebound (Off:0 Def:1),45,131,4,,1642324,,1611661319,28,29,0,2
+08:42,[LVA 31-29] Hayes 3pt Shot: Made (3 PTS) Assist: Martin (2 AST),234,14,1,,203026,1642324,1611661319,31,29,3,2
+08:25,[DAL] Uzun Turnaround Jump Shot: Missed Block: Martin (1 BLK),-74,55,2,1642324,1642244,,1611661321,31,29,0,2
+08:23,[LVA] Clark Rebound (Off:0 Def:1),-74,55,4,,202252,,1611661319,31,29,0,2
+08:16,[LVA] Gray Layup Shot: Missed Block: Soares (1 BLK),44,21,2,1641654,203833,,1611661319,31,29,0,2
+08:14,[DAL] Uzun Rebound (Off:0 Def:1),44,21,4,,1642244,,1611661321,31,29,0,2
+08:02,[DAL 31-31] Billings Turnaround Jump Shot: Made (6 PTS) Assist: Uzun (1 AST),-11,51,1,,1628881,1642244,1611661321,31,31,2,2
+08:01,Timeout : Regular,0,-80,9,,1611661319,,1611661319,31,31,0,2
+08:01,[DAL] Uzun Substitution replaced by Sims,0,-80,8,,1642244,203824,1611661321,31,31,0,2
+08:01,[DAL] Soares Substitution replaced by Sheldon,0,-80,8,,1641654,1642292,1611661321,31,31,0,2
+08:01,[DAL] Billings Substitution replaced by Howard,0,-80,8,,1628881,203827,1611661321,31,31,0,2
+07:45,[LVA 33-31] Hayes Cutting Layup Shot: Made (5 PTS) Assist: Clark (2 AST),-36,28,1,,203026,202252,1611661319,33,31,2,2
+07:25,[DAL] Howard 3pt Shot: Missed,-227,67,2,,203827,,1611661321,33,31,0,2
+07:23,[LVA] Gray Rebound (Off:0 Def:2),-227,67,4,,203833,,1611661319,33,31,0,2
+07:19,[LVA] Martin 3pt Shot: Missed,115,207,2,,1642324,,1611661319,33,31,0,2
+07:15,[DAL] Ogunbowale Rebound (Off:0 Def:4),115,207,4,,1629481,,1611661321,33,31,0,2
+07:08,[DAL] Ogunbowale Pullup Jump shot: Missed,63,187,2,,1629481,,1611661321,33,31,0,2
+07:04,[DAL] Howard Rebound (Off:1 Def:2),63,187,4,,203827,,1611661321,33,31,0,2
+07:04,[DAL] Howard Tip Layup Shot: Missed,-2,38,2,,203827,,1611661321,33,31,0,2
+07:03,[LVA] Martin Rebound (Off:0 Def:2),-2,38,4,,1642324,,1611661319,33,31,0,2
+06:59,[LVA] Clark 3pt Shot: Missed,235,51,2,,202252,,1611661319,33,31,0,2
+06:56,[DAL] Sheldon Rebound (Off:1 Def:1),235,51,4,,1642292,,1611661321,33,31,0,2
+06:52,[DAL 33-33] Howard Running Layup Shot: Made (2 PTS) Assist: Sheldon (2 AST),46,17,1,,203827,1642292,1611661321,33,33,2,2
+06:40,[LVA] Martin 3pt Shot: Missed,198,169,2,,1642324,,1611661319,33,33,0,2
+06:36,[DAL] Howard Rebound (Off:1 Def:3),198,169,4,,203827,,1611661321,33,33,0,2
+06:33,[DAL] McCowan Foul: Offensive (1 PF),-59,50,6,1629484,1629479,200667,1611661321,33,33,0,2
+06:33,[DAL] McCowan Turnover : Offensive Foul Turnover (1 TO),-59,50,5,,1629479,200667,1611661321,33,33,0,2
+06:33,[LVA] Hayes Substitution replaced by Young,0,-80,8,,203026,1629498,1611661319,33,33,0,2
+06:33,[LVA] Gustafson Substitution replaced by Wilson,0,-80,8,,1629484,1628932,1611661319,33,33,0,2
+06:33,[LVA] Martin Substitution replaced by Plum,0,-80,8,,1642324,1628276,1611661319,33,33,0,2
+06:17,[LVA 35-33] Wilson Jump Shot: Made (7 PTS) Assist: Gray (2 AST),17,137,1,,1628932,203833,1611661319,35,33,2,2
+06:06,[DAL] Howard Floating Jump shot: Missed,-102,60,2,,203827,,1611661321,35,33,0,2
+06:02,[LVA] Clark Rebound (Off:0 Def:2),-102,60,4,,202252,,1611661319,35,33,0,2
+05:57,[LVA] Gray Turnover : Bad Pass (2 TO) Steal:Ogunbowale (2 ST),137,225,5,1629481,203833,,1611661319,35,33,0,2
+05:56,[LVA] Gray Foul: Personal (1 PF),-68,490,6,1629481,203833,1627539,1611661319,35,33,0,2
+05:56,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,35,33,0,2
+05:41,[DAL 35-35] Sims Driving Floating Jump Shot: Made (9 PTS),-10,62,1,,203824,,1611661321,35,35,2,2
+05:34,[LVA] Wilson Jump Shot: Missed,-135,4,2,,1628932,,1611661319,35,35,0,2
+05:31,[DAL] Billings Rebound (Off:0 Def:2),-135,4,4,,1628881,,1611661321,35,35,0,2
+05:10,[DAL] Ogunbowale Jump Shot: Missed,115,49,2,,1629481,,1611661321,35,35,0,2
+05:08,[DAL] McCowan Rebound (Off:2 Def:0),115,49,4,,1629479,,1611661321,35,35,0,2
+05:08,[DAL 37-35] McCowan Putback Layup Shot: Made (6 PTS),35,19,1,,1629479,,1611661321,35,37,2,2
+05:08,[LVA] Gray Foul: Shooting (2 PF) (1 FTA),40,23,6,1629479,203833,200667,1611661319,35,37,0,2
+05:08,[DAL 38-35] McCowan Free Throw 1 of 1 (7 PTS),0,-80,3,,1629479,,1611661321,35,38,1,2
+04:55,[LVA 38-38] Young 3pt Shot: Made (8 PTS) Assist: Wilson (1 AST),-168,197,1,,1629498,1628932,1611661319,38,38,3,2
+04:45,[DAL 40-38] McCowan Layup Shot: Made (9 PTS) Assist: Ogunbowale (2 AST),35,28,1,,1629479,1629481,1611661321,38,40,2,2
+04:30,[LVA] Clark 3pt Shot: Missed,-211,124,2,,202252,,1611661319,38,40,0,2
+04:27,[DAL] Ogunbowale Rebound (Off:0 Def:5),-211,124,4,,1629481,,1611661321,38,40,0,2
+04:22,[DAL] Sims 3pt Shot: Missed,-226,87,2,,203824,,1611661321,38,40,0,2
+04:17,[DAL] Sims Rebound (Off:2 Def:0),-226,87,4,,203824,,1611661321,38,40,0,2
+04:15,[DAL] Sims Turnover : Bad Pass (1 TO) Steal:Young (1 ST),-197,7,5,1629498,203824,,1611661321,38,40,0,2
+04:01,[LVA 40-40] Gray Pullup Jump shot: Made (6 PTS),-58,140,1,,203833,,1611661319,40,40,2,2
+03:34,[DAL] Billings Turnaround Jump Shot: Missed,-115,16,2,,1628881,,1611661321,40,40,0,2
+03:31,[LVA] Clark Rebound (Off:0 Def:3),-115,16,4,,202252,,1611661319,40,40,0,2
+03:25,[LVA 42-40] Plum Running Jump Shot: Made (10 PTS),41,58,1,,1628276,,1611661319,42,40,2,2
+03:04,[DAL] Ogunbowale 3pt Shot: Missed,135,217,2,,1629481,,1611661321,42,40,0,2
+03:03,[LVA] Team Rebound,135,217,4,,0,,1611661319,42,40,0,2
+03:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,40,0,2
+03:03,[LVA] Gray Substitution replaced by Hayes,0,-80,8,,203833,203026,1611661319,42,40,0,2
+02:48,[LVA 44-40] Wilson Cutting Layup Shot: Made (9 PTS) Assist: Young (3 AST),-18,30,1,,1628932,1629498,1611661319,44,40,2,2
+02:31,[DAL] Sims Layup Shot: Missed Block: Clark (1 BLK),35,17,2,202252,203824,,1611661321,44,40,0,2
+02:29,[LVA] Hayes Rebound (Off:0 Def:2),35,17,4,,203026,,1611661319,44,40,0,2
+02:27,[LVA 46-40] Wilson Running Layup Shot: Made (11 PTS) Assist: Hayes (2 AST),-39,6,1,,1628932,203026,1611661319,46,40,2,2
+02:27,Timeout : Regular,0,-80,9,,1611661321,,1611661321,46,40,0,2
+02:27,[DAL] Billings Substitution replaced by Howard,0,-80,8,,1628881,203827,1611661321,46,40,0,2
+02:12,[DAL 42-46] Howard Turnaround Fadeaway shot: Made (4 PTS),-87,60,1,,203827,,1611661321,46,42,2,2
+01:48,[LVA] Young 3pt Shot: Missed,-122,219,2,,1629498,,1611661319,46,42,0,2
+01:44,[LVA] Clark Rebound (Off:1 Def:3),-122,219,4,,202252,,1611661319,46,42,0,2
+01:35,[LVA 48-42] Wilson Driving Layup Shot: Made (13 PTS) Assist: Young (4 AST),35,27,1,,1628932,1629498,1611661319,48,42,2,2
+01:28,[DAL 44-48] Sheldon Driving Layup Shot: Made (4 PTS) Assist: Sims (2 AST),50,26,1,,1642292,203824,1611661321,48,44,2,2
+01:15,[LVA] Plum 3pt Shot: Missed,29,250,2,,1628276,,1611661319,48,44,0,2
+01:11,[DAL] Sheldon Rebound (Off:1 Def:2),29,250,4,,1642292,,1611661321,48,44,0,2
+01:05,[DAL 46-48] Sims Jump Shot: Made (11 PTS) Assist: Sheldon (3 AST),132,-12,1,,203824,1642292,1611661321,48,46,2,2
+00:54.4,[LVA] Young Turnover : Bad Pass (1 TO) Steal:Sheldon (1 ST),96,387,5,1642292,1629498,,1611661319,48,46,0,2
+00:52.5,[DAL 48-48] Sheldon Running Layup Shot: Made (6 PTS),36,15,1,,1642292,,1611661321,48,48,2,2
+00:39.3,[LVA 50-48] Plum Driving Layup Shot: Made (12 PTS),-41,11,1,,1628276,,1611661319,50,48,2,2
+00:39.3,[DAL] Sheldon Foul: Shooting (2 PF) (1 FTA),-28,19,6,1628276,1642292,1628952,1611661321,50,48,0,2
+00:39.3,[LVA] Hayes Substitution replaced by Gray,0,-80,8,,203026,203833,1611661319,50,48,0,2
+00:39.3,[LVA 51-48] Plum Free Throw 1 of 1 (13 PTS),0,-80,3,,1628276,,1611661319,51,48,1,2
+00:26.1,[DAL] Howard Jump Shot: Missed,-72,201,2,,203827,,1611661321,51,48,0,2
+00:23.4,[LVA] Gray Rebound (Off:0 Def:3),-72,201,4,,203833,,1611661319,51,48,0,2
+00:01.6,[LVA] Clark Jump Shot: Missed,-124,8,2,,202252,,1611661319,51,48,0,2
+00:01.6,[DAL] McCowan Rebound (Off:2 Def:1),-124,8,4,,1629479,,1611661321,51,48,0,2
+00:00.0,End Period,0,-80,13,,0,,0,51,48,0,2
+10:00,Start Period,0,-80,12,,0,,0,51,48,0,3
+09:41,[LVA 53-48] Wilson Jump Shot: Made (15 PTS) Assist: Plum (2 AST),-146,82,1,,1628932,1628276,1611661319,53,48,2,3
+09:24,[DAL] Ogunbowale 3pt Shot: Missed,-213,119,2,,1629481,,1611661321,53,48,0,3
+09:21,[LVA] Wilson Rebound (Off:2 Def:3),-213,119,4,,1628932,,1611661319,53,48,0,3
+09:11,[LVA 56-48] Wilson 3pt Shot: Made (18 PTS) Assist: Clark (3 AST),-12,250,1,,1628932,202252,1611661319,56,48,3,3
+08:54,[DAL] Howard 3pt Shot: Missed,42,260,2,,203827,,1611661321,56,48,0,3
+08:52,[LVA] Clark Rebound (Off:1 Def:4),42,260,4,,202252,,1611661319,56,48,0,3
+08:35,[DAL] Sheldon Foul: Shooting (3 PF) (2 FTA),-62,55,6,203833,1642292,200667,1611661321,56,48,0,3
+08:35,[LVA] Gray Free Throw 1 of 2 Missed,0,-80,3,,203833,,1611661319,56,48,0,3
+08:35,[LVA] Team Rebound,0,-80,4,,0,,1611661319,56,48,0,3
+08:35,[LVA 57-48] Gray Free Throw 2 of 2 (7 PTS),0,-80,3,,203833,,1611661319,57,48,1,3
+08:34,[DAL] Howard Turnover : Bad Pass (3 TO) Steal:Young (2 ST),121,836,5,1629498,203827,,1611661321,57,48,0,3
+08:31,[LVA 60-48] Clark 3pt Shot: Made (3 PTS) Assist: Young (5 AST),-160,190,1,,202252,1629498,1611661319,60,48,3,3
+08:30,Timeout : Regular,0,-80,9,,1611661321,,1611661321,60,48,0,3
+08:30,[DAL] Howard Substitution replaced by Billings,0,-80,8,,203827,1628881,1611661321,60,48,0,3
+08:13,[LVA] Clark Foul: Personal (2 PF),63,139,6,1628881,202252,1628952,1611661319,60,48,0,3
+08:08,[DAL] Sheldon 3pt Shot: Missed,167,178,2,,1642292,,1611661321,60,48,0,3
+08:06,[LVA] Young Rebound (Off:0 Def:2),167,178,4,,1629498,,1611661319,60,48,0,3
+07:46,[LVA] Plum 3pt Shot: Missed,-48,274,2,,1628276,,1611661319,60,48,0,3
+07:44,[DAL] Billings Rebound (Off:0 Def:3),-48,274,4,,1628881,,1611661321,60,48,0,3
+07:38,[DAL 50-60] Sims Running Layup Shot: Made (13 PTS) Assist: Billings (1 AST),-29,13,1,,203824,1628881,1611661321,60,50,2,3
+07:21,[LVA] Plum Turnover : Bad Pass (1 TO) Steal:Ogunbowale (3 ST),185,135,5,1629481,1628276,,1611661319,60,50,0,3
+07:17,[DAL] Billings Layup Shot: Missed,-47,16,2,,1628881,,1611661321,60,50,0,3
+07:14,[LVA] Plum Rebound (Off:0 Def:1),-47,16,4,,1628276,,1611661319,60,50,0,3
+07:11,[LVA 63-50] Clark 3pt Shot: Made (6 PTS) Assist: Gray (3 AST),230,17,1,,202252,203833,1611661319,63,50,3,3
+07:01,[LVA] Young Foul: Personal (1 PF),-106,182,6,1628881,1629498,1628952,1611661319,63,50,0,3
+06:53,[LVA] Clark Foul: Personal (3 PF),-54,67,6,1628881,202252,200667,1611661319,63,50,0,3
+06:43,[DAL 53-63] Sims 3pt Shot: Made (16 PTS),138,218,1,,203824,,1611661321,63,53,3,3
+06:24,[LVA 65-53] Young Driving Layup Shot: Made (10 PTS),-67,47,1,,1629498,,1611661319,65,53,2,3
+06:11,[DAL] Ogunbowale Turnover : Lost Ball (1 TO) Steal:Young (3 ST),-147,175,5,1629498,1629481,,1611661321,65,53,0,3
+06:06,[LVA 67-53] Young Running Layup Shot: Made (12 PTS),39,8,1,,1629498,,1611661319,67,53,2,3
+06:05,Timeout : Regular,0,-80,9,,1611661321,,1611661321,67,53,0,3
+06:05,[LVA] Clark Substitution replaced by Gustafson,0,-80,8,,202252,1629484,1611661319,67,53,0,3
+05:50,[DAL] Sheldon 3pt Shot: Missed,-230,27,2,,1642292,,1611661321,67,53,0,3
+05:48,[LVA] Team Rebound,-230,27,4,,0,,1611661319,67,53,0,3
+05:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,53,0,3
+05:32,[LVA] Wilson Pullup Jump shot: Missed,-112,157,2,,1628932,,1611661319,67,53,0,3
+05:31,[DAL] Team Rebound,-112,157,4,,0,,1611661321,67,53,0,3
+05:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,53,0,3
+05:24,[DAL] McCowan Foul: Offensive (2 PF),78,112,6,1628276,1629479,1628952,1611661321,67,53,0,3
+05:24,[DAL] McCowan Turnover : Offensive Foul Turnover (2 TO),78,112,5,,1629479,1628952,1611661321,67,53,0,3
+05:24,[DAL] McCowan Substitution replaced by Howard,0,-80,8,,1629479,203827,1611661321,67,53,0,3
+05:24,[DAL] Billings Substitution replaced by Brown,0,-80,8,,1628881,1629480,1611661321,67,53,0,3
+05:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,53,0,3
+04:59,[LVA] Wilson Turnaround Jump Shot: Missed,-50,133,2,,1628932,,1611661319,67,53,0,3
+04:57,[DAL] Howard Rebound (Off:1 Def:4),-50,133,4,,203827,,1611661321,67,53,0,3
+04:49,[DAL 55-67] Howard Jump Shot: Made (6 PTS) Assist: Sims (3 AST),78,130,1,,203827,203824,1611661321,67,55,2,3
+04:36,[LVA 69-55] Gray Driving Layup Shot: Made (9 PTS),34,6,1,,203833,,1611661319,69,55,2,3
+04:24,[DAL 57-69] Howard Floating Jump shot: Made (8 PTS) Assist: Ogunbowale (3 AST),139,49,1,,203827,1629481,1611661321,69,57,2,3
+04:05,[DAL] Sims Foul: Shooting (1 PF) (2 FTA),-72,48,6,1628932,203824,1628952,1611661321,69,57,0,3
+04:05,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,69,57,0,3
+04:05,[LVA] Team Rebound,0,-80,4,,0,,1611661319,69,57,0,3
+04:05,[LVA] Gray Substitution replaced by Hayes,0,-80,8,,203833,203026,1611661319,69,57,0,3
+04:05,[LVA 70-57] Wilson Free Throw 2 of 2 (19 PTS),0,-80,3,,1628932,,1611661319,70,57,1,3
+03:55,[DAL] Sims 3pt Shot: Missed,-199,166,2,,203824,,1611661321,70,57,0,3
+03:51,[LVA] Wilson Rebound (Off:2 Def:4),-199,166,4,,1628932,,1611661319,70,57,0,3
+03:44,[LVA] Gustafson 3pt Shot: Missed,-229,-11,2,,1629484,,1611661319,70,57,0,3
+03:41,[DAL] Sims Rebound (Off:2 Def:1),-229,-11,4,,203824,,1611661321,70,57,0,3
+03:36,[LVA] Hayes Foul: Shooting (1 PF) (2 FTA),45,20,6,1629480,203026,1628952,1611661319,70,57,0,3
+03:36,[DAL] Brown Free Throw 1 of 2 Missed,0,-80,3,,1629480,,1611661321,70,57,0,3
+03:36,[DAL] Team Rebound,0,-80,4,,0,,1611661321,70,57,0,3
+03:36,[DAL 58-70] Brown Free Throw 2 of 2 (4 PTS),0,-80,3,,1629480,,1611661321,70,58,1,3
+03:24,[LVA] Plum 3pt Shot: Missed,222,108,2,,1628276,,1611661319,70,58,0,3
+03:20,[DAL] Brown Rebound (Off:0 Def:4),222,108,4,,1629480,,1611661321,70,58,0,3
+03:11,[DAL] Sheldon Turnover : Out of Bounds - Bad Pass Turnover (1 TO),113,100,5,,1642292,1627539,1611661321,70,58,0,3
+02:50,[LVA] Wilson Turnover : Lost Ball (2 TO) Steal:Sims (1 ST),19,156,5,203824,1628932,,1611661319,70,58,0,3
+02:47,[DAL] Brown Turnover : Bad Pass (2 TO) Steal:Plum (1 ST),39,465,5,1628276,1629480,,1611661321,70,58,0,3
+02:43,[LVA 72-58] Wilson Jump Shot: Made (21 PTS) Assist: Plum (3 AST),5,71,1,,1628932,1628276,1611661319,72,58,2,3
+02:19,[DAL 60-72] Ogunbowale Pullup Jump shot: Made (11 PTS) Assist: Howard (3 AST),-61,194,1,,1629481,203827,1611661321,72,60,2,3
+02:06,[LVA 74-60] Plum Cutting Layup Shot: Made (15 PTS) Assist: Wilson (2 AST),35,27,1,,1628276,1628932,1611661319,74,60,2,3
+01:55,[DAL] Ogunbowale Pullup Jump shot: Missed,26,151,2,,1629481,,1611661321,74,60,0,3
+01:52,[LVA] Young Rebound (Off:0 Def:3),26,151,4,,1629498,,1611661319,74,60,0,3
+01:45,[DAL] Ogunbowale Foul: Personal (1 PF),-137,207,6,1628932,1629481,200667,1611661321,74,60,0,3
+01:45,[DAL] Sheldon Substitution replaced by Uzun,0,-80,8,,1642292,1642244,1611661321,74,60,0,3
+01:45,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,74,60,0,3
+01:43,[DAL] Uzun Foul: Personal (1 PF) (2 FTA),-59,216,6,1628276,1642244,200667,1611661321,74,60,0,3
+01:43,[LVA 75-60] Plum Free Throw 1 of 2 (16 PTS),0,-80,3,,1628276,,1611661319,75,60,1,3
+01:43,[LVA] Wilson Substitution replaced by Clark,0,-80,8,,1628932,202252,1611661319,75,60,0,3
+01:43,[LVA 76-60] Plum Free Throw 2 of 2 (17 PTS),0,-80,3,,1628276,,1611661319,76,60,1,3
+01:28,[DAL] McCowan Layup Shot: Missed,40,43,2,,1629479,,1611661321,76,60,0,3
+01:25,[LVA] Young Rebound (Off:0 Def:4),40,43,4,,1629498,,1611661319,76,60,0,3
+01:19,[LVA] Young Running Layup Shot: Missed,43,24,2,,1629498,,1611661319,76,60,0,3
+01:17,[DAL] McCowan Rebound (Off:2 Def:2),43,24,4,,1629479,,1611661321,76,60,0,3
+01:11,[DAL 62-76] Howard Running Layup Shot: Made (10 PTS) Assist: Ogunbowale (4 AST),-28,20,1,,203827,1629481,1611661321,76,62,2,3
+00:58.7,[LVA] Plum 3pt Shot: Missed,-124,242,2,,1628276,,1611661319,76,62,0,3
+00:57.0,[DAL] Ogunbowale Rebound (Off:0 Def:6),-124,242,4,,1629481,,1611661321,76,62,0,3
+00:53.6,[DAL] Ogunbowale Foul: Offensive (2 PF),48,48,6,202252,1629481,1627539,1611661321,76,62,0,3
+00:53.6,[DAL] Ogunbowale Turnover : Offensive Foul Turnover (2 TO),48,48,5,,1629481,1627539,1611661321,76,62,0,3
+00:53.6,[LVA] Plum Substitution replaced by Martin,0,-80,8,,1628276,1642324,1611661319,76,62,0,3
+00:53.6,[DAL] Ogunbowale Substitution replaced by Sheldon,0,-80,8,,1629481,1642292,1611661321,76,62,0,3
+00:48.7,[DAL] McCowan Foul: Personal (3 PF) (2 FTA),-116,228,6,1629484,1629479,200667,1611661321,76,62,0,3
+00:48.7,[LVA] Gustafson Free Throw 1 of 2 Missed,0,-80,3,,1629484,,1611661319,76,62,0,3
+00:48.7,[LVA] Team Rebound,0,-80,4,,0,,1611661319,76,62,0,3
+00:48.7,[LVA 77-62] Gustafson Free Throw 2 of 2 (4 PTS),0,-80,3,,1629484,,1611661319,77,62,1,3
+00:28.6,[DAL 65-77] Sims 3pt Shot: Made (19 PTS),146,232,1,,203824,,1611661321,77,65,3,3
+00:08.8,[LVA] Young Pullup Jump shot: Missed,74,66,2,,1629498,,1611661319,77,65,0,3
+00:06.1,[LVA] Gustafson Rebound (Off:3 Def:1),74,66,4,,1629484,,1611661319,77,65,0,3
+00:04.4,[LVA] Martin 3pt Shot: Missed,222,144,2,,1642324,,1611661319,77,65,0,3
+00:02.0,[DAL] Team Rebound,222,144,4,,0,,1611661321,77,65,0,3
+00:02.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,65,0,3
+00:00.0,End Period,0,-80,13,,0,,0,77,65,0,3
+10:00,Start Period,0,-80,12,,0,,0,77,65,0,4
+09:41,[DAL 67-77] Howard Cutting Layup Shot: Made (12 PTS) Assist: Sims (4 AST),-19,38,1,,203827,203824,1611661321,77,67,2,4
+09:20,[LVA] Gray Turnover : Lost Ball (3 TO) Steal:Uzun (1 ST),-4,169,5,1642244,203833,,1611661319,77,67,0,4
+09:09,[LVA] Gustafson Foul: Non-Unsportsmanlike Technical Foul - Defensive Three Seconds (1 PF) (1 FTA),0,-80,6,,1629484,1627539,1611661319,77,67,0,4
+09:09,[DAL] Howard Free Throw Technical Missed,0,-80,3,,203827,,1611661321,77,67,0,4
+09:09,[DAL] Team Rebound,0,-80,4,,0,,1611661321,77,67,0,4
+09:09,[LVA] Gustafson Substitution replaced by Wilson,0,-80,8,,1629484,1628932,1611661319,77,67,0,4
+09:02,[DAL 69-77] Sims Driving Layup Shot: Made (21 PTS),-35,35,1,,203824,,1611661321,77,69,2,4
+09:02,"Double Technical - Sims, Martin",0,-80,6,1642324,203824,1628952,1611661321,77,69,0,4
+08:52,[LVA 79-69] Wilson Step Back Jump shot: Made (23 PTS),11,171,1,,1628932,,1611661319,79,69,2,4
+08:39,[DAL 71-79] Sims Pullup Jump shot: Made (23 PTS),-67,135,1,,203824,,1611661321,79,71,2,4
+08:19,[LVA] Wilson Jump Shot: Missed Block: McCowan (2 BLK),-43,79,2,1629479,1628932,,1611661319,79,71,0,4
+08:19,[DAL] Uzun Rebound (Off:0 Def:2),-43,79,4,,1642244,,1611661321,79,71,0,4
+08:16,[DAL] Sims Running Jump Shot: Missed,-136,86,2,,203824,,1611661321,79,71,0,4
+08:13,[LVA] Wilson Rebound (Off:2 Def:5),-136,86,4,,1628932,,1611661319,79,71,0,4
+08:05,[LVA 82-71] Wilson 3pt Shot: Made (26 PTS) Assist: Hayes (3 AST),-7,263,1,,1628932,203026,1611661319,82,71,3,4
+07:44,[DAL] Ogunbowale Driving Layup Shot: Missed,40,28,2,,1629481,,1611661321,82,71,0,4
+07:42,[LVA] Martin Rebound (Off:0 Def:3),40,28,4,,1642324,,1611661319,82,71,0,4
+07:39,[LVA] Martin Turnover : Backcourt Turnover (1 TO),-12,447,5,,1642324,1628952,1611661319,82,71,0,4
+07:39,[LVA] Martin Substitution replaced by Plum,0,-80,8,,1642324,1628276,1611661319,82,71,0,4
+07:39,[DAL] McCowan Substitution replaced by Billings,0,-80,8,,1629479,1628881,1611661321,82,71,0,4
+07:29,[DAL] Howard Floating Jump shot: Missed,31,35,2,,203827,,1611661321,82,71,0,4
+07:26,[LVA] Wilson Rebound (Off:2 Def:6),31,35,4,,1628932,,1611661319,82,71,0,4
+07:22,[DAL] Billings Foul: Shooting (2 PF) (2 FTA),-34,26,6,203026,1628881,200667,1611661321,82,71,0,4
+07:22,[LVA 83-71] Hayes Free Throw 1 of 2 (6 PTS),0,-80,3,,203026,,1611661319,83,71,1,4
+07:22,[LVA 84-71] Hayes Free Throw 2 of 2 (7 PTS),0,-80,3,,203026,,1611661319,84,71,1,4
+07:07,[DAL 73-84] Howard Floating Jump shot: Made (14 PTS),-111,13,1,,203827,,1611661321,84,73,2,4
+06:49,[LVA 86-73] Gray Turnaround Fadeaway shot: Made (11 PTS),-22,74,1,,203833,,1611661319,86,73,2,4
+06:49,[DAL] Billings Foul: Shooting (3 PF) (1 FTA),-18,72,6,203833,1628881,1628952,1611661321,86,73,0,4
+06:49,[LVA] Hayes Substitution replaced by Young,0,-80,8,,203026,1629498,1611661319,86,73,0,4
+06:49,[LVA 87-73] Gray Free Throw 1 of 1 (12 PTS),0,-80,3,,203833,,1611661319,87,73,1,4
+06:34,[DAL 75-87] Ogunbowale Pullup Jump shot: Made (13 PTS) Assist: Sims (5 AST),128,128,1,,1629481,203824,1611661321,87,75,2,4
+06:13,[LVA] Plum 3pt Shot: Missed,235,0,2,,1628276,,1611661319,87,75,0,4
+06:12,[LVA] Young Rebound (Off:1 Def:4),235,0,4,,1629498,,1611661319,87,75,0,4
+06:12,[LVA 89-75] Young Putback Layup Shot: Made (14 PTS),58,17,1,,1629498,,1611661319,89,75,2,4
+06:12,[DAL] Ogunbowale Foul: Shooting (3 PF) (1 FTA),61,23,6,1629498,1629481,200667,1611661321,89,75,0,4
+06:12,[LVA 90-75] Young Free Throw 1 of 1 (15 PTS),0,-80,3,,1629498,,1611661319,90,75,1,4
+05:59,[DAL] Billings Layup Shot: Missed Block: Wilson (2 BLK),-24,28,2,1628932,1628881,,1611661321,90,75,0,4
+05:59,[DAL] Team Rebound,-24,28,4,,0,,1611661321,90,75,0,4
+05:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,90,75,0,4
+05:59,Timeout : Official,0,-80,9,,0,,0,90,75,0,4
+05:59,[DAL] Uzun Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-117,-8,5,,1642244,1628952,1611661321,90,75,0,4
+05:48,[LVA] Clark Foul: Offensive (4 PF),-92,176,6,1642244,202252,1628952,1611661319,90,75,0,4
+05:48,[LVA] Clark Turnover : Offensive Foul Turnover (1 TO),-92,176,5,,202252,1628952,1611661319,90,75,0,4
+05:48,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,90,75,0,4
+05:30,[DAL 77-90] Billings Cutting Layup Shot: Made (8 PTS) Assist: Howard (4 AST),-55,14,1,,1628881,203827,1611661321,90,77,2,4
+05:16,[LVA] Clark 3pt Shot: Missed,238,3,2,,202252,,1611661319,90,77,0,4
+05:14,[LVA] Clark Rebound (Off:2 Def:4),238,3,4,,202252,,1611661319,90,77,0,4
+05:09,[LVA 93-77] Young 3pt Shot: Made (18 PTS) Assist: Clark (4 AST),-151,204,1,,1629498,202252,1611661319,93,77,3,4
+04:56,[DAL] Howard 3pt Shot: Missed,-197,150,2,,203827,,1611661321,93,77,0,4
+04:53,[LVA] Young Rebound (Off:1 Def:5),-197,150,4,,1629498,,1611661319,93,77,0,4
+04:46,[LVA] Wilson Turnaround Jump Shot: Missed,-66,67,2,,1628932,,1611661319,93,77,0,4
+04:44,[DAL] Howard Rebound (Off:1 Def:5),-66,67,4,,203827,,1611661321,93,77,0,4
+04:31,[DAL] Howard Fadeaway Jump Shot: Missed,-121,-3,2,,203827,,1611661321,93,77,0,4
+04:28,[DAL] Sims Rebound (Off:3 Def:1),-121,-3,4,,203824,,1611661321,93,77,0,4
+04:28,[DAL 79-93] Sims Tip Layup Shot: Made (25 PTS),35,26,1,,203824,,1611661321,93,79,2,4
+04:14,[DAL] Howard Foul: Shooting (2 PF) (2 FTA),-46,8,6,1628932,203827,1627539,1611661321,93,79,0,4
+04:14,[LVA 94-79] Wilson Free Throw 1 of 2 (27 PTS),0,-80,3,,1628932,,1611661319,94,79,1,4
+04:14,[DAL] Billings Substitution replaced by Brown,0,-80,8,,1628881,1629480,1611661321,94,79,0,4
+04:14,[LVA 95-79] Wilson Free Throw 2 of 2 (28 PTS),0,-80,3,,1628932,,1611661319,95,79,1,4
+03:56,[LVA] Young Foul: Personal (2 PF),113,138,6,1629481,1629498,1627539,1611661319,95,79,0,4
+03:48,[DAL] Sims Floating Jump shot: Missed,-101,32,2,,203824,,1611661321,95,79,0,4
+03:46,[LVA] Gray Rebound (Off:0 Def:4),-101,32,4,,203833,,1611661319,95,79,0,4
+03:35,[LVA] Wilson Driving Layup Shot: Missed,-35,53,2,,1628932,,1611661319,95,79,0,4
+03:32,[LVA] Wilson Rebound (Off:3 Def:6),-35,53,4,,1628932,,1611661319,95,79,0,4
+03:29,[LVA 98-79] Plum 3pt Shot: Made (20 PTS),-185,203,1,,1628276,,1611661319,98,79,3,4
+03:18,[DAL] Ogunbowale 3pt Shot: Missed,88,261,2,,1629481,,1611661321,98,79,0,4
+03:15,[LVA] Clark Rebound (Off:2 Def:5),88,261,4,,202252,,1611661319,98,79,0,4
+03:08,[LVA] Gray Pullup Jump shot: Missed,75,147,2,,203833,,1611661319,98,79,0,4
+03:06,[DAL] Howard Rebound (Off:1 Def:6),75,147,4,,203827,,1611661321,98,79,0,4
+03:01,[DAL] Sims Turnover : Bad Pass (2 TO) Steal:Wilson (1 ST),-72,239,5,1628932,203824,,1611661321,98,79,0,4
+02:54,[LVA] Wilson Running Layup Shot: Missed,10,12,2,,1628932,,1611661319,98,79,0,4
+02:54,[LVA] Team Rebound,10,12,4,,0,,1611661319,98,79,0,4
+02:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,98,79,0,4
+02:54,Timeout : Regular,0,-80,9,,1611661319,,1611661319,98,79,0,4
+02:54,[DAL] Sims Substitution replaced by Uzun,0,-80,8,,203824,1642244,1611661321,98,79,0,4
+02:44,[LVA] Wilson 3pt Shot: Missed,193,169,2,,1628932,,1611661319,98,79,0,4
+02:41,[DAL] Brown Rebound (Off:0 Def:5),193,169,4,,1629480,,1611661321,98,79,0,4
+02:33,[DAL] Howard Floating Jump shot: Missed,115,30,2,,203827,,1611661321,98,79,0,4
+02:30,[LVA] Wilson Rebound (Off:3 Def:7),115,30,4,,1628932,,1611661319,98,79,0,4
+02:27,[LVA 100-79] Plum Running Layup Shot: Made (22 PTS),-45,-5,1,,1628276,,1611661319,100,79,2,4
+02:27,[DAL] Sheldon Foul: Shooting (4 PF) (1 FTA),-59,34,6,1628276,1642292,1627539,1611661321,100,79,0,4
+02:27,[LVA] Young Substitution replaced by Gustafson,0,-80,8,,1629498,1629484,1611661319,100,79,0,4
+02:27,[LVA] Clark Substitution replaced by Colson,0,-80,8,,202252,202641,1611661319,100,79,0,4
+02:27,[LVA] Gray Substitution replaced by Hayes,0,-80,8,,203833,203026,1611661319,100,79,0,4
+02:27,[LVA] Wilson Substitution replaced by Bell,0,-80,8,,1628932,1631006,1611661319,100,79,0,4
+02:27,[DAL] Ogunbowale Substitution replaced by Soares,0,-80,8,,1629481,1641654,1611661321,100,79,0,4
+02:27,[LVA 101-79] Plum Free Throw 1 of 1 (23 PTS),0,-80,3,,1628276,,1611661319,101,79,1,4
+02:17,[LVA] Colson Foul: Shooting (1 PF) (2 FTA),-43,27,6,1642244,202641,1628952,1611661319,101,79,0,4
+02:17,[DAL 80-101] Uzun Free Throw 1 of 2 (1 PTS),0,-80,3,,1642244,,1611661321,101,80,1,4
+02:17,[LVA] Plum Substitution replaced by Martin,0,-80,8,,1628276,1642324,1611661319,101,80,0,4
+02:17,[DAL] Uzun Free Throw 2 of 2 Missed,0,-80,3,,1642244,,1611661321,101,80,0,4
+02:16,[DAL] Uzun Rebound (Off:1 Def:2),0,-80,4,,1642244,,1611661321,101,80,0,4
+02:16,[LVA] Colson Foul: Personal (2 PF),-122,122,6,1642244,202641,200667,1611661319,101,80,0,4
+02:12,[LVA] Gustafson Foul: Personal (2 PF),73,126,6,1629480,1629484,1628952,1611661319,101,80,0,4
+02:12,Instant Replay - Support Ruling,0,-80,18,,0,,0,101,80,0,4
+02:03,[DAL] Brown Layup Shot: Missed Block: Martin (2 BLK),-29,32,2,1642324,1629480,,1611661321,101,80,0,4
+02:02,[DAL] Brown Rebound (Off:1 Def:5),-29,32,4,,1629480,,1611661321,101,80,0,4
+02:02,[LVA] Gustafson Foul: Shooting (3 PF) (2 FTA),-43,24,6,1629480,1629484,1628952,1611661319,101,80,0,4
+02:02,[DAL 81-101] Brown Free Throw 1 of 2 (5 PTS),0,-80,3,,1629480,,1611661321,101,81,1,4
+02:02,[DAL 82-101] Brown Free Throw 2 of 2 (6 PTS),0,-80,3,,1629480,,1611661321,101,82,1,4
+01:41,[LVA] Martin 3pt Shot: Missed,-229,37,2,,1642324,,1611661319,101,82,0,4
+01:38,[DAL] Team Rebound,-229,37,4,,0,,1611661321,101,82,0,4
+01:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,101,82,0,4
+01:27,[DAL 85-101] Soares 3pt Shot: Made (3 PTS) Assist: Brown (1 AST),-229,58,1,,1641654,1629480,1611661321,101,85,3,4
+01:01,[LVA] Gustafson Floating Jump shot: Missed,13,48,2,,1629484,,1611661319,101,85,0,4
+00:59.9,[DAL] Howard Rebound (Off:1 Def:7),13,48,4,,203827,,1611661321,101,85,0,4
+00:56.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,101,85,0,4
+00:49.2,[DAL] Howard Turnaround Fadeaway shot: Missed,152,22,2,,203827,,1611661321,101,85,0,4
+00:46.0,[LVA] Gustafson Rebound (Off:3 Def:2),152,22,4,,1629484,,1611661319,101,85,0,4
+00:37.1,[LVA] Hayes 3pt Shot: Missed,-224,66,2,,203026,,1611661319,101,85,0,4
+00:33.2,[LVA] Hayes Rebound (Off:1 Def:2),-224,66,4,,203026,,1611661319,101,85,0,4
+00:31.5,[LVA 104-85] Martin 3pt Shot: Made (6 PTS) Assist: Hayes (4 AST),91,237,1,,1642324,203026,1611661319,104,85,3,4
+00:20.9,[DAL] Brown 3pt Shot: Missed,127,226,2,,1629480,,1611661321,104,85,0,4
+00:18.2,[LVA] Gustafson Rebound (Off:3 Def:3),127,226,4,,1629484,,1611661319,104,85,0,4
+00:00.0,End Period,0,-80,13,,0,,0,104,85,0,4

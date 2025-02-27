@@ -1,0 +1,385 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Nelson-Ododa vs Dolson (Sykes gains possession),0,-80,10,203828,1631135,1628279,1611661320,0,0,1
+09:50,[LAS] N Ogwumike Jump Shot: Missed,-59,205,2,,203014,,1611661320,0,0,1
+09:47,[NYL] Howard Rebound (Off:0 Def:1),-119,245,4,,203827,,1611661313,0,0,1
+09:29,[NYL] Ionescu 3pt Shot: Missed,185,194,2,,1629477,,1611661313,0,0,1
+09:25,[LAS] N Ogwumike Rebound (Off:0 Def:1),185,194,4,,203014,,1611661320,0,0,1
+09:13,[NYL] Dolson Foul: Shooting (1 PF) (2 FTA),26,81,6,1631135,203828,,1611661313,0,0,1
+09:13,[LAS 1-0] Nelson-Ododa Free Throw 1 of 2 (1 PTS),0,-80,3,,1631135,,1611661320,0,1,1
+09:13,[LAS 2-0] Nelson-Ododa Free Throw 2 of 2 (2 PTS),0,-80,3,,1631135,,1611661320,0,2,1
+09:00,[NYL] Ionescu Foul: Offensive (1 PF),108,230,6,1628886,1629477,,1611661313,0,2,1
+09:00,[NYL] Ionescu Turnover : Offensive Foul Turnover (1 TO),108,230,5,,1629477,,1611661313,0,2,1
+08:46,[LAS 4-0] Sykes Driving Floating Jump Shot: Made (2 PTS) Assist: Canada (1 AST),44,30,1,,1628279,1628886,1611661320,0,4,1
+08:34,[NYL] Dolson Cutting Layup Shot: Missed,21,15,2,1628279,203828,,1611661313,0,4,1
+08:31,[LAS] Samuelson Rebound (Off:0 Def:1),21,15,4,,1629478,,1611661320,0,4,1
+08:29,[LAS] Samuelson 3pt Shot: Missed,155,188,2,,1629478,,1611661320,0,4,1
+08:25,[NYL] Allen Rebound (Off:0 Def:1),155,188,4,,204296,,1611661313,0,4,1
+08:13,[NYL] Dolson Turnover : Bad Pass (1 TO) Steal:Samuelson (1 ST),12,23,5,1629478,203828,,1611661313,0,4,1
+08:04,[LAS 6-0] Sykes Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Samuelson (1 AST),32,15,1,,1628279,1629478,1611661320,0,6,1
+07:50,[LAS] N Ogwumike Foul: Personal (1 PF),28,71,6,204296,203014,,1611661320,0,6,1
+07:38,[NYL 2-6] Allen Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Ionescu (1 AST),-27,11,1,,204296,1629477,1611661313,2,6,1
+07:28,[LAS] Sykes Jump Shot: Missed,-74,186,2,,1628279,,1611661320,2,6,1
+07:26,[NYL] Howard Rebound (Off:0 Def:2),-74,186,4,,203827,,1611661313,2,6,1
+07:07,[NYL] Howard Fadeaway Jump Shot: Missed,-96,11,2,,203827,,1611661313,2,6,1
+07:04,[LAS] Nelson-Ododa Rebound (Off:0 Def:1),-96,11,4,,1631135,,1611661320,2,6,1
+06:52,[LAS] N Ogwumike Driving Layup Shot: Missed,67,24,2,,203014,,1611661320,2,6,1
+06:51,[NYL] Dolson Rebound (Off:0 Def:1),67,24,4,,203828,,1611661313,2,6,1
+06:40,[NYL] Howard Driving Floating Jump Shot: Missed,-13,53,2,,203827,,1611661313,2,6,1
+06:38,[LAS] Team Rebound,-13,53,4,,0,,1611661320,2,6,1
+06:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,6,1
+06:24,[LAS] Sykes Driving Reverse Layup Shot: Missed,54,10,2,204296,1628279,,1611661320,2,6,1
+06:21,[NYL] Allen Rebound (Off:0 Def:2),54,10,4,,204296,,1611661313,2,6,1
+06:18,[NYL 4-6] Dangerfield Running Layup Shot: Made (2 PTS) Assist: Ionescu (2 AST),-32,11,1,,1630101,1629477,1611661313,4,6,1
+06:04,[LAS] Nelson-Ododa Turnover : Traveling (1 TO),-74,31,5,,1631135,,1611661320,4,6,1
+06:04,[NYL] Allen Substitution replaced by Johannes,0,-80,8,,204296,1629546,1611661313,4,6,1
+05:55,[LAS] N Ogwumike Foul: Personal (2 PF),82,191,6,203828,203014,,1611661320,4,6,1
+05:42,[NYL] Ionescu Foul: Offensive (2 PF),-29,42,6,1628886,1629477,,1611661313,4,6,1
+05:42,[NYL] Ionescu Turnover : Offensive Foul Turnover (2 TO),-29,42,5,,1629477,,1611661313,4,6,1
+05:42,Instant Replay - Support Ruling,0,-80,18,,0,,0,4,6,1
+05:42,[NYL] Ionescu Substitution replaced by Whitcomb,0,-80,8,,1629477,1628244,1611661313,4,6,1
+05:27,[LAS 8-4] N Ogwumike Cutting Layup Shot: Made (2 PTS) Assist: Sykes (1 AST),-28,15,1,,203014,1628279,1611661320,4,8,1
+05:15,[NYL] Dolson Foul: Offensive (2 PF),30,31,6,203014,203828,,1611661313,4,8,1
+05:15,[NYL] Dolson Turnover : Offensive Foul Turnover (2 TO),30,31,5,,203828,,1611661313,4,8,1
+05:15,[NYL] Dolson Substitution replaced by Xu,0,-80,8,,203828,1629566,1611661313,4,8,1
+05:00,[LAS 10-4] Sykes Pullup Jump shot: Made (6 PTS) Assist: Nelson-Ododa (1 AST),-88,88,1,,1628279,1631135,1611661320,4,10,1
+04:43,[NYL] Howard Turnaround Jump Shot: Missed,-11,60,2,,203827,,1611661313,4,10,1
+04:41,[LAS] Canada Rebound (Off:0 Def:1),-11,60,4,,1628886,,1611661320,4,10,1
+04:34,[LAS 12-4] N Ogwumike Turnaround Fadeaway shot: Made (4 PTS) Assist: Canada (2 AST),-133,5,1,,203014,1628886,1611661320,4,12,1
+04:14,[NYL] Howard 3pt Shot: Missed,-204,133,2,,203827,,1611661313,4,12,1
+04:12,[NYL] Howard Rebound (Off:1 Def:2),-204,133,4,,203827,,1611661313,4,12,1
+04:10,[NYL 6-12] Howard Floating Jump shot: Made (2 PTS),-18,39,1,,203827,,1611661313,6,12,1
+03:57,[LAS 15-6] N Ogwumike 3pt Shot: Made (7 PTS) Assist: Samuelson (2 AST),154,199,1,,203014,1629478,1611661320,6,15,1
+03:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,15,1
+03:51,Timeout Officials,0,-80,9,,0,,0,6,15,1
+03:48,[LAS] Sykes Foul: Personal (1 PF),-150,26,6,1629566,1628279,,1611661320,6,15,1
+03:37,[NYL] Xu Turnaround Jump Shot: Missed,-77,47,2,,1629566,,1611661313,6,15,1
+03:35,[LAS] N Ogwumike Rebound (Off:0 Def:2),-77,47,4,,203014,,1611661320,6,15,1
+03:31,[LAS] Canada Turnover : Bad Pass (1 TO) Steal:Dangerfield (1 ST),-51,204,5,1630101,1628886,,1611661320,6,15,1
+03:25,[NYL 8-15] Dangerfield Running Layup Shot: Made (4 PTS),-42,38,1,,1630101,,1611661313,8,15,1
+03:11,[LAS] Nelson-Ododa Layup Shot: Missed,31,41,2,1629566,1631135,,1611661320,8,15,1
+03:08,[LAS] Nelson-Ododa Rebound (Off:1 Def:1),31,41,4,,1631135,,1611661320,8,15,1
+03:07,[LAS] Samuelson Pullup Jump shot: Missed,-154,3,2,,1629478,,1611661320,8,15,1
+03:03,[NYL] Whitcomb Rebound (Off:0 Def:1),-154,3,4,,1628244,,1611661313,8,15,1
+02:47,[NYL] Howard Pullup Jump shot: Missed,123,13,2,,203827,,1611661313,8,15,1
+02:45,[LAS] N Ogwumike Rebound (Off:0 Def:3),123,13,4,,203014,,1611661320,8,15,1
+02:28,[LAS] Canada Driving Floating Jump Shot: Missed,-65,1,2,,1628886,,1611661320,8,15,1
+02:26,[NYL] Whitcomb Rebound (Off:0 Def:2),-65,1,4,,1628244,,1611661313,8,15,1
+02:19,[NYL] Xu 3pt Shot: Missed,-28,257,2,,1629566,,1611661313,8,15,1
+02:15,[LAS] Sykes Rebound (Off:0 Def:1),-28,257,4,,1628279,,1611661320,8,15,1
+02:07,[LAS 17-8] Canada Driving Layup Shot: Made (2 PTS) Assist: Samuelson (3 AST),-12,4,1,,1628886,1629478,1611661320,8,17,1
+01:49,[NYL] Howard Turnover : Lost Ball (1 TO) Steal:Nelson-Ododa (1 ST),100,12,5,1631135,203827,,1611661313,8,17,1
+01:29,[LAS 19-8] Nelson-Ododa Driving Layup Shot: Made (4 PTS),34,6,1,,1631135,,1611661320,8,19,1
+01:21,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,8,19,1
+01:21,[NYL] Dangerfield Substitution replaced by Onyenwere,0,-80,8,,1630101,1630446,1611661313,8,19,1
+01:21,[NYL] Howard Substitution replaced by Ionescu,0,-80,8,,203827,1629477,1611661313,8,19,1
+01:21,[LAS] Sykes Substitution replaced by Brown,0,-80,8,,1628279,1628882,1611661320,8,19,1
+01:21,[LAS] N Ogwumike Substitution replaced by Walker,0,-80,8,,203014,1630444,1611661320,8,19,1
+01:21,[LAS] Samuelson Substitution replaced by Smith,0,-80,8,,1629478,1631147,1611661320,8,19,1
+01:15,[NYL] Whitcomb 3pt Shot: Missed,-200,142,2,,1628244,,1611661313,8,19,1
+01:11,[LAS] Walker Rebound (Off:0 Def:1),-200,142,4,,1630444,,1611661320,8,19,1
+01:05,[LAS 22-8] Walker 3pt Shot: Made (3 PTS) Assist: Canada (3 AST),139,218,1,,1630444,1628886,1611661320,8,22,1
+00:39.8,[NYL] Ionescu Driving Floating Jump Shot: Missed,-96,112,2,,1629477,,1611661313,8,22,1
+00:38.8,[NYL] Team Rebound,-96,112,4,,0,,1611661313,8,22,1
+00:38.8,[NYL] Team Turnover : Shot Clock Turnover,-144,64,5,,0,,1611661313,8,22,1
+00:38.8,[NYL] Johannes Substitution replaced by Allen,0,-80,8,,1629546,204296,1611661313,8,22,1
+00:30.3,[NYL] Onyenwere Violation:Jump Ball,0,-80,7,,1630446,,1611661313,8,22,1
+00:17.4,[LAS] Canada Pullup Jump shot: Missed,55,116,2,,1628886,,1611661320,8,22,1
+00:14.8,[LAS] Nelson-Ododa Rebound (Off:2 Def:1),55,116,4,,1631135,,1611661320,8,22,1
+00:14.8,[LAS 24-8] Nelson-Ododa Putback Layup Shot: Made (6 PTS),0,-5,1,,1631135,,1611661320,8,24,1
+00:01.2,[NYL] Ionescu 3pt Shot: Missed,-71,254,2,1631135,1629477,,1611661313,8,24,1
+00:00.1,[NYL] Team Rebound,-71,254,4,,0,,1611661313,8,24,1
+00:00.0,End Period,0,-80,13,,0,,0,8,24,1
+10:00,Start Period,0,-80,12,,0,,0,8,24,2
+09:38,[NYL] Onyenwere Finger Roll Layup Shot: Missed,-28,16,2,,1630446,,1611661313,8,24,2
+09:36,[LAS] Nelson-Ododa Rebound (Off:2 Def:2),-28,16,4,,1631135,,1611661320,8,24,2
+09:26,[NYL] Allen Foul: Personal (1 PF),-24,213,6,1628882,204296,,1611661313,8,24,2
+09:15,[LAS 26-8] Smith Step Back Jump shot: Made (2 PTS),-54,180,1,,1631147,,1611661320,8,26,2
+09:01,[NYL] Whitcomb 3pt Shot: Missed,-228,33,2,,1628244,,1611661313,8,26,2
+08:57,[LAS] Brown Rebound (Off:0 Def:1),-228,33,4,,1628882,,1611661320,8,26,2
+08:45,[LAS] Sykes Pullup Jump shot: Missed,55,165,2,,1628279,,1611661320,8,26,2
+08:42,[LAS] Nelson-Ododa Rebound (Off:3 Def:2),55,165,4,,1631135,,1611661320,8,26,2
+08:40,[LAS] Walker 3pt Shot: Missed,-110,235,2,,1630444,,1611661320,8,26,2
+08:36,[NYL] Whitcomb Rebound (Off:0 Def:3),-110,235,4,,1628244,,1611661313,8,26,2
+08:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,26,2
+08:31,[NYL] Whitcomb Substitution replaced by Dangerfield,0,-80,8,,1628244,1630101,1611661313,8,26,2
+08:16,[NYL] Ionescu 3pt Shot: Missed,-201,205,2,,1629477,,1611661313,8,26,2
+08:13,[LAS] Walker Rebound (Off:0 Def:2),-201,205,4,,1630444,,1611661320,8,26,2
+08:06,[LAS] Brown 3pt Shot: Missed,193,176,2,,1628882,,1611661320,8,26,2
+08:03,[NYL] Dolson Rebound (Off:0 Def:2),193,176,4,,203828,,1611661313,8,26,2
+07:57,[NYL] Allen 3pt Shot: Missed,135,210,2,,204296,,1611661313,8,26,2
+07:54,[LAS] Sykes Rebound (Off:0 Def:2),135,210,4,,1628279,,1611661320,8,26,2
+07:49,[LAS 28-8] Sykes Running Layup Shot: Made (8 PTS),42,10,1,,1628279,,1611661320,8,28,2
+07:49,[LAS] Sykes Technical (1 FTA),0,-80,6,,1628279,,1611661320,8,28,2
+07:49,[NYL 9-28] Ionescu Free Throw Technical (1 PTS),0,-80,3,,1629477,,1611661313,9,28,2
+07:49,[NYL] Onyenwere Substitution replaced by Howard,0,-80,8,,1630446,203827,1611661313,9,28,2
+07:33,[NYL 12-28] Ionescu 3pt Shot: Made (4 PTS) Assist: Howard (1 AST),-181,210,1,,1629477,203827,1611661313,12,28,2
+07:19,[LAS] Smith Driving Floating Jump Shot: Missed,-19,113,2,,1631147,,1611661320,12,28,2
+07:17,[LAS] Walker Rebound (Off:1 Def:2),-19,113,4,,1630444,,1611661320,12,28,2
+07:07,[LAS] Brown 3pt Shot: Missed,-161,185,2,,1628882,,1611661320,12,28,2
+07:05,[NYL] Allen Rebound (Off:0 Def:3),-161,185,4,,204296,,1611661313,12,28,2
+06:59,[LAS] Walker Foul: Personal (1 PF),5,306,6,1629477,1630444,,1611661320,12,28,2
+06:59,[LAS] Nelson-Ododa Substitution replaced by N Ogwumike,0,-80,8,,1631135,203014,1611661320,12,28,2
+06:59,[LAS] Walker Substitution replaced by Samuelson,0,-80,8,,1630444,1629478,1611661320,12,28,2
+06:45,[NYL] Allen Jump Shot: Missed,187,103,2,,204296,,1611661313,12,28,2
+06:45,[NYL] Ionescu Rebound (Off:1 Def:0),187,103,4,,1629477,,1611661313,12,28,2
+06:39,[NYL] Dolson Layup Shot: Missed,29,22,2,1628279,203828,,1611661313,12,28,2
+06:36,[NYL] Dolson Rebound (Off:1 Def:2),29,22,4,,203828,,1611661313,12,28,2
+06:35,[NYL 14-28] Dolson Putback Layup Shot: Made (2 PTS),7,17,1,,203828,,1611661313,14,28,2
+06:19,[LAS] Sykes Turnover : Bad Pass (1 TO) Steal:Ionescu (1 ST),-10,255,5,1629477,1628279,,1611661320,14,28,2
+06:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,28,2
+06:10,[NYL 16-28] Howard Cutting Layup Shot: Made (4 PTS) Assist: Ionescu (3 AST),-21,12,1,,203827,1629477,1611661313,16,28,2
+06:10,[LAS] Samuelson Foul: Shooting (1 PF) (1 FTA),-21,12,6,203827,1629478,,1611661320,16,28,2
+06:10,[NYL 17-28] Howard Free Throw 1 of 1 (5 PTS),0,-80,3,,203827,,1611661313,17,28,2
+05:58,[LAS 31-17] Brown 3pt Shot: Made (3 PTS) Assist: Smith (1 AST),160,212,1,,1628882,1631147,1611661320,17,31,2
+05:42,[NYL 20-31] Dangerfield 3pt Shot: Made (7 PTS) Assist: Dolson (1 AST),-222,8,1,,1630101,203828,1611661313,20,31,2
+05:33,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,20,31,2
+05:31,Jump Ball N Ogwumike vs Dolson (Smith gains possession),0,-80,10,203828,203014,1631147,1611661320,20,31,2
+05:17,[LAS] Samuelson Pullup Jump shot: Missed,-85,138,2,,1629478,,1611661320,20,31,2
+05:14,[NYL] Allen Rebound (Off:0 Def:4),-85,138,4,,204296,,1611661313,20,31,2
+04:54,[NYL] Howard Turnaround Fadeaway Bank Jump Shot: Missed,-27,15,2,,203827,,1611661313,20,31,2
+04:52,[LAS] Sykes Rebound (Off:0 Def:3),-27,15,4,,1628279,,1611661320,20,31,2
+04:40,[LAS] Sykes Turnover : Step Out of Bounds Turnover (2 TO),88,-17,5,,1628279,,1611661320,20,31,2
+04:28,[NYL] Ionescu 3pt Shot: Missed,-221,91,2,,1629477,,1611661313,20,31,2
+04:24,[LAS] Samuelson Rebound (Off:0 Def:2),-221,91,4,,1629478,,1611661320,20,31,2
+04:13,[LAS] Smith 3pt Shot: Missed,-146,203,2,,1631147,,1611661320,20,31,2
+04:11,[NYL] Ionescu Rebound (Off:1 Def:1),-146,203,4,,1629477,,1611661313,20,31,2
+04:06,[NYL 22-31] Howard Cutting Layup Shot: Made (7 PTS) Assist: Ionescu (4 AST),11,11,1,,203827,1629477,1611661313,22,31,2
+04:01,[NYL] Allen Foul: Personal (2 PF),-26,274,6,1628279,204296,,1611661313,22,31,2
+04:01,[NYL] Allen Substitution replaced by Johannes,0,-80,8,,204296,1629546,1611661313,22,31,2
+03:54,[LAS] Brown 3pt Shot: Missed,140,279,2,,1628882,,1611661320,22,31,2
+03:52,[NYL] Team Rebound,140,279,4,,0,,1611661313,22,31,2
+03:52,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,31,2
+03:44,[LAS] Brown Foul: Personal (1 PF),-78,264,6,1629477,1628882,,1611661320,22,31,2
+03:44,[LAS] Brown Substitution replaced by Canada,0,-80,8,,1628882,1628886,1611661320,22,31,2
+03:34,[NYL] Dolson Reverse Layup Shot: Missed,-37,15,2,,203828,,1611661313,22,31,2
+03:32,[NYL] Dolson Rebound (Off:2 Def:2),-37,15,4,,203828,,1611661313,22,31,2
+03:28,[NYL] Team Turnover : Shot Clock Turnover,-104,26,5,,0,,1611661313,22,31,2
+03:07,[LAS 33-22] Sykes Driving Layup Shot: Made (10 PTS) Assist: N Ogwumike (1 AST),-5,5,1,,1628279,203014,1611661320,22,33,2
+02:54,[NYL] Howard Driving Floating Jump Shot: Missed,28,54,2,,203827,,1611661313,22,33,2
+02:53,[LAS] Samuelson Rebound (Off:0 Def:3),28,54,4,,1629478,,1611661320,22,33,2
+02:45,[LAS 35-22] N Ogwumike Cutting Layup Shot: Made (9 PTS) Assist: Canada (4 AST),33,4,1,,203014,1628886,1611661320,22,35,2
+02:38,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,22,35,2
+02:38,[NYL] Dolson Substitution replaced by Onyenwere,0,-80,8,,203828,1630446,1611661313,22,35,2
+02:29,[LAS] Smith Foul: Personal (1 PF),63,8,6,203827,1631147,,1611661320,22,35,2
+02:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,35,2
+02:15,[NYL] Ionescu 3pt Shot: Missed,216,51,2,,1629477,,1611661313,22,35,2
+02:13,[NYL] Ionescu Rebound (Off:2 Def:1),216,51,4,,1629477,,1611661313,22,35,2
+02:11,[NYL] Ionescu Pullup Jump shot: Missed,-10,145,2,,1629477,,1611661313,22,35,2
+02:09,[LAS] Samuelson Rebound (Off:0 Def:4),-10,145,4,,1629478,,1611661320,22,35,2
+01:48,[LAS] Smith Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),22,213,5,203827,1631147,,1611661320,22,35,2
+01:45,[NYL 25-35] Johannes 3pt Shot: Made (3 PTS) Assist: Dangerfield (1 AST),203,131,1,,1629546,1630101,1611661313,25,35,2
+01:36,[LAS] Sykes Turnover : Out of Bounds - Bad Pass Turnover (3 TO),126,318,5,,1628279,,1611661320,25,35,2
+01:19,[NYL 28-35] Johannes 3pt Shot: Made (6 PTS) Assist: Onyenwere (1 AST),134,195,1,,1629546,1630446,1611661313,28,35,2
+01:16,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,28,35,2
+00:55.4,[LAS 37-28] N Ogwumike Turnaround Jump Shot: Made (11 PTS) Assist: Canada (5 AST),-113,15,1,,203014,1628886,1611661320,28,37,2
+00:41.2,[NYL] Howard Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-44,172,5,,203827,,1611661313,28,37,2
+00:33.2,[LAS] Sykes Foul: Offensive (3 PF),-145,196,6,1629546,1628279,,1611661320,28,37,2
+00:33.2,[LAS] Sykes Turnover : Offensive Foul Turnover (4 TO),-145,196,5,,1628279,,1611661320,28,37,2
+00:19.7,[NYL] Onyenwere Turnover : Bad Pass (1 TO) Steal:Sykes (1 ST),-90,39,5,1628279,1630446,,1611661313,28,37,2
+00:02.4,[NYL] Johannes Foul: Shooting (1 PF) (2 FTA),-35,-7,6,1628886,1629546,,1611661313,28,37,2
+00:02.4,[LAS 38-28] Canada Free Throw 1 of 2 (3 PTS),0,-80,3,,1628886,,1611661320,28,38,2
+00:02.4,[LAS] Sykes Substitution replaced by Brown,0,-80,8,,1628279,1628882,1611661320,28,38,2
+00:02.4,[LAS 39-28] Canada Free Throw 2 of 2 (4 PTS),0,-80,3,,1628886,,1611661320,28,39,2
+00:00.0,End Period,0,-80,13,,0,,0,28,39,2
+10:00,Start Period,0,-80,12,,0,,0,28,39,3
+09:36,[NYL] Dolson Driving Hook Shot: Missed,66,113,2,,203828,,1611661313,28,39,3
+09:33,[LAS] Nelson-Ododa Rebound (Off:3 Def:3),66,113,4,,1631135,,1611661320,28,39,3
+09:18,[LAS 41-28] Samuelson Driving Finger Roll Layup Shot: Made (2 PTS),-3,19,1,,1629478,,1611661320,28,41,3
+08:52,[NYL 30-41] Ionescu Driving Layup Shot: Made (6 PTS),-35,15,1,,1629477,,1611661313,30,41,3
+08:43,[LAS] Sykes Turnover : Step Out of Bounds Turnover (5 TO),97,6,5,,1628279,,1611661320,30,41,3
+08:25,[NYL] Dangerfield Turnover : Bad Pass (1 TO) Steal:Samuelson (2 ST),65,3,5,1629478,1630101,,1611661313,30,41,3
+08:16,[LAS 44-30] N Ogwumike 3pt Shot: Made (14 PTS) Assist: Canada (6 AST),-22,247,1,,203014,1628886,1611661320,30,44,3
+07:57,[LAS] Nelson-Ododa Foul: Shooting (1 PF) (2 FTA),57,3,6,203828,1631135,,1611661320,30,44,3
+07:57,[NYL 31-44] Dolson Free Throw 1 of 2 (3 PTS),0,-80,3,,203828,,1611661313,31,44,3
+07:57,[NYL 32-44] Dolson Free Throw 2 of 2 (4 PTS),0,-80,3,,203828,,1611661313,32,44,3
+07:45,[LAS] Canada Turnover : Out of Bounds - Bad Pass Turnover (2 TO),129,183,5,,1628886,,1611661320,32,44,3
+07:33,[NYL] Allen Pullup Jump shot: Missed,-67,170,2,,204296,,1611661313,32,44,3
+07:26,[LAS] Team Rebound,-67,170,4,,0,,1611661320,32,44,3
+07:26,Jump Ball Canada vs Allen (Sykes gains possession),0,-80,10,204296,1628886,1628279,1611661320,32,44,3
+07:22,[LAS 46-32] Sykes Running Finger Roll Layup Shot: Made (12 PTS),2,26,1,,1628279,,1611661320,32,46,3
+06:58,[NYL] Howard 3pt Shot: Missed,-85,239,2,,203827,,1611661313,32,46,3
+06:56,[NYL] Dolson Rebound (Off:3 Def:2),-85,239,4,,203828,,1611661313,32,46,3
+06:53,[NYL] Ionescu 3pt Shot: Missed,229,36,2,,1629477,,1611661313,32,46,3
+06:51,[NYL] Dolson Rebound (Off:4 Def:2),229,36,4,,203828,,1611661313,32,46,3
+06:48,[NYL] Dolson Layup Shot: Missed,-11,17,2,,203828,,1611661313,32,46,3
+06:46,[LAS] N Ogwumike Rebound (Off:0 Def:4),-11,17,4,,203014,,1611661320,32,46,3
+06:28,[LAS 48-32] N Ogwumike Floating Jump shot: Made (16 PTS) Assist: Samuelson (4 AST),-67,53,1,,203014,1629478,1611661320,32,48,3
+06:16,[LAS] Canada Foul: Personal (1 PF),-130,280,6,1629477,1628886,,1611661320,32,48,3
+06:16,[NYL] Allen Substitution replaced by Xu,0,-80,8,,204296,1629566,1611661313,32,48,3
+06:16,[NYL] Dolson Substitution replaced by Johannes,0,-80,8,,203828,1629546,1611661313,32,48,3
+06:09,[NYL] Ionescu Jump Shot: Missed,104,132,2,,1629477,,1611661313,32,48,3
+06:06,[LAS] Sykes Rebound (Off:0 Def:4),104,132,4,,1628279,,1611661320,32,48,3
+06:00,[LAS] Sykes Pullup Jump shot: Missed,111,136,2,,1628279,,1611661320,32,48,3
+05:57,[NYL] Howard Rebound (Off:1 Def:3),111,136,4,,203827,,1611661313,32,48,3
+05:49,[NYL] Dangerfield 3pt Shot: Missed,156,203,2,,1630101,,1611661313,32,48,3
+05:46,[NYL] Howard Rebound (Off:2 Def:3),156,203,4,,203827,,1611661313,32,48,3
+05:41,[NYL 35-48] Ionescu 3pt Shot: Made (9 PTS) Assist: Dangerfield (2 AST),-73,237,1,,1629477,1630101,1611661313,35,48,3
+05:23,[NYL] Howard Foul: Shooting (1 PF) (2 FTA),-50,22,6,1629478,203827,,1611661313,35,48,3
+05:23,[LAS 49-35] Samuelson Free Throw 1 of 2 (3 PTS),0,-80,3,,1629478,,1611661320,35,49,3
+05:23,[LAS 50-35] Samuelson Free Throw 2 of 2 (4 PTS),0,-80,3,,1629478,,1611661320,35,50,3
+05:10,[NYL] Xu Layup Shot: Missed,44,16,2,1631135,1629566,,1611661313,35,50,3
+05:09,[NYL] Team Rebound,44,16,4,,0,,1611661313,35,50,3
+05:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,50,3
+05:07,[NYL] Xu Jump Shot: Missed,163,20,2,,1629566,,1611661313,35,50,3
+05:04,[LAS] Sykes Rebound (Off:0 Def:5),163,20,4,,1628279,,1611661320,35,50,3
+05:02,[LAS] Sykes Turnover : Step Out of Bounds Turnover (6 TO),200,567,5,,1628279,,1611661320,35,50,3
+04:57,[NYL] Johannes 3pt Shot: Missed,163,207,2,,1629546,,1611661313,35,50,3
+04:55,[LAS] N Ogwumike Rebound (Off:0 Def:5),163,207,4,,203014,,1611661320,35,50,3
+04:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,50,3
+04:37,Timeout Officials,0,-80,9,,0,,0,35,50,3
+04:34,[LAS] N Ogwumike Turnaround Hook Shot: Missed,-46,22,2,,203014,,1611661320,35,50,3
+04:31,[NYL] Ionescu Rebound (Off:2 Def:2),-46,22,4,,1629477,,1611661313,35,50,3
+04:15,[NYL 37-50] Howard Turnaround Jump Shot: Made (9 PTS) Assist: Xu (1 AST),-53,51,1,,203827,1629566,1611661313,37,50,3
+04:01,[NYL] Ionescu Violation:Kicked Ball,0,-80,7,,1629477,,1611661313,37,50,3
+03:56,[LAS] Sykes Pullup Jump shot: Missed,51,125,2,,1628279,,1611661320,37,50,3
+03:53,[NYL] Dangerfield Rebound (Off:0 Def:1),51,125,4,,1630101,,1611661313,37,50,3
+03:44,[NYL] Howard Turnover : 3 Second Violation (3 TO),-65,17,5,,203827,,1611661313,37,50,3
+03:44,[NYL] Dangerfield Substitution replaced by Whitcomb,0,-80,8,,1630101,1628244,1611661313,37,50,3
+03:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,50,3
+03:22,[LAS] Sykes Driving Floating Jump Shot: Missed,-104,47,2,,1628279,,1611661320,37,50,3
+03:18,[NYL] Ionescu Rebound (Off:2 Def:3),-104,47,4,,1629477,,1611661313,37,50,3
+03:05,[NYL 39-50] Xu Layup Shot: Made (2 PTS) Assist: Ionescu (5 AST),32,5,1,,1629566,1629477,1611661313,39,50,3
+02:49,[LAS] Sykes Turnover : Bad Pass (7 TO) Steal:Whitcomb (1 ST),-56,39,5,1628244,1628279,,1611661320,39,50,3
+02:44,[NYL 41-50] Johannes Running Layup Shot: Made (8 PTS) Assist: Ionescu (6 AST),-17,17,1,,1629546,1629477,1611661313,41,50,3
+02:43,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,41,50,3
+02:43,[LAS] Sykes Substitution replaced by Smith,0,-80,8,,1628279,1631147,1611661320,41,50,3
+02:26,[LAS] Smith Driving Floating Jump Shot: Missed,28,92,2,,1631147,,1611661320,41,50,3
+02:24,[NYL] Johannes Rebound (Off:0 Def:1),28,92,4,,1629546,,1611661313,41,50,3
+02:23,[NYL] Howard Foul: Offensive (2 PF),54,538,6,1631147,203827,,1611661313,41,50,3
+02:23,[NYL] Howard Turnover : Offensive Foul Turnover (4 TO),54,538,5,,203827,,1611661313,41,50,3
+02:23,[LAS] N Ogwumike Substitution replaced by Walker,0,-80,8,,203014,1630444,1611661320,41,50,3
+02:09,[LAS] Samuelson 3pt Shot: Missed,127,210,2,,1629478,,1611661320,41,50,3
+02:08,[NYL] Team Rebound,127,210,4,,0,,1611661313,41,50,3
+02:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,50,3
+01:52,[NYL] Johannes 3pt Shot: Missed,-219,-8,2,,1629546,,1611661313,41,50,3
+01:48,[LAS] Walker Rebound (Off:1 Def:3),-219,-8,4,,1630444,,1611661320,41,50,3
+01:42,[LAS] Walker 3pt Shot: Missed,-83,252,2,,1630444,,1611661320,41,50,3
+01:38,[NYL] Whitcomb Rebound (Off:0 Def:4),-83,252,4,,1628244,,1611661313,41,50,3
+01:27,[NYL] Xu Layup Shot: Missed,74,-32,2,1631135,1629566,,1611661313,41,50,3
+01:25,[LAS] Nelson-Ododa Rebound (Off:3 Def:4),74,-32,4,,1631135,,1611661320,41,50,3
+01:09,[LAS] Smith 3pt Shot: Missed,-232,-4,2,,1631147,,1611661320,41,50,3
+01:05,[NYL] Ionescu Rebound (Off:2 Def:4),-232,-4,4,,1629477,,1611661313,41,50,3
+00:52.5,[NYL] Whitcomb 3pt Shot: Missed,104,261,2,,1628244,,1611661313,41,50,3
+00:51.6,[NYL] Team Rebound,104,261,4,,0,,1611661313,41,50,3
+00:51.6,[LAS] Smith Foul: Loose Ball (2 PF),81,213,6,203827,1631147,,1611661320,41,50,3
+00:51.6,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,41,50,3
+00:48.2,[LAS] Walker Foul: Shooting (2 PF) (2 FTA),-4,17,6,1629566,1630444,,1611661320,41,50,3
+00:48.2,[NYL 42-50] Xu Free Throw 1 of 2 (3 PTS),0,-80,3,,1629566,,1611661313,42,50,3
+00:48.2,[NYL] Ionescu Substitution replaced by Dangerfield,0,-80,8,,1629477,1630101,1611661313,42,50,3
+00:48.2,[NYL 43-50] Xu Free Throw 2 of 2 (4 PTS),0,-80,3,,1629566,,1611661313,43,50,3
+00:40.8,[LAS] Canada Driving Layup Shot: Missed,27,24,2,,1628886,,1611661320,43,50,3
+00:37.0,[NYL] Johannes Rebound (Off:0 Def:2),27,24,4,,1629546,,1611661313,43,50,3
+00:29.7,[NYL 45-50] Xu Layup Shot: Made (6 PTS) Assist: Johannes (1 AST),-7,14,1,,1629566,1629546,1611661313,45,50,3
+00:09.2,[LAS] Canada Pullup Jump shot: Missed,116,135,2,,1628886,,1611661320,45,50,3
+00:05.4,[NYL] Onyenwere Rebound (Off:0 Def:1),116,135,4,,1630446,,1611661313,45,50,3
+00:01.7,[NYL] Whitcomb 3pt Shot: Missed,-139,360,2,,1628244,,1611661313,45,50,3
+00:00.1,[NYL] Team Rebound,-139,360,4,,0,,1611661313,45,50,3
+00:00.0,End Period,0,-80,13,,0,,0,45,50,3
+10:00,Start Period,0,-80,12,,0,,0,45,50,4
+09:47,[LAS] Walker Turnover : Bad Pass (1 TO) Steal:Xu (1 ST),-4,243,5,1629566,1630444,,1611661320,45,50,4
+09:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,50,4
+09:29,[NYL 47-50] Dangerfield Driving Layup Shot: Made (9 PTS),-16,3,1,,1630101,,1611661313,47,50,4
+09:07,[LAS] Walker Driving Layup Shot: Missed,-17,23,2,,1630444,,1611661320,47,50,4
+09:04,[NYL] Dangerfield Rebound (Off:0 Def:2),-17,23,4,,1630101,,1611661313,47,50,4
+08:52,[NYL] Xu Layup Shot: Missed,-11,15,2,,1629566,,1611661313,47,50,4
+08:49,[NYL] Xu Rebound (Off:1 Def:0),-11,15,4,,1629566,,1611661313,47,50,4
+08:47,[NYL] Whitcomb 3pt Shot: Missed,179,167,2,,1628244,,1611661313,47,50,4
+08:46,[LAS] Team Rebound,179,167,4,,0,,1611661320,47,50,4
+08:46,[NYL] Onyenwere Foul: Loose Ball (1 PF),-43,818,6,203014,1630446,,1611661313,47,50,4
+08:35,[LAS 52-47] N Ogwumike Driving Layup Shot: Made (18 PTS) Assist: Canada (7 AST),17,13,1,,203014,1628886,1611661320,47,52,4
+08:35,[NYL] Onyenwere Foul: Shooting (2 PF) (1 FTA),17,13,6,203014,1630446,,1611661313,47,52,4
+08:35,[LAS 53-47] N Ogwumike Free Throw 1 of 1 (19 PTS),0,-80,3,,203014,,1611661320,47,53,4
+08:22,[NYL] Dangerfield 3pt Shot: Missed,224,25,2,,1630101,,1611661313,47,53,4
+08:19,[LAS] N Ogwumike Rebound (Off:0 Def:6),224,25,4,,203014,,1611661320,47,53,4
+08:19,[NYL] Johannes Foul: Personal (2 PF),-18,770,6,203014,1629546,,1611661313,47,53,4
+08:04,[LAS 55-47] Canada Driving Layup Shot: Made (6 PTS) Assist: N Ogwumike (2 AST),26,7,1,,1628886,203014,1611661320,47,55,4
+08:01,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,47,55,4
+08:01,[NYL] Xu Substitution replaced by Howard,0,-80,8,,1629566,203827,1611661313,47,55,4
+08:01,[LAS] Smith Substitution replaced by Samuelson,0,-80,8,,1631147,1629478,1611661320,47,55,4
+08:01,[LAS] Walker Substitution replaced by Nelson-Ododa,0,-80,8,,1630444,1631135,1611661320,47,55,4
+07:51,[LAS] Nelson-Ododa Foul: Shooting (2 PF) (2 FTA),-18,24,6,203827,1631135,,1611661320,47,55,4
+07:51,[NYL] Howard Free Throw 1 of 2 Missed,0,-80,3,,203827,,1611661313,47,55,4
+07:51,[NYL] Team Rebound,0,-80,4,,0,,1611661313,47,55,4
+07:51,[NYL 48-55] Howard Free Throw 2 of 2 (10 PTS),0,-80,3,,203827,,1611661313,48,55,4
+07:35,[LAS] Nelson-Ododa Foul: Offensive (3 PF),-34,76,6,203827,1631135,,1611661320,48,55,4
+07:35,[LAS] Nelson-Ododa Turnover : Offensive Foul Turnover (2 TO),-34,76,5,,1631135,,1611661320,48,55,4
+07:21,[NYL] Whitcomb 3pt Shot: Missed,-52,255,2,,1628244,,1611661313,48,55,4
+07:17,[LAS] Nelson-Ododa Rebound (Off:3 Def:5),-52,255,4,,1631135,,1611661320,48,55,4
+07:02,[LAS] Sykes Turnover : Bad Pass (8 TO) Steal:Dangerfield (2 ST),3,302,5,1630101,1628279,,1611661320,48,55,4
+06:56,[NYL] Dangerfield Running Layup Shot: Missed,-29,44,2,,1630101,,1611661313,48,55,4
+06:54,[LAS] Canada Rebound (Off:0 Def:2),-29,44,4,,1628886,,1611661320,48,55,4
+06:31,[LAS] Samuelson Pullup Jump shot: Missed,-93,185,2,,1629478,,1611661320,48,55,4
+06:28,[NYL] Howard Rebound (Off:2 Def:4),-93,185,4,,203827,,1611661313,48,55,4
+06:22,[NYL] Dangerfield Pullup Jump shot: Missed,73,144,2,,1630101,,1611661313,48,55,4
+06:21,[LAS] Team Rebound,73,144,4,,0,,1611661320,48,55,4
+06:21,[NYL] Onyenwere Foul: Loose Ball (3 PF),-73,692,6,1629478,1630446,,1611661313,48,55,4
+06:21,[NYL] Whitcomb Substitution replaced by Dolson,0,-80,8,,1628244,203828,1611661313,48,55,4
+06:21,[NYL] Onyenwere Substitution replaced by Ionescu,0,-80,8,,1630446,1629477,1611661313,48,55,4
+06:11,[LAS] Canada Driving Layup Shot: Missed,-35,27,2,203828,1628886,,1611661320,48,55,4
+06:10,[NYL] Johannes Rebound (Off:0 Def:3),-35,27,4,,1629546,,1611661313,48,55,4
+06:10,[LAS] Sykes Foul: Personal (4 PF),204,446,6,1629546,1628279,,1611661320,48,55,4
+06:03,[LAS] Canada Foul: Personal (2 PF),-74,65,6,1630101,1628886,,1611661320,48,55,4
+05:54,[NYL 51-55] Dolson 3pt Shot: Made (7 PTS) Assist: Howard (2 AST),115,223,1,,203828,203827,1611661313,51,55,4
+05:30,[LAS] Nelson-Ododa Layup Shot: Missed,18,15,2,,1631135,,1611661320,51,55,4
+05:27,[NYL] Dolson Rebound (Off:4 Def:3),18,15,4,,203828,,1611661313,51,55,4
+05:21,[NYL] Ionescu Pullup Jump shot: Missed,-24,186,2,,1629477,,1611661313,51,55,4
+05:18,[LAS] Nelson-Ododa Rebound (Off:3 Def:6),-24,186,4,,1631135,,1611661320,51,55,4
+05:00,[LAS] Canada Turnover : Bad Pass (3 TO) Steal:Howard (2 ST),66,51,5,203827,1628886,,1611661320,51,55,4
+04:54,[NYL] Dangerfield Running Layup Shot: Missed,-17,14,2,,1630101,,1611661313,51,55,4
+04:53,[NYL] Johannes Rebound (Off:1 Def:3),-17,14,4,,1629546,,1611661313,51,55,4
+04:49,[NYL 54-55] Ionescu 3pt Shot: Made (12 PTS) Assist: Johannes (2 AST),-172,177,1,,1629477,1629546,1611661313,54,55,4
+04:49,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,54,55,4
+04:26,[LAS 57-54] Nelson-Ododa Layup Shot: Made (8 PTS) Assist: Canada (8 AST),16,7,1,,1631135,1628886,1611661320,54,57,4
+04:01,[NYL] Johannes 3pt Shot: Missed,134,284,2,,1629546,,1611661313,54,57,4
+03:56,[LAS] Nelson-Ododa Rebound (Off:3 Def:7),134,284,4,,1631135,,1611661320,54,57,4
+03:35,[LAS 59-54] Canada Pullup Jump shot: Made (8 PTS),17,113,1,,1628886,,1611661320,54,59,4
+03:20,[NYL 56-59] Howard Cutting Layup Shot: Made (12 PTS) Assist: Johannes (3 AST),32,10,1,,203827,1629546,1611661313,56,59,4
+03:04,[LAS] Sykes 3pt Shot: Missed,-223,19,2,,1628279,,1611661320,56,59,4
+03:02,[NYL] Ionescu Rebound (Off:2 Def:5),-223,19,4,,1629477,,1611661313,56,59,4
+02:57,[NYL] Dangerfield Running Layup Shot: Missed,21,14,2,,1630101,,1611661313,56,59,4
+02:55,[LAS] Samuelson Rebound (Off:0 Def:5),21,14,4,,1629478,,1611661320,56,59,4
+02:31,[LAS] Canada 3pt Shot: Missed,202,113,2,,1628886,,1611661320,56,59,4
+02:29,[NYL] Ionescu Rebound (Off:2 Def:6),202,113,4,,1629477,,1611661313,56,59,4
+02:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,59,4
+02:18,[NYL 58-59] Ionescu Running Reverse Layup Shot: Made (14 PTS) Assist: Howard (3 AST),-15,16,1,,1629477,203827,1611661313,58,59,4
+02:18,[LAS] Nelson-Ododa Foul: Shooting (4 PF) (1 FTA),-15,16,6,1629477,1631135,,1611661320,58,59,4
+02:18,[NYL] Ionescu Free Throw 1 of 1 Missed,0,-80,3,,1629477,,1611661313,58,59,4
+02:15,[LAS] N Ogwumike Rebound (Off:0 Def:7),0,-80,4,,203014,,1611661320,58,59,4
+01:59,[LAS] Canada Driving Layup Shot: Missed,-33,19,2,,1628886,,1611661320,58,59,4
+01:56,[NYL] Howard Rebound (Off:2 Def:5),-33,19,4,,203827,,1611661313,58,59,4
+01:46,[NYL] Ionescu Driving Layup Shot: Missed,-43,9,2,,1629477,,1611661313,58,59,4
+01:45,[NYL] Team Rebound,-43,9,4,,0,,1611661313,58,59,4
+01:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,59,4
+01:45,Instant Replay - Support Ruling,0,-80,18,,0,,0,58,59,4
+01:34,[NYL] Team Turnover : Shot Clock Turnover,127,205,5,,0,,1611661313,58,59,4
+01:19,[LAS] Nelson-Ododa Turnover : Bad Pass (3 TO) Steal:Ionescu (2 ST),-127,187,5,1629477,1631135,,1611661320,58,59,4
+01:17,[LAS] Sykes Foul: Personal (5 PF) (2 FTA),-66,448,6,1629477,1628279,,1611661320,58,59,4
+01:17,[NYL 59-59] Ionescu Free Throw 1 of 2 (15 PTS),0,-80,3,,1629477,,1611661313,59,59,4
+01:17,[NYL 60-59] Ionescu Free Throw 2 of 2 (16 PTS),0,-80,3,,1629477,,1611661313,60,59,4
+01:00,[LAS] Samuelson 3pt Shot: Missed,-201,166,2,,1629478,,1611661320,60,59,4
+00:57.2,[NYL] Dolson Rebound (Off:4 Def:4),-201,166,4,,203828,,1611661313,60,59,4
+00:50.9,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,60,59,4
+00:36.3,[NYL] Ionescu Driving Layup Shot: Missed,38,3,2,1631135,1629477,,1611661313,60,59,4
+00:36.2,[NYL] Team Rebound,38,3,4,,0,,1611661313,60,59,4
+00:36.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,60,59,4
+00:36.2,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,60,59,4
+00:34.6,[LAS] N Ogwumike Foul: Shooting (3 PF) (3 FTA),188,171,6,1629477,203014,,1611661320,60,59,4
+00:34.6,InstantReplay Request Stands,0,-80,18,,0,,0,60,59,4
+00:34.6,[NYL] Ionescu Free Throw 1 of 3 Missed,0,-80,3,,1629477,,1611661313,60,59,4
+00:34.6,[NYL] Team Rebound,0,-80,4,,0,,1611661313,60,59,4
+00:34.6,[NYL 61-59] Ionescu Free Throw 2 of 3 (17 PTS),0,-80,3,,1629477,,1611661313,61,59,4
+00:34.6,[NYL 62-59] Ionescu Free Throw 3 of 3 (18 PTS),0,-80,3,,1629477,,1611661313,62,59,4
+00:34.1,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,62,59,4
+00:29.6,[NYL] Dangerfield Foul: Shooting (1 PF) (2 FTA),-13,19,6,1628886,1630101,,1611661313,62,59,4
+00:29.6,[LAS 60-62] Canada Free Throw 1 of 2 (9 PTS),0,-80,3,,1628886,,1611661320,62,60,4
+00:29.6,[LAS 61-62] Canada Free Throw 2 of 2 (10 PTS),0,-80,3,,1628886,,1611661320,62,61,4
+00:29.6,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,62,61,4
+00:06.9,[NYL 64-61] Ionescu Pullup Jump shot: Made (20 PTS),-5,100,1,,1629477,,1611661313,64,61,4
+00:06.9,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,64,61,4
+00:06.9,[LAS] Sykes Substitution replaced by Brown,0,-80,8,,1628279,1628882,1611661320,64,61,4
+00:03.4,[LAS] Brown 3pt Shot: Missed,-190,190,2,,1628882,,1611661320,64,61,4
+00:00.9,[NYL] Team Rebound,-190,190,4,,0,,1611661313,64,61,4
+00:00.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,61,4
+00:00.0,End Period,0,-80,13,,0,,0,64,61,4
+00:00.0,Game End,0,-80,0,,0,,0,64,61,4

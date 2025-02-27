@@ -1,0 +1,408 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:53,Jump Ball Williams vs Cambage (Parker gains possession),0,-80,10,202633,204322,204323,1611661330,0,0,1
+09:45,[ATL 2-0] Carter Driving Layup Shot: Made (2 PTS),36,8,1,,1630150,,1611661330,0,2,1
+09:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,2,1
+09:28,[LVA 2-2] Young Layup Shot: Made (2 PTS) Assist: Gray (1 AST),24,11,1,,1629498,203833,1611661319,2,2,1
+09:28,[ATL] Carter Foul: Shooting (1 PF) (1 FTA),30,-10,6,1629498,1630150,,1611661330,2,2,1
+09:28,[LVA 3-2] Young Free Throw 1 of 1 (3 PTS),0,-80,3,,1629498,,1611661319,3,2,1
+09:13,[ATL 4-3] Williams Jump Shot: Made (2 PTS) Assist: Bradford (1 AST),-215,12,1,,1627675,204325,1611661330,3,4,1
+09:00,[LVA 5-4] Gray Pullup Jump shot: Made (2 PTS),-9,102,1,,203833,,1611661319,5,4,1
+08:46,[ATL 6-5] Parker Jump Shot: Made (2 PTS) Assist: Carter (1 AST),159,33,1,,204323,1630150,1611661330,5,6,1
+08:28,[LVA] Cambage Jump Shot: Missed,-7,86,2,,202633,,1611661319,5,6,1
+08:26,[ATL] Williams Rebound (Off:0 Def:1),-7,86,4,,1627675,,1611661330,5,6,1
+08:22,[ATL] Williams 3pt Shot: Missed,83,235,2,,1627675,,1611661330,5,6,1
+08:19,[LVA] Cambage Rebound (Off:0 Def:1),83,235,4,,202633,,1611661319,5,6,1
+08:08,[LVA] Wilson Jump Shot: Missed,113,21,2,,1628932,,1611661319,5,6,1
+08:08,[ATL] Bradford Rebound (Off:0 Def:1),113,21,4,,204325,,1611661330,5,6,1
+08:01,[ATL] Bradford Pullup Jump shot: Missed,-123,135,2,,204325,,1611661330,5,6,1
+08:01,[LVA] Gray Rebound (Off:0 Def:1),-123,135,4,,203833,,1611661319,5,6,1
+07:47,[LVA 7-6] Williams Jump Shot: Made (2 PTS),-85,183,1,,203029,,1611661319,7,6,1
+07:33,[ATL 8-7] Williams Layup Shot: Made (2 PTS) Assist: Carter (2 AST),8,38,1,,204322,1630150,1611661330,7,8,1
+07:22,[LVA] Williams Turnover : Bad Pass (1 TO) Steal:Parker (1 ST),-57,86,5,204323,203029,,1611661319,7,8,1
+07:19,[ATL 10-7] Williams Running Layup Shot: Made (4 PTS),13,21,1,,1627675,,1611661330,7,10,1
+06:55,[LVA] Gray Pullup Jump shot: Missed,90,95,2,,203833,,1611661319,7,10,1
+06:53,[ATL] Parker Rebound (Off:0 Def:1),90,95,4,,204323,,1611661330,7,10,1
+06:47,[ATL] Carter 3pt Shot: Missed,-148,190,2,,1630150,,1611661330,7,10,1
+06:44,[LVA] Cambage Rebound (Off:0 Def:2),-148,190,4,,202633,,1611661319,7,10,1
+06:39,[LVA 9-10] Wilson Driving Layup Shot: Made (2 PTS) Assist: Gray (2 AST),-35,11,1,,1628932,203833,1611661319,9,10,1
+06:17,[ATL] Williams Jump Shot: Missed,-140,102,2,,1627675,,1611661330,9,10,1
+06:15,[LVA] Cambage Rebound (Off:0 Def:3),-140,102,4,,202633,,1611661319,9,10,1
+06:10,[ATL] Carter Foul: Shooting (2 PF) (2 FTA),45,28,6,203833,1630150,,1611661330,9,10,1
+06:10,[LVA 10-10] Gray Free Throw 1 of 2 (3 PTS),0,-80,3,,203833,,1611661319,10,10,1
+06:10,[ATL] Carter Substitution replaced by Sims,0,-80,8,,1630150,203824,1611661330,10,10,1
+06:10,[LVA 11-10] Gray Free Throw 2 of 2 (4 PTS),0,-80,3,,203833,,1611661319,11,10,1
+05:55,[ATL] Sims Pullup Jump shot: Missed,9,209,2,,203824,,1611661330,11,10,1
+05:54,[LVA] Team Rebound,9,209,4,,0,,1611661319,11,10,1
+05:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,10,1
+05:37,[LVA 13-10] Cambage Jump Shot: Made (2 PTS) Assist: Young (1 AST),119,51,1,,202633,1629498,1611661319,13,10,1
+05:19,[ATL 13-13] Parker 3pt Shot: Made (5 PTS) Assist: Sims (1 AST),-135,203,1,,204323,203824,1611661330,13,13,1
+05:14,[LVA] Cambage Layup Shot: Missed,-11,52,2,,202633,,1611661319,13,13,1
+05:13,[LVA] Cambage Rebound (Off:1 Def:3),-11,52,4,,202633,,1611661319,13,13,1
+05:12,[LVA] Cambage Layup Shot: Missed,13,24,2,,202633,,1611661319,13,13,1
+05:10,[ATL] Parker Rebound (Off:0 Def:2),13,24,4,,204323,,1611661330,13,13,1
+05:09,[ATL] Parker Layup Shot: Missed,-52,2,2,,204323,,1611661330,13,13,1
+05:08,[ATL] Parker Rebound (Off:1 Def:2),-47,798,4,,204323,,1611661330,13,13,1
+05:07,[ATL] Parker Layup Shot: Missed,3,38,2,,204323,,1611661330,13,13,1
+05:04,[LVA] Gray Rebound (Off:0 Def:2),3,38,4,,203833,,1611661319,13,13,1
+04:45,[LVA 15-13] Cambage Layup Shot: Made (4 PTS) Assist: Gray (3 AST),13,48,1,,202633,203833,1611661319,15,13,1
+04:35,[ATL 15-15] Williams Pullup Jump shot: Made (6 PTS),10,39,1,,1627675,,1611661330,15,15,1
+04:21,[LVA 17-15] Cambage Driving Layup Shot: Made (6 PTS),20,16,1,,202633,,1611661319,17,15,1
+04:16,[LVA] Young Foul: Shooting (1 PF) (2 FTA),7,50,6,204322,1629498,,1611661319,17,15,1
+04:16,Timeout Officials,0,-80,9,,0,,0,17,15,1
+04:16,[LVA] Young Substitution replaced by Plum,0,-80,8,,1629498,1628276,1611661319,17,15,1
+04:16,[LVA] Cambage Substitution replaced by Hamby,0,-80,8,,202633,204324,1611661319,17,15,1
+04:16,[ATL] Parker Substitution replaced by Hawkins,0,-80,8,,204323,203403,1611661330,17,15,1
+04:16,[ATL 16-17] Williams Free Throw 1 of 2 (3 PTS),0,-80,3,,204322,,1611661330,17,16,1
+04:16,[ATL 17-17] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,204322,,1611661330,17,17,1
+04:05,[LVA] Hamby Jump Shot: Missed,-130,0,2,,204324,,1611661319,17,17,1
+04:01,[ATL] Williams Rebound (Off:0 Def:2),-130,0,4,,1627675,,1611661330,17,17,1
+03:45,[ATL 19-17] Williams Layup Shot: Made (6 PTS) Assist: Sims (2 AST),-8,33,1,,204322,203824,1611661330,17,19,1
+03:30,[LVA] Williams 3pt Shot: Missed,221,51,2,,203029,,1611661319,17,19,1
+03:28,[ATL] Hawkins Rebound (Off:0 Def:1),221,51,4,,203403,,1611661330,17,19,1
+03:18,[ATL 22-17] Bradford 3pt Shot: Made (3 PTS) Assist: Sims (3 AST),153,209,1,,204325,203824,1611661330,17,22,1
+03:01,[LVA] Wilson Pullup Jump shot: Missed,-33,119,2,,1628932,,1611661319,17,22,1
+02:58,[ATL] Hawkins Rebound (Off:0 Def:2),-33,119,4,,203403,,1611661330,17,22,1
+02:54,[ATL] Williams Jump Shot: Missed,136,118,2,,1627675,,1611661330,17,22,1
+02:51,[LVA] Hamby Rebound (Off:0 Def:1),136,118,4,,204324,,1611661319,17,22,1
+02:48,[ATL] Williams Foul: Personal (1 PF),-46,64,6,1628932,1627675,,1611661330,17,22,1
+02:48,[ATL] Williams Substitution replaced by Billings,0,-80,8,,204322,1628881,1611661330,17,22,1
+02:44,[ATL] Billings Foul: Shooting (1 PF) (2 FTA),-44,-2,6,1628932,1628881,,1611661330,17,22,1
+02:44,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,17,22,1
+02:44,[LVA] Team Rebound,0,-80,4,,0,,1611661319,17,22,1
+02:44,[ATL] Bradford Substitution replaced by Stricklen,0,-80,8,,204325,203015,1611661330,17,22,1
+02:44,[LVA 18-22] Wilson Free Throw 2 of 2 (3 PTS),0,-80,3,,1628932,,1611661319,18,22,1
+02:36,[ATL 24-18] Stricklen Pullup Jump shot: Made (2 PTS) Assist: Sims (4 AST),147,109,1,,203015,203824,1611661330,18,24,1
+02:24,[LVA] Plum 3pt Shot: Missed,39,246,2,,1628276,,1611661319,18,24,1
+02:20,[ATL] Hawkins Rebound (Off:0 Def:3),39,246,4,,203403,,1611661330,18,24,1
+02:15,[ATL 26-18] Billings Layup Shot: Made (2 PTS) Assist: Sims (5 AST),41,22,1,,1628881,203824,1611661330,18,26,1
+02:15,[LVA] Hamby Foul: Shooting (1 PF) (1 FTA),26,10,6,1628881,204324,,1611661319,18,26,1
+02:15,[LVA] Williams Substitution replaced by Young,0,-80,8,,203029,1629498,1611661319,18,26,1
+02:15,[ATL] Billings Free Throw 1 of 1 Missed,0,-80,3,,1628881,,1611661330,18,26,1
+02:12,[LVA] Hamby Rebound (Off:0 Def:2),0,-80,4,,204324,,1611661319,18,26,1
+02:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,26,1
+02:05,[LVA] Wilson Substitution replaced by Cambage,0,-80,8,,1628932,202633,1611661319,18,26,1
+02:02,[LVA 21-26] Plum 3pt Shot: Made (3 PTS) Assist: Young (2 AST),143,219,1,,1628276,1629498,1611661319,21,26,1
+01:48,[ATL] Hawkins 3pt Shot: Missed,-114,257,2,,203403,,1611661330,21,26,1
+01:46,[LVA] Gray Rebound (Off:0 Def:3),-114,257,4,,203833,,1611661319,21,26,1
+01:44,[LVA] Cambage Foul: Offensive Charge (1 PF),4,42,6,1628881,202633,,1611661319,21,26,1
+01:44,[LVA] Cambage Turnover : Offensive Foul Turnover (1 TO),4,42,5,,202633,,1611661319,21,26,1
+01:44,[ATL] Williams Substitution replaced by Carter,0,-80,8,,1627675,1630150,1611661330,21,26,1
+01:32,[ATL] Sims Floating Jump shot: Missed,2,74,2,,203824,,1611661330,21,26,1
+01:29,[LVA] Cambage Rebound (Off:1 Def:4),2,74,4,,202633,,1611661319,21,26,1
+01:20,[LVA 23-26] Cambage Turnaround Fadeaway Bank Jump Shot: Made (8 PTS) Assist: Gray (4 AST),54,74,1,,202633,203833,1611661319,23,26,1
+01:20,[ATL] Billings Foul: Shooting (2 PF) (1 FTA),35,135,6,202633,1628881,,1611661330,23,26,1
+01:20,[LVA] Gray Substitution replaced by Stokes,0,-80,8,,203833,204329,1611661319,23,26,1
+01:20,[LVA 24-26] Cambage Free Throw 1 of 1 (9 PTS),0,-80,3,,202633,,1611661319,24,26,1
+00:58.5,[ATL] Billings Turnover : Out of Bounds Lost Ball Turnover (1 TO),-79,60,5,,1628881,,1611661330,24,26,1
+00:53.4,[LVA 26-26] Young Layup Shot: Made (5 PTS) Assist: Plum (1 AST),-37,22,1,,1629498,1628276,1611661319,26,26,1
+00:39.6,[ATL 29-26] Hawkins 3pt Shot: Made (3 PTS) Assist: Sims (6 AST),109,236,1,,203403,203824,1611661330,26,29,1
+00:23.2,[LVA] Cambage Turnover : Lost Ball (2 TO) Steal:Billings (1 ST),-59,155,5,1628881,202633,,1611661319,26,29,1
+00:18.3,[LVA] Stokes Foul: Shooting (1 PF) (2 FTA),-28,11,6,203403,204329,,1611661319,26,29,1
+00:18.3,[ATL 30-26] Hawkins Free Throw 1 of 2 (4 PTS),0,-80,3,,203403,,1611661330,26,30,1
+00:18.3,[ATL] Stricklen Substitution replaced by Bradford,0,-80,8,,203015,204325,1611661330,26,30,1
+00:18.3,[ATL] Billings Substitution replaced by Williams,0,-80,8,,1628881,204322,1611661330,26,30,1
+00:18.3,[ATL 31-26] Hawkins Free Throw 2 of 2 (5 PTS),0,-80,3,,203403,,1611661330,26,31,1
+00:00.0,[LVA 29-31] Young 3pt Shot: Made (8 PTS) Assist: Plum (2 AST),-133,208,1,,1629498,1628276,1611661319,29,31,1
+00:00.0,End Period,0,-80,13,,0,,0,29,31,1
+10:00,Start Period,0,-80,12,,0,,0,29,31,2
+09:49,[ATL] Williams Foul: Personal (1 PF),-204,180,6,1628276,204322,,1611661330,29,31,2
+09:39,[LVA] Park Jump Shot: Missed,76,185,2,203403,1628917,,1611661319,29,31,2
+09:36,[LVA] Park Rebound (Off:1 Def:0),76,185,4,,1628917,,1611661319,29,31,2
+09:35,[LVA] Team Turnover : Shot Clock Turnover,-86,187,5,,0,,1611661319,29,31,2
+09:21,[ATL] Bradford Driving Layup Shot: Missed,31,62,2,,204325,,1611661330,29,31,2
+09:18,[LVA] Hamby Rebound (Off:0 Def:3),31,62,4,,204324,,1611661319,29,31,2
+09:15,[LVA 31-31] Plum Pullup Jump shot: Made (5 PTS),-78,138,1,,1628276,,1611661319,31,31,2
+09:06,[ATL 33-31] Sims Floating Jump shot: Made (2 PTS),13,74,1,,203824,,1611661330,31,33,2
+08:52,[ATL] Hawkins Foul: Shooting (1 PF) (2 FTA),-47,99,6,202633,203403,,1611661330,31,33,2
+08:52,[LVA 32-33] Cambage Free Throw 1 of 2 (10 PTS),0,-80,3,,202633,,1611661319,32,33,2
+08:52,[ATL] Williams Substitution replaced by Parker,0,-80,8,,204322,204323,1611661330,32,33,2
+08:52,[LVA 33-33] Cambage Free Throw 2 of 2 (11 PTS),0,-80,3,,202633,,1611661319,33,33,2
+08:42,[ATL] Bradford Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-39,273,5,,204325,,1611661330,33,33,2
+08:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,33,2
+08:35,[LVA] Cambage Layup Shot: Missed,29,41,2,204323,202633,,1611661319,33,33,2
+08:31,[ATL] Parker Rebound (Off:1 Def:3),29,41,4,,204323,,1611661330,33,33,2
+08:23,[LVA] Cambage Foul: Shooting (2 PF) (2 FTA),8,62,6,204323,202633,,1611661319,33,33,2
+08:23,[ATL] Parker Free Throw 1 of 2 Missed,0,-80,3,,204323,,1611661330,33,33,2
+08:23,[ATL] Team Rebound,0,-80,4,,0,,1611661330,33,33,2
+08:23,[LVA] Cambage Substitution replaced by Wilson,0,-80,8,,202633,1628932,1611661319,33,33,2
+08:23,[ATL 34-33] Parker Free Throw 2 of 2 (6 PTS),0,-80,3,,204323,,1611661330,33,34,2
+08:08,[LVA] Young Jump Shot: Missed,-97,36,2,,1629498,,1611661319,33,34,2
+08:06,[LVA] Park Rebound (Off:2 Def:0),-97,36,4,,1628917,,1611661319,33,34,2
+08:04,[LVA 35-34] Hamby Jump Shot: Made (2 PTS) Assist: Young (3 AST),-16,20,1,,204324,1629498,1611661319,35,34,2
+07:49,[ATL] Hawkins 3pt Shot: Missed,233,50,2,,203403,,1611661330,35,34,2
+07:47,[LVA] Young Rebound (Off:0 Def:1),233,50,4,,1629498,,1611661319,35,34,2
+07:38,[ATL] Bradford Foul: Shooting (1 PF) (2 FTA),-28,42,6,1628932,204325,,1611661330,35,34,2
+07:38,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,35,34,2
+07:38,[LVA] Team Rebound,0,-80,4,,0,,1611661319,35,34,2
+07:38,[ATL] Hawkins Substitution replaced by Billings,0,-80,8,,203403,1628881,1611661330,35,34,2
+07:38,[LVA 36-34] Wilson Free Throw 2 of 2 (4 PTS),0,-80,3,,1628932,,1611661319,36,34,2
+07:24,[ATL 36-36] Williams Pullup Jump shot: Made (8 PTS) Assist: Bradford (2 AST),-132,110,1,,1627675,204325,1611661330,36,36,2
+07:14,[LVA 38-36] Wilson Driving Layup Shot: Made (6 PTS) Assist: Hamby (1 AST),-21,25,1,,1628932,204324,1611661319,38,36,2
+07:03,[ATL] Bradford Jump Shot: Missed,-2,189,2,,204325,,1611661330,38,36,2
+07:01,[LVA] Wilson Rebound (Off:0 Def:1),-2,189,4,,1628932,,1611661319,38,36,2
+06:51,[LVA] Plum 3pt Shot: Missed,-231,1,2,,1628276,,1611661319,38,36,2
+06:49,[ATL] Williams Rebound (Off:0 Def:3),-231,1,4,,1627675,,1611661330,38,36,2
+06:44,[ATL] Sims Layup Shot: Missed,22,11,2,,203824,,1611661330,38,36,2
+06:42,[LVA] Wilson Rebound (Off:0 Def:2),22,11,4,,1628932,,1611661319,38,36,2
+06:37,[LVA 40-36] Hamby Layup Shot: Made (4 PTS) Assist: Plum (3 AST),-33,4,1,,204324,1628276,1611661319,40,36,2
+06:18,[ATL 38-40] Williams Pullup Jump shot: Made (10 PTS),-169,61,1,,1627675,,1611661330,40,38,2
+05:58,[LVA] Young Pullup Jump shot: Missed,-126,97,2,,1629498,,1611661319,40,38,2
+05:54,[ATL] Billings Rebound (Off:0 Def:1),-126,97,4,,1628881,,1611661330,40,38,2
+05:46,[ATL 40-40] Parker Reverse Layup Shot: Made (8 PTS) Assist: Sims (7 AST),31,19,1,,204323,203824,1611661330,40,40,2
+05:40,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,40,40,2
+05:40,[LVA] Hamby Substitution replaced by Stokes,0,-80,8,,204324,204329,1611661319,40,40,2
+05:40,[LVA] Park Substitution replaced by Gray,0,-80,8,,1628917,203833,1611661319,40,40,2
+05:30,[LVA] Plum 3pt Shot: Missed,130,246,2,,1628276,,1611661319,40,40,2
+05:27,[LVA] Wilson Rebound (Off:1 Def:2),130,246,4,,1628932,,1611661319,40,40,2
+05:15,[LVA] Young Pullup Jump shot: Missed,-117,92,2,,1629498,,1611661319,40,40,2
+05:12,[ATL] Bradford Rebound (Off:0 Def:2),-117,92,4,,204325,,1611661330,40,40,2
+04:59,[ATL] Bradford Turnover : Bad Pass (2 TO) Steal:Young (1 ST),133,64,5,1629498,204325,,1611661330,40,40,2
+04:47,[LVA 42-40] Plum Layup Shot: Made (7 PTS) Assist: Young (4 AST),-31,36,1,,1628276,1629498,1611661319,42,40,2
+04:20,[ATL 42-42] Parker Layup Shot: Made (10 PTS) Assist: Williams (1 AST),-18,29,1,,204323,1627675,1611661330,42,42,2
+04:07,[LVA 44-42] Wilson Jump Shot: Made (8 PTS),40,36,1,,1628932,,1611661319,44,42,2
+03:56,[ATL] Sims Layup Shot: Missed,-25,38,2,,203824,,1611661330,44,42,2
+03:56,[ATL] Billings Rebound (Off:1 Def:1),-25,38,4,,1628881,,1611661330,44,42,2
+03:56,[ATL 44-44] Billings Layup Shot: Made (4 PTS),32,28,1,,1628881,,1611661330,44,44,2
+03:56,[LVA] Wilson Foul: Shooting (1 PF) (1 FTA),25,28,6,1628881,1628932,,1611661319,44,44,2
+03:56,[ATL] Billings Free Throw 1 of 1 Missed,0,-80,3,,1628881,,1611661330,44,44,2
+03:53,[LVA] Wilson Rebound (Off:1 Def:3),0,-80,4,,1628932,,1611661319,44,44,2
+03:38,[LVA 46-44] Wilson Jump Bank Shot: Made (10 PTS) Assist: Plum (4 AST),-71,63,1,,1628932,1628276,1611661319,46,44,2
+03:12,[ATL 46-46] Billings Driving Layup Shot: Made (6 PTS) Assist: Williams (2 AST),-30,49,1,,1628881,1627675,1611661330,46,46,2
+03:03,[LVA 48-46] Wilson Layup Shot: Made (12 PTS) Assist: Plum (5 AST),32,24,1,,1628932,1628276,1611661319,48,46,2
+02:56,[LVA] Stokes Foul: Personal (2 PF),-25,48,6,204323,204329,,1611661319,48,46,2
+02:56,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,48,46,2
+02:56,[LVA] Plum Substitution replaced by Williams,0,-80,8,,1628276,203029,1611661319,48,46,2
+02:56,[ATL] Parker Substitution replaced by Williams,0,-80,8,,204323,204322,1611661330,48,46,2
+02:49,[ATL] Williams Pullup Jump shot: Missed,152,99,2,,1627675,,1611661330,48,46,2
+02:46,[LVA] Wilson Rebound (Off:1 Def:4),152,99,4,,1628932,,1611661319,48,46,2
+02:33,[LVA] Wilson Jump Shot: Missed,127,49,2,,1628932,,1611661319,48,46,2
+02:32,[LVA] Stokes Rebound (Off:1 Def:0),41,52,4,,204329,,1611661319,48,46,2
+02:28,[LVA] Williams 3pt Shot: Missed,100,236,2,,203029,,1611661319,48,46,2
+02:27,[LVA] Stokes Rebound (Off:2 Def:0),100,236,4,,204329,,1611661319,48,46,2
+02:27,[ATL] Williams Foul: Personal (2 PF),-75,47,6,204329,1627675,,1611661330,48,46,2
+02:18,[LVA] Wilson Turnover : Lost Ball (1 TO) Steal:Sims (1 ST),-98,115,5,203824,1628932,,1611661319,48,46,2
+02:13,[ATL] Sims Pullup Jump shot: Missed,10,94,2,,203824,,1611661330,48,46,2
+02:09,[LVA] Wilson Rebound (Off:1 Def:5),10,94,4,,1628932,,1611661319,48,46,2
+01:56,[ATL] Williams Foul: Shooting (2 PF) (2 FTA),37,53,6,1628932,204322,,1611661330,48,46,2
+01:56,[LVA 49-46] Wilson Free Throw 1 of 2 (13 PTS),0,-80,3,,1628932,,1611661319,49,46,2
+01:56,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,49,46,2
+01:54,[ATL] Bradford Rebound (Off:0 Def:3),0,-80,4,,204325,,1611661330,49,46,2
+01:35,[ATL] Bradford Layup Shot: Missed,-13,86,2,,204325,,1611661330,49,46,2
+01:33,[LVA] Williams Rebound (Off:0 Def:1),-13,86,4,,203029,,1611661319,49,46,2
+01:31,[LVA 51-46] Young Layup Shot: Made (10 PTS) Assist: Williams (1 AST),9,22,1,,1629498,203029,1611661319,51,46,2
+01:25,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,51,46,2
+01:25,[ATL] Sims Substitution replaced by McDonald,0,-80,8,,203824,1630462,1611661330,51,46,2
+01:14,[ATL] McDonald 3pt Shot: Missed,-14,249,2,,1630462,,1611661330,51,46,2
+01:10,[ATL] Bradford Rebound (Off:1 Def:3),-14,249,4,,204325,,1611661330,51,46,2
+01:08,[ATL] Bradford Turnover : Bad Pass (3 TO) Steal:Young (2 ST),-164,65,5,1629498,204325,,1611661330,51,46,2
+00:50.3,[LVA] Wilson Jump Shot: Missed,22,127,2,,1628932,,1611661319,51,46,2
+00:48.0,[LVA] Stokes Rebound (Off:3 Def:0),22,127,4,,204329,,1611661319,51,46,2
+00:35.2,[LVA] Wilson Driving Layup Shot: Missed,-28,4,2,,1628932,,1611661319,51,46,2
+00:32.6,[ATL] Billings Rebound (Off:1 Def:2),-28,4,4,,1628881,,1611661330,51,46,2
+00:27.3,[ATL] Williams Layup Shot: Missed,35,26,2,,204322,,1611661330,51,46,2
+00:25.7,[ATL] Billings Rebound (Off:2 Def:2),35,26,4,,1628881,,1611661330,51,46,2
+00:25.1,[ATL 48-51] Billings Layup Shot: Made (8 PTS),-3,24,1,,1628881,,1611661330,51,48,2
+00:01.5,Jump Ball Billings vs Gray (Bradford gains possession),0,-80,10,203833,1628881,204325,1611661330,51,48,2
+00:01.5,[LVA] Gray Turnover : Lost Ball (1 TO) Steal:Billings (2 ST),0,-80,5,1628881,203833,,1611661319,51,48,2
+00:00.0,[ATL] Bradford 3pt Shot: Missed,-175,233,2,,204325,,1611661330,51,48,2
+00:00.0,[ATL] Team Rebound,-175,233,4,,0,,1611661330,51,48,2
+00:00.0,End Period,0,-80,13,,0,,0,51,48,2
+10:00,Start Period,0,-80,12,,0,,0,51,48,3
+09:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,48,3
+09:43,[LVA 54-48] Williams 3pt Shot: Made (5 PTS) Assist: Cambage (1 AST),-174,171,1,,203029,202633,1611661319,54,48,3
+09:27,[ATL] Williams Pullup Jump shot: Missed,-5,158,2,,1627675,,1611661330,54,48,3
+09:25,[LVA] Williams Rebound (Off:0 Def:2),-5,158,4,,203029,,1611661319,54,48,3
+09:15,[LVA 56-48] Williams Driving Layup Shot: Made (7 PTS),-20,33,1,,203029,,1611661319,56,48,3
+08:59,[LVA] Wilson Foul: Shooting (2 PF) (2 FTA),-5,54,6,204322,1628932,,1611661319,56,48,3
+08:59,[ATL 49-56] Williams Free Throw 1 of 2 (7 PTS),0,-80,3,,204322,,1611661330,56,49,3
+08:59,[ATL 50-56] Williams Free Throw 2 of 2 (8 PTS),0,-80,3,,204322,,1611661330,56,50,3
+08:39,[ATL] Sims Foul: Shooting (1 PF) (2 FTA),0,189,6,203833,203824,,1611661330,56,50,3
+08:39,[LVA 57-50] Gray Free Throw 1 of 2 (5 PTS),0,-80,3,,203833,,1611661319,57,50,3
+08:39,[LVA 58-50] Gray Free Throw 2 of 2 (6 PTS),0,-80,3,,203833,,1611661319,58,50,3
+08:23,[ATL 53-58] Parker 3pt Shot: Made (13 PTS) Assist: Williams (3 AST),121,223,1,,204323,1627675,1611661330,58,53,3
+08:05,[LVA 60-53] Wilson Turnaround Jump Shot: Made (15 PTS),24,103,1,,1628932,,1611661319,60,53,3
+07:46,[ATL] Bradford 3pt Shot: Missed,-154,204,2,,204325,,1611661330,60,53,3
+07:45,[LVA] Cambage Rebound (Off:1 Def:5),-154,204,4,,202633,,1611661319,60,53,3
+07:38,[LVA 63-53] Williams 3pt Shot: Made (10 PTS) Assist: Gray (5 AST),-87,232,1,,203029,203833,1611661319,63,53,3
+07:38,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,63,53,3
+07:14,[ATL] Williams Pullup Jump shot: Missed,17,216,2,,1627675,,1611661330,63,53,3
+07:12,[ATL] Parker Rebound (Off:2 Def:3),17,216,4,,204323,,1611661330,63,53,3
+07:11,[ATL] Parker Layup Shot: Missed,24,25,2,,204323,,1611661330,63,53,3
+07:09,[LVA] Gray Rebound (Off:0 Def:4),24,25,4,,203833,,1611661319,63,53,3
+06:55,[LVA 65-53] Wilson Layup Shot: Made (17 PTS) Assist: Gray (6 AST),24,12,1,,1628932,203833,1611661319,65,53,3
+06:43,[ATL 56-65] Parker 3pt Shot: Made (16 PTS) Assist: Sims (8 AST),29,235,1,,204323,203824,1611661330,65,56,3
+06:34,[ATL] Parker Foul: Personal (1 PF),145,140,6,203029,204323,,1611661330,65,56,3
+06:25,[LVA] Cambage Layup Shot: Missed,24,17,2,,202633,,1611661319,65,56,3
+06:25,[LVA] Cambage Rebound (Off:2 Def:5),24,17,4,,202633,,1611661319,65,56,3
+06:25,[LVA 67-56] Cambage Putback Layup Shot: Made (13 PTS),24,38,1,,202633,,1611661319,67,56,3
+06:25,[ATL] Williams Foul: Shooting (3 PF) (1 FTA),9,31,6,202633,1627675,,1611661330,67,56,3
+06:25,[LVA] Cambage Technical (1 FTA),0,-80,6,,202633,,1611661319,67,56,3
+06:25,[ATL] Williams Free Throw Technical Missed,0,-80,3,,1627675,,1611661330,67,56,3
+06:25,[LVA] Team Rebound,0,-80,4,,0,,1611661319,67,56,3
+06:25,[LVA] Cambage Free Throw 1 of 1 Missed,0,-80,3,,202633,,1611661319,67,56,3
+06:23,[LVA] Wilson Rebound (Off:2 Def:5),0,-80,4,,1628932,,1611661319,67,56,3
+06:20,[LVA 70-56] Gray 3pt Shot: Made (9 PTS) Assist: Wilson (1 AST),4,282,1,,203833,1628932,1611661319,70,56,3
+06:07,[ATL 58-70] Williams Layup Shot: Made (10 PTS) Assist: Sims (9 AST),9,33,1,,204322,203824,1611661330,70,58,3
+05:56,[LVA] Cambage Turnaround Jump Shot: Missed,74,13,2,,202633,,1611661319,70,58,3
+05:54,[ATL] Sims Rebound (Off:0 Def:1),74,13,4,,203824,,1611661330,70,58,3
+05:44,[ATL] Parker Step Back Jump shot: Missed,-99,132,2,,204323,,1611661330,70,58,3
+05:42,[LVA] Wilson Rebound (Off:2 Def:6),-99,132,4,,1628932,,1611661319,70,58,3
+05:39,[ATL] Parker Foul: Shooting (2 PF) (2 FTA),36,17,6,202633,204323,,1611661330,70,58,3
+05:39,[LVA 71-58] Cambage Free Throw 1 of 2 (14 PTS),0,-80,3,,202633,,1611661319,71,58,3
+05:39,[ATL] Williams Substitution replaced by Hawkins,0,-80,8,,204322,203403,1611661330,71,58,3
+05:39,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,71,58,3
+05:39,[LVA 72-58] Cambage Free Throw 2 of 2 (15 PTS),0,-80,3,,202633,,1611661319,72,58,3
+05:17,[ATL] Williams Jump Shot: Missed,-133,111,2,,1627675,,1611661330,72,58,3
+05:16,[ATL] Bradford Rebound (Off:2 Def:3),-133,111,4,,204325,,1611661330,72,58,3
+05:14,[ATL] Bradford Layup Shot: Missed,-41,37,2,202633,204325,,1611661330,72,58,3
+05:10,[LVA] Cambage Rebound (Off:2 Def:6),-41,37,4,,202633,,1611661319,72,58,3
+05:09,[LVA] Gray Turnover : Out of Bounds Lost Ball Turnover (2 TO),57,62,5,,203833,,1611661319,72,58,3
+05:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,58,3
+05:09,[LVA] Cambage Substitution replaced by Hamby,0,-80,8,,202633,204324,1611661319,72,58,3
+04:53,[ATL 60-72] Sims Floating Jump shot: Made (4 PTS) Assist: Williams (4 AST),-21,95,1,,203824,1627675,1611661330,72,60,3
+04:36,[LVA 74-60] Young Jump Shot: Made (12 PTS),0,109,1,,1629498,,1611661319,74,60,3
+04:28,[ATL 62-74] Williams Pullup Jump shot: Made (12 PTS) Assist: Sims (10 AST),-149,24,1,,1627675,203824,1611661330,74,62,3
+04:11,[LVA 76-62] Young Cutting Layup Shot: Made (14 PTS) Assist: Wilson (2 AST),38,24,1,,1629498,1628932,1611661319,76,62,3
+03:59,[ATL] Billings Jump Shot: Missed,62,134,2,,1628881,,1611661330,76,62,3
+03:57,[LVA] Wilson Rebound (Off:2 Def:7),62,134,4,,1628932,,1611661319,76,62,3
+03:47,[LVA] Gray Pullup Jump shot: Missed,49,112,2,,203833,,1611661319,76,62,3
+03:45,[ATL] Bradford Rebound (Off:2 Def:4),49,112,4,,204325,,1611661330,76,62,3
+03:41,[ATL] Sims Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),-105,160,5,204324,203824,,1611661330,76,62,3
+03:31,[LVA] Gray Jump Shot: Missed,85,117,2,,203833,,1611661319,76,62,3
+03:29,[ATL] Billings Rebound (Off:2 Def:3),85,117,4,,1628881,,1611661330,76,62,3
+03:19,[ATL 64-76] Williams Driving Floating Jump Shot: Made (14 PTS),4,86,1,,1627675,,1611661330,76,64,3
+03:19,[LVA] Gray Foul: Shooting (1 PF) (1 FTA),-2,35,6,1627675,203833,,1611661319,76,64,3
+03:19,[LVA] Williams Substitution replaced by Plum,0,-80,8,,203029,1628276,1611661319,76,64,3
+03:19,[ATL] Sims Substitution replaced by McDonald,0,-80,8,,203824,1630462,1611661330,76,64,3
+03:19,[ATL] Bradford Substitution replaced by Stricklen,0,-80,8,,204325,203015,1611661330,76,64,3
+03:19,[ATL 65-76] Williams Free Throw 1 of 1 (15 PTS),0,-80,3,,1627675,,1611661330,76,65,3
+02:58,[LVA 78-65] Wilson Turnaround Fadeaway shot: Made (19 PTS),-28,77,1,,1628932,,1611661319,78,65,3
+02:40,[LVA] Young Foul: Shooting (2 PF) (2 FTA),-57,40,6,1630462,1629498,,1611661319,78,65,3
+02:40,[ATL 66-78] McDonald Free Throw 1 of 2 (1 PTS),0,-80,3,,1630462,,1611661330,78,66,3
+02:40,[ATL 67-78] McDonald Free Throw 2 of 2 (2 PTS),0,-80,3,,1630462,,1611661330,78,67,3
+02:22,[LVA] Wilson Turnover : 3 Second Violation (2 TO),3,61,5,,1628932,,1611661319,78,67,3
+02:12,[ATL 70-78] Hawkins 3pt Shot: Made (8 PTS) Assist: McDonald (1 AST),-78,232,1,,203403,1630462,1611661330,78,70,3
+01:53,[LVA] Young Turnover : Out of Bounds - Bad Pass Turnover (1 TO),127,185,5,,1629498,,1611661319,78,70,3
+01:53,[LVA] Young Substitution replaced by Williams,0,-80,8,,1629498,203029,1611661319,78,70,3
+01:38,[LVA] Plum Foul: Personal (1 PF),136,135,6,1627675,1628276,,1611661319,78,70,3
+01:38,[ATL] Williams Substitution replaced by Sims,0,-80,8,,1627675,203824,1611661330,78,70,3
+01:28,[ATL] Hawkins 3pt Shot: Missed,-94,231,2,,203403,,1611661330,78,70,3
+01:27,[LVA] Plum Rebound (Off:0 Def:1),-94,231,4,,1628276,,1611661319,78,70,3
+01:27,[ATL] McDonald Foul: Personal (1 PF) (2 FTA),-78,583,6,1628276,1630462,,1611661330,78,70,3
+01:27,[LVA 79-70] Plum Free Throw 1 of 2 (8 PTS),0,-80,3,,1628276,,1611661319,79,70,3
+01:27,[LVA] Wilson Substitution replaced by Stokes,0,-80,8,,1628932,204329,1611661319,79,70,3
+01:27,[LVA 80-70] Plum Free Throw 2 of 2 (9 PTS),0,-80,3,,1628276,,1611661319,80,70,3
+01:10,[LVA] Plum Foul: Shooting (2 PF) (2 FTA),-93,-1,6,203824,1628276,,1611661319,80,70,3
+01:10,[ATL 71-80] Sims Free Throw 1 of 2 (5 PTS),0,-80,3,,203824,,1611661330,80,71,3
+01:10,[ATL 72-80] Sims Free Throw 2 of 2 (6 PTS),0,-80,3,,203824,,1611661330,80,72,3
+00:51.7,[LVA 83-72] Williams 3pt Shot: Made (13 PTS) Assist: Hamby (2 AST),105,225,1,,203029,204324,1611661319,83,72,3
+00:45.2,[ATL 75-83] McDonald 3pt Shot: Made (5 PTS),-75,241,1,,1630462,,1611661330,83,75,3
+00:35.7,[ATL] Billings Foul: Personal (3 PF) (2 FTA),-117,214,6,204324,1628881,,1611661330,83,75,3
+00:35.7,[LVA] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661319,83,75,3
+00:35.7,[LVA] Team Rebound,0,-80,4,,0,,1611661319,83,75,3
+00:35.7,[LVA 84-75] Hamby Free Throw 2 of 2 (5 PTS),0,-80,3,,204324,,1611661319,84,75,3
+00:27.1,[ATL] Stricklen Jump Shot: Missed,114,121,2,,203015,,1611661330,84,75,3
+00:25.2,[ATL] Stricklen Rebound (Off:1 Def:0),114,121,4,,203015,,1611661330,84,75,3
+00:23.7,[ATL] Stricklen Jump Shot: Missed,140,84,2,,203015,,1611661330,84,75,3
+00:20.5,[LVA] Hamby Rebound (Off:0 Def:4),140,84,4,,204324,,1611661319,84,75,3
+00:00.0,End Period,0,-80,13,,0,,0,84,75,3
+10:00,Start Period,0,-80,12,,0,,0,84,75,4
+09:45,[ATL] McDonald Turnaround Jump Shot: Missed,3,121,2,,1630462,,1611661330,84,75,4
+09:44,[LVA] Stokes Rebound (Off:3 Def:1),3,121,4,,204329,,1611661319,84,75,4
+09:30,[LVA 87-75] Hamby 3pt Shot: Made (8 PTS) Assist: Young (5 AST),-8,255,1,,204324,1629498,1611661319,87,75,4
+09:11,[ATL 77-87] Stricklen Driving Floating Jump Shot: Made (4 PTS) Assist: Sims (11 AST),14,110,1,,203015,203824,1611661330,87,77,4
+08:54,[LVA] Young Driving Layup Shot: Missed,-65,50,2,,1629498,,1611661319,87,77,4
+08:54,[LVA] Team Rebound,-65,50,4,,0,,1611661319,87,77,4
+08:54,[ATL] Stricklen Foul: Loose Ball (1 PF),-37,118,6,204324,203015,,1611661330,87,77,4
+08:54,[ATL] Sims Substitution replaced by Williams,0,-80,8,,203824,1627675,1611661330,87,77,4
+08:54,[ATL] Hawkins Substitution replaced by Parker,0,-80,8,,203403,204323,1611661330,87,77,4
+08:47,[LVA 90-77] Plum 3pt Shot: Made (12 PTS) Assist: Young (6 AST),-230,12,1,,1628276,1629498,1611661319,90,77,4
+08:40,[ATL] Williams Turnover : Bad Pass (1 TO) Steal:Hamby (2 ST),-92,146,5,204324,1627675,,1611661330,90,77,4
+08:36,[ATL] McDonald Foul: Shooting (2 PF) (2 FTA),0,61,6,204324,1630462,,1611661330,90,77,4
+08:36,[LVA 91-77] Hamby Free Throw 1 of 2 (9 PTS),0,-80,3,,204324,,1611661319,91,77,4
+08:36,[LVA 92-77] Hamby Free Throw 2 of 2 (10 PTS),0,-80,3,,204324,,1611661319,92,77,4
+08:15,[ATL] Williams Pullup Jump shot: Missed,97,123,2,,1627675,,1611661330,92,77,4
+08:12,[ATL] Billings Rebound (Off:3 Def:3),97,123,4,,1628881,,1611661330,92,77,4
+08:11,[ATL 79-92] Billings Layup Shot: Made (10 PTS),-8,27,1,,1628881,,1611661330,92,79,4
+07:58,[LVA 94-79] Hamby Driving Layup Shot: Made (12 PTS) Assist: Plum (6 AST),36,34,1,,204324,1628276,1611661319,94,79,4
+07:50,[ATL] Parker Jump Shot: Missed,74,113,2,203029,204323,,1611661330,94,79,4
+07:49,[LVA] Team Rebound,74,113,4,,0,,1611661319,94,79,4
+07:49,[LVA] Stokes Substitution replaced by Cambage,0,-80,8,,204329,202633,1611661319,94,79,4
+07:49,[ATL] Billings Substitution replaced by Williams,0,-80,8,,1628881,204322,1611661330,94,79,4
+07:49,Jump Ball Parker vs Williams (Parker gains possession),0,-80,10,203029,204323,204323,1611661330,94,79,4
+07:44,Jump Ball Williams vs Parker (Cambage gains possession),0,-80,10,204323,203029,202633,1611661319,94,79,4
+07:36,[LVA 97-79] Plum 3pt Shot: Made (15 PTS) Assist: Williams (2 AST),170,185,1,,1628276,203029,1611661319,97,79,4
+07:35,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,97,79,4
+07:19,[ATL 81-97] Williams Pullup Jump shot: Made (17 PTS) Assist: Williams (1 AST),63,173,1,,1627675,204322,1611661330,97,81,4
+07:03,[LVA] Williams 3pt Shot: Missed,85,233,2,,203029,,1611661319,97,81,4
+07:00,[ATL] Parker Rebound (Off:2 Def:4),85,233,4,,204323,,1611661330,97,81,4
+06:47,[ATL] McDonald 3pt Shot: Missed,231,74,2,,1630462,,1611661330,97,81,4
+06:45,[LVA] Cambage Rebound (Off:2 Def:7),231,74,4,,202633,,1611661319,97,81,4
+06:26,[LVA] Young Pullup Jump shot: Missed,103,163,2,,1629498,,1611661319,97,81,4
+06:25,[LVA] Cambage Rebound (Off:3 Def:7),103,163,4,,202633,,1611661319,97,81,4
+06:25,[LVA 99-81] Cambage Putback Layup Shot: Made (17 PTS),24,24,1,,202633,,1611661319,99,81,4
+06:25,[ATL] Williams Foul: Shooting (3 PF) (1 FTA),4,40,6,202633,204322,,1611661330,99,81,4
+06:25,[ATL] McDonald Substitution replaced by Sims,0,-80,8,,1630462,203824,1611661330,99,81,4
+06:25,[ATL] Stricklen Substitution replaced by Bradford,0,-80,8,,203015,204325,1611661330,99,81,4
+06:25,[LVA] Cambage Free Throw 1 of 1 Missed,0,-80,3,,202633,,1611661319,99,81,4
+06:22,[ATL] Williams Rebound (Off:0 Def:1),0,-80,4,,204322,,1611661330,99,81,4
+06:14,[ATL 83-99] Williams Pullup Jump shot: Made (19 PTS),140,69,1,,1627675,,1611661330,99,83,4
+06:03,[LVA 101-83] Hamby Cutting Layup Shot: Made (14 PTS) Assist: Williams (3 AST),-37,29,1,,204324,203029,1611661319,101,83,4
+05:53,[ATL 85-101] Parker Layup Shot: Made (18 PTS) Assist: Sims (12 AST),-21,36,1,,204323,203824,1611661330,101,85,4
+05:33,[LVA] Cambage Layup Shot: Missed,32,34,2,,202633,,1611661319,101,85,4
+05:31,[ATL] Parker Rebound (Off:2 Def:5),32,34,4,,204323,,1611661330,101,85,4
+05:24,[ATL] Williams Pullup Jump shot: Missed,-104,160,2,,1627675,,1611661330,101,85,4
+05:24,[LVA] Team Rebound,-104,160,4,,0,,1611661319,101,85,4
+05:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,101,85,4
+05:24,[LVA] Cambage Substitution replaced by Park,0,-80,8,,202633,1628917,1611661319,101,85,4
+05:08,[ATL] Sims Foul: Personal (2 PF),-39,176,6,1628276,203824,,1611661330,101,85,4
+05:02,[LVA 103-85] Hamby Cutting Layup Shot: Made (16 PTS) Assist: Plum (7 AST),25,34,1,,204324,1628276,1611661319,103,85,4
+04:48,[ATL 87-103] Sims Driving Layup Shot: Made (8 PTS),-31,20,1,,203824,,1611661330,103,87,4
+04:32,[LVA] Young Turnover : Bad Pass (2 TO) Steal:Parker (2 ST),-70,151,5,204323,1629498,,1611661319,103,87,4
+04:27,[ATL 89-103] Bradford Layup Shot: Made (5 PTS) Assist: Williams (5 AST),32,13,1,,204325,1627675,1611661330,103,89,4
+04:22,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,103,89,4
+04:09,[LVA 105-89] Young Turnaround Jump Shot: Made (16 PTS) Assist: Hamby (3 AST),61,38,1,,1629498,204324,1611661319,105,89,4
+03:48,[ATL] Bradford 3pt Shot: Missed,-89,252,2,,204325,,1611661330,105,89,4
+03:46,[LVA] Hamby Rebound (Off:0 Def:5),-89,252,4,,204324,,1611661319,105,89,4
+03:27,[LVA] Plum Driving Layup Shot: Missed,-39,34,2,,1628276,,1611661319,105,89,4
+03:27,[ATL] Team Rebound,-39,34,4,,0,,1611661330,105,89,4
+03:27,[LVA] Young Substitution replaced by Slocum,0,-80,8,,1629498,1630435,1611661319,105,89,4
+03:27,[LVA] Williams Substitution replaced by Stokes,0,-80,8,,203029,204329,1611661319,105,89,4
+03:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,105,89,4
+03:07,[ATL] Parker Jump Shot: Missed,-49,43,2,,204323,,1611661330,105,89,4
+03:05,[LVA] Hamby Rebound (Off:0 Def:6),-49,43,4,,204324,,1611661319,105,89,4
+03:01,[ATL] Williams Substitution replaced by McDonald,0,-80,8,,204322,1630462,1611661330,105,89,4
+03:01,[ATL] Williams Substitution replaced by Hawkins,0,-80,8,,1627675,203403,1611661330,105,89,4
+03:01,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,105,89,4
+03:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,105,89,4
+02:51,[LVA 107-89] Hamby Jump Shot: Made (18 PTS) Assist: Plum (8 AST),28,123,1,,204324,1628276,1611661319,107,89,4
+02:30,[ATL 91-107] Billings Layup Shot: Made (12 PTS) Assist: Sims (13 AST),15,32,1,,1628881,203824,1611661330,107,91,4
+02:26,[ATL] Sims Foul: Personal (3 PF) (2 FTA),-15,26,6,1628917,203824,,1611661330,107,91,4
+02:26,[LVA] Park Free Throw 1 of 2 Missed,0,-80,3,,1628917,,1611661319,107,91,4
+02:26,[LVA] Team Rebound,0,-80,4,,0,,1611661319,107,91,4
+02:26,[LVA 108-91] Park Free Throw 2 of 2 (1 PTS),0,-80,3,,1628917,,1611661319,108,91,4
+02:11,[ATL] Bradford Jump Shot: Missed,-36,41,2,,204325,,1611661330,108,91,4
+02:08,[LVA] Hamby Rebound (Off:0 Def:7),-36,41,4,,204324,,1611661319,108,91,4
+02:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,108,91,4
+01:58,[LVA] Park Foul: Offensive Charge (1 PF),-17,209,6,1630462,1628917,,1611661319,108,91,4
+01:58,[LVA] Park Turnover : Offensive Foul Turnover (1 TO),-17,209,5,,1628917,,1611661319,108,91,4
+01:43,[ATL] McDonald 3pt Shot: Missed,19,260,2,,1630462,,1611661330,108,91,4
+01:41,[LVA] Hamby Rebound (Off:0 Def:8),19,260,4,,204324,,1611661319,108,91,4
+01:32,[LVA 110-91] Plum Driving Floating Jump Shot: Made (17 PTS),-8,112,1,,1628276,,1611661319,110,91,4
+01:25,[ATL 93-110] Bradford Driving Reverse Layup Shot: Made (7 PTS),19,0,1,,204325,,1611661330,110,93,4
+01:15,[ATL] Hawkins Foul: Shooting (2 PF) (2 FTA),10,161,6,1628917,203403,,1611661330,110,93,4
+01:15,[LVA 111-93] Park Free Throw 1 of 2 (2 PTS),0,-80,3,,1628917,,1611661319,111,93,4
+01:15,[LVA 112-93] Park Free Throw 2 of 2 (3 PTS),0,-80,3,,1628917,,1611661319,112,93,4
+01:07,[ATL] Hawkins 3pt Shot: Missed,150,221,2,,203403,,1611661330,112,93,4
+01:03,[LVA] Hamby Rebound (Off:0 Def:9),150,221,4,,204324,,1611661319,112,93,4
+00:53.3,[LVA 115-93] Plum 3pt Shot: Made (20 PTS) Assist: Park (1 AST),94,241,1,,1628276,1628917,1611661319,115,93,4
+00:42.5,[ATL] Sims Jump Shot: Missed,-144,130,2,,203824,,1611661330,115,93,4
+00:40.4,[LVA] Hamby Rebound (Off:0 Def:10),-144,130,4,,204324,,1611661319,115,93,4
+00:31.9,[LVA 118-93] Plum 3pt Shot: Made (23 PTS) Assist: Slocum (1 AST),125,222,1,,1628276,1630435,1611661319,118,93,4
+00:06.8,[ATL 95-118] Sims Driving Layup Shot: Made (10 PTS),-33,33,1,,203824,,1611661330,118,95,4
+00:06.1,[LVA] Slocum Foul: Loose Ball (1 PF),219,635,6,203403,1630435,,1611661319,118,95,4
+00:06.1,[LVA] Park Turnover : Bad Pass (2 TO),-67,885,5,,1628917,,1611661319,118,95,4
+00:06.1,[LVA] Slocum Substitution replaced by Young,0,-80,8,,1630435,1629498,1611661319,118,95,4
+00:00.0,End Period,0,-80,13,,0,,0,118,95,4
+00:00.0,Game End,0,-80,0,,0,,0,118,95,4

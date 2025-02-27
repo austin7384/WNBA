@@ -1,0 +1,364 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Jones vs Magbegor (Ionescu gains possession),0,-80,10,1629496,1627673,1629477,1611661313,0,0,0,1
+09:40,[NYL] Stewart Jump Shot: Missed,-161,67,2,,1627668,,1611661313,0,0,0,1
+09:36,[NYL] Laney-Hamilton Rebound (Off:1 Def:0),-161,67,4,,204335,,1611661313,0,0,0,1
+09:35,[NYL] Ionescu 3pt Shot: Missed,-214,89,2,,1629477,,1611661313,0,0,0,1
+09:34,[SEA] Team Rebound,-214,89,4,,0,,1611661328,0,0,0,1
+09:34,[NYL] Laney-Hamilton Foul: Loose Ball (1 PF),1,789,6,1629496,204335,100698,1611661313,0,0,0,1
+09:20,[SEA] Loyd Pullup Jump shot: Missed,-6,155,2,,204319,,1611661328,0,0,0,1
+09:16,[NYL] Jones Rebound (Off:0 Def:1),-6,155,4,,1627673,,1611661313,0,0,0,1
+09:07,[NYL] Laney-Hamilton 3pt Shot: Missed,-234,-1,2,,204335,,1611661313,0,0,0,1
+09:04,[SEA] N Ogwumike Rebound (Off:0 Def:1),-234,-1,4,,203014,,1611661328,0,0,0,1
+08:55,[SEA 3-0] Diggins-Smith 3pt Shot: Made (3 PTS) Assist: N Ogwumike (1 AST),227,12,1,,203400,203014,1611661328,0,3,3,1
+08:45,[SEA] N Ogwumike Foul: Shooting (1 PF) (2 FTA),35,78,6,1629477,203014,202297,1611661328,0,3,0,1
+08:45,[NYL 1-3] Ionescu Free Throw 1 of 2 (1 PTS),0,-80,3,,1629477,,1611661313,1,3,1,1
+08:45,[NYL 2-3] Ionescu Free Throw 2 of 2 (2 PTS),0,-80,3,,1629477,,1611661313,2,3,1,1
+08:30,[SEA 5-2] Williams Pullup Jump shot: Made (2 PTS),47,167,1,,1628931,,1611661328,2,5,2,1
+08:19,[NYL 4-5] Laney-Hamilton Driving Floating Bank Jump Shot: Made (2 PTS),45,35,1,,204335,,1611661313,4,5,2,1
+07:57,[SEA] Diggins-Smith 3pt Shot: Missed,-222,90,2,,203400,,1611661328,4,5,0,1
+07:54,[NYL] Ionescu Rebound (Off:0 Def:1),-222,90,4,,1629477,,1611661313,4,5,0,1
+07:47,[NYL] Jones 3pt Shot: Missed,223,79,2,,1627673,,1611661313,4,5,0,1
+07:44,[SEA] Loyd Rebound (Off:0 Def:1),223,79,4,,204319,,1611661328,4,5,0,1
+07:32,[NYL] Jones Foul: Personal (1 PF),-124,61,6,203400,1627673,202297,1611661313,4,5,0,1
+07:26,[SEA 7-4] N Ogwumike Jump Shot: Made (2 PTS) Assist: Diggins-Smith (1 AST),49,142,1,,203014,203400,1611661328,4,7,2,1
+07:11,[NYL 7-7] Laney-Hamilton 3pt Shot: Made (5 PTS) Assist: Stewart (1 AST),-5,241,1,,204335,1627668,1611661313,7,7,3,1
+06:55,[SEA] Magbegor Driving Layup Shot: Missed Block: Stewart (1 BLK),-46,35,2,1627668,1629496,,1611661328,7,7,0,1
+06:55,[NYL] Team Rebound,-46,35,4,,0,,1611661313,7,7,0,1
+06:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,7,0,1
+06:42,[NYL 9-7] Jones Cutting Layup Shot: Made (2 PTS) Assist: Vandersloot (1 AST),37,27,1,,1627673,202664,1611661313,9,7,2,1
+06:33,[SEA] N Ogwumike 3pt Shot: Missed,118,225,2,,203014,,1611661328,9,7,0,1
+06:32,[SEA] Williams Rebound (Off:1 Def:0),118,225,4,,1628931,,1611661328,9,7,0,1
+06:31,[SEA 9-9] Williams Putback Layup Shot: Made (4 PTS),12,39,1,,1628931,,1611661328,9,9,2,1
+06:19,[NYL 12-9] Jones 3pt Shot: Made (5 PTS) Assist: Ionescu (1 AST),-17,246,1,,1627673,1629477,1611661313,12,9,3,1
+05:54,[SEA] N Ogwumike Turnover : Traveling (1 TO),71,191,5,,203014,202297,1611661328,12,9,0,1
+05:44,[NYL] Stewart Pullup Jump shot: Missed Block: Magbegor (1 BLK),50,108,2,1629496,1627668,,1611661313,12,9,0,1
+05:42,[SEA] Williams Rebound (Off:1 Def:1),50,108,4,,1628931,,1611661328,12,9,0,1
+05:38,[SEA] Williams Turnover : Bad Pass (1 TO) Steal:Stewart (1 ST),-144,236,5,1627668,1628931,,1611661328,12,9,0,1
+05:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,9,0,1
+05:28,[NYL] Vandersloot Turnover : Bad Pass (1 TO) Steal:N Ogwumike (1 ST),-45,182,5,203014,202664,,1611661313,12,9,0,1
+05:24,[NYL] Vandersloot Foul: Shooting (1 PF) (2 FTA),-37,27,6,203400,202664,1629771,1611661313,12,9,0,1
+05:24,[SEA 10-12] Diggins-Smith Free Throw 1 of 2 (4 PTS),0,-80,3,,203400,,1611661328,12,10,1,1
+05:24,[SEA 11-12] Diggins-Smith Free Throw 2 of 2 (5 PTS),0,-80,3,,203400,,1611661328,12,11,1,1
+05:13,[SEA] Williams Foul: Shooting (1 PF) (2 FTA),49,31,6,1627673,1628931,1629771,1611661328,12,11,0,1
+05:13,[NYL 13-11] Jones Free Throw 1 of 2 (6 PTS),0,-80,3,,1627673,,1611661313,13,11,1,1
+05:13,[NYL 14-11] Jones Free Throw 2 of 2 (7 PTS),0,-80,3,,1627673,,1611661313,14,11,1,1
+04:53,[SEA] Williams Turnover : Lost Ball (2 TO) Steal:Vandersloot (1 ST),49,59,5,202664,1628931,,1611661328,14,11,0,1
+04:44,[NYL] Laney-Hamilton Layup Shot: Missed,45,19,2,,204335,,1611661313,14,11,0,1
+04:41,[NYL] Laney-Hamilton Rebound (Off:2 Def:0),45,19,4,,204335,,1611661313,14,11,0,1
+04:40,[NYL] Laney-Hamilton Putback Layup Shot: Missed,0,-5,2,,204335,,1611661313,14,11,0,1
+04:38,[SEA] Magbegor Rebound (Off:0 Def:1),0,-5,4,,1629496,,1611661328,14,11,0,1
+04:30,[SEA] Diggins-Smith 3pt Shot: Missed,234,23,2,,203400,,1611661328,14,11,0,1
+04:26,[NYL] Laney-Hamilton Rebound (Off:2 Def:1),234,23,4,,204335,,1611661313,14,11,0,1
+04:13,[NYL 17-11] Jones 3pt Shot: Made (10 PTS) Assist: Vandersloot (2 AST),232,24,1,,1627673,202664,1611661313,17,11,3,1
+03:55,[SEA 13-17] Williams Pullup Jump shot: Made (6 PTS),-132,162,1,,1628931,,1611661328,17,13,2,1
+03:29,[NYL] Stewart Turnaround Jump Shot: Missed Block: Magbegor (2 BLK),-135,47,2,1629496,1627668,,1611661313,17,13,0,1
+03:28,[NYL] Team Rebound,-135,47,4,,0,,1611661313,17,13,0,1
+03:28,[NYL] Team Turnover : Shot Clock Turnover,-121,70,5,,0,202297,1611661313,17,13,0,1
+03:28,Timeout : Official,0,-80,9,,0,,0,17,13,0,1
+03:28,[NYL] Laney-Hamilton Substitution replaced by Thornton,0,-80,8,,204335,203866,1611661313,17,13,0,1
+03:28,[NYL] Jones Substitution replaced by Fiebich,0,-80,8,,1627673,1630142,1611661313,17,13,0,1
+03:28,[NYL] Vandersloot Substitution replaced by Sabally,0,-80,8,,202664,1631055,1611661313,17,13,0,1
+03:14,[SEA 15-17] Williams Pullup Jump shot: Made (8 PTS),36,169,1,,1628931,,1611661328,17,15,2,1
+03:00,[NYL] Thornton Jump Shot: Missed Block: Diggins-Smith (1 BLK),201,14,2,203400,203866,,1611661313,17,15,0,1
+02:59,[SEA] N Ogwumike Rebound (Off:0 Def:2),201,14,4,,203014,,1611661328,17,15,0,1
+02:54,[SEA] Diggins-Smith Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-56,285,5,,203400,202297,1611661328,17,15,0,1
+02:54,[SEA] N Ogwumike Substitution replaced by Russell,0,-80,8,,203014,1628920,1611661328,17,15,0,1
+02:31,[NYL] Thornton 3pt Shot: Missed,157,196,2,,203866,,1611661313,17,15,0,1
+02:30,[NYL] Team Rebound,157,196,4,,0,,1611661313,17,15,0,1
+02:30,[NYL] Team Turnover : Shot Clock Turnover,159,13,5,,0,1629771,1611661313,17,15,0,1
+02:15,[SEA 18-17] Magbegor 3pt Shot: Made (3 PTS) Assist: Diggins-Smith (2 AST),-77,239,1,,1629496,203400,1611661328,17,18,3,1
+02:00,[NYL] Ionescu 3pt Shot: Missed,172,210,2,,1629477,,1611661313,17,18,0,1
+01:56,[SEA] Magbegor Rebound (Off:0 Def:2),172,210,4,,1629496,,1611661328,17,18,0,1
+01:48,[SEA] Williams Turnover : Bad Pass (3 TO) Steal:Fiebich (1 ST),-98,242,5,1630142,1628931,,1611661328,17,18,0,1
+01:44,[NYL 19-18] Fiebich Running Layup Shot: Made (2 PTS),43,22,1,,1630142,,1611661313,19,18,2,1
+01:32,Stoppage: Blood Rule,0,-80,20,,0,,0,19,18,0,1
+01:32,[NYL] Stewart Substitution replaced by Jones,0,-80,8,,1627668,1627673,1611661313,19,18,0,1
+01:32,[SEA] Diggins-Smith Substitution replaced by Whitcomb,0,-80,8,,203400,1628244,1611661328,19,18,0,1
+01:32,[SEA] Williams Substitution replaced by Horston,0,-80,8,,1628931,1641651,1611661328,19,18,0,1
+01:23,[SEA] Horston Turnover : Traveling (1 TO),30,142,5,,1641651,1629771,1611661328,19,18,0,1
+01:10,[NYL] Thornton Turnover : Traveling (1 TO),-207,51,5,,203866,1629771,1611661313,19,18,0,1
+00:56.0,[SEA] Russell Turnover : Bad Pass (1 TO) Steal:Thornton (1 ST),-54,142,5,203866,1628920,,1611661328,19,18,0,1
+00:48.3,[NYL 22-18] Ionescu 3pt Shot: Made (5 PTS) Assist: Thornton (1 AST),-207,113,1,,1629477,203866,1611661313,22,18,3,1
+00:35.4,[SEA 20-22] Loyd Pullup Jump shot: Made (2 PTS),-140,31,1,,204319,,1611661328,22,20,2,1
+00:27.6,[SEA] Horston Foul: Shooting (1 PF) (2 FTA),-24,31,6,1629477,1641651,1629771,1611661328,22,20,0,1
+00:27.6,[NYL 23-20] Ionescu Free Throw 1 of 2 (6 PTS),0,-80,3,,1629477,,1611661313,23,20,1,1
+00:27.6,[SEA] Magbegor Substitution replaced by N Ogwumike,0,-80,8,,1629496,203014,1611661328,23,20,0,1
+00:27.6,[NYL 24-20] Ionescu Free Throw 2 of 2 (7 PTS),0,-80,3,,1629477,,1611661313,24,20,1,1
+00:12.9,[SEA] Loyd 3pt Shot: Missed,145,219,2,,204319,,1611661328,24,20,0,1
+00:08.6,[NYL] Ionescu Rebound (Off:0 Def:2),145,219,4,,1629477,,1611661313,24,20,0,1
+00:02.5,[NYL] Ionescu 3pt Shot: Missed,122,255,2,,1629477,,1611661313,24,20,0,1
+00:00.2,[SEA] Horston Rebound (Off:0 Def:1),122,255,4,,1641651,,1611661328,24,20,0,1
+00:00.0,End Period,0,-80,13,,0,,0,24,20,0,1
+10:00,Start Period,0,-80,12,,0,,0,24,20,0,2
+09:39,[SEA] Diggins-Smith Turnover : Bad Pass (2 TO) Steal:Fiebich (2 ST),-145,151,5,1630142,203400,,1611661328,24,20,0,2
+09:26,[NYL] Thornton Pullup Jump shot: Missed Block: Diggins-Smith (2 BLK),13,68,2,203400,203866,,1611661313,24,20,0,2
+09:25,[SEA] Diggins-Smith Rebound (Off:0 Def:1),13,68,4,,203400,,1611661328,24,20,0,2
+09:15,[SEA] N Ogwumike Turnaround Jump Shot: Missed,88,24,2,,203014,,1611661328,24,20,0,2
+09:11,[SEA] Russell Rebound (Off:1 Def:0),88,24,4,,1628920,,1611661328,24,20,0,2
+09:08,[SEA 22-24] Horston Floating Jump shot: Made (2 PTS) Assist: Russell (1 AST),-5,131,1,,1641651,1628920,1611661328,24,22,2,2
+08:52,[NYL] Fiebich Driving Hook Shot: Missed,0,63,2,,1630142,,1611661313,24,22,0,2
+08:50,[NYL] Fiebich Rebound (Off:1 Def:0),0,63,4,,1630142,,1611661313,24,22,0,2
+08:48,[NYL 27-22] Vandersloot 3pt Shot: Made (3 PTS) Assist: Fiebich (1 AST),-184,135,1,,202664,1630142,1611661313,27,22,3,2
+08:27,[SEA] Horston Turnover : Out of Bounds - Bad Pass Turnover (2 TO),61,29,5,,1641651,100698,1611661328,27,22,0,2
+08:27,[NYL] Thornton Substitution replaced by Stewart,0,-80,8,,203866,1627668,1611661313,27,22,0,2
+08:27,[NYL] Sabally Substitution replaced by Laney-Hamilton,0,-80,8,,1631055,204335,1611661313,27,22,0,2
+08:10,[NYL] Vandersloot 3pt Shot: Missed,112,230,2,,202664,,1611661313,27,22,0,2
+08:06,[SEA] Horston Rebound (Off:0 Def:2),112,230,4,,1641651,,1611661328,27,22,0,2
+07:52,[SEA] Whitcomb Driving Floating Jump Shot: Missed,-1,126,2,,1628244,,1611661328,27,22,0,2
+07:49,[NYL] Jones Rebound (Off:0 Def:2),-1,126,4,,1627673,,1611661313,27,22,0,2
+07:41,[NYL 29-22] Laney-Hamilton Turnaround Fadeaway shot: Made (7 PTS) Assist: Vandersloot (3 AST),56,68,1,,204335,202664,1611661313,29,22,2,2
+07:41,Timeout : Regular,0,-80,9,,1611661328,,1611661328,29,22,0,2
+07:41,[SEA] Russell Substitution replaced by Williams,0,-80,8,,1628920,1628931,1611661328,29,22,0,2
+07:41,[SEA] Horston Substitution replaced by Magbegor,0,-80,8,,1641651,1629496,1611661328,29,22,0,2
+07:14,[SEA] Magbegor 3pt Shot: Missed,-228,49,2,,1629496,,1611661328,29,22,0,2
+07:12,[NYL] Vandersloot Rebound (Off:0 Def:1),-228,49,4,,202664,,1611661313,29,22,0,2
+06:55,[NYL] Stewart Jump Shot: Missed,-16,214,2,,1627668,,1611661313,29,22,0,2
+06:53,[SEA] N Ogwumike Rebound (Off:0 Def:3),-16,214,4,,203014,,1611661328,29,22,0,2
+06:45,[SEA 24-29] Diggins-Smith Pullup Jump shot: Made (7 PTS),-129,136,1,,203400,,1611661328,29,24,2,2
+06:28,[NYL] Laney-Hamilton Step Back Jump shot: Missed,-116,67,2,,204335,,1611661313,29,24,0,2
+06:26,[SEA] N Ogwumike Rebound (Off:0 Def:4),-116,67,4,,203014,,1611661328,29,24,0,2
+06:20,[SEA] Diggins-Smith Driving Layup Shot: Missed Block: Vandersloot (1 BLK),-45,42,2,202664,203400,,1611661328,29,24,0,2
+06:18,[SEA] Diggins-Smith Rebound (Off:1 Def:1),-45,42,4,,203400,,1611661328,29,24,0,2
+06:17,[SEA] Diggins-Smith Putback Layup Shot: Missed Block: Jones (1 BLK),-26,33,2,1627673,203400,,1611661328,29,24,0,2
+06:16,[SEA] Diggins-Smith Rebound (Off:2 Def:1),-26,33,4,,203400,,1611661328,29,24,0,2
+06:11,[SEA] Williams 3pt Shot: Missed,-146,211,2,,1628931,,1611661328,29,24,0,2
+06:08,[NYL] Stewart Rebound (Off:0 Def:1),-146,211,4,,1627668,,1611661313,29,24,0,2
+06:04,[NYL 32-24] Fiebich 3pt Shot: Made (5 PTS) Assist: Vandersloot (4 AST),168,176,1,,1630142,202664,1611661313,32,24,3,2
+05:41,[SEA] N Ogwumike 3pt Shot: Missed,115,215,2,,203014,,1611661328,32,24,0,2
+05:39,[NYL] Stewart Rebound (Off:0 Def:2),115,215,4,,1627668,,1611661313,32,24,0,2
+05:34,[SEA] Magbegor Foul: Shooting (1 PF) (2 FTA),43,32,6,1627668,1629496,1629771,1611661328,32,24,0,2
+05:34,[NYL] Stewart Free Throw 1 of 2 Missed,0,-80,3,,1627668,,1611661313,32,24,0,2
+05:34,[NYL] Team Rebound,0,-80,4,,0,,1611661313,32,24,0,2
+05:34,[NYL] Fiebich Substitution replaced by Ionescu,0,-80,8,,1630142,1629477,1611661313,32,24,0,2
+05:34,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,32,24,0,2
+05:34,[SEA] Whitcomb Substitution replaced by Loyd,0,-80,8,,1628244,204319,1611661328,32,24,0,2
+05:34,[NYL 33-24] Stewart Free Throw 2 of 2 (1 PTS),0,-80,3,,1627668,,1611661313,33,24,1,2
+05:18,[SEA 26-33] Magbegor Turnaround Bank shot: Made (5 PTS) Assist: Williams (1 AST),-73,62,1,,1629496,1628931,1611661328,33,26,2,2
+04:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,26,0,2
+04:54,[NYL] Vandersloot Jump Shot: Missed,-86,153,2,,202664,,1611661313,33,26,0,2
+04:53,[NYL] Stewart Rebound (Off:1 Def:2),-86,153,4,,1627668,,1611661313,33,26,0,2
+04:52,[NYL] Ionescu Floating Jump shot: Missed,-52,19,2,,1629477,,1611661313,33,26,0,2
+04:51,[SEA] N Ogwumike Rebound (Off:0 Def:5),-52,19,4,,203014,,1611661328,33,26,0,2
+04:36,Timeout : Regular,0,-80,9,,1611661328,,1611661328,33,26,0,2
+04:36,[NYL] Vandersloot Substitution replaced by Thornton,0,-80,8,,202664,203866,1611661313,33,26,0,2
+04:28,[SEA] Diggins-Smith Pullup Jump shot: Missed,-38,147,2,,203400,,1611661328,33,26,0,2
+04:27,[SEA] Williams Rebound (Off:2 Def:1),-38,147,4,,1628931,,1611661328,33,26,0,2
+04:26,[SEA 28-33] Williams Tip Layup Shot: Made (10 PTS),0,-5,1,,1628931,,1611661328,33,28,2,2
+04:00,[NYL 35-28] Laney-Hamilton Pullup Jump shot: Made (9 PTS) Assist: Ionescu (2 AST),181,69,1,,204335,1629477,1611661313,35,28,2,2
+03:47,[SEA 30-35] Loyd Pullup Jump shot: Made (4 PTS),-27,156,1,,204319,,1611661328,35,30,2,2
+03:26,[NYL] Ionescu Pullup Jump shot: Missed,68,103,2,,1629477,,1611661313,35,30,0,2
+03:23,[SEA] Magbegor Rebound (Off:0 Def:3),68,103,4,,1629496,,1611661328,35,30,0,2
+03:14,[SEA] Magbegor Cutting Layup Shot: Missed Block: Sabally (1 BLK),32,3,2,1631055,1629496,,1611661328,35,30,0,2
+03:13,[SEA] Team Rebound,32,3,4,,0,,1611661328,35,30,0,2
+03:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,30,0,2
+03:03,[SEA] Loyd 3pt Shot: Missed,89,227,2,,204319,,1611661328,35,30,0,2
+03:01,[NYL] Sabally Rebound (Off:0 Def:1),89,227,4,,1631055,,1611661313,35,30,0,2
+02:55,[NYL 38-30] Ionescu 3pt Shot: Made (10 PTS) Assist: Laney-Hamilton (1 AST),124,237,1,,1629477,204335,1611661313,38,30,3,2
+02:41,[SEA 32-38] N Ogwumike Driving Layup Shot: Made (4 PTS) Assist: Williams (2 AST),2,51,1,,203014,1628931,1611661328,38,32,2,2
+02:41,[NYL] Sabally Foul: Shooting (1 PF) (1 FTA),2,51,6,203014,1631055,1629771,1611661313,38,32,0,2
+02:41,[NYL] Sabally Substitution replaced by Jones,0,-80,8,,1631055,1627673,1611661313,38,32,0,2
+02:41,[SEA 33-38] N Ogwumike Free Throw 1 of 1 (5 PTS),0,-80,3,,203014,,1611661328,38,33,1,2
+02:33,[NYL] Laney-Hamilton Turnover : Out of Bounds - Bad Pass Turnover (1 TO),89,97,5,,204335,1629771,1611661313,38,33,0,2
+02:13,[SEA] Williams Pullup Jump shot: Missed,-3,152,2,,1628931,,1611661328,38,33,0,2
+02:10,[NYL] Stewart Rebound (Off:1 Def:3),-3,152,4,,1627668,,1611661313,38,33,0,2
+02:05,[NYL] Ionescu 3pt Shot: Missed,-197,132,2,,1629477,,1611661313,38,33,0,2
+02:01,[NYL] Jones Rebound (Off:1 Def:2),-197,132,4,,1627673,,1611661313,38,33,0,2
+01:59,[NYL] Stewart Floating Jump shot: Missed,5,53,2,,1627668,,1611661313,38,33,0,2
+01:57,[SEA] Magbegor Rebound (Off:0 Def:4),5,53,4,,1629496,,1611661328,38,33,0,2
+01:42,[SEA] Williams Driving Hook Shot: Missed,43,43,2,,1628931,,1611661328,38,33,0,2
+01:39,[NYL] Jones Rebound (Off:1 Def:3),43,43,4,,1627673,,1611661313,38,33,0,2
+01:23,[NYL 40-33] Ionescu Driving Layup Shot: Made (12 PTS),44,13,1,,1629477,,1611661313,40,33,2,2
+01:00,[SEA] N Ogwumike Jump Shot: Missed,174,40,2,,203014,,1611661328,40,33,0,2
+00:57.9,[NYL] Jones Rebound (Off:1 Def:4),174,40,4,,1627673,,1611661313,40,33,0,2
+00:50.4,[SEA] Magbegor Foul: Personal (2 PF),53,92,6,204335,1629496,1629771,1611661328,40,33,0,2
+00:50.4,[NYL] Thornton Substitution replaced by Fiebich,0,-80,8,,203866,1630142,1611661313,40,33,0,2
+00:45.4,Jump Ball Jones vs Williams (Fiebich gains possession),0,-80,10,1628931,1627673,1630142,1611661313,40,33,0,2
+00:34.8,[NYL] Ionescu 3pt Shot: Missed,-105,240,2,,1629477,,1611661313,40,33,0,2
+00:31.0,[SEA] N Ogwumike Rebound (Off:0 Def:6),-105,240,4,,203014,,1611661328,40,33,0,2
+00:13.0,[SEA 36-40] Diggins-Smith 3pt Shot: Made (10 PTS) Assist: Loyd (1 AST),119,220,1,,203400,204319,1611661328,40,36,3,2
+00:03.9,[NYL] Ionescu 3pt Shot: Missed,74,263,2,,1629477,,1611661313,40,36,0,2
+00:03.9,[NYL] Ionescu Rebound (Off:1 Def:2),74,263,4,,1629477,,1611661313,40,36,0,2
+00:01.0,[NYL] Ionescu Turnover : Lost Ball (1 TO) Steal:Diggins-Smith (1 ST),220,139,5,203400,1629477,,1611661313,40,36,0,2
+00:00.0,End Period,0,-80,13,,0,,0,40,36,0,2
+10:00,Start Period,0,-80,12,,0,,0,40,36,0,3
+09:45,[SEA 38-40] Magbegor Layup Shot: Made (7 PTS) Assist: Diggins-Smith (3 AST),-32,8,1,,1629496,203400,1611661328,40,38,2,3
+09:26,[SEA] Diggins-Smith Foul: Shooting (1 PF) (2 FTA),-39,117,6,1627668,203400,202297,1611661328,40,38,0,3
+09:26,[NYL 41-38] Stewart Free Throw 1 of 2 (2 PTS),0,-80,3,,1627668,,1611661313,41,38,1,3
+09:26,[NYL] Stewart Free Throw 2 of 2 Missed,0,-80,3,,1627668,,1611661313,41,38,0,3
+09:24,[NYL] Jones Rebound (Off:2 Def:4),0,-80,4,,1627673,,1611661313,41,38,0,3
+09:19,[NYL 43-38] Ionescu Pullup Jump shot: Made (14 PTS) Assist: Jones (1 AST),-6,153,1,,1629477,1627673,1611661313,43,38,2,3
+08:54,[SEA 40-43] Williams Pullup Jump shot: Made (12 PTS),-28,113,1,,1628931,,1611661328,43,40,2,3
+08:38,[NYL 45-40] Jones Cutting Layup Shot: Made (12 PTS) Assist: Ionescu (3 AST),-43,39,1,,1627673,1629477,1611661313,45,40,2,3
+08:26,[SEA] Diggins-Smith Pullup Jump shot: Missed,4,182,2,,203400,,1611661328,45,40,0,3
+08:25,[NYL] Jones Rebound (Off:2 Def:5),4,182,4,,1627673,,1611661313,45,40,0,3
+08:01,[NYL] Team Turnover : Shot Clock Turnover,194,65,5,,0,202297,1611661313,45,40,0,3
+07:46,[SEA 42-45] N Ogwumike Turnaround Jump Shot: Made (7 PTS) Assist: Diggins-Smith (4 AST),-82,8,1,,203014,203400,1611661328,45,42,2,3
+07:35,[NYL] Stewart Driving Floating Jump Shot: Missed,-1,78,2,,1627668,,1611661313,45,42,0,3
+07:33,[SEA] Magbegor Rebound (Off:0 Def:5),-1,78,4,,1629496,,1611661328,45,42,0,3
+07:26,[SEA] Diggins-Smith Driving Reverse Layup Shot: Missed Block: Jones (2 BLK),12,32,2,1627673,203400,,1611661328,45,42,0,3
+07:26,[SEA] Team Rebound,12,32,4,,0,,1611661328,45,42,0,3
+07:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,42,0,3
+07:22,[SEA 45-45] Diggins-Smith 3pt Shot: Made (13 PTS) Assist: N Ogwumike (2 AST),133,207,1,,203400,203014,1611661328,45,45,3,3
+07:20,Timeout : Regular,0,-80,9,,1611661313,,1611661313,45,45,0,3
+07:02,[NYL 48-45] Ionescu 3pt Shot: Made (17 PTS) Assist: Stewart (2 AST),216,96,1,,1629477,1627668,1611661313,48,45,3,3
+06:34,[SEA 48-48] Williams 3pt Shot: Made (15 PTS) Assist: Diggins-Smith (5 AST),-232,3,1,,1628931,203400,1611661328,48,48,3,3
+06:18,[NYL] Jones Turnover : Lost Ball (1 TO) Steal:N Ogwumike (2 ST),-45,129,5,203014,1627673,,1611661313,48,48,0,3
+06:04,[SEA 50-48] Magbegor Layup Shot: Made (9 PTS) Assist: N Ogwumike (3 AST),45,35,1,,1629496,203014,1611661328,48,50,2,3
+05:42,[NYL 51-50] Jones 3pt Shot: Made (15 PTS) Assist: Ionescu (4 AST),1,248,1,,1627673,1629477,1611661313,51,50,3,3
+05:16,[SEA] Magbegor Cutting Layup Shot: Missed Block: Jones (3 BLK),12,22,2,1627673,1629496,,1611661328,51,50,0,3
+05:15,[SEA] Team Rebound,12,22,4,,0,,1611661328,51,50,0,3
+05:15,[SEA] Team Turnover : Shot Clock Turnover,48,156,5,,0,202297,1611661328,51,50,0,3
+05:15,[NYL] Laney-Hamilton Substitution replaced by Fiebich,0,-80,8,,204335,1630142,1611661313,51,50,0,3
+05:15,[NYL] Vandersloot Substitution replaced by Thornton,0,-80,8,,202664,203866,1611661313,51,50,0,3
+05:01,[NYL] Stewart Pullup Jump shot: Missed,-7,150,2,,1627668,,1611661313,51,50,0,3
+04:56,[SEA] Loyd Rebound (Off:0 Def:2),-7,150,4,,204319,,1611661328,51,50,0,3
+04:54,[NYL] Fiebich Foul: Personal (1 PF),-143,81,6,1629496,1630142,100698,1611661313,51,50,0,3
+04:47,[SEA 53-51] Diggins-Smith 3pt Shot: Made (16 PTS) Assist: Williams (3 AST),6,239,1,,203400,1628931,1611661328,51,53,3,3
+04:32,[SEA] Williams Foul: Personal (2 PF),-38,98,6,1627668,1628931,100698,1611661328,51,53,0,3
+04:25,[NYL] Ionescu Driving Layup Shot: Missed,-66,66,2,,1629477,,1611661313,51,53,0,3
+04:24,[NYL] Team Rebound,-66,66,4,,0,,1611661313,51,53,0,3
+04:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,51,53,0,3
+04:17,[NYL] Stewart Turnaround Fadeaway shot: Missed,-73,157,2,,1627668,,1611661313,51,53,0,3
+04:13,[SEA] Williams Rebound (Off:2 Def:2),-73,157,4,,1628931,,1611661328,51,53,0,3
+04:06,[SEA 55-51] Williams Driving Layup Shot: Made (17 PTS),35,16,1,,1628931,,1611661328,51,55,2,3
+03:54,[NYL] Fiebich Turnover : Traveling (1 TO),-209,62,5,,1630142,1629771,1611661313,51,55,0,3
+03:54,[NYL] Stewart Substitution replaced by Burke,0,-80,8,,1627668,1629568,1611661313,51,55,0,3
+03:45,[SEA] Diggins-Smith Driving Layup Shot: Missed Block: Jones (4 BLK),54,22,2,1627673,203400,,1611661328,51,55,0,3
+03:44,[NYL] Thornton Rebound (Off:0 Def:1),54,22,4,,203866,,1611661313,51,55,0,3
+03:26,[NYL] Ionescu Driving Floating Jump Shot: Missed,-5,134,2,,1629477,,1611661313,51,55,0,3
+03:24,[SEA] Loyd Rebound (Off:0 Def:3),-5,134,4,,204319,,1611661328,51,55,0,3
+03:10,[SEA] Diggins-Smith Turnover : Step Out of Bounds Turnover (3 TO),206,139,5,,203400,1629771,1611661328,51,55,0,3
+03:10,[SEA] Diggins-Smith Substitution replaced by Horston,0,-80,8,,203400,1641651,1611661328,51,55,0,3
+02:56,[NYL] Ionescu Driving Layup Shot: Missed Block: Magbegor (3 BLK),-48,60,2,1629496,1629477,,1611661313,51,55,0,3
+02:55,[NYL] Ionescu Rebound (Off:2 Def:2),-48,60,4,,1629477,,1611661313,51,55,0,3
+02:51,[NYL 54-55] Thornton 3pt Shot: Made (3 PTS) Assist: Ionescu (5 AST),223,107,1,,203866,1629477,1611661313,54,55,3,3
+02:34,[SEA] Williams 3pt Shot: Missed,100,213,2,,1628931,,1611661328,54,55,0,3
+02:30,[NYL] Jones Rebound (Off:2 Def:6),100,213,4,,1627673,,1611661313,54,55,0,3
+02:12,[NYL 56-55] Burke Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Ionescu (6 AST),-5,64,1,,1629568,1629477,1611661313,56,55,2,3
+01:58,[SEA 57-56] Loyd Cutting Layup Shot: Made (6 PTS) Assist: Williams (4 AST),-30,30,1,,204319,1628931,1611661328,56,57,2,3
+01:43,[NYL] Burke 3pt Shot: Missed,-202,155,2,,1629568,,1611661313,56,57,0,3
+01:39,[SEA] Loyd Rebound (Off:0 Def:4),-202,155,4,,204319,,1611661328,56,57,0,3
+01:36,[SEA] Loyd Turnover : Lost Ball (1 TO) Steal:Ionescu (1 ST),-160,185,5,1629477,204319,,1611661328,56,57,0,3
+01:33,[NYL] Ionescu Running Layup Shot: Missed Block: Magbegor (4 BLK),30,18,2,1629496,1629477,,1611661313,56,57,0,3
+01:32,[NYL] Team Rebound,30,18,4,,0,,1611661313,56,57,0,3
+01:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,57,0,3
+01:32,[NYL] Thornton Substitution replaced by Laney-Hamilton,0,-80,8,,203866,204335,1611661313,56,57,0,3
+01:32,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,56,57,0,3
+01:32,[SEA] Williams Substitution replaced by Whitcomb,0,-80,8,,1628931,1628244,1611661328,56,57,0,3
+01:32,[SEA] Magbegor Substitution replaced by Russell,0,-80,8,,1629496,1628920,1611661328,56,57,0,3
+01:32,[SEA] Russell Substitution replaced by Magbegor,0,-80,8,,1628920,1629496,1611661328,56,57,0,3
+01:24,[NYL] Jones 3pt Shot: Missed,-193,174,2,,1627673,,1611661313,56,57,0,3
+01:22,[NYL] Fiebich Rebound (Off:2 Def:0),-193,174,4,,1630142,,1611661313,56,57,0,3
+01:21,[SEA] Magbegor Foul: Shooting (3 PF) (2 FTA),-62,67,6,204335,1629496,1629771,1611661328,56,57,0,3
+01:21,[NYL 57-57] Laney-Hamilton Free Throw 1 of 2 (10 PTS),0,-80,3,,204335,,1611661313,57,57,1,3
+01:21,[NYL] Jones Substitution replaced by Stewart,0,-80,8,,1627673,1627668,1611661313,57,57,0,3
+01:21,[SEA] N Ogwumike Substitution replaced by Russell,0,-80,8,,203014,1628920,1611661328,57,57,0,3
+01:21,[NYL 58-57] Laney-Hamilton Free Throw 2 of 2 (11 PTS),0,-80,3,,204335,,1611661313,58,57,1,3
+00:58.6,[SEA] Russell Jump Shot: Missed,-161,14,2,,1628920,,1611661328,58,57,0,3
+00:55.2,[NYL] Fiebich Rebound (Off:2 Def:1),-161,14,4,,1630142,,1611661313,58,57,0,3
+00:44.0,[NYL 60-57] Stewart Cutting Layup Shot: Made (4 PTS) Assist: Laney-Hamilton (2 AST),-24,35,1,,1627668,204335,1611661313,60,57,2,3
+00:33.1,[SEA] Loyd 3pt Shot: Missed,157,188,2,,204319,,1611661328,60,57,0,3
+00:30.0,[NYL] Fiebich Rebound (Off:2 Def:2),157,188,4,,1630142,,1611661313,60,57,0,3
+00:24.9,[NYL 62-57] Laney-Hamilton Running Layup Shot: Made (13 PTS) Assist: Fiebich (2 AST),-42,27,1,,204335,1630142,1611661313,62,57,2,3
+00:02.0,[SEA] Russell Turnaround Jump Shot: Missed Block: Stewart (2 BLK),10,135,2,1627668,1628920,,1611661328,62,57,0,3
+00:02.0,[NYL] Stewart Rebound (Off:1 Def:4),10,135,4,,1627668,,1611661313,62,57,0,3
+00:01.0,[NYL] Stewart 3pt Shot: Missed,-57,426,2,,1627668,,1611661313,62,57,0,3
+00:00.4,[NYL] Team Rebound,-57,426,4,,0,,1611661313,62,57,0,3
+00:00.0,End Period,0,-80,13,,0,,0,62,57,0,3
+10:00,Start Period,0,-80,12,,0,,0,62,57,0,4
+09:44,[NYL 65-57] Laney-Hamilton 3pt Shot: Made (16 PTS) Assist: Vandersloot (5 AST),213,91,1,,204335,202664,1611661313,65,57,3,4
+09:19,[SEA] Diggins-Smith Jump Shot: Missed,-170,115,2,,203400,,1611661328,65,57,0,4
+09:15,[NYL] Burke Rebound (Off:0 Def:1),-149,60,4,,1629568,,1611661313,65,57,0,4
+09:08,[NYL] Burke Foul: Offensive (1 PF),-4,172,6,1628244,1629568,100698,1611661313,65,57,0,4
+09:08,[NYL] Burke Turnover : Offensive Foul Turnover (1 TO),-4,172,5,,1629568,100698,1611661313,65,57,0,4
+09:08,[SEA] Russell Substitution replaced by Williams,0,-80,8,,1628920,1628931,1611661328,65,57,0,4
+08:51,[SEA] Horston Turnaround Jump Shot: Missed,-44,51,2,,1641651,,1611661328,65,57,0,4
+08:47,[NYL] Laney-Hamilton Rebound (Off:2 Def:2),-44,51,4,,204335,,1611661313,65,57,0,4
+08:41,[NYL 68-57] Stewart 3pt Shot: Made (7 PTS) Assist: Laney-Hamilton (3 AST),-234,7,1,,1627668,204335,1611661313,68,57,3,4
+08:41,Timeout : Regular,0,-80,9,,1611661328,,1611661328,68,57,0,4
+08:41,[SEA] Magbegor Substitution replaced by N Ogwumike,0,-80,8,,1629496,203014,1611661328,68,57,0,4
+08:41,[SEA] Horston Substitution replaced by Vivians,0,-80,8,,1641651,1628927,1611661328,68,57,0,4
+08:21,[SEA] Diggins-Smith Turnover : Bad Pass (4 TO) Steal:Fiebich (3 ST),54,56,5,1630142,203400,,1611661328,68,57,0,4
+08:05,[NYL] Burke Turnover : Lost Ball (2 TO) Steal:Diggins-Smith (2 ST),-65,23,5,203400,1629568,,1611661313,68,57,0,4
+07:58,[SEA] Whitcomb Turnover : Bad Pass (1 TO) Steal:Vandersloot (2 ST),82,204,5,202664,1628244,,1611661328,68,57,0,4
+07:52,[NYL] Burke Running Layup Shot: Missed,34,40,2,,1629568,,1611661313,68,57,0,4
+07:49,[SEA] Whitcomb Rebound (Off:0 Def:1),34,40,4,,1628244,,1611661328,68,57,0,4
+07:46,[SEA] Whitcomb 3pt Shot: Missed,176,186,2,,1628244,,1611661328,68,57,0,4
+07:42,[NYL] Vandersloot Rebound (Off:0 Def:2),176,186,4,,202664,,1611661313,68,57,0,4
+07:32,[NYL] Burke Turnover : Bad Pass (3 TO) Steal:N Ogwumike (3 ST),46,118,5,203014,1629568,,1611661313,68,57,0,4
+07:23,[SEA] N Ogwumike Driving Layup Shot: Missed Block: Stewart (3 BLK),28,49,2,1627668,203014,,1611661328,68,57,0,4
+07:21,[SEA] Whitcomb Rebound (Off:1 Def:1),28,49,4,,1628244,,1611661328,68,57,0,4
+07:10,[SEA] Vivians 3pt Shot: Missed,-235,16,2,,1628927,,1611661328,68,57,0,4
+07:07,[SEA] Whitcomb Rebound (Off:2 Def:1),-235,16,4,,1628244,,1611661328,68,57,0,4
+06:58,[SEA 59-68] Vivians Jump Shot: Made (2 PTS) Assist: Williams (5 AST),-122,15,1,,1628927,1628931,1611661328,68,59,2,4
+06:42,[NYL] Vandersloot 3pt Shot: Missed,210,109,2,,202664,,1611661313,68,59,0,4
+06:40,[SEA] Team Rebound,210,109,4,,0,,1611661328,68,59,0,4
+06:40,[NYL] Burke Substitution replaced by Ionescu,0,-80,8,,1629568,1629477,1611661313,68,59,0,4
+06:40,[NYL] Vandersloot Substitution replaced by Jones,0,-80,8,,202664,1627673,1611661313,68,59,0,4
+06:40,[SEA] Vivians Substitution replaced by Magbegor,0,-80,8,,1628927,1629496,1611661328,68,59,0,4
+06:40,Jump Ball Whitcomb vs Fiebich (Diggins-Smith gains possession),0,-80,10,1630142,1628244,203400,1611661328,68,59,0,4
+06:24,[SEA 61-68] N Ogwumike Turnaround Jump Shot: Made (9 PTS),62,94,1,,203014,,1611661328,68,61,2,4
+06:15,Timeout : Regular,0,-80,9,,1611661313,,1611661313,68,61,0,4
+06:15,[SEA] Whitcomb Substitution replaced by Loyd,0,-80,8,,1628244,204319,1611661328,68,61,0,4
+06:07,[NYL] Laney-Hamilton Turnover : Double Dribble (2 TO),-78,144,5,,204335,100698,1611661313,68,61,0,4
+05:56,[SEA] Diggins-Smith Driving Floating Jump Shot: Missed,9,56,2,,203400,,1611661328,68,61,0,4
+05:55,[SEA] Diggins-Smith Rebound (Off:3 Def:1),9,56,4,,203400,,1611661328,68,61,0,4
+05:55,[SEA] Diggins-Smith Tip Layup Shot: Missed,0,-5,2,,203400,,1611661328,68,61,0,4
+05:53,[NYL] Fiebich Rebound (Off:2 Def:3),0,-5,4,,1630142,,1611661313,68,61,0,4
+05:47,[NYL] Ionescu Foul: Offensive (1 PF),-37,262,6,203400,1629477,100698,1611661313,68,61,0,4
+05:47,[NYL] Ionescu Turnover : Offensive Foul Turnover (2 TO),-37,262,5,,1629477,100698,1611661313,68,61,0,4
+05:27,[SEA 63-68] Magbegor Turnaround Jump Shot: Made (11 PTS),11,100,1,,1629496,,1611661328,68,63,2,4
+05:08,[NYL] Stewart Turnaround Jump Shot: Missed,13,76,2,,1627668,,1611661313,68,63,0,4
+05:06,[NYL] Laney-Hamilton Rebound (Off:3 Def:2),13,76,4,,204335,,1611661313,68,63,0,4
+04:59,[NYL 70-63] Stewart Turnaround Jump Shot: Made (9 PTS) Assist: Ionescu (7 AST),-49,90,1,,1627668,1629477,1611661313,70,63,2,4
+04:59,[NYL] Jones Foul: Loose Ball (2 PF),27,778,6,203400,1627673,202297,1611661313,70,63,0,4
+04:40,[SEA] Magbegor Jump Shot: Missed,-69,56,2,,1629496,,1611661328,70,63,0,4
+04:37,[NYL] Laney-Hamilton Rebound (Off:3 Def:3),-69,56,4,,204335,,1611661313,70,63,0,4
+04:32,[NYL 72-63] Stewart Turnaround Jump Shot: Made (11 PTS) Assist: Fiebich (3 AST),21,72,1,,1627668,1630142,1611661313,72,63,2,4
+04:26,Timeout : Regular,0,-80,9,,1611661328,,1611661328,72,63,0,4
+04:17,[SEA 65-72] Diggins-Smith Floating Jump shot: Made (18 PTS),7,59,1,,203400,,1611661328,72,65,2,4
+03:52,[NYL] Laney-Hamilton Turnaround Fadeaway shot: Missed,-9,102,2,,204335,,1611661313,72,65,0,4
+03:50,[SEA] Loyd Rebound (Off:0 Def:5),-9,102,4,,204319,,1611661328,72,65,0,4
+03:36,[SEA] N Ogwumike Turnaround Fadeaway shot: Missed,-7,122,2,,203014,,1611661328,72,65,0,4
+03:33,[NYL] Ionescu Rebound (Off:2 Def:3),-7,122,4,,1629477,,1611661313,72,65,0,4
+03:25,[NYL 74-65] Stewart Cutting Layup Shot: Made (13 PTS) Assist: Ionescu (8 AST),34,23,1,,1627668,1629477,1611661313,74,65,2,4
+03:25,[SEA] Loyd Foul: Shooting (1 PF) (1 FTA),34,23,6,1627668,204319,100698,1611661328,74,65,0,4
+03:25,[NYL 75-65] Stewart Free Throw 1 of 1 (14 PTS),0,-80,3,,1627668,,1611661313,75,65,1,4
+03:15,[NYL] Laney-Hamilton Foul: Shooting (2 PF) (2 FTA),-66,13,6,203400,204335,202297,1611661313,75,65,0,4
+03:15,Timeout : Regular,0,-80,9,,1611661313,,1611661313,75,65,0,4
+03:15,Instant Replay - Challenge - Ruling Stands,0,-80,18,,0,,1611661313,75,65,0,4
+03:15,[SEA] Diggins-Smith Free Throw 1 of 2 Missed,0,-80,3,,203400,,1611661328,75,65,0,4
+03:15,[SEA] Team Rebound,0,-80,4,,0,,1611661328,75,65,0,4
+03:15,[SEA 66-75] Diggins-Smith Free Throw 2 of 2 (19 PTS),0,-80,3,,203400,,1611661328,75,66,1,4
+03:04,[NYL 77-66] Laney-Hamilton Driving Layup Shot: Made (18 PTS) Assist: Stewart (3 AST),-21,42,1,,204335,1627668,1611661313,77,66,2,4
+02:52,[SEA] N Ogwumike Cutting Layup Shot: Missed Block: Jones (5 BLK),44,41,2,1627673,203014,,1611661328,77,66,0,4
+02:51,[SEA] Team Rebound,44,41,4,,0,,1611661328,77,66,0,4
+02:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,66,0,4
+02:49,[SEA 68-77] Magbegor Turnaround Fadeaway shot: Made (13 PTS) Assist: Diggins-Smith (6 AST),45,43,1,,1629496,203400,1611661328,77,68,2,4
+02:49,[NYL] Stewart Foul: Shooting (1 PF) (1 FTA),45,43,6,1629496,1627668,1629771,1611661313,77,68,0,4
+02:49,[SEA] Magbegor Free Throw 1 of 1 Missed,0,-80,3,,1629496,,1611661328,77,68,0,4
+02:47,[NYL] Stewart Rebound (Off:1 Def:5),0,-80,4,,1627668,,1611661313,77,68,0,4
+02:36,[SEA] Diggins-Smith Foul: Personal (2 PF),-99,157,6,204335,203400,202297,1611661328,77,68,0,4
+02:26,[NYL] Stewart Driving Floating Jump Shot: Missed,91,69,2,,1627668,,1611661313,77,68,0,4
+02:24,[NYL] Team Rebound,91,69,4,,0,,1611661313,77,68,0,4
+02:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,68,0,4
+02:16,[NYL] Jones Turnaround Jump Shot: Missed,-10,77,2,,1627673,,1611661313,77,68,0,4
+02:13,[SEA] Magbegor Rebound (Off:0 Def:6),-10,77,4,,1629496,,1611661328,77,68,0,4
+02:02,[NYL] Fiebich Foul: Personal (2 PF),23,99,6,203014,1630142,1629771,1611661313,77,68,0,4
+01:53,[SEA 70-77] Diggins-Smith Driving Layup Shot: Made (21 PTS),-35,20,1,,203400,,1611661328,77,70,2,4
+01:39,[NYL] Laney-Hamilton Pullup Jump shot: Missed,-44,93,2,,204335,,1611661313,77,70,0,4
+01:37,[SEA] Magbegor Rebound (Off:0 Def:7),-44,93,4,,1629496,,1611661328,77,70,0,4
+01:26,[SEA] Williams 3pt Shot: Missed,220,85,2,,1628931,,1611661328,77,70,0,4
+01:23,[NYL] Fiebich Rebound (Off:2 Def:4),220,85,4,,1630142,,1611661313,77,70,0,4
+01:03,[NYL] Laney-Hamilton 3pt Shot: Missed,-168,184,2,,204335,,1611661313,77,70,0,4
+00:59.3,[SEA] Loyd Rebound (Off:0 Def:6),-168,184,4,,204319,,1611661328,77,70,0,4
+00:54.4,[SEA] Loyd Running Layup Shot: Missed,9,40,2,,204319,,1611661328,77,70,0,4
+00:52.3,[NYL] Stewart Rebound (Off:1 Def:6),9,40,4,,1627668,,1611661313,77,70,0,4
+00:28.4,[NYL] Ionescu Driving Floating Jump Shot: Missed,-27,152,2,,1629477,,1611661313,77,70,0,4
+00:26.1,[NYL] Team Rebound,-27,152,4,,0,,1611661313,77,70,0,4
+00:26.1,[NYL] Fiebich Turnover : Kicked Ball Violation (2 TO),-72,148,5,,1630142,,1611661313,77,70,0,4
+00:26.1,Timeout : Reset,0,-80,9,,1611661328,,1611661328,77,70,0,4
+00:20.9,[SEA] Diggins-Smith 3pt Shot: Missed,3,247,2,,203400,,1611661328,77,70,0,4
+00:17.9,[NYL] Ionescu Rebound (Off:2 Def:4),3,247,4,,1629477,,1611661313,77,70,0,4
+00:00.0,End Period,0,-80,13,,0,,0,77,70,0,4

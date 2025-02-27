@@ -1,0 +1,398 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:58,Jump Ball Jones vs Charles (Thomas gains possession),0,-80,10,202250,1627673,202662,1611661323,0,0,1
+09:45,[CON] Williams Pullup Jump shot: Missed,181,3,2,,1627675,,1611661323,0,0,1
+09:40,[NYL] Wright Rebound (Off:0 Def:1),181,3,4,,101030,,1611661313,0,0,1
+09:35,Jump Ball Jones vs Zahui B (Thomas gains possession),0,-80,10,204320,1627673,202662,1611661323,0,0,1
+09:35,[NYL] Zahui B Turnover : Lost Ball (1 TO) Steal:Jones (1 ST),0,-80,5,1627673,204320,,1611661313,0,0,1
+09:32,[CON] Thomas Driving Layup Shot: Missed,-11,16,2,,202662,,1611661323,0,0,1
+09:31,[CON] Williams Rebound (Off:1 Def:0),-11,16,4,,1627675,,1611661323,0,0,1
+09:26,[CON 3-0] Stricklen 3pt Shot: Made (3 PTS) Assist: Williams (1 AST),-20,236,1,,203015,1627675,1611661323,0,3,1
+09:06,[NYL] Charles Turnaround Fadeaway shot: Missed,64,38,2,,202250,,1611661313,0,3,1
+09:03,[NYL] Zahui B Rebound (Off:1 Def:0),64,38,4,,204320,,1611661313,0,3,1
+09:03,[NYL 2-3] Zahui B Putback Layup Shot: Made (2 PTS),0,3,1,,204320,,1611661313,2,3,1
+08:48,[CON] Jones Turnover : Out of Bounds Lost Ball Turnover (1 TO),-55,9,5,,1627673,,1611661323,2,3,1
+08:37,[NYL] Wright Jump Shot: Missed,147,149,2,,101030,,1611661313,2,3,1
+08:35,[CON] Williams Rebound (Off:1 Def:1),147,149,4,,1627675,,1611661323,2,3,1
+08:20,[CON 5-2] Williams Jump Shot: Made (2 PTS) Assist: Thomas (1 AST),-166,22,1,,1627675,203826,1611661323,2,5,1
+08:01,[NYL] Zahui B 3pt Shot: Missed,-170,200,2,,204320,,1611661313,2,5,1
+07:57,[CON] Stricklen Rebound (Off:0 Def:1),-170,200,4,,203015,,1611661323,2,5,1
+07:50,[CON] Thomas Turnover : Lost Ball (1 TO) Steal:Charles (1 ST),50,198,5,202250,202662,,1611661323,2,5,1
+07:38,[NYL] Durr 3pt Shot: Missed,-232,26,2,,1629476,,1611661313,2,5,1
+07:35,[CON] Jones Rebound (Off:0 Def:1),-232,26,4,,1627673,,1611661323,2,5,1
+07:17,[CON] Jones Turnaround Jump Shot: Missed,-142,16,2,,1627673,,1611661323,2,5,1
+07:17,[NYL] Team Rebound,-142,16,4,,0,,1611661313,2,5,1
+07:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,5,1
+07:05,[NYL] Nurse 3pt Shot: Missed,103,220,2,,1628915,,1611661313,2,5,1
+07:03,[CON] Jones Rebound (Off:0 Def:2),96,198,4,,1627673,,1611661323,2,5,1
+06:49,[CON 7-2] Williams Pullup Jump shot: Made (4 PTS) Assist: Stricklen (1 AST),103,149,1,,1627675,203015,1611661323,2,7,1
+06:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,7,1
+06:25,[NYL] Zahui B Turnover : 3 Second Violation (2 TO),14,34,5,,204320,,1611661313,2,7,1
+06:08,[CON 9-2] Thomas Driving Layup Shot: Made (2 PTS),12,20,1,,203826,,1611661323,2,9,1
+06:02,[CON] Thomas Foul: Personal (1 PF),-3,12,6,1629476,203826,,1611661323,2,9,1
+05:55,[NYL] Zahui B 3pt Shot: Missed,27,248,2,,204320,,1611661313,2,9,1
+05:51,[CON] Thomas Rebound (Off:0 Def:1),27,248,4,,203826,,1611661323,2,9,1
+05:47,[CON] Stricklen 3pt Shot: Missed,-214,113,2,,203015,,1611661323,2,9,1
+05:44,[NYL] Zahui B Rebound (Off:1 Def:1),-214,113,4,,204320,,1611661313,2,9,1
+05:33,[NYL 4-9] Zahui B Layup Shot: Made (4 PTS),10,12,1,,204320,,1611661313,4,9,1
+05:21,[CON 11-4] Williams Pullup Jump shot: Made (6 PTS) Assist: Thomas (1 AST),146,100,1,,1627675,202662,1611661323,4,11,1
+05:10,[NYL] Zahui B Turnover : Traveling (3 TO),91,184,5,,204320,,1611661313,4,11,1
+04:55,[NYL] Wright Foul: Shooting (1 PF) (2 FTA),11,6,6,1627673,101030,,1611661313,4,11,1
+04:55,[CON 12-4] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1627673,,1611661323,4,12,1
+04:55,[CON 13-4] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1627673,,1611661323,4,13,1
+04:55,Timeout Officials,0,-80,9,,0,,0,4,13,1
+04:41,[NYL 6-13] Charles Hook Shot: Made (2 PTS) Assist: Durr (1 AST),-3,26,1,,202250,1629476,1611661313,6,13,1
+04:18,[CON] Jones 3pt Shot: Missed,87,250,2,,1627673,,1611661323,6,13,1
+04:18,[NYL] Durr Rebound (Off:0 Def:1),87,250,4,,1629476,,1611661313,6,13,1
+04:09,[NYL] Zahui B 3pt Shot: Missed,48,247,2,,204320,,1611661313,6,13,1
+04:08,[CON] Team Rebound,48,247,4,,0,,1611661323,6,13,1
+04:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,13,1
+03:53,[CON 16-6] Thomas 3pt Shot: Made (3 PTS) Assist: Stricklen (2 AST),225,-12,1,,202662,203015,1611661323,6,16,1
+03:44,[CON] Stricklen Foul: Personal (1 PF),-121,238,6,1628915,203015,,1611661323,6,16,1
+03:44,[NYL] Zahui B Substitution replaced by Gray,0,-80,8,,204320,204334,1611661313,6,16,1
+03:33,[NYL 8-16] Charles Layup Shot: Made (4 PTS),14,11,1,,202250,,1611661313,8,16,1
+03:21,[CON 18-8] Williams Jump Shot: Made (8 PTS) Assist: Thomas (2 AST),148,-16,1,,1627675,202662,1611661323,8,18,1
+03:06,[NYL] Wright 3pt Shot: Missed,230,5,2,,101030,,1611661313,8,18,1
+03:04,[CON] Williams Rebound (Off:1 Def:2),230,5,4,,1627675,,1611661323,8,18,1
+02:56,[CON] Thomas Pullup Jump shot: Missed,141,140,2,,202662,,1611661323,8,18,1
+02:53,[NYL] Gray Rebound (Off:0 Def:1),141,140,4,,204334,,1611661313,8,18,1
+02:48,[NYL 10-18] Charles Layup Shot: Made (6 PTS) Assist: Wright (1 AST),-13,15,1,,202250,101030,1611661313,10,18,1
+02:33,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),111,178,5,,203826,,1611661323,10,18,1
+02:33,[NYL] Durr Substitution replaced by Boyd,0,-80,8,,1629476,204327,1611661313,10,18,1
+02:33,[NYL] Wright Substitution replaced by Johannes,0,-80,8,,101030,1629546,1611661313,10,18,1
+02:33,[CON] Williams Substitution replaced by Banham,0,-80,8,,1627675,1627671,1611661323,10,18,1
+02:33,[CON] Stricklen Substitution replaced by Holmes,0,-80,8,,203015,1627678,1611661323,10,18,1
+02:23,[NYL] Boyd Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),-193,160,5,203826,204327,,1611661313,10,18,1
+02:21,[CON 20-10] Thomas Driving Layup Shot: Made (4 PTS),-13,6,1,,203826,,1611661323,10,20,1
+02:21,[NYL] Johannes Foul: Shooting (1 PF) (1 FTA),-15,5,6,203826,1629546,,1611661313,10,20,1
+02:21,[NYL] Boyd Technical (1 FTA),0,-80,6,,204327,,1611661313,10,20,1
+02:21,[CON 21-10] Jones Free Throw Technical (3 PTS),0,-80,3,,1627673,,1611661323,10,21,1
+02:21,[CON] Thomas Free Throw 1 of 1 Missed,0,-80,3,,203826,,1611661323,10,21,1
+02:21,[CON] Jones Rebound (Off:1 Def:2),0,-80,4,,1627673,,1611661323,10,21,1
+02:16,[CON 24-10] Thomas 3pt Shot: Made (6 PTS) Assist: Holmes (1 AST),102,220,1,,202662,1627678,1611661323,10,24,1
+02:08,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,10,24,1
+01:56,[NYL] Johannes Fadeaway Jump Shot: Missed,-73,140,2,,1629546,,1611661313,10,24,1
+01:53,[CON] Jones Rebound (Off:1 Def:3),-73,140,4,,1627673,,1611661323,10,24,1
+01:45,[CON] Jones 3pt Shot: Missed,-41,239,2,,1627673,,1611661323,10,24,1
+01:43,[NYL] Team Rebound,-41,239,4,,0,,1611661313,10,24,1
+01:43,[CON] Holmes Foul: Loose Ball (1 PF),16,843,6,1628915,1627678,,1611661323,10,24,1
+01:43,[NYL] Nurse Substitution replaced by Allen,0,-80,8,,1628915,204296,1611661313,10,24,1
+01:34,[NYL] Johannes 3pt Shot: Missed,-206,144,2,,1629546,,1611661313,10,24,1
+01:32,[NYL] Gray Rebound (Off:1 Def:1),-206,144,4,,204334,,1611661313,10,24,1
+01:30,[NYL] Gray Putback Layup Shot: Missed,0,5,2,,204334,,1611661313,10,24,1
+01:28,[NYL] Charles Rebound (Off:1 Def:0),0,5,4,,202250,,1611661313,10,24,1
+01:27,[NYL] Charles Putback Layup Shot: Missed,-14,1,2,,202250,,1611661313,10,24,1
+01:26,[CON] Holmes Rebound (Off:0 Def:1),-14,1,4,,1627678,,1611661323,10,24,1
+01:20,[CON 26-10] Thomas Cutting Layup Shot: Made (6 PTS) Assist: Banham (1 AST),-14,9,1,,203826,1627671,1611661323,10,26,1
+01:16,[CON] Jones Foul: Flagrant Type 1 (1 PF) (2 FTA),5,221,6,204334,1627673,,1611661323,10,26,1
+01:16,[CON] Jones Substitution replaced by Anigwe,0,-80,8,,1627673,1629485,1611661323,10,26,1
+01:16,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,10,26,1
+01:16,[NYL 11-26] Gray Free Throw Flagrant 1 of 2 (1 PTS),0,-80,3,,204334,,1611661313,11,26,1
+01:16,[NYL 12-26] Gray Free Throw Flagrant 2 of 2 (2 PTS),0,-80,3,,204334,,1611661313,12,26,1
+01:14,[CON] Thomas Foul: Personal (2 PF) (2 FTA),-10,808,6,202250,203826,,1611661323,12,26,1
+01:14,[NYL 13-26] Charles Free Throw 1 of 2 (7 PTS),0,-80,3,,202250,,1611661313,13,26,1
+01:14,[NYL 14-26] Charles Free Throw 2 of 2 (8 PTS),0,-80,3,,202250,,1611661313,14,26,1
+01:00,[CON 29-14] Banham 3pt Shot: Made (3 PTS) Assist: Thomas (2 AST),-198,134,1,,1627671,203826,1611661323,14,29,1
+00:43.8,[NYL] Johannes 3pt Shot: Missed,121,210,2,,1629546,,1611661313,14,29,1
+00:39.1,[CON] Holmes Rebound (Off:0 Def:2),121,210,4,,1627678,,1611661323,14,29,1
+00:36.2,[CON] Holmes Driving Layup Shot: Missed,-17,16,2,204296,1627678,,1611661323,14,29,1
+00:36.2,[NYL] Team Rebound,-17,16,4,,0,,1611661313,14,29,1
+00:34.1,Jump Ball Allen vs Holmes (Gray gains possession),0,-80,10,1627678,204296,204334,1611661313,14,29,1
+00:23.9,[NYL 16-29] Gray Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Johannes (1 AST),8,17,1,,204334,1629546,1611661313,16,29,1
+00:00.4,[CON] Thomas Layup Shot: Missed,13,40,2,,203826,,1611661323,16,29,1
+00:00.4,[NYL] Allen Rebound (Off:0 Def:1),13,40,4,,204296,,1611661313,16,29,1
+00:00.0,End Period,0,-80,13,,0,,0,16,29,1
+10:00,Start Period,0,-80,12,,0,,0,16,29,2
+09:49,[NYL] Gray Turnover : Traveling (1 TO),10,11,5,,204334,,1611661313,16,29,2
+09:33,[CON 32-16] Holmes 3pt Shot: Made (3 PTS) Assist: Hiedeman (1 AST),-154,182,1,,1627678,1629567,1611661323,16,32,2
+09:15,[NYL 18-32] Gray Jump Shot: Made (6 PTS) Assist: Johannes (2 AST),-123,158,1,,204334,1629546,1611661313,18,32,2
+08:59,[CON] Holmes 3pt Shot: Missed,232,-8,2,,1627678,,1611661323,18,32,2
+08:59,[NYL] Team Rebound,232,-8,4,,0,,1611661313,18,32,2
+08:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,32,2
+08:59,[CON] Thomas Substitution replaced by Tuck,0,-80,8,,203826,1627670,1611661323,18,32,2
+08:47,[NYL] Gray Driving Layup Shot: Missed,10,15,2,,204334,,1611661313,18,32,2
+08:46,[NYL] Gray Rebound (Off:2 Def:1),10,15,4,,204334,,1611661313,18,32,2
+08:39,[CON] Hiedeman Foul: Shooting (1 PF) (2 FTA),22,22,6,204327,1629567,,1611661323,18,32,2
+08:39,[NYL] Boyd Free Throw 1 of 2 Missed,0,-80,3,,204327,,1611661313,18,32,2
+08:39,[NYL] Team Rebound,0,-80,4,,0,,1611661313,18,32,2
+08:39,[NYL] Boyd Free Throw 2 of 2 Missed,0,-80,3,,204327,,1611661313,18,32,2
+08:39,[CON] Hiedeman Rebound (Off:0 Def:1),0,-80,4,,1629567,,1611661323,18,32,2
+08:28,[CON] Holmes Turnover : Bad Pass (1 TO),148,15,5,,1627678,,1611661323,18,32,2
+08:18,[CON] Banham Foul: Shooting (1 PF) (2 FTA),-15,135,6,1629546,1627671,,1611661323,18,32,2
+08:18,[CON] Anigwe Substitution replaced by Jones,0,-80,8,,1629485,1627673,1611661323,18,32,2
+08:18,[NYL 19-32] Johannes Free Throw 1 of 2 (1 PTS),0,-80,3,,1629546,,1611661313,19,32,2
+08:18,[NYL 20-32] Johannes Free Throw 2 of 2 (2 PTS),0,-80,3,,1629546,,1611661313,20,32,2
+08:06,[CON 35-20] Jones 3pt Shot: Made (6 PTS) Assist: Hiedeman (2 AST),-4,236,1,,1627673,1629567,1611661323,20,35,2
+07:44,[NYL] Allen Turnover : Bad Pass (1 TO) Steal:Jones (2 ST),-108,167,5,1627673,204296,,1611661313,20,35,2
+07:39,[CON] Holmes Driving Layup Shot: Missed,-25,8,2,,1627678,,1611661323,20,35,2
+07:34,[NYL] Allen Rebound (Off:0 Def:2),-25,8,4,,204296,,1611661313,20,35,2
+07:34,[NYL] Allen Turnover : Bad Pass (2 TO) Steal:Hiedeman (1 ST),-64,746,5,1629567,204296,,1611661313,20,35,2
+07:30,[CON 37-20] Holmes Layup Shot: Made (5 PTS) Assist: Hiedeman (3 AST),-2,11,1,,1627678,1629567,1611661323,20,37,2
+07:18,[NYL] Allen 3pt Shot: Missed,-219,121,2,,204296,,1611661313,20,37,2
+07:17,[NYL] Team Rebound,-219,121,4,,0,,1611661313,20,37,2
+07:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,37,2
+07:17,[NYL] Allen Substitution replaced by Charles,0,-80,8,,204296,202250,1611661313,20,37,2
+07:17,[NYL] Gray Substitution replaced by Zahui B,0,-80,8,,204334,204320,1611661313,20,37,2
+07:17,[NYL] Boyd Substitution replaced by Nurse,0,-80,8,,204327,1628915,1611661313,20,37,2
+07:17,[NYL] Raincock-Ekunwe Substitution replaced by Hartley,0,-80,8,,1628248,203829,1611661313,20,37,2
+07:17,[CON] Banham Substitution replaced by Williams,0,-80,8,,1627671,1627675,1611661323,20,37,2
+07:11,[NYL 22-37] Nurse Pullup Jump shot: Made (2 PTS),-26,158,1,,1628915,,1611661313,22,37,2
+07:11,[CON] Holmes Foul: Shooting (2 PF) (1 FTA),-24,157,6,1628915,1627678,,1611661323,22,37,2
+07:11,[CON] Holmes Substitution replaced by Stricklen,0,-80,8,,1627678,203015,1611661323,22,37,2
+07:11,[NYL 23-37] Nurse Free Throw 1 of 1 (3 PTS),0,-80,3,,1628915,,1611661313,23,37,2
+06:56,[CON] Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),209,-1,5,,1627675,,1611661323,23,37,2
+06:35,[NYL 25-37] Charles Turnaround Fadeaway Bank Jump Shot: Made (10 PTS) Assist: Hartley (1 AST),-98,62,1,,202250,203829,1611661313,25,37,2
+06:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,25,37,2
+06:10,[CON] Williams Pullup Jump shot: Missed,6,116,2,202250,1627675,,1611661323,25,37,2
+06:07,[NYL] Hartley Rebound (Off:0 Def:1),6,116,4,,203829,,1611661313,25,37,2
+06:06,[NYL] Nurse Layup Shot: Missed,16,5,2,1627675,1628915,,1611661313,25,37,2
+06:06,[NYL] Team Rebound,16,5,4,,0,,1611661313,25,37,2
+06:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,25,37,2
+06:06,[CON] Hiedeman Substitution replaced by Thomas,0,-80,8,,1629567,202662,1611661323,25,37,2
+06:01,[NYL] Nurse 3pt Shot: Missed,-223,51,2,,1628915,,1611661313,25,37,2
+06:00,[NYL] Team Rebound,-223,51,4,,0,,1611661313,25,37,2
+06:00,[CON] Tuck Foul: Loose Ball (1 PF),-4,13,6,202250,1627670,,1611661323,25,37,2
+05:53,[NYL 28-37] Hartley 3pt Shot: Made (3 PTS) Assist: Johannes (3 AST),-171,199,1,,203829,1629546,1611661313,28,37,2
+05:45,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,28,37,2
+05:45,[CON] Tuck Substitution replaced by Thomas,0,-80,8,,1627670,203826,1611661323,28,37,2
+05:30,[CON] Thomas Pullup Jump shot: Missed,63,130,2,,202662,,1611661323,28,37,2
+05:27,[CON] Jones Rebound (Off:2 Def:3),63,130,4,,1627673,,1611661323,28,37,2
+05:27,[NYL] Zahui B Foul: Shooting (1 PF) (2 FTA),20,16,6,1627673,204320,,1611661313,28,37,2
+05:27,[CON 38-28] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1627673,,1611661323,28,38,2
+05:27,[CON 39-28] Jones Free Throw 2 of 2 (8 PTS),0,-80,3,,1627673,,1611661323,28,39,2
+05:09,[CON] Thomas Foul: Personal (1 PF) (2 FTA),-96,180,6,203829,202662,,1611661323,28,39,2
+05:09,[NYL 29-39] Hartley Free Throw 1 of 2 (4 PTS),0,-80,3,,203829,,1611661313,29,39,2
+05:09,[NYL 30-39] Hartley Free Throw 2 of 2 (5 PTS),0,-80,3,,203829,,1611661313,30,39,2
+04:57,[CON] Williams 3pt Shot: Missed,-160,173,2,,1627675,,1611661323,30,39,2
+04:54,[CON] Thomas Rebound (Off:1 Def:0),-160,173,4,,202662,,1611661323,30,39,2
+04:51,[CON] Stricklen 3pt Shot: Missed,12,261,2,,203015,,1611661323,30,39,2
+04:51,[NYL] Zahui B Rebound (Off:1 Def:2),12,261,4,,204320,,1611661313,30,39,2
+04:37,[NYL] Charles Step Back Jump shot: Missed,116,71,2,,202250,,1611661313,30,39,2
+04:34,[NYL] Charles Rebound (Off:2 Def:0),116,71,4,,202250,,1611661313,30,39,2
+04:30,[NYL 32-39] Charles Layup Shot: Made (12 PTS),9,16,1,,202250,,1611661313,32,39,2
+04:19,[NYL] Hartley Foul: Shooting (1 PF) (2 FTA),29,19,6,202662,203829,,1611661313,32,39,2
+04:19,[CON 40-32] Thomas Free Throw 1 of 2 (7 PTS),0,-80,3,,202662,,1611661323,32,40,2
+04:19,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,202662,,1611661323,32,40,2
+04:15,[CON] Thomas Rebound (Off:1 Def:1),0,-80,4,,203826,,1611661323,32,40,2
+04:11,[CON] Stricklen Driving Layup Shot: Missed,-25,6,2,,203015,,1611661323,32,40,2
+04:10,[CON] Jones Rebound (Off:3 Def:3),-25,6,4,,1627673,,1611661323,32,40,2
+04:09,[CON] Jones Tip Layup Shot: Missed,14,12,2,,1627673,,1611661323,32,40,2
+04:08,[CON] Jones Rebound (Off:4 Def:3),14,12,4,,1627673,,1611661323,32,40,2
+04:02,[CON] Jones Turnaround Fadeaway shot: Missed,92,86,2,,1627673,,1611661323,32,40,2
+03:59,[NYL] Charles Rebound (Off:2 Def:1),92,86,4,,202250,,1611661313,32,40,2
+03:55,[NYL] Nurse Turnover : Traveling (1 TO),-54,81,5,,1628915,,1611661313,32,40,2
+03:33,[CON] Stricklen 3pt Shot: Missed,147,208,2,,203015,,1611661323,32,40,2
+03:32,[CON] Team Rebound,147,208,4,,0,,1611661323,32,40,2
+03:32,[NYL] Zahui B Foul: Loose Ball (2 PF),104,33,6,1627673,204320,,1611661313,32,40,2
+03:21,[CON 43-32] Williams 3pt Shot: Made (11 PTS) Assist: Stricklen (3 AST),-172,172,1,,1627675,203015,1611661323,32,43,2
+03:09,[NYL 34-43] Charles Fadeaway Jump Shot: Made (14 PTS),65,110,1,,202250,,1611661313,34,43,2
+03:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,43,2
+02:51,[CON 45-34] Thomas Cutting Layup Shot: Made (8 PTS) Assist: Williams (2 AST),11,9,1,,203826,1627675,1611661323,34,45,2
+02:34,[NYL] Charles Turnaround Fadeaway shot: Missed,-84,26,2,,202250,,1611661313,34,45,2
+02:34,[CON] Jones Rebound (Off:4 Def:4),-84,26,4,,1627673,,1611661323,34,45,2
+02:34,[NYL] Zahui B Foul: Personal (3 PF),-36,817,6,1627673,204320,,1611661313,34,45,2
+02:34,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,34,45,2
+02:34,[NYL] Zahui B Substitution replaced by Gray,0,-80,8,,204320,204334,1611661313,34,45,2
+02:15,[CON 47-34] Williams Driving Floating Jump Shot: Made (13 PTS) Assist: Thomas (3 AST),85,78,1,,1627675,202662,1611661323,34,47,2
+02:01,[NYL] Johannes 3pt Shot: Missed,59,264,2,,1629546,,1611661313,34,47,2
+01:58,[CON] Thomas Rebound (Off:1 Def:2),59,264,4,,203826,,1611661323,34,47,2
+01:46,[CON] Thomas Turnaround Hook Shot: Missed,13,64,2,,203826,,1611661323,34,47,2
+01:43,[NYL] Gray Rebound (Off:2 Def:2),13,64,4,,204334,,1611661313,34,47,2
+01:37,[NYL] Nurse Pullup Jump shot: Missed,-125,3,2,,1628915,,1611661313,34,47,2
+01:34,[CON] Thomas Rebound (Off:1 Def:1),-125,3,4,,202662,,1611661323,34,47,2
+01:27,[CON 49-34] Thomas Driving Layup Shot: Made (10 PTS) Assist: Thomas (4 AST),4,17,1,,203826,202662,1611661323,34,49,2
+01:13,[NYL] Charles Fadeaway Jump Shot: Missed,-124,2,2,,202250,,1611661313,34,49,2
+01:11,[CON] Williams Rebound (Off:1 Def:3),-124,2,4,,1627675,,1611661323,34,49,2
+01:11,[NYL] Johannes Foul: Personal (2 PF) (2 FTA),22,481,6,1627675,1629546,,1611661313,34,49,2
+01:11,[CON 50-34] Williams Free Throw 1 of 2 (14 PTS),0,-80,3,,1627675,,1611661323,34,50,2
+01:11,[CON 51-34] Williams Free Throw 2 of 2 (15 PTS),0,-80,3,,1627675,,1611661323,34,51,2
+00:50.2,[NYL 36-51] Gray Jump Shot: Made (8 PTS) Assist: Nurse (1 AST),11,201,1,,204334,1628915,1611661313,36,51,2
+00:44.6,[CON] Williams Step Back Jump shot: Missed,128,79,2,,1627675,,1611661323,36,51,2
+00:41.7,[NYL] Hartley Rebound (Off:0 Def:2),128,79,4,,203829,,1611661313,36,51,2
+00:33.9,[NYL] Nurse Turnover : Bad Pass (2 TO) Steal:Jones (3 ST),55,75,5,1627673,1628915,,1611661313,36,51,2
+00:30.3,[CON 53-36] Williams Driving Floating Jump Shot: Made (17 PTS) Assist: Stricklen (4 AST),28,102,1,,1627675,203015,1611661323,36,53,2
+00:09.0,[NYL 38-53] Hartley Driving Finger Roll Layup Shot: Made (7 PTS),9,13,1,,203829,,1611661313,38,53,2
+00:00.0,[CON] Thomas 3pt Shot: Missed,89,256,2,,202662,,1611661323,38,53,2
+00:00.0,[CON] Team Rebound,89,256,4,,0,,1611661323,38,53,2
+00:00.0,End Period,0,-80,13,,0,,0,38,53,2
+10:00,Start Period,0,-80,12,,0,,0,38,53,3
+09:46,[NYL] Nurse 3pt Shot: Missed,-236,-8,2,,1628915,,1611661313,38,53,3
+09:43,[CON] Thomas Rebound (Off:1 Def:3),-236,-8,4,,203826,,1611661323,38,53,3
+09:37,[CON] Thomas Turnover : Lost Ball (2 TO) Steal:Charles (2 ST),22,13,5,202250,203826,,1611661323,38,53,3
+09:33,[NYL 40-53] Nurse Cutting Layup Shot: Made (5 PTS) Assist: Durr (2 AST),-17,4,1,,1628915,1629476,1611661313,40,53,3
+09:21,[NYL] Zahui B Foul: Personal (4 PF),54,109,6,1627673,204320,,1611661313,40,53,3
+09:15,[CON] Williams Pullup Jump shot: Missed,65,194,2,,1627675,,1611661323,40,53,3
+09:13,[CON] Thomas Rebound (Off:2 Def:3),65,194,4,,203826,,1611661323,40,53,3
+09:13,[CON 55-40] Thomas Layup Shot: Made (12 PTS),7,2,1,,203826,,1611661323,40,55,3
+09:00,[NYL 42-55] Nurse Driving Layup Shot: Made (7 PTS) Assist: Zahui B (1 AST),-13,28,1,,1628915,204320,1611661313,42,55,3
+09:00,[CON] Jones Foul: Shooting (2 PF) (1 FTA),-10,17,6,1628915,1627673,,1611661323,42,55,3
+09:00,[NYL 43-55] Nurse Free Throw 1 of 1 (8 PTS),0,-80,3,,1628915,,1611661313,43,55,3
+08:41,[CON] Jones 3pt Shot: Missed,-85,241,2,,1627673,,1611661323,43,55,3
+08:38,[NYL] Nurse Rebound (Off:0 Def:1),-85,241,4,,1628915,,1611661313,43,55,3
+08:28,[NYL 45-55] Charles Hook Shot: Made (16 PTS) Assist: Wright (2 AST),-2,42,1,,202250,101030,1611661313,45,55,3
+08:07,[NYL] Charles Foul: Personal (1 PF),64,101,6,1627673,202250,,1611661313,45,55,3
+07:56,[CON] Thomas Jump Shot: Missed,-90,101,2,,202662,,1611661323,45,55,3
+07:53,[NYL] Zahui B Rebound (Off:1 Def:3),-90,101,4,,204320,,1611661313,45,55,3
+07:47,[NYL] Nurse Turnover : Bad Pass (3 TO) Steal:Stricklen (1 ST),-174,75,5,203015,1628915,,1611661313,45,55,3
+07:42,[CON 57-45] Williams Jump Shot: Made (19 PTS) Assist: Jones (1 AST),-147,0,1,,1627675,1627673,1611661323,45,57,3
+07:23,[NYL 48-57] Zahui B 3pt Shot: Made (7 PTS) Assist: Charles (1 AST),223,17,1,,204320,202250,1611661313,48,57,3
+07:02,[CON] Jones Layup Shot: Missed,24,5,2,202250,1627673,,1611661323,48,57,3
+06:59,[NYL] Zahui B Rebound (Off:1 Def:4),24,5,4,,204320,,1611661313,48,57,3
+06:53,[NYL] Nurse Turnover : Bad Pass (4 TO) Steal:Jones (4 ST),178,74,5,1627673,1628915,,1611661313,48,57,3
+06:47,[CON 59-48] Williams Pullup Jump shot: Made (21 PTS) Assist: Jones (2 AST),83,49,1,,1627675,1627673,1611661323,48,59,3
+06:31,[CON] Thomas Foul: Shooting (3 PF) (2 FTA),-132,15,6,202250,203826,,1611661323,48,59,3
+06:31,[NYL 49-59] Charles Free Throw 1 of 2 (17 PTS),0,-80,3,,202250,,1611661313,49,59,3
+06:31,[NYL 50-59] Charles Free Throw 2 of 2 (18 PTS),0,-80,3,,202250,,1611661313,50,59,3
+06:18,[NYL] Zahui B Foul: Personal (5 PF),-92,48,6,202662,204320,,1611661313,50,59,3
+06:18,[NYL] Zahui B Substitution replaced by Gray,0,-80,8,,204320,204334,1611661313,50,59,3
+06:10,[CON] Williams Step Back Jump shot: Missed,121,94,2,,1627675,,1611661323,50,59,3
+06:08,[NYL] Gray Rebound (Off:2 Def:3),121,94,4,,204334,,1611661313,50,59,3
+05:58,[NYL] Charles Turnover : Bad Pass (1 TO) Steal:Jones (5 ST),-98,32,5,1627673,202250,,1611661313,50,59,3
+05:55,[NYL] Wright Foul: Shooting (2 PF) (2 FTA),24,12,6,203826,101030,,1611661313,50,59,3
+05:55,[CON 60-50] Thomas Free Throw 1 of 2 (13 PTS),0,-80,3,,203826,,1611661323,50,60,3
+05:55,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,50,60,3
+05:53,[NYL] Team Rebound,0,-80,4,,0,,1611661313,50,60,3
+05:53,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,60,3
+05:26,[NYL] Nurse Driving Floating Bank Jump Shot: Missed,-89,76,2,,1628915,,1611661313,50,60,3
+05:25,[CON] Thomas Rebound (Off:2 Def:4),-89,76,4,,203826,,1611661323,50,60,3
+05:18,[CON] Jones 3pt Shot: Missed,-135,222,2,,1627673,,1611661323,50,60,3
+05:15,[NYL] Charles Rebound (Off:2 Def:2),-135,222,4,,202250,,1611661313,50,60,3
+05:13,[NYL] Gray Foul: Offensive Charge (1 PF),-20,46,6,203826,204334,,1611661313,50,60,3
+05:13,[NYL] Gray Turnover : Offensive Foul Turnover (2 TO),-20,46,5,,204334,,1611661313,50,60,3
+05:01,[CON 63-50] Jones 3pt Shot: Made (11 PTS) Assist: Thomas (5 AST),8,246,1,,1627673,202662,1611661323,50,63,3
+04:33,[NYL] Charles Turnaround Fadeaway shot: Missed,-158,20,2,,202250,,1611661313,50,63,3
+04:33,[NYL] Team Rebound,-158,20,4,,0,,1611661313,50,63,3
+04:33,[CON] Jones Foul: Loose Ball (3 PF),13,13,6,204334,1627673,,1611661323,50,63,3
+04:33,Timeout Officials,0,-80,9,,0,,0,50,63,3
+04:33,[NYL] Durr Substitution replaced by Johannes,0,-80,8,,1629476,1629546,1611661313,50,63,3
+04:33,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,50,63,3
+04:30,[NYL] Nurse Turnover : Bad Pass (5 TO) Steal:Hiedeman (2 ST),131,283,5,1629567,1628915,,1611661313,50,63,3
+04:28,[CON 65-50] Hiedeman Driving Finger Roll Layup Shot: Made (2 PTS),-2,13,1,,1629567,,1611661323,50,65,3
+04:13,[NYL] Wright Turnover : Bad Pass (1 TO) Steal:Thomas (2 ST),-67,17,5,203826,101030,,1611661313,50,65,3
+04:13,[NYL] Wright Foul: Personal (3 PF) (2 FTA),158,639,6,203826,101030,,1611661313,50,65,3
+04:13,[NYL] Wright Substitution replaced by Hartley,0,-80,8,,101030,203829,1611661313,50,65,3
+04:13,[CON 66-50] Thomas Free Throw 1 of 2 (14 PTS),0,-80,3,,203826,,1611661323,50,66,3
+04:13,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,50,66,3
+04:07,[NYL] Gray Rebound (Off:2 Def:4),0,-80,4,,204334,,1611661313,50,66,3
+03:57,[NYL] Johannes 3pt Shot: Missed,92,226,2,,1629546,,1611661313,50,66,3
+03:53,[CON] Williams Rebound (Off:1 Def:4),92,226,4,,1627675,,1611661323,50,66,3
+03:38,[CON] Jones Layup Shot: Missed,21,11,2,204334,1627673,,1611661323,50,66,3
+03:34,[NYL] Johannes Rebound (Off:0 Def:1),21,11,4,,1629546,,1611661313,50,66,3
+03:21,[CON] Williams Foul: Personal (1 PF),57,198,6,202250,1627675,,1611661323,50,66,3
+03:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,66,3
+03:13,[NYL] Hartley Layup Shot: Missed,-63,60,2,,203829,,1611661313,50,66,3
+03:13,[NYL] Team Rebound,-63,60,4,,0,,1611661313,50,66,3
+03:13,[NYL] Nurse 3pt Shot: Missed,176,153,2,,1628915,,1611661313,50,66,3
+03:10,[NYL] Charles Rebound (Off:3 Def:2),176,153,4,,202250,,1611661313,50,66,3
+03:01,[NYL] Gray Turnover : Out of Bounds - Bad Pass Turnover (3 TO),52,87,5,,204334,,1611661313,50,66,3
+02:49,[CON 68-50] Thomas Driving Floating Bank Jump Shot: Made (16 PTS) Assist: Williams (3 AST),59,99,1,,203826,1627675,1611661323,50,68,3
+02:22,[NYL] Johannes Driving Floating Bank Jump Shot: Missed,1,59,2,,1629546,,1611661313,50,68,3
+02:19,[NYL] Charles Rebound (Off:4 Def:2),1,59,4,,202250,,1611661313,50,68,3
+02:18,[NYL] Charles Layup Shot: Missed,0,16,2,1627673,202250,,1611661313,50,68,3
+02:18,[CON] Jones Rebound (Off:4 Def:5),0,16,4,,1627673,,1611661323,50,68,3
+02:00,[NYL] Gray Foul: Personal (2 PF) (2 FTA),-18,163,6,1627673,204334,,1611661313,50,68,3
+02:00,[NYL] Gray Substitution replaced by Raincock-Ekunwe,0,-80,8,,204334,1628248,1611661313,50,68,3
+02:00,[CON] Stricklen Substitution replaced by Holmes,0,-80,8,,203015,1627678,1611661323,50,68,3
+02:00,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,50,68,3
+02:00,[CON] Team Rebound,0,-80,4,,0,,1611661323,50,68,3
+02:00,[CON 69-50] Jones Free Throw 2 of 2 (12 PTS),0,-80,3,,1627673,,1611661323,50,69,3
+01:48,[NYL 53-69] Nurse 3pt Shot: Made (11 PTS),114,213,1,,1628915,,1611661313,53,69,3
+01:21,[CON 71-53] Williams Pullup Jump shot: Made (23 PTS),-73,151,1,,1627675,,1611661323,53,71,3
+00:51.3,[NYL 55-71] Hartley Pullup Jump shot: Made (9 PTS) Assist: Johannes (4 AST),-147,124,1,,203829,1629546,1611661313,55,71,3
+00:39.7,[CON] Holmes Turnover : Bad Pass (2 TO) Steal:Hartley (1 ST),93,53,5,203829,1627678,,1611661323,55,71,3
+00:30.8,[NYL] Nurse 3pt Shot: Missed,219,87,2,,1628915,,1611661313,55,71,3
+00:28.8,[CON] Williams Rebound (Off:1 Def:5),219,87,4,,1627675,,1611661323,55,71,3
+00:06.9,[CON] Hiedeman 3pt Shot: Missed,228,42,2,,1629567,,1611661323,55,71,3
+00:06.3,[CON] Team Rebound,228,42,4,,0,,1611661323,55,71,3
+00:06.3,[CON] Team Turnover : Shot Clock Turnover,-2,2,5,,0,,1611661323,55,71,3
+00:06.3,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,55,71,3
+00:00.3,[NYL 57-71] Raincock-Ekunwe Cutting Layup Shot: Made (2 PTS) Assist: Hartley (2 AST),-13,9,1,,1628248,203829,1611661313,57,71,3
+00:00.0,End Period,0,-80,13,,0,,0,57,71,3
+10:00,Start Period,0,-80,12,,0,,0,57,71,4
+10:00,[NYL] Hartley Foul: Away From Play (2 PF) (1 FTA),24,813,6,1629567,203829,,1611661313,57,71,4
+10:00,[CON 72-57] Banham Free Throw 1 of 1 (4 PTS),0,-80,3,,1627671,,1611661323,57,72,4
+09:43,[CON 75-57] Hiedeman 3pt Shot: Made (5 PTS) Assist: Thomas (3 AST),233,8,1,,1629567,203826,1611661323,57,75,4
+09:26,[NYL] Johannes Turnover : Bad Pass (1 TO) Steal:Thomas (3 ST),87,186,5,203826,1629546,,1611661313,57,75,4
+09:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,75,4
+09:16,[CON] Hiedeman 3pt Shot: Missed,226,24,2,,1629567,,1611661323,57,75,4
+09:12,[CON] Hiedeman Rebound (Off:1 Def:1),226,24,4,,1629567,,1611661323,57,75,4
+09:12,[NYL] Hartley Foul: Personal (3 PF),10,10,6,1628280,203829,,1611661313,57,75,4
+09:12,[NYL] Nurse Substitution replaced by Allen,0,-80,8,,1628915,204296,1611661313,57,75,4
+09:12,[NYL] Johannes Substitution replaced by Boyd,0,-80,8,,1629546,204327,1611661313,57,75,4
+09:09,[NYL] Allen Foul: Shooting (1 PF) (2 FTA),-9,51,6,1627678,204296,,1611661313,57,75,4
+09:09,[CON 76-57] Holmes Free Throw 1 of 2 (6 PTS),0,-80,3,,1627678,,1611661323,57,76,4
+09:09,[CON 77-57] Holmes Free Throw 2 of 2 (7 PTS),0,-80,3,,1627678,,1611661323,57,77,4
+08:49,[NYL] Gray Layup Shot: Missed,-19,1,2,,204334,,1611661313,57,77,4
+08:46,[CON] Jones Rebound (Off:0 Def:1),-19,1,4,,1628280,,1611661323,57,77,4
+08:45,[CON] Banham Turnover : Lost Ball (1 TO) Steal:Hartley (2 ST),-200,461,5,203829,1627671,,1611661323,57,77,4
+08:40,[NYL] Hartley Layup Shot: Missed,4,25,2,203826,203829,,1611661313,57,77,4
+08:37,[NYL] Hartley Rebound (Off:1 Def:2),4,25,4,,203829,,1611661313,57,77,4
+08:22,[NYL 59-77] Raincock-Ekunwe Layup Shot: Made (4 PTS),-4,24,1,,1628248,,1611661313,59,77,4
+08:05,[NYL] Gray Foul: Personal (3 PF),-14,31,6,1628280,204334,,1611661313,59,77,4
+08:05,[NYL] Raincock-Ekunwe Substitution replaced by Durr,0,-80,8,,1628248,1629476,1611661313,59,77,4
+08:05,[NYL] Hartley Substitution replaced by Zahui B,0,-80,8,,203829,204320,1611661313,59,77,4
+08:05,[NYL] Gray Substitution replaced by Charles,0,-80,8,,204334,202250,1611661313,59,77,4
+07:59,[CON] Holmes 3pt Shot: Missed,188,137,2,204296,1627678,,1611661323,59,77,4
+07:56,[NYL] Charles Rebound (Off:4 Def:3),188,137,4,,202250,,1611661313,59,77,4
+07:39,[NYL 62-77] Durr 3pt Shot: Made (3 PTS) Assist: Zahui B (2 AST),-136,194,1,,1629476,204320,1611661313,62,77,4
+07:25,[CON] Hiedeman Pullup Jump shot: Missed,89,145,2,,1629567,,1611661323,62,77,4
+07:22,[NYL] Durr Rebound (Off:0 Def:2),89,145,4,,1629476,,1611661313,62,77,4
+07:11,[NYL 64-77] Allen Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Zahui B (3 AST),-17,9,1,,204296,204320,1611661313,64,77,4
+07:11,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,64,77,4
+06:53,[CON] Banham 3pt Shot: Missed,-147,205,2,,1627671,,1611661323,64,77,4
+06:49,[NYL] Allen Rebound (Off:0 Def:3),-147,205,4,,204296,,1611661313,64,77,4
+06:41,[NYL] Zahui B Turnaround Fadeaway shot: Missed,-30,67,2,,204320,,1611661313,64,77,4
+06:38,[CON] Thomas Rebound (Off:2 Def:5),-30,67,4,,203826,,1611661323,64,77,4
+06:16,[CON] Team Turnover : Shot Clock Turnover,-2,2,5,,0,,1611661323,64,77,4
+06:06,[NYL 66-77] Zahui B Cutting Layup Shot: Made (9 PTS) Assist: Charles (2 AST),3,9,1,,204320,202250,1611661313,66,77,4
+05:55,[NYL] Charles Foul: Shooting (2 PF) (2 FTA),-11,16,6,1629567,202250,,1611661313,66,77,4
+05:55,[CON] Jones Substitution replaced by Jones,0,-80,8,,1628280,1627673,1611661323,66,77,4
+05:55,[CON 78-66] Hiedeman Free Throw 1 of 2 (6 PTS),0,-80,3,,1629567,,1611661323,66,78,4
+05:55,[CON 79-66] Hiedeman Free Throw 2 of 2 (7 PTS),0,-80,3,,1629567,,1611661323,66,79,4
+05:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,79,4
+05:44,[CON] Hiedeman Substitution replaced by Williams,0,-80,8,,1629567,1627675,1611661323,66,79,4
+05:33,[NYL] Charles Jump Bank Shot: Missed,-70,37,2,,202250,,1611661313,66,79,4
+05:31,[CON] Jones Rebound (Off:4 Def:6),-70,37,4,,1627673,,1611661323,66,79,4
+05:31,[CON] Banham Turnover : Out of Bounds Lost Ball Turnover (2 TO),188,722,5,,1627671,,1611661323,66,79,4
+05:22,[NYL 68-79] Charles Driving Hook Shot: Made (20 PTS) Assist: Zahui B (4 AST),-2,26,1,,202250,204320,1611661313,68,79,4
+05:01,[CON 82-68] Holmes 3pt Shot: Made (10 PTS) Assist: Williams (4 AST),85,233,1,,1627678,1627675,1611661323,68,82,4
+04:36,[NYL 70-82] Zahui B Fadeaway Jump Shot: Made (11 PTS),-61,65,1,,204320,,1611661313,70,82,4
+04:20,[NYL] Durr Foul: Shooting (1 PF) (2 FTA),28,65,6,1627675,1629476,,1611661313,70,82,4
+04:20,[CON 83-70] Williams Free Throw 1 of 2 (24 PTS),0,-80,3,,1627675,,1611661323,70,83,4
+04:20,[CON] Williams Free Throw 2 of 2 Missed,0,-80,3,,1627675,,1611661323,70,83,4
+04:18,[NYL] Charles Rebound (Off:4 Def:4),0,-80,4,,202250,,1611661313,70,83,4
+04:01,[NYL 72-83] Boyd Driving Layup Shot: Made (2 PTS),-13,10,1,,204327,,1611661313,72,83,4
+03:47,[CON] Thomas Alley Oop Layup shot: Missed,-22,15,2,,203826,,1611661323,72,83,4
+03:46,[NYL] Charles Rebound (Off:4 Def:5),-22,15,4,,202250,,1611661313,72,83,4
+03:31,[NYL] Zahui B 3pt Shot: Missed,-65,236,2,,204320,,1611661313,72,83,4
+03:28,[CON] Thomas Rebound (Off:2 Def:6),-65,236,4,,203826,,1611661323,72,83,4
+03:20,[CON 86-72] Holmes 3pt Shot: Made (13 PTS) Assist: Williams (5 AST),-145,225,1,,1627678,1627675,1611661323,72,86,4
+03:18,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,72,86,4
+03:11,[NYL] Charles Jump Shot: Missed,-93,164,2,,202250,,1611661313,72,86,4
+03:07,[CON] Williams Rebound (Off:1 Def:6),-93,164,4,,1627675,,1611661323,72,86,4
+02:58,[CON] Jones Pullup Jump shot: Missed,7,136,2,,1627673,,1611661323,72,86,4
+02:55,[NYL] Charles Rebound (Off:4 Def:6),7,136,4,,202250,,1611661313,72,86,4
+02:34,[NYL 74-86] Allen Layup Shot: Made (4 PTS) Assist: Zahui B (5 AST),-2,9,1,,204296,204320,1611661313,74,86,4
+02:13,[CON 88-74] Williams Pullup Jump shot: Made (26 PTS),-53,129,1,,1627675,,1611661323,74,88,4
+02:01,[NYL] Charles Pullup Jump shot: Missed,-92,38,2,,202250,,1611661313,74,88,4
+01:59,[CON] Banham Rebound (Off:0 Def:1),-92,38,4,,1627671,,1611661323,74,88,4
+01:50,[CON] Jones 3pt Shot: Missed,-153,207,2,,1627673,,1611661323,74,88,4
+01:48,[NYL] Boyd Rebound (Off:0 Def:1),-153,207,4,,204327,,1611661313,74,88,4
+01:43,[NYL 76-88] Zahui B Cutting Finger Roll Layup Shot: Made (13 PTS) Assist: Boyd (1 AST),4,16,1,,204320,204327,1611661313,76,88,4
+01:43,[CON] Jones Foul: Shooting (4 PF) (1 FTA),11,9,6,204320,1627673,,1611661323,76,88,4
+01:43,[CON] Thomas Substitution replaced by Tuck,0,-80,8,,203826,1627670,1611661323,76,88,4
+01:43,[NYL 77-88] Zahui B Free Throw 1 of 1 (14 PTS),0,-80,3,,204320,,1611661313,77,88,4
+01:29,[NYL] Charles Foul: Shooting (3 PF) (2 FTA),81,45,6,1627678,202250,,1611661313,77,88,4
+01:29,[CON 89-77] Holmes Free Throw 1 of 2 (14 PTS),0,-80,3,,1627678,,1611661323,77,89,4
+01:29,[CON 90-77] Holmes Free Throw 2 of 2 (15 PTS),0,-80,3,,1627678,,1611661323,77,90,4
+01:29,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,77,90,4
+01:22,[NYL] Allen 3pt Shot: Missed,-59,235,2,,204296,,1611661313,77,90,4
+01:22,[CON] Team Rebound,-59,235,4,,0,,1611661323,77,90,4
+01:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,90,4
+01:09,[CON 92-77] Williams Pullup Jump shot: Made (28 PTS),-8,157,1,,1627675,,1611661323,77,92,4
+00:53.8,[NYL] Boyd 3pt Shot: Missed,-234,-7,2,,204327,,1611661313,77,92,4
+00:53.8,[CON] Holmes Rebound (Off:0 Def:3),-234,-7,4,,1627678,,1611661323,77,92,4
+00:37.6,[CON 94-77] Jones Driving Layup Shot: Made (14 PTS) Assist: Williams (6 AST),9,16,1,,1627673,1627675,1611661323,77,94,4
+00:14.9,[NYL 79-94] Zahui B Jump Shot: Made (16 PTS) Assist: Durr (3 AST),53,107,1,,204320,1629476,1611661313,79,94,4
+00:00.0,End Period,0,-80,13,,0,,0,79,94,4
+00:00.0,Game End,0,-80,0,,0,,0,79,94,4

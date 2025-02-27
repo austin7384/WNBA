@@ -1,0 +1,388 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Williams vs McCowan (Coffey gains possession),0,-80,10,1629479,204322,1628269,1611661330,0,0,1
+09:36,[ATL] Coffey Pullup Jump shot: Missed,115,5,2,,1628269,,1611661330,0,0,1
+09:33,[IND] McCowan Rebound (Off:0 Def:1),115,5,4,,1629479,,1611661325,0,0,1
+09:22,[IND 2-0] Dupree Driving Hook Shot: Made (2 PTS) Assist: Mitchell (1 AST),14,65,1,,200676,1628909,1611661325,0,2,1
+09:02,[ATL] Williams Turnover : Bad Pass (1 TO) Steal:Wheeler (1 ST),-34,227,5,204365,204322,,1611661330,0,2,1
+08:58,[IND 4-0] Wheeler Running Layup Shot: Made (2 PTS),2,-5,1,,204365,,1611661325,0,4,1
+08:42,[ATL] Breland Jump Shot: Missed,97,153,2,,202638,,1611661330,0,4,1
+08:39,[IND] Wheeler Rebound (Off:0 Def:1),97,153,4,,204365,,1611661325,0,4,1
+08:36,[IND 6-0] Dupree Running Layup Shot: Made (4 PTS) Assist: Wheeler (1 AST),0,5,1,,200676,204365,1611661325,0,6,1
+08:36,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,0,6,1
+08:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,6,1
+08:25,[ATL 3-6] Hayes 3pt Shot: Made (3 PTS) Assist: Montgomery (1 AST),195,124,1,,203026,201904,1611661330,3,6,1
+08:00,[IND] Dupree Pullup Jump shot: Missed,-35,197,2,,200676,,1611661325,3,6,1
+07:59,[IND] Team Rebound,-35,197,4,,0,,1611661325,3,6,1
+07:51,[IND] Dupree Turnover : Bad Pass (1 TO) Steal:Breland (1 ST),-49,56,5,202638,200676,,1611661325,3,6,1
+07:45,[ATL] Hayes Turnover : Step Out of Bounds Turnover (1 TO),75,-46,5,,203026,,1611661330,3,6,1
+07:30,[IND] Laney 3pt Shot: Missed,-132,198,2,,204335,,1611661325,3,6,1
+07:26,[ATL] Montgomery Rebound (Off:0 Def:1),-132,198,4,,201904,,1611661330,3,6,1
+07:23,[IND] Wheeler Foul: Personal (1 PF),57,221,6,201904,204365,,1611661325,3,6,1
+07:12,[ATL] Williams Driving Layup Shot: Missed,-14,21,2,,204322,,1611661330,3,6,1
+07:09,[IND] McCowan Rebound (Off:0 Def:2),-14,21,4,,1629479,,1611661325,3,6,1
+07:02,[IND] Wheeler Pullup Jump shot: Missed,52,167,2,,204365,,1611661325,3,6,1
+06:57,[IND] McCowan Rebound (Off:1 Def:2),52,167,4,,1629479,,1611661325,3,6,1
+06:57,[IND] McCowan Putback Layup Shot: Missed,4,11,2,,1629479,,1611661325,3,6,1
+06:55,[ATL] Breland Rebound (Off:0 Def:1),4,11,4,,202638,,1611661330,3,6,1
+06:44,[ATL] Montgomery Driving Layup Shot: Missed,28,27,2,,201904,,1611661330,3,6,1
+06:40,[IND] Dupree Rebound (Off:0 Def:1),28,27,4,,200676,,1611661325,3,6,1
+06:29,[IND] McCowan Layup Shot: Missed,25,20,2,,1629479,,1611661325,3,6,1
+06:26,[ATL] Coffey Rebound (Off:0 Def:1),25,20,4,,1628269,,1611661330,3,6,1
+06:20,[ATL] Coffey 3pt Shot: Missed,234,32,2,,1628269,,1611661330,3,6,1
+06:18,[ATL] Hayes Rebound (Off:1 Def:0),234,32,4,,203026,,1611661330,3,6,1
+06:17,[ATL] Hayes Hook Shot: Missed,-22,108,2,,203026,,1611661330,3,6,1
+06:17,[ATL] Team Rebound,-22,108,4,,0,,1611661330,3,6,1
+06:17,[IND] Laney Foul: Loose Ball (1 PF),-13,17,6,1628269,204335,,1611661325,3,6,1
+06:11,[IND] McCowan Foul: Shooting (1 PF) (2 FTA),-46,58,6,203026,1629479,,1611661325,3,6,1
+06:11,[ATL 4-6] Hayes Free Throw 1 of 2 (4 PTS),0,-80,3,,203026,,1611661330,4,6,1
+06:11,[ATL 5-6] Hayes Free Throw 2 of 2 (5 PTS),0,-80,3,,203026,,1611661330,5,6,1
+05:48,[IND] Laney 3pt Shot: Missed,-230,-12,2,,204335,,1611661325,5,6,1
+05:46,[ATL] Team Rebound,-230,-12,4,,0,,1611661330,5,6,1
+05:33,[ATL] Hayes Driving Layup Shot: Missed,15,-1,2,1629479,203026,,1611661330,5,6,1
+05:33,[IND] Team Rebound,15,-1,4,,0,,1611661325,5,6,1
+05:20,[IND 9-5] Mitchell 3pt Shot: Made (3 PTS),-92,224,1,,1628909,,1611661325,5,9,1
+05:14,[IND] McCowan Foul: Shooting (2 PF) (2 FTA),0,158,6,204322,1629479,,1611661325,5,9,1
+05:14,[IND] McCowan Substitution replaced by Mavunga,0,-80,8,,1629479,1628906,1611661325,5,9,1
+05:14,[ATL] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661330,5,9,1
+05:14,[ATL] Team Rebound,0,-80,4,,0,,1611661330,5,9,1
+05:14,[ATL] Williams Free Throw 2 of 2 Missed,0,-80,3,,204322,,1611661330,5,9,1
+05:13,[IND] Dupree Rebound (Off:0 Def:2),0,-80,4,,200676,,1611661325,5,9,1
+04:58,[IND] Mitchell 3pt Shot: Missed,-68,233,2,,1628909,,1611661325,5,9,1
+04:57,[ATL] Coffey Rebound (Off:0 Def:2),-68,233,4,,1628269,,1611661330,5,9,1
+04:44,[ATL 7-9] Hayes Jump Shot: Made (7 PTS),50,147,1,,203026,,1611661330,7,9,1
+04:27,[IND 11-7] Wheeler Jump Shot: Made (4 PTS),28,156,1,,204365,,1611661325,7,11,1
+04:22,[IND] Wheeler Foul: Personal (2 PF) (2 FTA),22,190,6,204322,204365,,1611661325,7,11,1
+04:22,[IND] Laney Substitution replaced by Mitchell,0,-80,8,,204335,1627676,1611661325,7,11,1
+04:22,[ATL] Coffey Substitution replaced by Sykes,0,-80,8,,1628269,1628279,1611661330,7,11,1
+04:22,[IND] Wheeler Substitution replaced by Burke,0,-80,8,,204365,1629568,1611661325,7,11,1
+04:22,[ATL] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661330,7,11,1
+04:22,[ATL] Team Rebound,0,-80,4,,0,,1611661330,7,11,1
+04:22,[ATL 8-11] Williams Free Throw 2 of 2 (1 PTS),0,-80,3,,204322,,1611661330,8,11,1
+04:07,[IND 13-8] Burke Pullup Jump shot: Made (2 PTS),4,186,1,,1629568,,1611661325,8,13,1
+03:54,[IND] Mitchell Foul: Personal (1 PF) (2 FTA),-9,148,6,203026,1627676,,1611661325,8,13,1
+03:54,[ATL 9-13] Hayes Free Throw 1 of 2 (8 PTS),0,-80,3,,203026,,1611661330,9,13,1
+03:54,[ATL] Williams Substitution replaced by Billings,0,-80,8,,204322,1628881,1611661330,9,13,1
+03:54,[ATL 10-13] Hayes Free Throw 2 of 2 (9 PTS),0,-80,3,,203026,,1611661330,10,13,1
+03:38,[IND 15-10] Dupree Jump Shot: Made (6 PTS) Assist: Burke (1 AST),92,165,1,,200676,1629568,1611661325,10,15,1
+03:10,[ATL] Hayes 3pt Shot: Missed,233,-3,2,,203026,,1611661330,10,15,1
+03:07,[ATL] Breland Rebound (Off:1 Def:1),233,-3,4,,202638,,1611661330,10,15,1
+02:56,[ATL] Breland Turnover : Bad Pass (1 TO) Steal:Mavunga (1 ST),-24,48,5,1628906,202638,,1611661330,10,15,1
+02:46,[IND] Mitchell 3pt Shot: Missed,64,234,2,,1628909,,1611661325,10,15,1
+02:44,[ATL] Hayes Rebound (Off:1 Def:1),64,234,4,,203026,,1611661330,10,15,1
+02:40,[ATL] Sykes 3pt Shot: Missed,224,2,2,,1628279,,1611661330,10,15,1
+02:39,[ATL] Hayes Rebound (Off:2 Def:1),224,2,4,,203026,,1611661330,10,15,1
+02:39,[IND] Burke Foul: Shooting (1 PF) (2 FTA),-7,-3,6,203026,1629568,,1611661325,10,15,1
+02:39,[ATL] Hayes Free Throw 1 of 2 Missed,0,-80,3,,203026,,1611661330,10,15,1
+02:39,[ATL] Team Rebound,0,-80,4,,0,,1611661330,10,15,1
+02:39,[ATL 11-15] Hayes Free Throw 2 of 2 (10 PTS),0,-80,3,,203026,,1611661330,11,15,1
+02:25,[IND] Mitchell Pullup Jump shot: Missed,-9,99,2,,1627676,,1611661325,11,15,1
+02:22,[ATL] Sykes Rebound (Off:0 Def:1),-9,99,4,,1628279,,1611661330,11,15,1
+02:18,[ATL 13-15] Sykes Running Layup Shot: Made (2 PTS),27,8,1,,1628279,,1611661330,13,15,1
+02:09,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Billings (1 ST),145,119,5,1628881,1628909,,1611661325,13,15,1
+02:05,[ATL 15-15] Breland Running Layup Shot: Made (2 PTS) Assist: Montgomery (2 AST),5,-1,1,,202638,201904,1611661330,15,15,1
+01:41,[ATL] Billings Foul: Personal (1 PF),50,-24,6,200676,1628881,,1611661330,15,15,1
+01:41,[ATL] Breland Substitution replaced by Williams,0,-80,8,,202638,204322,1611661330,15,15,1
+01:28,[IND] Burke Driving Layup Shot: Missed,-20,32,2,204322,1629568,,1611661325,15,15,1
+01:24,[ATL] Billings Rebound (Off:0 Def:1),-20,32,4,,1628881,,1611661330,15,15,1
+01:16,[ATL] Billings Jump Shot: Missed,143,3,2,,1628881,,1611661330,15,15,1
+01:12,[IND] Mitchell Rebound (Off:0 Def:1),143,3,4,,1627676,,1611661325,15,15,1
+01:06,[IND] Mitchell Driving Layup Shot: Missed,11,17,2,,1627676,,1611661325,15,15,1
+01:03,[ATL] Montgomery Rebound (Off:0 Def:2),11,17,4,,201904,,1611661330,15,15,1
+00:53.9,[ATL] Sykes 3pt Shot: Missed,-223,7,2,,1628279,,1611661330,15,15,1
+00:51.1,[IND] Mavunga Rebound (Off:0 Def:1),-223,7,4,,1628906,,1611661325,15,15,1
+00:47.9,[ATL] Montgomery Foul: Personal (1 PF) (2 FTA),-47,16,6,1627676,201904,,1611661330,15,15,1
+00:47.9,[IND 16-15] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,1627676,,1611661325,15,16,1
+00:47.9,[ATL] Hayes Substitution replaced by Cazorla,0,-80,8,,203026,1629569,1611661330,15,16,1
+00:47.9,[IND] Mitchell Substitution replaced by Kea,0,-80,8,,1628909,1629502,1611661325,15,16,1
+00:47.9,[IND 17-15] Mitchell Free Throw 2 of 2 (2 PTS),0,-80,3,,1627676,,1611661325,15,17,1
+00:31.2,[ATL] Montgomery 3pt Shot: Missed,211,80,2,,201904,,1611661330,15,17,1
+00:26.3,[IND] Mavunga Rebound (Off:0 Def:2),211,80,4,,1628906,,1611661325,15,17,1
+00:19.3,[IND] Kea Pullup Jump shot: Missed,-121,107,2,,1629502,,1611661325,15,17,1
+00:15.8,[ATL] Williams Rebound (Off:0 Def:1),-121,107,4,,204322,,1611661330,15,17,1
+00:00.6,[ATL 17-17] Sykes Driving Layup Shot: Made (4 PTS),37,8,1,,1628279,,1611661330,17,17,1
+00:00.0,End Period,0,-80,13,,0,,0,17,17,1
+10:00,Start Period,0,-80,12,,0,,0,17,17,2
+09:42,[IND] Burke Driving Hook Shot: Missed,17,87,2,,1629568,,1611661325,17,17,2
+09:39,[IND] Burke Rebound (Off:1 Def:0),17,87,4,,1629568,,1611661325,17,17,2
+09:27,[IND] Mavunga Turnaround Jump Shot: Missed,-82,19,2,,1628906,,1611661325,17,17,2
+09:25,[IND] Burke Rebound (Off:2 Def:0),-82,19,4,,1629568,,1611661325,17,17,2
+09:23,[IND] Burke Putback Layup Shot: Missed,11,8,2,1628881,1629568,,1611661325,17,17,2
+09:20,[ATL] Billings Rebound (Off:0 Def:2),11,8,4,,1628881,,1611661330,17,17,2
+09:19,[ATL] Montgomery Pullup Jump shot: Missed,57,178,2,,201904,,1611661330,17,17,2
+09:19,[ATL] Billings Rebound (Off:1 Def:2),57,178,4,,1628881,,1611661330,17,17,2
+09:16,[IND] Mavunga Foul: Shooting (1 PF) (2 FTA),-12,16,6,1628881,1628906,,1611661325,17,17,2
+09:16,[ATL 18-17] Billings Free Throw 1 of 2 (1 PTS),0,-80,3,,1628881,,1611661330,18,17,2
+09:16,[ATL 19-17] Billings Free Throw 2 of 2 (2 PTS),0,-80,3,,1628881,,1611661330,19,17,2
+08:54,[IND 19-19] Dupree Turnaround Hook Shot: Made (8 PTS),57,-16,1,,200676,,1611661325,19,19,2
+08:42,[IND] Burke Foul: Shooting (2 PF) (2 FTA),-47,31,6,1628279,1629568,,1611661325,19,19,2
+08:42,[ATL 20-19] Sykes Free Throw 1 of 2 (5 PTS),0,-80,3,,1628279,,1611661330,20,19,2
+08:42,[IND] Burke Substitution replaced by Wheeler,0,-80,8,,1629568,204365,1611661325,20,19,2
+08:42,[IND] Kea Substitution replaced by Laney,0,-80,8,,1629502,204335,1611661325,20,19,2
+08:42,[ATL 21-19] Sykes Free Throw 2 of 2 (6 PTS),0,-80,3,,1628279,,1611661330,21,19,2
+08:28,[IND 21-21] Laney Layup Shot: Made (2 PTS),-33,10,1,,204335,,1611661325,21,21,2
+08:07,[ATL] Cazorla Turnover : Traveling (1 TO),148,129,5,,1629569,,1611661330,21,21,2
+07:55,[IND 24-21] Wheeler 3pt Shot: Made (7 PTS),-82,224,1,,204365,,1611661325,21,24,2
+07:39,[ATL 23-24] Montgomery Driving Layup Shot: Made (2 PTS),27,6,1,,201904,,1611661330,23,24,2
+07:13,[IND] Laney Pullup Jump shot: Missed,119,30,2,,204335,,1611661325,23,24,2
+07:11,[IND] Mavunga Rebound (Off:1 Def:2),119,30,4,,1628906,,1611661325,23,24,2
+07:09,[ATL] Montgomery Substitution replaced by Hayes,0,-80,8,,201904,203026,1611661330,23,24,2
+07:09,[IND] Dupree Substitution replaced by McCall,0,-80,8,,200676,1628286,1611661325,23,24,2
+07:09,[ATL] Sykes Foul: Personal (1 PF),4,1,6,204335,1628279,,1611661330,23,24,2
+06:56,[IND] McCall Pullup Jump shot: Missed,-69,183,2,,1628286,,1611661325,23,24,2
+06:50,[IND] Laney Rebound (Off:1 Def:0),-69,183,4,,204335,,1611661325,23,24,2
+06:44,[IND] Mitchell Pullup Jump shot: Missed,-89,166,2,,1627676,,1611661325,23,24,2
+06:43,[IND] Team Rebound,-89,166,4,,0,,1611661325,23,24,2
+06:43,[ATL] Billings Foul: Loose Ball (2 PF),3,-3,6,1628286,1628881,,1611661330,23,24,2
+06:36,[IND 26-23] Laney Jump Shot: Made (4 PTS) Assist: Wheeler (2 AST),45,191,1,,204335,204365,1611661325,23,26,2
+06:18,[ATL 26-26] Cazorla 3pt Shot: Made (3 PTS) Assist: Williams (1 AST),214,112,1,,1629569,204322,1611661330,26,26,2
+06:04,[IND 28-26] Laney Pullup Jump shot: Made (6 PTS),85,160,1,,204335,,1611661325,26,28,2
+05:49,[ATL 29-28] Hayes 3pt Shot: Made (13 PTS) Assist: Cazorla (1 AST),216,88,1,,203026,1629569,1611661330,29,28,2
+05:37,[IND] Mitchell 3pt Shot: Missed,-142,191,2,,1627676,,1611661325,29,28,2
+05:32,[ATL] Hayes Rebound (Off:2 Def:2),-142,191,4,,203026,,1611661330,29,28,2
+05:29,[ATL] Hayes Running Layup Shot: Missed,-1,6,2,,203026,,1611661330,29,28,2
+05:28,[ATL] Billings Rebound (Off:2 Def:2),-1,6,4,,1628881,,1611661330,29,28,2
+05:28,[IND] McCall Foul: Shooting (1 PF) (2 FTA),9,8,6,1628881,1628286,,1611661325,29,28,2
+05:28,Timeout Officials,0,-80,9,,0,,0,29,28,2
+05:28,[ATL] Sykes Substitution replaced by Coffey,0,-80,8,,1628279,1628269,1611661330,29,28,2
+05:28,[IND] Mitchell Substitution replaced by Mitchell,0,-80,8,,1627676,1628909,1611661325,29,28,2
+05:28,[ATL 30-28] Billings Free Throw 1 of 2 (3 PTS),0,-80,3,,1628881,,1611661330,30,28,2
+05:28,[ATL 31-28] Billings Free Throw 2 of 2 (4 PTS),0,-80,3,,1628881,,1611661330,31,28,2
+05:04,[IND 30-31] Mavunga Layup Shot: Made (2 PTS) Assist: Wheeler (3 AST),18,30,1,,1628906,204365,1611661325,31,30,2
+04:41,[ATL 33-30] Coffey Pullup Jump shot: Made (2 PTS) Assist: Cazorla (2 AST),10,140,1,,1628269,1629569,1611661330,33,30,2
+04:28,[IND 33-33] Mitchell 3pt Shot: Made (6 PTS),171,167,1,,1628909,,1611661325,33,33,2
+04:16,[ATL 35-33] Hayes Driving Layup Shot: Made (15 PTS) Assist: Billings (1 AST),-23,51,1,,203026,1628881,1611661330,35,33,2
+03:54,[IND 35-35] McCall Cutting Layup Shot: Made (2 PTS) Assist: Wheeler (4 AST),8,4,1,,1628286,204365,1611661325,35,35,2
+03:37,[ATL] Coffey Driving Layup Shot: Missed,24,2,2,,1628269,,1611661330,35,35,2
+03:33,[IND] Mavunga Rebound (Off:1 Def:3),24,2,4,,1628906,,1611661325,35,35,2
+03:26,[IND 37-35] Laney Turnaround Jump Shot: Made (8 PTS) Assist: Mitchell (2 AST),-106,28,1,,204335,1628909,1611661325,35,37,2
+03:07,[ATL] Cazorla 3pt Shot: Missed,-136,206,2,,1629569,,1611661330,35,37,2
+03:03,[ATL] Billings Rebound (Off:3 Def:2),-136,206,4,,1628881,,1611661330,35,37,2
+02:58,[ATL] Cazorla Driving Layup Shot: Missed,14,-6,2,1628286,1629569,,1611661330,35,37,2
+02:54,[IND] Mavunga Rebound (Off:1 Def:4),14,-6,4,,1628906,,1611661325,35,37,2
+02:42,[IND] McCall Jump Shot: Missed,-120,145,2,,1628286,,1611661325,35,37,2
+02:38,[ATL] Coffey Rebound (Off:0 Def:3),-120,145,4,,1628269,,1611661330,35,37,2
+02:31,[ATL] Coffey Pullup Jump shot: Missed,-51,131,2,,1628269,,1611661330,35,37,2
+02:28,[IND] McCall Rebound (Off:0 Def:1),-51,131,4,,1628286,,1611661325,35,37,2
+02:12,[ATL] Coffey Foul: Personal (1 PF),-9,24,6,204365,1628269,,1611661330,35,37,2
+02:12,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,35,37,2
+02:12,[ATL] Cazorla Substitution replaced by Montgomery,0,-80,8,,1629569,201904,1611661330,35,37,2
+02:12,[ATL] Billings Substitution replaced by Breland,0,-80,8,,1628881,202638,1611661330,35,37,2
+02:12,[IND] Mavunga Substitution replaced by Dupree,0,-80,8,,1628906,200676,1611661325,35,37,2
+02:12,[IND] McCall Substitution replaced by McCowan,0,-80,8,,1628286,1629479,1611661325,35,37,2
+02:02,[IND] Wheeler Turnover : Lost Ball (1 TO) Steal:Coffey (1 ST),19,172,5,1628269,204365,,1611661325,35,37,2
+01:59,[ATL] Coffey Running Layup Shot: Missed,0,-3,2,,1628269,,1611661330,35,37,2
+01:58,[ATL] Coffey Rebound (Off:1 Def:3),0,-3,4,,1628269,,1611661330,35,37,2
+01:57,[ATL] Coffey Putback Layup Shot: Missed,-7,6,2,,1628269,,1611661330,35,37,2
+01:57,[ATL] Coffey Rebound (Off:2 Def:3),-7,6,4,,1628269,,1611661330,35,37,2
+01:50,[ATL 37-37] Coffey Putback Layup Shot: Made (4 PTS),0,-5,1,,1628269,,1611661330,37,37,2
+01:40,[IND] Laney 3pt Shot: Missed,-226,9,2,,204335,,1611661325,37,37,2
+01:34,[ATL] Breland Rebound (Off:1 Def:2),-226,9,4,,202638,,1611661330,37,37,2
+01:33,[ATL] Breland Turnover : Bad Pass (2 TO) Steal:Laney (1 ST),-31,792,5,204335,202638,,1611661330,37,37,2
+01:23,[IND 39-37] Laney Pullup Jump shot: Made (10 PTS),6,32,1,,204335,,1611661325,37,39,2
+01:18,[ATL 39-39] Hayes Pullup Jump shot: Made (17 PTS),-85,152,1,,203026,,1611661330,39,39,2
+01:06,[IND 41-39] Mitchell Layup Shot: Made (8 PTS),4,-7,1,,1628909,,1611661325,39,41,2
+00:45.5,[ATL 42-41] Montgomery 3pt Shot: Made (5 PTS),-140,189,1,,201904,,1611661330,42,41,2
+00:28.8,[IND 44-42] Mitchell 3pt Shot: Made (11 PTS) Assist: Laney (1 AST),69,231,1,,1628909,204335,1611661325,42,44,2
+00:13.8,[IND] Mitchell Foul: Personal (1 PF),17,169,6,204322,1628909,,1611661325,42,44,2
+00:13.8,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,42,44,2
+00:13.8,[ATL] Coffey Substitution replaced by Sykes,0,-80,8,,1628269,1628279,1611661330,42,44,2
+00:13.8,[IND] Wheeler Substitution replaced by Burke,0,-80,8,,204365,1629568,1611661325,42,44,2
+00:13.8,[IND] McCowan Substitution replaced by Mavunga,0,-80,8,,1629479,1628906,1611661325,42,44,2
+00:13.8,[IND] Mitchell Substitution replaced by McCall,0,-80,8,,1628909,1628286,1611661325,42,44,2
+00:09.0,[ATL 44-44] Williams Cutting Layup Shot: Made (3 PTS) Assist: Hayes (1 AST),4,5,1,,204322,203026,1611661330,44,44,2
+00:09.0,[IND] Mavunga Foul: Shooting (2 PF) (1 FTA),4,5,6,204322,1628906,,1611661325,44,44,2
+00:09.0,[ATL] Montgomery Substitution replaced by Coffey,0,-80,8,,201904,1628269,1611661330,44,44,2
+00:09.0,[ATL] Sykes Substitution replaced by Cazorla,0,-80,8,,1628279,1629569,1611661330,44,44,2
+00:09.0,[IND] Laney Substitution replaced by Mitchell,0,-80,8,,204335,1628909,1611661325,44,44,2
+00:09.0,[IND] Burke Substitution replaced by Wheeler,0,-80,8,,1629568,204365,1611661325,44,44,2
+00:09.0,[IND] McCall Substitution replaced by Mitchell,0,-80,8,,1628286,1627676,1611661325,44,44,2
+00:09.0,[ATL 45-44] Williams Free Throw 1 of 1 (4 PTS),0,-80,3,,204322,,1611661330,45,44,2
+00:00.0,End Period,0,-80,13,,0,,0,45,44,2
+10:00,Start Period,0,-80,12,,0,,0,45,44,3
+09:48,[IND 46-45] McCowan Cutting Layup Shot: Made (2 PTS) Assist: Wheeler (5 AST),2,5,1,,1629479,204365,1611661325,45,46,3
+09:26,[IND] Wheeler Foul: Shooting (3 PF) (2 FTA),24,6,6,204322,204365,,1611661325,45,46,3
+09:26,[ATL 46-46] Williams Free Throw 1 of 2 (5 PTS),0,-80,3,,204322,,1611661330,46,46,3
+09:26,[ATL 47-46] Williams Free Throw 2 of 2 (6 PTS),0,-80,3,,204322,,1611661330,47,46,3
+09:13,[IND] Wheeler Turnover : Lost Ball (2 TO) Steal:Williams (1 ST),137,220,5,204322,204365,,1611661325,47,46,3
+09:06,[ATL] Montgomery 3pt Shot: Missed,100,214,2,,201904,,1611661330,47,46,3
+08:59,[ATL] Montgomery Rebound (Off:1 Def:2),100,214,4,,201904,,1611661330,47,46,3
+08:54,[ATL] Breland Driving Layup Shot: Missed,8,10,2,,202638,,1611661330,47,46,3
+08:49,[IND] McCowan Rebound (Off:1 Def:3),8,10,4,,1629479,,1611661325,47,46,3
+08:43,[ATL] Montgomery Foul: Personal (2 PF),-4,151,6,1628909,201904,,1611661330,47,46,3
+08:29,[IND 48-47] Wheeler Pullup Jump shot: Made (9 PTS),-3,155,1,,204365,,1611661325,47,48,3
+08:10,[ATL] Williams Driving Layup Shot: Missed,31,28,2,,204322,,1611661330,47,48,3
+08:07,[IND] McCowan Rebound (Off:1 Def:4),31,28,4,,1629479,,1611661325,47,48,3
+08:03,[IND] Mitchell 3pt Shot: Missed,230,-20,2,,1628909,,1611661325,47,48,3
+07:59,[IND] Laney Rebound (Off:2 Def:0),230,-20,4,,204335,,1611661325,47,48,3
+07:49,[IND 51-47] Mitchell 3pt Shot: Made (14 PTS),209,99,1,,1628909,,1611661325,47,51,3
+07:33,[IND] Mitchell Foul: Personal (2 PF),17,83,6,203026,1628909,,1611661325,47,51,3
+07:24,[ATL 49-51] Williams Driving Layup Shot: Made (8 PTS) Assist: Hayes (2 AST),-8,16,1,,204322,203026,1611661330,49,51,3
+07:00,[IND] Wheeler Turnover : Lost Ball (3 TO) Steal:Williams (2 ST),-113,119,5,204322,204365,,1611661325,49,51,3
+06:55,[ATL 51-51] Breland Driving Layup Shot: Made (4 PTS) Assist: Montgomery (3 AST),0,3,1,,202638,201904,1611661330,51,51,3
+06:29,[IND] Mitchell 3pt Shot: Missed,-50,231,2,,1628909,,1611661325,51,51,3
+06:25,[ATL] Montgomery Rebound (Off:1 Def:3),-50,231,4,,201904,,1611661330,51,51,3
+06:11,[ATL] Coffey Driving Layup Shot: Missed,-41,87,2,1629479,1628269,,1611661330,51,51,3
+06:08,[IND] Dupree Rebound (Off:0 Def:3),-41,87,4,,200676,,1611661325,51,51,3
+05:53,[IND] Laney Driving Reverse Layup Shot: Missed,-1,-1,2,,204335,,1611661325,51,51,3
+05:53,[IND] McCowan Rebound (Off:2 Def:4),-1,-1,4,,1629479,,1611661325,51,51,3
+05:53,[ATL] Coffey Foul: Shooting (2 PF) (2 FTA),0,-3,6,1629479,1628269,,1611661330,51,51,3
+05:53,[IND 52-51] McCowan Free Throw 1 of 2 (3 PTS),0,-80,3,,1629479,,1611661325,51,52,3
+05:53,[ATL] Coffey Substitution replaced by Sykes,0,-80,8,,1628269,1628279,1611661330,51,52,3
+05:53,[ATL] Breland Substitution replaced by Billings,0,-80,8,,202638,1628881,1611661330,51,52,3
+05:53,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1627676,1611661325,51,52,3
+05:53,[IND 53-51] McCowan Free Throw 2 of 2 (4 PTS),0,-80,3,,1629479,,1611661325,51,53,3
+05:33,[ATL] Williams Driving Hook Shot: Missed,-15,-8,2,,204322,,1611661330,51,53,3
+05:25,[IND] McCowan Rebound (Off:2 Def:5),-15,-8,4,,1629479,,1611661325,51,53,3
+05:21,[IND] Dupree Pullup Jump shot: Missed,-67,158,2,,200676,,1611661325,51,53,3
+05:18,[ATL] Hayes Rebound (Off:2 Def:3),-67,158,4,,203026,,1611661330,51,53,3
+05:09,[ATL] Sykes Pullup Jump shot: Missed,41,19,2,,1628279,,1611661330,51,53,3
+05:07,[IND] Dupree Rebound (Off:0 Def:4),41,19,4,,200676,,1611661325,51,53,3
+05:02,[IND 55-51] Mitchell Running Layup Shot: Made (16 PTS),-3,6,1,,1628909,,1611661325,51,55,3
+05:00,[IND] Mitchell Foul: Personal (3 PF),12,824,6,201904,1628909,,1611661325,51,55,3
+04:43,[ATL 53-55] Williams Cutting Layup Shot: Made (10 PTS) Assist: Montgomery (4 AST),11,6,1,,204322,201904,1611661330,53,55,3
+04:13,[IND] McCowan Layup Shot: Missed,-23,11,2,204322,1629479,,1611661325,53,55,3
+04:11,[ATL] Montgomery Rebound (Off:1 Def:4),-23,11,4,,201904,,1611661330,53,55,3
+04:02,[ATL 56-55] Hayes 3pt Shot: Made (20 PTS) Assist: Montgomery (5 AST),-188,144,1,,203026,201904,1611661330,56,55,3
+03:47,[IND 57-56] Dupree Jump Bank Shot: Made (10 PTS) Assist: Mitchell (1 AST),-121,97,1,,200676,1627676,1611661325,56,57,3
+03:31,[ATL] Montgomery Pullup Jump shot: Missed,-94,150,2,,201904,,1611661330,56,57,3
+03:28,[IND] Laney Rebound (Off:2 Def:1),-94,150,4,,204335,,1611661325,56,57,3
+03:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,57,3
+03:24,Timeout Officials,0,-80,9,,0,,0,56,57,3
+03:24,[ATL] Williams Substitution replaced by Breland,0,-80,8,,204322,202638,1611661330,56,57,3
+03:24,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1628909,204365,1611661325,56,57,3
+03:24,[IND] McCowan Substitution replaced by Mavunga,0,-80,8,,1629479,1628906,1611661325,56,57,3
+03:13,[IND] Dupree Jump Shot: Missed,-141,96,2,,200676,,1611661325,56,57,3
+03:08,[IND] Mavunga Rebound (Off:2 Def:4),-141,96,4,,1628906,,1611661325,56,57,3
+02:59,[IND] Mavunga Layup Shot: Missed,46,7,2,,1628906,,1611661325,56,57,3
+02:55,[ATL] Billings Rebound (Off:3 Def:3),46,7,4,,1628881,,1611661330,56,57,3
+02:40,[IND] Wheeler Foul: Personal (4 PF),20,32,6,203026,204365,,1611661325,56,57,3
+02:40,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,56,57,3
+02:26,[ATL] Hayes Layup Shot: Missed,2,6,2,,203026,,1611661330,56,57,3
+02:24,[ATL] Billings Rebound (Off:4 Def:3),2,6,4,,1628881,,1611661330,56,57,3
+02:24,[ATL] Team Turnover : Shot Clock Turnover,28,6,5,,0,,1611661330,56,57,3
+02:14,[IND] Mitchell 3pt Shot: Missed,-96,220,2,,1627676,,1611661325,56,57,3
+02:12,[IND] Laney Rebound (Off:3 Def:1),-96,220,4,,204335,,1611661325,56,57,3
+02:11,[IND] Mitchell 3pt Shot: Missed,27,236,2,,1628909,,1611661325,56,57,3
+02:07,[ATL] Breland Rebound (Off:1 Def:3),27,236,4,,202638,,1611661330,56,57,3
+01:49,[IND] Mavunga Foul: Shooting (3 PF) (2 FTA),-70,6,6,1628881,1628906,,1611661325,56,57,3
+01:49,[ATL 57-57] Billings Free Throw 1 of 2 (5 PTS),0,-80,3,,1628881,,1611661330,57,57,3
+01:49,[ATL 58-57] Billings Free Throw 2 of 2 (6 PTS),0,-80,3,,1628881,,1611661330,58,57,3
+01:30,[IND] Mitchell Turnover : 3 Second Violation (1 TO),10,67,5,,1627676,,1611661325,58,57,3
+01:18,[ATL 61-57] Montgomery 3pt Shot: Made (8 PTS) Assist: Breland (1 AST),214,97,1,,201904,202638,1611661330,61,57,3
+00:58.5,[IND 59-61] Dupree Step Back Jump shot: Made (12 PTS) Assist: Mitchell (2 AST),-111,6,1,,200676,1627676,1611661325,61,59,3
+00:43.4,[ATL] Montgomery Pullup Jump shot: Missed,103,8,2,,201904,,1611661330,61,59,3
+00:39.5,[IND] Laney Rebound (Off:3 Def:2),103,8,4,,204335,,1611661325,61,59,3
+00:28.8,[IND] Mitchell Turnover : Bad Pass (2 TO) Steal:Breland (2 ST),-81,392,5,202638,1628909,,1611661325,61,59,3
+00:27.4,[ATL 63-59] Montgomery Running Layup Shot: Made (10 PTS),3,5,1,,201904,,1611661330,63,59,3
+00:10.2,[IND] Dupree Turnaround Jump Shot: Missed,100,-1,2,,200676,,1611661325,63,59,3
+00:07.2,[ATL] Hayes Rebound (Off:2 Def:4),100,-1,4,,203026,,1611661330,63,59,3
+00:01.4,[ATL] Hayes 3pt Shot: Missed,37,268,2,,203026,,1611661330,63,59,3
+00:01.4,[ATL] Team Rebound,37,268,4,,0,,1611661330,63,59,3
+00:00.0,End Period,0,-80,13,,0,,0,63,59,3
+10:00,Start Period,0,-80,12,,0,,0,63,59,4
+09:47,[ATL 65-59] Sykes Driving Layup Shot: Made (8 PTS) Assist: Cazorla (3 AST),1,4,1,,1628279,1629569,1611661330,65,59,4
+09:23,[IND] Laney Pullup Jump shot: Missed,145,136,2,,204335,,1611661325,65,59,4
+09:18,[IND] McCowan Rebound (Off:3 Def:5),145,136,4,,1629479,,1611661325,65,59,4
+09:18,[IND 61-65] McCowan Putback Layup Shot: Made (6 PTS),0,-5,1,,1629479,,1611661325,65,61,4
+09:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,65,61,4
+09:02,[ATL] Sykes Driving Layup Shot: Missed,15,20,2,1629479,1628279,,1611661330,65,61,4
+09:02,[ATL] Team Rebound,15,20,4,,0,,1611661330,65,61,4
+08:57,[IND] Mitchell Foul: Personal (2 PF),81,-24,6,1628279,1627676,,1611661325,65,61,4
+08:49,[ATL] Sykes 3pt Shot: Missed,-46,230,2,,1628279,,1611661330,65,61,4
+08:45,[IND] Laney Rebound (Off:3 Def:3),-46,230,4,,204335,,1611661325,65,61,4
+08:38,[IND] Wheeler Pullup Jump shot: Missed,48,182,2,,204365,,1611661325,65,61,4
+08:34,[ATL] Breland Rebound (Off:1 Def:4),48,182,4,,202638,,1611661330,65,61,4
+08:31,[ATL 67-61] Billings Running Layup Shot: Made (8 PTS) Assist: Montgomery (6 AST),2,-1,1,,1628881,201904,1611661330,67,61,4
+08:08,[IND 63-67] Dupree Turnaround Hook Shot: Made (14 PTS),0,72,1,,200676,,1611661325,67,63,4
+07:56,[ATL 70-63] Cazorla 3pt Shot: Made (6 PTS) Assist: Breland (2 AST),240,20,1,,1629569,202638,1611661330,70,63,4
+07:36,[IND 65-70] Mitchell Pullup Jump shot: Made (4 PTS),3,119,1,,1627676,,1611661325,70,65,4
+07:26,[ATL] Montgomery 3pt Shot: Missed,-70,230,2,,201904,,1611661330,70,65,4
+07:22,[ATL] Sykes Rebound (Off:1 Def:1),-70,230,4,,1628279,,1611661330,70,65,4
+07:20,[ATL 73-65] Montgomery 3pt Shot: Made (13 PTS) Assist: Sykes (1 AST),-60,230,1,,201904,1628279,1611661330,73,65,4
+07:19,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,73,65,4
+07:08,[IND] Mitchell Driving Layup Shot: Missed,5,6,2,,1627676,,1611661325,73,65,4
+07:04,[ATL] Billings Rebound (Off:4 Def:4),5,6,4,,1628881,,1611661330,73,65,4
+06:48,[ATL] Breland Driving Layup Shot: Missed,13,6,2,1629479,202638,,1611661330,73,65,4
+06:48,[ATL] Team Rebound,13,6,4,,0,,1611661330,73,65,4
+06:42,[ATL] Montgomery 3pt Shot: Missed,108,229,2,,201904,,1611661330,73,65,4
+06:42,[ATL] Team Rebound,34,219,4,,0,,1611661330,73,65,4
+06:42,[ATL] Team Turnover : Shot Clock Turnover,17,6,5,,0,,1611661330,73,65,4
+06:26,[IND] Dupree Turnaround Fadeaway shot: Missed,-48,141,2,,200676,,1611661325,73,65,4
+06:25,[IND] Team Rebound,-48,141,4,,0,,1611661325,73,65,4
+06:25,[ATL] Breland Foul: Loose Ball (1 PF),-3,7,6,1629479,202638,,1611661330,73,65,4
+06:15,[IND] Wheeler Foul: Loose Ball (5 PF),-6,7,6,201904,204365,,1611661325,73,65,4
+06:15,[IND] Mitchell Turnover : Lost Ball (2 TO),-172,763,5,,1627676,,1611661325,73,65,4
+06:15,[ATL] Cazorla Substitution replaced by Hayes,0,-80,8,,1629569,203026,1611661330,73,65,4
+06:15,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,73,65,4
+06:06,[ATL 76-65] Montgomery 3pt Shot: Made (16 PTS) Assist: Hayes (3 AST),73,240,1,,201904,203026,1611661330,76,65,4
+05:47,[IND 67-76] Dupree Driving Reverse Layup Shot: Made (16 PTS),0,8,1,,200676,,1611661325,76,67,4
+05:47,[ATL] Billings Foul: Shooting (3 PF) (1 FTA),0,8,6,200676,1628881,,1611661330,76,67,4
+05:47,[ATL] Billings Substitution replaced by Williams,0,-80,8,,1628881,204322,1611661330,76,67,4
+05:47,[IND 68-76] Dupree Free Throw 1 of 1 (17 PTS),0,-80,3,,200676,,1611661325,76,68,4
+05:36,[ATL 78-68] Breland Jump Shot: Made (6 PTS) Assist: Montgomery (7 AST),31,166,1,,202638,201904,1611661330,78,68,4
+05:16,[ATL] Sykes Foul: Personal (2 PF),-25,50,6,204335,1628279,,1611661330,78,68,4
+05:13,[IND] Mitchell 3pt Shot: Missed,-129,204,2,,1628909,,1611661325,78,68,4
+05:12,[IND] McCowan Rebound (Off:4 Def:5),-129,204,4,,1629479,,1611661325,78,68,4
+05:12,[ATL] Williams Foul: Shooting (1 PF) (2 FTA),-9,13,6,1629479,204322,,1611661330,78,68,4
+05:12,[IND 69-78] McCowan Free Throw 1 of 2 (7 PTS),0,-80,3,,1629479,,1611661325,78,69,4
+05:12,[IND] McCowan Free Throw 2 of 2 Missed,0,-80,3,,1629479,,1611661325,78,69,4
+05:08,[ATL] Williams Rebound (Off:0 Def:2),0,-80,4,,204322,,1611661330,78,69,4
+05:00,[ATL 80-69] Breland Jump Shot: Made (8 PTS) Assist: Montgomery (8 AST),35,182,1,,202638,201904,1611661330,80,69,4
+04:40,[ATL] Williams Foul: Shooting (2 PF) (2 FTA),-6,7,6,1629479,204322,,1611661330,80,69,4
+04:40,[IND] McCowan Free Throw 1 of 2 Missed,0,-80,3,,1629479,,1611661325,80,69,4
+04:40,[IND] Team Rebound,0,-80,4,,0,,1611661325,80,69,4
+04:40,[IND 70-80] McCowan Free Throw 2 of 2 (8 PTS),0,-80,3,,1629479,,1611661325,80,70,4
+04:29,[ATL] Montgomery Driving Layup Shot: Missed,25,31,2,,201904,,1611661330,80,70,4
+04:25,[IND] McCowan Rebound (Off:4 Def:6),25,31,4,,1629479,,1611661325,80,70,4
+04:10,[IND] Mitchell Driving Layup Shot: Missed,22,-1,2,,1628909,,1611661325,80,70,4
+04:06,[ATL] Montgomery Rebound (Off:1 Def:5),22,-1,4,,201904,,1611661330,80,70,4
+04:03,[ATL] Montgomery Turnover : Bad Pass (1 TO) Steal:McCowan (1 ST),90,90,5,1629479,201904,,1611661330,80,70,4
+03:59,[IND] Mitchell Running Pull-Up Jump Shot: Missed,-85,155,2,,1627676,,1611661325,80,70,4
+03:52,[IND] McCowan Rebound (Off:5 Def:6),-85,155,4,,1629479,,1611661325,80,70,4
+03:51,[IND 72-80] Dupree Putback Layup Shot: Made (19 PTS),3,-5,1,,200676,,1611661325,80,72,4
+03:33,[ATL 83-72] Hayes 3pt Shot: Made (23 PTS) Assist: Montgomery (9 AST),-80,218,1,,203026,201904,1611661330,83,72,4
+03:08,[IND] Dupree Pullup Jump shot: Missed,2,101,2,,200676,,1611661325,83,72,4
+03:08,[IND] Team Rebound,2,101,4,,0,,1611661325,83,72,4
+03:08,[ATL] Williams Foul: Loose Ball (3 PF) (2 FTA),2,1,6,1629479,204322,,1611661330,83,72,4
+03:08,[IND 73-83] McCowan Free Throw 1 of 2 (9 PTS),0,-80,3,,1629479,,1611661325,83,73,4
+03:08,[IND 74-83] McCowan Free Throw 2 of 2 (10 PTS),0,-80,3,,1629479,,1611661325,83,74,4
+02:48,[ATL] Montgomery 3pt Shot: Missed,-97,220,2,,201904,,1611661330,83,74,4
+02:44,[IND] Dupree Rebound (Off:0 Def:5),-97,220,4,,200676,,1611661325,83,74,4
+02:32,[IND] Mitchell Driving Layup Shot: Missed,0,3,2,,1628909,,1611661325,83,74,4
+02:30,[ATL] Breland Rebound (Off:1 Def:5),0,3,4,,202638,,1611661330,83,74,4
+02:30,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,83,74,4
+02:07,[ATL] Sykes Driving Layup Shot: Missed,9,6,2,1629479,1628279,,1611661330,83,74,4
+02:07,[ATL] Team Rebound,9,6,4,,0,,1611661330,83,74,4
+02:06,[ATL] Team Turnover : Shot Clock Turnover,26,-10,5,,0,,1611661330,83,74,4
+01:48,[IND] Dupree Fadeaway Jump Shot: Missed,86,-19,2,,200676,,1611661325,83,74,4
+01:46,[ATL] Williams Rebound (Off:0 Def:3),86,-19,4,,204322,,1611661330,83,74,4
+01:46,[IND] McCowan Foul: Personal (3 PF),0,816,6,204322,1629479,,1611661325,83,74,4
+01:33,[ATL 85-74] Hayes Driving Layup Shot: Made (25 PTS),4,6,1,,203026,,1611661330,85,74,4
+01:18,[IND] Mitchell 3pt Shot: Missed,227,47,2,,1627676,,1611661325,85,74,4
+01:15,[IND] McCowan Rebound (Off:6 Def:6),227,47,4,,1629479,,1611661325,85,74,4
+01:12,[IND] McCowan Putback Layup Shot: Missed,0,0,2,,1629479,,1611661325,85,74,4
+01:12,[IND] Mitchell Rebound (Off:1 Def:1),0,0,4,,1627676,,1611661325,85,74,4
+01:05,[IND] Mitchell Driving Layup Shot: Missed,24,22,2,,1628909,,1611661325,85,74,4
+01:04,[IND] McCowan Rebound (Off:7 Def:6),24,22,4,,1629479,,1611661325,85,74,4
+01:04,[IND 76-85] McCowan Putback Layup Shot: Made (12 PTS),0,-5,1,,1629479,,1611661325,85,76,4
+00:47.4,[ATL 87-76] Hayes Driving Layup Shot: Made (27 PTS),56,47,1,,203026,,1611661330,87,76,4
+00:32.8,[IND] Mitchell 3pt Shot: Missed,104,236,2,,1628909,,1611661325,87,76,4
+00:29.8,[IND] McCowan Rebound (Off:8 Def:6),104,236,4,,1629479,,1611661325,87,76,4
+00:29.5,[IND] McCowan Putback Layup Shot: Missed,-4,0,2,1628279,1629479,,1611661325,87,76,4
+00:29.5,[IND] McCowan Rebound (Off:9 Def:6),-4,0,4,,1629479,,1611661325,87,76,4
+00:29.5,[IND 78-87] McCowan Putback Layup Shot: Made (14 PTS),2,-3,1,,1629479,,1611661325,87,78,4
+00:29.5,[ATL] Sykes Foul: Shooting (3 PF) (1 FTA),-13,39,6,1629479,1628279,,1611661330,87,78,4
+00:29.5,[IND] McCowan Free Throw 1 of 1 Missed,0,-80,3,,1629479,,1611661325,87,78,4
+00:20.0,[ATL] Williams Rebound (Off:0 Def:4),0,-80,4,,204322,,1611661330,87,78,4
+00:12.8,[IND] McCowan Foul: Shooting (4 PF) (2 FTA),2,-5,6,203026,1629479,,1611661325,87,78,4
+00:12.8,Instant Replay - Support Ruling,0,-80,18,,0,,0,87,78,4
+00:12.8,[ATL] Hayes Free Throw 1 of 2 Missed,0,-80,3,,203026,,1611661330,87,78,4
+00:12.8,[ATL] Team Rebound,0,-80,4,,0,,1611661330,87,78,4
+00:12.8,[ATL 88-78] Hayes Free Throw 2 of 2 (28 PTS),0,-80,3,,203026,,1611661330,88,78,4
+00:07.2,[IND] Mitchell Driving Layup Shot: Missed,11,-1,2,201904,1628909,,1611661325,88,78,4
+00:07.2,[IND] Team Rebound,11,-1,4,,0,,1611661325,88,78,4
+00:06.0,[IND] Dupree Jump Shot: Missed,131,47,2,,200676,,1611661325,88,78,4
+00:02.3,[ATL] Breland Rebound (Off:1 Def:6),131,47,4,,202638,,1611661330,88,78,4
+00:00.0,End Period,0,-80,13,,0,,0,88,78,4
+00:00.0,Game End,0,-80,0,,0,,0,88,78,4

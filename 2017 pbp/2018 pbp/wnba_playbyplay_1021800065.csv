@@ -1,0 +1,454 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Vaughn vs Williams (Coleman gains possession),0,-80,10,204322,201913,201889,1611661313,0,0,1
+09:35,[NYL] Vaughn Hook Shot: Missed,-2,35,2,,201913,,1611661313,0,0,1
+09:32,[NYL] Vaughn Rebound (Off:1 Def:0),-2,35,4,,201913,,1611661313,0,0,1
+09:25,[NYL 2-0] Charles Turnaround Fadeaway shot: Made (2 PTS) Assist: Coleman (1 AST),1,51,1,,202250,201889,1611661313,2,0,1
+09:09,[ATL] Montgomery 3pt Shot: Missed,113,226,2,,201904,,1611661330,2,0,1
+09:06,[NYL] Charles Rebound (Off:0 Def:1),113,226,4,,202250,,1611661313,2,0,1
+09:00,[NYL 4-0] Hartley Floating Jump shot: Made (2 PTS),1,41,1,,203829,,1611661313,4,0,1
+08:47,[ATL] Clarendon Jump Shot: Missed,-86,162,2,,203406,,1611661330,4,0,1
+08:44,[NYL] Hartley Rebound (Off:0 Def:1),-86,162,4,,203829,,1611661313,4,0,1
+08:36,[NYL 6-0] Coleman Layup Shot: Made (2 PTS) Assist: Charles (1 AST),4,15,1,,201889,202250,1611661313,6,0,1
+08:11,[ATL] McCoughtry Jump Shot: Missed,-129,124,2,,201881,,1611661330,6,0,1
+08:08,[NYL] Coleman Rebound (Off:0 Def:1),-129,124,4,,201889,,1611661313,6,0,1
+07:59,[NYL] Vaughn Hook Shot: Missed,-13,25,2,202638,201913,,1611661313,6,0,1
+07:56,[ATL] Breland Rebound (Off:0 Def:1),-13,25,4,,202638,,1611661330,6,0,1
+07:42,[ATL] McCoughtry Jump Shot: Missed,156,136,2,,201881,,1611661330,6,0,1
+07:39,[NYL] Coleman Rebound (Off:0 Def:2),156,136,4,,201889,,1611661313,6,0,1
+07:30,[NYL] Charles Turnover : Lost Ball (1 TO) Steal:McCoughtry (1 ST),40,46,5,201881,202250,,1611661313,6,0,1
+07:25,[ATL 2-6] Clarendon Layup Shot: Made (2 PTS) Assist: McCoughtry (1 AST),11,7,1,,203406,201881,1611661330,6,2,1
+07:00,[ATL] Williams Foul: Personal (1 PF),48,48,6,202250,204322,,1611661330,6,2,1
+06:57,[NYL] Charles 3pt Shot: Missed,46,232,2,,202250,,1611661313,6,2,1
+06:55,[ATL] Clarendon Rebound (Off:0 Def:1),46,232,4,,203406,,1611661330,6,2,1
+06:35,[ATL] McCoughtry Turnaround Jump Shot: Missed,49,33,2,,201881,,1611661330,6,2,1
+06:33,[NYL] Vaughn Rebound (Off:1 Def:1),49,33,4,,201913,,1611661313,6,2,1
+06:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,2,1
+06:25,[NYL] Charles Jump Shot: Missed,75,144,2,,202250,,1611661313,6,2,1
+06:21,[ATL] Breland Rebound (Off:0 Def:2),75,144,4,,202638,,1611661330,6,2,1
+06:07,[ATL] McCoughtry Turnover : Bad Pass (1 TO) Steal:Vaughn (1 ST),-82,3,5,201913,201881,,1611661330,6,2,1
+06:03,[NYL 8-2] Hartley Layup Shot: Made (4 PTS) Assist: Zellous (1 AST),1,15,1,,203829,201919,1611661313,8,2,1
+05:37,[ATL] Montgomery 3pt Shot: Missed,94,246,2,,201904,,1611661330,8,2,1
+05:37,[ATL] Team Rebound,94,246,4,,0,,1611661330,8,2,1
+05:37,[ATL] Team Turnover : Shot Clock Turnover,-3,11,5,,0,,1611661330,8,2,1
+05:23,[NYL] Coleman 3pt Shot: Missed,180,167,2,,201889,,1611661313,8,2,1
+05:19,[ATL] McCoughtry Rebound (Off:0 Def:1),180,167,4,,201881,,1611661330,8,2,1
+05:17,[NYL] Coleman Foul: Personal (1 PF),59,53,6,201881,201889,,1611661313,8,2,1
+05:13,[ATL] McCoughtry Turnover : Bad Pass (2 TO) Steal:Charles (1 ST),-190,54,5,202250,201881,,1611661330,8,2,1
+05:06,[NYL] Zellous Jump Shot: Missed,36,40,2,,201919,,1611661313,8,2,1
+05:04,[ATL] Clarendon Rebound (Off:0 Def:2),36,40,4,,203406,,1611661330,8,2,1
+04:48,[ATL] McCoughtry Turnaround Fadeaway Bank Jump Shot: Missed,-98,13,2,,201881,,1611661330,8,2,1
+04:46,[NYL] Charles Rebound (Off:0 Def:2),-98,13,4,,202250,,1611661313,8,2,1
+04:43,[NYL] Zellous Foul: Offensive Charge (1 PF),17,60,6,203406,201919,,1611661313,8,2,1
+04:43,[NYL] Zellous Turnover : Offensive Foul Turnover (1 TO),17,60,5,,201919,,1611661313,8,2,1
+04:43,Timeout Officials,0,-80,9,,0,,0,8,2,1
+04:43,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,8,2,1
+04:25,[ATL] Breland Jump Shot: Missed,-6,194,2,,202638,,1611661330,8,2,1
+04:21,[NYL] Charles Rebound (Off:0 Def:3),-6,194,4,,202250,,1611661313,8,2,1
+03:58,[NYL 11-2] Charles 3pt Shot: Made (5 PTS) Assist: Boyd (1 AST),-63,224,1,,202250,204327,1611661313,11,2,1
+03:44,[ATL] McCoughtry Jump Bank Shot: Missed,-162,129,2,,201881,,1611661330,11,2,1
+03:41,[NYL] Zellous Rebound (Off:0 Def:1),-162,129,4,,201919,,1611661313,11,2,1
+03:33,[NYL] Boyd Jump Shot: Missed,93,149,2,,204327,,1611661313,11,2,1
+03:30,[ATL] McCoughtry Rebound (Off:0 Def:2),93,149,4,,201881,,1611661330,11,2,1
+03:20,[ATL 4-11] McCoughtry Hook Shot: Made (2 PTS) Assist: Williams (1 AST),25,35,1,,201881,204322,1611661330,11,4,1
+03:04,[NYL 13-4] Charles Layup Shot: Made (7 PTS) Assist: Boyd (2 AST),24,26,1,,202250,204327,1611661313,13,4,1
+02:52,[ATL] Montgomery 3pt Shot: Missed,111,222,2,,201904,,1611661330,13,4,1
+02:47,[NYL] Zellous Rebound (Off:0 Def:2),111,222,4,,201919,,1611661313,13,4,1
+02:34,[NYL] Zellous Jump Shot: Missed,93,137,2,,201919,,1611661313,13,4,1
+02:33,[ATL] McCoughtry Rebound (Off:0 Def:3),93,137,4,,201881,,1611661330,13,4,1
+02:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,4,1
+02:29,[NYL] Coleman Substitution replaced by Nurse,0,-80,8,,201889,1628915,1611661313,13,4,1
+02:29,[NYL] Vaughn Substitution replaced by Stokes,0,-80,8,,201913,204329,1611661313,13,4,1
+02:29,[NYL] Zellous Substitution replaced by Rodgers,0,-80,8,,201919,203411,1611661313,13,4,1
+02:29,[ATL] McCoughtry Substitution replaced by Lucas,0,-80,8,,201881,203843,1611661330,13,4,1
+02:29,[ATL] Breland Substitution replaced by Dantas,0,-80,8,,202638,203024,1611661330,13,4,1
+02:28,[ATL] Williams Layup Shot: Missed,-1,21,2,,204322,,1611661330,13,4,1
+02:26,[NYL] Stokes Rebound (Off:0 Def:1),-1,21,4,,204329,,1611661313,13,4,1
+02:18,[NYL] Boyd Layup Shot: Missed,-1,12,2,204322,204327,,1611661313,13,4,1
+02:18,[NYL] Team Rebound,-1,12,4,,0,,1611661313,13,4,1
+02:02,[NYL 15-4] Charles Hook Shot: Made (9 PTS) Assist: Boyd (3 AST),1,59,1,,202250,204327,1611661313,15,4,1
+01:49,[ATL] Dantas 3pt Shot: Missed,8,249,2,,203024,,1611661330,15,4,1
+01:46,[NYL] Boyd Rebound (Off:0 Def:1),8,249,4,,204327,,1611661313,15,4,1
+01:43,[NYL 17-4] Charles Layup Shot: Made (11 PTS) Assist: Boyd (4 AST),3,15,1,,202250,204327,1611661313,17,4,1
+01:35,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,17,4,1
+01:35,[NYL] Charles Substitution replaced by Zahui B,0,-80,8,,202250,204320,1611661313,17,4,1
+01:31,[ATL] Clarendon Turnover : Step Out of Bounds Turnover (1 TO),228,254,5,,203406,,1611661330,17,4,1
+01:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,4,1
+01:10,[NYL] Zahui B 3pt Shot: Missed,80,236,2,,204320,,1611661313,17,4,1
+01:10,[ATL] Team Rebound,80,236,4,,0,,1611661330,17,4,1
+00:53.7,[NYL] Zahui B Foul: Personal (1 PF),-70,2,6,203024,204320,,1611661313,17,4,1
+00:42.4,[ATL] Williams Turnover : Traveling (1 TO),32,10,5,,204322,,1611661330,17,4,1
+00:29.6,[NYL] Rodgers Turnover : Traveling (1 TO),-8,194,5,,203411,,1611661313,17,4,1
+00:25.3,[NYL] Boyd Foul: Personal (1 PF) (2 FTA),149,308,6,201904,204327,,1611661313,17,4,1
+00:25.3,[ATL 5-17] Montgomery Free Throw 1 of 2 (1 PTS),0,-80,3,,201904,,1611661330,17,5,1
+00:25.3,[ATL 6-17] Montgomery Free Throw 2 of 2 (2 PTS),0,-80,3,,201904,,1611661330,17,6,1
+00:00.9,[NYL] Team Turnover : Shot Clock Turnover,0,10,5,,0,,1611661313,17,6,1
+00:00.0,End Period,0,-80,13,,0,,0,17,6,1
+10:00,Start Period,0,-80,12,,0,,0,17,6,2
+09:56,[NYL] Nurse Foul: Personal (1 PF),110,565,6,203406,1628915,,1611661313,17,6,2
+09:43,[ATL] Montgomery Jump Shot: Missed,-15,184,2,,201904,,1611661330,17,6,2
+09:40,[NYL] Rodgers Rebound (Off:0 Def:1),-15,184,4,,203411,,1611661313,17,6,2
+09:35,[NYL] Hartley 3pt Shot: Missed,-188,149,2,,203829,,1611661313,17,6,2
+09:31,[ATL] Montgomery Rebound (Off:0 Def:1),-188,149,4,,201904,,1611661330,17,6,2
+09:29,[NYL] Rodgers Foul: Shooting (1 PF) (2 FTA),16,10,6,203406,203411,,1611661313,17,6,2
+09:29,[ATL] Clarendon Free Throw 1 of 2 Missed,0,-80,3,,203406,,1611661330,17,6,2
+09:29,[ATL] Team Rebound,0,-80,4,,0,,1611661330,17,6,2
+09:29,[ATL 7-17] Clarendon Free Throw 2 of 2 (3 PTS),0,-80,3,,203406,,1611661330,17,7,2
+09:29,Stoppage: Court Cleanup,0,-80,20,,0,,0,17,7,2
+09:12,[NYL] Nurse Jump Shot: Missed,124,129,2,,1628915,,1611661313,17,7,2
+09:11,[ATL] Team Rebound,124,129,4,,0,,1611661330,17,7,2
+09:11,[NYL] Zahui B Foul: Loose Ball (2 PF),0,811,6,203024,204320,,1611661313,17,7,2
+09:11,[NYL] Zahui B Substitution replaced by Charles,0,-80,8,,204320,202250,1611661313,17,7,2
+08:55,[ATL] McGee-Stafford Jump Shot: Missed,-9,185,2,,1627677,,1611661330,17,7,2
+08:53,[NYL] Stokes Rebound (Off:0 Def:2),-9,185,4,,204329,,1611661313,17,7,2
+08:45,[NYL] Charles Driving Finger Roll Layup Shot: Missed,6,27,2,,202250,,1611661313,17,7,2
+08:43,[ATL] McGee-Stafford Rebound (Off:0 Def:1),6,27,4,,1627677,,1611661330,17,7,2
+08:27,[ATL] Clarendon Turnover : Lost Ball (2 TO) Steal:Stokes (1 ST),-187,51,5,204329,203406,,1611661330,17,7,2
+08:20,[NYL] Rodgers Jump Shot: Missed,168,83,2,,203411,,1611661313,17,7,2
+08:20,[NYL] Charles Rebound (Off:1 Def:3),168,83,4,,202250,,1611661313,17,7,2
+08:20,[ATL] Clarendon Foul: Personal (1 PF) (2 FTA),93,-1,6,202250,203406,,1611661330,17,7,2
+08:20,[ATL] Clarendon Substitution replaced by McCoughtry,0,-80,8,,203406,201881,1611661330,17,7,2
+08:20,[ATL] Lucas Substitution replaced by Dietrick,0,-80,8,,203843,204355,1611661330,17,7,2
+08:20,[NYL 18-7] Charles Free Throw 1 of 2 (12 PTS),0,-80,3,,202250,,1611661313,18,7,2
+08:20,[NYL 19-7] Charles Free Throw 2 of 2 (13 PTS),0,-80,3,,202250,,1611661313,19,7,2
+07:57,[ATL 9-19] McCoughtry Layup Shot: Made (4 PTS) Assist: McGee-Stafford (1 AST),13,8,1,,201881,1627677,1611661330,19,9,2
+07:48,[NYL 21-9] Hartley Layup Shot: Made (6 PTS),1,15,1,,203829,,1611661313,21,9,2
+07:48,[ATL] McGee-Stafford Foul: Shooting (1 PF) (1 FTA),-3,15,6,203829,1627677,,1611661330,21,9,2
+07:48,[NYL 22-9] Hartley Free Throw 1 of 1 (7 PTS),0,-80,3,,203829,,1611661313,22,9,2
+07:28,[ATL 12-22] McCoughtry 3pt Shot: Made (7 PTS) Assist: Dantas (1 AST),-168,199,1,,201881,203024,1611661330,22,12,2
+07:16,[NYL 24-12] Charles Turnaround Jump Shot: Made (15 PTS) Assist: Hartley (1 AST),15,139,1,,202250,203829,1611661313,24,12,2
+07:00,[ATL] McGee-Stafford Jump Shot: Missed,195,-4,2,,1627677,,1611661330,24,12,2
+06:56,[NYL] Nurse Rebound (Off:0 Def:1),195,-4,4,,1628915,,1611661313,24,12,2
+06:55,[NYL] Nurse Turnover : Lost Ball (1 TO) Steal:Dietrick (1 ST),-161,763,5,204355,1628915,,1611661313,24,12,2
+06:47,[ATL] Montgomery Turnover : Bad Pass (1 TO) Steal:Stokes (2 ST),-193,12,5,204329,201904,,1611661330,24,12,2
+06:35,[NYL] Stokes Turnover : Out of Bounds - Bad Pass Turnover (1 TO),229,165,5,,204329,,1611661313,24,12,2
+06:35,[NYL] Stokes Substitution replaced by Vaughn,0,-80,8,,204329,201913,1611661313,24,12,2
+06:35,[ATL] Dantas Substitution replaced by Williams,0,-80,8,,203024,204322,1611661330,24,12,2
+06:35,[ATL] McGee-Stafford Substitution replaced by Breland,0,-80,8,,1627677,202638,1611661330,24,12,2
+06:20,[NYL] Rodgers Foul: Shooting (2 PF) (2 FTA),-125,3,6,201881,203411,,1611661313,24,12,2
+06:20,[ATL] McCoughtry Free Throw 1 of 2 Missed,0,-80,3,,201881,,1611661330,24,12,2
+06:20,[ATL] Team Rebound,0,-80,4,,0,,1611661330,24,12,2
+06:20,[NYL] Rodgers Substitution replaced by Zellous,0,-80,8,,203411,201919,1611661313,24,12,2
+06:20,[ATL 13-24] McCoughtry Free Throw 2 of 2 (8 PTS),0,-80,3,,201881,,1611661330,24,13,2
+06:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,24,13,2
+05:58,[NYL 26-13] Zellous Layup Shot: Made (2 PTS) Assist: Charles (2 AST),-11,15,1,,201919,202250,1611661313,26,13,2
+05:48,[NYL] Zellous Foul: Personal (2 PF) (2 FTA),-112,222,6,202638,201919,,1611661313,26,13,2
+05:48,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,26,13,2
+05:48,[ATL 14-26] Breland Free Throw 1 of 2 (1 PTS),0,-80,3,,202638,,1611661330,26,14,2
+05:48,[ATL] Breland Free Throw 2 of 2 Missed,0,-80,3,,202638,,1611661330,26,14,2
+05:44,[NYL] Nurse Rebound (Off:0 Def:2),0,-80,4,,1628915,,1611661313,26,14,2
+05:27,[NYL] Zellous Jump Shot: Missed,-152,106,2,,201919,,1611661313,26,14,2
+05:24,[ATL] McCoughtry Rebound (Off:0 Def:4),-152,106,4,,201881,,1611661330,26,14,2
+05:08,[ATL 17-26] Dietrick 3pt Shot: Made (3 PTS) Assist: McCoughtry (2 AST),-202,157,1,,204355,201881,1611661330,26,17,2
+04:49,[ATL] Montgomery Foul: Personal (1 PF),64,15,6,1628915,201904,,1611661330,26,17,2
+04:41,[NYL] Nurse 3pt Shot: Missed,202,107,2,,1628915,,1611661313,26,17,2
+04:38,[ATL] McCoughtry Rebound (Off:0 Def:5),202,107,4,,201881,,1611661330,26,17,2
+04:31,[ATL] Breland Turnover : Lost Ball (1 TO) Steal:Vaughn (2 ST),75,21,5,201913,202638,,1611661330,26,17,2
+04:25,[NYL 28-17] Charles Finger Roll Layup Shot: Made (17 PTS) Assist: Hartley (2 AST),0,17,1,,202250,203829,1611661313,28,17,2
+04:07,[ATL] Williams Layup Shot: Missed,14,10,2,,204322,,1611661330,28,17,2
+04:04,[NYL] Vaughn Rebound (Off:1 Def:2),14,10,4,,201913,,1611661313,28,17,2
+03:56,[NYL] Vaughn Jump Shot: Missed,146,126,2,,201913,,1611661313,28,17,2
+03:56,[NYL] Team Rebound,146,126,4,,0,,1611661313,28,17,2
+03:56,[ATL] Montgomery Foul: Personal (2 PF),4,17,6,1628915,201904,,1611661330,28,17,2
+03:56,[NYL] Charles Substitution replaced by Coleman,0,-80,8,,202250,201889,1611661313,28,17,2
+03:56,[ATL] Montgomery Substitution replaced by Clarendon,0,-80,8,,201904,203406,1611661330,28,17,2
+03:42,[NYL] Team Turnover : Shot Clock Turnover,-10,6,5,,0,,1611661313,28,17,2
+03:30,[NYL] Hartley Foul: Shooting (1 PF) (2 FTA),46,42,6,204322,203829,,1611661313,28,17,2
+03:30,[ATL] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661330,28,17,2
+03:30,[ATL] Team Rebound,0,-80,4,,0,,1611661330,28,17,2
+03:30,[ATL 18-28] Williams Free Throw 2 of 2 (1 PTS),0,-80,3,,204322,,1611661330,28,18,2
+03:07,[NYL] Vaughn Jump Shot: Missed,82,64,2,,201913,,1611661313,28,18,2
+03:05,[ATL] Williams Rebound (Off:0 Def:1),82,64,4,,204322,,1611661330,28,18,2
+02:54,[ATL] Dietrick 3pt Shot: Missed,228,6,2,,204355,,1611661330,28,18,2
+02:51,[ATL] Williams Rebound (Off:1 Def:1),228,6,4,,204322,,1611661330,28,18,2
+02:43,[ATL] McCoughtry Jump Shot: Missed,-197,27,2,,201881,,1611661330,28,18,2
+02:40,[NYL] Zellous Rebound (Off:0 Def:3),-197,27,4,,201919,,1611661313,28,18,2
+02:34,[NYL 31-18] Nurse 3pt Shot: Made (3 PTS) Assist: Hartley (3 AST),-228,64,1,,1628915,203829,1611661313,31,18,2
+02:14,[ATL] McCoughtry Jump Shot: Missed,-114,168,2,,201881,,1611661330,31,18,2
+02:10,[NYL] Vaughn Rebound (Off:1 Def:3),-114,168,4,,201913,,1611661313,31,18,2
+02:06,[NYL] Nurse 3pt Shot: Missed,220,118,2,,1628915,,1611661313,31,18,2
+02:03,[ATL] Breland Rebound (Off:0 Def:3),220,118,4,,202638,,1611661330,31,18,2
+01:55,[ATL] Breland Turnover : Bad Pass (2 TO) Steal:Vaughn (3 ST),16,35,5,201913,202638,,1611661330,31,18,2
+01:51,[ATL] Dietrick Foul: Shooting (1 PF) (2 FTA),20,17,6,1628915,204355,,1611661330,31,18,2
+01:51,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,31,18,2
+01:51,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,31,18,2
+01:51,[NYL 32-18] Nurse Free Throw 1 of 2 (4 PTS),0,-80,3,,1628915,,1611661313,32,18,2
+01:51,[NYL] Nurse Free Throw 2 of 2 Missed,0,-80,3,,1628915,,1611661313,32,18,2
+01:47,[NYL] Coleman Rebound (Off:1 Def:2),0,-80,4,,201889,,1611661313,32,18,2
+01:37,[NYL] Boyd Driving Layup Shot: Missed,6,17,2,,204327,,1611661313,32,18,2
+01:35,[NYL] Vaughn Rebound (Off:2 Def:3),6,17,4,,201913,,1611661313,32,18,2
+01:34,[NYL 34-18] Vaughn Putback Layup Shot: Made (2 PTS),11,15,1,,201913,,1611661313,34,18,2
+01:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,18,2
+01:11,[ATL] Clarendon Turnover : Bad Pass (3 TO) Steal:Coleman (1 ST),8,27,5,201889,203406,,1611661330,34,18,2
+01:02,[NYL] Nurse Layup Shot: Missed,12,38,2,202638,1628915,,1611661313,34,18,2
+00:59.5,[ATL] McCoughtry Rebound (Off:0 Def:6),12,38,4,,201881,,1611661330,34,18,2
+00:50.2,[NYL] Boyd Foul: Personal (2 PF) (2 FTA),47,49,6,201881,204327,,1611661313,34,18,2
+00:50.2,[ATL] McCoughtry Free Throw 1 of 2 Missed,0,-80,3,,201881,,1611661330,34,18,2
+00:50.2,[ATL] Team Rebound,0,-80,4,,0,,1611661330,34,18,2
+00:50.2,[ATL 19-34] McCoughtry Free Throw 2 of 2 (9 PTS),0,-80,3,,201881,,1611661330,34,19,2
+00:38.9,[NYL] Coleman Turnover : Bad Pass (1 TO) Steal:Williams (1 ST),-10,40,5,204322,201889,,1611661313,34,19,2
+00:35.6,[ATL 21-34] McCoughtry Layup Shot: Made (11 PTS),-2,11,1,,201881,,1611661330,34,21,2
+00:35.6,[NYL] Zellous Foul: Shooting (3 PF) (1 FTA),-2,8,6,201881,201919,,1611661313,34,21,2
+00:35.6,[ATL 22-34] McCoughtry Free Throw 1 of 1 (12 PTS),0,-80,3,,201881,,1611661330,34,22,2
+00:23.1,[NYL] Zellous Jump Shot: Missed,62,138,2,,201919,,1611661313,34,22,2
+00:20.4,[ATL] McCoughtry Rebound (Off:0 Def:7),62,138,4,,201881,,1611661330,34,22,2
+00:13.0,[ATL 24-34] Breland Driving Layup Shot: Made (3 PTS) Assist: McCoughtry (3 AST),-13,10,1,,202638,201881,1611661330,34,24,2
+00:02.3,[NYL] Coleman 3pt Shot: Missed,170,199,2,,201889,,1611661313,34,24,2
+00:00.1,[ATL] Dietrick Rebound (Off:0 Def:1),170,199,4,,204355,,1611661330,34,24,2
+00:00.0,End Period,0,-80,13,,0,,0,34,24,2
+10:00,Start Period,0,-80,12,,0,,0,34,24,3
+09:47,[ATL] Montgomery 3pt Shot: Missed,202,156,2,,201904,,1611661330,34,24,3
+09:44,[NYL] Charles Rebound (Off:1 Def:4),202,156,4,,202250,,1611661313,34,24,3
+09:34,[NYL] Coleman Fadeaway Jump Shot: Missed,145,5,2,,201889,,1611661313,34,24,3
+09:33,[NYL] Vaughn Rebound (Off:3 Def:3),145,5,4,,201913,,1611661313,34,24,3
+09:32,[NYL] Vaughn Putback Layup Shot: Missed,-11,12,2,,201913,,1611661313,34,24,3
+09:31,[ATL] Team Rebound,-11,12,4,,0,,1611661330,34,24,3
+09:31,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,34,24,3
+09:31,[NYL] Vaughn Foul: Loose Ball (1 PF),1,819,6,201881,201913,,1611661313,34,24,3
+09:11,[ATL 26-34] Clarendon Jump Shot: Made (5 PTS),71,140,1,,203406,,1611661330,34,26,3
+08:52,[NYL 37-26] Zellous 3pt Shot: Made (5 PTS) Assist: Hartley (4 AST),170,168,1,,201919,203829,1611661313,37,26,3
+08:36,[ATL] Breland Jump Shot: Missed,-35,189,2,,202638,,1611661330,37,26,3
+08:36,[NYL] Coleman Rebound (Off:1 Def:3),-35,189,4,,201889,,1611661313,37,26,3
+08:32,[ATL] Clarendon Foul: Personal (2 PF),65,135,6,201919,203406,,1611661330,37,26,3
+08:30,[NYL] Zellous Turnover : Bad Pass (2 TO) Steal:Montgomery (1 ST),163,243,5,201904,201919,,1611661313,37,26,3
+08:26,[ATL 28-37] Montgomery Jump Shot: Made (4 PTS),-86,11,1,,201904,,1611661330,37,28,3
+08:09,[NYL 39-28] Zellous Jump Shot: Made (7 PTS) Assist: Hartley (5 AST),-111,161,1,,201919,203829,1611661313,39,28,3
+07:46,[ATL 31-39] McCoughtry 3pt Shot: Made (15 PTS) Assist: Montgomery (1 AST),230,6,1,,201881,201904,1611661330,39,31,3
+07:35,[NYL] Hartley Turnover : Lost Ball (1 TO) Steal:McCoughtry (2 ST),-19,13,5,201881,203829,,1611661313,39,31,3
+07:29,[ATL] Clarendon Layup Shot: Missed,-13,5,2,,203406,,1611661330,39,31,3
+07:28,[NYL] Vaughn Rebound (Off:3 Def:4),-13,5,4,,201913,,1611661313,39,31,3
+07:18,[NYL] Charles Fadeaway Jump Shot: Missed,13,110,2,,202250,,1611661313,39,31,3
+07:16,[ATL] McCoughtry Rebound (Off:0 Def:8),13,110,4,,201881,,1611661330,39,31,3
+07:08,[ATL] McCoughtry Jump Shot: Missed,-122,100,2,,201881,,1611661330,39,31,3
+07:08,[NYL] Coleman Rebound (Off:1 Def:4),-122,100,4,,201889,,1611661313,39,31,3
+06:57,[NYL] Vaughn Jump Shot: Missed,39,184,2,,201913,,1611661313,39,31,3
+06:53,[ATL] Breland Rebound (Off:0 Def:4),39,184,4,,202638,,1611661330,39,31,3
+06:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,31,3
+06:45,[ATL] Montgomery Foul: Offensive Charge (3 PF),-194,316,6,203829,201904,,1611661330,39,31,3
+06:45,[ATL] Montgomery Turnover : Offensive Foul Turnover (2 TO),-194,316,5,,201904,,1611661330,39,31,3
+06:33,[NYL] Hartley 3pt Shot: Missed,153,201,2,,203829,,1611661313,39,31,3
+06:30,[ATL] Williams Rebound (Off:1 Def:2),153,201,4,,204322,,1611661330,39,31,3
+06:24,[ATL] McCoughtry Driving Layup Shot: Missed,-13,17,2,,201881,,1611661330,39,31,3
+06:22,[NYL] Vaughn Rebound (Off:3 Def:5),-13,17,4,,201913,,1611661313,39,31,3
+06:12,[NYL 41-31] Zellous Layup Shot: Made (9 PTS),-8,15,1,,201919,,1611661313,41,31,3
+05:54,[ATL 33-41] McCoughtry Layup Shot: Made (17 PTS),-11,15,1,,201881,,1611661330,41,33,3
+05:54,[NYL] Vaughn Foul: Shooting (2 PF) (1 FTA),-4,6,6,201881,201913,,1611661313,41,33,3
+05:54,[ATL] McCoughtry Technical (1 FTA),0,-80,6,,201881,,1611661330,41,33,3
+05:54,[NYL] Zellous Substitution replaced by Nurse,0,-80,8,,201919,1628915,1611661313,41,33,3
+05:54,[ATL] Clarendon Substitution replaced by Dietrick,0,-80,8,,203406,204355,1611661330,41,33,3
+05:54,[NYL 42-33] Charles Free Throw Technical (18 PTS),0,-80,3,,202250,,1611661313,42,33,3
+05:54,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,42,33,3
+05:54,[ATL 34-42] McCoughtry Free Throw 1 of 1 (18 PTS),0,-80,3,,201881,,1611661330,42,34,3
+05:44,[ATL] Williams Foul: Personal (2 PF),76,35,6,202250,204322,,1611661330,42,34,3
+05:38,[NYL] Hartley 3pt Shot: Missed,117,214,2,,203829,,1611661313,42,34,3
+05:36,[NYL] Vaughn Rebound (Off:4 Def:5),117,214,4,,201913,,1611661313,42,34,3
+05:35,[NYL] Vaughn Turnaround Hook Shot: Missed,10,146,2,,201913,,1611661313,42,34,3
+05:35,[ATL] McCoughtry Rebound (Off:0 Def:9),10,146,4,,201881,,1611661330,42,34,3
+05:25,[ATL] Breland Layup Shot: Missed,-14,14,2,,202638,,1611661330,42,34,3
+05:21,[ATL] Williams Rebound (Off:2 Def:2),-14,14,4,,204322,,1611661330,42,34,3
+05:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,34,3
+05:10,[ATL] Team Turnover : Shot Clock Turnover,-4,4,5,,0,,1611661330,42,34,3
+04:55,[NYL] Charles Fadeaway Jump Shot: Missed,35,71,2,,202250,,1611661313,42,34,3
+04:53,[ATL] McCoughtry Rebound (Off:0 Def:10),35,71,4,,201881,,1611661330,42,34,3
+04:44,[ATL 36-42] McCoughtry Jump Shot: Made (20 PTS),-133,68,1,,201881,,1611661330,42,36,3
+04:32,[NYL] Hartley Jump Shot: Missed,-148,104,2,,203829,,1611661313,42,36,3
+04:27,[ATL] Breland Rebound (Off:0 Def:5),-148,104,4,,202638,,1611661330,42,36,3
+04:22,[NYL] Hartley Foul: Shooting (2 PF) (2 FTA),28,41,6,201881,203829,,1611661313,42,36,3
+04:22,Timeout Officials,0,-80,9,,0,,0,42,36,3
+04:22,[ATL 37-42] McCoughtry Free Throw 1 of 2 (21 PTS),0,-80,3,,201881,,1611661330,42,37,3
+04:22,[ATL] McCoughtry Free Throw 2 of 2 Missed,0,-80,3,,201881,,1611661330,42,37,3
+04:20,[NYL] Coleman Rebound (Off:1 Def:5),0,-80,4,,201889,,1611661313,42,37,3
+04:05,[ATL] Breland Foul: Shooting (1 PF) (2 FTA),-3,34,6,202250,202638,,1611661330,42,37,3
+04:05,[NYL] Coleman Substitution replaced by Zellous,0,-80,8,,201889,201919,1611661313,42,37,3
+04:05,[NYL 43-37] Charles Free Throw 1 of 2 (19 PTS),0,-80,3,,202250,,1611661313,43,37,3
+04:05,[NYL 44-37] Charles Free Throw 2 of 2 (20 PTS),0,-80,3,,202250,,1611661313,44,37,3
+03:48,[ATL] Dietrick 3pt Shot: Missed,226,-1,2,,204355,,1611661330,44,37,3
+03:44,[ATL] McCoughtry Rebound (Off:1 Def:10),226,-1,4,,201881,,1611661330,44,37,3
+03:43,[NYL] Vaughn Foul: Shooting (3 PF) (2 FTA),6,40,6,201881,201913,,1611661313,44,37,3
+03:43,[ATL 38-44] McCoughtry Free Throw 1 of 2 (22 PTS),0,-80,3,,201881,,1611661330,44,38,3
+03:43,[ATL 39-44] McCoughtry Free Throw 2 of 2 (23 PTS),0,-80,3,,201881,,1611661330,44,39,3
+03:22,[NYL] Vaughn Turnover : 3 Second Violation (1 TO),-2,19,5,,201913,,1611661313,44,39,3
+03:22,[NYL] Vaughn Substitution replaced by Allen,0,-80,8,,201913,204296,1611661313,44,39,3
+03:11,[ATL] Montgomery 3pt Shot: Missed,176,172,2,,201904,,1611661330,44,39,3
+03:03,[ATL] Breland Rebound (Off:1 Def:5),176,172,4,,202638,,1611661330,44,39,3
+02:51,[ATL] Dietrick Jump Shot: Missed,-109,16,2,,204355,,1611661330,44,39,3
+02:48,[ATL] McCoughtry Rebound (Off:2 Def:10),-109,16,4,,201881,,1611661330,44,39,3
+02:47,[ATL] McCoughtry Putback Layup Shot: Missed,12,16,2,,201881,,1611661330,44,39,3
+02:45,[NYL] Charles Rebound (Off:1 Def:5),12,16,4,,202250,,1611661313,44,39,3
+02:41,[NYL] Zellous Driving Layup Shot: Missed,13,1,2,,201919,,1611661313,44,39,3
+02:39,[ATL] Breland Rebound (Off:1 Def:6),13,1,4,,202638,,1611661330,44,39,3
+02:26,[ATL 41-44] Williams Hook Shot: Made (3 PTS) Assist: Dietrick (1 AST),-2,25,1,,204322,204355,1611661330,44,41,3
+02:06,[NYL] Charles Jump Shot: Missed,25,210,2,,202250,,1611661313,44,41,3
+02:04,[ATL] Williams Rebound (Off:2 Def:3),25,210,4,,204322,,1611661330,44,41,3
+01:53,[ATL 43-44] Breland Layup Shot: Made (5 PTS),0,24,1,,202638,,1611661330,44,43,3
+01:53,[NYL] Allen Foul: Shooting (1 PF) (1 FTA),-3,11,6,202638,204296,,1611661313,44,43,3
+01:53,[NYL] Hartley Substitution replaced by Stokes,0,-80,8,,203829,204329,1611661313,44,43,3
+01:53,[NYL] Allen Substitution replaced by Boyd,0,-80,8,,204296,204327,1611661313,44,43,3
+01:53,[ATL 44-44] Breland Free Throw 1 of 1 (6 PTS),0,-80,3,,202638,,1611661330,44,44,3
+01:41,[ATL] McCoughtry Foul: Personal (2 PF),-74,112,6,1628915,201881,,1611661330,44,44,3
+01:41,[ATL] Williams Substitution replaced by Dantas,0,-80,8,,204322,203024,1611661330,44,44,3
+01:25,[NYL 46-44] Stokes Layup Shot: Made (2 PTS) Assist: Boyd (5 AST),11,8,1,,204329,204327,1611661313,46,44,3
+01:10,[ATL] McCoughtry 3pt Shot: Missed,-86,230,2,,201881,,1611661330,46,44,3
+01:05,[ATL] McCoughtry Rebound (Off:3 Def:10),-86,230,4,,201881,,1611661330,46,44,3
+01:04,[ATL] McCoughtry Turnover : Bad Pass (3 TO) Steal:Charles (2 ST),76,67,5,202250,201881,,1611661330,46,44,3
+01:03,[ATL] Dietrick Foul: Shooting (2 PF) (2 FTA),16,12,6,201919,204355,,1611661330,46,44,3
+01:03,[ATL] Breland Substitution replaced by Billings,0,-80,8,,202638,1628881,1611661330,46,44,3
+01:03,[NYL] Zellous Free Throw 1 of 2 Missed,0,-80,3,,201919,,1611661313,46,44,3
+01:03,[NYL] Team Rebound,0,-80,4,,0,,1611661313,46,44,3
+01:03,[NYL 47-44] Zellous Free Throw 2 of 2 (10 PTS),0,-80,3,,201919,,1611661313,47,44,3
+00:56.8,[ATL] Montgomery Foul: Offensive Charge (4 PF),121,149,6,1628915,201904,,1611661330,47,44,3
+00:56.8,[ATL] Montgomery Turnover : Offensive Foul Turnover (3 TO),121,149,5,,201904,,1611661330,47,44,3
+00:56.8,[ATL] Montgomery Substitution replaced by Clarendon,0,-80,8,,201904,203406,1611661330,47,44,3
+00:46.9,[NYL] Stokes Layup Shot: Missed,-3,6,2,,204329,,1611661313,47,44,3
+00:45.3,[ATL] Billings Rebound (Off:0 Def:1),-3,6,4,,1628881,,1611661330,47,44,3
+00:37.1,[ATL 46-47] Dantas Cutting Layup Shot: Made (2 PTS) Assist: McCoughtry (4 AST),8,14,1,,203024,201881,1611661330,47,46,3
+00:37.1,[NYL] Stokes Foul: Shooting (1 PF) (1 FTA),7,9,6,203024,204329,,1611661313,47,46,3
+00:37.1,[ATL 47-47] Dantas Free Throw 1 of 1 (3 PTS),0,-80,3,,203024,,1611661330,47,47,3
+00:24.2,[NYL 50-47] Zellous 3pt Shot: Made (13 PTS) Assist: Nurse (1 AST),-207,148,1,,201919,1628915,1611661313,50,47,3
+00:05.4,[ATL] Clarendon 3pt Shot: Missed,237,11,2,,203406,,1611661330,50,47,3
+00:03.3,[ATL] Clarendon Rebound (Off:1 Def:2),237,11,4,,203406,,1611661330,50,47,3
+00:02.1,[NYL] Zellous Foul: Shooting (4 PF) (2 FTA),-11,16,6,201881,201919,,1611661313,50,47,3
+00:02.1,[ATL 48-50] McCoughtry Free Throw 1 of 2 (24 PTS),0,-80,3,,201881,,1611661330,50,48,3
+00:02.1,[ATL 49-50] McCoughtry Free Throw 2 of 2 (25 PTS),0,-80,3,,201881,,1611661330,50,49,3
+00:00.8,[NYL] Nurse 3pt Shot: Missed,-126,400,2,,1628915,,1611661313,50,49,3
+00:00.1,[NYL] Team Rebound,-126,400,4,,0,,1611661313,50,49,3
+00:00.0,End Period,0,-80,13,,0,,0,50,49,3
+10:00,Start Period,0,-80,12,,0,,0,50,49,4
+09:45,[NYL] Nurse 3pt Shot: Missed,-3,247,2,,1628915,,1611661313,50,49,4
+09:43,[NYL] Charles Rebound (Off:2 Def:5),-3,247,4,,202250,,1611661313,50,49,4
+09:43,[ATL] Clarendon Foul: Personal (3 PF),-23,15,6,202250,203406,,1611661330,50,49,4
+09:36,[NYL] Rodgers 3pt Shot: Missed,-212,118,2,,203411,,1611661313,50,49,4
+09:34,[ATL] Clarendon Rebound (Off:1 Def:3),-212,118,4,,203406,,1611661330,50,49,4
+09:17,[ATL] Dietrick 3pt Shot: Missed,-163,186,2,,204355,,1611661330,50,49,4
+09:16,[ATL] Billings Rebound (Off:1 Def:1),-163,186,4,,1628881,,1611661330,50,49,4
+09:05,[ATL] Dantas Jump Shot: Missed,-44,181,2,,203024,,1611661330,50,49,4
+09:02,[NYL] Boyd Rebound (Off:0 Def:2),-44,181,4,,204327,,1611661313,50,49,4
+08:55,[NYL 52-49] Stokes Layup Shot: Made (4 PTS) Assist: Rodgers (1 AST),-8,13,1,,204329,203411,1611661313,52,49,4
+08:33,[ATL] Clarendon Turnover : Lost Ball (4 TO) Steal:Boyd (1 ST),29,53,5,204327,203406,,1611661330,52,49,4
+08:28,[NYL 54-49] Nurse Running Layup Shot: Made (6 PTS) Assist: Boyd (6 AST),8,8,1,,1628915,204327,1611661313,54,49,4
+08:11,[ATL] Clarendon 3pt Shot: Missed,-152,185,2,,203406,,1611661330,54,49,4
+08:09,[NYL] Team Rebound,-152,185,4,,0,,1611661313,54,49,4
+07:55,[NYL] Rodgers 3pt Shot: Missed,-196,145,2,,203411,,1611661313,54,49,4
+07:52,[ATL] Billings Rebound (Off:1 Def:2),-196,145,4,,1628881,,1611661330,54,49,4
+07:42,[NYL] Rodgers Foul: Shooting (3 PF) (2 FTA),28,6,6,201881,203411,,1611661313,54,49,4
+07:42,[ATL] Clarendon Substitution replaced by Montgomery,0,-80,8,,203406,201904,1611661330,54,49,4
+07:42,[ATL] Billings Substitution replaced by Breland,0,-80,8,,1628881,202638,1611661330,54,49,4
+07:42,[ATL 50-54] McCoughtry Free Throw 1 of 2 (26 PTS),0,-80,3,,201881,,1611661330,54,50,4
+07:42,[ATL 51-54] McCoughtry Free Throw 2 of 2 (27 PTS),0,-80,3,,201881,,1611661330,54,51,4
+07:36,[NYL 56-51] Stokes Cutting Layup Shot: Made (6 PTS) Assist: Boyd (7 AST),-2,26,1,,204329,204327,1611661313,56,51,4
+07:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,51,4
+07:19,[NYL] Rodgers Foul: Shooting (4 PF) (2 FTA),9,25,6,201881,203411,,1611661313,56,51,4
+07:19,[NYL] Stokes Substitution replaced by Vaughn,0,-80,8,,204329,201913,1611661313,56,51,4
+07:19,[ATL 52-56] McCoughtry Free Throw 1 of 2 (28 PTS),0,-80,3,,201881,,1611661330,56,52,4
+07:19,[ATL 53-56] McCoughtry Free Throw 2 of 2 (29 PTS),0,-80,3,,201881,,1611661330,56,53,4
+07:06,[NYL 58-53] Charles Turnaround Fadeaway shot: Made (22 PTS),3,140,1,,202250,,1611661313,58,53,4
+06:48,[ATL] Dietrick 3pt Shot: Missed,-234,-21,2,,204355,,1611661330,58,53,4
+06:45,[NYL] Rodgers Rebound (Off:0 Def:2),-234,-21,4,,203411,,1611661313,58,53,4
+06:42,[ATL] Dietrick Foul: Shooting (3 PF) (2 FTA),10,6,6,202250,204355,,1611661330,58,53,4
+06:42,[ATL] Dietrick Substitution replaced by Lucas,0,-80,8,,204355,203843,1611661330,58,53,4
+06:42,[ATL] Dantas Substitution replaced by Williams,0,-80,8,,203024,204322,1611661330,58,53,4
+06:42,[NYL] Charles Free Throw 1 of 2 Missed,0,-80,3,,202250,,1611661313,58,53,4
+06:42,[NYL] Team Rebound,0,-80,4,,0,,1611661313,58,53,4
+06:42,[NYL 59-53] Charles Free Throw 2 of 2 (23 PTS),0,-80,3,,202250,,1611661313,59,53,4
+06:27,[ATL] Montgomery 3pt Shot: Missed,-191,138,2,,201904,,1611661330,59,53,4
+06:25,[NYL] Rodgers Rebound (Off:0 Def:3),-191,138,4,,203411,,1611661313,59,53,4
+06:17,[NYL 61-53] Charles Turnaround Fadeaway Bank Jump Shot: Made (25 PTS) Assist: Boyd (8 AST),47,35,1,,202250,204327,1611661313,61,53,4
+06:10,[NYL] Nurse Foul: Personal (2 PF),219,10,6,201904,1628915,,1611661313,61,53,4
+06:06,[ATL] Montgomery 3pt Shot: Missed,84,229,2,,201904,,1611661330,61,53,4
+06:06,[ATL] Breland Rebound (Off:2 Def:6),84,229,4,,202638,,1611661330,61,53,4
+06:00,[ATL 55-61] McCoughtry Layup Shot: Made (31 PTS),-19,11,1,,201881,,1611661330,61,55,4
+05:47,[NYL 63-55] Vaughn Layup Shot: Made (4 PTS) Assist: Charles (3 AST),10,13,1,,201913,202250,1611661313,63,55,4
+05:27,[ATL] Breland Turnover : Lost Ball (3 TO) Steal:Boyd (2 ST),8,59,5,204327,202638,,1611661330,63,55,4
+05:22,[NYL 65-55] Nurse Layup Shot: Made (8 PTS) Assist: Boyd (9 AST),17,7,1,,1628915,204327,1611661313,65,55,4
+05:16,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,65,55,4
+05:03,[ATL 57-65] Montgomery Jump Shot: Made (6 PTS),-2,202,1,,201904,,1611661330,65,57,4
+04:51,[NYL 68-57] Rodgers 3pt Shot: Made (3 PTS) Assist: Boyd (10 AST),42,237,1,,203411,204327,1611661313,68,57,4
+04:33,[ATL] Williams Turnover : Out of Bounds Lost Ball Turnover (2 TO),7,97,5,,204322,,1611661330,68,57,4
+04:20,[NYL] Rodgers 3pt Shot: Missed,104,210,2,,203411,,1611661313,68,57,4
+04:18,[ATL] Breland Rebound (Off:2 Def:7),104,210,4,,202638,,1611661330,68,57,4
+04:12,[ATL 60-68] Montgomery 3pt Shot: Made (9 PTS),136,194,1,,201904,,1611661330,68,60,4
+03:59,[NYL] Vaughn Turnover : Traveling (2 TO),10,22,5,,201913,,1611661313,68,60,4
+03:52,[ATL] Montgomery 3pt Shot: Missed,176,165,2,,201904,,1611661330,68,60,4
+03:49,[ATL] Lucas Rebound (Off:1 Def:0),176,165,4,,203843,,1611661330,68,60,4
+03:46,[ATL] Lucas 3pt Shot: Missed,-224,83,2,,203843,,1611661330,68,60,4
+03:46,[NYL] Boyd Rebound (Off:0 Def:3),-224,83,4,,204327,,1611661313,68,60,4
+03:42,[NYL 70-60] Nurse Layup Shot: Made (10 PTS) Assist: Boyd (11 AST),16,12,1,,1628915,204327,1611661313,70,60,4
+03:31,[ATL] Montgomery Turnover : Bad Pass (4 TO) Steal:Rodgers (1 ST),-164,590,5,203411,201904,,1611661330,70,60,4
+03:25,[NYL] Nurse 3pt Shot: Missed,-173,178,2,,1628915,,1611661313,70,60,4
+03:23,[ATL] Lucas Rebound (Off:1 Def:1),-173,178,4,,203843,,1611661330,70,60,4
+03:16,[ATL] Lucas 3pt Shot: Missed,-121,207,2,,203843,,1611661330,70,60,4
+03:15,[NYL] Team Rebound,-121,207,4,,0,,1611661313,70,60,4
+03:15,[ATL] Breland Foul: Loose Ball (2 PF),-36,708,6,1628915,202638,,1611661330,70,60,4
+03:15,Instant Replay - Support Ruling,0,-80,18,,0,,0,70,60,4
+03:15,"Double Technical - Breland, Vaughn",0,-80,6,201913,202638,,1611661330,70,60,4
+03:05,[NYL] Boyd Driving Layup Shot: Missed,14,6,2,,204327,,1611661313,70,60,4
+03:03,[ATL] Williams Rebound (Off:2 Def:4),14,6,4,,204322,,1611661330,70,60,4
+02:58,[NYL] Rodgers Foul: Shooting (5 PF) (2 FTA),-21,11,6,201881,203411,,1611661313,70,60,4
+02:58,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,70,60,4
+02:58,[ATL] Lucas Substitution replaced by Clarendon,0,-80,8,,203843,203406,1611661330,70,60,4
+02:58,[ATL 61-70] McCoughtry Free Throw 1 of 2 (32 PTS),0,-80,3,,201881,,1611661330,70,61,4
+02:58,[ATL 62-70] McCoughtry Free Throw 2 of 2 (33 PTS),0,-80,3,,201881,,1611661330,70,62,4
+02:44,[NYL 72-62] Charles Step Back Jump shot: Made (27 PTS),5,160,1,,202250,,1611661313,72,62,4
+02:28,[ATL 65-72] Montgomery 3pt Shot: Made (12 PTS) Assist: Clarendon (1 AST),-91,224,1,,201904,203406,1611661330,72,65,4
+02:17,[NYL] Boyd Foul: Offensive Charge (3 PF),181,199,6,201904,204327,,1611661313,72,65,4
+02:17,[NYL] Boyd Turnover : Offensive Foul Turnover (1 TO),181,199,5,,204327,,1611661313,72,65,4
+02:17,[NYL] Boyd Substitution replaced by Hartley,0,-80,8,,204327,203829,1611661313,72,65,4
+02:04,[ATL] Montgomery 3pt Shot: Missed,-166,181,2,,201904,,1611661330,72,65,4
+02:00,[NYL] Charles Rebound (Off:2 Def:6),-166,181,4,,202250,,1611661313,72,65,4
+01:59,[ATL] McCoughtry Foul: Personal (3 PF),-80,345,6,1628915,201881,,1611661330,72,65,4
+01:56,[NYL] Charles Jump Shot: Missed,-41,179,2,,202250,,1611661313,72,65,4
+01:54,[NYL] Team Rebound,-41,179,4,,0,,1611661313,72,65,4
+01:54,[ATL] Clarendon Foul: Loose Ball (4 PF) (2 FTA),0,24,6,203411,203406,,1611661330,72,65,4
+01:54,[NYL 73-65] Rodgers Free Throw 1 of 2 (4 PTS),0,-80,3,,203411,,1611661313,73,65,4
+01:54,[NYL 74-65] Rodgers Free Throw 2 of 2 (5 PTS),0,-80,3,,203411,,1611661313,74,65,4
+01:38,[ATL] Breland Jump Shot: Missed,100,138,2,,202638,,1611661330,74,65,4
+01:38,[ATL] Team Rebound,100,138,4,,0,,1611661330,74,65,4
+01:38,[NYL] Rodgers Foul: Loose Ball (6 PF) (2 FTA),6,15,6,201881,203411,,1611661313,74,65,4
+01:38,[NYL] Rodgers Substitution replaced by Zellous,0,-80,8,,203411,201919,1611661313,74,65,4
+01:38,[ATL 66-74] McCoughtry Free Throw 1 of 2 (34 PTS),0,-80,3,,201881,,1611661330,74,66,4
+01:38,[ATL 67-74] McCoughtry Free Throw 2 of 2 (35 PTS),0,-80,3,,201881,,1611661330,74,67,4
+01:26,[NYL] Hartley Layup Shot: Missed,13,11,2,,203829,,1611661313,74,67,4
+01:26,[NYL] Team Rebound,13,11,4,,0,,1611661313,74,67,4
+01:26,Instant Replay - Support Ruling,0,-80,18,,0,,0,74,67,4
+01:18,[NYL] Nurse Layup Shot: Missed,25,11,2,204322,1628915,,1611661313,74,67,4
+01:15,[ATL] Williams Rebound (Off:2 Def:5),25,11,4,,204322,,1611661330,74,67,4
+01:00,[ATL] Montgomery 3pt Shot: Missed,-125,223,2,,201904,,1611661330,74,67,4
+00:57.8,[ATL] Team Rebound,-125,223,4,,0,,1611661330,74,67,4
+00:57.8,[NYL] Hartley Foul: Personal (3 PF) (2 FTA),-49,56,6,201881,203829,,1611661313,74,67,4
+00:57.8,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,74,67,4
+00:57.8,[ATL 68-74] McCoughtry Free Throw 1 of 2 (36 PTS),0,-80,3,,201881,,1611661330,74,68,4
+00:57.8,[ATL 69-74] McCoughtry Free Throw 2 of 2 (37 PTS),0,-80,3,,201881,,1611661330,74,69,4
+00:56.6,[ATL] Clarendon Foul: Personal Take (5 PF) (2 FTA),132,857,6,203829,203406,,1611661330,74,69,4
+00:56.6,[NYL 75-69] Hartley Free Throw 1 of 2 (8 PTS),0,-80,3,,203829,,1611661313,75,69,4
+00:56.6,[NYL 76-69] Hartley Free Throw 2 of 2 (9 PTS),0,-80,3,,203829,,1611661313,76,69,4
+00:45.8,[ATL] McCoughtry 3pt Shot: Missed,-197,117,2,,201881,,1611661330,76,69,4
+00:44.0,[ATL] Team Rebound,-197,117,4,,0,,1611661330,76,69,4
+00:44.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,76,69,4
+00:42.2,[ATL] Breland Jump Shot: Missed,178,73,2,,202638,,1611661330,76,69,4
+00:40.4,[ATL] Williams Rebound (Off:3 Def:5),178,73,4,,204322,,1611661330,76,69,4
+00:40.4,[NYL] Zellous Foul: Personal (5 PF) (2 FTA),20,17,6,204322,201919,,1611661313,76,69,4
+00:40.4,[ATL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661330,76,69,4
+00:40.4,[NYL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661313,76,69,4
+00:40.4,[ATL] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661330,76,69,4
+00:40.4,[ATL] Team Rebound,0,-80,4,,0,,1611661330,76,69,4
+00:40.4,[ATL 70-76] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,204322,,1611661330,76,70,4
+00:40.4,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,76,70,4
+00:38.5,[ATL] Williams Foul: Personal Take (3 PF) (2 FTA),-50,392,6,202250,204322,,1611661330,76,70,4
+00:38.5,[NYL 77-70] Charles Free Throw 1 of 2 (28 PTS),0,-80,3,,202250,,1611661313,77,70,4
+00:38.5,[NYL 78-70] Charles Free Throw 2 of 2 (29 PTS),0,-80,3,,202250,,1611661313,78,70,4
+00:26.3,[ATL] Montgomery Jump Shot: Missed,14,199,2,,201904,,1611661330,78,70,4
+00:25.1,[NYL] Nurse Rebound (Off:0 Def:3),14,199,4,,1628915,,1611661313,78,70,4
+00:25.1,[ATL] Montgomery Foul: Personal Take (5 PF) (2 FTA),-8,654,6,1628915,201904,,1611661330,78,70,4
+00:25.1,[NYL] Nurse Free Throw 1 of 2 Missed,0,-80,3,,1628915,,1611661313,78,70,4
+00:25.1,[NYL] Team Rebound,0,-80,4,,0,,1611661313,78,70,4
+00:25.1,[NYL 79-70] Nurse Free Throw 2 of 2 (11 PTS),0,-80,3,,1628915,,1611661313,79,70,4
+00:25.1,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,79,70,4
+00:18.7,[ATL] McCoughtry 3pt Shot: Missed,-197,132,2,,201881,,1611661330,79,70,4
+00:17.3,[ATL] McCoughtry Rebound (Off:4 Def:10),-197,132,4,,201881,,1611661330,79,70,4
+00:17.3,[ATL 72-79] McCoughtry Layup Shot: Made (39 PTS),-13,17,1,,201881,,1611661330,79,72,4
+00:17.3,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,79,72,4
+00:12.4,Jump Ball McCoughtry vs Hartley (Clarendon gains possession),0,-80,10,203829,201881,203406,1611661330,79,72,4
+00:12.4,[NYL] Hartley Turnover : Lost Ball (2 TO) Steal:McCoughtry (3 ST),0,-80,5,201881,203829,,1611661313,79,72,4
+00:08.0,[ATL] Clarendon Turnover : Lost Ball (5 TO) Steal:Nurse (1 ST),-24,9,5,1628915,203406,,1611661330,79,72,4
+00:00.0,End Period,0,-80,13,,0,,0,79,72,4
+00:00.0,Game End,0,-80,0,,0,,0,79,72,4

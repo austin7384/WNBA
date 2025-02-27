@@ -1,0 +1,363 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Stewart vs Cambage (Howard gains possession),0,-80,10,202633,1627668,203827,1611661328,0,0,1
+09:43,[SEA] Stewart Jump Shot: Missed,-176,115,2,,1627668,,1611661328,0,0,1
+09:41,[SEA] Howard Rebound (Off:1 Def:0),-176,115,4,,203827,,1611661328,0,0,1
+09:39,[SEA] Howard Layup Shot: Missed,-29,8,2,202633,203827,,1611661328,0,0,1
+09:36,[DAL] Cambage Rebound (Off:0 Def:1),-29,8,4,,202633,,1611661321,0,0,1
+09:23,[SEA] Clark Foul: Shooting (1 PF) (2 FTA),5,22,6,203400,202252,,1611661328,0,0,1
+09:23,[DAL 1-0] Diggins-Smith Free Throw 1 of 2 (1 PTS),0,-80,3,,203400,,1611661321,0,1,1
+09:23,[DAL 2-0] Diggins-Smith Free Throw 2 of 2 (2 PTS),0,-80,3,,203400,,1611661321,0,2,1
+09:08,[SEA] Loyd 3pt Shot: Missed,193,154,2,,204319,,1611661328,0,2,1
+09:03,[DAL] Thornton Rebound (Off:0 Def:1),193,154,4,,203866,,1611661321,0,2,1
+09:00,[DAL] Thornton Pullup Jump shot: Missed,133,125,2,,203866,,1611661321,0,2,1
+08:57,[SEA] Loyd Rebound (Off:0 Def:1),133,125,4,,204319,,1611661328,0,2,1
+08:45,[SEA 2-2] Stewart Pullup Jump shot: Made (2 PTS) Assist: Clark (1 AST),168,53,1,,1627668,202252,1611661328,2,2,1
+08:27,[DAL] Diggins-Smith Turnaround Hook Shot: Missed,49,64,2,,203400,,1611661321,2,2,1
+08:24,[SEA] Canada Rebound (Off:0 Def:1),49,64,4,,1628886,,1611661328,2,2,1
+08:15,[SEA] Howard Turnover : Lost Ball (1 TO) Steal:Cambage (1 ST),32,46,5,202633,203827,,1611661328,2,2,1
+08:08,[DAL] Cambage Turnaround Jump Shot: Missed,-96,71,2,,202633,,1611661321,2,2,1
+08:05,[SEA] Clark Rebound (Off:0 Def:1),-96,71,4,,202252,,1611661328,2,2,1
+07:54,[SEA] Loyd Layup Shot: Missed,32,16,2,,204319,,1611661328,2,2,1
+07:52,[DAL] Cambage Rebound (Off:0 Def:2),32,16,4,,202633,,1611661321,2,2,1
+07:46,[DAL] Stevens Layup Shot: Missed,-48,77,2,1627668,1628922,,1611661321,2,2,1
+07:46,[SEA] Howard Rebound (Off:1 Def:1),-48,77,4,,203827,,1611661328,2,2,1
+07:38,[SEA 4-2] Howard Cutting Layup Shot: Made (2 PTS) Assist: Canada (1 AST),0,64,1,,203827,1628886,1611661328,4,2,1
+07:13,[DAL 4-4] Thornton Jump Shot: Made (2 PTS) Assist: Gray (1 AST),-206,44,1,,203866,1628277,1611661321,4,4,1
+06:59,[SEA] Stewart Jump Shot: Missed,31,68,2,,1627668,,1611661328,4,4,1
+06:57,[SEA] Team Rebound,31,68,4,,0,,1611661328,4,4,1
+06:57,[DAL] Cambage Foul: Loose Ball (1 PF),70,-2,6,203827,202633,,1611661321,4,4,1
+06:57,[DAL] Cambage Violation:Kicked Ball,0,-80,7,,202633,,1611661321,4,4,1
+06:52,[SEA 7-4] Clark 3pt Shot: Made (3 PTS) Assist: Stewart (1 AST),232,26,1,,202252,1627668,1611661328,7,4,1
+06:38,[DAL 6-7] Gray Driving Layup Shot: Made (2 PTS),0,29,1,,1628277,,1611661321,7,6,1
+06:38,[SEA] Howard Foul: Shooting (1 PF) (1 FTA),0,29,6,1628277,203827,,1611661328,7,6,1
+06:38,[DAL 7-7] Gray Free Throw 1 of 1 (3 PTS),0,-80,3,,1628277,,1611661321,7,7,1
+06:19,[SEA] Loyd Turnover : Bad Pass (1 TO) Steal:Diggins-Smith (1 ST),-25,213,5,203400,204319,,1611661328,7,7,1
+06:15,[DAL 9-7] Diggins-Smith Driving Layup Shot: Made (4 PTS),-18,13,1,,203400,,1611661321,7,9,1
+06:05,[SEA 10-9] Stewart 3pt Shot: Made (5 PTS) Assist: Loyd (1 AST),-3,235,1,,1627668,204319,1611661328,10,9,1
+05:42,[DAL] Cambage 3pt Shot: Missed,2,246,2,,202633,,1611661321,10,9,1
+05:38,[DAL] Stevens Rebound (Off:1 Def:0),2,246,4,,1628922,,1611661321,10,9,1
+05:37,[DAL] Stevens Hook Shot: Missed,-1,45,2,,1628922,,1611661321,10,9,1
+05:33,[DAL] Stevens Rebound (Off:2 Def:0),-121,47,4,,1628922,,1611661321,10,9,1
+05:33,[DAL 11-10] Stevens Hook Shot: Made (2 PTS),-33,47,1,,1628922,,1611661321,10,11,1
+05:29,[SEA] Canada Layup Shot: Missed,18,17,2,,1628886,,1611661328,10,11,1
+05:28,[DAL] Team Rebound,18,17,4,,0,,1611661321,10,11,1
+05:28,[SEA] Howard Foul: Personal (2 PF),25,795,6,1628277,203827,,1611661328,10,11,1
+05:28,[SEA] Howard Substitution replaced by Langhorne,0,-80,8,,203827,201518,1611661328,10,11,1
+05:28,[DAL] Cambage Substitution replaced by Romero,0,-80,8,,202633,1628285,1611661321,10,11,1
+05:28,[DAL] Diggins-Smith Substitution replaced by George,0,-80,8,,203400,204297,1611661321,10,11,1
+05:10,[SEA] Stewart Violation:Kicked Ball,0,-80,7,,1627668,,1611661328,10,11,1
+05:04,[DAL] Stevens Turnover : Traveling (1 TO),92,247,5,,1628922,,1611661321,10,11,1
+04:49,[SEA] Canada Turnover : Lost Ball (1 TO) Steal:Romero (1 ST),-24,150,5,1628285,1628886,,1611661328,10,11,1
+04:45,[SEA] Loyd Foul: Personal (1 PF),-106,114,6,203866,204319,,1611661328,10,11,1
+04:45,Timeout Officials,0,-80,9,,0,,0,10,11,1
+04:45,[DAL] Thornton Substitution replaced by Johnson,0,-80,8,,203866,203017,1611661321,10,11,1
+04:39,[DAL] Gray Driving Floating Jump Shot: Missed,-62,45,2,,1628277,,1611661321,10,11,1
+04:36,[DAL] Gray Rebound (Off:1 Def:0),-62,45,4,,1628277,,1611661321,10,11,1
+04:34,[DAL] Johnson Jump Shot: Missed,-152,136,2,,203017,,1611661321,10,11,1
+04:34,[SEA] Clark Rebound (Off:0 Def:2),-152,136,4,,202252,,1611661328,10,11,1
+04:22,[SEA 12-11] Stewart Pullup Jump shot: Made (7 PTS),-54,44,1,,1627668,,1611661328,12,11,1
+03:57,[DAL] Stevens Jump Shot: Missed,-51,162,2,,1628922,,1611661321,12,11,1
+03:56,[SEA] Team Rebound,-51,162,4,,0,,1611661328,12,11,1
+03:56,[SEA] Clark Substitution replaced by Mosqueda-Lewis,0,-80,8,,202252,204321,1611661328,12,11,1
+03:42,[SEA 15-11] Stewart 3pt Shot: Made (10 PTS) Assist: Mosqueda-Lewis (1 AST),228,-1,1,,1627668,204321,1611661328,15,11,1
+03:21,[DAL] Stevens Turnaround Hook Shot: Missed,46,23,2,,1628922,,1611661321,15,11,1
+03:18,[SEA] Mosqueda-Lewis Rebound (Off:0 Def:1),46,23,4,,204321,,1611661328,15,11,1
+03:12,[SEA] Mosqueda-Lewis Turnover : Bad Pass (1 TO) Steal:Stevens (1 ST),-74,214,5,1628922,204321,,1611661328,15,11,1
+03:07,[DAL 13-15] Stevens Driving Layup Shot: Made (4 PTS),-26,11,1,,1628922,,1611661321,15,13,1
+02:51,[SEA 18-13] Loyd 3pt Shot: Made (3 PTS) Assist: Stewart (2 AST),-227,4,1,,204319,1627668,1611661328,18,13,1
+02:42,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,18,13,1
+02:42,[SEA] Loyd Substitution replaced by Paris,0,-80,8,,204319,201907,1611661328,18,13,1
+02:42,[SEA] Stewart Substitution replaced by Whitcomb,0,-80,8,,1627668,1628244,1611661328,18,13,1
+02:42,[DAL] Gray Substitution replaced by Lucas,0,-80,8,,1628277,203843,1611661321,18,13,1
+02:28,[DAL] George Turnover : Bad Pass (1 TO) Steal:Whitcomb (1 ST),-63,150,5,1628244,204297,,1611661321,18,13,1
+02:15,[SEA] Canada Turnover : Bad Pass (2 TO) Steal:Stevens (2 ST),-72,6,5,1628922,1628886,,1611661328,18,13,1
+02:10,[DAL 15-18] Johnson Layup Shot: Made (2 PTS) Assist: Stevens (1 AST),-22,12,1,,203017,1628922,1611661321,18,15,1
+01:47,[SEA 21-15] Mosqueda-Lewis 3pt Shot: Made (3 PTS) Assist: Paris (1 AST),-220,-21,1,,204321,201907,1611661328,21,15,1
+01:31,[DAL] Lucas 3pt Shot: Missed,-229,75,2,,203843,,1611661321,21,15,1
+01:23,[DAL] George Rebound (Off:1 Def:0),-229,75,4,,204297,,1611661321,21,15,1
+01:23,[DAL 17-21] George Tip Layup Shot: Made (2 PTS),0,-5,1,,204297,,1611661321,21,17,1
+01:06,[SEA] Langhorne Jump Shot: Missed,12,4,2,,201518,,1611661328,21,17,1
+01:04,[SEA] Langhorne Rebound (Off:1 Def:0),12,4,4,,201518,,1611661328,21,17,1
+01:04,[SEA] Langhorne Jump Shot: Missed,24,17,2,,201518,,1611661328,21,17,1
+01:04,[SEA] Paris Rebound (Off:1 Def:0),24,17,4,,201907,,1611661328,21,17,1
+01:02,[SEA 23-17] Paris Layup Shot: Made (2 PTS),4,17,1,,201907,,1611661328,23,17,1
+00:44.7,[SEA] Langhorne Foul: Personal (1 PF) (2 FTA),133,35,6,1628285,201518,,1611661328,23,17,1
+00:44.7,[DAL 18-23] Romero Free Throw 1 of 2 (1 PTS),0,-80,3,,1628285,,1611661321,23,18,1
+00:44.7,[SEA] Canada Substitution replaced by Quinn,0,-80,8,,1628886,201049,1611661328,23,18,1
+00:44.7,[DAL 19-23] Romero Free Throw 2 of 2 (2 PTS),0,-80,3,,1628285,,1611661321,23,19,1
+00:35.2,[SEA 26-19] Mosqueda-Lewis 3pt Shot: Made (6 PTS) Assist: Whitcomb (1 AST),-70,226,1,,204321,1628244,1611661328,26,19,1
+00:24.2,[DAL] George 3pt Shot: Missed,108,235,2,,204297,,1611661321,26,19,1
+00:20.3,[SEA] Paris Rebound (Off:1 Def:1),108,235,4,,201907,,1611661328,26,19,1
+00:05.6,[SEA] Whitcomb 3pt Shot: Missed,-108,221,2,,1628244,,1611661328,26,19,1
+00:01.5,[DAL] Johnson Rebound (Off:0 Def:1),-108,221,4,,203017,,1611661321,26,19,1
+00:00.0,End Period,0,-80,13,,0,,0,26,19,1
+10:00,Start Period,0,-80,12,,0,,0,26,19,2
+09:45,[DAL 22-26] Thornton 3pt Shot: Made (5 PTS) Assist: Diggins-Smith (1 AST),-224,85,1,,203866,203400,1611661321,26,22,2
+09:21,[SEA 28-22] Langhorne Cutting Layup Shot: Made (2 PTS),-33,3,1,,201518,,1611661328,28,22,2
+09:02,[DAL] Thornton 3pt Shot: Missed,-141,226,2,,203866,,1611661321,28,22,2
+08:58,[DAL] Plaisance Rebound (Off:1 Def:0),-141,226,4,,203849,,1611661321,28,22,2
+08:57,[DAL] Plaisance Reverse Layup Shot: Missed,-25,26,2,,203849,,1611661321,28,22,2
+08:53,[SEA] Paris Rebound (Off:1 Def:2),-25,26,4,,201907,,1611661328,28,22,2
+08:46,[SEA] Quinn 3pt Shot: Missed,-43,235,2,,201049,,1611661328,28,22,2
+08:45,[SEA] Paris Rebound (Off:2 Def:2),-43,235,4,,201907,,1611661328,28,22,2
+08:45,[SEA 30-22] Paris Layup Shot: Made (4 PTS),23,10,1,,201907,,1611661328,30,22,2
+08:45,[DAL] Gray Foul: Shooting (1 PF) (1 FTA),23,10,6,201907,1628277,,1611661321,30,22,2
+08:45,[SEA 31-22] Paris Free Throw 1 of 1 (5 PTS),0,-80,3,,201907,,1611661328,31,22,2
+08:27,[DAL] Cambage Turnover : Bad Pass (1 TO) Steal:Langhorne (1 ST),121,35,5,201518,202633,,1611661321,31,22,2
+08:24,[DAL] Diggins-Smith Foul: Shooting (1 PF) (2 FTA),-49,41,6,201518,203400,,1611661321,31,22,2
+08:24,[SEA] Langhorne Free Throw 1 of 2 Missed,0,-80,3,,201518,,1611661328,31,22,2
+08:24,[SEA] Team Rebound,0,-80,4,,0,,1611661328,31,22,2
+08:24,[SEA] Paris Substitution replaced by Stewart,0,-80,8,,201907,1627668,1611661328,31,22,2
+08:24,[SEA 32-22] Langhorne Free Throw 2 of 2 (3 PTS),0,-80,3,,201518,,1611661328,32,22,2
+08:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,22,2
+08:05,[DAL 24-32] Cambage Turnaround Fadeaway Bank Jump Shot: Made (2 PTS) Assist: Diggins-Smith (2 AST),-50,15,1,,202633,203400,1611661321,32,24,2
+07:37,[SEA] Whitcomb Fadeaway Jump Shot: Missed,-177,3,2,,1628244,,1611661328,32,24,2
+07:37,[SEA] Team Rebound,-177,3,4,,0,,1611661328,32,24,2
+07:37,[SEA] Team Turnover : Shot Clock Turnover,-139,17,5,,0,,1611661328,32,24,2
+07:37,[SEA] Langhorne Substitution replaced by Russell,0,-80,8,,201518,1628920,1611661328,32,24,2
+07:26,[DAL] Cambage Turnaround Jump Shot: Missed,-46,133,2,,202633,,1611661321,32,24,2
+07:23,[SEA] Quinn Rebound (Off:0 Def:1),-46,133,4,,201049,,1611661328,32,24,2
+07:23,[DAL] Gray Foul: Personal (2 PF),-105,854,6,201049,1628277,,1611661321,32,24,2
+07:23,[DAL] Gray Substitution replaced by Lucas,0,-80,8,,1628277,203843,1611661321,32,24,2
+07:23,[DAL] Thornton Substitution replaced by Johnson,0,-80,8,,203866,203017,1611661321,32,24,2
+07:16,[SEA 35-24] Stewart 3pt Shot: Made (13 PTS) Assist: Quinn (1 AST),43,239,1,,1627668,201049,1611661328,35,24,2
+07:01,[DAL] Cambage Driving Floating Bank Jump Shot: Missed,-54,71,2,,202633,,1611661321,35,24,2
+06:59,[SEA] Stewart Rebound (Off:0 Def:1),-54,71,4,,1627668,,1611661328,35,24,2
+06:54,[SEA 37-24] Russell Running Layup Shot: Made (2 PTS) Assist: Quinn (2 AST),-25,3,1,,1628920,201049,1611661328,37,24,2
+06:45,[DAL] Diggins-Smith Jump Shot: Missed,74,153,2,,203400,,1611661321,37,24,2
+06:45,[SEA] Whitcomb Rebound (Off:0 Def:1),74,153,4,,1628244,,1611661328,37,24,2
+06:37,[SEA] Quinn Turnover : Bad Pass (1 TO) Steal:Plaisance (1 ST),34,299,5,203849,201049,,1611661328,37,24,2
+06:37,[DAL] Plaisance Turnover : Step Out of Bounds Turnover (1 TO),145,839,5,,203849,,1611661321,37,24,2
+06:37,[SEA] Whitcomb Foul: Offensive (1 PF),-141,126,6,203843,1628244,,1611661328,37,24,2
+06:37,[SEA] Whitcomb Turnover : Offensive Foul Turnover (1 TO),-141,126,5,,1628244,,1611661328,37,24,2
+06:29,[DAL] Lucas Turnover : Lost Ball (1 TO) Steal:Whitcomb (2 ST),170,259,5,1628244,203843,,1611661321,37,24,2
+06:24,[SEA 39-24] Russell Running Layup Shot: Made (4 PTS) Assist: Whitcomb (2 AST),20,4,1,,1628920,1628244,1611661328,39,24,2
+06:14,[DAL] Diggins-Smith Turnover : Bad Pass (1 TO) Steal:Whitcomb (3 ST),-84,323,5,1628244,203400,,1611661321,39,24,2
+06:09,[SEA] Mosqueda-Lewis 3pt Shot: Missed,176,160,2,,204321,,1611661328,39,24,2
+06:04,[DAL] Plaisance Rebound (Off:1 Def:1),176,160,4,,203849,,1611661321,39,24,2
+05:56,[DAL] Cambage Driving Layup Shot: Missed,-9,56,2,,202633,,1611661321,39,24,2
+05:54,[SEA] Russell Rebound (Off:0 Def:1),-9,56,4,,1628920,,1611661328,39,24,2
+05:54,[DAL] Cambage Foul: Personal (2 PF),1,795,6,1628920,202633,,1611661321,39,24,2
+05:54,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,39,24,2
+05:42,[SEA 41-24] Quinn Turnaround Fadeaway shot: Made (2 PTS) Assist: Stewart (3 AST),-48,90,1,,201049,1627668,1611661328,41,24,2
+05:24,[DAL 26-41] Cambage Turnaround Fadeaway Bank Jump Shot: Made (4 PTS),25,12,1,,202633,,1611661321,41,26,2
+05:13,[SEA 44-26] Whitcomb 3pt Shot: Made (3 PTS) Assist: Stewart (4 AST),-219,52,1,,1628244,1627668,1611661328,44,26,2
+04:59,[SEA] Mosqueda-Lewis Foul: Personal (1 PF),72,67,6,203849,204321,,1611661328,44,26,2
+04:59,[SEA] Russell Substitution replaced by Howard,0,-80,8,,1628920,203827,1611661328,44,26,2
+04:59,[SEA] Mosqueda-Lewis Substitution replaced by Loyd,0,-80,8,,204321,204319,1611661328,44,26,2
+04:50,[DAL 28-44] Cambage Turnaround Fadeaway Bank Jump Shot: Made (6 PTS) Assist: Plaisance (1 AST),17,6,1,,202633,203849,1611661321,44,28,2
+04:50,[SEA] Howard Foul: Shooting (3 PF) (1 FTA),17,6,6,202633,203827,,1611661328,44,28,2
+04:50,[SEA] Whitcomb Substitution replaced by Clark,0,-80,8,,1628244,202252,1611661328,44,28,2
+04:50,[DAL] Diggins-Smith Substitution replaced by Romero,0,-80,8,,203400,1628285,1611661321,44,28,2
+04:50,[DAL] Plaisance Substitution replaced by Stevens,0,-80,8,,203849,1628922,1611661321,44,28,2
+04:50,[DAL 29-44] Cambage Free Throw 1 of 1 (7 PTS),0,-80,3,,202633,,1611661321,44,29,2
+04:37,[SEA] Quinn Turnover : Bad Pass (2 TO) Steal:Lucas (1 ST),98,284,5,203843,201049,,1611661328,44,29,2
+04:24,[DAL] Stevens Pullup Jump shot: Missed,-24,118,2,,1628922,,1611661321,44,29,2
+04:22,[SEA] Clark Rebound (Off:0 Def:3),-24,118,4,,202252,,1611661328,44,29,2
+04:14,[SEA 46-29] Stewart Cutting Layup Shot: Made (15 PTS) Assist: Clark (2 AST),-27,-3,1,,1627668,202252,1611661328,46,29,2
+04:00,[DAL 31-46] Cambage Running Layup Shot: Made (9 PTS),-20,2,1,,202633,,1611661321,46,31,2
+03:44,[SEA 48-31] Howard Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Loyd (2 AST),-2,15,1,,203827,204319,1611661328,48,31,2
+03:30,[DAL 33-48] Romero Driving Floating Jump Shot: Made (4 PTS),-7,70,1,,1628285,,1611661321,48,33,2
+03:12,[SEA] Loyd Jump Shot: Missed,115,116,2,,204319,,1611661328,48,33,2
+03:11,[DAL] Team Rebound,115,116,4,,0,,1611661321,48,33,2
+03:11,[SEA] Stewart Substitution replaced by Langhorne,0,-80,8,,1627668,201518,1611661328,48,33,2
+03:11,[DAL] Cambage Substitution replaced by George,0,-80,8,,202633,204297,1611661321,48,33,2
+02:59,[DAL 36-48] Johnson 3pt Shot: Made (5 PTS) Assist: Romero (1 AST),-54,250,1,,203017,1628285,1611661321,48,36,2
+02:43,[SEA] Howard Driving Hook Shot: Missed,-11,81,2,203017,203827,,1611661328,48,36,2
+02:43,[SEA] Team Rebound,-11,81,4,,0,,1611661328,48,36,2
+02:43,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,48,36,2
+02:43,[SEA] Quinn Substitution replaced by Canada,0,-80,8,,201049,1628886,1611661328,48,36,2
+02:38,[SEA] Canada 3pt Shot: Missed,191,165,2,,1628886,,1611661328,48,36,2
+02:37,[SEA] Howard Rebound (Off:2 Def:1),191,165,4,,203827,,1611661328,48,36,2
+02:37,[DAL] Johnson Foul: Shooting (1 PF) (2 FTA),-86,32,6,203827,203017,,1611661321,48,36,2
+02:37,[SEA 49-36] Howard Free Throw 1 of 2 (5 PTS),0,-80,3,,203827,,1611661328,49,36,2
+02:37,[SEA 50-36] Howard Free Throw 2 of 2 (6 PTS),0,-80,3,,203827,,1611661328,50,36,2
+02:25,[DAL] George Turnover : Out of Bounds - Bad Pass Turnover (2 TO),124,246,5,,204297,,1611661321,50,36,2
+02:18,[SEA 53-36] Loyd 3pt Shot: Made (6 PTS) Assist: Canada (2 AST),145,196,1,,204319,1628886,1611661328,53,36,2
+02:00,[DAL 38-53] George Cutting Layup Shot: Made (4 PTS) Assist: Johnson (1 AST),26,13,1,,204297,203017,1611661321,53,38,2
+01:52,[SEA] Clark 3pt Shot: Missed,-221,-1,2,,202252,,1611661328,53,38,2
+01:51,[DAL] Johnson Rebound (Off:0 Def:2),-221,-1,4,,203017,,1611661321,53,38,2
+01:51,[SEA] Howard Foul: Personal (4 PF),64,770,6,203017,203827,,1611661328,53,38,2
+01:43,[SEA] Loyd Foul: Personal Block (2 PF) (2 FTA),-31,29,6,1628922,204319,,1611661328,53,38,2
+01:43,[DAL 39-53] Stevens Free Throw 1 of 2 (5 PTS),0,-80,3,,1628922,,1611661321,53,39,2
+01:43,[SEA] Howard Substitution replaced by Russell,0,-80,8,,203827,1628920,1611661328,53,39,2
+01:43,[DAL 40-53] Stevens Free Throw 2 of 2 (6 PTS),0,-80,3,,1628922,,1611661321,53,40,2
+01:28,[SEA 55-40] Langhorne Cutting Layup Shot: Made (5 PTS) Assist: Clark (3 AST),12,1,1,,201518,202252,1611661328,55,40,2
+01:02,[DAL 43-55] Johnson 3pt Shot: Made (8 PTS),148,192,1,,203017,,1611661321,55,43,2
+00:53.6,[SEA 57-43] Langhorne Jump Shot: Made (7 PTS) Assist: Canada (3 AST),-2,38,1,,201518,1628886,1611661328,57,43,2
+00:39.7,[SEA] Clark Foul: Personal (2 PF) (2 FTA),143,196,6,203017,202252,,1611661328,57,43,2
+00:39.7,[DAL 44-57] Johnson Free Throw 1 of 2 (9 PTS),0,-80,3,,203017,,1611661321,57,44,2
+00:39.7,[DAL 45-57] Johnson Free Throw 2 of 2 (10 PTS),0,-80,3,,203017,,1611661321,57,45,2
+00:25.1,[SEA] Clark Jump Shot: Missed,-119,151,2,,202252,,1611661328,57,45,2
+00:25.1,[DAL] Johnson Rebound (Off:0 Def:3),-119,151,4,,203017,,1611661321,57,45,2
+00:02.4,[DAL] Romero Driving Layup Shot: Missed,2,77,2,1628886,1628285,,1611661321,57,45,2
+00:01.0,[SEA] Canada Rebound (Off:0 Def:2),2,77,4,,1628886,,1611661328,57,45,2
+00:00.0,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,57,45,2
+00:00.0,End Period,0,-80,13,,0,,0,57,45,2
+10:00,Start Period,0,-80,12,,0,,0,57,45,3
+09:38,[DAL] Gray 3pt Shot: Missed,-181,162,2,,1628277,,1611661321,57,45,3
+09:35,[SEA] Mosqueda-Lewis Rebound (Off:0 Def:2),-181,162,4,,204321,,1611661328,57,45,3
+09:26,[SEA] Mosqueda-Lewis Turnover : Bad Pass (2 TO) Steal:Gray (1 ST),53,259,5,1628277,204321,,1611661328,57,45,3
+09:21,[DAL 47-57] Gray Driving Layup Shot: Made (5 PTS),-26,4,1,,1628277,,1611661321,57,47,3
+09:04,[SEA] Whitcomb 3pt Shot: Missed,-9,248,2,,1628244,,1611661328,57,47,3
+09:04,[SEA] Paris Rebound (Off:3 Def:2),-9,248,4,,201907,,1611661328,57,47,3
+08:49,[SEA 59-47] Langhorne Jump Shot: Made (9 PTS) Assist: Canada (4 AST),-150,53,1,,201518,1628886,1611661328,59,47,3
+08:43,[DAL 50-59] Gray 3pt Shot: Made (8 PTS) Assist: Diggins-Smith (3 AST),-194,149,1,,1628277,203400,1611661321,59,50,3
+08:30,[SEA 61-50] Langhorne Layup Shot: Made (11 PTS) Assist: Canada (5 AST),-17,17,1,,201518,1628886,1611661328,61,50,3
+08:15,[DAL] Stevens Jump Shot: Missed,-142,8,2,,1628922,,1611661321,61,50,3
+08:15,[SEA] Whitcomb Rebound (Off:0 Def:2),-142,8,4,,1628244,,1611661328,61,50,3
+08:07,[SEA 63-50] Canada Driving Layup Shot: Made (2 PTS),25,5,1,,1628886,,1611661328,63,50,3
+08:07,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,63,50,3
+07:50,[DAL] Gray 3pt Shot: Missed,-230,6,2,,1628277,,1611661321,63,50,3
+07:43,[SEA] Langhorne Rebound (Off:1 Def:1),-230,6,4,,201518,,1611661328,63,50,3
+07:25,[SEA] Canada Jump Shot: Missed,-62,151,2,,1628886,,1611661328,63,50,3
+07:20,[DAL] Diggins-Smith Rebound (Off:0 Def:1),-62,151,4,,203400,,1611661321,63,50,3
+07:05,[DAL] Gray Turnover : Backcourt Turnover (1 TO),202,124,5,,1628277,,1611661321,63,50,3
+06:46,[SEA 65-50] Langhorne Driving Layup Shot: Made (13 PTS),-18,27,1,,201518,,1611661328,65,50,3
+06:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,65,50,3
+06:36,[DAL] Thornton Substitution replaced by Johnson,0,-80,8,,203866,203017,1611661321,65,50,3
+06:29,[DAL] Stevens 3pt Shot: Missed,-214,105,2,,1628922,,1611661321,65,50,3
+06:26,[SEA] Paris Rebound (Off:3 Def:3),-214,105,4,,201907,,1611661328,65,50,3
+06:20,[SEA] Canada Driving Layup Shot: Missed,26,13,2,,1628886,,1611661328,65,50,3
+06:17,[DAL] Diggins-Smith Rebound (Off:0 Def:2),26,13,4,,203400,,1611661321,65,50,3
+06:14,[DAL] Diggins-Smith Jump Shot: Missed,-66,133,2,,203400,,1611661321,65,50,3
+06:07,[DAL] Johnson Rebound (Off:1 Def:3),-66,133,4,,203017,,1611661321,65,50,3
+06:07,[DAL] Johnson Tip Layup Shot: Missed,0,-5,2,,203017,,1611661321,65,50,3
+06:07,[DAL] Johnson Rebound (Off:2 Def:3),0,-5,4,,203017,,1611661321,65,50,3
+05:58,[DAL 52-65] Stevens Driving Floating Jump Shot: Made (8 PTS) Assist: Diggins-Smith (4 AST),-164,4,1,,1628922,203400,1611661321,65,52,3
+05:36,[SEA] Langhorne 3pt Shot: Missed,37,236,2,,201518,,1611661328,65,52,3
+05:33,[DAL] Johnson Rebound (Off:2 Def:4),37,236,4,,203017,,1611661321,65,52,3
+05:23,[SEA] Whitcomb Foul: Personal (2 PF),14,53,6,202633,1628244,,1611661328,65,52,3
+05:20,[DAL] Cambage Turnaround Jump Shot: Missed,-60,5,2,,202633,,1611661321,65,52,3
+05:17,[SEA] Langhorne Rebound (Off:1 Def:2),-60,5,4,,201518,,1611661328,65,52,3
+05:15,[DAL] Diggins-Smith Foul: Personal (2 PF),-22,253,6,1628886,203400,,1611661321,65,52,3
+05:15,[DAL] Diggins-Smith Substitution replaced by George,0,-80,8,,203400,204297,1611661321,65,52,3
+05:15,[DAL] Cambage Substitution replaced by Romero,0,-80,8,,202633,1628285,1611661321,65,52,3
+05:09,[SEA 67-52] Langhorne Jump Bank Shot: Made (15 PTS),-24,62,1,,201518,,1611661328,67,52,3
+04:46,[DAL] Johnson Fadeaway Jump Shot: Missed,120,140,2,,203017,,1611661321,67,52,3
+04:43,[SEA] Paris Rebound (Off:3 Def:4),120,140,4,,201907,,1611661328,67,52,3
+04:22,[SEA] Canada Jump Shot: Missed,61,209,2,,1628886,,1611661328,67,52,3
+04:21,[SEA] Team Rebound,61,209,4,,0,,1611661328,67,52,3
+04:21,[SEA] Team Turnover : Shot Clock Turnover,-120,21,5,,0,,1611661328,67,52,3
+04:21,[DAL] Gray Substitution replaced by Lucas,0,-80,8,,1628277,203843,1611661321,67,52,3
+04:21,[SEA] Paris Substitution replaced by Russell,0,-80,8,,201907,1628920,1611661328,67,52,3
+04:21,[SEA] Mosqueda-Lewis Substitution replaced by Quinn,0,-80,8,,204321,201049,1611661328,67,52,3
+04:07,[DAL] Lucas Jump Shot: Missed,73,161,2,,203843,,1611661321,67,52,3
+04:01,[DAL] Stevens Rebound (Off:3 Def:0),73,161,4,,1628922,,1611661321,67,52,3
+03:59,[DAL] Johnson Jump Shot: Missed,120,56,2,,203017,,1611661321,67,52,3
+03:57,[SEA] Russell Rebound (Off:0 Def:2),120,56,4,,1628920,,1611661328,67,52,3
+03:51,[SEA] Quinn Jump Shot: Missed,-73,101,2,,201049,,1611661328,67,52,3
+03:48,[SEA] Langhorne Rebound (Off:2 Def:2),-73,101,4,,201518,,1611661328,67,52,3
+03:37,[SEA 69-52] Canada Driving Layup Shot: Made (4 PTS),-24,17,1,,1628886,,1611661328,69,52,3
+03:27,[DAL] George 3pt Shot: Missed,-178,166,2,,204297,,1611661321,69,52,3
+03:19,[SEA] Quinn Rebound (Off:0 Def:2),-178,166,4,,201049,,1611661328,69,52,3
+03:18,[SEA 71-52] Quinn Jump Shot: Made (4 PTS),80,187,1,,201049,,1611661328,71,52,3
+03:09,[DAL] Stevens Jump Shot: Missed,-169,40,2,,1628922,,1611661321,71,52,3
+03:04,[SEA] Langhorne Rebound (Off:2 Def:3),-169,40,4,,201518,,1611661328,71,52,3
+02:51,[SEA] Langhorne Layup Shot: Missed,24,6,2,204297,201518,,1611661328,71,52,3
+02:51,[SEA] Team Rebound,24,6,4,,0,,1611661328,71,52,3
+02:51,[DAL] Stevens Substitution replaced by Plaisance,0,-80,8,,1628922,203849,1611661321,71,52,3
+02:51,Jump Ball Langhorne vs George (Whitcomb gains possession),0,-80,10,204297,201518,1628244,1611661328,71,52,3
+02:42,[SEA] Langhorne Jump Shot: Missed,143,160,2,,201518,,1611661328,71,52,3
+02:40,[DAL] Johnson Rebound (Off:2 Def:5),143,160,4,,203017,,1611661321,71,52,3
+02:33,[DAL 54-71] Johnson Driving Layup Shot: Made (12 PTS),24,3,1,,203017,,1611661321,71,54,3
+02:10,[SEA 74-54] Whitcomb 3pt Shot: Made (6 PTS) Assist: Quinn (3 AST),-131,248,1,,1628244,201049,1611661328,74,54,3
+01:55,[DAL] Johnson 3pt Shot: Missed,126,225,2,,203017,,1611661321,74,54,3
+01:51,[SEA] Whitcomb Rebound (Off:0 Def:3),126,225,4,,1628244,,1611661328,74,54,3
+01:44,[SEA] Whitcomb Turnover : Out of Bounds - Bad Pass Turnover (2 TO),10,233,5,,1628244,,1611661328,74,54,3
+01:27,[DAL] Lucas 3pt Shot: Missed,219,67,2,,203843,,1611661321,74,54,3
+01:22,[SEA] Whitcomb Rebound (Off:0 Def:4),219,67,4,,1628244,,1611661328,74,54,3
+01:10,[SEA 77-54] Whitcomb 3pt Shot: Made (9 PTS),-102,227,1,,1628244,,1611661328,77,54,3
+00:55.2,[DAL] Plaisance 3pt Shot: Missed,-226,16,2,,203849,,1611661321,77,54,3
+00:51.2,[SEA] Russell Rebound (Off:0 Def:3),-226,16,4,,1628920,,1611661328,77,54,3
+00:42.5,[SEA] Russell Jump Shot: Missed,-90,184,2,,1628920,,1611661328,77,54,3
+00:39.8,[DAL] Romero Rebound (Off:0 Def:1),-90,184,4,,1628285,,1611661321,77,54,3
+00:27.9,[DAL] George 3pt Shot: Missed,234,8,2,,204297,,1611661321,77,54,3
+00:23.7,[SEA] Quinn Rebound (Off:0 Def:3),234,8,4,,201049,,1611661328,77,54,3
+00:03.4,[SEA] Canada Driving Layup Shot: Missed,-6,69,2,,1628886,,1611661328,77,54,3
+00:01.6,[SEA] Russell Rebound (Off:1 Def:3),-6,69,4,,1628920,,1611661328,77,54,3
+00:01.6,[SEA 79-54] Russell Putback Layup Shot: Made (6 PTS),0,-5,1,,1628920,,1611661328,79,54,3
+00:00.0,End Period,0,-80,13,,0,,0,79,54,3
+10:00,Start Period,0,-80,12,,0,,0,79,54,4
+09:41,[SEA] Quinn Jump Shot: Missed,76,128,2,,201049,,1611661328,79,54,4
+09:37,[DAL] Cambage Rebound (Off:0 Def:3),76,128,4,,202633,,1611661321,79,54,4
+09:24,[DAL] Cambage Layup Shot: Missed,-48,9,2,,202633,,1611661321,79,54,4
+09:24,[DAL] Team Rebound,-48,9,4,,0,,1611661321,79,54,4
+09:23,[DAL] Diggins-Smith 3pt Shot: Missed,184,149,2,,203400,,1611661321,79,54,4
+09:21,[DAL] Team Rebound,184,149,4,,0,,1611661321,79,54,4
+09:21,[SEA] Paris Foul: Personal (1 PF),-55,26,6,202633,201907,,1611661328,79,54,4
+09:16,[DAL 56-79] Cambage Jump Shot: Made (11 PTS) Assist: Gray (2 AST),126,26,1,,202633,1628277,1611661321,79,56,4
+08:56,[SEA] Mosqueda-Lewis Turnover : Bad Pass (3 TO) Steal:Gray (2 ST),-73,168,5,1628277,204321,,1611661328,79,56,4
+08:56,[SEA] Whitcomb Foul: Personal (3 PF),-42,451,6,1628277,1628244,,1611661328,79,56,4
+08:37,[DAL] Stevens Reverse Layup Shot: Missed,24,17,2,,1628922,,1611661321,79,56,4
+08:35,[DAL] Thornton Rebound (Off:1 Def:1),24,17,4,,203866,,1611661321,79,56,4
+08:34,[DAL] Thornton Jump Shot: Missed,13,20,2,201907,203866,,1611661321,79,56,4
+08:31,[DAL] Stevens Rebound (Off:4 Def:0),13,20,4,,1628922,,1611661321,79,56,4
+08:31,[DAL] Team Turnover : Shot Clock Turnover,175,47,5,,0,,1611661321,79,56,4
+08:07,[SEA] Whitcomb Driving Layup Shot: Missed,50,29,2,,1628244,,1611661328,79,56,4
+08:05,[DAL] Stevens Rebound (Off:4 Def:1),50,29,4,,1628922,,1611661321,79,56,4
+07:56,[DAL] Stevens Layup Shot: Missed,25,11,2,,1628922,,1611661321,79,56,4
+07:54,[DAL] Cambage Rebound (Off:1 Def:3),25,11,4,,202633,,1611661321,79,56,4
+07:53,[DAL] Cambage Putback Layup Shot: Missed,37,11,2,,202633,,1611661321,79,56,4
+07:50,[SEA] Russell Rebound (Off:1 Def:4),37,11,4,,1628920,,1611661328,79,56,4
+07:38,[SEA] Russell Jump Shot: Missed,-36,211,2,,1628920,,1611661328,79,56,4
+07:34,[DAL] Gray Rebound (Off:1 Def:1),-36,211,4,,1628277,,1611661321,79,56,4
+07:23,[DAL] Thornton 3pt Shot: Missed,-213,97,2,,203866,,1611661321,79,56,4
+07:20,[SEA] Quinn Rebound (Off:0 Def:4),-213,97,4,,201049,,1611661328,79,56,4
+06:58,[SEA] Russell Turnaround Hook Shot: Missed,-65,76,2,,1628920,,1611661328,79,56,4
+06:58,[SEA] Team Rebound,-65,76,4,,0,,1611661328,79,56,4
+06:55,[SEA] Team Turnover : Shot Clock Turnover,-173,66,5,,0,,1611661328,79,56,4
+06:44,[SEA] Mosqueda-Lewis Foul: Shooting (2 PF) (2 FTA),-38,64,6,203866,204321,,1611661328,79,56,4
+06:44,[DAL 57-79] Thornton Free Throw 1 of 2 (6 PTS),0,-80,3,,203866,,1611661321,79,57,4
+06:44,[DAL 58-79] Thornton Free Throw 2 of 2 (7 PTS),0,-80,3,,203866,,1611661321,79,58,4
+06:20,[SEA] Quinn 3pt Shot: Missed,-96,249,2,,201049,,1611661328,79,58,4
+06:14,[DAL] Gray Rebound (Off:1 Def:2),-96,249,4,,1628277,,1611661321,79,58,4
+06:10,[DAL 60-79] Diggins-Smith Running Layup Shot: Made (6 PTS),-35,13,1,,203400,,1611661321,79,60,4
+05:55,[DAL] Thornton Foul: Shooting (1 PF) (2 FTA),22,38,6,201907,203866,,1611661321,79,60,4
+05:55,Timeout Officials,0,-80,9,,0,,0,79,60,4
+05:55,[DAL] Diggins-Smith Substitution replaced by Romero,0,-80,8,,203400,1628285,1611661321,79,60,4
+05:55,[DAL] Thornton Substitution replaced by George,0,-80,8,,203866,204297,1611661321,79,60,4
+05:55,[DAL] Cambage Substitution replaced by Johnson,0,-80,8,,202633,203017,1611661321,79,60,4
+05:55,[DAL] Gray Substitution replaced by Lucas,0,-80,8,,1628277,203843,1611661321,79,60,4
+05:55,[SEA] Paris Free Throw 1 of 2 Missed,0,-80,3,,201907,,1611661328,79,60,4
+05:55,[SEA] Team Rebound,0,-80,4,,0,,1611661328,79,60,4
+05:55,[SEA 80-60] Paris Free Throw 2 of 2 (6 PTS),0,-80,3,,201907,,1611661328,80,60,4
+05:31,[DAL] Romero Turnover : Lost Ball (1 TO) Steal:Whitcomb (4 ST),125,24,5,1628244,1628285,,1611661321,80,60,4
+05:08,[SEA 82-60] Quinn Jump Shot: Made (6 PTS),-26,201,1,,201049,,1611661328,82,60,4
+04:54,[DAL 62-82] Stevens Driving Layup Shot: Made (10 PTS),-27,8,1,,1628922,,1611661321,82,62,4
+04:42,[SEA] Russell Foul: Offensive Charge (1 PF),-128,222,6,1628922,1628920,,1611661328,82,62,4
+04:42,[SEA] Russell Turnover : Offensive Foul Turnover (1 TO),-128,222,5,,1628920,,1611661328,82,62,4
+04:42,[DAL] Stevens Substitution replaced by Plaisance,0,-80,8,,1628922,203849,1611661321,82,62,4
+04:27,[DAL] Lucas Jump Shot: Missed,-60,15,2,1628244,203843,,1611661321,82,62,4
+04:27,[DAL] Team Rebound,-60,15,4,,0,,1611661321,82,62,4
+04:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,82,62,4
+04:19,[DAL] Lucas 3pt Shot: Missed,-194,145,2,,203843,,1611661321,82,62,4
+04:15,[SEA] Paris Rebound (Off:3 Def:5),-194,145,4,,201907,,1611661328,82,62,4
+04:02,[SEA] Mosqueda-Lewis 3pt Shot: Missed,67,232,2,,204321,,1611661328,82,62,4
+03:55,[SEA] Russell Rebound (Off:2 Def:4),67,232,4,,1628920,,1611661328,82,62,4
+03:55,[SEA 84-62] Russell Tip Layup Shot: Made (8 PTS),0,-5,1,,1628920,,1611661328,84,62,4
+03:35,[DAL 64-84] George Turnaround Jump Shot: Made (6 PTS) Assist: Romero (2 AST),132,8,1,,204297,1628285,1611661321,84,64,4
+03:08,[SEA] Mosqueda-Lewis Jump Shot: Missed,149,142,2,204297,204321,,1611661328,84,64,4
+03:04,[DAL] Plaisance Rebound (Off:1 Def:2),171,174,4,,203849,,1611661321,84,64,4
+03:00,[DAL 66-84] Johnson Reverse Layup Shot: Made (14 PTS),-22,8,1,,203017,,1611661321,84,66,4
+02:33,[SEA] Whitcomb Jump Shot: Missed,36,176,2,,1628244,,1611661328,84,66,4
+02:30,[DAL] George Rebound (Off:1 Def:1),36,176,4,,204297,,1611661321,84,66,4
+02:12,[DAL] Johnson 3pt Shot: Missed,-172,162,2,,203017,,1611661321,84,66,4
+02:08,[SEA] Russell Rebound (Off:2 Def:5),-172,162,4,,1628920,,1611661328,84,66,4
+02:05,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,84,66,4
+02:05,[SEA] Quinn Turnover : Bad Pass (3 TO) Steal:Lucas (2 ST),211,275,5,203843,201049,,1611661328,84,66,4
+01:54,[DAL] George 3pt Shot: Missed,154,208,2,,204297,,1611661321,84,66,4
+01:49,[SEA] Russell Rebound (Off:2 Def:6),154,208,4,,1628920,,1611661328,84,66,4
+01:27,[SEA] Whitcomb Jump Shot: Missed,-73,166,2,,1628244,,1611661328,84,66,4
+01:24,[SEA] Russell Rebound (Off:3 Def:6),-73,166,4,,1628920,,1611661328,84,66,4
+01:24,[SEA] Russell Tip Layup Shot: Missed,0,-5,2,,1628920,,1611661328,84,66,4
+01:24,[DAL] George Rebound (Off:1 Def:2),0,-5,4,,204297,,1611661321,84,66,4
+01:10,[DAL 68-84] Johnson Layup Shot: Made (16 PTS) Assist: Plaisance (2 AST),-20,16,1,,203017,203849,1611661321,84,68,4
+00:49.8,[SEA] Quinn Turnover : Bad Pass (4 TO) Steal:George (1 ST),-141,256,5,204297,201049,,1611661328,84,68,4
+00:38.8,[DAL] Johnson 3pt Shot: Missed,-137,203,2,,203017,,1611661321,84,68,4
+00:35.1,[SEA] Quinn Rebound (Off:0 Def:5),-137,203,4,,201049,,1611661328,84,68,4
+00:15.6,[SEA] Paris 3pt Shot: Missed,-219,87,2,,201907,,1611661328,84,68,4
+00:11.5,[DAL] George Rebound (Off:1 Def:3),-219,87,4,,204297,,1611661321,84,68,4
+00:00.0,End Period,0,-80,13,,0,,0,84,68,4
+00:00.0,Game End,0,-80,0,,0,,0,84,68,4

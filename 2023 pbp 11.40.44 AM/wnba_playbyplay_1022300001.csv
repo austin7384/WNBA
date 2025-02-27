@@ -1,0 +1,448 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:58,Jump Ball Boston vs Jones (Wheeler gains possession),0,-80,10,1628280,1641648,204365,1611661325,0,0,0,1
+09:48,[IND] Wheeler Turnover : Out of Bounds Lost Ball Turnover (1 TO),222,144,5,,204365,200667,1611661325,0,0,0,1
+09:33,[CON 2-0] Jones Layup Shot: Made (2 PTS) Assist: Hayes (1 AST),7,4,1,,1628280,203026,1611661323,0,2,2,1
+09:10,[IND] Wheeler 3pt Shot: Missed,173,176,2,,204365,,1611661325,0,2,0,1
+09:06,[CON] Bonner Rebound (Off:0 Def:1),173,176,4,,201886,,1611661323,0,2,0,1
+09:01,[CON] Bonner 3pt Shot: Missed,-117,221,2,,201886,,1611661323,0,2,0,1
+08:58,[IND] Mitchell Rebound (Off:0 Def:1),-117,221,4,,1628909,,1611661325,0,2,0,1
+08:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,2,0,1
+08:51,[IND] Smith 3pt Shot: Missed,-96,235,2,,1631019,,1611661325,0,2,0,1
+08:48,[IND] Boston Rebound (Off:1 Def:0),-96,235,4,,1641648,,1611661325,0,2,0,1
+08:48,[CON] Hayes Foul: Shooting (1 PF) (2 FTA),18,0,6,1641648,203026,200667,1611661323,0,2,0,1
+08:48,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,0,2,0,1
+08:48,[IND] Team Rebound,0,-80,4,,0,,1611661325,0,2,0,1
+08:48,[IND 1-2] Boston Free Throw 2 of 2 (1 PTS),0,-80,3,,1641648,,1611661325,1,2,1,1
+08:30,[IND] Smith Foul: Shooting (1 PF) (2 FTA),35,70,6,203826,1631019,1628168,1611661325,1,2,0,1
+08:30,[CON 3-1] Thomas Free Throw 1 of 2 (1 PTS),0,-80,3,,203826,,1611661323,1,3,1,1
+08:30,[CON 4-1] Thomas Free Throw 2 of 2 (2 PTS),0,-80,3,,203826,,1611661323,1,4,1,1
+08:22,[IND] Wheeler Pullup Jump shot: Missed,46,53,2,,204365,,1611661325,1,4,0,1
+08:18,[CON] Bonner Rebound (Off:0 Def:2),46,53,4,,201886,,1611661323,1,4,0,1
+08:09,[CON] Hiedeman 3pt Shot: Missed,198,151,2,,1629567,,1611661323,1,4,0,1
+08:06,[IND] Boston Rebound (Off:1 Def:1),198,151,4,,1641648,,1611661325,1,4,0,1
+07:56,[CON] Jones Foul: Personal (1 PF),-124,23,6,1641648,1628280,1628168,1611661323,1,4,0,1
+07:53,[IND] Vivians 3pt Shot: Missed,-234,29,2,,1628927,,1611661325,1,4,0,1
+07:49,[CON] Thomas Rebound (Off:0 Def:1),-234,29,4,,203826,,1611661323,1,4,0,1
+07:44,[CON 6-1] Bonner Running Reverse Layup Shot: Made (2 PTS) Assist: Hiedeman (1 AST),4,-1,1,,201886,1629567,1611661323,1,6,2,1
+07:26,[IND] Mitchell Driving Layup Shot: Missed,-4,-3,2,,1628909,,1611661325,1,6,0,1
+07:23,[CON] Hayes Rebound (Off:0 Def:1),-4,-3,4,,203026,,1611661323,1,6,0,1
+07:10,[CON] Thomas Pullup Jump shot: Missed,-26,59,2,,203826,,1611661323,1,6,0,1
+07:08,[IND] Boston Rebound (Off:1 Def:2),-26,59,4,,1641648,,1611661325,1,6,0,1
+07:02,[IND] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (2 TO),26,107,5,,204365,200667,1611661325,1,6,0,1
+06:52,[IND] Wheeler Foul: Shooting (1 PF) (2 FTA),-18,76,6,1629567,204365,202764,1611661325,1,6,0,1
+06:52,[CON] Hiedeman Free Throw 1 of 2 Missed,0,-80,3,,1629567,,1611661323,1,6,0,1
+06:52,[CON] Team Rebound,0,-80,4,,0,,1611661323,1,6,0,1
+06:52,[CON 7-1] Hiedeman Free Throw 2 of 2 (1 PTS),0,-80,3,,1629567,,1611661323,1,7,1,1
+06:36,[IND] Smith Turnover : Traveling (1 TO),-68,8,5,,1631019,200667,1611661325,1,7,0,1
+06:23,[IND] Boston Foul: Shooting (1 PF) (2 FTA),43,52,6,1628280,1641648,202764,1611661325,1,7,0,1
+06:23,[CON 8-1] Jones Free Throw 1 of 2 (3 PTS),0,-80,3,,1628280,,1611661323,1,8,1,1
+06:23,[CON 9-1] Jones Free Throw 2 of 2 (4 PTS),0,-80,3,,1628280,,1611661323,1,9,1,1
+06:07,[CON] Hayes Foul: Personal (2 PF),-140,28,6,1641648,203026,202764,1611661323,1,9,0,1
+06:07,[CON] Hayes Substitution replaced by Harris,0,-80,8,,203026,1630112,1611661323,1,9,0,1
+05:54,[IND] Smith Pullup Jump shot: Missed,-96,145,2,,1631019,,1611661325,1,9,0,1
+05:50,[CON] Thomas Rebound (Off:0 Def:2),-96,145,4,,203826,,1611661323,1,9,0,1
+05:41,[CON] Hiedeman Turnover : Out of Bounds - Bad Pass Turnover (1 TO),111,28,5,,1629567,1628168,1611661323,1,9,0,1
+05:25,[IND] Mitchell 3pt Shot: Missed,99,236,2,,1628909,,1611661325,1,9,0,1
+05:22,[CON] Bonner Rebound (Off:0 Def:3),99,236,4,,201886,,1611661323,1,9,0,1
+05:13,[CON] Harris Pullup Jump shot: Missed,22,183,2,,1630112,,1611661323,1,9,0,1
+05:10,[IND] Smith Rebound (Off:0 Def:1),22,183,4,,1631019,,1611661325,1,9,0,1
+04:52,[IND] Vivians 3pt Shot: Missed,155,214,2,,1628927,,1611661325,1,9,0,1
+04:48,[CON] Harris Rebound (Off:0 Def:1),155,214,4,,1630112,,1611661323,1,9,0,1
+04:43,[CON] Hiedeman Running Jump Shot: Missed,6,15,2,,1629567,,1611661323,1,9,0,1
+04:41,[CON] Team Rebound,6,15,4,,0,,1611661323,1,9,0,1
+04:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,1,9,0,1
+04:41,Timeout Officials,0,-80,9,,0,,0,1,9,0,1
+04:41,[CON] Bonner Substitution replaced by Allen,0,-80,8,,201886,204296,1611661323,1,9,0,1
+04:34,[CON] Thomas Floating Jump shot: Missed,44,33,2,,203826,,1611661323,1,9,0,1
+04:31,[IND] Smith Rebound (Off:0 Def:2),44,33,4,,1631019,,1611661325,1,9,0,1
+04:26,[IND] Boston Running Layup Shot: Missed,15,1,2,,1641648,,1611661325,1,9,0,1
+04:23,[CON] Harris Rebound (Off:0 Def:2),15,1,4,,1630112,,1611661323,1,9,0,1
+04:11,[CON] Jones Jump Shot: Missed,-66,155,2,,1628280,,1611661323,1,9,0,1
+04:08,[IND] Smith Rebound (Off:0 Def:3),-66,155,4,,1631019,,1611661325,1,9,0,1
+03:56,[IND] Smith Turnover : Lost Ball (2 TO) Steal:Harris (1 ST),83,48,5,1630112,1631019,,1611661325,1,9,0,1
+03:51,[CON 12-1] Allen 3pt Shot: Made (3 PTS) Assist: Harris (1 AST),184,170,1,,204296,1630112,1611661323,1,12,3,1
+03:29,[IND 3-12] Boston Turnaround Jump Shot: Made (3 PTS),-6,45,1,,1641648,,1611661325,3,12,2,1
+03:19,[CON] Jones Layup Shot: Missed,12,25,2,,1628280,,1611661323,3,12,0,1
+03:16,[IND] Smith Rebound (Off:0 Def:4),12,25,4,,1631019,,1611661325,3,12,0,1
+03:10,[IND] Smith 3pt Shot: Missed,-117,233,2,,1631019,,1611661325,3,12,0,1
+03:08,[IND] Boston Rebound (Off:2 Def:2),-117,233,4,,1641648,,1611661325,3,12,0,1
+03:07,[IND] Boston Putback Layup Shot: Missed,2,43,2,,1641648,,1611661325,3,12,0,1
+03:04,[CON] Jones Rebound (Off:0 Def:1),2,43,4,,1628280,,1611661323,3,12,0,1
+03:01,[CON] Allen Running Pull-Up Jump Shot: Missed,21,193,2,,204296,,1611661323,3,12,0,1
+02:59,[CON] Allen Rebound (Off:1 Def:0),21,193,4,,204296,,1611661323,3,12,0,1
+02:50,[CON 14-3] Thomas Cutting Layup Shot: Made (4 PTS) Assist: Hiedeman (2 AST),-17,22,1,,203826,1629567,1611661323,3,14,2,1
+02:50,[IND] Smith Foul: Shooting (2 PF) (1 FTA),-17,22,6,203826,1631019,200667,1611661325,3,14,0,1
+02:50,[IND] Boston Substitution replaced by Hull,0,-80,8,,1641648,1631086,1611661325,3,14,0,1
+02:50,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,3,14,0,1
+02:50,[IND] Smith Substitution replaced by Egbo,0,-80,8,,1631019,1631031,1611661325,3,14,0,1
+02:50,[CON 15-3] Thomas Free Throw 1 of 1 (5 PTS),0,-80,3,,203826,,1611661323,3,15,1,1
+02:40,[IND 6-15] Mitchell 3pt Shot: Made (3 PTS),205,148,1,,1628909,,1611661325,6,15,3,1
+02:25,[CON] Harris Driving Layup Shot: Missed Block: Vivians (1 BLK),4,9,2,1628927,1630112,,1611661323,6,15,0,1
+02:25,[CON] Team Rebound,4,9,4,,0,,1611661323,6,15,0,1
+02:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,15,0,1
+02:14,[CON 17-6] Thomas Jump Shot: Made (7 PTS) Assist: Hiedeman (3 AST),-105,133,1,,203826,1629567,1611661323,6,17,2,1
+02:02,[IND] Wheeler Turnover : Bad Pass (3 TO) Steal:Allen (1 ST),-27,51,5,204296,204365,,1611661325,6,17,0,1
+02:02,[IND] Egbo Foul: Personal (1 PF) (2 FTA),-11,787,6,204296,1631031,200667,1611661325,6,17,0,1
+02:02,[CON 18-6] Allen Free Throw 1 of 2 (4 PTS),0,-80,3,,204296,,1611661323,6,18,1,1
+02:02,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,6,18,0,1
+02:02,[CON 19-6] Allen Free Throw 2 of 2 (5 PTS),0,-80,3,,204296,,1611661323,6,19,1,1
+01:45,[CON] Allen Foul: Shooting (1 PF) (2 FTA),-34,139,6,1628927,204296,202764,1611661323,6,19,0,1
+01:45,[IND] Vivians Free Throw 1 of 2 Missed,0,-80,3,,1628927,,1611661325,6,19,0,1
+01:45,[IND] Team Rebound,0,-80,4,,0,,1611661325,6,19,0,1
+01:45,[IND 7-19] Vivians Free Throw 2 of 2 (1 PTS),0,-80,3,,1628927,,1611661325,7,19,1,1
+01:35,[CON] Nelson-Ododa Layup Shot: Missed Block: Egbo (1 BLK),4,13,2,1631031,1631135,,1611661323,7,19,0,1
+01:32,[IND] Egbo Rebound (Off:0 Def:1),4,13,4,,1631031,,1611661325,7,19,0,1
+01:20,[IND] Mitchell Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-59,151,5,,1628909,1628168,1611661325,7,19,0,1
+01:03,[CON] Thomas Jump Shot: Missed,-4,166,2,,203826,,1611661323,7,19,0,1
+01:00,[CON] Nelson-Ododa Rebound (Off:1 Def:0),-4,166,4,,1631135,,1611661323,7,19,0,1
+00:59.0,[CON] Hiedeman Turnover : Bad Pass (2 TO) Steal:Vivians (1 ST),-116,218,5,1628927,1629567,,1611661323,7,19,0,1
+00:42.6,[CON] Hiedeman Foul: Shooting (1 PF) (2 FTA),-3,-1,6,1628909,1629567,1628168,1611661323,7,19,0,1
+00:42.6,[IND 8-19] Mitchell Free Throw 1 of 2 (4 PTS),0,-80,3,,1628909,,1611661325,8,19,1,1
+00:42.6,[CON] Thomas Substitution replaced by Bonner,0,-80,8,,203826,201886,1611661323,8,19,0,1
+00:42.6,[IND] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,1628909,,1611661325,8,19,0,1
+00:41.0,[CON] Bonner Rebound (Off:0 Def:4),0,-80,4,,201886,,1611661323,8,19,0,1
+00:35.4,[CON] Hiedeman 3pt Shot: Missed,-227,84,2,,1629567,,1611661323,8,19,0,1
+00:32.3,[IND] Hull Rebound (Off:0 Def:1),-227,84,4,,1631086,,1611661325,8,19,0,1
+00:28.5,[CON] Allen Foul: Shooting (2 PF) (2 FTA),-31,-4,6,1631086,204296,200667,1611661323,8,19,0,1
+00:28.5,[IND 9-19] Hull Free Throw 1 of 2 (1 PTS),0,-80,3,,1631086,,1611661325,9,19,1,1
+00:28.5,[IND 10-19] Hull Free Throw 2 of 2 (2 PTS),0,-80,3,,1631086,,1611661325,10,19,1,1
+00:05.9,[CON] Hiedeman Driving Floating Jump Shot: Missed Block: Egbo (2 BLK),43,72,2,1631031,1629567,,1611661323,10,19,0,1
+00:02.5,[IND] Egbo Rebound (Off:0 Def:2),43,72,4,,1631031,,1611661325,10,19,0,1
+00:01.1,[IND] Egbo Turnover : Out of Bounds - Bad Pass Turnover (1 TO),88,37,5,,1631031,202764,1611661325,10,19,0,1
+00:00.0,End Period,0,-80,13,,0,,0,10,19,0,1
+10:00,Start Period,0,-80,12,,0,,0,10,19,0,2
+09:51,[IND] Hull Foul: Personal (1 PF),50,26,6,1628280,1631086,200667,1611661325,10,19,0,2
+09:36,[CON] Allen Driving Layup Shot: Missed,1,53,2,,204296,,1611661323,10,19,0,2
+09:32,[CON] Harris Rebound (Off:1 Def:2),1,53,4,,1630112,,1611661323,10,19,0,2
+09:31,[CON] Allen 3pt Shot: Missed,-65,251,2,,204296,,1611661323,10,19,0,2
+09:28,[CON] Team Rebound,-65,251,4,,0,,1611661323,10,19,0,2
+09:28,[IND] Wallace Foul: Loose Ball (1 PF),3,14,6,203826,1628929,202764,1611661325,10,19,0,2
+09:24,[CON 21-10] Bonner Cutting Layup Shot: Made (4 PTS) Assist: Thomas (1 AST),5,14,1,,201886,203826,1611661323,10,21,2,2
+09:05,[IND] Egbo Layup Shot: Missed Block: Jones (1 BLK),-4,11,2,1628280,1631031,,1611661325,10,21,0,2
+09:03,[IND] Egbo Rebound (Off:1 Def:2),-4,11,4,,1631031,,1611661325,10,21,0,2
+08:58,[IND] Hull 3pt Shot: Missed,-6,528,2,,1631086,,1611661325,10,21,0,2
+08:56,[IND] Team Rebound,-6,528,4,,0,,1611661325,10,21,0,2
+08:56,[IND] Team Turnover : Shot Clock Turnover,-11,75,5,,0,200667,1611661325,10,21,0,2
+08:56,[IND] Hull Substitution replaced by Smith,0,-80,8,,1631086,1631019,1611661325,10,21,0,2
+08:47,[CON 23-10] Jones Cutting Layup Shot: Made (6 PTS) Assist: Thomas (2 AST),-2,-15,1,,1628280,203826,1611661323,10,23,2,2
+08:26,[IND] Wallace Pullup Jump shot: Missed Block: Thomas (1 BLK),105,104,2,203826,1628929,,1611661325,10,23,0,2
+08:26,[CON] Harris Rebound (Off:1 Def:3),105,104,4,,1630112,,1611661323,10,23,0,2
+08:25,[CON] Thomas Technical (1 FTA),0,-80,6,,203826,200667,1611661323,10,23,0,2
+08:25,[IND] Wheeler Free Throw Technical Missed,0,-80,3,,204365,,1611661325,10,23,0,2
+08:25,[CON] Team Rebound,0,-80,4,,0,,1611661323,10,23,0,2
+08:17,[CON 25-10] Thomas Pullup Jump shot: Made (9 PTS),44,116,1,,203826,,1611661323,10,25,2,2
+08:01,[IND] Wallace Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),-5,43,5,1628280,1628929,,1611661325,10,25,0,2
+07:56,[CON] Harris 3pt Shot: Missed,-208,90,2,,1630112,,1611661323,10,25,0,2
+07:54,[IND] Wallace Rebound (Off:0 Def:1),-208,90,4,,1628929,,1611661325,10,25,0,2
+07:54,[CON] Jones Foul: Personal (2 PF),-32,829,6,1628929,1628280,1628168,1611661323,10,25,0,2
+07:54,[IND] Wallace Substitution replaced by Mitchell,0,-80,8,,1628929,1628909,1611661325,10,25,0,2
+07:54,[CON] Allen Substitution replaced by Nelson-Ododa,0,-80,8,,204296,1631135,1611661323,10,25,0,2
+07:54,[CON] Jones Substitution replaced by Hayes,0,-80,8,,1628280,203026,1611661323,10,25,0,2
+07:34,[IND] Smith Driving Floating Jump Shot: Missed,-17,74,2,,1631019,,1611661325,10,25,0,2
+07:31,[CON] Bonner Rebound (Off:0 Def:5),-17,74,4,,201886,,1611661323,10,25,0,2
+07:25,[CON] Bonner Turnover : Lost Ball (1 TO) Steal:Mitchell (1 ST),-23,85,5,1628909,201886,,1611661323,10,25,0,2
+07:20,[CON] Hayes Foul: Shooting (3 PF) (2 FTA),-6,-3,6,1631019,203026,202764,1611661323,10,25,0,2
+07:20,[IND] Smith Free Throw 1 of 2 Missed,0,-80,3,,1631019,,1611661325,10,25,0,2
+07:20,[IND] Team Rebound,0,-80,4,,0,,1611661325,10,25,0,2
+07:20,[IND] Egbo Substitution replaced by Boston,0,-80,8,,1631031,1641648,1611661325,10,25,0,2
+07:20,[CON] Harris Substitution replaced by Hiedeman,0,-80,8,,1630112,1629567,1611661323,10,25,0,2
+07:20,[CON] Hayes Substitution replaced by Allen,0,-80,8,,203026,204296,1611661323,10,25,0,2
+07:20,[IND 11-25] Smith Free Throw 2 of 2 (1 PTS),0,-80,3,,1631019,,1611661325,11,25,1,2
+07:09,[CON] Thomas Pullup Jump shot: Missed,15,78,2,,203826,,1611661323,11,25,0,2
+07:06,[CON] Thomas Rebound (Off:1 Def:2),15,78,4,,203826,,1611661323,11,25,0,2
+07:06,[CON] Thomas Putback Layup Shot: Missed,6,8,2,,203826,,1611661323,11,25,0,2
+07:01,[IND] Wheeler Rebound (Off:0 Def:1),6,8,4,,204365,,1611661325,11,25,0,2
+06:46,[IND] Mitchell Driving Finger Roll Layup Shot: Missed,-1,8,2,,1628909,,1611661325,11,25,0,2
+06:45,[CON] Team Rebound,-1,8,4,,0,,1611661323,11,25,0,2
+06:45,[IND] Boston Foul: Loose Ball (2 PF),12,821,6,1631135,1641648,202764,1611661325,11,25,0,2
+06:32,[CON] Hiedeman Pullup Jump shot: Missed,13,146,2,,1629567,,1611661323,11,25,0,2
+06:28,[IND] Team Rebound,13,146,4,,0,,1611661325,11,25,0,2
+06:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,25,0,2
+06:18,[IND] Mitchell 3pt Shot: Missed,-216,126,2,,1628909,,1611661325,11,25,0,2
+06:15,[IND] Smith Rebound (Off:1 Def:4),-216,126,4,,1631019,,1611661325,11,25,0,2
+06:12,Jump Ball Thomas vs Smith (Allen gains possession),0,-80,10,1631019,203826,204296,1611661323,11,25,0,2
+06:12,[IND] Smith Turnover : Lost Ball (3 TO) Steal:Thomas (1 ST),0,-80,5,203826,1631019,,1611661325,11,25,0,2
+05:58,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-182,205,5,,203826,200667,1611661323,11,25,0,2
+05:58,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,11,25,0,2
+05:48,[IND 13-25] Mitchell Jump Shot: Made (6 PTS) Assist: Caldwell (1 AST),66,137,1,,1628909,1630471,1611661325,13,25,2,2
+05:48,[CON] Allen Foul: Shooting (3 PF) (1 FTA),54,120,6,1628909,204296,202764,1611661323,13,25,0,2
+05:48,[CON] Allen Substitution replaced by Carrington,0,-80,8,,204296,1630096,1611661323,13,25,0,2
+05:48,[IND 14-25] Mitchell Free Throw 1 of 1 (7 PTS),0,-80,3,,1628909,,1611661325,14,25,1,2
+05:33,[CON] Bonner 3pt Shot: Missed,-229,-10,2,,201886,,1611661323,14,25,0,2
+05:29,[IND] Boston Rebound (Off:2 Def:3),-229,-10,4,,1641648,,1611661325,14,25,0,2
+05:22,[IND 17-25] Mitchell 3pt Shot: Made (10 PTS) Assist: Wheeler (1 AST),201,160,1,,1628909,204365,1611661325,17,25,3,2
+05:04,[CON] Thomas Jump Shot: Missed,0,86,2,,203826,,1611661323,17,25,0,2
+05:01,[IND] Boston Rebound (Off:2 Def:4),0,86,4,,1641648,,1611661325,17,25,0,2
+04:48,[IND 20-25] Mitchell 3pt Shot: Made (13 PTS) Assist: Boston (1 AST),221,108,1,,1628909,1641648,1611661325,20,25,3,2
+04:48,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,20,25,0,2
+04:48,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,20,25,0,2
+04:31,[CON] Jones Jump Shot: Missed Block: Boston (1 BLK),32,28,2,1641648,1628280,,1611661323,20,25,0,2
+04:29,[IND] Team Rebound,32,28,4,,0,,1611661325,20,25,0,2
+04:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,25,0,2
+04:23,[IND] Mitchell Foul: Offensive (1 PF),113,129,6,1629567,1628909,200667,1611661325,20,25,0,2
+04:23,[IND] Mitchell Turnover : Offensive Foul Turnover (2 TO),113,129,5,,1628909,200667,1611661325,20,25,0,2
+03:59,[CON] Thomas Pullup Jump shot: Missed,106,91,2,,203826,,1611661323,20,25,0,2
+03:56,[IND] Smith Rebound (Off:1 Def:5),106,91,4,,1631019,,1611661325,20,25,0,2
+03:49,[CON] Jones Violation:Kicked Ball,0,-80,7,,1628280,,1611661323,20,25,0,2
+03:49,[CON] Carrington Substitution replaced by Harris,0,-80,8,,1630096,1630112,1611661323,20,25,0,2
+03:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,25,0,2
+03:41,[IND] Mitchell Turnaround Jump Shot: Missed,172,-10,2,,1628909,,1611661325,20,25,0,2
+03:37,[CON] Hiedeman Rebound (Off:0 Def:1),172,-10,4,,1629567,,1611661323,20,25,0,2
+03:25,[CON 28-20] Hiedeman 3pt Shot: Made (4 PTS) Assist: Harris (2 AST),-233,-5,1,,1629567,1630112,1611661323,20,28,3,2
+03:09,[IND] Caldwell Driving Finger Roll Layup Shot: Missed,-4,8,2,,1630471,,1611661325,20,28,0,2
+03:07,[CON] Jones Rebound (Off:0 Def:2),-4,8,4,,1628280,,1611661323,20,28,0,2
+02:55,[CON 31-20] Hiedeman 3pt Shot: Made (7 PTS) Assist: Thomas (3 AST),-224,30,1,,1629567,203826,1611661323,20,31,3,2
+02:35,[IND 23-31] Caldwell 3pt Shot: Made (3 PTS) Assist: Smith (1 AST),-168,223,1,,1630471,1631019,1611661325,23,31,3,2
+02:21,[CON] Bonner Turnaround Jump Shot: Missed,128,76,2,,201886,,1611661323,23,31,0,2
+02:18,[IND] Boston Rebound (Off:2 Def:5),128,76,4,,1641648,,1611661325,23,31,0,2
+02:02,[IND 25-31] Boston Driving Layup Shot: Made (5 PTS) Assist: Caldwell (2 AST),0,2,1,,1641648,1630471,1611661325,25,31,2,2
+01:48,[IND] Boston Foul: Shooting (3 PF) (2 FTA),109,83,6,201886,1641648,202764,1611661325,25,31,0,2
+01:48,[CON 32-25] Bonner Free Throw 1 of 2 (5 PTS),0,-80,3,,201886,,1611661323,25,32,1,2
+01:48,[IND] Boston Substitution replaced by Egbo,0,-80,8,,1641648,1631031,1611661325,25,32,0,2
+01:48,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,25,32,0,2
+01:48,[CON 33-25] Bonner Free Throw 2 of 2 (6 PTS),0,-80,3,,201886,,1611661323,25,33,1,2
+01:36,[CON] Nelson-Ododa Foul: Shooting (1 PF) (2 FTA),23,10,6,1631031,1631135,202764,1611661323,25,33,0,2
+01:36,[IND] Egbo Free Throw 1 of 2 Missed,0,-80,3,,1631031,,1611661325,25,33,0,2
+01:36,[IND] Team Rebound,0,-80,4,,0,,1611661325,25,33,0,2
+01:36,[IND 26-33] Egbo Free Throw 2 of 2 (1 PTS),0,-80,3,,1631031,,1611661325,26,33,1,2
+01:26,[CON] Nelson-Ododa Foul: Offensive (2 PF),-41,148,6,204365,1631135,202764,1611661323,26,33,0,2
+01:26,[CON] Nelson-Ododa Turnover : Offensive Foul Turnover (1 TO),-41,148,5,,1631135,202764,1611661323,26,33,0,2
+01:26,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,26,33,0,2
+01:12,[IND] Caldwell Driving Layup Shot: Missed,-3,2,2,,1630471,,1611661325,26,33,0,2
+01:11,[IND] Egbo Rebound (Off:2 Def:2),-3,2,4,,1631031,,1611661325,26,33,0,2
+01:10,[IND] Egbo Putback Layup Shot: Missed Block: Nelson-Ododa (1 BLK),-4,13,2,1631135,1631031,,1611661325,26,33,0,2
+01:10,[IND] Team Rebound,-4,13,4,,0,,1611661325,26,33,0,2
+01:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,33,0,2
+01:07,[IND] Egbo Layup Shot: Missed Block: Bonner (1 BLK),-15,1,2,201886,1631031,,1611661325,26,33,0,2
+01:03,[CON] Harris Rebound (Off:1 Def:4),-15,1,4,,1630112,,1611661323,26,33,0,2
+00:59.1,[CON 35-26] Thomas Running Layup Shot: Made (11 PTS) Assist: Harris (3 AST),-1,-1,1,,203826,1630112,1611661323,26,35,2,2
+00:48.4,[IND] Wallace 3pt Shot: Missed,235,-3,2,,1628929,,1611661325,26,35,0,2
+00:44.2,[IND] Team Rebound,235,-3,4,,0,,1611661325,26,35,0,2
+00:44.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,35,0,2
+00:44.2,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,26,35,0,2
+00:39.3,[IND 28-35] Mitchell Pullup Jump shot: Made (15 PTS),-45,156,1,,1628909,,1611661325,28,35,2,2
+00:34.6,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,28,35,0,2
+00:34.6,[IND] Smith Substitution replaced by Vivians,0,-80,8,,1631019,1628927,1611661325,28,35,0,2
+00:20.7,[CON] Harris 3pt Shot: Missed,-28,245,2,,1630112,,1611661323,28,35,0,2
+00:17.2,[IND] Egbo Rebound (Off:2 Def:3),-28,245,4,,1631031,,1611661325,28,35,0,2
+00:00.7,[IND] Egbo Jump Shot: Missed,125,134,2,,1631031,,1611661325,28,35,0,2
+00:00.7,[IND] Team Rebound,125,134,4,,0,,1611661325,28,35,0,2
+00:00.0,End Period,0,-80,13,,0,,0,28,35,0,2
+10:00,Start Period,0,-80,12,,0,,0,28,35,0,3
+09:38,[CON] Hayes 3pt Shot: Missed,-215,113,2,,203026,,1611661323,28,35,0,3
+09:34,[IND] Vivians Rebound (Off:0 Def:1),-215,113,4,,1628927,,1611661325,28,35,0,3
+09:19,[IND 30-35] Smith Driving Layup Shot: Made (3 PTS),13,16,1,,1631019,,1611661325,30,35,2,3
+09:01,[IND] Smith Foul: Shooting (3 PF) (2 FTA),-5,-4,6,1628280,1631019,202764,1611661325,30,35,0,3
+09:01,[CON 36-30] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1628280,,1611661323,30,36,1,3
+09:01,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,30,36,0,3
+09:00,[IND] Smith Rebound (Off:1 Def:6),0,-80,4,,1631019,,1611661325,30,36,0,3
+08:51,[CON] Thomas Foul: Personal (2 PF),135,78,6,1631019,203826,1628168,1611661323,30,36,0,3
+08:51,[IND] Smith Foul: Offensive (4 PF),23,22,6,203026,1631019,200667,1611661325,30,36,0,3
+08:51,[IND] Smith Turnover : Offensive Foul Turnover (4 TO),23,22,5,,1631019,200667,1611661325,30,36,0,3
+08:34,[CON 39-30] Bonner 3pt Shot: Made (9 PTS) Assist: Thomas (4 AST),-40,260,1,,201886,203826,1611661323,30,39,3,3
+08:21,[IND 32-39] Boston Cutting Layup Shot: Made (7 PTS) Assist: Wheeler (2 AST),3,5,1,,1641648,204365,1611661325,32,39,2,3
+08:05,[CON] Hiedeman Pullup Jump shot: Missed,15,96,2,,1629567,,1611661323,32,39,0,3
+08:03,[IND] Smith Rebound (Off:1 Def:7),15,96,4,,1631019,,1611661325,32,39,0,3
+07:48,[IND] Mitchell Driving Floating Jump Shot: Missed,4,19,2,,1628909,,1611661325,32,39,0,3
+07:46,[CON] Hayes Rebound (Off:0 Def:2),4,19,4,,203026,,1611661323,32,39,0,3
+07:42,[CON] Hayes Running Layup Shot: Missed,-4,-3,2,,203026,,1611661323,32,39,0,3
+07:38,[CON] Thomas Rebound (Off:2 Def:2),-4,-3,4,,203826,,1611661323,32,39,0,3
+07:37,[CON] Jones Jump Shot: Missed,68,24,2,,1628280,,1611661323,32,39,0,3
+07:36,[CON] Jones Rebound (Off:1 Def:2),68,24,4,,1628280,,1611661323,32,39,0,3
+07:36,[IND] Boston Foul: Shooting (4 PF) (2 FTA),2,-1,6,1628280,1641648,1628168,1611661325,32,39,0,3
+07:36,[CON 40-32] Jones Free Throw 1 of 2 (8 PTS),0,-80,3,,1628280,,1611661323,32,40,1,3
+07:36,[IND] Smith Substitution replaced by Egbo,0,-80,8,,1631019,1631031,1611661325,32,40,0,3
+07:36,[IND] Boston Substitution replaced by Caldwell,0,-80,8,,1641648,1630471,1611661325,32,40,0,3
+07:36,[CON 41-32] Jones Free Throw 2 of 2 (9 PTS),0,-80,3,,1628280,,1611661323,32,41,1,3
+07:20,[IND] Caldwell 3pt Shot: Missed,-229,33,2,,1630471,,1611661325,32,41,0,3
+07:18,[CON] Thomas Rebound (Off:2 Def:3),-229,33,4,,203826,,1611661323,32,41,0,3
+07:17,[IND] Vivians Foul: Transition Take (1 PF) (1 FTA),-21,388,6,203826,1628927,1628168,1611661325,32,41,0,3
+07:17,Instant Replay - Support Ruling,0,-80,18,,0,,0,32,41,0,3
+07:17,[CON] Bonner Free Throw 1 of 1 Missed,0,-80,3,,201886,,1611661323,32,41,0,3
+07:17,[CON] Team Rebound,0,-80,4,,0,,1611661323,32,41,0,3
+07:06,[CON] Hayes Jump Shot: Missed Block: Egbo (3 BLK),-28,51,2,1631031,203026,,1611661323,32,41,0,3
+07:02,[CON] Team Rebound,-28,51,4,,0,,1611661323,32,41,0,3
+07:02,Jump Ball Hayes vs Egbo (Hayes gains possession),0,-80,10,1631031,203026,203026,1611661323,32,41,0,3
+06:51,[CON 43-32] Jones Layup Shot: Made (11 PTS) Assist: Thomas (5 AST),4,6,1,,1628280,203826,1611661323,32,43,2,3
+06:34,[IND] Wheeler Turnover : Bad Pass (4 TO) Steal:Hiedeman (1 ST),-115,288,5,1629567,204365,,1611661325,32,43,0,3
+06:30,[CON 45-32] Bonner Running Layup Shot: Made (11 PTS) Assist: Hiedeman (4 AST),1,15,1,,201886,1629567,1611661323,32,45,2,3
+06:03,[IND] Caldwell 3pt Shot: Missed,-138,224,2,,1630471,,1611661325,32,45,0,3
+05:59,[CON] Jones Rebound (Off:1 Def:3),-138,224,4,,1628280,,1611661323,32,45,0,3
+05:55,[CON] Hiedeman Turnover : Bad Pass (3 TO) Steal:Mitchell (2 ST),139,171,5,1628909,1629567,,1611661323,32,45,0,3
+05:55,[CON] Hayes Foul: Personal (4 PF),-15,820,6,1628909,203026,202764,1611661323,32,45,0,3
+05:55,[IND] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661325,32,45,0,3
+05:43,[IND] Egbo Foul: Offensive (2 PF),-15,183,6,203026,1631031,202764,1611661325,32,45,0,3
+05:43,[IND] Egbo Turnover : Offensive Foul Turnover (2 TO),-15,183,5,,1631031,202764,1611661325,32,45,0,3
+05:34,[CON] Thomas Turnover : Discontinue Dribble (2 TO),90,147,5,,203826,202764,1611661323,32,45,0,3
+05:11,[IND] Mitchell Turnover : Bad Pass (3 TO) Steal:Jones (2 ST),-164,203,5,1628280,1628909,,1611661325,32,45,0,3
+05:08,[IND] Wallace Foul: Shooting (2 PF) (2 FTA),18,26,6,201886,1628929,1628168,1611661325,32,45,0,3
+05:08,[CON 46-32] Bonner Free Throw 1 of 2 (12 PTS),0,-80,3,,201886,,1611661323,32,46,1,3
+05:08,[CON 47-32] Bonner Free Throw 2 of 2 (13 PTS),0,-80,3,,201886,,1611661323,32,47,1,3
+05:01,[IND] Wallace Pullup Jump shot: Missed,72,97,2,,1628929,,1611661325,32,47,0,3
+04:57,[CON] Thomas Rebound (Off:2 Def:4),72,97,4,,203826,,1611661323,32,47,0,3
+04:52,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Vivians (2 ST),77,265,5,1628927,203826,,1611661323,32,47,0,3
+04:48,[IND 34-47] Vivians Running Layup Shot: Made (3 PTS),-2,4,1,,1628927,,1611661325,34,47,2,3
+04:38,[CON 49-34] Hayes Driving Layup Shot: Made (2 PTS),4,2,1,,203026,,1611661323,34,49,2,3
+04:32,[IND] Wallace Turnover : Bad Pass (2 TO) Steal:Hayes (1 ST),190,572,5,203026,1628929,,1611661325,34,49,0,3
+04:20,[CON] Bonner 3pt Shot: Missed,223,8,2,,201886,,1611661323,34,49,0,3
+04:17,[CON] Jones Rebound (Off:2 Def:3),223,8,4,,1628280,,1611661323,34,49,0,3
+04:07,[CON] Hayes Turnover : Lost Ball (1 TO) Steal:Wallace (1 ST),-212,180,5,1628929,203026,,1611661323,34,49,0,3
+04:03,[IND] Wallace Running Layup Shot: Missed,13,3,2,,1628929,,1611661325,34,49,0,3
+04:00,[CON] Jones Rebound (Off:2 Def:4),13,3,4,,1628280,,1611661323,34,49,0,3
+03:45,[CON] Hayes 3pt Shot: Missed,-234,99,2,,203026,,1611661323,34,49,0,3
+03:43,[IND] Wallace Rebound (Off:0 Def:2),-234,99,4,,1628929,,1611661325,34,49,0,3
+03:29,[IND] Vivians Driving Floating Jump Shot: Missed,90,76,2,,1628927,,1611661325,34,49,0,3
+03:24,[CON] Bonner Rebound (Off:0 Def:6),90,76,4,,201886,,1611661323,34,49,0,3
+03:09,[CON 51-34] Bonner Floating Jump shot: Made (15 PTS),-43,47,1,,201886,,1611661323,34,51,2,3
+02:46,[IND] Mitchell Driving Layup Shot: Missed,0,1,2,,1628909,,1611661325,34,51,0,3
+02:42,[CON] Hiedeman Rebound (Off:0 Def:2),0,1,4,,1629567,,1611661323,34,51,0,3
+02:33,[IND] Vivians Foul: Shooting (2 PF) (2 FTA),4,3,6,203026,1628927,200667,1611661325,34,51,0,3
+02:33,Timeout Officials,0,-80,9,,0,,0,34,51,0,3
+02:33,[CON] Bonner Substitution replaced by Allen,0,-80,8,,201886,204296,1611661323,34,51,0,3
+02:33,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,34,51,0,3
+02:33,[CON] Hayes Free Throw 1 of 2 Missed,0,-80,3,,203026,,1611661323,34,51,0,3
+02:33,[CON] Team Rebound,0,-80,4,,0,,1611661323,34,51,0,3
+02:33,[CON 52-34] Hayes Free Throw 2 of 2 (3 PTS),0,-80,3,,203026,,1611661323,34,52,1,3
+02:22,[IND] Vivians 3pt Shot: Missed,-68,235,2,,1628927,,1611661325,34,52,0,3
+02:19,[CON] Nelson-Ododa Rebound (Off:1 Def:1),-68,235,4,,1631135,,1611661323,34,52,0,3
+02:09,[IND] Vivians Foul: Personal (3 PF) (2 FTA),-37,76,6,203826,1628927,202764,1611661325,34,52,0,3
+02:09,[CON 53-34] Thomas Free Throw 1 of 2 (12 PTS),0,-80,3,,203826,,1611661323,34,53,1,3
+02:09,[IND] Vivians Substitution replaced by Cannon,0,-80,8,,1628927,1628242,1611661325,34,53,0,3
+02:09,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,34,53,0,3
+02:07,[IND] Egbo Rebound (Off:2 Def:4),0,-80,4,,1631031,,1611661325,34,53,0,3
+01:53,[CON] Allen Foul: Personal (4 PF),22,198,6,1630471,204296,200667,1611661323,34,53,0,3
+01:47,[IND 36-53] Cannon Jump Shot: Made (2 PTS) Assist: Mitchell (1 AST),101,165,1,,1628242,1628909,1611661325,36,53,2,3
+01:36,[IND] Egbo Foul: Personal (3 PF) (2 FTA),41,177,6,1631135,1631031,202764,1611661325,36,53,0,3
+01:36,[CON 54-36] Nelson-Ododa Free Throw 1 of 2 (1 PTS),0,-80,3,,1631135,,1611661323,36,54,1,3
+01:36,[IND] Egbo Substitution replaced by Saxton,0,-80,8,,1631031,1641687,1611661325,36,54,0,3
+01:36,[CON] Hayes Substitution replaced by Harris,0,-80,8,,203026,1630112,1611661323,36,54,0,3
+01:36,[CON] Nelson-Ododa Free Throw 2 of 2 Missed,0,-80,3,,1631135,,1611661323,36,54,0,3
+01:35,[IND] Mitchell Rebound (Off:0 Def:2),0,-80,4,,1628909,,1611661325,36,54,0,3
+01:25,[IND 39-54] Wallace 3pt Shot: Made (3 PTS) Assist: Mitchell (2 AST),10,256,1,,1628929,1628909,1611661325,39,54,3,3
+01:16,[IND] Saxton Foul: Personal (1 PF) (2 FTA),-87,148,6,1631135,1641687,200667,1611661325,39,54,0,3
+01:16,[CON 55-39] Nelson-Ododa Free Throw 1 of 2 (2 PTS),0,-80,3,,1631135,,1611661323,39,55,1,3
+01:16,[CON] Nelson-Ododa Free Throw 2 of 2 Missed,0,-80,3,,1631135,,1611661323,39,55,0,3
+01:09,[CON] Team Rebound,0,-80,4,,0,,1611661323,39,55,0,3
+01:09,[CON] Harris Turnover : Kicked Ball Violation (1 TO),65,72,5,,1630112,,1611661323,39,55,0,3
+01:09,[CON] Thomas Substitution replaced by Brown,0,-80,8,,203826,1641665,1611661323,39,55,0,3
+00:58.6,[IND 41-55] Cannon Jump Shot: Made (4 PTS) Assist: Mitchell (3 AST),146,116,1,,1628242,1628909,1611661325,41,55,2,3
+00:47.2,[IND] Saxton Foul: Shooting (2 PF) (2 FTA),7,-10,6,1631135,1641687,202764,1611661325,41,55,0,3
+00:47.2,[CON] Nelson-Ododa Free Throw 1 of 2 Missed,0,-80,3,,1631135,,1611661323,41,55,0,3
+00:47.2,[CON] Team Rebound,0,-80,4,,0,,1611661323,41,55,0,3
+00:47.2,[IND] Saxton Substitution replaced by Egbo,0,-80,8,,1641687,1631031,1611661325,41,55,0,3
+00:47.2,[CON 56-41] Nelson-Ododa Free Throw 2 of 2 (3 PTS),0,-80,3,,1631135,,1611661323,41,56,1,3
+00:37.8,[IND 43-56] Wallace Reverse Layup Shot: Made (5 PTS),1,5,1,,1628929,,1611661325,43,56,2,3
+00:31.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,56,0,3
+00:31.1,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,43,56,0,3
+00:26.7,[CON] Brown Driving Floating Jump Shot: Missed,115,53,2,,1641665,,1611661323,43,56,0,3
+00:23.8,[CON] Jones Rebound (Off:3 Def:4),115,53,4,,1628280,,1611661323,43,56,0,3
+00:17.9,[CON] Hiedeman Pullup Jump shot: Missed,-31,141,2,,1629567,,1611661323,43,56,0,3
+00:14.7,[CON] Brown Rebound (Off:1 Def:0),-31,141,4,,1641665,,1611661323,43,56,0,3
+00:12.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,56,0,3
+00:01.2,[CON 58-43] Jones Layup Shot: Made (13 PTS) Assist: Brown (1 AST),-6,22,1,,1628280,1641665,1611661323,43,58,2,3
+00:00.0,End Period,0,-80,13,,0,,0,43,58,0,3
+10:00,Start Period,0,-80,12,,0,,0,43,58,0,4
+09:45,[IND] Boston Turnover : 3 Second Violation (1 TO),-10,72,5,,1641648,202764,1611661325,43,58,0,4
+09:35,[CON] Hayes 3pt Shot: Missed,40,238,2,,203026,,1611661323,43,58,0,4
+09:31,[IND] Wheeler Rebound (Off:0 Def:2),40,238,4,,204365,,1611661325,43,58,0,4
+09:19,[IND] Smith Jump Shot: Missed,-115,-3,2,,1631019,,1611661325,43,58,0,4
+09:18,[IND] Team Rebound,-115,-3,4,,0,,1611661325,43,58,0,4
+09:18,[CON] Brown Foul: Loose Ball (1 PF),18,8,6,1641648,1641665,202764,1611661323,43,58,0,4
+09:16,[IND 46-58] Mitchell 3pt Shot: Made (18 PTS) Assist: Vivians (1 AST),239,5,1,,1628909,1628927,1611661325,46,58,3,4
+08:49,[CON] Harris Pullup Jump shot: Missed,-66,160,2,,1630112,,1611661323,46,58,0,4
+08:47,[CON] Thomas Rebound (Off:3 Def:4),-66,160,4,,203826,,1611661323,46,58,0,4
+08:36,[CON] Harris Turnover : Bad Pass (2 TO) Steal:Vivians (3 ST),-68,28,5,1628927,1630112,,1611661323,46,58,0,4
+08:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,58,0,4
+08:27,[IND 48-58] Smith Driving Layup Shot: Made (5 PTS) Assist: Wheeler (3 AST),-13,9,1,,1631019,204365,1611661325,48,58,2,4
+08:27,[CON] Jones Foul: Shooting (3 PF) (1 FTA),-13,9,6,1631019,1628280,200667,1611661323,48,58,0,4
+08:27,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,48,58,0,4
+08:27,[CON] Brown Substitution replaced by Bonner,0,-80,8,,1641665,201886,1611661323,48,58,0,4
+08:27,[IND 49-58] Smith Free Throw 1 of 1 (6 PTS),0,-80,3,,1631019,,1611661325,49,58,1,4
+08:08,[CON] Hayes Layup Shot: Missed,-4,7,2,,203026,,1611661323,49,58,0,4
+08:06,[IND] Team Rebound,-4,7,4,,0,,1611661325,49,58,0,4
+08:06,[CON] Jones Foul: Loose Ball (4 PF),6,831,6,1641648,1628280,202764,1611661323,49,58,0,4
+07:53,[IND] Vivians 3pt Shot: Missed,-201,133,2,,1628927,,1611661325,49,58,0,4
+07:48,[CON] Jones Rebound (Off:3 Def:5),-201,133,4,,1628280,,1611661323,49,58,0,4
+07:45,[CON] Thomas Foul: Offensive (3 PF),-44,205,6,1641648,203826,202764,1611661323,49,58,0,4
+07:45,[CON] Thomas Turnover : Offensive Foul Turnover (4 TO),-44,205,5,,203826,202764,1611661323,49,58,0,4
+07:45,Instant Replay - Support Ruling,0,-80,18,,0,,0,49,58,0,4
+07:31,[IND] Smith Turnaround Jump Shot: Missed Block: Thomas (2 BLK),106,20,2,203826,1631019,,1611661325,49,58,0,4
+07:28,[CON] Thomas Rebound (Off:3 Def:5),106,20,4,,203826,,1611661323,49,58,0,4
+07:24,[CON] Bonner 3pt Shot: Missed,129,235,2,,201886,,1611661323,49,58,0,4
+07:20,[CON] Thomas Rebound (Off:4 Def:5),129,235,4,,203826,,1611661323,49,58,0,4
+07:11,[IND] Wheeler Foul: Personal (2 PF),-84,18,6,1628280,204365,200667,1611661325,49,58,0,4
+07:11,[CON] Harris Substitution replaced by Hiedeman,0,-80,8,,1630112,1629567,1611661323,49,58,0,4
+06:57,[CON] Bonner 3pt Shot: Missed,-221,119,2,,201886,,1611661323,49,58,0,4
+06:56,[CON] Team Rebound,-221,119,4,,0,,1611661323,49,58,0,4
+06:56,[CON] Team Turnover : Shot Clock Turnover,23,55,5,,0,202764,1611661323,49,58,0,4
+06:56,[IND] Vivians Substitution replaced by Caldwell,0,-80,8,,1628927,1630471,1611661325,49,58,0,4
+06:33,[IND] Boston 3pt Shot: Missed,146,232,2,,1641648,,1611661325,49,58,0,4
+06:30,[CON] Hiedeman Rebound (Off:0 Def:3),146,232,4,,1629567,,1611661323,49,58,0,4
+06:12,[CON] Thomas Pullup Jump shot: Missed,-9,88,2,,203826,,1611661323,49,58,0,4
+06:09,[IND] Wheeler Rebound (Off:0 Def:3),-9,88,4,,204365,,1611661325,49,58,0,4
+06:05,[IND 51-58] Mitchell Running Layup Shot: Made (20 PTS) Assist: Wheeler (4 AST),7,-11,1,,1628909,204365,1611661325,51,58,2,4
+05:39,[CON] Hiedeman Driving Layup Shot: Missed,-7,1,2,,1629567,,1611661323,51,58,0,4
+05:37,[IND] Caldwell Rebound (Off:0 Def:1),-7,1,4,,1630471,,1611661325,51,58,0,4
+05:32,[IND] Caldwell Turnover : Lost Ball (1 TO) Steal:Thomas (2 ST),12,105,5,203826,1630471,,1611661325,51,58,0,4
+05:26,[CON] Hayes Running Layup Shot: Missed,-23,5,2,,203026,,1611661323,51,58,0,4
+05:24,[CON] Jones Rebound (Off:4 Def:5),-23,5,4,,1628280,,1611661323,51,58,0,4
+05:24,[CON] Jones Putback Layup Shot: Missed,-5,-4,2,,1628280,,1611661323,51,58,0,4
+05:22,[IND] Team Rebound,-5,-4,4,,0,,1611661325,51,58,0,4
+05:22,[CON] Jones Foul: Loose Ball (5 PF),-16,811,6,1630471,1628280,202764,1611661323,51,58,0,4
+05:22,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,51,58,0,4
+05:13,[IND 53-58] Boston Cutting Layup Shot: Made (9 PTS) Assist: Wheeler (5 AST),9,19,1,,1641648,204365,1611661325,53,58,2,4
+04:53,[CON] Hayes Turnover : Bad Pass (2 TO) Steal:Wheeler (1 ST),30,17,5,204365,203026,,1611661323,53,58,0,4
+04:47,[IND] Mitchell 3pt Shot: Missed,-4,252,2,,1628909,,1611661325,53,58,0,4
+04:45,[CON] Team Rebound,-4,252,4,,0,,1611661323,53,58,0,4
+04:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,58,0,4
+04:29,[CON] Hayes Pullup Jump shot: Missed,-120,166,2,,203026,,1611661323,53,58,0,4
+04:26,[IND] Caldwell Rebound (Off:0 Def:2),-120,166,4,,1630471,,1611661325,53,58,0,4
+04:11,[IND] Mitchell 3pt Shot: Missed,-168,189,2,,1628909,,1611661325,53,58,0,4
+04:09,[IND] Smith Rebound (Off:2 Def:7),-168,189,4,,1631019,,1611661325,53,58,0,4
+04:06,[IND] Smith Layup Shot: Missed,22,9,2,,1631019,,1611661325,53,58,0,4
+04:06,[IND] Boston Rebound (Off:3 Def:5),22,9,4,,1641648,,1611661325,53,58,0,4
+04:06,[CON] Jones Foul: Shooting (6 PF) (2 FTA),-2,9,6,1641648,1628280,200667,1611661323,53,58,0,4
+04:06,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,53,58,0,4
+04:06,[IND] Boston Free Throw 1 of 2 Missed,0,-80,3,,1641648,,1611661325,53,58,0,4
+04:06,[IND] Team Rebound,0,-80,4,,0,,1611661325,53,58,0,4
+04:06,[IND] Boston Free Throw 2 of 2 Missed,0,-80,3,,1641648,,1611661325,53,58,0,4
+04:03,[CON] Thomas Rebound (Off:4 Def:6),0,-80,4,,203826,,1611661323,53,58,0,4
+04:03,[CON] Thomas Turnover : Lost Ball (5 TO) Steal:Boston (1 ST),-150,704,5,1641648,203826,,1611661323,53,58,0,4
+03:58,[IND] Mitchell 3pt Shot: Missed,20,250,2,,1628909,,1611661325,53,58,0,4
+03:55,[CON] Bonner Rebound (Off:0 Def:7),20,250,4,,201886,,1611661323,53,58,0,4
+03:31,[CON] Team Turnover : Shot Clock Turnover,125,11,5,,0,1628168,1611661323,53,58,0,4
+03:13,[IND] Boston Reverse Layup Shot: Missed Block: Nelson-Ododa (2 BLK),4,3,2,1631135,1641648,,1611661325,53,58,0,4
+03:09,[CON] Thomas Rebound (Off:4 Def:7),4,3,4,,203826,,1611661323,53,58,0,4
+03:06,[CON 60-53] Bonner Running Layup Shot: Made (17 PTS) Assist: Thomas (6 AST),10,7,1,,201886,203826,1611661323,53,60,2,4
+02:53,[CON] Hiedeman Foul: Personal (2 PF) (2 FTA),43,28,6,1641648,1629567,1628168,1611661323,53,60,0,4
+02:53,[IND 54-60] Boston Free Throw 1 of 2 (10 PTS),0,-80,3,,1641648,,1611661325,54,60,1,4
+02:53,[IND 55-60] Boston Free Throw 2 of 2 (11 PTS),0,-80,3,,1641648,,1611661325,55,60,1,4
+02:42,[CON] Hayes Turnover : Traveling (3 TO),-110,285,5,,203026,200667,1611661323,55,60,0,4
+02:42,[CON] Team Violation : Delay Of Game,0,-80,7,,0,,1611661323,55,60,0,4
+02:25,[IND 57-60] Boston Layup Shot: Made (13 PTS) Assist: Caldwell (3 AST),1,-5,1,,1641648,1630471,1611661325,57,60,2,4
+02:23,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,57,60,0,4
+02:10,[CON 62-57] Thomas Driving Finger Roll Layup Shot: Made (14 PTS),6,3,1,,203826,,1611661323,57,62,2,4
+01:46,[IND] Wheeler Driving Finger Roll Layup Shot: Missed,0,0,2,,204365,,1611661325,57,62,0,4
+01:44,[IND] Boston Rebound (Off:4 Def:5),0,0,4,,1641648,,1611661325,57,62,0,4
+01:44,[IND 59-62] Boston Tip Layup Shot: Made (15 PTS),0,-5,1,,1641648,,1611661325,59,62,2,4
+01:31,[CON 64-59] Thomas Driving Layup Shot: Made (16 PTS),2,8,1,,203826,,1611661323,59,64,2,4
+01:18,[IND] Smith 3pt Shot: Missed,-227,52,2,,1631019,,1611661325,59,64,0,4
+01:14,[CON] Hayes Rebound (Off:0 Def:3),-227,52,4,,203026,,1611661323,59,64,0,4
+01:00,[IND] Boston Foul: Shooting (5 PF) (2 FTA),11,-4,6,203826,1641648,1628168,1611661325,59,64,0,4
+01:00,[CON 65-59] Thomas Free Throw 1 of 2 (17 PTS),0,-80,3,,203826,,1611661323,59,65,1,4
+01:00,[CON 66-59] Thomas Free Throw 2 of 2 (18 PTS),0,-80,3,,203826,,1611661323,59,66,1,4
+01:00,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,59,66,0,4
+00:50.9,[IND] Smith Turnaround Jump Shot: Missed,10,85,2,,1631019,,1611661325,59,66,0,4
+00:48.2,[CON] Hayes Rebound (Off:0 Def:4),10,85,4,,203026,,1611661323,59,66,0,4
+00:48.1,[IND] Boston Foul: Personal (6 PF) (2 FTA),-11,778,6,203026,1641648,1628168,1611661325,59,66,0,4
+00:48.1,[IND] Boston Substitution replaced by Egbo,0,-80,8,,1641648,1631031,1611661325,59,66,0,4
+00:48.1,[CON 67-59] Hayes Free Throw 1 of 2 (4 PTS),0,-80,3,,203026,,1611661323,59,67,1,4
+00:48.1,[CON 68-59] Hayes Free Throw 2 of 2 (5 PTS),0,-80,3,,203026,,1611661323,59,68,1,4
+00:48.1,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,59,68,0,4
+00:42.7,[IND] Smith Turnover : Lost Ball (5 TO) Steal:Thomas (3 ST),168,22,5,203826,1631019,,1611661325,59,68,0,4
+00:26.9,[CON] Bonner Turnover : Lost Ball (2 TO) Steal:Caldwell (1 ST),116,75,5,1630471,201886,,1611661323,59,68,0,4
+00:24.0,[IND] Wheeler Turnover : Bad Pass (5 TO) Steal:Bonner (1 ST),-51,709,5,201886,204365,,1611661325,59,68,0,4
+00:23.5,[CON 70-59] Bonner Layup Shot: Made (19 PTS),-4,12,1,,201886,,1611661323,59,70,2,4
+00:11.4,[IND 61-70] Egbo Layup Shot: Made (3 PTS) Assist: Mitchell (4 AST),-1,1,1,,1631031,1628909,1611661325,61,70,2,4
+00:00.0,End Period,0,-80,13,,0,,0,61,70,0,4

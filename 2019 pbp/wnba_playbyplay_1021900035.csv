@@ -1,0 +1,368 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Harrison vs Dupree (Thornton gains possession),0,-80,10,200676,204330,203866,1611661321,0,0,1
+09:46,[DAL 2-0] Gray Layup Shot: Made (2 PTS),-74,-7,1,,1628277,,1611661321,2,0,1
+09:22,[IND 2-2] Achonwa Cutting Layup Shot: Made (2 PTS) Assist: Dupree (1 AST),3,32,1,,203831,200676,1611661325,2,2,1
+08:57,[DAL 4-2] Gray Driving Layup Shot: Made (4 PTS) Assist: Harrison (1 AST),-25,11,1,,1628277,204330,1611661321,4,2,1
+08:45,[IND] Mitchell 3pt Shot: Missed,169,171,2,,1628909,,1611661325,4,2,1
+08:41,[IND] Laney Rebound (Off:1 Def:0),169,171,4,,204335,,1611661325,4,2,1
+08:33,[IND] Wheeler Jump Shot: Missed,-175,19,2,,204365,,1611661325,4,2,1
+08:33,[IND] Achonwa Rebound (Off:1 Def:0),-175,19,4,,203831,,1611661325,4,2,1
+08:25,[DAL] Thornton Foul: Shooting (1 PF) (2 FTA),50,3,6,1628909,203866,,1611661321,4,2,1
+08:25,[IND 3-4] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,1628909,,1611661325,4,3,1
+08:25,[IND 4-4] Mitchell Free Throw 2 of 2 (2 PTS),0,-80,3,,1628909,,1611661325,4,4,1
+08:11,[DAL 6-4] Thornton Pullup Jump shot: Made (2 PTS),29,138,1,,203866,,1611661321,6,4,1
+07:53,[IND] Laney 3pt Shot: Missed,-173,182,2,,204335,,1611661325,6,4,1
+07:50,[DAL] Johnson Rebound (Off:0 Def:1),-173,182,4,,203017,,1611661321,6,4,1
+07:46,[DAL] Davis Pullup Jump shot: Missed,78,72,2,,1628273,,1611661321,6,4,1
+07:42,[IND] Achonwa Rebound (Off:1 Def:1),78,72,4,,203831,,1611661325,6,4,1
+07:29,[IND 7-6] Wheeler 3pt Shot: Made (3 PTS),11,260,1,,204365,,1611661325,6,7,1
+07:16,[DAL] Thornton Pullup Jump shot: Missed,-111,24,2,,203866,,1611661321,6,7,1
+07:12,[IND] Achonwa Rebound (Off:1 Def:2),-111,24,4,,203831,,1611661325,6,7,1
+07:00,[IND] Mitchell 3pt Shot: Missed,172,178,2,,1628909,,1611661325,6,7,1
+06:56,[DAL] Gray Rebound (Off:0 Def:1),172,178,4,,1628277,,1611661321,6,7,1
+06:49,[DAL 9-7] Johnson 3pt Shot: Made (3 PTS) Assist: Gray (1 AST),157,197,1,,203017,1628277,1611661321,9,7,1
+06:30,[IND] Laney Turnover : Bad Pass (1 TO),-100,37,5,,204335,,1611661325,9,7,1
+06:17,[DAL] Davis Foul: Offensive Charge (1 PF),-26,44,6,204365,1628273,,1611661321,9,7,1
+06:17,[DAL] Davis Turnover : Offensive Foul Turnover (1 TO),-26,44,5,,1628273,,1611661321,9,7,1
+06:03,[IND] Dupree Driving Layup Shot: Missed,22,23,2,,200676,,1611661325,9,7,1
+06:01,[DAL] Team Rebound,22,23,4,,0,,1611661321,9,7,1
+06:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,7,1
+05:46,[DAL] Johnson Jump Shot: Missed,-138,19,2,,203017,,1611661321,9,7,1
+05:45,[IND] Team Rebound,-138,19,4,,0,,1611661325,9,7,1
+05:45,[DAL] Thornton Foul: Loose Ball (2 PF),-24,727,6,204335,203866,,1611661321,9,7,1
+05:22,[IND] Achonwa Turnover : 3 Second Violation (1 TO),-30,75,5,,203831,,1611661325,9,7,1
+05:22,[IND] Laney Substitution replaced by Mitchell,0,-80,8,,204335,1627676,1611661325,9,7,1
+05:11,[DAL 12-7] Thornton 3pt Shot: Made (5 PTS) Assist: Davis (1 AST),230,69,1,,203866,1628273,1611661321,12,7,1
+04:56,[IND] Mitchell Turnover : Lost Ball (1 TO) Steal:Harrison (1 ST),20,126,5,204330,1627676,,1611661325,12,7,1
+04:50,[DAL] Thornton Layup Shot: Missed,-25,37,2,,203866,,1611661321,12,7,1
+04:46,[IND] Achonwa Rebound (Off:1 Def:3),-25,37,4,,203831,,1611661325,12,7,1
+04:40,[IND] Mitchell Layup Shot: Missed,15,15,2,,1627676,,1611661325,12,7,1
+04:38,[IND] Mitchell Rebound (Off:1 Def:0),15,15,4,,1627676,,1611661325,12,7,1
+04:37,[IND] Mitchell Putback Layup Shot: Missed,-6,35,2,,1627676,,1611661325,12,7,1
+04:34,[DAL] Gray Rebound (Off:0 Def:2),-6,35,4,,1628277,,1611661321,12,7,1
+04:21,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),-28,17,6,1628277,1627676,,1611661325,12,7,1
+04:21,Timeout Officials,0,-80,9,,0,,0,12,7,1
+04:21,[DAL] Thornton Substitution replaced by Stevens,0,-80,8,,203866,1628922,1611661321,12,7,1
+04:21,[IND] Achonwa Substitution replaced by McCowan,0,-80,8,,203831,1629479,1611661325,12,7,1
+04:21,[DAL 13-7] Gray Free Throw 1 of 2 (5 PTS),0,-80,3,,1628277,,1611661321,13,7,1
+04:21,[DAL 14-7] Gray Free Throw 2 of 2 (6 PTS),0,-80,3,,1628277,,1611661321,14,7,1
+03:59,[IND] Dupree Hook Shot: Missed,32,24,2,,200676,,1611661325,14,7,1
+03:56,[DAL] Johnson Rebound (Off:0 Def:2),32,24,4,,203017,,1611661321,14,7,1
+03:54,[DAL] Harrison Turnover : Traveling (1 TO),56,14,5,,204330,,1611661321,14,7,1
+03:54,[IND] Wheeler Substitution replaced by Laney,0,-80,8,,204365,204335,1611661325,14,7,1
+03:44,[IND 10-14] Mitchell 3pt Shot: Made (5 PTS) Assist: Mitchell (1 AST),-213,129,1,,1628909,1627676,1611661325,14,10,1
+03:20,[DAL] Johnson Turnaround Jump Shot: Missed,-83,14,2,,203017,,1611661321,14,10,1
+03:18,[IND] McCowan Rebound (Off:0 Def:1),-83,14,4,,1629479,,1611661325,14,10,1
+03:13,[IND 12-14] Dupree Jump Shot: Made (2 PTS) Assist: Mitchell (1 AST),113,22,1,,200676,1628909,1611661325,14,12,1
+03:05,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,14,12,1
+03:05,[DAL] Harrison Substitution replaced by Plaisance,0,-80,8,,204330,203849,1611661321,14,12,1
+02:49,[DAL 16-12] Plaisance Driving Layup Shot: Made (2 PTS) Assist: Davis (2 AST),9,20,1,,203849,1628273,1611661321,16,12,1
+02:30,[IND] Mitchell 3pt Shot: Missed,-109,241,2,,1628909,,1611661325,16,12,1
+02:27,[DAL] Johnson Rebound (Off:0 Def:3),-109,241,4,,203017,,1611661321,16,12,1
+02:20,[DAL] Stevens Layup Shot: Missed,-15,26,2,1629479,1628922,,1611661321,16,12,1
+02:17,[IND] McCowan Rebound (Off:0 Def:2),-15,26,4,,1629479,,1611661325,16,12,1
+02:09,[IND] Mitchell 3pt Shot: Missed,221,86,2,,1627676,,1611661325,16,12,1
+02:06,[DAL] Davis Rebound (Off:0 Def:1),221,86,4,,1628273,,1611661321,16,12,1
+01:57,[DAL] Stevens Jump Shot: Missed,167,13,2,,1628922,,1611661321,16,12,1
+01:53,[IND] Laney Rebound (Off:1 Def:1),167,13,4,,204335,,1611661325,16,12,1
+01:37,[IND] Mitchell Turnover : Bad Pass (1 TO),-113,55,5,,1628909,,1611661325,16,12,1
+01:37,[DAL] Davis Substitution replaced by McCarty-Williams,0,-80,8,,1628273,1628907,1611661321,16,12,1
+01:37,[DAL] Johnson Substitution replaced by Harrison,0,-80,8,,203017,204330,1611661321,16,12,1
+01:37,[IND] Dupree Substitution replaced by Achonwa,0,-80,8,,200676,203831,1611661325,16,12,1
+01:23,[DAL] Plaisance 3pt Shot: Missed,223,80,2,,203849,,1611661321,16,12,1
+01:20,[IND] Laney Rebound (Off:1 Def:2),223,80,4,,204335,,1611661325,16,12,1
+01:15,[IND] Laney Pullup Jump shot: Missed,-129,141,2,,204335,,1611661325,16,12,1
+01:12,[IND] McCowan Rebound (Off:1 Def:2),-129,141,4,,1629479,,1611661325,16,12,1
+01:09,[IND] McCowan Layup Shot: Missed,-40,42,2,,1629479,,1611661325,16,12,1
+01:09,[IND] Laney Rebound (Off:2 Def:2),-40,42,4,,204335,,1611661325,16,12,1
+00:59.9,[IND 14-16] McCowan Layup Shot: Made (2 PTS) Assist: Mitchell (2 AST),-23,40,1,,1629479,1627676,1611661325,16,14,1
+00:53.6,[DAL] Stevens Foul: Offensive Charge (1 PF),81,24,6,204335,1628922,,1611661321,16,14,1
+00:53.6,[DAL] Stevens Turnover : Offensive Foul Turnover (1 TO),81,24,5,,1628922,,1611661321,16,14,1
+00:53.6,[IND] Mitchell Substitution replaced by Kea,0,-80,8,,1628909,1629502,1611661325,16,14,1
+00:30.1,[IND 16-16] Mitchell Running Pull-Up Jump Shot: Made (2 PTS),-14,50,1,,1627676,,1611661325,16,16,1
+00:09.4,[DAL] Plaisance 3pt Shot: Missed,219,115,2,,203849,,1611661321,16,16,1
+00:04.8,[IND] Mitchell Rebound (Off:1 Def:1),219,115,4,,1627676,,1611661325,16,16,1
+00:00.0,[IND] Mitchell Layup Shot: Missed,24,17,2,203849,1627676,,1611661325,16,16,1
+00:00.0,[IND] McCowan Rebound (Off:2 Def:2),24,17,4,,1629479,,1611661325,16,16,1
+00:00.0,End Period,0,-80,13,,0,,0,16,16,1
+10:00,Start Period,0,-80,12,,0,,0,16,16,2
+09:43,[IND] Laney Turnover : Lost Ball (2 TO),233,102,5,,204335,,1611661325,16,16,2
+09:31,[DAL] Harrison Turnover : Bad Pass (2 TO),28,274,5,,204330,,1611661321,16,16,2
+09:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,16,2
+09:20,[DAL] Stevens Substitution replaced by Davis,0,-80,8,,1628922,1628273,1611661321,16,16,2
+09:20,[IND] Kea Substitution replaced by Wheeler,0,-80,8,,1629502,204365,1611661325,16,16,2
+09:09,[IND] Achonwa Jump Shot: Missed,-137,7,2,,203831,,1611661325,16,16,2
+09:06,[IND] McCowan Rebound (Off:3 Def:2),-137,7,4,,1629479,,1611661325,16,16,2
+09:04,[IND] McCowan Putback Layup Shot: Missed,-30,43,2,1627677,1629479,,1611661325,16,16,2
+09:04,[IND] Laney Rebound (Off:3 Def:2),-30,43,4,,204335,,1611661325,16,16,2
+08:57,[IND] Wheeler 3pt Shot: Missed,-14,238,2,,204365,,1611661325,16,16,2
+08:54,[DAL] Thornton Rebound (Off:0 Def:1),-14,238,4,,203866,,1611661321,16,16,2
+08:46,[DAL] Davis Turnover : Bad Pass (2 TO),-226,153,5,,1628273,,1611661321,16,16,2
+08:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,16,2
+08:30,[DAL] McCarty-Williams Substitution replaced by Johnson,0,-80,8,,1628907,203017,1611661321,16,16,2
+08:30,[DAL] Harrison Substitution replaced by Gray,0,-80,8,,204330,1628277,1611661321,16,16,2
+08:23,[IND 18-16] Mitchell Pullup Jump shot: Made (4 PTS),111,43,1,,1627676,,1611661325,16,18,2
+08:07,[DAL 18-18] McGee-Stafford Layup Shot: Made (2 PTS) Assist: Davis (3 AST),6,21,1,,1627677,1628273,1611661321,18,18,2
+07:56,[IND 21-18] Wheeler 3pt Shot: Made (6 PTS) Assist: Mitchell (3 AST),-195,172,1,,204365,1627676,1611661325,18,21,2
+07:32,[DAL] McGee-Stafford Turnaround Jump Shot: Missed,-133,15,2,,1627677,,1611661321,18,21,2
+07:29,[IND] Achonwa Rebound (Off:1 Def:4),-133,15,4,,203831,,1611661325,18,21,2
+07:16,[IND] Achonwa 3pt Shot: Missed,193,150,2,,203831,,1611661325,18,21,2
+07:13,[DAL] Thornton Rebound (Off:0 Def:2),193,150,4,,203866,,1611661321,18,21,2
+07:11,[DAL] Thornton Layup Shot: Missed,-33,11,2,,203866,,1611661321,18,21,2
+07:08,[IND] Mitchell Rebound (Off:1 Def:2),-33,11,4,,1627676,,1611661325,18,21,2
+07:01,[DAL] McGee-Stafford Foul: Personal (1 PF),20,39,6,203831,1627677,,1611661321,18,21,2
+07:01,[DAL] McGee-Stafford Substitution replaced by Stevens,0,-80,8,,1627677,1628922,1611661321,18,21,2
+06:54,[IND] Achonwa Foul: Offensive Charge (1 PF),30,15,6,1628277,203831,,1611661325,18,21,2
+06:54,[IND] Achonwa Turnover : Offensive Foul Turnover (2 TO),30,15,5,,203831,,1611661325,18,21,2
+06:54,[IND] McCowan Substitution replaced by Dupree,0,-80,8,,1629479,200676,1611661325,18,21,2
+06:44,[DAL] Davis Layup Shot: Missed,-24,22,2,,1628273,,1611661321,18,21,2
+06:35,[IND] Dupree Rebound (Off:0 Def:1),-24,22,4,,200676,,1611661325,18,21,2
+06:33,[IND] Dupree Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),-123,189,5,1628277,200676,,1611661325,18,21,2
+06:30,[DAL] Gray Layup Shot: Missed,15,22,2,,1628277,,1611661321,18,21,2
+06:26,[DAL] Johnson Rebound (Off:1 Def:3),15,22,4,,203017,,1611661321,18,21,2
+06:19,[DAL 20-21] Davis Layup Shot: Made (2 PTS),14,13,1,,1628273,,1611661321,20,21,2
+06:02,[IND] Laney Layup Shot: Missed,22,17,2,,204335,,1611661325,20,21,2
+06:00,[IND] Achonwa Rebound (Off:2 Def:4),22,17,4,,203831,,1611661325,20,21,2
+05:59,[IND 23-20] Achonwa Putback Layup Shot: Made (4 PTS),-11,21,1,,203831,,1611661325,20,23,2
+05:50,[DAL] Team Turnover : 5 Second Violation,125,828,5,,0,,1611661321,20,23,2
+05:50,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,20,23,2
+05:41,[IND 25-20] Mitchell Driving Layup Shot: Made (6 PTS),-22,31,1,,1627676,,1611661325,20,25,2
+05:24,[DAL] Davis Driving Layup Shot: Missed,-11,35,2,,1628273,,1611661321,20,25,2
+05:20,[IND] Achonwa Rebound (Off:2 Def:5),-11,35,4,,203831,,1611661325,20,25,2
+05:17,[IND 28-20] Laney 3pt Shot: Made (3 PTS) Assist: Wheeler (1 AST),-220,72,1,,204335,204365,1611661325,20,28,2
+04:57,[DAL] Stevens Hook Shot: Missed,36,21,2,203831,1628922,,1611661321,20,28,2
+04:53,[IND] Dupree Rebound (Off:0 Def:2),36,21,4,,200676,,1611661325,20,28,2
+04:45,[IND 30-20] Dupree Jump Shot: Made (4 PTS) Assist: Wheeler (2 AST),-179,119,1,,200676,204365,1611661325,20,30,2
+04:33,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,20,30,2
+04:33,[DAL] Davis Substitution replaced by McCarty-Williams,0,-80,8,,1628273,1628907,1611661321,20,30,2
+04:33,[DAL] Stevens Substitution replaced by Plaisance,0,-80,8,,1628922,203849,1611661321,20,30,2
+04:19,[DAL 22-30] Plaisance Turnaround Hook Shot: Made (4 PTS) Assist: Johnson (1 AST),41,27,1,,203849,203017,1611661321,22,30,2
+04:02,[DAL] McCarty-Williams Foul: Personal (1 PF),-95,83,6,200676,1628907,,1611661321,22,30,2
+03:50,[IND] Dupree Jump Shot: Missed,91,162,2,,200676,,1611661325,22,30,2
+03:48,[IND] Laney Rebound (Off:4 Def:2),91,162,4,,204335,,1611661325,22,30,2
+03:40,[IND 32-22] Wheeler Jump Shot: Made (8 PTS) Assist: Mitchell (4 AST),-39,153,1,,204365,1627676,1611661325,22,32,2
+03:24,[DAL] Plaisance Turnover : Bad Pass (1 TO) Steal:Laney (1 ST),-36,36,5,204335,203849,,1611661321,22,32,2
+03:16,[IND] Wheeler 3pt Shot: Missed,-107,235,2,,204365,,1611661325,22,32,2
+03:11,[DAL] Johnson Rebound (Off:1 Def:4),-107,235,4,,203017,,1611661321,22,32,2
+03:06,[IND] Wheeler Foul: Shooting (1 PF) (2 FTA),6,26,6,1628277,204365,,1611661325,22,32,2
+03:06,[DAL 23-32] Gray Free Throw 1 of 2 (7 PTS),0,-80,3,,1628277,,1611661321,23,32,2
+03:06,[DAL] Johnson Substitution replaced by Harrison,0,-80,8,,203017,204330,1611661321,23,32,2
+03:06,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,23,32,2
+03:06,[DAL 24-32] Gray Free Throw 2 of 2 (8 PTS),0,-80,3,,1628277,,1611661321,24,32,2
+02:44,[IND] Laney 3pt Shot: Missed,233,55,2,,204335,,1611661325,24,32,2
+02:40,[DAL] Plaisance Rebound (Off:0 Def:1),233,55,4,,203849,,1611661321,24,32,2
+02:29,[DAL 26-32] Thornton Pullup Jump shot: Made (7 PTS),25,134,1,,203866,,1611661321,26,32,2
+02:19,[IND 34-26] Achonwa Jump Shot: Made (6 PTS) Assist: Laney (1 AST),-112,141,1,,203831,204335,1611661325,26,34,2
+02:10,[IND] Achonwa Foul: Shooting (2 PF) (2 FTA),-25,5,6,203866,203831,,1611661325,26,34,2
+02:10,[DAL 27-34] Thornton Free Throw 1 of 2 (8 PTS),0,-80,3,,203866,,1611661321,27,34,2
+02:10,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1628909,204365,1611661325,27,34,2
+02:10,[DAL 28-34] Thornton Free Throw 2 of 2 (9 PTS),0,-80,3,,203866,,1611661321,28,34,2
+02:02,[IND] Dupree Turnover : Bad Pass (2 TO),-159,24,5,,200676,,1611661325,28,34,2
+01:49,[IND] Mitchell Foul: Shooting (2 PF) (2 FTA),-13,17,6,1628277,1627676,,1611661325,28,34,2
+01:49,[DAL] Gray Free Throw 1 of 2 Missed,0,-80,3,,1628277,,1611661321,28,34,2
+01:49,[DAL] Team Rebound,0,-80,4,,0,,1611661321,28,34,2
+01:49,[DAL] Gray Free Throw 2 of 2 Missed,0,-80,3,,1628277,,1611661321,28,34,2
+01:46,[IND] Achonwa Rebound (Off:2 Def:6),0,-80,4,,203831,,1611661325,28,34,2
+01:36,[IND] Dupree Jump Shot: Missed,-100,178,2,,200676,,1611661325,28,34,2
+01:33,[IND] Achonwa Rebound (Off:3 Def:6),-100,178,4,,203831,,1611661325,28,34,2
+01:20,[IND] Dupree Turnover : Bad Pass (3 TO) Steal:McCarty-Williams (1 ST),-48,78,5,1628907,200676,,1611661325,28,34,2
+01:09,[DAL] Gray Layup Shot: Missed,0,20,2,,1628277,,1611661321,28,34,2
+01:04,[IND] Dupree Rebound (Off:0 Def:3),0,20,4,,200676,,1611661325,28,34,2
+00:57.1,[IND] Laney 3pt Shot: Missed,-203,90,2,,204335,,1611661325,28,34,2
+00:49.1,[DAL] Plaisance Rebound (Off:0 Def:2),-203,90,4,,203849,,1611661321,28,34,2
+00:42.5,[DAL] Harrison Jump Shot: Missed,-14,149,2,,204330,,1611661321,28,34,2
+00:39.0,[IND] Laney Rebound (Off:4 Def:3),-14,149,4,,204335,,1611661325,28,34,2
+00:27.2,[IND] Mitchell Driving Layup Shot: Missed,44,32,2,,1627676,,1611661325,28,34,2
+00:22.7,[DAL] Gray Rebound (Off:0 Def:3),44,32,4,,1628277,,1611661321,28,34,2
+00:08.1,[DAL] McCarty-Williams Jump Shot: Missed,146,145,2,,1628907,,1611661321,28,34,2
+00:04.9,[DAL] Thornton Rebound (Off:1 Def:2),146,145,4,,203866,,1611661321,28,34,2
+00:03.7,[DAL] Thornton Jump Shot: Missed,24,0,2,,203866,,1611661321,28,34,2
+00:02.9,[DAL] Team Rebound,24,0,4,,0,,1611661321,28,34,2
+00:01.3,[DAL 31-34] Thornton 3pt Shot: Made (12 PTS) Assist: McCarty-Williams (1 AST),-205,145,1,,203866,1628907,1611661321,31,34,2
+00:00.0,End Period,0,-80,13,,0,,0,31,34,2
+10:00,Start Period,0,-80,12,,0,,0,31,34,3
+09:50,[IND] Wheeler Turnover : Lost Ball (1 TO) Steal:Plaisance (1 ST),152,201,5,203849,204365,,1611661325,31,34,3
+09:47,[DAL 33-34] Davis Layup Shot: Made (4 PTS) Assist: Plaisance (1 AST),-4,26,1,,1628273,203849,1611661321,33,34,3
+09:47,[IND] Wheeler Foul: Shooting (2 PF) (1 FTA),-22,19,6,1628273,204365,,1611661325,33,34,3
+09:47,[DAL 34-34] Davis Free Throw 1 of 1 (5 PTS),0,-80,3,,1628273,,1611661321,34,34,3
+09:28,[IND 36-34] Mitchell Pullup Jump shot: Made (7 PTS) Assist: Wheeler (3 AST),75,138,1,,1628909,204365,1611661325,34,36,3
+09:01,[DAL] Team Turnover : Shot Clock Turnover,-102,48,5,,0,,1611661321,34,36,3
+08:42,[IND] Achonwa Turnaround Jump Shot: Missed,31,42,2,,203831,,1611661325,34,36,3
+08:39,[DAL] Harrison Rebound (Off:0 Def:1),31,42,4,,204330,,1611661321,34,36,3
+08:23,[DAL] Harrison Hook Shot: Missed,-3,75,2,,204330,,1611661321,34,36,3
+08:19,[IND] Wheeler Rebound (Off:0 Def:1),-3,75,4,,204365,,1611661325,34,36,3
+08:03,[IND 38-34] Dupree Jump Shot: Made (6 PTS),39,17,1,,200676,,1611661325,34,38,3
+07:45,[DAL] Harrison Turnover : Lost Ball (3 TO) Steal:Mitchell (1 ST),-76,49,5,1628909,204330,,1611661321,34,38,3
+07:45,[DAL] Harrison Foul: Personal (1 PF),53,800,6,1628909,204330,,1611661321,34,38,3
+07:28,[DAL] Harrison Foul: Shooting (2 PF) (2 FTA),48,40,6,204365,204330,,1611661321,34,38,3
+07:28,[IND 39-34] Wheeler Free Throw 1 of 2 (9 PTS),0,-80,3,,204365,,1611661325,34,39,3
+07:28,[DAL] Harrison Substitution replaced by Johnson,0,-80,8,,204330,203017,1611661321,34,39,3
+07:28,[IND 40-34] Wheeler Free Throw 2 of 2 (10 PTS),0,-80,3,,204365,,1611661325,34,40,3
+07:08,[DAL 36-40] Plaisance Turnaround Jump Shot: Made (6 PTS),-20,51,1,,203849,,1611661321,36,40,3
+06:48,[DAL] Gray Foul: Personal (1 PF),-25,73,6,203831,1628277,,1611661321,36,40,3
+06:36,[IND 43-36] Mitchell 3pt Shot: Made (10 PTS),76,240,1,,1628909,,1611661325,36,43,3
+06:23,[DAL] Thornton 3pt Shot: Missed,-178,184,2,,203866,,1611661321,36,43,3
+06:19,[DAL] Plaisance Rebound (Off:1 Def:2),-178,184,4,,203849,,1611661321,36,43,3
+06:13,[IND] Achonwa Foul: Shooting (3 PF) (2 FTA),20,26,6,1628273,203831,,1611661325,36,43,3
+06:13,[DAL 37-43] Davis Free Throw 1 of 2 (6 PTS),0,-80,3,,1628273,,1611661321,37,43,3
+06:13,[DAL 38-43] Davis Free Throw 2 of 2 (7 PTS),0,-80,3,,1628273,,1611661321,38,43,3
+06:05,[IND] Mitchell 3pt Shot: Missed,-164,182,2,,1628909,,1611661325,38,43,3
+06:01,[DAL] Davis Rebound (Off:0 Def:2),-164,182,4,,1628273,,1611661321,38,43,3
+05:55,[DAL 40-43] Thornton Jump Shot: Made (14 PTS),-197,90,1,,203866,,1611661321,40,43,3
+05:31,[IND] Wheeler 3pt Shot: Missed,146,220,2,,204365,,1611661325,40,43,3
+05:26,[DAL] Gray Rebound (Off:0 Def:4),146,220,4,,1628277,,1611661321,40,43,3
+05:17,[DAL] Gray Fadeaway Jump Shot: Missed,22,26,2,,1628277,,1611661321,40,43,3
+05:17,[IND] Achonwa Rebound (Off:3 Def:7),22,26,4,,203831,,1611661325,40,43,3
+05:17,[DAL] Plaisance Foul: Personal (1 PF),30,765,6,203831,203849,,1611661321,40,43,3
+05:17,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1627676,1611661325,40,43,3
+05:17,[DAL] Davis Substitution replaced by McCarty-Williams,0,-80,8,,1628273,1628907,1611661321,40,43,3
+05:02,[DAL] Gray Foul: Personal (2 PF) (2 FTA),-86,32,6,200676,1628277,,1611661321,40,43,3
+05:02,[IND 44-40] Dupree Free Throw 1 of 2 (7 PTS),0,-80,3,,200676,,1611661325,40,44,3
+05:02,[IND 45-40] Dupree Free Throw 2 of 2 (8 PTS),0,-80,3,,200676,,1611661325,40,45,3
+04:47,[IND] Laney Foul: Shooting (1 PF) (2 FTA),-42,131,6,203866,204335,,1611661325,40,45,3
+04:47,Timeout Officials,0,-80,9,,0,,0,40,45,3
+04:47,[DAL] Plaisance Substitution replaced by Harrison,0,-80,8,,203849,204330,1611661321,40,45,3
+04:47,[DAL 41-45] Thornton Free Throw 1 of 2 (15 PTS),0,-80,3,,203866,,1611661321,41,45,3
+04:47,[DAL 42-45] Thornton Free Throw 2 of 2 (16 PTS),0,-80,3,,203866,,1611661321,42,45,3
+04:32,[IND] Dupree Running Pull-Up Jump Shot: Missed,43,140,2,,200676,,1611661325,42,45,3
+04:28,[IND] Laney Rebound (Off:5 Def:3),43,140,4,,204335,,1611661325,42,45,3
+04:16,[IND] Mitchell Turnaround Jump Shot: Missed,25,83,2,,1627676,,1611661325,42,45,3
+04:13,[DAL] Johnson Rebound (Off:1 Def:5),25,83,4,,203017,,1611661321,42,45,3
+04:05,[DAL] Johnson 3pt Shot: Missed,114,214,2,,203017,,1611661321,42,45,3
+04:01,[IND] Laney Rebound (Off:5 Def:4),114,214,4,,204335,,1611661325,42,45,3
+03:48,[IND 47-42] Achonwa Jump Shot: Made (8 PTS) Assist: Mitchell (5 AST),-49,182,1,,203831,1627676,1611661325,42,47,3
+03:28,[DAL] Harrison Jump Shot: Missed,-185,37,2,,204330,,1611661321,42,47,3
+03:25,[DAL] Gray Rebound (Off:1 Def:4),-185,37,4,,1628277,,1611661321,42,47,3
+03:17,[DAL] Gray 3pt Shot: Missed,194,139,2,,1628277,,1611661321,42,47,3
+03:16,[IND] Team Rebound,194,139,4,,0,,1611661325,42,47,3
+03:16,[DAL] Gray Substitution replaced by Davis,0,-80,8,,1628277,1628273,1611661321,42,47,3
+03:16,[DAL] Johnson Substitution replaced by Plaisance,0,-80,8,,203017,203849,1611661321,42,47,3
+03:16,[IND] Achonwa Substitution replaced by McCowan,0,-80,8,,203831,1629479,1611661325,42,47,3
+03:06,[IND] Mitchell Jump Shot: Missed,-182,15,2,,1628909,,1611661325,42,47,3
+03:03,[IND] Dupree Rebound (Off:1 Def:3),-182,15,4,,200676,,1611661325,42,47,3
+02:55,[IND] Dupree Foul: Offensive Charge (1 PF),64,127,6,1628907,200676,,1611661325,42,47,3
+02:55,[IND] Dupree Turnover : Offensive Foul Turnover (4 TO),64,127,5,,200676,,1611661325,42,47,3
+02:55,[DAL] Harrison Substitution replaced by Stevens,0,-80,8,,204330,1628922,1611661321,42,47,3
+02:43,[DAL] Thornton Turnover : Bad Pass (1 TO) Steal:Laney (2 ST),48,110,5,204335,203866,,1611661321,42,47,3
+02:33,[IND] Laney 3pt Shot: Missed,-177,155,2,,204335,,1611661325,42,47,3
+02:28,[DAL] McCarty-Williams Rebound (Off:0 Def:1),-177,155,4,,1628907,,1611661321,42,47,3
+02:25,[DAL] Thornton Running Layup Shot: Missed,-25,32,2,,203866,,1611661321,42,47,3
+02:25,[IND] Team Rebound,-25,32,4,,0,,1611661325,42,47,3
+02:13,[IND 50-42] Mitchell 3pt Shot: Made (13 PTS),132,204,1,,1628909,,1611661325,42,50,3
+02:09,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,42,50,3
+02:09,[DAL] Stevens Substitution replaced by McGee-Stafford,0,-80,8,,1628922,1627677,1611661321,42,50,3
+02:00,[DAL] McGee-Stafford Turnover : Bad Pass (1 TO) Steal:Laney (3 ST),-108,151,5,204335,1627677,,1611661321,42,50,3
+01:53,[DAL] Plaisance Foul: Shooting (2 PF) (2 FTA),20,69,6,1627676,203849,,1611661321,42,50,3
+01:53,[IND 51-42] Mitchell Free Throw 1 of 2 (7 PTS),0,-80,3,,1627676,,1611661325,42,51,3
+01:53,[IND 52-42] Mitchell Free Throw 2 of 2 (8 PTS),0,-80,3,,1627676,,1611661325,42,52,3
+01:36,[DAL 45-52] McCarty-Williams 3pt Shot: Made (3 PTS) Assist: McGee-Stafford (1 AST),227,91,1,,1628907,1627677,1611661321,45,52,3
+01:23,[IND 55-45] Laney 3pt Shot: Made (6 PTS) Assist: Mitchell (2 AST),220,80,1,,204335,1628909,1611661325,45,55,3
+01:09,[DAL] Davis Running Layup Shot: Missed,-90,32,2,,1628273,,1611661321,45,55,3
+01:03,[DAL] Thornton Rebound (Off:2 Def:2),-90,32,4,,203866,,1611661321,45,55,3
+00:55.3,[DAL] McCarty-Williams Floating Jump shot: Missed,4,69,2,,1628907,,1611661321,45,55,3
+00:53.4,[DAL] McCarty-Williams Rebound (Off:1 Def:1),4,69,4,,1628907,,1611661321,45,55,3
+00:44.5,[DAL 47-55] Davis Layup Shot: Made (9 PTS) Assist: McCarty-Williams (2 AST),-11,48,1,,1628273,1628907,1611661321,47,55,3
+00:44.5,[DAL] McGee-Stafford Technical (1 FTA),0,-80,6,,1627677,,1611661321,47,55,3
+00:44.5,[IND 56-47] Mitchell Free Throw Technical (9 PTS),0,-80,3,,1627676,,1611661325,47,56,3
+00:29.5,[IND 58-47] Dupree Jump Shot: Made (10 PTS),7,143,1,,200676,,1611661325,47,58,3
+00:11.9,[DAL] Plaisance 3pt Shot: Missed,-191,151,2,,203849,,1611661321,47,58,3
+00:09.4,[IND] Team Rebound,-191,151,4,,0,,1611661325,47,58,3
+00:01.5,[IND] Mitchell Turnover : Bad Pass (2 TO),156,191,5,,1628909,,1611661325,47,58,3
+00:00.0,[DAL] Thornton 3pt Shot: Missed,-210,483,2,204335,203866,,1611661321,47,58,3
+00:00.0,[DAL] Team Rebound,-210,483,4,,0,,1611661321,47,58,3
+00:00.0,End Period,0,-80,13,,0,,0,47,58,3
+10:00,Start Period,0,-80,12,,0,,0,47,58,4
+09:52,[DAL] McGee-Stafford Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-208,189,5,,1627677,,1611661321,47,58,4
+09:45,[DAL] McCarty-Williams Foul: Personal (2 PF),195,198,6,1627676,1628907,,1611661321,47,58,4
+09:34,[IND] Mitchell Running Layup Shot: Missed,30,16,2,,1628909,,1611661325,47,58,4
+09:29,[DAL] McGee-Stafford Rebound (Off:0 Def:1),30,16,4,,1627677,,1611661321,47,58,4
+09:27,[DAL] McGee-Stafford Turnover : Bad Pass (3 TO) Steal:Mitchell (2 ST),-113,751,5,1628909,1627677,,1611661321,47,58,4
+09:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,58,4
+09:06,[IND] Team Turnover : Shot Clock Turnover,106,245,5,,0,,1611661325,47,58,4
+08:50,[DAL 49-58] McGee-Stafford Floating Jump shot: Made (4 PTS),-26,78,1,,1627677,,1611661321,49,58,4
+08:22,[IND 60-49] Dupree Jump Shot: Made (12 PTS) Assist: Laney (2 AST),-183,26,1,,200676,204335,1611661325,49,60,4
+08:03,[IND] Dupree Violation:Kicked Ball,0,-80,7,,200676,,1611661325,49,60,4
+07:48,[DAL] Gray Floating Jump shot: Missed,-39,66,2,,1628277,,1611661321,49,60,4
+07:46,[DAL] Gray Rebound (Off:2 Def:4),-39,66,4,,1628277,,1611661321,49,60,4
+07:42,[IND] Mitchell Foul: Personal (3 PF),-1,155,6,1628907,1627676,,1611661325,49,60,4
+07:27,[DAL 52-60] Thornton 3pt Shot: Made (19 PTS) Assist: Gray (2 AST),-157,196,1,,203866,1628277,1611661321,52,60,4
+07:10,[IND] Mitchell Jump Shot: Missed,-8,207,2,,1628909,,1611661325,52,60,4
+07:05,[DAL] Gray Rebound (Off:2 Def:5),-8,207,4,,1628277,,1611661321,52,60,4
+06:55,[DAL] Thornton 3pt Shot: Missed,138,233,2,,203866,,1611661321,52,60,4
+06:51,[DAL] Gray Rebound (Off:3 Def:5),138,233,4,,1628277,,1611661321,52,60,4
+06:50,[DAL] McCarty-Williams 3pt Shot: Missed,-150,189,2,,1628907,,1611661321,52,60,4
+06:45,[IND] Mitchell Rebound (Off:1 Def:3),-150,189,4,,1627676,,1611661325,52,60,4
+06:41,[IND] Mitchell Turnover : Bad Pass (2 TO) Steal:McCarty-Williams (2 ST),-82,36,5,1628907,1627676,,1611661325,52,60,4
+06:36,[DAL 54-60] Gray Layup Shot: Made (10 PTS) Assist: Thornton (1 AST),9,26,1,,1628277,203866,1611661321,54,60,4
+06:36,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,54,60,4
+06:17,[IND 62-54] Dupree Turnaround Jump Shot: Made (14 PTS),-36,65,1,,200676,,1611661325,54,62,4
+05:55,[DAL 56-62] McGee-Stafford Cutting Layup Shot: Made (6 PTS) Assist: Plaisance (2 AST),9,17,1,,1627677,203849,1611661321,56,62,4
+05:45,[IND] Mitchell 3pt Shot: Missed,171,181,2,,1628909,,1611661325,56,62,4
+05:42,[IND] McCowan Rebound (Off:4 Def:2),171,181,4,,1629479,,1611661325,56,62,4
+05:42,[IND] McCowan Turnover : Out of Bounds Lost Ball Turnover (1 TO),-25,19,5,,1629479,,1611661325,56,62,4
+05:21,[DAL 58-62] McCarty-Williams Driving Layup Shot: Made (5 PTS) Assist: Plaisance (3 AST),-32,43,1,,1628907,203849,1611661321,58,62,4
+05:13,[IND] Mitchell Foul: Offensive Charge (4 PF),-76,15,6,1628907,1627676,,1611661325,58,62,4
+05:13,[IND] Mitchell Turnover : Offensive Foul Turnover (3 TO),-76,15,5,,1627676,,1611661325,58,62,4
+05:13,[IND] McCowan Substitution replaced by Achonwa,0,-80,8,,1629479,203831,1611661325,58,62,4
+04:57,[DAL] Thornton Floating Jump shot: Missed,16,78,2,,203866,,1611661321,58,62,4
+04:54,[IND] Team Rebound,16,78,4,,0,,1611661325,58,62,4
+04:54,Jump Ball Mitchell vs Gray (Laney gains possession),0,-80,10,1628277,1627676,204335,1611661325,58,62,4
+04:37,[IND 64-58] Dupree Turnaround Fadeaway shot: Made (16 PTS),-115,4,1,,200676,,1611661325,58,64,4
+04:23,[DAL 60-64] McGee-Stafford Hook Shot: Made (8 PTS) Assist: Gray (3 AST),-39,64,1,,1627677,1628277,1611661321,60,64,4
+04:04,[IND] Dupree Jump Shot: Missed,175,43,2,,200676,,1611661325,60,64,4
+04:01,[IND] Laney Rebound (Off:6 Def:4),175,43,4,,204335,,1611661325,60,64,4
+03:57,[IND] Mitchell Foul: Flagrant Type 1 (5 PF) (2 FTA),85,3,6,1628907,1627676,,1611661325,60,64,4
+03:57,[IND] Mitchell Turnover : No Turnover (4 TO),85,3,5,,1627676,,1611661325,60,64,4
+03:57,[DAL] Team Timeout : Regular,0,-80,9,,1611661321,,1611661321,60,64,4
+03:57,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,60,64,4
+03:57,[DAL 61-64] McCarty-Williams Free Throw Flagrant 1 of 2 (6 PTS),0,-80,3,,1628907,,1611661321,61,64,4
+03:57,[DAL 62-64] McCarty-Williams Free Throw Flagrant 2 of 2 (7 PTS),0,-80,3,,1628907,,1611661321,62,64,4
+03:39,[DAL] McGee-Stafford Turnaround Jump Shot: Missed,55,67,2,,1627677,,1611661321,62,64,4
+03:37,[IND] Laney Rebound (Off:6 Def:5),55,67,4,,204335,,1611661325,62,64,4
+03:18,[IND 66-62] Dupree Jump Shot: Made (18 PTS) Assist: Laney (3 AST),4,175,1,,200676,204335,1611661325,62,66,4
+02:52,[DAL] Plaisance 3pt Shot: Missed,110,227,2,,203849,,1611661321,62,66,4
+02:52,Instant Replay - Altercation Ruling,0,-80,18,,0,,0,62,66,4
+02:50,[DAL] Team Rebound,110,227,4,,0,,1611661321,62,66,4
+02:42,[DAL] Plaisance Turnover : Out of Bounds - Bad Pass Turnover (2 TO),209,178,5,,203849,,1611661321,62,66,4
+02:20,[IND 68-62] Dupree Jump Shot: Made (20 PTS) Assist: Achonwa (1 AST),182,65,1,,200676,203831,1611661325,62,68,4
+02:05,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),-2,114,6,203849,1628909,,1611661325,62,68,4
+02:05,[DAL 63-68] Plaisance Free Throw 1 of 2 (7 PTS),0,-80,3,,203849,,1611661321,63,68,4
+02:05,[DAL 64-68] Plaisance Free Throw 2 of 2 (8 PTS),0,-80,3,,203849,,1611661321,64,68,4
+01:54,[IND] Mitchell 3pt Shot: Missed,-210,92,2,,1628909,,1611661325,64,68,4
+01:50,[DAL] Plaisance Rebound (Off:1 Def:3),-210,92,4,,203849,,1611661321,64,68,4
+01:39,[DAL] McGee-Stafford Turnover : Bad Pass (4 TO) Steal:Achonwa (1 ST),-58,188,5,203831,1627677,,1611661321,64,68,4
+01:39,[DAL] Plaisance Foul: Clear Path (3 PF) (2 FTA),79,606,6,203831,203849,,1611661321,64,68,4
+01:39,Instant Replay - Support Ruling,0,-80,18,,0,,0,64,68,4
+01:39,[IND 69-64] Achonwa Free Throw Clear Path 1 of 2 (9 PTS),0,-80,3,,203831,,1611661325,64,69,4
+01:39,[IND 70-64] Achonwa Free Throw Clear Path 2 of 2 (10 PTS),0,-80,3,,203831,,1611661325,64,70,4
+01:22,[IND] Mitchell 3pt Shot: Missed,-144,197,2,,1628909,,1611661325,64,70,4
+01:18,[IND] Dupree Rebound (Off:2 Def:3),-144,197,4,,200676,,1611661325,64,70,4
+01:08,[IND 73-64] Mitchell 3pt Shot: Made (16 PTS) Assist: Achonwa (2 AST),-66,223,1,,1628909,203831,1611661325,64,73,4
+01:00,[DAL 67-73] Plaisance 3pt Shot: Made (11 PTS) Assist: McCarty-Williams (3 AST),-47,243,1,,203849,1628907,1611661321,67,73,4
+01:00,[IND] Mitchell Foul: Shooting (2 PF) (1 FTA),-100,237,6,203849,1628909,,1611661325,67,73,4
+01:00,[DAL 68-73] Plaisance Free Throw 1 of 1 (12 PTS),0,-80,3,,203849,,1611661321,68,73,4
+00:51.0,[IND] Dupree Turnover : Bad Pass (5 TO),-178,167,5,,200676,,1611661325,68,73,4
+00:35.7,[DAL 70-73] McGee-Stafford Turnaround Hook Shot: Made (10 PTS) Assist: Plaisance (4 AST),42,66,1,,1627677,203849,1611661321,70,73,4
+00:35.7,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,70,73,4
+00:30.0,[DAL] McCarty-Williams Foul: Personal (3 PF) (2 FTA),178,332,6,1628909,1628907,,1611661321,70,73,4
+00:30.0,[IND 74-70] Mitchell Free Throw 1 of 2 (17 PTS),0,-80,3,,1628909,,1611661325,70,74,4
+00:30.0,[IND 75-70] Mitchell Free Throw 2 of 2 (18 PTS),0,-80,3,,1628909,,1611661325,70,75,4
+00:21.3,[DAL] Plaisance Jump Shot: Missed,41,88,2,,203849,,1611661321,70,75,4
+00:18.8,[DAL] Thornton Rebound (Off:3 Def:2),41,88,4,,203866,,1611661321,70,75,4
+00:11.6,[DAL] McCarty-Williams Driving Layup Shot: Missed,17,29,2,,1628907,,1611661321,70,75,4
+00:08.9,[DAL] Thornton Rebound (Off:4 Def:2),17,29,4,,203866,,1611661321,70,75,4
+00:06.6,[DAL] Gray Layup Shot: Missed,36,22,2,203831,1628277,,1611661321,70,75,4
+00:06.6,[DAL] Thornton Rebound (Off:5 Def:2),36,22,4,,203866,,1611661321,70,75,4
+00:05.6,[DAL] Thornton Layup Shot: Missed,-35,12,2,,203866,,1611661321,70,75,4
+00:05.4,[DAL] McGee-Stafford Rebound (Off:1 Def:1),31,823,4,,1627677,,1611661321,70,75,4
+00:04.0,[DAL 72-75] McGee-Stafford Putback Layup Shot: Made (12 PTS),22,26,1,,1627677,,1611661321,72,75,4
+00:04.0,[DAL] Gray Foul: Personal Take (3 PF) (2 FTA),17,806,6,203831,1628277,,1611661321,72,75,4
+00:04.0,[IND 76-72] Achonwa Free Throw 1 of 2 (11 PTS),0,-80,3,,203831,,1611661325,72,76,4
+00:04.0,[IND] Achonwa Free Throw 2 of 2 Missed,0,-80,3,,203831,,1611661325,72,76,4
+00:03.4,[DAL] McGee-Stafford Rebound (Off:1 Def:2),0,-80,4,,1627677,,1611661321,72,76,4
+00:03.4,[DAL] Team Timeout : Short,0,-80,9,,1611661321,,1611661321,72,76,4
+00:01.0,[DAL] Thornton 3pt Shot: Missed,150,194,2,,203866,,1611661321,72,76,4
+00:01.0,[IND] Team Rebound,150,194,4,,0,,1611661325,72,76,4
+00:00.0,End Period,0,-80,13,,0,,0,72,76,4
+00:00.0,Game End,0,-80,0,,0,,0,72,76,4

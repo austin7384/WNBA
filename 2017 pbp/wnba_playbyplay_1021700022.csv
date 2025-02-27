@@ -1,0 +1,385 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Jones vs Fowles (Thomas gains possession),0,-80,10,201480,1627673,202662,1611661323,0,0,1
+09:42,[MIN] Whalen Foul: Shooting (1 PF) (2 FTA),24,7,6,1627673,100915,,1611661324,0,0,1
+09:42,[CON 1-0] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1627673,,1611661323,1,0,1
+09:42,[CON 2-0] Jones Free Throw 2 of 2 (2 PTS),0,-80,3,,1627673,,1611661323,2,0,1
+09:23,[MIN 2-2] Brunson Jump Shot: Made (2 PTS),73,36,1,,100944,,1611661324,2,2,1
+09:03,[CON] Thomas Jump Shot: Missed,33,13,2,,203826,,1611661323,2,2,1
+09:02,[MIN] Moore Rebound (Off:0 Def:1),0,-80,4,,202632,,1611661324,2,2,1
+08:51,[MIN] Fowles Foul: Offensive (1 PF),-109,124,6,203826,201480,,1611661324,2,2,1
+08:51,[MIN] Fowles Turnover : Foul (1 TO),0,-80,5,,201480,,1611661324,2,2,1
+08:38,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Fowles (1 ST),0,-80,5,201480,202662,,1611661323,2,2,1
+08:23,[MIN] Brunson Jump Shot: Missed,30,3,2,,100944,,1611661324,2,2,1
+08:22,[MIN] Brunson Rebound (Off:1 Def:0),0,-80,4,,100944,,1611661324,2,2,1
+08:16,[MIN] Augustus 3pt Shot: Missed,209,146,2,,200671,,1611661324,2,2,1
+08:12,[MIN] Moore Rebound (Off:1 Def:1),0,-80,4,,202632,,1611661324,2,2,1
+08:10,[MIN] Brunson Layup Shot: Missed,19,0,2,,100944,,1611661324,2,2,1
+08:09,[CON] Jones Rebound (Off:0 Def:1),0,-80,4,,1627673,,1611661323,2,2,1
+08:02,[CON 4-2] Tuck Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),15,-5,1,,1627670,202662,1611661323,4,2,1
+07:49,[CON] Jones Foul: Personal (1 PF),-24,2,6,201480,1627673,,1611661323,4,2,1
+07:41,[MIN 4-4] Augustus Jump Shot: Made (2 PTS) Assist: Whalen (1 AST),69,124,1,,200671,100915,1611661324,4,4,1
+07:25,[CON] Bentley Jump Shot: Missed,-186,56,2,,203410,,1611661323,4,4,1
+07:24,[MIN] Whalen Rebound (Off:0 Def:1),0,-80,4,,100915,,1611661324,4,4,1
+07:14,[MIN] Moore 3pt Shot: Missed,-155,183,2,,202632,,1611661324,4,4,1
+07:13,[CON] Team Rebound,0,-80,4,,0,,1611661323,4,4,1
+06:55,[CON] Thomas Jump Shot: Missed,-74,70,2,,202662,,1611661323,4,4,1
+06:54,[MIN] Moore Rebound (Off:1 Def:2),0,-80,4,,202632,,1611661324,4,4,1
+06:50,[MIN] Moore Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),0,-80,5,1627673,202632,,1611661324,4,4,1
+06:43,[CON] Thomas Jump Shot: Missed,-71,47,2,,203826,,1611661323,4,4,1
+06:42,[MIN] Fowles Rebound (Off:0 Def:1),0,-80,4,,201480,,1611661324,4,4,1
+06:21,[MIN] Moore Jump Shot: Missed,38,11,2,,202632,,1611661324,4,4,1
+06:20,[CON] Jones Rebound (Off:0 Def:2),0,-80,4,,1627673,,1611661323,4,4,1
+06:13,[CON] Thomas Layup Shot: Missed,-16,0,2,,202662,,1611661323,4,4,1
+06:12,[CON] Thomas Rebound (Off:1 Def:0),0,-80,4,,203826,,1611661323,4,4,1
+06:07,[CON] Thomas Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,203826,,1611661323,4,4,1
+05:52,[MIN] Augustus Jump Shot: Missed,35,28,2,,200671,,1611661324,4,4,1
+05:50,[MIN] Team Rebound,0,-80,4,,0,,1611661324,4,4,1
+05:50,[MIN] Whalen Substitution replaced by Perkins,0,-80,8,,100915,100952,1611661324,4,4,1
+05:50,[MIN] Moore Substitution replaced by Montgomery,0,-80,8,,202632,201904,1611661324,4,4,1
+05:49,Jump Ball Jones vs Fowles (Augustus gains possession),0,-80,10,201480,1627673,200671,1611661323,4,4,1
+05:38,[MIN] Augustus 3pt Shot: Missed,225,97,2,,200671,,1611661324,4,4,1
+05:38,[CON] Bentley Rebound (Off:0 Def:1),0,-80,4,,203410,,1611661323,4,4,1
+05:30,[CON] Bentley Layup Shot: Missed,24,11,2,,203410,,1611661323,4,4,1
+05:29,[MIN] Perkins Rebound (Off:0 Def:1),0,-80,4,,100952,,1611661324,4,4,1
+05:19,[CON] Jones Foul: Shooting (2 PF) (2 FTA),-14,0,6,201480,1627673,,1611661323,4,4,1
+05:19,[MIN 5-4] Fowles Free Throw 1 of 2 (1 PTS),0,-80,3,,201480,,1611661324,4,5,1
+05:19,[CON] Jones Substitution replaced by Kizer,0,-80,8,,1627673,203041,1611661323,4,5,1
+05:19,[MIN 6-4] Fowles Free Throw 2 of 2 (2 PTS),0,-80,3,,201480,,1611661324,4,6,1
+05:06,[CON] Bentley Layup Shot: Missed,-7,3,2,,203410,,1611661323,4,6,1
+05:05,[CON] Kizer Rebound (Off:1 Def:0),0,-80,4,,203041,,1611661323,4,6,1
+05:04,[CON 6-6] Kizer Putback Layup Shot: Made (2 PTS),14,0,1,,203041,,1611661323,6,6,1
+04:58,[CON] Kizer Foul: Personal (1 PF),96,46,6,201480,203041,,1611661323,6,6,1
+04:58,Timeout : Official,0,-80,9,,0,,0,6,6,1
+04:41,[MIN 8-6] Fowles Turnaround Hook Shot: Made (4 PTS),0,1,1,,201480,,1611661324,6,8,1
+04:26,[CON] Tuck Jump Shot: Missed,-22,75,2,,1627670,,1611661323,6,8,1
+04:26,[MIN] Augustus Rebound (Off:0 Def:1),0,-80,4,,200671,,1611661324,6,8,1
+04:22,[MIN 10-6] Fowles Layup Shot: Made (6 PTS) Assist: Montgomery (1 AST),1,-16,1,,201480,201904,1611661324,6,10,1
+04:07,[CON] Kizer Jump Shot: Missed,148,56,2,,203041,,1611661323,6,10,1
+04:06,[MIN] Brunson Rebound (Off:1 Def:1),0,-80,4,,100944,,1611661324,6,10,1
+03:57,[MIN] Fowles Turnover : Out of Bounds Lost Ball Turnover (2 TO),0,-80,5,,201480,,1611661324,6,10,1
+03:57,[MIN] Brunson Substitution replaced by Pierson,0,-80,8,,100944,100888,1611661324,6,10,1
+03:40,[CON] Thomas Turnover : Lost Ball (2 TO) Steal:Fowles (2 ST),0,-80,5,201480,203826,,1611661323,6,10,1
+03:28,[MIN] Perkins 3pt Shot: Missed,236,26,2,,100952,,1611661324,6,10,1
+03:27,[MIN] Fowles Rebound (Off:1 Def:1),0,-80,4,,201480,,1611661324,6,10,1
+03:26,[CON] Tuck Foul: Shooting (1 PF) (2 FTA),-7,16,6,201480,1627670,,1611661323,6,10,1
+03:26,[MIN 11-6] Fowles Free Throw 1 of 2 (7 PTS),0,-80,3,,201480,,1611661324,6,11,1
+03:26,[MIN] Augustus Substitution replaced by Moore,0,-80,8,,200671,202632,1611661324,6,11,1
+03:26,[CON] Bentley Substitution replaced by Stricklen,0,-80,8,,203410,203015,1611661323,6,11,1
+03:26,[CON] Thomas Substitution replaced by Williams,0,-80,8,,203826,1627675,1611661323,6,11,1
+03:26,[MIN 12-6] Fowles Free Throw 2 of 2 (8 PTS),0,-80,3,,201480,,1611661324,6,12,1
+03:06,[CON 8-12] Tuck Jump Bank Shot: Made (4 PTS),24,23,1,,1627670,,1611661323,8,12,1
+02:51,[MIN] Fowles Hook Shot: Missed,-2,28,2,,201480,,1611661324,8,12,1
+02:50,[MIN] Team Rebound,0,-80,4,,0,,1611661324,8,12,1
+02:50,[MIN] Fowles Substitution replaced by Howard,0,-80,8,,201480,203827,1611661324,8,12,1
+02:38,[MIN] Pierson Jump Shot: Missed,50,165,2,,100888,,1611661324,8,12,1
+02:36,[CON] Stricklen Rebound (Off:0 Def:1),0,-80,4,,203015,,1611661323,8,12,1
+02:31,[CON] Thomas Jump Shot: Missed,-156,2,2,,202662,,1611661323,8,12,1
+02:31,[CON] Team Rebound,0,-80,4,,0,,1611661323,8,12,1
+02:29,[CON] Williams Jump Shot: Missed,120,75,2,,1627675,,1611661323,8,12,1
+02:28,[MIN] Moore Rebound (Off:1 Def:3),0,-80,4,,202632,,1611661324,8,12,1
+02:20,[MIN] Moore Turnover : Lost Ball (2 TO) Steal:Stricklen (1 ST),0,-80,5,203015,202632,,1611661324,8,12,1
+02:13,[CON] Williams Jump Shot: Missed,171,41,2,,1627675,,1611661323,8,12,1
+02:12,[MIN] Moore Rebound (Off:1 Def:4),0,-80,4,,202632,,1611661324,8,12,1
+02:04,[MIN] Moore Turnover : Poss Lost Ball Turnover (3 TO),0,-80,5,,202632,,1611661324,8,12,1
+02:04,[MIN] Moore Violation:Kicked Ball,0,-80,7,,202632,,1611661324,8,12,1
+01:52,[CON] Stricklen 3pt Shot: Missed,-51,233,2,,203015,,1611661323,8,12,1
+01:52,[MIN] Pierson Rebound (Off:0 Def:1),0,-80,4,,100888,,1611661324,8,12,1
+01:37,[MIN] Perkins Jump Shot: Missed,40,41,2,,100952,,1611661324,8,12,1
+01:36,[MIN] Perkins Rebound (Off:1 Def:1),0,-80,4,,100952,,1611661324,8,12,1
+01:35,[MIN] Montgomery Turnover : Traveling (1 TO),0,-80,5,,201904,,1611661324,8,12,1
+01:35,[MIN] Moore Substitution replaced by Whalen,0,-80,8,,202632,100915,1611661324,8,12,1
+01:35,[CON] Thomas Substitution replaced by Bentley,0,-80,8,,202662,203410,1611661323,8,12,1
+01:22,[CON] Tuck 3pt Shot: Missed,-192,178,2,,1627670,,1611661323,8,12,1
+01:21,[MIN] Pierson Rebound (Off:0 Def:2),0,-80,4,,100888,,1611661324,8,12,1
+01:08,[MIN 15-8] Montgomery 3pt Shot: Made (3 PTS) Assist: Pierson (1 AST),132,213,1,,201904,100888,1611661324,8,15,1
+01:06,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,8,15,1
+00:52.1,[CON 10-15] Kizer Jump Shot: Made (4 PTS),28,11,1,,203041,,1611661323,10,15,1
+00:34.3,[MIN 17-10] Howard Layup Shot: Made (2 PTS) Assist: Montgomery (2 AST),0,7,1,,203827,201904,1611661324,10,17,1
+00:19.9,[CON] Kizer Jump Shot: Missed,55,183,2,,203041,,1611661323,10,17,1
+00:18.9,[MIN] Pierson Rebound (Off:0 Def:3),0,-80,4,,100888,,1611661324,10,17,1
+00:00.5,[MIN] Whalen Turnover : Bad Pass (1 TO) Steal:Tuck (1 ST),0,-80,5,1627670,100915,,1611661324,10,17,1
+00:00.0,End Period,0,-80,13,,0,,0,10,17,1
+10:00,Start Period,0,-80,12,,0,,0,10,17,2
+09:42,[CON] Kizer Foul: Shooting (2 PF) (2 FTA),-37,19,6,201480,203041,,1611661323,10,17,2
+09:42,[MIN] Fowles Free Throw 1 of 2 Missed,0,-80,3,,201480,,1611661324,10,17,2
+09:42,[MIN] Team Rebound,0,-80,4,,0,,1611661324,10,17,2
+09:42,[MIN 18-10] Fowles Free Throw 2 of 2 (9 PTS),0,-80,3,,201480,,1611661324,10,18,2
+09:29,[CON] Kizer Jump Shot: Missed Block: Moore (1 BLK),30,21,2,202632,203041,,1611661323,10,18,2
+09:26,[MIN] Moore Rebound (Off:1 Def:5),0,-80,4,,202632,,1611661324,10,18,2
+09:20,[MIN] Moore Jump Shot: Missed,40,7,2,,202632,,1611661324,10,18,2
+09:19,[MIN] Fowles Rebound (Off:2 Def:1),0,-80,4,,201480,,1611661324,10,18,2
+09:18,[MIN] Fowles Putback Layup Shot: Missed,20,11,2,,201480,,1611661324,10,18,2
+09:16,[MIN] Team Rebound,0,-80,4,,0,,1611661324,10,18,2
+09:14,[CON] Kizer Substitution replaced by Jones,0,-80,8,,203041,1627673,1611661323,10,18,2
+09:03,[MIN 20-10] Fowles Layup Shot: Made (11 PTS) Assist: Augustus (1 AST),-17,-11,1,,201480,200671,1611661324,10,20,2
+08:50,[CON 12-20] Jones Layup Shot: Made (4 PTS) Assist: Bentley (1 AST),25,7,1,,1627673,203410,1611661323,12,20,2
+08:34,[CON] Stricklen Foul: Personal (1 PF),146,-34,6,202632,203015,,1611661323,12,20,2
+08:34,[CON] Stricklen Substitution replaced by Thomas,0,-80,8,,203015,203826,1611661323,12,20,2
+08:26,[MIN] Moore Jump Shot: Missed,102,159,2,,202632,,1611661324,12,20,2
+08:25,[CON] Williams Rebound (Off:0 Def:1),0,-80,4,,1627675,,1611661323,12,20,2
+08:24,[MIN] Moore Foul: Personal (1 PF),78,477,6,1627675,202632,,1611661324,12,20,2
+08:24,[MIN] Howard Substitution replaced by Brunson,0,-80,8,,203827,100944,1611661324,12,20,2
+08:05,[CON 14-20] Bentley Pullup Jump shot: Made (2 PTS),-70,67,1,,203410,,1611661323,14,20,2
+07:41,[MIN 23-14] Whalen 3pt Shot: Made (3 PTS) Assist: Brunson (1 AST),-222,-11,1,,100915,100944,1611661324,14,23,2
+07:26,[CON] Bentley Jump Shot: Missed,97,154,2,,203410,,1611661323,14,23,2
+07:26,[CON] Team Rebound,0,-80,4,,0,,1611661323,14,23,2
+07:26,[MIN] Fowles Foul: Loose Ball (2 PF),20,21,6,1627670,201480,,1611661324,14,23,2
+07:26,[CON] Williams Substitution replaced by Thomas,0,-80,8,,1627675,202662,1611661323,14,23,2
+07:12,[CON 16-23] Bentley Driving Layup Shot: Made (4 PTS),-2,11,1,,203410,,1611661323,16,23,2
+07:12,[MIN] Augustus Foul: Shooting (1 PF) (1 FTA),-2,11,6,203410,200671,,1611661324,16,23,2
+07:12,[MIN] Fowles Substitution replaced by Montgomery,0,-80,8,,201480,201904,1611661324,16,23,2
+07:12,[MIN] Whalen Substitution replaced by Howard,0,-80,8,,100915,203827,1611661324,16,23,2
+07:12,[CON 17-23] Bentley Free Throw 1 of 1 (5 PTS),0,-80,3,,203410,,1611661323,17,23,2
+06:49,[MIN 26-17] Brunson 3pt Shot: Made (5 PTS) Assist: Howard (1 AST),166,188,1,,100944,203827,1611661324,17,26,2
+06:33,[CON] Bentley 3pt Shot: Missed,122,210,2,,203410,,1611661323,17,26,2
+06:32,[MIN] Brunson Rebound (Off:1 Def:2),0,-80,4,,100944,,1611661324,17,26,2
+06:10,[MIN] Moore Jump Shot: Missed,-47,159,2,,202632,,1611661324,17,26,2
+06:09,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,202662,,1611661323,17,26,2
+05:58,[CON] Tuck Jump Shot: Missed,-107,31,2,,1627670,,1611661323,17,26,2
+05:56,[MIN] Howard Rebound (Off:0 Def:1),0,-80,4,,203827,,1611661324,17,26,2
+05:49,[CON] Jones Foul: Personal (3 PF),-86,70,6,200671,1627673,,1611661323,17,26,2
+05:49,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,17,26,2
+05:49,[CON] Tuck Substitution replaced by Stricklen,0,-80,8,,1627670,203015,1611661323,17,26,2
+05:49,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,17,26,2
+05:33,[MIN 28-17] Brunson Jump Shot: Made (7 PTS) Assist: Montgomery (3 AST),-34,100,1,,100944,201904,1611661324,17,28,2
+05:24,[MIN] Howard Foul: Personal (1 PF),71,47,6,203826,203827,,1611661324,17,28,2
+05:16,[MIN] Howard Foul: Shooting (2 PF) (2 FTA),-12,31,6,203826,203827,,1611661324,17,28,2
+05:16,[CON 18-28] Thomas Free Throw 1 of 2 (1 PTS),0,-80,3,,203826,,1611661323,18,28,2
+05:16,[CON 19-28] Thomas Free Throw 2 of 2 (2 PTS),0,-80,3,,203826,,1611661323,19,28,2
+05:02,[MIN 30-19] Montgomery Jump Shot: Made (5 PTS) Assist: Howard (2 AST),107,164,1,,201904,203827,1611661324,19,30,2
+04:46,[CON] Stricklen Jump Shot: Missed,-68,21,2,,203015,,1611661323,19,30,2
+04:45,[MIN] Montgomery Rebound (Off:0 Def:1),0,-80,4,,201904,,1611661324,19,30,2
+04:34,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),-30,36,6,100944,203826,,1611661323,19,30,2
+04:34,[MIN 31-19] Brunson Free Throw 1 of 2 (8 PTS),0,-80,3,,100944,,1611661324,19,31,2
+04:34,[MIN] Howard Substitution replaced by Pierson,0,-80,8,,203827,100888,1611661324,19,31,2
+04:34,[MIN 32-19] Brunson Free Throw 2 of 2 (9 PTS),0,-80,3,,100944,,1611661324,19,32,2
+04:25,[CON] Thomas Driving Layup Shot: Missed,32,11,2,,202662,,1611661323,19,32,2
+04:24,[MIN] Brunson Rebound (Off:1 Def:3),0,-80,4,,100944,,1611661324,19,32,2
+04:14,[MIN] Pierson Foul: Offensive (1 PF),-101,-29,6,1628280,100888,,1611661324,19,32,2
+04:14,[MIN] Pierson Turnover : Foul (1 TO),0,-80,5,,100888,,1611661324,19,32,2
+04:02,[MIN] Pierson Foul: Shooting (2 PF) (2 FTA),38,8,6,1628280,100888,,1611661324,19,32,2
+04:02,[CON 20-32] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1628280,,1611661323,20,32,2
+04:02,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1628280,,1611661323,20,32,2
+03:59,[CON] Thomas Rebound (Off:2 Def:0),0,-80,4,,203826,,1611661323,20,32,2
+03:52,[CON] Thomas Layup Shot: Missed,-2,2,2,,203826,,1611661323,20,32,2
+03:51,[CON] Thomas Rebound (Off:3 Def:0),0,-80,4,,203826,,1611661323,20,32,2
+03:49,[CON] Thomas Layup Shot: Missed,1,11,2,,203826,,1611661323,20,32,2
+03:48,[CON] Thomas Rebound (Off:1 Def:1),0,-80,4,,202662,,1611661323,20,32,2
+03:47,[CON] Thomas Putback Layup Shot: Missed,25,4,2,,202662,,1611661323,20,32,2
+03:46,[MIN] Augustus Rebound (Off:0 Def:2),0,-80,4,,200671,,1611661324,20,32,2
+03:27,[MIN 34-20] Pierson Layup Shot: Made (2 PTS) Assist: Montgomery (4 AST),17,8,1,,100888,201904,1611661324,20,34,2
+03:09,[CON] Jones Foul: Offensive (1 PF),2,51,6,100888,1628280,,1611661323,20,34,2
+03:09,[CON] Jones Turnover : Foul (1 TO),0,-80,5,,1628280,,1611661323,20,34,2
+02:56,[MIN] Montgomery Jump Shot: Missed,105,139,2,,201904,,1611661324,20,34,2
+02:54,[CON] Team Rebound,0,-80,4,,0,,1611661323,20,34,2
+02:54,[MIN] Team Timeout : Regular,0,-80,9,,0,,1611661324,20,34,2
+02:33,[CON 23-34] Thomas 3pt Shot: Made (3 PTS) Assist: Bentley (2 AST),238,8,1,,202662,203410,1611661323,23,34,2
+02:14,[MIN 36-23] Augustus Jump Shot: Made (4 PTS),0,62,1,,200671,,1611661324,23,36,2
+01:50,[CON] Thomas 3pt Shot: Missed,-187,169,2,,202662,,1611661323,23,36,2
+01:49,[MIN] Brunson Rebound (Off:1 Def:4),0,-80,4,,100944,,1611661324,23,36,2
+01:41,[MIN] Pierson Jump Shot: Missed,45,3,2,,100888,,1611661324,23,36,2
+01:40,[CON] Jones Rebound (Off:0 Def:1),0,-80,4,,1628280,,1611661323,23,36,2
+01:31,[CON 25-36] Thomas Layup Shot: Made (4 PTS) Assist: Thomas (2 AST),9,0,1,,203826,202662,1611661323,25,36,2
+01:09,[MIN] Moore 3pt Shot: Missed,122,219,2,,202632,,1611661324,25,36,2
+01:08,[MIN] Moore Rebound (Off:2 Def:5),0,-80,4,,202632,,1611661324,25,36,2
+01:05,[CON] Jones Foul: Shooting (2 PF) (2 FTA),-17,16,6,202632,1628280,,1611661323,25,36,2
+01:05,[MIN 37-25] Moore Free Throw 1 of 2 (1 PTS),0,-80,3,,202632,,1611661324,25,37,2
+01:05,[MIN] Augustus Substitution replaced by Perkins,0,-80,8,,200671,100952,1611661324,25,37,2
+01:05,[MIN] Pierson Substitution replaced by Fowles,0,-80,8,,100888,201480,1611661324,25,37,2
+01:05,[CON] Stricklen Substitution replaced by Williams,0,-80,8,,203015,1627675,1611661323,25,37,2
+01:05,[CON] Jones Substitution replaced by Kizer,0,-80,8,,1628280,203041,1611661323,25,37,2
+01:05,[MIN 38-25] Moore Free Throw 2 of 2 (2 PTS),0,-80,3,,202632,,1611661324,25,38,2
+00:53.6,[MIN] Montgomery Foul: Shooting (1 PF) (2 FTA),105,16,6,202662,201904,,1611661324,25,38,2
+00:53.6,[MIN] Montgomery Technical,0,-80,6,,201904,,1611661324,25,38,2
+00:53.6,[CON] Thomas Free Throw Technical Missed,0,-80,3,,202662,,1611661323,25,38,2
+00:53.6,[CON] Team Rebound,0,-80,4,,0,,1611661323,25,38,2
+00:53.6,[CON 26-38] Thomas Free Throw 1 of 2 (4 PTS),0,-80,3,,202662,,1611661323,26,38,2
+00:53.6,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,202662,,1611661323,26,38,2
+00:53.6,[MIN] Moore Rebound (Off:2 Def:6),0,-80,4,,202632,,1611661324,26,38,2
+00:50.3,[CON] Thomas Foul: Personal (1 PF) (2 FTA),-176,327,6,202632,202662,,1611661323,26,38,2
+00:50.3,[MIN 39-26] Moore Free Throw 1 of 2 (3 PTS),0,-80,3,,202632,,1611661324,26,39,2
+00:50.3,[MIN 40-26] Moore Free Throw 2 of 2 (4 PTS),0,-80,3,,202632,,1611661324,26,40,2
+00:39.9,[CON] Bentley Driving Layup Shot: Missed,-9,2,2,,203410,,1611661323,26,40,2
+00:38.9,[MIN] Fowles Rebound (Off:2 Def:2),0,-80,4,,201480,,1611661324,26,40,2
+00:29.7,[CON] Bentley Foul: Personal (1 PF) (2 FTA),151,298,6,201904,203410,,1611661323,26,40,2
+00:29.7,[MIN 41-26] Montgomery Free Throw 1 of 2 (6 PTS),0,-80,3,,201904,,1611661324,26,41,2
+00:29.7,[MIN] Fowles Substitution replaced by Fagbenle,0,-80,8,,201480,1627701,1611661324,26,41,2
+00:29.7,[MIN 42-26] Montgomery Free Throw 2 of 2 (7 PTS),0,-80,3,,201904,,1611661324,26,42,2
+00:17.9,[CON] Bentley Turnover : Lost Ball (1 TO) Steal:Perkins (1 ST),0,-80,5,100952,203410,,1611661323,26,42,2
+00:02.9,[MIN] Montgomery Jump Shot: Missed,20,26,2,,201904,,1611661324,26,42,2
+00:00.9,[CON] Thomas Rebound (Off:3 Def:1),0,-80,4,,203826,,1611661323,26,42,2
+00:00.0,End Period,0,-80,13,,0,,0,26,42,2
+10:00,Start Period,0,-80,12,,0,,0,26,42,3
+09:41,[MIN] Fowles Layup Shot: Missed,10,9,2,,201480,,1611661324,26,42,3
+09:39,[MIN] Moore Rebound (Off:3 Def:6),0,-80,4,,202632,,1611661324,26,42,3
+09:24,[MIN 45-26] Whalen 3pt Shot: Made (6 PTS) Assist: Augustus (2 AST),110,205,1,,100915,200671,1611661324,26,45,3
+09:10,[CON 29-45] Jones 3pt Shot: Made (7 PTS) Assist: Thomas (3 AST),-150,195,1,,1627673,202662,1611661323,29,45,3
+08:53,[MIN] Fowles Turnover : Traveling (3 TO),0,-80,5,,201480,,1611661324,29,45,3
+08:39,[CON] Tuck Turnover : Traveling (1 TO),0,-80,5,,1627670,,1611661323,29,45,3
+08:18,[MIN] Augustus 3pt Shot: Missed,123,213,2,,200671,,1611661324,29,45,3
+08:16,[MIN] Fowles Rebound (Off:3 Def:2),0,-80,4,,201480,,1611661324,29,45,3
+08:15,[MIN 47-29] Fowles Putback Layup Shot: Made (13 PTS),1,7,1,,201480,,1611661324,29,47,3
+07:57,[CON] Jones Jump Shot: Missed,-91,21,2,,1627673,,1611661323,29,47,3
+07:56,[MIN] Brunson Rebound (Off:1 Def:5),0,-80,4,,100944,,1611661324,29,47,3
+07:45,[MIN 49-29] Augustus Jump Shot: Made (6 PTS),-74,16,1,,200671,,1611661324,29,49,3
+07:27,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,202662,,1611661323,29,49,3
+07:11,[MIN 51-29] Brunson Jump Shot: Made (11 PTS) Assist: Augustus (3 AST),159,46,1,,100944,200671,1611661324,29,51,3
+07:11,[CON] Thomas Foul: Loose Ball (2 PF) (1 FTA),159,46,6,202632,203826,,1611661323,29,51,3
+07:11,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,29,51,3
+07:11,[MIN 52-29] Moore Free Throw 1 of 1 (5 PTS),0,-80,3,,202632,,1611661324,29,52,3
+06:59,[CON 31-52] Tuck Jump Shot: Made (6 PTS),-45,72,1,,1627670,,1611661323,31,52,3
+06:50,[MIN] Augustus Jump Shot: Missed,122,85,2,,200671,,1611661324,31,52,3
+06:30,[CON] Team Rebound,0,-80,4,,0,,1611661323,31,52,3
+06:10,[CON 33-52] Bentley Layup Shot: Made (7 PTS),1,3,1,,203410,,1611661323,33,52,3
+06:03,[CON] Tuck Foul: Personal (2 PF),148,70,6,202632,1627670,,1611661323,33,52,3
+05:55,[MIN 55-33] Augustus 3pt Shot: Made (9 PTS) Assist: Whalen (2 AST),181,178,1,,200671,100915,1611661324,33,55,3
+05:45,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Brunson (1 ST),0,-80,5,100944,202662,,1611661323,33,55,3
+05:27,[MIN 57-33] Fowles Layup Shot: Made (15 PTS),1,-1,1,,201480,,1611661324,33,57,3
+05:11,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Augustus (1 ST),0,-80,5,200671,1627673,,1611661323,33,57,3
+05:04,[MIN] Augustus Jump Shot: Missed,-2,195,2,,200671,,1611661324,33,57,3
+05:02,[MIN] Brunson Rebound (Off:2 Def:5),0,-80,4,,100944,,1611661324,33,57,3
+04:45,[MIN] Moore Jump Shot: Missed,107,126,2,,202632,,1611661324,33,57,3
+04:45,[CON] Thomas Rebound (Off:3 Def:2),0,-80,4,,203826,,1611661323,33,57,3
+04:43,[MIN] Brunson Foul: Shooting (1 PF) (2 FTA),0,21,6,203826,100944,,1611661324,33,57,3
+04:43,[CON 34-57] Thomas Free Throw 1 of 2 (5 PTS),0,-80,3,,203826,,1611661323,34,57,3
+04:43,[MIN] Augustus Substitution replaced by Perkins,0,-80,8,,200671,100952,1611661324,34,57,3
+04:43,[MIN] Whalen Substitution replaced by Montgomery,0,-80,8,,100915,201904,1611661324,34,57,3
+04:43,[CON] Tuck Substitution replaced by Williams,0,-80,8,,1627670,1627675,1611661323,34,57,3
+04:43,[CON] Jones Substitution replaced by Kizer,0,-80,8,,1627673,203041,1611661323,34,57,3
+04:43,[CON] Bentley Substitution replaced by Adams,0,-80,8,,203410,202634,1611661323,34,57,3
+04:43,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,34,57,3
+04:43,[MIN] Team Rebound,0,-80,4,,0,,1611661324,34,57,3
+04:24,[MIN] Montgomery 3pt Shot: Missed,92,223,2,,201904,,1611661324,34,57,3
+04:22,[MIN] Fowles Rebound (Off:4 Def:2),0,-80,4,,201480,,1611661324,34,57,3
+04:20,[MIN 59-34] Fowles Layup Shot: Made (17 PTS),-6,-6,1,,201480,,1611661324,34,59,3
+04:00,[CON] Williams Jump Shot: Missed,-97,121,2,,1627675,,1611661323,34,59,3
+03:59,[MIN] Brunson Rebound (Off:2 Def:6),0,-80,4,,100944,,1611661324,34,59,3
+03:47,[MIN] Perkins Jump Shot: Missed,38,41,2,,100952,,1611661324,34,59,3
+03:46,[CON] Williams Rebound (Off:0 Def:2),0,-80,4,,1627675,,1611661323,34,59,3
+03:38,[MIN] Fowles Substitution replaced by Pierson,0,-80,8,,201480,100888,1611661324,34,59,3
+03:38,[MIN] Brunson Substitution replaced by Howard,0,-80,8,,100944,203827,1611661324,34,59,3
+03:31,[CON 36-59] Williams Jump Shot: Made (2 PTS),89,90,1,,1627675,,1611661323,36,59,3
+03:05,[MIN 61-36] Howard Layup Shot: Made (4 PTS) Assist: Pierson (2 AST),2,16,1,,203827,100888,1611661324,36,61,3
+02:48,[CON] Kizer Jump Shot: Missed,107,38,2,,203041,,1611661323,36,61,3
+02:47,[MIN] Perkins Rebound (Off:1 Def:2),0,-80,4,,100952,,1611661324,36,61,3
+02:40,[MIN] Montgomery 3pt Shot: Missed,150,205,2,,201904,,1611661324,36,61,3
+02:39,[CON] Kizer Rebound (Off:1 Def:1),0,-80,4,,203041,,1611661323,36,61,3
+02:28,[CON] Adams 3pt Shot: Missed,28,242,2,,202634,,1611661323,36,61,3
+02:27,[MIN] Moore Rebound (Off:3 Def:7),0,-80,4,,202632,,1611661324,36,61,3
+02:24,[CON] Adams Foul: Clear Path (1 PF) (2 FTA),-99,57,6,100888,202634,,1611661323,36,61,3
+02:24,[MIN] Pierson Free Throw Clear Path 1 of 2 Missed,0,-80,3,,100888,,1611661324,36,61,3
+02:24,[MIN] Team Rebound,0,-80,4,,0,,1611661324,36,61,3
+02:24,[MIN 62-36] Pierson Free Throw Clear Path 2 of 2 (3 PTS),0,-80,3,,100888,,1611661324,36,62,3
+02:24,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,36,62,3
+02:24,[MIN] Moore Substitution replaced by Jones,0,-80,8,,202632,1628283,1611661324,36,62,3
+02:17,[MIN] Montgomery Turnover : Out of Bounds Lost Ball Turnover (2 TO),0,-80,5,,201904,,1611661324,36,62,3
+02:01,[CON 39-62] Banham 3pt Shot: Made (3 PTS) Assist: Adams (1 AST),46,252,1,,1627671,202634,1611661323,39,62,3
+01:36,[MIN] Perkins Jump Shot: Missed,-110,160,2,,100952,,1611661324,39,62,3
+01:35,[CON] Williams Rebound (Off:0 Def:3),0,-80,4,,1627675,,1611661323,39,62,3
+01:30,[CON] Williams Jump Shot: Missed,25,183,2,,1627675,,1611661323,39,62,3
+01:29,[MIN] Team Rebound,0,-80,4,,0,,1611661324,39,62,3
+01:29,[CON] Adams Foul: Loose Ball (2 PF),25,-6,6,100888,202634,,1611661323,39,62,3
+01:29,[CON] Thomas Substitution replaced by Stricklen,0,-80,8,,203826,203015,1611661323,39,62,3
+01:04,[MIN] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661324,39,62,3
+01:04,[MIN] Team Timeout : Short,0,-80,9,,0,,1611661324,39,62,3
+00:54.8,[CON] Williams Turnover : Lost Ball (1 TO) Steal:Jones (1 ST),0,-80,5,1628283,1627675,,1611661323,39,62,3
+00:49.9,[MIN] Howard Layup Shot: Missed,10,-6,2,,203827,,1611661324,39,62,3
+00:48.8,[CON] Williams Rebound (Off:0 Def:4),0,-80,4,,1627675,,1611661323,39,62,3
+00:40.8,[CON] Kizer Jump Shot: Missed,-109,43,2,,203041,,1611661323,39,62,3
+00:39.7,[MIN] Montgomery Rebound (Off:0 Def:2),0,-80,4,,201904,,1611661324,39,62,3
+00:37.9,[CON] Stricklen Foul: Personal (2 PF) (2 FTA),-91,788,6,201904,203015,,1611661323,39,62,3
+00:37.9,[MIN 63-39] Montgomery Free Throw 1 of 2 (8 PTS),0,-80,3,,201904,,1611661324,39,63,3
+00:37.9,[MIN 64-39] Montgomery Free Throw 2 of 2 (9 PTS),0,-80,3,,201904,,1611661324,39,64,3
+00:27.6,[MIN] Pierson Foul: Personal (3 PF),158,11,6,203041,100888,,1611661324,39,64,3
+00:19.1,[CON 41-64] Kizer Cutting Layup Shot: Made (6 PTS) Assist: Stricklen (1 AST),10,13,1,,203041,203015,1611661323,41,64,3
+00:00.4,[MIN] Howard Turnover : Bad Pass (1 TO) Steal:Stricklen (2 ST),0,-80,5,203015,203827,,1611661324,41,64,3
+00:00.0,End Period,0,-80,13,,0,,0,41,64,3
+10:00,Start Period,0,-80,12,,0,,0,41,64,4
+09:36,[CON 43-64] Kizer Layup Shot: Made (8 PTS),-8,10,1,,203041,,1611661323,43,64,4
+09:14,[MIN] Fowles Jump Shot: Missed,-101,51,2,,201480,,1611661324,43,64,4
+09:13,[CON] Kizer Rebound (Off:1 Def:2),0,-80,4,,203041,,1611661323,43,64,4
+08:52,[CON] Banham Jump Shot: Missed,-86,154,2,,1627671,,1611661323,43,64,4
+08:51,[CON] Williams Rebound (Off:1 Def:4),0,-80,4,,1627675,,1611661323,43,64,4
+08:49,[MIN] Augustus Foul: Shooting (2 PF) (2 FTA),-17,2,6,1627675,200671,,1611661324,43,64,4
+08:49,[CON 44-64] Williams Free Throw 1 of 2 (3 PTS),0,-80,3,,1627675,,1611661323,44,64,4
+08:49,[CON 45-64] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,1627675,,1611661323,45,64,4
+08:40,[MIN 66-45] Moore Jump Shot: Made (7 PTS) Assist: Augustus (4 AST),97,21,1,,202632,200671,1611661324,45,66,4
+08:26,[CON 47-66] Kizer Jump Shot: Made (10 PTS) Assist: Stricklen (2 AST),-143,70,1,,203041,203015,1611661323,47,66,4
+08:04,[MIN 68-47] Whalen Jump Shot: Made (8 PTS),-179,16,1,,100915,,1611661324,47,68,4
+08:04,[CON] Banham Foul: Shooting (1 PF) (1 FTA),-179,16,6,100915,1627671,,1611661323,47,68,4
+08:04,[MIN 69-47] Whalen Free Throw 1 of 1 (9 PTS),0,-80,3,,100915,,1611661324,47,69,4
+07:47,[CON] Banham 3pt Shot: Missed,241,7,2,,1627671,,1611661323,47,69,4
+07:45,[MIN] Fowles Rebound (Off:4 Def:3),0,-80,4,,201480,,1611661324,47,69,4
+07:40,[MIN] Augustus Layup Shot: Missed Block: Adams (1 BLK),20,21,2,202634,200671,,1611661324,47,69,4
+07:39,[MIN] Team Rebound,0,-80,4,,0,,1611661324,47,69,4
+07:37,[MIN] Augustus Jump Shot: Missed,164,21,2,,200671,,1611661324,47,69,4
+07:36,[CON] Adams Rebound (Off:0 Def:1),0,-80,4,,202634,,1611661323,47,69,4
+07:30,[CON] Williams Driving Layup Shot: Missed,-16,16,2,,1627675,,1611661323,47,69,4
+07:29,[MIN] Moore Rebound (Off:3 Def:8),0,-80,4,,202632,,1611661324,47,69,4
+07:12,[MIN] Brunson 3pt Shot: Missed,-78,223,2,,100944,,1611661324,47,69,4
+07:12,[CON] Team Rebound,0,-80,4,,0,,1611661323,47,69,4
+07:12,[MIN] Fowles Foul: Loose Ball (3 PF),2,835,6,203041,201480,,1611661324,47,69,4
+07:00,[CON] Williams 3pt Shot: Missed,-166,193,2,,1627675,,1611661323,47,69,4
+06:59,[CON] Stricklen Rebound (Off:1 Def:1),0,-80,4,,203015,,1611661323,47,69,4
+06:57,[CON] Stricklen Putback Layup Shot: Missed,-6,11,2,,203015,,1611661323,47,69,4
+06:55,[MIN] Fowles Rebound (Off:4 Def:4),0,-80,4,,201480,,1611661324,47,69,4
+06:40,[MIN] Augustus Jump Shot: Missed,-22,23,2,,200671,,1611661324,47,69,4
+06:38,[MIN] Augustus Rebound (Off:1 Def:2),0,-80,4,,200671,,1611661324,47,69,4
+06:35,[MIN 71-47] Fowles Jump Shot: Made (19 PTS),4,36,1,,201480,,1611661324,47,71,4
+06:35,[CON] Kizer Foul: Shooting (3 PF) (1 FTA),4,36,6,201480,203041,,1611661323,47,71,4
+06:35,[MIN 72-47] Fowles Free Throw 1 of 1 (20 PTS),0,-80,3,,201480,,1611661324,47,72,4
+06:21,[CON] Adams Jump Shot: Missed,-110,80,2,,202634,,1611661323,47,72,4
+06:20,[MIN] Fowles Rebound (Off:4 Def:5),0,-80,4,,201480,,1611661324,47,72,4
+06:04,[MIN] Fowles Turnaround Jump Shot: Missed,76,31,2,,201480,,1611661324,47,72,4
+06:03,[CON] Banham Rebound (Off:0 Def:1),0,-80,4,,1627671,,1611661323,47,72,4
+05:57,[CON 49-72] Kizer Layup Shot: Made (12 PTS) Assist: Banham (1 AST),17,-15,1,,203041,1627671,1611661323,49,72,4
+05:44,[MIN] Moore Jump Shot: Missed,109,3,2,,202632,,1611661324,49,72,4
+05:43,[CON] Banham Rebound (Off:0 Def:2),0,-80,4,,1627671,,1611661323,49,72,4
+05:38,[MIN] Whalen Foul: Shooting (2 PF) (2 FTA),28,21,6,1627671,100915,,1611661324,49,72,4
+05:38,Timeout : Official,0,-80,9,,0,,0,49,72,4
+05:38,[CON] Kizer Substitution replaced by Jones,0,-80,8,,203041,1628280,1611661323,49,72,4
+05:38,[CON] Adams Substitution replaced by Hooper,0,-80,8,,202634,203835,1611661323,49,72,4
+05:38,[MIN] Moore Substitution replaced by Fagbenle,0,-80,8,,202632,1627701,1611661324,49,72,4
+05:38,[MIN] Brunson Substitution replaced by Perkins,0,-80,8,,100944,100952,1611661324,49,72,4
+05:38,[MIN] Fowles Substitution replaced by Montgomery,0,-80,8,,201480,201904,1611661324,49,72,4
+05:38,[MIN] Augustus Substitution replaced by Jones,0,-80,8,,200671,1628283,1611661324,49,72,4
+05:38,[MIN] Whalen Substitution replaced by Howard,0,-80,8,,100915,203827,1611661324,49,72,4
+05:38,[CON 50-72] Banham Free Throw 1 of 2 (4 PTS),0,-80,3,,1627671,,1611661323,50,72,4
+05:38,[CON 51-72] Banham Free Throw 2 of 2 (5 PTS),0,-80,3,,1627671,,1611661323,51,72,4
+05:24,[MIN] Montgomery Turnover : Out of Bounds - Bad Pass Turnover (3 TO),0,-80,5,,201904,,1611661324,51,72,4
+05:02,[CON] Hooper Jump Shot: Missed,148,51,2,,203835,,1611661323,51,72,4
+05:01,[MIN] Fagbenle Rebound (Off:0 Def:1),0,-80,4,,1627701,,1611661324,51,72,4
+04:45,[MIN 75-51] Perkins 3pt Shot: Made (3 PTS) Assist: Jones (1 AST),-187,154,1,,100952,1628283,1611661324,51,75,4
+04:28,[CON 54-75] Stricklen 3pt Shot: Made (3 PTS) Assist: Williams (1 AST),-109,213,1,,203015,1627675,1611661323,54,75,4
+04:09,[MIN] Howard Foul: Offensive (3 PF),-88,232,6,1627671,203827,,1611661324,54,75,4
+04:09,[MIN] Howard Turnover : Foul (2 TO),0,-80,5,,203827,,1611661324,54,75,4
+03:53,[CON 56-75] Williams Jump Shot: Made (6 PTS),114,159,1,,1627675,,1611661323,56,75,4
+03:29,[MIN 77-56] Perkins Jump Shot: Made (5 PTS),112,159,1,,100952,,1611661324,56,77,4
+03:17,[CON] Stricklen Turnover : Step Out of Bounds Turnover (1 TO),0,-80,5,,203015,,1611661323,56,77,4
+03:00,[MIN] Jones Turnover : Discontinue Dribble (1 TO),0,-80,5,,1628283,,1611661324,56,77,4
+02:43,[CON 59-77] Stricklen 3pt Shot: Made (6 PTS),168,224,1,,203015,,1611661323,59,77,4
+02:25,[CON] Hooper Foul: Shooting (1 PF) (2 FTA),42,26,6,100952,203835,,1611661323,59,77,4
+02:25,[MIN] Team Timeout : Regular,0,-80,9,,0,,1611661324,59,77,4
+02:25,[MIN 78-59] Perkins Free Throw 1 of 2 (6 PTS),0,-80,3,,100952,,1611661324,59,78,4
+02:25,[MIN 79-59] Perkins Free Throw 2 of 2 (7 PTS),0,-80,3,,100952,,1611661324,59,79,4
+02:12,[CON 61-79] Williams Jump Shot: Made (8 PTS),79,18,1,,1627675,,1611661323,61,79,4
+02:12,[MIN] Jones Foul: Shooting (1 PF) (1 FTA),79,18,6,1627675,1628283,,1611661324,61,79,4
+02:12,[CON 62-79] Williams Free Throw 1 of 1 (9 PTS),0,-80,3,,1627675,,1611661323,62,79,4
+01:51,[CON] Williams Foul: Shooting (1 PF) (2 FTA),-29,28,6,1627701,1627675,,1611661323,62,79,4
+01:51,[MIN 80-62] Fagbenle Free Throw 1 of 2 (1 PTS),0,-80,3,,1627701,,1611661324,62,80,4
+01:51,[MIN] Fagbenle Free Throw 2 of 2 Missed,0,-80,3,,1627701,,1611661324,62,80,4
+01:51,[CON] Hooper Rebound (Off:0 Def:1),0,-80,4,,203835,,1611661323,62,80,4
+01:37,[CON 64-80] Jones Layup Shot: Made (3 PTS) Assist: Banham (2 AST),9,7,1,,1628280,1627671,1611661323,64,80,4
+01:21,[MIN] Perkins Jump Shot: Missed,-151,41,2,,100952,,1611661324,64,80,4
+01:19,[MIN] Howard Rebound (Off:1 Def:1),0,-80,4,,203827,,1611661324,64,80,4
+01:13,[MIN] Jones Turnover : Bad Pass (2 TO) Steal:Banham (1 ST),0,-80,5,1627671,1628283,,1611661324,64,80,4
+01:09,[CON 66-80] Banham Running Layup Shot: Made (7 PTS),-2,-10,1,,1627671,,1611661323,66,80,4
+00:54.9,[MIN] Jones Jump Shot: Missed,-84,144,2,,1628283,,1611661324,66,80,4
+00:53.9,[CON] Stricklen Rebound (Off:1 Def:2),0,-80,4,,203015,,1611661323,66,80,4
+00:49.9,[CON] Stricklen Turnover : Bad Pass (2 TO) Steal:Montgomery (1 ST),0,-80,5,201904,203015,,1611661323,66,80,4
+00:45.8,[MIN 82-66] Montgomery Driving Layup Shot: Made (11 PTS),0,3,1,,201904,,1611661324,66,82,4
+00:29.5,[CON 68-82] Jones Jump Shot: Made (5 PTS) Assist: Williams (2 AST),42,7,1,,1628280,1627675,1611661323,68,82,4
+00:04.9,[MIN] Jones 3pt Shot: Missed,-191,165,2,,1628283,,1611661324,68,82,4
+00:04.7,[CON] Stricklen Rebound (Off:1 Def:3),0,-80,4,,203015,,1611661323,68,82,4
+00:00.0,End Period,0,-80,13,,0,,0,68,82,4

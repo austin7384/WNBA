@@ -1,0 +1,358 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Wilson vs Fowles (Park gains possession),0,-80,10,201480,1628932,1628917,1611661319,0,0,1
+09:44,[LVA] Plum 3pt Shot: Missed,-135,240,2,,1628276,,1611661319,0,0,1
+09:39,[MIN] Moore Rebound (Off:0 Def:1),-135,240,4,,202632,,1611661324,0,0,1
+09:27,[LVA] Coffey Foul: Personal (1 PF),19,64,6,202632,1628269,,1611661319,0,0,1
+09:16,[MIN 3-0] Brunson 3pt Shot: Made (3 PTS) Assist: Augustus (1 AST),110,262,1,,100944,200671,1611661324,0,3,1
+09:07,[LVA] McBride 3pt Shot: Missed,-214,101,2,,203825,,1611661319,0,3,1
+09:00,[MIN] Whalen Rebound (Off:0 Def:1),-214,101,4,,100915,,1611661324,0,3,1
+08:58,[MIN] Whalen Driving Layup Shot: Missed,47,15,2,,100915,,1611661324,0,3,1
+08:58,[MIN] Team Rebound,47,15,4,,0,,1611661324,0,3,1
+08:51,[MIN] Moore Jump Shot: Missed,2,174,2,,202632,,1611661324,0,3,1
+08:47,[MIN] Brunson Rebound (Off:1 Def:0),2,174,4,,100944,,1611661324,0,3,1
+08:37,[MIN] Moore Pullup Jump shot: Missed,-143,2,2,,202632,,1611661324,0,3,1
+08:33,[MIN] Fowles Rebound (Off:1 Def:0),-143,2,4,,201480,,1611661324,0,3,1
+08:31,[MIN 5-0] Fowles Driving Hook Shot: Made (2 PTS),27,32,1,,201480,,1611661324,0,5,1
+08:21,[LVA] McBride Pullup Jump shot: Missed,-145,25,2,,203825,,1611661319,0,5,1
+08:21,[MIN] Fowles Rebound (Off:1 Def:1),-145,25,4,,201480,,1611661324,0,5,1
+08:10,[MIN 7-0] Moore Pullup Jump shot: Made (2 PTS) Assist: Whalen (1 AST),0,161,1,,202632,100915,1611661324,0,7,1
+07:52,[LVA] Coffey Pullup Jump shot: Missed,-102,171,2,,1628269,,1611661319,0,7,1
+07:48,[MIN] Brunson Rebound (Off:1 Def:1),-102,171,4,,100944,,1611661324,0,7,1
+07:39,[MIN 9-0] Fowles Layup Shot: Made (4 PTS) Assist: Moore (1 AST),-26,37,1,,201480,202632,1611661324,0,9,1
+07:33,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,0,9,1
+07:16,[LVA] Wilson Turnaround Jump Shot: Missed,-120,36,2,,1628932,,1611661319,0,9,1
+07:12,[MIN] Fowles Rebound (Off:1 Def:2),-120,36,4,,201480,,1611661324,0,9,1
+07:00,[MIN] Fowles Reverse Layup Shot: Missed,-54,40,2,1628917,201480,,1611661324,0,9,1
+06:57,[LVA] McBride Rebound (Off:0 Def:1),-54,40,4,,203825,,1611661319,0,9,1
+06:53,[LVA] McBride Turnover : Lost Ball (1 TO) Steal:Augustus (1 ST),43,67,5,200671,203825,,1611661319,0,9,1
+06:41,[MIN] Fowles Foul: Offensive Charge (1 PF),-81,88,6,1628917,201480,,1611661324,0,9,1
+06:41,[MIN] Fowles Turnover : Offensive Foul Turnover (1 TO),-81,88,5,,201480,,1611661324,0,9,1
+06:24,[LVA 3-9] Plum 3pt Shot: Made (3 PTS) Assist: McBride (1 AST),25,275,1,,1628276,203825,1611661319,3,9,1
+06:06,[MIN] Whalen Turnover : Lost Ball (1 TO) Steal:Park (1 ST),-140,235,5,1628917,100915,,1611661324,3,9,1
+06:00,[LVA 5-9] McBride Jump Shot: Made (2 PTS) Assist: Plum (1 AST),-117,-11,1,,203825,1628276,1611661319,5,9,1
+05:40,[MIN] Augustus 3pt Shot: Missed,-119,259,2,,200671,,1611661324,5,9,1
+05:35,[LVA] Coffey Rebound (Off:0 Def:1),-119,259,4,,1628269,,1611661319,5,9,1
+05:29,[LVA] Wilson Jump Bank Shot: Missed,-83,65,2,,1628932,,1611661319,5,9,1
+05:24,[MIN] Brunson Rebound (Off:1 Def:2),-83,65,4,,100944,,1611661324,5,9,1
+05:18,[MIN 11-5] Augustus Jump Shot: Made (2 PTS) Assist: Whalen (2 AST),-1,223,1,,200671,100915,1611661324,5,11,1
+05:02,[MIN] Fowles Foul: Shooting (2 PF) (2 FTA),30,30,6,1628276,201480,,1611661324,5,11,1
+05:02,[LVA 6-11] Plum Free Throw 1 of 2 (4 PTS),0,-80,3,,1628276,,1611661319,6,11,1
+05:02,[MIN] Whalen Substitution replaced by Robinson,0,-80,8,,100915,202658,1611661324,6,11,1
+05:02,[MIN] Augustus Substitution replaced by Wright,0,-80,8,,200671,101030,1611661324,6,11,1
+05:02,[MIN] Fowles Substitution replaced by Zandalasini,0,-80,8,,201480,1628508,1611661324,6,11,1
+05:02,[LVA 7-11] Plum Free Throw 2 of 2 (5 PTS),0,-80,3,,1628276,,1611661319,7,11,1
+04:45,[MIN] Moore Pullup Jump shot: Missed,122,136,2,,202632,,1611661324,7,11,1
+04:40,[LVA] McBride Rebound (Off:0 Def:2),122,136,4,,203825,,1611661319,7,11,1
+04:38,[LVA] Coffey Turnover : Out of Bounds Lost Ball Turnover (1 TO),96,54,5,,1628269,,1611661319,7,11,1
+04:18,[MIN] Wright 3pt Shot: Missed,174,209,2,,101030,,1611661324,7,11,1
+04:14,[LVA] Coffey Rebound (Off:0 Def:2),174,209,4,,1628269,,1611661319,7,11,1
+04:09,[LVA] Wilson Layup Shot: Missed,-115,37,2,,1628932,,1611661319,7,11,1
+04:05,[LVA] Wilson Rebound (Off:1 Def:0),-115,37,4,,1628932,,1611661319,7,11,1
+04:03,[LVA] Wilson Turnover : Lost Ball (1 TO) Steal:Brunson (1 ST),-25,25,5,100944,1628932,,1611661319,7,11,1
+03:59,[MIN] Zandalasini 3pt Shot: Missed,103,235,2,,1628508,,1611661324,7,11,1
+03:54,[LVA] Park Rebound (Off:0 Def:1),103,235,4,,1628917,,1611661319,7,11,1
+03:52,[LVA] Coffey Foul: Offensive Charge (2 PF),-98,27,6,101030,1628269,,1611661319,7,11,1
+03:52,[LVA] Coffey Turnover : Offensive Foul Turnover (2 TO),-98,27,5,,1628269,,1611661319,7,11,1
+03:52,[LVA] Coffey Substitution replaced by Young,0,-80,8,,1628269,201477,1611661319,7,11,1
+03:52,[LVA] Park Substitution replaced by Hamby,0,-80,8,,1628917,204324,1611661319,7,11,1
+03:37,[MIN 14-7] Moore 3pt Shot: Made (5 PTS) Assist: Robinson (1 AST),163,194,1,,202632,202658,1611661324,7,14,1
+03:31,[LVA] Hamby Finger Roll Layup Shot: Missed,86,41,2,,204324,,1611661319,7,14,1
+03:29,[MIN] Zandalasini Rebound (Off:0 Def:1),86,41,4,,1628508,,1611661324,7,14,1
+03:24,[MIN 17-7] Zandalasini 3pt Shot: Made (3 PTS) Assist: Robinson (2 AST),-12,254,1,,1628508,202658,1611661324,7,17,1
+03:04,[LVA] McBride Floating Jump shot: Missed,145,22,2,,203825,,1611661319,7,17,1
+03:02,[MIN] Moore Rebound (Off:0 Def:2),145,22,4,,202632,,1611661324,7,17,1
+02:46,[MIN] Robinson Jump Shot: Missed,28,177,2,,202658,,1611661324,7,17,1
+02:46,[LVA] Wilson Rebound (Off:1 Def:1),28,177,4,,1628932,,1611661319,7,17,1
+02:26,[LVA] Young Jump Shot: Missed,-96,67,2,,201477,,1611661319,7,17,1
+02:23,[MIN] Wright Rebound (Off:0 Def:1),-96,67,4,,101030,,1611661324,7,17,1
+02:17,[MIN] Moore 3pt Shot: Missed,138,223,2,,202632,,1611661324,7,17,1
+02:13,[LVA] McBride Rebound (Off:0 Def:3),138,223,4,,203825,,1611661319,7,17,1
+02:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,17,1
+02:10,[MIN] Moore Substitution replaced by Kizer,0,-80,8,,202632,203041,1611661324,7,17,1
+02:10,[LVA] Wilson Substitution replaced by Bone,0,-80,8,,1628932,203402,1611661319,7,17,1
+02:06,[LVA] Plum Pullup Jump shot: Missed,-128,90,2,,1628276,,1611661319,7,17,1
+02:02,[MIN] Brunson Rebound (Off:1 Def:3),-128,90,4,,100944,,1611661324,7,17,1
+01:48,[MIN 19-7] Kizer Jump Shot: Made (2 PTS) Assist: Zandalasini (1 AST),122,136,1,,203041,1628508,1611661324,7,19,1
+01:35,[LVA 9-19] Young Driving Layup Shot: Made (2 PTS),-61,28,1,,201477,,1611661319,9,19,1
+01:15,[MIN] Kizer Foul: Offensive Charge (1 PF),-109,152,6,203825,203041,,1611661324,9,19,1
+01:15,[MIN] Kizer Turnover : Offensive Foul Turnover (1 TO),-109,152,5,,203041,,1611661324,9,19,1
+01:15,[LVA] Plum Substitution replaced by Nared,0,-80,8,,1628276,1628913,1611661319,9,19,1
+01:15,[LVA] McBride Substitution replaced by Allen,0,-80,8,,203825,1628263,1611661319,9,19,1
+01:15,[MIN] Brunson Substitution replaced by Fagbenle,0,-80,8,,100944,1627701,1611661324,9,19,1
+01:06,[LVA 11-19] Young Jump Shot: Made (4 PTS) Assist: Allen (1 AST),48,145,1,,201477,1628263,1611661319,11,19,1
+00:56.9,[LVA] Hamby Foul: Personal (1 PF),92,16,6,1627701,204324,,1611661319,11,19,1
+00:48.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,19,1
+00:43.1,[MIN] Kizer Jump Shot: Missed,-170,43,2,,203041,,1611661324,11,19,1
+00:39.5,[LVA] Hamby Rebound (Off:0 Def:1),-170,43,4,,204324,,1611661319,11,19,1
+00:30.1,[LVA] Hamby Turnover : Traveling (1 TO),-72,247,5,,204324,,1611661319,11,19,1
+00:14.6,[MIN 21-11] Zandalasini Pullup Jump shot: Made (5 PTS),-128,108,1,,1628508,,1611661324,11,21,1
+00:00.9,[LVA] Young Pullup Jump shot: Missed,-109,75,2,,201477,,1611661319,11,21,1
+00:00.9,[MIN] Robinson Rebound (Off:0 Def:1),-109,75,4,,202658,,1611661324,11,21,1
+00:00.0,End Period,0,-80,13,,0,,0,11,21,1
+10:00,Start Period,0,-80,12,,0,,0,11,21,2
+09:49,[LVA] Bone Foul: Personal (1 PF),102,39,6,100944,203402,,1611661319,11,21,2
+09:42,[MIN 23-11] Moore Pullup Jump shot: Made (7 PTS) Assist: Whalen (3 AST),-97,137,1,,202632,100915,1611661324,11,23,2
+09:23,[LVA] Young Pullup Jump shot: Missed,0,145,2,202632,201477,,1611661319,11,23,2
+09:20,[MIN] Fowles Rebound (Off:1 Def:3),0,145,4,,201480,,1611661324,11,23,2
+09:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,23,2
+09:15,[LVA] Hamby Substitution replaced by Wilson,0,-80,8,,204324,1628932,1611661319,11,23,2
+09:15,[LVA] Nared Substitution replaced by McBride,0,-80,8,,1628913,203825,1611661319,11,23,2
+09:08,[MIN] Moore Driving Layup Shot: Missed,120,33,2,,202632,,1611661324,11,23,2
+09:05,[LVA] Wilson Rebound (Off:1 Def:2),120,33,4,,1628932,,1611661319,11,23,2
+09:00,[LVA] Allen Floating Jump shot: Missed,124,75,2,,1628263,,1611661319,11,23,2
+08:56,[MIN] Brunson Rebound (Off:1 Def:4),124,75,4,,100944,,1611661324,11,23,2
+08:50,[MIN 26-11] Augustus 3pt Shot: Made (5 PTS) Assist: Brunson (1 AST),-120,232,1,,200671,100944,1611661324,11,26,2
+08:29,[MIN] Brunson Foul: Personal (1 PF),-81,187,6,1628932,100944,,1611661324,11,26,2
+08:22,[LVA] McBride Turnover : Bad Pass (2 TO) Steal:Whalen (1 ST),142,41,5,100915,203825,,1611661319,11,26,2
+08:15,[MIN] Whalen Pullup Jump shot: Missed,-76,177,2,,100915,,1611661324,11,26,2
+08:11,[LVA] Young Rebound (Off:0 Def:1),-76,177,4,,201477,,1611661319,11,26,2
+07:58,[LVA 13-26] Bone Layup Shot: Made (2 PTS),87,1,1,,203402,,1611661319,13,26,2
+07:32,[MIN] Fowles Turnaround Jump Shot: Missed,-89,61,2,,201480,,1611661324,13,26,2
+07:30,[LVA] Bone Rebound (Off:0 Def:1),-89,61,4,,203402,,1611661319,13,26,2
+07:16,[LVA 15-26] Wilson Layup Shot: Made (2 PTS) Assist: Bone (1 AST),-72,24,1,,1628932,203402,1611661319,15,26,2
+06:52,[MIN] Moore Jump Shot: Missed,-97,150,2,,202632,,1611661324,15,26,2
+06:48,[LVA] Bone Rebound (Off:0 Def:2),-97,150,4,,203402,,1611661319,15,26,2
+06:41,[MIN] Fowles Foul: Personal (3 PF),113,27,6,203402,201480,,1611661324,15,26,2
+06:41,[LVA] Bone Substitution replaced by Plum,0,-80,8,,203402,1628276,1611661319,15,26,2
+06:41,[LVA] Allen Substitution replaced by Park,0,-80,8,,1628263,1628917,1611661319,15,26,2
+06:41,[MIN] Whalen Substitution replaced by Robinson,0,-80,8,,100915,202658,1611661324,15,26,2
+06:41,[MIN] Fowles Substitution replaced by Fagbenle,0,-80,8,,201480,1627701,1611661324,15,26,2
+06:35,[LVA 17-26] McBride Floating Jump shot: Made (4 PTS),109,67,1,,203825,,1611661319,17,26,2
+06:26,[MIN] Augustus Jump Shot: Missed,120,118,2,,200671,,1611661324,17,26,2
+06:26,[MIN] Fagbenle Rebound (Off:1 Def:0),120,118,4,,1627701,,1611661324,17,26,2
+06:21,[MIN 28-17] Fagbenle Hook Shot: Made (2 PTS),-61,75,1,,1627701,,1611661324,17,28,2
+06:10,[MIN] Augustus Foul: Shooting (1 PF) (2 FTA),20,248,6,203825,200671,,1611661324,17,28,2
+06:10,[LVA 18-28] McBride Free Throw 1 of 2 (5 PTS),0,-80,3,,203825,,1611661319,18,28,2
+06:10,[LVA 19-28] McBride Free Throw 2 of 2 (6 PTS),0,-80,3,,203825,,1611661319,19,28,2
+06:04,[MIN 30-19] Moore Layup Shot: Made (9 PTS) Assist: Augustus (2 AST),82,66,1,,202632,200671,1611661324,19,30,2
+06:04,[LVA] Young Foul: Shooting (1 PF) (1 FTA),82,66,6,202632,201477,,1611661319,19,30,2
+06:04,[MIN 31-19] Moore Free Throw 1 of 1 (10 PTS),0,-80,3,,202632,,1611661324,19,31,2
+05:48,[LVA 22-31] Plum 3pt Shot: Made (8 PTS) Assist: McBride (2 AST),219,138,1,,1628276,203825,1611661319,22,31,2
+05:35,[MIN] Augustus Pullup Jump shot: Missed,-152,93,2,,200671,,1611661324,22,31,2
+05:31,[LVA] Wilson Rebound (Off:1 Def:3),-152,93,4,,1628932,,1611661319,22,31,2
+05:19,[LVA] Park Jump Shot: Missed,-137,115,2,,1628917,,1611661319,22,31,2
+05:19,[LVA] Team Rebound,-137,115,4,,0,,1611661319,22,31,2
+05:19,Timeout Officials,0,-80,9,,0,,0,22,31,2
+05:19,[LVA] Park Substitution replaced by Hamby,0,-80,8,,1628917,204324,1611661319,22,31,2
+05:19,[MIN] Brunson Substitution replaced by Zandalasini,0,-80,8,,100944,1628508,1611661324,22,31,2
+05:19,[MIN] Augustus Substitution replaced by Wright,0,-80,8,,200671,101030,1611661324,22,31,2
+05:13,[LVA 24-31] McBride Driving Floating Jump Shot: Made (8 PTS),-139,27,1,,203825,,1611661319,24,31,2
+05:01,[MIN] Robinson Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),122,60,5,204324,202658,,1611661324,24,31,2
+04:52,[LVA 26-31] Wilson Layup Shot: Made (4 PTS) Assist: Hamby (1 AST),-49,69,1,,1628932,204324,1611661319,26,31,2
+04:35,[LVA] Hamby Foul: Personal (2 PF),97,80,6,1627701,204324,,1611661319,26,31,2
+04:35,[MIN] Robinson Substitution replaced by Whalen,0,-80,8,,202658,100915,1611661324,26,31,2
+04:29,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),-101,76,6,101030,1628932,,1611661319,26,31,2
+04:29,[MIN] Wright Free Throw 1 of 2 Missed,0,-80,3,,101030,,1611661324,26,31,2
+04:29,[MIN] Team Rebound,0,-80,4,,0,,1611661324,26,31,2
+04:29,[MIN] Wright Free Throw 2 of 2 Missed,0,-80,3,,101030,,1611661324,26,31,2
+04:26,[LVA] Wilson Rebound (Off:1 Def:4),0,-80,4,,1628932,,1611661319,26,31,2
+04:15,[MIN] Whalen Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,100915,,1611661324,26,31,2
+04:15,[LVA 27-31] McBride Free Throw Technical (9 PTS),0,-80,3,,203825,,1611661319,27,31,2
+04:07,[LVA] Hamby Running Finger Roll Layup Shot: Missed,85,58,2,,204324,,1611661319,27,31,2
+04:04,[MIN] Moore Rebound (Off:0 Def:3),85,58,4,,202632,,1611661324,27,31,2
+03:48,[MIN 33-27] Zandalasini Pullup Jump shot: Made (7 PTS),122,3,1,,1628508,,1611661324,27,33,2
+03:35,[LVA 29-33] Hamby Layup Shot: Made (2 PTS) Assist: McBride (3 AST),-67,40,1,,204324,203825,1611661319,29,33,2
+03:23,[MIN] Wright Turnover : Lost Ball (1 TO) Steal:Hamby (2 ST),-117,64,5,204324,101030,,1611661324,29,33,2
+03:17,[LVA] Plum Driving Layup Shot: Missed,145,27,2,,1628276,,1611661319,29,33,2
+03:16,[MIN] Moore Rebound (Off:0 Def:4),145,27,4,,202632,,1611661324,29,33,2
+03:04,[MIN 35-29] Moore Layup Shot: Made (12 PTS) Assist: Whalen (4 AST),-98,83,1,,202632,100915,1611661324,29,35,2
+02:44,[LVA] Plum Turnover : Bad Pass (1 TO) Steal:Fagbenle (1 ST),-145,97,5,1627701,1628276,,1611661319,29,35,2
+02:38,[MIN] Wright 3pt Shot: Missed,-225,69,2,,101030,,1611661324,29,35,2
+02:34,[MIN] Wright Rebound (Off:1 Def:1),-225,69,4,,101030,,1611661324,29,35,2
+02:27,[MIN 37-29] Fagbenle Driving Layup Shot: Made (4 PTS),-98,74,1,,1627701,,1611661324,29,37,2
+02:21,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,29,37,2
+02:21,[MIN] Wright Substitution replaced by Brunson,0,-80,8,,101030,100944,1611661324,29,37,2
+02:10,[LVA 31-37] Wilson Driving Layup Shot: Made (6 PTS) Assist: Young (1 AST),-91,31,1,,1628932,201477,1611661319,31,37,2
+01:49,[MIN] Zandalasini 3pt Shot: Missed,-104,233,2,,1628508,,1611661324,31,37,2
+01:47,[MIN] Fagbenle Rebound (Off:2 Def:0),-104,233,4,,1627701,,1611661324,31,37,2
+01:44,[MIN] Moore 3pt Shot: Missed,205,135,2,201477,202632,,1611661324,31,37,2
+01:38,[LVA] McBride Rebound (Off:0 Def:4),205,135,4,,203825,,1611661319,31,37,2
+01:37,[LVA] McBride Layup Shot: Missed,125,20,2,,203825,,1611661319,31,37,2
+01:33,[LVA] Hamby Rebound (Off:1 Def:1),125,20,4,,204324,,1611661319,31,37,2
+01:32,[LVA] Hamby Layup Shot: Missed,119,89,2,1627701,204324,,1611661319,31,37,2
+01:32,[MIN] Fagbenle Rebound (Off:2 Def:1),119,89,4,,1627701,,1611661324,31,37,2
+01:11,[MIN] Zandalasini Fadeaway Jump Shot: Missed,126,51,2,,1628508,,1611661324,31,37,2
+01:05,[LVA] Hamby Rebound (Off:1 Def:2),126,51,4,,204324,,1611661319,31,37,2
+00:55.9,[LVA] McBride 3pt Shot: Missed,-172,187,2,,203825,,1611661319,31,37,2
+00:52.5,[MIN] Whalen Rebound (Off:0 Def:2),-172,187,4,,100915,,1611661324,31,37,2
+00:49.2,[MIN 39-31] Brunson Finger Roll Layup Shot: Made (5 PTS) Assist: Whalen (5 AST),-98,51,1,,100944,100915,1611661324,31,39,2
+00:38.7,[MIN] Moore Foul: Shooting (1 PF) (2 FTA),-110,49,6,1628932,202632,,1611661324,31,39,2
+00:38.7,[LVA 32-39] Wilson Free Throw 1 of 2 (7 PTS),0,-80,3,,1628932,,1611661319,32,39,2
+00:38.7,[LVA] Hamby Substitution replaced by Park,0,-80,8,,204324,1628917,1611661319,32,39,2
+00:38.7,[LVA 33-39] Wilson Free Throw 2 of 2 (8 PTS),0,-80,3,,1628932,,1611661319,33,39,2
+00:27.0,[MIN] Whalen 3pt Shot: Missed,-109,241,2,,100915,,1611661324,33,39,2
+00:22.9,[LVA] Wilson Rebound (Off:1 Def:5),-109,241,4,,1628932,,1611661319,33,39,2
+00:06.0,[LVA] Plum Turnover : Bad Pass (2 TO),58,231,5,,1628276,,1611661319,33,39,2
+00:06.0,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,33,39,2
+00:06.0,[MIN] Fagbenle Substitution replaced by Augustus,0,-80,8,,1627701,200671,1611661324,33,39,2
+00:06.0,[MIN] Brunson Substitution replaced by Kizer,0,-80,8,,100944,203041,1611661324,33,39,2
+00:06.0,[LVA] Wilson Substitution replaced by Nared,0,-80,8,,1628932,1628913,1611661319,33,39,2
+00:01.0,[MIN] Moore 3pt Shot: Missed,124,259,2,,202632,,1611661324,33,39,2
+00:01.0,[MIN] Team Rebound,124,259,4,,0,,1611661324,33,39,2
+00:00.0,End Period,0,-80,13,,0,,0,33,39,2
+10:00,Start Period,0,-80,12,,0,,0,33,39,3
+09:48,[MIN 41-33] Augustus Jump Shot: Made (7 PTS) Assist: Brunson (2 AST),47,189,1,,200671,100944,1611661324,33,41,3
+09:34,[LVA] Park Jump Shot: Missed,-115,174,2,,1628917,,1611661319,33,41,3
+09:33,[MIN] Team Rebound,-115,174,4,,0,,1611661324,33,41,3
+09:18,[MIN 43-33] Fowles Cutting Layup Shot: Made (6 PTS) Assist: Brunson (3 AST),97,15,1,,201480,100944,1611661324,33,43,3
+09:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,43,3
+09:09,[LVA] Park Substitution replaced by Bone,0,-80,8,,1628917,203402,1611661319,33,43,3
+09:05,[LVA 35-43] Coffey Pullup Jump shot: Made (2 PTS) Assist: Wilson (1 AST),-48,183,1,,1628269,1628932,1611661319,35,43,3
+08:52,[LVA] Coffey Foul: Shooting (3 PF) (2 FTA),-110,110,6,202632,1628269,,1611661319,35,43,3
+08:52,[MIN 44-35] Moore Free Throw 1 of 2 (13 PTS),0,-80,3,,202632,,1611661324,35,44,3
+08:52,[MIN 45-35] Moore Free Throw 2 of 2 (14 PTS),0,-80,3,,202632,,1611661324,35,45,3
+08:38,[MIN] Brunson Foul: Personal (2 PF),-97,54,6,1628932,100944,,1611661324,35,45,3
+08:35,[LVA] McBride Turnover : Bad Pass (3 TO) Steal:Moore (1 ST),-159,112,5,202632,203825,,1611661319,35,45,3
+08:29,[MIN 47-35] Brunson Cutting Layup Shot: Made (7 PTS) Assist: Whalen (6 AST),-75,28,1,,100944,100915,1611661324,35,47,3
+08:16,[LVA] Coffey Cutting Layup Shot: Missed,-118,60,2,,1628269,,1611661319,35,47,3
+08:13,[LVA] Plum Rebound (Off:1 Def:0),-118,60,4,,1628276,,1611661319,35,47,3
+08:02,[LVA 37-47] Plum Pullup Jump shot: Made (10 PTS),-87,162,1,,1628276,,1611661319,37,47,3
+07:44,[LVA] Coffey Foul: Shooting (4 PF) (2 FTA),62,164,6,202632,1628269,,1611661319,37,47,3
+07:44,[MIN 48-37] Moore Free Throw 1 of 2 (15 PTS),0,-80,3,,202632,,1611661324,37,48,3
+07:44,[LVA] Coffey Substitution replaced by Young,0,-80,8,,1628269,201477,1611661319,37,48,3
+07:44,[MIN 49-37] Moore Free Throw 2 of 2 (16 PTS),0,-80,3,,202632,,1611661324,37,49,3
+07:24,[LVA] Plum 3pt Shot: Missed,150,244,2,,1628276,,1611661319,37,49,3
+07:23,[MIN] Whalen Rebound (Off:0 Def:3),150,244,4,,100915,,1611661324,37,49,3
+07:23,[LVA] Wilson Foul: Personal (2 PF),168,556,6,100915,1628932,,1611661319,37,49,3
+07:12,[MIN 51-37] Fowles Layup Shot: Made (8 PTS) Assist: Augustus (3 AST),81,26,1,,201480,200671,1611661324,37,51,3
+06:59,[LVA] McBride 3pt Shot: Missed,108,231,2,,203825,,1611661319,37,51,3
+06:54,[MIN] Whalen Rebound (Off:0 Def:4),108,231,4,,100915,,1611661324,37,51,3
+06:49,[MIN 53-37] Brunson Fadeaway Jump Shot: Made (9 PTS) Assist: Whalen (7 AST),137,40,1,,100944,100915,1611661324,37,53,3
+06:48,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,37,53,3
+06:30,[LVA] Wilson Driving Layup Shot: Missed,-85,51,2,201480,1628932,,1611661319,37,53,3
+06:29,[MIN] Team Rebound,-85,51,4,,0,,1611661324,37,53,3
+06:21,[MIN] Whalen Turnover : Bad Pass (2 TO),-136,124,5,,100915,,1611661324,37,53,3
+06:01,[LVA] Bone Layup Shot: Missed,69,15,2,201480,203402,,1611661319,37,53,3
+06:01,[MIN] Fowles Rebound (Off:1 Def:4),69,15,4,,201480,,1611661324,37,53,3
+05:45,[MIN] Fowles Layup Shot: Missed,92,15,2,,201480,,1611661324,37,53,3
+05:37,[LVA] Plum Rebound (Off:1 Def:1),92,15,4,,1628276,,1611661319,37,53,3
+05:32,[LVA 39-53] Young Jump Shot: Made (6 PTS) Assist: Plum (2 AST),138,22,1,,201477,1628276,1611661319,39,53,3
+05:14,[MIN 55-39] Whalen Jump Shot: Made (2 PTS),-132,119,1,,100915,,1611661324,39,55,3
+05:03,[LVA] McBride Jump Shot: Missed,86,22,2,,203825,,1611661319,39,55,3
+05:03,[MIN] Fowles Rebound (Off:1 Def:5),86,22,4,,201480,,1611661324,39,55,3
+04:55,[MIN] Augustus Jump Shot: Missed,80,161,2,,200671,,1611661324,39,55,3
+04:52,[LVA] Wilson Rebound (Off:1 Def:6),80,161,4,,1628932,,1611661319,39,55,3
+04:46,[LVA] McBride 3pt Shot: Missed,204,179,2,,203825,,1611661319,39,55,3
+04:44,[LVA] Bone Rebound (Off:1 Def:2),204,179,4,,203402,,1611661319,39,55,3
+04:42,[LVA 42-55] Plum 3pt Shot: Made (13 PTS) Assist: Bone (2 AST),-173,226,1,,1628276,203402,1611661319,42,55,3
+04:19,[MIN 57-42] Whalen Finger Roll Layup Shot: Made (4 PTS),102,79,1,,100915,,1611661324,42,57,3
+04:02,[LVA 44-57] Young Jump Shot: Made (8 PTS) Assist: Plum (3 AST),-152,38,1,,201477,1628276,1611661319,44,57,3
+04:02,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,44,57,3
+04:02,[MIN] Whalen Substitution replaced by Wright,0,-80,8,,100915,101030,1611661324,44,57,3
+04:02,[MIN] Brunson Substitution replaced by Zandalasini,0,-80,8,,100944,1628508,1611661324,44,57,3
+04:02,[MIN] Augustus Substitution replaced by Robinson,0,-80,8,,200671,202658,1611661324,44,57,3
+03:49,[MIN 59-44] Robinson Driving Finger Roll Layup Shot: Made (2 PTS),103,59,1,,202658,,1611661324,44,59,3
+03:37,[MIN] Wright Foul: Shooting (1 PF) (2 FTA),120,88,6,203825,101030,,1611661324,44,59,3
+03:37,[LVA 45-59] McBride Free Throw 1 of 2 (10 PTS),0,-80,3,,203825,,1611661319,45,59,3
+03:37,[LVA 46-59] McBride Free Throw 2 of 2 (11 PTS),0,-80,3,,203825,,1611661319,46,59,3
+03:25,[MIN] Robinson Turnover : Bad Pass (2 TO) Steal:Young (1 ST),86,261,5,201477,202658,,1611661324,46,59,3
+03:18,[LVA 48-59] Wilson Cutting Layup Shot: Made (10 PTS) Assist: Young (2 AST),57,37,1,,1628932,201477,1611661319,48,59,3
+02:55,[MIN] Moore Fadeaway Jump Shot: Missed,153,41,2,,202632,,1611661324,48,59,3
+02:46,[MIN] Fowles Rebound (Off:2 Def:5),153,41,4,,201480,,1611661324,48,59,3
+02:46,[MIN 61-48] Fowles Putback Layup Shot: Made (10 PTS),0,-5,1,,201480,,1611661324,48,61,3
+02:36,Jump Ball Fowles vs McBride (Zandalasini gains possession),0,-80,10,203825,201480,1628508,1611661324,48,61,3
+02:36,[LVA] McBride Turnover : Lost Ball (4 TO) Steal:Fowles (1 ST),0,-80,5,201480,203825,,1611661319,48,61,3
+02:33,[MIN 63-48] Moore Cutting Finger Roll Layup Shot: Made (18 PTS) Assist: Robinson (3 AST),120,26,1,,202632,202658,1611661324,48,63,3
+02:17,[MIN] Moore Foul: Personal (2 PF),-156,157,6,201477,202632,,1611661324,48,63,3
+02:17,[LVA] Plum Substitution replaced by Allen,0,-80,8,,1628276,1628263,1611661319,48,63,3
+02:06,[LVA] McBride Turnover : Lost Ball (5 TO) Steal:Zandalasini (1 ST),133,257,5,1628508,203825,,1611661319,48,63,3
+02:01,[MIN] Zandalasini Turnover : Bad Pass (1 TO),117,-1,5,,1628508,,1611661324,48,63,3
+01:51,[LVA 50-63] McBride Floating Jump shot: Made (13 PTS) Assist: Bone (3 AST),121,40,1,,203825,203402,1611661319,50,63,3
+01:51,[MIN] Wright Foul: Shooting (2 PF) (1 FTA),121,40,6,203825,101030,,1611661324,50,63,3
+01:51,[LVA 51-63] McBride Free Throw 1 of 1 (14 PTS),0,-80,3,,203825,,1611661319,51,63,3
+01:35,[LVA] Bone Foul: Personal (2 PF),-122,112,6,201480,203402,,1611661319,51,63,3
+01:29,[MIN 65-51] Robinson Pullup Jump shot: Made (4 PTS),25,185,1,,202658,,1611661324,51,65,3
+01:10,[LVA 53-65] Bone Jump Shot: Made (4 PTS) Assist: Allen (2 AST),135,64,1,,203402,1628263,1611661319,53,65,3
+01:02,[LVA] Bone Foul: Personal (3 PF) (2 FTA),120,99,6,201480,203402,,1611661319,53,65,3
+01:02,[MIN 66-53] Fowles Free Throw 1 of 2 (11 PTS),0,-80,3,,201480,,1611661324,53,66,3
+01:02,[MIN 67-53] Fowles Free Throw 2 of 2 (12 PTS),0,-80,3,,201480,,1611661324,53,67,3
+00:47.8,[LVA] Young Jump Shot: Missed,113,109,2,,201477,,1611661319,53,67,3
+00:44.2,[MIN] Moore Rebound (Off:0 Def:5),113,109,4,,202632,,1611661324,53,67,3
+00:37.6,[MIN 69-53] Robinson Driving Reverse Layup Shot: Made (6 PTS),98,15,1,,202658,,1611661324,53,69,3
+00:27.5,[LVA] Wilson Jump Shot: Missed,-108,126,2,,1628932,,1611661319,53,69,3
+00:25.2,[MIN] Moore Rebound (Off:0 Def:6),-108,126,4,,202632,,1611661324,53,69,3
+00:03.7,[MIN 71-53] Fowles Jump Shot: Made (14 PTS) Assist: Zandalasini (2 AST),148,64,1,,201480,1628508,1611661324,53,71,3
+00:00.0,[LVA] McBride 3pt Shot: Missed,141,464,2,,203825,,1611661319,53,71,3
+00:00.0,[LVA] Team Rebound,141,464,4,,0,,1611661319,53,71,3
+00:00.0,End Period,0,-80,13,,0,,0,53,71,3
+10:00,Start Period,0,-80,12,,0,,0,53,71,4
+09:45,[LVA] Coffey Pullup Jump shot: Missed,132,93,2,,1628269,,1611661319,53,71,4
+09:42,[MIN] Fowles Rebound (Off:2 Def:6),132,93,4,,201480,,1611661324,53,71,4
+09:26,[MIN] Wright Turnaround Fadeaway shot: Missed,134,78,2,,101030,,1611661324,53,71,4
+09:23,[LVA] Young Rebound (Off:0 Def:2),134,78,4,,201477,,1611661319,53,71,4
+09:12,[LVA 56-71] Hamby 3pt Shot: Made (5 PTS) Assist: Bone (4 AST),-34,259,1,,204324,203402,1611661319,56,71,4
+08:53,[MIN] Zandalasini Turnover : Bad Pass (2 TO),-158,108,5,,1628508,,1611661324,56,71,4
+08:53,[LVA] Allen Substitution replaced by Plum,0,-80,8,,1628263,1628276,1611661319,56,71,4
+08:31,[LVA] Hamby Driving Layup Shot: Missed,124,66,2,201480,204324,,1611661319,56,71,4
+08:31,[LVA] Team Rebound,124,66,4,,0,,1611661319,56,71,4
+08:30,[LVA 58-71] Young Jump Shot: Made (10 PTS) Assist: Coffey (1 AST),125,21,1,,201477,1628269,1611661319,58,71,4
+08:07,[MIN] Robinson Jump Shot: Missed,-155,124,2,,202658,,1611661324,58,71,4
+08:06,[LVA] Hamby Rebound (Off:1 Def:3),-155,124,4,,204324,,1611661319,58,71,4
+08:06,[MIN] Brunson Foul: Personal (3 PF),155,711,6,204324,100944,,1611661324,58,71,4
+08:06,[MIN] Robinson Substitution replaced by Moore,0,-80,8,,202658,202632,1611661324,58,71,4
+08:06,[MIN] Zandalasini Substitution replaced by Augustus,0,-80,8,,1628508,200671,1611661324,58,71,4
+08:06,[MIN] Wright Substitution replaced by Whalen,0,-80,8,,101030,100915,1611661324,58,71,4
+07:49,[LVA] Coffey Driving Layup Shot: Missed,14,102,2,,1628269,,1611661319,58,71,4
+07:46,[MIN] Augustus Rebound (Off:0 Def:1),14,102,4,,200671,,1611661324,58,71,4
+07:39,[MIN] Fowles Turnover : Traveling (2 TO),-108,42,5,,201480,,1611661324,58,71,4
+07:20,[LVA] Young Turnover : Bad Pass (1 TO) Steal:Fowles (2 ST),91,264,5,201480,201477,,1611661319,58,71,4
+07:04,[MIN 73-58] Augustus Jump Shot: Made (9 PTS) Assist: Whalen (8 AST),-130,19,1,,200671,100915,1611661324,58,73,4
+06:52,[LVA 60-73] Plum Turnaround Fadeaway shot: Made (15 PTS),13,103,1,,1628276,,1611661319,60,73,4
+06:35,[MIN 75-60] Moore Fadeaway Jump Shot: Made (20 PTS) Assist: Augustus (4 AST),-75,60,1,,202632,200671,1611661324,60,75,4
+06:21,[LVA] Coffey Pullup Jump shot: Missed,-31,166,2,,1628269,,1611661319,60,75,4
+06:17,[MIN] Brunson Rebound (Off:1 Def:5),-31,166,4,,100944,,1611661324,60,75,4
+05:57,[MIN] Brunson Turnover : 3 Second Violation (1 TO),43,36,5,,100944,,1611661324,60,75,4
+05:57,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,60,75,4
+05:57,[LVA] Bone Substitution replaced by Swords,0,-80,8,,203402,202670,1611661319,60,75,4
+05:57,[LVA] Coffey Substitution replaced by McBride,0,-80,8,,1628269,203825,1611661319,60,75,4
+05:47,[LVA 62-75] McBride Jump Shot: Made (16 PTS) Assist: Swords (1 AST),72,124,1,,203825,202670,1611661319,62,75,4
+05:25,[MIN 77-62] Fowles Turnaround Bank Hook Shot: Made (16 PTS),-85,41,1,,201480,,1611661324,62,77,4
+05:07,[LVA 64-77] Young Pullup Jump shot: Made (12 PTS) Assist: Hamby (2 AST),-2,150,1,,201477,204324,1611661319,64,77,4
+04:46,[MIN 79-64] Fowles Hook Shot: Made (18 PTS),-72,57,1,,201480,,1611661324,64,79,4
+04:31,[LVA] Young Turnover : Bad Pass (2 TO),-168,235,5,,201477,,1611661319,64,79,4
+04:12,[MIN] Augustus Turnover : Lost Ball (1 TO) Steal:Plum (1 ST),121,224,5,1628276,200671,,1611661324,64,79,4
+04:07,[LVA] Young Layup Shot: Missed,97,53,2,,201477,,1611661319,64,79,4
+04:01,[LVA] Hamby Rebound (Off:2 Def:3),97,53,4,,204324,,1611661319,64,79,4
+04:01,[LVA 66-79] Hamby Putback Layup Shot: Made (7 PTS),0,-5,1,,204324,,1611661319,66,79,4
+03:42,[MIN 81-66] Brunson Driving Layup Shot: Made (11 PTS),101,40,1,,100944,,1611661324,66,81,4
+03:29,[LVA] Hamby 3pt Shot: Missed,-54,263,2,,204324,,1611661319,66,81,4
+03:25,[MIN] Fowles Rebound (Off:2 Def:7),-54,263,4,,201480,,1611661324,66,81,4
+03:14,[MIN 84-66] Moore 3pt Shot: Made (23 PTS) Assist: Whalen (9 AST),-153,245,1,,202632,100915,1611661324,66,84,4
+03:00,[LVA 68-84] McBride Driving Floating Jump Shot: Made (18 PTS),-132,62,1,,203825,,1611661319,68,84,4
+02:37,[MIN 86-68] Augustus Pullup Jump shot: Made (11 PTS),-100,135,1,,200671,,1611661324,68,86,4
+02:31,[LVA 70-86] Hamby Layup Shot: Made (9 PTS) Assist: Plum (4 AST),70,64,1,,204324,1628276,1611661319,70,86,4
+02:30,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,70,86,4
+02:30,[LVA] Young Substitution replaced by Coffey,0,-80,8,,201477,1628269,1611661319,70,86,4
+02:30,[LVA] McBride Substitution replaced by Nared,0,-80,8,,203825,1628913,1611661319,70,86,4
+02:30,[MIN] Whalen Substitution replaced by Robinson,0,-80,8,,100915,202658,1611661324,70,86,4
+02:17,[MIN] Fowles Jump Shot: Missed,-121,41,2,202670,201480,,1611661324,70,86,4
+02:12,[MIN] Fowles Rebound (Off:3 Def:7),-121,41,4,,201480,,1611661324,70,86,4
+02:11,[MIN 88-70] Fowles Layup Shot: Made (20 PTS),-53,15,1,,201480,,1611661324,70,88,4
+02:05,[MIN] Brunson Foul: Personal (4 PF),49,133,6,204324,100944,,1611661324,70,88,4
+02:03,[LVA] Hamby Layup Shot: Missed,60,50,2,,204324,,1611661319,70,88,4
+02:00,[LVA] Swords Rebound (Off:1 Def:0),60,50,4,,202670,,1611661319,70,88,4
+01:58,[LVA] Swords Jump Shot: Missed,-160,72,2,,202670,,1611661319,70,88,4
+01:58,[MIN] Augustus Rebound (Off:0 Def:2),-160,72,4,,200671,,1611661324,70,88,4
+01:32,[MIN] Augustus 3pt Shot: Missed,-158,221,2,,200671,,1611661324,70,88,4
+01:32,[LVA] Swords Rebound (Off:1 Def:1),-158,221,4,,202670,,1611661319,70,88,4
+01:32,[MIN] Brunson Foul: Personal (5 PF),158,614,6,202670,100944,,1611661324,70,88,4
+01:32,[MIN] Moore Substitution replaced by Fagbenle,0,-80,8,,202632,1627701,1611661324,70,88,4
+01:32,[MIN] Augustus Substitution replaced by Zandalasini,0,-80,8,,200671,1628508,1611661324,70,88,4
+01:32,[MIN] Fowles Substitution replaced by Wright,0,-80,8,,201480,101030,1611661324,70,88,4
+01:23,[LVA] Nared 3pt Shot: Missed,15,254,2,,1628913,,1611661319,70,88,4
+01:21,[MIN] Team Rebound,15,254,4,,0,,1611661324,70,88,4
+01:21,[MIN] Brunson Substitution replaced by Miyem,0,-80,8,,100944,1628866,1611661324,70,88,4
+01:04,[MIN] Miyem Turnover : Lost Ball (1 TO) Steal:Plum (2 ST),-81,162,5,1628276,1628866,,1611661324,70,88,4
+01:00,[LVA 72-88] Nared Jump Shot: Made (2 PTS) Assist: Plum (5 AST),-121,87,1,,1628913,1628276,1611661319,72,88,4
+00:39.1,[MIN] Zandalasini Step Back Jump shot: Missed,-125,99,2,1628269,1628508,,1611661324,72,88,4
+00:36.1,[LVA] Swords Rebound (Off:1 Def:2),-125,99,4,,202670,,1611661319,72,88,4
+00:23.8,[MIN] Zandalasini Foul: Shooting (1 PF) (2 FTA),122,48,6,1628269,1628508,,1611661324,72,88,4
+00:23.8,[LVA] Coffey Free Throw 1 of 2 Missed,0,-80,3,,1628269,,1611661319,72,88,4
+00:23.8,[LVA] Team Rebound,0,-80,4,,0,,1611661319,72,88,4
+00:23.8,[LVA 73-88] Coffey Free Throw 2 of 2 (3 PTS),0,-80,3,,1628269,,1611661319,73,88,4
+00:17.8,[MIN] Robinson Turnover : Lost Ball (3 TO) Steal:Hamby (3 ST),-145,307,5,204324,202658,,1611661324,73,88,4
+00:13.7,[LVA] Hamby Layup Shot: Missed,94,40,2,,204324,,1611661319,73,88,4
+00:10.9,[MIN] Fagbenle Rebound (Off:2 Def:2),94,40,4,,1627701,,1611661324,73,88,4
+00:00.0,End Period,0,-80,13,,0,,0,73,88,4
+00:00.0,Game End,0,-80,0,,0,,0,73,88,4

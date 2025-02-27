@@ -1,0 +1,384 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:56,Jump Ball Jones vs Collier (Laney-Hamilton gains possession),0,-80,10,1629483,1627673,204335,1611661313,0,0,0,1
+09:46,[NYL] Stewart Turnaround Jump Shot: Missed,-61,60,2,,1627668,,1611661313,0,0,0,1
+09:43,[MIN] Williams Rebound (Off:0 Def:1),-61,60,4,,1627675,,1611661324,0,0,0,1
+09:35,[MIN] Williams Pullup Jump shot: Missed,166,140,2,,1627675,,1611661324,0,0,0,1
+09:33,[NYL] Stewart Rebound (Off:0 Def:1),166,140,4,,1627668,,1611661313,0,0,0,1
+09:28,[NYL 3-0] Laney-Hamilton 3pt Shot: Made (3 PTS) Assist: Stewart (1 AST),-235,28,1,,204335,1627668,1611661313,3,0,3,1
+09:15,[NYL] Stewart Violation:Kicked Ball,0,-80,7,,1627668,,1611661313,3,0,0,1
+09:05,[MIN 2-3] Collier Jump Shot: Made (2 PTS) Assist: Williams (1 AST),-186,56,1,,1629483,1627675,1611661324,3,2,2,1
+08:45,[NYL] Stewart Pullup Jump shot: Missed,-121,80,2,,1627668,,1611661313,3,2,0,1
+08:43,[MIN] Smith Rebound (Off:0 Def:1),-121,80,4,,1629501,,1611661324,3,2,0,1
+08:27,[MIN 5-3] McBride 3pt Shot: Made (3 PTS) Assist: Williams (2 AST),-17,246,1,,203825,1627675,1611661324,3,5,3,1
+08:05,[NYL] Ionescu Driving Layup Shot: Missed,82,51,2,,1629477,,1611661313,3,5,0,1
+08:03,[MIN] Smith Rebound (Off:0 Def:2),82,51,4,,1629501,,1611661324,3,5,0,1
+07:56,[MIN] Smith Jump Shot: Missed,179,13,2,,1629501,,1611661324,3,5,0,1
+07:51,[MIN] Smith Rebound (Off:1 Def:2),179,13,4,,1629501,,1611661324,3,5,0,1
+07:50,[MIN 7-3] Smith Layup Shot: Made (2 PTS),-26,16,1,,1629501,,1611661324,3,7,2,1
+07:36,[NYL 6-7] Ionescu 3pt Shot: Made (3 PTS) Assist: Vandersloot (1 AST),235,12,1,,1629477,202664,1611661313,6,7,3,1
+07:22,[MIN 9-6] Carleton Pullup Jump shot: Made (2 PTS) Assist: Collier (1 AST),1,164,1,,1629524,1629483,1611661324,6,9,2,1
+07:16,[MIN] Collier Foul: Personal (1 PF),-65,67,6,1627668,1629483,203800,1611661324,6,9,0,1
+06:59,[NYL] Stewart 3pt Shot: Missed,233,44,2,,1627668,,1611661313,6,9,0,1
+06:55,[MIN] McBride Rebound (Off:0 Def:1),233,44,4,,203825,,1611661324,6,9,0,1
+06:34,[MIN] Smith Turnover : Lost Ball (1 TO) Steal:Ionescu (1 ST),-101,5,5,1629477,1629501,,1611661324,6,9,0,1
+06:21,[NYL] Laney-Hamilton Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-50,74,5,,204335,1627539,1611661313,6,9,0,1
+06:07,[MIN] McBride Driving Floating Jump Shot: Missed,24,111,2,,203825,,1611661324,6,9,0,1
+06:07,[NYL] Team Rebound,24,111,4,,0,,1611661313,6,9,0,1
+06:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,9,0,1
+05:48,[NYL] Laney-Hamilton 3pt Shot: Missed,102,226,2,,204335,,1611661313,6,9,0,1
+05:45,[MIN] Collier Rebound (Off:0 Def:1),102,226,4,,1629483,,1611661324,6,9,0,1
+05:35,[MIN 11-6] Williams Pullup Jump shot: Made (2 PTS) Assist: Collier (2 AST),-147,20,1,,1627675,1629483,1611661324,6,11,2,1
+05:23,[NYL] Jones Foul: Offensive (1 PF),49,39,6,1629501,1627673,1627539,1611661313,6,11,0,1
+05:23,[NYL] Jones Turnover : Offensive Foul Turnover (1 TO),49,39,5,,1627673,1627539,1611661313,6,11,0,1
+05:14,[NYL] Vandersloot Foul: Flagrant Type 1 (1 PF) (2 FTA),-138,130,6,203825,202664,203800,1611661313,6,11,0,1
+05:14,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,6,11,0,1
+05:14,[MIN 12-6] McBride Free Throw Flagrant 1 of 2 (4 PTS),0,-80,3,,203825,,1611661324,6,12,1,1
+05:14,[MIN 13-6] McBride Free Throw Flagrant 2 of 2 (5 PTS),0,-80,3,,203825,,1611661324,6,13,1,1
+05:06,[MIN 16-6] Carleton 3pt Shot: Made (5 PTS) Assist: McBride (1 AST),127,235,1,,1629524,203825,1611661324,6,16,3,1
+04:44,[NYL] Laney-Hamilton Turnover : Bad Pass (2 TO) Steal:McBride (1 ST),33,386,5,203825,204335,,1611661313,6,16,0,1
+04:41,[MIN] Carleton Turnover : Lost Ball (1 TO) Steal:Vandersloot (1 ST),-7,20,5,202664,1629524,,1611661324,6,16,0,1
+04:35,[NYL 8-16] Vandersloot Running Pull-Up Jump Shot: Made (2 PTS) Assist: Laney-Hamilton (1 AST),6,153,1,,202664,204335,1611661313,8,16,2,1
+04:20,[MIN] Carleton 3pt Shot: Missed,-86,216,2,,1629524,,1611661324,8,16,0,1
+04:17,[NYL] Jones Rebound (Off:0 Def:1),-86,216,4,,1627673,,1611661313,8,16,0,1
+04:05,[NYL 11-16] Stewart 3pt Shot: Made (3 PTS) Assist: Ionescu (1 AST),124,221,1,,1627668,1629477,1611661313,11,16,3,1
+03:43,[MIN 18-11] Williams Pullup Jump shot: Made (4 PTS) Assist: Smith (1 AST),-106,134,1,,1627675,1629501,1611661324,11,18,2,1
+03:25,[NYL] Ionescu Driving Layup Shot: Missed,-38,45,2,,1629477,,1611661313,11,18,0,1
+03:23,[MIN] Carleton Rebound (Off:0 Def:1),-38,45,4,,1629524,,1611661324,11,18,0,1
+03:18,[MIN 20-11] Collier Running Layup Shot: Made (4 PTS) Assist: Williams (3 AST),-10,36,1,,1629483,1627675,1611661324,11,20,2,1
+03:00,[NYL] Vandersloot Turnover : Bad Pass (1 TO) Steal:Collier (1 ST),-201,72,5,1629483,202664,,1611661313,11,20,0,1
+02:59,[NYL] Vandersloot Foul: Personal (2 PF),-50,602,6,1629483,202664,203800,1611661313,11,20,0,1
+02:59,Timeout : Official,0,-80,9,,0,,0,11,20,0,1
+02:59,[NYL] Laney-Hamilton Substitution replaced by Thornton,0,-80,8,,204335,203866,1611661313,11,20,0,1
+02:59,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,11,20,0,1
+02:59,[NYL] Vandersloot Substitution replaced by Fiebich,0,-80,8,,202664,1630142,1611661313,11,20,0,1
+02:40,[MIN 22-11] Smith Cutting Layup Shot: Made (4 PTS) Assist: McBride (2 AST),44,22,1,,1629501,203825,1611661324,11,22,2,1
+02:29,[NYL] Stewart Pullup Jump shot: Missed,0,136,2,,1627668,,1611661313,11,22,0,1
+02:26,[MIN] Smith Rebound (Off:1 Def:3),0,136,4,,1629501,,1611661324,11,22,0,1
+02:20,[MIN 25-11] Carleton 3pt Shot: Made (8 PTS) Assist: Williams (4 AST),-182,145,1,,1629524,1627675,1611661324,11,25,3,1
+02:12,Timeout : Regular,0,-80,9,,1611661313,,1611661313,11,25,0,1
+02:12,[MIN] Williams Substitution replaced by Zandalasini,0,-80,8,,1627675,1628508,1611661324,11,25,0,1
+02:12,[MIN] McBride Substitution replaced by Hiedeman,0,-80,8,,203825,1629567,1611661324,11,25,0,1
+02:03,[NYL 14-25] Ionescu 3pt Shot: Made (6 PTS) Assist: Fiebich (1 AST),-120,270,1,,1629477,1630142,1611661313,14,25,3,1
+01:52,[MIN 27-14] Hiedeman Driving Floating Bank Jump Shot: Made (2 PTS),-4,53,1,,1629567,,1611661324,14,27,2,1
+01:38,[NYL] Thornton Turnover : Out of Bounds - Bad Pass Turnover (1 TO),100,239,5,,203866,203800,1611661313,14,27,0,1
+01:29,[MIN] Zandalasini Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-1,121,5,,1628508,203800,1611661324,14,27,0,1
+01:09,[NYL 16-27] Ionescu Driving Layup Shot: Made (8 PTS),-49,49,1,,1629477,,1611661313,16,27,2,1
+00:54.4,[MIN 30-16] Hiedeman 3pt Shot: Made (5 PTS) Assist: Smith (2 AST),179,170,1,,1629567,1629501,1611661324,16,30,3,1
+00:42.8,[MIN] Collier Foul: Shooting (2 PF) (2 FTA),-13,92,6,1627668,1629483,1628952,1611661324,16,30,0,1
+00:42.8,[NYL] Stewart Free Throw 1 of 2 Missed,0,-80,3,,1627668,,1611661313,16,30,0,1
+00:42.8,[NYL] Team Rebound,0,-80,4,,0,,1611661313,16,30,0,1
+00:42.8,[NYL] Ionescu Substitution replaced by Vandersloot,0,-80,8,,1629477,202664,1611661313,16,30,0,1
+00:42.8,[MIN] Collier Substitution replaced by Hines-Allen,0,-80,8,,1629483,1628899,1611661324,16,30,0,1
+00:42.8,[NYL 17-30] Stewart Free Throw 2 of 2 (4 PTS),0,-80,3,,1627668,,1611661313,17,30,1,1
+00:26.0,[MIN] Zandalasini 3pt Shot: Missed,190,160,2,,1628508,,1611661324,17,30,0,1
+00:22.8,[NYL] Vandersloot Rebound (Off:0 Def:1),190,160,4,,202664,,1611661313,17,30,0,1
+00:00.8,[NYL] Sabally Jump Bank Shot: Missed,62,43,2,,1631055,,1611661313,17,30,0,1
+00:00.1,[NYL] Team Rebound,62,43,4,,0,,1611661313,17,30,0,1
+00:00.0,End Period,0,-80,13,,0,,0,17,30,0,1
+10:00,Start Period,0,-80,12,,0,,0,17,30,0,2
+09:39,[MIN] Smith Reverse Layup Shot: Missed,42,31,2,,1629501,,1611661324,17,30,0,2
+09:38,[MIN] Smith Rebound (Off:2 Def:3),42,31,4,,1629501,,1611661324,17,30,0,2
+09:31,[MIN] Zandalasini Driving Layup Shot: Missed Block: Burke (1 BLK),6,57,2,1629568,1628508,,1611661324,17,30,0,2
+09:29,[MIN] Hines-Allen Rebound (Off:1 Def:0),6,57,4,,1628899,,1611661324,17,30,0,2
+09:23,[MIN 32-17] Zandalasini Step Back Jump shot: Made (2 PTS) Assist: Hines-Allen (1 AST),133,132,1,,1628508,1628899,1611661324,17,32,2,2
+09:12,[MIN] Smith Foul: Shooting (1 PF) (2 FTA),40,31,6,1627673,1629501,1628952,1611661324,17,32,0,2
+09:12,[NYL 18-32] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1627673,,1611661313,18,32,1,2
+09:12,[MIN] Smith Substitution replaced by Juhász,0,-80,8,,1629501,1641657,1611661324,18,32,0,2
+09:12,[NYL] Jones Free Throw 2 of 2 Missed,0,-80,3,,1627673,,1611661313,18,32,0,2
+09:10,[MIN] Juhász Rebound (Off:0 Def:1),0,-80,4,,1641657,,1611661324,18,32,0,2
+08:54,[MIN 35-18] Carleton 3pt Shot: Made (11 PTS) Assist: Zandalasini (1 AST),-235,14,1,,1629524,1628508,1611661324,18,35,3,2
+08:46,[NYL 20-35] Jones Layup Shot: Made (3 PTS) Assist: Vandersloot (2 AST),-18,51,1,,1627673,202664,1611661313,20,35,2,2
+08:32,[MIN] Hiedeman Driving Layup Shot: Missed,-45,15,2,,1629567,,1611661324,20,35,0,2
+08:30,[NYL] Fiebich Rebound (Off:0 Def:1),-45,15,4,,1630142,,1611661313,20,35,0,2
+08:26,[NYL] Fiebich 3pt Shot: Missed,138,212,2,,1630142,,1611661313,20,35,0,2
+08:21,[MIN] Hines-Allen Rebound (Off:1 Def:1),138,212,4,,1628899,,1611661324,20,35,0,2
+08:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,35,0,2
+08:01,[MIN] Juhász Driving Layup Shot: Missed Block: Burke (2 BLK),48,8,2,1629568,1641657,,1611661324,20,35,0,2
+08:01,[MIN] Team Rebound,48,8,4,,0,,1611661324,20,35,0,2
+08:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,35,0,2
+07:58,[MIN 37-20] Hines-Allen Reverse Layup Shot: Made (2 PTS) Assist: Hiedeman (1 AST),-38,9,1,,1628899,1629567,1611661324,20,37,2,2
+07:38,[NYL 22-37] Jones Driving Layup Shot: Made (5 PTS) Assist: Burke (1 AST),43,39,1,,1627673,1629568,1611661313,22,37,2,2
+07:16,[MIN] Hiedeman 3pt Shot: Missed,233,81,2,,1629567,,1611661324,22,37,0,2
+07:13,[MIN] Hiedeman Rebound (Off:1 Def:0),233,81,4,,1629567,,1611661324,22,37,0,2
+07:00,[MIN] Hines-Allen Driving Hook Shot: Missed,27,25,2,,1628899,,1611661324,22,37,0,2
+06:58,[NYL] Burke Rebound (Off:0 Def:1),27,25,4,,1629568,,1611661313,22,37,0,2
+06:55,[NYL] Fiebich Foul: Offensive (1 PF),162,157,6,1629524,1630142,1627539,1611661313,22,37,0,2
+06:55,[NYL] Fiebich Turnover : Offensive Foul Turnover (1 TO),162,157,5,,1630142,1627539,1611661313,22,37,0,2
+06:55,[MIN] Hiedeman Substitution replaced by Williams,0,-80,8,,1629567,1627675,1611661324,22,37,0,2
+06:55,[MIN] Carleton Substitution replaced by McBride,0,-80,8,,1629524,203825,1611661324,22,37,0,2
+06:46,[MIN] Zandalasini Turnover : Out of Bounds - Bad Pass Turnover (2 TO),35,132,5,,1628508,1627539,1611661324,22,37,0,2
+06:36,[NYL 25-37] Jones 3pt Shot: Made (8 PTS) Assist: Vandersloot (3 AST),12,250,1,,1627673,202664,1611661313,25,37,3,2
+06:28,Timeout : Regular,0,-80,9,,1611661324,,1611661324,25,37,0,2
+06:28,[NYL] Fiebich Substitution replaced by Ionescu,0,-80,8,,1630142,1629477,1611661313,25,37,0,2
+06:28,[NYL] Vandersloot Substitution replaced by Stewart,0,-80,8,,202664,1627668,1611661313,25,37,0,2
+06:28,[MIN] Juhász Substitution replaced by Collier,0,-80,8,,1641657,1629483,1611661324,25,37,0,2
+06:10,[MIN] Hines-Allen Driving Layup Shot: Missed,32,27,2,,1628899,,1611661324,25,37,0,2
+06:08,[MIN] Hines-Allen Rebound (Off:2 Def:1),32,27,4,,1628899,,1611661324,25,37,0,2
+06:06,[MIN 39-25] Hines-Allen Putback Layup Shot: Made (4 PTS),28,16,1,,1628899,,1611661324,25,39,2,2
+05:58,[MIN] Williams Foul: Personal (1 PF),-209,276,6,1629477,1627675,1628952,1611661324,25,39,0,2
+05:50,[NYL] Jones Fadeaway Jump Shot: Missed,-110,147,2,,1627673,,1611661313,25,39,0,2
+05:47,[MIN] Zandalasini Rebound (Off:0 Def:1),-110,147,4,,1628508,,1611661324,25,39,0,2
+05:39,[MIN] Collier Jump Shot: Missed,-110,41,2,,1629483,,1611661324,25,39,0,2
+05:36,[NYL] Stewart Rebound (Off:0 Def:2),-110,41,4,,1627668,,1611661313,25,39,0,2
+05:32,[NYL 27-39] Stewart Driving Floating Jump Shot: Made (6 PTS),0,83,1,,1627668,,1611661313,27,39,2,2
+05:10,[MIN 41-27] Hines-Allen Reverse Layup Shot: Made (6 PTS),-27,20,1,,1628899,,1611661324,27,41,2,2
+04:56,[NYL] Jones 3pt Shot: Missed,221,74,2,,1627673,,1611661313,27,41,0,2
+04:54,[MIN] Collier Rebound (Off:0 Def:2),221,74,4,,1629483,,1611661324,27,41,0,2
+04:30,[MIN] McBride Step Back Jump shot: Missed Block: Burke (3 BLK),11,146,2,1629568,203825,,1611661324,27,41,0,2
+04:27,[NYL] Ionescu Rebound (Off:0 Def:1),11,146,4,,1629477,,1611661313,27,41,0,2
+04:22,[NYL] Laney-Hamilton 3pt Shot: Missed,150,198,2,,204335,,1611661313,27,41,0,2
+04:21,[NYL] Stewart Rebound (Off:1 Def:2),150,198,4,,1627668,,1611661313,27,41,0,2
+04:21,[MIN] Zandalasini Foul: Shooting (1 PF) (2 FTA),-21,37,6,1627668,1628508,1627539,1611661324,27,41,0,2
+04:21,[NYL 28-41] Stewart Free Throw 1 of 2 (7 PTS),0,-80,3,,1627668,,1611661313,28,41,1,2
+04:21,[NYL] Burke Substitution replaced by Fiebich,0,-80,8,,1629568,1630142,1611661313,28,41,0,2
+04:21,[MIN] Zandalasini Substitution replaced by Carleton,0,-80,8,,1628508,1629524,1611661324,28,41,0,2
+04:21,[MIN] Collier Substitution replaced by Smith,0,-80,8,,1629483,1629501,1611661324,28,41,0,2
+04:21,[NYL 29-41] Stewart Free Throw 2 of 2 (8 PTS),0,-80,3,,1627668,,1611661313,29,41,1,2
+04:03,[MIN] Williams Driving Finger Roll Layup Shot: Missed,38,32,2,,1627675,,1611661324,29,41,0,2
+04:01,[NYL] Jones Rebound (Off:0 Def:2),38,32,4,,1627673,,1611661313,29,41,0,2
+03:57,[MIN] Smith Foul: Shooting (2 PF) (2 FTA),21,26,6,1627668,1629501,1628952,1611661324,29,41,0,2
+03:57,[NYL 30-41] Stewart Free Throw 1 of 2 (9 PTS),0,-80,3,,1627668,,1611661313,30,41,1,2
+03:57,[MIN] Smith Substitution replaced by Collier,0,-80,8,,1629501,1629483,1611661324,30,41,0,2
+03:57,[NYL 31-41] Stewart Free Throw 2 of 2 (10 PTS),0,-80,3,,1627668,,1611661313,31,41,1,2
+03:49,[MIN 43-31] Collier Pullup Jump shot: Made (6 PTS),24,107,1,,1629483,,1611661324,31,43,2,2
+03:39,[NYL 33-43] Stewart Driving Layup Shot: Made (12 PTS) Assist: Ionescu (2 AST),-37,48,1,,1627668,1629477,1611661313,33,43,2,2
+03:26,[MIN 45-33] Williams Jump Shot: Made (6 PTS) Assist: Collier (3 AST),3,140,1,,1627675,1629483,1611661324,33,45,2,2
+03:09,[NYL 35-45] Ionescu Floating Jump shot: Made (10 PTS),-102,66,1,,1629477,,1611661313,35,45,2,2
+02:47,[MIN 48-35] Carleton 3pt Shot: Made (14 PTS) Assist: Hines-Allen (2 AST),174,193,1,,1629524,1628899,1611661324,35,48,3,2
+02:36,[NYL 37-48] Stewart Pullup Jump shot: Made (14 PTS),1,75,1,,1627668,,1611661313,37,48,2,2
+02:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,48,0,2
+02:23,Timeout : Regular,0,-80,9,,1611661313,,1611661313,37,48,0,2
+02:23,[NYL] Laney-Hamilton Substitution replaced by Burke,0,-80,8,,204335,1629568,1611661313,37,48,0,2
+02:06,[MIN 50-37] Collier Turnaround Jump Shot: Made (8 PTS) Assist: McBride (3 AST),-117,30,1,,1629483,203825,1611661324,37,50,2,2
+01:44,[NYL] Ionescu 3pt Shot: Missed,-189,216,2,,1629477,,1611661313,37,50,0,2
+01:41,[MIN] Williams Rebound (Off:0 Def:2),-189,216,4,,1627675,,1611661324,37,50,0,2
+01:30,[NYL] Fiebich Foul: Shooting (2 PF) (2 FTA),32,44,6,1628899,1630142,1628952,1611661313,37,50,0,2
+01:30,[MIN 51-37] Hines-Allen Free Throw 1 of 2 (7 PTS),0,-80,3,,1628899,,1611661324,37,51,1,2
+01:30,[MIN 52-37] Hines-Allen Free Throw 2 of 2 (8 PTS),0,-80,3,,1628899,,1611661324,37,52,1,2
+01:21,[NYL] Stewart Turnaround Jump Shot: Missed,6,91,2,,1627668,,1611661313,37,52,0,2
+01:17,[MIN] Hines-Allen Rebound (Off:2 Def:2),6,91,4,,1628899,,1611661324,37,52,0,2
+01:09,[MIN] Williams Pullup Jump shot: Missed,12,161,2,,1627675,,1611661324,37,52,0,2
+01:07,[NYL] Stewart Rebound (Off:1 Def:3),12,161,4,,1627668,,1611661313,37,52,0,2
+01:02,[NYL 39-52] Stewart Running Reverse Layup Shot: Made (16 PTS),-24,33,1,,1627668,,1611661313,39,52,2,2
+00:35.7,[MIN] Carleton 3pt Shot: Missed,117,214,2,,1629524,,1611661324,39,52,0,2
+00:32.7,[NYL] Fiebich Rebound (Off:0 Def:2),117,214,4,,1630142,,1611661313,39,52,0,2
+00:25.6,[NYL] Ionescu Driving Layup Shot: Missed Block: Collier (1 BLK),-28,54,2,1629483,1629477,,1611661313,39,52,0,2
+00:24.4,[MIN] Collier Rebound (Off:0 Def:3),-28,54,4,,1629483,,1611661324,39,52,0,2
+00:00.4,[MIN] Team Turnover : Shot Clock Turnover,92,160,5,,0,,1611661324,39,52,0,2
+00:00.0,End Period,0,-80,13,,0,,0,39,52,0,2
+10:00,Start Period,0,-80,12,,0,,0,39,52,0,3
+09:35,[MIN 55-39] Carleton 3pt Shot: Made (17 PTS) Assist: McBride (4 AST),230,27,1,,1629524,203825,1611661324,39,55,3,3
+09:24,[NYL] Ionescu Foul: Offensive (1 PF),-6,283,6,203825,1629477,1628952,1611661313,39,55,0,3
+09:24,[NYL] Ionescu Turnover : Offensive Foul Turnover (1 TO),-6,283,5,,1629477,1628952,1611661313,39,55,0,3
+09:06,[MIN] Collier 3pt Shot: Missed,230,40,2,,1629483,,1611661324,39,55,0,3
+09:02,[MIN] Smith Rebound (Off:3 Def:3),230,40,4,,1629501,,1611661324,39,55,0,3
+09:01,[MIN 57-39] Smith Reverse Layup Shot: Made (6 PTS),41,21,1,,1629501,,1611661324,39,57,2,3
+08:41,[NYL] Ionescu Turnover : Bad Pass (2 TO) Steal:Smith (1 ST),-132,113,5,1629501,1629477,,1611661313,39,57,0,3
+08:26,[MIN 59-39] Williams Pullup Jump shot: Made (8 PTS) Assist: McBride (5 AST),-179,81,1,,1627675,203825,1611661324,39,59,2,3
+08:25,Timeout : Regular,0,-80,9,,1611661313,,1611661313,39,59,0,3
+08:08,[NYL] Ionescu Cutting Layup Shot: Missed Block: Carleton (1 BLK),-43,14,2,1629524,1629477,,1611661313,39,59,0,3
+08:04,[MIN] Collier Rebound (Off:0 Def:4),-43,14,4,,1629483,,1611661324,39,59,0,3
+07:54,[MIN] Collier Cutting Layup Shot: Missed,-13,77,2,,1629483,,1611661324,39,59,0,3
+07:50,[MIN] Collier Rebound (Off:1 Def:4),-13,77,4,,1629483,,1611661324,39,59,0,3
+07:50,[MIN 61-39] Collier Tip Layup Shot: Made (10 PTS),0,-5,1,,1629483,,1611661324,39,61,2,3
+07:47,[MIN] Williams Foul: Personal (2 PF),59,25,6,204335,1627675,1627539,1611661324,39,61,0,3
+07:34,[NYL] Stewart Turnaround Jump Shot: Missed,120,27,2,,1627668,,1611661313,39,61,0,3
+07:31,[MIN] Williams Rebound (Off:0 Def:3),120,27,4,,1627675,,1611661324,39,61,0,3
+07:18,[MIN] Collier Fadeaway Jump Shot: Missed Block: Jones (1 BLK),-68,33,2,1627673,1629483,,1611661324,39,61,0,3
+07:13,[MIN] Collier Rebound (Off:2 Def:4),-68,33,4,,1629483,,1611661324,39,61,0,3
+07:09,[MIN 63-39] Williams Pullup Jump shot: Made (10 PTS),129,125,1,,1627675,,1611661324,39,63,2,3
+06:50,[NYL] Stewart Jump Shot: Missed,-28,135,2,,1627668,,1611661313,39,63,0,3
+06:48,[MIN] Smith Rebound (Off:3 Def:4),-28,135,4,,1629501,,1611661324,39,63,0,3
+06:36,[NYL] Jones Foul: Personal (2 PF),146,110,6,1629483,1627673,1628952,1611661313,39,63,0,3
+06:36,[NYL] Vandersloot Substitution replaced by Fiebich,0,-80,8,,202664,1630142,1611661313,39,63,0,3
+06:28,[MIN] McBride 3pt Shot: Missed,-171,246,2,,203825,,1611661324,39,63,0,3
+06:24,[NYL] Stewart Rebound (Off:1 Def:4),-171,246,4,,1627668,,1611661313,39,63,0,3
+06:23,[MIN] Carleton Foul: Personal (1 PF),-93,303,6,1627668,1629524,1628952,1611661324,39,63,0,3
+06:18,[NYL] Stewart Driving Layup Shot: Missed,-36,20,2,,1627668,,1611661313,39,63,0,3
+06:13,[NYL] Stewart Rebound (Off:2 Def:4),-36,20,4,,1627668,,1611661313,39,63,0,3
+06:13,[NYL 41-63] Stewart Putback Layup Shot: Made (18 PTS),0,-5,1,,1627668,,1611661313,41,63,2,3
+05:50,[MIN] Smith Driving Layup Shot: Missed,39,35,2,,1629501,,1611661324,41,63,0,3
+05:46,[NYL] Stewart Rebound (Off:2 Def:5),39,35,4,,1627668,,1611661313,41,63,0,3
+05:29,[NYL] Ionescu 3pt Shot: Missed,-161,162,2,,1629477,,1611661313,41,63,0,3
+05:26,[NYL] Laney-Hamilton Rebound (Off:1 Def:0),-161,162,4,,204335,,1611661313,41,63,0,3
+05:20,[NYL] Ionescu Cutting Layup Shot: Missed,-50,8,2,,1629477,,1611661313,41,63,0,3
+05:19,[NYL] Jones Rebound (Off:1 Def:2),-50,8,4,,1627673,,1611661313,41,63,0,3
+05:19,[NYL] Jones Putback Layup Shot: Missed,0,42,2,,1627673,,1611661313,41,63,0,3
+05:19,[NYL] Jones Rebound (Off:2 Def:2),0,42,4,,1627673,,1611661313,41,63,0,3
+05:19,[MIN] Carleton Foul: Shooting (2 PF) (2 FTA),4,43,6,1627673,1629524,203800,1611661324,41,63,0,3
+05:19,[NYL 42-63] Jones Free Throw 1 of 2 (9 PTS),0,-80,3,,1627673,,1611661313,42,63,1,3
+05:19,[NYL] Jones Free Throw 2 of 2 Missed,0,-80,3,,1627673,,1611661313,42,63,0,3
+05:17,[MIN] Collier Rebound (Off:2 Def:5),0,-80,4,,1629483,,1611661324,42,63,0,3
+05:06,[MIN] Williams Driving Reverse Layup Shot: Missed,-24,23,2,,1627675,,1611661324,42,63,0,3
+05:05,[NYL] Jones Rebound (Off:2 Def:3),-24,23,4,,1627673,,1611661313,42,63,0,3
+04:52,[NYL] Ionescu Turnover : Bad Pass (3 TO) Steal:Collier (2 ST),185,139,5,1629483,1629477,,1611661313,42,63,0,3
+04:40,[MIN 65-42] Carleton Pullup Jump shot: Made (19 PTS) Assist: Collier (4 AST),11,148,1,,1629524,1629483,1611661324,42,65,2,3
+04:40,[NYL] Laney-Hamilton Foul: Shooting (1 PF) (1 FTA),11,148,6,1629524,204335,1628952,1611661313,42,65,0,3
+04:40,[MIN] Carleton Free Throw 1 of 1 Missed,0,-80,3,,1629524,,1611661324,42,65,0,3
+04:38,[NYL] Stewart Rebound (Off:2 Def:6),0,-80,4,,1627668,,1611661313,42,65,0,3
+04:22,[NYL] Ionescu 3pt Shot: Missed,166,196,2,,1629477,,1611661313,42,65,0,3
+04:18,[NYL] Fiebich Rebound (Off:1 Def:2),166,196,4,,1630142,,1611661313,42,65,0,3
+04:16,[NYL] Jones 3pt Shot: Missed,-125,199,2,,1627673,,1611661313,42,65,0,3
+04:12,[MIN] Collier Rebound (Off:2 Def:6),-125,199,4,,1629483,,1611661324,42,65,0,3
+04:09,[MIN] Smith Foul: Offensive (3 PF),-120,236,6,1629477,1629501,203800,1611661324,42,65,0,3
+04:09,[MIN] Smith Turnover : Offensive Foul Turnover (2 TO),-120,236,5,,1629501,203800,1611661324,42,65,0,3
+04:09,[NYL] Ionescu Substitution replaced by Thornton,0,-80,8,,1629477,203866,1611661313,42,65,0,3
+04:09,[NYL] Jones Substitution replaced by Sabally,0,-80,8,,1627673,1631055,1611661313,42,65,0,3
+04:09,[MIN] Williams Substitution replaced by Hiedeman,0,-80,8,,1627675,1629567,1611661324,42,65,0,3
+03:56,[NYL] Laney-Hamilton Turnover : Bad Pass (3 TO) Steal:Collier (3 ST),0,111,5,1629483,204335,,1611661313,42,65,0,3
+03:52,[NYL] Sabally Foul: Personal (1 PF),-13,123,6,1629483,1631055,1627539,1611661313,42,65,0,3
+03:39,[MIN 67-42] Collier Jump Shot: Made (12 PTS) Assist: Carleton (1 AST),118,27,1,,1629483,1629524,1611661324,42,67,2,3
+03:28,[NYL] Laney-Hamilton 3pt Shot: Missed,4,253,2,,204335,,1611661313,42,67,0,3
+03:24,[MIN] Hiedeman Rebound (Off:1 Def:1),4,253,4,,1629567,,1611661324,42,67,0,3
+03:18,[NYL] Sabally Violation:Kicked Ball,0,-80,7,,1631055,,1611661313,42,67,0,3
+03:05,[MIN] Smith Turnaround Jump Shot: Missed Block: Fiebich (1 BLK),4,99,2,1630142,1629501,,1611661324,42,67,0,3
+03:01,[NYL] Stewart Rebound (Off:2 Def:7),4,99,4,,1627668,,1611661313,42,67,0,3
+03:00,[MIN] Collier Foul: Personal (3 PF),-182,208,6,1627668,1629483,1628952,1611661324,42,67,0,3
+02:55,[MIN] Hiedeman Foul: Shooting (1 PF) (2 FTA),42,81,6,1627668,1629567,1628952,1611661324,42,67,0,3
+02:55,[NYL 43-67] Stewart Free Throw 1 of 2 (19 PTS),0,-80,3,,1627668,,1611661313,43,67,1,3
+02:55,[MIN] Smith Substitution replaced by Hines-Allen,0,-80,8,,1629501,1628899,1611661324,43,67,0,3
+02:55,[NYL] Stewart Free Throw 2 of 2 Missed,0,-80,3,,1627668,,1611661313,43,67,0,3
+02:53,[MIN] Collier Rebound (Off:2 Def:7),0,-80,4,,1629483,,1611661324,43,67,0,3
+02:40,[MIN] Hiedeman Turnover : Bad Pass (1 TO) Steal:Sabally (1 ST),-63,60,5,1631055,1629567,,1611661324,43,67,0,3
+02:24,[NYL 45-67] Laney-Hamilton Fadeaway Jump Shot: Made (5 PTS),3,68,1,,204335,,1611661313,45,67,2,3
+02:06,[MIN 69-45] Collier Jump Shot: Made (14 PTS) Assist: Carleton (2 AST),-208,47,1,,1629483,1629524,1611661324,45,69,2,3
+01:51,[NYL] Thornton 3pt Shot: Missed,213,116,2,,203866,,1611661313,45,69,0,3
+01:45,[MIN] Collier Rebound (Off:2 Def:8),213,116,4,,1629483,,1611661324,45,69,0,3
+01:42,[MIN] Hines-Allen Turnover : Lost Ball (1 TO) Steal:Fiebich (1 ST),144,314,5,1630142,1628899,,1611661324,45,69,0,3
+01:37,[NYL 47-69] Stewart Running Layup Shot: Made (21 PTS) Assist: Fiebich (2 AST),34,13,1,,1627668,1630142,1611661313,47,69,2,3
+01:16,[MIN 71-47] Hines-Allen Jump Shot: Made (10 PTS) Assist: McBride (6 AST),56,69,1,,1628899,203825,1611661324,47,71,2,3
+01:02,[MIN] Collier Foul: Personal (4 PF) (2 FTA),0,192,6,1631055,1629483,1627539,1611661324,47,71,0,3
+01:02,[NYL] Sabally Free Throw 1 of 2 Missed,0,-80,3,,1631055,,1611661313,47,71,0,3
+01:02,[NYL] Team Rebound,0,-80,4,,0,,1611661313,47,71,0,3
+01:02,[NYL] Laney-Hamilton Substitution replaced by Ionescu,0,-80,8,,204335,1629477,1611661313,47,71,0,3
+01:02,[MIN] Collier Substitution replaced by Smith,0,-80,8,,1629483,1629501,1611661324,47,71,0,3
+01:02,[NYL 48-71] Sabally Free Throw 2 of 2 (1 PTS),0,-80,3,,1631055,,1611661313,48,71,1,3
+00:43.4,[MIN 74-48] McBride 3pt Shot: Made (8 PTS) Assist: Hiedeman (2 AST),-178,212,1,,203825,1629567,1611661324,48,74,3,3
+00:35.5,[NYL 50-74] Sabally Cutting Layup Shot: Made (3 PTS) Assist: Ionescu (3 AST),-35,6,1,,1631055,1629477,1611661313,50,74,2,3
+00:24.6,[MIN] Hines-Allen Turnover : Bad Pass (2 TO) Steal:Stewart (1 ST),-7,133,5,1627668,1628899,,1611661324,50,74,0,3
+00:19.6,[NYL] Ionescu 3pt Shot: Missed,-213,107,2,,1629477,,1611661313,50,74,0,3
+00:16.1,[NYL] Ionescu Rebound (Off:1 Def:1),-213,107,4,,1629477,,1611661313,50,74,0,3
+00:03.4,[NYL] Ionescu 3pt Shot: Missed,-94,220,2,,1629477,,1611661313,50,74,0,3
+00:00.2,[NYL] Fiebich Rebound (Off:2 Def:2),-94,220,4,,1630142,,1611661313,50,74,0,3
+00:00.2,[NYL] Ionescu 3pt Shot: Missed,-39,244,2,,1629477,,1611661313,50,74,0,3
+00:00.1,[NYL] Team Rebound,-39,244,4,,0,,1611661313,50,74,0,3
+00:00.0,End Period,0,-80,13,,0,,0,50,74,0,3
+10:00,Start Period,0,-80,12,,0,,0,50,74,0,4
+10:00,Stoppage: Court Cleanup,0,-80,20,,0,,0,50,74,0,4
+09:45,[NYL 52-74] Sabally Driving Layup Shot: Made (5 PTS) Assist: Ionescu (4 AST),-2,30,1,,1631055,1629477,1611661313,52,74,2,4
+09:34,[NYL] Stewart Foul: Personal (1 PF),-109,178,6,1628899,1627668,203800,1611661313,52,74,0,4
+09:23,[MIN] Carleton Jump Shot: Missed,135,35,2,,1629524,,1611661324,52,74,0,4
+09:21,[NYL] Stewart Rebound (Off:2 Def:8),135,35,4,,1627668,,1611661313,52,74,0,4
+09:16,[NYL 55-74] Stewart 3pt Shot: Made (24 PTS) Assist: Ionescu (5 AST),-100,228,1,,1627668,1629477,1611661313,55,74,3,4
+08:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,74,0,4
+08:51,[MIN] Hiedeman Substitution replaced by Williams,0,-80,8,,1629567,1627675,1611661324,55,74,0,4
+08:51,[MIN] Zandalasini Substitution replaced by McBride,0,-80,8,,1628508,203825,1611661324,55,74,0,4
+08:50,[MIN] McBride Turnover : Bad Pass (1 TO) Steal:Sabally (2 ST),125,76,5,1631055,203825,,1611661324,55,74,0,4
+08:39,[NYL 57-74] Stewart Cutting Layup Shot: Made (26 PTS) Assist: Sabally (1 AST),32,35,1,,1627668,1631055,1611661313,57,74,2,4
+08:39,[MIN] Williams Foul: Shooting (3 PF) (1 FTA),32,35,6,1627668,1627675,203800,1611661324,57,74,0,4
+08:39,Timeout : Regular,0,-80,9,,1611661324,,1611661324,57,74,0,4
+08:39,[MIN] Hines-Allen Substitution replaced by Collier,0,-80,8,,1628899,1629483,1611661324,57,74,0,4
+08:39,[NYL 58-74] Stewart Free Throw 1 of 1 (27 PTS),0,-80,3,,1627668,,1611661313,58,74,1,4
+08:24,[MIN] Smith Turnover : Out of Bounds - Bad Pass Turnover (3 TO),72,238,5,,1629501,203800,1611661324,58,74,0,4
+08:07,[NYL] Ionescu 3pt Shot: Missed,-168,172,2,,1629477,,1611661313,58,74,0,4
+08:04,[NYL] Sabally Rebound (Off:1 Def:0),-168,172,4,,1631055,,1611661313,58,74,0,4
+07:59,[NYL] Stewart Driving Floating Jump Shot: Missed,-62,20,2,,1627668,,1611661313,58,74,0,4
+07:56,[MIN] Carleton Rebound (Off:0 Def:2),-62,20,4,,1629524,,1611661324,58,74,0,4
+07:56,[NYL] Thornton Foul: Personal (1 PF),-6,835,6,1629524,203866,1627539,1611661313,58,74,0,4
+07:47,[MIN] Smith 3pt Shot: Missed,-46,246,2,,1629501,,1611661324,58,74,0,4
+07:42,[NYL] Sabally Rebound (Off:1 Def:1),-46,246,4,,1631055,,1611661313,58,74,0,4
+07:34,[NYL 60-74] Sabally Driving Layup Shot: Made (7 PTS) Assist: Ionescu (6 AST),-4,36,1,,1631055,1629477,1611661313,60,74,2,4
+07:21,[MIN] Smith Turnover : Out of Bounds Lost Ball Turnover (4 TO),171,24,5,,1629501,1628952,1611661324,60,74,0,4
+07:05,[NYL 63-74] Thornton 3pt Shot: Made (3 PTS) Assist: Ionescu (7 AST),144,204,1,,203866,1629477,1611661313,63,74,3,4
+06:47,[MIN 76-63] Williams Cutting Layup Shot: Made (12 PTS) Assist: Smith (3 AST),39,27,1,,1627675,1629501,1611661324,63,76,2,4
+06:32,[MIN] McBride Foul: Shooting (1 PF) (2 FTA),-47,10,6,1629477,203825,1628952,1611661324,63,76,0,4
+06:32,[NYL 64-76] Ionescu Free Throw 1 of 2 (11 PTS),0,-80,3,,1629477,,1611661313,64,76,1,4
+06:32,[NYL 65-76] Ionescu Free Throw 2 of 2 (12 PTS),0,-80,3,,1629477,,1611661313,65,76,1,4
+06:21,[MIN 78-65] Williams Pullup Jump shot: Made (14 PTS),97,172,1,,1627675,,1611661324,65,78,2,4
+06:07,[NYL] Stewart Jump Shot: Missed,59,129,2,,1627668,,1611661313,65,78,0,4
+06:06,[NYL] Stewart Rebound (Off:3 Def:8),59,129,4,,1627668,,1611661313,65,78,0,4
+06:00,[MIN] McBride Foul: Shooting (2 PF) (2 FTA),174,115,6,1627668,203825,203800,1611661324,65,78,0,4
+06:00,Instant Replay - Support Ruling,0,-80,18,,0,,0,65,78,0,4
+06:00,[NYL 66-78] Stewart Free Throw 1 of 2 (28 PTS),0,-80,3,,1627668,,1611661313,66,78,1,4
+06:00,[NYL 67-78] Stewart Free Throw 2 of 2 (29 PTS),0,-80,3,,1627668,,1611661313,67,78,1,4
+05:40,[MIN] Smith 3pt Shot: Missed,85,242,2,,1629501,,1611661324,67,78,0,4
+05:37,[NYL] Stewart Rebound (Off:3 Def:9),85,242,4,,1627668,,1611661313,67,78,0,4
+05:32,[NYL] Stewart Turnover : Lost Ball (1 TO) Steal:Smith (2 ST),-90,178,5,1629501,1627668,,1611661313,67,78,0,4
+05:27,[MIN 80-67] Collier Running Layup Shot: Made (16 PTS) Assist: Smith (4 AST),-29,28,1,,1629483,1629501,1611661324,67,80,2,4
+05:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,67,80,0,4
+05:09,[NYL] Stewart Driving Layup Shot: Missed,-60,19,2,,1627668,,1611661313,67,80,0,4
+05:07,[NYL] Stewart Rebound (Off:4 Def:9),-60,19,4,,1627668,,1611661313,67,80,0,4
+05:06,[NYL 69-80] Stewart Putback Layup Shot: Made (31 PTS),12,5,1,,1627668,,1611661313,69,80,2,4
+04:50,Timeout : Regular,0,-80,9,,1611661324,,1611661324,69,80,0,4
+04:50,[MIN] Smith Substitution replaced by Hines-Allen,0,-80,8,,1629501,1628899,1611661324,69,80,0,4
+04:50,Jump Ball Stewart vs McBride (Stewart gains possession),0,-80,10,203825,1627668,1627668,1611661313,69,80,0,4
+04:50,[MIN] McBride Violation:Jump Ball,0,-80,7,,203825,,1611661324,69,80,0,4
+04:50,[MIN] McBride Turnover : Lost Ball (2 TO) Steal:Stewart (2 ST),241,25,5,1627668,203825,,1611661324,69,80,0,4
+04:39,[NYL 72-80] Stewart 3pt Shot: Made (34 PTS) Assist: Ionescu (8 AST),-6,248,1,,1627668,1629477,1611661313,72,80,3,4
+04:25,[MIN] Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-170,323,5,,1627675,1627539,1611661324,72,80,0,4
+04:21,[NYL] Ionescu 3pt Shot: Missed,212,119,2,,1629477,,1611661313,72,80,0,4
+04:18,[MIN] Team Rebound,212,119,4,,0,,1611661324,72,80,0,4
+04:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,80,0,4
+03:56,[MIN] Collier Turnaround Jump Shot: Missed,-1,67,2,,1629483,,1611661324,72,80,0,4
+03:53,[NYL] Stewart Rebound (Off:4 Def:10),-1,67,4,,1627668,,1611661313,72,80,0,4
+03:40,[NYL] Stewart 3pt Shot: Missed,-13,242,2,,1627668,,1611661313,72,80,0,4
+03:37,[MIN] Collier Rebound (Off:2 Def:9),-13,242,4,,1629483,,1611661324,72,80,0,4
+03:25,[MIN 83-72] McBride 3pt Shot: Made (11 PTS) Assist: Williams (5 AST),-188,221,1,,203825,1627675,1611661324,72,83,3,4
+03:25,Timeout : Regular,0,-80,9,,1611661313,,1611661313,72,83,0,4
+03:11,[NYL] Stewart Driving Layup Shot: Missed Block: Williams (1 BLK),31,25,2,1627675,1627668,,1611661313,72,83,0,4
+03:10,[NYL] Team Rebound,31,25,4,,0,,1611661313,72,83,0,4
+03:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,72,83,0,4
+03:02,[NYL] Ionescu 3pt Shot: Missed,5,282,2,,1629477,,1611661313,72,83,0,4
+03:01,[NYL] Team Rebound,5,282,4,,0,,1611661313,72,83,0,4
+03:01,[NYL] Team Turnover : Shot Clock Turnover,-12,20,5,,0,1628952,1611661313,72,83,0,4
+02:44,[MIN] Williams Pullup Jump shot: Missed,-4,209,2,,1627675,,1611661324,72,83,0,4
+02:41,[MIN] Hines-Allen Rebound (Off:3 Def:2),-4,209,4,,1628899,,1611661324,72,83,0,4
+02:36,[MIN] Hines-Allen Driving Layup Shot: Missed,45,28,2,,1628899,,1611661324,72,83,0,4
+02:34,[NYL] Stewart Rebound (Off:4 Def:11),45,28,4,,1627668,,1611661313,72,83,0,4
+02:26,[NYL] Stewart 3pt Shot: Missed,-139,192,2,,1627668,,1611661313,72,83,0,4
+02:22,[MIN] Hines-Allen Rebound (Off:3 Def:3),-139,192,4,,1628899,,1611661324,72,83,0,4
+02:12,[NYL] Sabally Foul: Shooting (2 PF) (2 FTA),38,22,6,1628899,1631055,1628952,1611661313,72,83,0,4
+02:12,[MIN 84-72] Hines-Allen Free Throw 1 of 2 (11 PTS),0,-80,3,,1628899,,1611661324,72,84,1,4
+02:12,[MIN 85-72] Hines-Allen Free Throw 2 of 2 (12 PTS),0,-80,3,,1628899,,1611661324,72,85,1,4
+02:02,[NYL] Ionescu Driving Layup Shot: Missed,-43,1,2,,1629477,,1611661313,72,85,0,4
+02:00,[NYL] Stewart Rebound (Off:5 Def:11),-43,1,4,,1627668,,1611661313,72,85,0,4
+02:00,[NYL 74-85] Stewart Tip Layup Shot: Made (36 PTS),0,-5,1,,1627668,,1611661313,74,85,2,4
+02:00,Timeout : Regular,0,-80,9,,1611661324,,1611661324,74,85,0,4
+01:52,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,85,0,4
+01:40,[MIN] McBride 3pt Shot: Missed,-145,200,2,,203825,,1611661324,74,85,0,4
+01:35,[NYL] Stewart Rebound (Off:5 Def:12),-145,200,4,,1627668,,1611661313,74,85,0,4
+01:24,[NYL] Ionescu 3pt Shot: Missed,154,266,2,,1629477,,1611661313,74,85,0,4
+01:23,[NYL] Sabally Rebound (Off:2 Def:1),154,266,4,,1631055,,1611661313,74,85,0,4
+01:22,[NYL 76-85] Sabally Putback Layup Shot: Made (9 PTS),0,-5,1,,1631055,,1611661313,76,85,2,4
+01:22,Timeout : Reset,0,-80,9,,1611661324,,1611661324,76,85,0,4
+01:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,76,85,0,4
+01:05,[MIN] Williams Turnover : Traveling (2 TO),145,182,5,,1627675,1627539,1611661324,76,85,0,4
+00:56.1,[MIN] Hines-Allen Foul: Shooting (1 PF) (2 FTA),-67,25,6,1629477,1628899,203800,1611661324,76,85,0,4
+00:56.1,[NYL 77-85] Ionescu Free Throw 1 of 2 (13 PTS),0,-80,3,,1629477,,1611661313,77,85,1,4
+00:56.1,[NYL] Ionescu Free Throw 2 of 2 Missed,0,-80,3,,1629477,,1611661313,77,85,0,4
+00:54.2,[MIN] Collier Rebound (Off:2 Def:10),0,-80,4,,1629483,,1611661324,77,85,0,4
+00:52.4,[NYL] Stewart Foul: Personal (2 PF),146,591,6,203825,1627668,1627539,1611661313,77,85,0,4
+00:29.5,[NYL] Stewart Foul: Shooting (3 PF) (2 FTA),77,174,6,1627675,1627668,1627539,1611661313,77,85,0,4
+00:29.5,[MIN] Williams Free Throw 1 of 2 Missed,0,-80,3,,1627675,,1611661324,77,85,0,4
+00:29.5,[MIN] Team Rebound,0,-80,4,,0,,1611661324,77,85,0,4
+00:29.5,[MIN 86-77] Williams Free Throw 2 of 2 (15 PTS),0,-80,3,,1627675,,1611661324,77,86,1,4
+00:29.5,Timeout : Regular,0,-80,9,,1611661313,,1611661313,77,86,0,4
+00:25.6,[MIN] Collier Foul: Shooting (5 PF) (2 FTA),65,63,6,1627668,1629483,1627539,1611661324,77,86,0,4
+00:25.6,[NYL 78-86] Stewart Free Throw 1 of 2 (37 PTS),0,-80,3,,1627668,,1611661313,78,86,1,4
+00:25.6,[NYL 79-86] Stewart Free Throw 2 of 2 (38 PTS),0,-80,3,,1627668,,1611661313,79,86,1,4
+00:18.8,[MIN] Hines-Allen Turnover : Bad Pass (3 TO) Steal:Fiebich (2 ST),157,292,5,1630142,1628899,,1611661324,79,86,0,4
+00:13.7,[NYL] Ionescu Running Layup Shot: Missed,-33,24,2,,1629477,,1611661313,79,86,0,4
+00:12.1,[NYL] Stewart Rebound (Off:6 Def:12),-33,24,4,,1627668,,1611661313,79,86,0,4
+00:10.6,[NYL] Stewart Turnaround Fadeaway shot: Missed,143,4,2,,1627668,,1611661313,79,86,0,4
+00:08.3,[MIN] Collier Rebound (Off:2 Def:11),143,4,4,,1629483,,1611661324,79,86,0,4
+00:08.3,[NYL] Stewart Foul: Personal Take (4 PF) (2 FTA),-167,480,6,1629483,1627668,203800,1611661313,79,86,0,4
+00:08.3,[MIN 87-79] Collier Free Throw 1 of 2 (17 PTS),0,-80,3,,1629483,,1611661324,79,87,1,4
+00:08.3,[NYL] Ionescu Substitution replaced by Burke,0,-80,8,,1629477,1629568,1611661313,79,87,0,4
+00:08.3,[NYL] Stewart Substitution replaced by Sherrod,0,-80,8,,1627668,1642320,1611661313,79,87,0,4
+00:08.3,[MIN] Carleton Substitution replaced by Pili,0,-80,8,,1629524,1642293,1611661324,79,87,0,4
+00:08.3,[MIN] Williams Substitution replaced by Miller,0,-80,8,,1627675,1641649,1611661324,79,87,0,4
+00:08.3,[MIN] McBride Substitution replaced by Hiedeman,0,-80,8,,203825,1629567,1611661324,79,87,0,4
+00:08.3,[MIN] Hines-Allen Substitution replaced by Zandalasini,0,-80,8,,1628899,1628508,1611661324,79,87,0,4
+00:08.3,[MIN 88-79] Collier Free Throw 2 of 2 (18 PTS),0,-80,3,,1629483,,1611661324,79,88,1,4
+00:00.0,End Period,0,-80,13,,0,,0,79,88,0,4

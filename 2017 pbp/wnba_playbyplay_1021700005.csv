@@ -1,0 +1,354 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Griner vs Paris (Talbot gains possession),0,-80,10,201907,203398,203855,1611661317,0,0,1
+09:41,[DAL] Paris Foul: Shooting (1 PF) (2 FTA),12,110,6,203398,201907,,1611661321,0,0,1
+09:41,[PHO] Griner Free Throw 1 of 2 Missed,0,-80,3,,203398,,1611661317,0,0,1
+09:41,[PHO] Team Rebound,0,-80,4,,0,,1611661317,0,0,1
+09:41,[PHO 1-0] Griner Free Throw 2 of 2 (1 PTS),0,-80,3,,203398,,1611661317,1,0,1
+09:29,[PHO] Talbot Foul: Shooting (1 PF) (2 FTA),-20,52,6,202640,203855,,1611661317,1,0,1
+09:29,[DAL] Christmas-Kelly Free Throw 1 of 2 Missed,0,-80,3,,202640,,1611661321,1,0,1
+09:29,[DAL] Team Rebound,0,-80,4,,0,,1611661321,1,0,1
+09:29,[DAL 1-1] Christmas-Kelly Free Throw 2 of 2 (1 PTS),0,-80,3,,202640,,1611661321,1,1,1
+09:14,[PHO 3-1] Talbot Driving Layup Shot: Made (2 PTS),14,-1,1,,203855,,1611661317,3,1,1
+08:46,[DAL] Diggins-Smith Pullup Jump shot: Missed,-78,144,2,,203400,,1611661321,3,1,1
+08:43,[PHO] Talbot Rebound (Off:0 Def:1),0,-80,4,,203855,,1611661317,3,1,1
+08:39,[PHO 5-1] Robinson Pullup Jump shot: Made (2 PTS),-7,144,1,,202658,,1611661317,5,1,1
+08:13,[DAL] Johnson 3pt Shot: Missed,146,180,2,,203017,,1611661321,5,1,1
+08:10,[PHO] Talbot Rebound (Off:0 Def:2),0,-80,4,,203855,,1611661317,5,1,1
+08:04,[PHO 8-1] Taurasi 3pt Shot: Made (3 PTS) Assist: Robinson (1 AST),-183,144,1,,100940,202658,1611661317,8,1,1
+08:03,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,8,1,1
+07:50,[DAL] Gray Driving Layup Shot: Missed,-22,-1,2,,1628277,,1611661321,8,1,1
+07:48,[PHO] Griner Rebound (Off:0 Def:1),0,-80,4,,203398,,1611661317,8,1,1
+07:32,[PHO 10-1] Griner Hook Shot: Made (3 PTS),10,72,1,,203398,,1611661317,10,1,1
+07:17,[DAL 3-10] Gray Driving Layup Shot: Made (2 PTS),-14,-1,1,,1628277,,1611661321,10,3,1
+06:58,[PHO] Griner Turnaround Jump Shot: Missed,-99,11,2,,203398,,1611661317,10,3,1
+06:55,[DAL] Christmas-Kelly Rebound (Off:0 Def:1),0,-80,4,,202640,,1611661321,10,3,1
+06:45,[DAL] Christmas-Kelly 3pt Shot: Missed,-1,228,2,,202640,,1611661321,10,3,1
+06:43,[DAL] Johnson Rebound (Off:1 Def:0),0,-80,4,,203017,,1611661321,10,3,1
+06:42,[DAL] Johnson Turnover : Bad Pass (1 TO) Steal:Little (1 ST),0,-80,5,201067,203017,,1611661321,10,3,1
+06:32,[DAL] Diggins-Smith Foul: Personal Block (1 PF),25,19,6,203855,203400,,1611661321,10,3,1
+06:17,[PHO] Little 3pt Shot: Missed,158,160,2,,201067,,1611661317,10,3,1
+06:15,[DAL] Christmas-Kelly Rebound (Off:0 Def:2),0,-80,4,,202640,,1611661321,10,3,1
+06:00,[DAL] Johnson Foul: Offensive (1 PF),125,26,6,201067,203017,,1611661321,10,3,1
+06:00,[DAL] Johnson Turnover : Foul (2 TO),0,-80,5,,203017,,1611661321,10,3,1
+05:50,[DAL] Gray Foul: Personal (1 PF),-17,154,6,203398,1628277,,1611661321,10,3,1
+05:44,[PHO 12-3] Little Cutting Layup Shot: Made (2 PTS) Assist: Robinson (2 AST),15,0,1,,201067,202658,1611661317,12,3,1
+05:23,[PHO] Griner Foul: Shooting (1 PF) (3 FTA),-55,224,6,1628277,203398,,1611661317,12,3,1
+05:23,[DAL 4-12] Gray Free Throw 1 of 3 (3 PTS),0,-80,3,,1628277,,1611661321,12,4,1
+05:23,[DAL] Gray Free Throw 2 of 3 Missed,0,-80,3,,1628277,,1611661321,12,4,1
+05:23,[DAL] Team Rebound,0,-80,4,,0,,1611661321,12,4,1
+05:23,[DAL 5-12] Gray Free Throw 3 of 3 (4 PTS),0,-80,3,,1628277,,1611661321,12,5,1
+05:10,[PHO 14-5] Griner Driving Reverse Layup Shot: Made (5 PTS) Assist: Robinson (3 AST),14,0,1,,203398,202658,1611661317,14,5,1
+05:01,[DAL] Johnson Foul: Offensive (2 PF),122,16,6,100940,203017,,1611661321,14,5,1
+05:01,[DAL] Johnson Turnover : Foul (3 TO),0,-80,5,,203017,,1611661321,14,5,1
+05:01,[DAL] Johnson Substitution replaced by Thornton,0,-80,8,,203017,203866,1611661321,14,5,1
+05:01,[DAL] Gray Substitution replaced by Davis,0,-80,8,,1628277,1628273,1611661321,14,5,1
+05:01,[DAL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661321,14,5,1
+04:52,[PHO 16-5] Robinson Driving Layup Shot: Made (4 PTS),-12,0,1,,202658,,1611661317,16,5,1
+04:35,[PHO] Talbot Foul: Personal (2 PF),-52,121,6,202640,203855,,1611661317,16,5,1
+04:29,Jump Ball Little vs Diggins-Smith,0,-80,10,203400,201067,,1611661317,16,5,1
+04:29,[PHO] Little Violation:Lane,0,-80,7,,201067,,1611661317,16,5,1
+04:18,[DAL 7-16] Thornton Jump Shot: Made (2 PTS) Assist: Diggins-Smith (1 AST),138,134,1,,203866,203400,1611661321,16,7,1
+04:10,[PHO] Robinson Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,202658,,1611661317,16,7,1
+04:00,[DAL] Diggins-Smith Layup Shot: Missed Block: Griner (1 BLK),20,7,2,203398,203400,,1611661321,16,7,1
+04:00,[DAL] Team Rebound,0,-80,4,,0,,1611661321,16,7,1
+03:54,[DAL 9-16] Diggins-Smith Jump Shot: Made (2 PTS),166,-19,1,,203400,,1611661321,16,9,1
+03:40,[PHO] Taurasi 3pt Shot: Missed,-4,232,2,,100940,,1611661317,16,9,1
+03:40,[DAL] Team Rebound,0,-80,4,,0,,1611661321,16,9,1
+03:40,[PHO] Taurasi Substitution replaced by Murphy,0,-80,8,,100940,201062,1611661317,16,9,1
+03:27,[PHO] Talbot Foul: Shooting (3 PF) (2 FTA),-65,115,6,1628273,203855,,1611661317,16,9,1
+03:27,[DAL 10-16] Davis Free Throw 1 of 2 (1 PTS),0,-80,3,,1628273,,1611661321,16,10,1
+03:27,[DAL] Paris Substitution replaced by Plaisance,0,-80,8,,201907,203849,1611661321,16,10,1
+03:27,[PHO] Talbot Substitution replaced by Mitchell,0,-80,8,,203855,201507,1611661317,16,10,1
+03:27,[PHO] Little Substitution replaced by George,0,-80,8,,201067,204297,1611661317,16,10,1
+03:27,[DAL 11-16] Davis Free Throw 2 of 2 (2 PTS),0,-80,3,,1628273,,1611661321,16,11,1
+03:11,[PHO 18-11] Murphy Pullup Bank shot: Made (2 PTS),87,156,1,,201062,,1611661317,18,11,1
+02:54,[DAL 13-18] Davis Jump Shot: Made (4 PTS),-24,105,1,,1628273,,1611661321,18,13,1
+02:47,[PHO] Robinson Pullup Jump shot: Missed,-63,116,2,,202658,,1611661317,18,13,1
+02:46,[PHO] Team Rebound,0,-80,4,,0,,1611661317,18,13,1
+02:46,[DAL] Diggins-Smith Substitution replaced by Chong,0,-80,8,,203400,1628267,1611661321,18,13,1
+02:37,[PHO 20-13] Griner Layup Shot: Made (7 PTS) Assist: Murphy (1 AST),19,-1,1,,203398,201062,1611661317,20,13,1
+02:13,[DAL] Plaisance 3pt Shot: Missed,-61,234,2,,203849,,1611661321,20,13,1
+02:10,[PHO] George Rebound (Off:0 Def:1),0,-80,4,,204297,,1611661317,20,13,1
+01:58,[PHO] George Foul: Offensive (1 PF),64,120,6,202640,204297,,1611661317,20,13,1
+01:58,[PHO] George Turnover : Foul (1 TO),0,-80,5,,204297,,1611661317,20,13,1
+01:58,[PHO] Robinson Substitution replaced by Turner,0,-80,8,,202658,203389,1611661317,20,13,1
+01:36,[DAL] Thornton Turnaround Jump Shot: Missed,48,80,2,,203866,,1611661321,20,13,1
+01:32,[PHO] George Rebound (Off:0 Def:2),0,-80,4,,204297,,1611661317,20,13,1
+01:23,[DAL] Thornton Foul: Shooting (1 PF) (2 FTA),-2,31,6,203398,203866,,1611661321,20,13,1
+01:23,[PHO 21-13] Griner Free Throw 1 of 2 (8 PTS),0,-80,3,,203398,,1611661317,21,13,1
+01:23,[PHO 22-13] Griner Free Throw 2 of 2 (9 PTS),0,-80,3,,203398,,1611661317,22,13,1
+01:12,[PHO] Griner Foul: Shooting (2 PF) (2 FTA),-22,46,6,1628273,203398,,1611661317,22,13,1
+01:12,[DAL 14-22] Davis Free Throw 1 of 2 (5 PTS),0,-80,3,,1628273,,1611661321,22,14,1
+01:12,[PHO] Griner Substitution replaced by Little,0,-80,8,,203398,201067,1611661317,22,14,1
+01:12,[DAL 15-22] Davis Free Throw 2 of 2 (6 PTS),0,-80,3,,1628273,,1611661321,22,15,1
+00:54.7,[PHO] Turner 3pt Shot: Missed,-201,129,2,,203389,,1611661317,22,15,1
+00:52.5,[DAL] Christmas-Kelly Rebound (Off:0 Def:3),0,-80,4,,202640,,1611661321,22,15,1
+00:46.9,[DAL] Christmas-Kelly Layup Shot: Missed,15,2,2,,202640,,1611661321,22,15,1
+00:45.6,[DAL] Thornton Rebound (Off:1 Def:0),0,-80,4,,203866,,1611661321,22,15,1
+00:45.6,[PHO] George Foul: Shooting (2 PF) (2 FTA),17,16,6,203866,204297,,1611661317,22,15,1
+00:45.6,[DAL 16-22] Thornton Free Throw 1 of 2 (3 PTS),0,-80,3,,203866,,1611661321,22,16,1
+00:45.6,[PHO] George Substitution replaced by Cannon,0,-80,8,,204297,1628242,1611661317,22,16,1
+00:45.6,[DAL 17-22] Thornton Free Throw 2 of 2 (4 PTS),0,-80,3,,203866,,1611661321,22,17,1
+00:28.9,[PHO] Mitchell 3pt Shot: Missed,140,174,2,,201507,,1611661317,22,17,1
+00:26.8,[DAL] Thornton Rebound (Off:1 Def:1),0,-80,4,,203866,,1611661321,22,17,1
+00:20.4,[DAL 19-22] Plaisance Jump Shot: Made (2 PTS) Assist: Thornton (1 AST),-1,139,1,,203849,203866,1611661321,22,19,1
+00:02.9,[PHO] Little Layup Shot: Missed,-16,-1,2,,201067,,1611661317,22,19,1
+00:01.5,[PHO] Team Rebound,0,-80,4,,0,,1611661317,22,19,1
+00:00.0,End Period,0,-80,13,,0,,0,22,19,1
+10:00,Start Period,0,-80,12,,0,,0,22,19,2
+09:36,[DAL 21-22] Plaisance Hook Shot: Made (4 PTS) Assist: Diggins-Smith (2 AST),-12,70,1,,203849,203400,1611661321,22,21,2
+09:27,[DAL] Davis Foul: Personal (1 PF),55,136,6,100940,1628273,,1611661321,22,21,2
+09:16,[PHO] Taurasi Turnover : Bad Pass (1 TO) Steal:Thornton (1 ST),0,-80,5,203866,100940,,1611661317,22,21,2
+09:10,[DAL 23-22] Davis Jump Shot: Made (8 PTS) Assist: Thornton (2 AST),-171,33,1,,1628273,203866,1611661321,22,23,2
+08:59,[DAL] Plaisance Foul: Shooting Block (1 PF) (2 FTA),-12,46,6,201507,203849,,1611661321,22,23,2
+08:59,[PHO] Mitchell Free Throw 1 of 2 Missed,0,-80,3,,201507,,1611661317,22,23,2
+08:59,[PHO] Team Rebound,0,-80,4,,0,,1611661317,22,23,2
+08:59,[PHO] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,201507,,1611661317,22,23,2
+08:59,[DAL] Thornton Rebound (Off:1 Def:2),0,-80,4,,203866,,1611661321,22,23,2
+08:36,[DAL] Chong Turnover : Bad Pass (1 TO) Steal:Little (2 ST),0,-80,5,201067,1628267,,1611661321,22,23,2
+08:33,[PHO] Little Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,201067,,1611661317,22,23,2
+08:13,[DAL] Diggins-Smith Foul: Offensive Charge (2 PF),-35,11,6,201067,203400,,1611661321,22,23,2
+08:13,[DAL] Diggins-Smith Turnover : Foul (1 TO),0,-80,5,,203400,,1611661321,22,23,2
+08:13,[PHO] Mitchell Substitution replaced by Robinson,0,-80,8,,201507,202658,1611661317,22,23,2
+07:59,[PHO] Cannon Jump Shot: Missed,-7,33,2,,1628242,,1611661317,22,23,2
+07:57,[DAL] Thornton Rebound (Off:1 Def:3),0,-80,4,,203866,,1611661321,22,23,2
+07:44,[DAL] Plaisance 3pt Shot: Missed,148,203,2,,203849,,1611661321,22,23,2
+07:42,[PHO] Robinson Rebound (Off:0 Def:1),0,-80,4,,202658,,1611661317,22,23,2
+07:35,[PHO 24-23] Little Layup Shot: Made (4 PTS) Assist: Robinson (4 AST),17,0,1,,201067,202658,1611661317,24,23,2
+07:12,[DAL 25-24] Plaisance Cutting Layup Shot: Made (6 PTS) Assist: Davis (1 AST),-9,2,1,,203849,1628273,1611661321,24,25,2
+07:01,[PHO] Murphy 3pt Shot: Missed,243,-1,2,,201062,,1611661317,24,25,2
+06:59,[DAL] Davis Rebound (Off:0 Def:1),0,-80,4,,1628273,,1611661321,24,25,2
+06:52,[DAL 27-24] Davis Jump Shot: Made (10 PTS),-99,110,1,,1628273,,1611661321,24,27,2
+06:45,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,24,27,2
+06:45,[PHO] Cannon Substitution replaced by Griner,0,-80,8,,1628242,203398,1611661317,24,27,2
+06:45,[DAL] Thornton Substitution replaced by Paris,0,-80,8,,203866,201907,1611661321,24,27,2
+06:45,[DAL] Davis Substitution replaced by Johnson,0,-80,8,,1628273,203017,1611661321,24,27,2
+06:45,[DAL] Plaisance Substitution replaced by Gray,0,-80,8,,203849,1628277,1611661321,24,27,2
+06:45,[DAL] Chong Substitution replaced by Christmas-Kelly,0,-80,8,,1628267,202640,1611661321,24,27,2
+06:28,[PHO] Little Turnaround Jump Shot: Missed,20,120,2,,201067,,1611661317,24,27,2
+06:24,[DAL] Johnson Rebound (Off:1 Def:1),0,-80,4,,203017,,1611661321,24,27,2
+06:09,[PHO] Little Foul: Defense 3 Second (0 PF),0,-80,6,,201067,,1611661317,24,27,2
+06:09,[DAL 28-24] Diggins-Smith Free Throw Technical (3 PTS),0,-80,3,,203400,,1611661321,24,28,2
+05:54,[DAL] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661321,24,28,2
+05:42,[DAL] Paris Foul: Shooting (2 PF) (2 FTA),-60,31,6,203398,201907,,1611661321,24,28,2
+05:42,[PHO 25-28] Griner Free Throw 1 of 2 (10 PTS),0,-80,3,,203398,,1611661317,25,28,2
+05:42,[PHO 26-28] Griner Free Throw 2 of 2 (11 PTS),0,-80,3,,203398,,1611661317,26,28,2
+05:28,[DAL] Paris Cutting Layup Shot: Missed,17,11,2,,201907,,1611661321,26,28,2
+05:26,[DAL] Paris Rebound (Off:1 Def:0),0,-80,4,,201907,,1611661321,26,28,2
+05:23,[DAL] Gray Jump Shot: Missed,151,90,2,,1628277,,1611661321,26,28,2
+05:22,[PHO] Team Rebound,0,-80,4,,0,,1611661317,26,28,2
+05:07,[PHO] Taurasi Jump Shot: Missed,-96,120,2,,100940,,1611661317,26,28,2
+05:05,[DAL] Johnson Rebound (Off:1 Def:2),0,-80,4,,203017,,1611661321,26,28,2
+04:59,[DAL] Paris Foul: Offensive (3 PF),1,210,6,202658,201907,,1611661321,26,28,2
+04:59,[DAL] Paris Turnover : Foul (1 TO),0,-80,5,,201907,,1611661321,26,28,2
+04:59,[DAL] Paris Substitution replaced by Plaisance,0,-80,8,,201907,203849,1611661321,26,28,2
+04:45,[PHO 28-28] Griner Turnaround Jump Shot: Made (13 PTS) Assist: Robinson (5 AST),109,57,1,,203398,202658,1611661317,28,28,2
+04:20,[DAL 30-28] Gray Driving Layup Shot: Made (6 PTS),4,2,1,,1628277,,1611661321,28,30,2
+04:12,[DAL] Christmas-Kelly Foul: Personal (1 PF),-92,41,6,203398,202640,,1611661321,28,30,2
+04:12,[PHO] Taurasi Substitution replaced by Prince,0,-80,8,,100940,1628297,1611661317,28,30,2
+04:06,[PHO] Robinson Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,202658,,1611661317,28,30,2
+03:52,[DAL] Diggins-Smith Turnover : Bad Pass (2 TO) Steal:Little (3 ST),0,-80,5,201067,203400,,1611661321,28,30,2
+03:48,[PHO] Little Turnover : Out of Bounds - Bad Pass Turnover (2 TO),0,-80,5,,201067,,1611661317,28,30,2
+03:35,[PHO] Prince Foul: Personal (1 PF),92,101,6,202640,1628297,,1611661317,28,30,2
+03:35,[PHO] Little Foul: Personal (1 PF),-60,129,6,203017,201067,,1611661317,28,30,2
+03:35,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,28,30,2
+03:28,[DAL] Johnson Jump Shot: Missed,137,95,2,,203017,,1611661321,28,30,2
+03:27,[DAL] Team Rebound,0,-80,4,,0,,1611661321,28,30,2
+03:18,[DAL] Diggins-Smith Driving Bank shot: Missed,-78,41,2,,203400,,1611661321,28,30,2
+03:17,[PHO] Team Rebound,0,-80,4,,0,,1611661317,28,30,2
+03:07,[PHO 30-30] Robinson Driving Layup Shot: Made (6 PTS),10,-6,1,,202658,,1611661317,30,30,2
+02:46,[PHO] Griner Foul: Inbound (3 PF) (1 FTA),0,105,6,203400,203398,,1611661317,30,30,2
+02:46,[DAL] Diggins-Smith Free Throw 1 of 1 Missed,0,-80,3,,203400,,1611661321,30,30,2
+02:46,[DAL] Team Rebound,0,-80,4,,0,,1611661321,30,30,2
+02:46,[PHO] Griner Substitution replaced by George,0,-80,8,,203398,204297,1611661317,30,30,2
+02:46,[DAL] Gray Substitution replaced by Davis,0,-80,8,,1628277,1628273,1611661321,30,30,2
+02:38,[DAL 32-30] Johnson Cutting Layup Shot: Made (2 PTS) Assist: Davis (2 AST),-27,7,1,,203017,1628273,1611661321,30,32,2
+02:20,[PHO 32-32] Little Layup Shot: Made (6 PTS),-12,-5,1,,201067,,1611661317,32,32,2
+02:20,[DAL] Christmas-Kelly Foul: Shooting (2 PF) (1 FTA),-12,-5,6,201067,202640,,1611661321,32,32,2
+02:20,[PHO] Murphy Substitution replaced by Taurasi,0,-80,8,,201062,100940,1611661317,32,32,2
+02:20,[PHO] Little Free Throw 1 of 1 Missed,0,-80,3,,201067,,1611661317,32,32,2
+02:19,[DAL] Johnson Rebound (Off:1 Def:3),0,-80,4,,203017,,1611661321,32,32,2
+02:01,[DAL] Johnson Pullup Jump shot: Missed,-12,92,2,,203017,,1611661321,32,32,2
+01:58,[PHO] George Rebound (Off:0 Def:3),0,-80,4,,204297,,1611661317,32,32,2
+01:42,[PHO] George Jump Shot: Missed,-197,-29,2,,204297,,1611661317,32,32,2
+01:40,[DAL] Diggins-Smith Rebound (Off:0 Def:1),0,-80,4,,203400,,1611661321,32,32,2
+01:31,[DAL] Diggins-Smith Pullup Jump shot: Missed,-163,46,2,,203400,,1611661321,32,32,2
+01:28,[PHO] Robinson Rebound (Off:0 Def:2),0,-80,4,,202658,,1611661317,32,32,2
+01:14,[PHO] Prince 3pt Shot: Missed,209,106,2,,1628297,,1611661317,32,32,2
+01:09,[DAL] Johnson Rebound (Off:1 Def:4),0,-80,4,,203017,,1611661321,32,32,2
+00:53.0,[DAL] Davis Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,1628273,,1611661321,32,32,2
+00:37.4,[PHO] Taurasi 3pt Shot: Missed,-240,-15,2,,100940,,1611661317,32,32,2
+00:34.5,[DAL] Plaisance Rebound (Off:0 Def:1),0,-80,4,,203849,,1611661321,32,32,2
+00:25.7,[DAL] Diggins-Smith Driving Bank shot: Missed,-32,7,2,,203400,,1611661321,32,32,2
+00:22.9,[PHO] George Rebound (Off:0 Def:4),0,-80,4,,204297,,1611661317,32,32,2
+00:04.6,[PHO 34-32] Robinson Pullup Jump shot: Made (8 PTS),-119,139,1,,202658,,1611661317,34,32,2
+00:00.0,End Period,0,-80,13,,0,,0,34,32,2
+10:00,Start Period,0,-80,12,,0,,0,34,32,3
+09:46,[DAL] Paris Cutting Layup Shot: Missed,-20,-1,2,,201907,,1611661321,34,32,3
+09:44,[DAL] Paris Rebound (Off:2 Def:0),0,-80,4,,201907,,1611661321,34,32,3
+09:39,[DAL] Johnson Driving Layup Shot: Missed,24,-5,2,,203017,,1611661321,34,32,3
+09:36,[DAL] Johnson Rebound (Off:2 Def:4),0,-80,4,,203017,,1611661321,34,32,3
+09:36,[DAL 34-34] Johnson Layup Shot: Made (4 PTS),-17,-5,1,,203017,,1611661321,34,34,3
+09:25,[PHO] Taurasi 3pt Shot: Missed,-143,188,2,,100940,,1611661317,34,34,3
+09:23,[DAL] Johnson Rebound (Off:2 Def:5),0,-80,4,,203017,,1611661321,34,34,3
+09:04,[DAL] Gray Jump Shot: Missed Block: Taurasi (1 BLK),22,21,2,100940,1628277,,1611661321,34,34,3
+08:59,[PHO] Robinson Rebound (Off:0 Def:3),0,-80,4,,202658,,1611661317,34,34,3
+08:44,[PHO 36-34] Little Jump Bank Shot: Made (8 PTS) Assist: Robinson (6 AST),55,13,1,,201067,202658,1611661317,36,34,3
+08:27,[DAL] Diggins-Smith 3pt Shot: Missed,176,144,2,,203400,,1611661321,36,34,3
+08:25,[PHO] Griner Rebound (Off:0 Def:2),0,-80,4,,203398,,1611661317,36,34,3
+08:16,[PHO 39-34] Little 3pt Shot: Made (11 PTS) Assist: Robinson (7 AST),-138,190,1,,201067,202658,1611661317,39,34,3
+07:55,[DAL] Johnson 3pt Shot: Missed,50,224,2,,203017,,1611661321,39,34,3
+07:53,[PHO] Talbot Rebound (Off:0 Def:3),0,-80,4,,203855,,1611661317,39,34,3
+07:39,[PHO] Little Reverse Layup Shot: Missed,-24,0,2,,201067,,1611661317,39,34,3
+07:35,[DAL] Paris Rebound (Off:2 Def:1),0,-80,4,,201907,,1611661321,39,34,3
+07:29,[DAL 37-39] Gray 3pt Shot: Made (9 PTS),-201,129,1,,1628277,,1611661321,39,37,3
+07:04,[PHO] Robinson Jump Shot: Missed Block: Diggins-Smith (1 BLK),33,13,2,203400,202658,,1611661317,39,37,3
+07:02,[DAL] Gray Rebound (Off:0 Def:1),0,-80,4,,1628277,,1611661321,39,37,3
+06:56,[DAL] Gray 3pt Shot: Missed,-240,-21,2,,1628277,,1611661321,39,37,3
+06:53,[DAL] Johnson Rebound (Off:3 Def:5),0,-80,4,,203017,,1611661321,39,37,3
+06:51,[DAL] Johnson Turnaround Jump Shot: Missed,25,70,2,,203017,,1611661321,39,37,3
+06:48,[PHO] Talbot Rebound (Off:0 Def:4),0,-80,4,,203855,,1611661317,39,37,3
+06:45,[PHO] Taurasi Foul: Offensive (1 PF),-32,23,6,203400,100940,,1611661317,39,37,3
+06:45,[PHO] Taurasi Turnover : Foul (2 TO),0,-80,5,,100940,,1611661317,39,37,3
+06:45,[DAL] Christmas-Kelly Substitution replaced by Davis,0,-80,8,,202640,1628273,1611661321,39,37,3
+06:35,[DAL 39-39] Davis Driving Layup Shot: Made (12 PTS),2,2,1,,1628273,,1611661321,39,39,3
+06:23,[PHO] Robinson Turnover : Bad Pass (3 TO) Steal:Davis (1 ST),0,-80,5,1628273,202658,,1611661317,39,39,3
+06:20,[PHO] Talbot Foul: Shooting (4 PF) (2 FTA),27,90,6,1628273,203855,,1611661317,39,39,3
+06:20,[DAL 40-39] Davis Free Throw 1 of 2 (13 PTS),0,-80,3,,1628273,,1611661321,39,40,3
+06:20,[PHO] Talbot Substitution replaced by Mitchell,0,-80,8,,203855,201507,1611661317,39,40,3
+06:20,[DAL 41-39] Davis Free Throw 2 of 2 (14 PTS),0,-80,3,,1628273,,1611661321,39,41,3
+05:57,[PHO] Griner Jump Shot: Missed,4,164,2,,203398,,1611661317,39,41,3
+05:55,[DAL] Diggins-Smith Rebound (Off:0 Def:2),0,-80,4,,203400,,1611661321,39,41,3
+05:46,[DAL] Diggins-Smith Jump Shot: Missed,101,174,2,,203400,,1611661321,39,41,3
+05:44,[DAL] Diggins-Smith Rebound (Off:1 Def:2),0,-80,4,,203400,,1611661321,39,41,3
+05:29,[DAL] Gray Turnover : Bad Pass (1 TO) Steal:Mitchell (1 ST),0,-80,5,201507,1628277,,1611661321,39,41,3
+05:29,[DAL] Diggins-Smith Foul: Personal (3 PF),207,478,6,201507,203400,,1611661321,39,41,3
+05:29,[DAL] Diggins-Smith Substitution replaced by Chong,0,-80,8,,203400,1628267,1611661321,39,41,3
+05:19,[PHO] Taurasi 3pt Shot: Missed,117,203,2,,100940,,1611661317,39,41,3
+05:17,[DAL] Gray Rebound (Off:0 Def:2),0,-80,4,,1628277,,1611661321,39,41,3
+04:55,[DAL 43-39] Johnson Driving Layup Shot: Made (6 PTS),-16,2,1,,203017,,1611661321,39,43,3
+04:39,[PHO] Taurasi Turnaround Fadeaway shot: Missed,-74,129,2,,100940,,1611661317,39,43,3
+04:35,[DAL] Gray Rebound (Off:0 Def:3),0,-80,4,,1628277,,1611661321,39,43,3
+04:27,[DAL] Johnson Turnover : Out of Bounds - Bad Pass Turnover (4 TO),0,-80,5,,203017,,1611661321,39,43,3
+04:27,Timeout : Official,0,-80,9,,0,,0,39,43,3
+04:19,[DAL] Paris Foul: Personal (4 PF),14,126,6,201507,201907,,1611661321,39,43,3
+04:19,[DAL] Paris Substitution replaced by Plaisance,0,-80,8,,201907,203849,1611661321,39,43,3
+04:11,[PHO] Mitchell Turnover : Bad Pass (1 TO) Steal:Plaisance (1 ST),0,-80,5,203849,201507,,1611661317,39,43,3
+04:00,[DAL] Davis Turnover : Lost Ball (2 TO) Steal:Taurasi (1 ST),0,-80,5,100940,1628273,,1611661321,39,43,3
+03:53,[PHO] Taurasi 3pt Shot: Missed,-29,232,2,,100940,,1611661317,39,43,3
+03:51,[DAL] Gray Rebound (Off:0 Def:4),0,-80,4,,1628277,,1611661321,39,43,3
+03:47,[DAL 45-39] Gray Running Layup Shot: Made (11 PTS),6,2,1,,1628277,,1611661321,39,45,3
+03:23,[PHO] Griner Jump Shot: Missed,99,-5,2,,203398,,1611661317,39,45,3
+03:21,[DAL] Johnson Rebound (Off:3 Def:6),0,-80,4,,203017,,1611661321,39,45,3
+03:04,[DAL] Chong Turnover : Bad Pass (2 TO) Steal:Little (4 ST),0,-80,5,201067,1628267,,1611661321,39,45,3
+03:04,[DAL] Johnson Foul: Personal (3 PF),-187,550,6,202658,203017,,1611661321,39,45,3
+03:04,[PHO] Taurasi Substitution replaced by Murphy,0,-80,8,,100940,201062,1611661317,39,45,3
+03:04,[DAL] Johnson Substitution replaced by Thornton,0,-80,8,,203017,203866,1611661321,39,45,3
+02:46,[PHO] Robinson Jump Shot: Missed,-119,124,2,,202658,,1611661317,39,45,3
+02:44,[DAL] Davis Rebound (Off:0 Def:2),0,-80,4,,1628273,,1611661321,39,45,3
+02:41,[PHO] Robinson Foul: Personal Block (1 PF),43,224,6,1628273,202658,,1611661317,39,45,3
+02:28,[DAL] Plaisance 3pt Shot: Missed,27,247,2,,203849,,1611661321,39,45,3
+02:27,[PHO] Team Rebound,0,-80,4,,0,,1611661317,39,45,3
+02:27,[DAL] Chong Foul: Loose Ball (1 PF),51,732,6,201507,1628267,,1611661321,39,45,3
+02:14,[PHO 42-45] Mitchell 3pt Shot: Made (3 PTS) Assist: Griner (1 AST),-160,169,1,,201507,203398,1611661317,42,45,3
+01:52,[DAL] Chong Turnover : Out of Bounds - Bad Pass Turnover (3 TO),0,-80,5,,1628267,,1611661321,42,45,3
+01:32,[PHO 45-45] Mitchell 3pt Shot: Made (6 PTS) Assist: Robinson (8 AST),-220,65,1,,201507,202658,1611661317,45,45,3
+01:18,[DAL] Gray Jump Shot: Missed,-91,65,2,,1628277,,1611661321,45,45,3
+01:16,[DAL] Thornton Rebound (Off:2 Def:3),0,-80,4,,203866,,1611661321,45,45,3
+01:11,[DAL 47-45] Plaisance Jump Shot: Made (8 PTS) Assist: Davis (3 AST),-99,-11,1,,203849,1628273,1611661321,45,47,3
+00:54.1,[PHO] Robinson Turnover : Lost Ball (4 TO) Steal:Davis (2 ST),0,-80,5,1628273,202658,,1611661317,45,47,3
+00:54.1,[DAL 49-45] Plaisance Layup Shot: Made (10 PTS) Assist: Davis (4 AST),9,11,1,,203849,1628273,1611661321,45,49,3
+00:42.2,[PHO 47-49] Mitchell Pullup Jump shot: Made (8 PTS),33,185,1,,201507,,1611661317,47,49,3
+00:18.6,[DAL] Chong Turnover : Out of Bounds Lost Ball Turnover (4 TO),0,-80,5,,1628267,,1611661321,47,49,3
+00:03.6,[PHO] Mitchell Turnover : Traveling (2 TO),0,-80,5,,201507,,1611661317,47,49,3
+00:00.0,End Period,0,-80,13,,0,,0,47,49,3
+10:00,Start Period,0,-80,12,,0,,0,47,49,4
+09:46,[PHO] Taurasi 3pt Shot: Missed,-196,126,2,,100940,,1611661317,47,49,4
+09:44,[DAL] Team Rebound,0,-80,4,,0,,1611661321,47,49,4
+09:26,[DAL] Johnson Turnover : Traveling (5 TO),0,-80,5,,203017,,1611661321,47,49,4
+09:16,[PHO 49-49] Griner Turnaround Hook Shot: Made (15 PTS) Assist: Mitchell (1 AST),-17,43,1,,203398,201507,1611661317,49,49,4
+08:59,[PHO] Murphy Foul: Personal (1 PF),-2,214,6,201907,201062,,1611661317,49,49,4
+08:50,[DAL 51-49] Johnson Layup Shot: Made (8 PTS) Assist: Diggins-Smith (3 AST),15,0,1,,203017,203400,1611661321,49,51,4
+08:50,[PHO] Murphy Foul: Shooting (2 PF) (1 FTA),15,0,6,203017,201062,,1611661317,49,51,4
+08:50,[DAL 52-49] Johnson Free Throw 1 of 1 (9 PTS),0,-80,3,,203017,,1611661321,49,52,4
+08:37,[PHO] Mitchell 3pt Shot: Missed,78,213,2,,201507,,1611661317,49,52,4
+08:34,[DAL] Paris Rebound (Off:2 Def:2),0,-80,4,,201907,,1611661321,49,52,4
+08:19,[DAL] Davis Jump Shot: Missed,-60,85,2,,1628273,,1611661321,49,52,4
+08:17,[DAL] Johnson Rebound (Off:4 Def:6),0,-80,4,,203017,,1611661321,49,52,4
+08:17,[PHO] Little Substitution replaced by George,0,-80,8,,201067,204297,1611661317,49,52,4
+08:14,[DAL] Diggins-Smith Jump Shot: Missed,-125,3,2,,203400,,1611661321,49,52,4
+08:12,[PHO] Murphy Rebound (Off:0 Def:1),0,-80,4,,201062,,1611661317,49,52,4
+08:01,[PHO] Griner Turnaround Jump Shot: Missed,10,65,2,,203398,,1611661317,49,52,4
+07:58,[DAL] Johnson Rebound (Off:4 Def:7),0,-80,4,,203017,,1611661321,49,52,4
+07:50,[DAL] Davis 3pt Shot: Missed,66,234,2,,1628273,,1611661321,49,52,4
+07:47,[PHO] George Rebound (Off:0 Def:5),0,-80,4,,204297,,1611661317,49,52,4
+07:30,[PHO] Griner Jump Shot: Missed,53,11,2,,203398,,1611661317,49,52,4
+07:28,[DAL] Johnson Rebound (Off:4 Def:8),0,-80,4,,203017,,1611661321,49,52,4
+07:17,[PHO] Taurasi Foul: Personal (2 PF),60,141,6,203017,100940,,1611661317,49,52,4
+07:17,[PHO] Murphy Substitution replaced by Talbot,0,-80,8,,201062,203855,1611661317,49,52,4
+07:17,[PHO] Mitchell Substitution replaced by Robinson,0,-80,8,,201507,202658,1611661317,49,52,4
+07:08,[DAL] Christmas-Kelly Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,202640,,1611661321,49,52,4
+06:45,[PHO] Robinson Pullup Jump shot: Missed,-160,-26,2,,202658,,1611661317,49,52,4
+06:43,[DAL] Johnson Rebound (Off:4 Def:9),0,-80,4,,203017,,1611661321,49,52,4
+06:24,[DAL 54-49] Davis Jump Shot: Made (16 PTS),-91,16,1,,1628273,,1611661321,49,54,4
+06:23,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,49,54,4
+06:07,[PHO 51-54] Griner Turnaround Jump Shot: Made (17 PTS),-47,21,1,,203398,,1611661317,51,54,4
+06:07,[DAL] Paris Foul: Shooting (5 PF) (1 FTA),-47,21,6,203398,201907,,1611661321,51,54,4
+06:07,[PHO 52-54] Griner Free Throw 1 of 1 (18 PTS),0,-80,3,,203398,,1611661317,52,54,4
+05:45,[DAL] Johnson Jump Shot: Missed Block: Griner (2 BLK),30,11,2,203398,203017,,1611661321,52,54,4
+05:41,[DAL] Paris Rebound (Off:3 Def:2),0,-80,4,,201907,,1611661321,52,54,4
+05:41,[DAL 56-52] Paris Putback Layup Shot: Made (2 PTS),-4,11,1,,201907,,1611661321,52,56,4
+05:21,[PHO] Robinson Turnover : Lost Ball (5 TO) Steal:Christmas-Kelly (1 ST),0,-80,5,202640,202658,,1611661317,52,56,4
+05:14,[DAL] Davis Pullup Jump shot: Missed,-191,72,2,,1628273,,1611661321,52,56,4
+05:10,[PHO] Talbot Rebound (Off:0 Def:5),0,-80,4,,203855,,1611661317,52,56,4
+05:08,[PHO 54-56] George Running Layup Shot: Made (2 PTS) Assist: Robinson (9 AST),2,0,1,,204297,202658,1611661317,54,56,4
+04:46,[PHO] Griner Foul: Shooting (4 PF) (2 FTA),-78,36,6,1628273,203398,,1611661317,54,56,4
+04:46,[DAL 57-54] Davis Free Throw 1 of 2 (17 PTS),0,-80,3,,1628273,,1611661321,54,57,4
+04:46,[DAL 58-54] Davis Free Throw 2 of 2 (18 PTS),0,-80,3,,1628273,,1611661321,54,58,4
+04:36,[PHO] Robinson Turnover : Bad Pass (6 TO) Steal:Diggins-Smith (1 ST),0,-80,5,203400,202658,,1611661317,54,58,4
+04:15,[DAL 60-54] Diggins-Smith Floating Jump shot: Made (5 PTS),28,92,1,,203400,,1611661321,54,60,4
+04:14,[PHO] Team Timeout : Short,0,-80,9,,0,,1611661317,54,60,4
+03:57,[PHO] Taurasi 3pt Shot: Missed,141,180,2,,100940,,1611661317,54,60,4
+03:55,[DAL] Davis Rebound (Off:0 Def:3),0,-80,4,,1628273,,1611661321,54,60,4
+03:31,[DAL] Diggins-Smith Jump Shot: Missed,-143,144,2,,203400,,1611661321,54,60,4
+03:27,[DAL] Paris Rebound (Off:4 Def:2),0,-80,4,,201907,,1611661321,54,60,4
+03:27,[DAL] Paris Layup Shot: Missed,17,7,2,,201907,,1611661321,54,60,4
+03:25,[DAL] Paris Rebound (Off:5 Def:2),0,-80,4,,201907,,1611661321,54,60,4
+03:19,[PHO] Griner Foul: Shooting (5 PF) (2 FTA),33,61,6,203400,203398,,1611661317,54,60,4
+03:19,[DAL 61-54] Diggins-Smith Free Throw 1 of 2 (6 PTS),0,-80,3,,203400,,1611661321,54,61,4
+03:19,[DAL 62-54] Diggins-Smith Free Throw 2 of 2 (7 PTS),0,-80,3,,203400,,1611661321,54,62,4
+03:03,[DAL] Diggins-Smith Foul: Shooting (4 PF) (2 FTA),27,2,6,203855,203400,,1611661321,54,62,4
+03:03,[PHO] Talbot Free Throw 1 of 2 Missed,0,-80,3,,203855,,1611661317,54,62,4
+03:03,[PHO] Team Rebound,0,-80,4,,0,,1611661317,54,62,4
+03:03,[PHO] Talbot Free Throw 2 of 2 Missed,0,-80,3,,203855,,1611661317,54,62,4
+03:03,[DAL] Team Rebound,0,-80,4,,0,,1611661321,54,62,4
+02:41,[DAL 64-54] Davis Driving Bank shot: Made (20 PTS),-55,16,1,,1628273,,1611661321,54,64,4
+02:24,[PHO] Talbot Turnover : Bad Pass (1 TO) Steal:Christmas-Kelly (2 ST),0,-80,5,202640,203855,,1611661317,54,64,4
+02:21,[DAL 66-54] Christmas-Kelly Running Layup Shot: Made (3 PTS),-1,-5,1,,202640,,1611661321,54,66,4
+02:19,[PHO] Team Timeout : Short,0,-80,9,,0,,1611661317,54,66,4
+02:19,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,54,66,4
+02:19,[PHO] Talbot Substitution replaced by Mitchell,0,-80,8,,203855,201507,1611661317,54,66,4
+02:19,[PHO] Robinson Substitution replaced by Murphy,0,-80,8,,202658,201062,1611661317,54,66,4
+02:19,[PHO] George Substitution replaced by Little,0,-80,8,,204297,201067,1611661317,54,66,4
+02:19,[DAL] Paris Substitution replaced by Plaisance,0,-80,8,,201907,203849,1611661321,54,66,4
+02:06,[DAL] Christmas-Kelly Foul: Shooting (3 PF) (3 FTA),-199,129,6,201062,202640,,1611661321,54,66,4
+02:06,[PHO] Murphy Free Throw 1 of 3 Missed,0,-80,3,,201062,,1611661317,54,66,4
+02:06,[PHO] Team Rebound,0,-80,4,,0,,1611661317,54,66,4
+02:06,[PHO 55-66] Murphy Free Throw 2 of 3 (3 PTS),0,-80,3,,201062,,1611661317,55,66,4
+02:06,[PHO 56-66] Murphy Free Throw 3 of 3 (4 PTS),0,-80,3,,201062,,1611661317,56,66,4
+01:46,[DAL 68-56] Christmas-Kelly Driving Layup Shot: Made (5 PTS),-20,16,1,,202640,,1611661321,56,68,4
+01:37,[PHO] Taurasi 3pt Shot: Missed,-68,223,2,,100940,,1611661317,56,68,4
+01:35,[DAL] Davis Rebound (Off:0 Def:4),0,-80,4,,1628273,,1611661321,56,68,4
+01:10,[DAL] Diggins-Smith Jump Shot: Missed,117,165,2,,203400,,1611661321,56,68,4
+01:09,[DAL] Team Rebound,0,-80,4,,0,,1611661321,56,68,4
+01:09,[DAL] Team Timeout : Regular,0,-80,9,,0,,1611661321,56,68,4
+01:09,[PHO] Griner Substitution replaced by Turner,0,-80,8,,203398,203389,1611661317,56,68,4
+01:09,[PHO] Taurasi Substitution replaced by Cannon,0,-80,8,,100940,1628242,1611661317,56,68,4
+00:53.7,[DAL] Diggins-Smith Turnover : Bad Pass (3 TO) Steal:Murphy (1 ST),0,-80,5,201062,203400,,1611661321,56,68,4
+00:46.9,[PHO] Mitchell 3pt Shot: Missed,-201,126,2,,201507,,1611661317,56,68,4
+00:44.6,[DAL] Johnson Rebound (Off:4 Def:10),0,-80,4,,203017,,1611661321,56,68,4
+00:24.9,[DAL] Davis Jump Shot: Missed Block: Mitchell (1 BLK),102,61,2,201507,1628273,,1611661321,56,68,4
+00:21.7,[PHO] Turner Rebound (Off:0 Def:1),0,-80,4,,203389,,1611661317,56,68,4
+00:17.2,[PHO 58-68] Turner Driving Layup Shot: Made (2 PTS),9,7,1,,203389,,1611661317,58,68,4
+00:00.0,End Period,0,-80,13,,0,,0,58,68,4

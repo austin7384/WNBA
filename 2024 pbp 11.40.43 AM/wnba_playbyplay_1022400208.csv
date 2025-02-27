@@ -1,0 +1,450 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:58,Jump Ball Boston vs Charles (Smith gains possession),0,-80,10,202250,1641648,1631019,1611661325,0,0,0,1
+09:46,[ATL] Charles Foul: Shooting (1 PF) (2 FTA),15,15,6,1641648,202250,100274,1611661330,0,0,0,1
+09:46,[IND 1-0] Boston Free Throw 1 of 2 (1 PTS),0,-80,3,,1641648,,1611661325,1,0,1,1
+09:46,[IND 2-0] Boston Free Throw 2 of 2 (2 PTS),0,-80,3,,1641648,,1611661325,2,0,1,1
+09:33,[ATL] Charles Pullup Jump shot: Missed,123,102,2,,202250,,1611661330,2,0,0,1
+09:28,[IND] Clark Rebound (Off:0 Def:1),123,102,4,,1642286,,1611661325,2,0,0,1
+09:07,[IND 5-0] Clark 3pt Shot: Made (3 PTS) Assist: Boston (1 AST),-152,207,1,,1642286,1641648,1611661325,5,0,3,1
+08:49,[ATL] Gray 3pt Shot: Missed,182,164,2,,1628277,,1611661330,5,0,0,1
+08:46,[IND] Clark Rebound (Off:0 Def:2),182,164,4,,1642286,,1611661325,5,0,0,1
+08:36,[IND] Boston Jump Shot: Missed,143,126,2,,1641648,,1611661325,5,0,0,1
+08:33,[ATL] Charles Rebound (Off:0 Def:1),143,126,4,,202250,,1611661330,5,0,0,1
+08:21,[IND] Hull Foul: Personal (1 PF),69,152,6,202250,1631086,1629770,1611661325,5,0,0,1
+08:12,[ATL 2-5] Charles Fadeaway Jump Shot: Made (2 PTS),-15,118,1,,202250,,1611661330,5,2,2,1
+07:44,[IND] Mitchell Driving Layup Shot: Missed Block: Gray (1 BLK),18,17,2,1628277,1628909,,1611661325,5,2,0,1
+07:44,[IND] Team Rebound,18,17,4,,0,,1611661325,5,2,0,1
+07:44,[IND] Team Turnover : Shot Clock Turnover,1,68,5,,0,1629171,1611661325,5,2,0,1
+07:27,[ATL] Charles Layup Shot: Missed Block: Boston (1 BLK),-5,29,2,1641648,202250,,1611661330,5,2,0,1
+07:22,[IND] Team Rebound,-5,29,4,,0,,1611661325,5,2,0,1
+07:22,Jump Ball Boston vs Charles (Mitchell gains possession),0,-80,10,202250,1641648,1628909,1611661325,5,2,0,1
+07:21,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Hillmon (1 ST),-146,629,5,1631044,1628909,,1611661325,5,2,0,1
+07:18,[ATL] Howard Turnover : Lost Ball (1 TO) Steal:Smith (1 ST),21,323,5,1631019,1631009,,1611661330,5,2,0,1
+07:11,[IND] Clark 3pt Shot: Missed,105,268,2,,1642286,,1611661325,5,2,0,1
+07:07,[ATL] Gray Rebound (Off:0 Def:1),105,268,4,,1628277,,1611661330,5,2,0,1
+07:02,[ATL] Gray Turnaround Jump Shot: Missed,0,22,2,,1628277,,1611661330,5,2,0,1
+07:02,[ATL] Hillmon Rebound (Off:1 Def:0),0,22,4,,1631044,,1611661330,5,2,0,1
+06:58,[ATL 5-5] Gray 3pt Shot: Made (3 PTS) Assist: Hillmon (1 AST),234,82,1,,1628277,1631044,1611661330,5,5,3,1
+06:43,[IND] Boston Turnover : Lost Ball (1 TO) Steal:Hillmon (2 ST),16,59,5,1631044,1641648,,1611661325,5,5,0,1
+06:34,[IND] Hull Foul: Shooting (2 PF) (2 FTA),-21,22,6,1631044,1631086,1629171,1611661325,5,5,0,1
+06:34,[ATL] Hillmon Free Throw 1 of 2 Missed,0,-80,3,,1631044,,1611661330,5,5,0,1
+06:34,[ATL] Team Rebound,0,-80,4,,0,,1611661330,5,5,0,1
+06:34,[ATL] Hillmon Free Throw 2 of 2 Missed,0,-80,3,,1631044,,1611661330,5,5,0,1
+06:32,[IND] Boston Rebound (Off:0 Def:1),0,-80,4,,1641648,,1611661325,5,5,0,1
+06:20,[IND] Clark Turnover : Traveling (1 TO),170,212,5,,1642286,1629770,1611661325,5,5,0,1
+06:10,[ATL] Charles Turnaround Fadeaway shot: Missed,-133,-1,2,,202250,,1611661330,5,5,0,1
+06:06,[IND] Clark Rebound (Off:0 Def:3),-133,-1,4,,1642286,,1611661325,5,5,0,1
+05:56,[IND 8-5] Hull 3pt Shot: Made (3 PTS) Assist: Clark (1 AST),-177,169,1,,1631086,1642286,1611661325,8,5,3,1
+05:39,[ATL] Gray Layup Shot: Missed,-44,35,2,,1628277,,1611661330,8,5,0,1
+05:35,[ATL] Charles Rebound (Off:1 Def:1),-44,35,4,,202250,,1611661330,8,5,0,1
+05:35,[ATL 7-8] Charles Tip Layup Shot: Made (4 PTS),0,-5,1,,202250,,1611661330,8,7,2,1
+05:30,[IND 10-7] Mitchell Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Clark (2 AST),-2,10,1,,1628909,1642286,1611661325,10,7,2,1
+05:16,[ATL 10-10] Howard 3pt Shot: Made (3 PTS) Assist: Gray (1 AST),188,187,1,,1631009,1628277,1611661330,10,10,3,1
+04:51,[IND] Smith Layup Shot: Missed,-5,14,2,,1631019,,1611661325,10,10,0,1
+04:50,[ATL] Hillmon Rebound (Off:1 Def:1),-5,14,4,,1631044,,1611661330,10,10,0,1
+04:43,[ATL 12-10] Canada Fadeaway Jump Shot: Made (2 PTS),-45,78,1,,1628886,,1611661330,10,12,2,1
+04:25,[ATL] Canada Foul: Personal (1 PF),-49,140,6,1642286,1628886,1629770,1611661330,10,12,0,1
+04:25,Timeout : Official,0,-80,9,,0,,0,10,12,0,1
+04:12,[IND] Mitchell Turnover : Bad Pass (2 TO) Steal:Gray (1 ST),89,242,5,1628277,1628909,,1611661325,10,12,0,1
+04:07,[ATL] Howard 3pt Shot: Missed,227,80,2,,1631009,,1611661330,10,12,0,1
+04:03,[ATL] Gray Rebound (Off:1 Def:1),227,80,4,,1628277,,1611661330,10,12,0,1
+04:02,[ATL 14-10] Charles Floating Jump shot: Made (6 PTS) Assist: Gray (2 AST),16,75,1,,202250,1628277,1611661330,10,14,2,1
+03:51,[ATL] Gray Foul: Shooting (1 PF) (2 FTA),0,14,6,1628909,1628277,1629171,1611661330,10,14,0,1
+03:51,[IND 11-14] Mitchell Free Throw 1 of 2 (3 PTS),0,-80,3,,1628909,,1611661325,11,14,1,1
+03:51,[IND] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,1628909,,1611661325,11,14,0,1
+03:47,[ATL] Gray Rebound (Off:1 Def:2),0,-80,4,,1628277,,1611661330,11,14,0,1
+03:40,[ATL] Howard 3pt Shot: Missed,-120,235,2,,1631009,,1611661330,11,14,0,1
+03:37,[IND] Boston Rebound (Off:0 Def:2),-120,235,4,,1641648,,1611661325,11,14,0,1
+03:23,[IND] Clark 3pt Shot: Missed,213,212,2,,1642286,,1611661325,11,14,0,1
+03:21,[ATL] Hillmon Rebound (Off:1 Def:2),213,212,4,,1631044,,1611661330,11,14,0,1
+03:11,[ATL] Charles Pullup Jump shot: Missed,-124,10,2,,202250,,1611661330,11,14,0,1
+03:09,[IND] Smith Rebound (Off:0 Def:1),-124,10,4,,1631019,,1611661325,11,14,0,1
+02:58,[IND 13-14] Boston Layup Shot: Made (4 PTS),101,27,1,,1641648,,1611661325,13,14,2,1
+02:31,[ATL 16-13] Canada Pullup Jump shot: Made (4 PTS),-183,10,1,,1628886,,1611661330,13,16,2,1
+02:19,[ATL] Charles Foul: Personal (2 PF),72,19,6,1641648,202250,100274,1611661330,13,16,0,1
+02:19,[IND] Smith Substitution replaced by Samuelson,0,-80,8,,1631019,1629478,1611661325,13,16,0,1
+02:19,[IND] Hull Substitution replaced by Fagbenle,0,-80,8,,1631086,1627701,1611661325,13,16,0,1
+02:19,[ATL] Gray Substitution replaced by Cubaj,0,-80,8,,1628277,1631032,1611661330,13,16,0,1
+02:19,[ATL] Charles Substitution replaced by Caldwell,0,-80,8,,202250,1630471,1611661330,13,16,0,1
+02:07,[IND 15-16] Mitchell Driving Finger Roll Layup Shot: Made (5 PTS),-7,-10,1,,1628909,,1611661325,15,16,2,1
+02:00,[ATL 18-15] Howard Driving Layup Shot: Made (5 PTS),-1,2,1,,1631009,,1611661330,15,18,2,1
+01:46,[IND] Clark Foul: Offensive (1 PF),-61,49,6,1628886,1642286,1629770,1611661325,15,18,0,1
+01:46,[IND] Clark Turnover : Offensive Foul Turnover (2 TO),-61,49,5,,1642286,1629770,1611661325,15,18,0,1
+01:35,[ATL] Caldwell Pullup Jump shot: Missed,-21,188,2,,1630471,,1611661330,15,18,0,1
+01:31,[IND] Clark Rebound (Off:0 Def:4),-21,188,4,,1642286,,1611661325,15,18,0,1
+01:19,[IND 17-18] Mitchell Pullup Jump shot: Made (7 PTS),-160,25,1,,1628909,,1611661325,17,18,2,1
+01:06,[ATL 21-17] Caldwell 3pt Shot: Made (3 PTS) Assist: Howard (1 AST),155,222,1,,1630471,1631009,1611661330,17,21,3,1
+00:51.4,[IND 20-21] Mitchell 3pt Shot: Made (10 PTS),194,214,1,,1628909,,1611661325,20,21,3,1
+00:47.1,[IND] Samuelson Foul: Personal (1 PF),194,228,6,1631009,1629478,1629770,1611661325,20,21,0,1
+00:47.1,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,20,21,0,1
+00:47.1,[ATL] Canada Substitution replaced by Jones,0,-80,8,,1628886,1641650,1611661330,20,21,0,1
+00:41.2,[ATL] Howard 3pt Shot: Missed,208,130,2,,1631009,,1611661330,20,21,0,1
+00:38.8,[IND] Mitchell Rebound (Off:0 Def:1),208,130,4,,1628909,,1611661325,20,21,0,1
+00:29.0,[IND 22-21] Boston Pullup Jump shot: Made (6 PTS) Assist: Mitchell (1 AST),26,100,1,,1641648,1628909,1611661325,22,21,2,1
+00:03.5,[ATL] Howard 3pt Shot: Missed,221,136,2,,1631009,,1611661330,22,21,0,1
+00:00.6,[IND] Samuelson Rebound (Off:0 Def:1),221,136,4,,1629478,,1611661325,22,21,0,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,22,21,0,1
+00:00.0,End Period,0,-80,13,,0,,0,22,21,0,1
+10:00,Start Period,0,-80,12,,0,,0,22,21,0,2
+09:41,[ATL 23-22] Cubaj Layup Shot: Made (2 PTS),1,17,1,,1631032,,1611661330,22,23,2,2
+09:24,[IND] Fagbenle Foul: Offensive (1 PF),-95,124,6,1628277,1627701,1629770,1611661325,22,23,0,2
+09:24,[IND] Fagbenle Turnover : Offensive Foul Turnover (1 TO),-95,124,5,,1627701,1629770,1611661325,22,23,0,2
+09:08,[ATL] Coffey Layup Shot: Missed,7,6,2,,1628269,,1611661330,22,23,0,2
+09:05,[IND] Team Rebound,7,6,4,,0,,1611661325,22,23,0,2
+09:05,[ATL] Cubaj Foul: Loose Ball (1 PF),10,660,6,204365,1631032,100274,1611661330,22,23,0,2
+08:51,[IND] Wheeler Driving Layup Shot: Missed,0,64,2,,204365,,1611661325,22,23,0,2
+08:49,[ATL] Team Rebound,0,64,4,,0,,1611661330,22,23,0,2
+08:49,[IND] Fagbenle Foul: Loose Ball (2 PF),-32,776,6,1641650,1627701,100274,1611661325,22,23,0,2
+08:49,[IND] Boston Substitution replaced by Dantas,0,-80,8,,1641648,203024,1611661325,22,23,0,2
+08:42,[ATL] Jones Driving Layup Shot: Missed Block: Fagbenle (1 BLK),-98,35,2,1627701,1641650,,1611661330,22,23,0,2
+08:38,[IND] Samuelson Rebound (Off:0 Def:2),-98,35,4,,1629478,,1611661325,22,23,0,2
+08:31,[IND 24-23] Fagbenle Driving Layup Shot: Made (2 PTS) Assist: Clark (3 AST),3,11,1,,1627701,1642286,1611661325,24,23,2,2
+08:15,[ATL 26-24] Coffey 3pt Shot: Made (3 PTS) Assist: Gray (3 AST),219,123,1,,1628269,1628277,1611661330,24,26,3,2
+08:01,[IND] Clark 3pt Shot: Missed,-89,234,2,,1642286,,1611661325,24,26,0,2
+07:58,[ATL] Coffey Rebound (Off:0 Def:1),-89,234,4,,1628269,,1611661330,24,26,0,2
+07:44,[ATL 28-24] Gray Driving Finger Roll Layup Shot: Made (5 PTS) Assist: Coffey (1 AST),4,7,1,,1628277,1628269,1611661330,24,28,2,2
+07:26,[IND 27-28] Clark 3pt Shot: Made (6 PTS),229,121,1,,1642286,,1611661325,27,28,3,2
+07:15,[IND] Fagbenle Foul: Personal (3 PF),-6,168,6,1628277,1627701,100274,1611661325,27,28,0,2
+07:15,[IND] Samuelson Substitution replaced by Hull,0,-80,8,,1629478,1631086,1611661325,27,28,0,2
+07:15,[ATL] Jones Substitution replaced by Howard,0,-80,8,,1641650,1631009,1611661330,27,28,0,2
+07:15,[ATL] Cubaj Substitution replaced by Charles,0,-80,8,,1631032,202250,1611661330,27,28,0,2
+07:15,[ATL] Caldwell Substitution replaced by Canada,0,-80,8,,1630471,1628886,1611661330,27,28,0,2
+07:09,[ATL] Gray Driving Floating Jump Shot: Missed,-115,51,2,,1628277,,1611661330,27,28,0,2
+07:05,[IND] Dantas Rebound (Off:0 Def:1),-115,51,4,,203024,,1611661325,27,28,0,2
+07:03,[IND 29-28] Fagbenle Running Layup Shot: Made (4 PTS) Assist: Wheeler (1 AST),-5,4,1,,1627701,204365,1611661325,29,28,2,2
+07:03,[ATL] Coffey Foul: Shooting (1 PF) (1 FTA),-5,4,6,1627701,1628269,100274,1611661330,29,28,0,2
+07:03,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,29,28,0,2
+07:03,[IND 30-28] Fagbenle Free Throw 1 of 1 (5 PTS),0,-80,3,,1627701,,1611661325,30,28,1,2
+06:41,[ATL 30-30] Charles Turnaround Hook Shot: Made (8 PTS) Assist: Howard (2 AST),-10,83,1,,202250,1631009,1611661330,30,30,2,2
+06:26,[IND] Fagbenle Jump Shot: Missed,172,3,2,,1627701,,1611661325,30,30,0,2
+06:24,[ATL] Canada Rebound (Off:0 Def:1),172,3,4,,1628886,,1611661330,30,30,0,2
+06:12,[ATL 32-30] Coffey Layup Shot: Made (5 PTS),4,7,1,,1628269,,1611661330,30,32,2,2
+05:53,[IND] Fagbenle Jump Shot: Missed,76,176,2,,1627701,,1611661325,30,32,0,2
+05:53,[ATL] Team Rebound,76,176,4,,0,,1611661330,30,32,0,2
+05:53,Timeout : Regular,0,-80,9,,1611661325,,1611661325,30,32,0,2
+05:53,[IND] Fagbenle Substitution replaced by Smith,0,-80,8,,1627701,1631019,1611661325,30,32,0,2
+05:53,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,30,32,0,2
+05:43,[IND] Dantas Foul: Shooting (1 PF) (2 FTA),-10,82,6,202250,203024,100274,1611661325,30,32,0,2
+05:43,[ATL 33-30] Charles Free Throw 1 of 2 (9 PTS),0,-80,3,,202250,,1611661330,30,33,1,2
+05:43,[ATL 34-30] Charles Free Throw 2 of 2 (10 PTS),0,-80,3,,202250,,1611661330,30,34,1,2
+05:33,[IND] Mitchell Turnover : Bad Pass (3 TO) Steal:Canada (1 ST),-116,322,5,1628886,1628909,,1611661325,30,34,0,2
+05:29,[ATL] Charles Layup Shot: Missed,2,11,2,,202250,,1611661330,30,34,0,2
+05:27,[IND] Dantas Rebound (Off:0 Def:2),2,11,4,,203024,,1611661325,30,34,0,2
+05:21,[IND] Mitchell Turnover : Lost Ball (4 TO) Steal:Canada (2 ST),-189,229,5,1628886,1628909,,1611661325,30,34,0,2
+05:13,[ATL 36-30] Howard Driving Finger Roll Layup Shot: Made (7 PTS),0,19,1,,1631009,,1611661330,30,36,2,2
+05:12,Timeout : Regular,0,-80,9,,1611661325,,1611661325,30,36,0,2
+05:12,[IND] Dantas Substitution replaced by Boston,0,-80,8,,203024,1641648,1611661325,30,36,0,2
+04:58,[IND] Boston Jump Shot: Missed Block: Canada (1 BLK),-23,44,2,1628886,1641648,,1611661325,30,36,0,2
+04:55,[IND] Hull Rebound (Off:1 Def:0),-23,44,4,,1631086,,1611661325,30,36,0,2
+04:54,[IND 33-36] Hull 3pt Shot: Made (6 PTS),-230,20,1,,1631086,,1611661325,33,36,3,2
+04:37,[ATL 39-33] Gray 3pt Shot: Made (8 PTS) Assist: Canada (1 AST),208,142,1,,1628277,1628886,1611661330,33,39,3,2
+04:30,[IND 35-39] Smith Cutting Layup Shot: Made (2 PTS) Assist: Clark (4 AST),-10,19,1,,1631019,1642286,1611661325,35,39,2,2
+04:11,[ATL] Charles Turnaround Hook Shot: Missed,-90,2,2,,202250,,1611661330,35,39,0,2
+04:10,[IND] Team Rebound,-90,2,4,,0,,1611661325,35,39,0,2
+04:10,[ATL] Hillmon Foul: Loose Ball (1 PF),-2,825,6,1631019,1631044,1629171,1611661330,35,39,0,2
+03:55,[IND 38-39] Hull 3pt Shot: Made (9 PTS) Assist: Boston (2 AST),187,201,1,,1631086,1641648,1611661325,38,39,3,2
+03:43,[ATL] Howard Jump Shot: Missed,-100,129,2,,1631009,,1611661330,38,39,0,2
+03:43,[IND] Team Rebound,-100,129,4,,0,,1611661325,38,39,0,2
+03:43,Timeout : Challenge,0,-80,9,,1611661325,,1611661325,38,39,0,2
+03:43,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661325,38,39,0,2
+03:43,[ATL] Charles Substitution replaced by Cubaj,0,-80,8,,202250,1631032,1611661330,38,39,0,2
+03:41,Challenge Jump Ball - Challenge Boston vs Howard (Smith gains possession ),0,-80,10,1631009,1641648,1631019,1611661325,38,39,0,2
+03:26,[IND 40-39] Smith Turnaround Jump Shot: Made (4 PTS) Assist: Boston (3 AST),-101,4,1,,1631019,1641648,1611661325,40,39,2,2
+03:11,[ATL 42-40] Howard 3pt Shot: Made (10 PTS) Assist: Gray (4 AST),-111,244,1,,1631009,1628277,1611661330,40,42,3,2
+03:03,[IND] Clark Turnover : Bad Pass (3 TO) Steal:Gray (2 ST),68,37,5,1628277,1642286,,1611661325,40,42,0,2
+02:54,[ATL] Howard 3pt Shot: Missed,136,217,2,,1631009,,1611661330,40,42,0,2
+02:50,[IND] Boston Rebound (Off:0 Def:3),136,217,4,,1641648,,1611661325,40,42,0,2
+02:36,[IND 42-42] Boston Turnaround Jump Shot: Made (8 PTS),-4,58,1,,1641648,,1611661325,42,42,2,2
+02:20,[ATL 45-42] Gray 3pt Shot: Made (11 PTS) Assist: Cubaj (1 AST),127,223,1,,1628277,1631032,1611661330,42,45,3,2
+02:11,[IND] Clark Turnover : Backcourt Turnover (4 TO),-74,493,5,,1642286,1629171,1611661325,42,45,0,2
+01:58,[IND] Smith Foul: Shooting (1 PF) (2 FTA),5,10,6,1631009,1631019,1629171,1611661325,42,45,0,2
+01:58,[ATL] Howard Free Throw 1 of 2 Missed,0,-80,3,,1631009,,1611661330,42,45,0,2
+01:58,[ATL] Team Rebound,0,-80,4,,0,,1611661330,42,45,0,2
+01:58,[ATL 46-42] Howard Free Throw 2 of 2 (11 PTS),0,-80,3,,1631009,,1611661330,42,46,1,2
+01:43,[IND] Mitchell 3pt Shot: Missed,145,236,2,,1628909,,1611661325,42,46,0,2
+01:39,[IND] Smith Rebound (Off:1 Def:1),145,236,4,,1631019,,1611661325,42,46,0,2
+01:34,[IND 44-46] Smith Driving Layup Shot: Made (6 PTS) Assist: Boston (4 AST),-4,13,1,,1631019,1641648,1611661325,44,46,2,2
+01:15,[ATL] Gray 3pt Shot: Missed,-185,199,2,,1628277,,1611661330,44,46,0,2
+01:13,[IND] Smith Rebound (Off:1 Def:2),-185,199,4,,1631019,,1611661325,44,46,0,2
+01:07,[IND] Clark Turnover : Out of Bounds Lost Ball Turnover (5 TO),-85,251,5,,1642286,100274,1611661325,44,46,0,2
+00:45.9,Timeout : Regular,0,-80,9,,1611661330,,1611661330,44,46,0,2
+00:44.7,[ATL] Howard 3pt Shot: Missed,205,179,2,,1631009,,1611661330,44,46,0,2
+00:43.2,[IND] Team Rebound,205,179,4,,0,,1611661325,44,46,0,2
+00:43.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,46,0,2
+00:34.4,[IND] Clark Turnover : Bad Pass (6 TO) Steal:Cubaj (1 ST),106,247,5,1631032,1642286,,1611661325,44,46,0,2
+00:15.4,[ATL] Canada Driving Finger Roll Layup Shot: Missed,-7,24,2,,1628886,,1611661330,44,46,0,2
+00:10.8,[ATL] Canada Rebound (Off:1 Def:1),-7,24,4,,1628886,,1611661330,44,46,0,2
+00:10.8,[ATL] Canada Tip Layup Shot: Missed,0,-5,2,,1628886,,1611661330,44,46,0,2
+00:09.4,[ATL] Canada Rebound (Off:2 Def:1),0,-5,4,,1628886,,1611661330,44,46,0,2
+00:07.1,[ATL] Gray Layup Shot: Missed,0,19,2,,1628277,,1611661330,44,46,0,2
+00:05.2,[ATL] Cubaj Rebound (Off:1 Def:0),0,19,4,,1631032,,1611661330,44,46,0,2
+00:00.3,[ATL 48-44] Canada Pullup Jump shot: Made (6 PTS),135,135,1,,1628886,,1611661330,44,48,2,2
+00:00.0,End Period,0,-80,13,,0,,0,44,48,0,2
+10:00,Start Period,0,-80,12,,0,,0,44,48,0,3
+09:49,[ATL] Charles Layup Shot: Missed Block: Smith (1 BLK),7,42,2,1631019,202250,,1611661330,44,48,0,3
+09:46,[ATL] Charles Rebound (Off:2 Def:1),7,42,4,,202250,,1611661330,44,48,0,3
+09:46,[ATL] Charles Layup Shot: Missed,-15,76,2,,202250,,1611661330,44,48,0,3
+09:46,[ATL] Charles Rebound (Off:3 Def:1),-15,76,4,,202250,,1611661330,44,48,0,3
+09:46,[ATL 50-44] Charles Layup Shot: Made (12 PTS),3,96,1,,202250,,1611661330,44,50,2,3
+09:46,[IND] Smith Foul: Shooting (2 PF) (1 FTA),3,96,6,202250,1631019,1629770,1611661325,44,50,0,3
+09:46,[ATL 51-44] Charles Free Throw 1 of 1 (13 PTS),0,-80,3,,202250,,1611661330,44,51,1,3
+09:35,[IND] Smith Turnaround Jump Shot: Missed,-109,53,2,,1631019,,1611661325,44,51,0,3
+09:32,[ATL] Charles Rebound (Off:3 Def:2),-109,53,4,,202250,,1611661330,44,51,0,3
+09:26,[ATL 53-44] Howard Running Pull-Up Jump Shot: Made (13 PTS),51,158,1,,1631009,,1611661330,44,53,2,3
+09:14,[IND] Clark 3pt Shot: Missed,-95,263,2,,1642286,,1611661325,44,53,0,3
+09:11,[ATL] Charles Rebound (Off:3 Def:3),-95,263,4,,202250,,1611661330,44,53,0,3
+09:02,[ATL 56-44] Howard 3pt Shot: Made (16 PTS),15,264,1,,1631009,,1611661330,44,56,3,3
+09:00,Timeout : Regular,0,-80,9,,1611661325,,1611661325,44,56,0,3
+08:44,[IND 46-56] Clark Driving Floating Jump Shot: Made (8 PTS),-3,60,1,,1642286,,1611661325,46,56,2,3
+08:28,[ATL 58-46] Howard Jump Shot: Made (18 PTS) Assist: Canada (2 AST),12,122,1,,1631009,1628886,1611661330,46,58,2,3
+08:28,[IND] Mitchell Foul: Shooting (1 PF) (1 FTA),12,122,6,1631009,1628909,1629770,1611661325,46,58,0,3
+08:28,[ATL 59-46] Howard Free Throw 1 of 1 (19 PTS),0,-80,3,,1631009,,1611661330,46,59,1,3
+08:14,[ATL] Hillmon Foul: Shooting (2 PF) (2 FTA),-16,1,6,1631019,1631044,100274,1611661330,46,59,0,3
+08:14,[IND] Smith Free Throw 1 of 2 Missed,0,-80,3,,1631019,,1611661325,46,59,0,3
+08:14,[IND] Team Rebound,0,-80,4,,0,,1611661325,46,59,0,3
+08:14,[IND] Smith Free Throw 2 of 2 Missed,0,-80,3,,1631019,,1611661325,46,59,0,3
+08:12,[ATL] Charles Rebound (Off:3 Def:4),0,-80,4,,202250,,1611661330,46,59,0,3
+07:49,[ATL] Gray Layup Shot: Missed,0,26,2,,1628277,,1611661330,46,59,0,3
+07:46,[IND] Boston Rebound (Off:0 Def:4),0,26,4,,1641648,,1611661325,46,59,0,3
+07:36,[ATL] Hillmon Foul: Shooting (3 PF) (2 FTA),29,56,6,1641648,1631044,1629171,1611661330,46,59,0,3
+07:36,[IND 47-59] Boston Free Throw 1 of 2 (9 PTS),0,-80,3,,1641648,,1611661325,47,59,1,3
+07:36,[IND 48-59] Boston Free Throw 2 of 2 (10 PTS),0,-80,3,,1641648,,1611661325,48,59,1,3
+07:23,[ATL 61-48] Hillmon Layup Shot: Made (2 PTS) Assist: Howard (3 AST),15,20,1,,1631044,1631009,1611661330,48,61,2,3
+07:05,[IND] Mitchell 3pt Shot: Missed,191,141,2,,1628909,,1611661325,48,61,0,3
+07:03,[ATL] Charles Rebound (Off:3 Def:5),191,141,4,,202250,,1611661330,48,61,0,3
+06:56,[ATL 63-48] Canada Layup Shot: Made (8 PTS),0,17,1,,1628886,,1611661330,48,63,2,3
+06:56,[IND] Clark Foul: Shooting (2 PF) (1 FTA),0,17,6,1628886,1642286,1629171,1611661325,48,63,0,3
+06:56,[ATL 64-48] Canada Free Throw 1 of 1 (9 PTS),0,-80,3,,1628886,,1611661330,48,64,1,3
+06:48,[ATL] Gray Foul: Personal (2 PF),-134,223,6,1631019,1628277,1629770,1611661330,48,64,0,3
+06:48,[IND] Smith Substitution replaced by Fagbenle,0,-80,8,,1631019,1627701,1611661325,48,64,0,3
+06:48,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,48,64,0,3
+06:40,[IND] Clark Driving Finger Roll Layup Shot: Missed,8,-9,2,,1642286,,1611661325,48,64,0,3
+06:38,[IND] Boston Rebound (Off:1 Def:4),8,-9,4,,1641648,,1611661325,48,64,0,3
+06:38,[IND] Boston Putback Layup Shot: Missed,0,-5,2,,1641648,,1611661325,48,64,0,3
+06:35,[ATL] Coffey Rebound (Off:0 Def:2),0,-5,4,,1628269,,1611661330,48,64,0,3
+06:28,[ATL] Charles Jump Shot: Missed,28,103,2,,202250,,1611661330,48,64,0,3
+06:26,[IND] Boston Rebound (Off:1 Def:5),28,103,4,,1641648,,1611661325,48,64,0,3
+06:16,[IND] Boston Driving Layup Shot: Missed,-4,1,2,,1641648,,1611661325,48,64,0,3
+06:13,[IND] Boston Rebound (Off:2 Def:5),-4,1,4,,1641648,,1611661325,48,64,0,3
+06:13,[IND] Boston Layup Shot: Missed Block: Coffey (1 BLK),-3,15,2,1628269,1641648,,1611661325,48,64,0,3
+06:11,[ATL] Howard Rebound (Off:0 Def:1),-3,15,4,,1631009,,1611661330,48,64,0,3
+06:06,[ATL] Charles Running Layup Shot: Missed,7,22,2,,202250,,1611661330,48,64,0,3
+06:04,[IND] Fagbenle Rebound (Off:0 Def:1),7,22,4,,1627701,,1611661325,48,64,0,3
+05:50,[IND 50-64] Mitchell Driving Finger Roll Layup Shot: Made (12 PTS),-13,28,1,,1628909,,1611661325,50,64,2,3
+05:28,[ATL] Charles Turnaround Jump Shot: Missed,-112,-6,2,,202250,,1611661330,50,64,0,3
+05:26,[IND] Hull Rebound (Off:1 Def:1),-112,-6,4,,1631086,,1611661325,50,64,0,3
+05:19,[IND] Clark Turnover : Lost Ball (7 TO),-37,747,5,,1642286,,1611661325,50,64,0,3
+05:19,Timeout : Challenge,0,-80,9,,1611661330,,1611661330,50,64,0,3
+05:19,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661330,50,64,0,3
+05:19,[ATL] Charles Substitution replaced by Cubaj,0,-80,8,,202250,1631032,1611661330,50,64,0,3
+05:09,[ATL] Coffey Turnover : Bad Pass (1 TO) Steal:Mitchell (1 ST),3,209,5,1628909,1628269,,1611661330,50,64,0,3
+05:02,[IND 53-64] Mitchell 3pt Shot: Made (15 PTS),-11,249,1,,1628909,,1611661325,53,64,3,3
+04:46,[ATL] Howard Turnover : Traveling (2 TO),116,158,5,,1631009,100274,1611661330,53,64,0,3
+04:32,[IND] Clark 3pt Shot: Missed,-4,302,2,,1642286,,1611661325,53,64,0,3
+04:30,[IND] Hull Rebound (Off:2 Def:1),-4,302,4,,1631086,,1611661325,53,64,0,3
+04:24,[IND] Mitchell 3pt Shot: Missed,227,50,2,,1628909,,1611661325,53,64,0,3
+04:20,[IND] Fagbenle Rebound (Off:1 Def:1),227,50,4,,1627701,,1611661325,53,64,0,3
+04:19,[IND] Fagbenle Turnover : Traveling (2 TO),68,32,5,,1627701,1629770,1611661325,53,64,0,3
+03:57,[ATL] Cubaj Turnover : Traveling (1 TO),-4,20,5,,1631032,100274,1611661330,53,64,0,3
+03:40,[IND] Hull Layup Shot: Missed Block: Coffey (2 BLK),1,15,2,1628269,1631086,,1611661325,53,64,0,3
+03:40,[IND] Team Rebound,1,15,4,,0,,1611661325,53,64,0,3
+03:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,64,0,3
+03:40,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,53,64,0,3
+03:40,[ATL] Cubaj Substitution replaced by Charles,0,-80,8,,1631032,202250,1611661330,53,64,0,3
+03:38,[IND] Mitchell 3pt Shot: Missed,232,72,2,,1628909,,1611661325,53,64,0,3
+03:35,[ATL] Charles Rebound (Off:3 Def:6),232,72,4,,202250,,1611661330,53,64,0,3
+03:22,[ATL] Charles Hook Shot: Missed,-1,63,2,,202250,,1611661330,53,64,0,3
+03:19,[IND] Boston Rebound (Off:2 Def:6),-1,63,4,,1641648,,1611661325,53,64,0,3
+03:14,[ATL] Canada Foul: Shooting (2 PF) (2 FTA),22,17,6,1642286,1628886,1629770,1611661330,53,64,0,3
+03:14,[IND 54-64] Clark Free Throw 1 of 2 (9 PTS),0,-80,3,,1642286,,1611661325,54,64,1,3
+03:14,[IND 55-64] Clark Free Throw 2 of 2 (10 PTS),0,-80,3,,1642286,,1611661325,55,64,1,3
+02:57,[ATL] Hillmon Turnover : Traveling (1 TO),-11,70,5,,1631044,100274,1611661330,55,64,0,3
+02:39,[ATL] Charles Foul: Personal (3 PF) (2 FTA),46,54,6,1641648,202250,100274,1611661330,55,64,0,3
+02:39,[IND 56-64] Boston Free Throw 1 of 2 (11 PTS),0,-80,3,,1641648,,1611661325,56,64,1,3
+02:39,[IND 57-64] Boston Free Throw 2 of 2 (12 PTS),0,-80,3,,1641648,,1611661325,57,64,1,3
+02:21,[ATL] Canada 3pt Shot: Missed,-91,235,2,,1628886,,1611661330,57,64,0,3
+02:17,[IND] Fagbenle Rebound (Off:1 Def:2),-91,235,4,,1627701,,1611661325,57,64,0,3
+02:10,[ATL] Charles Foul: Personal (4 PF) (2 FTA),30,-8,6,1641648,202250,1629770,1611661330,57,64,0,3
+02:10,Timeout : Regular,0,-80,9,,1611661330,,1611661330,57,64,0,3
+02:10,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,57,64,0,3
+02:10,[IND 58-64] Boston Free Throw 1 of 2 (13 PTS),0,-80,3,,1641648,,1611661325,58,64,1,3
+02:10,[IND 59-64] Boston Free Throw 2 of 2 (14 PTS),0,-80,3,,1641648,,1611661325,59,64,1,3
+01:50,[ATL 66-59] Howard Driving Floating Jump Shot: Made (21 PTS),-63,119,1,,1631009,,1611661330,59,66,2,3
+01:50,[IND] Mitchell Foul: Shooting (2 PF) (1 FTA),-63,119,6,1631009,1628909,100274,1611661325,59,66,0,3
+01:50,[ATL 67-59] Howard Free Throw 1 of 1 (22 PTS),0,-80,3,,1631009,,1611661330,59,67,1,3
+01:35,[IND 61-67] Boston Turnaround Jump Shot: Made (16 PTS) Assist: Clark (5 AST),-44,35,1,,1641648,1642286,1611661325,61,67,2,3
+01:13,[ATL] Canada Driving Finger Roll Layup Shot: Missed,9,27,2,,1628886,,1611661330,61,67,0,3
+01:10,[ATL] Hillmon Rebound (Off:2 Def:2),9,27,4,,1631044,,1611661330,61,67,0,3
+01:08,[ATL] Howard 3pt Shot: Missed,209,165,2,,1631009,,1611661330,61,67,0,3
+01:06,[IND] Team Rebound,209,165,4,,0,,1611661325,61,67,0,3
+01:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,67,0,3
+00:49.3,[IND 64-67] Clark 3pt Shot: Made (13 PTS) Assist: Boston (5 AST),-148,276,1,,1642286,1641648,1611661325,64,67,3,3
+00:24.2,[ATL 69-64] Charles Jump Shot: Made (15 PTS) Assist: Gray (5 AST),-125,112,1,,202250,1628277,1611661330,64,69,2,3
+00:06.0,[ATL] Canada Foul: Personal (3 PF) (2 FTA),125,360,6,1642286,1628886,100274,1611661330,64,69,0,3
+00:06.0,[IND 65-69] Clark Free Throw 1 of 2 (14 PTS),0,-80,3,,1642286,,1611661325,65,69,1,3
+00:06.0,[IND 66-69] Clark Free Throw 2 of 2 (15 PTS),0,-80,3,,1642286,,1611661325,66,69,1,3
+00:01.0,[ATL] Canada 3pt Shot: Missed,-163,214,2,,1628886,,1611661330,66,69,0,3
+00:01.0,[ATL] Team Rebound,-163,214,4,,0,,1611661330,66,69,0,3
+00:00.0,End Period,0,-80,13,,0,,0,66,69,0,3
+10:00,Start Period,0,-80,12,,0,,0,66,69,0,4
+09:45,[IND 69-69] Clark 3pt Shot: Made (18 PTS) Assist: Fagbenle (1 AST),-228,76,1,,1642286,1627701,1611661325,69,69,3,4
+09:25,[ATL] Howard Driving Floating Jump Shot: Missed,-7,42,2,,1631009,,1611661330,69,69,0,4
+09:23,[IND] Boston Rebound (Off:2 Def:7),-7,42,4,,1641648,,1611661325,69,69,0,4
+09:19,[IND] Clark 3pt Shot: Missed,-15,298,2,,1642286,,1611661325,69,69,0,4
+09:16,[ATL] Canada Rebound (Off:2 Def:2),-15,298,4,,1628886,,1611661330,69,69,0,4
+09:08,[IND] Clark Foul: Shooting (3 PF) (2 FTA),146,8,6,1628886,1642286,100274,1611661325,69,69,0,4
+09:08,[ATL 70-69] Canada Free Throw 1 of 2 (10 PTS),0,-80,3,,1628886,,1611661330,69,70,1,4
+09:08,[ATL 71-69] Canada Free Throw 2 of 2 (11 PTS),0,-80,3,,1628886,,1611661330,69,71,1,4
+08:54,[IND] Mitchell 3pt Shot: Missed,-23,266,2,,1628909,,1611661325,69,71,0,4
+08:50,[ATL] Charles Rebound (Off:3 Def:7),-23,266,4,,202250,,1611661330,69,71,0,4
+08:45,[ATL] Canada Running Pull-Up Jump Shot: Missed,127,63,2,,1628886,,1611661330,69,71,0,4
+08:43,[IND] Boston Rebound (Off:2 Def:8),127,63,4,,1641648,,1611661325,69,71,0,4
+08:38,[IND 71-71] Mitchell Running Layup Shot: Made (17 PTS) Assist: Clark (6 AST),-4,-1,1,,1628909,1642286,1611661325,71,71,2,4
+08:17,[ATL] Gray Driving Floating Jump Shot: Missed,-79,36,2,,1628277,,1611661330,71,71,0,4
+08:12,[ATL] Howard Rebound (Off:1 Def:1),-79,36,4,,1631009,,1611661330,71,71,0,4
+08:12,[ATL 73-71] Howard Driving Floating Jump Shot: Made (24 PTS),6,9,1,,1631009,,1611661330,71,73,2,4
+08:12,[IND] Hull Foul: Shooting (3 PF) (1 FTA),6,9,6,1631009,1631086,1629770,1611661325,71,73,0,4
+08:12,[ATL 74-71] Howard Free Throw 1 of 1 (25 PTS),0,-80,3,,1631009,,1611661330,71,74,1,4
+07:54,[IND 73-74] Clark Driving Floating Bank Jump Shot: Made (20 PTS),-74,60,1,,1642286,,1611661325,73,74,2,4
+07:44,[ATL 76-73] Charles Jump Shot: Made (17 PTS) Assist: Canada (3 AST),-18,193,1,,202250,1628886,1611661330,73,76,2,4
+07:33,[IND] Fagbenle Cutting Layup Shot: Missed Block: Hillmon (1 BLK),-10,-1,2,1631044,1627701,,1611661325,73,76,0,4
+07:31,[ATL] Canada Rebound (Off:2 Def:3),-10,-1,4,,1628886,,1611661330,73,76,0,4
+07:28,[ATL 79-73] Howard 3pt Shot: Made (28 PTS) Assist: Canada (4 AST),-184,154,1,,1631009,1628886,1611661330,73,79,3,4
+07:00,[IND 75-79] Boston Jump Shot: Made (18 PTS) Assist: Hull (1 AST),66,153,1,,1641648,1631086,1611661325,75,79,2,4
+06:36,[ATL 81-75] Hillmon Cutting Layup Shot: Made (4 PTS) Assist: Howard (4 AST),5,51,1,,1631044,1631009,1611661330,75,81,2,4
+06:36,[IND] Boston Foul: Shooting (1 PF) (1 FTA),5,51,6,1631044,1641648,1629770,1611661325,75,81,0,4
+06:36,[ATL] Canada Substitution replaced by Jones,0,-80,8,,1628886,1641650,1611661330,75,81,0,4
+06:36,[ATL] Charles Substitution replaced by Cubaj,0,-80,8,,202250,1631032,1611661330,75,81,0,4
+06:36,[ATL 82-75] Hillmon Free Throw 1 of 1 (5 PTS),0,-80,3,,1631044,,1611661330,75,82,1,4
+06:20,[IND] Hull 3pt Shot: Missed,-195,194,2,,1631086,,1611661325,75,82,0,4
+06:16,[ATL] Hillmon Rebound (Off:2 Def:3),-195,194,4,,1631044,,1611661330,75,82,0,4
+06:03,[ATL] Howard Pullup Jump shot: Missed,24,198,2,,1631009,,1611661330,75,82,0,4
+05:59,[ATL] Gray Rebound (Off:2 Def:2),24,198,4,,1628277,,1611661330,75,82,0,4
+05:58,[ATL 84-75] Gray Putback Layup Shot: Made (13 PTS),3,0,1,,1628277,,1611661330,75,84,2,4
+05:52,[IND] Mitchell Pullup Jump shot: Missed,-138,34,2,,1628909,,1611661325,75,84,0,4
+05:48,[ATL] Jones Rebound (Off:0 Def:1),-138,34,4,,1641650,,1611661330,75,84,0,4
+05:33,[ATL] Gray Jump Shot: Missed,-19,115,2,,1628277,,1611661330,75,84,0,4
+05:31,[IND] Boston Rebound (Off:2 Def:9),-19,115,4,,1641648,,1611661325,75,84,0,4
+05:27,[IND] Clark 3pt Shot: Missed,-184,258,2,,1642286,,1611661325,75,84,0,4
+05:23,[ATL] Jones Rebound (Off:0 Def:2),-184,258,4,,1641650,,1611661330,75,84,0,4
+05:17,Timeout : Regular,0,-80,9,,1611661330,,1611661330,75,84,0,4
+05:08,[ATL] Cubaj Turnover : Bad Pass (2 TO) Steal:Boston (1 ST),124,260,5,1641648,1631032,,1611661330,75,84,0,4
+05:04,[IND 77-84] Mitchell Running Pull-Up Jump Shot: Made (19 PTS),-124,177,1,,1628909,,1611661325,77,84,2,4
+04:39,[ATL] Gray Driving Layup Shot: Missed,-4,26,2,,1628277,,1611661330,77,84,0,4
+04:39,[ATL] Team Rebound,-4,26,4,,0,,1611661330,77,84,0,4
+04:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,84,0,4
+04:39,Timeout : Regular,0,-80,9,,1611661330,,1611661330,77,84,0,4
+04:39,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661330,77,84,0,4
+04:39,[ATL] Cubaj Substitution replaced by Charles,0,-80,8,,1631032,202250,1611661330,77,84,0,4
+04:39,[ATL] Jones Substitution replaced by Canada,0,-80,8,,1641650,1628886,1611661330,77,84,0,4
+04:30,[ATL] Gray Pullup Jump shot: Missed,5,112,2,,1628277,,1611661330,77,84,0,4
+04:28,[ATL] Charles Rebound (Off:4 Def:7),5,112,4,,202250,,1611661330,77,84,0,4
+04:27,[ATL] Gray 3pt Shot: Missed,-47,240,2,,1628277,,1611661330,77,84,0,4
+04:25,[IND] Team Rebound,-47,240,4,,0,,1611661325,77,84,0,4
+04:25,[ATL] Charles Foul: Loose Ball (5 PF),-40,773,6,1641648,202250,100274,1611661330,77,84,0,4
+04:13,[IND 79-84] Boston Layup Shot: Made (20 PTS) Assist: Clark (7 AST),-4,27,1,,1641648,1642286,1611661325,79,84,2,4
+03:51,[ATL 86-79] Howard Cutting Layup Shot: Made (30 PTS) Assist: Charles (1 AST),15,25,1,,1631009,202250,1611661330,79,86,2,4
+03:34,[IND 82-86] Hull 3pt Shot: Made (12 PTS) Assist: Fagbenle (2 AST),206,137,1,,1631086,1627701,1611661325,82,86,3,4
+03:14,[ATL] Howard 3pt Shot: Missed,187,228,2,,1631009,,1611661330,82,86,0,4
+03:11,[IND] Hull Rebound (Off:2 Def:2),187,228,4,,1631086,,1611661325,82,86,0,4
+03:04,[IND] Clark Turnover : Out of Bounds - Bad Pass Turnover (8 TO),55,296,5,,1642286,1629171,1611661325,82,86,0,4
+02:43,Jump Ball Fagbenle vs Hillmon (Boston gains possession),0,-80,10,1631044,1627701,1641648,1611661325,82,86,0,4
+02:43,[ATL] Howard Turnover : Bad Pass (3 TO) Steal:Fagbenle (1 ST),104,45,5,1627701,1631009,,1611661330,82,86,0,4
+02:30,[IND 84-86] Boston Turnaround Jump Shot: Made (22 PTS) Assist: Clark (8 AST),-1,32,1,,1641648,1642286,1611661325,84,86,2,4
+02:11,[ATL] Charles Turnaround Jump Shot: Missed,149,21,2,,202250,,1611661330,84,86,0,4
+02:09,[IND] Mitchell Rebound (Off:0 Def:2),149,21,4,,1628909,,1611661325,84,86,0,4
+01:58,[ATL] Gray Foul: Shooting (3 PF) (2 FTA),8,54,6,1628909,1628277,100274,1611661330,84,86,0,4
+01:58,[IND 85-86] Mitchell Free Throw 1 of 2 (20 PTS),0,-80,3,,1628909,,1611661325,85,86,1,4
+01:58,[IND 86-86] Mitchell Free Throw 2 of 2 (21 PTS),0,-80,3,,1628909,,1611661325,86,86,1,4
+01:42,[ATL] Howard Pullup Jump shot: Missed,-102,37,2,,1631009,,1611661330,86,86,0,4
+01:39,[ATL] Howard Rebound (Off:2 Def:1),-102,37,4,,1631009,,1611661330,86,86,0,4
+01:32,[ATL 88-86] Canada Driving Layup Shot: Made (13 PTS),0,27,1,,1628886,,1611661330,86,88,2,4
+01:28,[IND 88-88] Fagbenle Cutting Layup Shot: Made (7 PTS) Assist: Clark (9 AST),0,17,1,,1627701,1642286,1611661325,88,88,2,4
+01:10,[ATL] Howard 3pt Shot: Missed,-62,245,2,,1631009,,1611661330,88,88,0,4
+01:06,[IND] Mitchell Rebound (Off:0 Def:3),-62,245,4,,1628909,,1611661325,88,88,0,4
+00:52.0,[IND] Clark 3pt Shot: Missed,-107,244,2,,1642286,,1611661325,88,88,0,4
+00:49.5,[ATL] Hillmon Rebound (Off:2 Def:4),-107,244,4,,1631044,,1611661330,88,88,0,4
+00:44.8,Timeout : Regular,0,-80,9,,1611661330,,1611661330,88,88,0,4
+00:34.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,88,88,0,4
+00:27.4,[IND] Fagbenle Foul: Shooting (4 PF) (2 FTA),0,6,6,1631009,1627701,100274,1611661325,88,88,0,4
+00:27.4,[ATL 89-88] Howard Free Throw 1 of 2 (31 PTS),0,-80,3,,1631009,,1611661330,88,89,1,4
+00:27.4,[ATL] Hillmon Substitution replaced by Cubaj,0,-80,8,,1631044,1631032,1611661330,88,89,0,4
+00:27.4,[ATL 90-88] Howard Free Throw 2 of 2 (32 PTS),0,-80,3,,1631009,,1611661330,88,90,1,4
+00:27.4,Timeout : Regular,0,-80,9,,1611661325,,1611661325,88,90,0,4
+00:27.4,[ATL] Charles Substitution replaced by Hillmon,0,-80,8,,202250,1631044,1611661330,88,90,0,4
+00:18.7,[IND 90-90] Boston Driving Layup Shot: Made (24 PTS) Assist: Clark (10 AST),-1,15,1,,1641648,1642286,1611661325,90,90,2,4
+00:18.7,Timeout : Reset,0,-80,9,,1611661330,,1611661330,90,90,0,4
+00:18.7,[ATL] Cubaj Substitution replaced by Charles,0,-80,8,,1631032,202250,1611661330,90,90,0,4
+00:01.9,[ATL] Hillmon Driving Layup Shot: Missed Block: Fagbenle (2 BLK),-2,6,2,1627701,1631044,,1611661330,90,90,0,4
+00:01.3,[ATL] Team Rebound,-2,6,4,,0,,1611661330,90,90,0,4
+00:01.3,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,90,90,0,4
+00:00.5,[ATL] Gray Jump Shot: Missed,160,20,2,,1628277,,1611661330,90,90,0,4
+00:00.5,[ATL] Team Rebound,160,20,4,,0,,1611661330,90,90,0,4
+00:00.0,End Period,0,-80,13,,0,,0,90,90,0,4
+05:00,Start Period,0,-80,12,,0,,0,90,90,0,5
+04:58,Jump Ball Boston vs Cubaj (Clark gains possession),0,-80,10,1631032,1641648,1642286,1611661325,90,90,0,5
+04:50,[IND 92-90] Clark Pullup Jump shot: Made (22 PTS),-146,118,1,,1642286,,1611661325,92,90,2,5
+04:22,[ATL] Canada 3pt Shot: Missed,161,241,2,,1628886,,1611661330,92,90,0,5
+04:19,[IND] Boston Rebound (Off:2 Def:10),161,241,4,,1641648,,1611661325,92,90,0,5
+04:10,[IND] Clark 3pt Shot: Missed,6,292,2,,1642286,,1611661325,92,90,0,5
+04:07,[ATL] Canada Rebound (Off:2 Def:4),6,292,4,,1628886,,1611661330,92,90,0,5
+04:04,[ATL 92-92] Gray Running Layup Shot: Made (15 PTS) Assist: Canada (5 AST),4,17,1,,1628277,1628886,1611661330,92,92,2,5
+03:43,[IND 94-92] Boston Turnaround Jump Shot: Made (26 PTS) Assist: Clark (11 AST),-6,51,1,,1641648,1642286,1611661325,94,92,2,5
+03:19,[ATL 94-94] Howard Pullup Jump shot: Made (34 PTS),7,76,1,,1631009,,1611661330,94,94,2,5
+03:12,[IND] Clark Turnover : Bad Pass (9 TO) Steal:Howard (1 ST),-10,382,5,1631009,1642286,,1611661325,94,94,0,5
+03:08,[IND] Boston Foul: Shooting (2 PF) (2 FTA),0,4,6,1631009,1641648,100274,1611661325,94,94,0,5
+03:08,[ATL] Howard Free Throw 1 of 2 Missed,0,-80,3,,1631009,,1611661330,94,94,0,5
+03:08,[ATL] Team Rebound,0,-80,4,,0,,1611661330,94,94,0,5
+03:08,[ATL] Charles Substitution replaced by Hillmon,0,-80,8,,202250,1631044,1611661330,94,94,0,5
+03:08,[ATL] Howard Free Throw 2 of 2 Missed,0,-80,3,,1631009,,1611661330,94,94,0,5
+03:07,[IND] Fagbenle Rebound (Off:1 Def:3),0,-80,4,,1627701,,1611661325,94,94,0,5
+02:47,[IND 96-94] Fagbenle Jump Shot: Made (9 PTS) Assist: Clark (12 AST),-96,140,1,,1627701,1642286,1611661325,96,94,2,5
+02:28,[ATL 96-96] Canada Driving Floating Bank Jump Shot: Made (15 PTS) Assist: Howard (5 AST),-35,15,1,,1628886,1631009,1611661330,96,96,2,5
+02:17,[ATL] Canada Foul: Personal (4 PF),-46,278,6,1642286,1628886,1629770,1611661330,96,96,0,5
+02:08,[IND] Boston Foul: Offensive (3 PF),66,147,6,1631009,1641648,1629770,1611661325,96,96,0,5
+02:08,[IND] Boston Turnover : Offensive Foul Turnover (2 TO),66,147,5,,1641648,1629770,1611661325,96,96,0,5
+02:08,[ATL] Hillmon Substitution replaced by Charles,0,-80,8,,1631044,202250,1611661330,96,96,0,5
+01:53,[ATL 98-96] Howard Turnaround Jump Shot: Made (36 PTS),50,100,1,,1631009,,1611661330,96,98,2,5
+01:40,[IND] Mitchell Reverse Layup Shot: Missed,-15,-5,2,,1628909,,1611661325,96,98,0,5
+01:39,[IND] Boston Rebound (Off:3 Def:10),-15,-5,4,,1641648,,1611661325,96,98,0,5
+01:39,[IND 98-98] Boston Tip Layup Shot: Made (28 PTS),0,-5,1,,1641648,,1611661325,98,98,2,5
+01:15,[ATL] Charles 3pt Shot: Missed,-46,273,2,,202250,,1611661330,98,98,0,5
+01:12,[IND] Clark Rebound (Off:0 Def:5),-46,273,4,,1642286,,1611661325,98,98,0,5
+01:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,98,98,0,5
+01:12,[ATL] Charles Substitution replaced by Hillmon,0,-80,8,,202250,1631044,1611661330,98,98,0,5
+01:12,Timeout : Regular,0,-80,9,,1611661325,,1611661325,98,98,0,5
+01:03,[IND 100-98] Boston Hook Shot: Made (30 PTS) Assist: Hull (2 AST),-5,65,1,,1641648,1631086,1611661325,100,98,2,5
+01:03,Timeout : Regular,0,-80,9,,1611661330,,1611661330,100,98,0,5
+01:03,[ATL] Cubaj Substitution replaced by Charles,0,-80,8,,1631032,202250,1611661330,100,98,0,5
+00:59.6,[ATL] Howard Turnaround Fadeaway shot: Missed,133,54,2,,1631009,,1611661330,100,98,0,5
+00:57.8,[IND] Mitchell Rebound (Off:0 Def:4),133,54,4,,1628909,,1611661325,100,98,0,5
+00:33.8,[IND] Team Turnover : Shot Clock Turnover,-109,104,5,,0,100274,1611661325,100,98,0,5
+00:33.8,Timeout : Reset,0,-80,9,,1611661330,,1611661330,100,98,0,5
+00:32.3,[ATL] Charles Jump Shot: Missed,118,41,2,,202250,,1611661330,100,98,0,5
+00:29.2,[IND] Team Rebound,118,41,4,,0,,1611661325,100,98,0,5
+00:29.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,100,98,0,5
+00:29.2,Timeout : Reset,0,-80,9,,1611661325,,1611661325,100,98,0,5
+00:26.8,[ATL] Canada Foul: Personal (5 PF),72,302,6,1642286,1628886,100274,1611661330,100,98,0,5
+00:26.8,[ATL] Charles Substitution replaced by Cubaj,0,-80,8,,202250,1631032,1611661330,100,98,0,5
+00:23.9,[ATL] Cubaj Foul: Personal Take (2 PF) (2 FTA),36,278,6,1642286,1631032,100274,1611661330,100,98,0,5
+00:23.9,[IND 101-98] Clark Free Throw 1 of 2 (23 PTS),0,-80,3,,1642286,,1611661325,101,98,1,5
+00:23.9,[IND 102-98] Clark Free Throw 2 of 2 (24 PTS),0,-80,3,,1642286,,1611661325,102,98,1,5
+00:23.9,Timeout : Regular,0,-80,9,,1611661330,,1611661330,102,98,0,5
+00:23.9,[ATL] Cubaj Substitution replaced by Charles,0,-80,8,,1631032,202250,1611661330,102,98,0,5
+00:18.9,[ATL] Howard Driving Floating Bank Jump Shot: Missed,113,46,2,,1631009,,1611661330,102,98,0,5
+00:16.3,[ATL] Howard Rebound (Off:3 Def:1),113,46,4,,1631009,,1611661330,102,98,0,5
+00:14.7,[ATL] Howard Turnover : Lost Ball (4 TO) Steal:Hull (1 ST),96,83,5,1631086,1631009,,1611661330,102,98,0,5
+00:14.5,[ATL] Hillmon Foul: Personal (4 PF) (2 FTA),-12,773,6,1631086,1631044,1629171,1611661330,102,98,0,5
+00:14.5,[IND] Hull Free Throw 1 of 2 Missed,0,-80,3,,1631086,,1611661325,102,98,0,5
+00:14.5,[IND] Team Rebound,0,-80,4,,0,,1611661325,102,98,0,5
+00:14.5,[IND] Hull Free Throw 2 of 2 Missed,0,-80,3,,1631086,,1611661325,102,98,0,5
+00:13.0,[ATL] Charles Rebound (Off:4 Def:8),0,-80,4,,202250,,1611661330,102,98,0,5
+00:05.9,[ATL 100-102] Canada Driving Floating Jump Shot: Made (17 PTS),-4,36,1,,1628886,,1611661330,102,100,2,5
+00:04.5,[ATL] Howard Foul: Personal Take (1 PF) (2 FTA),62,810,6,1642286,1631009,1629770,1611661330,102,100,0,5
+00:04.5,[IND 103-100] Clark Free Throw 1 of 2 (25 PTS),0,-80,3,,1642286,,1611661325,103,100,1,5
+00:04.5,[IND 104-100] Clark Free Throw 2 of 2 (26 PTS),0,-80,3,,1642286,,1611661325,104,100,1,5
+00:01.9,[ATL] Canada 3pt Shot: Missed,-190,269,2,,1628886,,1611661330,104,100,0,5
+00:01.9,[ATL] Gray Rebound (Off:3 Def:2),-190,269,4,,1628277,,1611661330,104,100,0,5
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,104,100,0,5
+00:00.0,End Period,0,-80,13,,0,,0,104,100,0,5

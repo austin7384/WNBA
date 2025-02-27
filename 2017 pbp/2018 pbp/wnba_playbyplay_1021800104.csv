@@ -1,0 +1,375 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Sanders vs Vaughn (Delle Donne gains possession),0,-80,10,201913,201506,203399,1611661322,0,0,1
+09:42,[WAS] Atkins Jump Shot: Missed,-169,18,2,,1628878,,1611661322,0,0,1
+09:38,[NYL] Zellous Rebound (Off:0 Def:1),-169,18,4,,201919,,1611661313,0,0,1
+09:25,[NYL 2-0] Vaughn Jump Shot: Made (2 PTS) Assist: Hartley (1 AST),169,40,1,,201913,203829,1611661313,0,2,1
+09:12,[WAS] Atkins Turnover : Out of Bounds - Bad Pass Turnover (1 TO),93,-31,5,,1628878,,1611661322,0,2,1
+08:48,[NYL] Zellous Pullup Jump shot: Missed,93,126,2,,201919,,1611661313,0,2,1
+08:45,[WAS] Sanders Rebound (Off:0 Def:1),93,126,4,,201506,,1611661322,0,2,1
+08:40,[WAS 3-2] Delle Donne 3pt Shot: Made (3 PTS) Assist: Toliver (1 AST),-182,173,1,,203399,201911,1611661322,3,2,1
+08:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,3,2,1
+08:22,[NYL] Charles Jump Shot: Missed,98,156,2,,202250,,1611661313,3,2,1
+08:17,[WAS] Cloud Rebound (Off:0 Def:1),98,156,4,,204333,,1611661322,3,2,1
+08:15,[WAS] Cloud Driving Layup Shot: Missed,10,5,2,202250,204333,,1611661322,3,2,1
+08:15,[WAS] Team Rebound,10,5,4,,0,,1611661322,3,2,1
+08:10,[WAS 5-2] Sanders Jump Shot: Made (2 PTS) Assist: Cloud (1 AST),-69,135,1,,201506,204333,1611661322,5,2,1
+07:57,[NYL] Zellous Turnover : 3 Second Violation (1 TO),-52,67,5,,201919,,1611661313,5,2,1
+07:48,[WAS] Delle Donne 3pt Shot: Missed,-75,254,2,,203399,,1611661322,5,2,1
+07:45,[WAS] Sanders Rebound (Off:1 Def:1),-75,254,4,,201506,,1611661322,5,2,1
+07:43,[WAS] Toliver 3pt Shot: Missed,115,220,2,,201911,,1611661322,5,2,1
+07:39,[NYL] Prince Rebound (Off:0 Def:1),115,220,4,,202259,,1611661313,5,2,1
+07:25,[NYL] Prince 3pt Shot: Missed,75,269,2,,202259,,1611661313,5,2,1
+07:20,[NYL] Charles Rebound (Off:1 Def:0),75,269,4,,202250,,1611661313,5,2,1
+07:19,[NYL 4-5] Charles Layup Shot: Made (2 PTS),9,32,1,,202250,,1611661313,5,4,1
+07:04,[WAS] Toliver Turnover : Bad Pass (1 TO) Steal:Charles (1 ST),-79,220,5,202250,201911,,1611661322,5,4,1
+06:58,[NYL 6-5] Zellous Jump Shot: Made (2 PTS) Assist: Hartley (2 AST),123,122,1,,201919,203829,1611661313,5,6,1
+06:51,[NYL] Hartley Foul: Shooting (1 PF) (2 FTA),-30,12,6,204333,203829,,1611661313,5,6,1
+06:51,[WAS 6-6] Cloud Free Throw 1 of 2 (1 PTS),0,-80,3,,204333,,1611661322,6,6,1
+06:51,[WAS 7-6] Cloud Free Throw 2 of 2 (2 PTS),0,-80,3,,204333,,1611661322,7,6,1
+06:30,[NYL] Vaughn Layup Shot: Missed,-69,26,2,203399,201913,,1611661313,7,6,1
+06:26,[WAS] Sanders Rebound (Off:1 Def:2),-69,26,4,,201506,,1611661322,7,6,1
+06:23,[WAS 9-6] Atkins Layup Shot: Made (2 PTS) Assist: Toliver (2 AST),10,10,1,,1628878,201911,1611661322,9,6,1
+06:10,[NYL] Zellous Jump Shot: Missed,-14,53,2,,201919,,1611661313,9,6,1
+06:08,[NYL] Charles Rebound (Off:2 Def:0),-14,53,4,,202250,,1611661313,9,6,1
+06:08,[NYL] Charles Layup Shot: Missed,0,24,2,201506,202250,,1611661313,9,6,1
+06:08,[WAS] Team Rebound,0,24,4,,0,,1611661322,9,6,1
+06:08,[NYL] Zellous Foul: Loose Ball (1 PF),4,818,6,201506,201919,,1611661313,9,6,1
+05:51,[WAS] Sanders Turnaround Jump Shot: Missed,14,3,2,,201506,,1611661322,9,6,1
+05:49,[NYL] Prince Rebound (Off:0 Def:2),14,3,4,,202259,,1611661313,9,6,1
+05:44,[NYL] Hartley 3pt Shot: Missed,126,212,2,,203829,,1611661313,9,6,1
+05:40,[NYL] Charles Rebound (Off:3 Def:0),126,212,4,,202250,,1611661313,9,6,1
+05:39,[NYL] Charles Turnover : Lost Ball (1 TO) Steal:Cloud (1 ST),7,36,5,204333,202250,,1611661313,9,6,1
+05:29,[WAS] Delle Donne Turnaround Fadeaway Bank Jump Shot: Missed,2,66,2,,203399,,1611661322,9,6,1
+05:27,[WAS] Delle Donne Rebound (Off:1 Def:0),2,66,4,,203399,,1611661322,9,6,1
+05:26,[WAS 11-6] Delle Donne Layup Shot: Made (5 PTS),-1,17,1,,203399,,1611661322,11,6,1
+05:24,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,11,6,1
+05:13,[WAS] Sanders Foul: Personal (1 PF),-103,32,6,202250,201506,,1611661322,11,6,1
+05:03,[NYL] Hartley 3pt Shot: Missed,117,235,2,,203829,,1611661313,11,6,1
+05:00,[WAS] Cloud Rebound (Off:0 Def:2),117,235,4,,204333,,1611661322,11,6,1
+04:55,[WAS] Sanders Jump Shot: Missed,-117,37,2,,201506,,1611661322,11,6,1
+04:54,[NYL] Team Rebound,-117,37,4,,0,,1611661313,11,6,1
+04:54,[WAS] Atkins Foul: Loose Ball (1 PF),-2,803,6,201913,1628878,,1611661322,11,6,1
+04:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,11,6,1
+04:30,[NYL 9-11] Charles 3pt Shot: Made (5 PTS) Assist: Zellous (1 AST),71,229,1,,202250,201919,1611661313,11,9,1
+04:13,[WAS] Atkins 3pt Shot: Missed,-217,87,2,,1628878,,1611661322,11,9,1
+04:10,[NYL] Charles Rebound (Off:3 Def:1),-217,87,4,,202250,,1611661313,11,9,1
+03:59,[NYL 12-11] Hartley 3pt Shot: Made (3 PTS),-125,218,1,,203829,,1611661313,11,12,1
+03:54,[NYL] Charles Foul: Personal (1 PF),-132,71,6,203399,202250,,1611661313,11,12,1
+03:40,[WAS 14-12] Atkins 3pt Shot: Made (5 PTS) Assist: Cloud (2 AST),225,86,1,,1628878,204333,1611661322,14,12,1
+03:16,[NYL] Charles Turnaround Jump Shot: Missed,37,124,2,,202250,,1611661313,14,12,1
+03:13,[WAS] Sanders Rebound (Off:1 Def:3),37,124,4,,201506,,1611661322,14,12,1
+03:06,[WAS 16-12] Sanders Jump Shot: Made (4 PTS) Assist: Delle Donne (1 AST),-146,102,1,,201506,203399,1611661322,16,12,1
+02:47,[NYL 15-16] Prince 3pt Shot: Made (3 PTS) Assist: Hartley (3 AST),221,67,1,,202259,203829,1611661313,16,15,1
+02:36,[WAS] Sanders Driving Layup Shot: Missed,15,16,2,,201506,,1611661322,16,15,1
+02:33,[NYL] Hartley Rebound (Off:0 Def:1),15,16,4,,203829,,1611661313,16,15,1
+02:28,[NYL] Hartley Turnover : Lost Ball (1 TO) Steal:Delle Donne (1 ST),-88,63,5,203399,203829,,1611661313,16,15,1
+02:17,[WAS 18-15] Delle Donne Driving Floating Bank Jump Shot: Made (7 PTS),-1,61,1,,203399,,1611661322,18,15,1
+01:56,[NYL 17-18] Charles Jump Shot: Made (7 PTS) Assist: Zellous (2 AST),165,79,1,,202250,201919,1611661313,18,17,1
+01:37,[WAS] Delle Donne Turnaround Jump Shot: Missed,133,13,2,,203399,,1611661322,18,17,1
+01:33,[NYL] Vaughn Rebound (Off:0 Def:1),133,13,4,,201913,,1611661313,18,17,1
+01:24,[NYL] Charles Turnaround Fadeaway Bank Jump Shot: Missed,-99,78,2,,202250,,1611661313,18,17,1
+01:21,[WAS] Cloud Rebound (Off:0 Def:3),-99,78,4,,204333,,1611661322,18,17,1
+01:15,[WAS 20-17] Cloud Step Back Jump shot: Made (4 PTS),-35,136,1,,204333,,1611661322,20,17,1
+00:56.0,[NYL 20-20] Prince 3pt Shot: Made (6 PTS) Assist: Hartley (4 AST),145,210,1,,202259,203829,1611661313,20,20,1
+00:48.1,[WAS] Sanders Turnover : Lost Ball (1 TO) Steal:Hartley (1 ST),91,110,5,203829,201506,,1611661322,20,20,1
+00:44.2,[NYL 22-20] Hartley Running Layup Shot: Made (5 PTS),-2,16,1,,203829,,1611661313,20,22,1
+00:34.2,[WAS] Delle Donne Pullup Jump shot: Missed,-128,112,2,,203399,,1611661322,20,22,1
+00:31.5,[NYL] Vaughn Rebound (Off:0 Def:2),-128,112,4,,201913,,1611661313,20,22,1
+00:23.4,[WAS] Atkins Foul: Shooting (2 PF) (2 FTA),0,26,6,202259,1628878,,1611661322,20,22,1
+00:23.4,[NYL 23-20] Prince Free Throw 1 of 2 (7 PTS),0,-80,3,,202259,,1611661313,20,23,1
+00:23.4,[WAS] Delle Donne Substitution replaced by Hawkins,0,-80,8,,203399,203403,1611661322,20,23,1
+00:23.4,[WAS] Atkins Substitution replaced by Hill,0,-80,8,,1628878,203401,1611661322,20,23,1
+00:23.4,[WAS] Sanders Substitution replaced by Hines-Allen,0,-80,8,,201506,1628899,1611661322,20,23,1
+00:23.4,[WAS] Cloud Substitution replaced by Ruffin-Pratt,0,-80,8,,204333,203437,1611661322,20,23,1
+00:23.4,[NYL] Charles Substitution replaced by Zahui B,0,-80,8,,202250,204320,1611661313,20,23,1
+00:23.4,[NYL] Vaughn Substitution replaced by Stokes,0,-80,8,,201913,204329,1611661313,20,23,1
+00:23.4,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,20,23,1
+00:23.4,[NYL 24-20] Prince Free Throw 2 of 2 (8 PTS),0,-80,3,,202259,,1611661313,20,24,1
+00:03.1,[NYL] Zellous Foul: Shooting Block (2 PF) (2 FTA),30,26,6,1628899,201919,,1611661313,20,24,1
+00:03.1,[WAS 21-24] Hines-Allen Free Throw 1 of 2 (1 PTS),0,-80,3,,1628899,,1611661322,21,24,1
+00:03.1,[NYL] Prince Substitution replaced by Rodgers,0,-80,8,,202259,203411,1611661313,21,24,1
+00:03.1,[WAS 22-24] Hines-Allen Free Throw 2 of 2 (2 PTS),0,-80,3,,1628899,,1611661322,22,24,1
+00:00.0,End Period,0,-80,13,,0,,0,22,24,1
+10:00,Start Period,0,-80,12,,0,,0,22,24,2
+09:36,[NYL] Boyd Turnover : Bad Pass (1 TO) Steal:Ruffin-Pratt (1 ST),-32,89,5,203437,204327,,1611661313,22,24,2
+09:27,[NYL] Stokes Foul: Shooting (1 PF) (2 FTA),-34,24,6,1628899,204329,,1611661313,22,24,2
+09:27,[WAS 23-24] Hines-Allen Free Throw 1 of 2 (3 PTS),0,-80,3,,1628899,,1611661322,23,24,2
+09:27,[WAS] Hines-Allen Free Throw 2 of 2 Missed,0,-80,3,,1628899,,1611661322,23,24,2
+09:25,[NYL] Stokes Rebound (Off:0 Def:1),0,-80,4,,204329,,1611661313,23,24,2
+09:14,[NYL] Nurse Pullup Jump shot: Missed,23,162,2,,1628915,,1611661313,23,24,2
+09:13,[WAS] Hawkins Rebound (Off:0 Def:1),23,162,4,,203403,,1611661322,23,24,2
+09:00,[WAS 25-24] Ruffin-Pratt Jump Shot: Made (2 PTS) Assist: Hill (1 AST),-23,171,1,,203437,203401,1611661322,25,24,2
+08:44,[NYL 26-25] Stokes Layup Shot: Made (2 PTS) Assist: Boyd (1 AST),-19,30,1,,204329,204327,1611661313,25,26,2
+08:34,[WAS] Toliver 3pt Shot: Missed,209,147,2,,201911,,1611661322,25,26,2
+08:31,[NYL] Boyd Rebound (Off:0 Def:1),209,147,4,,204327,,1611661313,25,26,2
+08:22,[NYL] Zahui B Jump Shot: Missed,-27,187,2,,204320,,1611661313,25,26,2
+08:18,[WAS] Ruffin-Pratt Rebound (Off:0 Def:1),-27,187,4,,203437,,1611661322,25,26,2
+07:59,[WAS] Hill Pullup Jump shot: Missed,-119,114,2,,203401,,1611661322,25,26,2
+07:55,[NYL] Rodgers Rebound (Off:0 Def:1),-119,114,4,,203411,,1611661313,25,26,2
+07:50,[NYL] Rodgers 3pt Shot: Missed,118,253,2,,203411,,1611661313,25,26,2
+07:48,[WAS] Hill Rebound (Off:0 Def:1),118,253,4,,203401,,1611661322,25,26,2
+07:36,[WAS 28-26] Hawkins 3pt Shot: Made (3 PTS) Assist: Toliver (3 AST),-152,206,1,,203403,201911,1611661322,28,26,2
+07:08,[WAS] Hawkins Foul: Shooting (1 PF) (2 FTA),9,100,6,204320,203403,,1611661322,28,26,2
+07:08,[NYL] Zahui B Free Throw 1 of 2 Missed,0,-80,3,,204320,,1611661313,28,26,2
+07:08,[NYL] Team Rebound,0,-80,4,,0,,1611661313,28,26,2
+07:08,[WAS] Toliver Substitution replaced by Walker-Kimbrough,0,-80,8,,201911,1628278,1611661322,28,26,2
+07:08,[NYL 27-28] Zahui B Free Throw 2 of 2 (1 PTS),0,-80,3,,204320,,1611661313,28,27,2
+06:47,[WAS] Walker-Kimbrough Pullup Jump shot: Missed,-17,194,2,,1628278,,1611661322,28,27,2
+06:44,[WAS] Ruffin-Pratt Rebound (Off:1 Def:1),-17,194,4,,203437,,1611661322,28,27,2
+06:34,[WAS] Walker-Kimbrough Pullup Jump shot: Missed,-129,136,2,,1628278,,1611661322,28,27,2
+06:33,[NYL] Team Rebound,-129,136,4,,0,,1611661313,28,27,2
+06:33,[NYL] Zahui B Substitution replaced by Charles,0,-80,8,,204320,202250,1611661313,28,27,2
+06:16,[NYL] Rodgers Driving Layup Shot: Missed,-14,24,2,203403,203411,,1611661313,28,27,2
+06:13,[NYL] Rodgers Rebound (Off:1 Def:1),-14,24,4,,203411,,1611661313,28,27,2
+06:12,[NYL 29-28] Rodgers Jump Shot: Made (2 PTS),128,62,1,,203411,,1611661313,28,29,2
+06:05,[WAS] Hawkins Turnover : Bad Pass (1 TO) Steal:Boyd (1 ST),-169,225,5,204327,203403,,1611661322,28,29,2
+05:58,[NYL] Rodgers Layup Shot: Missed,-2,32,2,,203411,,1611661313,28,29,2
+05:58,[NYL] Charles Rebound (Off:4 Def:1),-2,32,4,,202250,,1611661313,28,29,2
+05:58,[NYL 31-28] Charles Layup Shot: Made (9 PTS),3,26,1,,202250,,1611661313,28,31,2
+05:58,[WAS] Hines-Allen Foul: Shooting (1 PF) (1 FTA),-3,36,6,202250,1628899,,1611661322,28,31,2
+05:58,Timeout Officials,0,-80,9,,0,,0,28,31,2
+05:58,[WAS] Hines-Allen Substitution replaced by Delle Donne,0,-80,8,,1628899,203399,1611661322,28,31,2
+05:58,[WAS] Hawkins Substitution replaced by Sanders,0,-80,8,,203403,201506,1611661322,28,31,2
+05:58,[NYL 32-28] Charles Free Throw 1 of 1 (10 PTS),0,-80,3,,202250,,1611661313,28,32,2
+05:47,[WAS 30-32] Ruffin-Pratt Driving Layup Shot: Made (4 PTS),14,13,1,,203437,,1611661322,30,32,2
+05:27,[NYL] Nurse Foul: Offensive Charge (1 PF),-86,63,6,203401,1628915,,1611661313,30,32,2
+05:27,[NYL] Nurse Turnover : Offensive Foul Turnover (1 TO),-86,63,5,,1628915,,1611661313,30,32,2
+05:27,[NYL] Nurse Substitution replaced by Zellous,0,-80,8,,1628915,201919,1611661313,30,32,2
+05:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,32,2
+05:10,[WAS] Delle Donne 3pt Shot: Missed,100,231,2,,203399,,1611661322,30,32,2
+05:08,[NYL] Boyd Rebound (Off:0 Def:2),100,231,4,,204327,,1611661313,30,32,2
+05:04,[NYL 34-30] Charles Running Layup Shot: Made (12 PTS) Assist: Boyd (2 AST),-17,16,1,,202250,204327,1611661313,30,34,2
+04:36,[WAS] Ruffin-Pratt 3pt Shot: Missed,-168,178,2,,203437,,1611661322,30,34,2
+04:34,[NYL] Charles Rebound (Off:4 Def:2),-168,178,4,,202250,,1611661313,30,34,2
+04:24,[WAS] Ruffin-Pratt Violation:Kicked Ball,0,-80,7,,203437,,1611661322,30,34,2
+04:24,[WAS] Walker-Kimbrough Substitution replaced by Atkins,0,-80,8,,1628278,1628878,1611661322,30,34,2
+04:21,[NYL] Charles Jump Shot: Missed,-125,161,2,,202250,,1611661313,30,34,2
+04:16,[WAS] Delle Donne Rebound (Off:1 Def:1),-125,161,4,,203399,,1611661322,30,34,2
+04:04,[NYL] Zellous Foul: Personal (3 PF),132,199,6,1628878,201919,,1611661313,30,34,2
+04:00,[NYL] Stokes Foul: Shooting (2 PF) (2 FTA),-20,27,6,1628878,204329,,1611661313,30,34,2
+04:00,[WAS 31-34] Atkins Free Throw 1 of 2 (6 PTS),0,-80,3,,1628878,,1611661322,31,34,2
+04:00,[WAS] Hill Substitution replaced by Cloud,0,-80,8,,203401,204333,1611661322,31,34,2
+04:00,[WAS] Ruffin-Pratt Substitution replaced by Toliver,0,-80,8,,203437,201911,1611661322,31,34,2
+04:00,[NYL] Zellous Substitution replaced by Prince,0,-80,8,,201919,202259,1611661313,31,34,2
+04:00,[WAS 32-34] Atkins Free Throw 2 of 2 (7 PTS),0,-80,3,,1628878,,1611661322,32,34,2
+03:47,[NYL] Prince Pullup Jump shot: Missed,-38,115,2,,202259,,1611661313,32,34,2
+03:44,[NYL] Charles Rebound (Off:5 Def:2),-38,115,4,,202250,,1611661313,32,34,2
+03:43,[NYL 36-32] Charles Layup Shot: Made (14 PTS),0,16,1,,202250,,1611661313,32,36,2
+03:25,[WAS 34-36] Sanders Layup Shot: Made (6 PTS) Assist: Cloud (3 AST),13,18,1,,201506,204333,1611661322,34,36,2
+03:10,[NYL] Charles Turnover : Lost Ball (2 TO) Steal:Atkins (1 ST),-25,57,5,1628878,202250,,1611661313,34,36,2
+03:10,[NYL] Prince Foul: Personal (1 PF),15,719,6,1628878,202259,,1611661313,34,36,2
+02:59,[WAS 36-36] Atkins Step Back Jump shot: Made (9 PTS) Assist: Cloud (4 AST),113,157,1,,1628878,204333,1611661322,36,36,2
+02:35,[NYL 38-36] Stokes Jump Shot: Made (4 PTS) Assist: Rodgers (1 AST),135,63,1,,204329,203411,1611661313,36,38,2
+02:16,[WAS 39-38] Cloud 3pt Shot: Made (7 PTS),-217,102,1,,204333,,1611661322,39,38,2
+01:53,[NYL] Boyd 3pt Shot: Missed,-181,175,2,,204327,,1611661313,39,38,2
+01:50,[WAS] Toliver Rebound (Off:0 Def:1),-181,175,4,,201911,,1611661322,39,38,2
+01:42,[WAS 42-38] Cloud 3pt Shot: Made (10 PTS) Assist: Delle Donne (2 AST),-106,252,1,,204333,203399,1611661322,42,38,2
+01:41,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,42,38,2
+01:41,Instant Replay - Support Ruling,0,-80,18,,0,,0,42,38,2
+01:41,[NYL] Rodgers Substitution replaced by Hartley,0,-80,8,,203411,203829,1611661313,42,38,2
+01:25,[WAS] Atkins Violation:Kicked Ball,0,-80,7,,1628878,,1611661322,42,38,2
+01:19,[NYL 41-42] Prince 3pt Shot: Made (11 PTS) Assist: Hartley (5 AST),-222,105,1,,202259,203829,1611661313,42,41,2
+01:08,[WAS] Delle Donne Step Back Jump shot: Missed,-132,87,2,,203399,,1611661322,42,41,2
+01:05,[NYL] Prince Rebound (Off:0 Def:3),-132,87,4,,202259,,1611661313,42,41,2
+00:53.2,[WAS] Atkins Foul: Personal (3 PF),3,187,6,204327,1628878,,1611661322,42,41,2
+00:53.2,[WAS] Atkins Substitution replaced by Ruffin-Pratt,0,-80,8,,1628878,203437,1611661322,42,41,2
+00:46.3,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,41,2
+00:42.6,[NYL] Prince Pullup Jump shot: Missed,-177,41,2,,202259,,1611661313,42,41,2
+00:38.9,[WAS] Toliver Rebound (Off:0 Def:2),-177,41,4,,201911,,1611661322,42,41,2
+00:32.8,[WAS] Toliver 3pt Shot: Missed,-76,242,2,,201911,,1611661322,42,41,2
+00:29.7,[NYL] Charles Rebound (Off:5 Def:3),-76,242,4,,202250,,1611661313,42,41,2
+00:22.6,[NYL] Charles Foul: Offensive Charge (2 PF),-60,56,6,201506,202250,,1611661313,42,41,2
+00:22.6,[NYL] Charles Turnover : Offensive Foul Turnover (3 TO),-60,56,5,,202250,,1611661313,42,41,2
+00:22.6,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,42,41,2
+00:03.8,[WAS] Toliver Driving Layup Shot: Missed,80,12,2,,201911,,1611661322,42,41,2
+00:01.4,[NYL] Stokes Rebound (Off:0 Def:2),80,12,4,,204329,,1611661313,42,41,2
+00:00.0,End Period,0,-80,13,,0,,0,42,41,2
+10:00,Start Period,0,-80,12,,0,,0,42,41,3
+09:39,[NYL] Hartley 3pt Shot: Missed,85,241,2,,203829,,1611661313,42,41,3
+09:35,[NYL] Vaughn Rebound (Off:1 Def:2),85,241,4,,201913,,1611661313,42,41,3
+09:25,[NYL] Charles Jump Shot: Missed,-129,131,2,,202250,,1611661313,42,41,3
+09:20,[WAS] Atkins Rebound (Off:0 Def:1),-129,131,4,,1628878,,1611661322,42,41,3
+09:11,[WAS 44-41] Sanders Jump Shot: Made (8 PTS) Assist: Cloud (5 AST),103,164,1,,201506,204333,1611661322,44,41,3
+08:53,[NYL] Prince 3pt Shot: Missed,-162,187,2,,202259,,1611661313,44,41,3
+08:48,[WAS] Toliver Rebound (Off:0 Def:3),-162,187,4,,201911,,1611661322,44,41,3
+08:46,[WAS 47-41] Toliver 3pt Shot: Made (3 PTS),-37,247,1,,201911,,1611661322,47,41,3
+08:19,[NYL] Vaughn Turnaround Jump Shot: Missed,-46,118,2,203399,201913,,1611661313,47,41,3
+08:16,[WAS] Sanders Rebound (Off:1 Def:4),-46,118,4,,201506,,1611661322,47,41,3
+08:08,[WAS] Delle Donne 3pt Shot: Missed,171,171,2,,203399,,1611661322,47,41,3
+08:06,[WAS] Sanders Rebound (Off:2 Def:4),171,171,4,,201506,,1611661322,47,41,3
+08:03,[WAS] Sanders Turnover : Bad Pass (2 TO) Steal:Zellous (1 ST),107,150,5,201919,201506,,1611661322,47,41,3
+07:48,[NYL] Charles Turnover : Bad Pass (4 TO) Steal:Sanders (1 ST),92,12,5,201506,202250,,1611661313,47,41,3
+07:36,[WAS] Delle Donne Jump Shot: Missed,47,74,2,,203399,,1611661322,47,41,3
+07:35,[NYL] Team Rebound,47,74,4,,0,,1611661313,47,41,3
+07:17,[NYL 43-47] Charles Hook Shot: Made (16 PTS) Assist: Hartley (6 AST),4,39,1,,202250,203829,1611661313,47,43,3
+06:55,[WAS] Toliver 3pt Shot: Missed,-116,221,2,,201911,,1611661322,47,43,3
+06:52,[NYL] Hartley Rebound (Off:0 Def:2),-116,221,4,,203829,,1611661313,47,43,3
+06:44,[NYL 45-47] Vaughn Cutting Layup Shot: Made (4 PTS) Assist: Charles (1 AST),-2,10,1,,201913,202250,1611661313,47,45,3
+06:28,[WAS 49-45] Sanders Cutting Layup Shot: Made (10 PTS) Assist: Toliver (4 AST),-2,16,1,,201506,201911,1611661322,49,45,3
+06:01,[NYL] Hartley Step Back Jump shot: Missed,61,171,2,,203829,,1611661313,49,45,3
+05:59,[WAS] Cloud Rebound (Off:0 Def:4),61,171,4,,204333,,1611661322,49,45,3
+05:51,[WAS] Atkins Running Jump Shot: Missed,95,32,2,,1628878,,1611661322,49,45,3
+05:48,[NYL] Charles Rebound (Off:5 Def:4),95,32,4,,202250,,1611661313,49,45,3
+05:32,[WAS] Sanders Foul: Shooting (2 PF) (2 FTA),46,27,6,202250,201506,,1611661322,49,45,3
+05:32,[NYL 46-49] Charles Free Throw 1 of 2 (17 PTS),0,-80,3,,202250,,1611661313,49,46,3
+05:32,[NYL 47-49] Charles Free Throw 2 of 2 (18 PTS),0,-80,3,,202250,,1611661313,49,47,3
+05:18,[WAS 52-47] Toliver 3pt Shot: Made (6 PTS) Assist: Atkins (1 AST),-217,146,1,,201911,1628878,1611661322,52,47,3
+04:55,[NYL 50-52] Hartley 3pt Shot: Made (8 PTS) Assist: Prince (1 AST),-159,185,1,,203829,202259,1611661313,52,50,3
+04:41,[WAS] Delle Donne Jump Shot: Missed,-145,100,2,,203399,,1611661322,52,50,3
+04:36,[NYL] Vaughn Rebound (Off:1 Def:3),-145,100,4,,201913,,1611661313,52,50,3
+04:22,[NYL] Prince 3pt Shot: Missed,191,157,2,,202259,,1611661313,52,50,3
+04:21,[WAS] Team Rebound,191,157,4,,0,,1611661322,52,50,3
+04:21,[NYL] Hartley Foul: Loose Ball (2 PF),-14,799,6,203399,203829,,1611661313,52,50,3
+04:21,Timeout Officials,0,-80,9,,0,,0,52,50,3
+04:21,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,52,50,3
+04:09,[WAS 54-50] Sanders Jump Shot: Made (12 PTS) Assist: Atkins (2 AST),-2,115,1,,201506,1628878,1611661322,54,50,3
+03:48,[NYL] Charles Cutting Layup Shot: Missed,15,19,2,,202250,,1611661313,54,50,3
+03:46,[NYL] Charles Rebound (Off:6 Def:4),15,19,4,,202250,,1611661313,54,50,3
+03:46,[NYL] Charles Layup Shot: Missed,5,19,2,,202250,,1611661313,54,50,3
+03:46,[WAS] Cloud Rebound (Off:0 Def:5),5,19,4,,204333,,1611661322,54,50,3
+03:35,[WAS] Toliver Turnover : Bad Pass (2 TO) Steal:Vaughn (1 ST),119,236,5,201913,201911,,1611661322,54,50,3
+03:20,[NYL 52-54] Boyd Reverse Layup Shot: Made (2 PTS) Assist: Charles (2 AST),30,22,1,,204327,202250,1611661313,54,52,3
+02:58,[WAS 56-52] Sanders Jump Shot: Made (14 PTS) Assist: Cloud (6 AST),-5,173,1,,201506,204333,1611661322,56,52,3
+02:34,[NYL] Prince 3pt Shot: Missed,-24,246,2,,202259,,1611661313,56,52,3
+02:32,[NYL] Boyd Rebound (Off:1 Def:2),-24,246,4,,204327,,1611661313,56,52,3
+02:26,[NYL] Zellous 3pt Shot: Missed,-192,148,2,,201919,,1611661313,56,52,3
+02:21,[WAS] Sanders Rebound (Off:2 Def:5),-192,148,4,,201506,,1611661322,56,52,3
+02:03,[WAS] Sanders Jump Shot: Missed,11,177,2,,201506,,1611661322,56,52,3
+02:00,[NYL] Charles Rebound (Off:6 Def:5),11,177,4,,202250,,1611661313,56,52,3
+01:54,[WAS] Delle Donne Foul: Personal (1 PF),39,13,6,202250,203399,,1611661322,56,52,3
+01:54,[NYL] Zellous Substitution replaced by Nurse,0,-80,8,,201919,1628915,1611661313,56,52,3
+01:54,[NYL] Vaughn Substitution replaced by Zahui B,0,-80,8,,201913,204320,1611661313,56,52,3
+01:54,[NYL] Prince Substitution replaced by Rodgers,0,-80,8,,202259,203411,1611661313,56,52,3
+01:41,[NYL 54-56] Charles Turnaround Bank Hook Shot: Made (20 PTS) Assist: Nurse (1 AST),-48,109,1,,202250,1628915,1611661313,56,54,3
+01:33,[WAS 59-54] Delle Donne 3pt Shot: Made (10 PTS) Assist: Cloud (7 AST),41,260,1,,203399,204333,1611661322,59,54,3
+01:21,[NYL] Boyd Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-68,252,5,,204327,,1611661313,59,54,3
+01:21,[WAS] Cloud Substitution replaced by Ruffin-Pratt,0,-80,8,,204333,203437,1611661322,59,54,3
+01:21,[WAS] Sanders Substitution replaced by Hines-Allen,0,-80,8,,201506,1628899,1611661322,59,54,3
+01:05,[NYL] Zahui B Foul: Shooting (1 PF) (2 FTA),-11,27,6,1628899,204320,,1611661313,59,54,3
+01:05,[WAS 60-54] Hines-Allen Free Throw 1 of 2 (4 PTS),0,-80,3,,1628899,,1611661322,60,54,3
+01:05,[WAS] Atkins Substitution replaced by Currie,0,-80,8,,1628878,200673,1611661322,60,54,3
+01:05,[WAS] Hines-Allen Free Throw 2 of 2 Missed,0,-80,3,,1628899,,1611661322,60,54,3
+01:03,[NYL] Zahui B Rebound (Off:0 Def:1),0,-80,4,,204320,,1611661313,60,54,3
+00:51.7,[WAS] Hines-Allen Foul: Shooting (2 PF) (2 FTA),-47,24,6,202250,1628899,,1611661322,60,54,3
+00:51.7,[NYL 55-60] Charles Free Throw 1 of 2 (21 PTS),0,-80,3,,202250,,1611661313,60,55,3
+00:51.7,[WAS] Delle Donne Substitution replaced by Hawkins,0,-80,8,,203399,203403,1611661322,60,55,3
+00:51.7,[NYL 56-60] Charles Free Throw 2 of 2 (22 PTS),0,-80,3,,202250,,1611661313,60,56,3
+00:43.6,[NYL] Boyd Foul: Personal (1 PF) (2 FTA),-113,242,6,201911,204327,,1611661313,60,56,3
+00:43.6,[WAS 61-56] Toliver Free Throw 1 of 2 (7 PTS),0,-80,3,,201911,,1611661322,61,56,3
+00:43.6,[WAS 62-56] Toliver Free Throw 2 of 2 (8 PTS),0,-80,3,,201911,,1611661322,62,56,3
+00:31.7,[WAS] Hines-Allen Foul: Shooting Block (3 PF) (2 FTA),-46,60,6,203411,1628899,,1611661322,62,56,3
+00:31.7,[NYL] Rodgers Free Throw 1 of 2 Missed,0,-80,3,,203411,,1611661313,62,56,3
+00:31.7,[NYL] Team Rebound,0,-80,4,,0,,1611661313,62,56,3
+00:31.7,[NYL 57-62] Rodgers Free Throw 2 of 2 (3 PTS),0,-80,3,,203411,,1611661313,62,57,3
+00:15.2,[NYL] Rodgers Foul: Shooting (1 PF) (2 FTA),-72,128,6,203437,203411,,1611661313,62,57,3
+00:15.2,[WAS 63-57] Ruffin-Pratt Free Throw 1 of 2 (5 PTS),0,-80,3,,203437,,1611661322,63,57,3
+00:15.2,[WAS 64-57] Ruffin-Pratt Free Throw 2 of 2 (6 PTS),0,-80,3,,203437,,1611661322,64,57,3
+00:01.8,[NYL 59-64] Boyd Pullup Jump shot: Made (4 PTS),3,157,1,,204327,,1611661313,64,59,3
+00:00.4,[WAS] Toliver 3pt Shot: Missed,7,463,2,,201911,,1611661322,64,59,3
+00:00.1,[WAS] Team Rebound,7,463,4,,0,,1611661322,64,59,3
+00:00.0,End Period,0,-80,13,,0,,0,64,59,3
+10:00,Start Period,0,-80,12,,0,,0,64,59,4
+09:51,[WAS] Delle Donne 3pt Shot: Missed,-158,196,2,,203399,,1611661322,64,59,4
+09:48,[WAS] Hawkins Rebound (Off:1 Def:1),-158,196,4,,203403,,1611661322,64,59,4
+09:34,[WAS 67-59] Toliver 3pt Shot: Made (11 PTS) Assist: Currie (1 AST),-89,229,1,,201911,200673,1611661322,67,59,4
+09:04,[NYL] Nurse Driving Floating Bank Jump Shot: Missed,50,59,2,,1628915,,1611661313,67,59,4
+09:01,[WAS] Ruffin-Pratt Rebound (Off:1 Def:2),50,59,4,,203437,,1611661322,67,59,4
+08:53,[WAS] Delle Donne Foul: Offensive Charge (2 PF),-52,49,6,1628915,203399,,1611661322,67,59,4
+08:53,[WAS] Delle Donne Turnover : Offensive Foul Turnover (1 TO),-52,49,5,,203399,,1611661322,67,59,4
+08:53,[NYL] Nurse Substitution replaced by Zellous,0,-80,8,,1628915,201919,1611661313,67,59,4
+08:35,[NYL] Boyd Turnover : Bad Pass (3 TO) Steal:Toliver (1 ST),21,120,5,201911,204327,,1611661313,67,59,4
+08:32,[NYL] Boyd Foul: Shooting (2 PF) (2 FTA),-3,15,6,200673,204327,,1611661313,67,59,4
+08:32,[WAS 68-59] Currie Free Throw 1 of 2 (1 PTS),0,-80,3,,200673,,1611661322,68,59,4
+08:32,[NYL] Boyd Substitution replaced by Hartley,0,-80,8,,204327,203829,1611661313,68,59,4
+08:32,[WAS 69-59] Currie Free Throw 2 of 2 (2 PTS),0,-80,3,,200673,,1611661322,69,59,4
+08:15,[NYL] Rodgers 3pt Shot: Missed,197,158,2,,203411,,1611661313,69,59,4
+08:15,[NYL] Team Rebound,197,158,4,,0,,1611661313,69,59,4
+08:15,[WAS] Hawkins Foul: Loose Ball (2 PF),-15,49,6,204320,203403,,1611661322,69,59,4
+08:15,[NYL] Zahui B Substitution replaced by Stokes,0,-80,8,,204320,204329,1611661313,69,59,4
+08:01,[NYL] Zellous 3pt Shot: Missed,193,160,2,,201919,,1611661313,69,59,4
+08:01,[NYL] Team Rebound,193,160,4,,0,,1611661313,69,59,4
+08:01,[NYL] Team Turnover : Shot Clock Turnover,15,28,5,,0,,1611661313,69,59,4
+07:48,[WAS] Toliver 3pt Shot: Missed,-55,247,2,,201911,,1611661322,69,59,4
+07:44,[WAS] Hawkins Rebound (Off:2 Def:1),-55,247,4,,203403,,1611661322,69,59,4
+07:40,[NYL] Stokes Foul: Shooting Block (3 PF) (2 FTA),-55,27,6,203399,204329,,1611661313,69,59,4
+07:40,[WAS 70-59] Delle Donne Free Throw 1 of 2 (11 PTS),0,-80,3,,203399,,1611661322,70,59,4
+07:40,[NYL] Rodgers Substitution replaced by Prince,0,-80,8,,203411,202259,1611661313,70,59,4
+07:40,[WAS 71-59] Delle Donne Free Throw 2 of 2 (12 PTS),0,-80,3,,203399,,1611661322,71,59,4
+07:21,[WAS] Toliver Foul: Shooting (1 PF) (2 FTA),-35,24,6,201919,201911,,1611661322,71,59,4
+07:21,[NYL 60-71] Zellous Free Throw 1 of 2 (3 PTS),0,-80,3,,201919,,1611661313,71,60,4
+07:21,[NYL 61-71] Zellous Free Throw 2 of 2 (4 PTS),0,-80,3,,201919,,1611661313,71,61,4
+06:57,Jump Ball Charles vs Currie (Zellous gains possession),0,-80,10,200673,202250,201919,1611661313,71,61,4
+06:57,[WAS] Currie Turnover : Lost Ball (1 TO) Steal:Prince (1 ST),124,28,5,202259,200673,,1611661322,71,61,4
+06:51,[WAS] Ruffin-Pratt Foul: Personal (1 PF),64,110,6,202250,203437,,1611661322,71,61,4
+06:45,[WAS] Toliver Foul: Shooting (2 PF) (2 FTA),61,13,6,203829,201911,,1611661322,71,61,4
+06:45,[NYL 62-71] Hartley Free Throw 1 of 2 (9 PTS),0,-80,3,,203829,,1611661313,71,62,4
+06:45,[NYL] Hartley Free Throw 2 of 2 Missed,0,-80,3,,203829,,1611661313,71,62,4
+06:43,[WAS] Hawkins Rebound (Off:2 Def:2),0,-80,4,,203403,,1611661322,71,62,4
+06:35,[NYL] Hartley Foul: Personal (3 PF),30,101,6,201911,203829,,1611661313,71,62,4
+06:35,[WAS] Currie Substitution replaced by Atkins,0,-80,8,,200673,1628878,1611661322,71,62,4
+06:28,[WAS 73-62] Delle Donne Pullup Jump shot: Made (14 PTS) Assist: Atkins (3 AST),124,140,1,,203399,1628878,1611661322,73,62,4
+06:06,[NYL] Prince Pullup Jump shot: Missed,-134,19,2,,202259,,1611661313,73,62,4
+06:03,[WAS] Hawkins Rebound (Off:2 Def:3),-134,19,4,,203403,,1611661322,73,62,4
+05:58,[WAS] Atkins Pullup Jump shot: Missed,-125,51,2,,1628878,,1611661322,73,62,4
+05:56,[NYL] Stokes Rebound (Off:0 Def:3),-125,51,4,,204329,,1611661313,73,62,4
+05:41,[NYL] Charles Turnover : Bad Pass (5 TO) Steal:Hawkins (1 ST),-81,211,5,203403,202250,,1611661313,73,62,4
+05:32,[WAS] Toliver 3pt Shot: Missed,-163,210,2,,201911,,1611661322,73,62,4
+05:29,[NYL] Stokes Rebound (Off:0 Def:4),-163,210,4,,204329,,1611661313,73,62,4
+05:06,[NYL] Prince Driving Layup Shot: Missed,41,124,2,203403,202259,,1611661313,73,62,4
+05:02,[WAS] Atkins Rebound (Off:0 Def:2),41,124,4,,1628878,,1611661322,73,62,4
+05:00,[WAS] Atkins Turnover : Lost Ball (2 TO) Steal:Hartley (2 ST),24,40,5,203829,1628878,,1611661322,73,62,4
+04:54,[WAS] Hawkins Foul: Personal (3 PF) (2 FTA),44,37,6,202250,203403,,1611661322,73,62,4
+04:54,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,73,62,4
+04:54,[WAS] Ruffin-Pratt Substitution replaced by Cloud,0,-80,8,,203437,204333,1611661322,73,62,4
+04:54,[NYL] Prince Substitution replaced by Rodgers,0,-80,8,,202259,203411,1611661313,73,62,4
+04:54,[NYL 63-73] Charles Free Throw 1 of 2 (23 PTS),0,-80,3,,202250,,1611661313,73,63,4
+04:54,[NYL 64-73] Charles Free Throw 2 of 2 (24 PTS),0,-80,3,,202250,,1611661313,73,64,4
+04:42,[WAS 76-64] Delle Donne 3pt Shot: Made (17 PTS) Assist: Cloud (8 AST),-120,226,1,,203399,204333,1611661322,76,64,4
+04:23,[NYL 66-76] Charles Turnaround Jump Shot: Made (26 PTS) Assist: Hartley (7 AST),50,82,1,,202250,203829,1611661313,76,66,4
+03:59,[WAS 78-66] Delle Donne Step Back Jump shot: Made (19 PTS) Assist: Cloud (9 AST),-137,11,1,,203399,204333,1611661322,78,66,4
+03:48,[WAS] Atkins Foul: Shooting Block (4 PF) (2 FTA),15,44,6,203411,1628878,,1611661322,78,66,4
+03:48,[NYL 67-78] Rodgers Free Throw 1 of 2 (4 PTS),0,-80,3,,203411,,1611661313,78,67,4
+03:48,[NYL] Rodgers Free Throw 2 of 2 Missed,0,-80,3,,203411,,1611661313,78,67,4
+03:46,[WAS] Delle Donne Rebound (Off:1 Def:2),0,-80,4,,203399,,1611661322,78,67,4
+03:31,[WAS 81-67] Hawkins 3pt Shot: Made (6 PTS) Assist: Atkins (4 AST),-38,235,1,,203403,1628878,1611661322,81,67,4
+03:11,[NYL] Hartley Jump Shot: Missed,121,168,2,,203829,,1611661313,81,67,4
+03:09,[WAS] Toliver Rebound (Off:0 Def:4),121,168,4,,201911,,1611661322,81,67,4
+02:54,[WAS] Hawkins Turnaround Hook Shot: Missed,20,110,2,,203403,,1611661322,81,67,4
+02:51,[NYL] Rodgers Rebound (Off:1 Def:2),20,110,4,,203411,,1611661313,81,67,4
+02:46,[NYL] Rodgers 3pt Shot: Missed,198,145,2,,203411,,1611661313,81,67,4
+02:43,[NYL] Charles Rebound (Off:7 Def:5),198,145,4,,202250,,1611661313,81,67,4
+02:43,[NYL] Charles Layup Shot: Missed,3,32,2,203399,202250,,1611661313,81,67,4
+02:43,[WAS] Cloud Rebound (Off:0 Def:6),3,32,4,,204333,,1611661322,81,67,4
+02:43,[NYL] Zellous Foul: Personal (4 PF),120,606,6,204333,201919,,1611661313,81,67,4
+02:43,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,81,67,4
+02:43,[NYL] Hartley Substitution replaced by Boyd,0,-80,8,,203829,204327,1611661313,81,67,4
+02:43,[NYL] Stokes Substitution replaced by Prince,0,-80,8,,204329,202259,1611661313,81,67,4
+02:43,[NYL] Rodgers Substitution replaced by Zahui B,0,-80,8,,203411,204320,1611661313,81,67,4
+02:28,[WAS 83-67] Hawkins Driving Layup Shot: Made (8 PTS),-11,26,1,,203403,,1611661322,83,67,4
+02:28,[NYL] Prince Foul: Shooting (2 PF) (1 FTA),-7,26,6,203403,202259,,1611661313,83,67,4
+02:28,[NYL] Prince Substitution replaced by Allen,0,-80,8,,202259,204296,1611661313,83,67,4
+02:28,[WAS 84-67] Hawkins Free Throw 1 of 1 (9 PTS),0,-80,3,,203403,,1611661322,84,67,4
+02:21,[NYL] Boyd Turnover : Bad Pass (4 TO) Steal:Cloud (2 ST),-84,13,5,204333,204327,,1611661313,84,67,4
+02:14,[WAS] Toliver Turnover : Bad Pass (3 TO) Steal:Boyd (2 ST),168,5,5,204327,201911,,1611661322,84,67,4
+02:05,[NYL] Allen Turnover : Bad Pass (1 TO) Steal:Hawkins (2 ST),131,-21,5,203403,204296,,1611661313,84,67,4
+01:53,[WAS] Delle Donne 3pt Shot: Missed,118,242,2,,203399,,1611661322,84,67,4
+01:49,[WAS] Cloud Rebound (Off:1 Def:6),118,242,4,,204333,,1611661322,84,67,4
+01:43,[WAS 86-67] Delle Donne Jump Shot: Made (21 PTS) Assist: Cloud (10 AST),36,106,1,,203399,204333,1611661322,86,67,4
+01:33,[NYL] Charles Turnover : Bad Pass (6 TO) Steal:Delle Donne (2 ST),-1,270,5,203399,202250,,1611661313,86,67,4
+01:22,[WAS] Cloud 3pt Shot: Missed,-113,228,2,,204333,,1611661322,86,67,4
+01:19,[NYL] Allen Rebound (Off:0 Def:1),-113,228,4,,204296,,1611661313,86,67,4
+01:13,[NYL] Zellous Turnover : Out of Bounds - Bad Pass Turnover (2 TO),127,217,5,,201919,,1611661313,86,67,4
+01:13,[WAS] Delle Donne Substitution replaced by Hines-Allen,0,-80,8,,203399,1628899,1611661322,86,67,4
+01:13,[WAS] Toliver Substitution replaced by Walker-Kimbrough,0,-80,8,,201911,1628278,1611661322,86,67,4
+01:13,[NYL] Charles Substitution replaced by Stokes,0,-80,8,,202250,204329,1611661313,86,67,4
+01:00,[WAS] Atkins Driving Floating Jump Shot: Missed,-24,97,2,,1628878,,1611661322,86,67,4
+00:56.9,[NYL] Boyd Rebound (Off:1 Def:3),-24,97,4,,204327,,1611661313,86,67,4
+00:53.1,[NYL] Allen 3pt Shot: Missed,-168,216,2,,204296,,1611661313,86,67,4
+00:51.8,[WAS] Team Rebound,-168,216,4,,0,,1611661322,86,67,4
+00:35.5,[WAS] Hawkins 3pt Shot: Missed,-125,213,2,,203403,,1611661322,86,67,4
+00:31.1,[NYL] Stokes Rebound (Off:0 Def:5),-125,213,4,,204329,,1611661313,86,67,4
+00:16.7,[NYL] Stokes Jump Shot: Missed,91,179,2,,204329,,1611661313,86,67,4
+00:14.9,[WAS] Hawkins Rebound (Off:2 Def:4),91,179,4,,203403,,1611661322,86,67,4
+00:00.0,End Period,0,-80,13,,0,,0,86,67,4
+00:00.0,Game End,0,-80,0,,0,,0,86,67,4

@@ -1,0 +1,419 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Cambage vs Zahui B (Gray gains possession),0,-80,10,204320,202633,203833,1611661319,0,0,1
+09:45,[LVA] Wilson Jump Shot: Missed,-35,163,2,,1628932,,1611661319,0,0,1
+09:42,[LAS] Coffey Rebound (Off:0 Def:1),-35,163,4,,1628269,,1611661320,0,0,1
+09:33,[LAS 3-0] Zahui B 3pt Shot: Made (3 PTS) Assist: Wheeler (1 AST),152,186,1,,204320,204365,1611661320,3,0,1
+09:23,[LAS] Zahui B Foul: Shooting (1 PF) (2 FTA),41,38,6,202633,204320,,1611661320,3,0,1
+09:23,[LVA 1-3] Cambage Free Throw 1 of 2 (1 PTS),0,-80,3,,202633,,1611661319,3,1,1
+09:23,[LVA] Cambage Free Throw 2 of 2 Missed,0,-80,3,,202633,,1611661319,3,1,1
+09:21,[LAS] Coffey Rebound (Off:0 Def:2),0,-80,4,,1628269,,1611661320,3,1,1
+09:05,[LAS] Zahui B Driving Layup Shot: Missed,-21,40,2,202633,204320,,1611661320,3,1,1
+09:02,[LVA] Cambage Rebound (Off:0 Def:1),-21,40,4,,202633,,1611661319,3,1,1
+09:01,[LVA] Cambage Turnover : Bad Pass (1 TO) Steal:Wheeler (1 ST),-74,598,5,204365,202633,,1611661319,3,1,1
+08:57,[LAS 5-1] Zahui B Cutting Layup Shot: Made (5 PTS) Assist: Wheeler (2 AST),4,-1,1,,204320,204365,1611661320,5,1,1
+08:50,[LVA 3-5] Young Jump Shot: Made (2 PTS) Assist: Gray (1 AST),-147,86,1,,1629498,203833,1611661319,5,3,1
+08:50,[LAS] Cooper Foul: Shooting (1 PF) (1 FTA),-147,86,6,1629498,1630099,,1611661320,5,3,1
+08:50,[LVA 4-5] Young Free Throw 1 of 1 (3 PTS),0,-80,3,,1629498,,1611661319,5,4,1
+08:34,[LAS] Wheeler Turnover : Lost Ball (1 TO) Steal:Williams (1 ST),29,38,5,203029,204365,,1611661320,5,4,1
+08:26,[LVA] Wilson Turnaround Jump Shot: Missed,-26,16,2,,1628932,,1611661319,5,4,1
+08:24,[LAS] Zahui B Rebound (Off:0 Def:1),-26,16,4,,204320,,1611661320,5,4,1
+08:15,[LAS] Zahui B Jump Shot: Missed,148,17,2,,204320,,1611661320,5,4,1
+08:12,[LVA] Gray Rebound (Off:0 Def:1),148,17,4,,203833,,1611661319,5,4,1
+08:07,[LVA] Williams 3pt Shot: Missed,153,188,2,,203029,,1611661319,5,4,1
+08:04,[LAS] Zahui B Rebound (Off:0 Def:2),153,188,4,,204320,,1611661320,5,4,1
+07:53,[LAS 8-4] Zahui B 3pt Shot: Made (8 PTS) Assist: Coffey (1 AST),13,237,1,,204320,1628269,1611661320,8,4,1
+07:45,[LVA 6-8] Young Pullup Jump shot: Made (5 PTS) Assist: Gray (2 AST),-156,48,1,,1629498,203833,1611661319,8,6,1
+07:28,[LAS 10-6] Sykes Driving Layup Shot: Made (2 PTS),18,4,1,,1628279,,1611661320,10,6,1
+07:20,[LVA 8-10] Young Pullup Jump shot: Made (7 PTS),-159,49,1,,1629498,,1611661319,10,8,1
+07:19,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,10,8,1
+07:06,[LAS] Zahui B Step Back Jump shot: Missed,-2,80,2,202633,204320,,1611661320,10,8,1
+07:04,[LVA] Cambage Rebound (Off:0 Def:2),-2,80,4,,202633,,1611661319,10,8,1
+07:04,[LVA] Cambage Turnover : Double Dribble (2 TO),-18,599,5,,202633,,1611661319,10,8,1
+06:55,[LAS] Sykes Pullup Jump shot: Missed,-70,140,2,,1628279,,1611661320,10,8,1
+06:52,[LVA] Williams Rebound (Off:0 Def:1),-70,140,4,,203029,,1611661319,10,8,1
+06:36,[LVA 11-10] Williams 3pt Shot: Made (3 PTS) Assist: Cambage (1 AST),149,189,1,,203029,202633,1611661319,10,11,1
+06:20,[LAS 12-11] Zahui B Jump Shot: Made (10 PTS) Assist: Cooper (1 AST),-198,-6,1,,204320,1630099,1611661320,12,11,1
+06:06,[LVA] Cambage Turnaround Jump Shot: Missed,-35,15,2,,202633,,1611661319,12,11,1
+06:04,[LAS] Sykes Rebound (Off:0 Def:1),-35,15,4,,1628279,,1611661320,12,11,1
+06:00,[LAS] Sykes Running Layup Shot: Missed,-27,22,2,,1628279,,1611661320,12,11,1
+05:57,[LVA] Wilson Rebound (Off:0 Def:1),-27,22,4,,1628932,,1611661319,12,11,1
+05:52,[LVA] Williams 3pt Shot: Missed,209,110,2,,203029,,1611661319,12,11,1
+05:48,[LAS] Cooper Rebound (Off:0 Def:1),209,110,4,,1630099,,1611661320,12,11,1
+05:40,[LAS] Wheeler Pullup Jump shot: Missed,115,-11,2,,204365,,1611661320,12,11,1
+05:37,[LVA] Williams Rebound (Off:0 Def:2),115,-11,4,,203029,,1611661319,12,11,1
+05:33,[LVA] Gray Jump Shot: Missed,-54,178,2,,203833,,1611661319,12,11,1
+05:28,[LVA] Cambage Rebound (Off:1 Def:2),-54,178,4,,202633,,1611661319,12,11,1
+05:28,[LVA] Cambage Putback Layup Shot: Missed,0,-5,2,,202633,,1611661319,12,11,1
+05:27,[LAS] Cooper Rebound (Off:0 Def:2),0,-5,4,,1630099,,1611661320,12,11,1
+05:11,[LAS 15-11] Wheeler 3pt Shot: Made (3 PTS) Assist: Cooper (2 AST),-135,194,1,,204365,1630099,1611661320,15,11,1
+04:55,[LVA 13-15] Cambage Turnaround Jump Shot: Made (3 PTS) Assist: Young (1 AST),24,81,1,,202633,1629498,1611661319,15,13,1
+04:44,[LAS] Zahui B 3pt Shot: Missed,-188,139,2,,204320,,1611661320,15,13,1
+04:40,[LVA] Williams Rebound (Off:0 Def:3),-188,139,4,,203029,,1611661319,15,13,1
+04:29,[LVA] Wilson Pullup Jump shot: Missed,49,55,2,,1628932,,1611661319,15,13,1
+04:26,[LAS] Cooper Rebound (Off:0 Def:3),49,55,4,,1630099,,1611661320,15,13,1
+04:22,[LAS] Cooper Turnover : Lost Ball (1 TO) Steal:Gray (1 ST),64,232,5,203833,1630099,,1611661320,15,13,1
+04:18,[LVA 15-15] Cambage Running Layup Shot: Made (5 PTS) Assist: Gray (3 AST),4,-1,1,,202633,203833,1611661319,15,15,1
+04:13,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),-4,4,6,204320,1628932,,1611661319,15,15,1
+04:13,[LAS 16-15] Zahui B Free Throw 1 of 2 (11 PTS),0,-80,3,,204320,,1611661320,16,15,1
+04:13,[LAS 17-15] Zahui B Free Throw 2 of 2 (12 PTS),0,-80,3,,204320,,1611661320,17,15,1
+04:13,[LAS] Sykes Substitution replaced by Guirantes,0,-80,8,,1628279,1630441,1611661320,17,15,1
+04:13,[LAS] Cooper Substitution replaced by Holmes,0,-80,8,,1630099,1627678,1611661320,17,15,1
+04:13,[LVA] Cambage Substitution replaced by Hamby,0,-80,8,,202633,204324,1611661319,17,15,1
+04:01,[LVA 17-17] Hamby Driving Layup Shot: Made (2 PTS),-1,5,1,,204324,,1611661319,17,17,1
+04:01,[LAS] Coffey Foul: Shooting (1 PF) (1 FTA),-1,5,6,204324,1628269,,1611661320,17,17,1
+04:01,[LVA 18-17] Hamby Free Throw 1 of 1 (3 PTS),0,-80,3,,204324,,1611661319,17,18,1
+03:46,[LAS] Guirantes Driving Layup Shot: Missed,-37,9,2,,1630441,,1611661320,17,18,1
+03:42,[LVA] Williams Rebound (Off:0 Def:4),-37,9,4,,203029,,1611661319,17,18,1
+03:42,[LVA] Gray Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-48,350,5,,203833,,1611661319,17,18,1
+03:24,[LAS] Wheeler 3pt Shot: Missed,-165,181,2,,204365,,1611661320,17,18,1
+03:20,[LVA] Hamby Rebound (Off:0 Def:1),-165,181,4,,204324,,1611661319,17,18,1
+03:15,[LVA] Gray Foul: Offensive Charge (1 PF),-64,54,6,1628269,203833,,1611661319,17,18,1
+03:15,[LVA] Gray Turnover : Offensive Foul Turnover (2 TO),-64,54,5,,203833,,1611661319,17,18,1
+03:15,[LVA] Williams Substitution replaced by Plum,0,-80,8,,203029,1628276,1611661319,17,18,1
+03:03,[LAS] Coffey 3pt Shot: Missed,-183,164,2,,1628269,,1611661320,17,18,1
+02:59,[LVA] Plum Rebound (Off:0 Def:1),-183,164,4,,1628276,,1611661319,17,18,1
+02:46,[LVA] Gray 3pt Shot: Missed,210,104,2,,203833,,1611661319,17,18,1
+02:44,[LAS] Team Rebound,210,104,4,,0,,1611661320,17,18,1
+02:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,18,1
+02:44,[LAS] Coffey Substitution replaced by Samuelson,0,-80,8,,1628269,1628317,1611661320,17,18,1
+02:29,[LAS 19-18] Zahui B Jump Shot: Made (14 PTS) Assist: Holmes (1 AST),150,-8,1,,204320,1627678,1611661320,19,18,1
+02:18,[LVA 20-19] Young Floating Jump shot: Made (9 PTS),-4,87,1,,1629498,,1611661319,19,20,1
+02:06,[LAS] Wheeler Driving Layup Shot: Missed,54,36,2,,204365,,1611661320,19,20,1
+02:00,[LVA] Wilson Rebound (Off:0 Def:2),54,36,4,,1628932,,1611661319,19,20,1
+01:53,[LVA] Hamby Layup Shot: Missed,30,40,2,,204324,,1611661319,19,20,1
+01:50,[LVA] Hamby Rebound (Off:1 Def:1),30,40,4,,204324,,1611661319,19,20,1
+01:49,[LVA] Hamby Turnover : Lost Ball (1 TO) Steal:Holmes (1 ST),-24,113,5,1627678,204324,,1611661319,19,20,1
+01:46,[LAS] Samuelson 3pt Shot: Missed,-183,153,2,,1628317,,1611661320,19,20,1
+01:43,[LVA] Wilson Rebound (Off:0 Def:3),-183,153,4,,1628932,,1611661319,19,20,1
+01:36,[LVA] Plum Step Back Jump shot: Missed,-170,12,2,,1628276,,1611661319,19,20,1
+01:32,[LVA] Gray Rebound (Off:1 Def:1),-170,12,4,,203833,,1611661319,19,20,1
+01:30,[LVA 22-19] Gray Putback Layup Shot: Made (2 PTS),-11,12,1,,203833,,1611661319,19,22,1
+01:14,[LAS] Zahui B Turnover : Bad Pass (1 TO) Steal:Wilson (1 ST),101,160,5,1628932,204320,,1611661320,19,22,1
+01:09,[LVA 24-19] Young Running Pull-Up Jump Shot: Made (11 PTS) Assist: Gray (4 AST),26,81,1,,1629498,203833,1611661319,19,24,1
+00:46.1,[LAS] Holmes 3pt Shot: Missed,217,63,2,,1627678,,1611661320,19,24,1
+00:43.2,[LVA] Hamby Rebound (Off:1 Def:2),217,63,4,,204324,,1611661319,19,24,1
+00:34.3,[LVA] Wilson Layup Shot: Missed,-11,10,2,,1628932,,1611661319,19,24,1
+00:30.0,[LAS] Guirantes Rebound (Off:0 Def:1),-11,10,4,,1630441,,1611661320,19,24,1
+00:21.3,[LAS] Holmes Turnover : Bad Pass (1 TO) Steal:Hamby (1 ST),214,160,5,204324,1627678,,1611661320,19,24,1
+00:18.1,[LVA 26-19] Hamby Running Layup Shot: Made (5 PTS) Assist: Plum (1 AST),8,11,1,,204324,1628276,1611661319,19,26,1
+00:12.5,[LAS] Samuelson Turnover : Bad Pass (1 TO) Steal:Young (1 ST),175,548,5,1629498,1628317,,1611661320,19,26,1
+00:00.3,[LVA 28-19] Hamby Running Layup Shot: Made (7 PTS) Assist: Gray (5 AST),3,5,1,,204324,203833,1611661319,19,28,1
+00:00.0,End Period,0,-80,13,,0,,0,19,28,1
+10:00,Start Period,0,-80,12,,0,,0,19,28,2
+09:43,[LAS] Cooper Turnover : Bad Pass (2 TO) Steal:Young (2 ST),165,123,5,1629498,1630099,,1611661320,19,28,2
+09:38,[LVA] Young Jump Shot: Missed,-70,113,2,,1629498,,1611661319,19,28,2
+09:35,[LAS] Coffey Rebound (Off:0 Def:3),-70,113,4,,1628269,,1611661320,19,28,2
+09:22,[LAS 21-28] Guirantes Turnaround Jump Shot: Made (2 PTS),-127,158,1,,1630441,,1611661320,21,28,2
+09:02,[LVA] Plum Driving Bank Hook Shot: Missed,-37,49,2,,1628276,,1611661319,21,28,2
+08:58,[LAS] Cox Rebound (Off:0 Def:1),-37,49,4,,1630100,,1611661320,21,28,2
+08:54,[LVA] Plum Foul: Shooting (1 PF) (2 FTA),-35,15,6,1630099,1628276,,1611661319,21,28,2
+08:54,[LAS] Cooper Free Throw 1 of 2 Missed,0,-80,3,,1630099,,1611661320,21,28,2
+08:54,[LAS] Team Rebound,0,-80,4,,0,,1611661320,21,28,2
+08:54,[LAS] Cooper Free Throw 2 of 2 Missed,0,-80,3,,1630099,,1611661320,21,28,2
+08:52,[LVA] Park Rebound (Off:0 Def:1),0,-80,4,,1628917,,1611661319,21,28,2
+08:44,[LVA] Young Jump Shot: Missed,53,65,2,,1629498,,1611661319,21,28,2
+08:41,[LAS] Cox Rebound (Off:0 Def:2),53,65,4,,1630100,,1611661320,21,28,2
+08:32,[LVA] Hamby Foul: Personal (1 PF),42,234,6,1630099,204324,,1611661319,21,28,2
+08:32,[LVA] Young Substitution replaced by Cambage,0,-80,8,,1629498,202633,1611661319,21,28,2
+08:20,[LAS] Cooper Driving Layup Shot: Missed,-37,16,2,,1630099,,1611661320,21,28,2
+08:17,[LVA] Plum Rebound (Off:0 Def:2),-37,16,4,,1628276,,1611661319,21,28,2
+08:06,[LVA] Plum 3pt Shot: Missed,-19,258,2,,1628276,,1611661319,21,28,2
+08:04,[LVA] Cambage Rebound (Off:2 Def:2),-19,258,4,,202633,,1611661319,21,28,2
+08:00,[LVA] Hamby Driving Layup Shot: Missed,21,12,2,1630100,204324,,1611661319,21,28,2
+07:58,[LVA] Williams Rebound (Off:1 Def:4),21,12,4,,203029,,1611661319,21,28,2
+07:54,[LVA 30-21] Plum Driving Layup Shot: Made (2 PTS) Assist: Williams (1 AST),-3,17,1,,1628276,203029,1611661319,21,30,2
+07:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,21,30,2
+07:44,[LAS] Cooper Substitution replaced by Wheeler,0,-80,8,,1630099,204365,1611661320,21,30,2
+07:30,[LAS] Guirantes Floating Jump shot: Missed,95,26,2,,1630441,,1611661320,21,30,2
+07:27,[LVA] Park Rebound (Off:0 Def:2),95,26,4,,1628917,,1611661319,21,30,2
+07:18,[LVA 32-21] Cambage Cutting Layup Shot: Made (7 PTS) Assist: Plum (2 AST),22,7,1,,202633,1628276,1611661319,21,32,2
+07:02,[LVA] Hamby Foul: Personal (2 PF),28,90,6,1628279,204324,,1611661319,21,32,2
+07:02,[LAS] Cox Substitution replaced by Zahui B,0,-80,8,,1630100,204320,1611661320,21,32,2
+07:02,[LAS] Guirantes Substitution replaced by Samuelson,0,-80,8,,1630441,1628317,1611661320,21,32,2
+06:48,[LAS] Zahui B Turnaround Fadeaway shot: Missed,-60,13,2,,204320,,1611661320,21,32,2
+06:45,[LVA] Cambage Rebound (Off:2 Def:3),-60,13,4,,202633,,1611661319,21,32,2
+06:38,[LVA] Cambage Foul: Offensive Charge (1 PF),-31,67,6,1628269,202633,,1611661319,21,32,2
+06:38,[LVA] Cambage Turnover : Offensive Foul Turnover (3 TO),-31,67,5,,202633,,1611661319,21,32,2
+06:38,[LVA] Hamby Substitution replaced by Young,0,-80,8,,204324,1629498,1611661319,21,32,2
+06:27,[LAS] Coffey Pullup Jump shot: Missed,-52,139,2,,1628269,,1611661320,21,32,2
+06:22,[LVA] Young Rebound (Off:0 Def:1),-52,139,4,,1629498,,1611661319,21,32,2
+06:04,[LVA] Park Jump Shot: Missed,50,83,2,,1628917,,1611661319,21,32,2
+06:03,[LVA] Cambage Rebound (Off:3 Def:3),50,83,4,,202633,,1611661319,21,32,2
+06:03,[LAS] Coffey Foul: Shooting (2 PF) (2 FTA),0,88,6,202633,1628269,,1611661320,21,32,2
+06:03,[LVA 33-21] Cambage Free Throw 1 of 2 (8 PTS),0,-80,3,,202633,,1611661319,21,33,2
+06:03,[LVA 34-21] Cambage Free Throw 2 of 2 (9 PTS),0,-80,3,,202633,,1611661319,21,34,2
+05:54,[LAS] Wheeler Pullup Jump shot: Missed,-83,101,2,,204365,,1611661320,21,34,2
+05:50,[LVA] Young Rebound (Off:0 Def:2),-83,101,4,,1629498,,1611661319,21,34,2
+05:45,[LAS] Zahui B Foul: Shooting (2 PF) (2 FTA),28,17,6,202633,204320,,1611661320,21,34,2
+05:45,Timeout Officials,0,-80,9,,0,,0,21,34,2
+05:45,[LVA 35-21] Cambage Free Throw 1 of 2 (10 PTS),0,-80,3,,202633,,1611661319,21,35,2
+05:45,[LVA 36-21] Cambage Free Throw 2 of 2 (11 PTS),0,-80,3,,202633,,1611661319,21,36,2
+05:34,[LAS] Zahui B 3pt Shot: Missed,167,187,2,,204320,,1611661320,21,36,2
+05:31,[LVA] Williams Rebound (Off:1 Def:5),167,187,4,,203029,,1611661319,21,36,2
+05:19,[LVA 39-21] Williams 3pt Shot: Made (6 PTS) Assist: Young (2 AST),77,249,1,,203029,1629498,1611661319,21,39,2
+04:57,[LAS] Sykes Floating Jump shot: Missed,45,32,2,1629498,1628279,,1611661320,21,39,2
+04:57,[LAS] Sykes Rebound (Off:1 Def:1),45,32,4,,1628279,,1611661320,21,39,2
+04:57,[LVA] Young Foul: Personal (1 PF),-2,47,6,1628279,1629498,,1611661319,21,39,2
+04:57,[LAS] Sykes Substitution replaced by Cooper,0,-80,8,,1628279,1630099,1611661320,21,39,2
+04:57,[LVA] Cambage Substitution replaced by Wilson,0,-80,8,,202633,1628932,1611661319,21,39,2
+04:57,[LVA] Plum Substitution replaced by Gray,0,-80,8,,1628276,203833,1611661319,21,39,2
+04:50,[LAS] Cooper Driving Layup Shot: Missed,-41,25,2,,1630099,,1611661320,21,39,2
+04:47,[LAS] Zahui B Rebound (Off:1 Def:2),-41,25,4,,204320,,1611661320,21,39,2
+04:45,[LAS 23-39] Zahui B Driving Layup Shot: Made (16 PTS),9,15,1,,204320,,1611661320,23,39,2
+04:36,[LVA 42-23] Williams 3pt Shot: Made (9 PTS) Assist: Wilson (1 AST),83,223,1,,203029,1628932,1611661319,23,42,2
+04:21,[LAS] Samuelson Pullup Jump shot: Missed,26,73,2,,1628317,,1611661320,23,42,2
+04:18,[LVA] Wilson Rebound (Off:0 Def:4),26,73,4,,1628932,,1611661319,23,42,2
+04:11,[LVA] Gray Pullup Jump shot: Missed,76,162,2,,203833,,1611661319,23,42,2
+04:08,[LAS] Coffey Rebound (Off:0 Def:4),76,162,4,,1628269,,1611661320,23,42,2
+04:02,[LAS 25-42] Cooper Driving Layup Shot: Made (2 PTS),-5,13,1,,1630099,,1611661320,25,42,2
+03:50,[LAS] Samuelson Foul: Shooting (1 PF) (2 FTA),-11,17,6,1628932,1628317,,1611661320,25,42,2
+03:50,[LVA 43-25] Wilson Free Throw 1 of 2 (1 PTS),0,-80,3,,1628932,,1611661319,25,43,2
+03:50,[LVA 44-25] Wilson Free Throw 2 of 2 (2 PTS),0,-80,3,,1628932,,1611661319,25,44,2
+03:38,[LAS] Coffey 3pt Shot: Missed,228,15,2,,1628269,,1611661320,25,44,2
+03:35,[LAS] Zahui B Rebound (Off:2 Def:2),228,15,4,,204320,,1611661320,25,44,2
+03:34,[LAS 27-44] Zahui B Reverse Layup Shot: Made (18 PTS),-3,8,1,,204320,,1611661320,27,44,2
+03:16,[LVA] Williams 3pt Shot: Missed,209,104,2,,203029,,1611661319,27,44,2
+03:13,[LAS] Samuelson Rebound (Off:0 Def:1),209,104,4,,1628317,,1611661320,27,44,2
+03:09,[LVA] Young Foul: Shooting (2 PF) (2 FTA),-11,13,6,1630099,1629498,,1611661319,27,44,2
+03:09,[LAS] Cooper Free Throw 1 of 2 Missed,0,-80,3,,1630099,,1611661320,27,44,2
+03:09,[LAS] Team Rebound,0,-80,4,,0,,1611661320,27,44,2
+03:09,[LVA] Young Substitution replaced by Plum,0,-80,8,,1629498,1628276,1611661319,27,44,2
+03:09,[LAS 28-44] Cooper Free Throw 2 of 2 (3 PTS),0,-80,3,,1630099,,1611661320,28,44,2
+02:54,[LVA 46-28] Park Jump Shot: Made (2 PTS) Assist: Plum (3 AST),-61,169,1,,1628917,1628276,1611661319,28,46,2
+02:40,[LAS] Cooper Pullup Jump shot: Missed,-10,188,2,,1630099,,1611661320,28,46,2
+02:34,[LAS] Zahui B Rebound (Off:3 Def:2),-10,188,4,,204320,,1611661320,28,46,2
+02:34,[LAS] Zahui B Putback Layup Shot: Missed,0,-5,2,1628917,204320,,1611661320,28,46,2
+02:34,[LVA] Wilson Rebound (Off:0 Def:5),0,-5,4,,1628932,,1611661319,28,46,2
+02:28,[LVA 49-28] Plum 3pt Shot: Made (5 PTS) Assist: Park (1 AST),210,101,1,,1628276,1628917,1611661319,28,49,2
+02:16,[LAS 31-49] Samuelson 3pt Shot: Made (3 PTS) Assist: Zahui B (1 AST),190,191,1,,1628317,204320,1611661320,31,49,2
+02:00,[LVA 51-31] Wilson Jump Shot: Made (4 PTS) Assist: Gray (6 AST),9,134,1,,1628932,203833,1611661319,31,51,2
+01:46,[LAS 33-51] Wheeler Driving Layup Shot: Made (5 PTS),9,13,1,,204365,,1611661320,33,51,2
+01:28,[LVA] Wilson Pullup Jump shot: Missed,-35,162,2,,1628932,,1611661319,33,51,2
+01:24,[LAS] Coffey Rebound (Off:0 Def:5),-35,162,4,,1628269,,1611661320,33,51,2
+01:18,[LAS] Wheeler Driving Finger Roll Layup Shot: Missed,3,16,2,,204365,,1611661320,33,51,2
+01:15,[LVA] Williams Rebound (Off:1 Def:6),3,16,4,,203029,,1611661319,33,51,2
+01:09,[LAS] Zahui B Foul: Defense 3 Second (3 PF) (1 FTA),0,-80,6,,204320,,1611661320,33,51,2
+01:09,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,33,51,2
+01:09,[LAS] Zahui B Substitution replaced by Cox,0,-80,8,,204320,1630100,1611661320,33,51,2
+01:09,[LAS] Cooper Substitution replaced by Sykes,0,-80,8,,1630099,1628279,1611661320,33,51,2
+01:09,[LVA 52-33] Plum Free Throw Technical (6 PTS),0,-80,3,,1628276,,1611661319,33,52,2
+01:01,[LVA 54-33] Wilson Turnaround Jump Shot: Made (6 PTS) Assist: Gray (7 AST),-4,64,1,,1628932,203833,1611661319,33,54,2
+00:47.2,[LAS 35-54] Sykes Cutting Layup Shot: Made (4 PTS) Assist: Cox (1 AST),17,13,1,,1628279,1630100,1611661320,35,54,2
+00:25.5,[LVA] Gray Pullup Jump shot: Missed,49,167,2,,203833,,1611661319,35,54,2
+00:22.7,[LVA] Wilson Rebound (Off:1 Def:5),49,167,4,,1628932,,1611661319,35,54,2
+00:21.3,[LVA 56-35] Wilson Driving Finger Roll Layup Shot: Made (8 PTS),-7,50,1,,1628932,,1611661319,35,56,2
+00:02.0,[LAS] Cox Cutting Layup Shot: Missed,35,35,2,1628917,1630100,,1611661320,35,56,2
+00:02.0,[LAS] Cox Rebound (Off:1 Def:2),35,35,4,,1630100,,1611661320,35,56,2
+00:01.7,[LVA] Williams Foul: Shooting (1 PF) (2 FTA),24,46,6,1630100,203029,,1611661319,35,56,2
+00:01.7,Instant Replay - Support Ruling,0,-80,18,,0,,0,35,56,2
+00:01.7,[LAS 36-56] Cox Free Throw 1 of 2 (1 PTS),0,-80,3,,1630100,,1611661320,36,56,2
+00:01.7,[LAS 37-56] Cox Free Throw 2 of 2 (2 PTS),0,-80,3,,1630100,,1611661320,37,56,2
+00:00.1,[LVA] Park 3pt Shot: Missed,-34,528,2,,1628917,,1611661319,37,56,2
+00:00.1,[LVA] Team Rebound,-34,528,4,,0,,1611661319,37,56,2
+00:00.0,End Period,0,-80,13,,0,,0,37,56,2
+10:00,Start Period,0,-80,12,,0,,0,37,56,3
+09:40,[LAS 39-56] Sykes Driving Layup Shot: Made (6 PTS),27,21,1,,1628279,,1611661320,39,56,3
+09:40,[LVA] Cambage Foul: Shooting (2 PF) (1 FTA),27,21,6,1628279,202633,,1611661319,39,56,3
+09:40,[LAS 40-56] Sykes Free Throw 1 of 1 (7 PTS),0,-80,3,,1628279,,1611661320,40,56,3
+09:25,[LVA] Cambage Jump Shot: Missed,93,0,2,,202633,,1611661319,40,56,3
+09:22,[LAS] Sykes Rebound (Off:1 Def:2),93,0,4,,1628279,,1611661320,40,56,3
+09:12,[LAS] Sykes Driving Floating Bank Jump Shot: Missed,2,55,2,,1628279,,1611661320,40,56,3
+09:10,[LVA] Cambage Rebound (Off:3 Def:4),2,55,4,,202633,,1611661319,40,56,3
+09:05,[LVA 58-40] Gray Driving Layup Shot: Made (4 PTS),22,13,1,,203833,,1611661319,40,58,3
+08:51,[LAS] Coffey 3pt Shot: Missed,108,215,2,,1628269,,1611661320,40,58,3
+08:48,[LVA] Gray Rebound (Off:1 Def:2),108,215,4,,203833,,1611661319,40,58,3
+08:43,[LVA] Wilson Layup Shot: Missed,-42,8,2,,1628932,,1611661319,40,58,3
+08:38,[LVA] Wilson Rebound (Off:2 Def:5),-42,8,4,,1628932,,1611661319,40,58,3
+08:38,[LVA 60-40] Wilson Putback Layup Shot: Made (10 PTS),0,-5,1,,1628932,,1611661319,40,60,3
+08:35,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,40,60,3
+08:35,[LVA] Hamby Substitution replaced by Williams,0,-80,8,,204324,203029,1611661319,40,60,3
+08:22,[LAS] Zahui B Jump Shot: Missed,-113,40,2,,204320,,1611661320,40,60,3
+08:16,[LAS] Sykes Rebound (Off:2 Def:2),-113,40,4,,1628279,,1611661320,40,60,3
+08:16,[LAS 42-60] Sykes Tip Layup Shot: Made (9 PTS),0,-5,1,,1628279,,1611661320,42,60,3
+08:07,[LVA 62-42] Young Floating Jump shot: Made (13 PTS) Assist: Williams (2 AST),-13,51,1,,1629498,203029,1611661319,42,62,3
+07:56,[LAS 45-62] Wheeler 3pt Shot: Made (8 PTS) Assist: Zahui B (2 AST),100,216,1,,204365,204320,1611661320,45,62,3
+07:44,[LVA] Wilson Turnaround Jump Shot: Missed,71,33,2,204320,1628932,,1611661319,45,62,3
+07:42,[LVA] Wilson Rebound (Off:3 Def:5),71,33,4,,1628932,,1611661319,45,62,3
+07:41,[LVA] Wilson Layup Shot: Missed,20,38,2,,1628932,,1611661319,45,62,3
+07:39,[LAS] Zahui B Rebound (Off:3 Def:3),20,38,4,,204320,,1611661320,45,62,3
+07:29,[LAS] Sykes Layup Shot: Missed,14,10,2,,1628279,,1611661320,45,62,3
+07:28,[LVA] Cambage Rebound (Off:3 Def:5),14,10,4,,202633,,1611661319,45,62,3
+07:20,[LVA 64-45] Gray Pullup Jump shot: Made (6 PTS),47,99,1,,203833,,1611661319,45,64,3
+07:07,[LAS] Wheeler 3pt Shot: Missed,113,210,2,,204365,,1611661320,45,64,3
+07:04,[LVA] Gray Rebound (Off:1 Def:3),113,210,4,,203833,,1611661319,45,64,3
+06:59,[LAS] Zahui B Foul: Personal (4 PF),70,52,6,202633,204320,,1611661320,45,64,3
+06:55,[LVA] Williams 3pt Shot: Missed,50,229,2,,203029,,1611661319,45,64,3
+06:51,[LAS] Wheeler Rebound (Off:0 Def:1),50,229,4,,204365,,1611661320,45,64,3
+06:44,[LAS] Wheeler Driving Layup Shot: Missed,-20,23,2,,204365,,1611661320,45,64,3
+06:40,[LAS] Zahui B Rebound (Off:4 Def:3),-20,23,4,,204320,,1611661320,45,64,3
+06:40,[LAS 47-64] Zahui B Putback Layup Shot: Made (20 PTS),0,-5,1,,204320,,1611661320,47,64,3
+06:28,[LVA] Cambage 3pt Shot: Missed,-88,219,2,,202633,,1611661319,47,64,3
+06:25,[LVA] Team Rebound,-88,219,4,,0,,1611661319,47,64,3
+06:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,64,3
+06:23,[LVA 66-47] Williams Cutting Layup Shot: Made (11 PTS) Assist: Young (3 AST),-24,6,1,,203029,1629498,1611661319,47,66,3
+06:05,[LAS 49-66] Zahui B Jump Shot: Made (22 PTS) Assist: Sykes (1 AST),-42,166,1,,204320,1628279,1611661320,49,66,3
+05:54,[LVA] Cambage Foul: Offensive (3 PF),53,97,6,204320,202633,,1611661319,49,66,3
+05:54,[LVA] Cambage Turnover : Offensive Foul Turnover (4 TO),53,97,5,,202633,,1611661319,49,66,3
+05:54,[LAS] Coffey Substitution replaced by Holmes,0,-80,8,,1628269,1627678,1611661320,49,66,3
+05:41,[LAS] Wheeler Driving Layup Shot: Missed,16,8,2,,204365,,1611661320,49,66,3
+05:38,[LVA] Williams Rebound (Off:1 Def:7),16,8,4,,203029,,1611661319,49,66,3
+05:32,[LVA] Williams 3pt Shot: Missed,-37,231,2,,203029,,1611661319,49,66,3
+05:30,[LAS] Zahui B Rebound (Off:4 Def:4),-37,231,4,,204320,,1611661320,49,66,3
+05:19,[LAS] Zahui B Turnover : Traveling (2 TO),-47,64,5,,204320,,1611661320,49,66,3
+05:19,[LAS] Wheeler Substitution replaced by Guirantes,0,-80,8,,204365,1630441,1611661320,49,66,3
+05:03,[LVA] Cambage Layup Shot: Missed,34,33,2,204320,202633,,1611661319,49,66,3
+04:57,[LVA] Cambage Rebound (Off:4 Def:5),34,33,4,,202633,,1611661319,49,66,3
+04:56,[LVA 68-49] Cambage Fadeaway Jump Shot: Made (13 PTS),11,5,1,,202633,,1611661319,49,68,3
+04:47,[LAS] Cooper Layup Shot: Missed,0,15,2,,1630099,,1611661320,49,68,3
+04:45,[LVA] Wilson Rebound (Off:3 Def:6),0,15,4,,1628932,,1611661319,49,68,3
+04:42,[LVA] Williams 3pt Shot: Missed,-227,22,2,,203029,,1611661319,49,68,3
+04:40,[LVA] Team Rebound,-227,22,4,,0,,1611661319,49,68,3
+04:40,[LVA] Williams Substitution replaced by Plum,0,-80,8,,203029,1628276,1611661319,49,68,3
+04:40,[LAS] Zahui B Substitution replaced by Cox,0,-80,8,,204320,1630100,1611661320,49,68,3
+04:40,Jump Ball Cambage vs Cooper (Gray gains possession),0,-80,10,1630099,202633,203833,1611661319,49,68,3
+04:35,[LVA 70-49] Wilson Cutting Layup Shot: Made (12 PTS) Assist: Gray (8 AST),8,0,1,,1628932,203833,1611661319,49,70,3
+04:24,[LAS 52-70] Cooper 3pt Shot: Made (6 PTS),96,226,1,,1630099,,1611661320,52,70,3
+04:11,[LAS] Guirantes Foul: Shooting (1 PF) (2 FTA),-15,16,6,1628932,1630441,,1611661320,52,70,3
+04:11,[LVA 71-52] Wilson Free Throw 1 of 2 (13 PTS),0,-80,3,,1628932,,1611661319,52,71,3
+04:11,[LVA] Cambage Substitution replaced by Hamby,0,-80,8,,202633,204324,1611661319,52,71,3
+04:11,[LVA 72-52] Wilson Free Throw 2 of 2 (14 PTS),0,-80,3,,1628932,,1611661319,52,72,3
+04:01,[LAS] Cooper 3pt Shot: Missed,145,231,2,,1630099,,1611661320,52,72,3
+03:56,[LAS] Cooper Rebound (Off:1 Def:3),145,231,4,,1630099,,1611661320,52,72,3
+03:55,[LAS] Cooper Driving Layup Shot: Missed,2,23,2,1628932,1630099,,1611661320,52,72,3
+03:55,[LAS] Team Rebound,2,23,4,,0,,1611661320,52,72,3
+03:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,72,3
+03:48,[LAS] Cooper Driving Finger Roll Layup Shot: Missed,-28,69,2,,1630099,,1611661320,52,72,3
+03:46,[LVA] Plum Rebound (Off:0 Def:3),-28,69,4,,1628276,,1611661319,52,72,3
+03:42,[LVA] Young Jump Shot: Missed,53,124,2,,1629498,,1611661319,52,72,3
+03:38,[LVA] Wilson Rebound (Off:4 Def:6),53,124,4,,1628932,,1611661319,52,72,3
+03:37,[LVA] Plum 3pt Shot: Missed,4,237,2,,1628276,,1611661319,52,72,3
+03:33,[LVA] Hamby Rebound (Off:2 Def:2),4,237,4,,204324,,1611661319,52,72,3
+03:30,[LVA] Hamby Turnover : Bad Pass (2 TO) Steal:Guirantes (1 ST),39,73,5,1630441,204324,,1611661319,52,72,3
+03:16,[LAS] Cooper 3pt Shot: Missed,96,223,2,,1630099,,1611661320,52,72,3
+03:14,[LVA] Plum Rebound (Off:0 Def:4),96,223,4,,1628276,,1611661319,52,72,3
+03:07,[LVA] Plum Turnover : Bad Pass (1 TO) Steal:Sykes (1 ST),-161,63,5,1628279,1628276,,1611661319,52,72,3
+02:51,[LAS 54-72] Cox Layup Shot: Made (4 PTS) Assist: Cooper (3 AST),19,16,1,,1630100,1630099,1611661320,54,72,3
+02:42,[LVA 74-54] Wilson Cutting Layup Shot: Made (16 PTS) Assist: Plum (4 AST),-21,14,1,,1628932,1628276,1611661319,54,74,3
+02:42,[LAS] Cooper Foul: Shooting (2 PF) (1 FTA),-21,14,6,1628932,1630099,,1611661320,54,74,3
+02:42,[LAS] Cooper Substitution replaced by Samuelson,0,-80,8,,1630099,1628317,1611661320,54,74,3
+02:42,[LAS] Sykes Substitution replaced by Wheeler,0,-80,8,,1628279,204365,1611661320,54,74,3
+02:42,[LVA 75-54] Wilson Free Throw 1 of 1 (17 PTS),0,-80,3,,1628932,,1611661319,54,75,3
+02:30,[LAS 57-75] Wheeler 3pt Shot: Made (11 PTS),137,199,1,,204365,,1611661320,57,75,3
+02:16,[LVA] Young Turnover : Lost Ball (1 TO) Steal:Guirantes (2 ST),-24,51,5,1630441,1629498,,1611661319,57,75,3
+01:55,[LAS 59-75] Holmes Driving Layup Shot: Made (2 PTS) Assist: Wheeler (3 AST),-14,13,1,,1627678,204365,1611661320,59,75,3
+01:36,[LVA] Gray 3pt Shot: Missed,165,185,2,,203833,,1611661319,59,75,3
+01:33,[LAS] Samuelson Rebound (Off:0 Def:2),165,185,4,,1628317,,1611661320,59,75,3
+01:25,[LAS] Holmes 3pt Shot: Missed,-203,110,2,,1627678,,1611661320,59,75,3
+01:22,[LVA] Young Rebound (Off:0 Def:3),-203,110,4,,1629498,,1611661319,59,75,3
+01:17,[LVA 77-59] Plum Driving Floating Jump Shot: Made (8 PTS) Assist: Young (4 AST),-78,8,1,,1628276,1629498,1611661319,59,77,3
+01:17,[LAS] Guirantes Foul: Shooting (2 PF) (1 FTA),-78,8,6,1628276,1630441,,1611661320,59,77,3
+01:17,[LVA] Wilson Substitution replaced by Cambage,0,-80,8,,1628932,202633,1611661319,59,77,3
+01:17,[LVA 78-59] Plum Free Throw 1 of 1 (9 PTS),0,-80,3,,1628276,,1611661319,59,78,3
+01:06,[LAS] Wheeler Turnover : Bad Pass (2 TO) Steal:Young (3 ST),-50,231,5,1629498,204365,,1611661320,59,78,3
+01:02,[LVA 80-59] Plum Running Layup Shot: Made (11 PTS) Assist: Young (5 AST),30,16,1,,1628276,1629498,1611661319,59,80,3
+00:45.1,[LAS] Guirantes Pullup Jump shot: Missed,98,54,2,,1630441,,1611661320,59,80,3
+00:43.6,[LVA] Team Rebound,98,54,4,,0,,1611661319,59,80,3
+00:43.6,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,80,3
+00:32.5,[LVA] Cambage Turnaround Fadeaway Bank Jump Shot: Missed,-32,26,2,,202633,,1611661319,59,80,3
+00:30.1,[LAS] Guirantes Rebound (Off:0 Def:2),-32,26,4,,1630441,,1611661320,59,80,3
+00:22.4,[LAS] Guirantes Jump Shot: Missed,3,190,2,,1630441,,1611661320,59,80,3
+00:20.5,[LVA] Plum Rebound (Off:0 Def:5),3,190,4,,1628276,,1611661319,59,80,3
+00:05.3,[LVA] Plum Driving Layup Shot: Missed,-22,37,2,,1628276,,1611661319,59,80,3
+00:01.9,[LAS] Guirantes Rebound (Off:0 Def:3),-22,37,4,,1630441,,1611661320,59,80,3
+00:00.2,[LAS] Guirantes 3pt Shot: Missed,99,271,2,,1630441,,1611661320,59,80,3
+00:00.1,[LAS] Team Rebound,99,271,4,,0,,1611661320,59,80,3
+00:00.0,End Period,0,-80,13,,0,,0,59,80,3
+10:00,Start Period,0,-80,12,,0,,0,59,80,4
+09:47,[LVA] Plum Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-132,234,5,,1628276,,1611661319,59,80,4
+09:31,[LAS] Sykes 3pt Shot: Missed,-73,236,2,,1628279,,1611661320,59,80,4
+09:28,[LVA] Cambage Rebound (Off:4 Def:6),-73,236,4,,202633,,1611661319,59,80,4
+09:20,[LVA 83-59] Williams 3pt Shot: Made (14 PTS) Assist: Plum (5 AST),118,207,1,,203029,1628276,1611661319,59,83,4
+09:02,[LAS] Zahui B 3pt Shot: Missed,108,217,2,,204320,,1611661320,59,83,4
+08:59,[LVA] Plum Rebound (Off:0 Def:6),108,217,4,,1628276,,1611661319,59,83,4
+08:46,[LVA] Cambage Turnaround Jump Shot: Missed,119,42,2,,202633,,1611661319,59,83,4
+08:43,[LAS] Cox Rebound (Off:1 Def:3),119,42,4,,1630100,,1611661320,59,83,4
+08:33,[LAS] Cox Jump Shot: Missed,-29,86,2,,1630100,,1611661320,59,83,4
+08:31,[LVA] Cambage Rebound (Off:4 Def:7),-29,86,4,,202633,,1611661319,59,83,4
+08:20,[LVA] Cambage Foul: Offensive (4 PF),-43,22,6,1630100,202633,,1611661319,59,83,4
+08:20,[LVA] Cambage Turnover : Offensive Foul Turnover (5 TO),-43,22,5,,202633,,1611661319,59,83,4
+08:20,[LVA] Cambage Substitution replaced by Young,0,-80,8,,202633,1629498,1611661319,59,83,4
+07:59,[LAS] Zahui B Layup Shot: Missed,28,28,2,,204320,,1611661320,59,83,4
+07:57,[LVA] Young Rebound (Off:0 Def:4),28,28,4,,1629498,,1611661319,59,83,4
+07:50,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,83,4
+07:50,[LVA] Williams Substitution replaced by Slocum,0,-80,8,,203029,1630435,1611661319,59,83,4
+07:45,[LVA] Young Jump Shot: Missed,131,139,2,,1629498,,1611661319,59,83,4
+07:41,[LAS] Coffey Rebound (Off:0 Def:6),131,139,4,,1628269,,1611661320,59,83,4
+07:32,[LAS 61-83] Wheeler Jump Shot: Made (13 PTS),72,172,1,,204365,,1611661320,61,83,4
+07:13,[LVA] Plum 3pt Shot: Missed,-136,197,2,,1628276,,1611661319,61,83,4
+07:09,[LAS] Sykes Rebound (Off:2 Def:3),-136,197,4,,1628279,,1611661320,61,83,4
+07:02,[LAS] Zahui B Turnover : Out of Bounds Lost Ball Turnover (3 TO),89,102,5,,204320,,1611661320,61,83,4
+07:02,[LVA] Plum Substitution replaced by Gray,0,-80,8,,1628276,203833,1611661319,61,83,4
+06:44,[LVA] Gray Turnover : Bad Pass (3 TO) Steal:Cox (1 ST),3,796,5,1630100,203833,,1611661319,61,83,4
+06:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,83,4
+06:33,[LVA] Gray Substitution replaced by Plum,0,-80,8,,203833,1628276,1611661319,61,83,4
+06:20,[LAS] Zahui B 3pt Shot: Missed,-142,195,2,,204320,,1611661320,61,83,4
+06:18,[LVA] Team Rebound,-142,195,4,,0,,1611661319,61,83,4
+06:18,[LAS] Coffey Foul: Loose Ball (3 PF),-63,648,6,1628917,1628269,,1611661320,61,83,4
+06:02,[LVA 85-61] Park Turnaround Fadeaway shot: Made (4 PTS),46,113,1,,1628917,,1611661319,61,85,4
+05:47,[LAS 63-85] Sykes Fadeaway Jump Shot: Made (11 PTS),-67,64,1,,1628279,,1611661320,63,85,4
+05:38,[LVA] Hamby 3pt Shot: Missed,-7,234,2,,204324,,1611661319,63,85,4
+05:38,[LAS] Coffey Rebound (Off:0 Def:7),-7,234,4,,1628269,,1611661320,63,85,4
+05:29,[LAS] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (3 TO),49,-42,5,,204365,,1611661320,63,85,4
+05:29,Timeout Officials,0,-80,9,,0,,0,63,85,4
+05:29,[LAS] Wheeler Substitution replaced by Cooper,0,-80,8,,204365,1630099,1611661320,63,85,4
+05:16,[LVA 87-63] Hamby Layup Shot: Made (9 PTS) Assist: Plum (6 AST),-16,15,1,,204324,1628276,1611661319,63,87,4
+05:03,[LAS] Sykes Driving Layup Shot: Missed,-20,28,2,,1628279,,1611661320,63,87,4
+04:58,[LAS] Sykes Rebound (Off:3 Def:3),-20,28,4,,1628279,,1611661320,63,87,4
+04:58,[LAS] Sykes Tip Layup Shot: Missed,0,-5,2,,1628279,,1611661320,63,87,4
+04:57,[LVA] Hamby Rebound (Off:2 Def:3),0,-5,4,,204324,,1611661319,63,87,4
+04:56,[LAS] Cox Foul: Shooting (1 PF) (2 FTA),-21,27,6,204324,1630100,,1611661320,63,87,4
+04:56,[LVA 88-63] Hamby Free Throw 1 of 2 (10 PTS),0,-80,3,,204324,,1611661319,63,88,4
+04:56,[LAS] Coffey Substitution replaced by Holmes,0,-80,8,,1628269,1627678,1611661320,63,88,4
+04:56,[LVA 89-63] Hamby Free Throw 2 of 2 (11 PTS),0,-80,3,,204324,,1611661319,63,89,4
+04:43,[LAS 65-89] Cooper Driving Layup Shot: Made (8 PTS),-35,33,1,,1630099,,1611661320,65,89,4
+04:31,[LVA] Park Turnover : Bad Pass (1 TO) Steal:Holmes (2 ST),19,232,5,1627678,1628917,,1611661319,65,89,4
+04:29,[LAS 67-89] Holmes Running Layup Shot: Made (4 PTS),3,5,1,,1627678,,1611661320,67,89,4
+04:09,[LVA] Hamby 3pt Shot: Missed,168,172,2,,204324,,1611661319,67,89,4
+04:06,[LAS] Zahui B Rebound (Off:4 Def:5),168,172,4,,204320,,1611661320,67,89,4
+04:03,[LVA] Slocum Foul: Shooting (1 PF) (2 FTA),-20,13,6,1630099,1630435,,1611661319,67,89,4
+04:03,[LAS 68-89] Cooper Free Throw 1 of 2 (9 PTS),0,-80,3,,1630099,,1611661320,68,89,4
+04:03,[LAS] Sykes Substitution replaced by Guirantes,0,-80,8,,1628279,1630441,1611661320,68,89,4
+04:03,[LAS] Cooper Free Throw 2 of 2 Missed,0,-80,3,,1630099,,1611661320,68,89,4
+04:01,[LVA] Hamby Rebound (Off:2 Def:4),0,-80,4,,204324,,1611661319,68,89,4
+03:49,[LVA] Park Turnover : Lost Ball (2 TO) Steal:Cox (2 ST),97,57,5,1630100,1628917,,1611661319,68,89,4
+03:38,[LAS] Cooper Driving Layup Shot: Missed,-6,56,2,,1630099,,1611661320,68,89,4
+03:37,[LAS] Cooper Rebound (Off:2 Def:3),-6,56,4,,1630099,,1611661320,68,89,4
+03:35,[LVA] Slocum Foul: Shooting (2 PF) (2 FTA),-6,56,6,1630099,1630435,,1611661319,68,89,4
+03:35,[LAS 69-89] Cooper Free Throw 1 of 2 (10 PTS),0,-80,3,,1630099,,1611661320,69,89,4
+03:35,[LAS 70-89] Cooper Free Throw 2 of 2 (11 PTS),0,-80,3,,1630099,,1611661320,70,89,4
+03:19,[LVA 92-70] Slocum 3pt Shot: Made (3 PTS) Assist: Hamby (1 AST),-225,15,1,,1630435,204324,1611661319,70,92,4
+03:06,[LVA] Park Foul: Shooting (1 PF) (2 FTA),-4,38,6,1627678,1628917,,1611661319,70,92,4
+03:06,[LAS 71-92] Holmes Free Throw 1 of 2 (5 PTS),0,-80,3,,1627678,,1611661320,71,92,4
+03:06,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,71,92,4
+03:06,[LAS] Holmes Free Throw 2 of 2 Missed,0,-80,3,,1627678,,1611661320,71,92,4
+03:04,[LVA] Hamby Rebound (Off:2 Def:5),0,-80,4,,204324,,1611661319,71,92,4
+02:54,[LVA] Plum Turnover : Lost Ball (3 TO) Steal:Zahui B (1 ST),-67,130,5,204320,1628276,,1611661319,71,92,4
+02:48,[LAS] Guirantes Turnover : Bad Pass (1 TO) Steal:Slocum (1 ST),-234,189,5,1630435,1630441,,1611661320,71,92,4
+02:38,[LVA] Park Hook Shot: Missed,14,57,2,,1628917,,1611661319,71,92,4
+02:35,[LAS] Cox Rebound (Off:1 Def:4),14,57,4,,1630100,,1611661320,71,92,4
+02:25,[LAS] Guirantes 3pt Shot: Missed,-93,242,2,,1630441,,1611661320,71,92,4
+02:22,[LVA] Park Rebound (Off:0 Def:3),-93,242,4,,1628917,,1611661319,71,92,4
+02:14,[LVA] Plum Step Back Jump shot: Missed,-136,36,2,,1628276,,1611661319,71,92,4
+02:10,[LAS] Cooper Rebound (Off:2 Def:4),-136,36,4,,1630099,,1611661320,71,92,4
+02:05,[LAS 73-92] Cooper Running Pull-Up Jump Shot: Made (13 PTS),127,78,1,,1630099,,1611661320,73,92,4
+01:43,[LAS] Guirantes Foul: Shooting (3 PF) (2 FTA),67,26,6,204324,1630441,,1611661320,73,92,4
+01:43,[LVA 93-73] Hamby Free Throw 1 of 2 (12 PTS),0,-80,3,,204324,,1611661319,73,93,4
+01:43,[LAS] Zahui B Substitution replaced by Samuelson,0,-80,8,,204320,1628317,1611661320,73,93,4
+01:43,[LVA 94-73] Hamby Free Throw 2 of 2 (13 PTS),0,-80,3,,204324,,1611661319,73,94,4
+01:30,[LVA] Slocum Foul: Shooting (3 PF) (2 FTA),-24,88,6,1630099,1630435,,1611661319,73,94,4
+01:30,[LAS 74-94] Cooper Free Throw 1 of 2 (14 PTS),0,-80,3,,1630099,,1611661320,74,94,4
+01:30,[LAS 75-94] Cooper Free Throw 2 of 2 (15 PTS),0,-80,3,,1630099,,1611661320,75,94,4
+01:20,[LVA 96-75] Young Cutting Layup Shot: Made (15 PTS) Assist: Park (2 AST),-2,8,1,,1629498,1628917,1611661319,75,96,4
+01:01,[LAS] Guirantes Jump Shot: Missed,-45,126,2,,1630441,,1611661320,75,96,4
+00:58.7,[LVA] Young Rebound (Off:0 Def:5),-45,126,4,,1629498,,1611661319,75,96,4
+00:37.2,[LVA 99-75] Young 3pt Shot: Made (18 PTS) Assist: Plum (7 AST),173,149,1,,1629498,1628276,1611661319,75,99,4
+00:26.4,[LAS] Cooper Step Back Jump shot: Missed,43,163,2,,1630099,,1611661320,75,99,4
+00:22.4,[LVA] Slocum Rebound (Off:0 Def:1),43,163,4,,1630435,,1611661319,75,99,4
+00:00.0,End Period,0,-80,13,,0,,0,75,99,4
+00:00.0,Game End,0,-80,0,,0,,0,75,99,4

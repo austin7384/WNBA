@@ -1,0 +1,398 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball Williams vs Charles (Breland gains possession),0,-80,10,202250,204322,202638,1611661330,0,0,1
+09:45,[ATL] Montgomery 3pt Shot: Missed,237,-20,2,,201904,,1611661330,0,0,1
+09:42,[ATL] Williams Rebound (Off:1 Def:0),237,-20,4,,204322,,1611661330,0,0,1
+09:40,[ATL] Williams Putback Layup Shot: Missed,-4,15,2,,204322,,1611661330,0,0,1
+09:38,[NYL] Charles Rebound (Off:0 Def:1),-4,15,4,,202250,,1611661313,0,0,1
+09:24,[NYL 2-0] Charles Layup Shot: Made (2 PTS) Assist: Durr (1 AST),1,6,1,,202250,1629476,1611661313,0,2,1
+09:00,[ATL] Montgomery 3pt Shot: Missed,22,249,2,,201904,,1611661330,0,2,1
+08:57,[NYL] Gray Rebound (Off:0 Def:1),22,249,4,,204334,,1611661313,0,2,1
+08:51,[NYL 4-0] Gray Layup Shot: Made (2 PTS) Assist: Boyd (1 AST),8,6,1,,204334,204327,1611661313,0,4,1
+08:28,[ATL] Hayes 3pt Shot: Missed,205,108,2,,203026,,1611661330,0,4,1
+08:25,[NYL] Boyd Rebound (Off:0 Def:1),205,108,4,,204327,,1611661313,0,4,1
+08:23,[NYL] Boyd Turnover : Bad Pass (1 TO) Steal:Hayes (1 ST),25,102,5,203026,204327,,1611661313,0,4,1
+08:05,[ATL] Hayes Pullup Jump shot: Missed,-121,163,2,,203026,,1611661330,0,4,1
+08:01,[ATL] Williams Rebound (Off:2 Def:0),-121,163,4,,204322,,1611661330,0,4,1
+07:59,[ATL] Montgomery 3pt Shot: Missed,-159,180,2,,201904,,1611661330,0,4,1
+07:57,[ATL] Team Rebound,-159,180,4,,0,,1611661330,0,4,1
+07:49,[ATL] Breland Jump Shot: Missed,-23,189,2,,202638,,1611661330,0,4,1
+07:44,[NYL] Boyd Rebound (Off:0 Def:2),-23,189,4,,204327,,1611661313,0,4,1
+07:29,[NYL] Charles Turnaround Jump Shot: Missed,-124,33,2,,202250,,1611661313,0,4,1
+07:26,[ATL] Breland Rebound (Off:0 Def:1),-124,33,4,,202638,,1611661330,0,4,1
+07:19,[ATL] Hayes Driving Floating Jump Shot: Missed,-61,123,2,202250,203026,,1611661330,0,4,1
+07:14,[NYL] Team Rebound,-61,123,4,,0,,1611661313,0,4,1
+07:14,Jump Ball Charles vs Hayes (Boyd gains possession),0,-80,10,203026,202250,204327,1611661313,0,4,1
+07:07,[ATL] Williams Foul: Shooting (1 PF) (2 FTA),13,56,6,202250,204322,,1611661330,0,4,1
+07:07,[NYL 5-0] Charles Free Throw 1 of 2 (3 PTS),0,-80,3,,202250,,1611661313,0,5,1
+07:07,[NYL] Charles Free Throw 2 of 2 Missed,0,-80,3,,202250,,1611661313,0,5,1
+07:05,[ATL] Williams Rebound (Off:2 Def:1),0,-80,4,,204322,,1611661330,0,5,1
+06:49,[ATL 2-5] Williams Cutting Layup Shot: Made (2 PTS) Assist: Hayes (1 AST),2,5,1,,204322,203026,1611661330,2,5,1
+06:37,[NYL] Durr Turnover : Out of Bounds - Bad Pass Turnover (1 TO),124,-32,5,,1629476,,1611661313,2,5,1
+06:31,[NYL] Boyd Foul: Personal (1 PF),83,162,6,1629569,204327,,1611661313,2,5,1
+06:15,[ATL 4-5] Williams Jump Shot: Made (4 PTS) Assist: Cazorla (1 AST),-76,146,1,,204322,1629569,1611661330,4,5,1
+05:59,[NYL] Charles Turnaround Hook Shot: Missed,-24,70,2,204322,202250,,1611661313,4,5,1
+05:56,[ATL] Hayes Rebound (Off:0 Def:1),-24,70,4,,203026,,1611661330,4,5,1
+05:48,[ATL] Breland Turnover : Bad Pass (1 TO) Steal:Boyd (1 ST),-37,96,5,204327,202638,,1611661330,4,5,1
+05:42,[NYL 7-4] Boyd Running Layup Shot: Made (2 PTS),29,20,1,,204327,,1611661313,4,7,1
+05:26,[ATL] Montgomery 3pt Shot: Missed,-193,125,2,,201904,,1611661330,4,7,1
+05:23,[NYL] Gray Rebound (Off:0 Def:2),-193,125,4,,204334,,1611661313,4,7,1
+05:16,[NYL] Charles Layup Shot: Missed,0,0,2,,202250,,1611661313,4,7,1
+05:14,[ATL] Williams Rebound (Off:2 Def:2),0,0,4,,204322,,1611661330,4,7,1
+05:08,[ATL] Breland Jump Shot: Missed,66,133,2,,202638,,1611661330,4,7,1
+05:05,[ATL] Williams Rebound (Off:3 Def:2),66,133,4,,204322,,1611661330,4,7,1
+05:05,[NYL] Charles Foul: Shooting (1 PF) (2 FTA),3,5,6,204322,202250,,1611661313,4,7,1
+05:05,[ATL 5-7] Williams Free Throw 1 of 2 (5 PTS),0,-80,3,,204322,,1611661330,5,7,1
+05:05,[ATL] Breland Substitution replaced by Billings,0,-80,8,,202638,1628881,1611661330,5,7,1
+05:05,[NYL] Charles Substitution replaced by Raincock-Ekunwe,0,-80,8,,202250,1628248,1611661313,5,7,1
+05:05,[ATL 6-7] Williams Free Throw 2 of 2 (6 PTS),0,-80,3,,204322,,1611661330,6,7,1
+04:51,[NYL] Raincock-Ekunwe Turnover : Bad Pass (1 TO) Steal:Hayes (2 ST),-167,181,5,203026,1628248,,1611661313,6,7,1
+04:47,[ATL 8-7] Hayes Running Layup Shot: Made (2 PTS),0,-3,1,,203026,,1611661330,8,7,1
+04:32,[NYL 9-8] Raincock-Ekunwe Driving Layup Shot: Made (2 PTS) Assist: Durr (2 AST),3,-3,1,,1628248,1629476,1611661313,8,9,1
+04:15,[ATL] Montgomery 3pt Shot: Missed,-12,242,2,,201904,,1611661330,8,9,1
+04:14,[ATL] Team Rebound,-12,242,4,,0,,1611661330,8,9,1
+04:14,[NYL] Raincock-Ekunwe Foul: Loose Ball (1 PF),3,6,6,1628881,1628248,,1611661313,8,9,1
+04:14,Timeout Officials,0,-80,9,,0,,0,8,9,1
+04:14,[NYL] Boyd Substitution replaced by Wright,0,-80,8,,204327,101030,1611661313,8,9,1
+04:07,[ATL] Montgomery Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),-11,131,5,204334,201904,,1611661330,8,9,1
+04:03,[NYL 11-8] Raincock-Ekunwe Driving Layup Shot: Made (4 PTS) Assist: Nurse (1 AST),13,42,1,,1628248,1628915,1611661313,8,11,1
+03:49,[ATL] Hayes 3pt Shot: Missed,233,-14,2,,203026,,1611661330,8,11,1
+03:48,[ATL] Team Rebound,233,-14,4,,0,,1611661330,8,11,1
+03:48,[NYL] Gray Foul: Loose Ball (1 PF),-2,6,6,204322,204334,,1611661313,8,11,1
+03:48,[NYL] Gray Substitution replaced by Charles,0,-80,8,,204334,202250,1611661313,8,11,1
+03:40,[ATL] Billings Driving Layup Shot: Missed,2,3,2,,1628881,,1611661330,8,11,1
+03:37,[NYL] Charles Rebound (Off:0 Def:2),2,3,4,,202250,,1611661313,8,11,1
+03:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,11,1
+03:33,[NYL 13-8] Charles Jump Shot: Made (5 PTS) Assist: Wright (1 AST),34,193,1,,202250,101030,1611661313,8,13,1
+03:14,[NYL] Nurse Foul: Shooting (1 PF) (2 FTA),-12,8,6,203026,1628915,,1611661313,8,13,1
+03:14,[ATL] Hayes Free Throw 1 of 2 Missed,0,-80,3,,203026,,1611661330,8,13,1
+03:14,[ATL] Team Rebound,0,-80,4,,0,,1611661330,8,13,1
+03:14,[ATL] Montgomery Substitution replaced by Sykes,0,-80,8,,201904,1628279,1611661330,8,13,1
+03:14,[ATL 9-13] Hayes Free Throw 2 of 2 (3 PTS),0,-80,3,,203026,,1611661330,9,13,1
+03:01,[NYL 15-9] Durr Driving Floating Jump Shot: Made (2 PTS) Assist: Wright (2 AST),-82,52,1,,1629476,101030,1611661313,9,15,1
+02:48,[ATL] Hayes Turnover : Bad Pass (1 TO) Steal:Nurse (1 ST),43,291,5,1628915,203026,,1611661330,9,15,1
+02:46,[NYL] Nurse Running Layup Shot: Missed,9,13,2,204322,1628915,,1611661313,9,15,1
+02:46,[NYL] Team Rebound,9,13,4,,0,,1611661313,9,15,1
+02:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,15,1
+02:44,[NYL] Nurse 3pt Shot: Missed,-186,149,2,,1628915,,1611661313,9,15,1
+02:42,[NYL] Team Rebound,-186,149,4,,0,,1611661313,9,15,1
+02:41,[ATL] Billings Foul: Personal (1 PF),0,9,6,1628248,1628881,,1611661330,9,15,1
+02:39,[ATL] Sykes Foul: Personal (1 PF),148,106,6,1629476,1628279,,1611661330,9,15,1
+02:37,[NYL] Wright Layup Shot: Missed,-32,51,2,203026,101030,,1611661313,9,15,1
+02:36,[NYL] Durr Rebound (Off:1 Def:0),-32,51,4,,1629476,,1611661313,9,15,1
+02:32,[NYL] Nurse 3pt Shot: Missed,6,251,2,,1628915,,1611661313,9,15,1
+02:28,[NYL] Wright Rebound (Off:1 Def:0),6,251,4,,101030,,1611661313,9,15,1
+02:16,[NYL] Charles Turnaround Hook Shot: Missed,-39,65,2,,202250,,1611661313,9,15,1
+02:13,[ATL] Billings Rebound (Off:0 Def:1),-39,65,4,,1628881,,1611661330,9,15,1
+02:07,[ATL] Cazorla Turnover : Lost Ball (1 TO) Steal:Wright (1 ST),42,278,5,101030,1629569,,1611661330,9,15,1
+02:03,[NYL 17-9] Wright Running Layup Shot: Made (2 PTS),-4,0,1,,101030,,1611661313,9,17,1
+02:01,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,9,17,1
+01:47,[ATL 11-17] Hayes Driving Layup Shot: Made (5 PTS) Assist: Sykes (1 AST),-53,85,1,,203026,1628279,1611661330,11,17,1
+01:30,[NYL 19-11] Charles Jump Shot: Made (7 PTS) Assist: Durr (3 AST),123,-6,1,,202250,1629476,1611661313,11,19,1
+01:28,[NYL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661313,11,19,1
+01:13,[ATL 13-19] Sykes Jump Bank Shot: Made (2 PTS),-70,58,1,,1628279,,1611661330,13,19,1
+00:58.2,[NYL] Charles Turnaround Jump Shot: Missed,-110,15,2,,202250,,1611661313,13,19,1
+00:55.9,[ATL] Hayes Rebound (Off:0 Def:2),-110,15,4,,203026,,1611661330,13,19,1
+00:48.4,[ATL 15-19] Billings Driving Layup Shot: Made (2 PTS) Assist: Hayes (2 AST),-25,45,1,,1628881,203026,1611661330,15,19,1
+00:33.2,[NYL] Wright Foul: Offensive (1 PF),126,134,6,203026,101030,,1611661313,15,19,1
+00:33.2,[NYL] Wright Turnover : Offensive Foul Turnover (1 TO),126,134,5,,101030,,1611661313,15,19,1
+00:19.6,[NYL] Durr Foul: Shooting (1 PF) (2 FTA),-23,31,6,204322,1629476,,1611661313,15,19,1
+00:19.6,[ATL] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661330,15,19,1
+00:19.6,[ATL] Team Rebound,0,-80,4,,0,,1611661330,15,19,1
+00:19.6,[ATL 16-19] Williams Free Throw 2 of 2 (7 PTS),0,-80,3,,204322,,1611661330,16,19,1
+00:00.0,[NYL] Durr 3pt Shot: Missed,31,234,2,,1629476,,1611661313,16,19,1
+00:00.0,[NYL] Team Rebound,31,234,4,,0,,1611661313,16,19,1
+00:00.0,End Period,0,-80,13,,0,,0,16,19,1
+10:00,Start Period,0,-80,12,,0,,0,16,19,2
+09:44,[ATL] Montgomery Foul: Shooting (1 PF) (2 FTA),20,10,6,204334,201904,,1611661330,16,19,2
+09:44,[NYL 20-16] Gray Free Throw 1 of 2 (3 PTS),0,-80,3,,204334,,1611661313,16,20,2
+09:44,[NYL 21-16] Gray Free Throw 2 of 2 (4 PTS),0,-80,3,,204334,,1611661313,16,21,2
+09:30,[ATL] Hayes 3pt Shot: Missed,48,231,2,,203026,,1611661330,16,21,2
+09:26,[NYL] Nurse Rebound (Off:0 Def:1),48,231,4,,1628915,,1611661313,16,21,2
+09:24,[NYL] Nurse Running Pull-Up Jump Shot: Missed,1,150,2,,1628915,,1611661313,16,21,2
+09:20,[ATL] Billings Rebound (Off:0 Def:2),1,150,4,,1628881,,1611661330,16,21,2
+09:13,[ATL] Gülich Jump Shot: Missed,61,67,2,202250,1628895,,1611661330,16,21,2
+09:13,[ATL] Team Rebound,61,67,4,,0,,1611661330,16,21,2
+09:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,21,2
+09:03,[ATL] Hayes Pullup Jump shot: Missed,-120,134,2,,203026,,1611661330,16,21,2
+09:03,[NYL] Boyd Rebound (Off:0 Def:3),-120,134,4,,204327,,1611661313,16,21,2
+08:56,[NYL] Nurse 3pt Shot: Missed,-106,221,2,,1628915,,1611661313,16,21,2
+08:54,[NYL] Gray Rebound (Off:1 Def:2),-106,221,4,,204334,,1611661313,16,21,2
+08:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,21,2
+08:54,[ATL] Hayes Substitution replaced by Cazorla,0,-80,8,,203026,1629569,1611661330,16,21,2
+08:38,[NYL] Charles Turnaround Jump Shot: Missed,-116,-13,2,,202250,,1611661313,16,21,2
+08:37,[ATL] Team Rebound,-116,-13,4,,0,,1611661330,16,21,2
+08:37,[NYL] Gray Foul: Loose Ball (2 PF),-17,792,6,1628895,204334,,1611661313,16,21,2
+08:25,[ATL] Billings Turnover : Bad Pass (1 TO) Steal:Charles (1 ST),-7,62,5,202250,1628881,,1611661330,16,21,2
+08:21,[NYL] Nurse Running Layup Shot: Missed,-10,6,2,1628881,1628915,,1611661313,16,21,2
+08:19,[NYL] Gray Rebound (Off:2 Def:2),-10,6,4,,204334,,1611661313,16,21,2
+08:18,[NYL] Gray Putback Layup Shot: Missed,-4,27,2,,204334,,1611661313,16,21,2
+08:16,[NYL] Charles Rebound (Off:1 Def:2),-4,27,4,,202250,,1611661313,16,21,2
+08:14,[NYL 23-16] Charles Putback Layup Shot: Made (9 PTS),22,10,1,,202250,,1611661313,16,23,2
+08:01,[ATL] Cazorla 3pt Shot: Missed,204,107,2,,1629569,,1611661330,16,23,2
+07:58,[NYL] Charles Rebound (Off:1 Def:3),204,107,4,,202250,,1611661313,16,23,2
+07:52,[NYL 25-16] Charles Cutting Layup Shot: Made (11 PTS) Assist: Boyd (2 AST),23,-2,1,,202250,204327,1611661313,16,25,2
+07:40,[NYL] Nurse Foul: Personal (2 PF),19,96,6,1628881,1628915,,1611661313,16,25,2
+07:40,[ATL] Gülich Substitution replaced by Williams,0,-80,8,,1628895,204322,1611661330,16,25,2
+07:40,[ATL] Billings Substitution replaced by Breland,0,-80,8,,1628881,202638,1611661330,16,25,2
+07:40,[NYL] Nurse Substitution replaced by Durr,0,-80,8,,1628915,1629476,1611661313,16,25,2
+07:40,[NYL] Wright Substitution replaced by Bias,0,-80,8,,101030,203839,1611661313,16,25,2
+07:23,[ATL] Montgomery 3pt Shot: Missed,227,-21,2,,201904,,1611661330,16,25,2
+07:21,[NYL] Team Rebound,227,-21,4,,0,,1611661313,16,25,2
+07:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,25,2
+07:10,[NYL 27-16] Boyd Driving Floating Jump Shot: Made (4 PTS),31,68,1,,204327,,1611661313,16,27,2
+06:52,[ATL] Sykes Driving Layup Shot: Missed,3,0,2,,1628279,,1611661330,16,27,2
+06:52,[ATL] Team Rebound,3,0,4,,0,,1611661330,16,27,2
+06:52,[ATL] Sykes Turnover : Traveling (1 TO),-8,8,5,,1628279,,1611661330,16,27,2
+06:41,[NYL 29-16] Charles Jump Shot: Made (13 PTS) Assist: Boyd (3 AST),12,207,1,,202250,204327,1611661313,16,29,2
+06:24,[ATL] Montgomery Pullup Jump shot: Missed,-2,180,2,,201904,,1611661330,16,29,2
+06:21,[NYL] Gray Rebound (Off:2 Def:3),-2,180,4,,204334,,1611661313,16,29,2
+06:14,[NYL] Boyd Turnover : Bad Pass (2 TO) Steal:Williams (1 ST),62,38,5,204322,204327,,1611661313,16,29,2
+06:10,[ATL 19-29] Sykes 3pt Shot: Made (5 PTS) Assist: Montgomery (1 AST),230,55,1,,1628279,201904,1611661330,19,29,2
+05:48,[NYL 31-19] Charles Jump Shot: Made (15 PTS) Assist: Boyd (4 AST),87,180,1,,202250,204327,1611661313,19,31,2
+05:31,[ATL] Sykes Driving Layup Shot: Missed,-25,58,2,,1628279,,1611661330,19,31,2
+05:28,[ATL] Sykes Rebound (Off:1 Def:0),-25,58,4,,1628279,,1611661330,19,31,2
+05:26,[ATL 21-31] Breland Layup Shot: Made (2 PTS) Assist: Sykes (2 AST),0,0,1,,202638,1628279,1611661330,21,31,2
+05:26,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,21,31,2
+05:26,[ATL] Breland Substitution replaced by Billings,0,-80,8,,202638,1628881,1611661330,21,31,2
+05:26,[NYL] Gray Substitution replaced by Raincock-Ekunwe,0,-80,8,,204334,1628248,1611661313,21,31,2
+05:12,[NYL] Bias 3pt Shot: Missed,-57,231,2,,203839,,1611661313,21,31,2
+05:09,[ATL] Cazorla Rebound (Off:0 Def:1),-57,231,4,,1629569,,1611661330,21,31,2
+04:49,[ATL] Cazorla Turnover : Lost Ball (2 TO) Steal:Charles (2 ST),71,7,5,202250,1629569,,1611661330,21,31,2
+04:45,[NYL 33-21] Bias Running Layup Shot: Made (2 PTS) Assist: Charles (1 AST),3,6,1,,203839,202250,1611661313,21,33,2
+04:29,[ATL] Sykes Driving Layup Shot: Missed,54,6,2,,1628279,,1611661330,21,33,2
+04:25,[NYL] Raincock-Ekunwe Rebound (Off:0 Def:1),54,6,4,,1628248,,1611661313,21,33,2
+04:03,[NYL] Charles 3pt Shot: Missed,-13,235,2,,202250,,1611661313,21,33,2
+04:00,[ATL] Sykes Rebound (Off:1 Def:1),-14,221,4,,1628279,,1611661330,21,33,2
+03:50,[ATL] Billings Driving Layup Shot: Missed,-2,-4,2,,1628881,,1611661330,21,33,2
+03:47,[NYL] Charles Rebound (Off:1 Def:4),-2,-4,4,,202250,,1611661313,21,33,2
+03:37,[NYL] Bias Turnover : Backcourt Turnover (1 TO),208,597,5,,203839,,1611661313,21,33,2
+03:23,[ATL] Sykes Turnover : Bad Pass (2 TO) Steal:Charles (3 ST),96,49,5,202250,1628279,,1611661330,21,33,2
+03:15,[NYL 35-21] Charles Cutting Layup Shot: Made (17 PTS) Assist: Bias (1 AST),8,9,1,,202250,203839,1611661313,21,35,2
+03:08,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,21,35,2
+03:08,[ATL] Montgomery Substitution replaced by Hayes,0,-80,8,,201904,203026,1611661330,21,35,2
+02:58,[ATL] Cazorla 3pt Shot: Missed,-143,198,2,,1629569,,1611661330,21,35,2
+02:55,[NYL] Boyd Rebound (Off:0 Def:4),-143,198,4,,204327,,1611661313,21,35,2
+02:35,[NYL] Raincock-Ekunwe Driving Layup Shot: Missed,-4,6,2,,1628248,,1611661313,21,35,2
+02:30,[ATL] Billings Rebound (Off:0 Def:3),-4,6,4,,1628881,,1611661330,21,35,2
+02:23,[NYL] Raincock-Ekunwe Foul: Shooting (2 PF) (2 FTA),5,16,6,204322,1628248,,1611661313,21,35,2
+02:23,[ATL 22-35] Williams Free Throw 1 of 2 (8 PTS),0,-80,3,,204322,,1611661330,22,35,2
+02:23,[ATL 23-35] Williams Free Throw 2 of 2 (9 PTS),0,-80,3,,204322,,1611661330,23,35,2
+02:07,[NYL] Boyd Driving Floating Jump Shot: Missed,7,33,2,,204327,,1611661313,23,35,2
+02:03,[ATL] Billings Rebound (Off:0 Def:4),7,33,4,,1628881,,1611661330,23,35,2
+01:46,[ATL] Billings Driving Layup Shot: Missed,-1,0,2,,1628881,,1611661330,23,35,2
+01:43,[NYL] Raincock-Ekunwe Rebound (Off:0 Def:2),-1,0,4,,1628248,,1611661313,23,35,2
+01:34,[NYL] Charles Turnover : Bad Pass (1 TO) Steal:Hayes (3 ST),12,13,5,203026,202250,,1611661313,23,35,2
+01:24,[ATL 25-35] Sykes Driving Layup Shot: Made (7 PTS) Assist: Billings (1 AST),59,17,1,,1628279,1628881,1611661330,25,35,2
+01:06,[NYL] Durr Jump Shot: Missed,-167,105,2,,1629476,,1611661313,25,35,2
+01:04,[ATL] Sykes Rebound (Off:1 Def:2),-167,105,4,,1628279,,1611661330,25,35,2
+00:57.3,[NYL] Bias Foul: Personal (1 PF),-93,71,6,1628279,203839,,1611661313,25,35,2
+00:57.3,[NYL] Bias Substitution replaced by Wright,0,-80,8,,203839,101030,1611661313,25,35,2
+00:57.3,[NYL] Raincock-Ekunwe Substitution replaced by Gray,0,-80,8,,1628248,204334,1611661313,25,35,2
+00:53.6,[ATL] Sykes Pullup Jump shot: Missed,60,180,2,,1628279,,1611661330,25,35,2
+00:50.2,[NYL] Gray Rebound (Off:2 Def:4),60,180,4,,204334,,1611661313,25,35,2
+00:42.5,[NYL 37-25] Boyd Driving Layup Shot: Made (6 PTS),29,32,1,,204327,,1611661313,25,37,2
+00:35.3,[ATL] Cazorla 3pt Shot: Missed,-128,203,2,,1629569,,1611661330,25,37,2
+00:33.7,[ATL] Team Rebound,-128,203,4,,0,,1611661330,25,37,2
+00:33.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,25,37,2
+00:24.1,[ATL 28-37] Sykes 3pt Shot: Made (10 PTS) Assist: Hayes (3 AST),141,194,1,,1628279,203026,1611661330,28,37,2
+00:04.7,[NYL 39-28] Durr Pullup Jump shot: Made (4 PTS),-42,74,1,,1629476,,1611661313,28,39,2
+00:00.1,[ATL] Hayes 3pt Shot: Missed,-63,344,2,,203026,,1611661330,28,39,2
+00:00.1,[ATL] Team Rebound,-63,344,4,,0,,1611661330,28,39,2
+00:00.0,End Period,0,-80,13,,0,,0,28,39,2
+10:00,Start Period,0,-80,12,,0,,0,28,39,3
+09:39,[ATL] Breland Foul: Shooting (1 PF) (2 FTA),0,66,6,1628915,202638,,1611661330,28,39,3
+09:39,[NYL 40-28] Nurse Free Throw 1 of 2 (1 PTS),0,-80,3,,1628915,,1611661313,28,40,3
+09:39,[NYL 41-28] Nurse Free Throw 2 of 2 (2 PTS),0,-80,3,,1628915,,1611661313,28,41,3
+09:18,[ATL 31-41] Cazorla 3pt Shot: Made (3 PTS) Assist: Hayes (4 AST),230,28,1,,1629569,203026,1611661330,31,41,3
+08:58,[NYL] Charles Pullup Jump shot: Missed,-150,94,2,,202250,,1611661313,31,41,3
+08:55,[ATL] Cazorla Rebound (Off:0 Def:2),-150,94,4,,1629569,,1611661330,31,41,3
+08:49,[ATL] Cazorla Turnover : Bad Pass (3 TO) Steal:Durr (1 ST),15,181,5,1629476,1629569,,1611661330,31,41,3
+08:45,[NYL 43-31] Durr Running Layup Shot: Made (6 PTS),4,-4,1,,1629476,,1611661313,31,43,3
+08:22,[ATL] Williams Hook Shot: Missed,100,1,2,,204322,,1611661330,31,43,3
+08:20,[NYL] Charles Rebound (Off:1 Def:5),100,1,4,,202250,,1611661313,31,43,3
+08:20,Stoppage: Court Cleanup,0,-80,20,,0,,0,31,43,3
+08:11,[NYL] Nurse Turnover : Out of Bounds Lost Ball Turnover (1 TO),205,255,5,,1628915,,1611661313,31,43,3
+08:00,[ATL] Williams Foul: Offensive (2 PF),79,119,6,1628915,204322,,1611661330,31,43,3
+08:00,[ATL] Williams Turnover : Offensive Foul Turnover (1 TO),79,119,5,,204322,,1611661330,31,43,3
+07:47,[ATL] Breland Foul: Shooting (2 PF) (2 FTA),15,119,6,202250,202638,,1611661330,31,43,3
+07:47,[NYL] Charles Free Throw 1 of 2 Missed,0,-80,3,,202250,,1611661313,31,43,3
+07:47,[NYL] Team Rebound,0,-80,4,,0,,1611661313,31,43,3
+07:47,[NYL 44-31] Charles Free Throw 2 of 2 (18 PTS),0,-80,3,,202250,,1611661313,31,44,3
+07:27,[NYL] Charles Foul: Personal (2 PF),2,-40,6,204322,202250,,1611661313,31,44,3
+07:15,[ATL 33-44] Hayes Driving Layup Shot: Made (7 PTS) Assist: Breland (1 AST),3,1,1,,203026,202638,1611661330,33,44,3
+07:05,[NYL] Durr Turnover : Bad Pass (2 TO) Steal:Williams (2 ST),-109,145,5,204322,1629476,,1611661313,33,44,3
+06:55,[ATL] Hayes Driving Layup Shot: Missed,3,-2,2,202250,203026,,1611661330,33,44,3
+06:55,[ATL] Team Rebound,3,-2,4,,0,,1611661330,33,44,3
+06:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,44,3
+06:47,[NYL] Durr Foul: Shooting (2 PF) (2 FTA),-13,-1,6,204322,1629476,,1611661313,33,44,3
+06:47,[ATL 34-44] Williams Free Throw 1 of 2 (10 PTS),0,-80,3,,204322,,1611661330,34,44,3
+06:47,[ATL] Williams Free Throw 2 of 2 Missed,0,-80,3,,204322,,1611661330,34,44,3
+06:45,[NYL] Gray Rebound (Off:2 Def:5),0,-80,4,,204334,,1611661313,34,44,3
+06:23,[NYL] Durr Driving Floating Jump Shot: Missed,97,129,2,,1629476,,1611661313,34,44,3
+06:18,[ATL] Breland Rebound (Off:0 Def:2),97,129,4,,202638,,1611661330,34,44,3
+06:12,[ATL] Cazorla 3pt Shot: Missed,-110,207,2,,1629569,,1611661330,34,44,3
+06:09,[NYL] Gray Rebound (Off:2 Def:6),-110,207,4,,204334,,1611661313,34,44,3
+05:50,[NYL] Boyd Foul: Offensive Charge (2 PF),44,87,6,203026,204327,,1611661313,34,44,3
+05:50,[NYL] Boyd Turnover : Offensive Foul Turnover (3 TO),44,87,5,,204327,,1611661313,34,44,3
+05:50,[NYL] Durr Substitution replaced by Wright,0,-80,8,,1629476,101030,1611661313,34,44,3
+05:26,[ATL] Williams Cutting Layup Shot: Missed,3,5,2,,204322,,1611661330,34,44,3
+05:19,[NYL] Wright Rebound (Off:1 Def:1),3,5,4,,101030,,1611661313,34,44,3
+05:17,[NYL] Charles Layup Shot: Missed,-6,13,2,204322,202250,,1611661313,34,44,3
+05:13,[ATL] Cazorla Rebound (Off:0 Def:3),-6,13,4,,1629569,,1611661330,34,44,3
+05:08,[ATL] Cazorla Turnover : Bad Pass (4 TO) Steal:Charles (4 ST),87,90,5,202250,1629569,,1611661330,34,44,3
+05:02,[NYL] Charles Turnover : Bad Pass (2 TO) Steal:Hayes (4 ST),-9,-21,5,203026,202250,,1611661313,34,44,3
+05:02,[NYL] Wright Foul: Personal (2 PF),-109,479,6,203026,101030,,1611661313,34,44,3
+05:02,[ATL] Cazorla Substitution replaced by Sykes,0,-80,8,,1629569,1628279,1611661330,34,44,3
+04:50,[ATL] Sykes Cutting Layup Shot: Missed,17,-1,2,,1628279,,1611661330,34,44,3
+04:45,[NYL] Charles Rebound (Off:1 Def:6),17,-1,4,,202250,,1611661313,34,44,3
+04:39,[NYL 46-34] Nurse Cutting Layup Shot: Made (4 PTS) Assist: Wright (3 AST),2,-1,1,,1628915,101030,1611661313,34,46,3
+04:16,[ATL] Hayes Turnover : Lost Ball (2 TO) Steal:Gray (2 ST),8,78,5,204334,203026,,1611661330,34,46,3
+04:09,[NYL] Nurse 3pt Shot: Missed,97,214,2,,1628915,,1611661313,34,46,3
+04:05,[ATL] Williams Rebound (Off:3 Def:3),97,214,4,,204322,,1611661330,34,46,3
+03:45,[ATL] Hayes Pullup Jump shot: Missed,75,192,2,,203026,,1611661330,34,46,3
+03:44,[NYL] Team Rebound,75,192,4,,0,,1611661313,34,46,3
+03:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,46,3
+03:44,Timeout Officials,0,-80,9,,0,,0,34,46,3
+03:44,[ATL] Breland Substitution replaced by Billings,0,-80,8,,202638,1628881,1611661330,34,46,3
+03:32,[ATL] Williams Foul: Shooting (3 PF) (2 FTA),-7,119,6,202250,204322,,1611661330,34,46,3
+03:32,[NYL 47-34] Charles Free Throw 1 of 2 (19 PTS),0,-80,3,,202250,,1611661313,34,47,3
+03:32,[NYL 48-34] Charles Free Throw 2 of 2 (20 PTS),0,-80,3,,202250,,1611661313,34,48,3
+03:18,[ATL 37-48] Sykes 3pt Shot: Made (13 PTS) Assist: Montgomery (2 AST),34,231,1,,1628279,201904,1611661330,37,48,3
+02:56,[NYL] Gray Layup Shot: Missed,20,-1,2,,204334,,1611661313,37,48,3
+02:51,[NYL] Gray Rebound (Off:3 Def:6),20,-1,4,,204334,,1611661313,37,48,3
+02:50,[NYL 50-37] Gray Putback Layup Shot: Made (6 PTS),-3,0,1,,204334,,1611661313,37,50,3
+02:42,[ATL] Billings Driving Layup Shot: Missed,15,13,2,,1628881,,1611661330,37,50,3
+02:39,[NYL] Boyd Rebound (Off:0 Def:5),15,13,4,,204327,,1611661313,37,50,3
+02:36,[NYL] Boyd Running Layup Shot: Missed,20,8,2,,204327,,1611661313,37,50,3
+02:33,[ATL] Sykes Rebound (Off:1 Def:3),20,8,4,,1628279,,1611661330,37,50,3
+02:28,[ATL 40-50] Montgomery 3pt Shot: Made (3 PTS) Assist: Sykes (3 AST),123,207,1,,201904,1628279,1611661330,40,50,3
+02:09,[NYL] Nurse 3pt Shot: Missed,221,3,2,,1628915,,1611661313,40,50,3
+02:06,[NYL] Charles Rebound (Off:2 Def:6),221,3,4,,202250,,1611661313,40,50,3
+02:03,[NYL] Nurse 3pt Shot: Missed,211,115,2,,1628915,,1611661313,40,50,3
+02:01,[NYL] Gray Rebound (Off:4 Def:6),211,115,4,,204334,,1611661313,40,50,3
+01:59,[NYL 52-40] Gray Putback Layup Shot: Made (8 PTS),-2,-4,1,,204334,,1611661313,40,52,3
+01:49,[ATL 43-52] Montgomery 3pt Shot: Made (6 PTS),-61,232,1,,201904,,1611661330,43,52,3
+01:28,[NYL] Charles Turnaround Jump Shot: Missed,-95,115,2,,202250,,1611661313,43,52,3
+01:24,[NYL] Boyd Rebound (Off:1 Def:5),-95,115,4,,204327,,1611661313,43,52,3
+01:22,[NYL 54-43] Boyd Driving Layup Shot: Made (8 PTS),0,5,1,,204327,,1611661313,43,54,3
+01:15,[NYL] Charles Foul: Shooting (3 PF) (2 FTA),15,9,6,201904,202250,,1611661313,43,54,3
+01:15,[ATL 44-54] Montgomery Free Throw 1 of 2 (7 PTS),0,-80,3,,201904,,1611661330,44,54,3
+01:15,[ATL] Hayes Substitution replaced by Coffey,0,-80,8,,203026,1628269,1611661330,44,54,3
+01:15,[NYL] Boyd Substitution replaced by Raincock-Ekunwe,0,-80,8,,204327,1628248,1611661313,44,54,3
+01:15,[NYL] Charles Substitution replaced by Bias,0,-80,8,,202250,203839,1611661313,44,54,3
+01:15,[ATL 45-54] Montgomery Free Throw 2 of 2 (8 PTS),0,-80,3,,201904,,1611661330,45,54,3
+01:03,[NYL 56-45] Nurse Jump Shot: Made (6 PTS) Assist: Raincock-Ekunwe (1 AST),-93,166,1,,1628915,1628248,1611661313,45,56,3
+00:46.2,[ATL] Sykes Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-138,107,5,,1628279,,1611661330,45,56,3
+00:34.8,[ATL] Montgomery Foul: Personal (2 PF),10,108,6,1628915,201904,,1611661330,45,56,3
+00:25.3,[NYL] Gray Turnaround Jump Shot: Missed,-19,40,2,204322,204334,,1611661313,45,56,3
+00:20.1,[ATL] Sykes Rebound (Off:1 Def:4),-19,40,4,,1628279,,1611661330,45,56,3
+00:02.0,[ATL 48-56] Coffey 3pt Shot: Made (3 PTS) Assist: Sykes (4 AST),226,27,1,,1628269,1628279,1611661330,48,56,3
+00:00.0,[NYL] Wright 3pt Shot: Missed,186,384,2,,101030,,1611661313,48,56,3
+00:00.0,[NYL] Team Rebound,186,384,4,,0,,1611661313,48,56,3
+00:00.0,End Period,0,-80,13,,0,,0,48,56,3
+10:00,Start Period,0,-80,12,,0,,0,48,56,4
+09:36,[ATL] Coffey Pullup Jump shot: Missed,-48,185,2,,1628269,,1611661330,48,56,4
+09:33,[ATL] Billings Rebound (Off:1 Def:4),-48,185,4,,1628881,,1611661330,48,56,4
+09:31,[ATL] Billings Layup Shot: Missed,15,-11,2,,1628881,,1611661330,48,56,4
+09:31,[ATL] Coffey Rebound (Off:1 Def:0),15,-11,4,,1628269,,1611661330,48,56,4
+09:26,[ATL] Coffey Putback Layup Shot: Missed,0,-5,2,,1628269,,1611661330,48,56,4
+09:26,[NYL] Gray Rebound (Off:4 Def:7),0,-5,4,,204334,,1611661313,48,56,4
+09:08,[NYL] Bias Driving Floating Jump Shot: Missed,-93,72,2,,203839,,1611661313,48,56,4
+09:04,[ATL] Sykes Rebound (Off:1 Def:5),-93,72,4,,1628279,,1611661330,48,56,4
+08:58,[ATL] Sykes Pullup Jump shot: Missed,-128,150,2,,1628279,,1611661330,48,56,4
+08:55,[NYL] Bias Rebound (Off:0 Def:1),-128,150,4,,203839,,1611661313,48,56,4
+08:39,[NYL] Durr Turnover : Lost Ball (3 TO) Steal:Sykes (1 ST),158,207,5,1628279,1629476,,1611661313,48,56,4
+08:39,[NYL] Wright Foul: Loose Ball (3 PF),108,429,6,1628279,101030,,1611661313,48,56,4
+08:39,[NYL] Bias Substitution replaced by Nurse,0,-80,8,,203839,1628915,1611661313,48,56,4
+08:39,[NYL] Gray Substitution replaced by Charles,0,-80,8,,204334,202250,1611661313,48,56,4
+08:14,[ATL] Montgomery 3pt Shot: Missed,-10,255,2,,201904,,1611661330,48,56,4
+08:10,[NYL] Nurse Rebound (Off:0 Def:2),-10,255,4,,1628915,,1611661313,48,56,4
+07:56,[NYL 58-48] Charles Turnaround Fadeaway shot: Made (22 PTS) Assist: Durr (4 AST),11,117,1,,202250,1629476,1611661313,48,58,4
+07:36,[NYL] Raincock-Ekunwe Foul: Personal (3 PF),-61,145,6,1628881,1628248,,1611661313,48,58,4
+07:36,[ATL] Coffey Substitution replaced by Hayes,0,-80,8,,1628269,203026,1611661330,48,58,4
+07:30,[ATL] Hayes 3pt Shot: Missed,97,212,2,,203026,,1611661330,48,58,4
+07:22,[ATL] Williams Rebound (Off:4 Def:3),97,212,4,,204322,,1611661330,48,58,4
+07:21,[ATL] Montgomery 3pt Shot: Missed,-169,183,2,,201904,,1611661330,48,58,4
+07:19,[NYL] Durr Rebound (Off:1 Def:1),-169,183,4,,1629476,,1611661313,48,58,4
+07:15,[ATL] Billings Foul: Personal (2 PF),74,97,6,202250,1628881,,1611661330,48,58,4
+07:05,[NYL] Raincock-Ekunwe Layup Shot: Missed,3,7,2,,1628248,,1611661313,48,58,4
+07:03,[ATL] Billings Rebound (Off:1 Def:5),3,7,4,,1628881,,1611661330,48,58,4
+06:55,[ATL] Williams Foul: Offensive Charge (4 PF),29,102,6,1628248,204322,,1611661330,48,58,4
+06:55,[ATL] Williams Turnover : Offensive Foul Turnover (2 TO),29,102,5,,204322,,1611661330,48,58,4
+06:34,[NYL] Charles Turnaround Fadeaway shot: Missed,100,19,2,,202250,,1611661313,48,58,4
+06:34,[NYL] Team Rebound,100,19,4,,0,,1611661313,48,58,4
+06:34,[ATL] Hayes Foul: Loose Ball (1 PF),0,3,6,1628248,203026,,1611661330,48,58,4
+06:26,[NYL 60-48] Durr Driving Reverse Layup Shot: Made (8 PTS),3,0,1,,1629476,,1611661313,48,60,4
+06:18,[ATL] Hayes Driving Layup Shot: Missed,-21,22,2,1628248,203026,,1611661330,48,60,4
+06:07,[NYL] Raincock-Ekunwe Rebound (Off:0 Def:3),-21,22,4,,1628248,,1611661313,48,60,4
+06:03,[NYL] Nurse Driving Layup Shot: Missed,20,-4,2,1628279,1628915,,1611661313,48,60,4
+06:03,[NYL] Team Rebound,20,-4,4,,0,,1611661313,48,60,4
+06:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,60,4
+05:57,[NYL] Nurse Turnover : Bad Pass (2 TO) Steal:Billings (1 ST),87,39,5,1628881,1628915,,1611661313,48,60,4
+05:44,[ATL 51-60] Sykes 3pt Shot: Made (16 PTS) Assist: Montgomery (3 AST),223,106,1,,1628279,201904,1611661330,51,60,4
+05:26,[NYL] Charles Fadeaway Jump Shot: Missed,53,120,2,,202250,,1611661313,51,60,4
+05:22,[ATL] Williams Rebound (Off:4 Def:4),53,120,4,,204322,,1611661330,51,60,4
+05:01,[ATL] Billings Driving Layup Shot: Missed,-16,21,2,101030,1628881,,1611661330,51,60,4
+04:57,[NYL] Wright Rebound (Off:1 Def:2),-16,21,4,,101030,,1611661313,51,60,4
+04:57,[NYL 62-51] Raincock-Ekunwe Running Layup Shot: Made (6 PTS) Assist: Wright (4 AST),3,-4,1,,1628248,101030,1611661313,51,62,4
+04:57,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,51,62,4
+04:57,[ATL] Williams Substitution replaced by Coffey,0,-80,8,,204322,1628269,1611661330,51,62,4
+04:57,[NYL] Raincock-Ekunwe Substitution replaced by Gray,0,-80,8,,1628248,204334,1611661313,51,62,4
+04:57,[NYL] Wright Substitution replaced by Boyd,0,-80,8,,101030,204327,1611661313,51,62,4
+04:44,[ATL] Coffey 3pt Shot: Missed,-24,231,2,,1628269,,1611661330,51,62,4
+04:40,[NYL] Gray Rebound (Off:4 Def:8),-24,231,4,,204334,,1611661313,51,62,4
+04:31,[NYL 64-51] Boyd Driving Layup Shot: Made (10 PTS),4,-3,1,,204327,,1611661313,51,64,4
+04:12,[ATL] Billings Driving Layup Shot: Missed,4,26,2,,1628881,,1611661330,51,64,4
+04:10,[NYL] Gray Rebound (Off:4 Def:9),4,26,4,,204334,,1611661313,51,64,4
+03:56,[NYL] Charles Turnaround Jump Shot: Missed,-70,12,2,,202250,,1611661313,51,64,4
+03:54,[ATL] Team Rebound,-70,12,4,,0,,1611661330,51,64,4
+03:54,[NYL] Gray Foul: Loose Ball (3 PF),-3,839,6,1628881,204334,,1611661313,51,64,4
+03:40,[NYL] Gray Foul: Personal (4 PF),-43,95,6,1628279,204334,,1611661313,51,64,4
+03:35,[ATL] Sykes Pullup Jump shot: Missed,74,144,2,,1628279,,1611661330,51,64,4
+03:32,[NYL] Boyd Rebound (Off:1 Def:6),74,144,4,,204327,,1611661313,51,64,4
+03:25,[NYL] Charles Pullup Jump shot: Missed,-3,156,2,,202250,,1611661313,51,64,4
+03:20,[ATL] Coffey Rebound (Off:1 Def:1),-3,156,4,,1628269,,1611661330,51,64,4
+03:13,[ATL 53-64] Montgomery Pullup Jump shot: Made (10 PTS),-3,160,1,,201904,,1611661330,53,64,4
+02:47,[NYL] Gray Driving Layup Shot: Missed,10,7,2,1628269,204334,,1611661313,53,64,4
+02:42,[NYL] Gray Rebound (Off:5 Def:9),10,7,4,,204334,,1611661313,53,64,4
+02:41,[NYL] Gray Putback Layup Shot: Missed,2,32,2,203026,204334,,1611661313,53,64,4
+02:38,[ATL] Hayes Rebound (Off:0 Def:3),2,32,4,,203026,,1611661330,53,64,4
+02:37,[ATL] Coffey Foul: Offensive (1 PF),86,130,6,204327,1628269,,1611661330,53,64,4
+02:37,[ATL] Coffey Turnover : Offensive Foul Turnover (1 TO),86,130,5,,1628269,,1611661330,53,64,4
+02:37,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,53,64,4
+02:37,[ATL] Billings Substitution replaced by Williams,0,-80,8,,1628881,204322,1611661330,53,64,4
+02:19,[NYL 66-53] Charles Driving Hook Shot: Made (24 PTS),3,108,1,,202250,,1611661313,53,66,4
+02:11,[NYL] Charles Foul: Shooting (4 PF) (2 FTA),12,81,6,1628269,202250,,1611661313,53,66,4
+02:11,[NYL] Charles Technical (1 FTA),0,-80,6,,202250,,1611661313,53,66,4
+02:11,[ATL 54-66] Montgomery Free Throw Technical (11 PTS),0,-80,3,,201904,,1611661330,54,66,4
+02:11,[ATL 55-66] Coffey Free Throw 1 of 2 (4 PTS),0,-80,3,,1628269,,1611661330,55,66,4
+02:11,[ATL 56-66] Coffey Free Throw 2 of 2 (5 PTS),0,-80,3,,1628269,,1611661330,56,66,4
+02:00,[NYL 68-56] Durr Cutting Layup Shot: Made (10 PTS) Assist: Gray (1 AST),3,-1,1,,1629476,204334,1611661313,56,68,4
+01:53,[ATL] Montgomery 3pt Shot: Missed,26,231,2,,201904,,1611661330,56,68,4
+01:52,[NYL] Gray Rebound (Off:5 Def:10),26,231,4,,204334,,1611661313,56,68,4
+01:52,[ATL] Hayes Foul: Personal (2 PF),-9,829,6,204334,203026,,1611661330,56,68,4
+01:43,[ATL] Montgomery Foul: Personal (3 PF) (2 FTA),48,243,6,1629476,201904,,1611661330,56,68,4
+01:43,[NYL 69-56] Durr Free Throw 1 of 2 (11 PTS),0,-80,3,,1629476,,1611661313,56,69,4
+01:43,[NYL] Durr Free Throw 2 of 2 Missed,0,-80,3,,1629476,,1611661313,56,69,4
+01:41,[ATL] Team Rebound,0,-80,4,,0,,1611661330,56,69,4
+01:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,69,4
+01:33,[ATL] Sykes 3pt Shot: Missed,32,244,2,,1628279,,1611661330,56,69,4
+01:32,[NYL] Team Rebound,32,244,4,,0,,1611661313,56,69,4
+01:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,69,4
+01:20,[NYL] Gray Foul: Offensive (5 PF),-1,233,6,1628279,204334,,1611661313,56,69,4
+01:20,[NYL] Gray Turnover : Offensive Foul Turnover (1 TO),-1,233,5,,204334,,1611661313,56,69,4
+01:13,[ATL 58-69] Sykes Driving Layup Shot: Made (18 PTS),8,10,1,,1628279,,1611661330,58,69,4
+01:10,[ATL] Sykes Foul: Personal (2 PF) (2 FTA),94,690,6,204327,1628279,,1611661330,58,69,4
+01:10,[NYL 70-58] Boyd Free Throw 1 of 2 (11 PTS),0,-80,3,,204327,,1611661313,58,70,4
+01:10,[NYL] Gray Substitution replaced by Wright,0,-80,8,,204334,101030,1611661313,58,70,4
+01:10,[NYL 71-58] Boyd Free Throw 2 of 2 (12 PTS),0,-80,3,,204327,,1611661313,58,71,4
+00:59.1,[ATL] Hayes Driving Reverse Layup Shot: Missed,-7,-1,2,,203026,,1611661330,58,71,4
+00:56.2,[NYL] Wright Rebound (Off:1 Def:3),-7,-1,4,,101030,,1611661313,58,71,4
+00:33.4,[NYL 74-58] Boyd 3pt Shot: Made (15 PTS),195,133,1,,204327,,1611661313,58,74,4
+00:31.9,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,58,74,4
+00:27.5,[ATL] Sykes Pullup Jump shot: Missed,-35,176,2,,1628279,,1611661330,58,74,4
+00:23.6,[NYL] Wright Rebound (Off:1 Def:4),-35,176,4,,101030,,1611661313,58,74,4
+00:01.3,[NYL] Team Turnover : Shot Clock Turnover,0,355,5,,0,,1611661313,58,74,4
+00:00.0,End Period,0,-80,13,,0,,0,58,74,4
+00:00.0,Game End,0,-80,0,,0,,0,58,74,4

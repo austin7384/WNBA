@@ -1,0 +1,416 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Cambage vs Ogwumike (Young gains possession),0,-80,10,203014,202633,1629498,1611661319,0,0,1
+09:47,[LVA] Wilson Driving Layup Shot: Missed,-30,49,2,,1628932,,1611661319,0,0,1
+09:44,[LAS] Gray Rebound (Off:0 Def:1),-30,49,4,,203833,,1611661320,0,0,1
+09:30,[LAS] Ruffin-Pratt Cutting Layup Shot: Missed,-27,17,2,,203437,,1611661320,0,0,1
+09:28,[LVA] Wilson Rebound (Off:0 Def:1),-27,17,4,,1628932,,1611661319,0,0,1
+09:24,[LVA] McBride 3pt Shot: Missed,-185,187,2,,203825,,1611661319,0,0,1
+09:21,[LAS] Gray Rebound (Off:0 Def:2),-185,187,4,,203833,,1611661320,0,0,1
+09:07,[LAS] Williams 3pt Shot: Missed,61,280,2,,203029,,1611661320,0,0,1
+09:04,[LVA] Young Rebound (Off:0 Def:1),61,280,4,,201477,,1611661319,0,0,1
+08:51,[LVA] Cambage Driving Layup Shot: Missed,-1,66,2,,202633,,1611661319,0,0,1
+08:49,[LVA] Cambage Rebound (Off:1 Def:0),-1,66,4,,202633,,1611661319,0,0,1
+08:47,[LVA] Cambage Putback Layup Shot: Missed,28,50,2,,202633,,1611661319,0,0,1
+08:45,[LAS] Ogwumike Rebound (Off:0 Def:1),28,50,4,,203014,,1611661320,0,0,1
+08:29,[LAS 2-0] Gray Fadeaway Jump Shot: Made (2 PTS),-88,145,1,,203833,,1611661320,0,2,1
+08:16,[LVA] Young Pullup Jump shot: Missed,72,75,2,,1629498,,1611661319,0,2,1
+08:13,[LAS] Ogwumike Rebound (Off:0 Def:2),72,75,4,,203014,,1611661320,0,2,1
+07:52,[LAS] Gray Fadeaway Jump Shot: Missed,-16,213,2,201477,203833,,1611661320,0,2,1
+07:52,[LAS] Team Rebound,-16,213,4,,0,,1611661320,0,2,1
+07:52,[LAS] Team Turnover : Shot Clock Turnover,19,91,5,,0,,1611661320,0,2,1
+07:38,[LVA] Cambage Turnaround Jump Shot: Missed,133,31,2,,202633,,1611661319,0,2,1
+07:34,[LAS] Ogwumike Rebound (Off:0 Def:3),133,31,4,,203014,,1611661320,0,2,1
+07:15,[LAS 4-0] Williams Pullup Jump shot: Made (2 PTS) Assist: Gray (1 AST),-76,164,1,,203029,203833,1611661320,0,4,1
+06:58,[LVA 3-4] McBride 3pt Shot: Made (3 PTS) Assist: Young (1 AST),-11,265,1,,203825,1629498,1611661319,3,4,1
+06:38,[LAS] Parker Turnaround Fadeaway shot: Missed,48,90,2,,201496,,1611661320,3,4,1
+06:35,[LVA] McBride Rebound (Off:0 Def:1),48,90,4,,203825,,1611661319,3,4,1
+06:28,[LVA] Cambage Turnover : Out of Bounds - Bad Pass Turnover (1 TO),46,130,5,,202633,,1611661319,3,4,1
+06:09,[LAS] Ogwumike Cutting Layup Shot: Missed,39,10,2,1629498,203014,,1611661320,3,4,1
+06:05,[LVA] Cambage Rebound (Off:1 Def:1),39,10,4,,202633,,1611661319,3,4,1
+06:04,[LVA] Cambage Foul: Offensive Charge (1 PF),63,121,6,203437,202633,,1611661319,3,4,1
+06:04,[LVA] Cambage Turnover : Offensive Foul Turnover (2 TO),63,121,5,,202633,,1611661319,3,4,1
+05:52,[LAS 6-3] Ogwumike Cutting Layup Shot: Made (2 PTS) Assist: Gray (2 AST),1,26,1,,203014,203833,1611661320,3,6,1
+05:41,[LAS] Parker Foul: Shooting (1 PF) (2 FTA),-36,53,6,1628932,201496,,1611661320,3,6,1
+05:41,[LVA 4-6] Wilson Free Throw 1 of 2 (1 PTS),0,-80,3,,1628932,,1611661319,4,6,1
+05:41,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,4,6,1
+05:39,[LAS] Ruffin-Pratt Rebound (Off:0 Def:1),0,-80,4,,203437,,1611661320,4,6,1
+05:31,[LAS 9-4] Williams 3pt Shot: Made (5 PTS) Assist: Parker (1 AST),-91,247,1,,203029,201496,1611661320,4,9,1
+05:16,[LVA] Young Turnover : Traveling (1 TO),182,82,5,,1629498,,1611661319,4,9,1
+04:57,[LAS] Williams 3pt Shot: Missed,-172,175,2,,203029,,1611661320,4,9,1
+04:55,[LVA] Young Rebound (Off:0 Def:2),-172,175,4,,201477,,1611661319,4,9,1
+04:48,[LVA 6-9] Wilson Cutting Layup Shot: Made (3 PTS) Assist: Young (1 AST),26,16,1,,1628932,201477,1611661319,6,9,1
+04:33,[LVA] McBride Foul: Personal (1 PF),-109,143,6,203029,203825,,1611661319,6,9,1
+04:33,Timeout Officials,0,-80,9,,0,,0,6,9,1
+04:33,[LVA] Young Substitution replaced by Hamby,0,-80,8,,1629498,204324,1611661319,6,9,1
+04:33,[LVA] Cambage Substitution replaced by Plum,0,-80,8,,202633,1628276,1611661319,6,9,1
+04:23,[LAS 12-6] Williams 3pt Shot: Made (8 PTS) Assist: Parker (2 AST),73,255,1,,203029,201496,1611661320,6,12,1
+04:07,[LVA] McBride Driving Layup Shot: Missed,46,11,2,203014,203825,,1611661319,6,12,1
+04:03,[LAS] Ogwumike Rebound (Off:0 Def:4),46,11,4,,203014,,1611661320,6,12,1
+04:00,[LAS] Parker Turnaround Hook Shot: Missed,45,17,2,,201496,,1611661320,6,12,1
+03:58,[LVA] Hamby Rebound (Off:0 Def:1),45,17,4,,204324,,1611661319,6,12,1
+03:50,[LAS] Ogwumike Foul: Shooting (1 PF) (2 FTA),-59,71,6,1628932,203014,,1611661320,6,12,1
+03:50,[LVA] Wilson Free Throw 1 of 2 Missed,0,-80,3,,1628932,,1611661319,6,12,1
+03:50,[LVA] Team Rebound,0,-80,4,,0,,1611661319,6,12,1
+03:50,[LVA 7-12] Wilson Free Throw 2 of 2 (4 PTS),0,-80,3,,1628932,,1611661319,7,12,1
+03:34,[LAS] Williams 3pt Shot: Missed,-21,248,2,,203029,,1611661320,7,12,1
+03:31,[LVA] Hamby Rebound (Off:0 Def:2),-21,248,4,,204324,,1611661319,7,12,1
+03:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,12,1
+03:24,[LAS] Parker Substitution replaced by Ogwumike,0,-80,8,,201496,203823,1611661320,7,12,1
+03:19,[LVA] Young Turnover : Out of Bounds Lost Ball Turnover (1 TO),22,206,5,,201477,,1611661319,7,12,1
+03:06,[LAS 14-7] Gray Step Back Jump shot: Made (4 PTS),-26,162,1,,203833,,1611661320,7,14,1
+03:06,[LVA] Young Foul: Shooting (1 PF) (1 FTA),-26,162,6,203833,201477,,1611661319,7,14,1
+03:06,[LAS 15-7] Gray Free Throw 1 of 1 (5 PTS),0,-80,3,,203833,,1611661320,7,15,1
+02:53,[LAS] Ogwumike Foul: Shooting (2 PF) (2 FTA),-111,37,6,1628932,203014,,1611661320,7,15,1
+02:53,[LVA 8-15] Wilson Free Throw 1 of 2 (5 PTS),0,-80,3,,1628932,,1611661319,8,15,1
+02:53,[LVA] McBride Substitution replaced by Prince,0,-80,8,,203825,202259,1611661319,8,15,1
+02:53,[LAS] Ogwumike Substitution replaced by Parker,0,-80,8,,203014,201496,1611661320,8,15,1
+02:53,[LVA 9-15] Wilson Free Throw 2 of 2 (6 PTS),0,-80,3,,1628932,,1611661319,9,15,1
+02:33,[LAS] Gray 3pt Shot: Missed,-61,257,2,1628932,203833,,1611661320,9,15,1
+02:30,[LVA] Hamby Rebound (Off:0 Def:3),-61,257,4,,204324,,1611661319,9,15,1
+02:27,[LVA] Young Pullup Jump shot: Missed,37,162,2,,201477,,1611661319,9,15,1
+02:22,[LAS] Gray Rebound (Off:0 Def:3),37,162,4,,203833,,1611661320,9,15,1
+02:21,[LVA] Plum Foul: Personal (1 PF),-135,115,6,203029,1628276,,1611661319,9,15,1
+02:21,[LVA] Young Substitution replaced by Young,0,-80,8,,201477,1629498,1611661319,9,15,1
+02:21,[LAS] Gray Substitution replaced by Wiese,0,-80,8,,203833,1628282,1611661320,9,15,1
+02:06,[LAS] Wiese 3pt Shot: Missed,-158,214,2,,1628282,,1611661320,9,15,1
+02:02,[LVA] Hamby Rebound (Off:0 Def:4),-158,214,4,,204324,,1611661319,9,15,1
+01:49,[LVA] Hamby Turnaround Fadeaway shot: Missed,57,44,2,,204324,,1611661319,9,15,1
+01:46,[LAS] Wiese Rebound (Off:0 Def:1),57,44,4,,1628282,,1611661320,9,15,1
+01:29,[LAS 17-9] Parker Driving Layup Shot: Made (2 PTS) Assist: Williams (1 AST),-46,37,1,,201496,203029,1611661320,9,17,1
+01:22,[LVA 12-17] Prince 3pt Shot: Made (3 PTS) Assist: Young (2 AST),124,201,1,,202259,1629498,1611661319,12,17,1
+01:05,[LAS] Ruffin-Pratt Pullup Jump shot: Missed,-35,149,2,,203437,,1611661320,12,17,1
+01:03,[LVA] Hamby Rebound (Off:0 Def:5),-35,149,4,,204324,,1611661319,12,17,1
+00:54.7,[LAS] Ogwumike Foul: Shooting (1 PF) (2 FTA),-43,37,6,1628932,203823,,1611661320,12,17,1
+00:54.7,[LVA 13-17] Wilson Free Throw 1 of 2 (7 PTS),0,-80,3,,1628932,,1611661319,13,17,1
+00:54.7,[LAS] Ruffin-Pratt Substitution replaced by Gray,0,-80,8,,203437,203833,1611661320,13,17,1
+00:54.7,[LVA 14-17] Wilson Free Throw 2 of 2 (8 PTS),0,-80,3,,1628932,,1611661319,14,17,1
+00:35.8,[LAS 20-14] Williams 3pt Shot: Made (11 PTS) Assist: Parker (3 AST),-172,199,1,,203029,201496,1611661320,14,20,1
+00:19.2,[LVA 16-20] Wilson Jump Shot: Made (10 PTS) Assist: Prince (1 AST),-73,173,1,,1628932,202259,1611661319,16,20,1
+00:00.7,[LAS 23-16] Williams 3pt Shot: Made (14 PTS) Assist: Gray (3 AST),-71,230,1,,203029,203833,1611661320,16,23,1
+00:00.0,End Period,0,-80,13,,0,,0,16,23,1
+10:00,Start Period,0,-80,12,,0,,0,16,23,2
+09:42,[LAS 26-16] Williams 3pt Shot: Made (17 PTS) Assist: Wiese (1 AST),-193,162,1,,203029,1628282,1611661320,16,26,2
+09:16,[LVA 18-26] Colson Pullup Jump shot: Made (2 PTS) Assist: Young (3 AST),-121,114,1,,202641,1629498,1611661319,18,26,2
+08:58,[LAS] Ogwumike Jump Shot: Missed,53,189,2,,203823,,1611661320,18,26,2
+08:54,[LVA] Cambage Rebound (Off:1 Def:2),53,189,4,,202633,,1611661319,18,26,2
+08:44,[LVA 21-26] Hamby 3pt Shot: Made (3 PTS) Assist: Young (4 AST),-157,184,1,,204324,1629498,1611661319,21,26,2
+08:20,[LAS] Wiese 3pt Shot: Missed,140,235,2,,1628282,,1611661320,21,26,2
+08:17,[LVA] Cambage Rebound (Off:1 Def:3),140,235,4,,202633,,1611661319,21,26,2
+08:09,[LVA 24-26] Prince 3pt Shot: Made (6 PTS) Assist: Cambage (1 AST),-106,230,1,,202259,202633,1611661319,24,26,2
+08:02,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,24,26,2
+08:02,[LVA] Prince Substitution replaced by McBride,0,-80,8,,202259,203825,1611661319,24,26,2
+07:46,[LAS 29-24] Williams 3pt Shot: Made (20 PTS) Assist: Ogwumike (1 AST),134,239,1,,203029,203823,1611661320,24,29,2
+07:35,[LVA] Young Pullup Jump shot: Missed,113,22,2,,1629498,,1611661319,24,29,2
+07:32,[LAS] Gray Rebound (Off:0 Def:4),113,22,4,,203833,,1611661320,24,29,2
+07:13,[LAS 31-24] Ogwumike Cutting Layup Shot: Made (2 PTS) Assist: Brown (1 AST),43,17,1,,203823,1629480,1611661320,24,31,2
+07:03,[LVA] McBride Turnover : Traveling (1 TO),35,275,5,,203825,,1611661319,24,31,2
+06:49,[LAS] Brown Turnaround Hook Shot: Missed,3,41,2,,1629480,,1611661320,24,31,2
+06:46,[LVA] Cambage Rebound (Off:1 Def:4),3,41,4,,202633,,1611661319,24,31,2
+06:42,[LAS] Brown Foul: Personal (1 PF),24,58,6,202633,1629480,,1611661320,24,31,2
+06:42,[LVA] Hamby Substitution replaced by Wilson,0,-80,8,,204324,1628932,1611661319,24,31,2
+06:42,[LAS] Wiese Substitution replaced by Ruffin-Pratt,0,-80,8,,1628282,203437,1611661320,24,31,2
+06:42,[LVA] Young Turnover : Out of Bounds - Bad Pass Turnover (2 TO),183,60,5,,1629498,,1611661319,24,31,2
+06:27,[LVA] Colson Foul: Shooting (1 PF) (3 FTA),58,260,6,203029,202641,,1611661319,24,31,2
+06:27,[LAS 32-24] Williams Free Throw 1 of 3 (21 PTS),0,-80,3,,203029,,1611661320,24,32,2
+06:27,[LVA] Young Substitution replaced by Young,0,-80,8,,1629498,201477,1611661319,24,32,2
+06:27,[LVA] Colson Substitution replaced by Plum,0,-80,8,,202641,1628276,1611661319,24,32,2
+06:27,[LAS 33-24] Williams Free Throw 2 of 3 (22 PTS),0,-80,3,,203029,,1611661320,24,33,2
+06:27,[LAS 34-24] Williams Free Throw 3 of 3 (23 PTS),0,-80,3,,203029,,1611661320,24,34,2
+06:19,[LVA 26-34] Cambage Driving Layup Shot: Made (2 PTS) Assist: Plum (1 AST),52,10,1,,202633,1628276,1611661319,26,34,2
+06:19,[LAS] Brown Foul: Shooting (2 PF) (1 FTA),52,10,6,202633,1629480,,1611661320,26,34,2
+06:19,[LAS] Brown Substitution replaced by Ogwumike,0,-80,8,,1629480,203014,1611661320,26,34,2
+06:19,[LVA 27-34] Cambage Free Throw 1 of 1 (3 PTS),0,-80,3,,202633,,1611661319,27,34,2
+06:02,[LAS] Williams 3pt Shot: Missed,30,247,2,,203029,,1611661320,27,34,2
+05:58,[LAS] Ogwumike Rebound (Off:1 Def:4),30,247,4,,203014,,1611661320,27,34,2
+05:58,[LAS 36-27] Ogwumike Putback Layup Shot: Made (4 PTS),0,-5,1,,203014,,1611661320,27,36,2
+05:53,[LVA] McBride Foul: Offensive Charge (2 PF),41,184,6,203014,203825,,1611661319,27,36,2
+05:53,[LVA] McBride Turnover : Offensive Foul Turnover (2 TO),41,184,5,,203825,,1611661319,27,36,2
+05:34,[LAS] Ogwumike Cutting Layup Shot: Missed,50,41,2,1628932,203014,,1611661320,27,36,2
+05:29,[LVA] Young Rebound (Off:0 Def:3),50,41,4,,201477,,1611661319,27,36,2
+05:25,[LAS] Ogwumike Foul: Shooting (2 PF) (2 FTA),53,56,6,202633,203823,,1611661320,27,36,2
+05:25,[LVA] Cambage Free Throw 1 of 2 Missed,0,-80,3,,202633,,1611661319,27,36,2
+05:25,[LVA] Team Rebound,0,-80,4,,0,,1611661319,27,36,2
+05:25,[LVA 28-36] Cambage Free Throw 2 of 2 (4 PTS),0,-80,3,,202633,,1611661319,28,36,2
+05:12,[LAS 38-28] Ogwumike Driving Floating Bank Jump Shot: Made (6 PTS),81,53,1,,203014,,1611661320,28,38,2
+05:04,[LVA] Cambage Driving Layup Shot: Missed,44,11,2,,202633,,1611661319,28,38,2
+05:04,[LVA] Wilson Rebound (Off:1 Def:1),44,11,4,,1628932,,1611661319,28,38,2
+04:59,[LVA 30-38] Wilson Tip Layup Shot: Made (12 PTS),0,-5,1,,1628932,,1611661319,30,38,2
+04:50,[LVA] Wilson Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,1628932,,1611661319,30,38,2
+04:50,[LAS 39-30] Gray Free Throw Technical (6 PTS),0,-80,3,,203833,,1611661320,30,39,2
+04:50,[LAS] Ogwumike Substitution replaced by Parker,0,-80,8,,203823,201496,1611661320,30,39,2
+04:40,[LAS] Gray Turnaround Fadeaway shot: Missed,42,86,2,,203833,,1611661320,30,39,2
+04:37,[LVA] Plum Rebound (Off:0 Def:1),42,86,4,,1628276,,1611661319,30,39,2
+04:28,[LVA] Young Pullup Jump shot: Missed,-59,172,2,,201477,,1611661319,30,39,2
+04:25,[LAS] Ogwumike Rebound (Off:1 Def:5),-59,172,4,,203014,,1611661320,30,39,2
+04:16,[LAS] Ogwumike Hook Shot: Missed,18,80,2,,203014,,1611661320,30,39,2
+04:13,[LVA] Young Rebound (Off:0 Def:4),18,80,4,,201477,,1611661319,30,39,2
+04:07,[LVA] Plum 3pt Shot: Missed,-102,246,2,,1628276,,1611661319,30,39,2
+04:04,[LAS] Parker Rebound (Off:0 Def:1),-102,246,4,,201496,,1611661320,30,39,2
+03:54,[LVA] Plum Foul: Personal (2 PF),142,87,6,203029,1628276,,1611661319,30,39,2
+03:43,[LAS] Gray 3pt Shot: Missed,-143,246,2,,203833,,1611661320,30,39,2
+03:39,[LVA] Young Rebound (Off:0 Def:5),-143,246,4,,201477,,1611661319,30,39,2
+03:35,[LVA] McBride 3pt Shot: Missed,-185,209,2,,203825,,1611661319,30,39,2
+03:35,[LVA] Team Rebound,-185,209,4,,0,,1611661319,30,39,2
+03:35,[LAS] Williams Substitution replaced by Wiese,0,-80,8,,203029,1628282,1611661320,30,39,2
+03:33,[LVA] Cambage Foul: Offensive Charge (2 PF),169,45,6,203437,202633,,1611661319,30,39,2
+03:33,[LVA] Cambage Turnover : Offensive Foul Turnover (3 TO),169,45,5,,202633,,1611661319,30,39,2
+03:11,[LAS] Ogwumike Driving Layup Shot: Missed,22,20,2,202633,203014,,1611661320,30,39,2
+03:07,[LVA] Young Rebound (Off:0 Def:6),22,20,4,,201477,,1611661319,30,39,2
+03:04,[LVA] McBride 3pt Shot: Missed,-154,206,2,,203825,,1611661319,30,39,2
+03:02,[LVA] Team Rebound,-154,206,4,,0,,1611661319,30,39,2
+03:02,[LVA] Plum Substitution replaced by Young,0,-80,8,,1628276,1629498,1611661319,30,39,2
+03:02,[LVA] McBride Substitution replaced by Prince,0,-80,8,,203825,202259,1611661319,30,39,2
+03:01,[LVA] Cambage Foul: Offensive Charge (3 PF),-125,125,6,203014,202633,,1611661319,30,39,2
+03:01,[LVA] Cambage Turnover : Offensive Foul Turnover (4 TO),-125,125,5,,202633,,1611661319,30,39,2
+03:01,[LVA] Cambage Substitution replaced by Hamby,0,-80,8,,202633,204324,1611661319,30,39,2
+02:41,[LAS 41-30] Ogwumike Cutting Layup Shot: Made (8 PTS) Assist: Gray (4 AST),22,25,1,,203014,203833,1611661320,30,41,2
+02:26,[LVA] Wilson Turnover : Bad Pass (1 TO) Steal:Parker (1 ST),-67,180,5,201496,1628932,,1611661319,30,41,2
+02:20,[LAS] Parker Turnover : Lost Ball (1 TO) Steal:Wilson (1 ST),74,107,5,1628932,201496,,1611661320,30,41,2
+02:14,[LVA] Wilson Step Back Jump shot: Missed,-121,37,2,,1628932,,1611661319,30,41,2
+02:08,[LAS] Ogwumike Rebound (Off:1 Def:6),-121,37,4,,203014,,1611661320,30,41,2
+01:48,[LAS] Gray Driving Layup Shot: Missed,-26,11,2,,203833,,1611661320,30,41,2
+01:48,[LVA] Team Rebound,-26,11,4,,0,,1611661319,30,41,2
+01:48,[LAS] Ogwumike Foul: Loose Ball (3 PF),26,824,6,204324,203014,,1611661320,30,41,2
+01:48,Timeout Officials,0,-80,9,,0,,0,30,41,2
+01:48,[LAS] Wiese Substitution replaced by Williams,0,-80,8,,1628282,203029,1611661320,30,41,2
+01:48,[LAS] Ogwumike Substitution replaced by Ogwumike,0,-80,8,,203014,203823,1611661320,30,41,2
+01:39,[LVA 32-41] Prince Jump Shot: Made (8 PTS) Assist: Young (5 AST),-171,-10,1,,202259,1629498,1611661319,32,41,2
+01:16,[LAS] Williams Pullup Jump shot: Missed,156,117,2,,203029,,1611661320,32,41,2
+01:16,[LAS] Ogwumike Rebound (Off:1 Def:0),156,117,4,,203823,,1611661320,32,41,2
+01:15,[LAS 43-32] Ogwumike Layup Shot: Made (4 PTS),14,13,1,,203823,,1611661320,32,43,2
+01:15,[LVA] Prince Foul: Shooting (1 PF) (1 FTA),14,13,6,203823,202259,,1611661319,32,43,2
+01:15,[LAS 44-32] Ogwumike Free Throw 1 of 1 (5 PTS),0,-80,3,,203823,,1611661320,32,44,2
+00:53.4,[LVA 34-44] Young Driving Layup Shot: Made (2 PTS),42,42,1,,201477,,1611661319,34,44,2
+00:39.8,[LAS] Parker Driving Layup Shot: Missed,52,31,2,,201496,,1611661320,34,44,2
+00:37.3,[LVA] Wilson Rebound (Off:1 Def:2),52,31,4,,1628932,,1611661319,34,44,2
+00:31.4,[LVA] Wilson Turnaround Jump Shot: Missed,-26,107,2,,1628932,,1611661319,34,44,2
+00:27.9,[LVA] Hamby Rebound (Off:1 Def:5),-26,107,4,,204324,,1611661319,34,44,2
+00:27.6,[LVA] Hamby Putback Layup Shot: Missed,34,10,2,,204324,,1611661319,34,44,2
+00:27.6,[LVA] Hamby Rebound (Off:2 Def:5),34,10,4,,204324,,1611661319,34,44,2
+00:24.2,[LVA 36-44] Hamby Putback Layup Shot: Made (5 PTS),-13,13,1,,204324,,1611661319,36,44,2
+00:03.9,[LAS] Team Turnover : Shot Clock Turnover,-171,223,5,,0,,1611661320,36,44,2
+00:00.0,[LVA] Prince 3pt Shot: Missed,153,343,2,,202259,,1611661319,36,44,2
+00:00.0,[LVA] Team Rebound,153,343,4,,0,,1611661319,36,44,2
+00:00.0,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,36,44,2
+00:00.0,End Period,0,-80,13,,0,,0,36,44,2
+10:00,Start Period,0,-80,12,,0,,0,36,44,3
+09:43,[LAS 46-36] Brown Cutting Layup Shot: Made (2 PTS) Assist: Williams (2 AST),-31,12,1,,1629480,203029,1611661320,36,46,3
+09:35,[LAS] Ruffin-Pratt Foul: Shooting (1 PF) (2 FTA),-47,14,6,203825,203437,,1611661320,36,46,3
+09:35,[LVA 37-46] McBride Free Throw 1 of 2 (4 PTS),0,-80,3,,203825,,1611661319,37,46,3
+09:35,[LVA 38-46] McBride Free Throw 2 of 2 (5 PTS),0,-80,3,,203825,,1611661319,38,46,3
+09:20,[LAS] Williams 3pt Shot: Missed,215,101,2,,203029,,1611661320,38,46,3
+09:17,[LVA] Wilson Rebound (Off:1 Def:3),215,101,4,,1628932,,1611661319,38,46,3
+09:11,[LVA 40-46] Wilson Jump Shot: Made (14 PTS) Assist: Young (2 AST),-61,169,1,,1628932,201477,1611661319,40,46,3
+08:52,[LAS] Gray Pullup Jump shot: Missed,-134,135,2,,203833,,1611661320,40,46,3
+08:48,[LVA] Wilson Rebound (Off:1 Def:4),-134,135,4,,1628932,,1611661319,40,46,3
+08:36,[LVA] Wilson Step Back Jump shot: Missed,-49,143,2,,1628932,,1611661319,40,46,3
+08:36,[LAS] Team Rebound,-49,143,4,,0,,1611661320,40,46,3
+08:18,[LAS 48-40] Ruffin-Pratt Driving Layup Shot: Made (2 PTS) Assist: Parker (4 AST),48,17,1,,203437,201496,1611661320,40,48,3
+08:09,[LVA] McBride 3pt Shot: Missed,-171,194,2,,203825,,1611661319,40,48,3
+08:03,[LVA] Wilson Rebound (Off:2 Def:4),-171,194,4,,1628932,,1611661319,40,48,3
+08:03,[LVA 42-48] Wilson Putback Layup Shot: Made (16 PTS),0,-5,1,,1628932,,1611661319,42,48,3
+07:43,[LAS] Brown Driving Layup Shot: Missed,-47,37,2,,1629480,,1611661320,42,48,3
+07:40,[LVA] Wilson Rebound (Off:2 Def:5),-47,37,4,,1628932,,1611661319,42,48,3
+07:34,[LVA] Young 3pt Shot: Missed,-147,191,2,,1629498,,1611661319,42,48,3
+07:32,[LAS] Team Rebound,-147,191,4,,0,,1611661320,42,48,3
+07:22,[LAS 51-42] Parker 3pt Shot: Made (5 PTS) Assist: Ruffin-Pratt (1 AST),78,232,1,,201496,203437,1611661320,42,51,3
+07:11,[LVA] Wilson Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-141,62,5,,1628932,,1611661319,42,51,3
+07:00,[LAS] Gray 3pt Shot: Missed,71,237,2,,203833,,1611661320,42,51,3
+06:55,[LVA] Young Rebound (Off:0 Def:1),71,237,4,,1629498,,1611661319,42,51,3
+06:49,[LAS] Ruffin-Pratt Foul: Shooting (2 PF) (2 FTA),92,17,6,1628932,203437,,1611661320,42,51,3
+06:49,[LVA 43-51] Wilson Free Throw 1 of 2 (17 PTS),0,-80,3,,1628932,,1611661319,43,51,3
+06:49,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,43,51,3
+06:46,[LVA] Cambage Rebound (Off:2 Def:4),0,-80,4,,202633,,1611661319,43,51,3
+06:44,[LVA] Cambage Jump Shot: Missed,47,87,2,,202633,,1611661319,43,51,3
+06:42,[LAS] Parker Rebound (Off:0 Def:2),47,87,4,,201496,,1611661320,43,51,3
+06:33,[LAS] Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),193,161,5,,203029,,1611661320,43,51,3
+06:19,[LVA] Young Pullup Jump shot: Missed,93,78,2,,201477,,1611661319,43,51,3
+06:16,[LAS] Ruffin-Pratt Rebound (Off:0 Def:2),93,78,4,,203437,,1611661320,43,51,3
+06:09,[LAS 54-43] Parker 3pt Shot: Made (8 PTS),152,193,1,,201496,,1611661320,43,54,3
+05:46,[LVA] Cambage Cutting Layup Shot: Missed,-37,27,2,1629480,202633,,1611661319,43,54,3
+05:44,[LVA] Young Rebound (Off:1 Def:6),-37,27,4,,201477,,1611661319,43,54,3
+05:44,[LAS] Ruffin-Pratt Foul: Shooting (3 PF) (2 FTA),-119,6,6,1628932,203437,,1611661320,43,54,3
+05:44,[LVA 44-54] Wilson Free Throw 1 of 2 (18 PTS),0,-80,3,,1628932,,1611661319,44,54,3
+05:44,[LVA] Young Substitution replaced by Plum,0,-80,8,,1629498,1628276,1611661319,44,54,3
+05:44,[LVA 45-54] Wilson Free Throw 2 of 2 (19 PTS),0,-80,3,,1628932,,1611661319,45,54,3
+05:24,[LAS] Williams Step Back Jump shot: Missed,128,54,2,,203029,,1611661320,45,54,3
+05:20,[LVA] Young Rebound (Off:1 Def:7),128,54,4,,201477,,1611661319,45,54,3
+05:13,[LVA] Cambage Jump Shot: Missed,-13,182,2,,202633,,1611661319,45,54,3
+05:10,[LAS] Parker Rebound (Off:0 Def:3),-13,182,4,,201496,,1611661320,45,54,3
+05:03,[LAS 56-45] Parker Turnaround Hook Shot: Made (10 PTS),14,87,1,,201496,,1611661320,45,56,3
+04:53,[LVA 47-56] Cambage Layup Shot: Made (6 PTS) Assist: Young (3 AST),22,41,1,,202633,201477,1611661319,47,56,3
+04:53,[LAS] Brown Foul: Shooting (3 PF) (1 FTA),22,41,6,202633,1629480,,1611661320,47,56,3
+04:53,Timeout Officials,0,-80,9,,0,,0,47,56,3
+04:53,[LVA] McBride Substitution replaced by Prince,0,-80,8,,203825,202259,1611661319,47,56,3
+04:53,[LVA] Wilson Substitution replaced by Hamby,0,-80,8,,1628932,204324,1611661319,47,56,3
+04:53,[LVA] Cambage Free Throw 1 of 1 Missed,0,-80,3,,202633,,1611661319,47,56,3
+04:51,[LAS] Parker Rebound (Off:0 Def:4),0,-80,4,,201496,,1611661320,47,56,3
+04:31,[LAS 58-47] Parker Step Back Jump shot: Made (12 PTS),-24,185,1,,201496,,1611661320,47,58,3
+04:16,[LVA] Cambage Turnaround Jump Shot: Missed,50,103,2,,202633,,1611661319,47,58,3
+04:14,[LAS] Parker Rebound (Off:0 Def:5),50,103,4,,201496,,1611661320,47,58,3
+04:00,[LAS 60-47] Brown Driving Hook Shot: Made (4 PTS) Assist: Gray (5 AST),55,35,1,,1629480,203833,1611661320,47,60,3
+04:00,[LVA] Young Foul: Shooting (2 PF) (1 FTA),55,35,6,1629480,201477,,1611661319,47,60,3
+04:00,[LAS] Brown Free Throw 1 of 1 Missed,0,-80,3,,1629480,,1611661320,47,60,3
+03:56,[LVA] Hamby Rebound (Off:2 Def:6),0,-80,4,,204324,,1611661319,47,60,3
+03:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,60,3
+03:55,[LAS] Ruffin-Pratt Substitution replaced by Wiese,0,-80,8,,203437,1628282,1611661320,47,60,3
+03:43,[LVA 49-60] Plum Driving Layup Shot: Made (2 PTS),-30,10,1,,1628276,,1611661319,49,60,3
+03:38,[LVA] Young Foul: Personal (3 PF),147,249,6,203029,201477,,1611661319,49,60,3
+03:30,[LAS] Parker Driving Layup Shot: Missed,-54,32,2,,201496,,1611661320,49,60,3
+03:26,[LVA] Cambage Rebound (Off:2 Def:5),-54,32,4,,202633,,1611661319,49,60,3
+03:26,[LAS] Parker Technical (1 FTA),0,-80,6,,201496,,1611661320,49,60,3
+03:26,[LVA 50-60] Plum Free Throw Technical (3 PTS),0,-80,3,,1628276,,1611661319,50,60,3
+03:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,60,3
+03:11,[LVA] Young Driving Layup Shot: Missed,23,4,2,,201477,,1611661319,50,60,3
+03:09,[LAS] Brown Rebound (Off:0 Def:1),23,4,4,,1629480,,1611661320,50,60,3
+02:57,[LVA] Prince Foul: Shooting (2 PF) (2 FTA),42,18,6,203029,202259,,1611661319,50,60,3
+02:57,[LAS] Williams Free Throw 1 of 2 Missed,0,-80,3,,203029,,1611661320,50,60,3
+02:57,[LAS] Team Rebound,0,-80,4,,0,,1611661320,50,60,3
+02:57,[LVA] Young Substitution replaced by McBride,0,-80,8,,201477,203825,1611661319,50,60,3
+02:57,[LAS 61-50] Williams Free Throw 2 of 2 (24 PTS),0,-80,3,,203029,,1611661320,50,61,3
+02:47,[LVA 52-61] Cambage Driving Layup Shot: Made (8 PTS) Assist: Plum (2 AST),22,8,1,,202633,1628276,1611661319,52,61,3
+02:38,[LAS] Williams Step Back Jump shot: Missed,-129,98,2,,203029,,1611661320,52,61,3
+02:33,[LAS] Brown Rebound (Off:1 Def:1),-129,98,4,,1629480,,1611661320,52,61,3
+02:33,[LAS 63-52] Brown Putback Layup Shot: Made (6 PTS),0,-5,1,,1629480,,1611661320,52,63,3
+02:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,63,3
+02:26,[LAS] Parker Substitution replaced by Ogwumike,0,-80,8,,201496,203823,1611661320,52,63,3
+02:17,[LVA 54-63] Prince Pullup Jump shot: Made (10 PTS),-69,188,1,,202259,,1611661319,54,63,3
+01:54,[LVA] McBride Foul: Shooting (3 PF) (3 FTA),-196,207,6,203029,203825,,1611661319,54,63,3
+01:54,[LAS 64-54] Williams Free Throw 1 of 3 (25 PTS),0,-80,3,,203029,,1611661320,54,64,3
+01:54,[LAS 65-54] Williams Free Throw 2 of 3 (26 PTS),0,-80,3,,203029,,1611661320,54,65,3
+01:54,[LVA] Cambage Substitution replaced by Wilson,0,-80,8,,202633,1628932,1611661319,54,65,3
+01:54,[LAS] Brown Substitution replaced by Vadeeva,0,-80,8,,1629480,1628926,1611661320,54,65,3
+01:54,[LAS 66-54] Williams Free Throw 3 of 3 (27 PTS),0,-80,3,,203029,,1611661320,54,66,3
+01:49,[LVA 56-66] Hamby Cutting Layup Shot: Made (7 PTS) Assist: Plum (3 AST),-13,14,1,,204324,1628276,1611661319,56,66,3
+01:49,[LVA] Team Violation : Delay Of Game,0,-80,7,,0,,1611661319,56,66,3
+01:28,[LAS] Williams Pullup Jump shot: Missed,-7,157,2,,203029,,1611661320,56,66,3
+01:24,[LVA] Wilson Rebound (Off:2 Def:6),-7,157,4,,1628932,,1611661319,56,66,3
+01:17,[LVA] Plum 3pt Shot: Missed,-131,216,2,,1628276,,1611661319,56,66,3
+01:14,[LAS] Ogwumike Rebound (Off:1 Def:1),-131,216,4,,203823,,1611661320,56,66,3
+01:01,[LAS] Gray Driving Layup Shot: Missed,52,23,2,,203833,,1611661320,56,66,3
+00:58.6,[LVA] Plum Rebound (Off:0 Def:2),52,23,4,,1628276,,1611661319,56,66,3
+00:56.5,[LVA 58-66] Hamby Cutting Layup Shot: Made (9 PTS) Assist: Plum (4 AST),36,9,1,,204324,1628276,1611661319,58,66,3
+00:36.5,[LAS] Vadeeva Jump Shot: Missed,-46,86,2,1628932,1628926,,1611661320,58,66,3
+00:32.0,[LVA] Hamby Rebound (Off:2 Def:7),-46,86,4,,204324,,1611661319,58,66,3
+00:21.4,[LVA] Prince Driving Layup Shot: Missed,23,75,2,,202259,,1611661319,58,66,3
+00:17.7,[LAS] Team Rebound,23,75,4,,0,,1611661320,58,66,3
+00:17.7,Jump Ball Vadeeva vs Wilson (Williams gains possession),0,-80,10,1628932,1628926,203029,1611661320,58,66,3
+00:15.5,[LAS] Wiese Cutting Layup Shot: Missed,-46,47,2,202259,1628282,,1611661320,58,66,3
+00:15.5,[LAS] Team Rebound,-46,47,4,,0,,1611661320,58,66,3
+00:15.5,[LAS] Ogwumike Substitution replaced by Parker,0,-80,8,,203823,201496,1611661320,58,66,3
+00:15.5,[LVA] Prince Substitution replaced by Young,0,-80,8,,202259,201477,1611661319,58,66,3
+00:01.9,[LAS] Gray Driving Layup Shot: Missed,-52,28,2,,203833,,1611661320,58,66,3
+00:01.9,[LVA] Hamby Rebound (Off:2 Def:8),-52,28,4,,204324,,1611661319,58,66,3
+00:00.8,[LVA] Hamby 3pt Shot: Missed,-10,525,2,,204324,,1611661319,58,66,3
+00:00.8,[LVA] Team Rebound,-10,525,4,,0,,1611661319,58,66,3
+00:00.0,End Period,0,-80,13,,0,,0,58,66,3
+10:00,Start Period,0,-80,12,,0,,0,58,66,4
+09:44,[LVA 60-66] McBride Pullup Jump shot: Made (7 PTS) Assist: Wilson (1 AST),-60,199,1,,203825,1628932,1611661319,60,66,4
+09:26,[LVA] McBride Foul: Personal (4 PF),42,203,6,203437,203825,,1611661319,60,66,4
+09:19,[LVA] Young Foul: Personal (4 PF),139,45,6,203833,201477,,1611661319,60,66,4
+09:10,[LAS] Gray Jump Shot: Missed,144,50,2,,203833,,1611661320,60,66,4
+09:06,[LVA] Hamby Rebound (Off:2 Def:9),144,50,4,,204324,,1611661319,60,66,4
+08:57,[LVA 62-66] Plum Driving Layup Shot: Made (5 PTS),-32,17,1,,1628276,,1611661319,62,66,4
+08:47,[LAS] Ruffin-Pratt Fadeaway Jump Shot: Missed,114,81,2,,203437,,1611661320,62,66,4
+08:43,[LVA] Wilson Rebound (Off:2 Def:7),114,81,4,,1628932,,1611661319,62,66,4
+08:29,[LVA 64-66] Wilson Pullup Jump shot: Made (21 PTS) Assist: McBride (1 AST),-28,150,1,,1628932,203825,1611661319,64,66,4
+08:11,[LAS] Parker Floating Jump shot: Missed,-23,126,2,,201496,,1611661320,64,66,4
+08:07,[LVA] McBride Rebound (Off:0 Def:2),-23,126,4,,203825,,1611661319,64,66,4
+08:05,[LAS] Ogwumike Foul: Shooting (3 PF) (2 FTA),92,19,6,203825,203823,,1611661320,64,66,4
+08:05,[LVA 65-66] McBride Free Throw 1 of 2 (8 PTS),0,-80,3,,203825,,1611661319,65,66,4
+08:05,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,65,66,4
+08:05,[LVA] McBride Free Throw 2 of 2 Missed,0,-80,3,,203825,,1611661319,65,66,4
+08:02,[LAS] Ruffin-Pratt Rebound (Off:0 Def:3),0,-80,4,,203437,,1611661320,65,66,4
+07:49,[LAS] Wiese 3pt Shot: Missed,4,273,2,,1628282,,1611661320,65,66,4
+07:43,[LAS] Ogwumike Rebound (Off:2 Def:1),4,273,4,,203823,,1611661320,65,66,4
+07:43,[LAS 68-65] Ogwumike Putback Layup Shot: Made (7 PTS),0,-5,1,,203823,,1611661320,65,68,4
+07:31,[LAS] Ruffin-Pratt Foul: Shooting (4 PF) (2 FTA),46,17,6,204324,203437,,1611661320,65,68,4
+07:31,[LVA 66-68] Hamby Free Throw 1 of 2 (10 PTS),0,-80,3,,204324,,1611661319,66,68,4
+07:31,[LAS] Wiese Substitution replaced by Williams,0,-80,8,,1628282,203029,1611661320,66,68,4
+07:31,[LVA] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661319,66,68,4
+07:28,[LAS] Parker Rebound (Off:0 Def:6),0,-80,4,,201496,,1611661320,66,68,4
+07:11,[LAS 70-66] Parker Floating Jump shot: Made (14 PTS) Assist: Gray (6 AST),-51,77,1,,201496,203833,1611661320,66,70,4
+07:05,[LAS] Gray Foul: Shooting (1 PF) (2 FTA),-83,60,6,1628276,203833,,1611661320,66,70,4
+07:05,[LVA 67-70] Plum Free Throw 1 of 2 (6 PTS),0,-80,3,,1628276,,1611661319,67,70,4
+07:05,[LVA] Plum Free Throw 2 of 2 Missed,0,-80,3,,1628276,,1611661319,67,70,4
+07:03,[LVA] Wilson Rebound (Off:3 Def:7),0,-80,4,,1628932,,1611661319,67,70,4
+07:01,[LVA 70-70] McBride 3pt Shot: Made (11 PTS) Assist: Hamby (1 AST),96,245,1,,203825,204324,1611661319,70,70,4
+06:33,[LAS] Parker 3pt Shot: Missed,-108,232,2,,201496,,1611661320,70,70,4
+06:30,[LVA] Plum Rebound (Off:0 Def:3),-108,232,4,,1628276,,1611661319,70,70,4
+06:25,[LAS] Ogwumike Foul: Personal (4 PF),-52,99,6,1628932,203823,,1611661320,70,70,4
+06:21,[LVA 72-70] Plum Pullup Jump shot: Made (8 PTS) Assist: Young (4 AST),-70,144,1,,1628276,201477,1611661319,72,70,4
+06:02,[LAS 72-72] Ogwumike Cutting Layup Shot: Made (9 PTS) Assist: Ruffin-Pratt (2 AST),36,16,1,,203823,203437,1611661320,72,72,4
+05:50,[LVA 74-72] Wilson Turnaround Jump Shot: Made (23 PTS),54,122,1,,1628932,,1611661319,74,72,4
+05:34,[LAS] Ogwumike 3pt Shot: Missed,106,222,2,,203823,,1611661320,74,72,4
+05:31,[LVA] Hamby Rebound (Off:2 Def:10),106,222,4,,204324,,1611661319,74,72,4
+05:28,[LAS] Ogwumike Foul: Shooting (5 PF) (2 FTA),47,-7,6,1628276,203823,,1611661320,74,72,4
+05:28,[LVA 75-72] Plum Free Throw 1 of 2 (9 PTS),0,-80,3,,1628276,,1611661319,75,72,4
+05:28,[LAS] Ogwumike Substitution replaced by Brown,0,-80,8,,203823,1629480,1611661320,75,72,4
+05:28,[LVA 76-72] Plum Free Throw 2 of 2 (10 PTS),0,-80,3,,1628276,,1611661319,76,72,4
+05:04,[LAS] Team Turnover : Shot Clock Turnover,121,129,5,,0,,1611661320,76,72,4
+05:04,[LVA] Young Substitution replaced by Cambage,0,-80,8,,201477,202633,1611661319,76,72,4
+04:54,[LVA 78-72] Plum Pullup Jump shot: Made (12 PTS),-110,101,1,,1628276,,1611661319,78,72,4
+04:41,[LAS] Williams 3pt Shot: Missed,159,187,2,,203029,,1611661320,78,72,4
+04:38,[LVA] Wilson Rebound (Off:3 Def:8),159,187,4,,1628932,,1611661319,78,72,4
+04:32,[LVA 81-72] McBride 3pt Shot: Made (14 PTS) Assist: Plum (5 AST),-231,6,1,,203825,1628276,1611661319,81,72,4
+04:32,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,81,72,4
+04:20,[LAS] Parker 3pt Shot: Missed,138,217,2,,201496,,1611661320,81,72,4
+04:18,[LVA] Team Rebound,138,217,4,,0,,1611661319,81,72,4
+04:12,[LVA 84-72] Plum 3pt Shot: Made (15 PTS),-111,214,1,,1628276,,1611661319,84,72,4
+03:55,[LAS 74-84] Williams Pullup Jump shot: Made (29 PTS),124,8,1,,203029,,1611661320,84,74,4
+03:44,[LVA] Wilson Turnover : Step Out of Bounds Turnover (3 TO),-102,17,5,,1628932,,1611661319,84,74,4
+03:22,[LAS 77-84] Williams 3pt Shot: Made (32 PTS),-156,269,1,,203029,,1611661320,84,77,4
+03:04,[LVA] Wilson Jump Shot: Missed,-64,176,2,,1628932,,1611661319,84,77,4
+03:03,[LVA] Team Rebound,-64,176,4,,0,,1611661319,84,77,4
+02:59,[LVA 86-77] Plum Pullup Jump shot: Made (17 PTS),53,124,1,,1628276,,1611661319,86,77,4
+02:39,[LAS 80-86] Gray 3pt Shot: Made (9 PTS) Assist: Parker (5 AST),137,230,1,,203833,201496,1611661320,86,80,4
+02:29,[LVA] Cambage Driving Layup Shot: Missed,-27,5,2,,202633,,1611661319,86,80,4
+02:25,[LAS] Brown Rebound (Off:1 Def:2),-27,5,4,,1629480,,1611661320,86,80,4
+02:18,[LVA] Plum Foul: Shooting (3 PF) (2 FTA),50,29,6,203833,1628276,,1611661319,86,80,4
+02:18,[LAS 81-86] Gray Free Throw 1 of 2 (10 PTS),0,-80,3,,203833,,1611661320,86,81,4
+02:18,[LAS] Gray Free Throw 2 of 2 Missed,0,-80,3,,203833,,1611661320,86,81,4
+02:15,[LVA] Cambage Rebound (Off:2 Def:6),0,-80,4,,202633,,1611661319,86,81,4
+02:07,[LAS] Parker Foul: Shooting (3 PF) (2 FTA),56,119,6,1628932,201496,,1611661320,86,81,4
+02:07,[LVA 87-81] Wilson Free Throw 1 of 2 (24 PTS),0,-80,3,,1628932,,1611661319,87,81,4
+02:07,[LVA] Wilson Free Throw 2 of 2 Missed,0,-80,3,,1628932,,1611661319,87,81,4
+02:05,[LVA] Cambage Rebound (Off:3 Def:6),0,-80,4,,202633,,1611661319,87,81,4
+01:54,[LVA 89-81] Plum Pullup Jump shot: Made (19 PTS),-74,153,1,,1628276,,1611661319,89,81,4
+01:42,[LAS] Parker 3pt Shot: Missed,-115,233,2,,201496,,1611661320,89,81,4
+01:38,[LVA] Wilson Rebound (Off:3 Def:9),-115,233,4,,1628932,,1611661319,89,81,4
+01:19,[LVA] Plum Pullup Jump shot: Missed,-108,130,2,,1628276,,1611661319,89,81,4
+01:18,[LVA] Team Rebound,-108,130,4,,0,,1611661319,89,81,4
+01:18,[LAS] Gray Foul: Away From Play (2 PF) (1 FTA),58,16,6,1628276,203833,,1611661320,89,81,4
+01:18,[LVA 90-81] Plum Free Throw 1 of 1 (20 PTS),0,-80,3,,1628276,,1611661319,90,81,4
+01:16,[LVA] Cambage Turnover : Lost Ball (5 TO) Steal:Williams (1 ST),-47,-7,5,203029,202633,,1611661319,90,81,4
+00:59.7,[LAS] Brown Turnover : Traveling (1 TO),-97,55,5,,1629480,,1611661320,90,81,4
+00:48.7,[LVA] Cambage Turnover : Traveling (6 TO),117,43,5,,202633,,1611661319,90,81,4
+00:48.7,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,90,81,4
+00:43.6,[LVA] McBride Foul: Shooting (5 PF) (3 FTA),26,268,6,203029,203825,,1611661319,90,81,4
+00:43.6,[LAS 82-90] Williams Free Throw 1 of 3 (33 PTS),0,-80,3,,203029,,1611661320,90,82,4
+00:43.6,[LAS 83-90] Williams Free Throw 2 of 3 (34 PTS),0,-80,3,,203029,,1611661320,90,83,4
+00:43.6,[LAS] Brown Substitution replaced by Ogwumike,0,-80,8,,1629480,203823,1611661320,90,83,4
+00:43.6,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,90,83,4
+00:43.6,[LVA] Cambage Substitution replaced by Young,0,-80,8,,202633,201477,1611661319,90,83,4
+00:43.6,[LAS 84-90] Williams Free Throw 3 of 3 (35 PTS),0,-80,3,,203029,,1611661320,90,84,4
+00:39.7,[LVA] Wilson Turnover : Bad Pass (4 TO) Steal:Ogwumike (1 ST),-64,91,5,203823,1628932,,1611661319,90,84,4
+00:33.8,[LAS] Gray Turnover : Traveling (1 TO),-6,101,5,,203833,,1611661320,90,84,4
+00:29.8,Jump Ball Young vs Gray (McBride gains possession),0,-80,10,203833,201477,203825,1611661319,90,84,4
+00:29.8,[LVA] McBride Turnover : Jump Ball Violation (3 TO),0,-80,5,,203825,,1611661319,90,84,4
+00:22.2,[LAS 86-90] Williams Floating Jump shot: Made (37 PTS) Assist: Gray (7 AST),21,153,1,,203029,203833,1611661320,90,86,4
+00:22.1,[LVA] Team Timeout : Short,0,-80,9,,1611661319,,1611661319,90,86,4
+00:21.6,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,90,86,4
+00:15.5,[LAS] Parker Foul: Personal (4 PF) (2 FTA),-147,225,6,204324,201496,,1611661320,90,86,4
+00:15.5,[LVA 91-86] Hamby Free Throw 1 of 2 (11 PTS),0,-80,3,,204324,,1611661319,91,86,4
+00:15.5,[LVA 92-86] Hamby Free Throw 2 of 2 (12 PTS),0,-80,3,,204324,,1611661319,92,86,4
+00:08.6,[LAS] Williams 3pt Shot: Missed,191,145,2,,203029,,1611661320,92,86,4
+00:07.5,[LVA] Young Rebound (Off:1 Def:8),191,145,4,,201477,,1611661319,92,86,4
+00:07.5,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,92,86,4
+00:06.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,92,86,4
+00:06.2,Instant Replay - Support Ruling,0,-80,18,,0,,0,92,86,4
+00:06.2,[LVA] Team Turnover : 5 Second Violation,192,273,5,,0,,1611661319,92,86,4
+00:06.2,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,92,86,4
+00:02.6,[LAS] Williams 3pt Shot: Missed,186,166,2,,203029,,1611661320,92,86,4
+00:02.6,[LVA] Team Rebound,186,166,4,,0,,1611661319,92,86,4
+00:00.0,End Period,0,-80,13,,0,,0,92,86,4
+00:00.0,Game End,0,-80,0,,0,,0,92,86,4

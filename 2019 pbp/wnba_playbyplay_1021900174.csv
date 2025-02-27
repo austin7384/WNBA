@@ -1,0 +1,367 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:57,Jump Ball McCowan vs Howard (Wheeler gains possession),0,-80,10,203827,1629479,204365,1611661325,0,0,1
+09:37,[IND] Dupree Jump Shot: Missed,-119,6,2,,200676,,1611661325,0,0,1
+09:37,[SEA] Team Rebound,-119,6,4,,0,,1611661328,0,0,1
+09:23,[SEA] Canada Turnover : Bad Pass (1 TO) Steal:Burke (1 ST),-156,273,5,1629568,1628886,,1611661328,0,0,1
+09:01,[IND 2-0] Dupree Jump Bank Shot: Made (2 PTS) Assist: McCowan (1 AST),43,21,1,,200676,1629479,1611661325,0,2,1
+08:44,[SEA] Howard Jump Bank Shot: Missed,-64,32,2,,203827,,1611661328,0,2,1
+08:42,[IND] McCowan Rebound (Off:0 Def:1),-64,32,4,,1629479,,1611661325,0,2,1
+08:37,[IND] Wheeler Turnover : Lost Ball (1 TO) Steal:Russell (1 ST),51,81,5,1628920,204365,,1611661325,0,2,1
+08:34,[IND] Wheeler Foul: Shooting (1 PF) (2 FTA),-40,62,6,1628886,204365,,1611661325,0,2,1
+08:34,[SEA 1-2] Canada Free Throw 1 of 2 (1 PTS),0,-80,3,,1628886,,1611661328,1,2,1
+08:34,[SEA 2-2] Canada Free Throw 2 of 2 (2 PTS),0,-80,3,,1628886,,1611661328,2,2,1
+08:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,2,1
+08:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,2,1
+08:15,[IND] Burke 3pt Shot: Missed,-227,16,2,,1629568,,1611661325,2,2,1
+08:12,[SEA] Clark Rebound (Off:0 Def:1),-227,16,4,,202252,,1611661328,2,2,1
+08:01,[SEA 4-2] Russell Turnaround Hook Shot: Made (2 PTS),2,90,1,,1628920,,1611661328,4,2,1
+07:38,[IND] McCowan Jump Shot: Missed,-65,65,2,,1629479,,1611661325,4,2,1
+07:35,[SEA] Howard Rebound (Off:0 Def:1),-65,65,4,,203827,,1611661328,4,2,1
+07:29,[SEA 7-2] Howard 3pt Shot: Made (3 PTS),-164,188,1,,203827,,1611661328,7,2,1
+07:06,[SEA] Canada Foul: Personal (1 PF),203,164,6,204365,1628886,,1611661328,7,2,1
+07:02,[IND] Dupree Turnover : Bad Pass (1 TO) Steal:Loyd (1 ST),169,100,5,204319,200676,,1611661325,7,2,1
+06:55,[SEA 10-2] Howard 3pt Shot: Made (6 PTS) Assist: Canada (1 AST),9,241,1,,203827,1628886,1611661328,10,2,1
+06:44,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,10,2,1
+06:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,2,1
+06:23,[IND 4-10] Dupree Pullup Jump shot: Made (4 PTS) Assist: Wheeler (1 AST),131,135,1,,200676,204365,1611661325,10,4,1
+05:59,[SEA] Loyd Driving Floating Jump Shot: Missed,26,29,2,,204319,,1611661328,10,4,1
+05:57,[SEA] Russell Rebound (Off:1 Def:0),26,29,4,,1628920,,1611661328,10,4,1
+05:57,[SEA] Russell Turnover : Out of Bounds Lost Ball Turnover (1 TO),-175,24,5,,1628920,,1611661328,10,4,1
+05:45,[IND] Dupree Jump Shot: Missed,58,196,2,,200676,,1611661325,10,4,1
+05:42,[SEA] Russell Rebound (Off:1 Def:1),58,196,4,,1628920,,1611661328,10,4,1
+05:39,[IND] Wheeler Foul: Personal (2 PF),148,74,6,203827,204365,,1611661325,10,4,1
+05:39,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,10,4,1
+05:32,[SEA] Canada Turnover : Bad Pass (2 TO) Steal:Burke (2 ST),14,308,5,1629568,1628886,,1611661328,10,4,1
+05:29,[SEA] Clark Foul: Shooting (1 PF) (2 FTA),3,52,6,1629568,202252,,1611661328,10,4,1
+05:29,[IND 5-10] Burke Free Throw 1 of 2 (1 PTS),0,-80,3,,1629568,,1611661325,10,5,1
+05:29,[IND 6-10] Burke Free Throw 2 of 2 (2 PTS),0,-80,3,,1629568,,1611661325,10,6,1
+05:12,[SEA] Clark Layup Shot: Missed,-22,62,2,,202252,,1611661328,10,6,1
+05:09,[IND] McCowan Rebound (Off:0 Def:2),-22,62,4,,1629479,,1611661325,10,6,1
+05:03,Jump Ball McCowan vs Russell (Dupree gains possession),0,-80,10,1628920,1629479,200676,1611661325,10,6,1
+04:42,[IND] Mitchell Pullup Jump shot: Missed,-152,139,2,,1627676,,1611661325,10,6,1
+04:39,[IND] McCowan Rebound (Off:1 Def:2),-152,139,4,,1629479,,1611661325,10,6,1
+04:38,[IND 8-10] McCowan Putback Layup Shot: Made (2 PTS),-17,16,1,,1629479,,1611661325,10,8,1
+04:29,[SEA] Loyd Jump Shot: Missed,76,183,2,,204319,,1611661328,10,8,1
+04:26,[SEA] Russell Rebound (Off:2 Def:1),76,183,4,,1628920,,1611661328,10,8,1
+04:19,[SEA] Howard Jump Shot: Missed,-51,101,2,,203827,,1611661328,10,8,1
+04:17,[SEA] Russell Rebound (Off:3 Def:1),-51,101,4,,1628920,,1611661328,10,8,1
+04:12,[SEA] Russell Putback Layup Shot: Missed,9,17,2,,1628920,,1611661328,10,8,1
+04:09,[IND] McCowan Rebound (Off:1 Def:3),9,17,4,,1629479,,1611661325,10,8,1
+04:06,[IND] McCowan Turnover : Lost Ball (1 TO) Steal:Russell (2 ST),204,133,5,1628920,1629479,,1611661325,10,8,1
+03:59,[SEA] Clark Turnover : Bad Pass (1 TO) Steal:Mitchell (1 ST),-174,281,5,1628909,202252,,1611661328,10,8,1
+03:48,[IND] Mitchell Turnover : Bad Pass (1 TO) Steal:Loyd (2 ST),203,381,5,204319,1628909,,1611661325,10,8,1
+03:44,[SEA 12-8] Clark Running Layup Shot: Made (2 PTS),-12,28,1,,202252,,1611661328,12,8,1
+03:33,[IND 10-12] Mitchell Driving Layup Shot: Made (2 PTS),15,16,1,,1628909,,1611661325,12,10,1
+03:14,[SEA] Loyd 3pt Shot: Missed,228,10,2,,204319,,1611661328,12,10,1
+03:11,[IND] McCowan Rebound (Off:1 Def:4),228,10,4,,1629479,,1611661325,12,10,1
+03:03,[IND 12-12] Mitchell Pullup Jump shot: Made (4 PTS),-7,207,1,,1628909,,1611661325,12,12,1
+02:39,[SEA] Loyd Turnover : Bad Pass (1 TO) Steal:McCowan (1 ST),-100,11,5,1629479,204319,,1611661328,12,12,1
+02:28,[IND] Dupree Jump Shot: Missed,111,143,2,203827,200676,,1611661325,12,12,1
+02:26,[SEA] Clark Rebound (Off:0 Def:2),111,143,4,,202252,,1611661328,12,12,1
+02:12,[SEA] Howard Jump Shot: Missed,-1,126,2,,203827,,1611661328,12,12,1
+02:10,[SEA] Russell Rebound (Off:4 Def:1),-1,126,4,,1628920,,1611661328,12,12,1
+02:09,[SEA 14-12] Russell Putback Layup Shot: Made (4 PTS),-8,13,1,,1628920,,1611661328,14,12,1
+01:48,[IND 14-14] McCowan Turnaround Fadeaway shot: Made (4 PTS) Assist: Dupree (1 AST),56,95,1,,1629479,200676,1611661325,14,14,1
+01:36,[SEA] Clark 3pt Shot: Missed,-234,33,2,,202252,,1611661328,14,14,1
+01:34,[IND] McCowan Rebound (Off:1 Def:5),-234,33,4,,1629479,,1611661325,14,14,1
+01:27,[IND] Mitchell Running Layup Shot: Missed,-22,15,2,,1627676,,1611661325,14,14,1
+01:25,[SEA] Loyd Rebound (Off:0 Def:1),-22,15,4,,204319,,1611661328,14,14,1
+01:21,[SEA] Loyd Running Layup Shot: Missed,-39,5,2,,204319,,1611661328,14,14,1
+01:18,[IND] Dupree Rebound (Off:0 Def:1),-39,5,4,,200676,,1611661325,14,14,1
+01:13,[IND 16-14] Mitchell Running Layup Shot: Made (6 PTS),23,26,1,,1628909,,1611661325,14,16,1
+01:07,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,14,16,1
+01:07,[SEA] Russell Substitution replaced by Langhorne,0,-80,8,,1628920,201518,1611661328,14,16,1
+01:07,[SEA] Loyd Substitution replaced by Mosqueda-Lewis,0,-80,8,,204319,204321,1611661328,14,16,1
+01:07,[SEA] Clark Substitution replaced by Whitcomb,0,-80,8,,202252,1628244,1611661328,14,16,1
+01:07,[IND] Mitchell Substitution replaced by Laney,0,-80,8,,1627676,204335,1611661325,14,16,1
+01:07,[IND] Dupree Substitution replaced by Achonwa,0,-80,8,,200676,203831,1611661325,14,16,1
+00:47.6,[SEA] Whitcomb 3pt Shot: Missed,-232,33,2,,1628244,,1611661328,14,16,1
+00:44.4,[IND] Achonwa Rebound (Off:0 Def:1),-232,33,4,,203831,,1611661325,14,16,1
+00:38.3,[IND] Mitchell Jump Shot: Missed,120,162,2,,1628909,,1611661325,14,16,1
+00:36.2,[SEA] Howard Rebound (Off:0 Def:2),120,162,4,,203827,,1611661328,14,16,1
+00:33.6,[SEA] Howard Turnover : Bad Pass (1 TO) Steal:Burke (3 ST),4,714,5,1629568,203827,,1611661328,14,16,1
+00:32.3,[IND] Burke Driving Layup Shot: Missed,-10,26,2,203827,1629568,,1611661325,14,16,1
+00:32.3,[SEA] Team Rebound,-10,26,4,,0,,1611661328,14,16,1
+00:32.3,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,14,16,1
+00:32.3,[IND] Burke Substitution replaced by Mitchell,0,-80,8,,1629568,1627676,1611661325,14,16,1
+00:15.4,[SEA] Langhorne Turnover : Bad Pass (1 TO) Steal:Achonwa (1 ST),-3,43,5,203831,201518,,1611661328,14,16,1
+00:00.4,[IND 18-14] McCowan Layup Shot: Made (6 PTS) Assist: Achonwa (1 AST),23,27,1,,1629479,203831,1611661325,14,18,1
+00:00.0,End Period,0,-80,13,,0,,0,14,18,1
+10:00,Start Period,0,-80,12,,0,,0,14,18,2
+09:45,[SEA 16-18] Langhorne Layup Shot: Made (2 PTS) Assist: Zellous (1 AST),-9,12,1,,201518,201919,1611661328,16,18,2
+09:34,[IND] Mitchell 3pt Shot: Missed,150,209,2,,1627676,,1611661325,16,18,2
+09:31,[IND] McCowan Rebound (Off:2 Def:5),150,209,4,,1629479,,1611661325,16,18,2
+09:28,[IND 20-16] McCowan Turnaround Hook Shot: Made (8 PTS),2,49,1,,1629479,,1611661325,16,20,2
+09:14,[SEA] Howard 3pt Shot: Missed,-3,253,2,,203827,,1611661328,16,20,2
+09:13,[IND] Mitchell Rebound (Off:0 Def:1),-3,253,4,,1627676,,1611661325,16,20,2
+09:13,[SEA] Whitcomb Foul: Personal (1 PF),-21,578,6,1627676,1628244,,1611661328,16,20,2
+08:53,[IND] Laney Turnover : Bad Pass (1 TO) Steal:Zellous (1 ST),-35,108,5,201919,204335,,1611661325,16,20,2
+08:45,[SEA] Mosqueda-Lewis 3pt Shot: Missed,120,209,2,,204321,,1611661328,16,20,2
+08:42,[IND] Achonwa Rebound (Off:0 Def:2),120,209,4,,203831,,1611661325,16,20,2
+08:28,[IND 22-16] McCowan Layup Shot: Made (10 PTS) Assist: Achonwa (2 AST),7,40,1,,1629479,203831,1611661325,16,22,2
+08:18,[IND] Achonwa Foul: Shooting (1 PF) (2 FTA),-2,26,6,203827,203831,,1611661325,16,22,2
+08:18,[SEA 17-22] Howard Free Throw 1 of 2 (7 PTS),0,-80,3,,203827,,1611661328,17,22,2
+08:18,[SEA 18-22] Howard Free Throw 2 of 2 (8 PTS),0,-80,3,,203827,,1611661328,18,22,2
+08:01,[IND 24-18] McCowan Turnaround Hook Shot: Made (12 PTS) Assist: Achonwa (3 AST),-7,72,1,,1629479,203831,1611661325,18,24,2
+07:49,[SEA] Howard Layup Shot: Missed,26,27,2,,203827,,1611661328,18,24,2
+07:48,[IND] Achonwa Rebound (Off:0 Def:3),26,27,4,,203831,,1611661325,18,24,2
+07:36,[IND] Achonwa Turnover : Lost Ball (1 TO) Steal:Langhorne (1 ST),-25,106,5,201518,203831,,1611661325,18,24,2
+07:22,[SEA] Langhorne Jump Shot: Missed,-130,148,2,,201518,,1611661328,18,24,2
+07:20,[IND] Achonwa Rebound (Off:0 Def:4),-130,148,4,,203831,,1611661325,18,24,2
+07:17,[SEA] Zellous Foul: Shooting (1 PF) (2 FTA),-47,27,6,1627676,201919,,1611661328,18,24,2
+07:17,[IND 25-18] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,1627676,,1611661325,18,25,2
+07:17,[SEA] Howard Substitution replaced by Paris,0,-80,8,,203827,201907,1611661328,18,25,2
+07:17,[IND] Achonwa Substitution replaced by Dupree,0,-80,8,,203831,200676,1611661325,18,25,2
+07:17,[IND] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,1627676,,1611661325,18,25,2
+07:15,[SEA] Langhorne Rebound (Off:0 Def:1),0,-80,4,,201518,,1611661328,18,25,2
+06:56,[SEA] Mosqueda-Lewis Turnaround Jump Shot: Missed,-15,50,2,,204321,,1611661328,18,25,2
+06:52,[IND] Laney Rebound (Off:0 Def:1),-15,50,4,,204335,,1611661325,18,25,2
+06:45,[IND 27-18] Dupree Jump Shot: Made (6 PTS) Assist: Mitchell (1 AST),-138,0,1,,200676,1628909,1611661325,18,27,2
+06:41,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,18,27,2
+06:41,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1627676,204365,1611661325,18,27,2
+06:25,[SEA] Whitcomb 3pt Shot: Missed,228,17,2,,1628244,,1611661328,18,27,2
+06:23,[SEA] Mosqueda-Lewis Rebound (Off:1 Def:0),228,17,4,,204321,,1611661328,18,27,2
+06:13,[SEA] Mosqueda-Lewis 3pt Shot: Missed,-234,47,2,,204321,,1611661328,18,27,2
+06:11,[SEA] Whitcomb Rebound (Off:1 Def:0),-234,47,4,,1628244,,1611661328,18,27,2
+06:02,[SEA] Langhorne Turnover : Lost Ball (2 TO) Steal:Wheeler (1 ST),-101,150,5,204365,201518,,1611661328,18,27,2
+05:54,[IND] Mitchell 3pt Shot: Missed,-9,239,2,,1628909,,1611661325,18,27,2
+05:54,[SEA] Team Rebound,-9,239,4,,0,,1611661328,18,27,2
+05:36,[SEA] Zellous Floating Jump shot: Missed,-128,3,2,,201919,,1611661328,18,27,2
+05:34,[IND] McCowan Rebound (Off:2 Def:6),-128,3,4,,1629479,,1611661325,18,27,2
+05:29,[SEA] Mosqueda-Lewis Foul: Shooting (1 PF) (2 FTA),50,36,6,1629479,204321,,1611661328,18,27,2
+05:29,[SEA] Langhorne Substitution replaced by Russell,0,-80,8,,201518,1628920,1611661328,18,27,2
+05:29,[SEA] Paris Substitution replaced by Howard,0,-80,8,,201907,203827,1611661328,18,27,2
+05:29,[SEA] Zellous Substitution replaced by Canada,0,-80,8,,201919,1628886,1611661328,18,27,2
+05:29,[SEA] Mosqueda-Lewis Substitution replaced by Loyd,0,-80,8,,204321,204319,1611661328,18,27,2
+05:29,[SEA] Whitcomb Substitution replaced by Clark,0,-80,8,,1628244,202252,1611661328,18,27,2
+05:29,[IND 28-18] McCowan Free Throw 1 of 2 (13 PTS),0,-80,3,,1629479,,1611661325,18,28,2
+05:29,[IND] Mitchell Substitution replaced by Mitchell,0,-80,8,,1628909,1627676,1611661325,18,28,2
+05:29,[IND] McCowan Free Throw 2 of 2 Missed,0,-80,3,,1629479,,1611661325,18,28,2
+05:29,[SEA] Clark Rebound (Off:0 Def:3),0,-80,4,,202252,,1611661328,18,28,2
+05:07,[IND] Mitchell Foul: Shooting (1 PF) (2 FTA),-50,58,6,204319,1627676,,1611661325,18,28,2
+05:07,[SEA 19-28] Loyd Free Throw 1 of 2 (1 PTS),0,-80,3,,204319,,1611661328,19,28,2
+05:07,[SEA 20-28] Loyd Free Throw 2 of 2 (2 PTS),0,-80,3,,204319,,1611661328,20,28,2
+04:54,[SEA] Clark Foul: Shooting (2 PF) (2 FTA),61,15,6,1629479,202252,,1611661328,20,28,2
+04:54,[IND 29-20] McCowan Free Throw 1 of 2 (14 PTS),0,-80,3,,1629479,,1611661325,20,29,2
+04:54,[IND] McCowan Free Throw 2 of 2 Missed,0,-80,3,,1629479,,1611661325,20,29,2
+04:49,[IND] Dupree Rebound (Off:1 Def:1),0,-80,4,,200676,,1611661325,20,29,2
+04:39,[IND] Wheeler Turnover : Bad Pass (2 TO) Steal:Clark (1 ST),0,63,5,202252,204365,,1611661325,20,29,2
+04:23,[SEA 22-29] Howard Turnaround Hook Shot: Made (10 PTS),-14,64,1,,203827,,1611661328,22,29,2
+03:59,[IND] Dupree Turnaround Jump Shot: Missed,-57,27,2,,200676,,1611661325,22,29,2
+03:58,[IND] McCowan Rebound (Off:3 Def:6),-57,27,4,,1629479,,1611661325,22,29,2
+03:56,[IND 31-22] McCowan Putback Layup Shot: Made (16 PTS),12,9,1,,1629479,,1611661325,22,31,2
+03:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,31,2
+03:33,[SEA] Loyd Turnover : Lost Ball (2 TO) Steal:Mitchell (1 ST),104,147,5,1627676,204319,,1611661328,22,31,2
+03:20,[IND] Wheeler Turnover : Out of Bounds - Bad Pass Turnover (3 TO),74,74,5,,204365,,1611661325,22,31,2
+02:58,[SEA] Clark 3pt Shot: Missed,-135,216,2,,202252,,1611661328,22,31,2
+02:53,[IND] Dupree Rebound (Off:1 Def:2),-135,216,4,,200676,,1611661325,22,31,2
+02:36,[IND 33-22] Dupree Cutting Layup Shot: Made (8 PTS) Assist: McCowan (2 AST),36,26,1,,200676,1629479,1611661325,22,33,2
+02:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,33,2
+02:24,Timeout Officials,0,-80,9,,0,,0,22,33,2
+02:11,[SEA] Russell Turnaround Hook Shot: Missed,-3,35,2,,1628920,,1611661328,22,33,2
+02:11,[SEA] Howard Rebound (Off:1 Def:2),-3,35,4,,203827,,1611661328,22,33,2
+02:11,[SEA] Team Turnover : Shot Clock Turnover,-3,-22,5,,0,,1611661328,22,33,2
+01:55,[IND] Wheeler Foul: Offensive Charge (3 PF),20,113,6,1628886,204365,,1611661325,22,33,2
+01:55,[IND] Wheeler Turnover : Offensive Foul Turnover (4 TO),-20,722,5,,204365,,1611661325,22,33,2
+01:55,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,22,33,2
+01:33,[SEA] Loyd Driving Floating Jump Shot: Missed,-6,77,2,,204319,,1611661328,22,33,2
+01:31,[IND] McCowan Rebound (Off:3 Def:7),-6,77,4,,1629479,,1611661325,22,33,2
+01:15,[IND] McCowan Jump Shot: Missed,68,19,2,,1629479,,1611661325,22,33,2
+01:13,[IND] Laney Rebound (Off:1 Def:1),68,19,4,,204335,,1611661325,22,33,2
+01:02,[IND] Dupree Jump Shot: Missed,-38,94,2,,200676,,1611661325,22,33,2
+01:02,[SEA] Team Rebound,-38,94,4,,0,,1611661328,22,33,2
+01:02,[IND] McCowan Foul: Loose Ball (1 PF),-6,783,6,202252,1629479,,1611661325,22,33,2
+00:54.5,[IND] Dupree Foul: Shooting (1 PF) (2 FTA),-6,783,6,1628886,200676,,1611661325,22,33,2
+00:54.5,[SEA 23-33] Canada Free Throw 1 of 2 (3 PTS),0,-80,3,,1628886,,1611661328,23,33,2
+00:54.5,[SEA 24-33] Canada Free Throw 2 of 2 (4 PTS),0,-80,3,,1628886,,1611661328,24,33,2
+00:38.4,[IND] Mitchell Driving Layup Shot: Missed,20,25,2,,1627676,,1611661325,24,33,2
+00:36.8,[IND] McCowan Rebound (Off:4 Def:7),20,25,4,,1629479,,1611661325,24,33,2
+00:34.8,[IND] McCowan Layup Shot: Missed,23,32,2,,1629479,,1611661325,24,33,2
+00:32.7,[SEA] Russell Rebound (Off:4 Def:2),23,32,4,,1628920,,1611661328,24,33,2
+00:28.6,[IND] Mitchell Foul: Shooting (2 PF) (2 FTA),66,10,6,1628886,1627676,,1611661325,24,33,2
+00:28.6,[SEA 25-33] Canada Free Throw 1 of 2 (5 PTS),0,-80,3,,1628886,,1611661328,25,33,2
+00:28.6,[SEA 26-33] Canada Free Throw 2 of 2 (6 PTS),0,-80,3,,1628886,,1611661328,26,33,2
+00:06.8,[IND] Mitchell 3pt Shot: Missed,185,187,2,,1628909,,1611661325,26,33,2
+00:04.1,[SEA] Howard Rebound (Off:1 Def:3),185,187,4,,203827,,1611661328,26,33,2
+00:00.0,End Period,0,-80,13,,0,,0,26,33,2
+10:00,Start Period,0,-80,12,,0,,0,26,33,3
+09:40,[SEA 29-33] Clark 3pt Shot: Made (5 PTS) Assist: Canada (2 AST),-227,-10,1,,202252,1628886,1611661328,29,33,3
+09:36,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,29,33,3
+09:17,[SEA] Howard Foul: Shooting (1 PF) (2 FTA),35,19,6,200676,203827,,1611661328,29,33,3
+09:17,[IND 34-29] Dupree Free Throw 1 of 2 (9 PTS),0,-80,3,,200676,,1611661325,29,34,3
+09:17,[IND 35-29] Dupree Free Throw 2 of 2 (10 PTS),0,-80,3,,200676,,1611661325,29,35,3
+09:00,[SEA] Canada Jump Shot: Missed,-142,6,2,,1628886,,1611661328,29,35,3
+08:57,[IND] Burke Rebound (Off:0 Def:1),-142,6,4,,1629568,,1611661325,29,35,3
+08:46,[SEA] Russell Foul: Shooting (1 PF) (2 FTA),-4,87,6,1629479,1628920,,1611661328,29,35,3
+08:46,[IND 36-29] McCowan Free Throw 1 of 2 (17 PTS),0,-80,3,,1629479,,1611661325,29,36,3
+08:46,[IND 37-29] McCowan Free Throw 2 of 2 (18 PTS),0,-80,3,,1629479,,1611661325,29,37,3
+08:25,[SEA] Clark Jump Shot: Missed,-70,16,2,,202252,,1611661328,29,37,3
+08:22,[IND] Mitchell Rebound (Off:0 Def:2),-70,16,4,,1627676,,1611661325,29,37,3
+07:59,Jump Ball Wheeler vs Canada (Burke gains possession),0,-80,10,1628886,204365,1629568,1611661325,29,37,3
+07:58,[IND] Burke Layup Shot: Missed,43,13,2,203827,1629568,,1611661325,29,37,3
+07:53,[SEA] Clark Rebound (Off:0 Def:4),43,13,4,,202252,,1611661328,29,37,3
+07:44,[SEA 31-37] Russell Reverse Layup Shot: Made (6 PTS) Assist: Howard (1 AST),23,16,1,,1628920,203827,1611661328,31,37,3
+07:25,[IND] Dupree Jump Shot: Missed,-154,141,2,,200676,,1611661325,31,37,3
+07:25,[SEA] Team Rebound,-154,141,4,,0,,1611661328,31,37,3
+07:25,[IND] McCowan Foul: Loose Ball (2 PF),134,831,6,1628920,1629479,,1611661325,31,37,3
+07:06,[SEA] Clark 3pt Shot: Missed,109,236,2,,202252,,1611661328,31,37,3
+07:02,[IND] McCowan Rebound (Off:4 Def:8),109,236,4,,1629479,,1611661325,31,37,3
+06:52,[IND] McCowan Turnover : Lost Ball (2 TO) Steal:Canada (1 ST),46,38,5,1628886,1629479,,1611661325,31,37,3
+06:50,[IND] Wheeler Foul: Personal (4 PF),-85,114,6,1628886,204365,,1611661325,31,37,3
+06:50,Instant Replay - Support Ruling,0,-80,18,,0,,0,31,37,3
+06:50,[IND] Wheeler Substitution replaced by Mitchell,0,-80,8,,204365,1628909,1611661325,31,37,3
+06:37,[SEA] Loyd Jump Shot: Missed,187,51,2,,204319,,1611661328,31,37,3
+06:35,[IND] Burke Rebound (Off:0 Def:2),187,51,4,,1629568,,1611661325,31,37,3
+06:35,[SEA] Canada Foul: Shooting (2 PF) (2 FTA),-17,26,6,1629568,1628886,,1611661328,31,37,3
+06:35,[IND 38-31] Burke Free Throw 1 of 2 (3 PTS),0,-80,3,,1629568,,1611661325,31,38,3
+06:35,[IND 39-31] Burke Free Throw 2 of 2 (4 PTS),0,-80,3,,1629568,,1611661325,31,39,3
+06:21,[SEA] Howard 3pt Shot: Missed,-152,186,2,,203827,,1611661328,31,39,3
+06:21,[SEA] Howard Rebound (Off:2 Def:3),-152,186,4,,203827,,1611661328,31,39,3
+06:08,[SEA] Clark Jump Shot: Missed,-48,16,2,,202252,,1611661328,31,39,3
+06:04,[IND] Dupree Rebound (Off:1 Def:3),-48,16,4,,200676,,1611661325,31,39,3
+05:59,[IND 41-31] Mitchell Driving Layup Shot: Made (3 PTS) Assist: Mitchell (2 AST),-17,13,1,,1627676,1628909,1611661325,31,41,3
+05:37,[SEA] Howard Jump Shot: Missed,63,138,2,,203827,,1611661328,31,41,3
+05:35,[IND] McCowan Rebound (Off:4 Def:9),63,138,4,,1629479,,1611661325,31,41,3
+05:12,[IND] Mitchell Jump Shot: Missed,-14,217,2,,1628909,,1611661325,31,41,3
+05:08,[SEA] Loyd Rebound (Off:0 Def:2),-14,217,4,,204319,,1611661328,31,41,3
+05:03,[SEA] Canada Layup Shot: Missed,10,28,2,,1628886,,1611661328,31,41,3
+04:59,[IND] McCowan Rebound (Off:4 Def:10),10,28,4,,1629479,,1611661325,31,41,3
+04:49,[IND] Burke Driving Layup Shot: Missed,-63,15,2,,1629568,,1611661325,31,41,3
+04:47,[SEA] Howard Rebound (Off:2 Def:4),-63,15,4,,203827,,1611661328,31,41,3
+04:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,41,3
+04:47,Timeout Officials,0,-80,9,,0,,0,31,41,3
+04:47,[SEA] Loyd Substitution replaced by Whitcomb,0,-80,8,,204319,1628244,1611661328,31,41,3
+04:47,[IND] Mitchell Substitution replaced by Laney,0,-80,8,,1627676,204335,1611661325,31,41,3
+04:40,[SEA] Whitcomb Jump Shot: Missed,158,30,2,,1628244,,1611661328,31,41,3
+04:37,[IND] Burke Rebound (Off:0 Def:3),158,30,4,,1629568,,1611661325,31,41,3
+04:23,[IND 43-31] McCowan Jump Shot: Made (20 PTS) Assist: Laney (1 AST),35,2,1,,1629479,204335,1611661325,31,43,3
+04:11,[SEA] Howard Turnover : Bad Pass (2 TO) Steal:Laney (1 ST),169,328,5,204335,203827,,1611661328,31,43,3
+03:53,[IND] Dupree Hook Shot: Missed,-14,77,2,,200676,,1611661325,31,43,3
+03:50,[SEA] Russell Rebound (Off:4 Def:3),-14,77,4,,1628920,,1611661328,31,43,3
+03:37,[SEA] Whitcomb 3pt Shot: Missed,234,36,2,,1628244,,1611661328,31,43,3
+03:33,[IND] McCowan Rebound (Off:4 Def:11),234,36,4,,1629479,,1611661325,31,43,3
+03:21,[SEA] Russell Foul: Shooting (2 PF) (2 FTA),-15,31,6,1629479,1628920,,1611661328,31,43,3
+03:21,[IND] McCowan Free Throw 1 of 2 Missed,0,-80,3,,1629479,,1611661325,31,43,3
+03:21,[IND] Team Rebound,0,-80,4,,0,,1611661325,31,43,3
+03:21,[SEA] Clark Substitution replaced by Mosqueda-Lewis,0,-80,8,,202252,204321,1611661328,31,43,3
+03:21,[IND] McCowan Free Throw 2 of 2 Missed,0,-80,3,,1629479,,1611661325,31,43,3
+03:19,[SEA] Howard Rebound (Off:2 Def:5),0,-80,4,,203827,,1611661328,31,43,3
+03:09,[SEA] Whitcomb 3pt Shot: Missed,159,218,2,,1628244,,1611661328,31,43,3
+03:05,[SEA] Mosqueda-Lewis Rebound (Off:2 Def:0),159,218,4,,204321,,1611661328,31,43,3
+02:53,[SEA] Whitcomb 3pt Shot: Missed,221,76,2,,1628244,,1611661328,31,43,3
+02:49,[SEA] Russell Rebound (Off:5 Def:3),221,76,4,,1628920,,1611661328,31,43,3
+02:48,[SEA 33-43] Russell Reverse Layup Shot: Made (8 PTS),19,9,1,,1628920,,1611661328,33,43,3
+02:32,[IND] Mitchell 3pt Shot: Missed,-179,164,2,,1628909,,1611661325,33,43,3
+02:29,[IND] Dupree Rebound (Off:2 Def:3),-179,164,4,,200676,,1611661325,33,43,3
+02:18,[IND 46-33] Burke 3pt Shot: Made (7 PTS) Assist: Dupree (2 AST),154,185,1,,1629568,200676,1611661325,33,46,3
+01:59,[SEA] Canada Driving Layup Shot: Missed,2,48,2,1629479,1628886,,1611661328,33,46,3
+01:59,[SEA] Team Rebound,2,48,4,,0,,1611661328,33,46,3
+01:59,[IND] McCowan Substitution replaced by Achonwa,0,-80,8,,1629479,203831,1611661325,33,46,3
+01:57,[SEA] Mosqueda-Lewis 3pt Shot: Missed,232,73,2,,204321,,1611661328,33,46,3
+01:55,[IND] Achonwa Rebound (Off:0 Def:5),232,73,4,,203831,,1611661325,33,46,3
+01:31,[IND] Team Turnover : Shot Clock Turnover,181,190,5,,0,,1611661325,33,46,3
+01:10,[SEA 36-46] Mosqueda-Lewis 3pt Shot: Made (3 PTS) Assist: Howard (2 AST),229,63,1,,204321,203827,1611661328,36,46,3
+00:48.6,[IND 49-36] Mitchell 3pt Shot: Made (9 PTS) Assist: Laney (2 AST),142,205,1,,1628909,204335,1611661325,36,49,3
+00:37.6,[SEA 39-49] Whitcomb 3pt Shot: Made (3 PTS) Assist: Howard (3 AST),-217,80,1,,1628244,203827,1611661328,39,49,3
+00:23.5,[IND 51-39] Mitchell Jump Shot: Made (11 PTS),-6,207,1,,1628909,,1611661325,39,51,3
+00:07.2,[SEA] Canada Turnover : Lost Ball (3 TO) Steal:Mitchell (2 ST),-64,16,5,1628909,1628886,,1611661328,39,51,3
+00:01.0,[IND] Dupree 3pt Shot: Missed,-140,206,2,,200676,,1611661325,39,51,3
+00:00.1,[IND] Team Rebound,-140,206,4,,0,,1611661325,39,51,3
+00:00.0,End Period,0,-80,13,,0,,0,39,51,3
+10:00,Start Period,0,-80,12,,0,,0,39,51,4
+09:49,[IND] Laney Layup Shot: Missed,-19,25,2,,204335,,1611661325,39,51,4
+09:49,[SEA] Langhorne Rebound (Off:0 Def:2),-19,25,4,,201518,,1611661328,39,51,4
+09:34,[SEA] Howard Driving Layup Shot: Missed,-51,4,2,,203827,,1611661328,39,51,4
+09:31,[SEA] Zellous Rebound (Off:1 Def:0),-51,4,4,,201919,,1611661328,39,51,4
+09:18,[SEA] Langhorne Layup Shot: Missed,-45,15,2,,201518,,1611661328,39,51,4
+09:15,[IND] Burke Rebound (Off:0 Def:4),-45,15,4,,1629568,,1611661325,39,51,4
+08:59,[IND] Dupree Jump Shot: Missed,12,149,2,,200676,,1611661325,39,51,4
+08:56,[SEA] Howard Rebound (Off:2 Def:6),12,149,4,,203827,,1611661328,39,51,4
+08:45,[SEA] Howard Jump Shot: Missed,-170,-9,2,,203827,,1611661328,39,51,4
+08:45,[IND] Burke Rebound (Off:0 Def:5),-170,-9,4,,1629568,,1611661325,39,51,4
+08:20,[IND] Mitchell 3pt Shot: Missed,-149,194,2,,1628909,,1611661325,39,51,4
+08:17,[IND] Achonwa Rebound (Off:1 Def:5),-149,194,4,,203831,,1611661325,39,51,4
+08:07,[IND] Mitchell Turnover : Out of Bounds Lost Ball Turnover (2 TO),225,108,5,,1628909,,1611661325,39,51,4
+07:59,[IND] Laney Foul: Personal (1 PF),-153,92,6,1628244,204335,,1611661325,39,51,4
+07:48,[SEA] Mosqueda-Lewis 3pt Shot: Missed,165,172,2,,204321,,1611661328,39,51,4
+07:45,[IND] Achonwa Rebound (Off:1 Def:6),165,172,4,,203831,,1611661325,39,51,4
+07:29,[IND] Laney Turnover : Bad Pass (2 TO) Steal:Howard (1 ST),-156,66,5,203827,204335,,1611661325,39,51,4
+07:23,[SEA 41-51] Langhorne Running Layup Shot: Made (4 PTS) Assist: Howard (4 AST),-21,10,1,,201518,203827,1611661328,41,51,4
+07:03,[IND] Burke Pullup Jump shot: Missed,106,37,2,,1629568,,1611661325,41,51,4
+07:01,[SEA] Langhorne Rebound (Off:0 Def:3),106,37,4,,201518,,1611661328,41,51,4
+06:57,[SEA] Zellous Turnover : Out of Bounds Lost Ball Turnover (1 TO),-227,95,5,,201919,,1611661328,41,51,4
+06:57,[IND] Laney Substitution replaced by Mitchell,0,-80,8,,204335,1627676,1611661325,41,51,4
+06:42,[IND] Achonwa Jump Shot: Missed,31,21,2,1628244,203831,,1611661325,41,51,4
+06:42,[SEA] Whitcomb Rebound (Off:1 Def:1),31,21,4,,1628244,,1611661328,41,51,4
+06:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,51,4
+06:42,[IND] Burke Substitution replaced by McCowan,0,-80,8,,1629568,1629479,1611661325,41,51,4
+06:42,[IND] Achonwa Substitution replaced by Laney,0,-80,8,,203831,204335,1611661325,41,51,4
+06:31,[SEA] Zellous Layup Shot: Missed,23,15,2,200676,201919,,1611661328,41,51,4
+06:29,[SEA] Howard Rebound (Off:3 Def:6),-152,191,4,,203827,,1611661328,41,51,4
+06:28,[SEA 43-51] Howard Hook Shot: Made (12 PTS),-43,21,1,,203827,,1611661328,43,51,4
+06:12,[IND 53-43] Mitchell Layup Shot: Made (13 PTS),-3,29,1,,1628909,,1611661325,43,53,4
+05:59,[SEA] Langhorne 3pt Shot: Missed,-7,260,2,,201518,,1611661328,43,53,4
+05:56,[IND] Dupree Rebound (Off:2 Def:4),-7,260,4,,200676,,1611661325,43,53,4
+05:43,[IND] Dupree Turnover : Bad Pass (2 TO) Steal:Mosqueda-Lewis (1 ST),132,75,5,204321,200676,,1611661325,43,53,4
+05:40,[SEA] Mosqueda-Lewis Foul: Offensive Charge (2 PF),-143,24,6,1628909,204321,,1611661328,43,53,4
+05:40,[SEA] Mosqueda-Lewis Turnover : Offensive Foul Turnover (1 TO),-143,24,5,,204321,,1611661328,43,53,4
+05:40,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,43,53,4
+05:40,[IND] Mitchell Substitution replaced by Wheeler,0,-80,8,,1628909,204365,1611661325,43,53,4
+05:18,[IND] McCowan Jump Shot: Missed,-40,38,2,,1629479,,1611661325,43,53,4
+05:17,[SEA] Mosqueda-Lewis Rebound (Off:2 Def:1),-40,38,4,,204321,,1611661328,43,53,4
+05:11,[IND] McCowan Foul: Personal (3 PF),65,27,6,201518,1629479,,1611661325,43,53,4
+05:11,[SEA] Whitcomb Substitution replaced by Clark,0,-80,8,,1628244,202252,1611661328,43,53,4
+05:05,[SEA 45-53] Langhorne Layup Shot: Made (6 PTS) Assist: Howard (5 AST),41,16,1,,201518,203827,1611661328,45,53,4
+04:38,[IND 55-45] Mitchell Step Back Jump shot: Made (5 PTS),-15,148,1,,1627676,,1611661325,45,55,4
+04:27,[SEA] Howard Turnover : Traveling (3 TO),101,-16,5,,203827,,1611661328,45,55,4
+04:27,[SEA] Zellous Substitution replaced by Canada,0,-80,8,,201919,1628886,1611661328,45,55,4
+04:12,[IND] Dupree Jump Shot: Missed,-12,156,2,,200676,,1611661325,45,55,4
+04:12,[SEA] Team Rebound,-12,156,4,,0,,1611661328,45,55,4
+03:58,[SEA 47-55] Mosqueda-Lewis Pullup Jump shot: Made (5 PTS) Assist: Canada (3 AST),106,99,1,,204321,1628886,1611661328,47,55,4
+03:32,[IND] Laney Jump Shot: Missed,-14,150,2,,204335,,1611661325,47,55,4
+03:32,[IND] McCowan Rebound (Off:5 Def:11),-14,150,4,,1629479,,1611661325,47,55,4
+03:18,[IND 57-47] Mitchell Jump Shot: Made (7 PTS) Assist: Wheeler (2 AST),33,206,1,,1627676,204365,1611661325,47,57,4
+03:03,[SEA] Mosqueda-Lewis Turnover : Out of Bounds - Bad Pass Turnover (2 TO),220,127,5,,204321,,1611661328,47,57,4
+03:03,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,47,57,4
+03:03,[SEA] Mosqueda-Lewis Substitution replaced by Loyd,0,-80,8,,204321,204319,1611661328,47,57,4
+02:44,[IND] McCowan Jump Shot: Missed,25,15,2,,1629479,,1611661325,47,57,4
+02:44,[SEA] Team Rebound,25,15,4,,0,,1611661328,47,57,4
+02:27,[IND] Mitchell Foul: Shooting (3 PF) (2 FTA),12,59,6,1628886,1627676,,1611661325,47,57,4
+02:27,[SEA 48-57] Canada Free Throw 1 of 2 (7 PTS),0,-80,3,,1628886,,1611661328,48,57,4
+02:27,[SEA] Canada Free Throw 2 of 2 Missed,0,-80,3,,1628886,,1611661328,48,57,4
+02:27,[IND] McCowan Rebound (Off:5 Def:12),0,-80,4,,1629479,,1611661325,48,57,4
+02:08,[IND 59-48] McCowan Jump Shot: Made (22 PTS) Assist: Dupree (3 AST),-2,15,1,,1629479,200676,1611661325,48,59,4
+01:53,[SEA 50-59] Langhorne Driving Layup Shot: Made (8 PTS) Assist: Clark (1 AST),9,52,1,,201518,202252,1611661328,50,59,4
+01:36,[IND] Wheeler Turnover : Bad Pass (5 TO) Steal:Howard (2 ST),94,72,5,203827,204365,,1611661325,50,59,4
+01:27,[SEA] Clark Jump Shot: Missed,198,42,2,,202252,,1611661328,50,59,4
+01:27,[IND] McCowan Rebound (Off:5 Def:13),198,42,4,,1629479,,1611661325,50,59,4
+01:27,[SEA] Howard Foul: Personal (2 PF),53,821,6,1629479,203827,,1611661328,50,59,4
+01:01,[IND] Wheeler Layup Shot: Missed,-28,51,2,,204365,,1611661325,50,59,4
+01:01,[IND] McCowan Rebound (Off:6 Def:13),-28,51,4,,1629479,,1611661325,50,59,4
+01:01,[IND] McCowan Layup Shot: Missed,-11,21,2,,1629479,,1611661325,50,59,4
+01:01,[IND] Team Rebound,-11,21,4,,0,,1611661325,50,59,4
+00:59.7,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,50,59,4
+00:52.8,[IND] Wheeler 3pt Shot: Missed,-184,152,2,,204365,,1611661325,50,59,4
+00:50.3,[SEA] Canada Rebound (Off:0 Def:1),-184,152,4,,1628886,,1611661328,50,59,4
+00:39.5,[SEA] Langhorne 3pt Shot: Missed,-61,236,2,,201518,,1611661328,50,59,4
+00:36.9,[IND] Laney Rebound (Off:1 Def:2),-61,236,4,,204335,,1611661325,50,59,4
+00:19.6,[IND] Dupree Turnover : Bad Pass (3 TO) Steal:Howard (3 ST),-64,191,5,203827,200676,,1611661325,50,59,4
+00:17.5,[IND] Mitchell Foul: Shooting (4 PF) (2 FTA),24,33,6,203827,1627676,,1611661325,50,59,4
+00:17.5,[SEA 51-59] Howard Free Throw 1 of 2 (13 PTS),0,-80,3,,203827,,1611661328,51,59,4
+00:17.5,[SEA 52-59] Howard Free Throw 2 of 2 (14 PTS),0,-80,3,,203827,,1611661328,52,59,4
+00:17.5,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,52,59,4
+00:15.1,[SEA] Langhorne Foul: Personal (1 PF) (2 FTA),141,257,6,200676,201518,,1611661328,52,59,4
+00:15.1,[IND 60-52] Dupree Free Throw 1 of 2 (11 PTS),0,-80,3,,200676,,1611661325,52,60,4
+00:15.1,[IND 61-52] Dupree Free Throw 2 of 2 (12 PTS),0,-80,3,,200676,,1611661325,52,61,4
+00:15.1,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,52,61,4
+00:11.0,[SEA 54-61] Loyd Jump Shot: Made (4 PTS) Assist: Canada (4 AST),107,183,1,,204319,1628886,1611661328,54,61,4
+00:11.0,[IND] Team Timeout : Short,0,-80,9,,1611661325,,1611661325,54,61,4
+00:06.3,[SEA] Loyd Foul: Personal (1 PF) (2 FTA),116,114,6,204365,204319,,1611661328,54,61,4
+00:06.3,[IND 62-54] Wheeler Free Throw 1 of 2 (1 PTS),0,-80,3,,204365,,1611661325,54,62,4
+00:06.3,[IND 63-54] Wheeler Free Throw 2 of 2 (2 PTS),0,-80,3,,204365,,1611661325,54,63,4
+00:06.3,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,54,63,4
+00:01.0,[SEA] Howard Jump Shot: Missed,50,78,2,,203827,,1611661328,54,63,4
+00:00.1,[SEA] Team Rebound,50,78,4,,0,,1611661328,54,63,4
+00:00.0,End Period,0,-80,13,,0,,0,54,63,4
+00:00.0,Game End,0,-80,0,,0,,0,54,63,4

@@ -1,0 +1,407 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:57,Jump Ball Griner vs Collier (Cloud gains possession),0,-80,10,1629483,203398,204333,1611661317,0,0,0,1
+09:39,[PHO] Taurasi 3pt Shot: Missed,-111,244,2,,100940,,1611661317,0,0,0,1
+09:34,[MIN] Collier Rebound (Off:0 Def:1),-111,244,4,,1629483,,1611661324,0,0,0,1
+09:23,[MIN] McBride 3pt Shot: Missed,-180,162,2,,203825,,1611661324,0,0,0,1
+09:19,[MIN] Smith Rebound (Off:1 Def:0),-180,162,4,,1629501,,1611661324,0,0,0,1
+09:17,[MIN 2-0] Collier Jump Shot: Made (2 PTS) Assist: Williams (1 AST),193,67,1,,1629483,1627675,1611661324,0,2,2,1
+09:00,[PHO 2-2] Cloud Driving Floating Jump Shot: Made (2 PTS) Assist: Taurasi (1 AST),4,40,1,,204333,100940,1611661317,2,2,2,1
+08:46,[PHO] Griner Foul: Shooting (1 PF) (2 FTA),-35,22,6,1629501,203398,200667,1611661317,2,2,0,1
+08:46,[MIN] Smith Free Throw 1 of 2 Missed,0,-80,3,,1629501,,1611661324,2,2,0,1
+08:46,[MIN] Team Rebound,0,-80,4,,0,,1611661324,2,2,0,1
+08:46,[MIN 3-2] Smith Free Throw 2 of 2 (1 PTS),0,-80,3,,1629501,,1611661324,2,3,1,1
+08:36,[PHO] Copper 3pt Shot: Missed,140,205,2,,1627674,,1611661317,2,3,0,1
+08:32,[PHO] Billings Rebound (Off:1 Def:0),140,205,4,,1628881,,1611661317,2,3,0,1
+08:21,[PHO 5-3] Taurasi 3pt Shot: Made (3 PTS) Assist: Billings (1 AST),188,146,1,,100940,1628881,1611661317,5,3,3,1
+07:58,[MIN] Williams Pullup Jump shot: Missed,-75,127,2,,1627675,,1611661324,5,3,0,1
+07:55,[PHO] Griner Rebound (Off:0 Def:1),-75,127,4,,203398,,1611661317,5,3,0,1
+07:52,[MIN] Williams Foul: Personal Take (1 PF),-89,241,6,204333,1627675,100697,1611661324,5,3,0,1
+07:49,[PHO] Cloud Turnover : Bad Pass (1 TO) Steal:Carleton (1 ST),121,284,5,1629524,204333,,1611661317,5,3,0,1
+07:43,[MIN] Williams Running Jump Shot: Missed,87,-5,2,,1627675,,1611661324,5,3,0,1
+07:38,[MIN] Collier Rebound (Off:1 Def:1),87,-5,4,,1629483,,1611661324,5,3,0,1
+07:36,[MIN 6-5] Carleton 3pt Shot: Made (3 PTS) Assist: Smith (1 AST),-112,225,1,,1629524,1629501,1611661324,5,6,3,1
+07:23,[PHO] Taurasi Turnover : Bad Pass (1 TO) Steal:Carleton (2 ST),-60,280,5,1629524,100940,,1611661317,5,6,0,1
+07:20,[MIN 8-5] Carleton Running Layup Shot: Made (5 PTS),-16,16,1,,1629524,,1611661324,5,8,2,1
+07:20,[PHO] Taurasi Foul: Shooting (1 PF) (1 FTA),-12,9,6,1629524,100940,100697,1611661317,5,8,0,1
+07:20,[MIN 9-5] Carleton Free Throw 1 of 1 (6 PTS),0,-80,3,,1629524,,1611661324,5,9,1,1
+07:03,[PHO] Billings Driving Layup Shot: Missed,-9,49,2,,1628881,,1611661317,5,9,0,1
+07:00,[PHO] Billings Rebound (Off:2 Def:0),-9,49,4,,1628881,,1611661317,5,9,0,1
+06:59,[PHO] Billings Turnover : Lost Ball (1 TO) Steal:Williams (1 ST),141,87,5,1627675,1628881,,1611661317,5,9,0,1
+06:48,[MIN] Williams Pullup Jump shot: Missed,-144,117,2,,1627675,,1611661324,5,9,0,1
+06:45,[PHO] Billings Rebound (Off:2 Def:1),-144,117,4,,1628881,,1611661317,5,9,0,1
+06:35,[PHO] Griner Foul: Offensive (2 PF),107,244,6,203825,203398,200667,1611661317,5,9,0,1
+06:35,[PHO] Griner Turnover : Offensive Foul Turnover (1 TO),107,244,5,,203398,200667,1611661317,5,9,0,1
+06:35,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,5,9,0,1
+06:11,[PHO] Copper Foul: Shooting (1 PF) (2 FTA),82,42,6,203825,1627674,1630880,1611661317,5,9,0,1
+06:11,[MIN 10-5] McBride Free Throw 1 of 2 (1 PTS),0,-80,3,,203825,,1611661324,5,10,1,1
+06:11,[MIN 11-5] McBride Free Throw 2 of 2 (2 PTS),0,-80,3,,203825,,1611661324,5,11,1,1
+05:56,[PHO] Cloud 3pt Shot: Missed,140,207,2,,204333,,1611661317,5,11,0,1
+05:53,[MIN] Carleton Rebound (Off:0 Def:1),140,207,4,,1629524,,1611661324,5,11,0,1
+05:43,[MIN] Collier Driving Layup Shot: Missed,-6,33,2,,1629483,,1611661324,5,11,0,1
+05:40,[PHO] Mack Rebound (Off:0 Def:1),-6,33,4,,1630442,,1611661317,5,11,0,1
+05:36,[PHO] Taurasi Turnover : Out of Bounds Lost Ball Turnover (2 TO),-167,191,5,,100940,100697,1611661317,5,11,0,1
+05:33,[MIN 14-5] McBride 3pt Shot: Made (5 PTS) Assist: Williams (2 AST),226,62,1,,203825,1627675,1611661324,5,14,3,1
+05:31,Timeout : Regular,0,-80,9,,1611661317,,1611661317,5,14,0,1
+05:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,5,14,0,1
+05:20,[PHO] Copper Foul: Offensive (2 PF),122,161,6,1629524,1627674,100697,1611661317,5,14,0,1
+05:20,[PHO] Copper Turnover : Offensive Foul Turnover (1 TO),122,161,5,,1627674,100697,1611661317,5,14,0,1
+05:06,[MIN 16-5] Williams Pullup Jump shot: Made (2 PTS),43,189,1,,1627675,,1611661324,5,16,2,1
+04:52,[PHO] Copper Turnover : Bad Pass (2 TO) Steal:McBride (1 ST),34,260,5,203825,1627674,,1611661317,5,16,0,1
+04:48,[MIN] McBride Turnover : Bad Pass (1 TO) Steal:Billings (1 ST),-96,275,5,1628881,203825,,1611661324,5,16,0,1
+04:45,[PHO] Billings Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-95,217,5,,1628881,100697,1611661317,5,16,0,1
+04:45,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,5,16,0,1
+04:32,[MIN] Smith Turnover : Traveling (1 TO),1,237,5,,1629501,200667,1611661324,5,16,0,1
+04:18,[PHO] Mack Turnaround Jump Shot: Missed,78,1,2,,1630442,,1611661317,5,16,0,1
+04:16,[MIN] Smith Rebound (Off:1 Def:1),78,1,4,,1629501,,1611661324,5,16,0,1
+04:07,[MIN 18-5] Williams Pullup Jump shot: Made (4 PTS),-88,89,1,,1627675,,1611661324,5,18,2,1
+03:53,[PHO] Copper Pullup Jump shot: Missed,121,45,2,,1627674,,1611661317,5,18,0,1
+03:52,[PHO] Team Rebound,121,45,4,,0,,1611661317,5,18,0,1
+03:52,[MIN] Smith Foul: Loose Ball (1 PF),-40,19,6,1628881,1629501,100697,1611661324,5,18,0,1
+03:52,[PHO] Billings Substitution replaced by Taylor,0,-80,8,,1628881,1642298,1611661317,5,18,0,1
+03:52,[MIN] Smith Substitution replaced by Hines-Allen,0,-80,8,,1629501,1628899,1611661324,5,18,0,1
+03:38,[PHO] Mack Turnover : Out of Bounds Lost Ball Turnover (1 TO),-34,22,5,,1630442,200667,1611661317,5,18,0,1
+03:32,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,5,18,0,1
+03:22,[MIN] Collier Turnaround Fadeaway shot: Missed,-74,24,2,,1629483,,1611661324,5,18,0,1
+03:15,[MIN] Hines-Allen Rebound (Off:1 Def:0),-74,24,4,,1628899,,1611661324,5,18,0,1
+03:15,[MIN 20-5] Hines-Allen Putback Layup Shot: Made (2 PTS),0,-5,1,,1628899,,1611661324,5,20,2,1
+03:10,[PHO 8-20] Cunningham 3pt Shot: Made (3 PTS) Assist: Cloud (1 AST),71,265,1,,1629482,204333,1611661317,8,20,3,1
+02:54,[MIN] Williams Reverse Layup Shot: Missed Block: Mack (1 BLK),-52,17,2,1630442,1627675,,1611661324,8,20,0,1
+02:52,[PHO] Mack Rebound (Off:0 Def:2),-52,17,4,,1630442,,1611661317,8,20,0,1
+02:46,[PHO] Copper Driving Layup Shot: Missed,-21,48,2,,1627674,,1611661317,8,20,0,1
+02:44,[PHO] Mack Rebound (Off:1 Def:2),-21,48,4,,1630442,,1611661317,8,20,0,1
+02:42,[PHO] Cunningham 3pt Shot: Missed,-104,238,2,,1629482,,1611661317,8,20,0,1
+02:40,[PHO] Taylor Rebound (Off:1 Def:0),-104,238,4,,1642298,,1611661317,8,20,0,1
+02:36,[PHO] Copper Turnover : Step Out of Bounds Turnover (3 TO),-29,-31,5,,1627674,200667,1611661317,8,20,0,1
+02:36,[PHO] Copper Substitution replaced by Taurasi,0,-80,8,,1627674,100940,1611661317,8,20,0,1
+02:36,[MIN] Carleton Substitution replaced by Hiedeman,0,-80,8,,1629524,1629567,1611661324,8,20,0,1
+02:36,[MIN] Williams Substitution replaced by Zandalasini,0,-80,8,,1627675,1628508,1611661324,8,20,0,1
+02:14,[MIN 23-8] Hiedeman 3pt Shot: Made (3 PTS) Assist: McBride (1 AST),-233,22,1,,1629567,203825,1611661324,8,23,3,1
+01:59,[PHO] Cloud Pullup Jump shot: Missed,46,180,2,,204333,,1611661317,8,23,0,1
+01:57,[MIN] Hines-Allen Rebound (Off:1 Def:1),46,180,4,,1628899,,1611661324,8,23,0,1
+01:47,[MIN] Collier Turnover : Bad Pass (1 TO) Steal:Mack (1 ST),-24,156,5,1630442,1629483,,1611661324,8,23,0,1
+01:38,[PHO 10-23] Cunningham Driving Reverse Layup Shot: Made (5 PTS),-16,5,1,,1629482,,1611661317,10,23,2,1
+01:38,[MIN] Zandalasini Foul: Shooting (1 PF) (1 FTA),-12,12,6,1629482,1628508,200667,1611661324,10,23,0,1
+01:38,[PHO] Cloud Substitution replaced by Griner,0,-80,8,,204333,203398,1611661317,10,23,0,1
+01:38,[MIN] McBride Substitution replaced by Miller,0,-80,8,,203825,1641649,1611661324,10,23,0,1
+01:38,[PHO 11-23] Cunningham Free Throw 1 of 1 (6 PTS),0,-80,3,,1629482,,1611661317,11,23,1,1
+01:25,[MIN] Zandalasini 3pt Shot: Missed,142,192,2,,1628508,,1611661324,11,23,0,1
+01:21,[PHO] Cunningham Rebound (Off:0 Def:1),142,192,4,,1629482,,1611661317,11,23,0,1
+01:09,[MIN] Zandalasini Foul: Shooting (2 PF) (2 FTA),-44,137,6,100940,1628508,100697,1611661324,11,23,0,1
+01:09,[PHO] Taurasi Free Throw 1 of 2 Missed,0,-80,3,,100940,,1611661317,11,23,0,1
+01:09,[PHO] Team Rebound,0,-80,4,,0,,1611661317,11,23,0,1
+01:09,[MIN] Zandalasini Substitution replaced by McBride,0,-80,8,,1628508,203825,1611661324,11,23,0,1
+01:09,[PHO] Taurasi Free Throw 2 of 2 Missed,0,-80,3,,100940,,1611661317,11,23,0,1
+01:07,[MIN] Miller Rebound (Off:0 Def:1),0,-80,4,,1641649,,1611661324,11,23,0,1
+00:55.8,[MIN] Collier Jump Shot: Missed,189,35,2,,1629483,,1611661324,11,23,0,1
+00:53.9,[PHO] Team Rebound,189,35,4,,0,,1611661317,11,23,0,1
+00:53.9,[MIN] Miller Foul: Loose Ball (1 PF) (2 FTA),-55,769,6,1629482,1641649,1630880,1611661324,11,23,0,1
+00:53.9,[PHO 12-23] Cunningham Free Throw 1 of 2 (7 PTS),0,-80,3,,1629482,,1611661317,12,23,1,1
+00:53.9,[MIN] Collier Substitution replaced by Smith,0,-80,8,,1629483,1629501,1611661324,12,23,0,1
+00:53.9,[PHO 13-23] Cunningham Free Throw 2 of 2 (8 PTS),0,-80,3,,1629482,,1611661317,13,23,1,1
+00:45.8,[MIN] Hiedeman 3pt Shot: Missed,-147,188,2,,1629567,,1611661324,13,23,0,1
+00:43.0,[PHO] Cunningham Rebound (Off:0 Def:2),-147,188,4,,1629482,,1611661317,13,23,0,1
+00:35.3,[MIN] Smith Foul: Shooting (2 PF) (2 FTA),-35,12,6,203398,1629501,100697,1611661324,13,23,0,1
+00:35.3,[PHO 14-23] Griner Free Throw 1 of 2 (1 PTS),0,-80,3,,203398,,1611661317,14,23,1,1
+00:35.3,[MIN] Smith Substitution replaced by Juhász,0,-80,8,,1629501,1641657,1611661324,14,23,0,1
+00:35.3,[PHO 15-23] Griner Free Throw 2 of 2 (2 PTS),0,-80,3,,203398,,1611661317,15,23,1,1
+00:20.6,[MIN 25-15] Miller Driving Layup Shot: Made (2 PTS) Assist: Hiedeman (1 AST),-30,13,1,,1641649,1629567,1611661324,15,25,2,1
+00:01.5,[PHO] Taurasi 3pt Shot: Missed,234,27,2,,100940,,1611661317,15,25,0,1
+00:01.5,[MIN] McBride Rebound (Off:0 Def:1),234,27,4,,203825,,1611661324,15,25,0,1
+00:00.0,End Period,0,-80,13,,0,,0,15,25,0,1
+10:00,Start Period,0,-80,12,,0,,0,15,25,0,2
+09:46,[MIN] Juhász Turnover : Out of Bounds - Bad Pass Turnover (1 TO),77,20,5,,1641657,200667,1611661324,15,25,0,2
+09:28,[MIN] Hines-Allen Foul: Shooting (1 PF) (2 FTA),13,48,6,203398,1628899,1630880,1611661324,15,25,0,2
+09:28,[PHO] Griner Free Throw 1 of 2 Missed,0,-80,3,,203398,,1611661317,15,25,0,2
+09:28,[PHO] Team Rebound,0,-80,4,,0,,1611661317,15,25,0,2
+09:28,[PHO 16-25] Griner Free Throw 2 of 2 (3 PTS),0,-80,3,,203398,,1611661317,16,25,1,2
+09:10,[MIN] McBride Turnover : Lost Ball (2 TO) Steal:Griner (1 ST),62,84,5,203398,203825,,1611661324,16,25,0,2
+09:04,[PHO 18-25] Taurasi Running Finger Roll Layup Shot: Made (5 PTS),-9,17,1,,100940,,1611661317,18,25,2,2
+08:49,[MIN 28-18] Juhász 3pt Shot: Made (3 PTS) Assist: Hiedeman (2 AST),-199,130,1,,1641657,1629567,1611661324,18,28,3,2
+08:33,[PHO] Cunningham 3pt Shot: Missed,110,227,2,,1629482,,1611661317,18,28,0,2
+08:33,[MIN] Miller Rebound (Off:0 Def:2),110,227,4,,1641649,,1611661324,18,28,0,2
+08:24,[MIN] Miller Running Finger Roll Layup Shot: Missed,10,25,2,,1641649,,1611661324,18,28,0,2
+08:22,[PHO] Griner Rebound (Off:0 Def:2),10,25,4,,203398,,1611661317,18,28,0,2
+08:16,[PHO] Taurasi Running Layup Shot: Missed Block: Juhász (1 BLK),-22,19,2,1641657,100940,,1611661317,18,28,0,2
+08:13,[MIN] Hines-Allen Rebound (Off:1 Def:2),-22,19,4,,1628899,,1611661324,18,28,0,2
+08:10,[MIN 30-18] Hiedeman Running Layup Shot: Made (5 PTS) Assist: McBride (2 AST),-13,13,1,,1629567,203825,1611661324,18,30,2,2
+08:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,30,0,2
+08:02,[PHO] Taylor Substitution replaced by Cloud,0,-80,8,,1642298,204333,1611661317,18,30,0,2
+08:02,[MIN] Juhász Substitution replaced by Collier,0,-80,8,,1641657,1629483,1611661324,18,30,0,2
+07:48,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,18,30,0,2
+07:44,[PHO] Griner Turnaround Jump Shot: Missed,71,74,2,,203398,,1611661317,18,30,0,2
+07:44,[PHO] Taurasi Rebound (Off:1 Def:0),71,74,4,,100940,,1611661317,18,30,0,2
+07:42,[PHO 20-30] Taurasi Putback Layup Shot: Made (7 PTS),28,12,1,,100940,,1611661317,20,30,2,2
+07:42,[MIN] Collier Foul: Shooting (1 PF) (1 FTA),32,29,6,100940,1629483,100697,1611661324,20,30,0,2
+07:42,[PHO] Taurasi Free Throw 1 of 1 Missed,0,-80,3,,100940,,1611661317,20,30,0,2
+07:39,[MIN] Miller Rebound (Off:0 Def:3),0,-80,4,,1641649,,1611661324,20,30,0,2
+07:31,[MIN 33-20] Hines-Allen 3pt Shot: Made (5 PTS) Assist: Hiedeman (3 AST),182,155,1,,1628899,1629567,1611661324,20,33,3,2
+07:16,[PHO] Griner 3pt Shot: Missed,15,253,2,,203398,,1611661317,20,33,0,2
+07:13,[MIN] Collier Rebound (Off:1 Def:2),15,253,4,,1629483,,1611661324,20,33,0,2
+07:04,[MIN] Collier Jump Shot: Missed,-138,26,2,,1629483,,1611661324,20,33,0,2
+07:01,[PHO] Cloud Rebound (Off:0 Def:1),-138,26,4,,204333,,1611661317,20,33,0,2
+06:54,[MIN] Hiedeman Foul: Shooting (1 PF) (2 FTA),1,37,6,1627674,1629567,200667,1611661324,20,33,0,2
+06:54,[PHO 21-33] Copper Free Throw 1 of 2 (1 PTS),0,-80,3,,1627674,,1611661317,21,33,1,2
+06:54,[PHO] Taurasi Substitution replaced by Mack,0,-80,8,,100940,1630442,1611661317,21,33,0,2
+06:54,[PHO] Griner Substitution replaced by Billings,0,-80,8,,203398,1628881,1611661317,21,33,0,2
+06:54,[MIN] Hiedeman Substitution replaced by Williams,0,-80,8,,1629567,1627675,1611661324,21,33,0,2
+06:54,[PHO 22-33] Copper Free Throw 2 of 2 (2 PTS),0,-80,3,,1627674,,1611661317,22,33,1,2
+06:34,[MIN] Williams Jump Shot: Missed,-97,169,2,,1627675,,1611661324,22,33,0,2
+06:31,[MIN] Miller Rebound (Off:1 Def:3),-97,169,4,,1641649,,1611661324,22,33,0,2
+06:26,[MIN 35-22] Hines-Allen Cutting Finger Roll Layup Shot: Made (7 PTS) Assist: Miller (1 AST),-15,15,1,,1628899,1641649,1611661324,22,35,2,2
+06:16,[PHO 24-35] Cloud Driving Finger Roll Layup Shot: Made (4 PTS),17,8,1,,204333,,1611661317,24,35,2,2
+06:04,[MIN] McBride 3pt Shot: Missed,121,212,2,,203825,,1611661324,24,35,0,2
+06:02,[PHO] Team Rebound,121,212,4,,0,,1611661317,24,35,0,2
+06:02,[MIN] McBride Substitution replaced by Carleton,0,-80,8,,203825,1629524,1611661324,24,35,0,2
+05:53,[PHO 27-35] Cloud 3pt Shot: Made (7 PTS),-117,212,1,,204333,,1611661317,27,35,3,2
+05:36,[MIN] Collier Turnover : Traveling (2 TO),72,53,5,,1629483,200667,1611661324,27,35,0,2
+05:36,Timeout : Official,0,-80,9,,0,,0,27,35,0,2
+05:14,[PHO] Cunningham 3pt Shot: Missed,-110,232,2,,1629482,,1611661317,27,35,0,2
+05:09,[PHO] Copper Rebound (Off:1 Def:0),-110,232,4,,1627674,,1611661317,27,35,0,2
+05:04,[PHO 29-35] Billings Pullup Jump shot: Made (2 PTS) Assist: Cloud (2 AST),110,55,1,,1628881,204333,1611661317,29,35,2,2
+04:46,[MIN] Williams 3pt Shot: Missed,-105,224,2,,1627675,,1611661324,29,35,0,2
+04:43,[PHO] Mack Rebound (Off:1 Def:3),-105,224,4,,1630442,,1611661317,29,35,0,2
+04:32,[PHO] Cloud Turnaround Fadeaway shot: Missed,55,80,2,,204333,,1611661317,29,35,0,2
+04:28,[MIN] Collier Rebound (Off:1 Def:3),55,80,4,,1629483,,1611661324,29,35,0,2
+04:25,[PHO] Copper Foul: Shooting (3 PF) (2 FTA),17,20,6,1628899,1627674,1630880,1611661317,29,35,0,2
+04:25,[MIN 36-29] Hines-Allen Free Throw 1 of 2 (8 PTS),0,-80,3,,1628899,,1611661324,29,36,1,2
+04:25,[PHO] Copper Substitution replaced by Taurasi,0,-80,8,,1627674,100940,1611661317,29,36,0,2
+04:25,[PHO] Mack Substitution replaced by Griner,0,-80,8,,1630442,203398,1611661317,29,36,0,2
+04:25,[MIN 37-29] Hines-Allen Free Throw 2 of 2 (9 PTS),0,-80,3,,1628899,,1611661324,29,37,1,2
+04:01,[PHO] Billings Turnover : Bad Pass (3 TO) Steal:Hines-Allen (1 ST),99,121,5,1628899,1628881,,1611661317,29,37,0,2
+03:56,[PHO] Billings Foul: Shooting (1 PF) (2 FTA),-28,22,6,1641649,1628881,100697,1611661317,29,37,0,2
+03:56,[MIN 38-29] Miller Free Throw 1 of 2 (3 PTS),0,-80,3,,1641649,,1611661324,29,38,1,2
+03:56,[MIN] Miller Free Throw 2 of 2 Missed,0,-80,3,,1641649,,1611661324,29,38,0,2
+03:51,[PHO] Billings Rebound (Off:2 Def:2),0,-80,4,,1628881,,1611661317,29,38,0,2
+03:42,[PHO 31-38] Taurasi Driving Floating Bank Jump Shot: Made (9 PTS),54,28,1,,100940,,1611661317,31,38,2,2
+03:28,[MIN 40-31] Williams Pullup Jump shot: Made (6 PTS) Assist: Collier (1 AST),53,139,1,,1627675,1629483,1611661324,31,40,2,2
+03:02,[PHO] Cloud Pullup Jump shot: Missed,27,150,2,,204333,,1611661317,31,40,0,2
+03:00,[MIN] Williams Rebound (Off:0 Def:1),27,150,4,,1627675,,1611661324,31,40,0,2
+02:54,[MIN] Hines-Allen 3pt Shot: Missed,-113,215,2,,1628899,,1611661324,31,40,0,2
+02:50,[PHO] Griner Rebound (Off:0 Def:3),-113,215,4,,203398,,1611661317,31,40,0,2
+02:45,[PHO 33-40] Taurasi Driving Layup Shot: Made (11 PTS) Assist: Cloud (3 AST),-11,45,1,,100940,204333,1611661317,33,40,2,2
+02:45,[MIN] Carleton Foul: Shooting (1 PF) (1 FTA),-12,33,6,100940,1629524,1630880,1611661324,33,40,0,2
+02:45,Timeout : Regular,0,-80,9,,1611661324,,1611661324,33,40,0,2
+02:45,[PHO] Billings Substitution replaced by Herbert Harrigan,0,-80,8,,1628881,1630114,1611661317,33,40,0,2
+02:45,[MIN] Miller Substitution replaced by McBride,0,-80,8,,1641649,203825,1611661324,33,40,0,2
+02:45,[PHO] Taurasi Free Throw 1 of 1 Missed,0,-80,3,,100940,,1611661317,33,40,0,2
+02:44,[MIN] Hines-Allen Rebound (Off:1 Def:3),0,-80,4,,1628899,,1611661324,33,40,0,2
+02:23,[MIN 43-33] Carleton 3pt Shot: Made (9 PTS) Assist: Collier (2 AST),139,209,1,,1629524,1629483,1611661324,33,43,3,2
+02:07,[PHO] Cloud Turnover : Out of Bounds - Bad Pass Turnover (2 TO),96,168,5,,204333,100697,1611661317,33,43,0,2
+01:54,[MIN] McBride 3pt Shot: Missed,-200,122,2,,203825,,1611661324,33,43,0,2
+01:51,[PHO] Griner Rebound (Off:0 Def:4),-200,122,4,,203398,,1611661317,33,43,0,2
+01:39,[PHO] Cloud Pullup Jump shot: Missed,-16,136,2,,204333,,1611661317,33,43,0,2
+01:37,[PHO] Cloud Rebound (Off:1 Def:1),-16,136,4,,204333,,1611661317,33,43,0,2
+01:35,[PHO 35-43] Cunningham Pullup Jump shot: Made (10 PTS) Assist: Cloud (4 AST),161,66,1,,1629482,204333,1611661317,35,43,2,2
+01:26,[MIN] McBride Cutting Layup Shot: Missed Block: Cloud (1 BLK),43,47,2,204333,203825,,1611661324,35,43,0,2
+01:26,[MIN] McBride Rebound (Off:1 Def:1),43,47,4,,203825,,1611661324,35,43,0,2
+01:25,[PHO] Herbert Harrigan Foul: Shooting (1 PF) (2 FTA),26,25,6,203825,1630114,200667,1611661317,35,43,0,2
+01:25,[MIN] McBride Free Throw 1 of 2 Missed,0,-80,3,,203825,,1611661324,35,43,0,2
+01:25,[MIN] Team Rebound,0,-80,4,,0,,1611661324,35,43,0,2
+01:25,[MIN 44-35] McBride Free Throw 2 of 2 (6 PTS),0,-80,3,,203825,,1611661324,35,44,1,2
+01:06,[PHO] Griner Layup Shot: Missed Block: Collier (1 BLK),-11,26,2,1629483,203398,,1611661317,35,44,0,2
+01:05,[PHO] Cunningham Rebound (Off:1 Def:2),-11,26,4,,1629482,,1611661317,35,44,0,2
+01:02,[MIN] Collier Foul: Personal (2 PF) (2 FTA),33,10,6,1629482,1629483,200667,1611661324,35,44,0,2
+01:02,[PHO 36-44] Cunningham Free Throw 1 of 2 (11 PTS),0,-80,3,,1629482,,1611661317,36,44,1,2
+01:02,[PHO 37-44] Cunningham Free Throw 2 of 2 (12 PTS),0,-80,3,,1629482,,1611661317,37,44,1,2
+00:41.3,[MIN] Williams Turnover : Lost Ball (1 TO) Steal:Taurasi (1 ST),-61,255,5,100940,1627675,,1611661324,37,44,0,2
+00:31.3,[PHO] Cloud Pullup Jump shot: Missed,-102,135,2,,204333,,1611661317,37,44,0,2
+00:27.6,[MIN] Williams Rebound (Off:0 Def:2),-102,135,4,,1627675,,1611661324,37,44,0,2
+00:10.8,[MIN 46-37] Williams Pullup Jump shot: Made (8 PTS),-15,197,1,,1627675,,1611661324,37,46,2,2
+00:02.2,[PHO] Herbert Harrigan 3pt Shot: Missed,166,182,2,,1630114,,1611661317,37,46,0,2
+00:02.2,[MIN] Williams Rebound (Off:0 Def:3),166,182,4,,1627675,,1611661324,37,46,0,2
+00:00.0,End Period,0,-80,13,,0,,0,37,46,0,2
+10:00,Start Period,0,-80,12,,0,,0,37,46,0,3
+09:46,[PHO] Taurasi Foul: Personal (2 PF),5,306,6,1629524,100940,200667,1611661317,37,46,0,3
+09:41,[MIN] McBride Turnover : Lost Ball (3 TO) Steal:Taurasi (2 ST),46,215,5,100940,203825,,1611661324,37,46,0,3
+09:35,[PHO] Cloud Turnover : Bad Pass (3 TO) Steal:Smith (1 ST),0,196,5,1629501,204333,,1611661317,37,46,0,3
+09:30,[MIN] Williams Turnover : Out of Bounds Lost Ball Turnover (2 TO),124,140,5,,1627675,100697,1611661324,37,46,0,3
+09:17,[PHO] Griner Turnaround Jump Shot: Missed,95,19,2,,203398,,1611661317,37,46,0,3
+09:14,[MIN] Collier Rebound (Off:1 Def:4),95,19,4,,1629483,,1611661324,37,46,0,3
+09:08,[MIN 49-37] Collier 3pt Shot: Made (5 PTS) Assist: Williams (3 AST),-159,174,1,,1629483,1627675,1611661324,37,49,3,3
+08:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,49,0,3
+08:38,[PHO] Cloud Pullup Jump shot: Missed,61,181,2,,204333,,1611661317,37,49,0,3
+08:36,[MIN] Team Rebound,61,181,4,,0,,1611661324,37,49,0,3
+08:27,[MIN] McBride 3pt Shot: Missed,-16,248,2,,203825,,1611661324,37,49,0,3
+08:25,[PHO] Taurasi Rebound (Off:1 Def:1),-16,248,4,,100940,,1611661317,37,49,0,3
+08:19,[PHO 39-49] Taurasi Running Pull-Up Jump Shot: Made (13 PTS),-74,167,1,,100940,,1611661317,39,49,2,3
+07:56,[MIN] Collier Driving Layup Shot: Missed Block: Cloud (2 BLK),16,19,2,204333,1629483,,1611661324,39,49,0,3
+07:53,[MIN] Collier Rebound (Off:2 Def:4),16,19,4,,1629483,,1611661324,39,49,0,3
+07:51,[MIN 51-39] Smith Turnaround Fadeaway shot: Made (3 PTS) Assist: McBride (3 AST),-5,50,1,,1629501,203825,1611661324,39,51,2,3
+07:38,[PHO 41-51] Griner Cutting Layup Shot: Made (5 PTS) Assist: Taurasi (2 AST),17,27,1,,203398,100940,1611661317,41,51,2,3
+07:18,[MIN 53-41] McBride Pullup Jump shot: Made (8 PTS) Assist: Williams (4 AST),102,38,1,,203825,1627675,1611661324,41,53,2,3
+07:01,[PHO] Griner Pullup Jump shot: Missed,17,116,2,,203398,,1611661317,41,53,0,3
+06:59,[MIN] Carleton Rebound (Off:0 Def:2),17,116,4,,1629524,,1611661324,41,53,0,3
+06:51,[MIN 56-41] McBride 3pt Shot: Made (11 PTS) Assist: Carleton (1 AST),232,21,1,,203825,1629524,1611661324,41,56,3,3
+06:51,Timeout : Regular,0,-80,9,,1611661317,,1611661317,41,56,0,3
+06:41,[PHO] Copper Step Back Jump shot: Missed Block: Smith (1 BLK),57,53,2,1629501,1627674,,1611661317,41,56,0,3
+06:38,[MIN] McBride Rebound (Off:1 Def:2),57,53,4,,203825,,1611661324,41,56,0,3
+06:28,[MIN] Collier Turnaround Jump Shot: Missed,-5,114,2,,1629483,,1611661324,41,56,0,3
+06:26,[PHO] Griner Rebound (Off:0 Def:5),-5,114,4,,203398,,1611661317,41,56,0,3
+06:19,[PHO] Copper Pullup Jump shot: Missed,17,151,2,,1627674,,1611661317,41,56,0,3
+06:17,[MIN] Carleton Rebound (Off:0 Def:3),17,151,4,,1629524,,1611661324,41,56,0,3
+06:11,[MIN 58-41] Williams Running Pull-Up Jump Shot: Made (10 PTS) Assist: Carleton (2 AST),86,131,1,,1627675,1629524,1611661324,41,58,2,3
+05:43,[PHO] Griner Turnaround Jump Shot: Missed,-46,161,2,,203398,,1611661317,41,58,0,3
+05:43,[MIN] Team Rebound,-46,161,4,,0,,1611661324,41,58,0,3
+05:27,[MIN 61-41] McBride 3pt Shot: Made (14 PTS) Assist: Collier (3 AST),-230,27,1,,203825,1629483,1611661324,41,61,3,3
+05:01,[PHO 43-61] Billings Driving Finger Roll Layup Shot: Made (4 PTS) Assist: Cloud (5 AST),7,25,1,,1628881,204333,1611661317,43,61,2,3
+04:40,[MIN] Smith Jump Shot: Missed,178,-6,2,,1629501,,1611661324,43,61,0,3
+04:38,[PHO] Griner Rebound (Off:0 Def:6),178,-6,4,,203398,,1611661317,43,61,0,3
+04:35,[MIN] Collier Foul: Shooting (3 PF) (2 FTA),31,30,6,1627674,1629483,200667,1611661324,43,61,0,3
+04:35,[PHO 44-61] Copper Free Throw 1 of 2 (3 PTS),0,-80,3,,1627674,,1611661317,44,61,1,3
+04:35,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,44,61,0,3
+04:35,[PHO] Copper Free Throw 2 of 2 Missed,0,-80,3,,1627674,,1611661317,44,61,0,3
+04:33,[PHO] Griner Rebound (Off:1 Def:6),0,-80,4,,203398,,1611661317,44,61,0,3
+04:31,[PHO] Griner Putback Layup Shot: Missed,24,25,2,,203398,,1611661317,44,61,0,3
+04:26,[MIN] Smith Rebound (Off:1 Def:2),24,25,4,,1629501,,1611661324,44,61,0,3
+04:25,[MIN] Smith Turnover : Lost Ball (2 TO) Steal:Billings (2 ST),-13,770,5,1628881,1629501,,1611661324,44,61,0,3
+04:17,[PHO 46-61] Griner Cutting Layup Shot: Made (7 PTS) Assist: Billings (2 AST),-24,17,1,,203398,1628881,1611661317,46,61,2,3
+03:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,61,0,3
+03:55,[MIN 63-46] McBride Cutting Layup Shot: Made (16 PTS) Assist: Collier (4 AST),-16,19,1,,203825,1629483,1611661324,46,63,2,3
+03:44,[PHO] Cloud Driving Layup Shot: Missed,-26,21,2,,204333,,1611661317,46,63,0,3
+03:43,[MIN] Team Rebound,-26,21,4,,0,,1611661324,46,63,0,3
+03:26,[MIN 65-46] Williams Jump Shot: Made (12 PTS) Assist: Carleton (3 AST),-23,205,1,,1627675,1629524,1611661324,46,65,2,3
+03:11,[PHO] Billings Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-26,245,5,,1628881,100697,1611661317,46,65,0,3
+03:11,[MIN] Smith Substitution replaced by Hines-Allen,0,-80,8,,1629501,1628899,1611661324,46,65,0,3
+02:51,[MIN] Carleton Fadeaway Jump Shot: Missed,-74,23,2,,1629524,,1611661324,46,65,0,3
+02:46,[MIN] Collier Rebound (Off:3 Def:4),-74,23,4,,1629483,,1611661324,46,65,0,3
+02:45,[MIN] Carleton 3pt Shot: Missed,-189,144,2,,1629524,,1611661324,46,65,0,3
+02:45,[PHO] Cunningham Rebound (Off:1 Def:3),-189,144,4,,1629482,,1611661317,46,65,0,3
+02:41,[PHO] Cunningham Turnover : Lost Ball (1 TO) Steal:Hines-Allen (2 ST),-28,780,5,1628899,1629482,,1611661317,46,65,0,3
+02:37,[MIN 67-46] Hines-Allen Layup Shot: Made (11 PTS),30,-1,1,,1628899,,1611661324,46,67,2,3
+02:21,[PHO] Griner Turnaround Hook Shot: Missed,-28,24,2,,203398,,1611661317,46,67,0,3
+02:18,[MIN] Collier Rebound (Off:3 Def:5),-28,24,4,,1629483,,1611661324,46,67,0,3
+02:10,[MIN 69-46] Williams Pullup Jump shot: Made (14 PTS),-65,187,1,,1627675,,1611661324,46,69,2,3
+02:09,Timeout : Regular,0,-80,9,,1611661317,,1611661317,46,69,0,3
+02:09,[PHO] Billings Substitution replaced by Taurasi,0,-80,8,,1628881,100940,1611661317,46,69,0,3
+02:09,[PHO] Griner Substitution replaced by Mack,0,-80,8,,203398,1630442,1611661317,46,69,0,3
+02:09,[MIN] Carleton Substitution replaced by Hiedeman,0,-80,8,,1629524,1629567,1611661324,46,69,0,3
+02:09,[MIN] Williams Substitution replaced by Miller,0,-80,8,,1627675,1641649,1611661324,46,69,0,3
+01:59,[MIN] Miller Foul: Shooting (2 PF) (2 FTA),27,22,6,1627674,1641649,1630880,1611661324,46,69,0,3
+01:59,[PHO 47-69] Copper Free Throw 1 of 2 (4 PTS),0,-80,3,,1627674,,1611661317,47,69,1,3
+01:59,[PHO 48-69] Copper Free Throw 2 of 2 (5 PTS),0,-80,3,,1627674,,1611661317,48,69,1,3
+01:46,[MIN] Hines-Allen Cutting Layup Shot: Missed,41,22,2,,1628899,,1611661324,48,69,0,3
+01:43,[MIN] Hines-Allen Rebound (Off:2 Def:3),41,22,4,,1628899,,1611661324,48,69,0,3
+01:43,[MIN] Hines-Allen Putback Layup Shot: Missed,-39,15,2,,1628899,,1611661324,48,69,0,3
+01:43,[PHO] Taurasi Rebound (Off:1 Def:2),-39,15,4,,100940,,1611661317,48,69,0,3
+01:43,[PHO] Tibbetts Technical (1 FTA),0,-80,6,,202891,200667,1611661317,48,69,0,3
+01:43,[MIN] McBride Free Throw Technical Missed,0,-80,3,,203825,,1611661324,48,69,0,3
+01:43,[PHO] Team Rebound,0,-80,4,,0,,1611661317,48,69,0,3
+01:29,[PHO] Cloud 3pt Shot: Missed,-130,204,2,,204333,,1611661317,48,69,0,3
+01:26,[PHO] Mack Rebound (Off:2 Def:3),-130,204,4,,1630442,,1611661317,48,69,0,3
+01:24,[PHO 50-69] Mack Putback Layup Shot: Made (2 PTS),17,28,1,,1630442,,1611661317,50,69,2,3
+01:06,[MIN] Hines-Allen Turnover : Traveling (1 TO),-154,177,5,,1628899,200667,1611661324,50,69,0,3
+01:06,[MIN] McBride Substitution replaced by Carleton,0,-80,8,,203825,1629524,1611661324,50,69,0,3
+00:48.7,[PHO] Taurasi 3pt Shot: Missed,-95,220,2,,100940,,1611661317,50,69,0,3
+00:46.2,[PHO] Mack Rebound (Off:3 Def:3),-95,220,4,,1630442,,1611661317,50,69,0,3
+00:42.6,[PHO] Cunningham 3pt Shot: Missed,184,149,2,,1629482,,1611661317,50,69,0,3
+00:40.2,[PHO] Mack Rebound (Off:4 Def:3),184,149,4,,1630442,,1611661317,50,69,0,3
+00:39.2,[PHO] Mack Putback Layup Shot: Missed,-33,14,2,,1630442,,1611661317,50,69,0,3
+00:39.2,[MIN] Carleton Rebound (Off:0 Def:4),-33,14,4,,1629524,,1611661324,50,69,0,3
+00:33.4,[MIN] Carleton Turnover : Bad Pass (1 TO) Steal:Mack (2 ST),44,279,5,1630442,1629524,,1611661324,50,69,0,3
+00:27.9,[PHO 52-69] Mack Cutting Layup Shot: Made (4 PTS) Assist: Taurasi (3 AST),-26,8,1,,1630442,100940,1611661317,52,69,2,3
+00:04.2,[MIN 71-52] Collier Pullup Jump shot: Made (7 PTS) Assist: Carleton (4 AST),-22,123,1,,1629483,1629524,1611661324,52,71,2,3
+00:00.0,End Period,0,-80,13,,0,,0,52,71,0,3
+10:00,Start Period,0,-80,12,,0,,0,52,71,0,4
+09:43,[PHO] Cunningham Foul: Offensive (1 PF),-93,237,6,1629524,1629482,1630880,1611661317,52,71,0,4
+09:43,[PHO] Cunningham Turnover : Offensive Foul Turnover (2 TO),-93,237,5,,1629482,1630880,1611661317,52,71,0,4
+09:29,[MIN] Miller 3pt Shot: Missed,177,172,2,,1641649,,1611661324,52,71,0,4
+09:25,[PHO] Cloud Rebound (Off:1 Def:2),177,172,4,,204333,,1611661317,52,71,0,4
+09:20,[PHO] Copper 3pt Shot: Missed,-157,191,2,,1627674,,1611661317,52,71,0,4
+09:17,[MIN] Miller Rebound (Off:1 Def:4),-157,191,4,,1641649,,1611661324,52,71,0,4
+09:04,[MIN] Hiedeman 3pt Shot: Missed,99,244,2,,1629567,,1611661324,52,71,0,4
+09:00,[PHO] Cunningham Rebound (Off:1 Def:4),99,244,4,,1629482,,1611661317,52,71,0,4
+08:55,[PHO] Taurasi Running Layup Shot: Missed Block: Hines-Allen (1 BLK),20,22,2,1628899,100940,,1611661317,52,71,0,4
+08:55,[MIN] Team Rebound,20,22,4,,0,,1611661324,52,71,0,4
+08:55,[PHO] Mack Foul: Loose Ball (1 PF),15,764,6,1628899,1630442,200667,1611661317,52,71,0,4
+08:37,[PHO] Copper Violation:Kicked Ball,0,-80,7,,1627674,,1611661317,52,71,0,4
+08:26,[MIN 74-52] Hiedeman 3pt Shot: Made (8 PTS) Assist: Hines-Allen (1 AST),-149,199,1,,1629567,1628899,1611661324,52,74,3,4
+08:14,[PHO 54-74] Cloud Pullup Jump shot: Made (9 PTS),-66,169,1,,204333,,1611661317,54,74,2,4
+07:58,[PHO] Taurasi Foul: Personal (3 PF),-87,137,6,1641657,100940,1630880,1611661317,54,74,0,4
+07:58,[MIN] Miller Substitution replaced by McBride,0,-80,8,,1641649,203825,1611661324,54,74,0,4
+07:50,[MIN] Hiedeman Driving Finger Roll Layup Shot: Missed,-9,10,2,,1629567,,1611661324,54,74,0,4
+07:46,[MIN] Juhász Rebound (Off:1 Def:0),-9,10,4,,1641657,,1611661324,54,74,0,4
+07:46,[MIN 76-54] Juhász Putback Layup Shot: Made (5 PTS),0,-5,1,,1641657,,1611661324,54,76,2,4
+07:35,[MIN] Hines-Allen Foul: Shooting (2 PF) (2 FTA),26,31,6,1629482,1628899,1630880,1611661324,54,76,0,4
+07:35,[PHO 55-76] Cunningham Free Throw 1 of 2 (13 PTS),0,-80,3,,1629482,,1611661317,55,76,1,4
+07:35,[PHO] Mack Substitution replaced by Griner,0,-80,8,,1630442,203398,1611661317,55,76,0,4
+07:35,[PHO 56-76] Cunningham Free Throw 2 of 2 (14 PTS),0,-80,3,,1629482,,1611661317,56,76,1,4
+07:26,[MIN] Hiedeman Pullup Jump shot: Missed,-32,55,2,,1629567,,1611661324,56,76,0,4
+07:24,[MIN] Hiedeman Rebound (Off:1 Def:0),-32,55,4,,1629567,,1611661324,56,76,0,4
+07:23,[MIN] Hiedeman Tip Layup Shot: Missed,-13,31,2,,1629567,,1611661324,56,76,0,4
+07:21,[MIN] Carleton Rebound (Off:1 Def:4),-13,31,4,,1629524,,1611661324,56,76,0,4
+07:21,[MIN] Hines-Allen 3pt Shot: Missed,-85,239,2,,1628899,,1611661324,56,76,0,4
+07:18,[PHO] Copper Rebound (Off:1 Def:1),-85,239,4,,1627674,,1611661317,56,76,0,4
+07:09,[PHO 58-76] Copper Pullup Jump shot: Made (7 PTS),67,115,1,,1627674,,1611661317,58,76,2,4
+06:49,[MIN] Hines-Allen Substitution replaced by Collier,0,-80,8,,1628899,1629483,1611661324,58,76,0,4
+06:47,[MIN] McBride Turnover : Jump Ball Violation (4 TO),0,-80,5,,203825,,1611661324,58,76,0,4
+06:47,[MIN] Juhász Substitution replaced by Smith,0,-80,8,,1641657,1629501,1611661324,58,76,0,4
+06:34,[PHO] Cloud Driving Layup Shot: Missed,21,32,2,,204333,,1611661317,58,76,0,4
+06:33,[PHO] Team Rebound,21,32,4,,0,,1611661317,58,76,0,4
+06:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,58,76,0,4
+06:29,[PHO 61-76] Taurasi 3pt Shot: Made (16 PTS) Assist: Griner (1 AST),134,212,1,,100940,203398,1611661317,61,76,3,4
+06:28,Timeout : Regular,0,-80,9,,1611661324,,1611661324,61,76,0,4
+06:28,[MIN] Hiedeman Substitution replaced by Williams,0,-80,8,,1629567,1627675,1611661324,61,76,0,4
+06:11,[MIN 78-61] Collier Cutting Layup Shot: Made (9 PTS) Assist: Smith (2 AST),38,34,1,,1629483,1629501,1611661324,61,78,2,4
+06:11,[PHO] Cloud Foul: Shooting (1 PF) (1 FTA),36,15,6,1629483,204333,1630880,1611661317,61,78,0,4
+06:11,[MIN 79-61] Collier Free Throw 1 of 1 (10 PTS),0,-80,3,,1629483,,1611661324,61,79,1,4
+05:55,[PHO 64-79] Griner 3pt Shot: Made (10 PTS) Assist: Cloud (6 AST),156,186,1,,203398,204333,1611661317,64,79,3,4
+05:29,[MIN] McBride Pullup Jump shot: Missed,22,223,2,,203825,,1611661324,64,79,0,4
+05:28,[PHO] Team Rebound,22,223,4,,0,,1611661317,64,79,0,4
+05:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,64,79,0,4
+05:15,[PHO] Taurasi 3pt Shot: Missed,-124,205,2,,100940,,1611661317,64,79,0,4
+05:13,[PHO] Copper Rebound (Off:2 Def:1),-124,205,4,,1627674,,1611661317,64,79,0,4
+05:09,[PHO] Copper Turnover : Kicked Ball Violation (4 TO),-18,6,5,,1627674,,1611661317,64,79,0,4
+04:57,[MIN] McBride Pullup Jump shot: Missed,-85,193,2,,203825,,1611661324,64,79,0,4
+04:53,[PHO] Taurasi Rebound (Off:1 Def:3),-85,193,4,,100940,,1611661317,64,79,0,4
+04:49,[PHO] Taurasi Turnover : Bad Pass (3 TO) Steal:Williams (2 ST),-26,208,5,1627675,100940,,1611661317,64,79,0,4
+04:43,[MIN 81-64] Collier Running Layup Shot: Made (12 PTS) Assist: Williams (5 AST),19,-1,1,,1629483,1627675,1611661324,64,81,2,4
+04:27,[PHO 67-81] Copper 3pt Shot: Made (10 PTS) Assist: Taurasi (4 AST),223,59,1,,1627674,100940,1611661317,67,81,3,4
+04:16,[MIN] Williams Pullup Jump shot: Missed,79,161,2,,1627675,,1611661324,67,81,0,4
+04:13,[MIN] Carleton Rebound (Off:2 Def:4),79,161,4,,1629524,,1611661324,67,81,0,4
+04:11,[MIN] Collier 3pt Shot: Missed,-100,232,2,,1629483,,1611661324,67,81,0,4
+04:09,[PHO] Cunningham Rebound (Off:1 Def:5),-100,232,4,,1629482,,1611661317,67,81,0,4
+03:59,[PHO] Griner Jump Shot: Missed,104,62,2,,203398,,1611661317,67,81,0,4
+03:57,[MIN] McBride Rebound (Off:1 Def:3),104,62,4,,203825,,1611661324,67,81,0,4
+03:44,[MIN] Smith 3pt Shot: Missed,-55,231,2,,1629501,,1611661324,67,81,0,4
+03:40,[PHO] Taurasi Rebound (Off:1 Def:4),-55,231,4,,100940,,1611661317,67,81,0,4
+03:33,[PHO] Cunningham Technical (1 FTA),0,-80,6,,1629482,1630880,1611661317,67,81,0,4
+03:33,[MIN 82-67] McBride Free Throw Technical (17 PTS),0,-80,3,,203825,,1611661324,67,82,1,4
+03:28,[PHO 69-82] Cunningham Driving Layup Shot: Made (16 PTS) Assist: Cloud (7 AST),-24,13,1,,1629482,204333,1611661317,69,82,2,4
+03:28,[MIN] Collier Foul: Shooting (4 PF) (1 FTA),-10,43,6,1629482,1629483,200667,1611661324,69,82,0,4
+03:28,"Double Technical - Cunningham, Collier",0,-80,6,1629483,1629482,200667,1611661317,69,82,0,4
+03:28,[PHO] Cunningham Ejection:Other,0,-80,11,,1629482,,1611661317,69,82,0,4
+03:28,Instant Replay - Support Ruling,0,-80,18,,0,,0,69,82,0,4
+03:28,[PHO] Cunningham Substitution replaced by Herbert Harrigan,0,-80,8,,1629482,1630114,1611661317,69,82,0,4
+03:28,[PHO 70-82] Herbert Harrigan Free Throw 1 of 1 (1 PTS),0,-80,3,,1630114,,1611661317,70,82,1,4
+03:12,[MIN] Williams 3pt Shot: Missed,-209,131,2,,1627675,,1611661324,70,82,0,4
+03:10,[MIN] Team Rebound,-209,131,4,,0,,1611661324,70,82,0,4
+03:02,[MIN 85-70] Smith 3pt Shot: Made (6 PTS) Assist: Collier (5 AST),4,255,1,,1629501,1629483,1611661324,70,85,3,4
+02:46,[PHO 72-85] Copper Cutting Layup Shot: Made (12 PTS) Assist: Cloud (8 AST),-24,3,1,,1627674,204333,1611661317,72,85,2,4
+02:46,[MIN] Smith Foul: Shooting (3 PF) (1 FTA),-26,20,6,1627674,1629501,200667,1611661324,72,85,0,4
+02:46,Timeout : Official,0,-80,9,,0,,0,72,85,0,4
+02:46,[PHO] Herbert Harrigan Substitution replaced by Taylor,0,-80,8,,1630114,1642298,1611661317,72,85,0,4
+02:46,[PHO 73-85] Copper Free Throw 1 of 1 (13 PTS),0,-80,3,,1627674,,1611661317,73,85,1,4
+02:31,[PHO] Taurasi Foul: Personal (4 PF),129,61,6,1629501,100940,200667,1611661317,73,85,0,4
+02:20,[MIN] Collier Driving Layup Shot: Missed,36,11,2,,1629483,,1611661324,73,85,0,4
+02:17,[PHO] Copper Rebound (Off:2 Def:2),36,11,4,,1627674,,1611661317,73,85,0,4
+02:06,[PHO] Copper Turnover : Lost Ball (5 TO) Steal:Carleton (3 ST),-10,126,5,1629524,1627674,,1611661317,73,85,0,4
+01:55,[MIN 87-73] Williams Driving Layup Shot: Made (16 PTS) Assist: Carleton (5 AST),23,12,1,,1627675,1629524,1611661324,73,87,2,4
+01:41,[PHO] Copper 3pt Shot: Missed,-194,150,2,,1627674,,1611661317,73,87,0,4
+01:38,[MIN] McBride Rebound (Off:1 Def:4),-194,150,4,,203825,,1611661324,73,87,0,4
+01:28,[PHO] Taurasi Foul: Personal (5 PF) (2 FTA),99,205,6,203825,100940,200667,1611661317,73,87,0,4
+01:28,[MIN 88-73] McBride Free Throw 1 of 2 (18 PTS),0,-80,3,,203825,,1611661324,73,88,1,4
+01:28,[PHO] Taurasi Substitution replaced by Herbert Harrigan,0,-80,8,,100940,1630114,1611661317,73,88,0,4
+01:28,[MIN] Williams Substitution replaced by Hiedeman,0,-80,8,,1627675,1629567,1611661324,73,88,0,4
+01:28,[MIN] Collier Substitution replaced by Pili,0,-80,8,,1629483,1642293,1611661324,73,88,0,4
+01:28,[MIN 89-73] McBride Free Throw 2 of 2 (19 PTS),0,-80,3,,203825,,1611661324,73,89,1,4
+01:23,[PHO 76-89] Cloud 3pt Shot: Made (12 PTS),20,242,1,,204333,,1611661317,76,89,3,4
+00:58.8,[MIN] Smith Substitution replaced by Zandalasini,0,-80,8,,1629501,1628508,1611661324,76,89,0,4
+00:58.8,[MIN] McBride Substitution replaced by Juhász,0,-80,8,,203825,1641657,1611661324,76,89,0,4
+00:58.7,[MIN] Team Turnover : Shot Clock Turnover,-40,199,5,,0,1630880,1611661324,76,89,0,4
+00:40.7,[PHO] Griner Jump Shot: Missed,78,119,2,,203398,,1611661317,76,89,0,4
+00:36.5,[MIN] Juhász Rebound (Off:1 Def:1),78,119,4,,1641657,,1611661324,76,89,0,4
+00:28.1,[MIN] Juhász Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-102,166,5,,1641657,100697,1611661324,76,89,0,4
+00:17.0,[PHO] Cloud 3pt Shot: Missed,105,231,2,,204333,,1611661317,76,89,0,4
+00:13.9,[MIN] Pili Rebound (Off:0 Def:1),105,231,4,,1642293,,1611661324,76,89,0,4
+00:00.0,End Period,0,-80,13,,0,,0,76,89,0,4

@@ -1,0 +1,404 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Griner vs Fowles (Taurasi gains possession),0,-80,10,201480,203398,100940,1611661317,0,0,1
+09:34,[PHO] Little 3pt Shot: Missed,12,293,2,,201067,,1611661317,0,0,1
+09:34,[PHO] Team Rebound,0,-80,4,,0,,1611661317,0,0,1
+09:34,[PHO] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661317,0,0,1
+09:20,[MIN] Fowles Jump Shot: Missed,-37,11,2,,201480,,1611661324,0,0,1
+09:19,[PHO] Taurasi Rebound (Off:0 Def:1),0,-80,4,,100940,,1611661317,0,0,1
+09:04,[PHO 2-0] Taurasi Pullup Jump shot: Made (2 PTS) Assist: Griner (1 AST),35,26,1,,100940,203398,1611661317,2,0,1
+08:39,[MIN] Moore Jump Shot: Missed,55,46,2,,202632,,1611661324,2,0,1
+08:39,[MIN] Moore Rebound (Off:1 Def:0),0,-80,4,,202632,,1611661324,2,0,1
+08:38,[MIN 2-2] Moore Putback Layup Shot: Made (2 PTS),10,7,1,,202632,,1611661324,2,2,1
+08:28,[PHO] Robinson Driving Floating Jump Shot: Missed,-9,46,2,,202658,,1611661317,2,2,1
+08:28,[MIN] Brunson Rebound (Off:0 Def:1),0,-80,4,,100944,,1611661324,2,2,1
+08:25,[PHO] Griner Foul: Personal (1 PF),9,2,6,201480,203398,,1611661317,2,2,1
+08:07,[MIN 4-2] Brunson Jump Shot: Made (2 PTS) Assist: Augustus (1 AST),179,16,1,,100944,200671,1611661324,2,4,1
+07:45,[PHO 4-4] Taurasi Driving Layup Shot: Made (4 PTS),10,7,1,,100940,,1611661317,4,4,1
+07:37,[MIN] Moore Driving Floating Jump Shot: Missed,14,51,2,,202632,,1611661324,4,4,1
+07:36,[MIN] Moore Rebound (Off:2 Def:0),0,-80,4,,202632,,1611661324,4,4,1
+07:36,[PHO] Talbot Foul: Shooting (1 PF) (2 FTA),14,3,6,202632,203855,,1611661317,4,4,1
+07:36,[MIN 5-4] Moore Free Throw 1 of 2 (3 PTS),0,-80,3,,202632,,1611661324,4,5,1
+07:36,[MIN 6-4] Moore Free Throw 2 of 2 (4 PTS),0,-80,3,,202632,,1611661324,4,6,1
+07:22,[MIN] Fowles Foul: Personal (1 PF),68,18,6,203398,201480,,1611661324,4,6,1
+07:18,[PHO] Little Driving Layup Shot: Missed,1,7,2,,201067,,1611661317,4,6,1
+07:17,[MIN] Moore Rebound (Off:2 Def:1),0,-80,4,,202632,,1611661324,4,6,1
+07:12,[MIN 9-4] Augustus 3pt Shot: Made (3 PTS) Assist: Moore (1 AST),159,164,1,,200671,202632,1611661324,4,9,1
+06:55,[MIN] Augustus Foul: Shooting (1 PF) (2 FTA),6,178,6,100940,200671,,1611661324,4,9,1
+06:55,[PHO 5-9] Taurasi Free Throw 1 of 2 (5 PTS),0,-80,3,,100940,,1611661317,5,9,1
+06:55,[PHO 6-9] Taurasi Free Throw 2 of 2 (6 PTS),0,-80,3,,100940,,1611661317,6,9,1
+06:46,[MIN 11-6] Moore Driving Layup Shot: Made (6 PTS),22,2,1,,202632,,1611661324,6,11,1
+06:34,[PHO 8-11] Robinson Driving Layup Shot: Made (2 PTS),9,3,1,,202658,,1611661317,8,11,1
+06:34,[MIN] Whalen Foul: Shooting (1 PF) (1 FTA),9,3,6,202658,100915,,1611661324,8,11,1
+06:34,[PHO 9-11] Robinson Free Throw 1 of 1 (3 PTS),0,-80,3,,202658,,1611661317,9,11,1
+06:20,[MIN 14-9] Moore 3pt Shot: Made (9 PTS) Assist: Brunson (1 AST),238,18,1,,202632,100944,1611661324,9,14,1
+06:11,[PHO] Griner Foul: Offensive (2 PF),38,188,6,100915,203398,,1611661317,9,14,1
+06:11,[PHO] Griner Turnover : Foul (1 TO),0,-80,5,,203398,,1611661317,9,14,1
+06:11,[PHO] Brondello Technical,0,-80,6,,101168,,1611661317,9,14,1
+06:11,[MIN] Moore Free Throw Technical Missed,0,-80,3,,202632,,1611661324,9,14,1
+06:11,[MIN] Team Rebound,0,-80,4,,0,,1611661324,9,14,1
+05:56,[MIN] Fowles Foul: Offensive (2 PF),2,21,6,203398,201480,,1611661324,9,14,1
+05:56,[MIN] Fowles Turnover : Foul (1 TO),0,-80,5,,201480,,1611661324,9,14,1
+05:56,[PHO] Griner Substitution replaced by Robinson,0,-80,8,,203398,202657,1611661317,9,14,1
+05:55,[MIN] Reeve Technical,0,-80,6,,100631,,1611661324,9,14,1
+05:55,[PHO 10-14] Taurasi Free Throw Technical (7 PTS),0,-80,3,,100940,,1611661317,10,14,1
+05:55,[MIN] Fowles Substitution replaced by Howard,0,-80,8,,201480,203827,1611661324,10,14,1
+05:41,[PHO 13-14] Talbot 3pt Shot: Made (3 PTS) Assist: Taurasi (1 AST),-161,169,1,,203855,100940,1611661317,13,14,1
+05:33,[MIN] Moore Foul: Offensive (1 PF),69,26,6,203855,202632,,1611661324,13,14,1
+05:33,[MIN] Moore Turnover : Foul (1 TO),0,-80,5,,202632,,1611661324,13,14,1
+05:17,[PHO] Robinson Foul: Offensive (1 PF),192,169,6,200671,202657,,1611661317,13,14,1
+05:17,[PHO] Robinson Turnover : Foul (1 TO),0,-80,5,,202657,,1611661317,13,14,1
+05:04,[PHO] Little Foul: Personal (1 PF),0,16,6,203827,201067,,1611661317,13,14,1
+04:58,[MIN 16-13] Whalen Pullup Jump shot: Made (2 PTS),-178,36,1,,100915,,1611661324,13,16,1
+04:44,[PHO] Taurasi 3pt Shot: Missed,24,267,2,,100940,,1611661317,13,16,1
+04:43,[MIN] Brunson Rebound (Off:0 Def:2),0,-80,4,,100944,,1611661324,13,16,1
+04:35,[MIN] Brunson 3pt Shot: Missed,24,237,2,,100944,,1611661324,13,16,1
+04:35,[MIN] Howard Rebound (Off:1 Def:0),0,-80,4,,203827,,1611661324,13,16,1
+04:35,[MIN 18-13] Howard Putback Layup Shot: Made (2 PTS),17,0,1,,203827,,1611661324,13,18,1
+04:35,[PHO] Robinson Foul: Shooting (2 PF) (1 FTA),17,0,6,203827,202657,,1611661317,13,18,1
+04:35,Timeout : Official,0,-80,9,,0,,0,13,18,1
+04:35,[MIN 19-13] Howard Free Throw 1 of 1 (3 PTS),0,-80,3,,203827,,1611661324,13,19,1
+04:14,[PHO 16-19] Little 3pt Shot: Made (3 PTS) Assist: Robinson (1 AST),-215,115,1,,201067,202658,1611661317,16,19,1
+03:59,[MIN 21-16] Howard Cutting Layup Shot: Made (5 PTS) Assist: Whalen (1 AST),-22,3,1,,203827,100915,1611661324,16,21,1
+03:47,[PHO 18-21] Robinson Pullup Jump shot: Made (5 PTS),92,115,1,,202658,,1611661317,18,21,1
+03:30,[MIN 23-18] Whalen Pullup Jump shot: Made (4 PTS),14,90,1,,100915,,1611661324,18,23,1
+03:20,[PHO 21-23] Taurasi 3pt Shot: Made (10 PTS) Assist: Robinson (2 AST),-138,198,1,,100940,202658,1611661317,21,23,1
+02:57,[MIN] Brunson 3pt Shot: Missed,158,183,2,,100944,,1611661324,21,23,1
+02:57,[MIN] Moore Rebound (Off:3 Def:1),0,-80,4,,202632,,1611661324,21,23,1
+02:52,[MIN 25-21] Augustus Jump Shot: Made (5 PTS) Assist: Moore (2 AST),96,121,1,,200671,202632,1611661324,21,25,1
+02:40,[PHO] Little Fadeaway Jump Shot: Missed,-60,52,2,,201067,,1611661317,21,25,1
+02:39,[PHO] Team Rebound,0,-80,4,,0,,1611661317,21,25,1
+02:39,[PHO] Talbot Substitution replaced by Mitchell,0,-80,8,,203855,201507,1611661317,21,25,1
+02:39,[PHO] Little Substitution replaced by Cannon,0,-80,8,,201067,1628242,1611661317,21,25,1
+02:39,[PHO] Robinson Substitution replaced by George,0,-80,8,,202658,204297,1611661317,21,25,1
+02:39,[PHO] Robinson Substitution replaced by Currie,0,-80,8,,202657,200673,1611661317,21,25,1
+02:37,[MIN] Augustus Substitution replaced by Montgomery,0,-80,8,,200671,201904,1611661324,21,25,1
+02:37,[MIN] Whalen Substitution replaced by Perkins,0,-80,8,,100915,100952,1611661324,21,25,1
+02:28,[PHO] Taurasi 3pt Shot: Missed,-174,169,2,,100940,,1611661317,21,25,1
+02:27,[MIN] Perkins Rebound (Off:0 Def:1),0,-80,4,,100952,,1611661324,21,25,1
+02:18,[MIN] Perkins 3pt Shot: Missed,230,38,2,,100952,,1611661324,21,25,1
+02:18,[PHO] Mitchell Rebound (Off:0 Def:1),0,-80,4,,201507,,1611661317,21,25,1
+02:02,[PHO] Currie Jump Shot: Missed,-86,175,2,,200673,,1611661317,21,25,1
+02:01,[MIN] Howard Rebound (Off:1 Def:1),0,-80,4,,203827,,1611661324,21,25,1
+01:49,[MIN] Brunson Jump Shot: Missed,33,62,2,,100944,,1611661324,21,25,1
+01:49,[PHO] George Rebound (Off:0 Def:1),0,-80,4,,204297,,1611661317,21,25,1
+01:42,[PHO] Cannon Running Reverse Layup Shot: Missed,4,16,2,,1628242,,1611661317,21,25,1
+01:40,[MIN] Brunson Rebound (Off:0 Def:3),0,-80,4,,100944,,1611661324,21,25,1
+01:27,[MIN] Howard Layup Shot: Missed,17,11,2,,203827,,1611661324,21,25,1
+01:27,[PHO] Cannon Rebound (Off:0 Def:1),0,-80,4,,1628242,,1611661317,21,25,1
+01:12,[PHO] Taurasi 3pt Shot: Missed,127,203,2,,100940,,1611661317,21,25,1
+01:11,[PHO] Cannon Rebound (Off:1 Def:1),0,-80,4,,1628242,,1611661317,21,25,1
+00:57.9,[PHO] George 3pt Shot: Missed,-237,80,2,,204297,,1611661317,21,25,1
+00:57.0,[PHO] Cannon Rebound (Off:2 Def:1),0,-80,4,,1628242,,1611661317,21,25,1
+00:54.8,[PHO] Cannon Layup Shot: Missed Block: Moore (1 BLK),-1,2,2,202632,1628242,,1611661317,21,25,1
+00:52.8,[PHO] Mitchell Rebound (Off:1 Def:1),0,-80,4,,201507,,1611661317,21,25,1
+00:43.8,[PHO] Taurasi 3pt Shot: Missed,163,159,2,,100940,,1611661317,21,25,1
+00:43.1,[MIN] Team Rebound,0,-80,4,,0,,1611661324,21,25,1
+00:43.1,[PHO] Taurasi Substitution replaced by Turner,0,-80,8,,100940,203389,1611661317,21,25,1
+00:43.1,[MIN] Brunson Substitution replaced by Pierson,0,-80,8,,100944,100888,1611661324,21,25,1
+00:34.5,[MIN 27-21] Perkins Pullup Jump shot: Made (2 PTS),-79,169,1,,100952,,1611661324,21,27,1
+00:16.7,[PHO] Cannon Turnover : 3 Second Violation (1 TO),0,-80,5,,1628242,,1611661317,21,27,1
+00:02.1,[MIN 30-21] Pierson 3pt Shot: Made (3 PTS) Assist: Montgomery (1 AST),227,100,1,,100888,201904,1611661324,21,30,1
+00:00.0,End Period,0,-80,13,,0,,0,21,30,1
+10:00,Start Period,0,-80,12,,0,,0,21,30,2
+09:42,[MIN] Moore 3pt Shot: Missed,169,188,2,,202632,,1611661324,21,30,2
+09:42,[MIN] Team Rebound,0,-80,4,,0,,1611661324,21,30,2
+09:34,[MIN] Perkins Fadeaway Jump Shot: Missed,37,129,2,,100952,,1611661324,21,30,2
+09:33,[MIN] Howard Rebound (Off:2 Def:1),0,-80,4,,203827,,1611661324,21,30,2
+09:31,[MIN 32-21] Howard Putback Layup Shot: Made (7 PTS),27,2,1,,203827,,1611661324,21,32,2
+09:21,[MIN] Perkins Foul: Shooting (1 PF) (2 FTA),-12,7,6,203389,100952,,1611661324,21,32,2
+09:21,[PHO 22-32] Turner Free Throw 1 of 2 (1 PTS),0,-80,3,,203389,,1611661317,22,32,2
+09:21,[PHO] Cannon Substitution replaced by Griner,0,-80,8,,1628242,203398,1611661317,22,32,2
+09:21,[MIN] Howard Substitution replaced by Fowles,0,-80,8,,203827,201480,1611661324,22,32,2
+09:21,[PHO 23-32] Turner Free Throw 2 of 2 (2 PTS),0,-80,3,,203389,,1611661317,23,32,2
+09:05,[MIN] Montgomery Pullup Jump shot: Missed,9,156,2,,201904,,1611661324,23,32,2
+09:05,[MIN] Team Rebound,0,-80,4,,0,,1611661324,23,32,2
+09:05,[PHO] George Foul: Personal (1 PF),9,2,6,100888,204297,,1611661317,23,32,2
+08:58,[MIN] Montgomery Foul: Offensive (1 PF),-27,51,6,201507,201904,,1611661324,23,32,2
+08:58,[MIN] Montgomery Turnover : Foul (1 TO),0,-80,5,,201904,,1611661324,23,32,2
+08:43,[PHO 25-32] Griner Jump Shot: Made (2 PTS) Assist: George (1 AST),53,156,1,,203398,204297,1611661317,25,32,2
+08:22,[MIN] Fowles Reverse Layup Shot: Missed,24,16,2,,201480,,1611661324,25,32,2
+08:21,[MIN] Fowles Rebound (Off:1 Def:0),0,-80,4,,201480,,1611661324,25,32,2
+08:20,[MIN] Fowles Putback Layup Shot: Missed,-17,-1,2,,201480,,1611661324,25,32,2
+08:18,[MIN] Fowles Rebound (Off:2 Def:0),0,-80,4,,201480,,1611661324,25,32,2
+08:18,[PHO] Griner Foul: Shooting (3 PF) (2 FTA),-12,2,6,201480,203398,,1611661317,25,32,2
+08:18,[MIN 33-25] Fowles Free Throw 1 of 2 (1 PTS),0,-80,3,,201480,,1611661324,25,33,2
+08:18,[PHO] Griner Substitution replaced by Little,0,-80,8,,203398,201067,1611661317,25,33,2
+08:18,[MIN 34-25] Fowles Free Throw 2 of 2 (2 PTS),0,-80,3,,201480,,1611661324,25,34,2
+08:05,[PHO] Currie Jump Shot: Missed,-91,159,2,,200673,,1611661317,25,34,2
+08:04,[MIN] Perkins Rebound (Off:0 Def:2),0,-80,4,,100952,,1611661324,25,34,2
+07:57,[MIN] Moore Jump Shot: Missed,132,100,2,,202632,,1611661324,25,34,2
+07:56,[PHO] Mitchell Rebound (Off:1 Def:2),0,-80,4,,201507,,1611661317,25,34,2
+07:52,[PHO] Turner Running Layup Shot: Missed Block: Pierson (1 BLK),12,13,2,100888,203389,,1611661317,25,34,2
+07:52,[PHO] Team Rebound,0,-80,4,,0,,1611661317,25,34,2
+07:52,[MIN] Moore Substitution replaced by Whalen,0,-80,8,,202632,100915,1611661324,25,34,2
+07:52,[MIN] Montgomery Substitution replaced by Howard,0,-80,8,,201904,203827,1611661324,25,34,2
+07:52,[MIN] Perkins Substitution replaced by Augustus,0,-80,8,,100952,200671,1611661324,25,34,2
+07:49,[PHO] Currie Jump Shot: Missed,132,21,2,,200673,,1611661317,25,34,2
+07:48,[MIN] Pierson Rebound (Off:0 Def:1),0,-80,4,,100888,,1611661324,25,34,2
+07:37,[MIN] Howard Jump Shot: Missed,15,36,2,,203827,,1611661324,25,34,2
+07:36,[MIN] Howard Rebound (Off:3 Def:1),0,-80,4,,203827,,1611661324,25,34,2
+07:32,[MIN] Howard Layup Shot: Missed,15,11,2,,203827,,1611661324,25,34,2
+07:31,[MIN] Team Rebound,0,-80,4,,0,,1611661324,25,34,2
+07:31,[PHO] Mitchell Substitution replaced by Robinson,0,-80,8,,201507,202658,1611661317,25,34,2
+07:25,[MIN] Howard Jump Shot: Missed,-161,85,2,,203827,,1611661324,25,34,2
+07:25,[MIN] Pierson Rebound (Off:1 Def:1),0,-80,4,,100888,,1611661324,25,34,2
+07:18,[MIN] Whalen 3pt Shot: Missed,-142,208,2,,100915,,1611661324,25,34,2
+07:18,[MIN] Fowles Rebound (Off:3 Def:0),0,-80,4,,201480,,1611661324,25,34,2
+07:13,[MIN] Whalen Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,100915,,1611661324,25,34,2
+06:56,[PHO 27-34] Little Driving Layup Shot: Made (5 PTS),-25,11,1,,201067,,1611661317,27,34,2
+06:39,[MIN 36-27] Fowles Jump Shot: Made (4 PTS),158,-1,1,,201480,,1611661324,27,36,2
+06:17,[PHO] Turner Jump Shot: Missed,-6,36,2,,203389,,1611661317,27,36,2
+06:15,[MIN] Augustus Rebound (Off:0 Def:1),0,-80,4,,200671,,1611661324,27,36,2
+05:55,[MIN] Augustus Turnover : Bad Pass (1 TO) Steal:Robinson (1 ST),0,-80,5,202658,200671,,1611661324,27,36,2
+05:47,[PHO 29-36] Turner Jump Shot: Made (4 PTS) Assist: Robinson (3 AST),205,56,1,,203389,202658,1611661317,29,36,2
+05:29,[MIN] Pierson 3pt Shot: Missed,171,169,2,,100888,,1611661324,29,36,2
+05:29,[MIN] Team Rebound,0,-80,4,,0,,1611661324,29,36,2
+05:29,[PHO] George Foul: Loose Ball (2 PF),2,-6,6,100888,204297,,1611661317,29,36,2
+05:29,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,29,36,2
+05:29,[PHO] Team Violation : Delay Of Game,0,-80,7,,0,,1611661317,29,36,2
+05:29,[MIN] Howard Substitution replaced by Moore,0,-80,8,,203827,202632,1611661324,29,36,2
+05:29,[MIN] Pierson Substitution replaced by Brunson,0,-80,8,,100888,100944,1611661324,29,36,2
+05:29,[PHO] Currie Substitution replaced by Talbot,0,-80,8,,200673,203855,1611661317,29,36,2
+05:29,[PHO] George Substitution replaced by Taurasi,0,-80,8,,204297,100940,1611661317,29,36,2
+05:29,[PHO] Turner Substitution replaced by Robinson,0,-80,8,,203389,202657,1611661317,29,36,2
+05:18,[MIN] Moore Pullup Jump shot: Missed,87,170,2,,202632,,1611661324,29,36,2
+05:17,[PHO] Team Rebound,0,-80,4,,0,,1611661317,29,36,2
+05:02,[PHO] Little Pullup Jump shot: Missed,-63,70,2,,201067,,1611661317,29,36,2
+05:01,[MIN] Brunson Rebound (Off:0 Def:4),0,-80,4,,100944,,1611661324,29,36,2
+04:51,[MIN] Fowles Layup Shot: Missed,6,21,2,,201480,,1611661324,29,36,2
+04:51,[PHO] Robinson Rebound (Off:0 Def:1),0,-80,4,,202657,,1611661317,29,36,2
+04:45,[PHO] Robinson Driving Layup Shot: Missed,2,7,2,,202658,,1611661317,29,36,2
+04:43,[MIN] Brunson Rebound (Off:0 Def:5),0,-80,4,,100944,,1611661324,29,36,2
+04:37,[MIN 38-29] Whalen Running Layup Shot: Made (6 PTS),4,7,1,,100915,,1611661324,29,38,2
+04:15,[PHO] Talbot Turnaround Jump Shot: Missed,115,52,2,,203855,,1611661317,29,38,2
+04:13,[PHO] Robinson Rebound (Off:1 Def:1),0,-80,4,,202657,,1611661317,29,38,2
+04:10,[PHO 31-38] Robinson Pullup Jump shot: Made (7 PTS),-151,75,1,,202658,,1611661317,31,38,2
+03:50,[MIN] Moore Jump Shot: Missed,-29,139,2,,202632,,1611661324,31,38,2
+03:50,[MIN] Team Rebound,0,-80,4,,0,,1611661324,31,38,2
+03:50,[PHO] Little Foul: Loose Ball (2 PF),-19,11,6,100944,201067,,1611661317,31,38,2
+03:44,[MIN] Moore Jump Shot: Missed,-149,24,2,,202632,,1611661324,31,38,2
+03:40,[PHO] Taurasi Rebound (Off:0 Def:2),0,-80,4,,100940,,1611661317,31,38,2
+03:35,[PHO] Taurasi 3pt Shot: Missed,-22,242,2,,100940,,1611661317,31,38,2
+03:34,[MIN] Fowles Rebound (Off:3 Def:1),0,-80,4,,201480,,1611661324,31,38,2
+03:29,[PHO] Robinson Foul: Personal Block (1 PF) (2 FTA),-64,187,6,100915,202658,,1611661317,31,38,2
+03:29,[MIN 39-31] Whalen Free Throw 1 of 2 (7 PTS),0,-80,3,,100915,,1611661324,31,39,2
+03:29,[MIN 40-31] Whalen Free Throw 2 of 2 (8 PTS),0,-80,3,,100915,,1611661324,31,40,2
+03:15,[PHO 33-40] Little Cutting Layup Shot: Made (7 PTS) Assist: Talbot (1 AST),-1,21,1,,201067,203855,1611661317,33,40,2
+02:58,[MIN] Fowles Turnaround Jump Shot: Missed,48,7,2,,201480,,1611661324,33,40,2
+02:57,[PHO] Little Rebound (Off:0 Def:1),0,-80,4,,201067,,1611661317,33,40,2
+02:48,[PHO 35-40] Talbot Turnaround Jump Shot: Made (5 PTS) Assist: Little (1 AST),1,51,1,,203855,201067,1611661317,35,40,2
+02:40,[MIN] Team Timeout : Regular,0,-80,9,,0,,1611661324,35,40,2
+02:31,[MIN 42-35] Fowles Layup Shot: Made (6 PTS) Assist: Augustus (2 AST),-9,7,1,,201480,200671,1611661324,35,42,2
+02:31,[PHO] Robinson Foul: Shooting (3 PF) (1 FTA),-9,7,6,201480,202657,,1611661317,35,42,2
+02:31,[MIN 43-35] Fowles Free Throw 1 of 1 (7 PTS),0,-80,3,,201480,,1611661324,35,43,2
+02:06,[PHO] Little Jump Shot: Missed,-17,46,2,,201067,,1611661317,35,43,2
+02:03,[PHO] Robinson Rebound (Off:2 Def:1),0,-80,4,,202657,,1611661317,35,43,2
+02:03,[PHO 37-43] Robinson Tip Layup Shot: Made (2 PTS),17,7,1,,202657,,1611661317,37,43,2
+01:49,[MIN 45-37] Fowles Layup Shot: Made (9 PTS),-4,28,1,,201480,,1611661324,37,45,2
+01:39,[PHO] Taurasi 3pt Shot: Missed,-17,252,2,,100940,,1611661317,37,45,2
+01:38,[MIN] Brunson Rebound (Off:0 Def:6),0,-80,4,,100944,,1611661324,37,45,2
+01:33,[PHO] Taurasi Foul: Personal (1 PF) (2 FTA),-71,7,6,100915,100940,,1611661317,37,45,2
+01:33,[MIN 46-37] Whalen Free Throw 1 of 2 (9 PTS),0,-80,3,,100915,,1611661324,37,46,2
+01:33,[MIN 47-37] Whalen Free Throw 2 of 2 (10 PTS),0,-80,3,,100915,,1611661324,37,47,2
+01:12,[PHO] Robinson Turnover : Bad Pass (1 TO) Steal:Whalen (1 ST),0,-80,5,100915,202658,,1611661317,37,47,2
+01:06,[MIN 49-37] Fowles Running Layup Shot: Made (11 PTS) Assist: Moore (3 AST),6,7,1,,201480,202632,1611661324,37,49,2
+00:56.0,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,37,49,2
+00:56.0,[MIN] Fowles Substitution replaced by Fagbenle,0,-80,8,,201480,1627701,1611661324,37,49,2
+00:50.1,[PHO 39-49] Taurasi Driving Reverse Layup Shot: Made (12 PTS),-14,7,1,,100940,,1611661317,39,49,2
+00:32.6,[MIN] Whalen Jump Shot: Missed,-119,169,2,,100915,,1611661324,39,49,2
+00:31.9,[PHO] Robinson Rebound (Off:2 Def:2),0,-80,4,,202657,,1611661317,39,49,2
+00:09.9,[PHO] Taurasi Jump Shot: Missed,-214,-11,2,,100940,,1611661317,39,49,2
+00:09.6,[PHO] Talbot Rebound (Off:1 Def:0),0,-80,4,,203855,,1611661317,39,49,2
+00:04.9,[PHO] Robinson Reverse Layup Shot: Missed,-11,3,2,,202657,,1611661317,39,49,2
+00:02.9,[MIN] Moore Rebound (Off:3 Def:2),0,-80,4,,202632,,1611661324,39,49,2
+00:00.8,[MIN] Moore 3pt Shot: Missed,143,203,2,,202632,,1611661324,39,49,2
+00:00.0,[MIN] Team Rebound,0,-80,4,,0,,1611661324,39,49,2
+00:00.0,End Period,0,-80,13,,0,,0,39,49,2
+10:00,Start Period,0,-80,12,,0,,0,39,49,3
+09:39,[MIN] Fowles Turnover : Bad Pass (2 TO) Steal:Taurasi (1 ST),0,-80,5,100940,201480,,1611661324,39,49,3
+09:33,[PHO 41-49] Robinson Running Pull-Up Jump Shot: Made (9 PTS),-122,77,1,,202658,,1611661317,41,49,3
+09:21,[PHO] Talbot Foul: Personal (2 PF),-14,16,6,202632,203855,,1611661317,41,49,3
+09:11,[MIN] Augustus Turnover : Bad Pass (2 TO) Steal:Robinson (2 ST),0,-80,5,202658,200671,,1611661324,41,49,3
+09:06,[PHO 43-49] Robinson Running Layup Shot: Made (11 PTS),12,7,1,,202658,,1611661317,43,49,3
+08:52,[MIN] Brunson Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,100944,,1611661324,43,49,3
+08:33,[MIN] Moore Foul: Shooting (2 PF) (2 FTA),10,16,6,201067,202632,,1611661324,43,49,3
+08:33,[PHO 44-49] Little Free Throw 1 of 2 (8 PTS),0,-80,3,,201067,,1611661317,44,49,3
+08:33,[PHO 45-49] Little Free Throw 2 of 2 (9 PTS),0,-80,3,,201067,,1611661317,45,49,3
+08:17,[MIN 51-45] Moore Pullup Jump shot: Made (11 PTS),-183,-11,1,,202632,,1611661324,45,51,3
+07:50,[PHO] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661317,45,51,3
+07:32,[MIN] Augustus Jump Shot: Missed,-155,111,2,,200671,,1611661324,45,51,3
+07:32,[PHO] Talbot Rebound (Off:1 Def:1),0,-80,4,,203855,,1611661317,45,51,3
+07:21,[PHO] Robinson Pullup Jump shot: Missed,-12,169,2,,202658,,1611661317,45,51,3
+07:20,[MIN] Whalen Rebound (Off:0 Def:1),0,-80,4,,100915,,1611661324,45,51,3
+07:07,[MIN] Moore 3pt Shot: Missed,186,170,2,,202632,,1611661324,45,51,3
+07:07,[PHO] Talbot Rebound (Off:1 Def:2),0,-80,4,,203855,,1611661317,45,51,3
+06:51,[PHO] Griner Turnaround Jump Shot: Missed,112,16,2,,203398,,1611661317,45,51,3
+06:49,[MIN] Whalen Rebound (Off:0 Def:2),0,-80,4,,100915,,1611661324,45,51,3
+06:42,[MIN] Augustus Jump Shot: Missed,-94,82,2,,200671,,1611661324,45,51,3
+06:41,[PHO] Little Rebound (Off:0 Def:2),0,-80,4,,201067,,1611661317,45,51,3
+06:28,[PHO] Robinson Driving Layup Shot: Missed,9,-1,2,,202658,,1611661317,45,51,3
+06:27,[MIN] Fowles Rebound (Off:3 Def:2),0,-80,4,,201480,,1611661324,45,51,3
+06:18,[MIN] Whalen Turnover : Bad Pass (2 TO) Steal:Talbot (1 ST),0,-80,5,203855,100915,,1611661324,45,51,3
+06:14,[MIN] Whalen Foul: Shooting (2 PF) (2 FTA),-32,7,6,203855,100915,,1611661324,45,51,3
+06:14,[PHO 46-51] Talbot Free Throw 1 of 2 (6 PTS),0,-80,3,,203855,,1611661317,46,51,3
+06:14,[PHO] Talbot Free Throw 2 of 2 Missed,0,-80,3,,203855,,1611661317,46,51,3
+06:14,[MIN] Brunson Rebound (Off:0 Def:7),0,-80,4,,100944,,1611661324,46,51,3
+06:04,[MIN 53-46] Whalen Pullup Jump shot: Made (12 PTS),-178,7,1,,100915,,1611661324,46,53,3
+05:49,[MIN] Fowles Foul: Shooting (3 PF) (2 FTA),9,21,6,203398,201480,,1611661324,46,53,3
+05:49,[PHO] Griner Free Throw 1 of 2 Missed,0,-80,3,,203398,,1611661317,46,53,3
+05:49,[PHO] Team Rebound,0,-80,4,,0,,1611661317,46,53,3
+05:49,[PHO] Griner Free Throw 2 of 2 Missed,0,-80,3,,203398,,1611661317,46,53,3
+05:48,[MIN] Brunson Rebound (Off:0 Def:8),0,-80,4,,100944,,1611661324,46,53,3
+05:33,[MIN] Moore Pullup Jump shot: Missed,153,-6,2,,202632,,1611661324,46,53,3
+05:33,[PHO] Robinson Rebound (Off:0 Def:1),0,-80,4,,202658,,1611661317,46,53,3
+05:25,[PHO 48-53] Robinson Driving Floating Bank Jump Shot: Made (13 PTS),25,21,1,,202658,,1611661317,48,53,3
+05:05,[MIN 55-48] Whalen Jump Shot: Made (14 PTS),130,116,1,,100915,,1611661324,48,55,3
+04:52,[PHO] Griner Jump Shot: Missed,-60,159,2,,203398,,1611661317,48,55,3
+04:52,[MIN] Brunson Rebound (Off:0 Def:9),0,-80,4,,100944,,1611661324,48,55,3
+04:29,[MIN] Whalen Jump Shot: Missed,174,77,2,,100915,,1611661324,48,55,3
+04:28,[PHO] Griner Rebound (Off:0 Def:1),0,-80,4,,203398,,1611661317,48,55,3
+04:17,[PHO 50-55] Little Jump Shot: Made (11 PTS) Assist: Taurasi (2 AST),-110,56,1,,201067,100940,1611661317,50,55,3
+04:05,[PHO] Taurasi Foul: Personal (2 PF),128,141,6,200671,100940,,1611661317,50,55,3
+04:05,Timeout : Official,0,-80,9,,0,,0,50,55,3
+04:05,[PHO] Taurasi Substitution replaced by Currie,0,-80,8,,100940,200673,1611661317,50,55,3
+04:05,[PHO] Robinson Substitution replaced by Mitchell,0,-80,8,,202658,201507,1611661317,50,55,3
+04:05,[MIN] Moore Substitution replaced by Montgomery,0,-80,8,,202632,201904,1611661324,50,55,3
+04:05,[MIN] Brunson Substitution replaced by Pierson,0,-80,8,,100944,100888,1611661324,50,55,3
+04:05,[MIN] Whalen Substitution replaced by Perkins,0,-80,8,,100915,100952,1611661324,50,55,3
+03:56,[PHO] Griner Foul: Personal (4 PF),-17,23,6,100888,203398,,1611661317,50,55,3
+03:56,[PHO] Griner Substitution replaced by Robinson,0,-80,8,,203398,202657,1611661317,50,55,3
+03:45,[MIN 57-50] Augustus Jump Shot: Made (7 PTS) Assist: Montgomery (2 AST),-133,129,1,,200671,201904,1611661324,50,57,3
+03:23,[MIN] Montgomery Foul: Shooting (2 PF) (2 FTA),0,2,6,201507,201904,,1611661324,50,57,3
+03:23,[PHO] Mitchell Free Throw 1 of 2 Missed,0,-80,3,,201507,,1611661317,50,57,3
+03:23,[PHO] Team Rebound,0,-80,4,,0,,1611661317,50,57,3
+03:23,[PHO 51-57] Mitchell Free Throw 2 of 2 (1 PTS),0,-80,3,,201507,,1611661317,51,57,3
+03:02,[MIN] Augustus Turnover : Bad Pass (3 TO) Steal:Talbot (2 ST),0,-80,5,203855,200671,,1611661324,51,57,3
+02:53,[PHO] Currie 3pt Shot: Missed,-194,151,2,,200673,,1611661317,51,57,3
+02:51,[PHO] Robinson Rebound (Off:3 Def:2),0,-80,4,,202657,,1611661317,51,57,3
+02:36,[PHO 53-57] Mitchell Driving Floating Jump Shot: Made (3 PTS),-4,120,1,,201507,,1611661317,53,57,3
+02:18,[MIN] Pierson Driving Hook Shot: Missed,-9,43,2,,100888,,1611661324,53,57,3
+02:18,[PHO] Talbot Rebound (Off:1 Def:3),0,-80,4,,203855,,1611661317,53,57,3
+02:14,[MIN] Fowles Foul: Personal Block (4 PF) (2 FTA),212,151,6,201507,201480,,1611661324,53,57,3
+02:14,[PHO] Talbot Substitution replaced by Turner,0,-80,8,,203855,203389,1611661317,53,57,3
+02:14,[PHO] Little Substitution replaced by Cannon,0,-80,8,,201067,1628242,1611661317,53,57,3
+02:14,[MIN] Fowles Substitution replaced by Howard,0,-80,8,,201480,203827,1611661324,53,57,3
+02:14,[PHO] Mitchell Free Throw 1 of 2 Missed,0,-80,3,,201507,,1611661317,53,57,3
+02:14,[PHO] Team Rebound,0,-80,4,,0,,1611661317,53,57,3
+02:14,[PHO] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,201507,,1611661317,53,57,3
+02:13,[PHO] Robinson Rebound (Off:4 Def:2),0,-80,4,,202657,,1611661317,53,57,3
+02:07,[PHO] Mitchell Turnover : Bad Pass (1 TO) Steal:Augustus (1 ST),0,-80,5,200671,201507,,1611661317,53,57,3
+02:01,[PHO] Currie Foul: Personal (1 PF),-129,124,6,200671,200673,,1611661317,53,57,3
+01:52,[MIN 59-53] Montgomery Jump Shot: Made (2 PTS),-135,131,1,,201904,,1611661324,53,59,3
+01:43,[PHO] Turner Cutting Layup Shot: Missed,2,26,2,,203389,,1611661317,53,59,3
+01:41,[MIN] Perkins Rebound (Off:0 Def:3),0,-80,4,,100952,,1611661324,53,59,3
+01:33,[MIN] Augustus 3pt Shot: Missed,-2,237,2,,200671,,1611661324,53,59,3
+01:32,[PHO] Robinson Rebound (Off:4 Def:3),0,-80,4,,202657,,1611661317,53,59,3
+01:14,[PHO] Mitchell Driving Layup Shot: Missed,14,13,2,,201507,,1611661317,53,59,3
+01:13,[PHO] Cannon Rebound (Off:3 Def:1),0,-80,4,,1628242,,1611661317,53,59,3
+01:11,[PHO] Cannon Putback Layup Shot: Missed Block: Howard (1 BLK),-1,2,2,203827,1628242,,1611661317,53,59,3
+01:10,[MIN] Perkins Rebound (Off:0 Def:4),0,-80,4,,100952,,1611661324,53,59,3
+01:03,[MIN] Montgomery 3pt Shot: Missed,179,169,2,,201904,,1611661324,53,59,3
+01:03,[PHO] Currie Rebound (Off:0 Def:1),0,-80,4,,200673,,1611661317,53,59,3
+00:52.0,[PHO 55-59] Currie Cutting Layup Shot: Made (2 PTS) Assist: Cannon (1 AST),9,11,1,,200673,1628242,1611661317,55,59,3
+00:40.1,[MIN] Pierson Foul: Offensive (1 PF),-143,139,6,201507,100888,,1611661324,55,59,3
+00:40.1,[MIN] Pierson Turnover : Foul (1 TO),0,-80,5,,100888,,1611661324,55,59,3
+00:21.8,[PHO 57-59] Cannon Turnaround Hook Shot: Made (2 PTS) Assist: Currie (1 AST),1,31,1,,1628242,200673,1611661317,57,59,3
+00:02.9,[MIN] Pierson 3pt Shot: Missed,218,129,2,,100888,,1611661324,57,59,3
+00:01.9,[PHO] Robinson Rebound (Off:4 Def:4),0,-80,4,,202657,,1611661317,57,59,3
+00:00.2,[PHO] Mitchell 3pt Shot: Missed,-2,447,2,,201507,,1611661317,57,59,3
+00:00.0,[PHO] Team Rebound,0,-80,4,,0,,1611661317,57,59,3
+00:00.0,End Period,0,-80,13,,0,,0,57,59,3
+10:00,Start Period,0,-80,12,,0,,0,57,59,4
+09:47,[PHO 59-59] Turner Driving Layup Shot: Made (6 PTS),14,11,1,,203389,,1611661317,59,59,4
+09:26,[MIN 61-59] Moore Driving Reverse Layup Shot: Made (13 PTS) Assist: Brunson (2 AST),2,7,1,,202632,100944,1611661324,59,61,4
+09:15,[MIN] Brunson Foul: Shooting (1 PF) (2 FTA),-4,8,6,203389,100944,,1611661324,59,61,4
+09:15,[PHO 60-61] Turner Free Throw 1 of 2 (7 PTS),0,-80,3,,203389,,1611661317,60,61,4
+09:15,[PHO] Robinson Substitution replaced by Griner,0,-80,8,,202657,203398,1611661317,60,61,4
+09:15,[PHO 61-61] Turner Free Throw 2 of 2 (8 PTS),0,-80,3,,203389,,1611661317,61,61,4
+09:03,[MIN] Perkins Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),0,-80,5,203389,100952,,1611661324,61,61,4
+08:52,[PHO 63-61] Currie Jump Shot: Made (4 PTS) Assist: Turner (1 AST),141,159,1,,200673,203389,1611661317,63,61,4
+08:30,[MIN 64-63] Moore 3pt Shot: Made (16 PTS),197,151,1,,202632,,1611661324,63,64,4
+08:18,[PHO] Currie Jump Shot: Missed,-165,126,2,,200673,,1611661317,63,64,4
+08:17,[MIN] Fowles Rebound (Off:3 Def:3),0,-80,4,,201480,,1611661324,63,64,4
+08:09,[MIN 66-63] Perkins Jump Shot: Made (4 PTS) Assist: Moore (4 AST),148,70,1,,100952,202632,1611661324,63,66,4
+07:53,[PHO] Cannon Substitution replaced by Little,0,-80,8,,1628242,201067,1611661317,63,66,4
+07:53,[PHO] Currie Substitution replaced by Taurasi,0,-80,8,,200673,100940,1611661317,63,66,4
+07:46,[PHO 65-66] Griner Cutting Layup Shot: Made (4 PTS) Assist: Mitchell (1 AST),12,2,1,,203398,201507,1611661317,65,66,4
+07:21,[MIN 69-65] Perkins 3pt Shot: Made (7 PTS) Assist: Moore (5 AST),220,106,1,,100952,202632,1611661324,65,69,4
+06:59,[PHO 67-69] Turner Driving Layup Shot: Made (10 PTS),1,7,1,,203389,,1611661317,67,69,4
+06:45,[MIN 71-67] Perkins Pullup Jump shot: Made (9 PTS),-48,178,1,,100952,,1611661324,67,71,4
+06:45,[PHO] Turner Foul: Shooting (1 PF) (1 FTA),-48,178,6,100952,203389,,1611661317,67,71,4
+06:45,[MIN] Perkins Free Throw 1 of 1 Missed,0,-80,3,,100952,,1611661324,67,71,4
+06:44,[MIN] Perkins Rebound (Off:1 Def:4),0,-80,4,,100952,,1611661324,67,71,4
+06:37,[MIN] Fowles Layup Shot: Missed Block: Griner (1 BLK),10,4,2,203398,201480,,1611661324,67,71,4
+06:36,[PHO] Team Rebound,0,-80,4,,0,,1611661317,67,71,4
+06:24,[PHO] Turner Turnover : Bad Pass (1 TO) Steal:Fowles (1 ST),0,-80,5,201480,203389,,1611661317,67,71,4
+06:14,[MIN] Whalen Driving Floating Jump Shot: Missed,-14,164,2,,100915,,1611661324,67,71,4
+06:13,[PHO] Mitchell Rebound (Off:1 Def:3),0,-80,4,,201507,,1611661317,67,71,4
+06:03,[PHO 69-71] Turner Pullup Jump shot: Made (12 PTS),-6,193,1,,203389,,1611661317,69,71,4
+06:02,[MIN] Team Timeout : Regular,0,-80,9,,0,,1611661324,69,71,4
+06:02,[MIN] Perkins Substitution replaced by Augustus,0,-80,8,,100952,200671,1611661324,69,71,4
+05:54,[PHO] Turner Foul: Personal (2 PF),-43,56,6,200671,203389,,1611661317,69,71,4
+05:44,[MIN] Whalen Pullup Jump shot: Missed,4,106,2,,100915,,1611661324,69,71,4
+05:42,[MIN] Fowles Rebound (Off:4 Def:3),0,-80,4,,201480,,1611661324,69,71,4
+05:41,[MIN 73-69] Fowles Putback Layup Shot: Made (13 PTS),-12,2,1,,201480,,1611661324,69,73,4
+05:21,[PHO] Mitchell Jump Shot: Missed,68,174,2,,201507,,1611661317,69,73,4
+05:20,[PHO] Griner Rebound (Off:1 Def:1),0,-80,4,,203398,,1611661317,69,73,4
+05:13,[PHO 72-73] Little 3pt Shot: Made (14 PTS) Assist: Mitchell (2 AST),115,213,1,,201067,201507,1611661317,72,73,4
+04:57,[PHO] Taurasi Foul: Personal (3 PF),101,264,6,200671,100940,,1611661317,72,73,4
+04:57,[PHO] Mitchell Substitution replaced by Robinson,0,-80,8,,201507,202658,1611661317,72,73,4
+04:46,[MIN 76-72] Brunson 3pt Shot: Made (5 PTS) Assist: Whalen (2 AST),-158,183,1,,100944,100915,1611661324,72,76,4
+04:27,[PHO] Taurasi Step Back Jump shot: Missed,-176,-16,2,,100940,,1611661317,72,76,4
+04:26,[MIN] Whalen Rebound (Off:0 Def:3),0,-80,4,,100915,,1611661324,72,76,4
+04:18,[MIN 78-72] Augustus Step Back Jump shot: Made (9 PTS),-34,183,1,,200671,,1611661324,72,78,4
+04:17,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,72,78,4
+04:17,[PHO] Turner Substitution replaced by Talbot,0,-80,8,,203389,203855,1611661317,72,78,4
+04:07,[PHO] Taurasi Turnover : Out of Bounds - Bad Pass Turnover (1 TO),0,-80,5,,100940,,1611661317,72,78,4
+03:41,[MIN 80-72] Fowles Hook Shot: Made (15 PTS),0,1,1,,201480,,1611661324,72,80,4
+03:17,[PHO 74-80] Griner Cutting Layup Shot: Made (6 PTS) Assist: Talbot (2 AST),-7,21,1,,203398,203855,1611661317,74,80,4
+03:01,[MIN 82-74] Moore Jump Bank Shot: Made (18 PTS) Assist: Augustus (3 AST),94,33,1,,202632,200671,1611661324,74,82,4
+02:49,[PHO] Griner Turnaround Hook Shot: Missed,-12,36,2,,203398,,1611661317,74,82,4
+02:47,[MIN] Whalen Rebound (Off:0 Def:4),0,-80,4,,100915,,1611661324,74,82,4
+02:37,[MIN 84-74] Moore Jump Shot: Made (20 PTS),-74,115,1,,202632,,1611661324,74,84,4
+02:21,[PHO 76-84] Talbot Driving Layup Shot: Made (8 PTS),-12,7,1,,203855,,1611661317,76,84,4
+02:03,[MIN] Moore 3pt Shot: Missed,-135,218,2,,202632,,1611661324,76,84,4
+02:02,[PHO] Robinson Rebound (Off:0 Def:2),0,-80,4,,202658,,1611661317,76,84,4
+01:58,[PHO] Talbot Running Layup Shot: Missed,0,2,2,,203855,,1611661317,76,84,4
+01:56,[PHO] Little Rebound (Off:1 Def:2),0,-80,4,,201067,,1611661317,76,84,4
+01:56,[PHO 78-84] Little Tip Layup Shot: Made (16 PTS),19,16,1,,201067,,1611661317,78,84,4
+01:55,[MIN] Team Timeout : Regular,0,-80,9,,0,,1611661324,78,84,4
+01:55,[PHO] Talbot Substitution replaced by Currie,0,-80,8,,203855,200673,1611661317,78,84,4
+01:46,[MIN] Whalen Turnover : Bad Pass (3 TO) Steal:Little (1 ST),0,-80,5,201067,100915,,1611661324,78,84,4
+01:39,[MIN] Moore Foul: Personal (3 PF),-83,31,6,202658,202632,,1611661324,78,84,4
+01:21,[PHO 80-84] Robinson Jump Shot: Made (15 PTS),-12,193,1,,202658,,1611661317,80,84,4
+00:59.5,[MIN] Whalen Driving Layup Shot: Missed,15,11,2,,100915,,1611661324,80,84,4
+00:57.9,[PHO] Griner Rebound (Off:1 Def:2),0,-80,4,,203398,,1611661317,80,84,4
+00:43.8,[PHO] Robinson Jump Shot: Missed,-127,52,2,,202658,,1611661317,80,84,4
+00:42.9,[MIN] Moore Rebound (Off:3 Def:3),0,-80,4,,202632,,1611661324,80,84,4
+00:21.2,[PHO] Griner Violation:Kicked Ball,0,-80,7,,203398,,1611661317,80,84,4
+00:21.2,[MIN] Team Timeout : Short,0,-80,9,,0,,1611661324,80,84,4
+00:20.4,[PHO] Taurasi Foul: Personal Take (4 PF),168,18,6,200671,100940,,1611661317,80,84,4
+00:20.0,[PHO] Currie Foul: Personal Take (2 PF) (2 FTA),218,165,6,202632,200673,,1611661317,80,84,4
+00:20.0,[MIN] Moore Free Throw 1 of 2 Missed,0,-80,3,,202632,,1611661324,80,84,4
+00:20.0,[MIN] Team Rebound,0,-80,4,,0,,1611661324,80,84,4
+00:20.0,[MIN 85-80] Moore Free Throw 2 of 2 (21 PTS),0,-80,3,,202632,,1611661324,80,85,4
+00:20.0,[PHO] Team Timeout : Regular,0,-80,9,,0,,1611661317,80,85,4
+00:16.8,[PHO 83-85] Taurasi 3pt Shot: Made (15 PTS) Assist: Griner (2 AST),-153,198,1,,100940,203398,1611661317,83,85,4
+00:16.8,[MIN] Team Timeout : Short,0,-80,9,,0,,1611661324,83,85,4
+00:15.3,[PHO] Griner Foul: Personal (5 PF) (2 FTA),191,208,6,201480,203398,,1611661317,83,85,4
+00:15.3,[MIN 86-83] Fowles Free Throw 1 of 2 (16 PTS),0,-80,3,,201480,,1611661324,83,86,4
+00:15.3,[MIN 87-83] Fowles Free Throw 2 of 2 (17 PTS),0,-80,3,,201480,,1611661324,83,87,4
+00:15.3,[PHO] Team Timeout : Short,0,-80,9,,0,,1611661317,83,87,4
+00:09.9,[PHO] Taurasi 3pt Shot: Missed,-220,67,2,,100940,,1611661317,83,87,4
+00:08.4,[MIN] Brunson Rebound (Off:0 Def:10),0,-80,4,,100944,,1611661324,83,87,4
+00:08.4,[PHO] Robinson Foul: Personal Take (2 PF) (2 FTA),-24,801,6,100944,202658,,1611661317,83,87,4
+00:08.4,[MIN 88-83] Brunson Free Throw 1 of 2 (6 PTS),0,-80,3,,100944,,1611661324,83,88,4
+00:08.4,[MIN 89-83] Brunson Free Throw 2 of 2 (7 PTS),0,-80,3,,100944,,1611661324,83,89,4
+00:08.4,[PHO] Team Timeout : Short,0,-80,9,,0,,1611661317,83,89,4
+00:05.9,[PHO] Griner Jump Shot: Missed,155,7,2,,203398,,1611661317,83,89,4
+00:04.9,[MIN] Fowles Rebound (Off:4 Def:4),0,-80,4,,201480,,1611661324,83,89,4
+00:00.9,[PHO] Little Foul: Personal Take (3 PF) (2 FTA),-117,793,6,200671,201067,,1611661317,83,89,4
+00:00.9,[MIN 90-83] Augustus Free Throw 1 of 2 (10 PTS),0,-80,3,,200671,,1611661324,83,90,4
+00:00.9,[MIN 91-83] Augustus Free Throw 2 of 2 (11 PTS),0,-80,3,,200671,,1611661324,83,91,4
+00:00.0,End Period,0,-80,13,,0,,0,83,91,4

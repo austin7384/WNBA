@@ -1,0 +1,382 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Jones vs Stewart (Hiedeman gains possession),0,-80,10,1627668,1628280,1629567,1611661323,0,0,1
+09:42,[CON 2-0] Jones Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),-12,28,1,,1628280,203826,1611661323,0,2,1
+09:26,[SEA] Stewart Hook Shot: Missed,4,52,2,,1627668,,1611661328,0,2,1
+09:24,[CON] Thomas Rebound (Off:0 Def:1),4,52,4,,203826,,1611661323,0,2,1
+09:15,[CON] Bonner 3pt Shot: Missed,21,237,2,,201886,,1611661323,0,2,1
+09:13,[SEA] Stewart Rebound (Off:0 Def:1),21,237,4,,1627668,,1611661328,0,2,1
+09:03,[SEA 2-2] Howard Jump Bank Shot: Made (2 PTS),28,36,1,,203827,,1611661328,2,2,1
+08:36,[CON 4-2] Thomas Jump Shot: Made (2 PTS) Assist: Hiedeman (1 AST),-111,195,1,,202662,1629567,1611661323,2,4,1
+08:20,[SEA] Clark Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),-200,-11,5,201886,202252,,1611661328,2,4,1
+08:02,[CON] Jones Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-90,108,5,,1628280,,1611661323,2,4,1
+08:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,4,1
+07:47,[SEA] Loyd Jump Shot: Missed,3,164,2,,204319,,1611661328,2,4,1
+07:45,[CON] Thomas Rebound (Off:0 Def:2),3,164,4,,203826,,1611661323,2,4,1
+07:38,[CON] Thomas 3pt Shot: Missed,-140,215,2,,202662,,1611661323,2,4,1
+07:37,[CON] Hiedeman Rebound (Off:1 Def:0),-140,215,4,,1629567,,1611661323,2,4,1
+07:26,[CON 6-2] Jones Layup Shot: Made (4 PTS) Assist: Thomas (2 AST),32,21,1,,1628280,203826,1611661323,2,6,1
+07:19,[CON] Thomas Foul: Personal (1 PF),163,187,6,204319,202662,,1611661323,2,6,1
+07:04,[SEA] Loyd 3pt Shot: Missed,-230,22,2,,204319,,1611661328,2,6,1
+07:02,[CON] Thomas Rebound (Off:0 Def:3),-230,22,4,,203826,,1611661323,2,6,1
+06:53,[CON] Jones Jump Shot: Missed,133,1,2,,1628280,,1611661323,2,6,1
+06:51,[SEA] Canada Rebound (Off:0 Def:1),133,1,4,,1628886,,1611661328,2,6,1
+06:49,[CON] Bonner Foul: Personal (1 PF),-82,49,6,1628886,201886,,1611661323,2,6,1
+06:42,[SEA] Canada Turnover : Bad Pass (1 TO) Steal:Jones (1 ST),107,229,5,1628280,1628886,,1611661328,2,6,1
+06:37,[CON 8-2] Jones Layup Shot: Made (6 PTS) Assist: Thomas (3 AST),19,13,1,,1628280,203826,1611661323,2,8,1
+06:27,[SEA 4-8] Stewart Pullup Jump shot: Made (2 PTS),17,130,1,,1627668,,1611661328,4,8,1
+06:09,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,8,1
+06:08,[SEA] Clark Foul: Shooting (1 PF) (2 FTA),-184,62,6,201886,202252,,1611661328,4,8,1
+06:08,[CON] Bonner Free Throw 1 of 2 Missed,0,-80,3,,201886,,1611661323,4,8,1
+06:08,[CON] Team Rebound,0,-80,4,,0,,1611661323,4,8,1
+06:08,[CON 9-4] Bonner Free Throw 2 of 2 (1 PTS),0,-80,3,,201886,,1611661323,4,9,1
+05:55,[SEA 6-9] Stewart Turnaround Jump Shot: Made (4 PTS),-63,170,1,,1627668,,1611661328,6,9,1
+05:31,[CON] Jones Turnover : Lost Ball (2 TO) Steal:Canada (1 ST),86,13,5,1628886,1628280,,1611661323,6,9,1
+05:22,[SEA 9-9] Loyd 3pt Shot: Made (3 PTS) Assist: Canada (1 AST),-137,214,1,,204319,1628886,1611661328,9,9,1
+05:05,[CON] Thomas Pullup Jump shot: Missed,94,126,2,,202662,,1611661323,9,9,1
+05:02,[SEA] Howard Rebound (Off:0 Def:1),94,126,4,,203827,,1611661328,9,9,1
+04:52,[SEA] Loyd Jump Shot: Missed,100,58,2,,204319,,1611661328,9,9,1
+04:50,[CON] Thomas Rebound (Off:0 Def:1),100,58,4,,202662,,1611661323,9,9,1
+04:41,[CON] Bonner Turnover : Bad Pass (1 TO) Steal:Canada (2 ST),187,120,5,1628886,201886,,1611661323,9,9,1
+04:27,[SEA] Stewart Jump Shot: Missed,-103,106,2,,1627668,,1611661328,9,9,1
+04:26,[CON] Thomas Rebound (Off:0 Def:4),-103,106,4,,203826,,1611661323,9,9,1
+04:26,[SEA] Canada Foul: Personal (1 PF),98,500,6,203826,1628886,,1611661328,9,9,1
+04:26,Timeout Officials,0,-80,9,,0,,0,9,9,1
+04:26,[SEA] Clark Substitution replaced by Whitcomb,0,-80,8,,202252,1628244,1611661328,9,9,1
+04:26,[SEA] Howard Substitution replaced by Russell,0,-80,8,,203827,1628920,1611661328,9,9,1
+04:26,[SEA] Canada Substitution replaced by Tuck,0,-80,8,,1628886,1627670,1611661328,9,9,1
+04:26,[CON] Bonner Substitution replaced by Plaisance,0,-80,8,,201886,203849,1611661323,9,9,1
+04:26,[CON] Jones Substitution replaced by Holmes,0,-80,8,,1628280,1627678,1611661323,9,9,1
+04:26,[CON] Hiedeman Substitution replaced by Mosqueda-Lewis,0,-80,8,,1629567,204321,1611661323,9,9,1
+04:10,[CON] Thomas Layup Shot: Missed,-78,10,2,,203826,,1611661323,9,9,1
+04:08,[SEA] Stewart Rebound (Off:0 Def:2),-78,10,4,,1627668,,1611661328,9,9,1
+04:00,[CON] Plaisance Foul: Shooting (1 PF) (2 FTA),40,13,6,1627670,203849,,1611661323,9,9,1
+04:00,[SEA] Tuck Free Throw 1 of 2 Missed,0,-80,3,,1627670,,1611661328,9,9,1
+04:00,[SEA] Team Rebound,0,-80,4,,0,,1611661328,9,9,1
+04:00,[SEA] Tuck Free Throw 2 of 2 Missed,0,-80,3,,1627670,,1611661328,9,9,1
+03:57,[SEA] Russell Rebound (Off:1 Def:0),0,-80,4,,1628920,,1611661328,9,9,1
+03:52,[SEA] Russell Layup Shot: Missed,-46,25,2,203849,1628920,,1611661328,9,9,1
+03:48,[CON] Thomas Rebound (Off:0 Def:5),-46,25,4,,203826,,1611661323,9,9,1
+03:45,[CON] Thomas Layup Shot: Missed,49,35,2,204319,202662,,1611661323,9,9,1
+03:45,[CON] Team Rebound,49,35,4,,0,,1611661323,9,9,1
+03:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,9,1
+03:38,[CON] Thomas Layup Shot: Missed,28,12,2,,203826,,1611661323,9,9,1
+03:36,[SEA] Russell Rebound (Off:1 Def:1),28,12,4,,1628920,,1611661328,9,9,1
+03:19,[SEA] Loyd Driving Layup Shot: Missed,-26,37,2,,204319,,1611661328,9,9,1
+03:17,[CON] Thomas Rebound (Off:0 Def:6),-26,37,4,,203826,,1611661323,9,9,1
+03:13,[CON 11-9] Holmes Cutting Layup Shot: Made (2 PTS) Assist: Thomas (4 AST),-41,3,1,,1627678,203826,1611661323,9,11,1
+02:58,[SEA 11-11] Stewart Jump Shot: Made (6 PTS) Assist: Whitcomb (1 AST),-164,89,1,,1627668,1628244,1611661328,11,11,1
+02:32,[CON] Mosqueda-Lewis Jump Shot: Missed,-13,206,2,1627668,204321,,1611661323,11,11,1
+02:32,[CON] Team Rebound,-13,206,4,,0,,1611661323,11,11,1
+02:32,[CON] Team Turnover : Shot Clock Turnover,102,238,5,,0,,1611661323,11,11,1
+02:32,[SEA] Loyd Substitution replaced by Canada,0,-80,8,,204319,1628886,1611661328,11,11,1
+02:20,[SEA] Canada Turnover : Bad Pass (2 TO) Steal:Thomas (1 ST),-76,220,5,203826,1628886,,1611661328,11,11,1
+02:15,[SEA] Tuck Foul: Shooting (1 PF) (2 FTA),-26,27,6,203826,1627670,,1611661328,11,11,1
+02:15,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,11,11,1
+02:15,[CON] Team Rebound,0,-80,4,,0,,1611661323,11,11,1
+02:15,[CON] Plaisance Substitution replaced by Jones,0,-80,8,,203849,1628280,1611661323,11,11,1
+02:15,[CON 12-11] Thomas Free Throw 2 of 2 (1 PTS),0,-80,3,,203826,,1611661323,11,12,1
+02:04,[SEA 13-12] Whitcomb Layup Shot: Made (2 PTS),30,15,1,,1628244,,1611661328,13,12,1
+01:51,[CON 14-13] Jones Layup Shot: Made (8 PTS) Assist: Thomas (1 AST),22,15,1,,1628280,202662,1611661323,13,14,1
+01:39,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,13,14,1
+01:39,[CON] Thomas Substitution replaced by Bonner,0,-80,8,,203826,201886,1611661323,13,14,1
+01:24,[SEA] Tuck 3pt Shot: Missed,-228,14,2,,1627670,,1611661328,13,14,1
+01:21,[CON] Holmes Rebound (Off:0 Def:1),-228,14,4,,1627678,,1611661323,13,14,1
+01:10,[CON] Holmes 3pt Shot: Missed,150,198,2,,1627678,,1611661323,13,14,1
+01:09,[SEA] Stewart Rebound (Off:0 Def:3),150,198,4,,1627668,,1611661328,13,14,1
+01:06,[SEA] Russell Layup Shot: Missed,25,14,2,,1628920,,1611661328,13,14,1
+01:04,[CON] Bonner Rebound (Off:0 Def:1),25,14,4,,201886,,1611661323,13,14,1
+00:51.2,[CON 16-13] Bonner Driving Layup Shot: Made (3 PTS),21,21,1,,201886,,1611661323,13,16,1
+00:43.7,[SEA 16-16] Stewart 3pt Shot: Made (9 PTS) Assist: Canada (2 AST),-139,197,1,,1627668,1628886,1611661328,16,16,1
+00:19.3,[CON 19-16] Jones 3pt Shot: Made (11 PTS) Assist: Holmes (1 AST),-76,247,1,,1628280,1627678,1611661323,16,19,1
+00:00.0,[SEA] Whitcomb 3pt Shot: Missed,17,293,2,,1628244,,1611661328,16,19,1
+00:00.0,[SEA] Team Rebound,17,293,4,,0,,1611661328,16,19,1
+00:00.0,End Period,0,-80,13,,0,,0,16,19,1
+10:00,Start Period,0,-80,12,,0,,0,16,19,2
+09:38,[SEA] Magbegor Layup Shot: Missed,-52,32,2,,1629496,,1611661328,16,19,2
+09:35,[CON] Jones Rebound (Off:0 Def:1),-52,32,4,,1628280,,1611661323,16,19,2
+09:21,[CON] Jones Layup Shot: Missed,-86,12,2,,1628280,,1611661323,16,19,2
+09:19,[SEA] Canada Rebound (Off:0 Def:2),-86,12,4,,1628886,,1611661328,16,19,2
+09:09,[SEA 18-19] Howard Turnaround Hook Shot: Made (4 PTS),3,41,1,,203827,,1611661328,18,19,2
+08:41,[CON] Mosqueda-Lewis 3pt Shot: Missed,-164,215,2,,204321,,1611661323,18,19,2
+08:38,[SEA] Howard Rebound (Off:0 Def:2),-164,215,4,,203827,,1611661328,18,19,2
+08:34,[SEA 20-19] Canada Cutting Layup Shot: Made (2 PTS),-21,16,1,,1628886,,1611661328,20,19,2
+08:12,[CON] Hiedeman 3pt Shot: Missed,-236,39,2,,1629567,,1611661323,20,19,2
+08:09,[SEA] Clark Rebound (Off:0 Def:1),-236,39,4,,202252,,1611661328,20,19,2
+08:05,[SEA] Clark 3pt Shot: Missed,163,161,2,,202252,,1611661328,20,19,2
+08:05,[SEA] Howard Rebound (Off:1 Def:2),163,161,4,,203827,,1611661328,20,19,2
+08:05,[CON] Jones Foul: Personal (1 PF),163,161,6,203827,1628280,,1611661323,20,19,2
+08:05,[SEA] Whitcomb Substitution replaced by Loyd,0,-80,8,,1628244,204319,1611661328,20,19,2
+08:05,[CON] Mosqueda-Lewis Substitution replaced by Thomas,0,-80,8,,204321,203826,1611661323,20,19,2
+07:49,[SEA] Clark Floating Jump shot: Missed,81,27,2,,202252,,1611661328,20,19,2
+07:47,[CON] Thomas Rebound (Off:0 Def:7),81,27,4,,203826,,1611661323,20,19,2
+07:47,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),131,489,5,,203826,,1611661323,20,19,2
+07:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,19,2
+07:27,[SEA 22-19] Canada Pullup Jump shot: Made (4 PTS),-55,169,1,,1628886,,1611661328,22,19,2
+07:11,[CON 21-22] Hiedeman Turnaround Fadeaway Bank Jump Shot: Made (2 PTS),-117,51,1,,1629567,,1611661323,22,21,2
+06:46,[SEA 24-21] Magbegor Cutting Layup Shot: Made (2 PTS) Assist: Canada (3 AST),-33,15,1,,1629496,1628886,1611661328,24,21,2
+06:25,[CON 23-24] Thomas Layup Shot: Made (3 PTS) Assist: Bonner (1 AST),25,15,1,,203826,201886,1611661323,24,23,2
+06:17,[CON] Jones Foul: Personal (2 PF),-85,226,6,204319,1628280,,1611661323,24,23,2
+06:17,[SEA] Magbegor Substitution replaced by Stewart,0,-80,8,,1629496,1627668,1611661328,24,23,2
+06:17,[SEA] Canada Substitution replaced by Whitcomb,0,-80,8,,1628886,1628244,1611661328,24,23,2
+06:11,[SEA] Clark 3pt Shot: Missed,-209,123,2,,202252,,1611661328,24,23,2
+06:09,[CON] Thomas Rebound (Off:0 Def:8),-209,123,4,,203826,,1611661323,24,23,2
+05:57,[CON] Bonner 3pt Shot: Missed,221,50,2,1627668,201886,,1611661323,24,23,2
+05:52,[CON] Thomas Rebound (Off:1 Def:8),221,50,4,,203826,,1611661323,24,23,2
+05:48,[CON] Thomas Layup Shot: Missed,-3,39,2,,203826,,1611661323,24,23,2
+05:46,[SEA] Stewart Rebound (Off:0 Def:4),-3,39,4,,1627668,,1611661328,24,23,2
+05:43,[SEA 26-23] Loyd Cutting Layup Shot: Made (5 PTS) Assist: Stewart (1 AST),18,3,1,,204319,1627668,1611661328,26,23,2
+05:18,[CON] Hiedeman 3pt Shot: Missed,228,86,2,,1629567,,1611661323,26,23,2
+05:16,[SEA] Howard Rebound (Off:1 Def:3),228,86,4,,203827,,1611661328,26,23,2
+05:09,[SEA 28-23] Howard Reverse Layup Shot: Made (6 PTS) Assist: Whitcomb (2 AST),25,16,1,,203827,1628244,1611661328,28,23,2
+04:53,[SEA] Loyd Foul: Personal (1 PF),52,53,6,203826,204319,,1611661328,28,23,2
+04:53,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,28,23,2
+04:53,[CON] Holmes Substitution replaced by Thomas,0,-80,8,,1627678,202662,1611661323,28,23,2
+04:43,[CON 25-28] Jones Layup Shot: Made (13 PTS),46,21,1,,1628280,,1611661323,28,25,2
+04:43,[SEA] Howard Foul: Shooting (1 PF) (1 FTA),46,21,6,1628280,203827,,1611661328,28,25,2
+04:43,[CON 26-28] Jones Free Throw 1 of 1 (14 PTS),0,-80,3,,1628280,,1611661323,28,26,2
+04:27,[SEA] Stewart Turnaround Fadeaway shot: Missed,121,126,2,,1627668,,1611661328,28,26,2
+04:25,[CON] Bonner Rebound (Off:0 Def:2),121,126,4,,201886,,1611661323,28,26,2
+04:14,[CON 28-28] Jones Reverse Layup Shot: Made (16 PTS) Assist: Bonner (2 AST),-28,15,1,,1628280,201886,1611661323,28,28,2
+03:58,[SEA] Whitcomb 3pt Shot: Missed,196,158,2,,1628244,,1611661328,28,28,2
+03:58,[CON] Team Rebound,196,158,4,,0,,1611661323,28,28,2
+03:58,[SEA] Howard Substitution replaced by Russell,0,-80,8,,203827,1628920,1611661328,28,28,2
+03:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,28,2
+03:41,[CON 30-28] Jones Turnaround Jump Shot: Made (18 PTS) Assist: Thomas (2 AST),35,50,1,,1628280,202662,1611661323,28,30,2
+03:23,[SEA] Stewart Pullup Jump shot: Missed,125,113,2,,1627668,,1611661328,28,30,2
+03:21,[CON] Thomas Rebound (Off:1 Def:9),125,113,4,,203826,,1611661323,28,30,2
+03:11,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Clark (1 ST),-126,207,5,202252,202662,,1611661323,28,30,2
+03:05,[SEA 31-30] Whitcomb 3pt Shot: Made (5 PTS) Assist: Loyd (1 AST),-180,160,1,,1628244,204319,1611661328,31,30,2
+02:51,[CON 32-31] Thomas Layup Shot: Made (5 PTS) Assist: Hiedeman (2 AST),61,13,1,,203826,1629567,1611661323,31,32,2
+02:51,[SEA] Stewart Foul: Shooting (1 PF) (1 FTA),61,13,6,203826,1627668,,1611661328,31,32,2
+02:51,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,31,32,2
+02:51,[CON] Jones Substitution replaced by Mosqueda-Lewis,0,-80,8,,1628280,204321,1611661323,31,32,2
+02:51,[SEA] Whitcomb Substitution replaced by Canada,0,-80,8,,1628244,1628886,1611661328,31,32,2
+02:51,[CON 33-31] Thomas Free Throw 1 of 1 (6 PTS),0,-80,3,,203826,,1611661323,31,33,2
+02:43,[SEA 33-33] Stewart Pullup Jump shot: Made (11 PTS),-2,38,1,,1627668,,1611661328,33,33,2
+02:43,[CON] Thomas Foul: Shooting (1 PF) (1 FTA),-2,38,6,1627668,203826,,1611661323,33,33,2
+02:43,[SEA 34-33] Stewart Free Throw 1 of 1 (12 PTS),0,-80,3,,1627668,,1611661328,34,33,2
+02:20,[CON] Thomas Driving Layup Shot: Missed,-34,50,2,1627668,202662,,1611661323,34,33,2
+02:20,[CON] Team Rebound,-34,50,4,,0,,1611661323,34,33,2
+02:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,33,2
+02:16,[CON] Bonner Layup Shot: Missed,-2,53,2,,201886,,1611661323,34,33,2
+02:16,[CON] Team Rebound,-2,53,4,,0,,1611661323,34,33,2
+02:16,[SEA] Clark Foul: Loose Ball (2 PF),-85,60,6,201886,202252,,1611661328,34,33,2
+02:05,[CON 35-34] Mosqueda-Lewis Cutting Finger Roll Layup Shot: Made (2 PTS) Assist: Hiedeman (3 AST),11,32,1,,204321,1629567,1611661323,34,35,2
+01:58,[SEA] Canada Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-37,86,5,,1628886,,1611661328,34,35,2
+01:58,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,35,2
+01:35,[CON 37-34] Bonner Turnaround Jump Shot: Made (5 PTS),39,126,1,,201886,,1611661323,34,37,2
+01:17,[SEA 36-37] Canada Cutting Layup Shot: Made (6 PTS),17,24,1,,1628886,,1611661328,36,37,2
+00:59.5,[CON] Mosqueda-Lewis 3pt Shot: Missed,182,161,2,,204321,,1611661323,36,37,2
+00:57.7,[SEA] Canada Rebound (Off:0 Def:3),182,161,4,,1628886,,1611661328,36,37,2
+00:55.4,[SEA] Loyd Turnover : Bad Pass (1 TO) Steal:Bonner (2 ST),186,68,5,201886,204319,,1611661328,36,37,2
+00:49.4,[CON] Thomas Layup Shot: Missed,22,17,2,,203826,,1611661323,36,37,2
+00:46.9,[SEA] Russell Rebound (Off:1 Def:2),22,17,4,,1628920,,1611661328,36,37,2
+00:31.1,[SEA] Loyd Cutting Layup Shot: Missed,-43,15,2,,204319,,1611661328,36,37,2
+00:29.3,[CON] Mosqueda-Lewis Rebound (Off:0 Def:1),-43,15,4,,204321,,1611661323,36,37,2
+00:07.0,[CON 40-36] Thomas 3pt Shot: Made (5 PTS) Assist: Mosqueda-Lewis (1 AST),-24,258,1,,202662,204321,1611661323,36,40,2
+00:01.6,[CON] Mosqueda-Lewis Foul: Shooting (1 PF) (2 FTA),26,38,6,1628886,204321,,1611661323,36,40,2
+00:01.6,[SEA 37-40] Canada Free Throw 1 of 2 (7 PTS),0,-80,3,,1628886,,1611661328,37,40,2
+00:01.6,[SEA] Russell Substitution replaced by Howard,0,-80,8,,1628920,203827,1611661328,37,40,2
+00:01.6,[SEA 38-40] Canada Free Throw 2 of 2 (8 PTS),0,-80,3,,1628886,,1611661328,38,40,2
+00:00.0,End Period,0,-80,13,,0,,0,38,40,2
+10:00,Start Period,0,-80,12,,0,,0,38,40,3
+09:51,[CON] Hiedeman Foul: Personal (1 PF),-39,147,6,1628886,1629567,,1611661323,38,40,3
+09:32,[SEA] Stewart Jump Shot: Missed,-101,180,2,,1627668,,1611661328,38,40,3
+09:29,[CON] Bonner Rebound (Off:0 Def:3),-101,180,4,,201886,,1611661323,38,40,3
+09:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,40,3
+09:08,[CON 43-38] Thomas 3pt Shot: Made (8 PTS) Assist: Jones (1 AST),226,86,1,,202662,1628280,1611661323,38,43,3
+08:53,[SEA] Howard Turnover : Lost Ball (1 TO) Steal:Jones (2 ST),-115,123,5,1628280,203827,,1611661328,38,43,3
+08:46,[CON] Bonner 3pt Shot: Missed,-59,288,2,,201886,,1611661323,38,43,3
+08:44,[SEA] Loyd Rebound (Off:0 Def:1),-59,288,4,,204319,,1611661328,38,43,3
+08:39,[SEA 40-43] Stewart Jump Shot: Made (14 PTS),-108,161,1,,1627668,,1611661328,40,43,3
+08:15,[CON 45-40] Jones Jump Shot: Made (20 PTS) Assist: Hiedeman (4 AST),-8,63,1,,1628280,1629567,1611661323,40,45,3
+07:56,[SEA] Loyd Pullup Jump shot: Missed,177,102,2,,204319,,1611661328,40,45,3
+07:54,[CON] Hiedeman Rebound (Off:1 Def:1),177,102,4,,1629567,,1611661323,40,45,3
+07:42,[CON] Bonner Layup Shot: Missed,-24,63,2,,201886,,1611661323,40,45,3
+07:40,[CON] Hiedeman Rebound (Off:2 Def:1),-24,63,4,,1629567,,1611661323,40,45,3
+07:36,[CON] Hiedeman Jump Shot: Missed,-182,46,2,,1629567,,1611661323,40,45,3
+07:36,[SEA] Team Rebound,-182,46,4,,0,,1611661328,40,45,3
+07:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,45,3
+07:24,[CON] Thomas Foul: Shooting (2 PF) (2 FTA),63,24,6,1627668,203826,,1611661323,40,45,3
+07:24,[SEA 41-45] Stewart Free Throw 1 of 2 (15 PTS),0,-80,3,,1627668,,1611661328,41,45,3
+07:24,[SEA 42-45] Stewart Free Throw 2 of 2 (16 PTS),0,-80,3,,1627668,,1611661328,42,45,3
+07:14,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (2 TO),26,235,5,,203826,,1611661323,42,45,3
+07:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,45,3
+07:14,[SEA] Howard Substitution replaced by Russell,0,-80,8,,203827,1628920,1611661328,42,45,3
+06:47,[SEA 44-45] Canada Fadeaway Jump Shot: Made (10 PTS),-196,86,1,,1628886,,1611661328,44,45,3
+06:41,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Clark (2 ST),-39,578,5,202252,202662,,1611661323,44,45,3
+06:37,[SEA 46-45] Clark Layup Shot: Made (2 PTS) Assist: Loyd (2 AST),30,18,1,,202252,204319,1611661328,46,45,3
+06:37,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,46,45,3
+06:25,[SEA] Canada Foul: Personal (2 PF),-181,140,6,202662,1628886,,1611661328,46,45,3
+06:16,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Loyd (1 ST),31,268,5,204319,202662,,1611661323,46,45,3
+06:10,[SEA] Canada Turnover : Bad Pass (4 TO) Steal:Hiedeman (1 ST),-31,231,5,1629567,1628886,,1611661328,46,45,3
+06:05,[CON 47-46] Thomas Cutting Layup Shot: Made (8 PTS) Assist: Hiedeman (5 AST),26,11,1,,203826,1629567,1611661323,46,47,3
+05:51,[SEA] Russell Floating Jump shot: Missed,0,120,2,,1628920,,1611661328,46,47,3
+05:48,[CON] Bonner Rebound (Off:0 Def:4),0,120,4,,201886,,1611661323,46,47,3
+05:40,[SEA] Loyd Foul: Personal (2 PF),-154,-24,6,202662,204319,,1611661328,46,47,3
+05:24,[CON] Hiedeman 3pt Shot: Missed,-139,235,2,,1629567,,1611661323,46,47,3
+05:22,[SEA] Stewart Rebound (Off:0 Def:5),-139,235,4,,1627668,,1611661328,46,47,3
+05:14,[SEA] Russell Layup Shot: Missed,-41,26,2,,1628920,,1611661328,46,47,3
+05:12,[SEA] Russell Rebound (Off:2 Def:2),-41,26,4,,1628920,,1611661328,46,47,3
+05:11,[SEA] Russell Layup Shot: Missed,-41,18,2,,1628920,,1611661328,46,47,3
+05:09,[CON] Thomas Rebound (Off:1 Def:10),-41,18,4,,203826,,1611661323,46,47,3
+04:49,[CON] Jones Layup Shot: Missed,59,10,2,,1628280,,1611661323,46,47,3
+04:47,[SEA] Russell Rebound (Off:2 Def:3),59,10,4,,1628920,,1611661328,46,47,3
+04:41,[SEA] Canada Jump Shot: Missed,170,104,2,,1628886,,1611661328,46,47,3
+04:39,[CON] Bonner Rebound (Off:0 Def:5),170,104,4,,201886,,1611661323,46,47,3
+04:20,[CON] Thomas 3pt Shot: Missed,-231,19,2,,202662,,1611661323,46,47,3
+04:18,[SEA] Loyd Rebound (Off:0 Def:2),-231,19,4,,204319,,1611661328,46,47,3
+04:05,[CON] Thomas Foul: Personal (3 PF),-100,215,6,1627668,203826,,1611661323,46,47,3
+04:05,[SEA] Canada Substitution replaced by Magbegor,0,-80,8,,1628886,1629496,1611661328,46,47,3
+04:05,[SEA] Russell Substitution replaced by Whitcomb,0,-80,8,,1628920,1628244,1611661328,46,47,3
+04:05,[CON] Hiedeman Substitution replaced by Plaisance,0,-80,8,,1629567,203849,1611661323,46,47,3
+04:05,[CON] Jones Substitution replaced by Holmes,0,-80,8,,1628280,1627678,1611661323,46,47,3
+03:48,[SEA] Stewart 3pt Shot: Missed,-124,230,2,,1627668,,1611661328,46,47,3
+03:46,[SEA] Magbegor Rebound (Off:1 Def:0),-124,230,4,,1629496,,1611661328,46,47,3
+03:39,Jump Ball Magbegor vs Bonner (Clark gains possession),0,-80,10,201886,1629496,202252,1611661328,46,47,3
+03:36,[SEA] Stewart 3pt Shot: Missed,210,78,2,,1627668,,1611661328,46,47,3
+03:33,[CON] Bonner Rebound (Off:0 Def:6),210,78,4,,201886,,1611661323,46,47,3
+03:28,[CON 49-46] Thomas Driving Finger Roll Layup Shot: Made (10 PTS) Assist: Bonner (3 AST),19,38,1,,203826,201886,1611661323,46,49,3
+03:16,[SEA 49-49] Stewart 3pt Shot: Made (19 PTS) Assist: Loyd (3 AST),-151,246,1,,1627668,204319,1611661328,49,49,3
+02:48,[CON 51-49] Plaisance Turnaround Jump Shot: Made (2 PTS) Assist: Thomas (3 AST),-96,-7,1,,203849,202662,1611661323,49,51,3
+02:37,[SEA 52-51] Whitcomb 3pt Shot: Made (8 PTS) Assist: Stewart (2 AST),-226,102,1,,1628244,1627668,1611661328,52,51,3
+02:22,[CON] Thomas Layup Shot: Missed,24,17,2,1627668,202662,,1611661323,52,51,3
+02:22,[CON] Team Rebound,24,17,4,,0,,1611661323,52,51,3
+02:22,Stoppage: Court Cleanup,0,-80,20,,0,,0,52,51,3
+02:15,[CON] Thomas Turnover : Lost Ball (3 TO) Steal:Stewart (1 ST),139,188,5,1627668,203826,,1611661323,52,51,3
+02:05,[SEA 54-51] Whitcomb Driving Floating Bank Jump Shot: Made (10 PTS),-3,58,1,,1628244,,1611661328,54,51,3
+01:50,[CON] Bonner Jump Shot: Missed,-92,32,2,1627668,201886,,1611661323,54,51,3
+01:47,[CON] Bonner Rebound (Off:1 Def:6),-92,32,4,,201886,,1611661323,54,51,3
+01:43,[CON] Thomas Layup Shot: Missed,-38,52,2,,202662,,1611661323,54,51,3
+01:43,[CON] Thomas Rebound (Off:2 Def:10),-38,52,4,,203826,,1611661323,54,51,3
+01:43,[SEA] Whitcomb Foul: Shooting (1 PF) (2 FTA),7,1,6,203826,1628244,,1611661328,54,51,3
+01:43,[CON 52-54] Thomas Free Throw 1 of 2 (11 PTS),0,-80,3,,203826,,1611661323,54,52,3
+01:43,[SEA] Loyd Substitution replaced by Canada,0,-80,8,,204319,1628886,1611661328,54,52,3
+01:43,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,54,52,3
+01:43,[CON 53-54] Thomas Free Throw 2 of 2 (12 PTS),0,-80,3,,203826,,1611661323,54,53,3
+01:21,[SEA 56-53] Magbegor Driving Layup Shot: Made (4 PTS),7,24,1,,1629496,,1611661328,56,53,3
+01:21,[CON] Bonner Foul: Shooting (2 PF) (1 FTA),7,24,6,1629496,201886,,1611661323,56,53,3
+01:21,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,56,53,3
+01:21,[SEA] Magbegor Free Throw 1 of 1 Missed,0,-80,3,,1629496,,1611661328,56,53,3
+01:18,[SEA] Clark Rebound (Off:1 Def:1),0,-80,4,,202252,,1611661328,56,53,3
+01:14,[SEA 59-53] Clark 3pt Shot: Made (5 PTS) Assist: Canada (4 AST),-239,11,1,,202252,1628886,1611661328,59,53,3
+01:00,[CON] Holmes Turnover : Lost Ball (1 TO) Steal:Clark (3 ST),75,148,5,202252,1627678,,1611661323,59,53,3
+00:55.6,[SEA] Canada Layup Shot: Missed,20,13,2,,1628886,,1611661328,59,53,3
+00:55.6,[CON] Team Rebound,20,13,4,,0,,1611661323,59,53,3
+00:55.6,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,53,3
+00:55.6,[SEA] Stewart Substitution replaced by Russell,0,-80,8,,1627668,1628920,1611661328,59,53,3
+00:30.0,[CON] Hiedeman Layup Shot: Missed,-35,21,2,,1629567,,1611661323,59,53,3
+00:28.8,[CON] Hiedeman Rebound (Off:3 Def:1),-35,21,4,,1629567,,1611661323,59,53,3
+00:28.2,[CON] Hiedeman Layup Shot: Missed,8,40,2,1628920,1629567,,1611661323,59,53,3
+00:28.2,[SEA] Whitcomb Rebound (Off:0 Def:1),8,40,4,,1628244,,1611661328,59,53,3
+00:07.9,[CON] Jones Foul: Shooting (3 PF) (2 FTA),-108,37,6,1628886,1628280,,1611661323,59,53,3
+00:07.9,[SEA 60-53] Canada Free Throw 1 of 2 (11 PTS),0,-80,3,,1628886,,1611661328,60,53,3
+00:07.9,[SEA 61-53] Canada Free Throw 2 of 2 (12 PTS),0,-80,3,,1628886,,1611661328,61,53,3
+00:00.0,End Period,0,-80,13,,0,,0,61,53,3
+10:00,Start Period,0,-80,12,,0,,0,61,53,4
+09:43,[CON] Thomas Turnover : Bad Pass (4 TO) Steal:Whitcomb (1 ST),-172,183,5,1628244,202662,,1611661323,61,53,4
+09:23,[SEA] Canada Layup Shot: Missed,-4,26,2,1628280,1628886,,1611661328,61,53,4
+09:23,[CON] Hiedeman Rebound (Off:3 Def:2),-4,26,4,,1629567,,1611661323,61,53,4
+09:23,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,53,4
+09:05,[CON] Hiedeman Turnover : Bad Pass (1 TO) Steal:Magbegor (1 ST),-91,230,5,1629496,1629567,,1611661323,61,53,4
+09:03,[CON] Thomas Foul: Shooting (4 PF) (2 FTA),-53,38,6,1629496,203826,,1611661323,61,53,4
+09:03,[SEA] Magbegor Free Throw 1 of 2 Missed,0,-80,3,,1629496,,1611661328,61,53,4
+09:03,[SEA] Team Rebound,0,-80,4,,0,,1611661328,61,53,4
+09:03,[SEA 62-53] Magbegor Free Throw 2 of 2 (5 PTS),0,-80,3,,1629496,,1611661328,62,53,4
+08:48,[CON] Mosqueda-Lewis 3pt Shot: Missed,15,252,2,,204321,,1611661323,62,53,4
+08:48,[CON] Team Rebound,15,252,4,,0,,1611661323,62,53,4
+08:48,[SEA] Tuck Foul: Personal (2 PF),13,65,6,203826,1627670,,1611661328,62,53,4
+08:40,[SEA] Magbegor Foul: Shooting (1 PF) (2 FTA),-13,43,6,1629567,1629496,,1611661328,62,53,4
+08:40,[CON] Hiedeman Free Throw 1 of 2 Missed,0,-80,3,,1629567,,1611661323,62,53,4
+08:40,[CON] Team Rebound,0,-80,4,,0,,1611661323,62,53,4
+08:40,[CON] Hiedeman Free Throw 2 of 2 Missed,0,-80,3,,1629567,,1611661323,62,53,4
+08:35,[CON] Jones Rebound (Off:1 Def:1),0,-80,4,,1628280,,1611661323,62,53,4
+08:26,[CON 55-62] Thomas Jump Shot: Made (14 PTS) Assist: Thomas (4 AST),-74,132,1,,203826,202662,1611661323,62,55,4
+08:13,[CON] Hiedeman Foul: Shooting (2 PF) (2 FTA),-106,37,6,1628244,1629567,,1611661323,62,55,4
+08:13,[SEA 63-55] Whitcomb Free Throw 1 of 2 (11 PTS),0,-80,3,,1628244,,1611661328,63,55,4
+08:13,[SEA 64-55] Whitcomb Free Throw 2 of 2 (12 PTS),0,-80,3,,1628244,,1611661328,64,55,4
+08:13,[SEA] Russell Substitution replaced by Stewart,0,-80,8,,1628920,1627668,1611661328,64,55,4
+08:02,[CON] Mosqueda-Lewis 3pt Shot: Missed,220,89,2,,204321,,1611661323,64,55,4
+08:01,[SEA] Whitcomb Rebound (Off:0 Def:2),220,89,4,,1628244,,1611661328,64,55,4
+08:00,[CON] Jones Foul: Personal (4 PF),-8,802,6,1628244,1628280,,1611661323,64,55,4
+08:00,Stoppage: Blood Rule,0,-80,20,,0,,0,64,55,4
+08:00,[SEA] Whitcomb Substitution replaced by Loyd,0,-80,8,,1628244,204319,1611661328,64,55,4
+07:30,[SEA] Loyd 3pt Shot: Missed,-234,-14,2,,204319,,1611661328,64,55,4
+07:27,[CON] Mosqueda-Lewis Rebound (Off:0 Def:2),-234,-14,4,,204321,,1611661323,64,55,4
+07:13,[CON 58-64] Mosqueda-Lewis 3pt Shot: Made (5 PTS) Assist: Jones (2 AST),-234,-17,1,,204321,1628280,1611661323,64,58,4
+07:03,[CON] Jones Foul: Personal (5 PF),-114,62,6,1629496,1628280,,1611661323,64,58,4
+07:03,[SEA] Tuck Substitution replaced by Clark,0,-80,8,,1627670,202252,1611661328,64,58,4
+07:03,[CON] Jones Substitution replaced by Bonner,0,-80,8,,1628280,201886,1611661323,64,58,4
+06:55,[SEA 67-58] Stewart 3pt Shot: Made (22 PTS) Assist: Canada (5 AST),143,209,1,,1627668,1628886,1611661328,67,58,4
+06:38,[CON] Mosqueda-Lewis 3pt Shot: Missed,100,224,2,,204321,,1611661323,67,58,4
+06:36,[CON] Thomas Rebound (Off:3 Def:10),100,224,4,,203826,,1611661323,67,58,4
+06:32,[CON] Mosqueda-Lewis 3pt Shot: Missed,-85,231,2,,204321,,1611661323,67,58,4
+06:30,[SEA] Clark Rebound (Off:1 Def:2),-85,231,4,,202252,,1611661328,67,58,4
+06:24,[SEA 70-58] Clark 3pt Shot: Made (8 PTS) Assist: Canada (6 AST),121,209,1,,202252,1628886,1611661328,70,58,4
+06:10,[CON] Bonner Turnover : Bad Pass (2 TO) Steal:Canada (3 ST),3,305,5,1628886,201886,,1611661323,70,58,4
+06:07,[SEA 72-58] Canada Cutting Layup Shot: Made (14 PTS),17,10,1,,1628886,,1611661328,72,58,4
+06:06,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,72,58,4
+06:06,[SEA] Magbegor Substitution replaced by Whitcomb,0,-80,8,,1629496,1628244,1611661328,72,58,4
+06:06,[SEA] Canada Substitution replaced by Howard,0,-80,8,,1628886,203827,1611661328,72,58,4
+05:54,[CON] Hiedeman Cutting Layup Shot: Missed,12,35,2,203827,1629567,,1611661323,72,58,4
+05:51,[SEA] Howard Rebound (Off:1 Def:4),12,35,4,,203827,,1611661328,72,58,4
+05:39,[SEA 74-58] Loyd Driving Layup Shot: Made (7 PTS) Assist: Clark (1 AST),33,18,1,,204319,202252,1611661328,74,58,4
+05:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,58,4
+05:21,[CON] Bonner Turnover : Out of Bounds - Bad Pass Turnover (3 TO),85,15,5,,201886,,1611661323,74,58,4
+05:21,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,58,4
+05:07,[SEA] Whitcomb Driving Layup Shot: Missed,39,59,2,,1628244,,1611661328,74,58,4
+05:06,[SEA] Whitcomb Rebound (Off:1 Def:2),39,59,4,,1628244,,1611661328,74,58,4
+05:05,[SEA 77-58] Clark 3pt Shot: Made (11 PTS) Assist: Whitcomb (3 AST),175,174,1,,202252,1628244,1611661328,77,58,4
+04:44,[SEA] Loyd Foul: Shooting (3 PF) (2 FTA),-44,13,6,203826,204319,,1611661328,77,58,4
+04:44,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,77,58,4
+04:44,[CON] Team Rebound,0,-80,4,,0,,1611661323,77,58,4
+04:44,[CON] Mosqueda-Lewis Substitution replaced by Charles,0,-80,8,,204321,1630097,1611661323,77,58,4
+04:44,[CON 59-77] Thomas Free Throw 2 of 2 (15 PTS),0,-80,3,,203826,,1611661323,77,59,4
+04:34,[SEA] Stewart Turnover : Bad Pass (1 TO) Steal:Charles (1 ST),-67,257,5,1630097,1627668,,1611661328,77,59,4
+04:20,[CON 62-77] Thomas 3pt Shot: Made (11 PTS) Assist: Bonner (4 AST),190,138,1,,202662,201886,1611661323,77,62,4
+04:04,[SEA] Howard Turnover : Out of Bounds Lost Ball Turnover (2 TO),-64,23,5,,203827,,1611661328,77,62,4
+04:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,77,62,4
+04:04,[CON] Thomas Substitution replaced by Holmes,0,-80,8,,202662,1627678,1611661323,77,62,4
+04:04,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1628280,1611661323,77,62,4
+03:48,[CON] Holmes Cutting Layup Shot: Missed,25,54,2,,1627678,,1611661323,77,62,4
+03:45,[SEA] Howard Rebound (Off:1 Def:5),25,54,4,,203827,,1611661328,77,62,4
+03:28,[SEA] Stewart Jump Shot: Missed,-6,152,2,,1627668,,1611661328,77,62,4
+03:26,[CON] Hiedeman Rebound (Off:3 Def:3),-6,152,4,,1629567,,1611661323,77,62,4
+03:18,[SEA] Clark Foul: Personal (3 PF),63,6,6,1630097,202252,,1611661328,77,62,4
+03:18,[SEA] Whitcomb Substitution replaced by Canada,0,-80,8,,1628244,1628886,1611661328,77,62,4
+03:08,[CON] Bonner 3pt Shot: Missed,-194,137,2,,201886,,1611661323,77,62,4
+03:02,[CON] Charles Rebound (Off:1 Def:0),-194,137,4,,1630097,,1611661323,77,62,4
+03:02,[CON 64-77] Charles Putback Layup Shot: Made (2 PTS),0,-5,1,,1630097,,1611661323,77,64,4
+03:02,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,77,64,4
+03:02,[CON] Bonner Substitution replaced by Mompremier,0,-80,8,,201886,1629492,1611661323,77,64,4
+02:50,[CON] Charles Foul: Personal (1 PF) (2 FTA),122,210,6,202252,1630097,,1611661323,77,64,4
+02:50,[SEA 78-64] Clark Free Throw 1 of 2 (12 PTS),0,-80,3,,202252,,1611661328,78,64,4
+02:50,[SEA 79-64] Clark Free Throw 2 of 2 (13 PTS),0,-80,3,,202252,,1611661328,79,64,4
+02:23,[CON] Charles 3pt Shot: Missed,198,140,2,,1630097,,1611661323,79,64,4
+02:18,[CON] Holmes Rebound (Off:1 Def:1),198,140,4,,1627678,,1611661323,79,64,4
+02:18,[CON 66-79] Holmes Putback Layup Shot: Made (4 PTS),0,-5,1,,1627678,,1611661323,79,66,4
+02:04,[SEA 82-66] Loyd 3pt Shot: Made (10 PTS) Assist: Stewart (3 AST),-13,253,1,,204319,1627668,1611661328,82,66,4
+01:50,[CON 69-82] Hiedeman 3pt Shot: Made (5 PTS),139,209,1,,1629567,,1611661323,82,69,4
+01:45,[SEA] Team Timeout : Short,0,-80,9,,1611661328,,1611661328,82,69,4
+01:45,[SEA] Howard Substitution replaced by Russell,0,-80,8,,203827,1628920,1611661328,82,69,4
+01:45,[SEA] Canada Substitution replaced by Whitcomb,0,-80,8,,1628886,1628244,1611661328,82,69,4
+01:45,[SEA] Stewart Substitution replaced by Tuck,0,-80,8,,1627668,1627670,1611661328,82,69,4
+01:45,[SEA] Clark Substitution replaced by Magbegor,0,-80,8,,202252,1629496,1611661328,82,69,4
+01:45,[CON] Jones Substitution replaced by Plaisance,0,-80,8,,1628280,203849,1611661323,82,69,4
+01:29,[SEA] Loyd 3pt Shot: Missed,-191,124,2,,204319,,1611661328,82,69,4
+01:26,[CON] Hiedeman Rebound (Off:3 Def:4),-191,124,4,,1629567,,1611661323,82,69,4
+01:14,[CON] Plaisance 3pt Shot: Missed,-130,225,2,,203849,,1611661323,82,69,4
+01:11,[SEA] Whitcomb Rebound (Off:1 Def:3),-130,225,4,,1628244,,1611661328,82,69,4
+01:06,[CON] Plaisance Foul: Shooting (2 PF) (2 FTA),-48,38,6,204319,203849,,1611661323,82,69,4
+01:06,[SEA 83-69] Loyd Free Throw 1 of 2 (11 PTS),0,-80,3,,204319,,1611661328,83,69,4
+01:06,[SEA 84-69] Loyd Free Throw 2 of 2 (12 PTS),0,-80,3,,204319,,1611661328,84,69,4
+00:53.4,[CON 71-84] Charles Layup Shot: Made (4 PTS) Assist: Holmes (2 AST),24,17,1,,1630097,1627678,1611661323,84,71,4
+00:34.7,[SEA] Whitcomb Layup Shot: Missed,-11,38,2,,1628244,,1611661328,84,71,4
+00:31.2,[SEA] Magbegor Rebound (Off:2 Def:0),-11,38,4,,1629496,,1611661328,84,71,4
+00:31.2,[SEA] Magbegor Tip Layup Shot: Missed,0,-5,2,,1629496,,1611661328,84,71,4
+00:31.2,[SEA] Tuck Rebound (Off:1 Def:0),0,-5,4,,1627670,,1611661328,84,71,4
+00:30.4,[SEA 87-71] Whitcomb 3pt Shot: Made (15 PTS) Assist: Loyd (4 AST),4,257,1,,1628244,204319,1611661328,87,71,4
+00:13.0,[CON 74-87] Hiedeman 3pt Shot: Made (8 PTS),97,235,1,,1629567,,1611661323,87,74,4
+00:00.0,End Period,0,-80,13,,0,,0,87,74,4
+00:00.0,Game End,0,-80,0,,0,,0,87,74,4

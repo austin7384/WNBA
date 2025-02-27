@@ -1,0 +1,419 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:52,Jump Ball Parker vs Turner (Wheeler gains possession),0,-80,10,1629488,204323,204365,1611661330,0,0,1
+09:42,[ATL 2-0] Parker Layup Shot: Made (2 PTS) Assist: Wallace (1 AST),-34,45,1,,204323,1628929,1611661330,2,0,1
+09:27,[ATL] Parker Foul: Shooting (1 PF) (2 FTA),2,2,6,202250,204323,,1611661330,2,0,1
+09:27,[PHO 1-2] Charles Free Throw 1 of 2 (1 PTS),0,-80,3,,202250,,1611661317,2,1,1
+09:27,[PHO 2-2] Charles Free Throw 2 of 2 (2 PTS),0,-80,3,,202250,,1611661317,2,2,1
+09:14,[ATL] Parker 3pt Shot: Missed,-12,249,2,,204323,,1611661330,2,2,1
+09:12,[PHO] Turner Rebound (Off:0 Def:1),-12,249,4,,1629488,,1611661317,2,2,1
+09:00,[ATL] Wheeler Foul: Personal (1 PF),-249,596,6,203400,204365,,1611661330,2,2,1
+08:54,[PHO] Diggins-Smith Driving Floating Bank Jump Shot: Missed,40,44,2,,203400,,1611661317,2,2,1
+08:52,[ATL] Coffey Rebound (Off:0 Def:1),40,44,4,,1628269,,1611661330,2,2,1
+08:40,[PHO] Turner Foul: Shooting (1 PF) (2 FTA),12,60,6,1628929,1629488,,1611661317,2,2,1
+08:40,[ATL 3-2] Wallace Free Throw 1 of 2 (1 PTS),0,-80,3,,1628929,,1611661330,3,2,1
+08:40,[ATL 4-2] Wallace Free Throw 2 of 2 (2 PTS),0,-80,3,,1628929,,1611661330,4,2,1
+08:24,[PHO] Charles Hook Shot: Missed,-2,36,2,,202250,,1611661317,4,2,1
+08:22,[PHO] Turner Rebound (Off:1 Def:1),-2,36,4,,1629488,,1611661317,4,2,1
+08:18,[PHO] Taurasi 3pt Shot: Missed,2,240,2,,100940,,1611661317,4,2,1
+08:16,[ATL] Wheeler Rebound (Off:0 Def:1),2,240,4,,204365,,1611661330,4,2,1
+07:57,[ATL 6-2] Parker Layup Shot: Made (4 PTS) Assist: Howard (1 AST),-45,21,1,,204323,1631009,1611661330,6,2,1
+07:44,[PHO 4-6] DeShields Pullup Jump shot: Made (2 PTS) Assist: Taurasi (1 AST),-57,155,1,,1628890,100940,1611661317,6,4,1
+07:32,[ATL 8-4] Parker Jump Shot: Made (6 PTS) Assist: Howard (2 AST),65,93,1,,204323,1631009,1611661330,8,4,1
+07:12,[PHO] Charles Pullup Jump shot: Missed,33,69,2,,202250,,1611661317,8,4,1
+07:10,[PHO] Turner Rebound (Off:2 Def:1),33,69,4,,1629488,,1611661317,8,4,1
+07:06,[PHO] Diggins-Smith Driving Floating Bank Jump Shot: Missed,-72,25,2,,203400,,1611661317,8,4,1
+07:04,[PHO] Diggins-Smith Rebound (Off:1 Def:0),-72,25,4,,203400,,1611661317,8,4,1
+07:03,[PHO 6-8] Diggins-Smith Putback Layup Shot: Made (2 PTS),-31,28,1,,203400,,1611661317,8,6,1
+06:51,[ATL 10-6] Wallace Driving Layup Shot: Made (4 PTS) Assist: Wheeler (1 AST),-16,44,1,,1628929,204365,1611661330,10,6,1
+06:33,[PHO 9-10] DeShields 3pt Shot: Made (5 PTS),228,79,1,,1628890,,1611661317,10,9,1
+06:21,[ATL 13-9] Wallace 3pt Shot: Made (7 PTS) Assist: Parker (1 AST),229,8,1,,1628929,204323,1611661330,13,9,1
+06:07,[PHO 11-13] Taurasi Driving Layup Shot: Made (2 PTS),-22,37,1,,100940,,1611661317,13,11,1
+06:02,[PHO] Diggins-Smith Foul: Personal (1 PF),-122,566,6,1628929,203400,,1611661317,13,11,1
+06:02,[ATL] Coffey Substitution replaced by McDonald,0,-80,8,,1628269,1630462,1611661330,13,11,1
+06:02,[ATL] Wheeler Substitution replaced by Billings,0,-80,8,,204365,1628881,1611661330,13,11,1
+05:56,[ATL] Wallace Pullup Jump shot: Missed,65,115,2,,1628929,,1611661330,13,11,1
+05:54,[PHO] Taurasi Rebound (Off:0 Def:1),65,115,4,,100940,,1611661317,13,11,1
+05:49,[PHO] Taurasi 3pt Shot: Missed,-155,175,2,,100940,,1611661317,13,11,1
+05:47,[ATL] Billings Rebound (Off:0 Def:1),-155,175,4,,1628881,,1611661330,13,11,1
+05:32,[ATL 15-11] Parker Turnaround Jump Shot: Made (8 PTS),-2,92,1,,204323,,1611661330,15,11,1
+05:19,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,11,1
+05:19,[ATL] Parker Substitution replaced by Vaughn,0,-80,8,,204323,201913,1611661330,15,11,1
+05:14,[PHO] DeShields Pullup Jump shot: Missed,-62,157,2,,1628890,,1611661317,15,11,1
+05:11,[ATL] McDonald Rebound (Off:0 Def:1),-62,157,4,,1630462,,1611661330,15,11,1
+05:07,[ATL 17-11] McDonald Running Layup Shot: Made (2 PTS),-17,8,1,,1630462,,1611661330,17,11,1
+04:52,[PHO] Diggins-Smith 3pt Shot: Missed,-115,214,2,,203400,,1611661317,17,11,1
+04:51,[ATL] Vaughn Rebound (Off:0 Def:1),-115,214,4,,201913,,1611661330,17,11,1
+04:45,[PHO] Turner Foul: Personal (2 PF),-162,-10,6,1628929,1629488,,1611661317,17,11,1
+04:45,Timeout Officials,0,-80,9,,0,,0,17,11,1
+04:45,[ATL] Wallace Substitution replaced by Wheeler,0,-80,8,,1628929,204365,1611661330,17,11,1
+04:45,[PHO] Taurasi Substitution replaced by Gustafson,0,-80,8,,100940,1629484,1611661317,17,11,1
+04:45,[PHO] Charles Substitution replaced by Anigwe,0,-80,8,,202250,1629485,1611661317,17,11,1
+04:45,[PHO] Turner Substitution replaced by Thomas,0,-80,8,,1629488,1631068,1611661317,17,11,1
+04:30,[ATL] McDonald Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-133,91,5,,1630462,,1611661330,17,11,1
+04:22,[PHO] Thomas 3pt Shot: Missed,232,-3,2,,1631068,,1611661317,17,11,1
+04:22,[ATL] McDonald Rebound (Off:0 Def:2),232,-3,4,,1630462,,1611661330,17,11,1
+04:09,[ATL] Billings Cutting Layup Shot: Missed,-21,5,2,1629485,1628881,,1611661330,17,11,1
+04:04,[ATL] Vaughn Rebound (Off:1 Def:1),-21,5,4,,201913,,1611661330,17,11,1
+04:02,[ATL 19-11] Howard Pullup Jump shot: Made (2 PTS) Assist: Vaughn (1 AST),-135,65,1,,1631009,201913,1611661330,19,11,1
+03:56,[PHO] Diggins-Smith Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),-74,209,5,1631009,203400,,1611661317,19,11,1
+03:52,[ATL] Howard Running Layup Shot: Missed,15,11,2,,1631009,,1611661330,19,11,1
+03:47,[ATL] McDonald Rebound (Off:1 Def:2),15,11,4,,1630462,,1611661330,19,11,1
+03:47,[ATL] McDonald Turnover : Out of Bounds - Bad Pass Turnover (2 TO),170,-45,5,,1630462,,1611661330,19,11,1
+03:38,[PHO] Gustafson Foul: Offensive (1 PF),-81,161,6,1628881,1629484,,1611661317,19,11,1
+03:38,[PHO] Gustafson Turnover : Offensive Foul Turnover (1 TO),-81,161,5,,1629484,,1611661317,19,11,1
+03:24,[ATL 22-11] McDonald 3pt Shot: Made (5 PTS) Assist: Howard (3 AST),-169,175,1,,1630462,1631009,1611661330,22,11,1
+02:56,[PHO] Team Turnover : Shot Clock Turnover,-54,190,5,,0,,1611661317,22,11,1
+02:37,[ATL] Howard 3pt Shot: Missed,211,96,2,,1631009,,1611661330,22,11,1
+02:35,[PHO] Team Rebound,211,96,4,,0,,1611661317,22,11,1
+02:35,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,11,1
+02:35,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,22,11,1
+02:35,[PHO] Diggins-Smith Substitution replaced by Taurasi,0,-80,8,,203400,100940,1611661317,22,11,1
+02:35,[PHO] Anigwe Substitution replaced by Charles,0,-80,8,,1629485,202250,1611661317,22,11,1
+02:21,[PHO] Charles Jump Shot: Missed,139,131,2,,202250,,1611661317,22,11,1
+02:18,[ATL] Billings Rebound (Off:0 Def:2),139,131,4,,1628881,,1611661330,22,11,1
+02:12,[ATL 24-11] Wheeler Driving Layup Shot: Made (2 PTS) Assist: McDonald (1 AST),26,25,1,,204365,1630462,1611661330,24,11,1
+01:50,[PHO 13-24] Charles Pullup Jump shot: Made (4 PTS),-113,145,1,,202250,,1611661317,24,13,1
+01:37,[ATL] Billings Turnover : Traveling (1 TO),27,79,5,,1628881,,1611661330,24,13,1
+01:37,[ATL] McDonald Substitution replaced by Wallace,0,-80,8,,1630462,1628929,1611661330,24,13,1
+01:20,[PHO] DeShields Driving Layup Shot: Missed,-38,33,2,,1628890,,1611661317,24,13,1
+01:15,[ATL] Vaughn Rebound (Off:1 Def:2),-38,33,4,,201913,,1611661330,24,13,1
+01:10,[ATL] Billings Turnover : Bad Pass (2 TO) Steal:DeShields (1 ST),122,47,5,1628890,1628881,,1611661330,24,13,1
+01:03,[PHO] DeShields Running Layup Shot: Missed,10,12,2,,1628890,,1611661317,24,13,1
+01:02,[PHO] Gustafson Rebound (Off:1 Def:0),10,12,4,,1629484,,1611661317,24,13,1
+01:02,[ATL] Billings Foul: Shooting (1 PF) (2 FTA),0,12,6,1629484,1628881,,1611661330,24,13,1
+01:02,[ATL] Billings Substitution replaced by Coffey,0,-80,8,,1628881,1628269,1611661330,24,13,1
+01:02,[PHO] DeShields Substitution replaced by Diggins-Smith,0,-80,8,,1628890,203400,1611661317,24,13,1
+01:02,[PHO 14-24] Gustafson Free Throw 1 of 2 (1 PTS),0,-80,3,,1629484,,1611661317,24,14,1
+01:02,[PHO 15-24] Gustafson Free Throw 2 of 2 (2 PTS),0,-80,3,,1629484,,1611661317,24,15,1
+00:44.6,[ATL 27-15] Wheeler 3pt Shot: Made (5 PTS) Assist: Howard (4 AST),230,-8,1,,204365,1631009,1611661330,27,15,1
+00:23.9,[PHO] Gustafson 3pt Shot: Missed,143,216,2,,1629484,,1611661317,27,15,1
+00:19.6,[ATL] Coffey Rebound (Off:0 Def:2),143,216,4,,1628269,,1611661330,27,15,1
+00:03.7,[PHO] Taurasi Foul: Personal (1 PF),188,146,6,204365,100940,,1611661317,27,15,1
+00:03.7,[ATL] Vaughn Substitution replaced by Parker,0,-80,8,,201913,204323,1611661330,27,15,1
+00:01.1,[ATL] Parker Turnover : Out of Bounds Lost Ball Turnover (1 TO),51,-24,5,,204323,,1611661330,27,15,1
+00:00.0,End Period,0,-80,13,,0,,0,27,15,1
+10:00,Start Period,0,-80,12,,0,,0,27,15,2
+09:48,[ATL] Wallace Foul: Personal (1 PF),-100,-20,6,100940,1628929,,1611661330,27,15,2
+09:42,[PHO 17-27] Charles Jump Shot: Made (6 PTS) Assist: Diggins-Smith (1 AST),-95,179,1,,202250,203400,1611661317,27,17,2
+09:25,Jump Ball Charles vs McDonald (Charles gains possession),0,-80,10,1630462,202250,202250,1611661317,27,17,2
+09:25,[ATL] McDonald Turnover : Lost Ball (3 TO) Steal:Charles (1 ST),0,-80,5,202250,1630462,,1611661330,27,17,2
+09:12,[PHO] Charles Jump Shot: Missed,167,11,2,,202250,,1611661317,27,17,2
+09:07,[ATL] Parker Rebound (Off:0 Def:1),167,11,4,,204323,,1611661330,27,17,2
+08:52,[PHO] Charles Foul: Personal (1 PF),124,107,6,204365,202250,,1611661317,27,17,2
+08:52,[ATL] Coffey Substitution replaced by Howard,0,-80,8,,1628269,1631009,1611661330,27,17,2
+08:52,[ATL] McDonald Substitution replaced by Billings,0,-80,8,,1630462,1628881,1611661330,27,17,2
+08:52,[PHO] Gustafson Substitution replaced by Turner,0,-80,8,,1629484,1629488,1611661317,27,17,2
+08:52,[PHO] Thomas Substitution replaced by DeShields,0,-80,8,,1631068,1628890,1611661317,27,17,2
+08:43,[ATL] Howard 3pt Shot: Missed,172,150,2,,1631009,,1611661330,27,17,2
+08:38,[ATL] Parker Rebound (Off:1 Def:1),172,150,4,,204323,,1611661330,27,17,2
+08:37,[ATL] Parker Turnover : Bad Pass (2 TO) Steal:Charles (2 ST),13,38,5,202250,204323,,1611661330,27,17,2
+08:33,[PHO 19-27] DeShields Running Layup Shot: Made (7 PTS) Assist: Diggins-Smith (2 AST),17,7,1,,1628890,203400,1611661317,27,19,2
+08:20,[ATL 29-19] Wallace Driving Floating Jump Shot: Made (9 PTS) Assist: Wheeler (2 AST),17,17,1,,1628929,204365,1611661330,29,19,2
+08:07,[PHO] DeShields Pullup Jump shot: Missed,83,187,2,,1628890,,1611661317,29,19,2
+08:03,[ATL] Billings Rebound (Off:0 Def:3),83,187,4,,1628881,,1611661330,29,19,2
+07:54,[ATL 31-19] Wheeler Pullup Jump shot: Made (7 PTS),112,139,1,,204365,,1611661330,31,19,2
+07:38,[PHO] Charles Foul: Offensive Charge (2 PF),-16,109,6,204323,202250,,1611661317,31,19,2
+07:38,[PHO] Charles Turnover : Offensive Foul Turnover (1 TO),-16,109,5,,202250,,1611661317,31,19,2
+07:13,[ATL] Parker 3pt Shot: Missed,178,178,2,,204323,,1611661330,31,19,2
+07:07,[ATL] Billings Rebound (Off:1 Def:3),157,197,4,,1628881,,1611661330,31,19,2
+07:05,[ATL 33-19] Billings Turnaround Fadeaway Bank Jump Shot: Made (2 PTS),-45,35,1,,1628881,,1611661330,33,19,2
+06:54,[PHO] Diggins-Smith Pullup Jump shot: Missed,44,196,2,,203400,,1611661317,33,19,2
+06:50,[ATL] Billings Rebound (Off:1 Def:4),44,196,4,,1628881,,1611661330,33,19,2
+06:36,[ATL] Wheeler Turnaround Jump Shot: Missed,92,100,2,,204365,,1611661330,33,19,2
+06:34,[PHO] Team Rebound,92,100,4,,0,,1611661317,33,19,2
+06:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,19,2
+06:13,[PHO] Charles Driving Hook Shot: Missed,-5,66,2,,202250,,1611661317,33,19,2
+06:08,[ATL] Parker Rebound (Off:1 Def:2),-5,66,4,,204323,,1611661330,33,19,2
+06:00,[ATL 36-19] Wheeler 3pt Shot: Made (10 PTS) Assist: Wallace (2 AST),100,212,1,,204365,1628929,1611661330,36,19,2
+05:52,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,36,19,2
+05:52,[ATL] Wallace Substitution replaced by Coffey,0,-80,8,,1628929,1628269,1611661330,36,19,2
+05:52,[ATL] Parker Substitution replaced by Vaughn,0,-80,8,,204323,201913,1611661330,36,19,2
+05:52,[PHO] Taurasi Substitution replaced by Thomas,0,-80,8,,100940,1631068,1611661317,36,19,2
+05:34,[PHO] DeShields Turnover : Out of Bounds - Bad Pass Turnover (1 TO),133,135,5,,1628890,,1611661317,36,19,2
+05:18,[ATL 38-19] Howard Turnaround Fadeaway shot: Made (4 PTS),-97,134,1,,1631009,,1611661330,38,19,2
+05:03,[PHO] Diggins-Smith 3pt Shot: Missed,195,139,2,,203400,,1611661317,38,19,2
+04:59,[ATL] Howard Rebound (Off:0 Def:1),195,139,4,,1631009,,1611661330,38,19,2
+04:57,[ATL] Coffey Foul: Offensive Charge (1 PF),59,75,6,1628890,1628269,,1611661330,38,19,2
+04:57,[ATL] Coffey Turnover : Offensive Foul Turnover (1 TO),59,75,5,,1628269,,1611661330,38,19,2
+04:57,[ATL] Wheeler Substitution replaced by McDonald,0,-80,8,,204365,1630462,1611661330,38,19,2
+04:40,[PHO] Charles 3pt Shot: Missed,-88,232,2,,202250,,1611661317,38,19,2
+04:36,[ATL] Billings Rebound (Off:1 Def:5),-88,232,4,,1628881,,1611661330,38,19,2
+04:16,[ATL] McDonald 3pt Shot: Missed,22,260,2,,1630462,,1611661330,38,19,2
+04:12,[PHO] Turner Rebound (Off:2 Def:2),22,260,4,,1629488,,1611661317,38,19,2
+04:11,[ATL] McDonald Foul: Shooting (1 PF) (2 FTA),-26,37,6,203400,1630462,,1611661330,38,19,2
+04:11,[PHO 20-38] Diggins-Smith Free Throw 1 of 2 (3 PTS),0,-80,3,,203400,,1611661317,38,20,2
+04:11,[ATL] Vaughn Substitution replaced by Walker,0,-80,8,,201913,1630136,1611661330,38,20,2
+04:11,[ATL] Howard Substitution replaced by Parker,0,-80,8,,1631009,204323,1611661330,38,20,2
+04:11,[PHO] Diggins-Smith Free Throw 2 of 2 Missed,0,-80,3,,203400,,1611661317,38,20,2
+04:09,[ATL] Parker Rebound (Off:1 Def:3),0,-80,4,,204323,,1611661330,38,20,2
+03:48,[ATL 40-20] Parker Cutting Layup Shot: Made (10 PTS) Assist: Coffey (1 AST),23,27,1,,204323,1628269,1611661330,40,20,2
+03:29,[PHO] DeShields Pullup Jump shot: Missed,23,189,2,,1628890,,1611661317,40,20,2
+03:27,[ATL] Coffey Rebound (Off:0 Def:3),23,189,4,,1628269,,1611661330,40,20,2
+03:18,[ATL] Parker Turnaround Fadeaway shot: Missed,-97,-19,2,,204323,,1611661330,40,20,2
+03:17,[ATL] Billings Rebound (Off:2 Def:5),-97,-19,4,,1628881,,1611661330,40,20,2
+03:17,[PHO] Charles Foul: Shooting (3 PF) (2 FTA),1,11,6,1628881,202250,,1611661317,40,20,2
+03:17,[ATL 41-20] Billings Free Throw 1 of 2 (3 PTS),0,-80,3,,1628881,,1611661330,41,20,2
+03:17,[PHO] Charles Substitution replaced by Anigwe,0,-80,8,,202250,1629485,1611661317,41,20,2
+03:17,[ATL 42-20] Billings Free Throw 2 of 2 (4 PTS),0,-80,3,,1628881,,1611661330,42,20,2
+03:08,[PHO] DeShields Turnover : Bad Pass (2 TO) Steal:Billings (1 ST),22,187,5,1628881,1628890,,1611661317,42,20,2
+02:54,[ATL 45-20] McDonald 3pt Shot: Made (8 PTS) Assist: Walker (1 AST),155,172,1,,1630462,1630136,1611661330,45,20,2
+02:40,[PHO] DeShields Driving Layup Shot: Missed,12,24,2,,1628890,,1611661317,45,20,2
+02:39,[PHO] DeShields Rebound (Off:1 Def:0),12,24,4,,1628890,,1611661317,45,20,2
+02:39,[ATL] Parker Foul: Shooting (2 PF) (2 FTA),-1,26,6,1628890,204323,,1611661330,45,20,2
+02:39,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,45,20,2
+02:39,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,45,20,2
+02:39,[ATL] Billings Substitution replaced by Wallace,0,-80,8,,1628881,1628929,1611661330,45,20,2
+02:39,[PHO] Thomas Substitution replaced by Taurasi,0,-80,8,,1631068,100940,1611661317,45,20,2
+02:39,[PHO] DeShields Free Throw 1 of 2 Missed,0,-80,3,,1628890,,1611661317,45,20,2
+02:39,[PHO] Team Rebound,0,-80,4,,0,,1611661317,45,20,2
+02:39,[PHO 21-45] DeShields Free Throw 2 of 2 (8 PTS),0,-80,3,,1628890,,1611661317,45,21,2
+02:31,[ATL] McDonald Turnover : Lost Ball (4 TO) Steal:Diggins-Smith (1 ST),-167,288,5,203400,1630462,,1611661330,45,21,2
+02:26,[PHO 23-45] Anigwe Running Layup Shot: Made (2 PTS) Assist: Diggins-Smith (3 AST),17,10,1,,1629485,203400,1611661317,45,23,2
+02:07,[ATL] Wallace Layup Shot: Missed,7,81,2,,1628929,,1611661330,45,23,2
+02:06,[ATL] Team Rebound,7,81,4,,0,,1611661330,45,23,2
+02:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,23,2
+01:57,[ATL] Walker Pullup Jump shot: Missed,-147,122,2,,1630136,,1611661330,45,23,2
+01:53,[PHO] DeShields Rebound (Off:1 Def:1),-147,122,4,,1628890,,1611661317,45,23,2
+01:49,[PHO] DeShields Running Pull-Up Jump Shot: Missed,71,167,2,,1628890,,1611661317,45,23,2
+01:45,[ATL] Parker Rebound (Off:1 Def:4),71,167,4,,204323,,1611661330,45,23,2
+01:42,[ATL] Parker Turnover : Bad Pass (3 TO) Steal:DeShields (2 ST),-45,158,5,1628890,204323,,1611661330,45,23,2
+01:39,[PHO] Anigwe Turnover : Bad Pass (1 TO) Steal:Parker (1 ST),35,128,5,204323,1629485,,1611661317,45,23,2
+01:33,[ATL 48-23] Walker 3pt Shot: Made (3 PTS) Assist: Parker (2 AST),-213,96,1,,1630136,204323,1611661330,48,23,2
+01:15,[PHO] Taurasi 3pt Shot: Missed,-81,235,2,,100940,,1611661317,48,23,2
+01:12,[PHO] Diggins-Smith Rebound (Off:2 Def:0),-81,235,4,,203400,,1611661317,48,23,2
+01:11,[PHO] Taurasi 3pt Shot: Missed,-113,228,2,,100940,,1611661317,48,23,2
+01:06,[ATL] Parker Rebound (Off:1 Def:5),-113,228,4,,204323,,1611661330,48,23,2
+01:04,[PHO] Diggins-Smith Foul: Personal Take (2 PF),92,150,6,1630462,203400,,1611661317,48,23,2
+01:04,[PHO] Diggins-Smith Substitution replaced by Samuelson,0,-80,8,,203400,1628317,1611661317,48,23,2
+00:47.4,[ATL] Hillmon Driving Layup Shot: Missed,32,27,2,1629488,1631044,,1611661330,48,23,2
+00:46.2,[ATL] Team Rebound,32,27,4,,0,,1611661330,48,23,2
+00:46.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,23,2
+00:44.6,[ATL 50-23] Parker Jump Shot: Made (12 PTS) Assist: McDonald (2 AST),-36,100,1,,204323,1630462,1611661330,50,23,2
+00:27.7,[PHO] DeShields Driving Layup Shot: Missed,11,11,2,,1628890,,1611661317,50,23,2
+00:26.7,[PHO] Turner Rebound (Off:3 Def:2),11,11,4,,1629488,,1611661317,50,23,2
+00:26.7,[PHO] Turner Tip Layup Shot: Missed,37,33,2,,1629488,,1611661317,50,23,2
+00:25.7,[PHO] Anigwe Rebound (Off:1 Def:0),37,33,4,,1629485,,1611661317,50,23,2
+00:23.7,[PHO] Anigwe Turnover : Lost Ball (2 TO) Steal:McDonald (1 ST),-40,28,5,1630462,1629485,,1611661317,50,23,2
+00:00.5,[ATL] Walker 3pt Shot: Missed,-219,51,2,1629485,1630136,,1611661330,50,23,2
+00:00.5,[PHO] Samuelson Rebound (Off:0 Def:1),-219,51,4,,1628317,,1611661317,50,23,2
+00:00.0,End Period,0,-80,13,,0,,0,50,23,2
+10:00,Start Period,0,-80,12,,0,,0,50,23,3
+09:43,[ATL] Wheeler Foul: Shooting (2 PF) (2 FTA),16,1,6,1629488,204365,,1611661330,50,23,3
+09:43,[PHO 24-50] Turner Free Throw 1 of 2 (1 PTS),0,-80,3,,1629488,,1611661317,50,24,3
+09:43,[PHO 25-50] Turner Free Throw 2 of 2 (2 PTS),0,-80,3,,1629488,,1611661317,50,25,3
+09:22,[ATL 53-25] Howard 3pt Shot: Made (7 PTS),147,200,1,,1631009,,1611661330,53,25,3
+09:07,[PHO] Taurasi Foul: Offensive (2 PF),-19,51,6,204323,100940,,1611661317,53,25,3
+09:07,[PHO] Taurasi Turnover : Offensive Foul Turnover (1 TO),-19,51,5,,100940,,1611661317,53,25,3
+08:53,[ATL 55-25] Howard Cutting Layup Shot: Made (9 PTS) Assist: Coffey (2 AST),0,12,1,,1631009,1628269,1611661330,55,25,3
+08:39,[ATL] Parker Foul: Personal (3 PF),-45,75,6,202250,204323,,1611661330,55,25,3
+08:33,[PHO] DeShields Pullup Jump shot: Missed,-110,11,2,,1628890,,1611661317,55,25,3
+08:32,[PHO] Team Rebound,-110,11,4,,0,,1611661317,55,25,3
+08:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,25,3
+08:30,[PHO] Diggins-Smith Jump Shot: Missed,115,10,2,,203400,,1611661317,55,25,3
+08:26,[ATL] Howard Rebound (Off:0 Def:2),115,10,4,,1631009,,1611661330,55,25,3
+08:18,[PHO] DeShields Foul: Shooting (1 PF) (2 FTA),6,34,6,1631009,1628890,,1611661317,55,25,3
+08:18,[ATL] Howard Free Throw 1 of 2 Missed,0,-80,3,,1631009,,1611661330,55,25,3
+08:18,[ATL] Team Rebound,0,-80,4,,0,,1611661330,55,25,3
+08:18,[ATL] Howard Free Throw 2 of 2 Missed,0,-80,3,,1631009,,1611661330,55,25,3
+08:16,[PHO] DeShields Rebound (Off:1 Def:2),0,-80,4,,1628890,,1611661317,55,25,3
+08:05,[PHO] Charles 3pt Shot: Missed,83,223,2,,202250,,1611661317,55,25,3
+08:04,[ATL] Wallace Rebound (Off:0 Def:1),83,223,4,,1628929,,1611661330,55,25,3
+08:03,[ATL] Wallace Running Layup Shot: Missed,32,17,2,100940,1628929,,1611661330,55,25,3
+08:02,[ATL] Team Rebound,32,17,4,,0,,1611661330,55,25,3
+08:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,55,25,3
+07:54,[ATL] Wheeler Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),61,121,5,1629488,204365,,1611661330,55,25,3
+07:45,[ATL] Wallace Foul: Shooting (2 PF) (2 FTA),24,30,6,1628890,1628929,,1611661330,55,25,3
+07:45,[PHO 26-55] DeShields Free Throw 1 of 2 (9 PTS),0,-80,3,,1628890,,1611661317,55,26,3
+07:45,[PHO] DeShields Free Throw 2 of 2 Missed,0,-80,3,,1628890,,1611661317,55,26,3
+07:42,[ATL] Parker Rebound (Off:1 Def:6),0,-80,4,,204323,,1611661330,55,26,3
+07:22,[ATL] Howard Turnover : Lost Ball (1 TO) Steal:DeShields (3 ST),172,75,5,1628890,1631009,,1611661330,55,26,3
+07:10,[PHO 28-55] Turner Cutting Layup Shot: Made (4 PTS) Assist: Diggins-Smith (4 AST),17,27,1,,1629488,203400,1611661317,55,28,3
+06:56,[ATL 57-28] Wallace Pullup Jump shot: Made (11 PTS) Assist: Coffey (3 AST),-85,174,1,,1628929,1628269,1611661330,57,28,3
+06:35,[PHO] Diggins-Smith 3pt Shot: Missed,100,207,2,,203400,,1611661317,57,28,3
+06:31,[ATL] Parker Rebound (Off:1 Def:7),100,207,4,,204323,,1611661330,57,28,3
+06:24,[ATL] Wallace Turnover : Bad Pass (1 TO) Steal:Charles (3 ST),-49,51,5,202250,1628929,,1611661330,57,28,3
+06:20,[PHO] DeShields Running Layup Shot: Missed,-4,6,2,,1628890,,1611661317,57,28,3
+06:14,[PHO] Diggins-Smith Rebound (Off:3 Def:0),-4,6,4,,203400,,1611661317,57,28,3
+06:14,[PHO] Diggins-Smith Putback Layup Shot: Missed,0,-5,2,,203400,,1611661317,57,28,3
+06:13,[ATL] Wheeler Rebound (Off:0 Def:2),0,-5,4,,204365,,1611661330,57,28,3
+06:09,[ATL] Parker Layup Shot: Missed,-5,19,2,,204323,,1611661330,57,28,3
+06:06,[PHO] Turner Rebound (Off:3 Def:3),-5,19,4,,1629488,,1611661317,57,28,3
+05:55,[PHO] DeShields Jump Shot: Missed,-202,3,2,,1628890,,1611661317,57,28,3
+05:50,[ATL] Parker Rebound (Off:1 Def:8),-229,9,4,,204323,,1611661330,57,28,3
+05:34,[ATL] Wallace 3pt Shot: Missed,-155,193,2,,1628929,,1611661330,57,28,3
+05:30,[ATL] Wallace Rebound (Off:1 Def:1),-155,193,4,,1628929,,1611661330,57,28,3
+05:28,[ATL] Coffey Cutting Layup Shot: Missed,-39,24,2,1629488,1628269,,1611661330,57,28,3
+05:26,[PHO] Turner Rebound (Off:3 Def:4),-39,24,4,,1629488,,1611661317,57,28,3
+05:20,[ATL] Wheeler Foul: Personal (3 PF),-57,178,6,203400,204365,,1611661330,57,28,3
+05:20,[ATL] Wallace Substitution replaced by McDonald,0,-80,8,,1628929,1630462,1611661330,57,28,3
+05:20,[ATL] Parker Substitution replaced by Billings,0,-80,8,,204323,1628881,1611661330,57,28,3
+05:20,[ATL] Coffey Substitution replaced by Vaughn,0,-80,8,,1628269,201913,1611661330,57,28,3
+05:20,[PHO] Taurasi Substitution replaced by Thomas,0,-80,8,,100940,1631068,1611661317,57,28,3
+05:14,[PHO] DeShields Driving Layup Shot: Missed,-54,24,2,,1628890,,1611661317,57,28,3
+05:10,[PHO] DeShields Rebound (Off:2 Def:2),-54,24,4,,1628890,,1611661317,57,28,3
+05:10,[PHO] DeShields Tip Layup Shot: Missed,0,-5,2,,1628890,,1611661317,57,28,3
+05:09,[ATL] Billings Rebound (Off:2 Def:6),0,-5,4,,1628881,,1611661330,57,28,3
+04:52,[ATL] Wheeler Driving Layup Shot: Missed,-7,16,2,,204365,,1611661330,57,28,3
+04:48,[ATL] Vaughn Rebound (Off:2 Def:2),-7,16,4,,201913,,1611661330,57,28,3
+04:48,[ATL] Billings Jump Shot: Missed,32,108,2,,1628881,,1611661330,57,28,3
+04:45,[PHO] Charles Rebound (Off:0 Def:1),32,108,4,,202250,,1611661317,57,28,3
+04:25,[PHO] Diggins-Smith Turnaround Jump Shot: Missed,-21,96,2,,203400,,1611661317,57,28,3
+04:21,[ATL] McDonald Rebound (Off:1 Def:3),-21,96,4,,1630462,,1611661330,57,28,3
+04:20,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,57,28,3
+04:20,[ATL] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661330,57,28,3
+04:20,[PHO] Charles Substitution replaced by Gustafson,0,-80,8,,202250,1629484,1611661317,57,28,3
+04:12,[ATL] Wallace Turnover : Jump Ball Violation (2 TO),0,-80,5,,1628929,,1611661330,57,28,3
+04:07,[ATL] Wallace Foul: Shooting (3 PF) (2 FTA),-13,15,6,203400,1628929,,1611661330,57,28,3
+04:07,[PHO] Diggins-Smith Free Throw 1 of 2 Missed,0,-80,3,,203400,,1611661317,57,28,3
+04:07,[PHO] Team Rebound,0,-80,4,,0,,1611661317,57,28,3
+04:07,[PHO 29-57] Diggins-Smith Free Throw 2 of 2 (4 PTS),0,-80,3,,203400,,1611661317,57,29,3
+03:48,[ATL] McDonald 3pt Shot: Missed,-222,50,2,,1630462,,1611661330,57,29,3
+03:46,[PHO] Team Rebound,-222,50,4,,0,,1611661317,57,29,3
+03:46,[ATL] McDonald Foul: Loose Ball (2 PF) (2 FTA),0,801,6,1629488,1630462,,1611661330,57,29,3
+03:46,[PHO 30-57] Turner Free Throw 1 of 2 (5 PTS),0,-80,3,,1629488,,1611661317,57,30,3
+03:46,[PHO] Turner Free Throw 2 of 2 Missed,0,-80,3,,1629488,,1611661317,57,30,3
+03:45,[ATL] McDonald Rebound (Off:1 Def:4),0,-80,4,,1630462,,1611661330,57,30,3
+03:34,[ATL 59-30] Wallace Driving Layup Shot: Made (13 PTS) Assist: Howard (5 AST),13,69,1,,1628929,1631009,1611661330,59,30,3
+03:14,[PHO 33-59] Diggins-Smith 3pt Shot: Made (7 PTS) Assist: Gustafson (1 AST),116,205,1,,203400,1629484,1611661317,59,33,3
+03:00,[ATL] Howard 3pt Shot: Missed,-162,196,2,,1631009,,1611661330,59,33,3
+02:54,[PHO] Diggins-Smith Rebound (Off:3 Def:1),-162,196,4,,203400,,1611661317,59,33,3
+02:52,[PHO 35-59] DeShields Running Layup Shot: Made (11 PTS) Assist: Diggins-Smith (5 AST),4,0,1,,1628890,203400,1611661317,59,35,3
+02:34,[ATL 61-35] Wallace Pullup Jump shot: Made (15 PTS) Assist: Howard (6 AST),95,160,1,,1628929,1631009,1611661330,61,35,3
+02:13,[PHO] Diggins-Smith 3pt Shot: Missed,182,169,2,,203400,,1611661317,61,35,3
+02:09,[ATL] Wallace Rebound (Off:1 Def:2),182,169,4,,1628929,,1611661330,61,35,3
+02:00,[ATL] Billings Turnover : Lost Ball (3 TO) Steal:Turner (2 ST),-115,115,5,1629488,1628881,,1611661330,61,35,3
+01:58,[PHO] DeShields Running Layup Shot: Missed,-6,4,2,1631009,1628890,,1611661317,61,35,3
+01:57,[PHO] Team Rebound,-6,4,4,,0,,1611661317,61,35,3
+01:57,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,35,3
+01:57,[ATL] Howard Substitution replaced by Walker,0,-80,8,,1631009,1630136,1611661330,61,35,3
+01:57,[PHO] DeShields Substitution replaced by Samuelson,0,-80,8,,1628890,1628317,1611661317,61,35,3
+01:57,[PHO] Diggins-Smith Substitution replaced by Taurasi,0,-80,8,,203400,100940,1611661317,61,35,3
+01:57,[ATL] Billings Substitution replaced by Hillmon,0,-80,8,,1628881,1631044,1611661330,61,35,3
+01:49,[PHO 37-61] Gustafson Driving Layup Shot: Made (4 PTS),-41,22,1,,1629484,,1611661317,61,37,3
+01:38,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,61,37,3
+01:38,[PHO] Turner Substitution replaced by Charles,0,-80,8,,1629488,202250,1611661317,61,37,3
+01:28,[ATL] Hillmon Foul: Offensive (1 PF),-44,135,6,100940,1631044,,1611661330,61,37,3
+01:28,[ATL] Hillmon Turnover : Offensive Foul Turnover (1 TO),-44,135,5,,1631044,,1611661330,61,37,3
+01:11,[PHO] Charles Jump Shot: Missed,-128,1,2,,202250,,1611661317,61,37,3
+01:10,[ATL] Team Rebound,-128,1,4,,0,,1611661330,61,37,3
+01:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,37,3
+00:57.3,[ATL] Wallace Driving Floating Jump Shot: Missed,88,75,2,,1628929,,1611661330,61,37,3
+00:55.6,[ATL] Team Rebound,88,75,4,,0,,1611661330,61,37,3
+00:55.6,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,37,3
+00:47.8,[ATL] Walker Driving Floating Jump Shot: Missed,-18,87,2,,1630136,,1611661330,61,37,3
+00:44.4,[ATL] Walker Rebound (Off:1 Def:0),-18,87,4,,1630136,,1611661330,61,37,3
+00:43.0,[ATL] Walker Putback Layup Shot: Missed,-3,17,2,1629484,1630136,,1611661330,61,37,3
+00:40.8,[PHO] Gustafson Rebound (Off:1 Def:1),-3,17,4,,1629484,,1611661317,61,37,3
+00:38.2,[PHO] Thomas 3pt Shot: Missed,149,177,2,,1631068,,1611661317,61,37,3
+00:36.2,[ATL] Team Rebound,149,177,4,,0,,1611661330,61,37,3
+00:36.2,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,37,3
+00:20.9,[ATL] Wallace Floating Jump shot: Missed,9,78,2,,1628929,,1611661330,61,37,3
+00:17.0,[ATL] Vaughn Rebound (Off:3 Def:2),17,112,4,,201913,,1611661330,61,37,3
+00:06.5,[ATL] Wallace 3pt Shot: Missed,95,232,2,,1628929,,1611661330,61,37,3
+00:01.9,[ATL] Walker Rebound (Off:2 Def:0),95,232,4,,1630136,,1611661330,61,37,3
+00:00.4,[ATL] Wallace 3pt Shot: Missed,-101,232,2,,1628929,,1611661330,61,37,3
+00:00.4,[ATL] Team Rebound,-101,232,4,,0,,1611661330,61,37,3
+00:00.0,End Period,0,-80,13,,0,,0,61,37,3
+10:00,Start Period,0,-80,12,,0,,0,61,37,4
+09:42,[ATL] Walker 3pt Shot: Missed,-187,137,2,,1630136,,1611661330,61,37,4
+09:38,[PHO] Diggins-Smith Rebound (Off:3 Def:2),-187,137,4,,203400,,1611661317,61,37,4
+09:31,[ATL] Walker Foul: Personal (1 PF),7,158,6,202250,1630136,,1611661330,61,37,4
+09:25,[PHO] Charles Jump Shot: Missed,143,79,2,,202250,,1611661317,61,37,4
+09:21,[ATL] Parker Rebound (Off:1 Def:9),143,79,4,,204323,,1611661330,61,37,4
+09:11,[ATL 63-37] McDonald Turnaround Jump Shot: Made (10 PTS) Assist: Wheeler (3 AST),-48,104,1,,1630462,204365,1611661330,63,37,4
+08:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,37,4
+08:44,[PHO] DeShields Pullup Jump shot: Missed,-95,150,2,,1628890,,1611661317,63,37,4
+08:40,[ATL] Wheeler Rebound (Off:0 Def:3),-95,150,4,,204365,,1611661330,63,37,4
+08:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,37,4
+08:27,[ATL] Wheeler Turnover : Bad Pass (2 TO) Steal:DeShields (4 ST),132,61,5,1628890,204365,,1611661330,63,37,4
+08:18,[PHO 39-63] DeShields Driving Layup Shot: Made (13 PTS),-2,-7,1,,1628890,,1611661317,63,39,4
+08:06,[PHO] Diggins-Smith Foul: Personal (3 PF),-40,123,6,1630462,203400,,1611661317,63,39,4
+08:06,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,63,39,4
+07:54,[ATL] Wheeler Driving Layup Shot: Missed,28,27,2,1628890,204365,,1611661330,63,39,4
+07:49,[PHO] Diggins-Smith Rebound (Off:3 Def:3),28,27,4,,203400,,1611661317,63,39,4
+07:43,[PHO] DeShields Foul: Offensive Charge (2 PF),-21,62,6,1628269,1628890,,1611661317,63,39,4
+07:43,[PHO] DeShields Turnover : Offensive Foul Turnover (3 TO),-21,62,5,,1628890,,1611661317,63,39,4
+07:43,[ATL] Wheeler Substitution replaced by Wallace,0,-80,8,,204365,1628929,1611661330,63,39,4
+07:25,[ATL] McDonald Jump Shot: Missed,11,118,2,,1630462,,1611661330,63,39,4
+07:20,[PHO] Charles Rebound (Off:0 Def:2),11,118,4,,202250,,1611661317,63,39,4
+07:14,[PHO] Turner Turnover : Lost Ball (1 TO) Steal:McDonald (2 ST),-39,13,5,1630462,1629488,,1611661317,63,39,4
+07:12,[PHO] Taurasi Foul: Personal Take (3 PF),106,319,6,1628929,100940,,1611661317,63,39,4
+07:12,[ATL] Walker Substitution replaced by Howard,0,-80,8,,1630136,1631009,1611661330,63,39,4
+07:12,[PHO] Taurasi Substitution replaced by Thomas,0,-80,8,,100940,1631068,1611661317,63,39,4
+07:12,[PHO] Diggins-Smith Substitution replaced by Anigwe,0,-80,8,,203400,1629485,1611661317,63,39,4
+07:12,[PHO] Charles Substitution replaced by Samuelson,0,-80,8,,202250,1628317,1611661317,63,39,4
+07:05,[ATL 65-39] Wallace Pullup Jump shot: Made (17 PTS),47,90,1,,1628929,,1611661330,65,39,4
+06:44,[PHO 41-65] DeShields Turnaround Jump Shot: Made (15 PTS),-39,107,1,,1628890,,1611661317,65,41,4
+06:34,[ATL] Coffey Turnaround Jump Shot: Missed,-35,118,2,,1628269,,1611661330,65,41,4
+06:30,[PHO] Turner Rebound (Off:3 Def:5),-35,118,4,,1629488,,1611661317,65,41,4
+06:28,[PHO] Turner Turnover : Lost Ball (2 TO) Steal:Parker (2 ST),81,231,5,204323,1629488,,1611661317,65,41,4
+06:09,[ATL] Howard Driving Floating Bank Jump Shot: Missed,-28,69,2,,1631009,,1611661330,65,41,4
+06:05,[PHO] Samuelson Rebound (Off:0 Def:2),-28,69,4,,1628317,,1611661317,65,41,4
+05:59,[PHO] DeShields 3pt Shot: Missed,-45,228,2,,1628890,,1611661317,65,41,4
+05:56,[ATL] McDonald Rebound (Off:1 Def:5),-45,228,4,,1630462,,1611661330,65,41,4
+05:35,[ATL] Wallace Turnover : Bad Pass (3 TO) Steal:DeShields (5 ST),63,147,5,1628890,1628929,,1611661330,65,41,4
+05:32,[PHO] Anigwe Turnover : Bad Pass (3 TO) Steal:Wallace (1 ST),79,192,5,1628929,1629485,,1611661317,65,41,4
+05:31,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,65,41,4
+05:31,[ATL] Coffey Substitution replaced by Billings,0,-80,8,,1628269,1628881,1611661330,65,41,4
+05:31,[ATL] Parker Substitution replaced by Mompremier,0,-80,8,,204323,1629492,1611661330,65,41,4
+05:31,[PHO] Turner Substitution replaced by Gustafson,0,-80,8,,1629488,1629484,1611661317,65,41,4
+05:13,[ATL] McDonald 3pt Shot: Missed,-193,141,2,,1630462,,1611661330,65,41,4
+05:09,[PHO] DeShields Rebound (Off:2 Def:3),-193,141,4,,1628890,,1611661317,65,41,4
+04:55,[PHO] Samuelson 3pt Shot: Missed,-199,150,2,,1628317,,1611661317,65,41,4
+04:50,[ATL] McDonald Rebound (Off:1 Def:6),-199,150,4,,1630462,,1611661330,65,41,4
+04:47,[ATL 68-41] Howard 3pt Shot: Made (12 PTS) Assist: McDonald (3 AST),73,236,1,,1631009,1630462,1611661330,68,41,4
+04:25,[PHO] Gustafson Driving Layup Shot: Missed,53,19,2,1628881,1629484,,1611661317,68,41,4
+04:24,[PHO] Team Rebound,53,19,4,,0,,1611661317,68,41,4
+04:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,68,41,4
+04:24,[ATL] Wallace Substitution replaced by Walker,0,-80,8,,1628929,1630136,1611661330,68,41,4
+04:23,[PHO 43-68] DeShields Jump Shot: Made (17 PTS) Assist: Samuelson (1 AST),129,-16,1,,1628890,1628317,1611661317,68,43,4
+04:23,[ATL] Howard Foul: Shooting (1 PF) (1 FTA),129,-16,6,1628890,1631009,,1611661330,68,43,4
+04:23,[PHO 44-68] DeShields Free Throw 1 of 1 (18 PTS),0,-80,3,,1628890,,1611661317,68,44,4
+04:08,[PHO] Samuelson Foul: Personal (1 PF),-138,242,6,1630462,1628317,,1611661317,68,44,4
+04:08,[ATL] Howard Substitution replaced by Wheeler,0,-80,8,,1631009,204365,1611661330,68,44,4
+04:02,[ATL 70-44] Wheeler Pullup Jump shot: Made (12 PTS) Assist: McDonald (4 AST),79,87,1,,204365,1630462,1611661330,70,44,4
+03:50,[ATL] Mompremier Foul: Shooting (1 PF) (2 FTA),16,25,6,1628890,1629492,,1611661330,70,44,4
+03:50,[PHO 45-70] DeShields Free Throw 1 of 2 (19 PTS),0,-80,3,,1628890,,1611661317,70,45,4
+03:50,[PHO 46-70] DeShields Free Throw 2 of 2 (20 PTS),0,-80,3,,1628890,,1611661317,70,46,4
+03:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,70,46,4
+03:39,[ATL] Billings Turnover : Traveling (4 TO),-48,162,5,,1628881,,1611661330,70,46,4
+03:28,[PHO] DeShields Driving Reverse Layup Shot: Missed,13,22,2,,1628890,,1611661317,70,46,4
+03:27,[ATL] Mompremier Rebound (Off:0 Def:1),13,22,4,,1629492,,1611661330,70,46,4
+03:19,[ATL] McDonald 3pt Shot: Missed,223,70,2,,1630462,,1611661330,70,46,4
+03:12,[PHO] Samuelson Rebound (Off:0 Def:3),223,70,4,,1628317,,1611661317,70,46,4
+03:11,[PHO] Samuelson Turnover : Lost Ball (1 TO) Steal:Walker (1 ST),44,763,5,1630136,1628317,,1611661317,70,46,4
+03:09,[ATL 72-46] Walker Layup Shot: Made (5 PTS),-24,34,1,,1630136,,1611661330,72,46,4
+03:05,[PHO 49-72] Samuelson 3pt Shot: Made (3 PTS),-167,177,1,,1628317,,1611661317,72,49,4
+03:00,[ATL] Mompremier Foul: Offensive (2 PF),-18,56,6,1629484,1629492,,1611661330,72,49,4
+03:00,[ATL] Mompremier Turnover : Offensive Foul Turnover (1 TO),-18,56,5,,1629492,,1611661330,72,49,4
+03:00,[ATL] Billings Substitution replaced by Hillmon,0,-80,8,,1628881,1631044,1611661330,72,49,4
+02:41,[PHO 51-72] DeShields Pullup Jump shot: Made (22 PTS),-16,113,1,,1628890,,1611661317,72,51,4
+02:32,[ATL] Wheeler 3pt Shot: Missed,-172,176,2,,204365,,1611661330,72,51,4
+02:27,[PHO] Thomas Rebound (Off:0 Def:1),-172,176,4,,1631068,,1611661317,72,51,4
+02:23,[ATL] Hillmon Foul: Shooting (2 PF) (2 FTA),92,74,6,1628890,1631044,,1611661330,72,51,4
+02:23,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,72,51,4
+02:23,[PHO] DeShields Free Throw 1 of 2 Missed,0,-80,3,,1628890,,1611661317,72,51,4
+02:23,[PHO] Team Rebound,0,-80,4,,0,,1611661317,72,51,4
+02:23,[PHO 52-72] DeShields Free Throw 2 of 2 (23 PTS),0,-80,3,,1628890,,1611661317,72,52,4
+02:01,[ATL 74-52] Wheeler Pullup Jump shot: Made (14 PTS) Assist: Hillmon (1 AST),96,34,1,,204365,1631044,1611661330,74,52,4
+01:50,[PHO] Samuelson 3pt Shot: Missed,202,118,2,,1628317,,1611661317,74,52,4
+01:49,[ATL] Team Rebound,202,118,4,,0,,1611661330,74,52,4
+01:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,52,4
+01:41,[ATL] McDonald Turnover : Bad Pass (5 TO) Steal:Anigwe (1 ST),-137,174,5,1629485,1630462,,1611661330,74,52,4
+01:35,[ATL] Hillmon Violation:Kicked Ball,0,-80,7,,1631044,,1611661330,74,52,4
+01:29,[PHO] Thomas Pullup Jump shot: Missed,-58,112,2,,1631068,,1611661317,74,52,4
+01:28,[ATL] Mompremier Rebound (Off:0 Def:2),-58,112,4,,1629492,,1611661330,74,52,4
+01:26,[ATL] Wheeler Turnover : Traveling (3 TO),-188,469,5,,204365,,1611661330,74,52,4
+01:21,[PHO 54-74] Thomas Step Back Jump shot: Made (2 PTS) Assist: DeShields (1 AST),-93,165,1,,1631068,1628890,1611661317,74,54,4
+01:15,[ATL 76-54] Wheeler Pullup Jump shot: Made (16 PTS),113,177,1,,204365,,1611661330,76,54,4
+01:05,[PHO] DeShields Driving Layup Shot: Missed,15,11,2,,1628890,,1611661317,76,54,4
+01:03,[ATL] McDonald Rebound (Off:1 Def:7),15,11,4,,1630462,,1611661330,76,54,4
+00:56.8,[ATL] Walker Turnover : Lost Ball (1 TO) Steal:Thomas (1 ST),-10,-8,5,1631068,1630136,,1611661330,76,54,4
+00:51.0,[PHO] DeShields Running Layup Shot: Missed,7,-1,2,,1628890,,1611661317,76,54,4
+00:47.9,[ATL] Hillmon Rebound (Off:0 Def:1),7,-1,4,,1631044,,1611661330,76,54,4
+00:40.6,[ATL 79-54] Walker 3pt Shot: Made (8 PTS) Assist: McDonald (5 AST),-145,199,1,,1630136,1630462,1611661330,79,54,4
+00:29.0,[PHO] Thomas Turnover : Bad Pass (1 TO) Steal:Hillmon (1 ST),1,25,5,1631044,1631068,,1611661317,79,54,4
+00:15.0,[ATL 81-54] Hillmon Jump Shot: Made (2 PTS) Assist: Mompremier (1 AST),202,-27,1,,1631044,1629492,1611661330,81,54,4
+00:00.0,End Period,0,-80,13,,0,,0,81,54,4
+00:00.0,Game End,0,-80,0,,0,,0,81,54,4

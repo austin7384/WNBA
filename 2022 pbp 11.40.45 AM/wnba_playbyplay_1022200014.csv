@@ -1,0 +1,403 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Turner vs Turner (Williams gains possession),0,-80,10,1629488,1629488,1628931,1611661328,0,0,1
+09:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,1
+09:45,[SEA] Magbegor Jump Shot: Missed,149,33,2,,1629496,,1611661328,0,0,1
+09:41,[SEA] Williams Rebound (Off:1 Def:0),149,33,4,,1628931,,1611661328,0,0,1
+09:37,[SEA 3-0] Williams 3pt Shot: Made (3 PTS),191,125,1,,1628931,,1611661328,0,3,1
+09:19,[PHO] Taurasi 3pt Shot: Missed,237,46,2,,100940,,1611661317,0,3,1
+09:15,[SEA] Loyd Rebound (Off:0 Def:1),237,46,4,,204319,,1611661328,0,3,1
+09:11,[SEA] Loyd Floating Jump shot: Missed,-5,65,2,,204319,,1611661328,0,3,1
+09:08,[PHO] Diggins-Smith Rebound (Off:0 Def:1),-5,65,4,,203400,,1611661317,0,3,1
+09:04,[PHO] Diggins-Smith Turnover : Bad Pass (1 TO) Steal:Lavender (1 ST),-83,192,5,202650,203400,,1611661317,0,3,1
+08:57,[PHO] Turner Foul: Shooting (1 PF) (2 FTA),-17,10,6,1629496,1629488,,1611661317,0,3,1
+08:57,[SEA 4-0] Magbegor Free Throw 1 of 2 (1 PTS),0,-80,3,,1629496,,1611661328,0,4,1
+08:57,[SEA] Magbegor Free Throw 2 of 2 Missed,0,-80,3,,1629496,,1611661328,0,4,1
+08:54,[PHO] Diggins-Smith Rebound (Off:0 Def:2),0,-80,4,,203400,,1611661317,0,4,1
+08:45,[SEA] Magbegor Foul: Shooting (1 PF) (2 FTA),67,11,6,202250,1629496,,1611661328,0,4,1
+08:45,[PHO 1-4] Charles Free Throw 1 of 2 (1 PTS),0,-80,3,,202250,,1611661317,1,4,1
+08:45,[PHO] Charles Free Throw 2 of 2 Missed,0,-80,3,,202250,,1611661317,1,4,1
+08:43,[SEA] Lavender Rebound (Off:0 Def:1),0,-80,4,,202650,,1611661328,1,4,1
+08:29,[SEA] Bird Turnover : Lost Ball (1 TO) Steal:Peddy (1 ST),-1,150,5,203035,100720,,1611661328,1,4,1
+08:19,[PHO 3-4] Peddy Driving Floating Jump Shot: Made (2 PTS),-52,6,1,,203035,,1611661317,3,4,1
+08:19,[SEA] Lavender Foul: Personal (1 PF) (1 FTA),6,13,6,203035,202650,,1611661328,3,4,1
+08:19,[PHO 4-4] Peddy Free Throw 1 of 1 (3 PTS),0,-80,3,,203035,,1611661317,4,4,1
+08:02,[SEA] Lavender 3pt Shot: Missed,-20,275,2,,202650,,1611661328,4,4,1
+07:56,[SEA] Loyd Rebound (Off:1 Def:1),-20,275,4,,204319,,1611661328,4,4,1
+07:44,[SEA] Team Turnover : Shot Clock Turnover,-209,82,5,,0,,1611661328,4,4,1
+07:33,[PHO] Turner Driving Layup Shot: Missed,21,25,2,1629496,1629488,,1611661317,4,4,1
+07:29,[SEA] Loyd Rebound (Off:1 Def:2),21,25,4,,204319,,1611661328,4,4,1
+07:25,[SEA] Loyd Running Pull-Up Jump Shot: Missed,158,-32,2,,204319,,1611661328,4,4,1
+07:22,[PHO] Taurasi Rebound (Off:0 Def:1),158,-32,4,,100940,,1611661317,4,4,1
+07:17,[PHO] Diggins-Smith Running Pull-Up Jump Shot: Missed,7,5,2,,203400,,1611661317,4,4,1
+07:15,[SEA] Lavender Rebound (Off:0 Def:2),7,5,4,,202650,,1611661328,4,4,1
+07:06,[SEA] Williams Driving Layup Shot: Missed,22,28,2,,1628931,,1611661328,4,4,1
+07:04,[PHO] Diggins-Smith Rebound (Off:0 Def:3),22,28,4,,203400,,1611661317,4,4,1
+06:59,[PHO 6-4] Diggins-Smith Running Layup Shot: Made (2 PTS),-12,4,1,,203400,,1611661317,6,4,1
+06:35,[SEA] Magbegor 3pt Shot: Missed,233,-10,2,,1629496,,1611661328,6,4,1
+06:35,[SEA] Team Rebound,233,-10,4,,0,,1611661328,6,4,1
+06:35,[PHO] Turner Foul: Loose Ball (2 PF),19,24,6,202650,1629488,,1611661317,6,4,1
+06:22,[SEA] Bird 3pt Shot: Missed,-152,210,2,,100720,,1611661328,6,4,1
+06:18,[PHO] Charles Rebound (Off:0 Def:1),-152,210,4,,202250,,1611661317,6,4,1
+06:00,[PHO] Diggins-Smith 3pt Shot: Missed,228,-11,2,,203400,,1611661317,6,4,1
+05:57,[SEA] Williams Rebound (Off:1 Def:1),228,-11,4,,1628931,,1611661328,6,4,1
+05:49,[SEA 7-6] Loyd 3pt Shot: Made (3 PTS) Assist: Lavender (1 AST),-233,-9,1,,204319,202650,1611661328,6,7,1
+05:21,[PHO] Diggins-Smith Driving Layup Shot: Missed,-4,4,2,,203400,,1611661317,6,7,1
+05:18,[SEA] Lavender Rebound (Off:0 Def:3),-4,4,4,,202650,,1611661328,6,7,1
+05:16,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,6,7,1
+05:16,[PHO] Turner Substitution replaced by Cunningham,0,-80,8,,1629488,1629482,1611661317,6,7,1
+05:16,[SEA] Loyd Substitution replaced by Talbot,0,-80,8,,204319,203855,1611661328,6,7,1
+05:16,[SEA] Lavender Substitution replaced by Gray,0,-80,8,,202650,204334,1611661328,6,7,1
+05:06,[SEA] Magbegor Turnaround Jump Shot: Missed,-70,12,2,203400,1629496,,1611661328,6,7,1
+05:03,[SEA] Magbegor Rebound (Off:1 Def:0),-70,12,4,,1629496,,1611661328,6,7,1
+05:02,[SEA] Williams 3pt Shot: Missed,-243,-14,2,,1628931,,1611661328,6,7,1
+05:02,[PHO] Charles Rebound (Off:0 Def:2),-224,85,4,,202250,,1611661317,6,7,1
+04:42,[PHO 8-7] Charles Floating Jump shot: Made (3 PTS) Assist: Diggins-Smith (1 AST),20,57,1,,202250,203400,1611661317,8,7,1
+04:29,[SEA 10-8] Gray 3pt Shot: Made (3 PTS) Assist: Bird (1 AST),154,190,1,,204334,100720,1611661328,8,10,1
+04:15,[PHO] Peddy Turnover : Traveling (1 TO),101,237,5,,203035,,1611661317,8,10,1
+04:15,[PHO] Taurasi Substitution replaced by DeShields,0,-80,8,,100940,1628890,1611661317,8,10,1
+04:15,[SEA] Williams Substitution replaced by January,0,-80,8,,1628931,201896,1611661328,8,10,1
+04:02,[PHO] Peddy Foul: Shooting (1 PF) (2 FTA),47,96,6,100720,203035,,1611661317,8,10,1
+04:02,[SEA 11-8] Bird Free Throw 1 of 2 (1 PTS),0,-80,3,,100720,,1611661328,8,11,1
+04:02,[SEA 12-8] Bird Free Throw 2 of 2 (2 PTS),0,-80,3,,100720,,1611661328,8,12,1
+03:52,[PHO] Diggins-Smith Turnover : Bad Pass (2 TO) Steal:January (1 ST),-85,169,5,201896,203400,,1611661317,8,12,1
+03:44,[SEA] Talbot Jump Shot: Missed,-210,-4,2,,203855,,1611661328,8,12,1
+03:39,[PHO] Peddy Rebound (Off:0 Def:1),-238,-15,4,,203035,,1611661317,8,12,1
+03:29,[PHO] Diggins-Smith Turnover : Bad Pass (3 TO) Steal:Talbot (1 ST),-147,48,5,203855,203400,,1611661317,8,12,1
+03:24,[SEA] Gray Foul: Offensive (1 PF),-3,12,6,1629482,204334,,1611661328,8,12,1
+03:24,[SEA] Gray Turnover : Offensive Foul Turnover (1 TO),-3,12,5,,204334,,1611661328,8,12,1
+03:10,[PHO] DeShields Pullup Jump shot: Missed,151,33,2,,1628890,,1611661317,8,12,1
+03:06,[SEA] Magbegor Rebound (Off:1 Def:1),151,33,4,,1629496,,1611661328,8,12,1
+02:57,[SEA] Gray Jump Shot: Missed,177,2,2,,204334,,1611661328,8,12,1
+02:54,[PHO] Cunningham Rebound (Off:0 Def:1),177,2,4,,1629482,,1611661317,8,12,1
+02:42,[PHO 10-12] Charles Step Back Jump shot: Made (5 PTS) Assist: Peddy (1 AST),-75,135,1,,202250,203035,1611661317,10,12,1
+02:20,[SEA] Gray Turnover : Traveling (2 TO),-185,21,5,,204334,,1611661328,10,12,1
+02:20,[PHO] Charles Substitution replaced by Gustafson,0,-80,8,,202250,1629484,1611661317,10,12,1
+02:20,[SEA] Bird Substitution replaced by Lavender,0,-80,8,,100720,202650,1611661328,10,12,1
+02:20,[SEA] Magbegor Substitution replaced by Williams,0,-80,8,,1629496,1628931,1611661328,10,12,1
+02:08,[PHO 12-12] DeShields Driving Finger Roll Layup Shot: Made (2 PTS),39,10,1,,1628890,,1611661317,12,12,1
+01:57,[PHO] Cunningham Foul: Personal (1 PF),13,203,6,204334,1629482,,1611661317,12,12,1
+01:52,[SEA] Talbot 3pt Shot: Missed,13,248,2,,203855,,1611661328,12,12,1
+01:47,[SEA] Gray Rebound (Off:1 Def:0),13,248,4,,204334,,1611661328,12,12,1
+01:46,[PHO] Gustafson Foul: Shooting (1 PF) (2 FTA),1,11,6,204334,1629484,,1611661317,12,12,1
+01:46,Instant Replay - Support Ruling,0,-80,18,,0,,0,12,12,1
+01:46,[SEA 13-12] Gray Free Throw 1 of 2 (4 PTS),0,-80,3,,204334,,1611661328,12,13,1
+01:46,[SEA] Gray Free Throw 2 of 2 Missed,0,-80,3,,204334,,1611661328,12,13,1
+01:45,[SEA] Lavender Rebound (Off:1 Def:3),0,-80,4,,202650,,1611661328,12,13,1
+01:43,[SEA] Lavender Putback Layup Shot: Missed,-11,1,2,,202650,,1611661328,12,13,1
+01:43,[PHO] Team Rebound,-11,1,4,,0,,1611661317,12,13,1
+01:43,[SEA] Gray Foul: Loose Ball (2 PF),1,826,6,1628890,204334,,1611661328,12,13,1
+01:43,[PHO] Peddy Substitution replaced by Taurasi,0,-80,8,,203035,100940,1611661317,12,13,1
+01:43,[SEA] Gray Substitution replaced by Magbegor,0,-80,8,,204334,1629496,1611661328,12,13,1
+01:28,[PHO] DeShields 3pt Shot: Missed,232,11,2,,1628890,,1611661317,12,13,1
+01:26,[SEA] Talbot Rebound (Off:0 Def:1),232,11,4,,203855,,1611661328,12,13,1
+01:24,[PHO] Cunningham Foul: Personal (2 PF) (2 FTA),197,626,6,201896,1629482,,1611661317,12,13,1
+01:24,[SEA 14-12] January Free Throw 1 of 2 (1 PTS),0,-80,3,,201896,,1611661328,12,14,1
+01:24,[SEA 15-12] January Free Throw 2 of 2 (2 PTS),0,-80,3,,201896,,1611661328,12,15,1
+01:09,[PHO] Gustafson Foul: Offensive (2 PF),182,183,6,201896,1629484,,1611661317,12,15,1
+01:09,[PHO] Gustafson Turnover : Offensive Foul Turnover (1 TO),182,183,5,,1629484,,1611661317,12,15,1
+00:55.2,[SEA] January 3pt Shot: Missed,-116,242,2,,201896,,1611661328,12,15,1
+00:52.0,[PHO] Gustafson Rebound (Off:0 Def:1),-116,242,4,,1629484,,1611661317,12,15,1
+00:32.8,[PHO] DeShields Pullup Jump shot: Missed,156,42,2,,1628890,,1611661317,12,15,1
+00:30.0,[SEA] Magbegor Rebound (Off:1 Def:2),156,42,4,,1629496,,1611661328,12,15,1
+00:19.9,[SEA] Lavender Foul: Offensive (2 PF),-187,174,6,1628890,202650,,1611661328,12,15,1
+00:19.9,[SEA] Lavender Turnover : Offensive Foul Turnover (1 TO),-187,174,5,,202650,,1611661328,12,15,1
+00:19.9,[SEA] Lavender Substitution replaced by Loyd,0,-80,8,,202650,204319,1611661328,12,15,1
+00:04.1,[PHO 15-15] Cunningham 3pt Shot: Made (3 PTS) Assist: Diggins-Smith (2 AST),-139,201,1,,1629482,203400,1611661317,15,15,1
+00:04.1,[SEA] Talbot Foul: Shooting (1 PF) (1 FTA),-150,208,6,1629482,203855,,1611661328,15,15,1
+00:04.1,[PHO 16-15] Cunningham Free Throw 1 of 1 (4 PTS),0,-80,3,,1629482,,1611661317,16,15,1
+00:00.0,[SEA 18-16] Loyd 3pt Shot: Made (6 PTS) Assist: January (1 AST),-200,139,1,,204319,201896,1611661328,16,18,1
+00:00.0,End Period,0,-80,13,,0,,0,16,18,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,16,18,1
+10:00,Start Period,0,-80,12,,0,,0,16,18,2
+09:44,[PHO] Charles Turnover : 3 Second Violation (1 TO),-11,10,5,,202250,,1611661317,16,18,2
+09:30,[SEA] Loyd Jump Shot: Missed,-5,205,2,,204319,,1611661328,16,18,2
+09:28,[PHO] Team Rebound,-5,205,4,,0,,1611661317,16,18,2
+09:25,Jump Ball Magbegor vs Magbegor (Gustafson gains possession),0,-80,10,1629496,1629496,1629484,1611661317,16,18,2
+09:16,[PHO] Charles Turnover : Traveling (2 TO),-2,3,5,,202250,,1611661317,16,18,2
+09:03,[SEA 20-16] Williams Driving Layup Shot: Made (5 PTS),-9,10,1,,1628931,,1611661328,16,20,2
+08:51,[PHO 18-20] Gustafson Hook Shot: Made (2 PTS) Assist: Taurasi (1 AST),-13,3,1,,1629484,100940,1611661317,18,20,2
+08:51,[SEA] Magbegor Foul: Shooting (2 PF) (1 FTA),-5,-3,6,1629484,1629496,,1611661328,18,20,2
+08:51,[PHO] Gustafson Free Throw 1 of 1 Missed,0,-80,3,,1629484,,1611661317,18,20,2
+08:47,[PHO] Gustafson Rebound (Off:1 Def:1),0,-80,4,,1629484,,1611661317,18,20,2
+08:47,[PHO 20-20] Gustafson Driving Floating Jump Shot: Made (4 PTS),-8,10,1,,1629484,,1611661317,20,20,2
+08:42,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,20,2
+08:42,[PHO] Gustafson Substitution replaced by Turner,0,-80,8,,1629484,1629488,1611661317,20,20,2
+08:35,[SEA] Magbegor Driving Layup Shot: Missed,-6,5,2,,1629496,,1611661328,20,20,2
+08:33,[SEA] Magbegor Rebound (Off:2 Def:2),-6,5,4,,1629496,,1611661328,20,20,2
+08:32,[SEA 22-20] Magbegor Putback Layup Shot: Made (3 PTS),-5,5,1,,1629496,,1611661328,20,22,2
+08:11,[PHO 23-22] Taurasi 3pt Shot: Made (3 PTS) Assist: DeShields (1 AST),-132,203,1,,100940,1628890,1611661317,23,22,2
+07:52,[SEA 24-23] Magbegor Cutting Layup Shot: Made (5 PTS) Assist: Loyd (1 AST),-5,10,1,,1629496,204319,1611661328,23,24,2
+07:43,[PHO] Taurasi 3pt Shot: Missed,-17,255,2,,100940,,1611661317,23,24,2
+07:41,[SEA] Team Rebound,-17,255,4,,0,,1611661328,23,24,2
+07:41,[PHO] Peddy Foul: Loose Ball (2 PF),7,829,6,201896,203035,,1611661317,23,24,2
+07:41,[PHO] DeShields Substitution replaced by Diggins-Smith,0,-80,8,,1628890,203400,1611661317,23,24,2
+07:25,[SEA] Magbegor Cutting Layup Shot: Missed,0,5,2,100940,1629496,,1611661328,23,24,2
+07:22,[PHO] Charles Rebound (Off:0 Def:3),0,5,4,,202250,,1611661317,23,24,2
+07:18,[SEA] Magbegor Foul: Shooting (3 PF) (2 FTA),-17,46,6,100940,1629496,,1611661328,23,24,2
+07:18,[PHO 24-24] Taurasi Free Throw 1 of 2 (4 PTS),0,-80,3,,100940,,1611661317,24,24,2
+07:18,[SEA] Magbegor Substitution replaced by Lavender,0,-80,8,,1629496,202650,1611661328,24,24,2
+07:18,[PHO] Taurasi Free Throw 2 of 2 Missed,0,-80,3,,100940,,1611661317,24,24,2
+07:16,[SEA] Williams Rebound (Off:1 Def:2),0,-80,4,,1628931,,1611661328,24,24,2
+07:02,[SEA] Williams 3pt Shot: Missed,-176,198,2,,1628931,,1611661328,24,24,2
+06:58,[PHO] Diggins-Smith Rebound (Off:0 Def:4),-176,198,4,,203400,,1611661317,24,24,2
+06:44,[PHO] Charles Hook Shot: Missed,-5,5,2,,202250,,1611661317,24,24,2
+06:43,[SEA] Lavender Rebound (Off:1 Def:4),-5,5,4,,202650,,1611661328,24,24,2
+06:29,[SEA] Williams Driving Reverse Layup Shot: Missed,2,-3,2,,1628931,,1611661328,24,24,2
+06:28,[PHO] Turner Rebound (Off:0 Def:1),2,-3,4,,1629488,,1611661317,24,24,2
+06:27,[PHO] Taurasi Turnover : Traveling (1 TO),63,623,5,,100940,,1611661317,24,24,2
+06:27,[SEA] Williams Substitution replaced by Bird,0,-80,8,,1628931,100720,1611661328,24,24,2
+06:20,[SEA] Loyd Pullup Jump shot: Missed,82,187,2,,204319,,1611661328,24,24,2
+06:17,[SEA] Loyd Rebound (Off:2 Def:2),82,187,4,,204319,,1611661328,24,24,2
+06:15,[SEA 26-24] Loyd Driving Layup Shot: Made (8 PTS),-12,12,1,,204319,,1611661328,24,26,2
+06:03,[SEA] January Foul: Personal (1 PF),134,209,6,100940,201896,,1611661328,24,26,2
+06:02,[SEA] January Foul: Personal (2 PF),133,94,6,100940,201896,,1611661328,24,26,2
+05:59,[PHO] Peddy Foul: Offensive (3 PF),181,180,6,201896,203035,,1611661317,24,26,2
+05:59,[PHO] Peddy Turnover : Offensive Foul Turnover (2 TO),181,180,5,,203035,,1611661317,24,26,2
+05:59,Timeout Officials,0,-80,9,,0,,0,24,26,2
+05:40,[SEA] January Turnover : Bad Pass (1 TO) Steal:Peddy (2 ST),4,26,5,203035,201896,,1611661328,24,26,2
+05:25,[PHO 26-26] Diggins-Smith Floating Jump shot: Made (4 PTS) Assist: Charles (1 AST),12,83,1,,203400,202250,1611661317,26,26,2
+05:08,[SEA 29-26] Loyd 3pt Shot: Made (11 PTS) Assist: Lavender (2 AST),-78,248,1,,204319,202650,1611661328,26,29,2
+04:53,[PHO] Charles Turnaround Jump Shot: Missed,15,9,2,,202250,,1611661317,26,29,2
+04:52,[SEA] Bird Rebound (Off:0 Def:1),15,9,4,,100720,,1611661328,26,29,2
+04:38,[SEA] Bird Turnover : Lost Ball (2 TO) Steal:Peddy (3 ST),43,248,5,203035,100720,,1611661328,26,29,2
+04:38,[SEA] Bird Foul: Personal Take (1 PF) (2 FTA),-21,591,6,203035,100720,,1611661328,26,29,2
+04:38,[PHO 27-29] Peddy Free Throw 1 of 2 (4 PTS),0,-80,3,,203035,,1611661317,27,29,2
+04:38,[PHO] Taurasi Substitution replaced by Cunningham,0,-80,8,,100940,1629482,1611661317,27,29,2
+04:38,[SEA] Talbot Substitution replaced by Gray,0,-80,8,,203855,204334,1611661328,27,29,2
+04:38,[PHO 28-29] Peddy Free Throw 2 of 2 (5 PTS),0,-80,3,,203035,,1611661317,28,29,2
+04:22,[SEA] Lavender Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-15,17,5,,202650,,1611661328,28,29,2
+04:22,[PHO] Peddy Substitution replaced by DeShields,0,-80,8,,203035,1628890,1611661317,28,29,2
+04:03,[PHO 31-29] Charles 3pt Shot: Made (8 PTS) Assist: Diggins-Smith (3 AST),31,230,1,,202250,203400,1611661317,31,29,2
+04:00,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,31,29,2
+03:45,[SEA] Bird Pullup Jump shot: Missed,-84,180,2,,100720,,1611661328,31,29,2
+03:43,[PHO] Charles Rebound (Off:0 Def:4),-84,180,4,,202250,,1611661317,31,29,2
+03:24,[PHO 33-29] Turner Jump Shot: Made (2 PTS) Assist: Cunningham (1 AST),15,133,1,,1629488,1629482,1611661317,33,29,2
+03:04,[PHO] DeShields Foul: Personal (1 PF),-3,55,6,204334,1628890,,1611661317,33,29,2
+03:04,[SEA] Gray Substitution replaced by Talbot,0,-80,8,,204334,203855,1611661328,33,29,2
+02:54,[SEA] Lavender Jump Shot: Missed,-159,125,2,,202650,,1611661328,33,29,2
+02:51,[PHO] Cunningham Rebound (Off:0 Def:2),-159,125,4,,1629482,,1611661317,33,29,2
+02:36,[PHO] DeShields Turnover : Bad Pass (1 TO) Steal:Talbot (2 ST),16,177,5,203855,1628890,,1611661317,33,29,2
+02:35,[PHO] Diggins-Smith Foul: Personal Take (1 PF),-27,695,6,204319,203400,,1611661317,33,29,2
+02:16,[SEA 31-33] Lavender Cutting Layup Shot: Made (2 PTS) Assist: Bird (2 AST),-1,12,1,,202650,100720,1611661328,33,31,2
+02:04,[PHO] Diggins-Smith Driving Finger Roll Layup Shot: Missed,-15,9,2,,203400,,1611661317,33,31,2
+02:04,[SEA] Team Rebound,-15,9,4,,0,,1611661328,33,31,2
+02:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,31,2
+02:04,[PHO] DeShields Substitution replaced by Taurasi,0,-80,8,,1628890,100940,1611661317,33,31,2
+01:43,[SEA] Bird 3pt Shot: Missed,156,196,2,,100720,,1611661328,33,31,2
+01:40,[PHO] Charles Rebound (Off:0 Def:5),156,196,4,,202250,,1611661317,33,31,2
+01:34,[SEA] Loyd Foul: Shooting (1 PF) (2 FTA),4,9,6,203400,204319,,1611661328,33,31,2
+01:34,[PHO 34-31] Diggins-Smith Free Throw 1 of 2 (5 PTS),0,-80,3,,203400,,1611661317,34,31,2
+01:34,[PHO] Charles Substitution replaced by Gustafson,0,-80,8,,202250,1629484,1611661317,34,31,2
+01:34,[PHO] Diggins-Smith Free Throw 2 of 2 Missed,0,-80,3,,203400,,1611661317,34,31,2
+01:31,[SEA] Team Rebound,0,-80,4,,0,,1611661328,34,31,2
+01:31,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,31,2
+01:20,[SEA] Talbot 3pt Shot: Missed,-234,24,2,,203855,,1611661328,34,31,2
+01:16,[PHO] Gustafson Rebound (Off:1 Def:2),-234,24,4,,1629484,,1611661317,34,31,2
+01:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,31,2
+01:07,[PHO] Diggins-Smith Floating Jump shot: Missed,113,32,2,,203400,,1611661317,34,31,2
+01:04,[SEA] Talbot Rebound (Off:0 Def:2),113,32,4,,203855,,1611661328,34,31,2
+00:59.8,[SEA] Talbot Turnover : Lost Ball (1 TO) Steal:Diggins-Smith (1 ST),-9,360,5,203400,203855,,1611661328,34,31,2
+00:58.4,[PHO 36-31] Diggins-Smith Running Layup Shot: Made (7 PTS),7,5,1,,203400,,1611661317,36,31,2
+00:39.7,[SEA] Lavender Pullup Jump shot: Missed,61,152,2,,202650,,1611661328,36,31,2
+00:37.2,[PHO] Gustafson Rebound (Off:1 Def:3),61,152,4,,1629484,,1611661317,36,31,2
+00:27.6,[PHO 39-31] Diggins-Smith 3pt Shot: Made (10 PTS) Assist: Turner (1 AST),-173,162,1,,203400,1629488,1611661317,39,31,2
+00:04.7,[SEA] Loyd 3pt Shot: Missed,-4,253,2,,204319,,1611661328,39,31,2
+00:01.5,[PHO] Diggins-Smith Rebound (Off:0 Def:5),-4,253,4,,203400,,1611661317,39,31,2
+00:00.4,[PHO] Diggins-Smith 3pt Shot: Missed,-2,403,2,,203400,,1611661317,39,31,2
+00:00.1,[PHO] Team Rebound,-2,403,4,,0,,1611661317,39,31,2
+00:00.0,End Period,0,-80,13,,0,,0,39,31,2
+10:00,Start Period,0,-80,12,,0,,0,39,31,3
+09:45,[PHO 42-31] Taurasi 3pt Shot: Made (7 PTS) Assist: Peddy (2 AST),-78,238,1,,100940,203035,1611661317,42,31,3
+09:30,[PHO] Turner Foul: Personal (3 PF),-167,118,6,202650,1629488,,1611661317,42,31,3
+09:25,[SEA 34-42] Bird 3pt Shot: Made (5 PTS) Assist: Lavender (3 AST),-227,85,1,,100720,202650,1611661328,42,34,3
+09:05,[PHO 44-34] Turner Layup Shot: Made (4 PTS) Assist: Peddy (3 AST),-1,-5,1,,1629488,203035,1611661317,44,34,3
+08:52,[SEA 36-44] Loyd Driving Layup Shot: Made (13 PTS) Assist: Lavender (4 AST),4,5,1,,204319,202650,1611661328,44,36,3
+08:37,[SEA] Williams Foul: Personal (1 PF),125,137,6,100940,1628931,,1611661328,44,36,3
+08:30,[PHO] Taurasi Turnover : Lost Ball (2 TO),162,200,5,,100940,,1611661317,44,36,3
+08:30,[PHO] Peddy Foul: Loose Ball (4 PF),193,621,6,1629496,203035,,1611661317,44,36,3
+08:30,[PHO] Peddy Substitution replaced by Cunningham,0,-80,8,,203035,1629482,1611661317,44,36,3
+08:16,[SEA 39-44] Loyd 3pt Shot: Made (16 PTS) Assist: Lavender (5 AST),-227,58,1,,204319,202650,1611661328,44,39,3
+08:08,[PHO 47-39] Cunningham 3pt Shot: Made (7 PTS) Assist: Taurasi (2 AST),-238,17,1,,1629482,100940,1611661317,47,39,3
+07:49,[SEA] Loyd Turnover : Out of Bounds - Bad Pass Turnover (1 TO),227,95,5,,204319,,1611661328,47,39,3
+07:38,[SEA] Loyd Foul: Personal (2 PF),-6,12,6,1629488,204319,,1611661328,47,39,3
+07:26,[PHO] Cunningham 3pt Shot: Missed,229,39,2,,1629482,,1611661317,47,39,3
+07:23,[PHO] Diggins-Smith Rebound (Off:1 Def:5),229,39,4,,203400,,1611661317,47,39,3
+07:19,[PHO] Diggins-Smith Turnover : Lost Ball (4 TO) Steal:Loyd (1 ST),-159,44,5,204319,203400,,1611661317,47,39,3
+07:19,[PHO] Taurasi Foul: Personal Take (1 PF),220,565,6,204319,100940,,1611661317,47,39,3
+07:19,[PHO] Diggins-Smith Substitution replaced by DeShields,0,-80,8,,203400,1628890,1611661317,47,39,3
+07:05,[SEA] Williams Turnaround Jump Shot: Missed,-19,10,2,100940,1628931,,1611661328,47,39,3
+07:05,[SEA] Team Rebound,-19,10,4,,0,,1611661328,47,39,3
+07:05,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,39,3
+07:03,[SEA] Williams Turnaround Jump Shot: Missed,152,51,2,,1628931,,1611661328,47,39,3
+07:01,[PHO] Cunningham Rebound (Off:0 Def:3),152,51,4,,1629482,,1611661317,47,39,3
+06:45,[PHO 49-39] Charles Layup Shot: Made (10 PTS),-6,17,1,,202250,,1611661317,49,39,3
+06:38,[SEA] Loyd Turnover : Out of Bounds Lost Ball Turnover (2 TO),-174,235,5,,204319,,1611661328,49,39,3
+06:26,[PHO 52-39] Charles 3pt Shot: Made (13 PTS) Assist: DeShields (2 AST),124,230,1,,202250,1628890,1611661317,52,39,3
+06:23,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,52,39,3
+06:23,[SEA] Williams Substitution replaced by Talbot,0,-80,8,,1628931,203855,1611661328,52,39,3
+06:12,[SEA] Loyd 3pt Shot: Missed,135,216,2,,204319,,1611661328,52,39,3
+06:08,[PHO] Cunningham Rebound (Off:0 Def:4),135,216,4,,1629482,,1611661317,52,39,3
+06:06,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,39,3
+05:57,[PHO 54-39] Charles Cutting Layup Shot: Made (15 PTS) Assist: Taurasi (3 AST),6,6,1,,202250,100940,1611661317,54,39,3
+05:38,[SEA] Loyd Driving Floating Bank Jump Shot: Missed,18,27,2,,204319,,1611661328,54,39,3
+05:34,[PHO] Taurasi Rebound (Off:0 Def:2),18,27,4,,100940,,1611661317,54,39,3
+05:25,[PHO] Charles Step Back Jump shot: Missed,-188,81,2,,202250,,1611661317,54,39,3
+05:23,[PHO] Turner Rebound (Off:1 Def:1),-188,81,4,,1629488,,1611661317,54,39,3
+05:15,[PHO] Taurasi Turnover : Bad Pass (3 TO) Steal:Loyd (2 ST),-189,214,5,204319,100940,,1611661317,54,39,3
+05:12,[SEA 41-54] Loyd Running Layup Shot: Made (18 PTS),-11,1,1,,204319,,1611661328,54,41,3
+05:12,[PHO] DeShields Foul: Shooting (2 PF) (1 FTA),17,0,6,204319,1628890,,1611661317,54,41,3
+05:12,[SEA] Lavender Substitution replaced by Gray,0,-80,8,,202650,204334,1611661328,54,41,3
+05:12,[SEA 42-54] Loyd Free Throw 1 of 1 (19 PTS),0,-80,3,,204319,,1611661328,54,42,3
+05:02,[SEA] Gray Foul: Personal (3 PF),183,49,6,100940,204334,,1611661328,54,42,3
+05:02,[PHO] Cunningham Substitution replaced by Diggins-Smith,0,-80,8,,1629482,203400,1611661317,54,42,3
+04:51,[PHO 56-42] Charles Turnaround Hook Shot: Made (17 PTS) Assist: DeShields (3 AST),-34,43,1,,202250,1628890,1611661317,56,42,3
+04:30,[SEA] Loyd Pullup Jump shot: Missed,110,11,2,,204319,,1611661328,56,42,3
+04:27,[PHO] Diggins-Smith Rebound (Off:1 Def:6),110,11,4,,203400,,1611661317,56,42,3
+04:26,[PHO 58-42] DeShields Running Layup Shot: Made (4 PTS) Assist: Diggins-Smith (4 AST),12,6,1,,1628890,203400,1611661317,58,42,3
+04:16,[PHO] DeShields Foul: Personal (3 PF) (2 FTA),211,266,6,204319,1628890,,1611661317,58,42,3
+04:16,[SEA 43-58] Loyd Free Throw 1 of 2 (20 PTS),0,-80,3,,204319,,1611661328,58,43,3
+04:16,[SEA 44-58] Loyd Free Throw 2 of 2 (21 PTS),0,-80,3,,204319,,1611661328,58,44,3
+04:04,[PHO] DeShields 3pt Shot: Missed,-228,-5,2,,1628890,,1611661317,58,44,3
+04:02,[SEA] Talbot Rebound (Off:0 Def:3),-228,-5,4,,203855,,1611661328,58,44,3
+03:55,[SEA 46-58] Gray Turnaround Jump Shot: Made (6 PTS) Assist: Talbot (1 AST),6,17,1,,204334,203855,1611661328,58,46,3
+03:44,[PHO] Taurasi Turnover : Lost Ball (4 TO) Steal:Magbegor (1 ST),-55,275,5,1629496,100940,,1611661317,58,46,3
+03:42,[SEA 48-58] Magbegor Running Layup Shot: Made (7 PTS),-5,-2,1,,1629496,,1611661328,58,48,3
+03:28,[SEA] Talbot Foul: Personal (2 PF),141,214,6,100940,203855,,1611661328,58,48,3
+03:28,[PHO] Charles Substitution replaced by Gustafson,0,-80,8,,202250,1629484,1611661317,58,48,3
+03:23,[PHO] Diggins-Smith Turnover : Lost Ball (5 TO) Steal:Bird (1 ST),-95,88,5,100720,203400,,1611661317,58,48,3
+03:18,[SEA 50-58] Talbot Running Jump Shot: Made (2 PTS) Assist: Bird (3 AST),-116,32,1,,203855,100720,1611661328,58,50,3
+03:16,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,58,50,3
+03:09,[PHO] DeShields 3pt Shot: Missed,-27,263,2,,1628890,,1611661317,58,50,3
+03:06,[PHO] Gustafson Rebound (Off:2 Def:3),-27,263,4,,1629484,,1611661317,58,50,3
+03:00,[PHO 60-50] Gustafson Cutting Layup Shot: Made (6 PTS) Assist: Taurasi (4 AST),-6,8,1,,1629484,100940,1611661317,60,50,3
+02:47,[SEA 52-60] Magbegor Driving Layup Shot: Made (9 PTS),-1,-5,1,,1629496,,1611661328,60,52,3
+02:47,[PHO] Gustafson Foul: Shooting (3 PF) (1 FTA),5,3,6,1629496,1629484,,1611661317,60,52,3
+02:47,[SEA] Magbegor Free Throw 1 of 1 Missed,0,-80,3,,1629496,,1611661328,60,52,3
+02:46,[PHO] Team Rebound,0,-80,4,,0,,1611661317,60,52,3
+02:46,[SEA] Magbegor Foul: Loose Ball (4 PF) (2 FTA),-4,816,6,100940,1629496,,1611661328,60,52,3
+02:46,[PHO 61-52] Taurasi Free Throw 1 of 2 (8 PTS),0,-80,3,,100940,,1611661317,61,52,3
+02:46,[SEA] Magbegor Substitution replaced by Williams,0,-80,8,,1629496,1628931,1611661328,61,52,3
+02:46,[PHO 62-52] Taurasi Free Throw 2 of 2 (9 PTS),0,-80,3,,100940,,1611661317,62,52,3
+02:25,[SEA] Loyd 3pt Shot: Missed,-167,182,2,,204319,,1611661328,62,52,3
+02:23,[SEA] Team Rebound,-167,182,4,,0,,1611661328,62,52,3
+02:23,[PHO] Gustafson Foul: Loose Ball (4 PF) (2 FTA),12,95,6,204334,1629484,,1611661317,62,52,3
+02:23,[SEA 53-62] Gray Free Throw 1 of 2 (7 PTS),0,-80,3,,204334,,1611661328,62,53,3
+02:23,[PHO] Taurasi Substitution replaced by Peddy,0,-80,8,,100940,203035,1611661317,62,53,3
+02:23,[SEA 54-62] Gray Free Throw 2 of 2 (8 PTS),0,-80,3,,204334,,1611661328,62,54,3
+02:08,[PHO] Diggins-Smith Driving Floating Bank Jump Shot: Missed,-113,7,2,,203400,,1611661317,62,54,3
+02:06,[SEA] Talbot Rebound (Off:0 Def:4),-113,7,4,,203855,,1611661328,62,54,3
+02:02,[SEA] Talbot Running Layup Shot: Missed,11,5,2,,203855,,1611661328,62,54,3
+01:59,[SEA] Gray Rebound (Off:2 Def:0),11,5,4,,204334,,1611661328,62,54,3
+01:58,[SEA 57-62] Bird 3pt Shot: Made (8 PTS) Assist: Loyd (2 AST),-243,70,1,,100720,204319,1611661328,62,57,3
+01:40,[PHO 64-57] Peddy Cutting Layup Shot: Made (7 PTS) Assist: DeShields (4 AST),-4,2,1,,203035,1628890,1611661317,64,57,3
+01:27,[SEA] Gray Turnover : Traveling (3 TO),42,3,5,,204334,,1611661328,64,57,3
+01:27,[PHO] Turner Substitution replaced by Charles,0,-80,8,,1629488,202250,1611661317,64,57,3
+01:17,[SEA] Gray Foul: Shooting (4 PF) (2 FTA),-56,10,6,202250,204334,,1611661328,64,57,3
+01:17,[PHO 65-57] Charles Free Throw 1 of 2 (18 PTS),0,-80,3,,202250,,1611661317,65,57,3
+01:17,[SEA] Gray Substitution replaced by January,0,-80,8,,204334,201896,1611661328,65,57,3
+01:17,[PHO 66-57] Charles Free Throw 2 of 2 (19 PTS),0,-80,3,,202250,,1611661317,66,57,3
+01:02,[PHO] Gustafson Foul: Shooting (5 PF) (2 FTA),5,28,6,204319,1629484,,1611661317,66,57,3
+01:02,[SEA] Loyd Free Throw 1 of 2 Missed,0,-80,3,,204319,,1611661328,66,57,3
+01:02,[SEA] Team Rebound,0,-80,4,,0,,1611661328,66,57,3
+01:02,[PHO] Gustafson Substitution replaced by Cunningham,0,-80,8,,1629484,1629482,1611661317,66,57,3
+01:02,[SEA 58-66] Loyd Free Throw 2 of 2 (22 PTS),0,-80,3,,204319,,1611661328,66,58,3
+00:51.2,[PHO 68-58] DeShields Driving Layup Shot: Made (6 PTS),6,-4,1,,1628890,,1611661317,68,58,3
+00:34.4,[SEA 61-68] Bird 3pt Shot: Made (11 PTS) Assist: Williams (1 AST),-200,137,1,,100720,1628931,1611661328,68,61,3
+00:18.4,[PHO] DeShields Driving Floating Jump Shot: Missed,-66,35,2,,1628890,,1611661317,68,61,3
+00:17.0,[SEA] January Rebound (Off:0 Def:1),-66,35,4,,201896,,1611661328,68,61,3
+00:11.4,[SEA 63-68] Loyd Running Layup Shot: Made (24 PTS) Assist: Bird (4 AST),12,9,1,,204319,100720,1611661328,68,63,3
+00:00.7,[PHO 71-63] Charles 3pt Shot: Made (22 PTS) Assist: Peddy (4 AST),-84,242,1,,202250,203035,1611661317,71,63,3
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,71,63,3
+00:00.0,End Period,0,-80,13,,0,,0,71,63,3
+10:00,Start Period,0,-80,12,,0,,0,71,63,4
+09:46,[SEA] Bird Turnover : Lost Ball (3 TO) Steal:Peddy (4 ST),109,229,5,203035,100720,,1611661328,71,63,4
+09:40,[PHO] Peddy Cutting Layup Shot: Missed,10,13,2,100720,203035,,1611661317,71,63,4
+09:40,[PHO] Team Rebound,10,13,4,,0,,1611661317,71,63,4
+09:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,71,63,4
+09:36,[PHO 74-63] Peddy 3pt Shot: Made (10 PTS) Assist: Charles (2 AST),-215,139,1,,203035,202250,1611661317,74,63,4
+09:13,[SEA] Talbot 3pt Shot: Missed,-127,214,2,,203855,,1611661328,74,63,4
+09:10,[PHO] Charles Rebound (Off:0 Def:6),-127,214,4,,202250,,1611661317,74,63,4
+09:06,[PHO] Peddy Turnover : Lost Ball (3 TO) Steal:Bird (2 ST),38,250,5,100720,203035,,1611661317,74,63,4
+09:00,[SEA 65-74] Talbot Running Layup Shot: Made (4 PTS) Assist: Bird (5 AST),-5,13,1,,203855,100720,1611661328,74,65,4
+08:34,[PHO] Cunningham Driving Finger Roll Layup Shot: Missed,1,17,2,,1629482,,1611661317,74,65,4
+08:31,[SEA] Williams Rebound (Off:1 Def:3),1,17,4,,1628931,,1611661328,74,65,4
+08:26,[PHO] DeShields Foul: Personal (4 PF),10,116,6,1628931,1628890,,1611661317,74,65,4
+08:26,[PHO] DeShields Substitution replaced by Taurasi,0,-80,8,,1628890,100940,1611661317,74,65,4
+08:26,[SEA] Talbot Substitution replaced by Loyd,0,-80,8,,203855,204319,1611661328,74,65,4
+08:26,[SEA] Bird Substitution replaced by Perez,0,-80,8,,100720,1631073,1611661328,74,65,4
+08:13,[SEA 67-74] January Jump Shot: Made (4 PTS) Assist: Perez (1 AST),132,122,1,,201896,1631073,1611661328,74,67,4
+07:53,[PHO] Charles Jump Shot: Missed,-132,8,2,,202250,,1611661317,74,67,4
+07:51,[SEA] January Rebound (Off:0 Def:2),-132,8,4,,201896,,1611661328,74,67,4
+07:38,[SEA] Williams Pullup Jump shot: Missed,32,160,2,,1628931,,1611661328,74,67,4
+07:32,[PHO] Cunningham Rebound (Off:0 Def:5),32,160,4,,1629482,,1611661317,74,67,4
+07:32,[SEA] Loyd Foul: Shooting (3 PF) (2 FTA),-5,10,6,203400,204319,,1611661328,74,67,4
+07:32,[PHO 75-67] Diggins-Smith Free Throw 1 of 2 (11 PTS),0,-80,3,,203400,,1611661317,75,67,4
+07:32,[PHO] Peddy Substitution replaced by DeShields,0,-80,8,,203035,1628890,1611661317,75,67,4
+07:32,[SEA] Perez Substitution replaced by Bird,0,-80,8,,1631073,100720,1611661328,75,67,4
+07:32,[PHO 76-67] Diggins-Smith Free Throw 2 of 2 (12 PTS),0,-80,3,,203400,,1611661317,76,67,4
+07:21,[SEA] Loyd Fadeaway Jump Shot: Missed,17,158,2,,204319,,1611661328,76,67,4
+07:17,[PHO] Charles Rebound (Off:0 Def:7),17,158,4,,202250,,1611661317,76,67,4
+07:10,[PHO] DeShields Turnover : Bad Pass (2 TO) Steal:Magbegor (2 ST),-162,115,5,1629496,1628890,,1611661317,76,67,4
+07:02,[SEA] Magbegor Driving Floating Bank Jump Shot: Missed,77,13,2,,1629496,,1611661328,76,67,4
+07:00,[SEA] Magbegor Rebound (Off:3 Def:2),77,13,4,,1629496,,1611661328,76,67,4
+06:52,[SEA 69-76] Magbegor Cutting Finger Roll Layup Shot: Made (11 PTS) Assist: January (2 AST),7,-5,1,,1629496,201896,1611661328,76,69,4
+06:32,[PHO] Taurasi Jump Shot: Missed,30,71,2,1628931,100940,,1611661317,76,69,4
+06:30,[SEA] Team Rebound,30,71,4,,0,,1611661328,76,69,4
+06:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,76,69,4
+06:30,[PHO] Cunningham Substitution replaced by Turner,0,-80,8,,1629482,1629488,1611661317,76,69,4
+06:23,[PHO] DeShields Foul: Personal (5 PF),-174,83,6,204319,1628890,,1611661317,76,69,4
+06:15,[SEA] Loyd Turnover : Bad Pass (3 TO) Steal:Diggins-Smith (2 ST),28,76,5,203400,204319,,1611661328,76,69,4
+06:11,[PHO 78-69] DeShields Running Layup Shot: Made (8 PTS) Assist: Diggins-Smith (5 AST),4,0,1,,1628890,203400,1611661317,78,69,4
+06:04,[PHO] Diggins-Smith Foul: Personal (2 PF),206,208,6,201896,203400,,1611661317,78,69,4
+05:56,[SEA] Loyd Turnover : Out of Bounds - Bad Pass Turnover (4 TO),-149,191,5,,204319,,1611661328,78,69,4
+05:56,Timeout Officials,0,-80,9,,0,,0,78,69,4
+05:44,[PHO 81-69] Taurasi 3pt Shot: Made (12 PTS) Assist: Diggins-Smith (6 AST),199,137,1,,100940,203400,1611661317,81,69,4
+05:24,[SEA 72-81] Bird 3pt Shot: Made (14 PTS) Assist: Williams (2 AST),-139,202,1,,100720,1628931,1611661328,81,72,4
+05:03,[PHO] Taurasi Fadeaway Jump Shot: Missed,67,40,2,,100940,,1611661317,81,72,4
+04:59,[SEA] Loyd Rebound (Off:2 Def:3),67,40,4,,204319,,1611661328,81,72,4
+04:56,[SEA] Loyd Turnover : Out of Bounds - Bad Pass Turnover (5 TO),79,328,5,,204319,,1611661328,81,72,4
+04:41,[PHO 84-72] Taurasi 3pt Shot: Made (15 PTS) Assist: Turner (2 AST),151,200,1,,100940,1629488,1611661317,84,72,4
+04:25,[SEA] Magbegor Fadeaway Jump Shot: Missed,67,90,2,,1629496,,1611661328,84,72,4
+04:23,[PHO] Turner Rebound (Off:1 Def:2),67,90,4,,1629488,,1611661317,84,72,4
+04:16,[SEA] Loyd Foul: Personal (4 PF),-154,211,6,202250,204319,,1611661328,84,72,4
+04:09,[PHO] Charles 3pt Shot: Missed,-150,212,2,,202250,,1611661317,84,72,4
+04:06,[SEA] Williams Rebound (Off:1 Def:4),-150,212,4,,1628931,,1611661328,84,72,4
+03:50,[SEA] Williams 3pt Shot: Missed,233,92,2,,1628931,,1611661328,84,72,4
+03:47,[PHO] Charles Rebound (Off:0 Def:8),233,92,4,,202250,,1611661317,84,72,4
+03:28,[PHO 86-72] DeShields Turnaround Fadeaway Bank Jump Shot: Made (10 PTS),73,40,1,,1628890,,1611661317,86,72,4
+03:20,[SEA] Bird 3pt Shot: Missed,-166,214,2,,100720,,1611661328,86,72,4
+03:17,[PHO] Turner Rebound (Off:1 Def:3),-166,214,4,,1629488,,1611661317,86,72,4
+03:05,[PHO] DeShields Turnover : Traveling (3 TO),-220,58,5,,1628890,,1611661317,86,72,4
+02:48,[SEA] Bird Driving Finger Roll Layup Shot: Missed,11,25,2,,100720,,1611661328,86,72,4
+02:45,[PHO] Charles Rebound (Off:0 Def:9),11,25,4,,202250,,1611661317,86,72,4
+02:39,[SEA] January Foul: Personal (3 PF),7,244,6,100940,201896,,1611661328,86,72,4
+02:39,"Double Technical - January, Taurasi",0,-80,6,100940,201896,,1611661328,86,72,4
+02:39,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,86,72,4
+02:26,[PHO 88-72] DeShields Pullup Jump shot: Made (12 PTS) Assist: Turner (3 AST),-96,11,1,,1628890,1629488,1611661317,88,72,4
+02:06,[SEA 74-88] Loyd Pullup Jump shot: Made (26 PTS) Assist: Bird (6 AST),-6,154,1,,204319,100720,1611661328,88,74,4
+01:51,[PHO 90-74] Diggins-Smith Driving Floating Jump Shot: Made (14 PTS),-27,32,1,,203400,,1611661317,90,74,4
+01:37,[SEA] Williams Fadeaway Jump Shot: Missed,-17,13,2,,1628931,,1611661328,90,74,4
+01:35,[PHO] Charles Rebound (Off:0 Def:10),-17,13,4,,202250,,1611661317,90,74,4
+01:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,90,74,4
+01:25,[PHO] Taurasi Substitution replaced by Peddy,0,-80,8,,100940,203035,1611661317,90,74,4
+01:25,[SEA] Bird Substitution replaced by Perez,0,-80,8,,100720,1631073,1611661328,90,74,4
+01:25,[SEA] Magbegor Substitution replaced by Gray,0,-80,8,,1629496,204334,1611661328,90,74,4
+01:23,[PHO 92-74] Diggins-Smith Pullup Jump shot: Made (16 PTS) Assist: Peddy (5 AST),129,24,1,,203400,203035,1611661317,92,74,4
+01:12,[SEA] January 3pt Shot: Missed,-225,11,2,,201896,,1611661328,92,74,4
+01:08,[PHO] Charles Rebound (Off:0 Def:11),-225,11,4,,202250,,1611661317,92,74,4
+00:55.8,[PHO 95-74] Diggins-Smith 3pt Shot: Made (19 PTS) Assist: Peddy (6 AST),208,82,1,,203400,203035,1611661317,95,74,4
+00:55.6,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,95,74,4
+00:55.6,[PHO] Diggins-Smith Substitution replaced by Thomas,0,-80,8,,203400,1631068,1611661317,95,74,4
+00:55.6,[PHO] Turner Substitution replaced by Gustafson,0,-80,8,,1629488,1629484,1611661317,95,74,4
+00:55.6,[PHO] Charles Substitution replaced by Anigwe,0,-80,8,,202250,1629485,1611661317,95,74,4
+00:55.6,[SEA] Loyd Substitution replaced by Talbot,0,-80,8,,204319,203855,1611661328,95,74,4
+00:50.6,[SEA 77-95] Talbot 3pt Shot: Made (7 PTS) Assist: January (3 AST),10,229,1,,203855,201896,1611661328,95,77,4
+00:40.8,[PHO] DeShields Pullup Jump shot: Missed,-115,139,2,,1628890,,1611661317,95,77,4
+00:37.0,[PHO] Anigwe Rebound (Off:1 Def:0),-115,139,4,,1629485,,1611661317,95,77,4
+00:36.9,[PHO 97-77] Anigwe Putback Layup Shot: Made (2 PTS),5,16,1,,1629485,,1611661317,97,77,4
+00:24.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,97,77,4
+00:21.0,[SEA] January 3pt Shot: Missed,150,225,2,,201896,,1611661328,97,77,4
+00:17.1,[PHO] Anigwe Rebound (Off:1 Def:1),150,225,4,,1629485,,1611661317,97,77,4
+00:00.0,End Period,0,-80,13,,0,,0,97,77,4
+00:00.0,Game End,0,-80,0,,0,,0,97,77,4

@@ -1,0 +1,418 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball Brink vs McCowan (Clarendon gains possession),0,-80,10,1629479,1642287,203406,1611661320,0,0,0,1
+09:43,[LAS] Hamby Driving Layup Shot: Missed Block: McCowan (1 BLK),37,19,2,1629479,204324,,1611661320,0,0,0,1
+09:43,[LAS] Team Rebound,37,19,4,,0,,1611661320,0,0,0,1
+09:43,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+09:34,[LAS 2-0] Clarendon Driving Layup Shot: Made (2 PTS),23,21,1,,203406,,1611661320,2,0,2,1
+09:16,[DAL 2-2] McCowan Cutting Layup Shot: Made (2 PTS) Assist: Billings (1 AST),-4,31,1,,1629479,1628881,1611661321,2,2,2,1
+09:05,[LAS] Hamby Driving Layup Shot: Missed,-17,16,2,,204324,,1611661320,2,2,0,1
+09:01,[DAL] Ogunbowale Rebound (Off:0 Def:1),-17,16,4,,1629481,,1611661321,2,2,0,1
+08:57,[DAL] Ogunbowale Running Pull-Up Jump Shot: Missed,71,171,2,,1629481,,1611661321,2,2,0,1
+08:54,[LAS] Hamby Rebound (Off:0 Def:1),71,171,4,,204324,,1611661320,2,2,0,1
+08:44,[LAS] Brown Pullup Jump shot: Missed,65,194,2,,1628882,,1611661320,2,2,0,1
+08:41,[LAS] Brink Rebound (Off:1 Def:0),65,194,4,,1642287,,1611661320,2,2,0,1
+08:33,[LAS] Brown Driving Floating Jump Shot: Missed,79,99,2,,1628882,,1611661320,2,2,0,1
+08:29,[LAS] Brown Rebound (Off:1 Def:0),79,99,4,,1628882,,1611661320,2,2,0,1
+08:27,[LAS] Nurse 3pt Shot: Missed,-147,194,2,,1628915,,1611661320,2,2,0,1
+08:24,[DAL] McCowan Rebound (Off:0 Def:1),-147,194,4,,1629479,,1611661321,2,2,0,1
+08:11,[LAS] Brown Foul: Shooting (1 PF) (2 FTA),-113,169,6,1642244,1628882,1629176,1611661320,2,2,0,1
+08:11,[DAL 3-2] Uzun Free Throw 1 of 2 (1 PTS),0,-80,3,,1642244,,1611661321,2,3,1,1
+08:11,[DAL] Uzun Free Throw 2 of 2 Missed,0,-80,3,,1642244,,1611661321,2,3,0,1
+08:08,[LAS] Hamby Rebound (Off:0 Def:2),0,-80,4,,204324,,1611661320,2,3,0,1
+07:52,[LAS 4-3] Brink Driving Finger Roll Layup Shot: Made (2 PTS) Assist: Hamby (1 AST),28,15,1,,1642287,204324,1611661320,4,3,2,1
+07:36,[DAL] Uzun Driving Layup Shot: Missed,10,55,2,,1642244,,1611661321,4,3,0,1
+07:33,[LAS] Hamby Rebound (Off:0 Def:3),10,55,4,,204324,,1611661320,4,3,0,1
+07:28,[LAS 7-3] Brink 3pt Shot: Made (5 PTS) Assist: Nurse (1 AST),-125,202,1,,1642287,1628915,1611661320,7,3,3,1
+07:07,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-31,113,2,,1629481,,1611661321,7,3,0,1
+07:05,[DAL] Ogunbowale Rebound (Off:1 Def:1),-31,113,4,,1629481,,1611661321,7,3,0,1
+07:05,[LAS] Clarendon Foul: Shooting (1 PF) (2 FTA),43,12,6,1629481,203406,1627531,1611661320,7,3,0,1
+07:05,[DAL 4-7] Ogunbowale Free Throw 1 of 2 (1 PTS),0,-80,3,,1629481,,1611661321,7,4,1,1
+07:05,[DAL 5-7] Ogunbowale Free Throw 2 of 2 (2 PTS),0,-80,3,,1629481,,1611661321,7,5,1,1
+06:53,[LAS] Brink Pullup Jump shot: Missed,37,142,2,,1642287,,1611661320,7,5,0,1
+06:49,[DAL] Ogunbowale Rebound (Off:1 Def:2),37,142,4,,1629481,,1611661321,7,5,0,1
+06:43,[DAL] Siegrist 3pt Shot: Missed,-204,124,2,,1641652,,1611661321,7,5,0,1
+06:37,[LAS] Hamby Rebound (Off:0 Def:4),-204,124,4,,204324,,1611661320,7,5,0,1
+06:33,[LAS 9-5] Brink Driving Layup Shot: Made (7 PTS) Assist: Brown (1 AST),-22,27,1,,1642287,1628882,1611661320,9,5,2,1
+06:22,[LAS] Brink Foul: Shooting (1 PF) (2 FTA),8,39,6,1629479,1642287,1629176,1611661320,9,5,0,1
+06:22,[DAL 6-9] McCowan Free Throw 1 of 2 (3 PTS),0,-80,3,,1629479,,1611661321,9,6,1,1
+06:22,[DAL 7-9] McCowan Free Throw 2 of 2 (4 PTS),0,-80,3,,1629479,,1611661321,9,7,1,1
+06:09,[LAS] Brink 3pt Shot: Missed,-229,-2,2,,1642287,,1611661320,9,7,0,1
+06:05,[DAL] McCowan Rebound (Off:0 Def:2),-229,-2,4,,1629479,,1611661321,9,7,0,1
+05:48,[DAL 10-9] Uzun 3pt Shot: Made (4 PTS) Assist: Ogunbowale (1 AST),229,24,1,,1642244,1629481,1611661321,9,10,3,1
+05:34,[LAS 12-10] Brink 3pt Shot: Made (10 PTS) Assist: Brown (2 AST),-117,221,1,,1642287,1628882,1611661320,12,10,3,1
+05:13,[DAL] McCowan Cutting Layup Shot: Missed Block: Brink (1 BLK),35,6,2,1642287,1629479,,1611661321,12,10,0,1
+05:12,[DAL] Billings Rebound (Off:1 Def:0),35,6,4,,1628881,,1611661321,12,10,0,1
+05:11,[DAL 12-12] Billings Putback Layup Shot: Made (2 PTS),7,5,1,,1628881,,1611661321,12,12,2,1
+04:50,[LAS] Brown Driving Finger Roll Layup Shot: Missed Block: McCowan (2 BLK),-26,19,2,1629479,1628882,,1611661320,12,12,0,1
+04:49,[LAS] Team Rebound,-26,19,4,,0,,1611661320,12,12,0,1
+04:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,12,12,0,1
+04:49,Timeout : Official,0,-80,9,,0,,0,12,12,0,1
+04:44,[LAS 14-12] Brink Driving Layup Shot: Made (12 PTS) Assist: Nurse (2 AST),-12,13,1,,1642287,1628915,1611661320,14,12,2,1
+04:29,[DAL] Billings Driving Finger Roll Layup Shot: Missed,-32,-9,2,,1628881,,1611661321,14,12,0,1
+04:26,[DAL] McCowan Rebound (Off:1 Def:2),-32,-9,4,,1629479,,1611661321,14,12,0,1
+04:25,[DAL 14-14] McCowan Putback Layup Shot: Made (6 PTS),-24,2,1,,1629479,,1611661321,14,14,2,1
+04:21,[DAL] Ogunbowale Foul: Shooting (1 PF) (2 FTA),11,8,6,203406,1629481,1627531,1611661321,14,14,0,1
+04:21,[LAS 15-14] Clarendon Free Throw 1 of 2 (3 PTS),0,-80,3,,203406,,1611661320,15,14,1,1
+04:21,[LAS] Nurse Substitution replaced by Yueru,0,-80,8,,1628915,1629574,1611661320,15,14,0,1
+04:21,[LAS] Hamby Substitution replaced by Jackson,0,-80,8,,204324,1642288,1611661320,15,14,0,1
+04:21,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,15,14,0,1
+04:21,[LAS 16-14] Clarendon Free Throw 2 of 2 (4 PTS),0,-80,3,,203406,,1611661320,16,14,1,1
+04:09,[DAL 16-16] Uzun Driving Floating Bank Jump Shot: Made (6 PTS) Assist: Brown (1 AST),-62,59,1,,1642244,1629480,1611661321,16,16,2,1
+03:56,[LAS] Clarendon Jump Shot: Missed,4,144,2,,203406,,1611661320,16,16,0,1
+03:52,[DAL] Brown Rebound (Off:0 Def:1),4,144,4,,1629480,,1611661321,16,16,0,1
+03:46,[DAL] Siegrist Cutting Finger Roll Layup Shot: Missed Block: Brink (2 BLK),50,15,2,1642287,1641652,,1611661321,16,16,0,1
+03:45,[DAL] Team Rebound,50,15,4,,0,,1611661321,16,16,0,1
+03:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,16,0,1
+03:45,[LAS] Brown Substitution replaced by Cooke,0,-80,8,,1628882,1641660,1611661320,16,16,0,1
+03:42,[DAL 18-16] Siegrist Reverse Layup Shot: Made (2 PTS) Assist: Uzun (1 AST),21,11,1,,1641652,1642244,1611661321,16,18,2,1
+03:30,[LAS] Yueru Layup Shot: Missed,-32,6,2,,1629574,,1611661320,16,18,0,1
+03:28,[LAS] Yueru Rebound (Off:1 Def:0),-32,6,4,,1629574,,1611661320,16,18,0,1
+03:27,[LAS] Yueru Putback Layup Shot: Missed,-17,3,2,,1629574,,1611661320,16,18,0,1
+03:24,[DAL] Siegrist Rebound (Off:0 Def:1),-17,3,4,,1641652,,1611661321,16,18,0,1
+03:19,[DAL] Ogunbowale 3pt Shot: Missed,180,172,2,,1629481,,1611661321,16,18,0,1
+03:14,[LAS] Jackson Rebound (Off:0 Def:1),180,172,4,,1642288,,1611661320,16,18,0,1
+03:09,[LAS] Yueru Layup Shot: Missed,18,13,2,,1629574,,1611661320,16,18,0,1
+03:06,[LAS] Yueru Rebound (Off:2 Def:0),18,13,4,,1629574,,1611661320,16,18,0,1
+03:05,[LAS] Yueru Layup Shot: Missed,-8,11,2,,1629574,,1611661320,16,18,0,1
+03:04,[LAS] Cooke Rebound (Off:1 Def:0),-8,11,4,,1641660,,1611661320,16,18,0,1
+03:03,[LAS 18-18] Cooke Putback Layup Shot: Made (2 PTS),-5,3,1,,1641660,,1611661320,18,18,2,1
+02:33,[LAS] Brink Foul: Shooting (2 PF) (2 FTA),-62,26,6,1628881,1642287,1627531,1611661320,18,18,0,1
+02:33,[DAL 19-18] Billings Free Throw 1 of 2 (3 PTS),0,-80,3,,1628881,,1611661321,18,19,1,1
+02:33,[LAS] Brink Substitution replaced by Hamby,0,-80,8,,1642287,204324,1611661320,18,19,0,1
+02:33,[LAS] Clarendon Substitution replaced by McDonald,0,-80,8,,203406,1630462,1611661320,18,19,0,1
+02:33,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,18,19,0,1
+02:33,[DAL] Billings Free Throw 2 of 2 Missed,0,-80,3,,1628881,,1611661321,18,19,0,1
+02:31,[LAS] Yueru Rebound (Off:2 Def:1),0,-80,4,,1629574,,1611661320,18,19,0,1
+02:22,[LAS 20-19] McDonald Pullup Jump shot: Made (2 PTS),49,40,1,,1630462,,1611661320,20,19,2,1
+02:22,[DAL] Sheldon Foul: Shooting (1 PF) (1 FTA),54,24,6,1630462,1642292,1627531,1611661321,20,19,0,1
+02:22,[LAS] McDonald Free Throw 1 of 1 Missed,0,-80,3,,1630462,,1611661320,20,19,0,1
+02:21,[DAL] Billings Rebound (Off:1 Def:1),0,-80,4,,1628881,,1611661321,20,19,0,1
+02:05,[DAL 21-20] Siegrist Turnaround Jump Shot: Made (4 PTS) Assist: Billings (2 AST),-139,87,1,,1641652,1628881,1611661321,20,21,2,1
+01:53,[LAS] Hamby Turnover : Bad Pass (1 TO) Steal:Siegrist (1 ST),-163,220,5,1641652,204324,,1611661320,20,21,0,1
+01:48,[DAL 23-20] Siegrist Running Layup Shot: Made (6 PTS),22,12,1,,1641652,,1611661321,20,23,2,1
+01:27,[LAS 22-23] Hamby Driving Layup Shot: Made (2 PTS) Assist: McDonald (1 AST),-21,9,1,,204324,1630462,1611661320,22,23,2,1
+01:27,[DAL] Billings Foul: Shooting (1 PF) (1 FTA),-15,14,6,204324,1628881,100698,1611661321,22,23,0,1
+01:27,[DAL] Billings Substitution replaced by Soares,0,-80,8,,1628881,1641654,1611661321,22,23,0,1
+01:27,[LAS 23-23] Hamby Free Throw 1 of 1 (3 PTS),0,-80,3,,204324,,1611661320,23,23,1,1
+01:20,[LAS] McDonald Violation:Kicked Ball,0,-80,7,,1630462,,1611661320,23,23,0,1
+01:06,[DAL 25-23] Siegrist Jump Shot: Made (8 PTS) Assist: Brown (2 AST),-39,62,1,,1641652,1629480,1611661321,23,25,2,1
+00:55.2,[LAS] Hamby Driving Layup Shot: Missed Block: Brown (1 BLK),57,17,2,1629480,204324,,1611661320,23,25,0,1
+00:53.0,[LAS] Hamby Rebound (Off:1 Def:4),57,17,4,,204324,,1611661320,23,25,0,1
+00:46.2,[LAS 25-25] Jackson Driving Layup Shot: Made (2 PTS) Assist: Hamby (2 AST),-10,4,1,,1642288,204324,1611661320,25,25,2,1
+00:32.3,[DAL] Sheldon Pullup Jump shot: Missed,-62,139,2,,1642292,,1611661321,25,25,0,1
+00:32.3,[LAS] Jackson Rebound (Off:0 Def:2),-62,139,4,,1642288,,1611661320,25,25,0,1
+00:14.1,[DAL] Soares Foul: Shooting (1 PF) (2 FTA),-32,17,6,1642288,1641654,1627531,1611661321,25,25,0,1
+00:14.1,[LAS 26-25] Jackson Free Throw 1 of 2 (3 PTS),0,-80,3,,1642288,,1611661320,26,25,1,1
+00:14.1,[LAS 27-25] Jackson Free Throw 2 of 2 (4 PTS),0,-80,3,,1642288,,1611661320,27,25,1,1
+00:00.7,[LAS] Cooke Foul: Shooting (1 PF) (2 FTA),-83,99,6,1629481,1641660,1627531,1611661320,27,25,0,1
+00:00.7,[DAL 26-27] Ogunbowale Free Throw 1 of 2 (3 PTS),0,-80,3,,1629481,,1611661321,27,26,1,1
+00:00.7,[DAL 27-27] Ogunbowale Free Throw 2 of 2 (4 PTS),0,-80,3,,1629481,,1611661321,27,27,1,1
+00:00.0,End Period,0,-80,13,,0,,0,27,27,0,1
+10:00,Start Period,0,-80,12,,0,,0,27,27,0,2
+09:46,[DAL] Ogunbowale 3pt Shot: Missed,155,199,2,,1629481,,1611661321,27,27,0,2
+09:41,[LAS] McDonald Rebound (Off:0 Def:1),155,199,4,,1630462,,1611661320,27,27,0,2
+09:34,[LAS] Cooke Jump Shot: Missed,144,27,2,,1641660,,1611661320,27,27,0,2
+09:30,[DAL] Billings Rebound (Off:1 Def:2),144,27,4,,1628881,,1611661321,27,27,0,2
+09:15,[DAL 29-27] McCowan Turnaround Jump Shot: Made (8 PTS),52,88,1,,1629479,,1611661321,27,29,2,2
+08:59,[LAS] McDonald 3pt Shot: Missed,135,216,2,,1630462,,1611661320,27,29,0,2
+08:56,[DAL] Team Rebound,135,216,4,,0,,1611661321,27,29,0,2
+08:56,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,27,29,0,2
+08:34,[DAL] Uzun Jump Shot: Missed,-72,13,2,,1642244,,1611661321,27,29,0,2
+08:31,[LAS] McDonald Rebound (Off:0 Def:2),-72,13,4,,1630462,,1611661320,27,29,0,2
+08:24,[LAS] Hamby Turnover : Traveling (2 TO),-5,44,5,,204324,1627531,1611661320,27,29,0,2
+08:06,[DAL 31-27] Ogunbowale Turnaround Jump Shot: Made (6 PTS) Assist: McCowan (1 AST),125,58,1,,1629481,1629479,1611661321,27,31,2,2
+07:43,[LAS 29-31] Yueru Jump Shot: Made (2 PTS) Assist: Hamby (3 AST),-32,193,1,,1629574,204324,1611661320,29,31,2,2
+07:26,[DAL 33-29] Soares Driving Floating Bank Jump Shot: Made (2 PTS),19,7,1,,1641654,,1611661321,29,33,2,2
+07:20,[LAS] McDonald Turnover : Lost Ball (1 TO) Steal:Uzun (1 ST),190,358,5,1642244,1630462,,1611661320,29,33,0,2
+07:20,[LAS] McDonald Foul: Transition Take (1 PF) (1 FTA),-205,441,6,1628881,1630462,1627531,1611661320,29,33,0,2
+07:20,[DAL 34-29] Billings Free Throw 1 of 1 (4 PTS),0,-80,3,,1628881,,1611661321,29,34,1,2
+07:20,[LAS] McDonald Substitution replaced by Jackson,0,-80,8,,1630462,1642288,1611661320,29,34,0,2
+07:20,[LAS] Yueru Substitution replaced by Brink,0,-80,8,,1629574,1642287,1611661320,29,34,0,2
+07:20,[LAS] Burrell Substitution replaced by Brown,0,-80,8,,1630996,1628882,1611661320,29,34,0,2
+07:12,[DAL 36-29] Billings Driving Layup Shot: Made (6 PTS) Assist: Uzun (2 AST),-12,16,1,,1628881,1642244,1611661321,29,36,2,2
+06:50,[LAS] Cooke Pullup Jump shot: Missed,76,134,2,,1641660,,1611661320,29,36,0,2
+06:49,[LAS] Hamby Rebound (Off:2 Def:4),76,134,4,,204324,,1611661320,29,36,0,2
+06:49,[DAL] Soares Foul: Shooting (2 PF) (2 FTA),63,132,6,204324,1641654,1627531,1611661321,29,36,0,2
+06:49,[LAS 30-36] Hamby Free Throw 1 of 2 (4 PTS),0,-80,3,,204324,,1611661320,30,36,1,2
+06:49,[LAS] Hamby Free Throw 2 of 2 Missed,0,-80,3,,204324,,1611661320,30,36,0,2
+06:45,[DAL] Soares Rebound (Off:0 Def:1),0,-80,4,,1641654,,1611661321,30,36,0,2
+06:36,[DAL] Ogunbowale 3pt Shot: Missed,-155,215,2,,1629481,,1611661321,30,36,0,2
+06:31,[LAS] Brown Rebound (Off:1 Def:1),-155,215,4,,1628882,,1611661320,30,36,0,2
+06:23,[DAL] McCowan Foul: Personal (1 PF),-63,64,6,1642287,1629479,1629176,1611661321,30,36,0,2
+06:13,[LAS] Cooke 3pt Shot: Missed,182,187,2,,1641660,,1611661320,30,36,0,2
+06:09,[DAL] Soares Rebound (Off:0 Def:2),182,187,4,,1641654,,1611661321,30,36,0,2
+05:58,[DAL] Ogunbowale 3pt Shot: Missed,-226,23,2,,1629481,,1611661321,30,36,0,2
+05:55,[DAL] McCowan Rebound (Off:2 Def:2),-226,23,4,,1629479,,1611661321,30,36,0,2
+05:55,[DAL] Ogunbowale Floating Jump shot: Missed Block: Brink (3 BLK),-55,23,2,1642287,1629481,,1611661321,30,36,0,2
+05:53,[DAL] Billings Rebound (Off:2 Def:2),-55,23,4,,1628881,,1611661321,30,36,0,2
+05:47,[DAL 38-30] Ogunbowale Jump Shot: Made (8 PTS) Assist: Billings (3 AST),-185,15,1,,1629481,1628881,1611661321,30,38,2,2
+05:37,[LAS 33-38] Brink 3pt Shot: Made (15 PTS) Assist: Brown (3 AST),-115,205,1,,1642287,1628882,1611661320,33,38,3,2
+05:08,[DAL] Ogunbowale Driving Layup Shot: Missed,34,8,2,,1629481,,1611661321,33,38,0,2
+05:05,[LAS] Hamby Rebound (Off:2 Def:5),34,8,4,,204324,,1611661320,33,38,0,2
+04:56,[LAS 35-38] Cooke Driving Finger Roll Layup Shot: Made (4 PTS),-10,24,1,,1641660,,1611661320,35,38,2,2
+04:45,Timeout : Regular,0,-80,9,,1611661321,,1611661321,35,38,0,2
+04:45,[LAS] Cooke Substitution replaced by Nurse,0,-80,8,,1641660,1628915,1611661320,35,38,0,2
+04:45,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,35,38,0,2
+04:32,[DAL] Uzun Pullup Jump shot: Missed,28,156,2,,1642244,,1611661321,35,38,0,2
+04:30,[LAS] Brown Rebound (Off:1 Def:2),28,156,4,,1628882,,1611661320,35,38,0,2
+04:18,[LAS] Jackson 3pt Shot: Missed,-163,171,2,,1642288,,1611661320,35,38,0,2
+04:14,[LAS] Team Rebound,-163,171,4,,0,,1611661320,35,38,0,2
+04:14,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,38,0,2
+04:14,[DAL] Soares Substitution replaced by Siegrist,0,-80,8,,1641654,1641652,1611661321,35,38,0,2
+04:01,[LAS] Brown 3pt Shot: Missed,112,223,2,,1628882,,1611661320,35,38,0,2
+03:57,[LAS] Jackson Rebound (Off:1 Def:2),112,223,4,,1642288,,1611661320,35,38,0,2
+03:55,[LAS] Hamby Layup Shot: Missed,-17,3,2,,204324,,1611661320,35,38,0,2
+03:55,[DAL] Billings Rebound (Off:2 Def:3),-17,3,4,,1628881,,1611661321,35,38,0,2
+03:55,[LAS] Jackson Foul: Personal (1 PF),-128,817,6,1628881,1642288,1627531,1611661320,35,38,0,2
+03:46,[LAS] Brink Foul: Personal (3 PF),68,276,6,1628881,1642287,100698,1611661320,35,38,0,2
+03:46,[LAS] Brink Substitution replaced by Yueru,0,-80,8,,1642287,1629574,1611661320,35,38,0,2
+03:37,[DAL 40-35] Ogunbowale Pullup Jump shot: Made (10 PTS) Assist: Uzun (3 AST),50,204,1,,1629481,1642244,1611661321,35,40,2,2
+03:21,[LAS] Brown Pullup Jump shot: Missed,-45,198,2,,1628882,,1611661320,35,40,0,2
+03:18,[DAL] Billings Rebound (Off:2 Def:4),-45,198,4,,1628881,,1611661321,35,40,0,2
+03:13,[DAL] Ogunbowale 3pt Shot: Missed,-45,241,2,,1629481,,1611661321,35,40,0,2
+03:09,[DAL] Billings Rebound (Off:3 Def:4),-45,241,4,,1628881,,1611661321,35,40,0,2
+03:09,[LAS] Yueru Foul: Shooting (1 PF) (2 FTA),29,28,6,1628881,1629574,1627531,1611661320,35,40,0,2
+03:09,[DAL] Billings Free Throw 1 of 2 Missed,0,-80,3,,1628881,,1611661321,35,40,0,2
+03:09,[DAL] Team Rebound,0,-80,4,,0,,1611661321,35,40,0,2
+03:09,[DAL] Billings Free Throw 2 of 2 Missed,0,-80,3,,1628881,,1611661321,35,40,0,2
+03:06,[LAS] Hamby Rebound (Off:2 Def:6),0,-80,4,,204324,,1611661320,35,40,0,2
+03:01,[LAS 37-40] Brown Running Finger Roll Layup Shot: Made (2 PTS),-13,19,1,,1628882,,1611661320,37,40,2,2
+02:52,[DAL 42-37] Brown Layup Shot: Made (2 PTS) Assist: Ogunbowale (2 AST),-20,11,1,,1629480,1629481,1611661321,37,42,2,2
+02:52,Timeout : Regular,0,-80,9,,1611661320,,1611661320,37,42,0,2
+02:52,[LAS] Miller Technical (1 FTA),0,-80,6,,1627636,1627531,1611661320,37,42,0,2
+02:52,[DAL 43-37] Ogunbowale Free Throw Technical (11 PTS),0,-80,3,,1629481,,1611661321,37,43,1,2
+02:41,[LAS] Yueru Layup Shot: Missed Block: Brown (2 BLK),46,16,2,1629480,1629574,,1611661320,37,43,0,2
+02:41,[LAS] Team Rebound,46,16,4,,0,,1611661320,37,43,0,2
+02:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,37,43,0,2
+02:32,[DAL] Brown Foul: Personal (1 PF),72,47,6,1629574,1629480,100698,1611661321,37,43,0,2
+02:24,[DAL] Uzun Foul: Shooting (1 PF) (2 FTA),-96,27,6,1628882,1642244,1627531,1611661321,37,43,0,2
+02:24,[LAS 38-43] Brown Free Throw 1 of 2 (3 PTS),0,-80,3,,1628882,,1611661320,38,43,1,2
+02:24,[LAS 39-43] Brown Free Throw 2 of 2 (4 PTS),0,-80,3,,1628882,,1611661320,39,43,1,2
+02:04,[DAL 45-39] Siegrist Driving Layup Shot: Made (10 PTS) Assist: Ogunbowale (3 AST),16,15,1,,1641652,1629481,1611661321,39,45,2,2
+01:51,[LAS] Brown Pullup Jump shot: Missed,-74,83,2,,1628882,,1611661320,39,45,0,2
+01:50,[LAS] Team Rebound,-74,83,4,,0,,1611661320,39,45,0,2
+01:50,Jump Ball Hamby vs Brown,0,-80,10,1629480,204324,,1611661320,39,45,0,2
+01:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,45,0,2
+01:34,[LAS] Nurse Pullup Jump shot: Missed,46,186,2,,1628915,,1611661320,39,45,0,2
+01:31,[DAL] Ogunbowale Rebound (Off:1 Def:3),46,186,4,,1629481,,1611661321,39,45,0,2
+01:28,[DAL] Ogunbowale Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-89,414,5,,1629481,,1611661321,39,45,0,2
+01:16,[LAS] Brown Pullup Jump shot: Missed,21,134,2,,1628882,,1611661320,39,45,0,2
+01:06,[DAL] Brown Rebound (Off:0 Def:2),21,134,4,,1629480,,1611661321,39,45,0,2
+01:00,[DAL] Ogunbowale Driving Layup Shot: Missed,8,5,2,,1629481,,1611661321,39,45,0,2
+00:58.7,[LAS] Yueru Rebound (Off:2 Def:2),8,5,4,,1629574,,1611661320,39,45,0,2
+00:55.4,[LAS] Brown 3pt Shot: Missed,187,173,2,,1628882,,1611661320,39,45,0,2
+00:55.3,[LAS] Yueru Rebound (Off:3 Def:2),187,173,4,,1629574,,1611661320,39,45,0,2
+00:55.3,[LAS 41-45] Yueru Putback Layup Shot: Made (4 PTS),0,-5,1,,1629574,,1611661320,41,45,2,2
+00:55.3,[DAL] Brown Foul: Shooting (2 PF) (1 FTA),38,11,6,1629574,1629480,1627531,1611661321,41,45,0,2
+00:55.3,[LAS] Brown Substitution replaced by McDonald,0,-80,8,,1628882,1630462,1611661320,41,45,0,2
+00:55.3,[LAS 42-45] Yueru Free Throw 1 of 1 (5 PTS),0,-80,3,,1629574,,1611661320,42,45,1,2
+00:41.2,[DAL 47-42] Ogunbowale Cutting Layup Shot: Made (13 PTS) Assist: Brown (3 AST),-24,10,1,,1629481,1629480,1611661321,42,47,2,2
+00:32.2,[LAS] Nurse Driving Layup Shot: Missed,27,22,2,,1628915,,1611661320,42,47,0,2
+00:28.8,[LAS] Yueru Rebound (Off:4 Def:2),27,22,4,,1629574,,1611661320,42,47,0,2
+00:28.1,[LAS] Yueru Putback Layup Shot: Missed,32,16,2,,1629574,,1611661320,42,47,0,2
+00:26.1,[DAL] Siegrist Rebound (Off:0 Def:2),32,16,4,,1641652,,1611661321,42,47,0,2
+00:21.0,[LAS] Yueru Foul: Personal (2 PF) (2 FTA),-55,67,6,1629480,1629574,1627531,1611661320,42,47,0,2
+00:21.0,[DAL 48-42] Brown Free Throw 1 of 2 (3 PTS),0,-80,3,,1629480,,1611661321,42,48,1,2
+00:21.0,[DAL 49-42] Brown Free Throw 2 of 2 (4 PTS),0,-80,3,,1629480,,1611661321,42,49,1,2
+00:06.9,[LAS] McDonald Driving Layup Shot: Missed,18,13,2,,1630462,,1611661320,42,49,0,2
+00:05.6,[DAL] Team Rebound,18,13,4,,0,,1611661321,42,49,0,2
+00:05.6,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,42,49,0,2
+00:01.5,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-26,83,2,,1629481,,1611661321,42,49,0,2
+00:01.0,[DAL] Team Rebound,-26,83,4,,0,,1611661321,42,49,0,2
+00:00.0,End Period,0,-80,13,,0,,0,42,49,0,2
+10:00,Start Period,0,-80,12,,0,,0,42,49,0,3
+09:46,[DAL] Billings Jump Shot: Missed,99,158,2,,1628881,,1611661321,42,49,0,3
+09:39,[LAS] Brink Rebound (Off:1 Def:1),99,158,4,,1642287,,1611661320,42,49,0,3
+09:25,[LAS 45-49] Brown 3pt Shot: Made (7 PTS) Assist: Brink (1 AST),112,242,1,,1628882,1642287,1611661320,45,49,3,3
+09:07,[DAL] Ogunbowale Fadeaway Jump Shot: Missed,121,-17,2,,1629481,,1611661321,45,49,0,3
+09:04,[LAS] Hamby Rebound (Off:2 Def:7),121,-17,4,,204324,,1611661320,45,49,0,3
+09:01,[LAS] Hamby Running Layup Shot: Missed,35,3,2,,204324,,1611661320,45,49,0,3
+09:00,[DAL] Siegrist Rebound (Off:0 Def:3),35,3,4,,1641652,,1611661321,45,49,0,3
+08:40,[DAL] Siegrist 3pt Shot: Missed,-104,224,2,,1641652,,1611661321,45,49,0,3
+08:35,[DAL] Billings Rebound (Off:4 Def:4),-104,224,4,,1628881,,1611661321,45,49,0,3
+08:32,[DAL] Ogunbowale 3pt Shot: Missed,199,162,2,,1629481,,1611661321,45,49,0,3
+08:28,[LAS] Hamby Rebound (Off:2 Def:8),199,162,4,,204324,,1611661320,45,49,0,3
+08:18,[LAS] Brink Turnover : Lost Ball (1 TO) Steal:Billings (1 ST),128,53,5,1628881,1642287,,1611661320,45,49,0,3
+08:07,[DAL] McCowan Foul: Offensive Charge (2 PF),-1,56,6,1628882,1629479,100698,1611661321,45,49,0,3
+08:07,[DAL] McCowan Turnover : Offensive Foul Turnover (1 TO),-1,56,5,,1629479,100698,1611661321,45,49,0,3
+07:48,[LAS] Brink Turnover : Bad Pass (2 TO) Steal:McCowan (1 ST),75,27,5,1629479,1642287,,1611661320,45,49,0,3
+07:33,[DAL] Billings Jump Shot: Missed,-164,16,2,,1628881,,1611661321,45,49,0,3
+07:28,[DAL] Siegrist Rebound (Off:1 Def:3),-164,16,4,,1641652,,1611661321,45,49,0,3
+07:18,[DAL 51-45] Billings Cutting Finger Roll Layup Shot: Made (8 PTS) Assist: Uzun (4 AST),33,47,1,,1628881,1642244,1611661321,45,51,2,3
+07:15,[LAS] Jackson Turnover : Step Out of Bounds Turnover (1 TO),-230,139,5,,1642288,100698,1611661320,45,51,0,3
+07:06,[DAL 53-45] Uzun Pullup Jump shot: Made (8 PTS),138,97,1,,1642244,,1611661321,45,53,2,3
+06:42,[LAS 47-53] Hamby Reverse Layup Shot: Made (6 PTS) Assist: Nurse (3 AST),-17,11,1,,204324,1628915,1611661320,47,53,2,3
+06:30,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,-56,9,2,,1629481,,1611661321,47,53,0,3
+06:27,[LAS] Hamby Rebound (Off:2 Def:9),-56,9,4,,204324,,1611661320,47,53,0,3
+06:23,[LAS] Brink 3pt Shot: Missed,164,167,2,,1642287,,1611661320,47,53,0,3
+06:16,[DAL] Uzun Rebound (Off:0 Def:1),164,167,4,,1642244,,1611661321,47,53,0,3
+06:02,[LAS] Jackson Foul: Personal (2 PF),42,40,6,1641652,1642288,100698,1611661320,47,53,0,3
+05:52,[DAL 55-47] McCowan Reverse Layup Shot: Made (10 PTS) Assist: Uzun (5 AST),-5,5,1,,1629479,1642244,1611661321,47,55,2,3
+05:30,[LAS] Nurse 3pt Shot: Missed,-143,198,2,,1628915,,1611661320,47,55,0,3
+05:28,[DAL] McCowan Rebound (Off:2 Def:3),-143,198,4,,1629479,,1611661321,47,55,0,3
+05:28,[LAS] Brink Foul: Shooting (4 PF) (2 FTA),-125,0,6,1628881,1642287,1627531,1611661320,47,55,0,3
+05:28,[DAL 56-47] Billings Free Throw 1 of 2 (9 PTS),0,-80,3,,1628881,,1611661321,47,56,1,3
+05:28,[DAL 57-47] Billings Free Throw 2 of 2 (10 PTS),0,-80,3,,1628881,,1611661321,47,57,1,3
+05:17,[DAL] Uzun Foul: Personal (2 PF),56,246,6,1628882,1642244,100698,1611661321,47,57,0,3
+05:17,[DAL] Billings Substitution replaced by Soares,0,-80,8,,1628881,1641654,1611661321,47,57,0,3
+05:04,[DAL] McCowan Foul: Shooting (3 PF) (2 FTA),115,85,6,1642287,1629479,1627531,1611661321,47,57,0,3
+05:04,[LAS 48-57] Brink Free Throw 1 of 2 (16 PTS),0,-80,3,,1642287,,1611661320,48,57,1,3
+05:04,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,48,57,0,3
+05:04,[LAS 49-57] Brink Free Throw 2 of 2 (17 PTS),0,-80,3,,1642287,,1611661320,49,57,1,3
+04:48,[DAL 59-49] Brown Driving Layup Shot: Made (6 PTS),-32,6,1,,1629480,,1611661321,49,59,2,3
+04:35,[LAS 51-59] Hamby Driving Layup Shot: Made (8 PTS) Assist: Brown (4 AST),21,7,1,,204324,1628882,1611661320,51,59,2,3
+04:35,[DAL] Soares Foul: Shooting (3 PF) (1 FTA),17,6,6,204324,1641654,100698,1611661321,51,59,0,3
+04:35,Timeout : Official,0,-80,9,,0,,0,51,59,0,3
+04:35,[LAS 52-59] Hamby Free Throw 1 of 1 (9 PTS),0,-80,3,,204324,,1611661320,52,59,1,3
+04:11,[DAL] Ogunbowale Step Back Jump shot: Missed,-197,28,2,,1629481,,1611661321,52,59,0,3
+04:09,[DAL] Soares Rebound (Off:1 Def:2),-197,28,4,,1641654,,1611661321,52,59,0,3
+04:07,[DAL 61-52] Ogunbowale Cutting Layup Shot: Made (15 PTS) Assist: Siegrist (1 AST),-26,-3,1,,1629481,1641652,1611661321,52,61,2,3
+03:52,[LAS] Brown Driving Layup Shot: Missed,-37,-4,2,,1628882,,1611661320,52,61,0,3
+03:49,[DAL] Soares Rebound (Off:1 Def:3),-37,-4,4,,1641654,,1611661321,52,61,0,3
+03:38,[DAL] Soares Turnover : Out of Bounds - Bad Pass Turnover (1 TO),93,166,5,,1641654,100698,1611661321,52,61,0,3
+03:17,[LAS] Brink Driving Hook Shot: Missed,-10,43,2,,1642287,,1611661320,52,61,0,3
+03:15,[DAL] Soares Rebound (Off:1 Def:4),-10,43,4,,1641654,,1611661321,52,61,0,3
+03:09,[DAL 64-52] Uzun 3pt Shot: Made (11 PTS) Assist: Ogunbowale (4 AST),-121,219,1,,1642244,1629481,1611661321,52,64,3,3
+03:07,Timeout : Regular,0,-80,9,,1611661320,,1611661320,52,64,0,3
+03:07,[LAS] Nurse Substitution replaced by McDonald,0,-80,8,,1628915,1630462,1611661320,52,64,0,3
+03:07,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,52,64,0,3
+02:52,[LAS 54-64] Brown Jump Shot: Made (9 PTS) Assist: Hamby (4 AST),-111,119,1,,1628882,204324,1611661320,54,64,2,3
+02:35,[DAL 66-54] Ogunbowale Step Back Jump shot: Made (17 PTS),-36,105,1,,1629481,,1611661321,54,66,2,3
+02:25,[LAS 56-66] McDonald Driving Layup Shot: Made (4 PTS),-24,15,1,,1630462,,1611661320,56,66,2,3
+02:25,Timeout : Regular,0,-80,9,,1611661321,,1611661321,56,66,0,3
+02:25,[DAL] Soares Substitution replaced by Billings,0,-80,8,,1641654,1628881,1611661321,56,66,0,3
+02:01,[DAL] Ogunbowale 3pt Shot: Missed,-230,13,2,,1629481,,1611661321,56,66,0,3
+02:00,[DAL] Uzun Rebound (Off:1 Def:1),-230,13,4,,1642244,,1611661321,56,66,0,3
+02:00,[DAL] Team Turnover : Shot Clock Turnover,50,33,5,,0,100698,1611661321,56,66,0,3
+01:46,[LAS 58-66] Hamby Layup Shot: Made (11 PTS) Assist: Brink (2 AST),17,3,1,,204324,1642287,1611661320,58,66,2,3
+01:27,[DAL 68-58] McCowan Turnaround Jump Shot: Made (12 PTS) Assist: Uzun (6 AST),65,124,1,,1629479,1642244,1611661321,58,68,2,3
+01:13,[LAS 60-68] Brink Layup Shot: Made (19 PTS) Assist: Brown (5 AST),7,13,1,,1642287,1628882,1611661320,60,68,2,3
+00:51.0,[DAL 70-60] Billings Jump Shot: Made (12 PTS) Assist: Uzun (7 AST),-19,178,1,,1628881,1642244,1611661321,60,70,2,3
+00:34.5,[DAL] McCowan Foul: Shooting (4 PF) (2 FTA),-49,53,6,204324,1629479,1627531,1611661321,60,70,0,3
+00:34.5,[LAS] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661320,60,70,0,3
+00:34.5,[LAS] Team Rebound,0,-80,4,,0,,1611661320,60,70,0,3
+00:34.5,[LAS] Brown Substitution replaced by Cooke,0,-80,8,,1628882,1641660,1611661320,60,70,0,3
+00:34.5,[DAL] Ogunbowale Substitution replaced by Sheldon,0,-80,8,,1629481,1642292,1611661321,60,70,0,3
+00:34.5,[LAS] Brink Substitution replaced by Yueru,0,-80,8,,1642287,1629574,1611661320,60,70,0,3
+00:34.5,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,60,70,0,3
+00:34.5,[LAS 61-70] Hamby Free Throw 2 of 2 (12 PTS),0,-80,3,,204324,,1611661320,61,70,1,3
+00:19.2,[DAL] Uzun Turnaround Jump Shot: Missed,48,37,2,,1642244,,1611661321,61,70,0,3
+00:14.7,[LAS] Yueru Rebound (Off:4 Def:3),48,37,4,,1629574,,1611661320,61,70,0,3
+00:11.0,[LAS] Hamby Driving Layup Shot: Missed Block: Siegrist (1 BLK),11,15,2,1641652,204324,,1611661320,61,70,0,3
+00:11.0,[LAS] Team Rebound,11,15,4,,0,,1611661320,61,70,0,3
+00:11.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,70,0,3
+00:03.3,[LAS 63-70] Hamby Driving Floating Jump Shot: Made (14 PTS),-1,50,1,,204324,,1611661320,63,70,2,3
+00:00.0,End Period,0,-80,13,,0,,0,63,70,0,3
+10:00,Start Period,0,-80,12,,0,,0,63,70,0,4
+09:39,[LAS] McDonald 3pt Shot: Missed,222,27,2,,1630462,,1611661320,63,70,0,4
+09:33,[DAL] Billings Rebound (Off:4 Def:5),222,27,4,,1628881,,1611661321,63,70,0,4
+09:20,[DAL] Brown Hook Shot: Missed,11,21,2,,1629480,,1611661321,63,70,0,4
+09:17,[LAS] Yueru Rebound (Off:4 Def:4),11,21,4,,1629574,,1611661320,63,70,0,4
+09:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,70,0,4
+09:03,[LAS] Cooke Driving Layup Shot: Missed,-22,15,2,,1641660,,1611661320,63,70,0,4
+08:59,[DAL] Billings Rebound (Off:4 Def:6),-22,15,4,,1628881,,1611661321,63,70,0,4
+08:43,[DAL] Siegrist Driving Floating Jump Shot: Missed,66,10,2,,1641652,,1611661321,63,70,0,4
+08:39,[LAS] Yueru Rebound (Off:4 Def:5),66,10,4,,1629574,,1611661320,63,70,0,4
+08:33,[LAS] McDonald Driving Floating Jump Shot: Missed,-13,32,2,,1630462,,1611661320,63,70,0,4
+08:29,[DAL] Uzun Rebound (Off:1 Def:2),-13,32,4,,1642244,,1611661321,63,70,0,4
+08:23,[DAL 72-63] Siegrist Cutting Layup Shot: Made (12 PTS) Assist: Uzun (8 AST),-15,5,1,,1641652,1642244,1611661321,63,72,2,4
+08:07,[LAS 65-72] McDonald Driving Layup Shot: Made (6 PTS),-50,28,1,,1630462,,1611661320,65,72,2,4
+07:56,[LAS] Yueru Foul: Personal (3 PF),-55,56,6,1629480,1629574,1627531,1611661320,65,72,0,4
+07:56,[LAS] Jackson Substitution replaced by Talbot,0,-80,8,,1642288,203855,1611661320,65,72,0,4
+07:56,[DAL] Sheldon Substitution replaced by Ogunbowale,0,-80,8,,1642292,1629481,1611661321,65,72,0,4
+07:56,[DAL] Brown Substitution replaced by McCowan,0,-80,8,,1629480,1629479,1611661321,65,72,0,4
+07:51,[DAL] Uzun Driving Layup Shot: Missed Block: McDonald (1 BLK),48,26,2,1630462,1642244,,1611661321,65,72,0,4
+07:51,[DAL] Team Rebound,48,26,4,,0,,1611661321,65,72,0,4
+07:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,65,72,0,4
+07:44,[DAL] McCowan Turnaround Jump Shot: Missed,-47,85,2,,1629479,,1611661321,65,72,0,4
+07:41,[LAS] Hamby Rebound (Off:2 Def:10),-47,85,4,,204324,,1611661320,65,72,0,4
+07:37,[LAS 67-72] Yueru Layup Shot: Made (7 PTS) Assist: Talbot (1 AST),-21,16,1,,1629574,203855,1611661320,67,72,2,4
+07:37,Timeout : Regular,0,-80,9,,1611661321,,1611661321,67,72,0,4
+07:23,[DAL] McCowan Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-28,158,5,,1629479,100698,1611661321,67,72,0,4
+07:05,[LAS 69-72] Hamby Cutting Layup Shot: Made (16 PTS) Assist: Talbot (2 AST),-32,23,1,,204324,203855,1611661320,69,72,2,4
+06:49,[DAL] Ogunbowale Fadeaway Jump Shot: Missed,44,26,2,,1629481,,1611661321,69,72,0,4
+06:45,[LAS] Talbot Rebound (Off:0 Def:1),44,26,4,,203855,,1611661320,69,72,0,4
+06:42,[LAS] McDonald 3pt Shot: Missed,200,125,2,,1630462,,1611661320,69,72,0,4
+06:38,[DAL] Uzun Rebound (Off:1 Def:3),200,125,4,,1642244,,1611661321,69,72,0,4
+06:18,[DAL] Ogunbowale 3pt Shot: Missed,-8,250,2,,1629481,,1611661321,69,72,0,4
+06:17,[DAL] Billings Rebound (Off:5 Def:6),-8,250,4,,1628881,,1611661321,69,72,0,4
+06:13,[DAL] Billings Putback Layup Shot: Missed,-4,9,2,,1628881,,1611661321,69,72,0,4
+06:13,[LAS] McDonald Rebound (Off:0 Def:3),-4,9,4,,1630462,,1611661320,69,72,0,4
+06:08,[DAL] Billings Foul: Shooting (2 PF) (2 FTA),27,6,6,204324,1628881,1627531,1611661321,69,72,0,4
+06:08,[LAS] Hamby Free Throw 1 of 2 Missed,0,-80,3,,204324,,1611661320,69,72,0,4
+06:08,[LAS] Team Rebound,0,-80,4,,0,,1611661320,69,72,0,4
+06:08,[DAL] Uzun Substitution replaced by Sheldon,0,-80,8,,1642244,1642292,1611661321,69,72,0,4
+06:08,[LAS 70-72] Hamby Free Throw 2 of 2 (17 PTS),0,-80,3,,204324,,1611661320,70,72,1,4
+05:44,[DAL] Siegrist Turnaround Jump Shot: Missed,51,84,2,,1641652,,1611661321,70,72,0,4
+05:42,[DAL] Billings Rebound (Off:6 Def:6),51,84,4,,1628881,,1611661321,70,72,0,4
+05:42,[DAL 74-70] Billings Putback Layup Shot: Made (14 PTS),1,15,1,,1628881,,1611661321,70,74,2,4
+05:25,[LAS 73-74] McDonald 3pt Shot: Made (9 PTS) Assist: Cooke (1 AST),-191,158,1,,1630462,1641660,1611661320,73,74,3,4
+05:06,[DAL] Ogunbowale Fadeaway Jump Shot: Missed,-63,105,2,,1629481,,1611661321,73,74,0,4
+05:03,[LAS] Hamby Rebound (Off:2 Def:11),-63,105,4,,204324,,1611661320,73,74,0,4
+04:58,[LAS] Hamby Foul: Offensive (1 PF),119,199,6,1629481,204324,1627531,1611661320,73,74,0,4
+04:58,[LAS] Hamby Turnover : Offensive Foul Turnover (3 TO),119,199,5,,204324,1627531,1611661320,73,74,0,4
+04:40,[DAL 76-73] Ogunbowale Pullup Jump shot: Made (19 PTS) Assist: Billings (4 AST),92,172,1,,1629481,1628881,1611661321,73,76,2,4
+04:26,[LAS 75-76] Yueru Layup Shot: Made (9 PTS) Assist: Talbot (3 AST),-26,15,1,,1629574,203855,1611661320,75,76,2,4
+04:26,[DAL] McCowan Foul: Shooting (5 PF) (1 FTA),-23,12,6,1629574,1629479,100698,1611661321,75,76,0,4
+04:26,[LAS] Cooke Substitution replaced by Brown,0,-80,8,,1641660,1628882,1611661320,75,76,0,4
+04:26,[DAL] McCowan Substitution replaced by Brown,0,-80,8,,1629479,1629480,1611661321,75,76,0,4
+04:26,[LAS 76-76] Yueru Free Throw 1 of 1 (10 PTS),0,-80,3,,1629574,,1611661320,76,76,1,4
+04:15,[DAL] Ogunbowale Driving Floating Jump Shot: Missed,51,105,2,,1629481,,1611661321,76,76,0,4
+04:08,[LAS] Brown Rebound (Off:1 Def:3),51,105,4,,1628882,,1611661320,76,76,0,4
+04:01,[LAS 78-76] Hamby Layup Shot: Made (19 PTS) Assist: Brown (6 AST),19,1,1,,204324,1628882,1611661320,78,76,2,4
+03:58,Timeout : Regular,0,-80,9,,1611661321,,1611661321,78,76,0,4
+03:46,[DAL] Billings Driving Layup Shot: Missed,18,5,2,,1628881,,1611661321,78,76,0,4
+03:40,[LAS] Talbot Rebound (Off:0 Def:2),18,5,4,,203855,,1611661320,78,76,0,4
+03:36,[LAS] Talbot Turnover : Bad Pass (1 TO) Steal:Siegrist (2 ST),29,195,5,1641652,203855,,1611661320,78,76,0,4
+03:29,[DAL] Ogunbowale Pullup Jump shot: Missed,-22,108,2,,1629481,,1611661321,78,76,0,4
+03:27,[DAL] Siegrist Rebound (Off:2 Def:3),-22,108,4,,1641652,,1611661321,78,76,0,4
+03:27,[DAL] Siegrist Putback Layup Shot: Missed,33,28,2,,1641652,,1611661321,78,76,0,4
+03:27,[DAL] Team Rebound,33,28,4,,0,,1611661321,78,76,0,4
+03:27,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,78,76,0,4
+03:27,[DAL] Sheldon Substitution replaced by Uzun,0,-80,8,,1642292,1642244,1611661321,78,76,0,4
+03:22,[DAL] Ogunbowale Turnover : Bad Pass (2 TO) Steal:Talbot (1 ST),-121,10,5,203855,1629481,,1611661321,78,76,0,4
+03:14,[LAS] Hamby Driving Layup Shot: Missed,28,1,2,,204324,,1611661320,78,76,0,4
+03:12,[DAL] Brown Rebound (Off:0 Def:3),28,1,4,,1629480,,1611661321,78,76,0,4
+03:04,[DAL] Ogunbowale Driving Layup Shot: Missed,-13,16,2,,1629481,,1611661321,78,76,0,4
+03:04,[DAL] Siegrist Rebound (Off:3 Def:3),-13,16,4,,1641652,,1611661321,78,76,0,4
+03:04,[LAS] Yueru Foul: Shooting (4 PF) (2 FTA),-21,14,6,1641652,1629574,100698,1611661320,78,76,0,4
+03:04,[DAL] Siegrist Free Throw 1 of 2 Missed,0,-80,3,,1641652,,1611661321,78,76,0,4
+03:04,[DAL] Team Rebound,0,-80,4,,0,,1611661321,78,76,0,4
+03:04,[LAS] Yueru Substitution replaced by Brink,0,-80,8,,1629574,1642287,1611661320,78,76,0,4
+03:04,[DAL 77-78] Siegrist Free Throw 2 of 2 (13 PTS),0,-80,3,,1641652,,1611661321,78,77,1,4
+02:46,[LAS] McDonald Fadeaway Jump Shot: Missed,-77,130,2,,1630462,,1611661320,78,77,0,4
+02:43,[DAL] Brown Rebound (Off:0 Def:4),-77,130,4,,1629480,,1611661321,78,77,0,4
+02:32,[DAL 79-78] Billings Driving Floating Bank Jump Shot: Made (16 PTS) Assist: Ogunbowale (5 AST),-44,11,1,,1628881,1629481,1611661321,78,79,2,4
+02:20,[LAS] Brown 3pt Shot: Missed,136,205,2,,1628882,,1611661320,78,79,0,4
+02:20,[DAL] Ogunbowale Rebound (Off:1 Def:4),136,205,4,,1629481,,1611661321,78,79,0,4
+02:04,[LAS] Brink Foul: Shooting (5 PF) (2 FTA),-50,26,6,1628881,1642287,1627531,1611661320,78,79,0,4
+02:04,[DAL 80-78] Billings Free Throw 1 of 2 (17 PTS),0,-80,3,,1628881,,1611661321,78,80,1,4
+02:04,[DAL 81-78] Billings Free Throw 2 of 2 (18 PTS),0,-80,3,,1628881,,1611661321,78,81,1,4
+01:50,[DAL] Brown Foul: Shooting (3 PF) (2 FTA),-4,8,6,1642287,1629480,1627531,1611661321,78,81,0,4
+01:50,[LAS 79-81] Brink Free Throw 1 of 2 (20 PTS),0,-80,3,,1642287,,1611661320,79,81,1,4
+01:50,[LAS 80-81] Brink Free Throw 2 of 2 (21 PTS),0,-80,3,,1642287,,1611661320,80,81,1,4
+01:30,[DAL] Brown Layup Shot: Missed,-16,25,2,,1629480,,1611661321,80,81,0,4
+01:28,[DAL] Siegrist Rebound (Off:4 Def:3),-16,25,4,,1641652,,1611661321,80,81,0,4
+01:17,[DAL] Brown Turnover : 3 Second Violation (1 TO),-22,14,5,,1629480,1627531,1611661321,80,81,0,4
+01:00,[LAS] Talbot 3pt Shot: Missed,185,152,2,,203855,,1611661320,80,81,0,4
+00:58.1,[DAL] Team Rebound,185,152,4,,0,,1611661321,80,81,0,4
+00:58.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,81,0,4
+00:37.2,[DAL] Ogunbowale Pullup Jump shot: Missed,-55,108,2,,1629481,,1611661321,80,81,0,4
+00:36.1,[DAL] Siegrist Rebound (Off:5 Def:3),-55,108,4,,1641652,,1611661321,80,81,0,4
+00:36.1,[DAL 83-80] Siegrist Reverse Layup Shot: Made (15 PTS),-7,5,1,,1641652,,1611661321,80,83,2,4
+00:36.1,Timeout : Regular,0,-80,9,,1611661320,,1611661320,80,83,0,4
+00:36.1,[LAS] Talbot Substitution replaced by Jackson,0,-80,8,,203855,1642288,1611661320,80,83,0,4
+00:21.3,[LAS] Brink 3pt Shot: Missed,-232,3,2,,1642287,,1611661320,80,83,0,4
+00:21.3,[DAL] Uzun Rebound (Off:1 Def:4),-232,3,4,,1642244,,1611661321,80,83,0,4
+00:17.3,[LAS] Jackson Foul: Personal Take (3 PF),-139,579,6,1629481,1642288,100698,1611661320,80,83,0,4
+00:16.1,[LAS] Brown Foul: Personal Take (2 PF) (2 FTA),123,723,6,1629481,1628882,100698,1611661320,80,83,0,4
+00:16.1,[DAL] Ogunbowale Free Throw 1 of 2 Missed,0,-80,3,,1629481,,1611661321,80,83,0,4
+00:16.1,[DAL] Team Rebound,0,-80,4,,0,,1611661321,80,83,0,4
+00:16.1,[DAL 84-80] Ogunbowale Free Throw 2 of 2 (20 PTS),0,-80,3,,1629481,,1611661321,80,84,1,4
+00:16.1,Timeout : Regular,0,-80,9,,1611661320,,1611661320,80,84,0,4
+00:08.0,[LAS] Hamby 3pt Shot: Missed Block: Ogunbowale (1 BLK),-239,-9,2,1629481,204324,,1611661320,80,84,0,4
+00:08.0,[LAS] Team Rebound,-239,-9,4,,0,,1611661320,80,84,0,4
+00:08.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,84,0,4
+00:01.5,[LAS 83-84] Brown 3pt Shot: Made (12 PTS) Assist: Brink (3 AST),49,243,1,,1628882,1642287,1611661320,83,84,3,4
+00:00.0,End Period,0,-80,13,,0,,0,83,84,0,4

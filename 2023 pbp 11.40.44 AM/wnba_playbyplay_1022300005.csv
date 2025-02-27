@@ -1,0 +1,407 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:55,Jump Ball Wilson vs Magbegor (Parker gains possession),0,-80,10,1629496,1628932,201496,1611661319,0,0,0,1
+09:42,[LVA] Wilson Step Back Jump shot: Missed,-33,79,2,,1628932,,1611661319,0,0,0,1
+09:36,[SEA] Russell Rebound (Off:0 Def:1),-33,79,4,,1628920,,1611661328,0,0,0,1
+09:26,[SEA] Loyd 3pt Shot: Missed,74,233,2,,204319,,1611661328,0,0,0,1
+09:22,[LVA] Wilson Rebound (Off:0 Def:1),74,233,4,,1628932,,1611661319,0,0,0,1
+09:13,[LVA] Parker 3pt Shot: Missed,123,220,2,,201496,,1611661319,0,0,0,1
+09:09,[SEA] Turner Rebound (Off:0 Def:1),123,220,4,,203389,,1611661328,0,0,0,1
+09:04,[SEA 2-0] Turner Pullup Jump shot: Made (2 PTS),-83,167,1,,203389,,1611661328,2,0,2,1
+08:42,[LVA 2-2] Plum Driving Layup Shot: Made (2 PTS) Assist: Parker (1 AST),22,19,1,,1628276,201496,1611661319,2,2,2,1
+08:29,[SEA 4-2] Russell Jump Shot: Made (2 PTS) Assist: Loyd (1 AST),-73,61,1,,1628920,204319,1611661328,4,2,2,1
+08:15,[LVA] Gray Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),-77,26,5,203389,203833,,1611661319,4,2,0,1
+08:12,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,2,0,1
+08:08,[SEA] Nurse 3pt Shot: Missed,155,190,2,,1628915,,1611661328,4,2,0,1
+08:05,[LVA] Gray Rebound (Off:0 Def:1),155,190,4,,203833,,1611661319,4,2,0,1
+07:48,[LVA] Wilson Turnaround Jump Shot: Missed,-56,32,2,,1628932,,1611661319,4,2,0,1
+07:45,[SEA] Russell Rebound (Off:0 Def:2),-56,32,4,,1628920,,1611661328,4,2,0,1
+07:38,[SEA] Nurse Driving Layup Shot: Missed Block: Wilson (1 BLK),35,15,2,1628932,1628915,,1611661328,4,2,0,1
+07:37,[LVA] Gray Rebound (Off:0 Def:2),35,15,4,,203833,,1611661319,4,2,0,1
+07:28,[LVA] Gray Pullup Jump shot: Missed,168,92,2,,203833,,1611661319,4,2,0,1
+07:24,[LVA] Young Rebound (Off:1 Def:0),168,92,4,,1629498,,1611661319,4,2,0,1
+07:23,[LVA 4-4] Young Driving Layup Shot: Made (2 PTS),23,20,1,,1629498,,1611661319,4,4,2,1
+07:03,[SEA] Loyd Floating Jump shot: Missed,-3,123,2,,204319,,1611661328,4,4,0,1
+07:00,[LVA] Plum Rebound (Off:0 Def:1),-3,123,4,,1628276,,1611661319,4,4,0,1
+06:47,[LVA 6-4] Parker Driving Floating Bank Jump Shot: Made (2 PTS) Assist: Wilson (1 AST),26,43,1,,201496,1628932,1611661319,4,6,2,1
+06:29,[SEA 6-6] Turner Driving Layup Shot: Made (4 PTS),28,11,1,,203389,,1611661328,6,6,2,1
+06:09,[LVA] Plum 3pt Shot: Missed,102,231,2,,1628276,,1611661319,6,6,0,1
+06:09,[SEA] Team Rebound,102,231,4,,0,,1611661328,6,6,0,1
+06:09,[SEA] Nurse Substitution replaced by Charles,0,-80,8,,1628915,1630097,1611661328,6,6,0,1
+05:50,[SEA 8-6] Russell Floating Jump shot: Made (4 PTS) Assist: Loyd (2 AST),-44,45,1,,1628920,204319,1611661328,8,6,2,1
+05:40,[LVA 8-8] Plum Driving Layup Shot: Made (4 PTS),21,27,1,,1628276,,1611661319,8,8,2,1
+05:30,[SEA] Loyd Pullup Jump shot: Missed,-104,145,2,,204319,,1611661328,8,8,0,1
+05:28,[LVA] Wilson Rebound (Off:0 Def:2),-104,145,4,,1628932,,1611661319,8,8,0,1
+05:28,[SEA] Charles Foul: Personal (1 PF),55,746,6,1628932,1630097,203800,1611661328,8,8,0,1
+05:14,[LVA] Parker Jump Shot: Missed,96,156,2,,201496,,1611661319,8,8,0,1
+05:10,[SEA] Turner Rebound (Off:0 Def:2),96,156,4,,203389,,1611661328,8,8,0,1
+05:02,[SEA] Magbegor Turnover : Lost Ball (1 TO) Steal:Wilson (1 ST),44,21,5,1628932,1629496,,1611661328,8,8,0,1
+04:51,[LVA] Gray Fadeaway Jump Shot: Missed,-63,81,2,,203833,,1611661319,8,8,0,1
+04:48,[SEA] Russell Rebound (Off:0 Def:3),-63,81,4,,1628920,,1611661328,8,8,0,1
+04:36,[SEA] Magbegor Layup Shot: Missed Block: Young (1 BLK),-22,15,2,1629498,1629496,,1611661328,8,8,0,1
+04:36,[SEA] Team Rebound,-22,15,4,,0,,1611661328,8,8,0,1
+04:36,Timeout Officials,0,-80,9,,0,,0,8,8,0,1
+04:36,[LVA] Parker Substitution replaced by Clark,0,-80,8,,201496,202252,1611661319,8,8,0,1
+04:33,[SEA] Loyd Fadeaway Jump Shot: Missed,-146,56,2,,204319,,1611661328,8,8,0,1
+04:30,[LVA] Young Rebound (Off:1 Def:1),-146,56,4,,1629498,,1611661319,8,8,0,1
+04:20,[SEA] Charles Foul: Shooting (2 PF) (2 FTA),21,32,6,1629498,1630097,100274,1611661328,8,8,0,1
+04:20,[LVA 9-8] Young Free Throw 1 of 2 (3 PTS),0,-80,3,,1629498,,1611661319,8,9,1,1
+04:20,[SEA] Magbegor Substitution replaced by Horston,0,-80,8,,1629496,1641651,1611661328,8,9,0,1
+04:20,[SEA] Russell Substitution replaced by Magbegor,0,-80,8,,1628920,1629496,1611661328,8,9,0,1
+04:20,[LVA] Young Free Throw 2 of 2 Missed,0,-80,3,,1629498,,1611661319,8,9,0,1
+04:15,[LVA] Wilson Rebound (Off:1 Def:2),0,-80,4,,1628932,,1611661319,8,9,0,1
+04:06,[LVA] Gray Turnover : Bad Pass (2 TO) Steal:Magbegor (1 ST),-38,21,5,1629496,203833,,1611661319,8,9,0,1
+03:56,[SEA] Charles 3pt Shot: Missed,97,221,2,,1630097,,1611661328,8,9,0,1
+03:55,[SEA] Team Rebound,97,221,4,,0,,1611661328,8,9,0,1
+03:55,[LVA] Young Foul: Loose Ball (1 PF),45,48,6,1629496,1629498,203800,1611661319,8,9,0,1
+03:55,[SEA] Charles Substitution replaced by Nurse,0,-80,8,,1630097,1628915,1611661328,8,9,0,1
+03:39,[SEA] Horston Jump Shot: Missed,-53,76,2,,1641651,,1611661328,8,9,0,1
+03:36,[LVA] Wilson Rebound (Off:1 Def:3),-53,76,4,,1628932,,1611661319,8,9,0,1
+03:31,[LVA 11-8] Young Driving Layup Shot: Made (5 PTS) Assist: Plum (1 AST),-30,22,1,,1629498,1628276,1611661319,8,11,2,1
+03:22,[SEA] Loyd 3pt Shot: Missed,-182,163,2,,204319,,1611661328,8,11,0,1
+03:17,[LVA] Wilson Rebound (Off:1 Def:4),-182,163,4,,1628932,,1611661319,8,11,0,1
+03:11,[LVA 14-8] Young 3pt Shot: Made (8 PTS),-79,225,1,,1629498,,1611661319,8,14,3,1
+03:11,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,8,14,0,1
+03:11,[SEA] Turner Substitution replaced by Whitcomb,0,-80,8,,203389,1628244,1611661328,8,14,0,1
+03:11,[SEA] Loyd Substitution replaced by Dojkić,0,-80,8,,204319,1641602,1611661328,8,14,0,1
+03:11,[LVA] Gray Substitution replaced by Stokes,0,-80,8,,203833,204329,1611661319,8,14,0,1
+02:54,[SEA 10-14] Magbegor Layup Shot: Made (2 PTS) Assist: Dojkić (1 AST),-24,11,1,,1629496,1641602,1611661328,10,14,2,1
+02:40,[LVA] Wilson Jump Shot: Missed,-24,16,2,,1628932,,1611661319,10,14,0,1
+02:38,[SEA] Magbegor Rebound (Off:0 Def:1),-24,16,4,,1629496,,1611661328,10,14,0,1
+02:32,[SEA] Dojkić Jump Shot: Missed,102,7,2,,1641602,,1611661328,10,14,0,1
+02:28,[LVA] Plum Rebound (Off:0 Def:2),102,7,4,,1628276,,1611661319,10,14,0,1
+02:23,[LVA] Plum Running Layup Shot: Missed,21,35,2,,1628276,,1611661319,10,14,0,1
+02:20,[SEA] Magbegor Rebound (Off:0 Def:2),21,35,4,,1629496,,1611661328,10,14,0,1
+02:13,[LVA] Young Foul: Personal (2 PF),-17,23,6,1628244,1629498,203891,1611661319,10,14,0,1
+02:13,[LVA] Young Substitution replaced by Gray,0,-80,8,,1629498,203833,1611661319,10,14,0,1
+02:06,[SEA] Whitcomb 3pt Shot: Missed,-194,140,2,,1628244,,1611661328,10,14,0,1
+02:02,[LVA] Stokes Rebound (Off:0 Def:1),-194,140,4,,204329,,1611661319,10,14,0,1
+01:56,[LVA] Stokes Turnover : Bad Pass (1 TO) Steal:Dojkić (1 ST),-104,215,5,1641602,204329,,1611661319,10,14,0,1
+01:52,[SEA 12-14] Dojkić Driving Layup Shot: Made (2 PTS),21,15,1,,1641602,,1611661328,12,14,2,1
+01:26,[LVA] Wilson Turnover : Bad Pass (1 TO) Steal:Whitcomb (1 ST),63,-5,5,1628244,1628932,,1611661319,12,14,0,1
+01:20,[SEA 14-14] Horston Floating Jump shot: Made (2 PTS),-38,47,1,,1641651,,1611661328,14,14,2,1
+00:59.7,[SEA] Nurse Foul: Shooting (1 PF) (2 FTA),-10,42,6,1628276,1628915,203891,1611661328,14,14,0,1
+00:59.7,[LVA 15-14] Plum Free Throw 1 of 2 (5 PTS),0,-80,3,,1628276,,1611661319,14,15,1,1
+00:59.7,[LVA 16-14] Plum Free Throw 2 of 2 (6 PTS),0,-80,3,,1628276,,1611661319,14,16,1,1
+00:41.2,[SEA] Magbegor Turnover : Traveling (2 TO),46,228,5,,1629496,,1611661328,14,16,0,1
+00:41.2,[SEA] Nurse Substitution replaced by Russell,0,-80,8,,1628915,1628920,1611661328,14,16,0,1
+00:41.2,[SEA] Magbegor Substitution replaced by Loyd,0,-80,8,,1629496,204319,1611661328,14,16,0,1
+00:33.7,[LVA] Gray 3pt Shot: Missed,143,209,2,,203833,,1611661319,14,16,0,1
+00:30.3,[SEA] Russell Rebound (Off:0 Def:4),143,209,4,,1628920,,1611661328,14,16,0,1
+00:07.2,[SEA] Horston Jump Shot: Missed,-102,146,2,,1641651,,1611661328,14,16,0,1
+00:03.7,[LVA] Plum Rebound (Off:0 Def:3),-102,146,4,,1628276,,1611661319,14,16,0,1
+00:01.1,[SEA] Loyd Foul: Shooting (1 PF) (2 FTA),-23,60,6,1628276,204319,203800,1611661328,14,16,0,1
+00:01.1,[LVA 17-14] Plum Free Throw 1 of 2 (7 PTS),0,-80,3,,1628276,,1611661319,14,17,1,1
+00:01.1,[LVA 18-14] Plum Free Throw 2 of 2 (8 PTS),0,-80,3,,1628276,,1611661319,14,18,1,1
+00:00.4,[SEA] Horston Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),55,843,5,203833,1641651,,1611661328,14,18,0,1
+00:00.0,End Period,0,-80,13,,0,,0,14,18,0,1
+10:00,Start Period,0,-80,12,,0,,0,14,18,0,2
+09:46,[SEA] Horston Jump Shot: Missed,61,3,2,,1641651,,1611661328,14,18,0,2
+09:43,[LVA] Gray Rebound (Off:0 Def:3),61,3,4,,203833,,1611661319,14,18,0,2
+09:36,[LVA] Parker Driving Hook Shot: Missed,40,51,2,,201496,,1611661319,14,18,0,2
+09:36,[LVA] Stokes Rebound (Off:1 Def:1),40,51,4,,204329,,1611661319,14,18,0,2
+09:35,[LVA 20-14] Stokes Tip Layup Shot: Made (2 PTS),0,-5,1,,204329,,1611661319,14,20,2,2
+09:27,[SEA] Dojkić Foul: Offensive (1 PF),124,199,6,1628276,1641602,203891,1611661328,14,20,0,2
+09:27,[SEA] Dojkić Turnover : Offensive Foul Turnover (1 TO),124,199,5,,1641602,,1611661328,14,20,0,2
+09:13,[LVA] Gray Foul: Offensive (1 PF),68,183,6,1641651,203833,100274,1611661319,14,20,0,2
+09:13,[LVA] Gray Turnover : Offensive Foul Turnover (3 TO),68,183,5,,203833,,1611661319,14,20,0,2
+08:55,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,14,20,0,2
+08:55,[SEA] Whitcomb Substitution replaced by Guirantes,0,-80,8,,1628244,1630441,1611661328,14,20,0,2
+08:49,[SEA] Loyd 3pt Shot: Missed Block: Stokes (1 BLK),-184,141,2,204329,204319,,1611661328,14,20,0,2
+08:47,[LVA] Clark Rebound (Off:0 Def:1),-184,141,4,,202252,,1611661319,14,20,0,2
+08:40,[LVA 23-14] Parker 3pt Shot: Made (5 PTS) Assist: Plum (2 AST),-172,165,1,,201496,1628276,1611661319,14,23,3,2
+08:21,[SEA] Loyd Turnover : Lost Ball (1 TO) Steal:Plum (1 ST),-72,161,5,1628276,204319,,1611661328,14,23,0,2
+08:13,[LVA 25-14] Gray Pullup Jump shot: Made (2 PTS),18,64,1,,203833,,1611661319,14,25,2,2
+08:13,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,14,25,0,2
+08:13,[SEA] Dojkić Substitution replaced by Magbegor,0,-80,8,,1641602,1629496,1611661328,14,25,0,2
+08:13,[SEA] Horston Substitution replaced by Turner,0,-80,8,,1641651,203389,1611661328,14,25,0,2
+07:56,[SEA 16-25] Magbegor Driving Layup Shot: Made (4 PTS) Assist: Loyd (3 AST),-23,5,1,,1629496,204319,1611661328,16,25,2,2
+07:38,[LVA 27-16] Clark Driving Layup Shot: Made (2 PTS),-22,17,1,,202252,,1611661319,16,27,2,2
+07:25,[SEA] Guirantes Turnover : Traveling (1 TO),-66,115,5,,1630441,,1611661328,16,27,0,2
+07:25,[LVA] Stokes Substitution replaced by Wilson,0,-80,8,,204329,1628932,1611661319,16,27,0,2
+07:07,[LVA 29-16] Wilson Layup Shot: Made (2 PTS) Assist: Plum (3 AST),26,24,1,,1628932,1628276,1611661319,16,29,2,2
+06:50,[SEA] Loyd Pullup Jump shot: Missed,171,114,2,,204319,,1611661328,16,29,0,2
+06:47,[LVA] Wilson Rebound (Off:1 Def:5),171,114,4,,1628932,,1611661319,16,29,0,2
+06:41,[LVA 31-16] Wilson Layup Shot: Made (4 PTS),20,26,1,,1628932,,1611661319,16,31,2,2
+06:41,[SEA] Magbegor Foul: Shooting (1 PF) (1 FTA),20,26,6,1628932,1629496,203800,1611661328,16,31,0,2
+06:41,[SEA] Guirantes Substitution replaced by Charles,0,-80,8,,1630441,1630097,1611661328,16,31,0,2
+06:41,[LVA] Plum Substitution replaced by Young,0,-80,8,,1628276,1629498,1611661319,16,31,0,2
+06:41,[LVA 32-16] Wilson Free Throw 1 of 1 (5 PTS),0,-80,3,,1628932,,1611661319,16,32,1,2
+06:24,[SEA] Loyd Jump Shot: Missed Block: Clark (1 BLK),-62,39,2,202252,204319,,1611661328,16,32,0,2
+06:22,[SEA] Loyd Rebound (Off:1 Def:0),-62,39,4,,204319,,1611661328,16,32,0,2
+06:14,[SEA] Magbegor 3pt Shot: Missed,-163,200,2,,1629496,,1611661328,16,32,0,2
+06:03,[LVA] Young Rebound (Off:1 Def:2),-163,200,4,,1629498,,1611661319,16,32,0,2
+06:00,[LVA] Wilson Turnover : Bad Pass (2 TO) Steal:Magbegor (2 ST),-95,213,5,1629496,1628932,,1611661319,16,32,0,2
+05:59,[SEA] Magbegor Foul: Offensive Charge (2 PF),-3,81,6,203833,1629496,100274,1611661328,16,32,0,2
+05:59,[SEA] Magbegor Turnover : Offensive Foul Turnover (3 TO),-3,81,5,,1629496,,1611661328,16,32,0,2
+05:59,[SEA] Magbegor Substitution replaced by Horston,0,-80,8,,1629496,1641651,1611661328,16,32,0,2
+05:40,[LVA] Gray Turnaround Jump Shot: Missed,0,84,2,,203833,,1611661319,16,32,0,2
+05:37,[SEA] Loyd Rebound (Off:1 Def:1),0,84,4,,204319,,1611661328,16,32,0,2
+05:33,[SEA 18-32] Loyd Floating Jump shot: Made (2 PTS),0,124,1,,204319,,1611661328,18,32,2,2
+05:31,InstantReplay Request Stands,0,-80,18,,0,,0,18,32,0,2
+05:19,[LVA] Wilson Layup Shot: Missed,-30,25,2,,1628932,,1611661319,18,32,0,2
+05:18,[SEA] Russell Rebound (Off:0 Def:5),-30,25,4,,1628920,,1611661328,18,32,0,2
+05:00,[SEA 20-32] Loyd Pullup Jump shot: Made (4 PTS),68,146,1,,204319,,1611661328,20,32,2,2
+04:41,[LVA 34-20] Wilson Step Back Jump shot: Made (7 PTS) Assist: Parker (2 AST),-17,58,1,,1628932,201496,1611661319,20,34,2,2
+04:29,[SEA] Loyd 3pt Shot: Missed,-115,215,2,,204319,,1611661328,20,34,0,2
+04:24,[LVA] Wilson Rebound (Off:1 Def:6),-115,215,4,,1628932,,1611661319,20,34,0,2
+04:11,[LVA] Young Pullup Jump shot: Missed,-100,13,2,,1629498,,1611661319,20,34,0,2
+04:07,[SEA] Horston Rebound (Off:0 Def:1),-100,13,4,,1641651,,1611661328,20,34,0,2
+04:03,[SEA] Charles Layup Shot: Missed Block: Parker (1 BLK),38,15,2,201496,1630097,,1611661328,20,34,0,2
+04:02,[LVA] Parker Rebound (Off:0 Def:1),38,15,4,,201496,,1611661319,20,34,0,2
+03:43,[LVA 36-20] Parker Cutting Layup Shot: Made (7 PTS) Assist: Gray (1 AST),-19,24,1,,201496,203833,1611661319,20,36,2,2
+03:25,[SEA 22-36] Loyd Driving Layup Shot: Made (6 PTS),-26,18,1,,204319,,1611661328,22,36,2,2
+03:18,[LVA 38-22] Clark Running Layup Shot: Made (4 PTS) Assist: Young (1 AST),-24,19,1,,202252,1629498,1611661319,22,38,2,2
+03:03,[SEA 25-38] Loyd 3pt Shot: Made (9 PTS),-157,182,1,,204319,,1611661328,25,38,3,2
+02:44,[LVA 40-25] Wilson Turnaround Jump Shot: Made (9 PTS),-55,28,1,,1628932,,1611661319,25,40,2,2
+02:38,[SEA] Horston Layup Shot: Missed Block: Gray (1 BLK),34,8,2,203833,1641651,,1611661328,25,40,0,2
+02:36,[LVA] Gray Rebound (Off:0 Def:4),34,8,4,,203833,,1611661319,25,40,0,2
+02:23,[SEA] Turner Foul: Shooting (1 PF) (2 FTA),33,72,6,1629498,203389,203800,1611661328,25,40,0,2
+02:23,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,25,40,0,2
+02:23,[SEA] Russell Substitution replaced by Magbegor,0,-80,8,,1628920,1629496,1611661328,25,40,0,2
+02:23,[LVA] Parker Substitution replaced by Plum,0,-80,8,,201496,1628276,1611661319,25,40,0,2
+02:23,[LVA] Clark Substitution replaced by Stokes,0,-80,8,,202252,204329,1611661319,25,40,0,2
+02:23,[LVA 41-25] Young Free Throw 1 of 2 (9 PTS),0,-80,3,,1629498,,1611661319,25,41,1,2
+02:23,[LVA] Young Free Throw 2 of 2 Missed,0,-80,3,,1629498,,1611661319,25,41,0,2
+02:19,[SEA] Charles Rebound (Off:0 Def:1),0,-80,4,,1630097,,1611661328,25,41,0,2
+01:58,[SEA] Charles Hook Shot: Missed,57,17,2,,1630097,,1611661328,25,41,0,2
+01:55,[LVA] Wilson Rebound (Off:1 Def:7),57,17,4,,1628932,,1611661319,25,41,0,2
+01:39,[LVA] Young Turnover : Bad Pass (1 TO) Steal:Loyd (1 ST),-83,60,5,204319,1629498,,1611661319,25,41,0,2
+01:34,[LVA] Wilson Foul: Shooting (1 PF) (2 FTA),-35,21,6,204319,1628932,100274,1611661319,25,41,0,2
+01:34,[SEA] Loyd Free Throw 1 of 2 Missed,0,-80,3,,204319,,1611661328,25,41,0,2
+01:34,[SEA] Team Rebound,0,-80,4,,0,,1611661328,25,41,0,2
+01:34,[SEA] Turner Substitution replaced by Whitcomb,0,-80,8,,203389,1628244,1611661328,25,41,0,2
+01:34,[SEA 26-41] Loyd Free Throw 2 of 2 (10 PTS),0,-80,3,,204319,,1611661328,26,41,1,2
+01:11,[LVA] Plum 3pt Shot: Missed,96,240,2,,1628276,,1611661319,26,41,0,2
+01:09,[SEA] Magbegor Rebound (Off:0 Def:3),96,240,4,,1629496,,1611661328,26,41,0,2
+01:00,[SEA 28-41] Horston Driving Layup Shot: Made (4 PTS) Assist: Loyd (4 AST),29,34,1,,1641651,204319,1611661328,28,41,2,2
+00:49.4,[LVA] Wilson Layup Shot: Missed Block: Loyd (1 BLK),-17,21,2,204319,1628932,,1611661319,28,41,0,2
+00:49.4,[SEA] Team Rebound,-17,21,4,,0,,1611661328,28,41,0,2
+00:40.2,[SEA] Whitcomb 3pt Shot: Missed,-194,142,2,,1628244,,1611661328,28,41,0,2
+00:36.8,[LVA] Wilson Rebound (Off:1 Def:8),-194,142,4,,1628932,,1611661319,28,41,0,2
+00:28.3,[SEA] Horston Foul: Personal (1 PF),-34,68,6,1628932,1641651,100274,1611661328,28,41,0,2
+00:21.5,[LVA] Young Jump Shot: Missed,29,47,2,,1629498,,1611661319,28,41,0,2
+00:17.8,[LVA] Stokes Rebound (Off:2 Def:1),29,47,4,,204329,,1611661319,28,41,0,2
+00:15.4,[LVA] Gray Pullup Jump shot: Missed,65,127,2,,203833,,1611661319,28,41,0,2
+00:15.1,[LVA] Young Rebound (Off:2 Def:2),65,127,4,,1629498,,1611661319,28,41,0,2
+00:15.1,[SEA] Magbegor Foul: Personal (3 PF) (2 FTA),10,36,6,1629498,1629496,203891,1611661328,28,41,0,2
+00:15.1,[LVA 42-28] Young Free Throw 1 of 2 (10 PTS),0,-80,3,,1629498,,1611661319,28,42,1,2
+00:15.1,[SEA] Charles Substitution replaced by Guirantes,0,-80,8,,1630097,1630441,1611661328,28,42,0,2
+00:15.1,[SEA] Magbegor Substitution replaced by Russell,0,-80,8,,1629496,1628920,1611661328,28,42,0,2
+00:15.1,[LVA 43-28] Young Free Throw 2 of 2 (11 PTS),0,-80,3,,1629498,,1611661319,28,43,1,2
+00:01.1,[SEA] Loyd Driving Layup Shot: Missed,32,26,2,,204319,,1611661328,28,43,0,2
+00:01.1,[LVA] Plum Rebound (Off:0 Def:4),32,26,4,,1628276,,1611661319,28,43,0,2
+00:00.0,End Period,0,-80,13,,0,,0,28,43,0,2
+10:00,Start Period,0,-80,12,,0,,0,28,43,0,3
+09:46,[SEA] Loyd Jump Shot: Missed,-72,158,2,,204319,,1611661328,28,43,0,3
+09:43,[LVA] Plum Rebound (Off:0 Def:5),-72,158,4,,1628276,,1611661319,28,43,0,3
+09:31,[LVA] Gray 3pt Shot: Missed,-163,177,2,,203833,,1611661319,28,43,0,3
+09:28,[SEA] Nurse Rebound (Off:0 Def:1),-163,177,4,,1628915,,1611661328,28,43,0,3
+09:19,[SEA] Magbegor 3pt Shot: Missed,122,214,2,,1629496,,1611661328,28,43,0,3
+09:16,[LVA] Parker Rebound (Off:0 Def:2),122,214,4,,201496,,1611661319,28,43,0,3
+09:13,[LVA 45-28] Wilson Running Layup Shot: Made (11 PTS) Assist: Parker (3 AST),-27,10,1,,1628932,201496,1611661319,28,45,2,3
+08:51,[SEA 31-45] Loyd 3pt Shot: Made (13 PTS) Assist: Russell (1 AST),139,212,1,,204319,1628920,1611661328,31,45,3,3
+08:39,[SEA] Turner Foul: Personal (2 PF),-167,164,6,1629498,203389,203800,1611661328,31,45,0,3
+08:34,[SEA] Russell Violation:Kicked Ball,0,-80,7,,1628920,,1611661328,31,45,0,3
+08:25,[LVA] Plum Driving Layup Shot: Missed,-39,13,2,,1628276,,1611661319,31,45,0,3
+08:22,[SEA] Magbegor Rebound (Off:0 Def:4),-39,13,4,,1629496,,1611661328,31,45,0,3
+08:20,[SEA] Turner Turnover : Out of Bounds - Bad Pass Turnover (1 TO),50,64,5,,203389,,1611661328,31,45,0,3
+08:09,[LVA] Young Jump Shot: Missed Block: Loyd (2 BLK),55,94,2,204319,1629498,,1611661319,31,45,0,3
+08:08,[SEA] Turner Rebound (Off:0 Def:3),55,94,4,,203389,,1611661328,31,45,0,3
+08:02,[SEA] Turner Layup Shot: Missed Block: Parker (2 BLK),9,35,2,201496,203389,,1611661328,31,45,0,3
+08:02,[SEA] Team Rebound,9,35,4,,0,,1611661328,31,45,0,3
+08:01,[SEA] Loyd Layup Shot: Missed,9,37,2,,204319,,1611661328,31,45,0,3
+07:59,[SEA] Loyd Rebound (Off:2 Def:1),9,37,4,,204319,,1611661328,31,45,0,3
+07:58,[SEA] Loyd Layup Shot: Missed,26,4,2,,204319,,1611661328,31,45,0,3
+07:58,[SEA] Russell Rebound (Off:1 Def:5),26,4,4,,1628920,,1611661328,31,45,0,3
+07:57,[SEA] Russell Layup Shot: Missed Block: Parker (3 BLK),15,25,2,201496,1628920,,1611661328,31,45,0,3
+07:56,[LVA] Wilson Rebound (Off:1 Def:9),15,25,4,,1628932,,1611661319,31,45,0,3
+07:48,[LVA 47-31] Gray Layup Shot: Made (4 PTS) Assist: Parker (4 AST),-22,17,1,,203833,201496,1611661319,31,47,2,3
+07:33,[SEA 33-47] Loyd Step Back Jump shot: Made (15 PTS),45,167,1,,204319,,1611661328,33,47,2,3
+07:16,[LVA] Wilson Step Back Jump shot: Missed,23,90,2,,1628932,,1611661319,33,47,0,3
+07:13,[SEA] Turner Rebound (Off:0 Def:4),23,90,4,,203389,,1611661328,33,47,0,3
+07:12,[SEA] Russell Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-61,264,5,,1628920,,1611661328,33,47,0,3
+06:57,[LVA 49-33] Young Layup Shot: Made (13 PTS) Assist: Parker (5 AST),26,22,1,,1629498,201496,1611661319,33,49,2,3
+06:46,[SEA] Turner Turnover : Bad Pass (2 TO) Steal:Parker (1 ST),-129,235,5,201496,203389,,1611661328,33,49,0,3
+06:42,[LVA 51-33] Parker Running Layup Shot: Made (9 PTS),18,10,1,,201496,,1611661319,33,51,2,3
+06:35,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,33,51,0,3
+06:35,[SEA] Turner Substitution replaced by Dojkić,0,-80,8,,203389,1641602,1611661328,33,51,0,3
+06:35,[SEA] Nurse Substitution replaced by Whitcomb,0,-80,8,,1628915,1628244,1611661328,33,51,0,3
+06:23,[SEA] Loyd Turnover : Bad Pass (2 TO) Steal:Young (1 ST),82,232,5,1629498,204319,,1611661328,33,51,0,3
+06:18,[LVA 53-33] Young Running Layup Shot: Made (15 PTS),12,15,1,,1629498,,1611661319,33,53,2,3
+06:09,[LVA] Plum Foul: Personal (1 PF),123,224,6,204319,1628276,100274,1611661319,33,53,0,3
+05:58,[SEA] Loyd Floating Jump shot: Missed,45,129,2,,204319,,1611661328,33,53,0,3
+05:55,[LVA] Young Rebound (Off:2 Def:3),45,129,4,,1629498,,1611661319,33,53,0,3
+05:49,[LVA] Parker Jump Shot: Missed Block: Russell (1 BLK),4,35,2,1628920,201496,,1611661319,33,53,0,3
+05:48,[LVA] Team Rebound,4,35,4,,0,,1611661319,33,53,0,3
+05:44,[LVA 56-33] Plum 3pt Shot: Made (11 PTS) Assist: Gray (2 AST),221,47,1,,1628276,203833,1611661319,33,56,3,3
+05:31,[SEA 35-56] Magbegor Layup Shot: Made (6 PTS) Assist: Whitcomb (1 AST),-19,24,1,,1629496,1628244,1611661328,35,56,2,3
+05:24,[LVA] Young Turnover : Bad Pass (2 TO) Steal:Magbegor (3 ST),-138,576,5,1629496,1629498,,1611661319,35,56,0,3
+05:16,[SEA] Whitcomb 3pt Shot: Missed,-112,215,2,,1628244,,1611661328,35,56,0,3
+05:13,[LVA] Gray Rebound (Off:0 Def:5),-112,215,4,,203833,,1611661319,35,56,0,3
+05:04,[LVA 58-35] Gray Fadeaway Jump Shot: Made (6 PTS),-66,33,1,,203833,,1611661319,35,58,2,3
+04:44,[SEA] Magbegor Turnaround Jump Shot: Missed,7,38,2,,1629496,,1611661328,35,58,0,3
+04:44,[SEA] Team Rebound,7,38,4,,0,,1611661328,35,58,0,3
+04:44,[LVA] Young Foul: Loose Ball (3 PF),-19,46,6,1628920,1629498,203800,1611661319,35,58,0,3
+04:44,[SEA] Russell Substitution replaced by Horston,0,-80,8,,1628920,1641651,1611661328,35,58,0,3
+04:44,[LVA] Parker Substitution replaced by Clark,0,-80,8,,201496,202252,1611661319,35,58,0,3
+04:44,[LVA] Gray Substitution replaced by Stokes,0,-80,8,,203833,204329,1611661319,35,58,0,3
+04:34,[SEA] Dojkić Turnover : Bad Pass (2 TO) Steal:Clark (1 ST),-23,44,5,202252,1641602,,1611661328,35,58,0,3
+04:22,[LVA] Plum Jump Shot: Missed,35,59,2,,1628276,,1611661319,35,58,0,3
+04:18,[SEA] Horston Rebound (Off:0 Def:2),35,59,4,,1641651,,1611661328,35,58,0,3
+04:16,[SEA 37-58] Dojkić Running Layup Shot: Made (4 PTS) Assist: Horston (1 AST),-23,24,1,,1641602,1641651,1611661328,37,58,2,3
+03:57,[LVA] Plum Turnover : Bad Pass (1 TO) Steal:Horston (1 ST),19,35,5,1641651,1628276,,1611661319,37,58,0,3
+03:48,[SEA] Horston Pullup Jump shot: Missed,111,33,2,,1641651,,1611661328,37,58,0,3
+03:45,[LVA] Stokes Rebound (Off:2 Def:2),111,33,4,,204329,,1611661319,37,58,0,3
+03:36,[LVA] Wilson Turnaround Jump Shot: Missed,-24,60,2,,1628932,,1611661319,37,58,0,3
+03:31,[LVA] Stokes Rebound (Off:3 Def:2),-24,60,4,,204329,,1611661319,37,58,0,3
+03:25,[LVA 60-37] Wilson Layup Shot: Made (13 PTS) Assist: Young (2 AST),-22,11,1,,1628932,1629498,1611661319,37,60,2,3
+03:10,[SEA] Loyd Jump Shot: Missed,102,51,2,,204319,,1611661328,37,60,0,3
+03:07,[LVA] Wilson Rebound (Off:1 Def:10),102,51,4,,1628932,,1611661319,37,60,0,3
+02:59,[LVA] Plum Jump Shot: Missed Block: Dojkić (1 BLK),-6,47,2,1641602,1628276,,1611661319,37,60,0,3
+02:55,[SEA] Horston Rebound (Off:0 Def:3),-6,47,4,,1641651,,1611661328,37,60,0,3
+02:52,[SEA 40-60] Dojkić 3pt Shot: Made (7 PTS) Assist: Horston (2 AST),-179,159,1,,1641602,1641651,1611661328,40,60,3,3
+02:46,[LVA] Team Timeout : Regular,0,-80,9,,1611661319,,1611661319,40,60,0,3
+02:46,[SEA] Loyd Substitution replaced by Melbourne,0,-80,8,,204319,1631141,1611661328,40,60,0,3
+02:38,[LVA] Young Jump Bank Shot: Missed,32,18,2,,1629498,,1611661319,40,60,0,3
+02:35,[SEA] Horston Rebound (Off:0 Def:4),32,18,4,,1641651,,1611661328,40,60,0,3
+02:35,[SEA] Whitcomb Substitution replaced by Guirantes,0,-80,8,,1628244,1630441,1611661328,40,60,0,3
+02:35,[LVA] Stokes Foul: Shooting (1 PF) (2 FTA),-22,27,6,1629496,204329,203891,1611661319,40,60,0,3
+02:35,[LVA] Plum Substitution replaced by Gray,0,-80,8,,1628276,203833,1611661319,40,60,0,3
+02:35,[SEA 41-60] Magbegor Free Throw 1 of 2 (7 PTS),0,-80,3,,1629496,,1611661328,41,60,1,3
+02:35,[SEA] Magbegor Free Throw 2 of 2 Missed,0,-80,3,,1629496,,1611661328,41,60,0,3
+02:31,[LVA] Wilson Rebound (Off:1 Def:11),0,-80,4,,1628932,,1611661319,41,60,0,3
+02:13,[LVA 63-41] Clark 3pt Shot: Made (7 PTS) Assist: Young (3 AST),227,3,1,,202252,1629498,1611661319,41,63,3,3
+02:01,[SEA 43-63] Horston Jump Shot: Made (6 PTS) Assist: Melbourne (1 AST),54,40,1,,1641651,1631141,1611661328,43,63,2,3
+01:35,[LVA] Young Turnover : Bad Pass (3 TO) Steal:Horston (2 ST),-28,31,5,1641651,1629498,,1611661319,43,63,0,3
+01:29,[SEA 46-63] Guirantes 3pt Shot: Made (3 PTS) Assist: Horston (3 AST),-191,138,1,,1630441,1641651,1611661328,46,63,3,3
+01:12,[LVA 66-46] Young 3pt Shot: Made (18 PTS) Assist: Gray (3 AST),-190,163,1,,1629498,203833,1611661319,46,66,3,3
+01:01,[SEA] Horston Jump Shot: Missed,-101,59,2,,1641651,,1611661328,46,66,0,3
+00:58.2,[LVA] Stokes Rebound (Off:3 Def:3),-101,59,4,,204329,,1611661319,46,66,0,3
+00:53.9,[SEA] Dojkić Foul: Shooting (2 PF) (2 FTA),-46,45,6,203833,1641602,203800,1611661328,46,66,0,3
+00:53.9,[LVA 67-46] Gray Free Throw 1 of 2 (7 PTS),0,-80,3,,203833,,1611661319,46,67,1,3
+00:53.9,[LVA 68-46] Gray Free Throw 2 of 2 (8 PTS),0,-80,3,,203833,,1611661319,46,68,1,3
+00:43.5,[SEA] Melbourne Jump Shot: Missed,-26,48,2,,1631141,,1611661328,46,68,0,3
+00:40.2,[LVA] Wilson Rebound (Off:1 Def:12),-26,48,4,,1628932,,1611661319,46,68,0,3
+00:35.5,[LVA 71-46] Clark 3pt Shot: Made (10 PTS) Assist: Gray (4 AST),154,182,1,,202252,203833,1611661319,46,71,3,3
+00:23.5,[LVA] Clark Foul: Shooting (1 PF) (2 FTA),-47,38,6,1630441,202252,203800,1611661319,46,71,0,3
+00:23.5,[SEA 47-71] Guirantes Free Throw 1 of 2 (4 PTS),0,-80,3,,1630441,,1611661328,47,71,1,3
+00:23.5,[SEA] Melbourne Substitution replaced by Charles,0,-80,8,,1631141,1630097,1611661328,47,71,0,3
+00:23.5,[SEA] Dojkić Substitution replaced by Turner,0,-80,8,,1641602,203389,1611661328,47,71,0,3
+00:23.5,[SEA 48-71] Guirantes Free Throw 2 of 2 (5 PTS),0,-80,3,,1630441,,1611661328,48,71,1,3
+00:02.9,[LVA 74-48] Young 3pt Shot: Made (21 PTS) Assist: Gray (5 AST),-173,172,1,,1629498,203833,1611661319,48,74,3,3
+00:00.1,[SEA] Turner 3pt Shot: Missed,138,440,2,,203389,,1611661328,48,74,0,3
+00:00.1,[SEA] Team Rebound,138,440,4,,0,,1611661328,48,74,0,3
+00:00.0,End Period,0,-80,13,,0,,0,48,74,0,3
+10:00,Start Period,0,-80,12,,0,,0,48,74,0,4
+09:37,[LVA 76-48] Young Driving Layup Shot: Made (23 PTS),21,38,1,,1629498,,1611661319,48,76,2,4
+09:26,[LVA] Parker Foul: Shooting (1 PF) (2 FTA),-30,22,6,1628920,201496,203891,1611661319,48,76,0,4
+09:26,[SEA] Russell Free Throw 1 of 2 Missed,0,-80,3,,1628920,,1611661328,48,76,0,4
+09:26,[SEA] Team Rebound,0,-80,4,,0,,1611661328,48,76,0,4
+09:26,[LVA] Young Substitution replaced by Gray,0,-80,8,,1629498,203833,1611661319,48,76,0,4
+09:26,[SEA] Russell Free Throw 2 of 2 Missed,0,-80,3,,1628920,,1611661328,48,76,0,4
+09:23,[LVA] Parker Rebound (Off:0 Def:3),0,-80,4,,201496,,1611661319,48,76,0,4
+09:13,[LVA] Parker Turnover : Lost Ball (1 TO) Steal:Charles (1 ST),130,204,5,1630097,201496,,1611661319,48,76,0,4
+09:03,[SEA 50-76] Charles Turnaround Jump Shot: Made (2 PTS),-51,36,1,,1630097,,1611661328,50,76,2,4
+08:48,[LVA 78-50] Gray Pullup Jump shot: Made (10 PTS),-124,167,1,,203833,,1611661319,50,78,2,4
+08:27,[SEA] Russell Hook Shot: Missed,3,54,2,,1628920,,1611661328,50,78,0,4
+08:24,[LVA] Stokes Rebound (Off:3 Def:4),3,54,4,,204329,,1611661319,50,78,0,4
+08:19,[LVA] Gray Jump Shot: Missed Block: Guirantes (1 BLK),-18,15,2,1630441,203833,,1611661319,50,78,0,4
+08:19,[LVA] Team Rebound,-18,15,4,,0,,1611661319,50,78,0,4
+08:19,[SEA] Guirantes Substitution replaced by Magbegor,0,-80,8,,1630441,1629496,1611661328,50,78,0,4
+08:19,[SEA] Horston Substitution replaced by Loyd,0,-80,8,,1641651,204319,1611661328,50,78,0,4
+08:17,[LVA 80-50] Plum Driving Layup Shot: Made (13 PTS) Assist: Gray (6 AST),28,23,1,,1628276,203833,1611661319,50,80,2,4
+08:17,[SEA] Charles Foul: Shooting (3 PF) (1 FTA),28,23,6,1628276,1630097,203891,1611661328,50,80,0,4
+08:17,[LVA] Plum Free Throw 1 of 1 Missed,0,-80,3,,1628276,,1611661319,50,80,0,4
+08:14,[SEA] Russell Rebound (Off:1 Def:6),0,-80,4,,1628920,,1611661328,50,80,0,4
+08:07,[LVA] Parker Foul: Shooting (2 PF) (2 FTA),-63,47,6,204319,201496,203891,1611661319,50,80,0,4
+08:07,[SEA 51-80] Loyd Free Throw 1 of 2 (16 PTS),0,-80,3,,204319,,1611661328,51,80,1,4
+08:07,[SEA 52-80] Loyd Free Throw 2 of 2 (17 PTS),0,-80,3,,204319,,1611661328,52,80,1,4
+07:50,[SEA] Magbegor Foul: Shooting (4 PF) (3 FTA),-226,81,6,201496,1629496,100274,1611661328,52,80,0,4
+07:50,[LVA 81-52] Parker Free Throw 1 of 3 (10 PTS),0,-80,3,,201496,,1611661319,52,81,1,4
+07:50,[LVA 82-52] Parker Free Throw 2 of 3 (11 PTS),0,-80,3,,201496,,1611661319,52,82,1,4
+07:50,[LVA 83-52] Parker Free Throw 3 of 3 (12 PTS),0,-80,3,,201496,,1611661319,52,83,1,4
+07:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,83,0,4
+07:37,[LVA] Clark Foul: Away From Play (2 PF) (1 FTA),-123,164,6,204319,202252,100274,1611661319,52,83,0,4
+07:37,[SEA 53-83] Loyd Free Throw 1 of 1 (18 PTS),0,-80,3,,204319,,1611661328,53,83,1,4
+07:28,[SEA] Magbegor Jump Shot: Missed,-10,92,2,,1629496,,1611661328,53,83,0,4
+07:25,[LVA] Stokes Rebound (Off:3 Def:5),-10,92,4,,204329,,1611661319,53,83,0,4
+07:20,[LVA] Plum Turnover : Out of Bounds - Bad Pass Turnover (2 TO),35,17,5,,1628276,,1611661319,53,83,0,4
+07:03,[SEA] Loyd Pullup Jump shot: Missed,-155,79,2,,204319,,1611661328,53,83,0,4
+07:00,[SEA] Russell Rebound (Off:2 Def:6),-155,79,4,,1628920,,1611661328,53,83,0,4
+06:59,[SEA 55-83] Russell Turnaround Jump Shot: Made (6 PTS),1,58,1,,1628920,,1611661328,55,83,2,4
+06:45,[LVA] Plum Turnaround Jump Shot: Missed,-10,34,2,,1628276,,1611661319,55,83,0,4
+06:42,[SEA] Russell Rebound (Off:2 Def:7),-10,34,4,,1628920,,1611661328,55,83,0,4
+06:32,[SEA 58-83] Loyd 3pt Shot: Made (21 PTS),-38,237,1,,204319,,1611661328,58,83,3,4
+06:16,[LVA 85-58] Gray Pullup Jump shot: Made (12 PTS) Assist: Clark (1 AST),-116,160,1,,203833,202252,1611661319,58,85,2,4
+05:58,[SEA] Charles Jump Shot: Missed,113,111,2,,1630097,,1611661328,58,85,0,4
+05:55,[LVA] Parker Rebound (Off:0 Def:4),113,111,4,,201496,,1611661319,58,85,0,4
+05:48,[LVA] Gray Turnover : Bad Pass (4 TO) Steal:Magbegor (4 ST),77,200,5,1629496,203833,,1611661319,58,85,0,4
+05:42,[SEA] Magbegor Running Jump Shot: Missed,7,43,2,,1629496,,1611661328,58,85,0,4
+05:39,[LVA] Gray Rebound (Off:0 Def:6),7,43,4,,203833,,1611661319,58,85,0,4
+05:36,[LVA] Clark 3pt Shot: Missed,169,176,2,,202252,,1611661319,58,85,0,4
+05:31,[SEA] Magbegor Rebound (Off:0 Def:5),169,176,4,,1629496,,1611661328,58,85,0,4
+05:26,[SEA] Loyd 3pt Shot: Missed,142,204,2,,204319,,1611661328,58,85,0,4
+05:23,[LVA] Stokes Rebound (Off:3 Def:6),142,204,4,,204329,,1611661319,58,85,0,4
+05:18,[LVA] Parker Turnaround Jump Shot: Missed,18,33,2,,201496,,1611661319,58,85,0,4
+05:15,[SEA] Loyd Rebound (Off:2 Def:2),18,33,4,,204319,,1611661328,58,85,0,4
+05:14,[SEA] Team Timeout : Regular,0,-80,9,,1611661328,,1611661328,58,85,0,4
+05:14,[SEA] Charles Substitution replaced by Guirantes,0,-80,8,,1630097,1630441,1611661328,58,85,0,4
+05:14,[SEA] Russell Substitution replaced by Horston,0,-80,8,,1628920,1641651,1611661328,58,85,0,4
+05:14,[LVA] Parker Substitution replaced by Bell,0,-80,8,,201496,1631006,1611661319,58,85,0,4
+05:14,[LVA] Plum Substitution replaced by Young,0,-80,8,,1628276,1629498,1611661319,58,85,0,4
+05:07,[LVA] Bell Foul: Personal (1 PF),-96,151,6,1630441,1631006,203800,1611661319,58,85,0,4
+04:58,[SEA] Guirantes Turnaround Jump Shot: Missed,-93,8,2,,1630441,,1611661328,58,85,0,4
+04:52,[LVA] Team Rebound,-93,8,4,,0,,1611661319,58,85,0,4
+04:52,Jump Ball Stokes vs Magbegor (Bell gains possession),0,-80,10,1629496,204329,1631006,1611661319,58,85,0,4
+04:41,[LVA] Young 3pt Shot: Missed,-195,148,2,,1629498,,1611661319,58,85,0,4
+04:37,[SEA] Dojkić Rebound (Off:0 Def:1),-195,148,4,,1641602,,1611661328,58,85,0,4
+04:34,[LVA] Gray Foul: Shooting (2 PF) (2 FTA),-90,48,6,204319,203833,203800,1611661319,58,85,0,4
+04:34,[SEA] Loyd Free Throw 1 of 2 Missed,0,-80,3,,204319,,1611661328,58,85,0,4
+04:34,[SEA] Team Rebound,0,-80,4,,0,,1611661328,58,85,0,4
+04:34,[LVA] Clark Substitution replaced by George,0,-80,8,,202252,204297,1611661319,58,85,0,4
+04:34,[SEA 59-85] Loyd Free Throw 2 of 2 (22 PTS),0,-80,3,,204319,,1611661328,59,85,1,4
+04:19,[LVA] Gray Turnover : Bad Pass (5 TO) Steal:Horston (3 ST),-151,194,5,1641651,203833,,1611661319,59,85,0,4
+04:10,[SEA] Loyd Pullup Jump shot: Missed,-8,201,2,,204319,,1611661328,59,85,0,4
+04:06,[LVA] George Rebound (Off:0 Def:1),-8,201,4,,204297,,1611661319,59,85,0,4
+04:01,[LVA 87-59] Gray Pullup Jump shot: Made (14 PTS),91,137,1,,203833,,1611661319,59,87,2,4
+03:53,[SEA] Horston Foul: Offensive (2 PF),121,181,6,1629498,1641651,203891,1611661328,59,87,0,4
+03:53,[SEA] Horston Turnover : Offensive Foul Turnover (2 TO),121,181,5,,1641651,,1611661328,59,87,0,4
+03:53,[SEA] Dojkić Substitution replaced by Melbourne,0,-80,8,,1641602,1631141,1611661328,59,87,0,4
+03:53,[SEA] Loyd Substitution replaced by Whitcomb,0,-80,8,,204319,1628244,1611661328,59,87,0,4
+03:53,[LVA] Young Substitution replaced by Colson,0,-80,8,,1629498,202641,1611661319,59,87,0,4
+03:53,[LVA] Gray Substitution replaced by Plum,0,-80,8,,203833,1628276,1611661319,59,87,0,4
+03:39,[SEA] Melbourne Foul: Personal (1 PF),65,64,6,1628276,1631141,203800,1611661328,59,87,0,4
+03:25,[LVA 90-59] Plum 3pt Shot: Made (16 PTS),44,241,1,,1628276,,1611661319,59,90,3,4
+03:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,90,0,4
+03:08,[SEA] Magbegor Substitution replaced by Fankam Mendjiadeu,0,-80,8,,1629496,1641675,1611661328,59,90,0,4
+03:02,[SEA] Horston Jump Shot: Missed,11,156,2,,1641651,,1611661328,59,90,0,4
+02:59,[LVA] Bell Rebound (Off:0 Def:1),11,156,4,,1631006,,1611661319,59,90,0,4
+02:55,[LVA 92-59] Plum Driving Layup Shot: Made (18 PTS),23,22,1,,1628276,,1611661319,59,92,2,4
+02:35,[SEA] Horston Floating Jump shot: Missed,28,91,2,,1641651,,1611661328,59,92,0,4
+02:32,[LVA] Bell Rebound (Off:0 Def:2),28,91,4,,1631006,,1611661319,59,92,0,4
+02:17,[LVA 95-59] Bell 3pt Shot: Made (3 PTS) Assist: Plum (4 AST),-184,146,1,,1631006,1628276,1611661319,59,95,3,4
+02:04,[SEA] Guirantes Jump Shot: Missed,133,41,2,,1630441,,1611661328,59,95,0,4
+02:01,[LVA] George Rebound (Off:0 Def:2),133,41,4,,204297,,1611661319,59,95,0,4
+01:53,[LVA 97-59] George Layup Shot: Made (2 PTS) Assist: Bell (1 AST),23,7,1,,204297,1631006,1611661319,59,97,2,4
+01:42,[SEA] Whitcomb 3pt Shot: Missed,-207,110,2,,1628244,,1611661328,59,97,0,4
+01:39,[LVA] Bell Rebound (Off:0 Def:3),-207,110,4,,1631006,,1611661319,59,97,0,4
+01:32,[LVA 100-59] Plum 3pt Shot: Made (21 PTS),-183,167,1,,1628276,,1611661319,59,100,3,4
+01:23,[SEA] Guirantes 3pt Shot: Missed,-207,106,2,,1630441,,1611661328,59,100,0,4
+01:20,[LVA] Colson Rebound (Off:0 Def:1),-207,106,4,,202641,,1611661319,59,100,0,4
+01:16,[LVA] Plum Layup Shot: Missed Block: Guirantes (2 BLK),-26,12,2,1630441,1628276,,1611661319,59,100,0,4
+01:14,[SEA] Guirantes Rebound (Off:0 Def:1),-26,12,4,,1630441,,1611661328,59,100,0,4
+01:07,[SEA 61-100] Melbourne Jump Shot: Made (2 PTS),17,33,1,,1631141,,1611661328,61,100,2,4
+00:54.2,[LVA 102-61] Plum Driving Layup Shot: Made (23 PTS),-22,22,1,,1628276,,1611661319,61,102,2,4
+00:41.3,[SEA 63-102] Horston Floating Jump shot: Made (8 PTS) Assist: Whitcomb (2 AST),-22,22,1,,1641651,1628244,1611661328,63,102,2,4
+00:20.1,[LVA 105-63] George 3pt Shot: Made (5 PTS) Assist: Plum (5 AST),-234,-6,1,,204297,1628276,1611661319,63,105,3,4
+00:10.1,[LVA] Colson Foul: Personal (1 PF) (2 FTA),87,103,6,1628244,202641,203891,1611661319,63,105,0,4
+00:10.1,Timeout Officials,0,-80,9,,0,,0,63,105,0,4
+00:10.1,[SEA 64-105] Whitcomb Free Throw 1 of 2 (1 PTS),0,-80,3,,1628244,,1611661328,64,105,1,4
+00:10.1,[SEA] Whitcomb Free Throw 2 of 2 Missed,0,-80,3,,1628244,,1611661328,64,105,0,4
+00:05.6,[SEA] Fankam Mendjiadeu Rebound (Off:1 Def:0),0,-80,4,,1641675,,1611661328,64,105,0,4
+00:01.7,[SEA] Whitcomb 3pt Shot: Missed,183,183,2,,1628244,,1611661328,64,105,0,4
+00:01.7,[SEA] Horston Rebound (Off:1 Def:4),183,183,4,,1641651,,1611661328,64,105,0,4
+00:01.1,[SEA] Horston Layup Shot: Missed,-21,24,2,,1641651,,1611661328,64,105,0,4
+00:00.8,[LVA] Colson Rebound (Off:0 Def:2),-21,24,4,,202641,,1611661319,64,105,0,4
+00:00.0,End Period,0,-80,13,,0,,0,64,105,0,4

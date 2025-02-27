@@ -1,0 +1,437 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:55,Jump Ball Ogwumike vs Williams (Stricklen gains possession),0,-80,10,204322,203823,203015,1611661323,0,0,1
+09:40,[CON] Stricklen 3pt Shot: Missed,65,231,2,,203015,,1611661323,0,0,1
+09:36,[ATL] Hayes Rebound (Off:0 Def:1),65,231,4,,203026,,1611661330,0,0,1
+09:32,[ATL] Breland Jump Shot: Missed,-105,169,2,,202638,,1611661330,0,0,1
+09:27,[CON] Ogwumike Rebound (Off:0 Def:1),-105,169,4,,203823,,1611661323,0,0,1
+09:20,[CON 3-0] Thomas 3pt Shot: Made (3 PTS) Assist: Stricklen (1 AST),35,233,1,,202662,203015,1611661323,0,3,1
+09:00,[CON] Thomas Foul: Shooting (1 PF) (3 FTA),-27,235,6,201904,202662,,1611661323,0,3,1
+09:00,[ATL 1-3] Montgomery Free Throw 1 of 3 (1 PTS),0,-80,3,,201904,,1611661330,1,3,1
+09:00,[ATL 2-3] Montgomery Free Throw 2 of 3 (2 PTS),0,-80,3,,201904,,1611661330,2,3,1
+09:00,[ATL 3-3] Montgomery Free Throw 3 of 3 (3 PTS),0,-80,3,,201904,,1611661330,3,3,1
+08:49,[CON] Williams Turnover : Bad Pass (1 TO) Steal:Montgomery (1 ST),-14,211,5,201904,1627675,,1611661323,3,3,1
+08:43,[ATL] Montgomery Turnover : Out of Bounds - Bad Pass Turnover (1 TO),86,4,5,,201904,,1611661330,3,3,1
+08:26,[ATL] Breland Violation:Kicked Ball,0,-80,7,,202638,,1611661330,3,3,1
+08:24,[CON] Thomas Driving Layup Shot: Missed,-43,101,2,,203826,,1611661323,3,3,1
+08:19,[CON] Thomas Rebound (Off:1 Def:0),-43,101,4,,202662,,1611661323,3,3,1
+08:19,[CON] Thomas 3pt Shot: Missed,-208,145,2,,202662,,1611661323,3,3,1
+08:15,[CON] Thomas Rebound (Off:1 Def:0),-208,145,4,,203826,,1611661323,3,3,1
+08:14,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Breland (1 ST),-123,160,5,202638,203826,,1611661323,3,3,1
+08:08,[ATL] Williams Running Layup Shot: Missed,26,-2,2,1627675,204322,,1611661330,3,3,1
+08:08,[ATL] Team Rebound,26,-2,4,,0,,1611661330,3,3,1
+08:01,[ATL] Montgomery Driving Layup Shot: Missed,8,13,2,,201904,,1611661330,3,3,1
+07:57,[CON] Stricklen Rebound (Off:0 Def:1),8,13,4,,203015,,1611661323,3,3,1
+07:53,[CON] Thomas 3pt Shot: Missed,89,222,2,,202662,,1611661323,3,3,1
+07:48,[ATL] Montgomery Rebound (Off:0 Def:1),89,222,4,,201904,,1611661330,3,3,1
+07:43,[CON] Ogwumike Foul: Shooting (1 PF) (2 FTA),52,27,6,201881,203823,,1611661323,3,3,1
+07:43,[ATL 4-3] McCoughtry Free Throw 1 of 2 (1 PTS),0,-80,3,,201881,,1611661330,4,3,1
+07:43,[ATL] McCoughtry Free Throw 2 of 2 Missed,0,-80,3,,201881,,1611661330,4,3,1
+07:41,[CON] Ogwumike Rebound (Off:0 Def:2),0,-80,4,,203823,,1611661323,4,3,1
+07:32,[CON] Williams Pullup Jump shot: Missed,108,148,2,,1627675,,1611661323,4,3,1
+07:28,[ATL] Breland Rebound (Off:0 Def:1),108,148,4,,202638,,1611661330,4,3,1
+07:17,[CON] Thomas Foul: Personal (2 PF),-75,58,6,202638,202662,,1611661323,4,3,1
+07:17,[CON] Thomas Substitution replaced by Bentley,0,-80,8,,202662,203410,1611661323,4,3,1
+07:11,[ATL] McCoughtry Jump Shot: Missed,85,171,2,,201881,,1611661330,4,3,1
+07:07,[CON] Thomas Rebound (Off:1 Def:1),85,171,4,,203826,,1611661323,4,3,1
+06:52,[CON] Stricklen 3pt Shot: Missed,-230,38,2,,203015,,1611661323,4,3,1
+06:48,[ATL] Williams Rebound (Off:0 Def:1),-230,38,4,,204322,,1611661330,4,3,1
+06:41,[ATL] Montgomery Turnover : Lost Ball (2 TO) Steal:Bentley (1 ST),30,40,5,203410,201904,,1611661330,4,3,1
+06:36,[CON 5-4] Williams Pullup Jump shot: Made (2 PTS) Assist: Bentley (1 AST),17,15,1,,1627675,203410,1611661323,4,5,1
+06:20,[ATL] McCoughtry Driving Floating Jump Shot: Missed,13,107,2,,201881,,1611661330,4,5,1
+06:16,[CON] Ogwumike Rebound (Off:0 Def:3),13,107,4,,203823,,1611661323,4,5,1
+06:08,[CON 7-4] Thomas Floating Jump shot: Made (2 PTS) Assist: Bentley (2 AST),-8,101,1,,203826,203410,1611661323,4,7,1
+05:43,[ATL] Hayes 3pt Shot: Missed,-87,221,2,,203026,,1611661330,4,7,1
+05:39,[CON] Thomas Rebound (Off:1 Def:2),-87,221,4,,203826,,1611661323,4,7,1
+05:37,[ATL] McCoughtry Foul: Personal Block (1 PF),-50,228,6,203826,201881,,1611661330,4,7,1
+05:33,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Hayes (1 ST),63,188,5,203026,203826,,1611661323,4,7,1
+05:28,[ATL 6-7] Hayes Running Layup Shot: Made (2 PTS),1,11,1,,203026,,1611661330,6,7,1
+05:12,[CON 9-6] Williams Jump Shot: Made (4 PTS) Assist: Thomas (1 AST),-186,56,1,,1627675,203826,1611661323,6,9,1
+04:53,[ATL 8-9] Williams Turnaround Hook Shot: Made (2 PTS) Assist: Breland (1 AST),3,21,1,,204322,202638,1611661330,8,9,1
+04:50,[ATL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661330,8,9,1
+04:45,[CON 12-8] Stricklen 3pt Shot: Made (3 PTS) Assist: Thomas (2 AST),-226,5,1,,203015,203826,1611661323,8,12,1
+04:29,[ATL] Montgomery 3pt Shot: Missed,132,209,2,,201904,,1611661330,8,12,1
+04:26,[CON] Williams Rebound (Off:0 Def:1),132,209,4,,1627675,,1611661323,8,12,1
+04:15,[CON] Thomas Jump Shot: Missed,-25,153,2,,203826,,1611661323,8,12,1
+04:13,[CON] Team Rebound,-25,153,4,,0,,1611661323,8,12,1
+04:13,[ATL] McCoughtry Foul: Loose Ball (2 PF),-2,17,6,203823,201881,,1611661330,8,12,1
+04:13,Timeout Officials,0,-80,9,,0,,0,8,12,1
+04:13,[ATL] McCoughtry Substitution replaced by Sykes,0,-80,8,,201881,1628279,1611661330,8,12,1
+04:13,[CON] Stricklen Substitution replaced by Jones,0,-80,8,,203015,1627673,1611661323,8,12,1
+04:07,[CON 14-8] Williams Pullup Jump shot: Made (6 PTS),-171,86,1,,1627675,,1611661323,8,14,1
+03:52,[ATL] Sykes Jump Shot: Missed,-58,199,2,,1628279,,1611661330,8,14,1
+03:49,[CON] Bentley Rebound (Off:0 Def:1),-58,199,4,,203410,,1611661323,8,14,1
+03:38,[CON] Jones 3pt Shot: Missed,-80,232,2,,1627673,,1611661323,8,14,1
+03:35,[CON] Thomas Rebound (Off:2 Def:2),-80,232,4,,203826,,1611661323,8,14,1
+03:34,[CON 17-8] Williams 3pt Shot: Made (9 PTS) Assist: Thomas (3 AST),-224,71,1,,1627675,203826,1611661323,8,17,1
+03:14,[ATL 10-17] Hayes Driving Layup Shot: Made (4 PTS),-17,22,1,,203026,,1611661330,10,17,1
+03:05,[CON] Bentley 3pt Shot: Missed,-63,230,2,,203410,,1611661323,10,17,1
+03:01,[ATL] Hayes Rebound (Off:0 Def:2),-63,230,4,,203026,,1611661330,10,17,1
+02:55,[ATL 12-17] Breland Jump Shot: Made (2 PTS) Assist: Sykes (1 AST),-44,191,1,,202638,1628279,1611661330,12,17,1
+02:41,[CON 19-12] Bentley Pullup Jump shot: Made (2 PTS),-124,136,1,,203410,,1611661323,12,19,1
+02:25,[ATL 14-19] Hayes Driving Layup Shot: Made (6 PTS),-8,11,1,,203026,,1611661330,14,19,1
+02:08,[CON 22-14] Bentley 3pt Shot: Made (5 PTS) Assist: Williams (1 AST),-229,22,1,,203410,1627675,1611661323,14,22,1
+01:50,[ATL 16-22] Hayes Jump Shot: Made (8 PTS),-14,187,1,,203026,,1611661330,16,22,1
+01:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,22,1
+01:32,[ATL] Montgomery Substitution replaced by Clarendon,0,-80,8,,201904,203406,1611661330,16,22,1
+01:32,[CON] Williams Substitution replaced by Banham,0,-80,8,,1627675,1627671,1611661323,16,22,1
+01:30,[CON] Bentley Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-202,39,5,,203410,,1611661323,16,22,1
+01:21,[CON] Jones Foul: Personal (1 PF),158,204,6,203406,1627673,,1611661323,16,22,1
+01:13,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,16,22,1
+01:13,[CON] Jones Foul: Inbound (2 PF) (1 FTA),40,59,6,203026,1627673,,1611661323,16,22,1
+01:13,[ATL] Hayes Free Throw 1 of 1 Missed,0,-80,3,,203026,,1611661330,16,22,1
+01:13,[ATL] Team Rebound,0,-80,4,,0,,1611661330,16,22,1
+01:13,[ATL] Breland Substitution replaced by Dantas,0,-80,8,,202638,203024,1611661330,16,22,1
+00:57.1,[ATL] Clarendon Driving Floating Jump Shot: Missed,98,170,2,,203406,,1611661330,16,22,1
+00:52.5,[CON] Jones Rebound (Off:0 Def:1),98,170,4,,1627673,,1611661323,16,22,1
+00:43.3,[CON 24-16] Ogwumike Turnaround Jump Shot: Made (2 PTS) Assist: Bentley (3 AST),-7,162,1,,203823,203410,1611661323,16,24,1
+00:23.1,[ATL 19-24] Dantas 3pt Shot: Made (3 PTS) Assist: Sykes (2 AST),-226,14,1,,203024,1628279,1611661330,19,24,1
+00:01.7,[ATL] Hayes Foul: Shooting (1 PF) (2 FTA),24,28,6,1627673,203026,,1611661330,19,24,1
+00:01.7,[CON 25-19] Jones Free Throw 1 of 2 (1 PTS),0,-80,3,,1627673,,1611661323,19,25,1
+00:01.7,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1627673,,1611661323,19,25,1
+00:00.5,[ATL] Dantas Rebound (Off:0 Def:1),0,-80,4,,203024,,1611661330,19,25,1
+00:00.0,End Period,0,-80,13,,0,,0,19,25,1
+10:00,Start Period,0,-80,12,,0,,0,19,25,2
+09:41,[ATL 21-25] Williams Turnaround Jump Shot: Made (4 PTS),84,-3,1,,204322,,1611661330,21,25,2
+09:25,[CON] Bentley 3pt Shot: Missed,185,144,2,,203410,,1611661323,21,25,2
+09:21,[ATL] Hayes Rebound (Off:0 Def:3),185,144,4,,203026,,1611661330,21,25,2
+09:16,[ATL 24-25] Hayes 3pt Shot: Made (11 PTS),-66,234,1,,203026,,1611661330,24,25,2
+08:55,[ATL] Dantas Foul: Personal (1 PF),110,90,6,1627670,203024,,1611661330,24,25,2
+08:55,[ATL] Williams Substitution replaced by Breland,0,-80,8,,204322,202638,1611661330,24,25,2
+08:49,[CON 27-24] Tuck Reverse Layup Shot: Made (2 PTS) Assist: Thomas (4 AST),-9,16,1,,1627670,203826,1611661323,24,27,2
+08:40,[ATL] Sykes Turnover : Bad Pass (1 TO) Steal:Banham (1 ST),25,380,5,1627671,1628279,,1611661330,24,27,2
+08:36,[CON] Banham Running Layup Shot: Missed,-4,11,2,1628279,1627671,,1611661323,24,27,2
+08:28,[CON] Thomas Rebound (Off:3 Def:2),-4,11,4,,203826,,1611661323,24,27,2
+08:27,[CON 29-24] Thomas Layup Shot: Made (4 PTS),2,1,1,,203826,,1611661323,24,29,2
+08:19,[CON] Tuck Foul: Shooting (1 PF) (2 FTA),1,5,6,1628279,1627670,,1611661323,24,29,2
+08:19,[ATL 25-29] Sykes Free Throw 1 of 2 (1 PTS),0,-80,3,,1628279,,1611661330,25,29,2
+08:19,[ATL] Hayes Substitution replaced by McCoughtry,0,-80,8,,203026,201881,1611661330,25,29,2
+08:19,[ATL 26-29] Sykes Free Throw 2 of 2 (2 PTS),0,-80,3,,1628279,,1611661330,26,29,2
+08:09,[CON 31-26] Thomas Layup Shot: Made (6 PTS) Assist: Jones (1 AST),17,22,1,,203826,1627673,1611661323,26,31,2
+08:09,[ATL] Sykes Foul: Shooting (1 PF) (1 FTA),17,22,6,203826,1628279,,1611661330,26,31,2
+08:09,[CON] Thomas Free Throw 1 of 1 Missed,0,-80,3,,203826,,1611661323,26,31,2
+08:06,[CON] Jones Rebound (Off:1 Def:1),0,-80,4,,1627673,,1611661323,26,31,2
+08:04,[CON] Bentley 3pt Shot: Missed,-145,216,2,,203410,,1611661323,26,31,2
+08:00,[ATL] Clarendon Rebound (Off:0 Def:1),-145,216,4,,203406,,1611661330,26,31,2
+07:58,[ATL] Clarendon Turnover : Bad Pass (1 TO) Steal:Tuck (1 ST),42,433,5,1627670,203406,,1611661330,26,31,2
+07:52,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:McCoughtry (1 ST),-115,193,5,201881,203826,,1611661323,26,31,2
+07:51,[CON] Tuck Foul: Personal (2 PF),50,224,6,201881,1627670,,1611661323,26,31,2
+07:51,[CON] Banham Substitution replaced by Thomas,0,-80,8,,1627671,202662,1611661323,26,31,2
+07:51,[CON] Bentley Substitution replaced by Williams,0,-80,8,,203410,1627675,1611661323,26,31,2
+07:35,[ATL] Sykes Driving Layup Shot: Missed,31,15,2,,1628279,,1611661330,26,31,2
+07:29,[CON] Jones Rebound (Off:1 Def:2),31,15,4,,1627673,,1611661323,26,31,2
+07:24,[CON 33-26] Jones Driving Layup Shot: Made (3 PTS) Assist: Thomas (1 AST),3,27,1,,1627673,202662,1611661323,26,33,2
+07:09,[ATL 28-33] Sykes Cutting Layup Shot: Made (4 PTS) Assist: Dantas (1 AST),1,13,1,,1628279,203024,1611661330,28,33,2
+06:51,[CON] Thomas Jump Shot: Missed,-58,72,2,,203826,,1611661323,28,33,2
+06:47,[ATL] Clarendon Rebound (Off:0 Def:2),-58,72,4,,203406,,1611661330,28,33,2
+06:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,28,33,2
+06:45,[CON] Thomas Substitution replaced by Stricklen,0,-80,8,,203826,203015,1611661323,28,33,2
+06:43,[ATL 30-33] Dantas Fadeaway Jump Shot: Made (5 PTS) Assist: Clarendon (1 AST),19,106,1,,203024,203406,1611661330,30,33,2
+06:23,[CON] Tuck Turnaround Jump Shot: Missed,-51,112,2,,1627670,,1611661323,30,33,2
+06:19,[ATL] McCoughtry Rebound (Off:0 Def:1),-51,112,4,,201881,,1611661330,30,33,2
+06:13,[ATL] Breland Jump Shot: Missed,26,171,2,,202638,,1611661330,30,33,2
+06:09,[CON] Tuck Rebound (Off:0 Def:1),26,171,4,,1627670,,1611661323,30,33,2
+05:59,[CON] Tuck 3pt Shot: Missed,108,210,2,,1627670,,1611661323,30,33,2
+05:56,[ATL] Clarendon Rebound (Off:0 Def:3),108,210,4,,203406,,1611661330,30,33,2
+05:42,[ATL] Breland Turnover : Bad Pass (1 TO),-20,828,5,,202638,,1611661330,30,33,2
+05:42,[ATL] McCoughtry Foul: Loose Ball (3 PF),-24,813,6,1627675,201881,,1611661330,30,33,2
+05:42,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,30,33,2
+05:42,[ATL] Dantas Substitution replaced by Hayes,0,-80,8,,203024,203026,1611661330,30,33,2
+05:42,[ATL] Clarendon Substitution replaced by Williams,0,-80,8,,203406,204322,1611661330,30,33,2
+05:42,[ATL] McCoughtry Substitution replaced by Montgomery,0,-80,8,,201881,201904,1611661330,30,33,2
+05:42,[CON] Tuck Substitution replaced by Ogwumike,0,-80,8,,1627670,203823,1611661323,30,33,2
+05:35,[CON] Williams Pullup Jump shot: Missed,120,131,2,,1627675,,1611661323,30,33,2
+05:31,[ATL] Sykes Rebound (Off:0 Def:1),120,131,4,,1628279,,1611661330,30,33,2
+05:18,[ATL 33-33] Montgomery 3pt Shot: Made (6 PTS),75,226,1,,201904,,1611661330,33,33,2
+04:59,[CON] Thomas Jump Shot: Missed,-197,6,2,,202662,,1611661323,33,33,2
+04:56,[ATL] Team Rebound,-197,6,4,,0,,1611661330,33,33,2
+04:37,[ATL] Williams Jump Shot: Missed,-47,15,2,1627673,204322,,1611661330,33,33,2
+04:33,[ATL] Williams Rebound (Off:1 Def:1),-47,15,4,,204322,,1611661330,33,33,2
+04:31,Jump Ball Jones vs Williams (Williams gains possession),0,-80,10,204322,1627673,1627675,1611661323,33,33,2
+04:31,[ATL] Williams Turnover : Lost Ball (1 TO) Steal:Jones (1 ST),-4,149,5,1627673,204322,,1611661330,33,33,2
+04:24,[CON 35-33] Ogwumike Driving Layup Shot: Made (4 PTS) Assist: Williams (2 AST),2,17,1,,203823,1627675,1611661323,33,35,2
+04:24,[ATL] Breland Foul: Shooting (1 PF) (1 FTA),2,17,6,203823,202638,,1611661330,33,35,2
+04:24,[CON 36-33] Ogwumike Free Throw 1 of 1 (5 PTS),0,-80,3,,203823,,1611661323,33,36,2
+04:10,[ATL 36-36] Montgomery 3pt Shot: Made (9 PTS),-61,234,1,,201904,,1611661330,36,36,2
+03:52,[CON] Stricklen 3pt Shot: Missed,-112,246,2,,203015,,1611661323,36,36,2
+03:47,[ATL] Team Rebound,-112,246,4,,0,,1611661330,36,36,2
+03:30,[ATL] Breland Jump Shot: Missed,-121,169,2,,202638,,1611661330,36,36,2
+03:26,[CON] Williams Rebound (Off:0 Def:2),-121,169,4,,1627675,,1611661323,36,36,2
+03:20,[CON] Williams Pullup Jump shot: Missed,96,21,2,,1627675,,1611661323,36,36,2
+03:17,[ATL] Montgomery Rebound (Off:0 Def:2),96,21,4,,201904,,1611661330,36,36,2
+03:09,[ATL] Williams Cutting Layup Shot: Missed,12,6,2,1627673,204322,,1611661330,36,36,2
+03:03,[CON] Jones Rebound (Off:1 Def:3),12,6,4,,1627673,,1611661323,36,36,2
+03:00,[CON] Thomas Jump Shot: Missed,-97,96,2,,202662,,1611661323,36,36,2
+02:59,[CON] Williams Rebound (Off:1 Def:2),-97,96,4,,1627675,,1611661323,36,36,2
+02:59,[CON] Williams Turnover : Step Out of Bounds Turnover (2 TO),-8,12,5,,1627675,,1611661323,36,36,2
+02:59,[ATL] Breland Substitution replaced by Dantas,0,-80,8,,202638,203024,1611661330,36,36,2
+02:49,[ATL 39-36] Hayes 3pt Shot: Made (14 PTS) Assist: Montgomery (1 AST),114,210,1,,203026,201904,1611661330,39,36,2
+02:46,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,39,36,2
+02:46,Instant Replay - Support Ruling,0,-80,18,,0,,0,39,36,2
+02:46,[CON] Thomas Substitution replaced by Bentley,0,-80,8,,202662,203410,1611661323,39,36,2
+02:46,[CON] Jones Substitution replaced by Thomas,0,-80,8,,1627673,203826,1611661323,39,36,2
+02:32,[CON] Thomas Turnover : Lost Ball (4 TO) Steal:Montgomery (2 ST),-100,332,5,201904,203826,,1611661323,39,36,2
+02:28,[ATL] Montgomery Turnover : Out of Bounds - Bad Pass Turnover (3 TO),101,49,5,,201904,,1611661330,39,36,2
+02:11,[CON] Ogwumike Driving Layup Shot: Missed,-32,99,2,,203823,,1611661323,39,36,2
+02:07,[ATL] Dantas Rebound (Off:0 Def:2),-32,99,4,,203024,,1611661330,39,36,2
+01:51,[ATL 41-36] Dantas Jump Shot: Made (7 PTS) Assist: Hayes (1 AST),112,51,1,,203024,203026,1611661330,41,36,2
+01:40,[CON] Williams 3pt Shot: Missed,-135,199,2,,1627675,,1611661323,41,36,2
+01:37,[ATL] Montgomery Rebound (Off:0 Def:3),-135,199,4,,201904,,1611661330,41,36,2
+01:23,[CON] Ogwumike Foul: Personal (2 PF),82,13,6,204322,203823,,1611661323,41,36,2
+01:18,[ATL] Hayes Driving Layup Shot: Missed,-2,14,2,,203026,,1611661330,41,36,2
+01:15,[CON] Thomas Rebound (Off:3 Def:3),-2,14,4,,203826,,1611661323,41,36,2
+01:12,[CON 38-41] Thomas Running Layup Shot: Made (8 PTS),11,21,1,,203826,,1611661323,41,38,2
+00:51.9,[ATL 44-38] Montgomery 3pt Shot: Made (12 PTS) Assist: Hayes (2 AST),73,225,1,,201904,203026,1611661330,44,38,2
+00:43.1,[CON] Bentley 3pt Shot: Missed,-162,177,2,,203410,,1611661323,44,38,2
+00:38.8,[CON] Thomas Rebound (Off:4 Def:3),-162,177,4,,203826,,1611661323,44,38,2
+00:36.3,[CON 40-44] Bentley Pullup Jump shot: Made (7 PTS) Assist: Thomas (5 AST),25,199,1,,203410,203826,1611661323,44,40,2
+00:26.0,[CON] Williams Foul: Personal Block (1 PF) (2 FTA),75,216,6,203026,1627675,,1611661323,44,40,2
+00:26.0,[ATL 45-40] Hayes Free Throw 1 of 2 (15 PTS),0,-80,3,,203026,,1611661330,45,40,2
+00:26.0,[ATL] Dantas Substitution replaced by Breland,0,-80,8,,203024,202638,1611661330,45,40,2
+00:26.0,[ATL] Montgomery Substitution replaced by Clarendon,0,-80,8,,201904,203406,1611661330,45,40,2
+00:26.0,[ATL 46-40] Hayes Free Throw 2 of 2 (16 PTS),0,-80,3,,203026,,1611661330,46,40,2
+00:02.2,[CON] Bentley 3pt Shot: Missed,10,239,2,,203410,,1611661323,46,40,2
+00:00.6,[CON] Team Rebound,10,239,4,,0,,1611661323,46,40,2
+00:00.0,End Period,0,-80,13,,0,,0,46,40,2
+10:00,Start Period,0,-80,12,,0,,0,46,40,3
+09:43,[ATL] Williams Turnover : Traveling (2 TO),-97,31,5,,204322,,1611661330,46,40,3
+09:30,[CON 42-46] Williams Jump Shot: Made (11 PTS) Assist: Thomas (6 AST),34,154,1,,1627675,203826,1611661323,46,42,3
+09:18,[ATL] McCoughtry Pullup Jump shot: Missed,-135,124,2,,201881,,1611661330,46,42,3
+09:14,[CON] Ogwumike Rebound (Off:0 Def:4),-135,124,4,,203823,,1611661323,46,42,3
+09:01,[ATL] Williams Foul: Shooting (1 PF) (2 FTA),8,25,6,203823,204322,,1611661330,46,42,3
+09:01,[CON 43-46] Ogwumike Free Throw 1 of 2 (6 PTS),0,-80,3,,203823,,1611661323,46,43,3
+09:01,[CON] Ogwumike Free Throw 2 of 2 Missed,0,-80,3,,203823,,1611661323,46,43,3
+08:58,[ATL] Breland Rebound (Off:0 Def:2),0,-80,4,,202638,,1611661330,46,43,3
+08:47,[ATL 48-43] Breland Reverse Layup Shot: Made (4 PTS) Assist: McCoughtry (1 AST),-2,8,1,,202638,201881,1611661330,48,43,3
+08:35,[CON] Thomas Layup Shot: Missed,2,9,2,,203826,,1611661323,48,43,3
+08:34,[CON] Thomas Rebound (Off:5 Def:3),2,9,4,,203826,,1611661323,48,43,3
+08:23,[CON] Williams Floating Jump shot: Missed,81,9,2,,1627675,,1611661323,48,43,3
+08:19,[CON] Williams Rebound (Off:2 Def:2),81,9,4,,1627675,,1611661323,48,43,3
+08:13,[CON] Thomas 3pt Shot: Missed,221,11,2,,202662,,1611661323,48,43,3
+08:11,[ATL] McCoughtry Rebound (Off:0 Def:2),221,11,4,,201881,,1611661330,48,43,3
+08:10,[ATL] Hayes 3pt Shot: Missed,-170,176,2,,203026,,1611661330,48,43,3
+08:09,[CON] Thomas Rebound (Off:5 Def:4),-170,176,4,,203826,,1611661323,48,43,3
+08:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,43,3
+07:59,[CON] Thomas Jump Shot: Missed,75,73,2,,202662,,1611661323,48,43,3
+07:54,[CON] Team Rebound,75,73,4,,0,,1611661323,48,43,3
+07:51,[CON 45-48] Thomas Reverse Layup Shot: Made (10 PTS) Assist: Thomas (2 AST),9,25,1,,203826,202662,1611661323,48,45,3
+07:51,[ATL] Williams Foul: Shooting (2 PF) (1 FTA),9,25,6,203826,204322,,1611661330,48,45,3
+07:51,[CON 46-48] Thomas Free Throw 1 of 1 (11 PTS),0,-80,3,,203826,,1611661323,48,46,3
+07:41,[CON] Thomas Foul: Personal Block (1 PF),-180,108,6,203026,203826,,1611661323,48,46,3
+07:30,[ATL] Hayes Driving Reverse Layup Shot: Missed,-8,15,2,,203026,,1611661330,48,46,3
+07:26,[CON] Ogwumike Rebound (Off:0 Def:5),-8,15,4,,203823,,1611661323,48,46,3
+07:20,[CON] Thomas Driving Layup Shot: Missed,8,11,2,,202662,,1611661323,48,46,3
+07:14,[ATL] McCoughtry Rebound (Off:0 Def:3),8,11,4,,201881,,1611661330,48,46,3
+07:12,[ATL 50-46] McCoughtry Layup Shot: Made (3 PTS),-25,21,1,,201881,,1611661330,50,46,3
+06:52,[CON] Stricklen 3pt Shot: Missed,74,231,2,,203015,,1611661323,50,46,3
+06:47,[CON] Ogwumike Rebound (Off:1 Def:5),74,231,4,,203823,,1611661323,50,46,3
+06:47,[CON] Ogwumike Layup Shot: Missed,2,16,2,204322,203823,,1611661323,50,46,3
+06:46,[ATL] Team Rebound,2,16,4,,0,,1611661330,50,46,3
+06:46,[CON] Thomas Foul: Loose Ball (3 PF),-4,829,6,202638,202662,,1611661323,50,46,3
+06:32,[ATL 52-46] McCoughtry Running Pull-Up Jump Shot: Made (5 PTS) Assist: Breland (2 AST),-170,32,1,,201881,202638,1611661330,52,46,3
+06:17,[CON] Ogwumike Hook Shot: Missed,-10,15,2,,203823,,1611661323,52,46,3
+06:12,[ATL] Breland Rebound (Off:0 Def:3),-10,15,4,,202638,,1611661330,52,46,3
+06:08,[CON] Thomas Foul: Shooting Block (2 PF) (2 FTA),-14,33,6,204322,203826,,1611661323,52,46,3
+06:08,[ATL] Williams Free Throw 1 of 2 Missed,0,-80,3,,204322,,1611661330,52,46,3
+06:08,[ATL] Team Rebound,0,-80,4,,0,,1611661330,52,46,3
+06:08,[CON] Williams Substitution replaced by Bentley,0,-80,8,,1627675,203410,1611661323,52,46,3
+06:08,[CON] Stricklen Substitution replaced by Jones,0,-80,8,,203015,1627673,1611661323,52,46,3
+06:08,[ATL] Williams Free Throw 2 of 2 Missed,0,-80,3,,204322,,1611661330,52,46,3
+06:06,[CON] Jones Rebound (Off:1 Def:4),0,-80,4,,1627673,,1611661323,52,46,3
+05:55,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Hayes (2 ST),62,181,5,203026,202662,,1611661323,52,46,3
+05:50,[ATL] Hayes Turnover : Lost Ball (1 TO),-67,59,5,,203026,,1611661330,52,46,3
+05:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,52,46,3
+05:31,[CON] Thomas 3pt Shot: Missed,221,79,2,,202662,,1611661323,52,46,3
+05:27,[ATL] Hayes Rebound (Off:0 Def:4),221,79,4,,203026,,1611661330,52,46,3
+05:15,[ATL] Hayes Turnover : Lost Ball (2 TO) Steal:Thomas (1 ST),-82,135,5,202662,203026,,1611661330,52,46,3
+05:10,[CON 48-52] Thomas Layup Shot: Made (13 PTS) Assist: Thomas (3 AST),23,24,1,,203826,202662,1611661323,52,48,3
+04:57,[ATL] Williams Layup Shot: Missed,15,15,2,,204322,,1611661330,52,48,3
+04:54,[CON] Jones Rebound (Off:1 Def:5),15,15,4,,1627673,,1611661323,52,48,3
+04:50,[CON] Jones Foul: Offensive Charge (3 PF),1,32,6,202638,1627673,,1611661323,52,48,3
+04:50,[CON] Jones Turnover : Offensive Foul Turnover (1 TO),1,32,5,,1627673,,1611661323,52,48,3
+04:50,Timeout Officials,0,-80,9,,0,,0,52,48,3
+04:50,[ATL] Williams Substitution replaced by Dantas,0,-80,8,,204322,203024,1611661330,52,48,3
+04:50,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,52,48,3
+04:39,[ATL] McCoughtry Driving Hook Shot: Missed,-2,18,2,,201881,,1611661330,52,48,3
+04:36,[CON] Ogwumike Rebound (Off:1 Def:6),-2,18,4,,203823,,1611661323,52,48,3
+04:29,[CON] Bentley 3pt Shot: Missed,-71,234,2,,203410,,1611661323,52,48,3
+04:26,[ATL] Hayes Rebound (Off:0 Def:5),-71,234,4,,203026,,1611661330,52,48,3
+04:17,[CON] Banham Foul: Personal Block (1 PF),-4,191,6,203026,1627671,,1611661323,52,48,3
+04:09,[ATL] McCoughtry Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-167,-19,5,,201881,,1611661330,52,48,3
+04:00,[CON 50-52] Ogwumike Layup Shot: Made (8 PTS) Assist: Bentley (4 AST),1,16,1,,203823,203410,1611661323,52,50,3
+03:44,[ATL] Breland Driving Layup Shot: Missed,7,32,2,,202638,,1611661330,52,50,3
+03:40,[CON] Thomas Rebound (Off:5 Def:5),7,32,4,,203826,,1611661323,52,50,3
+03:31,[CON] Jones Turnover : Lost Ball (2 TO) Steal:Breland (2 ST),-92,84,5,202638,1627673,,1611661323,52,50,3
+03:23,[ATL 54-50] Dantas Layup Shot: Made (9 PTS) Assist: McCoughtry (2 AST),-3,17,1,,203024,201881,1611661330,54,50,3
+03:23,[CON] Banham Foul: Shooting (2 PF) (1 FTA),-3,17,6,203024,1627671,,1611661323,54,50,3
+03:23,[ATL] Hayes Substitution replaced by Clarendon,0,-80,8,,203026,203406,1611661330,54,50,3
+03:23,[ATL] Montgomery Substitution replaced by Sykes,0,-80,8,,201904,1628279,1611661330,54,50,3
+03:23,[ATL 55-50] Dantas Free Throw 1 of 1 (10 PTS),0,-80,3,,203024,,1611661330,55,50,3
+03:08,[CON 53-55] Banham 3pt Shot: Made (3 PTS),106,209,1,,1627671,,1611661323,55,53,3
+02:56,[ATL] Dantas 3pt Shot: Missed,71,223,2,,203024,,1611661330,55,53,3
+02:53,[CON] Ogwumike Rebound (Off:1 Def:7),71,223,4,,203823,,1611661323,55,53,3
+02:48,[CON] Banham 3pt Shot: Missed,-139,202,2,,1627671,,1611661323,55,53,3
+02:41,[CON] Jones Rebound (Off:2 Def:5),-139,202,4,,1627673,,1611661323,55,53,3
+02:40,[CON] Jones Layup Shot: Missed,2,17,2,,1627673,,1611661323,55,53,3
+02:40,[CON] Team Rebound,2,17,4,,0,,1611661323,55,53,3
+02:40,[CON] Banham Substitution replaced by Williams,0,-80,8,,1627671,1627675,1611661323,55,53,3
+02:37,[CON] Bentley Jump Shot: Missed,-127,13,2,,203410,,1611661323,55,53,3
+02:33,[ATL] Breland Rebound (Off:0 Def:4),-127,13,4,,202638,,1611661330,55,53,3
+02:26,[ATL] Clarendon Reverse Layup Shot: Missed,-9,3,2,,203406,,1611661330,55,53,3
+02:23,[ATL] Dantas Rebound (Off:1 Def:2),-9,3,4,,203024,,1611661330,55,53,3
+02:22,[ATL] Dantas Layup Shot: Missed,0,18,2,203410,203024,,1611661330,55,53,3
+02:18,[CON] Williams Rebound (Off:2 Def:3),0,18,4,,1627675,,1611661323,55,53,3
+02:06,[CON] Thomas Foul: Offensive Charge (3 PF),65,158,6,201881,203826,,1611661323,55,53,3
+02:06,[CON] Thomas Turnover : Offensive Foul Turnover (5 TO),65,158,5,,203826,,1611661323,55,53,3
+02:06,[CON] Bentley Substitution replaced by Banham,0,-80,8,,203410,1627671,1611661323,55,53,3
+01:53,[ATL] Breland Jump Shot: Missed,22,209,2,,202638,,1611661330,55,53,3
+01:51,[CON] Team Rebound,22,209,4,,0,,1611661323,55,53,3
+01:44,[ATL] Clarendon Foul: Personal (1 PF),8,113,6,203823,203406,,1611661330,55,53,3
+01:36,[CON 55-55] Ogwumike Layup Shot: Made (10 PTS) Assist: Williams (3 AST),3,17,1,,203823,1627675,1611661323,55,55,3
+01:24,[CON] Ogwumike Foul: Shooting (3 PF) (2 FTA),-2,11,6,201881,203823,,1611661323,55,55,3
+01:24,[ATL 56-55] McCoughtry Free Throw 1 of 2 (6 PTS),0,-80,3,,201881,,1611661330,56,55,3
+01:24,[ATL 57-55] McCoughtry Free Throw 2 of 2 (7 PTS),0,-80,3,,201881,,1611661330,57,55,3
+01:12,[ATL] McCoughtry Foul: Shooting (4 PF) (2 FTA),1,12,6,1627671,201881,,1611661330,57,55,3
+01:12,[CON 56-57] Banham Free Throw 1 of 2 (4 PTS),0,-80,3,,1627671,,1611661323,57,56,3
+01:12,[ATL] McCoughtry Substitution replaced by Hayes,0,-80,8,,201881,203026,1611661330,57,56,3
+01:12,[CON 57-57] Banham Free Throw 2 of 2 (5 PTS),0,-80,3,,1627671,,1611661323,57,57,3
+00:54.4,[CON] Ogwumike Foul: Shooting (4 PF) (2 FTA),-17,13,6,202638,203823,,1611661323,57,57,3
+00:54.4,[ATL 58-57] Breland Free Throw 1 of 2 (5 PTS),0,-80,3,,202638,,1611661330,58,57,3
+00:54.4,[CON] Ogwumike Substitution replaced by Stricklen,0,-80,8,,203823,203015,1611661323,58,57,3
+00:54.4,[ATL 59-57] Breland Free Throw 2 of 2 (6 PTS),0,-80,3,,202638,,1611661330,59,57,3
+00:43.7,[ATL] Dantas Foul: Personal (2 PF) (2 FTA),2,60,6,1627673,203024,,1611661330,59,57,3
+00:43.7,[CON 58-59] Jones Free Throw 1 of 2 (4 PTS),0,-80,3,,1627673,,1611661323,59,58,3
+00:43.7,[ATL] Breland Substitution replaced by Williams,0,-80,8,,202638,204322,1611661330,59,58,3
+00:43.7,[CON 59-59] Jones Free Throw 2 of 2 (5 PTS),0,-80,3,,1627673,,1611661323,59,59,3
+00:31.5,[CON] Stricklen Foul: Personal (1 PF) (2 FTA),-15,37,6,203024,203015,,1611661323,59,59,3
+00:31.5,[ATL] Dantas Free Throw 1 of 2 Missed,0,-80,3,,203024,,1611661330,59,59,3
+00:31.5,[ATL] Team Rebound,0,-80,4,,0,,1611661330,59,59,3
+00:31.5,[ATL 60-59] Dantas Free Throw 2 of 2 (11 PTS),0,-80,3,,203024,,1611661330,60,59,3
+00:17.3,[CON] Banham Pullup Jump shot: Missed,64,180,2,,1627671,,1611661323,60,59,3
+00:13.8,[ATL] Sykes Rebound (Off:0 Def:2),64,180,4,,1628279,,1611661330,60,59,3
+00:01.8,[CON] Banham Foul: Shooting (3 PF) (2 FTA),8,7,6,1628279,1627671,,1611661323,60,59,3
+00:01.8,[ATL] Sykes Free Throw 1 of 2 Missed,0,-80,3,,1628279,,1611661330,60,59,3
+00:01.8,[ATL] Team Rebound,0,-80,4,,0,,1611661330,60,59,3
+00:01.8,[ATL] Sykes Free Throw 2 of 2 Missed,0,-80,3,,1628279,,1611661330,60,59,3
+00:00.0,[CON] Jones Rebound (Off:2 Def:6),0,-80,4,,1627673,,1611661323,60,59,3
+00:00.0,End Period,0,-80,13,,0,,0,60,59,3
+10:00,Start Period,0,-80,12,,0,,0,60,59,4
+09:49,[CON] Stricklen 3pt Shot: Missed,73,226,2,,203015,,1611661323,60,59,4
+09:46,[ATL] Team Rebound,73,226,4,,0,,1611661330,60,59,4
+09:32,[ATL 62-59] Sykes Step Back Jump shot: Made (6 PTS) Assist: Hayes (3 AST),-62,203,1,,1628279,203026,1611661330,62,59,4
+09:18,[CON 61-62] Thomas Driving Layup Shot: Made (15 PTS),-7,13,1,,203826,,1611661323,62,61,4
+09:18,[ATL] Dantas Foul: Shooting (3 PF) (1 FTA),-7,13,6,203826,203024,,1611661330,62,61,4
+09:18,[CON 62-62] Thomas Free Throw 1 of 1 (16 PTS),0,-80,3,,203826,,1611661323,62,62,4
+09:08,[ATL] Hayes Turnover : Lost Ball (3 TO) Steal:Jones (2 ST),-46,180,5,1627673,203026,,1611661330,62,62,4
+09:03,[CON] Thomas Foul: Offensive Charge (4 PF),1,96,6,1628279,203826,,1611661323,62,62,4
+09:03,[CON] Thomas Turnover : Offensive Foul Turnover (6 TO),1,96,5,,203826,,1611661323,62,62,4
+08:47,[ATL] Sykes Pullup Jump shot: Missed,89,113,2,,1628279,,1611661330,62,62,4
+08:43,[CON] Thomas Rebound (Off:5 Def:6),89,113,4,,203826,,1611661323,62,62,4
+08:34,[CON] Williams Pullup Jump shot: Missed,45,171,2,,1627675,,1611661323,62,62,4
+08:31,[ATL] Clarendon Rebound (Off:0 Def:4),45,171,4,,203406,,1611661330,62,62,4
+08:27,[ATL 64-62] Hayes Layup Shot: Made (18 PTS) Assist: Clarendon (2 AST),8,11,1,,203026,203406,1611661330,64,62,4
+08:11,[CON 64-64] Thomas Layup Shot: Made (5 PTS) Assist: Jones (2 AST),0,11,1,,202662,1627673,1611661323,64,64,4
+07:51,[ATL] Williams Layup Shot: Missed,-1,1,2,1627673,204322,,1611661330,64,64,4
+07:47,[CON] Williams Rebound (Off:2 Def:4),-1,1,4,,1627675,,1611661323,64,64,4
+07:47,[ATL] Clarendon Foul: Personal (2 PF),-69,749,6,1627675,203406,,1611661330,64,64,4
+07:47,[ATL] Dantas Substitution replaced by Breland,0,-80,8,,203024,202638,1611661330,64,64,4
+07:31,[CON] Jones Turnover : Lost Ball (3 TO) Steal:Clarendon (1 ST),80,111,5,203406,1627673,,1611661323,64,64,4
+07:19,[ATL 66-64] Clarendon Pullup Jump shot: Made (2 PTS),-48,183,1,,203406,,1611661330,66,64,4
+06:56,[CON] Thomas Layup Shot: Missed,4,40,2,,203826,,1611661323,66,64,4
+06:50,[ATL] Breland Rebound (Off:0 Def:5),4,40,4,,202638,,1611661330,66,64,4
+06:45,[ATL] Williams Jump Shot: Missed,47,112,2,,204322,,1611661330,66,64,4
+06:40,[CON] Thomas Rebound (Off:5 Def:7),47,112,4,,203826,,1611661323,66,64,4
+06:37,[CON] Jones 3pt Shot: Missed,-158,180,2,,1627673,,1611661323,66,64,4
+06:32,[ATL] Breland Rebound (Off:0 Def:6),-158,180,4,,202638,,1611661330,66,64,4
+06:13,[ATL] Hayes 3pt Shot: Missed,47,239,2,,203026,,1611661330,66,64,4
+06:10,[CON] Thomas Rebound (Off:5 Def:8),47,239,4,,203826,,1611661323,66,64,4
+06:10,[ATL] Clarendon Foul: Personal (3 PF),6,28,6,203826,203406,,1611661330,66,64,4
+06:10,[ATL] Williams Substitution replaced by Dantas,0,-80,8,,204322,203024,1611661330,66,64,4
+06:10,[ATL] Sykes Substitution replaced by McCoughtry,0,-80,8,,1628279,201881,1611661330,66,64,4
+06:10,[ATL] Clarendon Substitution replaced by Montgomery,0,-80,8,,203406,201904,1611661330,66,64,4
+06:10,[CON] Jones Substitution replaced by Bentley,0,-80,8,,1627673,203410,1611661323,66,64,4
+06:10,[CON] Stricklen Substitution replaced by Ogwumike,0,-80,8,,203015,203823,1611661323,66,64,4
+06:05,[CON] Thomas Jump Shot: Missed,31,83,2,,203826,,1611661323,66,64,4
+06:04,[ATL] Montgomery Rebound (Off:0 Def:4),31,83,4,,201904,,1611661330,66,64,4
+06:03,[ATL 68-64] Dantas Layup Shot: Made (13 PTS) Assist: McCoughtry (3 AST),-13,29,1,,203024,201881,1611661330,68,64,4
+05:40,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,68,64,4
+05:36,[CON 66-68] Ogwumike Layup Shot: Made (12 PTS) Assist: Thomas (7 AST),0,9,1,,203823,203826,1611661323,68,66,4
+05:23,[CON] Thomas Foul: Personal (4 PF),-2,40,6,201881,202662,,1611661323,68,66,4
+05:14,[ATL 70-66] Dantas Layup Shot: Made (15 PTS) Assist: McCoughtry (4 AST),-40,48,1,,203024,201881,1611661330,70,66,4
+05:00,[CON] Ogwumike Turnover : Traveling (1 TO),86,33,5,,203823,,1611661323,70,66,4
+04:48,[ATL] Breland Turnover : Traveling (2 TO),104,70,5,,202638,,1611661330,70,66,4
+04:34,[CON] Thomas Driving Layup Shot: Missed,3,13,2,,203826,,1611661323,70,66,4
+04:30,[CON] Williams Rebound (Off:3 Def:4),3,13,4,,1627675,,1611661323,70,66,4
+04:22,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Hayes (3 ST),13,22,5,203026,202662,,1611661323,70,66,4
+04:16,[ATL] Hayes Layup Shot: Missed,-9,16,2,,203026,,1611661330,70,66,4
+04:10,[CON] Williams Rebound (Off:3 Def:5),-9,16,4,,1627675,,1611661323,70,66,4
+04:07,[CON] Bentley Driving Layup Shot: Missed,6,22,2,,203410,,1611661323,70,66,4
+04:02,[ATL] Dantas Rebound (Off:1 Def:3),6,22,4,,203024,,1611661330,70,66,4
+03:58,[ATL] Team Timeout : Regular,0,-80,9,,1611661330,,1611661330,70,66,4
+03:49,[ATL] McCoughtry Jump Shot: Missed,15,174,2,202662,201881,,1611661330,70,66,4
+03:43,[CON] Thomas Rebound (Off:5 Def:9),15,174,4,,203826,,1611661323,70,66,4
+03:35,[CON] Williams Turnover : Out of Bounds - Bad Pass Turnover (3 TO),125,-5,5,,1627675,,1611661323,70,66,4
+03:26,[ATL] Montgomery 3pt Shot: Missed,144,191,2,,201904,,1611661330,70,66,4
+03:23,[CON] Williams Rebound (Off:3 Def:6),144,191,4,,1627675,,1611661323,70,66,4
+03:23,Jump Ball Williams vs Montgomery (Thomas gains possession),0,-80,10,201904,1627675,203826,1611661323,70,66,4
+03:18,[CON] Thomas 3pt Shot: Missed,229,19,2,,202662,,1611661323,70,66,4
+03:13,[ATL] Hayes Rebound (Off:0 Def:6),229,19,4,,203026,,1611661330,70,66,4
+02:57,[ATL] McCoughtry Running Pull-Up Jump Shot: Missed,-54,54,2,,201881,,1611661330,70,66,4
+02:53,[CON] Thomas Rebound (Off:5 Def:10),-54,54,4,,203826,,1611661323,70,66,4
+02:50,[CON] Williams Jump Shot: Missed,170,106,2,,1627675,,1611661323,70,66,4
+02:46,[ATL] Dantas Rebound (Off:1 Def:4),170,106,4,,203024,,1611661330,70,66,4
+02:36,[ATL 72-66] McCoughtry Reverse Layup Shot: Made (9 PTS) Assist: Dantas (2 AST),-2,6,1,,201881,203024,1611661330,72,66,4
+02:25,[CON] Thomas Driving Layup Shot: Missed,14,25,2,,202662,,1611661323,72,66,4
+02:21,[ATL] Breland Rebound (Off:0 Def:7),14,25,4,,202638,,1611661330,72,66,4
+02:11,[ATL 74-66] Breland Jump Shot: Made (8 PTS) Assist: Hayes (4 AST),180,50,1,,202638,203026,1611661330,74,66,4
+02:09,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,74,66,4
+02:09,[ATL] Montgomery Substitution replaced by Clarendon,0,-80,8,,201904,203406,1611661330,74,66,4
+02:09,[CON] Williams Substitution replaced by Jones,0,-80,8,,1627675,1627673,1611661323,74,66,4
+01:58,[CON] Jones 3pt Shot: Missed,-113,212,2,,1627673,,1611661323,74,66,4
+01:54,[ATL] Hayes Rebound (Off:0 Def:7),-113,212,4,,203026,,1611661330,74,66,4
+01:38,[ATL] McCoughtry Pullup Jump shot: Missed,-112,124,2,,201881,,1611661330,74,66,4
+01:35,[CON] Ogwumike Rebound (Off:1 Def:8),-112,124,4,,203823,,1611661323,74,66,4
+01:35,[ATL] Hayes Foul: Personal (2 PF),0,698,6,203823,203026,,1611661330,74,66,4
+01:27,[CON 69-74] Bentley 3pt Shot: Made (10 PTS),115,208,1,,203410,,1611661323,74,69,4
+01:08,[ATL] Breland Layup Shot: Missed,-2,13,2,,202638,,1611661330,74,69,4
+01:07,[ATL] Breland Rebound (Off:1 Def:7),-2,13,4,,202638,,1611661330,74,69,4
+01:06,[ATL] Breland Tip Layup Shot: Missed,-9,12,2,,202638,,1611661330,74,69,4
+01:05,[CON] Thomas Rebound (Off:5 Def:11),-9,12,4,,203826,,1611661323,74,69,4
+00:57.0,[CON] Bentley 3pt Shot: Missed,76,241,2,,203410,,1611661323,74,69,4
+00:55.4,[ATL] Breland Rebound (Off:1 Def:8),76,241,4,,202638,,1611661330,74,69,4
+00:54.9,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,74,69,4
+00:54.9,[ATL] Clarendon Substitution replaced by Montgomery,0,-80,8,,203406,201904,1611661330,74,69,4
+00:37.7,[ATL 76-69] McCoughtry Jump Shot: Made (11 PTS) Assist: Montgomery (2 AST),87,142,1,,201881,201904,1611661330,76,69,4
+00:37.7,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,76,69,4
+00:37.7,Instant Replay - Support Ruling,0,-80,18,,0,,0,76,69,4
+00:37.7,[ATL] Montgomery Substitution replaced by Clarendon,0,-80,8,,201904,203406,1611661330,76,69,4
+00:37.7,[CON] Ogwumike Substitution replaced by Stricklen,0,-80,8,,203823,203015,1611661323,76,69,4
+00:31.3,[CON 71-76] Bentley Layup Shot: Made (12 PTS),13,25,1,,203410,,1611661323,76,71,4
+00:31.2,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,76,71,4
+00:31.2,[ATL] Clarendon Substitution replaced by Montgomery,0,-80,8,,203406,201904,1611661330,76,71,4
+00:30.3,[CON] Bentley Foul: Personal (1 PF),-29,550,6,201904,203410,,1611661323,76,71,4
+00:30.0,[CON] Thomas Foul: Personal Take (5 PF) (2 FTA),-4,731,6,203026,202662,,1611661323,76,71,4
+00:30.0,[ATL 77-71] Hayes Free Throw 1 of 2 (19 PTS),0,-80,3,,203026,,1611661330,77,71,4
+00:30.0,[ATL] Dantas Substitution replaced by Clarendon,0,-80,8,,203024,203406,1611661330,77,71,4
+00:30.0,[ATL 78-71] Hayes Free Throw 2 of 2 (20 PTS),0,-80,3,,203026,,1611661330,78,71,4
+00:22.5,[ATL] Team Timeout : Short,0,-80,9,,1611661330,,1611661330,78,71,4
+00:22.4,[CON 74-78] Stricklen 3pt Shot: Made (6 PTS) Assist: Bentley (5 AST),-50,232,1,,203015,203410,1611661323,78,74,4
+00:22.2,[CON] Thomas Foul: Personal Take (6 PF) (2 FTA),48,117,6,203026,202662,,1611661323,78,74,4
+00:22.2,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,78,74,4
+00:22.2,[ATL 79-74] Hayes Free Throw 1 of 2 (21 PTS),0,-80,3,,203026,,1611661330,79,74,4
+00:22.2,[ATL 80-74] Hayes Free Throw 2 of 2 (22 PTS),0,-80,3,,203026,,1611661330,80,74,4
+00:22.2,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,80,74,4
+00:19.4,[CON] Bentley 3pt Shot: Missed,-82,228,2,,203410,,1611661323,80,74,4
+00:15.2,[CON] Team Rebound,-82,228,4,,0,,1611661323,80,74,4
+00:11.6,[CON] Stricklen 3pt Shot: Missed,168,169,2,,203015,,1611661323,80,74,4
+00:08.6,[CON] Thomas Rebound (Off:6 Def:11),168,169,4,,203826,,1611661323,80,74,4
+00:08.6,[CON 76-80] Thomas Putback Layup Shot: Made (18 PTS),13,20,1,,203826,,1611661323,80,76,4
+00:07.7,[CON] Jones Foul: Personal Take (4 PF) (2 FTA),2,824,6,203406,1627673,,1611661323,80,76,4
+00:07.7,[ATL 81-76] Clarendon Free Throw 1 of 2 (3 PTS),0,-80,3,,203406,,1611661330,81,76,4
+00:07.7,[ATL 82-76] Clarendon Free Throw 2 of 2 (4 PTS),0,-80,3,,203406,,1611661330,82,76,4
+00:04.6,[ATL] Clarendon Foul: Personal (4 PF) (2 FTA),9,236,6,203826,203406,,1611661330,82,76,4
+00:04.6,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,82,76,4
+00:04.6,[CON] Team Rebound,0,-80,4,,0,,1611661323,82,76,4
+00:04.6,[CON 77-82] Thomas Free Throw 2 of 2 (19 PTS),0,-80,3,,203826,,1611661323,82,77,4
+00:00.0,End Period,0,-80,13,,0,,0,82,77,4
+00:00.0,Game End,0,-80,0,,0,,0,82,77,4

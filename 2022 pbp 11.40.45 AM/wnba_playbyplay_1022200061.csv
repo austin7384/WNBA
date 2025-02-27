@@ -1,0 +1,401 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Jones vs Turner (Thomas gains possession),0,-80,10,1629488,1627673,203826,1611661323,0,0,1
+09:53,[CON 2-0] Thomas Layup Shot: Made (2 PTS) Assist: Jones (1 AST),-5,4,1,,203826,1627673,1611661323,0,2,1
+09:50,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,0,2,1
+09:40,[PHO 2-2] Turner Cutting Layup Shot: Made (2 PTS) Assist: Taurasi (1 AST),5,-3,1,,1629488,100940,1611661317,2,2,1
+09:23,[CON] Bonner 3pt Shot: Missed,228,36,2,,201886,,1611661323,2,2,1
+09:19,[PHO] Diggins-Smith Rebound (Off:0 Def:1),228,36,4,,203400,,1611661317,2,2,1
+09:11,[PHO] Turner Cutting Layup Shot: Missed,-3,7,2,,1629488,,1611661317,2,2,1
+09:10,[PHO] Team Rebound,-3,7,4,,0,,1611661317,2,2,1
+09:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,2,1
+09:08,[PHO] DeShields 3pt Shot: Missed,-115,238,2,,1628890,,1611661317,2,2,1
+09:07,[CON] Team Rebound,-115,238,4,,0,,1611661323,2,2,1
+09:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,2,2,1
+08:50,[CON] Thomas Layup Shot: Missed,6,0,2,,203826,,1611661323,2,2,1
+08:47,[PHO] Cunningham Rebound (Off:0 Def:1),6,0,4,,1629482,,1611661317,2,2,1
+08:37,[PHO] Cunningham 3pt Shot: Missed,-145,244,2,,1629482,,1611661317,2,2,1
+08:33,[CON] Jones Rebound (Off:0 Def:1),-145,244,4,,1627673,,1611661323,2,2,1
+08:19,[CON] Hiedeman 3pt Shot: Missed,201,135,2,,1629567,,1611661323,2,2,1
+08:17,[PHO] DeShields Rebound (Off:0 Def:1),201,135,4,,1628890,,1611661317,2,2,1
+08:13,[PHO] Taurasi 3pt Shot: Missed,83,241,2,,100940,,1611661317,2,2,1
+08:10,[CON] Thomas Rebound (Off:0 Def:1),83,241,4,,203826,,1611661323,2,2,1
+08:06,[CON] Williams Running Pull-Up Jump Shot: Missed,-73,169,2,,1627675,,1611661323,2,2,1
+08:03,[PHO] Cunningham Rebound (Off:0 Def:2),-73,169,4,,1629482,,1611661317,2,2,1
+07:57,[PHO] Cunningham Foul: Offensive (1 PF),-151,221,6,1627675,1629482,,1611661317,2,2,1
+07:57,[PHO] Cunningham Turnover : Offensive Foul Turnover (1 TO),-151,221,5,,1629482,,1611661317,2,2,1
+07:41,[CON 5-2] Hiedeman 3pt Shot: Made (3 PTS) Assist: Thomas (1 AST),233,41,1,,1629567,203826,1611661323,2,5,1
+07:28,[PHO] Cunningham Turnover : Lost Ball (2 TO),-126,270,5,,1629482,,1611661317,2,5,1
+07:28,[PHO] Cunningham Foul: Loose Ball (2 PF),178,438,6,203826,1629482,,1611661317,2,5,1
+07:28,InstantReplay Request Stands,0,-80,18,,0,,0,2,5,1
+07:28,[PHO] Cunningham Substitution replaced by Gustafson,0,-80,8,,1629482,1629484,1611661317,2,5,1
+07:10,[CON] Thomas Turnover : Traveling (1 TO),48,58,5,,203826,,1611661323,2,5,1
+07:06,[CON] Thomas Foul: Personal (1 PF),66,335,6,1629488,203826,,1611661323,2,5,1
+06:59,[PHO] Diggins-Smith Turnover : Lost Ball (1 TO) Steal:Thomas (1 ST),-110,98,5,203826,203400,,1611661317,2,5,1
+06:49,[PHO] Gustafson Foul: Personal (1 PF),67,41,6,1627673,1629484,,1611661317,2,5,1
+06:43,[CON 8-2] Jones 3pt Shot: Made (3 PTS) Assist: Hiedeman (1 AST),81,234,1,,1627673,1629567,1611661323,2,8,1
+06:25,[PHO 4-8] Taurasi Driving Floating Jump Shot: Made (2 PTS) Assist: Turner (1 AST),-13,31,1,,100940,1629488,1611661317,4,8,1
+06:07,[CON] Bonner 3pt Shot: Missed,211,127,2,,201886,,1611661323,4,8,1
+06:03,[CON] Thomas Rebound (Off:1 Def:1),211,127,4,,203826,,1611661323,4,8,1
+05:59,[CON] Jones 3pt Shot: Missed,-122,204,2,,1627673,,1611661323,4,8,1
+05:58,[PHO] Diggins-Smith Rebound (Off:0 Def:2),-122,204,4,,203400,,1611661317,4,8,1
+05:52,[CON] Jones Foul: Personal (1 PF),-45,43,6,1629484,1627673,,1611661323,4,8,1
+05:45,[PHO 6-8] Taurasi Turnaround Fadeaway shot: Made (4 PTS) Assist: Turner (2 AST),99,62,1,,100940,1629488,1611661317,6,8,1
+05:25,[PHO] Taurasi Foul: Shooting (1 PF) (2 FTA),39,9,6,203826,100940,,1611661317,6,8,1
+05:25,[CON 9-6] Thomas Free Throw 1 of 2 (3 PTS),0,-80,3,,203826,,1611661323,6,9,1
+05:25,[CON 10-6] Thomas Free Throw 2 of 2 (4 PTS),0,-80,3,,203826,,1611661323,6,10,1
+05:15,[PHO] Gustafson Turnover : Double Dribble (1 TO),-42,66,5,,1629484,,1611661317,6,10,1
+04:57,[CON 13-6] Hiedeman 3pt Shot: Made (6 PTS) Assist: Thomas (2 AST),127,204,1,,1629567,203826,1611661323,6,13,1
+04:48,[CON] Bonner Foul: Shooting (1 PF) (2 FTA),-102,137,6,1628890,201886,,1611661323,6,13,1
+04:48,Timeout Officials,0,-80,9,,0,,0,6,13,1
+04:48,[PHO 7-13] DeShields Free Throw 1 of 2 (1 PTS),0,-80,3,,1628890,,1611661317,7,13,1
+04:48,[PHO 8-13] DeShields Free Throw 2 of 2 (2 PTS),0,-80,3,,1628890,,1611661317,8,13,1
+04:26,[CON] Hiedeman 3pt Shot: Missed,-149,207,2,,1629567,,1611661323,8,13,1
+04:20,[CON] Thomas Rebound (Off:2 Def:1),-149,207,4,,203826,,1611661323,8,13,1
+04:17,[CON 15-8] Bonner Alley Oop Layup shot: Made (2 PTS) Assist: Jones (2 AST),-16,10,1,,201886,1627673,1611661323,8,15,1
+04:01,[PHO] DeShields Driving Layup Shot: Missed,0,16,2,,1628890,,1611661317,8,15,1
+03:58,[PHO] DeShields Rebound (Off:1 Def:1),0,16,4,,1628890,,1611661317,8,15,1
+03:58,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,8,15,1
+03:49,[PHO 10-15] Taurasi Pullup Jump shot: Made (6 PTS) Assist: Turner (3 AST),-89,192,1,,100940,1629488,1611661317,10,15,1
+03:25,[CON] Williams 3pt Shot: Missed,235,-27,2,,1627675,,1611661323,10,15,1
+03:24,[CON] Team Rebound,235,-27,4,,0,,1611661323,10,15,1
+03:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,15,1
+03:24,[CON] Hiedeman Substitution replaced by Jones,0,-80,8,,1629567,1628280,1611661323,10,15,1
+03:19,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Diggins-Smith (1 ST),81,44,5,203400,1627673,,1611661323,10,15,1
+03:13,[PHO] Diggins-Smith 3pt Shot: Missed,-104,246,2,,203400,,1611661317,10,15,1
+03:10,[CON] Jones Rebound (Off:0 Def:1),-104,246,4,,1628280,,1611661323,10,15,1
+02:59,[CON] Thomas Foul: Offensive (2 PF),-138,25,6,203400,203826,,1611661323,10,15,1
+02:59,[CON] Thomas Turnover : Offensive Foul Turnover (2 TO),-138,25,5,,203826,,1611661323,10,15,1
+02:59,[CON] Thomas Substitution replaced by Carrington,0,-80,8,,203826,1630096,1611661323,10,15,1
+02:48,[PHO] Turner Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),-57,23,5,201886,1629488,,1611661317,10,15,1
+02:39,[CON] Bonner Turnover : Lost Ball (1 TO) Steal:Diggins-Smith (2 ST),-66,164,5,203400,201886,,1611661323,10,15,1
+02:34,[PHO] DeShields Turnover : Out of Bounds - Bad Pass Turnover (1 TO),161,124,5,,1628890,,1611661317,10,15,1
+02:24,[CON] Jones Turnaround Hook Shot: Missed,4,0,2,,1628280,,1611661323,10,15,1
+02:21,[PHO] DeShields Rebound (Off:1 Def:2),4,0,4,,1628890,,1611661317,10,15,1
+02:18,[CON] Jones Foul: Personal (2 PF) (2 FTA),85,124,6,1628890,1627673,,1611661323,10,15,1
+02:18,[PHO 11-15] DeShields Free Throw 1 of 2 (3 PTS),0,-80,3,,1628890,,1611661317,11,15,1
+02:18,[PHO] Diggins-Smith Substitution replaced by Peddy,0,-80,8,,203400,203035,1611661317,11,15,1
+02:18,[CON] Williams Substitution replaced by Hiedeman,0,-80,8,,1627675,1629567,1611661323,11,15,1
+02:18,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1630120,1611661323,11,15,1
+02:18,[PHO 12-15] DeShields Free Throw 2 of 2 (4 PTS),0,-80,3,,1628890,,1611661317,12,15,1
+01:53,[CON] Carrington Driving Floating Jump Shot: Missed,55,28,2,,1630096,,1611661323,12,15,1
+01:50,[PHO] Gustafson Rebound (Off:0 Def:1),55,28,4,,1629484,,1611661317,12,15,1
+01:47,[PHO] Taurasi Pullup Jump shot: Missed,-22,163,2,,100940,,1611661317,12,15,1
+01:47,[CON] Carrington Rebound (Off:0 Def:1),-22,163,4,,1630096,,1611661323,12,15,1
+01:35,[CON] Jones Turnover : Bad Pass (1 TO) Steal:Peddy (1 ST),61,47,5,203035,1628280,,1611661323,12,15,1
+01:30,[PHO 14-15] DeShields Running Layup Shot: Made (6 PTS) Assist: Peddy (1 AST),-7,16,1,,1628890,203035,1611661317,14,15,1
+01:07,[CON 17-14] Jones Layup Shot: Made (2 PTS) Assist: Bonner (1 AST),-2,13,1,,1628280,201886,1611661323,14,17,1
+00:53.8,[PHO] DeShields 3pt Shot: Missed,163,177,2,,1628890,,1611661317,14,17,1
+00:52.2,[PHO] Team Rebound,163,177,4,,0,,1611661317,14,17,1
+00:52.2,[CON] Hiedeman Foul: Loose Ball (1 PF) (2 FTA),39,34,6,203035,1629567,,1611661323,14,17,1
+00:52.2,[PHO 15-17] Peddy Free Throw 1 of 2 (1 PTS),0,-80,3,,203035,,1611661317,15,17,1
+00:52.2,[PHO] Turner Substitution replaced by Anigwe,0,-80,8,,1629488,1629485,1611661317,15,17,1
+00:52.2,[PHO 16-17] Peddy Free Throw 2 of 2 (2 PTS),0,-80,3,,203035,,1611661317,16,17,1
+00:38.8,[CON 19-16] Jones Hook Shot: Made (4 PTS) Assist: Jones (1 AST),11,19,1,,1628280,1630120,1611661323,16,19,1
+00:38.8,[PHO] Anigwe Foul: Shooting (1 PF) (1 FTA),11,19,6,1628280,1629485,,1611661317,16,19,1
+00:38.8,[CON 20-16] Jones Free Throw 1 of 1 (5 PTS),0,-80,3,,1628280,,1611661323,16,20,1
+00:27.6,[CON] Carrington Foul: Shooting (1 PF) (3 FTA),-222,87,6,100940,1630096,,1611661323,16,20,1
+00:27.6,Instant Replay - Support Ruling,0,-80,18,,0,,0,16,20,1
+00:27.6,[PHO 17-20] Taurasi Free Throw 1 of 3 (7 PTS),0,-80,3,,100940,,1611661317,17,20,1
+00:27.6,[PHO 18-20] Taurasi Free Throw 2 of 3 (8 PTS),0,-80,3,,100940,,1611661317,18,20,1
+00:27.6,[PHO 19-20] Taurasi Free Throw 3 of 3 (9 PTS),0,-80,3,,100940,,1611661317,19,20,1
+00:07.0,[CON] Hiedeman Driving Floating Jump Shot: Missed,-19,20,2,100940,1629567,,1611661323,19,20,1
+00:02.4,[PHO] Taurasi Rebound (Off:0 Def:1),-19,20,4,,100940,,1611661317,19,20,1
+00:00.0,[PHO 22-20] Taurasi 3pt Shot: Made (12 PTS) Assist: DeShields (1 AST),-6,290,1,,100940,1628890,1611661317,22,20,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,22,20,1
+00:00.0,End Period,0,-80,13,,0,,0,22,20,1
+10:00,Start Period,0,-80,12,,0,,0,22,20,2
+09:47,[PHO] Peddy Turnover : Out of Bounds Lost Ball Turnover (1 TO),174,153,5,,203035,,1611661317,22,20,2
+09:27,[PHO] Anigwe Foul: Shooting (2 PF) (2 FTA),54,48,6,1630096,1629485,,1611661317,22,20,2
+09:27,[CON] Carrington Free Throw 1 of 2 Missed,0,-80,3,,1630096,,1611661323,22,20,2
+09:27,[CON] Team Rebound,0,-80,4,,0,,1611661323,22,20,2
+09:27,[CON 21-22] Carrington Free Throw 2 of 2 (1 PTS),0,-80,3,,1630096,,1611661323,22,21,2
+09:09,[PHO 24-21] Diggins-Smith Driving Layup Shot: Made (2 PTS),-12,21,1,,203400,,1611661317,24,21,2
+08:52,[CON] Carrington Turnover : Bad Pass (1 TO) Steal:Turner (1 ST),13,60,5,1629488,1630096,,1611661323,24,21,2
+08:41,[PHO] Anigwe Turnover : Lost Ball (1 TO) Steal:Carrington (1 ST),-181,185,5,1630096,1629485,,1611661317,24,21,2
+08:35,[CON 23-24] Williams Running Layup Shot: Made (2 PTS) Assist: Carrington (1 AST),5,-7,1,,1627675,1630096,1611661323,24,23,2
+08:09,[PHO 26-23] Diggins-Smith Driving Floating Jump Shot: Made (4 PTS),-17,51,1,,203400,,1611661317,26,23,2
+08:00,[PHO] Turner Foul: Shooting (1 PF) (2 FTA),17,48,6,1628280,1629488,,1611661317,26,23,2
+08:00,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,26,23,2
+08:00,[CON] Team Rebound,0,-80,4,,0,,1611661323,26,23,2
+08:00,[PHO] Anigwe Substitution replaced by Taurasi,0,-80,8,,1629485,100940,1611661317,26,23,2
+08:00,[CON 24-26] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1628280,,1611661323,26,24,2
+07:48,[PHO] Diggins-Smith 3pt Shot: Missed,-205,146,2,,203400,,1611661317,26,24,2
+07:45,[CON] Jones Rebound (Off:0 Def:2),-205,146,4,,1628280,,1611661323,26,24,2
+07:39,[CON] Williams Pullup Jump shot: Missed,172,115,2,,1627675,,1611661323,26,24,2
+07:35,[PHO] Cunningham Rebound (Off:0 Def:3),172,115,4,,1629482,,1611661317,26,24,2
+07:22,[CON] Jones Foul: Personal (1 PF),115,-6,6,203035,1630120,,1611661323,26,24,2
+07:22,[CON] Jones Substitution replaced by Thomas,0,-80,8,,1630120,203826,1611661323,26,24,2
+07:18,[PHO] Turner Foul: Offensive (2 PF),-144,236,6,1628304,1629488,,1611661317,26,24,2
+07:18,[PHO] Turner Turnover : Offensive Foul Turnover (2 TO),-144,236,5,,1629488,,1611661317,26,24,2
+07:04,[CON] Thomas Jump Shot: Missed,31,46,2,,203826,,1611661323,26,24,2
+07:02,[CON] Team Rebound,31,46,4,,0,,1611661323,26,24,2
+06:58,Jump Ball Jones vs Cunningham (Anderson gains possession),0,-80,10,1629482,1628280,1628304,1611661323,26,24,2
+06:51,[CON] Thomas Layup Shot: Missed,6,25,2,,203826,,1611661323,26,24,2
+06:47,[PHO] Team Rebound,6,25,4,,0,,1611661317,26,24,2
+06:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,26,24,2
+06:35,[PHO 28-24] Diggins-Smith Driving Floating Jump Shot: Made (6 PTS),-9,97,1,,203400,,1611661317,28,24,2
+06:25,[CON] Anderson Driving Layup Shot: Missed,32,21,2,,1628304,,1611661323,28,24,2
+06:24,[PHO] Taurasi Rebound (Off:0 Def:2),32,21,4,,100940,,1611661317,28,24,2
+06:20,Jump Ball Jones vs Taurasi (Carrington gains possession),0,-80,10,100940,1628280,1630096,1611661323,28,24,2
+06:20,[PHO] Taurasi Turnover : Lost Ball (1 TO) Steal:Jones (1 ST),0,-80,5,1628280,100940,,1611661317,28,24,2
+06:14,[CON] Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),9,38,5,,1627675,,1611661323,28,24,2
+06:03,[PHO 31-24] Cunningham 3pt Shot: Made (3 PTS) Assist: Diggins-Smith (1 AST),-217,120,1,,1629482,203400,1611661317,31,24,2
+05:44,[CON] Anderson Turnover : Bad Pass (1 TO) Steal:Taurasi (1 ST),-125,253,5,100940,1628304,,1611661323,31,24,2
+05:36,[PHO] Taurasi 3pt Shot: Missed,-210,152,2,,100940,,1611661317,31,24,2
+05:34,[PHO] Team Rebound,-210,152,4,,0,,1611661317,31,24,2
+05:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,24,2
+05:34,Timeout Officials,0,-80,9,,0,,0,31,24,2
+05:34,[CON] Anderson Substitution replaced by Hiedeman,0,-80,8,,1628304,1629567,1611661323,31,24,2
+05:27,[CON] Jones Foul: Shooting (1 PF) (2 FTA),13,157,6,100940,1628280,,1611661323,31,24,2
+05:27,[PHO 32-24] Taurasi Free Throw 1 of 2 (13 PTS),0,-80,3,,100940,,1611661317,32,24,2
+05:27,[PHO 33-24] Taurasi Free Throw 2 of 2 (14 PTS),0,-80,3,,100940,,1611661317,33,24,2
+05:16,[PHO] Diggins-Smith Foul: Personal (1 PF),-107,134,6,203826,203400,,1611661317,33,24,2
+05:04,[CON] Williams Pullup Jump shot: Missed,44,94,2,,1627675,,1611661323,33,24,2
+05:02,[CON] Williams Rebound (Off:1 Def:0),44,94,4,,1627675,,1611661323,33,24,2
+05:02,[PHO] Turner Foul: Shooting (3 PF) (2 FTA),-108,24,6,1627675,1629488,,1611661317,33,24,2
+05:02,[CON 25-33] Williams Free Throw 1 of 2 (3 PTS),0,-80,3,,1627675,,1611661323,33,25,2
+05:02,[PHO] Turner Substitution replaced by Gustafson,0,-80,8,,1629488,1629484,1611661317,33,25,2
+05:02,[CON 26-33] Williams Free Throw 2 of 2 (4 PTS),0,-80,3,,1627675,,1611661323,33,26,2
+04:45,[PHO] Taurasi Turnover : Bad Pass (2 TO) Steal:Jones (2 ST),-106,113,5,1628280,100940,,1611661317,33,26,2
+04:40,[PHO] Gustafson Foul: Shooting (2 PF) (2 FTA),31,36,6,1628280,1629484,,1611661317,33,26,2
+04:40,[CON 27-33] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1628280,,1611661323,33,27,2
+04:40,[CON 28-33] Jones Free Throw 2 of 2 (8 PTS),0,-80,3,,1628280,,1611661323,33,28,2
+04:26,[PHO] Cunningham 3pt Shot: Missed,223,40,2,,1629482,,1611661317,33,28,2
+04:22,[CON] Hiedeman Rebound (Off:0 Def:1),223,40,4,,1629567,,1611661323,33,28,2
+04:14,[CON] Carrington Turnover : Lost Ball (2 TO) Steal:Cunningham (1 ST),45,63,5,1629482,1630096,,1611661323,33,28,2
+04:14,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,33,28,2
+04:14,[PHO] Peddy Substitution replaced by DeShields,0,-80,8,,203035,1628890,1611661317,33,28,2
+04:14,[CON] Carrington Substitution replaced by Bonner,0,-80,8,,1630096,201886,1611661323,33,28,2
+04:04,[PHO 35-28] Gustafson Cutting Layup Shot: Made (2 PTS) Assist: Taurasi (2 AST),-6,15,1,,1629484,100940,1611661317,35,28,2
+03:49,[PHO] Gustafson Foul: Defense 3 Second (3 PF) (1 FTA),0,-80,6,,1629484,,1611661317,35,28,2
+03:49,[CON 29-35] Bonner Free Throw Technical (3 PTS),0,-80,3,,201886,,1611661323,35,29,2
+03:39,[PHO] Gustafson Foul: Shooting (4 PF) (2 FTA),6,20,6,1628280,1629484,,1611661317,35,29,2
+03:39,[CON 30-35] Jones Free Throw 1 of 2 (9 PTS),0,-80,3,,1628280,,1611661323,35,30,2
+03:39,[CON 31-35] Jones Free Throw 2 of 2 (10 PTS),0,-80,3,,1628280,,1611661323,35,31,2
+03:29,[CON] Williams Foul: Shooting (1 PF) (2 FTA),55,77,6,203400,1627675,,1611661323,35,31,2
+03:29,[PHO 36-31] Diggins-Smith Free Throw 1 of 2 (7 PTS),0,-80,3,,203400,,1611661317,36,31,2
+03:29,[PHO 37-31] Diggins-Smith Free Throw 2 of 2 (8 PTS),0,-80,3,,203400,,1611661317,37,31,2
+03:14,[CON] Bonner Turnover : Bad Pass (2 TO) Steal:Taurasi (2 ST),-89,220,5,100940,201886,,1611661323,37,31,2
+03:09,[PHO 39-31] Diggins-Smith Running Layup Shot: Made (10 PTS) Assist: Taurasi (3 AST),-6,23,1,,203400,100940,1611661317,39,31,2
+03:09,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,39,31,2
+02:45,[CON] Team Turnover : Shot Clock Turnover,37,21,5,,0,,1611661323,39,31,2
+02:33,[PHO] Taurasi 3pt Shot: Missed,228,-1,2,,100940,,1611661317,39,31,2
+02:28,[CON] Hiedeman Rebound (Off:0 Def:2),228,-1,4,,1629567,,1611661323,39,31,2
+02:19,[CON] Thomas Layup Shot: Missed,34,13,2,,203826,,1611661323,39,31,2
+02:16,[PHO] Gustafson Rebound (Off:0 Def:2),34,13,4,,1629484,,1611661317,39,31,2
+02:14,[PHO 41-31] DeShields Running Layup Shot: Made (8 PTS) Assist: Diggins-Smith (2 AST),-4,16,1,,1628890,203400,1611661317,41,31,2
+01:58,[CON] Jones Layup Shot: Missed,21,5,2,1629482,1628280,,1611661323,41,31,2
+01:57,[CON] Jones Rebound (Off:1 Def:2),21,5,4,,1628280,,1611661323,41,31,2
+01:55,[CON 33-41] Jones Putback Layup Shot: Made (12 PTS),11,9,1,,1628280,,1611661323,41,33,2
+01:46,[PHO 43-33] Cunningham Cutting Layup Shot: Made (5 PTS) Assist: Diggins-Smith (3 AST),-5,7,1,,1629482,203400,1611661317,43,33,2
+01:44,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,43,33,2
+01:44,[CON] Bonner Substitution replaced by Jones,0,-80,8,,201886,1627673,1611661323,43,33,2
+01:28,[CON 36-43] Williams 3pt Shot: Made (7 PTS) Assist: Jones (1 AST),-185,153,1,,1627675,1628280,1611661323,43,36,2
+01:11,[PHO] Taurasi Turnaround Fadeaway shot: Missed,90,19,2,,100940,,1611661317,43,36,2
+01:09,[CON] Thomas Rebound (Off:2 Def:2),90,19,4,,203826,,1611661323,43,36,2
+01:04,[CON 38-43] Thomas Running Layup Shot: Made (6 PTS),7,6,1,,203826,,1611661323,43,38,2
+00:48.7,[PHO] DeShields 3pt Shot: Missed,149,200,2,,1628890,,1611661317,43,38,2
+00:46.2,[CON] Jones Rebound (Off:0 Def:2),149,200,4,,1627673,,1611661323,43,38,2
+00:37.2,[CON] Williams Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-17,25,5,,1627675,,1611661323,43,38,2
+00:32.9,[CON] Hiedeman Foul: Shooting (2 PF) (2 FTA),2,96,6,203400,1629567,,1611661323,43,38,2
+00:32.9,[PHO 44-38] Diggins-Smith Free Throw 1 of 2 (11 PTS),0,-80,3,,203400,,1611661317,44,38,2
+00:32.9,[PHO 45-38] Diggins-Smith Free Throw 2 of 2 (12 PTS),0,-80,3,,203400,,1611661317,45,38,2
+00:20.2,[CON 40-45] Jones Turnaround Jump Shot: Made (5 PTS) Assist: Thomas (3 AST),49,20,1,,1627673,203826,1611661323,45,40,2
+00:04.0,[PHO] Diggins-Smith Turnover : Bad Pass (2 TO) Steal:Jones (3 ST),-115,222,5,1628280,203400,,1611661317,45,40,2
+00:00.8,[CON 42-45] Jones Running Layup Shot: Made (14 PTS),6,-3,1,,1628280,,1611661323,45,42,2
+00:00.0,End Period,0,-80,13,,0,,0,45,42,2
+10:00,Start Period,0,-80,12,,0,,0,45,42,3
+09:49,[PHO] Taurasi Turnover : Out of Bounds - Bad Pass Turnover (3 TO),101,110,5,,100940,,1611661317,45,42,3
+09:35,[CON] Jones Reverse Layup Shot: Missed,0,10,2,,1627673,,1611661323,45,42,3
+09:32,[PHO] Diggins-Smith Rebound (Off:0 Def:3),0,10,4,,203400,,1611661317,45,42,3
+09:28,[PHO] Taurasi Foul: Offensive (2 PF),160,38,6,1629567,100940,,1611661317,45,42,3
+09:28,[PHO] Taurasi Turnover : Offensive Foul Turnover (4 TO),160,38,5,,100940,,1611661317,45,42,3
+09:08,[PHO] Cunningham Foul: Personal (3 PF),135,142,6,201886,1629482,,1611661317,45,42,3
+08:54,[CON 44-45] Williams Driving Layup Shot: Made (9 PTS),-11,23,1,,1627675,,1611661323,45,44,3
+08:40,[PHO] Diggins-Smith Driving Floating Jump Shot: Missed,44,46,2,,203400,,1611661317,45,44,3
+08:39,[CON] Jones Rebound (Off:0 Def:3),44,46,4,,1627673,,1611661323,45,44,3
+08:33,[CON 47-45] Hiedeman 3pt Shot: Made (9 PTS) Assist: Thomas (4 AST),-210,141,1,,1629567,203826,1611661323,45,47,3
+08:13,[PHO 47-47] Taurasi Layup Shot: Made (16 PTS) Assist: Cunningham (1 AST),12,4,1,,100940,1629482,1611661317,47,47,3
+08:10,[CON] Williams Turnover : Bad Pass (3 TO) Steal:Diggins-Smith (3 ST),-53,843,5,203400,1627675,,1611661323,47,47,3
+08:09,[PHO] Diggins-Smith Layup Shot: Missed,-1,-3,2,,203400,,1611661317,47,47,3
+08:08,[PHO] Diggins-Smith Rebound (Off:1 Def:3),-1,-3,4,,203400,,1611661317,47,47,3
+08:07,[PHO] Diggins-Smith Layup Shot: Missed,-5,28,2,1627675,203400,,1611661317,47,47,3
+08:06,[PHO] Diggins-Smith Rebound (Off:2 Def:3),-5,28,4,,203400,,1611661317,47,47,3
+08:06,[PHO] Diggins-Smith Tip Layup Shot: Missed,2,10,2,,203400,,1611661317,47,47,3
+08:05,[CON] Thomas Rebound (Off:2 Def:3),2,10,4,,203826,,1611661323,47,47,3
+07:47,[CON] Jones Turnover : 3 Second Violation (2 TO),15,51,5,,1627673,,1611661323,47,47,3
+07:34,[PHO] Cunningham 3pt Shot: Missed,-171,175,2,,1629482,,1611661317,47,47,3
+07:30,[CON] Hiedeman Rebound (Off:0 Def:3),-171,175,4,,1629567,,1611661323,47,47,3
+07:23,[CON 50-47] Bonner 3pt Shot: Made (6 PTS) Assist: Jones (3 AST),147,189,1,,201886,1627673,1611661323,47,50,3
+07:01,[PHO 50-50] DeShields 3pt Shot: Made (11 PTS) Assist: Taurasi (4 AST),-234,-29,1,,1628890,100940,1611661317,50,50,3
+06:42,[PHO] Taurasi Foul: Personal (3 PF),-87,179,6,203826,100940,,1611661317,50,50,3
+06:34,[PHO] DeShields Foul: Shooting (1 PF) (2 FTA),164,13,6,201886,1628890,,1611661317,50,50,3
+06:34,[CON 51-50] Bonner Free Throw 1 of 2 (7 PTS),0,-80,3,,201886,,1611661323,50,51,3
+06:34,[CON 52-50] Bonner Free Throw 2 of 2 (8 PTS),0,-80,3,,201886,,1611661323,50,52,3
+06:25,[PHO] Diggins-Smith Turnover : Bad Pass (3 TO) Steal:Jones (1 ST),-149,199,5,1627673,203400,,1611661317,50,52,3
+06:22,[PHO] Diggins-Smith Foul: Shooting (2 PF) (2 FTA),-6,18,6,1627673,203400,,1611661317,50,52,3
+06:22,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,50,52,3
+06:22,[CON] Team Rebound,0,-80,4,,0,,1611661323,50,52,3
+06:22,[CON 53-50] Jones Free Throw 2 of 2 (6 PTS),0,-80,3,,1627673,,1611661323,50,53,3
+06:10,[PHO 53-53] Taurasi 3pt Shot: Made (19 PTS) Assist: Turner (4 AST),-194,133,1,,100940,1629488,1611661317,53,53,3
+05:51,[CON 55-53] Thomas Driving Layup Shot: Made (8 PTS) Assist: Hiedeman (2 AST),-4,18,1,,203826,1629567,1611661323,53,55,3
+05:51,[PHO] Turner Foul: Shooting (4 PF) (1 FTA),4,18,6,203826,1629488,,1611661317,53,55,3
+05:51,[PHO] Turner Substitution replaced by Gustafson,0,-80,8,,1629488,1629484,1611661317,53,55,3
+05:51,[CON] Hiedeman Substitution replaced by Jones,0,-80,8,,1629567,1628280,1611661323,53,55,3
+05:51,[CON 56-53] Thomas Free Throw 1 of 1 (9 PTS),0,-80,3,,203826,,1611661323,53,56,3
+05:35,[CON] Bonner Foul: Personal (2 PF),134,209,6,203400,201886,,1611661323,53,56,3
+05:28,[PHO] DeShields 3pt Shot: Missed,-188,149,2,,1628890,,1611661317,53,56,3
+05:24,[CON] Williams Rebound (Off:1 Def:1),-188,149,4,,1627675,,1611661323,53,56,3
+05:13,[CON] Bonner Driving Floating Jump Shot: Missed,-49,15,2,,201886,,1611661323,53,56,3
+05:12,[CON] Jones Rebound (Off:1 Def:3),-49,15,4,,1627673,,1611661323,53,56,3
+05:12,[PHO] DeShields Foul: Shooting (2 PF) (2 FTA),-60,32,6,1627673,1628890,,1611661317,53,56,3
+05:12,[PHO] DeShields Technical (1 FTA),0,-80,6,,1628890,,1611661317,53,56,3
+05:12,[CON 57-53] Bonner Free Throw Technical (9 PTS),0,-80,3,,201886,,1611661323,53,57,3
+05:12,[CON 58-53] Jones Free Throw 1 of 2 (7 PTS),0,-80,3,,1627673,,1611661323,53,58,3
+05:12,[CON 59-53] Jones Free Throw 2 of 2 (8 PTS),0,-80,3,,1627673,,1611661323,53,59,3
+04:58,[PHO] Taurasi 3pt Shot: Missed,-174,158,2,,100940,,1611661317,53,59,3
+04:54,[CON] Jones Rebound (Off:1 Def:4),-174,158,4,,1627673,,1611661323,53,59,3
+04:44,[CON] Bonner Turnover : Bad Pass (3 TO) Steal:Cunningham (2 ST),85,51,5,1629482,201886,,1611661323,53,59,3
+04:33,[PHO] Cunningham Turnover : Bad Pass (3 TO) Steal:Bonner (2 ST),-145,279,5,201886,1629482,,1611661317,53,59,3
+04:27,[CON] Bonner 3pt Shot: Missed,171,206,2,,201886,,1611661323,53,59,3
+04:25,[PHO] Cunningham Rebound (Off:0 Def:4),171,206,4,,1629482,,1611661317,53,59,3
+04:25,[CON] Jones Foul: Personal (3 PF),21,778,6,1629482,1627673,,1611661323,53,59,3
+04:25,Timeout Officials,0,-80,9,,0,,0,53,59,3
+04:25,[PHO] DeShields Substitution replaced by Peddy,0,-80,8,,1628890,203035,1611661317,53,59,3
+04:09,[PHO 56-59] Cunningham 3pt Shot: Made (8 PTS) Assist: Diggins-Smith (4 AST),-40,245,1,,1629482,203400,1611661317,56,59,3
+03:44,[PHO] Gustafson Foul: Personal (5 PF) (2 FTA),60,26,6,1627673,1629484,,1611661317,56,59,3
+03:44,[CON 60-56] Jones Free Throw 1 of 2 (9 PTS),0,-80,3,,1627673,,1611661323,56,60,3
+03:44,[CON 61-56] Jones Free Throw 2 of 2 (10 PTS),0,-80,3,,1627673,,1611661323,56,61,3
+03:33,[PHO 59-61] Taurasi 3pt Shot: Made (22 PTS) Assist: Gustafson (1 AST),90,255,1,,100940,1629484,1611661317,59,61,3
+03:17,[CON] Bonner 3pt Shot: Missed,-230,81,2,,201886,,1611661323,59,61,3
+03:13,[PHO] Peddy Rebound (Off:0 Def:1),-230,81,4,,203035,,1611661317,59,61,3
+03:07,[PHO] Diggins-Smith 3pt Shot: Missed,7,244,2,,203400,,1611661317,59,61,3
+03:04,[CON] Williams Rebound (Off:1 Def:2),7,244,4,,1627675,,1611661323,59,61,3
+03:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,59,61,3
+02:57,[CON 63-59] Jones Driving Hook Shot: Made (16 PTS),-12,55,1,,1628280,,1611661323,59,63,3
+02:44,[PHO] Gustafson Turnover : Lost Ball (2 TO) Steal:Williams (1 ST),-2,246,5,1627675,1629484,,1611661317,59,63,3
+02:38,[CON] Williams Running Pull-Up Jump Shot: Missed,-126,155,2,,1627675,,1611661323,59,63,3
+02:36,[PHO] Gustafson Rebound (Off:0 Def:3),-126,155,4,,1629484,,1611661317,59,63,3
+02:31,[PHO] Diggins-Smith Turnover : Bad Pass (4 TO) Steal:Bonner (3 ST),-89,160,5,201886,203400,,1611661317,59,63,3
+02:25,[CON 66-59] Jones 3pt Shot: Made (13 PTS) Assist: Bonner (2 AST),74,235,1,,1627673,201886,1611661323,59,66,3
+02:12,[CON] Jones Foul: Personal (4 PF),173,20,6,1629484,1627673,,1611661323,59,66,3
+02:12,[PHO] Gustafson Substitution replaced by Turner,0,-80,8,,1629484,1629488,1611661317,59,66,3
+02:02,[PHO] Taurasi Turnover : Out of Bounds Lost Ball Turnover (5 TO),-43,230,5,,100940,,1611661317,59,66,3
+02:02,[CON] Jones Substitution replaced by Hiedeman,0,-80,8,,1627673,1629567,1611661323,59,66,3
+01:52,[CON] Williams Jump Shot: Missed,174,15,2,,1627675,,1611661323,59,66,3
+01:49,[PHO] Diggins-Smith Rebound (Off:2 Def:4),174,15,4,,203400,,1611661317,59,66,3
+01:42,[PHO 62-66] Taurasi 3pt Shot: Made (25 PTS) Assist: Diggins-Smith (5 AST),56,231,1,,100940,203400,1611661317,62,66,3
+01:29,[CON] Hiedeman Turnover : Bad Pass (1 TO) Steal:Peddy (2 ST),-31,260,5,203035,1629567,,1611661323,62,66,3
+01:25,[PHO 64-66] Diggins-Smith Running Layup Shot: Made (14 PTS) Assist: Peddy (2 AST),17,-6,1,,203400,203035,1611661317,64,66,3
+01:24,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,64,66,3
+00:59.9,[CON] Team Turnover : Shot Clock Turnover,-89,287,5,,0,,1611661323,64,66,3
+00:50.2,[PHO 66-66] Diggins-Smith Cutting Layup Shot: Made (16 PTS) Assist: Cunningham (2 AST),18,-5,1,,203400,1629482,1611661317,66,66,3
+00:32.7,[CON] Jones Layup Shot: Missed,-5,23,2,1629488,1628280,,1611661323,66,66,3
+00:28.8,[PHO] Taurasi Rebound (Off:0 Def:3),-5,23,4,,100940,,1611661317,66,66,3
+00:25.5,[CON] Bonner Foul: Personal (3 PF),102,348,6,100940,201886,,1611661323,66,66,3
+00:25.5,[CON] Williams Substitution replaced by Carrington,0,-80,8,,1627675,1630096,1611661323,66,66,3
+00:12.8,[PHO 68-66] Diggins-Smith Driving Floating Jump Shot: Made (18 PTS),-43,43,1,,203400,,1611661317,68,66,3
+00:00.7,[PHO] Peddy Foul: Shooting (1 PF) (2 FTA),56,6,6,1630096,203035,,1611661317,68,66,3
+00:00.7,[CON 67-68] Carrington Free Throw 1 of 2 (2 PTS),0,-80,3,,1630096,,1611661323,68,67,3
+00:00.7,[CON 68-68] Carrington Free Throw 2 of 2 (3 PTS),0,-80,3,,1630096,,1611661323,68,68,3
+00:00.0,End Period,0,-80,13,,0,,0,68,68,3
+10:00,Start Period,0,-80,12,,0,,0,68,68,4
+09:50,[CON] Jones Foul: Offensive (2 PF),35,282,6,203035,1628280,,1611661323,68,68,4
+09:50,[CON] Jones Turnover : Offensive Foul Turnover (2 TO),35,282,5,,1628280,,1611661323,68,68,4
+09:39,[PHO 70-68] Diggins-Smith Driving Finger Roll Layup Shot: Made (20 PTS),11,0,1,,203400,,1611661317,70,68,4
+09:39,[CON] Carrington Foul: Shooting (2 PF) (1 FTA),6,3,6,203400,1630096,,1611661323,70,68,4
+09:39,[PHO] Diggins-Smith Free Throw 1 of 1 Missed,0,-80,3,,203400,,1611661317,70,68,4
+09:36,[CON] Thomas Rebound (Off:2 Def:4),0,-80,4,,203826,,1611661323,70,68,4
+09:20,[CON] Carrington 3pt Shot: Missed,168,193,2,,1630096,,1611661323,70,68,4
+09:17,[CON] Jones Rebound (Off:2 Def:2),168,193,4,,1628280,,1611661323,70,68,4
+09:14,[CON] Jones Turnover : Lost Ball (3 TO) Steal:Peddy (3 ST),45,77,5,203035,1628280,,1611661323,70,68,4
+09:05,[PHO 73-68] Taurasi 3pt Shot: Made (28 PTS) Assist: Cunningham (3 AST),89,253,1,,100940,1629482,1611661317,73,68,4
+08:46,[CON] Carrington Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-183,190,5,,1630096,,1611661323,73,68,4
+08:46,[CON] Carrington Substitution replaced by Williams,0,-80,8,,1630096,1627675,1611661323,73,68,4
+08:38,[PHO] Taurasi 3pt Shot: Missed,-116,224,2,,100940,,1611661317,73,68,4
+08:34,[CON] Thomas Rebound (Off:2 Def:5),-116,224,4,,203826,,1611661323,73,68,4
+08:30,[CON] Bonner 3pt Shot: Missed,132,212,2,,201886,,1611661323,73,68,4
+08:27,[PHO] Cunningham Rebound (Off:0 Def:5),132,212,4,,1629482,,1611661317,73,68,4
+08:18,[CON] Jones Foul: Shooting (3 PF) (2 FTA),-11,25,6,203400,1628280,,1611661323,73,68,4
+08:18,[PHO 74-68] Diggins-Smith Free Throw 1 of 2 (21 PTS),0,-80,3,,203400,,1611661317,74,68,4
+08:18,[PHO] Taurasi Substitution replaced by DeShields,0,-80,8,,100940,1628890,1611661317,74,68,4
+08:18,[PHO 75-68] Diggins-Smith Free Throw 2 of 2 (22 PTS),0,-80,3,,203400,,1611661317,75,68,4
+07:54,[CON] Williams 3pt Shot: Missed,-113,237,2,,1627675,,1611661323,75,68,4
+07:51,[CON] Bonner Rebound (Off:1 Def:0),-113,237,4,,201886,,1611661323,75,68,4
+07:47,[CON] Thomas Foul: Flagrant Type 1 (3 PF) (2 FTA),-28,80,6,1629482,203826,,1611661323,75,68,4
+07:47,[CON] Thomas Turnover :   (3 TO),-28,80,5,,203826,,1611661323,75,68,4
+07:47,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,75,68,4
+07:47,[PHO 76-68] Cunningham Free Throw Flagrant 1 of 2 (9 PTS),0,-80,3,,1629482,,1611661317,76,68,4
+07:47,[PHO 77-68] Cunningham Free Throw Flagrant 2 of 2 (10 PTS),0,-80,3,,1629482,,1611661317,77,68,4
+07:41,[CON] Jones Foul: Shooting (4 PF) (2 FTA),1,56,6,1628890,1628280,,1611661323,77,68,4
+07:41,[PHO 78-68] DeShields Free Throw 1 of 2 (12 PTS),0,-80,3,,1628890,,1611661317,78,68,4
+07:41,[PHO 79-68] DeShields Free Throw 2 of 2 (13 PTS),0,-80,3,,1628890,,1611661317,79,68,4
+07:26,[PHO] Diggins-Smith Foul: Personal (3 PF),-99,178,6,1628280,203400,,1611661317,79,68,4
+07:26,InstantReplay Request Stands,0,-80,18,,0,,0,79,68,4
+07:26,[CON] Hiedeman Substitution replaced by Jones,0,-80,8,,1629567,1627673,1611661323,79,68,4
+07:19,[CON] Bonner 3pt Shot: Missed,-240,17,2,,201886,,1611661323,79,68,4
+07:14,[PHO] Peddy Rebound (Off:0 Def:2),-240,17,4,,203035,,1611661317,79,68,4
+06:52,[PHO] Peddy Layup Shot: Missed,31,53,2,201886,203035,,1611661317,79,68,4
+06:52,[CON] Jones Rebound (Off:1 Def:5),31,53,4,,1627673,,1611661323,79,68,4
+06:52,[PHO] Peddy Foul: Personal (2 PF),2,800,6,1627673,203035,,1611661317,79,68,4
+06:34,[CON] Jones Turnover : Bad Pass (3 TO) Steal:Peddy (4 ST),-63,250,5,203035,1627673,,1611661323,79,68,4
+06:30,[PHO 81-68] DeShields Running Layup Shot: Made (15 PTS) Assist: Peddy (3 AST),7,15,1,,1628890,203035,1611661317,81,68,4
+06:18,[PHO] Cunningham Foul: Shooting (4 PF) (2 FTA),128,167,6,1627673,1629482,,1611661317,81,68,4
+06:18,[CON 69-81] Jones Free Throw 1 of 2 (14 PTS),0,-80,3,,1627673,,1611661323,81,69,4
+06:18,[CON 70-81] Jones Free Throw 2 of 2 (15 PTS),0,-80,3,,1627673,,1611661323,81,70,4
+05:58,[PHO] Diggins-Smith Pullup Jump shot: Missed,100,58,2,,203400,,1611661317,81,70,4
+05:54,[CON] Williams Rebound (Off:1 Def:3),100,58,4,,1627675,,1611661323,81,70,4
+05:43,[CON 72-81] Jones Layup Shot: Made (18 PTS),-10,7,1,,1628280,,1611661323,81,72,4
+05:41,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,81,72,4
+05:41,[PHO] Peddy Substitution replaced by Taurasi,0,-80,8,,203035,100940,1611661317,81,72,4
+05:24,[PHO] DeShields 3pt Shot: Missed,227,78,2,,1628890,,1611661317,81,72,4
+05:20,[CON] Jones Rebound (Off:1 Def:6),227,78,4,,1627673,,1611661323,81,72,4
+05:14,[CON 75-81] Jones 3pt Shot: Made (18 PTS) Assist: Thomas (5 AST),184,182,1,,1627673,203826,1611661323,81,75,4
+04:59,[PHO] Cunningham Foul: Offensive (5 PF),151,208,6,1627675,1629482,,1611661317,81,75,4
+04:59,[PHO] Cunningham Turnover : Offensive Foul Turnover (4 TO),151,208,5,,1629482,,1611661317,81,75,4
+04:38,[CON 77-81] Williams Jump Shot: Made (11 PTS) Assist: Jones (2 AST),-157,31,1,,1627675,1628280,1611661323,81,77,4
+04:18,[PHO 84-77] Cunningham 3pt Shot: Made (13 PTS) Assist: Diggins-Smith (6 AST),218,107,1,,1629482,203400,1611661317,84,77,4
+03:53,[CON 79-84] Jones Cutting Layup Shot: Made (20 PTS) Assist: Williams (1 AST),4,16,1,,1627673,1627675,1611661323,84,79,4
+03:40,[PHO] Turner Cutting Layup Shot: Missed,20,30,2,203826,1629488,,1611661317,84,79,4
+03:37,[CON] Thomas Rebound (Off:2 Def:6),20,30,4,,203826,,1611661323,84,79,4
+03:34,[CON 81-84] Bonner Running Layup Shot: Made (11 PTS) Assist: Thomas (6 AST),-6,18,1,,201886,203826,1611661323,84,81,4
+03:17,[PHO] Cunningham 3pt Shot: Missed,174,180,2,,1629482,,1611661317,84,81,4
+03:14,[CON] Thomas Rebound (Off:2 Def:7),174,180,4,,203826,,1611661323,84,81,4
+03:02,[CON] Thomas Driving Floating Jump Shot: Missed,-63,76,2,,203826,,1611661323,84,81,4
+02:59,[CON] Bonner Rebound (Off:2 Def:0),-63,76,4,,201886,,1611661323,84,81,4
+02:56,[CON] Bonner Turnover : Bad Pass (4 TO) Steal:Diggins-Smith (4 ST),5,91,5,203400,201886,,1611661323,84,81,4
+02:51,[PHO] Diggins-Smith Running Layup Shot: Missed,31,6,2,,203400,,1611661317,84,81,4
+02:48,[PHO] Turner Rebound (Off:1 Def:0),31,6,4,,1629488,,1611661317,84,81,4
+02:44,[PHO] Diggins-Smith 3pt Shot: Missed,234,-15,2,,203400,,1611661317,84,81,4
+02:44,[CON] Thomas Rebound (Off:2 Def:8),234,-15,4,,203826,,1611661323,84,81,4
+02:32,[CON 83-84] Thomas Jump Shot: Made (11 PTS) Assist: Jones (3 AST),13,162,1,,203826,1628280,1611661323,84,83,4
+02:31,[PHO] Team Timeout : Short,0,-80,9,,1611661317,,1611661317,84,83,4
+02:31,[PHO] DeShields Substitution replaced by Peddy,0,-80,8,,1628890,203035,1611661317,84,83,4
+02:31,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,84,83,4
+02:17,[PHO 87-83] Taurasi 3pt Shot: Made (31 PTS),-18,263,1,,100940,,1611661317,87,83,4
+01:52,[CON 86-87] Bonner 3pt Shot: Made (14 PTS) Assist: Thomas (7 AST),-196,188,1,,201886,203826,1611661323,87,86,4
+01:40,[PHO] Taurasi 3pt Shot: Missed,-163,202,2,,100940,,1611661317,87,86,4
+01:37,[CON] Bonner Rebound (Off:2 Def:1),-163,202,4,,201886,,1611661323,87,86,4
+01:25,[CON 88-87] Jones Cutting Layup Shot: Made (22 PTS) Assist: Jones (4 AST),-17,6,1,,1627673,1628280,1611661323,87,88,4
+01:12,[PHO] Cunningham 3pt Shot: Missed,-166,175,2,,1629482,,1611661317,87,88,4
+01:08,[CON] Williams Rebound (Off:1 Def:4),-166,175,4,,1627675,,1611661323,87,88,4
+00:47.4,[CON 90-87] Thomas Turnaround Hook Shot: Made (13 PTS),-31,91,1,,203826,,1611661323,87,90,4
+00:33.1,[PHO] Taurasi Pullup Jump shot: Missed,-125,130,2,,100940,,1611661317,87,90,4
+00:27.8,[CON] Bonner Rebound (Off:2 Def:2),-125,130,4,,201886,,1611661323,87,90,4
+00:09.1,[CON] Williams Pullup Jump shot: Missed,-11,189,2,,1627675,,1611661323,87,90,4
+00:06.2,[CON] Williams Rebound (Off:2 Def:4),-11,189,4,,1627675,,1611661323,87,90,4
+00:06.2,[PHO] Cunningham Foul: Personal Take (6 PF),-184,254,6,1627675,1629482,,1611661317,87,90,4
+00:06.2,[PHO] Cunningham Substitution replaced by DeShields,0,-80,8,,1629482,1628890,1611661317,87,90,4
+00:05.3,[PHO] Taurasi Foul: Personal Take (4 PF) (2 FTA),-178,345,6,1627673,100940,,1611661317,87,90,4
+00:05.3,[CON 91-87] Jones Free Throw 1 of 2 (23 PTS),0,-80,3,,1627673,,1611661323,87,91,4
+00:05.3,[CON 92-87] Jones Free Throw 2 of 2 (24 PTS),0,-80,3,,1627673,,1611661323,87,92,4
+00:05.3,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,87,92,4
+00:05.2,[CON] Bonner Foul: Away From Play (4 PF) (1 FTA),140,216,6,100940,201886,,1611661323,87,92,4
+00:05.2,[PHO 88-92] Taurasi Free Throw 1 of 1 (32 PTS),0,-80,3,,100940,,1611661317,88,92,4
+00:04.1,[PHO] DeShields 3pt Shot: Missed,101,219,2,,1628890,,1611661317,88,92,4
+00:01.4,[CON] Team Rebound,101,219,4,,0,,1611661323,88,92,4
+00:01.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,88,92,4
+00:01.4,[CON] Team Timeout : Short,0,-80,9,,1611661323,,1611661323,88,92,4
+00:00.0,End Period,0,-80,13,,0,,0,88,92,4
+00:00.0,Game End,0,-80,0,,0,,0,88,92,4

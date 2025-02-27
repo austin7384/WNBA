@@ -1,0 +1,434 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:56,Jump Ball Austin vs Austin (Toliver gains possession),0,-80,10,1631022,1631022,201911,1611661320,0,0,1
+09:39,[LAS] Cambage Layup Shot: Missed,27,4,2,,202633,,1611661320,0,0,1
+09:36,[WAS] Hines-Allen Rebound (Off:0 Def:1),27,4,4,,1628899,,1611661322,0,0,1
+09:17,[WAS] Clark Driving Layup Shot: Missed,21,31,2,,202252,,1611661322,0,0,1
+09:15,[WAS] Cloud Rebound (Off:1 Def:0),21,31,4,,204333,,1611661322,0,0,1
+09:13,[WAS] Hines-Allen 3pt Shot: Missed,-138,226,2,,1628899,,1611661322,0,0,1
+09:13,[LAS] N Ogwumike Rebound (Off:0 Def:1),-138,226,4,,203014,,1611661320,0,0,1
+09:02,[LAS] N Ogwumike Driving Layup Shot: Missed,27,41,2,,203014,,1611661320,0,0,1
+08:55,[LAS] Cambage Rebound (Off:1 Def:0),27,41,4,,202633,,1611661320,0,0,1
+08:55,[LAS 2-0] Cambage Putback Layup Shot: Made (2 PTS),0,-5,1,,202633,,1611661320,2,0,1
+08:41,[WAS 2-2] Austin Reverse Layup Shot: Made (2 PTS) Assist: Clark (1 AST),16,12,1,,1631022,202252,1611661322,2,2,1
+08:34,[LAS 4-2] Cambage Turnaround Hook Shot: Made (4 PTS) Assist: Toliver (1 AST),18,14,1,,202633,201911,1611661320,4,2,1
+08:34,[WAS] Austin Foul: Shooting (1 PF) (1 FTA),18,14,6,202633,1631022,,1611661322,4,2,1
+08:34,[LAS] Cambage Free Throw 1 of 1 Missed,0,-80,3,,202633,,1611661320,4,2,1
+08:31,[WAS] Clark Rebound (Off:0 Def:1),0,-80,4,,202252,,1611661322,4,2,1
+08:13,[WAS] Hines-Allen Driving Hook Shot: Missed,21,54,2,,1628899,,1611661322,4,2,1
+08:12,[WAS] Team Rebound,21,54,4,,0,,1611661322,4,2,1
+08:12,[LAS] Cambage Foul: Loose Ball (1 PF),21,54,6,1631022,202633,,1611661320,4,2,1
+08:08,[WAS 4-4] Clark Cutting Layup Shot: Made (2 PTS) Assist: Cloud (1 AST),-13,34,1,,202252,204333,1611661322,4,4,1
+07:52,[WAS] Hines-Allen Foul: Personal (1 PF),61,-45,6,203014,1628899,,1611661322,4,4,1
+07:43,[LAS 6-4] N Ogwumike Jump Shot: Made (2 PTS) Assist: Toliver (2 AST),72,144,1,,203014,201911,1611661320,6,4,1
+07:29,[WAS] Austin Turnaround Jump Shot: Missed,-76,49,2,202633,1631022,,1611661322,6,4,1
+07:29,[WAS] Team Rebound,-76,49,4,,0,,1611661322,6,4,1
+07:29,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,4,1
+07:25,[WAS] Cloud Turnover : Bad Pass (1 TO) Steal:Samuelson (1 ST),97,93,5,1629478,204333,,1611661322,6,4,1
+07:10,[LAS] Cambage Turnover : Bad Pass (1 TO) Steal:Cloud (1 ST),101,43,5,204333,202633,,1611661320,6,4,1
+07:06,[WAS 6-6] Hines-Allen Running Layup Shot: Made (2 PTS) Assist: Cloud (2 AST),11,7,1,,1628899,204333,1611661322,6,6,1
+06:54,[LAS] Cambage Turnaround Jump Shot: Missed,-91,52,2,,202633,,1611661320,6,6,1
+06:51,[WAS] Austin Rebound (Off:0 Def:1),-91,52,4,,1631022,,1611661322,6,6,1
+06:42,[WAS 9-6] Hines-Allen 3pt Shot: Made (5 PTS) Assist: Cloud (3 AST),-166,162,1,,1628899,204333,1611661322,6,9,1
+06:25,[LAS] Samuelson Pullup Jump shot: Missed,-32,178,2,,1629478,,1611661320,6,9,1
+06:21,[WAS] Austin Rebound (Off:0 Def:2),-32,178,4,,1631022,,1611661322,6,9,1
+06:09,[WAS 11-6] Cloud Driving Finger Roll Layup Shot: Made (2 PTS),1,48,1,,204333,,1611661322,6,11,1
+05:55,[LAS 9-11] N Ogwumike 3pt Shot: Made (5 PTS) Assist: Toliver (3 AST),109,205,1,,203014,201911,1611661320,9,11,1
+05:30,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,9,11,1
+05:30,[LAS] Cambage Substitution replaced by C Ogwumike,0,-80,8,,202633,203823,1611661320,9,11,1
+05:30,[LAS] Toliver Substitution replaced by Brown,0,-80,8,,201911,1628882,1611661320,9,11,1
+05:30,[WAS] Hines-Allen Substitution replaced by Hawkins,0,-80,8,,1628899,203403,1611661322,9,11,1
+05:25,[WAS] Atkins Jump Shot: Missed,172,45,2,,1628878,,1611661322,9,11,1
+05:23,[LAS] C Ogwumike Rebound (Off:0 Def:1),172,45,4,,203823,,1611661320,9,11,1
+05:14,[LAS] Brown 3pt Shot: Missed,121,197,2,,1628882,,1611661320,9,11,1
+05:13,[LAS] C Ogwumike Rebound (Off:1 Def:1),121,197,4,,203823,,1611661320,9,11,1
+05:12,[LAS] C Ogwumike Reverse Layup Shot: Missed,9,14,2,,203823,,1611661320,9,11,1
+05:12,[WAS] Team Rebound,9,14,4,,0,,1611661322,9,11,1
+05:12,[LAS] Brown Foul: Loose Ball (1 PF),15,773,6,202252,1628882,,1611661320,9,11,1
+05:12,[LAS] Sykes Substitution replaced by Canada,0,-80,8,,1628279,1628886,1611661320,9,11,1
+04:53,[WAS] Atkins Turnover : Bad Pass (1 TO) Steal:N Ogwumike (1 ST),-124,92,5,203014,1628878,,1611661322,9,11,1
+04:50,[LAS 11-11] C Ogwumike Cutting Layup Shot: Made (2 PTS) Assist: Samuelson (1 AST),12,8,1,,203823,1629478,1611661320,11,11,1
+04:31,[WAS] Cloud Turnover : Bad Pass (2 TO) Steal:C Ogwumike (1 ST),-17,128,5,203823,204333,,1611661322,11,11,1
+04:29,[LAS 13-11] N Ogwumike Running Layup Shot: Made (7 PTS) Assist: Brown (1 AST),16,14,1,,203014,1628882,1611661320,13,11,1
+04:12,[WAS] Hawkins Layup Shot: Missed,-13,27,2,203823,203403,,1611661322,13,11,1
+04:08,[LAS] C Ogwumike Rebound (Off:1 Def:2),-13,27,4,,203823,,1611661320,13,11,1
+04:06,[LAS] C Ogwumike Foul: Offensive Charge (1 PF),9,33,6,202252,203823,,1611661320,13,11,1
+04:06,[LAS] C Ogwumike Turnover : Offensive Foul Turnover (1 TO),9,33,5,,203823,,1611661320,13,11,1
+04:06,Timeout Officials,0,-80,9,,0,,0,13,11,1
+04:06,[LAS] Samuelson Substitution replaced by Walker,0,-80,8,,1629478,1630444,1611661320,13,11,1
+04:06,[WAS] Austin Substitution replaced by Williams,0,-80,8,,1631022,204322,1611661322,13,11,1
+04:06,[WAS] Atkins Substitution replaced by Walker-Kimbrough,0,-80,8,,1628878,1628278,1611661322,13,11,1
+04:06,[WAS] Clark Substitution replaced by Burke,0,-80,8,,202252,1629568,1611661322,13,11,1
+03:51,[WAS] Walker-Kimbrough Turnover : Bad Pass (1 TO) Steal:Canada (1 ST),-51,193,5,1628886,1628278,,1611661322,13,11,1
+03:46,[LAS 15-11] Canada Running Layup Shot: Made (2 PTS),1,1,1,,1628886,,1611661320,15,11,1
+03:25,[LAS] C Ogwumike Foul: Shooting (2 PF) (2 FTA),-26,58,6,204333,203823,,1611661320,15,11,1
+03:25,[WAS 12-15] Cloud Free Throw 1 of 2 (3 PTS),0,-80,3,,204333,,1611661322,15,12,1
+03:25,[LAS] C Ogwumike Substitution replaced by Cambage,0,-80,8,,203823,202633,1611661320,15,12,1
+03:25,[WAS] Cloud Free Throw 2 of 2 Missed,0,-80,3,,204333,,1611661322,15,12,1
+03:23,[LAS] Cambage Rebound (Off:1 Def:1),0,-80,4,,202633,,1611661320,15,12,1
+03:19,[LAS 17-12] Brown Running Jump Shot: Made (2 PTS) Assist: Canada (1 AST),155,32,1,,1628882,1628886,1611661320,17,12,1
+03:01,[WAS 15-17] Burke 3pt Shot: Made (3 PTS) Assist: Cloud (4 AST),-222,48,1,,1629568,204333,1611661322,17,15,1
+02:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,15,1
+02:45,[WAS] Cloud Substitution replaced by Machida,0,-80,8,,204333,1630957,1611661322,17,15,1
+02:45,[LAS] N Ogwumike Substitution replaced by Nelson-Ododa,0,-80,8,,203014,1631135,1611661320,17,15,1
+02:34,[LAS] Cambage Turnaround Jump Shot: Missed,66,64,2,,202633,,1611661320,17,15,1
+02:30,[LAS] Nelson-Ododa Rebound (Off:1 Def:0),66,64,4,,1631135,,1611661320,17,15,1
+02:29,[LAS 19-15] Nelson-Ododa Putback Layup Shot: Made (2 PTS),-12,5,1,,1631135,,1611661320,19,15,1
+02:20,[WAS] Machida Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-232,150,5,,1630957,,1611661322,19,15,1
+02:12,[LAS] Brown Turnover : Out of Bounds - Bad Pass Turnover (1 TO),70,74,5,,1628882,,1611661320,19,15,1
+01:57,[WAS 18-19] Walker-Kimbrough 3pt Shot: Made (3 PTS) Assist: Hawkins (1 AST),-37,235,1,,1628278,203403,1611661322,19,18,1
+01:37,[LAS] Walker 3pt Shot: Missed,-210,97,2,,1630444,,1611661320,19,18,1
+01:35,[WAS] Hawkins Rebound (Off:0 Def:1),-210,97,4,,203403,,1611661322,19,18,1
+01:26,[WAS] Walker-Kimbrough 3pt Shot: Missed,-229,28,2,,1628278,,1611661322,19,18,1
+01:22,[LAS] Brown Rebound (Off:0 Def:1),-229,28,4,,1628882,,1611661320,19,18,1
+01:16,[LAS] Brown Running Layup Shot: Missed,-26,10,2,,1628882,,1611661320,19,18,1
+01:13,[WAS] Hawkins Rebound (Off:0 Def:2),-26,10,4,,203403,,1611661322,19,18,1
+01:09,[WAS] Burke 3pt Shot: Missed,227,53,2,,1629568,,1611661322,19,18,1
+01:06,[WAS] Williams Rebound (Off:1 Def:0),227,53,4,,204322,,1611661322,19,18,1
+01:05,[WAS] Williams Turnaround Hook Shot: Missed,-29,42,2,,204322,,1611661322,19,18,1
+01:04,[LAS] Team Rebound,-29,42,4,,0,,1611661320,19,18,1
+01:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,18,1
+00:51.0,[LAS] Cambage Turnaround Jump Shot: Missed,140,33,2,,202633,,1611661320,19,18,1
+00:48.4,[WAS] Burke Rebound (Off:0 Def:1),140,33,4,,1629568,,1611661322,19,18,1
+00:41.4,[WAS] Machida Pullup Jump shot: Missed,-27,110,2,,1630957,,1611661322,19,18,1
+00:38.0,[LAS] Canada Rebound (Off:0 Def:1),-27,110,4,,1628886,,1611661320,19,18,1
+00:28.8,[LAS] Nelson-Ododa Turnaround Hook Shot: Missed,39,14,2,,1631135,,1611661320,19,18,1
+00:27.5,[LAS] Team Rebound,39,14,4,,0,,1611661320,19,18,1
+00:27.5,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,19,18,1
+00:27.5,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,19,18,1
+00:23.4,[WAS] Burke Foul: Personal (1 PF),39,17,6,1628882,1629568,,1611661322,19,18,1
+00:14.6,[LAS 21-18] Nelson-Ododa Turnaround Hook Shot: Made (4 PTS) Assist: Cambage (1 AST),1,16,1,,1631135,202633,1611661320,21,18,1
+00:00.0,[WAS] Burke Turnover : Bad Pass (1 TO) Steal:Canada (2 ST),-46,50,5,1628886,1629568,,1611661322,21,18,1
+00:00.0,End Period,0,-80,13,,0,,0,21,18,1
+10:00,Start Period,0,-80,12,,0,,0,21,18,2
+09:37,[WAS] Machida Turnover : Bad Pass (2 TO) Steal:Cambage (1 ST),-26,61,5,202633,1630957,,1611661322,21,18,2
+09:33,[WAS] Walker-Kimbrough Foul: Personal (1 PF),28,139,6,1628279,1628278,,1611661322,21,18,2
+09:33,[WAS] Machida Substitution replaced by Cloud,0,-80,8,,1630957,204333,1611661322,21,18,2
+09:20,[LAS] N Ogwumike Floating Jump shot: Missed,33,97,2,,203014,,1611661320,21,18,2
+09:16,[LAS] N Ogwumike Rebound (Off:1 Def:1),33,97,4,,203014,,1611661320,21,18,2
+09:16,[LAS 23-18] N Ogwumike Putback Layup Shot: Made (9 PTS),26,14,1,,203014,,1611661320,23,18,2
+09:04,[WAS] Walker-Kimbrough Turnover : Traveling (2 TO),-140,166,5,,1628278,,1611661322,23,18,2
+08:47,[LAS] N Ogwumike Pullup Jump shot: Missed,145,137,2,,203014,,1611661320,23,18,2
+08:43,[WAS] Burke Rebound (Off:0 Def:2),145,137,4,,1629568,,1611661322,23,18,2
+08:39,[WAS] Burke Running Pull-Up Jump Shot: Missed,86,136,2,,1629568,,1611661322,23,18,2
+08:34,[LAS] Sykes Rebound (Off:0 Def:1),86,136,4,,1628279,,1611661320,23,18,2
+08:22,[WAS] Williams Foul: Personal (1 PF),6,38,6,202633,204322,,1611661322,23,18,2
+08:22,[LAS] Cambage Substitution replaced by Nelson-Ododa,0,-80,8,,202633,1631135,1611661320,23,18,2
+08:22,[WAS] Hawkins Substitution replaced by Clark,0,-80,8,,203403,202252,1611661322,23,18,2
+08:22,[WAS] Burke Substitution replaced by Atkins,0,-80,8,,1629568,1628878,1611661322,23,18,2
+08:22,[WAS] Walker-Kimbrough Substitution replaced by Hines-Allen,0,-80,8,,1628278,1628899,1611661322,23,18,2
+08:10,[LAS] Samuelson 3pt Shot: Missed,202,143,2,,1629478,,1611661320,23,18,2
+08:05,[WAS] Williams Rebound (Off:1 Def:1),202,143,4,,204322,,1611661322,23,18,2
+07:57,[WAS 21-23] Atkins 3pt Shot: Made (3 PTS) Assist: Hines-Allen (1 AST),-223,54,1,,1628878,1628899,1611661322,23,21,2
+07:47,[LAS] Sykes Driving Layup Shot: Missed,15,1,2,,1628279,,1611661320,23,21,2
+07:40,[WAS] Hines-Allen Rebound (Off:0 Def:2),15,1,4,,1628899,,1611661322,23,21,2
+07:38,[WAS] Clark 3pt Shot: Missed,-223,59,2,,202252,,1611661322,23,21,2
+07:35,[LAS] Samuelson Rebound (Off:0 Def:1),-223,59,4,,1629478,,1611661320,23,21,2
+07:19,[LAS 25-21] N Ogwumike Turnaround Jump Shot: Made (11 PTS),72,37,1,,203014,,1611661320,25,21,2
+07:08,[LAS] Samuelson Foul: Personal (1 PF),-132,141,6,204333,1629478,,1611661320,25,21,2
+07:08,[WAS] Williams Substitution replaced by Austin,0,-80,8,,204322,1631022,1611661322,25,21,2
+07:03,[WAS 23-25] Atkins Pullup Jump shot: Made (5 PTS) Assist: Cloud (5 AST),99,168,1,,1628878,204333,1611661322,25,23,2
+06:47,[LAS] Nelson-Ododa Cutting Layup Shot: Missed,3,26,2,,1631135,,1611661320,25,23,2
+06:44,[LAS] Nelson-Ododa Rebound (Off:2 Def:0),3,26,4,,1631135,,1611661320,25,23,2
+06:43,[LAS 27-23] Nelson-Ododa Hook Shot: Made (6 PTS),16,38,1,,1631135,,1611661320,27,23,2
+06:30,[WAS] Austin Jump Bank Shot: Missed,23,23,2,,1631022,,1611661322,27,23,2
+06:29,[WAS] Austin Rebound (Off:1 Def:2),23,23,4,,1631022,,1611661322,27,23,2
+06:27,[WAS] Austin Putback Layup Shot: Missed,11,23,2,,1631022,,1611661322,27,23,2
+06:26,[LAS] N Ogwumike Rebound (Off:1 Def:2),11,23,4,,203014,,1611661320,27,23,2
+06:26,[LAS] N Ogwumike Turnover : Lost Ball (1 TO) Steal:Atkins (1 ST),46,787,5,1628878,203014,,1611661320,27,23,2
+06:22,[WAS] Austin Floating Jump shot: Missed,-15,47,2,203014,1631022,,1611661322,27,23,2
+06:22,[WAS] Atkins Rebound (Off:1 Def:0),-15,47,4,,1628878,,1611661322,27,23,2
+06:22,[LAS] N Ogwumike Foul: Shooting (1 PF) (2 FTA),4,44,6,1628878,203014,,1611661320,27,23,2
+06:22,[WAS 24-27] Atkins Free Throw 1 of 2 (6 PTS),0,-80,3,,1628878,,1611661322,27,24,2
+06:22,[LAS] Toliver Substitution replaced by Canada,0,-80,8,,201911,1628886,1611661320,27,24,2
+06:22,[WAS 25-27] Atkins Free Throw 2 of 2 (7 PTS),0,-80,3,,1628878,,1611661322,27,25,2
+06:11,[LAS 29-25] N Ogwumike Cutting Layup Shot: Made (13 PTS) Assist: Canada (2 AST),11,13,1,,203014,1628886,1611661320,29,25,2
+06:01,[WAS] Hines-Allen Foul: Offensive (2 PF),122,130,6,203014,1628899,,1611661322,29,25,2
+06:01,[WAS] Hines-Allen Turnover : Offensive Foul Turnover (1 TO),122,130,5,,1628899,,1611661322,29,25,2
+05:47,[LAS] Samuelson 3pt Shot: Missed,226,62,2,,1629478,,1611661320,29,25,2
+05:46,[WAS] Team Rebound,226,62,4,,0,,1611661322,29,25,2
+05:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,29,25,2
+05:46,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,29,25,2
+05:46,[LAS] Samuelson Substitution replaced by Brown,0,-80,8,,1629478,1628882,1611661320,29,25,2
+05:32,[WAS] Hines-Allen Driving Floating Jump Shot: Missed,-38,93,2,,1628899,,1611661322,29,25,2
+05:29,[WAS] Austin Rebound (Off:2 Def:2),-38,93,4,,1631022,,1611661322,29,25,2
+05:28,[WAS] Austin Putback Layup Shot: Missed,-17,29,2,,1631022,,1611661322,29,25,2
+05:27,[WAS] Hines-Allen Rebound (Off:1 Def:2),-17,29,4,,1628899,,1611661322,29,25,2
+05:22,[WAS 27-29] Hines-Allen Driving Hook Shot: Made (7 PTS) Assist: Cloud (6 AST),-27,53,1,,1628899,204333,1611661322,29,27,2
+05:04,[LAS] Canada Pullup Jump shot: Missed,118,75,2,,1628886,,1611661320,29,27,2
+05:04,[WAS] Hines-Allen Rebound (Off:1 Def:3),118,75,4,,1628899,,1611661322,29,27,2
+04:59,[LAS] Canada Foul: Personal Take (1 PF),-137,243,6,1628899,1628886,,1611661320,29,27,2
+04:59,[LAS] Nelson-Ododa Substitution replaced by Toliver,0,-80,8,,1631135,201911,1611661320,29,27,2
+04:59,[LAS] Brown Substitution replaced by C Ogwumike,0,-80,8,,1628882,203823,1611661320,29,27,2
+04:49,[WAS] Cloud Turnover : Bad Pass (3 TO) Steal:Canada (3 ST),-54,70,5,1628886,204333,,1611661322,29,27,2
+04:43,[LAS] Toliver Turnover : Bad Pass (1 TO) Steal:Clark (1 ST),98,63,5,202252,201911,,1611661320,29,27,2
+04:32,[WAS 29-29] Atkins Pullup Jump shot: Made (9 PTS),-16,151,1,,1628878,,1611661322,29,29,2
+04:14,[LAS] N Ogwumike Turnover : Bad Pass (2 TO) Steal:Clark (2 ST),77,124,5,202252,203014,,1611661320,29,29,2
+04:07,[WAS] Atkins Running Layup Shot: Missed,5,18,2,,1628878,,1611661322,29,29,2
+04:04,[WAS] Hines-Allen Rebound (Off:2 Def:3),5,18,4,,1628899,,1611661322,29,29,2
+04:01,[WAS] Hines-Allen Turnover : Bad Pass (2 TO) Steal:N Ogwumike (2 ST),-53,54,5,203014,1628899,,1611661322,29,29,2
+03:41,[LAS] Canada Step Back Jump shot: Missed,113,170,2,,1628886,,1611661320,29,29,2
+03:35,[WAS] Austin Rebound (Off:2 Def:3),113,170,4,,1631022,,1611661322,29,29,2
+03:33,[WAS] Hines-Allen Turnover : Traveling (3 TO),-111,125,5,,1628899,,1611661322,29,29,2
+03:33,[LAS] Sykes Substitution replaced by Samuelson,0,-80,8,,1628279,1629478,1611661320,29,29,2
+03:33,[LAS] N Ogwumike Substitution replaced by Cambage,0,-80,8,,203014,202633,1611661320,29,29,2
+03:17,[LAS 31-29] Samuelson Pullup Jump shot: Made (2 PTS) Assist: Cambage (2 AST),54,150,1,,1629478,202633,1611661320,31,29,2
+02:57,[WAS] Hines-Allen 3pt Shot: Missed,4,236,2,,1628899,,1611661322,31,29,2
+02:55,[LAS] Samuelson Rebound (Off:0 Def:2),4,236,4,,1629478,,1611661320,31,29,2
+02:50,[LAS 33-29] Samuelson Running Jump Shot: Made (4 PTS) Assist: Toliver (4 AST),-107,35,1,,1629478,201911,1611661320,33,29,2
+02:42,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,33,29,2
+02:42,[WAS] Austin Substitution replaced by Walker-Kimbrough,0,-80,8,,1631022,1628278,1611661322,33,29,2
+02:42,[WAS] Hines-Allen Substitution replaced by Williams,0,-80,8,,1628899,204322,1611661322,33,29,2
+02:42,[WAS] Clark Substitution replaced by Hawkins,0,-80,8,,202252,203403,1611661322,33,29,2
+02:28,[WAS] Hawkins 3pt Shot: Missed,-60,242,2,,203403,,1611661322,33,29,2
+02:25,[LAS] Team Rebound,-60,242,4,,0,,1611661320,33,29,2
+02:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,29,2
+02:06,[WAS] Williams Foul: Personal (2 PF),-33,48,6,202633,204322,,1611661322,33,29,2
+02:06,[LAS] Canada Substitution replaced by Carter,0,-80,8,,1628886,1630150,1611661320,33,29,2
+01:58,[LAS] Toliver Step Back Jump shot: Missed,142,15,2,,201911,,1611661320,33,29,2
+01:54,[WAS] Walker-Kimbrough Rebound (Off:0 Def:1),142,15,4,,1628278,,1611661322,33,29,2
+01:43,[LAS] Carter Foul: Personal (1 PF),145,305,6,1628878,1630150,,1611661320,33,29,2
+01:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,29,2
+01:37,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,33,29,2
+01:26,[WAS] Atkins 3pt Shot: Missed,119,284,2,,1628878,,1611661322,33,29,2
+01:25,[WAS] Team Rebound,119,284,4,,0,,1611661322,33,29,2
+01:25,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,29,2
+01:21,[LAS] Cambage Foul: Shooting (2 PF) (2 FTA),26,50,6,1628278,202633,,1611661320,33,29,2
+01:21,[WAS 30-33] Walker-Kimbrough Free Throw 1 of 2 (4 PTS),0,-80,3,,1628278,,1611661322,33,30,2
+01:21,[LAS] Cambage Substitution replaced by Nelson-Ododa,0,-80,8,,202633,1631135,1611661320,33,30,2
+01:21,[WAS 31-33] Walker-Kimbrough Free Throw 2 of 2 (5 PTS),0,-80,3,,1628278,,1611661322,33,31,2
+01:08,[LAS] Carter Driving Layup Shot: Missed,32,17,2,,1630150,,1611661320,33,31,2
+01:08,[WAS] Team Rebound,32,17,4,,0,,1611661322,33,31,2
+01:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,33,31,2
+00:50.3,[WAS] Cloud Turnover : Bad Pass (4 TO) Steal:Carter (1 ST),1,54,5,1630150,204333,,1611661322,33,31,2
+00:42.7,[LAS 35-31] C Ogwumike Jump Shot: Made (4 PTS) Assist: Carter (1 AST),116,186,1,,203823,1630150,1611661320,35,31,2
+00:24.6,[WAS] Hawkins Driving Layup Shot: Missed,44,42,2,,203403,,1611661322,35,31,2
+00:22.9,[LAS] Samuelson Rebound (Off:0 Def:3),15,58,4,,1629478,,1611661320,35,31,2
+00:01.9,[LAS] Toliver Driving Floating Jump Shot: Missed,-54,99,2,1628278,201911,,1611661320,35,31,2
+00:00.1,[LAS] Team Rebound,-54,99,4,,0,,1611661320,35,31,2
+00:00.0,End Period,0,-80,13,,0,,0,35,31,2
+10:00,Start Period,0,-80,12,,0,,0,35,31,3
+09:49,[WAS] Atkins Turnover : Bad Pass (2 TO) Steal:N Ogwumike (3 ST),-82,197,5,203014,1628878,,1611661322,35,31,3
+09:42,[LAS 38-31] Samuelson 3pt Shot: Made (7 PTS) Assist: Sykes (1 AST),-183,163,1,,1629478,1628279,1611661320,38,31,3
+09:39,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,38,31,3
+09:26,[WAS 33-38] Hines-Allen Driving Layup Shot: Made (9 PTS) Assist: Cloud (7 AST),3,24,1,,1628899,204333,1611661322,38,33,3
+09:10,[LAS 41-33] Toliver 3pt Shot: Made (3 PTS) Assist: Sykes (2 AST),-163,222,1,,201911,1628279,1611661320,41,33,3
+09:10,[WAS] Austin Foul: Away From Play (2 PF) (1 FTA),-7,41,6,202633,1631022,,1611661322,41,33,3
+09:10,InstantReplay Request Stands,0,-80,18,,0,,0,41,33,3
+09:10,[LAS] Cambage Free Throw 1 of 1 Missed,0,-80,3,,202633,,1611661320,41,33,3
+09:10,[WAS] Cloud Rebound (Off:1 Def:1),0,-80,4,,204333,,1611661322,41,33,3
+08:47,[WAS 35-41] Hines-Allen Cutting Layup Shot: Made (11 PTS) Assist: Austin (1 AST),59,58,1,,1628899,1631022,1611661322,41,35,3
+08:23,[WAS] Austin Foul: Shooting (3 PF) (2 FTA),-77,61,6,202633,1631022,,1611661322,41,35,3
+08:23,[LAS 42-35] Cambage Free Throw 1 of 2 (5 PTS),0,-80,3,,202633,,1611661320,42,35,3
+08:23,[LAS] Cambage Free Throw 2 of 2 Missed,0,-80,3,,202633,,1611661320,42,35,3
+08:21,[WAS] Hines-Allen Rebound (Off:2 Def:4),0,-80,4,,1628899,,1611661322,42,35,3
+08:03,[WAS] Austin Turnaround Jump Shot: Missed,-43,25,2,,1631022,,1611661322,42,35,3
+08:00,[LAS] N Ogwumike Rebound (Off:1 Def:3),-43,25,4,,203014,,1611661320,42,35,3
+07:55,[LAS] Toliver Turnover : Bad Pass (2 TO) Steal:Hines-Allen (1 ST),-39,40,5,1628899,201911,,1611661320,42,35,3
+07:46,[WAS] Clark Driving Floating Jump Shot: Missed,50,86,2,,202252,,1611661322,42,35,3
+07:43,[LAS] Sykes Rebound (Off:0 Def:2),50,86,4,,1628279,,1611661320,42,35,3
+07:40,[LAS] Sykes Running Layup Shot: Missed,-72,49,2,202252,1628279,,1611661320,42,35,3
+07:38,[LAS] Cambage Rebound (Off:2 Def:1),-72,49,4,,202633,,1611661320,42,35,3
+07:37,[LAS 44-35] Cambage Putback Layup Shot: Made (7 PTS),0,-5,1,,202633,,1611661320,44,35,3
+07:23,[WAS] Cloud Driving Finger Roll Layup Shot: Missed,38,54,2,,204333,,1611661322,44,35,3
+07:23,[WAS] Cloud Rebound (Off:2 Def:1),38,54,4,,204333,,1611661322,44,35,3
+07:23,[LAS] Cambage Foul: Shooting (3 PF) (2 FTA),13,25,6,204333,202633,,1611661320,44,35,3
+07:23,[WAS] Cloud Free Throw 1 of 2 Missed,0,-80,3,,204333,,1611661322,44,35,3
+07:23,[WAS] Team Rebound,0,-80,4,,0,,1611661322,44,35,3
+07:23,[LAS] Cambage Substitution replaced by C Ogwumike,0,-80,8,,202633,203823,1611661320,44,35,3
+07:23,[WAS] Cloud Free Throw 2 of 2 Missed,0,-80,3,,204333,,1611661322,44,35,3
+07:20,[LAS] C Ogwumike Rebound (Off:1 Def:3),0,-80,4,,203823,,1611661320,44,35,3
+07:05,[LAS] Toliver Turnover : Bad Pass (3 TO) Steal:Cloud (2 ST),-89,142,5,204333,201911,,1611661320,44,35,3
+07:00,[WAS 37-44] Clark Floating Jump shot: Made (4 PTS) Assist: Cloud (8 AST),-13,74,1,,202252,204333,1611661322,44,37,3
+06:38,[LAS] Sykes Layup Shot: Missed,-26,28,2,,1628279,,1611661320,44,37,3
+06:37,[LAS] Team Rebound,-26,28,4,,0,,1611661320,44,37,3
+06:37,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,37,3
+06:28,[LAS] Sykes Jump Shot: Missed,-120,179,2,,1628279,,1611661320,44,37,3
+06:26,[LAS] Team Rebound,-120,179,4,,0,,1611661320,44,37,3
+06:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,44,37,3
+06:26,[LAS] Sykes Substitution replaced by Brown,0,-80,8,,1628279,1628882,1611661320,44,37,3
+06:23,[LAS 46-37] N Ogwumike Pullup Jump shot: Made (15 PTS) Assist: Samuelson (2 AST),-32,120,1,,203014,1629478,1611661320,46,37,3
+06:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,46,37,3
+06:07,[WAS] Austin Substitution replaced by Williams,0,-80,8,,1631022,204322,1611661322,46,37,3
+05:58,[WAS 39-46] Hines-Allen Jump Bank Shot: Made (13 PTS) Assist: Cloud (9 AST),-96,162,1,,1628899,204333,1611661322,46,39,3
+05:37,[WAS] Cloud Foul: Defense 3 Second (1 PF) (1 FTA),0,-80,6,,204333,,1611661322,46,39,3
+05:37,[LAS 47-39] Toliver Free Throw Technical (4 PTS),0,-80,3,,201911,,1611661320,47,39,3
+05:24,[LAS] Brown Turnover : Bad Pass (2 TO) Steal:Cloud (3 ST),-3,247,5,204333,1628882,,1611661320,47,39,3
+05:19,[WAS] Hines-Allen Running Layup Shot: Missed,-7,8,2,,1628899,,1611661322,47,39,3
+05:16,[WAS] Clark Rebound (Off:1 Def:1),-7,8,4,,202252,,1611661322,47,39,3
+05:11,[LAS] C Ogwumike Foul: Personal (3 PF),76,15,6,204322,203823,,1611661320,47,39,3
+05:04,[WAS] Atkins Pullup Jump shot: Missed,-85,57,2,,1628878,,1611661322,47,39,3
+04:58,[LAS] Brown Rebound (Off:0 Def:2),-85,57,4,,1628882,,1611661320,47,39,3
+04:55,[LAS] Toliver 3pt Shot: Missed,-182,225,2,,201911,,1611661320,47,39,3
+04:52,[LAS] C Ogwumike Rebound (Off:2 Def:3),-182,225,4,,203823,,1611661320,47,39,3
+04:52,[LAS] C Ogwumike Reverse Layup Shot: Missed,-4,13,2,,203823,,1611661320,47,39,3
+04:48,[LAS] C Ogwumike Rebound (Off:3 Def:3),-4,13,4,,203823,,1611661320,47,39,3
+04:48,[LAS 49-39] C Ogwumike Putback Layup Shot: Made (6 PTS),0,-5,1,,203823,,1611661320,49,39,3
+04:35,[WAS] Hines-Allen Jump Shot: Missed,-71,192,2,,1628899,,1611661322,49,39,3
+04:34,[WAS] Hines-Allen Rebound (Off:3 Def:4),-71,192,4,,1628899,,1611661322,49,39,3
+04:26,[WAS] Atkins 3pt Shot: Missed,-111,218,2,,1628878,,1611661322,49,39,3
+04:24,[LAS] C Ogwumike Rebound (Off:3 Def:4),-111,218,4,,203823,,1611661320,49,39,3
+04:07,[LAS 51-39] N Ogwumike Cutting Layup Shot: Made (17 PTS) Assist: C Ogwumike (1 AST),7,16,1,,203014,203823,1611661320,51,39,3
+04:00,[WAS 41-51] Hines-Allen Fadeaway Jump Shot: Made (15 PTS),-69,48,1,,1628899,,1611661322,51,41,3
+03:47,[LAS] Toliver Turnover : Out of Bounds - Bad Pass Turnover (4 TO),79,-25,5,,201911,,1611661320,51,41,3
+03:47,Timeout Officials,0,-80,9,,0,,0,51,41,3
+03:47,[LAS] Toliver Substitution replaced by Cambage,0,-80,8,,201911,202633,1611661320,51,41,3
+03:47,[LAS] Samuelson Substitution replaced by Sykes,0,-80,8,,1629478,1628279,1611661320,51,41,3
+03:47,[WAS] Clark Substitution replaced by Hawkins,0,-80,8,,202252,203403,1611661322,51,41,3
+03:47,[LAS] C Ogwumike Substitution replaced by Canada,0,-80,8,,203823,1628886,1611661320,51,41,3
+03:47,[WAS] Hines-Allen Substitution replaced by Walker-Kimbrough,0,-80,8,,1628899,1628278,1611661322,51,41,3
+03:29,[WAS] Atkins Pullup Jump shot: Missed,-67,127,2,,1628878,,1611661322,51,41,3
+03:27,[LAS] Cambage Rebound (Off:2 Def:2),-67,127,4,,202633,,1611661320,51,41,3
+03:13,[LAS 53-41] Cambage Turnaround Hook Shot: Made (9 PTS) Assist: N Ogwumike (1 AST),46,53,1,,202633,203014,1611661320,53,41,3
+02:57,[WAS 44-53] Hawkins 3pt Shot: Made (3 PTS) Assist: Cloud (10 AST),-144,193,1,,203403,204333,1611661322,53,44,3
+02:41,[LAS 55-44] N Ogwumike Jump Shot: Made (19 PTS) Assist: Canada (3 AST),97,49,1,,203014,1628886,1611661320,55,44,3
+02:22,[WAS] Cloud Driving Floating Jump Shot: Missed,48,90,2,,204333,,1611661322,55,44,3
+02:19,[LAS] Cambage Rebound (Off:2 Def:3),48,90,4,,202633,,1611661320,55,44,3
+02:15,[WAS] Cloud Foul: Shooting (2 PF) (2 FTA),-10,50,6,1628886,204333,,1611661322,55,44,3
+02:15,[LAS] Canada Free Throw 1 of 2 Missed,0,-80,3,,1628886,,1611661320,55,44,3
+02:15,[LAS] Team Rebound,0,-80,4,,0,,1611661320,55,44,3
+02:15,[LAS] Brown Substitution replaced by Nelson-Ododa,0,-80,8,,1628882,1631135,1611661320,55,44,3
+02:15,[LAS] N Ogwumike Substitution replaced by Samuelson,0,-80,8,,203014,1629478,1611661320,55,44,3
+02:15,[LAS 56-44] Canada Free Throw 2 of 2 (3 PTS),0,-80,3,,1628886,,1611661320,56,44,3
+01:57,[WAS 47-56] Atkins 3pt Shot: Made (12 PTS) Assist: Cloud (11 AST),184,135,1,,1628878,204333,1611661322,56,47,3
+01:41,[LAS] Cambage Turnover : Bad Pass (2 TO) Steal:Williams (1 ST),-41,238,5,204322,202633,,1611661320,56,47,3
+01:40,[WAS] Williams Turnover : Bad Pass (1 TO) Steal:Samuelson (2 ST),54,838,5,1629478,204322,,1611661322,56,47,3
+01:38,[LAS 59-47] Samuelson 3pt Shot: Made (10 PTS),179,140,1,,1629478,,1611661320,59,47,3
+01:17,[WAS 49-59] Atkins Driving Floating Bank Jump Shot: Made (14 PTS) Assist: Hawkins (2 AST),-12,14,1,,1628878,203403,1611661322,59,49,3
+01:17,[WAS] Atkins Substitution replaced by Hines-Allen,0,-80,8,,1628878,1628899,1611661322,59,49,3
+01:09,[WAS] Williams Foul: Personal (3 PF),-17,160,6,202633,204322,,1611661322,59,49,3
+00:59.1,[LAS 61-49] Canada Pullup Jump shot: Made (5 PTS),-101,200,1,,1628886,,1611661320,61,49,3
+00:40.6,[LAS] Cambage Foul: Shooting (4 PF) (2 FTA),16,14,6,204322,202633,,1611661320,61,49,3
+00:40.6,[WAS 50-61] Walker-Kimbrough Free Throw 1 of 2 (6 PTS),0,-80,3,,1628278,,1611661322,61,50,3
+00:40.6,[LAS] Cambage Substitution replaced by Walker,0,-80,8,,202633,1630444,1611661320,61,50,3
+00:40.6,[WAS] Hines-Allen Substitution replaced by Atkins,0,-80,8,,1628899,1628878,1611661322,61,50,3
+00:40.6,[WAS 51-61] Walker-Kimbrough Free Throw 2 of 2 (7 PTS),0,-80,3,,1628278,,1611661322,61,51,3
+00:22.1,[WAS] Atkins Foul: Shooting (1 PF) (2 FTA),-82,93,6,1628279,1628878,,1611661322,61,51,3
+00:22.1,[LAS 62-51] Sykes Free Throw 1 of 2 (1 PTS),0,-80,3,,1628279,,1611661320,62,51,3
+00:22.1,[LAS 63-51] Sykes Free Throw 2 of 2 (2 PTS),0,-80,3,,1628279,,1611661320,63,51,3
+00:02.7,[WAS] Williams Cutting Layup Shot: Missed,4,16,2,1628279,204322,,1611661322,63,51,3
+00:02.7,[LAS] Samuelson Rebound (Off:0 Def:4),4,16,4,,1629478,,1611661320,63,51,3
+00:00.1,[LAS] Canada 3pt Shot: Missed,-4,309,2,,1628886,,1611661320,63,51,3
+00:00.1,[LAS] Team Rebound,-4,309,4,,0,,1611661320,63,51,3
+00:00.0,End Period,0,-80,13,,0,,0,63,51,3
+10:00,Start Period,0,-80,12,,0,,0,63,51,4
+09:50,[LAS] Toliver Turnover : Out of Bounds - Bad Pass Turnover (5 TO),150,335,5,,201911,,1611661320,63,51,4
+09:42,[WAS 53-63] Burke Driving Layup Shot: Made (5 PTS) Assist: Machida (1 AST),20,13,1,,1629568,1630957,1611661322,63,53,4
+09:42,[LAS] Samuelson Foul: Shooting (2 PF) (1 FTA),6,6,6,1629568,1629478,,1611661320,63,53,4
+09:42,[WAS 54-63] Burke Free Throw 1 of 1 (6 PTS),0,-80,3,,1629568,,1611661322,63,54,4
+09:25,[LAS 65-54] C Ogwumike Layup Shot: Made (8 PTS) Assist: N Ogwumike (2 AST),17,42,1,,203823,203014,1611661320,65,54,4
+09:05,[LAS] Samuelson Foul: Defense 3 Second (3 PF) (1 FTA),0,-80,6,,1629478,,1611661320,65,54,4
+09:05,[WAS 55-65] Walker-Kimbrough Free Throw Technical (8 PTS),0,-80,3,,1628278,,1611661322,65,55,4
+08:55,[WAS] Hawkins Pullup Jump shot: Missed,-135,44,2,,203403,,1611661322,65,55,4
+08:53,[LAS] C Ogwumike Rebound (Off:3 Def:5),-135,44,4,,203823,,1611661320,65,55,4
+08:46,[LAS] N Ogwumike Turnaround Hook Shot: Missed,-9,88,2,,203014,,1611661320,65,55,4
+08:44,[WAS] Hawkins Rebound (Off:0 Def:3),-9,88,4,,203403,,1611661322,65,55,4
+08:40,[WAS 57-65] Williams Running Layup Shot: Made (2 PTS) Assist: Machida (2 AST),12,-5,1,,204322,1630957,1611661322,65,57,4
+08:22,[LAS 68-57] Sykes 3pt Shot: Made (5 PTS) Assist: Toliver (5 AST),-232,21,1,,1628279,201911,1611661320,68,57,4
+07:59,[WAS] Machida Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-34,234,5,,1630957,,1611661322,68,57,4
+07:41,[LAS] Sykes Driving Layup Shot: Missed,-18,39,2,,1628279,,1611661320,68,57,4
+07:37,[LAS] C Ogwumike Rebound (Off:4 Def:5),-18,39,4,,203823,,1611661320,68,57,4
+07:35,[LAS 70-57] C Ogwumike Tip Layup Shot: Made (10 PTS),4,11,1,,203823,,1611661320,70,57,4
+07:14,[WAS] Williams Turnaround Jump Shot: Missed,37,80,2,,204322,,1611661322,70,57,4
+07:10,[WAS] Burke Rebound (Off:1 Def:2),37,80,4,,1629568,,1611661322,70,57,4
+07:09,[WAS] Machida 3pt Shot: Missed,62,240,2,,1630957,,1611661322,70,57,4
+07:06,[LAS] Samuelson Rebound (Off:0 Def:5),62,240,4,,1629478,,1611661320,70,57,4
+06:48,[LAS] Sykes 3pt Shot: Missed,115,215,2,,1628279,,1611661320,70,57,4
+06:46,[WAS] Burke Rebound (Off:1 Def:3),115,215,4,,1629568,,1611661322,70,57,4
+06:41,[WAS] Burke Foul: Offensive Charge (2 PF),3,42,6,203823,1629568,,1611661322,70,57,4
+06:41,[WAS] Burke Turnover : Offensive Foul Turnover (2 TO),3,42,5,,1629568,,1611661322,70,57,4
+06:41,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,70,57,4
+06:41,[LAS] C Ogwumike Substitution replaced by Nelson-Ododa,0,-80,8,,203823,1631135,1611661320,70,57,4
+06:41,[WAS] Williams Substitution replaced by Hines-Allen,0,-80,8,,204322,1628899,1611661322,70,57,4
+06:41,[WAS] Hawkins Substitution replaced by Austin,0,-80,8,,203403,1631022,1611661322,70,57,4
+06:23,[LAS 73-57] Samuelson 3pt Shot: Made (13 PTS) Assist: Sykes (3 AST),163,176,1,,1629478,1628279,1611661320,73,57,4
+06:02,[WAS] Hines-Allen Pullup Jump shot: Missed,50,80,2,1631135,1628899,,1611661322,73,57,4
+05:59,[LAS] N Ogwumike Rebound (Off:1 Def:4),50,80,4,,203014,,1611661320,73,57,4
+05:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,57,4
+05:47,[LAS] N Ogwumike Substitution replaced by Cambage,0,-80,8,,203014,202633,1611661320,73,57,4
+05:47,[WAS] Machida Substitution replaced by Cloud,0,-80,8,,1630957,204333,1611661322,73,57,4
+05:47,[WAS] Burke Substitution replaced by Atkins,0,-80,8,,1629568,1628878,1611661322,73,57,4
+05:47,[WAS] Walker-Kimbrough Substitution replaced by Clark,0,-80,8,,1628278,202252,1611661322,73,57,4
+05:43,[LAS] Sykes Turnover : Lost Ball (1 TO) Steal:Atkins (2 ST),-112,258,5,1628878,1628279,,1611661320,73,57,4
+05:37,[WAS 59-73] Austin Running Layup Shot: Made (4 PTS) Assist: Cloud (12 AST),-2,14,1,,1631022,204333,1611661322,73,59,4
+05:20,[LAS] Samuelson Driving Layup Shot: Missed,-28,45,2,1631022,1629478,,1611661320,73,59,4
+05:20,[LAS] Team Rebound,-28,45,4,,0,,1611661320,73,59,4
+05:20,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,73,59,4
+05:09,[LAS] Team Turnover : Shot Clock Turnover,66,83,5,,0,,1611661320,73,59,4
+04:51,[WAS 61-73] Hines-Allen Turnaround Hook Shot: Made (17 PTS),24,75,1,,1628899,,1611661322,73,61,4
+04:35,[LAS] Samuelson 3pt Shot: Missed,-224,6,2,,1629478,,1611661320,73,61,4
+04:31,[WAS] Atkins Rebound (Off:1 Def:1),-224,6,4,,1628878,,1611661322,73,61,4
+04:23,[WAS] Hines-Allen 3pt Shot: Missed,-232,-18,2,,1628899,,1611661322,73,61,4
+04:18,[WAS] Hines-Allen Rebound (Off:4 Def:4),-232,-18,4,,1628899,,1611661322,73,61,4
+04:17,[WAS] Hines-Allen Putback Layup Shot: Missed,-10,8,2,,1628899,,1611661322,73,61,4
+04:16,[LAS] Samuelson Rebound (Off:0 Def:6),-10,8,4,,1629478,,1611661320,73,61,4
+04:16,[WAS] Thibault Technical (1 FTA),0,-80,6,,100894,,1611661322,73,61,4
+04:16,[LAS 74-61] Toliver Free Throw Technical (5 PTS),0,-80,3,,201911,,1611661320,74,61,4
+04:16,[WAS] Cloud Technical (1 FTA),0,-80,6,,204333,,1611661322,74,61,4
+04:16,[LAS 75-61] Toliver Free Throw Technical (6 PTS),0,-80,3,,201911,,1611661320,75,61,4
+04:16,[LAS] Sykes Substitution replaced by Canada,0,-80,8,,1628279,1628886,1611661320,75,61,4
+04:16,[LAS] Samuelson Substitution replaced by Walker,0,-80,8,,1629478,1630444,1611661320,75,61,4
+04:01,[LAS] Canada Turnover : Bad Pass (1 TO) Steal:Clark (3 ST),-48,144,5,202252,1628886,,1611661320,75,61,4
+03:46,[WAS 64-75] Cloud 3pt Shot: Made (6 PTS) Assist: Hines-Allen (2 AST),148,185,1,,204333,1628899,1611661322,75,64,4
+03:35,[LAS] Nelson-Ododa Foul: Offensive (1 PF),41,39,6,1628899,1631135,,1611661320,75,64,4
+03:35,[LAS] Nelson-Ododa Turnover : Offensive Foul Turnover (1 TO),41,39,5,,1631135,,1611661320,75,64,4
+03:35,[LAS] Nelson-Ododa Substitution replaced by Sykes,0,-80,8,,1631135,1628279,1611661320,75,64,4
+03:35,[LAS] Toliver Substitution replaced by N Ogwumike,0,-80,8,,201911,203014,1611661320,75,64,4
+03:27,[WAS 67-75] Cloud 3pt Shot: Made (9 PTS),-40,242,1,,204333,,1611661322,75,67,4
+03:10,[LAS 77-67] Sykes Pullup Jump shot: Made (7 PTS),58,166,1,,1628279,,1611661320,77,67,4
+02:58,[WAS 70-77] Atkins 3pt Shot: Made (17 PTS) Assist: Cloud (13 AST),-228,-3,1,,1628878,204333,1611661322,77,70,4
+02:58,[LAS] Walker Foul: Shooting (1 PF) (1 FTA),-41,796,6,1628878,1630444,,1611661320,77,70,4
+02:58,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,77,70,4
+02:58,[LAS] Walker Substitution replaced by Samuelson,0,-80,8,,1630444,1629478,1611661320,77,70,4
+02:58,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,77,70,4
+02:58,[WAS 71-77] Atkins Free Throw 1 of 1 (18 PTS),0,-80,3,,1628878,,1611661322,77,71,4
+02:44,[LAS] Cambage Foul: Offensive (5 PF),-4,47,6,1631022,202633,,1611661320,77,71,4
+02:44,[LAS] Cambage Turnover : Offensive Foul Turnover (3 TO),-4,47,5,,202633,,1611661320,77,71,4
+02:24,[WAS] Atkins 3pt Shot: Missed,-168,171,2,,1628878,,1611661322,77,71,4
+02:22,[LAS] Cambage Rebound (Off:2 Def:4),-168,171,4,,202633,,1611661320,77,71,4
+02:00,Instant Replay - Support Ruling,0,-80,18,,0,,0,79,71,4
+01:59,[LAS 79-71] Canada Pullup Jump shot: Made (7 PTS) Assist: Cambage (3 AST),134,28,1,,1628886,202633,1611661320,79,71,4
+01:49,[WAS] Atkins 3pt Shot: Missed,-218,89,2,,1628878,,1611661322,79,71,4
+01:45,[WAS] Austin Rebound (Off:3 Def:3),-218,89,4,,1631022,,1611661322,79,71,4
+01:44,[WAS 74-79] Clark 3pt Shot: Made (7 PTS) Assist: Austin (2 AST),157,179,1,,202252,1631022,1611661322,79,74,4
+01:31,[WAS] Atkins Foul: Shooting (2 PF) (2 FTA),-54,101,6,1628886,1628878,,1611661322,79,74,4
+01:31,[LAS] Canada Free Throw 1 of 2 Missed,0,-80,3,,1628886,,1611661320,79,74,4
+01:31,[LAS] Team Rebound,0,-80,4,,0,,1611661320,79,74,4
+01:31,[LAS 80-74] Canada Free Throw 2 of 2 (8 PTS),0,-80,3,,1628886,,1611661320,80,74,4
+01:14,[LAS] Cambage Foul: Personal (6 PF),71,209,6,1628878,202633,,1611661320,80,74,4
+01:14,[LAS] Cambage Substitution replaced by C Ogwumike,0,-80,8,,202633,203823,1611661320,80,74,4
+01:00,[WAS] Clark Driving Floating Jump Shot: Missed,155,9,2,,202252,,1611661322,80,74,4
+00:58.3,[WAS] Atkins Rebound (Off:2 Def:1),155,9,4,,1628878,,1611661322,80,74,4
+00:58.1,[WAS 76-80] Atkins Jump Shot: Made (20 PTS),-73,14,1,,1628878,,1611661322,80,76,4
+00:34.9,[LAS] Canada Floating Jump shot: Missed,-39,91,2,,1628886,,1611661320,80,76,4
+00:29.8,[WAS] Team Rebound,-39,91,4,,0,,1611661322,80,76,4
+00:29.8,Jump Ball C Ogwumike vs C Ogwumike,0,-80,10,203823,203823,,1611661322,80,76,4
+00:29.8,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,80,76,4
+00:24.9,[LAS] Canada Foul: Personal (2 PF) (2 FTA),100,215,6,1628878,1628886,,1611661320,80,76,4
+00:24.9,[WAS 77-80] Atkins Free Throw 1 of 2 (21 PTS),0,-80,3,,1628878,,1611661322,80,77,4
+00:24.9,[WAS 78-80] Atkins Free Throw 2 of 2 (22 PTS),0,-80,3,,1628878,,1611661322,80,78,4
+00:24.9,[LAS] Team Timeout : Regular,0,-80,9,,1611661320,,1611661320,80,78,4
+00:24.9,[WAS] Hines-Allen Substitution replaced by Walker-Kimbrough,0,-80,8,,1628899,1628278,1611661322,80,78,4
+00:22.7,[WAS] Cloud Foul: Personal Take (4 PF) (2 FTA),-156,305,6,1628886,204333,,1611661322,80,78,4
+00:22.7,[LAS 81-78] Canada Free Throw 1 of 2 (9 PTS),0,-80,3,,1628886,,1611661320,81,78,4
+00:22.7,[WAS] Walker-Kimbrough Substitution replaced by Hines-Allen,0,-80,8,,1628278,1628899,1611661322,81,78,4
+00:22.7,[LAS 82-78] Canada Free Throw 2 of 2 (10 PTS),0,-80,3,,1628886,,1611661320,82,78,4
+00:13.3,[WAS 81-82] Cloud 3pt Shot: Made (12 PTS) Assist: Hines-Allen (3 AST),100,210,1,,204333,1628899,1611661322,82,81,4
+00:12.4,[LAS] Team Timeout : Short,0,-80,9,,1611661320,,1611661320,82,81,4
+00:12.4,[WAS] Hines-Allen Substitution replaced by Walker-Kimbrough,0,-80,8,,1628899,1628278,1611661322,82,81,4
+00:11.4,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,82,81,4
+00:10.2,[WAS] Clark Foul: Personal Take (1 PF) (2 FTA),-77,61,6,203014,202252,,1611661322,82,81,4
+00:10.2,[LAS 83-81] N Ogwumike Free Throw 1 of 2 (20 PTS),0,-80,3,,203014,,1611661320,83,81,4
+00:10.2,[WAS] Walker-Kimbrough Substitution replaced by Hines-Allen,0,-80,8,,1628278,1628899,1611661322,83,81,4
+00:10.2,[LAS 84-81] N Ogwumike Free Throw 2 of 2 (21 PTS),0,-80,3,,203014,,1611661320,84,81,4
+00:10.2,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,84,81,4
+00:10.2,[WAS] Austin Substitution replaced by Walker-Kimbrough,0,-80,8,,1631022,1628278,1611661322,84,81,4
+00:02.5,[LAS] Sykes Foul: Shooting (1 PF) (3 FTA),-52,235,6,204333,1628279,,1611661320,84,81,4
+00:02.5,[WAS 82-84] Cloud Free Throw 1 of 3 (13 PTS),0,-80,3,,204333,,1611661322,84,82,4
+00:02.5,[WAS] Cloud Free Throw 2 of 3 Missed,0,-80,3,,204333,,1611661322,84,82,4
+00:02.5,[WAS] Team Rebound,0,-80,4,,0,,1611661322,84,82,4
+00:02.5,[WAS] Walker-Kimbrough Substitution replaced by Austin,0,-80,8,,1628278,1631022,1611661322,84,82,4
+00:02.5,[WAS] Cloud Free Throw 3 of 3 Missed,0,-80,3,,204333,,1611661322,84,82,4
+00:02.5,[LAS] N Ogwumike Rebound (Off:1 Def:5),0,-80,4,,203014,,1611661320,84,82,4
+00:00.0,End Period,0,-80,13,,0,,0,84,82,4
+00:00.0,Game End,0,-80,0,,0,,0,84,82,4

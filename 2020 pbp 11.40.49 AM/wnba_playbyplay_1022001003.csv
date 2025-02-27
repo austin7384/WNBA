@@ -1,0 +1,386 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Dupree vs Hines-Allen,0,-80,10,1628899,200676,,1611661325,0,0,1
+09:45,[IND] Dupree Jump Shot: Missed,176,1,2,,200676,,1611661325,0,0,1
+09:42,[WAS] Meesseman Rebound (Off:0 Def:1),176,1,4,,203416,,1611661322,0,0,1
+09:21,[WAS 2-0] Atkins Jump Shot: Made (2 PTS) Assist: Hines-Allen (1 AST),178,65,1,,1628878,1628899,1611661322,2,0,1
+09:10,[IND] Dupree Jump Shot: Missed,19,34,2,,200676,,1611661325,2,0,1
+09:03,[WAS] Hines-Allen Rebound (Off:0 Def:1),19,34,4,,1628899,,1611661322,2,0,1
+08:56,[WAS 4-0] Hines-Allen Jump Shot: Made (2 PTS),-81,135,1,,1628899,,1611661322,4,0,1
+08:34,[WAS] Hines-Allen Foul: Personal (1 PF),124,174,6,1627700,1628899,,1611661322,4,0,1
+08:30,[WAS] Atkins Foul: Shooting (1 PF) (2 FTA),58,128,6,1628909,1628878,,1611661322,4,0,1
+08:30,[IND 1-4] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,1628909,,1611661325,4,1,1
+08:30,[IND 2-4] Mitchell Free Throw 2 of 2 (2 PTS),0,-80,3,,1628909,,1611661325,4,2,1
+08:19,[WAS 7-2] Atkins 3pt Shot: Made (5 PTS) Assist: Mitchell (1 AST),-227,123,1,,1628878,201507,1611661322,7,2,1
+08:04,[IND 4-7] Mitchell Driving Layup Shot: Made (4 PTS),17,7,1,,1628909,,1611661325,7,4,1
+07:57,[IND] Achonwa Foul: Shooting (1 PF) (2 FTA),-39,67,6,201507,203831,,1611661325,7,4,1
+07:57,[WAS 8-4] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,201507,,1611661322,8,4,1
+07:57,[WAS] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,201507,,1611661322,8,4,1
+07:55,[IND] Achonwa Rebound (Off:0 Def:1),0,-80,4,,203831,,1611661325,8,4,1
+07:51,[WAS] Powers Foul: Personal (1 PF),94,51,6,200676,1627672,,1611661322,8,4,1
+07:46,[IND 6-8] Mitchell Jump Shot: Made (2 PTS),-78,130,1,,1627676,,1611661325,8,6,1
+07:37,[WAS 11-6] Atkins 3pt Shot: Made (8 PTS),20,241,1,,1628878,,1611661322,11,6,1
+07:23,[IND 8-11] Dupree Jump Shot: Made (2 PTS) Assist: Mitchell (1 AST),105,12,1,,200676,1628909,1611661325,11,8,1
+07:10,[WAS] Meesseman Foul: Offensive Charge (1 PF),47,31,6,200676,203416,,1611661322,11,8,1
+07:10,[WAS] Meesseman Turnover : Offensive Foul Turnover (1 TO),47,31,5,,203416,,1611661322,11,8,1
+06:56,[IND 10-11] Dupree Layup Shot: Made (4 PTS) Assist: Mitchell (1 AST),-65,44,1,,200676,1627676,1611661325,11,10,1
+06:41,[WAS 13-10] Mitchell Jump Shot: Made (3 PTS),45,73,1,,201507,,1611661322,13,10,1
+06:40,[WAS] Atkins Foul: Personal (2 PF),-204,215,6,1627700,1628878,,1611661322,13,10,1
+06:40,[WAS] Atkins Substitution replaced by Hawkins,0,-80,8,,1628878,203403,1611661322,13,10,1
+06:32,[IND 12-13] Allemand Jump Shot: Made (2 PTS),48,32,1,,1627700,,1611661325,13,12,1
+06:20,[WAS] Hines-Allen Jump Shot: Missed,178,91,2,,1628899,,1611661322,13,12,1
+06:20,[WAS] Meesseman Rebound (Off:1 Def:1),178,91,4,,203416,,1611661322,13,12,1
+06:09,[WAS] Hawkins 3pt Shot: Missed,-139,198,2,,203403,,1611661322,13,12,1
+06:09,[WAS] Team Rebound,-139,198,4,,0,,1611661322,13,12,1
+06:09,[WAS] Hines-Allen Substitution replaced by Carson,0,-80,8,,1628899,201502,1611661322,13,12,1
+06:01,Jump Ball Mitchell vs Powers (Mitchell gains possession),0,-80,10,1627672,1627676,1628909,1611661325,13,12,1
+06:01,[WAS] Powers Turnover : Lost Ball (1 TO) Steal:Mitchell (1 ST),0,-80,5,1627676,1627672,,1611661322,13,12,1
+05:58,[IND 15-13] Mitchell 3pt Shot: Made (7 PTS),-68,231,1,,1628909,,1611661325,13,15,1
+05:32,Jump Ball Powers vs Mitchell (Carson gains possession),0,-80,10,1627676,1627672,201502,1611661322,13,15,1
+05:30,[WAS] Team Turnover : Shot Clock Turnover,-192,181,5,,0,,1611661322,13,15,1
+05:20,[IND] Mitchell Turnover : Out of Bounds Lost Ball Turnover (1 TO),-81,252,5,,1627676,,1611661325,13,15,1
+05:08,[WAS 15-15] Meesseman Jump Shot: Made (2 PTS),-50,54,1,,203416,,1611661322,15,15,1
+04:50,[IND 17-15] Achonwa Jump Shot: Made (2 PTS),-45,105,1,,203831,,1611661325,15,17,1
+04:41,[IND] Achonwa Foul: Personal (2 PF),45,118,6,203416,203831,,1611661325,15,17,1
+04:41,Timeout Officials,0,-80,9,,0,,0,15,17,1
+04:41,[WAS] Powers Substitution replaced by Coates,0,-80,8,,1627672,1628268,1611661322,15,17,1
+04:41,[WAS] Hawkins Substitution replaced by Leslie,0,-80,8,,203403,1629506,1611661322,15,17,1
+04:41,[IND] Achonwa Substitution replaced by McCowan,0,-80,8,,203831,1629479,1611661325,15,17,1
+04:41,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1627676,1628927,1611661325,15,17,1
+04:41,[WAS] Meesseman Substitution replaced by Hines-Allen,0,-80,8,,203416,1628899,1611661322,15,17,1
+04:33,[WAS] Leslie Turnover : Out of Bounds - Bad Pass Turnover (1 TO),59,262,5,,1629506,,1611661322,15,17,1
+04:32,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,15,17,1
+04:10,[IND] Dupree 3pt Shot: Missed,153,200,2,,200676,,1611661325,15,17,1
+04:02,[WAS] Mitchell Rebound (Off:0 Def:1),153,200,4,,201507,,1611661322,15,17,1
+03:58,[WAS] Hines-Allen Layup Shot: Missed,-60,86,2,,1628899,,1611661322,15,17,1
+03:58,[WAS] Hines-Allen Rebound (Off:1 Def:1),-60,86,4,,1628899,,1611661322,15,17,1
+03:57,[WAS 17-17] Hines-Allen Putback Layup Shot: Made (4 PTS),0,-5,1,,1628899,,1611661322,17,17,1
+03:51,[IND] Mitchell Jump Shot: Missed,-115,74,2,,1628909,,1611661325,17,17,1
+03:51,[WAS] Coates Rebound (Off:0 Def:1),-115,74,4,,1628268,,1611661322,17,17,1
+03:41,[IND] McCowan Foul: Shooting (1 PF) (2 FTA),70,103,6,1628268,1629479,,1611661325,17,17,1
+03:41,[WAS 18-17] Coates Free Throw 1 of 2 (1 PTS),0,-80,3,,1628268,,1611661322,18,17,1
+03:41,[WAS 19-17] Coates Free Throw 2 of 2 (2 PTS),0,-80,3,,1628268,,1611661322,19,17,1
+03:41,[IND] Dupree Substitution replaced by Mavunga,0,-80,8,,200676,1628906,1611661325,19,17,1
+03:41,[WAS] Mitchell Substitution replaced by Peddy,0,-80,8,,201507,203035,1611661322,19,17,1
+03:17,[IND 19-19] Mitchell Jump Shot: Made (9 PTS) Assist: Allemand (1 AST),98,171,1,,1628909,1627700,1611661325,19,19,1
+02:55,[WAS 22-19] Hines-Allen 3pt Shot: Made (7 PTS) Assist: Carson (1 AST),-85,232,1,,1628899,201502,1611661322,22,19,1
+02:33,[IND] Mavunga Jump Shot: Missed,-107,112,2,,1628906,,1611661325,22,19,1
+02:23,[WAS] Coates Rebound (Off:0 Def:2),-107,112,4,,1628268,,1611661322,22,19,1
+02:22,[WAS 24-19] Carson Driving Layup Shot: Made (2 PTS),52,10,1,,201502,,1611661322,24,19,1
+02:08,[WAS] Coates Foul: Personal (1 PF) (2 FTA),-26,135,6,1629479,1628268,,1611661322,24,19,1
+02:08,[IND] McCowan Free Throw 1 of 2 Missed,0,-80,3,,1629479,,1611661325,24,19,1
+02:08,[IND] Team Rebound,0,-80,4,,0,,1611661325,24,19,1
+02:08,[IND] Allemand Substitution replaced by Mitchell,0,-80,8,,1627700,1627676,1611661325,24,19,1
+02:08,[IND 20-24] McCowan Free Throw 2 of 2 (1 PTS),0,-80,3,,1629479,,1611661325,24,20,1
+01:50,[WAS 26-20] Hines-Allen Layup Shot: Made (9 PTS),29,25,1,,1628899,,1611661322,26,20,1
+01:50,[IND] Mitchell Foul: Shooting (1 PF) (1 FTA),29,25,6,1628899,1627676,,1611661325,26,20,1
+01:50,[WAS 27-20] Hines-Allen Free Throw 1 of 1 (10 PTS),0,-80,3,,1628899,,1611661322,27,20,1
+01:39,[IND] Mitchell Turnover : Lost Ball (1 TO) Steal:Peddy (1 ST),120,357,5,203035,1628909,,1611661325,27,20,1
+01:35,[WAS 29-20] Peddy Layup Shot: Made (2 PTS),-2,27,1,,203035,,1611661322,29,20,1
+01:23,[IND] Vivians Jump Shot: Missed,144,142,2,,1628927,,1611661325,29,20,1
+01:18,[WAS] Coates Rebound (Off:0 Def:3),144,142,4,,1628268,,1611661322,29,20,1
+01:09,[WAS] Hines-Allen Jump Shot: Missed,79,123,2,,1628899,,1611661322,29,20,1
+01:05,[IND] McCowan Rebound (Off:0 Def:1),79,123,4,,1629479,,1611661325,29,20,1
+01:00,[IND 22-29] Mitchell Jump Shot: Made (4 PTS),-158,45,1,,1627676,,1611661325,29,22,1
+00:46.6,[WAS 31-22] Peddy Layup Shot: Made (4 PTS),51,32,1,,203035,,1611661322,31,22,1
+00:39.9,[WAS] Coates Foul: Shooting (2 PF) (2 FTA),65,43,6,1628909,1628268,,1611661322,31,22,1
+00:39.9,[IND 23-31] Mitchell Free Throw 1 of 2 (10 PTS),0,-80,3,,1628909,,1611661325,31,23,1
+00:39.9,[IND] Mavunga Substitution replaced by Dupree,0,-80,8,,1628906,200676,1611661325,31,23,1
+00:39.9,[IND 24-31] Mitchell Free Throw 2 of 2 (11 PTS),0,-80,3,,1628909,,1611661325,31,24,1
+00:31.3,[WAS 33-24] Peddy Driving Finger Roll Layup Shot: Made (6 PTS),41,46,1,,203035,,1611661322,33,24,1
+00:18.3,[IND] Mitchell Jump Shot: Missed,14,214,2,,1628909,,1611661325,33,24,1
+00:14.3,[IND] Dupree Rebound (Off:1 Def:0),14,214,4,,200676,,1611661325,33,24,1
+00:13.7,[IND 26-33] Dupree Jump Shot: Made (6 PTS),33,22,1,,200676,,1611661325,33,26,1
+00:00.0,[WAS 36-26] Hines-Allen 3pt Shot: Made (13 PTS),-187,159,1,,1628899,,1611661322,36,26,1
+00:00.0,End Period,0,-80,13,,0,,0,36,26,1
+10:00,Start Period,0,-80,12,,0,,0,36,26,2
+09:35,[WAS] Meesseman Turnover : Lost Ball (2 TO) Steal:Vivians (1 ST),-4,228,5,1628927,203416,,1611661322,36,26,2
+09:27,[IND] Mitchell Jump Shot: Missed,165,-19,2,,1628909,,1611661325,36,26,2
+09:23,[WAS] Coates Rebound (Off:0 Def:4),165,-19,4,,1628268,,1611661322,36,26,2
+09:16,[WAS] Meesseman Turnover : Traveling (3 TO),-74,209,5,,203416,,1611661322,36,26,2
+08:59,[IND] Vivians 3pt Shot: Missed,-167,180,2,1629506,1628927,,1611661325,36,26,2
+08:57,[WAS] Peddy Rebound (Off:0 Def:1),-167,180,4,,203035,,1611661322,36,26,2
+08:54,[WAS 38-26] Leslie Layup Shot: Made (2 PTS) Assist: Peddy (1 AST),41,21,1,,1629506,203035,1611661322,38,26,2
+08:46,[WAS] Coates Foul: Personal (3 PF) (2 FTA),-34,61,6,200676,1628268,,1611661322,38,26,2
+08:46,[WAS] Leslie Substitution replaced by Atkins,0,-80,8,,1629506,1628878,1611661322,38,26,2
+08:46,[WAS] Carson Substitution replaced by Powers,0,-80,8,,201502,1627672,1611661322,38,26,2
+08:46,[WAS] Coates Substitution replaced by Hines-Allen,0,-80,8,,1628268,1628899,1611661322,38,26,2
+08:46,[IND 27-38] Dupree Free Throw 1 of 2 (7 PTS),0,-80,3,,200676,,1611661325,38,27,2
+08:46,[IND] Dupree Free Throw 2 of 2 Missed,0,-80,3,,200676,,1611661325,38,27,2
+08:45,[WAS] Powers Rebound (Off:0 Def:1),0,-80,4,,1627672,,1611661322,38,27,2
+08:28,[WAS] Meesseman 3pt Shot: Missed,133,210,2,,203416,,1611661322,38,27,2
+08:24,[WAS] Peddy Rebound (Off:1 Def:1),133,210,4,,203035,,1611661322,38,27,2
+08:23,[WAS 40-27] Powers Layup Shot: Made (2 PTS),-41,1,1,,1627672,,1611661322,40,27,2
+08:07,[IND] Vivians Turnover : 3 Second Violation (1 TO),-56,27,5,,1628927,,1611661325,40,27,2
+08:07,[IND] Mitchell Substitution replaced by Achonwa,0,-80,8,,1628909,203831,1611661325,40,27,2
+08:07,[IND] McCowan Substitution replaced by Allemand,0,-80,8,,1629479,1627700,1611661325,40,27,2
+07:54,[WAS] Peddy 3pt Shot: Missed,-4,269,2,,203035,,1611661322,40,27,2
+07:48,[IND] Achonwa Rebound (Off:0 Def:2),-4,269,4,,203831,,1611661325,40,27,2
+07:35,[IND] Dupree 3pt Shot: Missed,-5,244,2,,200676,,1611661325,40,27,2
+07:30,[IND] Mitchell Rebound (Off:1 Def:0),3,241,4,,1627676,,1611661325,40,27,2
+07:26,[IND] Allemand Turnover : Bad Pass (1 TO),150,226,5,,1627700,,1611661325,40,27,2
+07:26,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,40,27,2
+07:26,[WAS] Peddy Substitution replaced by Mitchell,0,-80,8,,203035,201507,1611661322,40,27,2
+07:17,[WAS] Meesseman Jump Shot: Missed,92,148,2,,203416,,1611661322,40,27,2
+07:13,[IND] Vivians Rebound (Off:0 Def:1),92,148,4,,1628927,,1611661325,40,27,2
+07:00,[IND] Mitchell 3pt Shot: Missed,89,248,2,,1627676,,1611661325,40,27,2
+06:56,[WAS] Hines-Allen Rebound (Off:1 Def:2),89,248,4,,1628899,,1611661322,40,27,2
+06:48,[WAS 42-27] Hines-Allen Hook Shot: Made (15 PTS),1,42,1,,1628899,,1611661322,42,27,2
+06:43,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,42,27,2
+06:24,[IND] Dupree Jump Shot: Missed,49,131,2,,200676,,1611661325,42,27,2
+06:22,[WAS] Hines-Allen Rebound (Off:1 Def:3),49,131,4,,1628899,,1611661322,42,27,2
+06:18,[WAS 44-27] Hines-Allen Hook Shot: Made (17 PTS),7,40,1,,1628899,,1611661322,44,27,2
+05:57,[IND] Mitchell 3pt Shot: Missed,227,51,2,,1627676,,1611661325,44,27,2
+05:54,[IND] Achonwa Rebound (Off:1 Def:2),227,51,4,,203831,,1611661325,44,27,2
+05:54,[IND] Achonwa Putback Layup Shot: Missed,10,13,2,,203831,,1611661325,44,27,2
+05:54,[WAS] Hines-Allen Rebound (Off:1 Def:4),10,13,4,,1628899,,1611661322,44,27,2
+05:54,[IND] Vivians Foul: Personal (1 PF),-32,837,6,1628899,1628927,,1611661325,44,27,2
+05:42,[WAS 46-27] Meesseman Layup Shot: Made (4 PTS),25,43,1,,203416,,1611661322,46,27,2
+05:29,[IND] Achonwa Foul: Offensive (3 PF),-68,152,6,203416,203831,,1611661325,46,27,2
+05:29,[IND] Achonwa Turnover : Offensive Foul Turnover (1 TO),-68,152,5,,203831,,1611661325,46,27,2
+05:16,[WAS 48-27] Meesseman Hook Shot: Made (6 PTS),36,30,1,,203416,,1611661322,48,27,2
+05:04,[IND 29-48] Mitchell Pullup Jump shot: Made (6 PTS),-136,91,1,,1627676,,1611661325,48,29,2
+04:50,[WAS] Meesseman Turnaround Fadeaway shot: Missed,-7,43,2,,203416,,1611661322,48,29,2
+04:48,[IND] Dupree Rebound (Off:1 Def:1),-7,43,4,,200676,,1611661325,48,29,2
+04:40,[IND] Mitchell Turnover : Step Out of Bounds Turnover (2 TO),237,62,5,,1627676,,1611661325,48,29,2
+04:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,29,2
+04:40,[IND] Vivians Substitution replaced by Mitchell,0,-80,8,,1628927,1628909,1611661325,48,29,2
+04:31,[IND] Allemand Foul: Personal (1 PF),126,117,6,201507,1627700,,1611661325,48,29,2
+04:24,[WAS] Powers Turnover : Step Out of Bounds Turnover (2 TO),-226,22,5,,1627672,,1611661322,48,29,2
+04:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,29,2
+04:07,[IND] Mitchell 3pt Shot: Missed,234,28,2,,1628909,,1611661325,48,29,2
+04:03,[WAS] Meesseman Rebound (Off:1 Def:2),234,28,4,,203416,,1611661322,48,29,2
+03:54,[WAS 50-29] Hines-Allen Hook Shot: Made (19 PTS) Assist: Meesseman (1 AST),40,22,1,,1628899,203416,1611661322,50,29,2
+03:28,[IND] Dupree Layup Shot: Missed,-53,16,2,,200676,,1611661325,50,29,2
+03:26,[WAS] Hines-Allen Rebound (Off:1 Def:5),-53,16,4,,1628899,,1611661322,50,29,2
+03:21,[WAS 52-29] Mitchell Layup Shot: Made (5 PTS),28,33,1,,201507,,1611661322,52,29,2
+03:21,[IND] Dupree Foul: Shooting (1 PF) (1 FTA),28,33,6,201507,200676,,1611661325,52,29,2
+03:21,[IND] Mitchell Substitution replaced by Burke,0,-80,8,,1627676,1629568,1611661325,52,29,2
+03:21,[WAS] Hines-Allen Substitution replaced by Carson,0,-80,8,,1628899,201502,1611661322,52,29,2
+03:21,[WAS] Mitchell Free Throw 1 of 1 Missed,0,-80,3,,201507,,1611661322,52,29,2
+03:18,[IND] Dupree Rebound (Off:1 Def:2),0,-80,4,,200676,,1611661325,52,29,2
+02:58,[IND] Mitchell Hook Shot: Missed,-56,90,2,,1628909,,1611661325,52,29,2
+02:55,[WAS] Mitchell Rebound (Off:0 Def:2),-56,90,4,,201507,,1611661322,52,29,2
+02:46,[WAS] Meesseman Jump Shot: Missed,-3,175,2,,203416,,1611661322,52,29,2
+02:42,[IND] Dupree Rebound (Off:1 Def:3),-3,175,4,,200676,,1611661325,52,29,2
+02:35,[IND] Mitchell 3pt Shot: Missed,-154,203,2,,1628909,,1611661325,52,29,2
+02:30,[WAS] Mitchell Rebound (Off:0 Def:3),-154,203,4,,201507,,1611661322,52,29,2
+02:18,[WAS 54-29] Powers Pullup Jump shot: Made (4 PTS) Assist: Meesseman (2 AST),53,186,1,,1627672,203416,1611661322,54,29,2
+02:09,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,54,29,2
+01:52,[IND 31-54] Dupree Driving Layup Shot: Made (9 PTS),41,34,1,,200676,,1611661325,54,31,2
+01:37,[WAS] Carson Layup Shot: Missed,70,43,2,,201502,,1611661322,54,31,2
+01:36,[WAS] Powers Rebound (Off:1 Def:1),70,43,4,,1627672,,1611661322,54,31,2
+01:36,[WAS 56-31] Powers Layup Shot: Made (6 PTS),-25,21,1,,1627672,,1611661322,56,31,2
+01:36,[IND] Burke Foul: Shooting (1 PF) (1 FTA),-25,21,6,1627672,1629568,,1611661325,56,31,2
+01:36,[WAS 57-31] Powers Free Throw 1 of 1 (7 PTS),0,-80,3,,1627672,,1611661322,57,31,2
+01:18,[IND] Achonwa Turnover : Lost Ball (2 TO) Steal:Mitchell (1 ST),7,231,5,201507,203831,,1611661325,57,31,2
+01:11,[WAS 60-31] Powers 3pt Shot: Made (10 PTS) Assist: Mitchell (2 AST),225,96,1,,1627672,201507,1611661322,60,31,2
+00:58.3,[IND] Burke 3pt Shot: Missed,-229,48,2,,1629568,,1611661325,60,31,2
+00:55.6,[IND] Achonwa Rebound (Off:2 Def:2),-229,48,4,,203831,,1611661325,60,31,2
+00:55.6,[IND 33-60] Achonwa Putback Layup Shot: Made (4 PTS),27,10,1,,203831,,1611661325,60,33,2
+00:47.5,[WAS] Mitchell Turnover : Bad Pass (1 TO) Steal:Burke (1 ST),119,237,5,1629568,201507,,1611661322,60,33,2
+00:45.7,[WAS] Mitchell Foul: Personal (1 PF),-67,203,6,1628909,201507,,1611661322,60,33,2
+00:45.7,[IND] Achonwa Substitution replaced by McCowan,0,-80,8,,203831,1629479,1611661325,60,33,2
+00:34.5,[IND] McCowan Layup Shot: Missed,-30,93,2,,1629479,,1611661325,60,33,2
+00:32.5,[WAS] Powers Rebound (Off:1 Def:2),-30,93,4,,1627672,,1611661322,60,33,2
+00:17.0,[WAS 62-33] Meesseman Jump Shot: Made (8 PTS) Assist: Mitchell (3 AST),-148,5,1,,203416,201507,1611661322,62,33,2
+00:00.3,[IND 35-62] Dupree Layup Shot: Made (11 PTS) Assist: Mitchell (2 AST),-53,82,1,,200676,1628909,1611661325,62,35,2
+00:00.0,End Period,0,-80,13,,0,,0,62,35,2
+10:00,Start Period,0,-80,12,,0,,0,62,35,3
+09:43,[WAS] Atkins Jump Shot: Missed,11,151,2,,1628878,,1611661322,62,35,3
+09:43,[IND] Achonwa Rebound (Off:2 Def:3),11,151,4,,203831,,1611661325,62,35,3
+09:26,[IND 37-62] Mitchell Layup Shot: Made (8 PTS),-114,112,1,,1627676,,1611661325,62,37,3
+09:03,[WAS 64-37] Meesseman Hook Shot: Made (10 PTS),-178,62,1,,203416,,1611661322,64,37,3
+08:50,[IND] Dupree Layup Shot: Missed,43,11,2,,200676,,1611661325,64,37,3
+08:50,[WAS] Hines-Allen Rebound (Off:1 Def:6),43,11,4,,1628899,,1611661322,64,37,3
+08:42,[WAS] Mitchell Turnover : Bad Pass (2 TO) Steal:Allemand (1 ST),-45,715,5,1627700,201507,,1611661322,64,37,3
+08:35,[IND] Dupree Jump Shot: Missed,-130,76,2,,200676,,1611661325,64,37,3
+08:32,[WAS] Hines-Allen Rebound (Off:1 Def:7),-130,76,4,,1628899,,1611661322,64,37,3
+08:16,[WAS 66-37] Meesseman Hook Shot: Made (12 PTS),47,47,1,,203416,,1611661322,66,37,3
+07:49,[IND 40-66] Mitchell 3pt Shot: Made (14 PTS) Assist: Achonwa (1 AST),-91,271,1,,1628909,203831,1611661325,66,40,3
+07:35,[IND] Mitchell Foul: Shooting (2 PF) (2 FTA),-102,87,6,1627672,1627676,,1611661325,66,40,3
+07:35,[WAS 67-40] Powers Free Throw 1 of 2 (11 PTS),0,-80,3,,1627672,,1611661322,67,40,3
+07:35,[WAS 68-40] Powers Free Throw 2 of 2 (12 PTS),0,-80,3,,1627672,,1611661322,68,40,3
+07:16,[IND] Dupree Jump Shot: Missed,-124,124,2,,200676,,1611661325,68,40,3
+07:13,[WAS] Powers Rebound (Off:1 Def:3),-124,124,4,,1627672,,1611661322,68,40,3
+07:00,[WAS 70-40] Hines-Allen Hook Shot: Made (21 PTS) Assist: Atkins (1 AST),44,26,1,,1628899,1628878,1611661322,70,40,3
+06:46,[IND] Mitchell 3pt Shot: Missed,-211,121,2,,1627676,,1611661325,70,40,3
+06:43,[WAS] Powers Rebound (Off:1 Def:4),-211,121,4,,1627672,,1611661322,70,40,3
+06:40,[WAS 72-40] Meesseman Layup Shot: Made (14 PTS) Assist: Hines-Allen (2 AST),22,29,1,,203416,1628899,1611661322,72,40,3
+06:40,[IND] Team Timeout : Regular,0,-80,9,,1611661325,,1611661325,72,40,3
+06:40,[IND] Achonwa Substitution replaced by Burke,0,-80,8,,203831,1629568,1611661325,72,40,3
+06:25,[WAS] Atkins Foul: Personal (3 PF),100,143,6,200676,1628878,,1611661322,72,40,3
+06:13,[IND 42-72] Mitchell Jump Shot: Made (10 PTS),-131,103,1,,1627676,,1611661325,72,42,3
+05:59,[WAS 75-42] Atkins 3pt Shot: Made (11 PTS) Assist: Meesseman (3 AST),-93,235,1,,1628878,203416,1611661322,75,42,3
+05:39,[IND] Mitchell Jump Shot: Missed,-7,75,2,,1628909,,1611661325,75,42,3
+05:35,[WAS] Meesseman Rebound (Off:1 Def:3),-7,75,4,,203416,,1611661322,75,42,3
+05:32,[WAS 77-42] Hines-Allen Layup Shot: Made (23 PTS) Assist: Powers (1 AST),27,55,1,,1628899,1627672,1611661322,77,42,3
+05:32,[IND] Allemand Foul: Shooting (2 PF) (1 FTA),27,55,6,1628899,1627700,,1611661325,77,42,3
+05:32,[IND] Mitchell Substitution replaced by Vivians,0,-80,8,,1628909,1628927,1611661325,77,42,3
+05:32,[WAS 78-42] Hines-Allen Free Throw 1 of 1 (24 PTS),0,-80,3,,1628899,,1611661322,78,42,3
+05:13,[IND 45-78] Allemand 3pt Shot: Made (5 PTS) Assist: Mitchell (2 AST),147,188,1,,1627700,1627676,1611661325,78,45,3
+04:53,[WAS 80-45] Powers Driving Layup Shot: Made (14 PTS),-13,56,1,,1627672,,1611661322,80,45,3
+04:40,[IND] Mitchell 3pt Shot: Missed,-93,255,2,,1627676,,1611661325,80,45,3
+04:36,[WAS] Meesseman Rebound (Off:1 Def:4),-93,255,4,,203416,,1611661322,80,45,3
+04:29,[WAS] Meesseman Turnover : Lost Ball (4 TO) Steal:Dupree (1 ST),-207,160,5,200676,203416,,1611661322,80,45,3
+04:24,[IND 47-80] Burke Layup Shot: Made (2 PTS) Assist: Allemand (2 AST),-55,4,1,,1629568,1627700,1611661325,80,47,3
+04:02,[WAS] Powers 3pt Shot: Missed,-106,230,2,,1627672,,1611661322,80,47,3
+04:01,[IND] Team Rebound,-106,230,4,,0,,1611661325,80,47,3
+04:01,[WAS] Meesseman Foul: Loose Ball (2 PF),106,606,6,1629568,203416,,1611661322,80,47,3
+04:01,[WAS] Hines-Allen Substitution replaced by Leslie,0,-80,8,,1628899,1629506,1611661322,80,47,3
+04:01,[WAS] Atkins Substitution replaced by Coates,0,-80,8,,1628878,1628268,1611661322,80,47,3
+03:49,[IND] Vivians Turnover : Bad Pass (2 TO) Steal:Coates (1 ST),173,62,5,1628268,1628927,,1611661325,80,47,3
+03:41,[WAS] Powers 3pt Shot: Missed,-214,102,2,,1627672,,1611661322,80,47,3
+03:35,[IND] Mitchell Rebound (Off:1 Def:1),-214,102,4,,1627676,,1611661325,80,47,3
+03:27,[WAS] Leslie Foul: Shooting (1 PF) (2 FTA),-55,94,6,200676,1629506,,1611661322,80,47,3
+03:27,[IND 48-80] Dupree Free Throw 1 of 2 (12 PTS),0,-80,3,,200676,,1611661325,80,48,3
+03:27,[WAS] Mitchell Substitution replaced by Peddy,0,-80,8,,201507,203035,1611661322,80,48,3
+03:27,[IND] Burke Substitution replaced by McCowan,0,-80,8,,1629568,1629479,1611661325,80,48,3
+03:27,[IND 49-80] Dupree Free Throw 2 of 2 (13 PTS),0,-80,3,,200676,,1611661325,80,49,3
+03:18,[IND] Vivians Foul: Personal (2 PF),191,53,6,1629506,1628927,,1611661325,80,49,3
+03:08,[IND] Dupree Foul: Shooting (2 PF) (2 FTA),-53,62,6,1628268,200676,,1611661325,80,49,3
+03:08,[WAS 81-49] Coates Free Throw 1 of 2 (3 PTS),0,-80,3,,1628268,,1611661322,81,49,3
+03:08,[WAS] Powers Substitution replaced by Hines-Allen,0,-80,8,,1627672,1628899,1611661322,81,49,3
+03:08,[WAS] Meesseman Substitution replaced by Carson,0,-80,8,,203416,201502,1611661322,81,49,3
+03:08,[WAS 82-49] Coates Free Throw 2 of 2 (4 PTS),0,-80,3,,1628268,,1611661322,82,49,3
+02:56,[IND] Mitchell Hook Shot: Missed,78,33,2,,1627676,,1611661325,82,49,3
+02:56,[WAS] Team Rebound,78,33,4,,0,,1611661322,82,49,3
+02:40,[IND] Mitchell Foul: Personal (3 PF) (2 FTA),78,343,6,203035,1627676,,1611661325,82,49,3
+02:40,[WAS 83-49] Peddy Free Throw 1 of 2 (7 PTS),0,-80,3,,203035,,1611661322,83,49,3
+02:40,[WAS 84-49] Peddy Free Throw 2 of 2 (8 PTS),0,-80,3,,203035,,1611661322,84,49,3
+02:25,[WAS] Peddy Foul: Personal (1 PF),-128,95,6,200676,203035,,1611661322,84,49,3
+02:25,[IND] Dupree Substitution replaced by Mitchell,0,-80,8,,200676,1628909,1611661325,84,49,3
+02:25,[IND] Mitchell Substitution replaced by Mavunga,0,-80,8,,1627676,1628906,1611661325,84,49,3
+02:17,[IND] McCowan 3pt Shot: Missed,3,282,2,,1629479,,1611661325,84,49,3
+02:15,[WAS] Peddy Rebound (Off:1 Def:2),3,282,4,,203035,,1611661322,84,49,3
+02:09,[WAS 86-49] Coates Hook Shot: Made (6 PTS) Assist: Peddy (2 AST),-32,39,1,,1628268,203035,1611661322,86,49,3
+01:58,[IND 52-86] Allemand 3pt Shot: Made (8 PTS) Assist: Mitchell (3 AST),-139,213,1,,1627700,1628909,1611661325,86,52,3
+01:43,[IND] Mitchell Foul: Personal (1 PF) (2 FTA),-163,206,6,1629506,1628909,,1611661325,86,52,3
+01:43,[WAS 87-52] Leslie Free Throw 1 of 2 (3 PTS),0,-80,3,,1629506,,1611661322,87,52,3
+01:43,[WAS 88-52] Leslie Free Throw 2 of 2 (4 PTS),0,-80,3,,1629506,,1611661322,88,52,3
+01:35,[WAS] Carson Foul: Personal (1 PF) (2 FTA),-131,218,6,1628927,201502,,1611661322,88,52,3
+01:35,[IND 53-88] Vivians Free Throw 1 of 2 (1 PTS),0,-80,3,,1628927,,1611661325,88,53,3
+01:35,[IND] Vivians Free Throw 2 of 2 Missed,0,-80,3,,1628927,,1611661325,88,53,3
+01:33,[IND] McCowan Rebound (Off:1 Def:1),0,-80,4,,1629479,,1611661325,88,53,3
+01:33,[IND] McCowan Turnover : Traveling (1 TO),-17,78,5,,1629479,,1611661325,88,53,3
+01:24,[WAS] Carson Turnover : Traveling (1 TO),26,179,5,,201502,,1611661322,88,53,3
+01:01,[IND] McCowan Layup Shot: Missed,-50,15,2,,1629479,,1611661325,88,53,3
+00:59.1,[WAS] Coates Rebound (Off:0 Def:5),-50,15,4,,1628268,,1611661322,88,53,3
+00:54.6,[WAS] Carson 3pt Shot: Missed,-239,-3,2,,201502,,1611661322,88,53,3
+00:51.0,[WAS] Coates Rebound (Off:1 Def:5),-239,-3,4,,1628268,,1611661322,88,53,3
+00:50.3,[WAS 90-53] Carson Jump Shot: Made (4 PTS) Assist: Coates (1 AST),-142,117,1,,201502,1628268,1611661322,90,53,3
+00:35.8,[IND 56-90] Mitchell 3pt Shot: Made (17 PTS),-203,154,1,,1628909,,1611661325,90,56,3
+00:15.2,[WAS 92-56] Carson Layup Shot: Made (6 PTS),37,15,1,,201502,,1611661322,92,56,3
+00:02.4,[IND] Vivians 3pt Shot: Missed,-175,172,2,,1628927,,1611661325,92,56,3
+00:02.4,[WAS] Leslie Rebound (Off:0 Def:1),-175,172,4,,1629506,,1611661322,92,56,3
+00:00.0,End Period,0,-80,13,,0,,0,92,56,3
+10:00,Start Period,0,-80,12,,0,,0,92,56,4
+09:35,[IND] Mavunga Hook Shot: Missed,56,69,2,,1628906,,1611661325,92,56,4
+09:32,[WAS] Hines-Allen Rebound (Off:1 Def:8),56,69,4,,1628899,,1611661322,92,56,4
+09:27,[IND] Vivians Foul: Personal (3 PF),-86,152,6,201502,1628927,,1611661325,92,56,4
+09:19,[WAS] Peddy Turnover : Bad Pass (1 TO) Steal:Allemand (2 ST),-123,313,5,1627700,203035,,1611661322,92,56,4
+09:12,[IND 59-92] Mitchell 3pt Shot: Made (20 PTS),-81,242,1,,1628909,,1611661325,92,59,4
+08:58,[WAS] Meesseman 3pt Shot: Missed,-65,258,2,,203416,,1611661322,92,59,4
+08:55,[IND] Vivians Rebound (Off:0 Def:2),-65,258,4,,1628927,,1611661325,92,59,4
+08:48,[IND] Mavunga 3pt Shot: Missed,98,244,2,,1628906,,1611661325,92,59,4
+08:45,[WAS] Peddy Rebound (Off:1 Def:3),98,244,4,,203035,,1611661322,92,59,4
+08:35,[WAS] Hines-Allen 3pt Shot: Missed,-104,233,2,,1628899,,1611661322,92,59,4
+08:31,[IND] McCowan Rebound (Off:1 Def:2),-104,233,4,,1629479,,1611661325,92,59,4
+08:26,[WAS] Hines-Allen Foul: Personal (2 PF),43,146,6,1628906,1628899,,1611661322,92,59,4
+08:26,[WAS] Hines-Allen Substitution replaced by Coates,0,-80,8,,1628899,1628268,1611661322,92,59,4
+08:26,[WAS] Peddy Substitution replaced by Mitchell,0,-80,8,,203035,201507,1611661322,92,59,4
+08:16,[IND] McCowan Jump Shot: Missed,-80,187,2,,1629479,,1611661325,92,59,4
+08:14,[IND] Team Rebound,-80,187,4,,0,,1611661325,92,59,4
+08:14,[WAS] Meesseman Foul: Personal (3 PF),-80,187,6,1628906,203416,,1611661322,92,59,4
+08:05,[IND] Vivians Turnover : Bad Pass (3 TO) Steal:Meesseman (1 ST),200,140,5,203416,1628927,,1611661325,92,59,4
+07:57,[WAS] Leslie 3pt Shot: Missed,14,257,2,,1629506,,1611661322,92,59,4
+07:52,[IND] Mavunga Rebound (Off:0 Def:1),14,257,4,,1628906,,1611661325,92,59,4
+07:42,[IND] Mavunga Layup Shot: Missed,-32,21,2,,1628906,,1611661325,92,59,4
+07:40,[WAS] Mitchell Rebound (Off:0 Def:4),-32,21,4,,201507,,1611661322,92,59,4
+07:36,[WAS] Leslie Layup Shot: Missed,-41,12,2,,1629506,,1611661322,92,59,4
+07:30,[IND] McCowan Rebound (Off:1 Def:3),-41,12,4,,1629479,,1611661325,92,59,4
+07:28,[IND] Vivians 3pt Shot: Missed,-230,24,2,,1628927,,1611661325,92,59,4
+07:26,[IND] Team Rebound,-230,24,4,,0,,1611661325,92,59,4
+07:17,[IND] Mitchell Hook Shot: Missed,71,118,2,,1628909,,1611661325,92,59,4
+07:14,[WAS] Carson Rebound (Off:0 Def:1),71,118,4,,201502,,1611661322,92,59,4
+07:05,[IND] McCowan Substitution replaced by Achonwa,0,-80,8,,1629479,203831,1611661325,92,59,4
+07:05,[WAS] Team Timeout : Regular,0,-80,9,,1611661322,,1611661322,92,59,4
+07:05,[IND] Allemand Substitution replaced by Mitchell,0,-80,8,,1627700,1627676,1611661325,92,59,4
+07:01,[WAS] Mitchell Jump Shot: Missed,132,125,2,,201507,,1611661322,92,59,4
+06:56,[WAS] Coates Rebound (Off:2 Def:5),132,125,4,,1628268,,1611661322,92,59,4
+06:53,[WAS] Coates Layup Shot: Missed,-11,24,2,1628906,1628268,,1611661322,92,59,4
+06:53,[IND] Mitchell Rebound (Off:1 Def:2),5,833,4,,1627676,,1611661325,92,59,4
+06:51,[IND] Mavunga Turnover : Step Out of Bounds Turnover (1 TO),-171,19,5,,1628906,,1611661325,92,59,4
+06:36,[WAS] Meesseman Jump Shot: Missed,83,97,2,,203416,,1611661322,92,59,4
+06:32,[WAS] Leslie Rebound (Off:1 Def:1),83,97,4,,1629506,,1611661322,92,59,4
+06:19,[WAS] Carson Jump Shot: Missed,169,120,2,,201502,,1611661322,92,59,4
+06:17,[IND] Achonwa Rebound (Off:2 Def:4),156,125,4,,203831,,1611661325,92,59,4
+06:12,[IND] Mitchell 3pt Shot: Missed,186,187,2,,1627676,,1611661325,92,59,4
+06:06,[IND] Mavunga Rebound (Off:1 Def:1),186,187,4,,1628906,,1611661325,92,59,4
+06:03,[IND 62-92] Mitchell 3pt Shot: Made (23 PTS) Assist: Mavunga (1 AST),32,258,1,,1628909,1628906,1611661325,92,62,4
+05:50,[WAS] Carson 3pt Shot: Missed,-57,238,2,,201502,,1611661322,92,62,4
+05:49,[IND] Team Rebound,-57,238,4,,0,,1611661325,92,62,4
+05:49,[WAS] Meesseman Foul: Personal (4 PF),57,597,6,203831,203416,,1611661322,92,62,4
+05:49,[WAS] Meesseman Substitution replaced by Hines-Allen,0,-80,8,,203416,1628899,1611661322,92,62,4
+05:31,[IND] Vivians Jump Shot: Missed,-26,105,2,,1628927,,1611661325,92,62,4
+05:29,[WAS] Coates Rebound (Off:2 Def:6),-26,105,4,,1628268,,1611661322,92,62,4
+05:19,[WAS] Leslie Jump Shot: Missed,94,81,2,,1629506,,1611661322,92,62,4
+05:16,[IND] Mavunga Rebound (Off:1 Def:2),94,81,4,,1628906,,1611661325,92,62,4
+05:11,[IND] Mitchell Driving Layup Shot: Missed,45,11,2,,1628909,,1611661325,92,62,4
+05:04,[WAS] Hines-Allen Rebound (Off:1 Def:9),45,11,4,,1628899,,1611661322,92,62,4
+04:48,[WAS 95-62] Leslie 3pt Shot: Made (7 PTS) Assist: Mitchell (4 AST),-240,38,1,,1629506,201507,1611661322,95,62,4
+04:38,[IND] Mavunga 3pt Shot: Missed,-66,241,2,,1628906,,1611661325,95,62,4
+04:38,[WAS] Team Rebound,-66,241,4,,0,,1611661322,95,62,4
+04:37,[IND] Vivians Foul: Personal (4 PF),66,595,6,1628268,1628927,,1611661325,95,62,4
+04:37,[WAS] Mitchell Substitution replaced by Peddy,0,-80,8,,201507,203035,1611661322,95,62,4
+04:37,[IND] Mitchell Substitution replaced by Allemand,0,-80,8,,1628909,1627700,1611661325,95,62,4
+04:12,[WAS] Hines-Allen Layup Shot: Missed,26,29,2,,1628899,,1611661322,95,62,4
+04:09,[IND] Achonwa Rebound (Off:2 Def:5),26,29,4,,203831,,1611661325,95,62,4
+04:08,[IND 64-95] Vivians Hook Shot: Made (3 PTS) Assist: Achonwa (2 AST),-38,16,1,,1628927,203831,1611661325,95,64,4
+03:50,[WAS] Carson Jump Shot: Missed,127,74,2,,201502,,1611661322,95,64,4
+03:50,[IND] Mavunga Rebound (Off:1 Def:3),127,74,4,,1628906,,1611661325,95,64,4
+03:45,[IND 66-95] Vivians Layup Shot: Made (5 PTS) Assist: Mavunga (2 AST),41,30,1,,1628927,1628906,1611661325,95,66,4
+03:45,[WAS] Peddy Foul: Shooting (2 PF) (1 FTA),41,30,6,1628927,203035,,1611661322,95,66,4
+03:45,[WAS] Leslie Substitution replaced by Powers,0,-80,8,,1629506,1627672,1611661322,95,66,4
+03:45,[WAS] Carson Substitution replaced by Atkins,0,-80,8,,201502,1628878,1611661322,95,66,4
+03:45,[IND] Achonwa Substitution replaced by Burke,0,-80,8,,203831,1629568,1611661325,95,66,4
+03:45,[IND 67-95] Vivians Free Throw 1 of 1 (6 PTS),0,-80,3,,1628927,,1611661325,95,67,4
+03:23,[WAS] Hines-Allen Hook Shot: Missed,42,34,2,,1628899,,1611661322,95,67,4
+03:23,[IND] Mavunga Rebound (Off:1 Def:4),42,34,4,,1628906,,1611661325,95,67,4
+03:13,[IND 70-95] Mitchell 3pt Shot: Made (13 PTS) Assist: Allemand (3 AST),-152,209,1,,1627676,1627700,1611661325,95,70,4
+03:10,[WAS] Team Timeout : Short,0,-80,9,,1611661322,,1611661322,95,70,4
+02:58,[WAS] Peddy Turnover : Lost Ball (2 TO) Steal:Mitchell (2 ST),104,7,5,1627676,203035,,1611661322,95,70,4
+02:53,[IND] Burke 3pt Shot: Missed,-222,62,2,,1629568,,1611661325,95,70,4
+02:49,[WAS] Atkins Rebound (Off:0 Def:1),-222,62,4,,1628878,,1611661322,95,70,4
+02:49,[IND] Mitchell Foul: Personal (4 PF),222,774,6,1628878,1627676,,1611661325,95,70,4
+02:49,Timeout Officials,0,-80,9,,0,,0,95,70,4
+02:35,[WAS] Atkins Jump Shot: Missed,-128,22,2,,1628878,,1611661322,95,70,4
+02:27,[IND] Burke Rebound (Off:0 Def:1),-128,22,4,,1629568,,1611661325,95,70,4
+02:25,[IND] Mitchell 3pt Shot: Missed,151,221,2,,1627676,,1611661325,95,70,4
+02:25,[WAS] Team Rebound,151,221,4,,0,,1611661322,95,70,4
+02:12,[WAS 97-70] Atkins Jump Shot: Made (13 PTS) Assist: Powers (2 AST),-71,188,1,,1628878,1627672,1611661322,97,70,4
+01:57,[IND] Allemand Turnover : Lost Ball (2 TO) Steal:Peddy (2 ST),117,241,5,203035,1627700,,1611661325,97,70,4
+01:57,[IND] Burke Foul: Personal (2 PF) (2 FTA),-141,592,6,203035,1629568,,1611661325,97,70,4
+01:57,[WAS 98-70] Peddy Free Throw 1 of 2 (9 PTS),0,-80,3,,203035,,1611661322,98,70,4
+01:57,[WAS 99-70] Peddy Free Throw 2 of 2 (10 PTS),0,-80,3,,203035,,1611661322,99,70,4
+01:57,[WAS] Hines-Allen Substitution replaced by Carson,0,-80,8,,1628899,201502,1611661322,99,70,4
+01:57,[IND] Allemand Substitution replaced by Mitchell,0,-80,8,,1627700,1628909,1611661325,99,70,4
+01:43,[WAS] Atkins Foul: Personal (4 PF) (2 FTA),190,241,6,1627676,1628878,,1611661322,99,70,4
+01:43,[IND 71-99] Mitchell Free Throw 1 of 2 (14 PTS),0,-80,3,,1627676,,1611661325,99,71,4
+01:43,[IND 72-99] Mitchell Free Throw 2 of 2 (15 PTS),0,-80,3,,1627676,,1611661325,99,72,4
+01:23,[WAS] Coates Turnover : 3 Second Violation (1 TO),-39,107,5,,1628268,,1611661322,99,72,4
+01:10,[IND] Mitchell Jump Shot: Missed,167,46,2,,1627676,,1611661325,99,72,4
+01:07,[WAS] Coates Rebound (Off:2 Def:7),167,46,4,,1628268,,1611661322,99,72,4
+00:58.6,[WAS] Peddy Layup Shot: Missed,25,34,2,,203035,,1611661322,99,72,4
+00:55.2,[IND] Burke Rebound (Off:0 Def:2),25,34,4,,1629568,,1611661325,99,72,4
+00:55.2,[IND] Burke Foul: Offensive (3 PF),184,516,6,203035,1629568,,1611661325,99,72,4
+00:55.2,[IND] Burke Turnover : Offensive Foul Turnover (1 TO),184,516,5,,1629568,,1611661325,99,72,4
+00:45.7,[WAS] Coates Layup Shot: Missed,-40,54,2,,1628268,,1611661322,99,72,4
+00:43.1,[IND] Mavunga Rebound (Off:1 Def:5),-40,54,4,,1628906,,1611661325,99,72,4
+00:40.1,[IND 74-99] Mitchell Layup Shot: Made (25 PTS),-57,1,1,,1628909,,1611661325,99,74,4
+00:22.7,[IND] Vivians Foul: Shooting (5 PF) (2 FTA),97,77,6,1627672,1628927,,1611661325,99,74,4
+00:22.7,[WAS 100-74] Powers Free Throw 1 of 2 (15 PTS),0,-80,3,,1627672,,1611661322,100,74,4
+00:22.7,[WAS 101-74] Powers Free Throw 2 of 2 (16 PTS),0,-80,3,,1627672,,1611661322,101,74,4
+00:04.7,[IND 76-101] Vivians Layup Shot: Made (8 PTS),-27,37,1,,1628927,,1611661325,101,76,4
+00:00.0,End Period,0,-80,13,,0,,0,101,76,4
+00:00.0,Game End,0,-80,0,,0,,0,101,76,4

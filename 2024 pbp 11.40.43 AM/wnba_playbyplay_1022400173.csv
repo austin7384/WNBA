@@ -1,0 +1,367 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+09:59,Jump Ball Collier vs Collier (Smith gains possession),0,-80,10,1629483,1629483,1631019,1611661325,0,0,0,1
+09:45,[MIN] Collier Foul: Personal (1 PF),-6,38,6,1641648,1629483,1629422,1611661324,0,0,0,1
+09:39,[IND] Clark 3pt Shot: Missed,11,252,2,,1642286,,1611661325,0,0,0,1
+09:37,[MIN] Team Rebound,11,252,4,,0,,1611661324,0,0,0,1
+09:37,[IND] Samuelson Foul: Loose Ball (1 PF),-8,771,6,1629524,1629478,1628702,1611661325,0,0,0,1
+09:24,[MIN] Collier 3pt Shot: Missed,-110,209,2,,1629483,,1611661324,0,0,0,1
+09:20,[IND] Samuelson Rebound (Off:0 Def:1),-110,209,4,,1629478,,1611661325,0,0,0,1
+09:11,[IND] Boston Turnover : Double Dribble (1 TO),-5,29,5,,1641648,202764,1611661325,0,0,0,1
+09:01,[MIN] Williams 3pt Shot: Missed,-39,235,2,,1627675,,1611661324,0,0,0,1
+08:59,[IND] Smith Rebound (Off:0 Def:1),-39,235,4,,1631019,,1611661325,0,0,0,1
+08:49,[IND] Mitchell 3pt Shot: Missed,199,104,2,,1628909,,1611661325,0,0,0,1
+08:47,[IND] Team Rebound,199,104,4,,0,,1611661325,0,0,0,1
+08:47,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,0,0,1
+08:38,[IND] Clark Pullup Jump shot: Missed,138,87,2,,1642286,,1611661325,0,0,0,1
+08:35,[IND] Boston Rebound (Off:1 Def:0),138,87,4,,1641648,,1611661325,0,0,0,1
+08:35,[IND 2-0] Boston Putback Layup Shot: Made (2 PTS),10,3,1,,1641648,,1611661325,0,2,2,1
+08:24,[MIN 2-2] Collier Cutting Layup Shot: Made (2 PTS) Assist: Williams (1 AST),-5,10,1,,1629483,1627675,1611661324,2,2,2,1
+08:19,[IND] Clark Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-116,344,5,,1642286,202764,1611661325,2,2,0,1
+07:59,[MIN 4-2] Carleton Driving Reverse Layup Shot: Made (2 PTS) Assist: McBride (1 AST),7,11,1,,1629524,203825,1611661324,4,2,2,1
+07:51,[IND 4-4] Mitchell Cutting Layup Shot: Made (2 PTS) Assist: Clark (1 AST),-10,7,1,,1628909,1642286,1611661325,4,4,2,1
+07:37,[MIN] Collier Driving Floating Bank Jump Shot: Missed,-27,14,2,,1629483,,1611661324,4,4,0,1
+07:33,[IND] Clark Rebound (Off:0 Def:1),-27,14,4,,1642286,,1611661325,4,4,0,1
+07:29,[IND] Samuelson 3pt Shot: Missed,183,150,2,,1629478,,1611661325,4,4,0,1
+07:26,[MIN] Carleton Rebound (Off:0 Def:1),183,150,4,,1629524,,1611661324,4,4,0,1
+07:20,[MIN 6-4] Collier Running Layup Shot: Made (4 PTS) Assist: Carleton (1 AST),6,9,1,,1629483,1629524,1611661324,6,4,2,1
+07:07,[IND 6-6] Boston Reverse Layup Shot: Made (4 PTS) Assist: Clark (2 AST),-6,16,1,,1641648,1642286,1611661325,6,6,2,1
+06:54,[MIN 9-6] Carleton 3pt Shot: Made (5 PTS) Assist: McBride (2 AST),220,58,1,,1629524,203825,1611661324,9,6,3,1
+06:32,[IND 8-9] Mitchell Driving Finger Roll Layup Shot: Made (4 PTS),-22,3,1,,1628909,,1611661325,9,8,2,1
+06:17,[MIN 12-8] Collier 3pt Shot: Made (7 PTS) Assist: Smith (1 AST),193,133,1,,1629483,1629501,1611661324,12,8,3,1
+05:53,[IND] Clark 3pt Shot: Missed,-45,271,2,,1642286,,1611661325,12,8,0,1
+05:50,[IND] Mitchell Rebound (Off:1 Def:0),-45,271,4,,1628909,,1611661325,12,8,0,1
+05:42,[IND] Samuelson 3pt Shot: Missed,177,168,2,,1629478,,1611661325,12,8,0,1
+05:38,[MIN] Collier Rebound (Off:0 Def:1),177,168,4,,1629483,,1611661324,12,8,0,1
+05:30,[MIN] Collier Jump Shot: Missed,-93,102,2,,1629483,,1611661324,12,8,0,1
+05:29,[MIN] Collier Rebound (Off:1 Def:1),-93,102,4,,1629483,,1611661324,12,8,0,1
+05:29,[IND] Mitchell Foul: Personal (1 PF),50,84,6,1629483,1628909,1628702,1611661325,12,8,0,1
+05:29,[IND] Smith Substitution replaced by Fagbenle,0,-80,8,,1631019,1627701,1611661325,12,8,0,1
+05:24,[MIN 14-8] Collier Cutting Layup Shot: Made (9 PTS) Assist: McBride (3 AST),0,11,1,,1629483,203825,1611661324,14,8,2,1
+05:24,[IND] Mitchell Foul: Shooting (2 PF) (1 FTA),0,11,6,1629483,1628909,202764,1611661325,14,8,0,1
+05:24,[MIN 15-8] Collier Free Throw 1 of 1 (10 PTS),0,-80,3,,1629483,,1611661324,15,8,1,1
+05:11,[IND] Clark Driving Layup Shot: Missed,15,10,2,,1642286,,1611661325,15,8,0,1
+05:08,[IND] Clark Rebound (Off:1 Def:1),15,10,4,,1642286,,1611661325,15,8,0,1
+04:56,[IND 10-15] Fagbenle Driving Layup Shot: Made (2 PTS),0,19,1,,1627701,,1611661325,15,10,2,1
+04:41,[MIN] Carleton 3pt Shot: Missed,221,70,2,,1629524,,1611661324,15,10,0,1
+04:39,[MIN] Smith Rebound (Off:1 Def:0),221,70,4,,1629501,,1611661324,15,10,0,1
+04:37,[MIN 18-10] McBride 3pt Shot: Made (3 PTS) Assist: Smith (2 AST),104,215,1,,203825,1629501,1611661324,18,10,3,1
+04:18,[IND 12-18] Mitchell Driving Layup Shot: Made (6 PTS),-10,7,1,,1628909,,1611661325,18,12,2,1
+04:05,[MIN] McBride 3pt Shot: Missed,201,118,2,,203825,,1611661324,18,12,0,1
+04:01,[IND] Fagbenle Rebound (Off:0 Def:1),201,118,4,,1627701,,1611661325,18,12,0,1
+03:53,[IND] Clark Pullup Jump shot: Missed,23,167,2,,1642286,,1611661325,18,12,0,1
+03:50,[MIN] Collier Rebound (Off:1 Def:2),23,167,4,,1629483,,1611661324,18,12,0,1
+03:44,[MIN] Collier 3pt Shot: Missed,-2,251,2,,1629483,,1611661324,18,12,0,1
+03:39,[IND] Samuelson Rebound (Off:0 Def:2),-2,251,4,,1629478,,1611661325,18,12,0,1
+03:27,[IND] Mitchell 3pt Shot: Missed,-187,152,2,,1628909,,1611661325,18,12,0,1
+03:25,[MIN] Team Rebound,-187,152,4,,0,,1611661324,18,12,0,1
+03:25,[IND] Boston Foul: Loose Ball (1 PF),11,799,6,1629501,1641648,202764,1611661325,18,12,0,1
+03:25,Timeout : Official,0,-80,9,,0,,0,18,12,0,1
+03:25,[MIN] Williams Substitution replaced by Hiedeman,0,-80,8,,1627675,1629567,1611661324,18,12,0,1
+03:25,[MIN] Collier Substitution replaced by Juhász,0,-80,8,,1629483,1641657,1611661324,18,12,0,1
+03:14,[MIN] McBride 3pt Shot: Missed,93,234,2,,203825,,1611661324,18,12,0,1
+03:10,[IND] Boston Rebound (Off:1 Def:1),93,234,4,,1641648,,1611661325,18,12,0,1
+03:02,[IND] Boston Jump Shot: Missed,-18,94,2,,1641648,,1611661325,18,12,0,1
+02:59,[IND] Boston Rebound (Off:2 Def:1),-18,94,4,,1641648,,1611661325,18,12,0,1
+02:46,[IND] Clark Turnover : Bad Pass (2 TO) Steal:Carleton (1 ST),32,92,5,1629524,1642286,,1611661325,18,12,0,1
+02:42,[MIN] Hiedeman Running Layup Shot: Missed,-15,13,2,,1629567,,1611661324,18,12,0,1
+02:38,[IND] Mitchell Rebound (Off:1 Def:1),-15,13,4,,1628909,,1611661325,18,12,0,1
+02:34,[IND] Samuelson Running Layup Shot: Missed,-12,3,2,,1629478,,1611661325,18,12,0,1
+02:31,[MIN] Juhász Rebound (Off:0 Def:1),-12,3,4,,1641657,,1611661324,18,12,0,1
+02:15,[MIN 21-12] Hiedeman 3pt Shot: Made (3 PTS) Assist: Carleton (2 AST),-234,11,1,,1629567,1629524,1611661324,21,12,3,1
+01:58,[MIN] Carleton Foul: Shooting (1 PF) (2 FTA),18,12,6,1642286,1629524,202764,1611661324,21,12,0,1
+01:58,[IND 13-21] Clark Free Throw 1 of 2 (1 PTS),0,-80,3,,1642286,,1611661325,21,13,1,1
+01:58,[MIN] Smith Substitution replaced by Zandalasini,0,-80,8,,1629501,1628508,1611661324,21,13,0,1
+01:58,[MIN] McBride Substitution replaced by Hines-Allen,0,-80,8,,203825,1628899,1611661324,21,13,0,1
+01:58,[IND] Samuelson Substitution replaced by Hull,0,-80,8,,1629478,1631086,1611661325,21,13,0,1
+01:58,[IND 14-21] Clark Free Throw 2 of 2 (2 PTS),0,-80,3,,1642286,,1611661325,21,14,1,1
+01:47,[IND] Fagbenle Foul: Personal (1 PF) (2 FTA),-11,57,6,1629524,1627701,202764,1611661325,21,14,0,1
+01:47,[MIN 22-14] Carleton Free Throw 1 of 2 (6 PTS),0,-80,3,,1629524,,1611661324,22,14,1,1
+01:47,[MIN 23-14] Carleton Free Throw 2 of 2 (7 PTS),0,-80,3,,1629524,,1611661324,23,14,1,1
+01:33,[IND 16-23] Clark Step Back Jump shot: Made (4 PTS),-101,140,1,,1642286,,1611661325,23,16,2,1
+01:08,[MIN 26-16] Hiedeman 3pt Shot: Made (6 PTS) Assist: Carleton (3 AST),44,245,1,,1629567,1629524,1611661324,26,16,3,1
+00:43.0,[IND] Clark Driving Layup Shot: Missed Block: Juhász (1 BLK),21,8,2,1641657,1642286,,1611661325,26,16,0,1
+00:40.5,[MIN] Zandalasini Rebound (Off:0 Def:1),21,8,4,,1628508,,1611661324,26,16,0,1
+00:26.1,[MIN 29-16] Carleton 3pt Shot: Made (10 PTS) Assist: Hines-Allen (1 AST),226,31,1,,1629524,1628899,1611661324,29,16,3,1
+00:02.5,[IND] Clark 3pt Shot: Missed,45,238,2,,1642286,,1611661325,29,16,0,1
+00:02.5,[IND] Team Rebound,45,238,4,,0,,1611661325,29,16,0,1
+00:00.3,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,29,16,0,1
+00:00.3,[IND] Fagbenle Alley Oop Layup shot: Missed,76,113,2,,1627701,,1611661325,29,16,0,1
+00:00.3,[IND] Team Rebound,76,113,4,,0,,1611661325,29,16,0,1
+00:00.0,End Period,0,-80,13,,0,,0,29,16,0,1
+10:00,Start Period,0,-80,12,,0,,0,29,16,0,2
+09:43,[MIN] Zandalasini Pullup Jump shot: Missed,44,119,2,,1628508,,1611661324,29,16,0,2
+09:40,[IND] Clark Rebound (Off:1 Def:2),44,119,4,,1642286,,1611661325,29,16,0,2
+09:31,[IND 18-29] Dantas Jump Shot: Made (2 PTS) Assist: Clark (3 AST),90,65,1,,203024,1642286,1611661325,29,18,2,2
+09:19,[MIN] Juhász 3pt Shot: Missed,-30,247,2,,1641657,,1611661324,29,18,0,2
+09:16,[IND] Fagbenle Rebound (Off:0 Def:2),-30,247,4,,1627701,,1611661325,29,18,0,2
+09:13,[IND] Clark Turnover : Out of Bounds - Bad Pass Turnover (3 TO),66,504,5,,1642286,202764,1611661325,29,18,0,2
+08:51,[MIN] Zandalasini 3pt Shot: Missed,-238,24,2,,1628508,,1611661324,29,18,0,2
+08:46,[MIN] Hines-Allen Rebound (Off:1 Def:0),-238,24,4,,1628899,,1611661324,29,18,0,2
+08:45,[MIN 31-18] Hines-Allen Putback Layup Shot: Made (2 PTS),-10,15,1,,1628899,,1611661324,31,18,2,2
+08:34,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,18,0,2
+08:34,[MIN] Juhász Substitution replaced by Collier,0,-80,8,,1641657,1629483,1611661324,31,18,0,2
+08:34,[IND] Fagbenle Substitution replaced by Boston,0,-80,8,,1627701,1641648,1611661325,31,18,0,2
+08:34,[MIN] Hines-Allen Foul: Personal (1 PF),-145,28,6,1641648,1628899,202764,1611661324,31,18,0,2
+08:34,InstantReplay Request Stands,0,-80,18,,0,,0,31,18,0,2
+08:26,[IND 20-31] Mitchell Pullup Jump shot: Made (8 PTS),130,157,1,,1628909,,1611661325,31,20,2,2
+08:08,[MIN 33-20] Collier Cutting Layup Shot: Made (12 PTS) Assist: Zandalasini (1 AST),-17,5,1,,1629483,1628508,1611661324,33,20,2,2
+07:55,[IND 23-33] Mitchell 3pt Shot: Made (11 PTS) Assist: Clark (4 AST),208,105,1,,1628909,1642286,1611661325,33,23,3,2
+07:35,[IND] Boston Foul: Shooting (2 PF) (2 FTA),-22,10,6,1629483,1641648,1629422,1611661325,33,23,0,2
+07:35,[MIN] Collier Free Throw 1 of 2 Missed,0,-80,3,,1629483,,1611661324,33,23,0,2
+07:35,[MIN] Team Rebound,0,-80,4,,0,,1611661324,33,23,0,2
+07:35,[MIN] Hiedeman Substitution replaced by Williams,0,-80,8,,1629567,1627675,1611661324,33,23,0,2
+07:35,[MIN] Carleton Substitution replaced by McBride,0,-80,8,,1629524,203825,1611661324,33,23,0,2
+07:35,[IND] Clark Substitution replaced by Wheeler,0,-80,8,,1642286,204365,1611661325,33,23,0,2
+07:35,[MIN 34-23] Collier Free Throw 2 of 2 (13 PTS),0,-80,3,,1629483,,1611661324,34,23,1,2
+07:19,[IND] Dantas Turnover : Bad Pass (1 TO) Steal:Zandalasini (1 ST),107,243,5,1628508,203024,,1611661325,34,23,0,2
+07:15,[MIN] Zandalasini Running Layup Shot: Missed,-24,6,2,,1628508,,1611661324,34,23,0,2
+07:12,[IND] Hull Rebound (Off:0 Def:1),-24,6,4,,1631086,,1611661325,34,23,0,2
+07:11,[IND] Hull Turnover : Lost Ball (1 TO) Steal:Zandalasini (2 ST),39,812,5,1628508,1631086,,1611661325,34,23,0,2
+07:07,[MIN 36-23] Collier Layup Shot: Made (15 PTS) Assist: Zandalasini (2 AST),-15,11,1,,1629483,1628508,1611661324,36,23,2,2
+06:59,[IND 25-36] Dantas Fadeaway Jump Shot: Made (4 PTS) Assist: Wheeler (1 AST),21,72,1,,203024,204365,1611661325,36,25,2,2
+06:42,[MIN] Williams Pullup Jump shot: Missed,-30,146,2,,1627675,,1611661324,36,25,0,2
+06:42,[IND] Dantas Rebound (Off:0 Def:1),-30,146,4,,203024,,1611661325,36,25,0,2
+06:22,[IND 27-36] Wheeler Step Back Jump shot: Made (2 PTS),22,128,1,,204365,,1611661325,36,27,2,2
+06:00,[MIN] Collier 3pt Shot: Missed,-173,167,2,,1629483,,1611661324,36,27,0,2
+05:57,[IND] Dantas Rebound (Off:0 Def:2),-173,167,4,,203024,,1611661325,36,27,0,2
+05:50,[IND 29-36] Mitchell Running Finger Roll Layup Shot: Made (13 PTS),-17,5,1,,1628909,,1611661325,36,29,2,2
+05:43,Timeout : Regular,0,-80,9,,1611661324,,1611661324,36,29,0,2
+05:43,[MIN] Hines-Allen Substitution replaced by Smith,0,-80,8,,1628899,1629501,1611661324,36,29,0,2
+05:35,[IND] Mitchell Foul: Shooting (3 PF) (2 FTA),92,108,6,203825,1628909,1628702,1611661325,36,29,0,2
+05:35,[MIN 37-29] McBride Free Throw 1 of 2 (4 PTS),0,-80,3,,203825,,1611661324,37,29,1,2
+05:35,[IND] Mitchell Substitution replaced by Clark,0,-80,8,,1628909,1642286,1611661325,37,29,0,2
+05:35,[MIN] McBride Free Throw 2 of 2 Missed,0,-80,3,,203825,,1611661324,37,29,0,2
+05:33,[IND] Boston Rebound (Off:2 Def:2),0,-80,4,,1641648,,1611661325,37,29,0,2
+05:15,[IND 31-37] Dantas Layup Shot: Made (6 PTS),15,7,1,,203024,,1611661325,37,31,2,2
+05:05,[MIN 39-31] Williams Driving Finger Roll Layup Shot: Made (2 PTS),7,11,1,,1627675,,1611661324,39,31,2,2
+04:50,[IND] Dantas Turnover : Bad Pass (2 TO) Steal:Collier (1 ST),-184,187,5,1629483,203024,,1611661325,39,31,0,2
+04:40,[MIN] McBride Driving Finger Roll Layup Shot: Missed,5,9,2,,203825,,1611661324,39,31,0,2
+04:38,[IND] Dantas Rebound (Off:0 Def:3),5,9,4,,203024,,1611661325,39,31,0,2
+04:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,39,31,0,2
+04:23,[IND 34-39] Clark 3pt Shot: Made (7 PTS) Assist: Boston (1 AST),200,120,1,,1642286,1641648,1611661325,39,34,3,2
+04:09,[MIN 41-34] Collier Pullup Jump shot: Made (17 PTS),-145,65,1,,1629483,,1611661324,41,34,2,2
+03:57,[MIN] McBride Foul: Personal (1 PF),34,271,6,1642286,203825,202764,1611661324,41,34,0,2
+03:46,[IND 36-41] Clark Driving Layup Shot: Made (9 PTS),11,3,1,,1642286,,1611661325,41,36,2,2
+03:35,[MIN] Williams Turnover : Out of Bounds - Bad Pass Turnover (1 TO),161,72,5,,1627675,1628702,1611661324,41,36,0,2
+03:35,[MIN] Zandalasini Substitution replaced by Carleton,0,-80,8,,1628508,1629524,1611661324,41,36,0,2
+03:35,Timeout : Regular,0,-80,9,,1611661325,,1611661325,41,36,0,2
+03:21,[IND] Wheeler Pullup Jump shot: Missed,-10,150,2,,204365,,1611661325,41,36,0,2
+03:18,[IND] Boston Rebound (Off:3 Def:2),-10,150,4,,1641648,,1611661325,41,36,0,2
+03:14,[IND] Boston Turnaround Hook Shot: Missed,18,3,2,,1641648,,1611661325,41,36,0,2
+03:12,[MIN] Team Rebound,18,3,4,,0,,1611661324,41,36,0,2
+03:12,Jump Ball Boston vs Boston (Collier gains possession),0,-80,10,1641648,1641648,1629483,1611661324,41,36,0,2
+02:48,[MIN] Williams Turnover : Step Out of Bounds Turnover (2 TO),67,25,5,,1627675,202764,1611661324,41,36,0,2
+02:34,[IND 38-41] Clark Driving Layup Shot: Made (11 PTS) Assist: Dantas (1 AST),11,15,1,,1642286,203024,1611661325,41,38,2,2
+02:34,[MIN] Carleton Foul: Shooting (2 PF) (1 FTA),11,15,6,1642286,1629524,1628702,1611661324,41,38,0,2
+02:34,[MIN] Williams Substitution replaced by Hiedeman,0,-80,8,,1627675,1629567,1611661324,41,38,0,2
+02:34,[IND 39-41] Clark Free Throw 1 of 1 (12 PTS),0,-80,3,,1642286,,1611661325,41,39,1,2
+02:23,[MIN] Carleton 3pt Shot: Missed,-213,83,2,,1629524,,1611661324,41,39,0,2
+02:21,[IND] Clark Rebound (Off:1 Def:3),-213,83,4,,1642286,,1611661325,41,39,0,2
+02:19,[IND] Clark Turnover : Out of Bounds - Bad Pass Turnover (4 TO),151,567,5,,1642286,1629422,1611661325,41,39,0,2
+02:07,[MIN 43-39] Hiedeman Driving Finger Roll Layup Shot: Made (8 PTS) Assist: Collier (1 AST),-19,6,1,,1629567,1629483,1611661324,43,39,2,2
+01:58,[IND] Clark Driving Layup Shot: Missed Block: Smith (1 BLK),-16,3,2,1629501,1642286,,1611661325,43,39,0,2
+01:55,[MIN] McBride Rebound (Off:0 Def:1),-16,3,4,,203825,,1611661324,43,39,0,2
+01:55,[IND] Dantas Foul: Personal (1 PF),1,648,6,203825,203024,1629422,1611661325,43,39,0,2
+01:46,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,39,0,2
+01:35,[MIN] McBride 3pt Shot: Missed,-178,165,2,,203825,,1611661324,43,39,0,2
+01:33,[IND] Team Rebound,-178,165,4,,0,,1611661325,43,39,0,2
+01:33,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,43,39,0,2
+01:19,[IND] Dantas 3pt Shot: Missed,2,237,2,,203024,,1611661325,43,39,0,2
+01:16,[IND] Team Rebound,2,237,4,,0,,1611661325,43,39,0,2
+01:16,[MIN] Smith Foul: Loose Ball (1 PF),-7,48,6,1641648,1629501,1629422,1611661324,43,39,0,2
+01:11,[IND] Wheeler Driving Floating Bank Jump Shot: Missed,-29,91,2,,204365,,1611661325,43,39,0,2
+01:09,[IND] Boston Rebound (Off:4 Def:2),-29,91,4,,1641648,,1611661325,43,39,0,2
+01:08,[IND 41-43] Boston Putback Layup Shot: Made (6 PTS),10,5,1,,1641648,,1611661325,43,41,2,2
+00:50.7,[IND] Clark Foul: Shooting (1 PF) (2 FTA),-28,65,6,1629567,1642286,1629422,1611661325,43,41,0,2
+00:50.7,[MIN 44-41] Hiedeman Free Throw 1 of 2 (9 PTS),0,-80,3,,1629567,,1611661324,44,41,1,2
+00:50.7,[MIN 45-41] Hiedeman Free Throw 2 of 2 (10 PTS),0,-80,3,,1629567,,1611661324,45,41,1,2
+00:40.5,[IND] Hull 3pt Shot: Missed,-129,201,2,,1631086,,1611661325,45,41,0,2
+00:37.5,[MIN] McBride Rebound (Off:0 Def:2),-129,201,4,,203825,,1611661324,45,41,0,2
+00:35.6,[MIN] McBride Turnover : Lost Ball (1 TO) Steal:Boston (1 ST),-19,773,5,1641648,203825,,1611661324,45,41,0,2
+00:18.9,[IND 44-45] Clark 3pt Shot: Made (15 PTS),-94,276,1,,1642286,,1611661325,45,44,3,2
+00:03.6,[MIN] Hiedeman Driving Layup Shot: Missed,13,13,2,,1629567,,1611661324,45,44,0,2
+00:00.4,[IND] Boston Rebound (Off:4 Def:3),13,13,4,,1641648,,1611661325,45,44,0,2
+00:00.0,End Period,0,-80,13,,0,,0,45,44,0,2
+10:00,Start Period,0,-80,12,,0,,0,45,44,0,3
+09:47,[IND] Clark Foul: Shooting (2 PF) (2 FTA),45,76,6,203825,1642286,202764,1611661325,45,44,0,3
+09:47,[MIN 46-44] McBride Free Throw 1 of 2 (5 PTS),0,-80,3,,203825,,1611661324,46,44,1,3
+09:47,[MIN 47-44] McBride Free Throw 2 of 2 (6 PTS),0,-80,3,,203825,,1611661324,47,44,1,3
+09:31,[IND] Samuelson Pullup Jump shot: Missed,-151,32,2,,1629478,,1611661325,47,44,0,3
+09:28,[MIN] Williams Rebound (Off:0 Def:1),-151,32,4,,1627675,,1611661324,47,44,0,3
+09:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,47,44,0,3
+09:21,[MIN 49-44] McBride Cutting Layup Shot: Made (8 PTS) Assist: Williams (2 AST),-17,15,1,,203825,1627675,1611661324,49,44,2,3
+08:55,[IND 46-49] Boston Turnaround Hook Shot: Made (8 PTS),1,11,1,,1641648,,1611661325,49,46,2,3
+08:32,[MIN] McBride 3pt Shot: Missed,-110,209,2,,203825,,1611661324,49,46,0,3
+08:28,[MIN] Smith Rebound (Off:2 Def:0),-110,209,4,,1629501,,1611661324,49,46,0,3
+08:25,[MIN 52-46] McBride 3pt Shot: Made (11 PTS) Assist: Williams (3 AST),-224,67,1,,203825,1627675,1611661324,52,46,3,3
+07:59,[IND] Smith Driving Layup Shot: Missed Block: Smith (2 BLK),15,6,2,1629501,1631019,,1611661325,52,46,0,3
+07:55,[IND] Smith Rebound (Off:1 Def:1),15,6,4,,1631019,,1611661325,52,46,0,3
+07:54,[IND] Smith Driving Layup Shot: Missed,16,15,2,,1631019,,1611661325,52,46,0,3
+07:51,[IND] Boston Rebound (Off:5 Def:3),16,15,4,,1641648,,1611661325,52,46,0,3
+07:50,[IND] Boston Tip Layup Shot: Missed,5,10,2,,1641648,,1611661325,52,46,0,3
+07:49,[MIN] Williams Rebound (Off:0 Def:2),5,10,4,,1627675,,1611661324,52,46,0,3
+07:45,[MIN 54-46] Williams Running Pull-Up Jump Shot: Made (4 PTS),154,121,1,,1627675,,1611661324,54,46,2,3
+07:45,Timeout : Regular,0,-80,9,,1611661325,,1611661325,54,46,0,3
+07:30,[IND] Mitchell 3pt Shot: Missed,163,164,2,,1628909,,1611661325,54,46,0,3
+07:25,[MIN] Carleton Rebound (Off:0 Def:2),163,164,4,,1629524,,1611661324,54,46,0,3
+07:18,[MIN 56-46] Collier Driving Floating Bank Jump Shot: Made (19 PTS) Assist: Carleton (4 AST),-56,60,1,,1629483,1629524,1611661324,56,46,2,3
+07:10,[IND] Boston Layup Shot: Missed,-23,4,2,,1641648,,1611661325,56,46,0,3
+07:09,[IND] Boston Rebound (Off:6 Def:3),-23,4,4,,1641648,,1611661325,56,46,0,3
+07:09,[IND] Boston Turnover : Out of Bounds Lost Ball Turnover (2 TO),-16,30,5,,1641648,202764,1611661325,56,46,0,3
+06:52,[MIN] McBride Driving Floating Jump Shot: Missed,-5,45,2,,203825,,1611661324,56,46,0,3
+06:50,[IND] Boston Rebound (Off:6 Def:4),-5,45,4,,1641648,,1611661325,56,46,0,3
+06:39,[IND] Clark 3pt Shot: Missed,126,250,2,,1642286,,1611661325,56,46,0,3
+06:36,[MIN] Team Rebound,126,250,4,,0,,1611661324,56,46,0,3
+06:36,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,56,46,0,3
+06:15,[MIN] Williams Turnover : Bad Pass (3 TO) Steal:Smith (1 ST),125,38,5,1631019,1627675,,1611661324,56,46,0,3
+05:53,[IND 49-56] Mitchell 3pt Shot: Made (16 PTS) Assist: Clark (5 AST),26,242,1,,1628909,1642286,1611661325,56,49,3,3
+05:35,[MIN 58-49] Collier Cutting Layup Shot: Made (21 PTS) Assist: Smith (3 AST),-7,10,1,,1629483,1629501,1611661324,58,49,2,3
+05:30,[IND] Clark Turnover : Bad Pass (5 TO) Steal:Carleton (2 ST),93,525,5,1629524,1642286,,1611661325,58,49,0,3
+05:17,[MIN 61-49] Carleton 3pt Shot: Made (13 PTS) Assist: Smith (4 AST),-115,227,1,,1629524,1629501,1611661324,61,49,3,3
+04:50,[IND 51-61] Smith Turnaround Jump Shot: Made (2 PTS) Assist: Samuelson (1 AST),26,47,1,,1631019,1629478,1611661325,61,51,2,3
+04:50,[MIN] Carleton Foul: Shooting (3 PF) (1 FTA),26,47,6,1631019,1629524,1629422,1611661324,61,51,0,3
+04:50,[IND] Smith Free Throw 1 of 1 Missed,0,-80,3,,1631019,,1611661325,61,51,0,3
+04:45,[IND] Mitchell Rebound (Off:2 Def:1),0,-80,4,,1628909,,1611661325,61,51,0,3
+04:45,[IND] Mitchell 3pt Shot: Missed,-232,35,2,,1628909,,1611661325,61,51,0,3
+04:40,[IND] Smith Rebound (Off:2 Def:1),-232,35,4,,1631019,,1611661325,61,51,0,3
+04:39,[IND] Smith Putback Layup Shot: Missed Block: Collier (1 BLK),-21,20,2,1629483,1631019,,1611661325,61,51,0,3
+04:34,[IND] Boston Rebound (Off:7 Def:4),-21,20,4,,1641648,,1611661325,61,51,0,3
+04:31,[MIN] Smith Foul: Personal (2 PF),10,46,6,1641648,1629501,202764,1611661324,61,51,0,3
+04:31,[IND] Smith Substitution replaced by Fagbenle,0,-80,8,,1631019,1627701,1611661325,61,51,0,3
+04:20,[IND] Mitchell 3pt Shot: Missed,81,228,2,,1628909,,1611661325,61,51,0,3
+04:15,[IND] Fagbenle Rebound (Off:1 Def:2),81,228,4,,1627701,,1611661325,61,51,0,3
+04:11,[MIN] Collier Foul: Personal (2 PF),-19,81,6,1642286,1629483,202764,1611661324,61,51,0,3
+04:05,[IND] Fagbenle 3pt Shot: Missed,-235,30,2,,1627701,,1611661325,61,51,0,3
+04:02,[IND] Fagbenle Rebound (Off:2 Def:2),-235,30,4,,1627701,,1611661325,61,51,0,3
+03:54,[IND] Mitchell 3pt Shot: Missed,-166,172,2,,1628909,,1611661325,61,51,0,3
+03:51,[MIN] McBride Rebound (Off:0 Def:3),-166,172,4,,203825,,1611661324,61,51,0,3
+03:42,[IND] Samuelson Foul: Shooting (2 PF) (2 FTA),26,7,6,1629483,1629478,1629422,1611661325,61,51,0,3
+03:42,[MIN 62-51] Collier Free Throw 1 of 2 (22 PTS),0,-80,3,,1629483,,1611661324,62,51,1,3
+03:42,[MIN] Smith Substitution replaced by Hines-Allen,0,-80,8,,1629501,1628899,1611661324,62,51,0,3
+03:42,[IND] Samuelson Substitution replaced by Hull,0,-80,8,,1629478,1631086,1611661325,62,51,0,3
+03:42,[MIN 63-51] Collier Free Throw 2 of 2 (23 PTS),0,-80,3,,1629483,,1611661324,63,51,1,3
+03:25,[IND] Boston Driving Layup Shot: Missed,7,5,2,,1641648,,1611661325,63,51,0,3
+03:24,[IND] Team Rebound,7,5,4,,0,,1611661325,63,51,0,3
+03:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,51,0,3
+03:09,[IND] Team Turnover : Shot Clock Turnover,17,15,5,,0,1628702,1611661325,63,51,0,3
+03:00,[MIN] Hines-Allen 3pt Shot: Missed,173,162,2,,1628899,,1611661324,63,51,0,3
+02:57,[IND] Clark Rebound (Off:1 Def:4),173,162,4,,1642286,,1611661325,63,51,0,3
+02:51,[IND] Boston Foul: Offensive (3 PF),-143,255,6,203825,1641648,1628702,1611661325,63,51,0,3
+02:51,[IND] Boston Turnover : Offensive Foul Turnover (3 TO),-143,255,5,,1641648,1628702,1611661325,63,51,0,3
+02:38,[MIN] Williams Pullup Jump shot: Missed,169,108,2,,1627675,,1611661324,63,51,0,3
+02:34,[IND] Fagbenle Rebound (Off:2 Def:3),169,108,4,,1627701,,1611661325,63,51,0,3
+02:23,[IND 54-63] Clark 3pt Shot: Made (18 PTS),-65,228,1,,1642286,,1611661325,63,54,3,3
+02:12,[MIN] McBride 3pt Shot: Missed,206,96,2,,203825,,1611661324,63,54,0,3
+02:09,[MIN] Carleton Rebound (Off:1 Def:2),206,96,4,,1629524,,1611661324,63,54,0,3
+02:09,[MIN] Carleton Turnaround Jump Shot: Missed,-65,50,2,,1629524,,1611661324,63,54,0,3
+02:08,[IND] Team Rebound,-65,50,4,,0,,1611661325,63,54,0,3
+02:08,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,54,0,3
+02:08,Timeout : Official,0,-80,9,,0,,0,63,54,0,3
+02:08,Instant Replay - Challenge - Overturn Ruling,0,-80,18,,0,,1611661325,63,54,0,3
+02:08,[MIN] McBride Substitution replaced by Hiedeman,0,-80,8,,203825,1629567,1611661324,63,54,0,3
+01:53,[IND] Clark Turnover : Bad Pass (6 TO) Steal:Hines-Allen (1 ST),178,299,5,1628899,1642286,,1611661325,63,54,0,3
+01:49,[MIN 65-54] Williams Running Jump Shot: Made (6 PTS) Assist: Hines-Allen (2 AST),7,94,1,,1627675,1628899,1611661324,65,54,2,3
+01:23,[IND 56-65] Boston Cutting Layup Shot: Made (10 PTS) Assist: Mitchell (1 AST),-5,10,1,,1641648,1628909,1611661325,65,56,2,3
+01:00,[MIN] Hiedeman Turnover : Lost Ball (1 TO) Steal:Clark (1 ST),-71,187,5,1642286,1629567,,1611661324,65,56,0,3
+00:50.3,[IND] Clark Turnover : Traveling (7 TO),132,253,5,,1642286,202764,1611661325,65,56,0,3
+00:41.5,[MIN] Williams Jump Shot: Missed,4,153,2,,1627675,,1611661324,65,56,0,3
+00:38.5,[IND] Boston Rebound (Off:7 Def:5),4,153,4,,1641648,,1611661325,65,56,0,3
+00:30.2,[MIN] Collier Foul: Shooting (3 PF) (2 FTA),15,31,6,1628909,1629483,1629422,1611661324,65,56,0,3
+00:30.2,[IND 57-65] Mitchell Free Throw 1 of 2 (17 PTS),0,-80,3,,1628909,,1611661325,65,57,1,3
+00:30.2,[IND 58-65] Mitchell Free Throw 2 of 2 (18 PTS),0,-80,3,,1628909,,1611661325,65,58,1,3
+00:18.5,[MIN 67-58] Collier Jump Shot: Made (25 PTS) Assist: Williams (4 AST),-140,62,1,,1629483,1627675,1611661324,67,58,2,3
+00:03.3,[IND 60-67] Clark Driving Layup Shot: Made (20 PTS),16,14,1,,1642286,,1611661325,67,60,2,3
+00:00.0,[MIN] Hiedeman 3pt Shot: Missed,-127,472,2,,1629567,,1611661324,67,60,0,3
+00:00.0,[MIN] Team Rebound,-127,472,4,,0,,1611661324,67,60,0,3
+00:00.0,End Period,0,-80,13,,0,,0,67,60,0,3
+10:00,Start Period,0,-80,12,,0,,0,67,60,0,4
+09:43,[IND] Fagbenle Turnover : Bad Pass (1 TO) Steal:Hines-Allen (2 ST),62,183,5,1628899,1627701,,1611661325,67,60,0,4
+09:39,[MIN] Hines-Allen Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-222,120,5,,1628899,202764,1611661324,67,60,0,4
+09:23,[IND] Boston Jump Shot: Missed,-40,167,2,,1641648,,1611661325,67,60,0,4
+09:20,[MIN] Hiedeman Rebound (Off:0 Def:1),-40,167,4,,1629567,,1611661324,67,60,0,4
+09:01,[MIN] Miller Driving Finger Roll Layup Shot: Missed,-22,2,2,,1641649,,1611661324,67,60,0,4
+08:58,[IND] Hull Rebound (Off:0 Def:2),-22,2,4,,1631086,,1611661325,67,60,0,4
+08:53,[IND] Clark 3pt Shot: Missed,-168,170,2,,1642286,,1611661325,67,60,0,4
+08:50,[MIN] Hiedeman Rebound (Off:0 Def:2),-168,170,4,,1629567,,1611661324,67,60,0,4
+08:38,[MIN] Collier Pullup Jump shot: Missed,23,177,2,,1629483,,1611661324,67,60,0,4
+08:35,[MIN] Carleton Rebound (Off:2 Def:2),23,177,4,,1629524,,1611661324,67,60,0,4
+08:31,[MIN] Hines-Allen Cutting Layup Shot: Missed Block: Boston (1 BLK),19,6,2,1641648,1628899,,1611661324,67,60,0,4
+08:27,[MIN] Hiedeman Rebound (Off:1 Def:2),19,6,4,,1629567,,1611661324,67,60,0,4
+08:27,[MIN 69-60] Hines-Allen Layup Shot: Made (4 PTS) Assist: Miller (1 AST),-11,10,1,,1628899,1641649,1611661324,69,60,2,4
+08:12,[IND 62-69] Fagbenle Jump Shot: Made (4 PTS) Assist: Mitchell (2 AST),-138,111,1,,1627701,1628909,1611661325,69,62,2,4
+07:49,[MIN 72-62] Carleton 3pt Shot: Made (16 PTS) Assist: Hines-Allen (3 AST),-154,193,1,,1629524,1628899,1611661324,72,62,3,4
+07:42,[IND 64-72] Hull Cutting Layup Shot: Made (2 PTS) Assist: Clark (6 AST),-21,13,1,,1631086,1642286,1611661325,72,64,2,4
+07:23,[MIN] Carleton Turnover : Bad Pass (1 TO) Steal:Mitchell (1 ST),94,278,5,1628909,1629524,,1611661324,72,64,0,4
+07:21,[MIN] Hiedeman Violation:Kicked Ball,0,-80,7,,1629567,,1611661324,72,64,0,4
+07:21,[MIN] Miller Substitution replaced by Smith,0,-80,8,,1641649,1629501,1611661324,72,64,0,4
+07:21,[IND] Boston Substitution replaced by Dantas,0,-80,8,,1641648,203024,1611661325,72,64,0,4
+07:08,[IND 67-72] Hull 3pt Shot: Made (5 PTS) Assist: Dantas (2 AST),191,139,1,,1631086,203024,1611661325,72,67,3,4
+06:54,[MIN] Hines-Allen Turnover : Bad Pass (2 TO) Steal:Mitchell (2 ST),-189,55,5,1628909,1628899,,1611661324,72,67,0,4
+06:48,[IND] Dantas 3pt Shot: Missed,-11,240,2,,203024,,1611661325,72,67,0,4
+06:46,[MIN] Hines-Allen Rebound (Off:1 Def:1),-11,240,4,,1628899,,1611661324,72,67,0,4
+06:37,[MIN] Carleton Turnover : Out of Bounds - Bad Pass Turnover (2 TO),-145,40,5,,1629524,1628702,1611661324,72,67,0,4
+06:37,Timeout : Regular,0,-80,9,,1611661324,,1611661324,72,67,0,4
+06:37,[MIN] Hiedeman Substitution replaced by Williams,0,-80,8,,1629567,1627675,1611661324,72,67,0,4
+06:37,[MIN] Carleton Substitution replaced by McBride,0,-80,8,,1629524,203825,1611661324,72,67,0,4
+06:16,[IND 69-72] Hull Cutting Layup Shot: Made (7 PTS) Assist: Clark (7 AST),0,0,1,,1631086,1642286,1611661325,72,69,2,4
+06:03,[MIN 74-69] McBride Pullup Jump shot: Made (13 PTS) Assist: Hines-Allen (4 AST),-18,152,1,,203825,1628899,1611661324,74,69,2,4
+05:52,[IND 71-74] Dantas Turnaround Fadeaway shot: Made (8 PTS) Assist: Clark (8 AST),-18,56,1,,203024,1642286,1611661325,74,71,2,4
+05:43,[MIN 76-71] Williams Pullup Jump shot: Made (8 PTS),-131,117,1,,1627675,,1611661324,76,71,2,4
+05:28,[IND] Dantas 3pt Shot: Missed,-86,221,2,,203024,,1611661325,76,71,0,4
+05:25,[MIN] Williams Rebound (Off:0 Def:3),-86,221,4,,1627675,,1611661324,76,71,0,4
+05:17,[MIN 79-71] McBride 3pt Shot: Made (16 PTS) Assist: Williams (5 AST),-145,247,1,,203825,1627675,1611661324,79,71,3,4
+05:15,Timeout : Regular,0,-80,9,,1611661325,,1611661325,79,71,0,4
+05:15,[IND] Fagbenle Substitution replaced by Boston,0,-80,8,,1627701,1641648,1611661325,79,71,0,4
+05:03,[MIN] Smith Foul: Personal (3 PF),29,59,6,203024,1629501,1628702,1611661324,79,71,0,4
+04:51,[IND] Boston Turnover : Lost Ball (4 TO) Steal:Hines-Allen (3 ST),67,182,5,1628899,1641648,,1611661325,79,71,0,4
+04:31,[MIN 82-71] McBride 3pt Shot: Made (19 PTS) Assist: Williams (6 AST),-143,250,1,,203825,1627675,1611661324,82,71,3,4
+04:31,[IND] Clark Foul: Shooting (3 PF) (1 FTA),-143,250,6,203825,1642286,202764,1611661325,82,71,0,4
+04:31,[MIN] McBride Free Throw 1 of 1 Missed,0,-80,3,,203825,,1611661324,82,71,0,4
+04:27,[IND] Mitchell Rebound (Off:2 Def:2),0,-80,4,,1628909,,1611661325,82,71,0,4
+04:10,[IND] Dantas Fadeaway Jump Shot: Missed,32,97,2,,203024,,1611661325,82,71,0,4
+04:07,[MIN] Smith Rebound (Off:2 Def:1),32,97,4,,1629501,,1611661324,82,71,0,4
+03:56,[MIN 84-71] Collier Turnaround Fadeaway shot: Made (27 PTS) Assist: McBride (4 AST),-17,88,1,,1629483,203825,1611661324,84,71,2,4
+03:51,[MIN] McBride Foul: Personal (2 PF),92,172,6,1642286,203825,1628702,1611661324,84,71,0,4
+03:47,[IND] Mitchell 3pt Shot: Missed,129,224,2,,1628909,,1611661325,84,71,0,4
+03:43,[MIN] Smith Rebound (Off:2 Def:2),129,224,4,,1629501,,1611661324,84,71,0,4
+03:23,[MIN 86-71] Collier Turnaround Jump Shot: Made (29 PTS) Assist: Smith (5 AST),107,77,1,,1629483,1629501,1611661324,86,71,2,4
+03:04,[IND 73-86] Mitchell Driving Finger Roll Layup Shot: Made (20 PTS),-16,-3,1,,1628909,,1611661325,86,73,2,4
+03:04,[MIN] Smith Foul: Shooting (4 PF) (1 FTA),-16,-3,6,1628909,1629501,1628702,1611661324,86,73,0,4
+03:04,[IND 74-86] Mitchell Free Throw 1 of 1 (21 PTS),0,-80,3,,1628909,,1611661325,86,74,1,4
+03:04,Timeout : Regular,0,-80,9,,1611661324,,1611661324,86,74,0,4
+02:51,[MIN] McBride Driving Finger Roll Layup Shot: Missed,-13,3,2,,203825,,1611661324,86,74,0,4
+02:47,[IND] Boston Rebound (Off:7 Def:6),-13,3,4,,1641648,,1611661325,86,74,0,4
+02:40,[IND] Mitchell 3pt Shot: Missed,-26,247,2,,1628909,,1611661325,86,74,0,4
+02:38,[MIN] Team Rebound,-26,247,4,,0,,1611661324,86,74,0,4
+02:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,86,74,0,4
+02:24,[MIN] McBride Turnover : Step Out of Bounds Turnover (2 TO),84,-1,5,,203825,,1611661324,86,74,0,4
+02:11,[IND] Dantas 3pt Shot: Missed,213,63,2,,203024,,1611661325,86,74,0,4
+02:08,[MIN] Williams Rebound (Off:0 Def:4),213,63,4,,1627675,,1611661324,86,74,0,4
+01:47,[IND] Hull Foul: Shooting (1 PF) (2 FTA),-31,10,6,1629483,1631086,1629422,1611661325,86,74,0,4
+01:47,[MIN 87-74] Collier Free Throw 1 of 2 (30 PTS),0,-80,3,,1629483,,1611661324,87,74,1,4
+01:47,[MIN] Collier Free Throw 2 of 2 Missed,0,-80,3,,1629483,,1611661324,87,74,0,4
+01:43,[MIN] Collier Rebound (Off:2 Def:2),0,-80,4,,1629483,,1611661324,87,74,0,4
+01:34,[MIN 89-74] Williams Pullup Jump shot: Made (10 PTS),30,194,1,,1627675,,1611661324,89,74,2,4
+01:20,[IND] Dantas 3pt Shot: Missed,226,31,2,,203024,,1611661325,89,74,0,4
+01:16,[IND] Dantas Rebound (Off:1 Def:3),226,31,4,,203024,,1611661325,89,74,0,4
+01:13,[IND 77-89] Hull 3pt Shot: Made (10 PTS) Assist: Mitchell (3 AST),-216,91,1,,1631086,1628909,1611661325,89,77,3,4
+00:52.7,[MIN] McBride 3pt Shot: Missed,219,39,2,,203825,,1611661324,89,77,0,4
+00:50.1,[IND] Boston Rebound (Off:7 Def:7),219,39,4,,1641648,,1611661325,89,77,0,4
+00:44.4,[IND 79-89] Clark Running Layup Shot: Made (22 PTS),9,15,1,,1642286,,1611661325,89,79,2,4
+00:44.4,[MIN] McBride Foul: Shooting (3 PF) (1 FTA),9,15,6,1642286,203825,1629422,1611661324,89,79,0,4
+00:44.4,[IND 80-89] Clark Free Throw 1 of 1 (23 PTS),0,-80,3,,1642286,,1611661325,89,80,1,4
+00:44.4,Timeout : Reset,0,-80,9,,1611661324,,1611661324,89,80,0,4
+00:42.7,[IND] Clark Foul: Personal Take (4 PF) (2 FTA),23,273,6,1629483,1642286,1628702,1611661325,89,80,0,4
+00:42.7,[MIN] Collier Free Throw 1 of 2 Missed,0,-80,3,,1629483,,1611661324,89,80,0,4
+00:42.7,[MIN] Team Rebound,0,-80,4,,0,,1611661324,89,80,0,4
+00:42.7,[MIN 90-80] Collier Free Throw 2 of 2 (31 PTS),0,-80,3,,1629483,,1611661324,90,80,1,4
+00:42.7,Timeout : Reset,0,-80,9,,1611661325,,1611661325,90,80,0,4
+00:29.2,[IND] Mitchell Driving Floating Jump Shot: Missed,85,22,2,,1628909,,1611661325,90,80,0,4
+00:25.9,[MIN] Collier Rebound (Off:2 Def:3),13,16,4,,1629483,,1611661324,90,80,0,4
+00:22.2,[IND] Hull Foul: Personal (2 PF) (2 FTA),-167,368,6,1629483,1631086,1629422,1611661325,90,80,0,4
+00:22.2,[MIN] Collier Free Throw 1 of 2 Missed,0,-80,3,,1629483,,1611661324,90,80,0,4
+00:22.2,[MIN] Team Rebound,0,-80,4,,0,,1611661324,90,80,0,4
+00:22.2,[MIN] Collier Free Throw 2 of 2 Missed,0,-80,3,,1629483,,1611661324,90,80,0,4
+00:22.2,[IND] Boston Rebound (Off:7 Def:8),0,-80,4,,1641648,,1611661325,90,80,0,4
+00:00.0,End Period,0,-80,13,,0,,0,90,80,0,4

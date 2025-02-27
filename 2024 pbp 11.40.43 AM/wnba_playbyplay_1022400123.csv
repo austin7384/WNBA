@@ -1,0 +1,372 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,points,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,0,1
+10:00,[CON] Jones Violation:Jump Ball,0,-80,7,,1628280,,1611661323,0,0,0,1
+10:00,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,0,0,0,1
+09:48,[ATL] Gray Driving Layup Shot: Missed,-44,37,2,,1628277,,1611661330,0,0,0,1
+09:47,[CON] Bonner Rebound (Off:0 Def:1),-44,37,4,,201886,,1611661323,0,0,0,1
+09:27,[CON 2-0] Thomas Reverse Layup Shot: Made (2 PTS) Assist: Jones (1 AST),10,-2,1,,203826,1628280,1611661323,2,0,2,1
+09:07,[ATL 2-2] Coffey Turnaround Jump Shot: Made (2 PTS) Assist: Caldwell (1 AST),72,49,1,,1628269,1630471,1611661330,2,2,2,1
+08:52,[CON] Harris Turnover : Bad Pass (1 TO) Steal:Caldwell (1 ST),200,159,5,1630471,1630112,,1611661323,2,2,0,1
+08:39,[ATL 4-2] Coffey Pullup Jump shot: Made (4 PTS) Assist: Charles (1 AST),-112,167,1,,1628269,202250,1611661330,2,4,2,1
+08:23,[CON] Carrington 3pt Shot: Missed,189,176,2,,1630096,,1611661323,2,4,0,1
+08:22,[ATL] Coffey Rebound (Off:0 Def:1),189,176,4,,1628269,,1611661330,2,4,0,1
+08:06,[ATL] Charles 3pt Shot: Missed,144,201,2,,202250,,1611661330,2,4,0,1
+08:05,[CON] Carrington Rebound (Off:0 Def:1),144,201,4,,1630096,,1611661323,2,4,0,1
+07:56,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Coffey (1 ST),-56,36,5,1628269,1628280,,1611661323,2,4,0,1
+07:54,Jump Ball Coffey vs Jones (Charles gains possession),0,-80,10,1628280,1628269,202250,1611661330,2,4,0,1
+07:46,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),-11,11,6,1628269,203826,200431,1611661323,2,4,0,1
+07:46,[ATL 5-2] Coffey Free Throw 1 of 2 (5 PTS),0,-80,3,,1628269,,1611661330,2,5,1,1
+07:46,[ATL 6-2] Coffey Free Throw 2 of 2 (6 PTS),0,-80,3,,1628269,,1611661330,2,6,1,1
+07:33,[ATL] Gray Foul: Shooting (1 PF) (2 FTA),57,63,6,1630096,1628277,202764,1611661330,2,6,0,1
+07:33,[CON 3-6] Carrington Free Throw 1 of 2 (1 PTS),0,-80,3,,1630096,,1611661323,3,6,1,1
+07:33,[CON 4-6] Carrington Free Throw 2 of 2 (2 PTS),0,-80,3,,1630096,,1611661323,4,6,1,1
+07:08,[ATL] Charles Turnaround Fadeaway shot: Missed,-31,93,2,,202250,,1611661330,4,6,0,1
+07:07,[CON] Bonner Rebound (Off:0 Def:2),-31,93,4,,201886,,1611661323,4,6,0,1
+06:49,[CON] Jones Jump Shot: Missed,-26,16,2,,1628280,,1611661323,4,6,0,1
+06:49,[ATL] Team Rebound,-26,16,4,,0,,1611661330,4,6,0,1
+06:49,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,6,0,1
+06:38,[ATL] Caldwell 3pt Shot: Missed,186,139,2,,1630471,,1611661330,4,6,0,1
+06:37,[CON] Thomas Rebound (Off:0 Def:1),186,139,4,,203826,,1611661323,4,6,0,1
+06:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,4,6,0,1
+06:15,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,4,6,0,1
+06:15,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,4,6,0,1
+06:12,[CON] Harris Driving Floating Jump Shot: Missed,38,64,2,,1630112,,1611661323,4,6,0,1
+06:11,[CON] Jones Rebound (Off:1 Def:0),38,64,4,,1628280,,1611661323,4,6,0,1
+06:06,[CON 6-6] Jones Putback Layup Shot: Made (2 PTS),1,6,1,,1628280,,1611661323,6,6,2,1
+05:46,[ATL 9-6] Gray 3pt Shot: Made (3 PTS) Assist: Hillmon (1 AST),160,187,1,,1628277,1631044,1611661330,6,9,3,1
+05:30,[ATL] Jones Foul: Personal (1 PF),44,5,6,203826,1641650,200431,1611661330,6,9,0,1
+05:18,[CON] Thomas Driving Layup Shot: Missed,22,-1,2,,203826,,1611661323,6,9,0,1
+05:17,[CON] Team Rebound,22,-1,4,,0,,1611661323,6,9,0,1
+05:17,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,9,0,1
+05:15,[CON] Bonner Jump Shot: Missed,-63,-3,2,,201886,,1611661323,6,9,0,1
+05:15,[CON] Carrington Rebound (Off:1 Def:1),-63,-3,4,,1630096,,1611661323,6,9,0,1
+05:03,[ATL] Caldwell Foul: Shooting (1 PF) (2 FTA),-28,-5,6,201886,1630471,100274,1611661330,6,9,0,1
+05:03,[CON 7-9] Bonner Free Throw 1 of 2 (1 PTS),0,-80,3,,201886,,1611661323,7,9,1,1
+05:03,[CON 8-9] Bonner Free Throw 2 of 2 (2 PTS),0,-80,3,,201886,,1611661323,8,9,1,1
+04:49,[ATL] Gray 3pt Shot: Missed,116,225,2,,1628277,,1611661330,8,9,0,1
+04:48,[CON] Thomas Rebound (Off:0 Def:2),116,225,4,,203826,,1611661323,8,9,0,1
+04:35,[CON] Carrington Driving Layup Shot: Missed,5,24,2,,1630096,,1611661323,8,9,0,1
+04:33,[ATL] Gray Rebound (Off:0 Def:1),5,24,4,,1628277,,1611661330,8,9,0,1
+04:30,[ATL 11-8] Hillmon Running Layup Shot: Made (2 PTS) Assist: Gray (1 AST),6,11,1,,1631044,1628277,1611661330,8,11,2,1
+04:16,[ATL] Caldwell Foul: Personal (2 PF),78,64,6,201886,1630471,202764,1611661330,8,11,0,1
+04:16,Timeout : Official,0,-80,9,,0,,0,8,11,0,1
+04:16,[CON] Carrington Substitution replaced by Mitchell,0,-80,8,,1630096,1627676,1611661323,8,11,0,1
+04:16,[ATL] Caldwell Substitution replaced by Coffey,0,-80,8,,1630471,1628269,1611661330,8,11,0,1
+04:11,[CON] Bonner Cutting Layup Shot: Missed Block: Charles (1 BLK),-16,-6,2,202250,201886,,1611661323,8,11,0,1
+04:10,[CON] Team Rebound,-16,-6,4,,0,,1611661323,8,11,0,1
+04:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,8,11,0,1
+04:09,[CON 10-11] Harris Jump Shot: Made (2 PTS) Assist: Thomas (1 AST),-136,28,1,,1630112,203826,1611661323,10,11,2,1
+03:49,[ATL] Charles Hook Shot: Missed,-10,37,2,,202250,,1611661330,10,11,0,1
+03:48,[CON] Thomas Rebound (Off:0 Def:3),-10,37,4,,203826,,1611661323,10,11,0,1
+03:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,10,11,0,1
+03:36,[CON] Jones Layup Shot: Missed,26,6,2,,1628280,,1611661323,10,11,0,1
+03:36,[ATL] Charles Rebound (Off:0 Def:1),26,6,4,,202250,,1611661330,10,11,0,1
+03:18,[ATL] Gray Pullup Jump shot: Missed,154,136,2,,1628277,,1611661330,10,11,0,1
+03:13,[CON] Bonner Rebound (Off:0 Def:3),154,136,4,,201886,,1611661323,10,11,0,1
+03:07,[CON 13-11] Mitchell 3pt Shot: Made (3 PTS) Assist: Thomas (2 AST),195,140,1,,1627676,203826,1611661323,13,11,3,1
+02:46,[ATL] Hillmon Turnover : Lost Ball (1 TO) Steal:Thomas (1 ST),66,290,5,203826,1631044,,1611661330,13,11,0,1
+02:44,[ATL] Hillmon Foul: Shooting (1 PF) (2 FTA),-4,8,6,203826,1631044,202764,1611661330,13,11,0,1
+02:44,[CON 14-11] Thomas Free Throw 1 of 2 (3 PTS),0,-80,3,,203826,,1611661323,14,11,1,1
+02:44,[CON] Jones Substitution replaced by Nelson-Ododa,0,-80,8,,1628280,1631135,1611661323,14,11,0,1
+02:44,[ATL] Jones Substitution replaced by Cubaj,0,-80,8,,1641650,1631032,1611661330,14,11,0,1
+02:44,[ATL] Charles Substitution replaced by Henderson,0,-80,8,,202250,1631089,1611661330,14,11,0,1
+02:44,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,14,11,0,1
+02:42,[ATL] Hillmon Rebound (Off:0 Def:1),0,-80,4,,1631044,,1611661330,14,11,0,1
+02:29,[ATL] Gray Foul: Offensive (2 PF),163,335,6,1627676,1628277,100274,1611661330,14,11,0,1
+02:29,[ATL] Gray Turnover : Offensive Foul Turnover (1 TO),163,335,5,,1628277,100274,1611661330,14,11,0,1
+02:20,[CON 17-11] Bonner 3pt Shot: Made (5 PTS) Assist: Thomas (3 AST),-189,165,1,,201886,203826,1611661323,17,11,3,1
+01:54,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,17,11,0,1
+01:54,[CON] Harris Substitution replaced by Burton,0,-80,8,,1630112,1631007,1611661323,17,11,0,1
+01:52,[ATL] Team Turnover : Shot Clock Turnover,202,231,5,,0,100274,1611661330,17,11,0,1
+01:34,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Gray (1 ST),-140,20,5,1628277,203826,,1611661323,17,11,0,1
+01:31,[CON] Burton Foul: Personal (1 PF),-139,309,6,1628269,1631007,200431,1611661323,17,11,0,1
+01:17,[ATL 14-17] Coffey 3pt Shot: Made (9 PTS) Assist: Cubaj (1 AST),189,169,1,,1628269,1631032,1611661330,17,14,3,1
+01:03,[ATL] Henderson Violation:Kicked Ball,0,-80,7,,1631089,,1611661330,17,14,0,1
+00:55.5,[CON 20-14] Bonner 3pt Shot: Made (8 PTS),-169,192,1,,201886,,1611661323,20,14,3,1
+00:33.4,[ATL] Cubaj Cutting Layup Shot: Missed,-10,10,2,,1631032,,1611661330,20,14,0,1
+00:31.2,[CON] Burton Rebound (Off:0 Def:1),-10,10,4,,1631007,,1611661323,20,14,0,1
+00:23.3,[CON] Mitchell Pullup Jump shot: Missed,-119,27,2,,1627676,,1611661323,20,14,0,1
+00:21.6,[ATL] Gray Rebound (Off:0 Def:2),-119,27,4,,1628277,,1611661330,20,14,0,1
+00:17.5,[ATL 16-20] Gray Running Layup Shot: Made (5 PTS),-6,2,1,,1628277,,1611661330,20,16,2,1
+00:00.0,[CON] Burton Step Back Jump shot: Missed,144,173,2,,1631007,,1611661323,20,16,0,1
+00:00.0,[CON] Team Rebound,144,173,4,,0,,1611661323,20,16,0,1
+00:00.0,End Period,0,-80,13,,0,,0,20,16,0,1
+10:00,Start Period,0,-80,12,,0,,0,20,16,0,2
+09:45,[CON] Carrington Turnover : Traveling (1 TO),10,73,5,,1630096,100274,1611661323,20,16,0,2
+09:30,[ATL] Coffey Driving Layup Shot: Missed,-3,21,2,,1628269,,1611661330,20,16,0,2
+09:30,[ATL] Amihere Rebound (Off:1 Def:0),-3,21,4,,1641656,,1611661330,20,16,0,2
+09:28,[ATL] Amihere Putback Layup Shot: Missed,-4,11,2,,1641656,,1611661330,20,16,0,2
+09:28,[CON] Mitchell Rebound (Off:0 Def:1),-4,11,4,,1627676,,1611661323,20,16,0,2
+09:12,[CON] Nelson-Ododa Step Back Jump shot: Missed,-12,33,2,,1631135,,1611661323,20,16,0,2
+09:12,[ATL] Henderson Rebound (Off:0 Def:1),-12,33,4,,1631089,,1611661330,20,16,0,2
+09:01,[ATL] Amihere Turnover : Traveling (1 TO),28,90,5,,1641656,202764,1611661330,20,16,0,2
+08:39,[CON] Carrington Driving Reverse Layup Shot: Missed,-19,1,2,,1630096,,1611661323,20,16,0,2
+08:35,[CON] Nelson-Ododa Rebound (Off:1 Def:0),-19,1,4,,1631135,,1611661323,20,16,0,2
+08:35,[CON] Nelson-Ododa Putback Layup Shot: Missed,11,3,2,,1631135,,1611661323,20,16,0,2
+08:33,[ATL] Cubaj Rebound (Off:0 Def:1),11,3,4,,1631032,,1611661330,20,16,0,2
+08:14,[ATL] Henderson Driving Floating Bank Jump Shot: Missed,-57,38,2,,1631089,,1611661330,20,16,0,2
+08:14,[CON] Burton Rebound (Off:0 Def:2),-57,38,4,,1631007,,1611661323,20,16,0,2
+08:07,[CON] Bonner 3pt Shot: Missed,-217,119,2,,201886,,1611661323,20,16,0,2
+08:06,[ATL] Team Rebound,-217,119,4,,0,,1611661330,20,16,0,2
+08:04,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,20,16,0,2
+07:39,[ATL] Amihere Turnover : Lost Ball (2 TO) Steal:Bonner (1 ST),-101,98,5,201886,1641656,,1611661330,20,16,0,2
+07:30,[CON] Nelson-Ododa Substitution replaced by Jones,0,-80,8,,1631135,1628280,1611661323,20,16,0,2
+07:30,[ATL] Cubaj Substitution replaced by Charles,0,-80,8,,1631032,202250,1611661330,20,16,0,2
+07:30,Jump Ball Carrington vs Caldwell (Bonner gains possession),0,-80,10,1630471,1630096,201886,1611661323,20,16,0,2
+07:19,[ATL] Amihere Foul: Personal (1 PF),-81,37,6,1628280,1641656,100274,1611661330,20,16,0,2
+07:13,[CON] Jones Turnover : Traveling (2 TO),-68,8,5,,1628280,100274,1611661323,20,16,0,2
+07:13,[CON] Mitchell Substitution replaced by Harris,0,-80,8,,1627676,1630112,1611661323,20,16,0,2
+06:49,[ATL] Caldwell Turnover : Double Dribble (1 TO),54,307,5,,1630471,202764,1611661330,20,16,0,2
+06:36,[ATL] Amihere Foul: Personal (2 PF),-39,-3,6,1628280,1641656,202764,1611661330,20,16,0,2
+06:36,[ATL] Amihere Substitution replaced by Hillmon,0,-80,8,,1641656,1631044,1611661330,20,16,0,2
+06:36,[ATL] Henderson Substitution replaced by Jones,0,-80,8,,1631089,1641650,1611661330,20,16,0,2
+06:25,[ATL] Jones Foul: Shooting (2 PF) (2 FTA),6,-5,6,1630112,1641650,200431,1611661330,20,16,0,2
+06:25,[CON] Harris Free Throw 1 of 2 Missed,0,-80,3,,1630112,,1611661323,20,16,0,2
+06:25,[CON] Team Rebound,0,-80,4,,0,,1611661323,20,16,0,2
+06:25,[CON] Harris Free Throw 2 of 2 Missed,0,-80,3,,1630112,,1611661323,20,16,0,2
+06:24,[CON] Jones Rebound (Off:2 Def:0),0,-80,4,,1628280,,1611661323,20,16,0,2
+06:24,[CON 22-16] Jones Putback Layup Shot: Made (4 PTS),0,-5,1,,1628280,,1611661323,22,16,2,2
+06:05,[ATL 18-22] Charles Driving Hook Shot: Made (2 PTS),18,48,1,,202250,,1611661330,22,18,2,2
+05:53,[CON] Harris 3pt Shot: Missed,-189,148,2,,1630112,,1611661323,22,18,0,2
+05:52,[ATL] Coffey Rebound (Off:0 Def:2),-189,148,4,,1628269,,1611661330,22,18,0,2
+05:42,[ATL] Charles Turnaround Jump Shot: Missed,-50,145,2,,202250,,1611661330,22,18,0,2
+05:41,[CON] Carrington Rebound (Off:1 Def:2),-50,145,4,,1630096,,1611661323,22,18,0,2
+05:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,22,18,0,2
+05:40,Timeout : Regular,0,-80,9,,1611661323,,1611661323,22,18,0,2
+05:40,[CON] Bonner Substitution replaced by Thomas,0,-80,8,,201886,203826,1611661323,22,18,0,2
+05:40,[ATL] Caldwell Substitution replaced by Gray,0,-80,8,,1630471,1628277,1611661330,22,18,0,2
+05:25,[CON] Burton 3pt Shot: Missed,-218,117,2,,1631007,,1611661323,22,18,0,2
+05:23,[CON] Thomas Rebound (Off:1 Def:3),-218,117,4,,203826,,1611661323,22,18,0,2
+05:18,[CON] Harris 3pt Shot: Missed,207,121,2,,1630112,,1611661323,22,18,0,2
+05:17,[CON] Carrington Rebound (Off:2 Def:2),207,121,4,,1630096,,1611661323,22,18,0,2
+05:17,[CON 24-18] Carrington Putback Layup Shot: Made (4 PTS),0,4,1,,1630096,,1611661323,24,18,2,2
+04:54,[ATL 20-24] Gray Pullup Jump shot: Made (7 PTS) Assist: Charles (2 AST),-68,55,1,,1628277,202250,1611661330,24,20,2,2
+04:29,[CON 27-20] Burton 3pt Shot: Made (3 PTS) Assist: Carrington (1 AST),-222,53,1,,1631007,1630096,1611661323,27,20,3,2
+04:12,[ATL] Charles Jump Shot: Missed,-79,172,2,,202250,,1611661330,27,20,0,2
+04:11,[CON] Carrington Rebound (Off:2 Def:3),-79,172,4,,1630096,,1611661323,27,20,0,2
+03:49,[CON 29-20] Jones Layup Shot: Made (6 PTS) Assist: Thomas (4 AST),13,-6,1,,1628280,203826,1611661323,29,20,2,2
+03:47,Timeout : Regular,0,-80,9,,1611661330,,1611661330,29,20,0,2
+03:22,[ATL] Team Turnover : Shot Clock Turnover,-13,109,5,,0,202764,1611661330,29,20,0,2
+02:57,[CON] Team Turnover : Shot Clock Turnover,101,144,5,,0,202764,1611661323,29,20,0,2
+02:47,[CON] Harris Substitution replaced by Bonner,0,-80,8,,1630112,201886,1611661323,29,20,0,2
+02:47,[CON] Carrington Foul: Personal (1 PF),-163,227,6,1628269,1630096,202764,1611661323,29,20,0,2
+02:47,Timeout : Regular,0,-80,9,,1611661323,,1611661323,29,20,0,2
+02:47,Instant Replay - Challenge - Support Ruling,0,-80,18,,0,,1611661323,29,20,0,2
+02:44,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,29,20,0,2
+02:44,Stoppage: Court Cleanup,0,-80,20,,0,,0,29,20,0,2
+02:32,[ATL] Team Turnover : Shot Clock Turnover,-12,16,5,,0,200431,1611661330,29,20,0,2
+02:23,[CON] Thomas Pullup Jump shot: Missed Block: Charles (2 BLK),27,62,2,202250,203826,,1611661323,29,20,0,2
+02:22,[ATL] Charles Rebound (Off:0 Def:2),27,62,4,,202250,,1611661330,29,20,0,2
+02:07,[ATL] Gray Fadeaway Jump Shot: Missed,68,32,2,,1628277,,1611661330,29,20,0,2
+02:07,[CON] Carrington Rebound (Off:2 Def:4),68,32,4,,1630096,,1611661323,29,20,0,2
+01:58,[CON] Bonner 3pt Shot: Missed,217,140,2,,201886,,1611661323,29,20,0,2
+01:56,[CON] Jones Rebound (Off:3 Def:0),217,140,4,,1628280,,1611661323,29,20,0,2
+01:44,[CON 32-20] Bonner 3pt Shot: Made (11 PTS) Assist: Thomas (5 AST),222,75,1,,201886,203826,1611661323,32,20,3,2
+01:33,[ATL] Jones Driving Layup Shot: Missed,-48,37,2,,1641650,,1611661330,32,20,0,2
+01:30,[CON] Jones Rebound (Off:3 Def:1),-48,37,4,,1628280,,1611661323,32,20,0,2
+01:19,[CON] Carrington 3pt Shot: Missed,233,19,2,,1630096,,1611661323,32,20,0,2
+01:15,[CON] Burton Rebound (Off:1 Def:2),233,19,4,,1631007,,1611661323,32,20,0,2
+01:05,[CON] Jones Jump Shot: Missed,-150,86,2,,1628280,,1611661323,32,20,0,2
+01:05,[CON] Burton Rebound (Off:2 Def:2),-150,86,4,,1631007,,1611661323,32,20,0,2
+01:01,[CON] Team Turnover : Shot Clock Turnover,93,8,5,,0,100274,1611661323,32,20,0,2
+00:44.0,[ATL 22-32] Gray Pullup Jump shot: Made (9 PTS) Assist: Charles (3 AST),-98,118,1,,1628277,202250,1611661330,32,22,2,2
+00:29.1,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,32,22,0,2
+00:24.9,[CON] Carrington Layup Shot: Missed,-21,17,2,,1630096,,1611661323,32,22,0,2
+00:21.7,[CON] Thomas Rebound (Off:2 Def:3),-21,17,4,,203826,,1611661323,32,22,0,2
+00:15.9,[CON 34-22] Jones Jump Shot: Made (8 PTS) Assist: Bonner (1 AST),-139,-15,1,,1628280,201886,1611661323,34,22,2,2
+00:05.7,[ATL 24-34] Jones Pullup Jump shot: Made (2 PTS),-3,168,1,,1641650,,1611661330,34,24,2,2
+00:00.1,[CON] Burton Driving Floating Jump Shot: Missed,4,130,2,,1631007,,1611661323,34,24,0,2
+00:00.1,[CON] Team Rebound,4,130,4,,0,,1611661323,34,24,0,2
+00:00.0,End Period,0,-80,13,,0,,0,34,24,0,2
+10:00,Start Period,0,-80,12,,0,,0,34,24,0,3
+09:37,[ATL] Jones Foul: Shooting (3 PF) (2 FTA),-29,71,6,1628280,1641650,202764,1611661330,34,24,0,3
+09:37,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1628280,,1611661323,34,24,0,3
+09:37,[CON] Team Rebound,0,-80,4,,0,,1611661323,34,24,0,3
+09:37,[CON 35-24] Jones Free Throw 2 of 2 (9 PTS),0,-80,3,,1628280,,1611661323,35,24,1,3
+09:19,[ATL] Charles Fadeaway Jump Shot: Missed,-107,31,2,,202250,,1611661330,35,24,0,3
+09:18,[ATL] Team Rebound,-107,31,4,,0,,1611661330,35,24,0,3
+09:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,35,24,0,3
+09:14,[ATL 26-35] Gray Pullup Jump shot: Made (11 PTS) Assist: Charles (4 AST),-147,-5,1,,1628277,202250,1611661330,35,26,2,3
+08:53,[CON 37-26] Thomas Layup Shot: Made (5 PTS) Assist: Jones (2 AST),10,6,1,,203826,1628280,1611661323,37,26,2,3
+08:30,[CON] Carrington Foul: Flagrant Type 1 (2 PF) (2 FTA),16,0,6,1628277,1630096,202764,1611661323,37,26,0,3
+08:30,Instant Replay - Overturn Ruling,0,-80,18,,0,,0,37,26,0,3
+08:30,[ATL 27-37] Gray Free Throw Flagrant 1 of 2 (12 PTS),0,-80,3,,1628277,,1611661330,37,27,1,3
+08:30,[ATL 28-37] Gray Free Throw Flagrant 2 of 2 (13 PTS),0,-80,3,,1628277,,1611661330,37,28,1,3
+08:24,[ATL 30-37] Charles Driving Layup Shot: Made (4 PTS) Assist: Caldwell (2 AST),13,3,1,,202250,1630471,1611661330,37,30,2,3
+07:57,[CON 40-30] Carrington 3pt Shot: Made (7 PTS) Assist: Jones (3 AST),199,151,1,,1630096,1628280,1611661323,40,30,3,3
+07:41,[ATL] Caldwell Turnover : Traveling (2 TO),-107,247,5,,1630471,202764,1611661330,40,30,0,3
+07:21,[CON] Jones Jump Shot: Missed,136,31,2,,1628280,,1611661323,40,30,0,3
+07:20,[ATL] Gray Rebound (Off:0 Def:3),136,31,4,,1628277,,1611661330,40,30,0,3
+07:10,[ATL 32-40] Gray Running Layup Shot: Made (15 PTS),-10,1,1,,1628277,,1611661330,40,32,2,3
+06:55,[CON 42-32] Thomas Layup Shot: Made (7 PTS) Assist: Carrington (2 AST),12,7,1,,203826,1630096,1611661323,42,32,2,3
+06:46,[ATL 34-42] Gray Driving Layup Shot: Made (17 PTS),5,-2,1,,1628277,,1611661330,42,34,2,3
+06:37,[CON 44-34] Harris Driving Layup Shot: Made (4 PTS),1,8,1,,1630112,,1611661323,44,34,2,3
+06:37,[ATL] Coffey Foul: Shooting (1 PF) (1 FTA),1,8,6,1630112,1628269,202764,1611661330,44,34,0,3
+06:37,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,44,34,0,3
+06:37,[CON] Harris Free Throw 1 of 1 Missed,0,-80,3,,1630112,,1611661323,44,34,0,3
+06:36,[ATL] Hillmon Rebound (Off:0 Def:2),0,-80,4,,1631044,,1611661330,44,34,0,3
+06:24,[ATL] Charles Turnaround Fadeaway shot: Missed,120,6,2,,202250,,1611661330,44,34,0,3
+06:21,[CON] Thomas Rebound (Off:2 Def:4),120,6,4,,203826,,1611661323,44,34,0,3
+06:16,[ATL] Charles Foul: Personal (1 PF),-85,82,6,1628280,202250,200431,1611661330,44,34,0,3
+05:57,[CON 46-34] Harris Pullup Jump shot: Made (6 PTS),30,212,1,,1630112,,1611661323,46,34,2,3
+05:43,[CON] Jones Foul: Shooting (1 PF) (2 FTA),-27,10,6,1628277,1628280,202764,1611661323,46,34,0,3
+05:43,[ATL 35-46] Gray Free Throw 1 of 2 (18 PTS),0,-80,3,,1628277,,1611661330,46,35,1,3
+05:43,[ATL 36-46] Gray Free Throw 2 of 2 (19 PTS),0,-80,3,,1628277,,1611661330,46,36,1,3
+05:29,[ATL] Hillmon Foul: Shooting (2 PF) (2 FTA),23,12,6,1630096,1631044,202764,1611661330,46,36,0,3
+05:29,[CON 47-36] Carrington Free Throw 1 of 2 (8 PTS),0,-80,3,,1630096,,1611661323,47,36,1,3
+05:29,[CON 48-36] Carrington Free Throw 2 of 2 (9 PTS),0,-80,3,,1630096,,1611661323,48,36,1,3
+05:05,[ATL 39-48] Charles 3pt Shot: Made (7 PTS) Assist: Gray (2 AST),112,205,1,,202250,1628277,1611661330,48,39,3,3
+04:51,[CON] Harris 3pt Shot: Missed,145,204,2,,1630112,,1611661323,48,39,0,3
+04:50,[ATL] Hillmon Rebound (Off:0 Def:3),145,204,4,,1631044,,1611661330,48,39,0,3
+04:36,[ATL] Charles Turnaround Fadeaway shot: Missed,-16,-2,2,,202250,,1611661330,48,39,0,3
+04:35,[CON] Harris Rebound (Off:0 Def:1),-16,-2,4,,1630112,,1611661323,48,39,0,3
+04:18,[ATL] Charles Foul: Shooting (2 PF) (2 FTA),-6,11,6,1628280,202250,100274,1611661330,48,39,0,3
+04:18,Timeout : Official,0,-80,9,,0,,0,48,39,0,3
+04:18,[CON] Carrington Substitution replaced by Mitchell,0,-80,8,,1630096,1627676,1611661323,48,39,0,3
+04:18,[ATL] Gray Substitution replaced by Coffey,0,-80,8,,1628277,1628269,1611661330,48,39,0,3
+04:18,[CON 49-39] Jones Free Throw 1 of 2 (10 PTS),0,-80,3,,1628280,,1611661323,49,39,1,3
+04:18,[CON 50-39] Jones Free Throw 2 of 2 (11 PTS),0,-80,3,,1628280,,1611661323,50,39,1,3
+04:00,[ATL 41-50] Charles Hook Shot: Made (9 PTS) Assist: Coffey (1 AST),16,26,1,,202250,1628269,1611661330,50,41,2,3
+03:43,[CON 52-41] Harris Pullup Jump shot: Made (8 PTS) Assist: Thomas (6 AST),-111,160,1,,1630112,203826,1611661323,52,41,2,3
+03:26,[ATL] Charles Turnaround Jump Shot: Missed,-29,3,2,,202250,,1611661330,52,41,0,3
+03:26,[CON] Thomas Rebound (Off:2 Def:5),-29,3,4,,203826,,1611661323,52,41,0,3
+03:18,[CON 55-41] Bonner 3pt Shot: Made (14 PTS) Assist: Thomas (7 AST),217,91,1,,201886,203826,1611661323,55,41,3,3
+03:00,[ATL] Jones Floating Jump shot: Missed,-49,25,2,,1641650,,1611661330,55,41,0,3
+03:00,[ATL] Charles Rebound (Off:1 Def:2),-49,25,4,,202250,,1611661330,55,41,0,3
+02:47,[CON] Bonner Foul: Shooting (1 PF) (2 FTA),26,13,6,202250,201886,100274,1611661323,55,41,0,3
+02:47,[ATL 42-55] Charles Free Throw 1 of 2 (10 PTS),0,-80,3,,202250,,1611661330,55,42,1,3
+02:47,[CON] Jones Substitution replaced by Burton,0,-80,8,,1628280,1631007,1611661323,55,42,0,3
+02:47,[CON] Harris Substitution replaced by Nelson-Ododa,0,-80,8,,1630112,1631135,1611661323,55,42,0,3
+02:47,[ATL] Jones Substitution replaced by Henderson,0,-80,8,,1641650,1631089,1611661330,55,42,0,3
+02:47,[ATL 43-55] Charles Free Throw 2 of 2 (11 PTS),0,-80,3,,202250,,1611661330,55,43,1,3
+02:22,[CON 57-43] Mitchell Driving Layup Shot: Made (5 PTS),12,5,1,,1627676,,1611661323,57,43,2,3
+02:10,[ATL 45-57] Charles Driving Layup Shot: Made (13 PTS) Assist: Henderson (1 AST),11,20,1,,202250,1631089,1611661330,57,45,2,3
+01:49,[CON 59-45] Mitchell Pullup Jump shot: Made (7 PTS) Assist: Thomas (8 AST),36,119,1,,1627676,203826,1611661323,59,45,2,3
+01:42,[ATL] Henderson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-143,282,5,,1631089,100274,1611661330,59,45,0,3
+01:42,[ATL] Coffey Substitution replaced by Cubaj,0,-80,8,,1628269,1631032,1611661330,59,45,0,3
+01:42,[ATL] Charles Substitution replaced by Amihere,0,-80,8,,202250,1641656,1611661330,59,45,0,3
+01:29,[CON 62-45] Bonner 3pt Shot: Made (17 PTS) Assist: Thomas (9 AST),189,161,1,,201886,203826,1611661323,62,45,3,3
+01:09,[ATL] Caldwell 3pt Shot: Missed,135,204,2,,1630471,,1611661330,62,45,0,3
+01:08,[CON] Bonner Rebound (Off:0 Def:4),135,204,4,,201886,,1611661323,62,45,0,3
+00:58.5,[CON 65-45] Bonner 3pt Shot: Made (20 PTS) Assist: Burton (1 AST),-167,183,1,,201886,1631007,1611661323,65,45,3,3
+00:58.5,Timeout : Regular,0,-80,9,,1611661330,,1611661330,65,45,0,3
+00:58.5,[CON] Thomas Substitution replaced by Banham,0,-80,8,,203826,1627671,1611661323,65,45,0,3
+00:58.5,[ATL] Team Violation : Delay Of Game,0,-80,7,,0,,1611661330,65,45,0,3
+00:35.2,[ATL 47-65] Cubaj Jump Shot: Made (2 PTS) Assist: Henderson (2 AST),-116,164,1,,1631032,1631089,1611661330,65,47,2,3
+00:17.7,[CON 67-47] Nelson-Ododa Layup Shot: Made (2 PTS) Assist: Banham (1 AST),12,3,1,,1631135,1627671,1611661323,67,47,2,3
+00:05.5,[ATL] Henderson 3pt Shot: Missed,63,226,2,,1631089,,1611661330,67,47,0,3
+00:04.5,[ATL] Amihere Rebound (Off:2 Def:0),63,226,4,,1641656,,1611661330,67,47,0,3
+00:00.9,[CON] Bonner Foul: Shooting (2 PF) (2 FTA),9,1,6,1641656,201886,100274,1611661323,67,47,0,3
+00:00.9,InstantReplay Request Stands,0,-80,18,,0,,0,67,47,0,3
+00:00.9,[ATL 48-67] Amihere Free Throw 1 of 2 (1 PTS),0,-80,3,,1641656,,1611661330,67,48,1,3
+00:00.9,[ATL 49-67] Amihere Free Throw 2 of 2 (2 PTS),0,-80,3,,1641656,,1611661330,67,49,1,3
+00:00.0,End Period,0,-80,13,,0,,0,67,49,0,3
+10:00,Start Period,0,-80,12,,0,,0,67,49,0,4
+09:46,[CON] Nelson-Ododa Foul: Shooting (1 PF) (2 FTA),-10,-2,6,1631044,1631135,202764,1611661323,67,49,0,4
+09:46,[ATL 50-67] Hillmon Free Throw 1 of 2 (3 PTS),0,-80,3,,1631044,,1611661330,67,50,1,4
+09:46,[ATL] Hillmon Free Throw 2 of 2 Missed,0,-80,3,,1631044,,1611661330,67,50,0,4
+09:44,[CON] Mitchell Rebound (Off:0 Def:2),0,-80,4,,1627676,,1611661323,67,50,0,4
+09:28,[ATL] Cubaj Foul: Shooting (1 PF) (2 FTA),16,22,6,1627676,1631032,100274,1611661330,67,50,0,4
+09:28,[CON 68-50] Mitchell Free Throw 1 of 2 (8 PTS),0,-80,3,,1627676,,1611661323,68,50,1,4
+09:28,[CON 69-50] Mitchell Free Throw 2 of 2 (9 PTS),0,-80,3,,1627676,,1611661323,69,50,1,4
+09:10,[ATL] Amihere Driving Floating Jump Shot: Missed Block: Mitchell (1 BLK),-63,90,2,1627676,1641656,,1611661330,69,50,0,4
+09:10,[CON] Mitchell Rebound (Off:0 Def:3),-63,90,4,,1627676,,1611661323,69,50,0,4
+09:04,[CON] Banham 3pt Shot: Missed,-182,151,2,,1627671,,1611661323,69,50,0,4
+09:01,[ATL] Henderson Rebound (Off:0 Def:2),-182,151,4,,1631089,,1611661330,69,50,0,4
+08:56,[CON] Burton Foul: Shooting (2 PF) (2 FTA),-18,-7,6,1631089,1631007,200431,1611661323,69,50,0,4
+08:56,[ATL] Henderson Free Throw 1 of 2 Missed,0,-80,3,,1631089,,1611661330,69,50,0,4
+08:56,[ATL] Team Rebound,0,-80,4,,0,,1611661330,69,50,0,4
+08:56,[ATL] Henderson Free Throw 2 of 2 Missed,0,-80,3,,1631089,,1611661330,69,50,0,4
+08:52,[CON] Nelson-Ododa Rebound (Off:1 Def:1),0,-80,4,,1631135,,1611661323,69,50,0,4
+08:39,[CON] Nelson-Ododa Cutting Layup Shot: Missed,21,7,2,,1631135,,1611661323,69,50,0,4
+08:38,[ATL] Caldwell Rebound (Off:0 Def:1),21,7,4,,1630471,,1611661330,69,50,0,4
+08:30,[CON] Mitchell Violation:Kicked Ball,0,-80,7,,1627676,,1611661323,69,50,0,4
+08:25,[ATL] Caldwell Jump Shot: Missed,167,111,2,,1630471,,1611661330,69,50,0,4
+08:24,[ATL] Team Rebound,167,111,4,,0,,1611661330,69,50,0,4
+08:24,[CON] Nelson-Ododa Foul: Loose Ball (2 PF),117,119,6,1631032,1631135,100274,1611661323,69,50,0,4
+08:24,[ATL] Hillmon Substitution replaced by Coffey,0,-80,8,,1631044,1628269,1611661330,69,50,0,4
+08:15,[ATL] Amihere Driving Layup Shot: Missed,20,8,2,,1641656,,1611661330,69,50,0,4
+08:13,[ATL] Amihere Rebound (Off:3 Def:0),20,8,4,,1641656,,1611661330,69,50,0,4
+08:11,[ATL] Amihere Putback Layup Shot: Missed Block: Bonner (1 BLK),15,4,2,201886,1641656,,1611661330,69,50,0,4
+08:08,[CON] Burton Rebound (Off:2 Def:3),15,4,4,,1631007,,1611661323,69,50,0,4
+08:01,[CON] Burton Layup Shot: Missed Block: Amihere (1 BLK),-3,7,2,1641656,1631007,,1611661323,69,50,0,4
+07:57,[ATL] Caldwell Rebound (Off:0 Def:2),-3,7,4,,1630471,,1611661330,69,50,0,4
+07:55,[ATL] Caldwell Running Layup Shot: Missed,16,10,2,,1630471,,1611661330,69,50,0,4
+07:52,[ATL] Coffey Rebound (Off:1 Def:2),16,10,4,,1628269,,1611661330,69,50,0,4
+07:52,[ATL 52-69] Coffey Driving Layup Shot: Made (11 PTS),21,0,1,,1628269,,1611661330,69,52,2,4
+07:37,[CON] Mitchell 3pt Shot: Missed,219,60,2,,1627676,,1611661323,69,52,0,4
+07:37,[ATL] Cubaj Rebound (Off:0 Def:2),219,60,4,,1631032,,1611661330,69,52,0,4
+07:16,Jump Ball Banham vs Caldwell,0,-80,10,1630471,1627671,,1611661323,69,52,0,4
+07:16,[ATL] Caldwell Turnover : Lost Ball (3 TO) Steal:Banham (1 ST),0,-80,5,1627671,1630471,,1611661330,69,52,0,4
+07:16,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,69,52,0,4
+07:00,[CON 72-52] Bonner 3pt Shot: Made (23 PTS) Assist: Mitchell (1 AST),196,163,1,,201886,1627676,1611661323,72,52,3,4
+06:42,[ATL] Coffey Pullup Jump shot: Missed,-132,137,2,,1628269,,1611661330,72,52,0,4
+06:41,[ATL] Amihere Rebound (Off:4 Def:0),-132,137,4,,1641656,,1611661330,72,52,0,4
+06:39,[CON] Nelson-Ododa Foul: Personal (3 PF),40,30,6,1641656,1631135,200431,1611661323,72,52,0,4
+06:35,[ATL] Caldwell Pullup Jump shot: Missed,-119,137,2,,1630471,,1611661330,72,52,0,4
+06:33,[CON] Nelson-Ododa Rebound (Off:1 Def:2),-119,137,4,,1631135,,1611661323,72,52,0,4
+06:15,[CON] Banham 3pt Shot: Missed,134,230,2,,1627671,,1611661323,72,52,0,4
+06:13,[ATL] Cubaj Rebound (Off:0 Def:3),134,230,4,,1631032,,1611661330,72,52,0,4
+06:03,[ATL 54-72] Henderson Driving Layup Shot: Made (2 PTS),5,8,1,,1631089,,1611661330,72,54,2,4
+05:58,Timeout : Regular,0,-80,9,,1611661323,,1611661323,72,54,0,4
+05:58,[CON] Banham Substitution replaced by Ndour-Fall,0,-80,8,,1627671,203838,1611661323,72,54,0,4
+05:58,[CON] Burton Substitution replaced by Harris,0,-80,8,,1631007,1630112,1611661323,72,54,0,4
+05:58,[CON] Bonner Substitution replaced by Carrington,0,-80,8,,201886,1630096,1611661323,72,54,0,4
+05:38,[CON] Carrington 3pt Shot: Missed,212,114,2,,1630096,,1611661323,72,54,0,4
+05:36,[ATL] Caldwell Rebound (Off:0 Def:3),212,114,4,,1630471,,1611661330,72,54,0,4
+05:24,[ATL] Caldwell Turnover : Bad Pass (4 TO) Steal:Nelson-Ododa (1 ST),-18,127,5,1631135,1630471,,1611661330,72,54,0,4
+05:20,[CON 74-54] Mitchell Running Layup Shot: Made (11 PTS) Assist: Carrington (3 AST),1,10,1,,1627676,1630096,1611661323,74,54,2,4
+04:59,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,74,54,0,4
+04:54,[CON] Carrington Foul: Personal (3 PF) (2 FTA),-134,117,6,1630471,1630096,200431,1611661323,74,54,0,4
+04:54,[ATL 55-74] Caldwell Free Throw 1 of 2 (1 PTS),0,-80,3,,1630471,,1611661330,74,55,1,4
+04:54,[ATL 56-74] Caldwell Free Throw 2 of 2 (2 PTS),0,-80,3,,1630471,,1611661330,74,56,1,4
+04:38,[ATL] Cubaj Foul: Personal (2 PF),189,242,6,1630112,1631032,202764,1611661330,74,56,0,4
+04:28,[CON] Carrington 3pt Shot: Missed,218,113,2,,1630096,,1611661323,74,56,0,4
+04:27,[ATL] Amihere Rebound (Off:4 Def:1),218,113,4,,1641656,,1611661330,74,56,0,4
+04:10,[ATL 58-74] Cubaj Jump Shot: Made (4 PTS) Assist: Henderson (3 AST),184,42,1,,1631032,1631089,1611661330,74,58,2,4
+03:51,[ATL] Caldwell Foul: Shooting (3 PF) (2 FTA),-3,40,6,1627676,1630471,200431,1611661330,74,58,0,4
+03:51,[CON 75-58] Mitchell Free Throw 1 of 2 (12 PTS),0,-80,3,,1627676,,1611661323,75,58,1,4
+03:51,[CON] Harris Substitution replaced by Banham,0,-80,8,,1630112,1627671,1611661323,75,58,0,4
+03:51,[CON] Carrington Substitution replaced by Burton,0,-80,8,,1630096,1631007,1611661323,75,58,0,4
+03:51,[ATL] Coffey Substitution replaced by Hillmon,0,-80,8,,1628269,1631044,1611661330,75,58,0,4
+03:51,[CON 76-58] Mitchell Free Throw 2 of 2 (13 PTS),0,-80,3,,1627676,,1611661323,76,58,1,4
+03:39,[ATL] Henderson 3pt Shot: Missed,-191,144,2,,1631089,,1611661330,76,58,0,4
+03:38,[CON] Team Rebound,-191,144,4,,0,,1611661323,76,58,0,4
+03:38,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,76,58,0,4
+03:21,[CON 78-58] Nelson-Ododa Jump Shot: Made (4 PTS) Assist: Banham (2 AST),113,6,1,,1631135,1627671,1611661323,78,58,2,4
+03:10,[CON] Burton Violation:Kicked Ball,0,-80,7,,1631007,,1611661323,78,58,0,4
+03:03,[ATL] Caldwell Driving Layup Shot: Missed,-12,1,2,,1630471,,1611661330,78,58,0,4
+02:59,[ATL] Amihere Rebound (Off:5 Def:1),-12,1,4,,1641656,,1611661330,78,58,0,4
+02:59,[ATL] Amihere Tip Layup Shot: Missed,27,4,2,,1641656,,1611661330,78,58,0,4
+02:57,[CON] Nelson-Ododa Rebound (Off:1 Def:3),27,4,4,,1631135,,1611661323,78,58,0,4
+02:50,[CON] Nelson-Ododa Driving Layup Shot: Missed Block: Hillmon (1 BLK),-21,29,2,1631044,1631135,,1611661323,78,58,0,4
+02:50,[ATL] Henderson Rebound (Off:0 Def:3),-21,29,4,,1631089,,1611661330,78,58,0,4
+02:45,[ATL] Cubaj Foul: Offensive (3 PF),71,169,6,1631135,1631032,100274,1611661330,78,58,0,4
+02:45,[ATL] Cubaj Turnover : Offensive Foul Turnover (1 TO),71,169,5,,1631032,202764,1611661330,78,58,0,4
+02:28,[CON] Banham Turnover : Bad Pass (1 TO) Steal:Amihere (1 ST),-177,210,5,1641656,1627671,,1611661323,78,58,0,4
+02:07,[ATL 60-78] Amihere Layup Shot: Made (4 PTS) Assist: Cubaj (2 AST),0,-3,1,,1641656,1631032,1611661330,78,60,2,4
+02:07,[CON] Banham Foul: Shooting (1 PF) (1 FTA),0,-3,6,1641656,1627671,200431,1611661323,78,60,0,4
+02:07,[ATL] Amihere Free Throw 1 of 1 Missed,0,-80,3,,1641656,,1611661330,78,60,0,4
+02:06,[ATL] Hillmon Rebound (Off:1 Def:3),0,-80,4,,1631044,,1611661330,78,60,0,4
+02:02,[ATL 63-78] Caldwell 3pt Shot: Made (5 PTS) Assist: Hillmon (2 AST),-188,144,1,,1630471,1631044,1611661330,78,63,3,4
+01:48,[CON] Mitchell Driving Layup Shot: Missed,-18,6,2,,1627676,,1611661323,78,63,0,4
+01:48,[ATL] Hillmon Rebound (Off:1 Def:4),-18,6,4,,1631044,,1611661330,78,63,0,4
+01:45,[CON] Banham Foul: Personal (2 PF) (2 FTA),-158,592,6,1631089,1627671,100274,1611661323,78,63,0,4
+01:45,[ATL 64-78] Henderson Free Throw 1 of 2 (3 PTS),0,-80,3,,1631089,,1611661330,78,64,1,4
+01:45,[ATL 65-78] Henderson Free Throw 2 of 2 (4 PTS),0,-80,3,,1631089,,1611661330,78,65,1,4
+01:25,[CON] Ndour-Fall Pullup Jump shot: Missed,-182,61,2,,203838,,1611661323,78,65,0,4
+01:24,[ATL] Amihere Rebound (Off:5 Def:2),-182,61,4,,1641656,,1611661330,78,65,0,4
+01:15,[ATL] Amihere Layup Shot: Missed,-13,0,2,,1641656,,1611661330,78,65,0,4
+01:14,[CON] Ndour-Fall Rebound (Off:0 Def:1),-13,0,4,,203838,,1611661323,78,65,0,4
+00:56.9,Jump Ball Ndour-Fall vs Henderson (Nelson-Ododa gains possession),0,-80,10,1631089,203838,1631135,1611661323,78,65,0,4
+00:54.9,[CON] Nelson-Ododa Hook Shot: Missed,-7,18,2,,1631135,,1611661323,78,65,0,4
+00:53.6,[CON] Ndour-Fall Rebound (Off:1 Def:1),-7,18,4,,203838,,1611661323,78,65,0,4
+00:53.6,[CON 80-65] Ndour-Fall Putback Layup Shot: Made (2 PTS),0,-5,1,,203838,,1611661323,80,65,2,4
+00:38.3,[ATL] Caldwell Driving Layup Shot: Missed Block: Banham (1 BLK),-28,-2,2,1627671,1630471,,1611661330,80,65,0,4
+00:38.3,[ATL] Team Rebound,-28,-2,4,,0,,1611661330,80,65,0,4
+00:38.3,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,80,65,0,4
+00:30.0,[ATL] Amihere Driving Layup Shot: Missed,-15,4,2,,1641656,,1611661330,80,65,0,4
+00:29.4,[ATL] Amihere Rebound (Off:6 Def:2),-15,4,4,,1641656,,1611661330,80,65,0,4
+00:29.4,[ATL 67-80] Amihere Putback Layup Shot: Made (6 PTS),0,-5,1,,1641656,,1611661330,80,67,2,4
+00:17.4,[CON] Mitchell Turnover : Discontinue Dribble (1 TO),-73,361,5,,1627676,202764,1611661323,80,67,0,4
+00:00.0,End Period,0,-80,13,,0,,0,80,67,0,4

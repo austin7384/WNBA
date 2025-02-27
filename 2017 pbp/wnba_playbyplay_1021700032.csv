@@ -1,0 +1,424 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+10:00,Jump Ball Thomas vs Jones (Stricklen gains possession),0,-80,10,1627673,202663,203015,1611661322,0,0,1
+09:44,[CON 2-0] Bentley Finger Roll Layup Shot: Made (2 PTS),1,21,1,,203410,,1611661323,0,2,1
+09:26,[WAS] Hill 3pt Shot: Missed,213,131,2,,203401,,1611661322,0,2,1
+09:25,[CON] Team Rebound,0,-80,4,,0,,1611661323,0,2,1
+09:13,[CON 5-0] Jones 3pt Shot: Made (3 PTS) Assist: Thomas (1 AST),-89,208,1,,1627673,202662,1611661323,0,5,1
+08:54,[WAS] Hill Layup Shot: Missed Block: Jones (1 BLK),0,8,2,1627673,203401,,1611661322,0,5,1
+08:54,[WAS] Team Rebound,0,-80,4,,0,,1611661322,0,5,1
+08:49,[WAS] Thomas Layup Shot: Missed,1,2,2,,202663,,1611661322,0,5,1
+08:48,[CON] Stricklen Rebound (Off:0 Def:1),0,-80,4,,203015,,1611661323,0,5,1
+08:36,[CON] Thomas Jump Shot: Missed,35,56,2,,203826,,1611661323,0,5,1
+08:35,[WAS] Delle Donne Rebound (Off:0 Def:1),0,-80,4,,203399,,1611661322,0,5,1
+08:19,[WAS] Ruffin-Pratt Jump Shot: Missed,120,110,2,,203437,,1611661322,0,5,1
+08:18,[CON] Bentley Rebound (Off:0 Def:1),0,-80,4,,203410,,1611661323,0,5,1
+08:12,[CON 8-0] Stricklen 3pt Shot: Made (3 PTS) Assist: Bentley (1 AST),-115,223,1,,203015,203410,1611661323,0,8,1
+08:12,[WAS] Team Timeout : Regular,0,-80,9,,0,,1611661322,0,8,1
+07:52,[WAS] Ruffin-Pratt Jump Shot: Missed,135,101,2,,203437,,1611661322,0,8,1
+07:51,[WAS] Delle Donne Rebound (Off:1 Def:1),0,-80,4,,203399,,1611661322,0,8,1
+07:47,[WAS] Delle Donne Jump Shot: Missed,64,110,2,,203399,,1611661322,0,8,1
+07:47,[WAS] Thomas Rebound (Off:1 Def:0),0,-80,4,,202663,,1611661322,0,8,1
+07:43,[WAS] Thomas Layup Shot: Missed,-20,-1,2,,202663,,1611661322,0,8,1
+07:43,[WAS] Thomas Rebound (Off:2 Def:0),0,-80,4,,202663,,1611661322,0,8,1
+07:30,[WAS] Hill Jump Shot: Missed,15,190,2,,203401,,1611661322,0,8,1
+07:29,[CON] Jones Rebound (Off:0 Def:1),0,-80,4,,1627673,,1611661323,0,8,1
+07:15,[CON 10-0] Jones Jump Shot: Made (5 PTS) Assist: Bentley (2 AST),-84,144,1,,1627673,203410,1611661323,0,10,1
+06:56,[WAS] Delle Donne Jump Shot: Missed,155,36,2,,203399,,1611661322,0,10,1
+06:55,[WAS] Thomas Rebound (Off:3 Def:0),0,-80,4,,202663,,1611661322,0,10,1
+06:51,[WAS] Thomas Layup Shot: Missed Block: Jones (2 BLK),0,-10,2,1627673,202663,,1611661322,0,10,1
+06:50,[WAS] Thomas Rebound (Off:4 Def:0),0,-80,4,,202663,,1611661322,0,10,1
+06:45,[WAS 3-10] Toliver 3pt Shot: Made (3 PTS) Assist: Hill (1 AST),-104,244,1,,201911,203401,1611661322,3,10,1
+06:27,[CON 13-3] Stricklen 3pt Shot: Made (6 PTS) Assist: Jones (1 AST),-151,170,1,,203015,1627673,1611661323,3,13,1
+06:09,[WAS 6-13] Hill 3pt Shot: Made (3 PTS) Assist: Ruffin-Pratt (1 AST),-125,213,1,,203401,203437,1611661322,6,13,1
+05:52,[CON] Thomas Jump Shot: Missed,-20,26,2,,202662,,1611661323,6,13,1
+05:51,[CON] Jones Rebound (Off:1 Def:1),0,-80,4,,1627673,,1611661323,6,13,1
+05:49,[CON 15-6] Jones Putback Layup Shot: Made (7 PTS),-2,-6,1,,1627673,,1611661323,6,15,1
+05:37,[CON] Jones Foul: Defense 3 Second (0 PF),0,-80,6,,1627673,,1611661323,6,15,1
+05:37,[WAS 7-15] Delle Donne Free Throw Technical (1 PTS),0,-80,3,,203399,,1611661322,7,15,1
+05:37,[WAS] Thomas Substitution replaced by Hawkins,0,-80,8,,202663,203403,1611661322,7,15,1
+05:31,[WAS] Ruffin-Pratt Layup Shot: Missed,2,26,2,,203437,,1611661322,7,15,1
+05:30,[WAS] Ruffin-Pratt Rebound (Off:1 Def:0),0,-80,4,,203437,,1611661322,7,15,1
+05:26,[WAS] Toliver 3pt Shot: Missed,-9,249,2,,201911,,1611661322,7,15,1
+05:25,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,202662,,1611661323,7,15,1
+05:24,[WAS] Ruffin-Pratt Foul: Personal (1 PF),-61,11,6,202662,203437,,1611661322,7,15,1
+05:10,[CON] Bentley Jump Shot: Missed,-92,61,2,,203410,,1611661323,7,15,1
+05:09,[WAS] Team Rebound,0,-80,4,,0,,1611661322,7,15,1
+05:09,[CON] Jones Foul: Loose Ball (1 PF),0,18,6,203399,1627673,,1611661323,7,15,1
+04:47,[CON] Thomas Foul: Shooting (1 PF) (2 FTA),4,16,6,203437,203826,,1611661323,7,15,1
+04:47,[WAS] Ruffin-Pratt Free Throw 1 of 2 Missed,0,-80,3,,203437,,1611661322,7,15,1
+04:47,[WAS] Team Rebound,0,-80,4,,0,,1611661322,7,15,1
+04:47,[WAS 8-15] Ruffin-Pratt Free Throw 2 of 2 (1 PTS),0,-80,3,,203437,,1611661322,8,15,1
+04:36,[WAS] Ruffin-Pratt Foul: Personal (2 PF),117,106,6,203826,203437,,1611661322,8,15,1
+04:27,[CON] Bentley Jump Shot: Missed,-155,85,2,,203410,,1611661323,8,15,1
+04:26,[WAS] Team Rebound,0,-80,4,,0,,1611661322,8,15,1
+04:26,[WAS] Ruffin-Pratt Substitution replaced by Cloud,0,-80,8,,203437,204333,1611661322,8,15,1
+04:09,[WAS] Hawkins 3pt Shot: Missed,109,210,2,,203403,,1611661322,8,15,1
+04:07,[CON] Stricklen Rebound (Off:0 Def:2),0,-80,4,,203015,,1611661323,8,15,1
+04:01,[CON] Jones Layup Shot: Missed Block: Delle Donne (1 BLK),2,-1,2,203399,1627673,,1611661323,8,15,1
+04:01,[CON] Team Rebound,0,-80,4,,0,,1611661323,8,15,1
+04:01,[CON] Jones Substitution replaced by Kizer,0,-80,8,,1627673,203041,1611661323,8,15,1
+03:57,[CON] Thomas Layup Shot: Missed Block: Delle Donne (2 BLK),-19,11,2,203399,203826,,1611661323,8,15,1
+03:56,[CON] Kizer Rebound (Off:1 Def:0),0,-80,4,,203041,,1611661323,8,15,1
+03:52,[CON] Thomas 3pt Shot: Missed,-186,131,2,,202662,,1611661323,8,15,1
+03:52,[WAS] Team Rebound,0,-80,4,,0,,1611661322,8,15,1
+03:52,[CON] Thomas Foul: Loose Ball (2 PF),4,13,6,201911,203826,,1611661323,8,15,1
+03:52,[CON] Thomas Substitution replaced by Hooper,0,-80,8,,203826,203835,1611661323,8,15,1
+03:34,[WAS] Toliver Jump Shot: Missed,153,121,2,,201911,,1611661322,8,15,1
+03:33,[CON] Kizer Rebound (Off:1 Def:1),0,-80,4,,203041,,1611661323,8,15,1
+03:18,[CON] Kizer Jump Shot: Missed Block: Hawkins (1 BLK),143,8,2,203403,203041,,1611661323,8,15,1
+03:17,[WAS] Delle Donne Rebound (Off:1 Def:2),0,-80,4,,203399,,1611661322,8,15,1
+02:55,[WAS 10-15] Cloud Driving Hook Shot: Made (2 PTS) Assist: Hill (2 AST),32,46,1,,204333,203401,1611661322,10,15,1
+02:39,[CON 17-10] Kizer Jump Shot: Made (2 PTS) Assist: Thomas (2 AST),102,164,1,,203041,202662,1611661323,10,17,1
+02:25,[WAS] Hawkins Turnover : Bad Pass (1 TO) Steal:Kizer (1 ST),0,-80,5,203041,203403,,1611661322,10,17,1
+02:07,[CON 20-10] Thomas 3pt Shot: Made (3 PTS) Assist: Bentley (3 AST),-230,72,1,,202662,203410,1611661323,10,20,1
+01:44,[WAS] Cloud 3pt Shot: Missed,114,208,2,,204333,,1611661322,10,20,1
+01:43,[CON] Team Rebound,0,-80,4,,0,,1611661323,10,20,1
+01:43,[WAS] Toliver Substitution replaced by Latta,0,-80,8,,201911,201056,1611661322,10,20,1
+01:31,[CON] Hooper 3pt Shot: Missed,-156,193,2,,203835,,1611661323,10,20,1
+01:30,[WAS] Cloud Rebound (Off:0 Def:1),0,-80,4,,204333,,1611661322,10,20,1
+01:25,[WAS 12-20] Cloud Running Layup Shot: Made (4 PTS),6,2,1,,204333,,1611661322,12,20,1
+01:11,[CON] Stricklen 3pt Shot: Missed,-119,190,2,,203015,,1611661323,12,20,1
+01:10,[WAS] Hill Rebound (Off:0 Def:1),0,-80,4,,203401,,1611661322,12,20,1
+01:05,[CON] Stricklen Foul: Shooting (1 PF) (2 FTA),0,13,6,203403,203015,,1611661323,12,20,1
+01:05,[WAS 13-20] Hawkins Free Throw 1 of 2 (1 PTS),0,-80,3,,203403,,1611661322,13,20,1
+01:05,[CON] Hooper Substitution replaced by Jones,0,-80,8,,203835,1627673,1611661323,13,20,1
+01:05,[WAS] Hill Substitution replaced by Walker-Kimbrough,0,-80,8,,203401,1628278,1611661322,13,20,1
+01:05,[WAS 14-20] Hawkins Free Throw 2 of 2 (2 PTS),0,-80,3,,203403,,1611661322,14,20,1
+00:58.3,[WAS] Delle Donne Foul: Personal (1 PF),0,11,6,203041,203399,,1611661322,14,20,1
+00:52.5,[CON] Thomas Jump Shot: Missed,-107,170,2,,202662,,1611661323,14,20,1
+00:50.9,[CON] Jones Rebound (Off:2 Def:1),0,-80,4,,1627673,,1611661323,14,20,1
+00:48.8,[CON] Jones Layup Shot: Missed,-4,21,2,,1627673,,1611661323,14,20,1
+00:48.3,[CON] Jones Rebound (Off:3 Def:1),0,-80,4,,1627673,,1611661323,14,20,1
+00:47.9,[CON] Jones Turnover : Bad Pass (1 TO) Steal:Walker-Kimbrough (1 ST),0,-80,5,1628278,1627673,,1611661323,14,20,1
+00:47.9,[CON] Bentley Foul: Personal (1 PF) (2 FTA),110,580,6,1628278,203410,,1611661323,14,20,1
+00:47.9,[WAS 15-20] Walker-Kimbrough Free Throw 1 of 2 (1 PTS),0,-80,3,,1628278,,1611661322,15,20,1
+00:47.9,[WAS 16-20] Walker-Kimbrough Free Throw 2 of 2 (2 PTS),0,-80,3,,1628278,,1611661322,16,20,1
+00:36.3,[WAS] Walker-Kimbrough Foul: Shooting (1 PF) (2 FTA),-124,2,6,203410,1628278,,1611661322,16,20,1
+00:36.3,[CON 21-16] Bentley Free Throw 1 of 2 (3 PTS),0,-80,3,,203410,,1611661323,16,21,1
+00:36.3,[CON] Bentley Free Throw 2 of 2 Missed,0,-80,3,,203410,,1611661323,16,21,1
+00:35.8,[CON] Jones Rebound (Off:4 Def:1),0,-80,4,,1627673,,1611661323,16,21,1
+00:24.6,[CON] Jones Jump Shot: Missed,-114,26,2,,1627673,,1611661323,16,21,1
+00:23.2,[WAS] Hawkins Rebound (Off:0 Def:1),0,-80,4,,203403,,1611661322,16,21,1
+00:01.9,[WAS 19-21] Latta 3pt Shot: Made (3 PTS),82,237,1,,201056,,1611661322,19,21,1
+00:00.0,End Period,0,-80,13,,0,,0,19,21,1
+10:00,Start Period,0,-80,12,,0,,0,19,21,2
+09:36,[WAS] Latta Jump Shot: Missed,71,105,2,,201056,,1611661322,19,21,2
+09:35,[CON] Thomas Rebound (Off:0 Def:2),0,-80,4,,202662,,1611661323,19,21,2
+09:23,[CON] Jones Foul: Offensive (2 PF),-79,92,6,201056,1627673,,1611661323,19,21,2
+09:23,[CON] Jones Turnover : Foul (2 TO),0,-80,5,,1627673,,1611661323,19,21,2
+09:10,[WAS 21-21] Hawkins Jump Shot: Made (4 PTS),158,11,1,,203403,,1611661322,21,21,2
+08:41,[CON] Thomas Jump Shot: Missed,128,105,2,,202662,,1611661323,21,21,2
+08:40,[WAS] Latta Rebound (Off:0 Def:1),0,-80,4,,201056,,1611661322,21,21,2
+08:19,[WAS] Latta Layup Shot: Missed Block: Kizer (1 BLK),-25,11,2,203041,201056,,1611661322,21,21,2
+08:17,[CON] Stricklen Rebound (Off:0 Def:3),0,-80,4,,203015,,1611661323,21,21,2
+08:09,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Latta (1 ST),0,-80,5,201056,202662,,1611661323,21,21,2
+08:09,[CON] Kizer Foul: Personal (1 PF),-17,570,6,201056,203041,,1611661323,21,21,2
+07:51,[WAS] Latta Turnover : Out of Bounds Lost Ball Turnover (1 TO),0,-80,5,,201056,,1611661322,21,21,2
+07:36,[CON] Jones Jump Shot: Missed,0,70,2,,1627673,,1611661323,21,21,2
+07:35,[WAS] Thomas Rebound (Off:4 Def:1),0,-80,4,,202663,,1611661322,21,21,2
+07:23,[WAS] Latta 3pt Shot: Missed,-143,198,2,,201056,,1611661322,21,21,2
+07:22,[CON] Kizer Rebound (Off:1 Def:2),0,-80,4,,203041,,1611661323,21,21,2
+07:10,[CON] Kizer Jump Shot: Missed,150,16,2,,203041,,1611661323,21,21,2
+07:09,[WAS] Hawkins Rebound (Off:0 Def:2),0,-80,4,,203403,,1611661322,21,21,2
+06:57,[WAS] Thomas Substitution replaced by Delle Donne,0,-80,8,,202663,203399,1611661322,21,21,2
+06:57,[CON] Stricklen Substitution replaced by Thomas,0,-80,8,,203015,203826,1611661323,21,21,2
+06:57,[CON] Kizer Substitution replaced by Adams,0,-80,8,,203041,202634,1611661323,21,21,2
+06:46,[WAS 23-21] Hawkins Jump Shot: Made (6 PTS) Assist: Latta (1 AST),27,188,1,,203403,201056,1611661322,23,21,2
+06:27,[CON 23-23] Williams Fadeaway Jump Shot: Made (2 PTS) Assist: Thomas (3 AST),-155,70,1,,1627675,202662,1611661323,23,23,2
+06:13,[WAS] Delle Donne 3pt Shot: Missed,28,237,2,,203399,,1611661322,23,23,2
+06:12,[CON] Thomas Rebound (Off:0 Def:3),0,-80,4,,202662,,1611661323,23,23,2
+06:04,[WAS] Hawkins Foul: Personal (1 PF),17,56,6,1627673,203403,,1611661322,23,23,2
+06:04,[WAS] Hawkins Substitution replaced by Hill,0,-80,8,,203403,203401,1611661322,23,23,2
+06:04,[WAS] Latta Substitution replaced by Toliver,0,-80,8,,201056,201911,1611661322,23,23,2
+06:04,[WAS] Walker-Kimbrough Substitution replaced by Taylor,0,-80,8,,1628278,203859,1611661322,23,23,2
+05:56,[CON 25-23] Thomas Jump Shot: Made (5 PTS) Assist: Thomas (1 AST),-107,121,1,,202662,203826,1611661323,23,25,2
+05:42,[WAS] Hill 3pt Shot: Missed,-151,200,2,,203401,,1611661322,23,25,2
+05:41,[WAS] Delle Donne Rebound (Off:2 Def:2),0,-80,4,,203399,,1611661322,23,25,2
+05:36,[WAS] Delle Donne Jump Shot: Missed,1,51,2,,203399,,1611661322,23,25,2
+05:36,[CON] Jones Rebound (Off:4 Def:2),0,-80,4,,1627673,,1611661323,23,25,2
+05:31,[WAS] Cloud Foul: Personal Block (1 PF),-25,36,6,203826,204333,,1611661322,23,25,2
+05:31,Timeout : Official,0,-80,9,,0,,0,23,25,2
+05:31,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,23,25,2
+05:31,[WAS] Cloud Substitution replaced by Ruffin-Pratt,0,-80,8,,204333,203437,1611661322,23,25,2
+05:22,[CON] Jones Layup Shot: Missed,-19,-1,2,,1627673,,1611661323,23,25,2
+05:21,[WAS] Ruffin-Pratt Rebound (Off:1 Def:1),0,-80,4,,203437,,1611661322,23,25,2
+05:04,[WAS 25-25] Ruffin-Pratt Layup Shot: Made (3 PTS),-1,21,1,,203437,,1611661322,25,25,2
+04:52,[CON] Williams Turnover : Bad Pass (1 TO) Steal:Ruffin-Pratt (1 ST),0,-80,5,203437,1627675,,1611661323,25,25,2
+04:42,[WAS 27-25] Delle Donne Layup Shot: Made (3 PTS) Assist: Hill (3 AST),12,-5,1,,203399,203401,1611661322,27,25,2
+04:28,[CON] Banham Turnover : Bad Pass (1 TO) Steal:Hill (1 ST),0,-80,5,203401,1627671,,1611661323,27,25,2
+04:12,[WAS] Hill Turnover : Lost Ball (1 TO) Steal:Adams (1 ST),0,-80,5,202634,203401,,1611661322,27,25,2
+04:06,[CON 27-27] Thomas Running Reverse Layup Shot: Made (2 PTS),24,2,1,,203826,,1611661323,27,27,2
+04:01,[CON] Adams Foul: Personal (1 PF),107,28,6,203401,202634,,1611661323,27,27,2
+04:01,[CON] Williams Substitution replaced by Bentley,0,-80,8,,1627675,203410,1611661323,27,27,2
+04:00,[CON] Adams Substitution replaced by Stricklen,0,-80,8,,202634,203015,1611661323,27,27,2
+04:00,[CON] Thomas Foul: Personal (3 PF),92,56,6,201911,203826,,1611661323,27,27,2
+03:50,[WAS] Taylor Turnover : 3 Second Violation (1 TO),0,-80,5,,203859,,1611661322,27,27,2
+03:50,[CON] Thomas Substitution replaced by Kizer,0,-80,8,,203826,203041,1611661323,27,27,2
+03:37,[CON] Banham Turnover : Bad Pass (2 TO) Steal:Taylor (1 ST),0,-80,5,203859,1627671,,1611661323,27,27,2
+03:27,[WAS] Delle Donne 3pt Shot: Missed,-127,219,2,,203399,,1611661322,27,27,2
+03:26,[CON] Kizer Rebound (Off:1 Def:3),0,-80,4,,203041,,1611661323,27,27,2
+03:16,[CON] Bentley Jump Shot: Missed,56,136,2,,203410,,1611661323,27,27,2
+03:15,[CON] Team Rebound,0,-80,4,,0,,1611661323,27,27,2
+03:15,[WAS] Ruffin-Pratt Foul: Loose Ball (3 PF),4,-6,6,203041,203437,,1611661322,27,27,2
+03:15,[CON] Banham Substitution replaced by Thomas,0,-80,8,,1627671,202662,1611661323,27,27,2
+03:15,[WAS] Ruffin-Pratt Substitution replaced by Cloud,0,-80,8,,203437,204333,1611661322,27,27,2
+03:01,[CON] Stricklen 3pt Shot: Missed,-110,239,2,,203015,,1611661323,27,27,2
+03:00,[WAS] Delle Donne Rebound (Off:2 Def:3),0,-80,4,,203399,,1611661322,27,27,2
+02:52,[CON] Kizer Foul: Shooting (2 PF) (2 FTA),-47,-1,6,203401,203041,,1611661323,27,27,2
+02:52,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,27,27,2
+02:52,[WAS 28-27] Hill Free Throw 1 of 2 (4 PTS),0,-80,3,,203401,,1611661322,28,27,2
+02:52,[WAS 29-27] Hill Free Throw 2 of 2 (5 PTS),0,-80,3,,203401,,1611661322,29,27,2
+02:28,[CON] Stricklen Jump Shot: Missed,-119,87,2,,203015,,1611661323,29,27,2
+02:27,[WAS] Delle Donne Rebound (Off:2 Def:4),0,-80,4,,203399,,1611661322,29,27,2
+02:10,[WAS] Taylor Turnover : Bad Pass (2 TO) Steal:Kizer (2 ST),0,-80,5,203041,203859,,1611661322,29,27,2
+02:00,[CON] Kizer Jump Shot: Missed,32,-1,2,,203041,,1611661323,29,27,2
+01:59,[CON] Kizer Rebound (Off:2 Def:3),0,-80,4,,203041,,1611661323,29,27,2
+01:58,[CON 29-29] Kizer Putback Layup Shot: Made (4 PTS),4,-11,1,,203041,,1611661323,29,29,2
+01:46,[CON] Stricklen Foul: Shooting Block (2 PF) (2 FTA),2,51,6,203399,203015,,1611661323,29,29,2
+01:46,[WAS 30-29] Delle Donne Free Throw 1 of 2 (4 PTS),0,-80,3,,203399,,1611661322,30,29,2
+01:46,[WAS 31-29] Delle Donne Free Throw 2 of 2 (5 PTS),0,-80,3,,203399,,1611661322,31,29,2
+01:31,[CON] Jones Jump Shot: Missed,40,-1,2,,1627673,,1611661323,31,29,2
+01:30,[CON] Jones Rebound (Off:5 Def:2),0,-80,4,,1627673,,1611661323,31,29,2
+01:27,[CON 32-31] Bentley 3pt Shot: Made (6 PTS) Assist: Jones (2 AST),-101,224,1,,203410,1627673,1611661323,31,32,2
+01:08,[WAS 34-32] Hill 3pt Shot: Made (8 PTS),155,208,1,,203401,,1611661322,34,32,2
+00:51.8,[CON] Kizer Jump Shot: Missed,76,136,2,,203041,,1611661323,34,32,2
+00:50.9,[WAS] Cloud Rebound (Off:0 Def:2),0,-80,4,,204333,,1611661322,34,32,2
+00:44.9,[WAS] Hill 3pt Shot: Missed,-138,218,2,,203401,,1611661322,34,32,2
+00:43.9,[WAS] Taylor Rebound (Off:1 Def:0),0,-80,4,,203859,,1611661322,34,32,2
+00:39.9,Jump Ball Hill vs Kizer (Stricklen gains possession),0,-80,10,203041,203401,203015,1611661322,34,32,2
+00:39.9,[WAS] Hill Turnover : Lost Ball (2 TO) Steal:Kizer (3 ST),0,-80,5,203041,203401,,1611661322,34,32,2
+00:35.9,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,34,32,2
+00:35.9,[WAS] Taylor Substitution replaced by Thomas,0,-80,8,,203859,202663,1611661322,34,32,2
+00:20.7,[CON] Kizer Jump Shot: Missed,140,-11,2,,203041,,1611661323,34,32,2
+00:19.8,[WAS] Delle Donne Rebound (Off:2 Def:5),0,-80,4,,203399,,1611661322,34,32,2
+00:10.9,[WAS] Team Timeout : Regular,0,-80,9,,0,,1611661322,34,32,2
+00:10.2,[WAS] Thomas Substitution replaced by Hawkins,0,-80,8,,202663,203403,1611661322,34,32,2
+00:02.9,[WAS] Delle Donne Jump Shot: Missed,-83,36,2,,203399,,1611661322,34,32,2
+00:01.9,[CON] Jones Rebound (Off:5 Def:3),0,-80,4,,1627673,,1611661323,34,32,2
+00:00.0,End Period,0,-80,13,,0,,0,34,32,2
+10:00,Start Period,0,-80,12,,0,,0,34,32,3
+09:48,[WAS 36-32] Thomas Layup Shot: Made (2 PTS) Assist: Hill (4 AST),2,-1,1,,202663,203401,1611661322,36,32,3
+09:24,[CON 34-36] Thomas Floating Jump shot: Made (4 PTS) Assist: Thomas (4 AST),130,72,1,,203826,202662,1611661323,36,34,3
+09:08,[WAS] Delle Donne Jump Shot: Missed Block: Jones (3 BLK),33,31,2,1627673,203399,,1611661322,36,34,3
+09:06,[CON] Jones Rebound (Off:5 Def:4),0,-80,4,,1627673,,1611661323,36,34,3
+08:59,[CON 37-36] Stricklen 3pt Shot: Made (9 PTS) Assist: Bentley (4 AST),194,144,1,,203015,203410,1611661323,36,37,3
+08:44,[WAS 38-37] Thomas Cutting Layup Shot: Made (4 PTS) Assist: Hill (5 AST),4,-10,1,,202663,203401,1611661322,38,37,3
+08:16,[CON 39-38] Bentley Finger Roll Layup Shot: Made (8 PTS),-11,11,1,,203410,,1611661323,38,39,3
+08:16,[WAS] Thomas Foul: Shooting (1 PF) (1 FTA),-11,11,6,203410,202663,,1611661322,38,39,3
+08:16,[CON] Bentley Free Throw 1 of 1 Missed,0,-80,3,,203410,,1611661323,38,39,3
+08:15,[WAS] Thomas Rebound (Off:4 Def:2),0,-80,4,,202663,,1611661322,38,39,3
+08:02,[WAS] Hill Jump Shot: Missed,81,110,2,,203401,,1611661322,38,39,3
+08:01,[CON] Thomas Rebound (Off:0 Def:1),0,-80,4,,203826,,1611661323,38,39,3
+07:55,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Hill (2 ST),0,-80,5,203401,203826,,1611661323,38,39,3
+07:44,[WAS 41-39] Toliver 3pt Shot: Made (6 PTS) Assist: Hill (6 AST),179,175,1,,201911,203401,1611661322,41,39,3
+07:28,[CON 41-41] Jones Layup Shot: Made (9 PTS) Assist: Thomas (2 AST),-4,2,1,,1627673,203826,1611661323,41,41,3
+07:20,[CON] Jones Foul: Personal (3 PF),-9,36,6,202663,1627673,,1611661323,41,41,3
+07:14,[WAS] Ruffin-Pratt 3pt Shot: Missed,205,180,2,,203437,,1611661322,41,41,3
+07:13,[CON] Jones Rebound (Off:5 Def:5),0,-80,4,,1627673,,1611661323,41,41,3
+07:03,[CON] Thomas Jump Shot: Missed,87,95,2,,202662,,1611661323,41,41,3
+07:02,[WAS] Thomas Rebound (Off:4 Def:3),0,-80,4,,202663,,1611661322,41,41,3
+06:54,[WAS 43-41] Ruffin-Pratt Pullup Jump shot: Made (5 PTS) Assist: Hill (7 AST),164,26,1,,203437,203401,1611661322,43,41,3
+06:37,[CON] Bentley Jump Shot: Missed,182,-6,2,,203410,,1611661323,43,41,3
+06:36,[WAS] Ruffin-Pratt Rebound (Off:1 Def:2),0,-80,4,,203437,,1611661322,43,41,3
+06:25,[WAS 45-41] Ruffin-Pratt Jump Shot: Made (7 PTS) Assist: Delle Donne (1 AST),-63,124,1,,203437,203399,1611661322,45,41,3
+06:07,[CON 43-45] Thomas Driving Layup Shot: Made (7 PTS),-6,-5,1,,202662,,1611661323,45,43,3
+05:47,[WAS 47-43] Delle Donne Jump Bank Shot: Made (7 PTS),123,33,1,,203399,,1611661322,47,43,3
+05:47,[CON] Thomas Foul: Shooting (1 PF) (1 FTA),123,33,6,203399,202662,,1611661323,47,43,3
+05:47,[CON] Jones Substitution replaced by Kizer,0,-80,8,,1627673,203041,1611661323,47,43,3
+05:47,[CON] Bentley Substitution replaced by Williams,0,-80,8,,203410,1627675,1611661323,47,43,3
+05:47,[WAS 48-43] Delle Donne Free Throw 1 of 1 (8 PTS),0,-80,3,,203399,,1611661322,48,43,3
+05:42,[CON] Thomas Foul: Offensive (4 PF),-143,144,6,203401,203826,,1611661323,48,43,3
+05:42,[CON] Thomas Turnover : Foul (2 TO),0,-80,5,,203826,,1611661323,48,43,3
+05:42,[CON] Thomas Substitution replaced by Jones,0,-80,8,,203826,1627673,1611661323,48,43,3
+05:24,[WAS] Hill Layup Shot: Missed,27,-6,2,,203401,,1611661322,48,43,3
+05:23,[CON] Jones Rebound (Off:5 Def:6),0,-80,4,,1627673,,1611661323,48,43,3
+05:11,[CON] Stricklen 3pt Shot: Missed,-189,129,2,,203015,,1611661323,48,43,3
+05:10,[CON] Kizer Rebound (Off:3 Def:3),0,-80,4,,203041,,1611661323,48,43,3
+05:09,[CON 45-48] Kizer Layup Shot: Made (6 PTS),15,11,1,,203041,,1611661323,48,45,3
+04:49,[WAS] Hill Turnover : Out of Bounds Lost Ball Turnover (3 TO),0,-80,5,,203401,,1611661322,48,45,3
+04:49,Timeout : Official,0,-80,9,,0,,0,48,45,3
+04:35,[CON] Williams Jump Shot: Missed,125,115,2,,1627675,,1611661323,48,45,3
+04:34,[CON] Thomas Rebound (Off:1 Def:3),0,-80,4,,202662,,1611661323,48,45,3
+04:22,[WAS] Thomas Foul: Shooting (2 PF) (2 FTA),1,26,6,203041,202663,,1611661322,48,45,3
+04:22,[CON 46-48] Kizer Free Throw 1 of 2 (7 PTS),0,-80,3,,203041,,1611661323,48,46,3
+04:22,[CON 47-48] Kizer Free Throw 2 of 2 (8 PTS),0,-80,3,,203041,,1611661323,48,47,3
+04:03,[WAS 50-47] Ruffin-Pratt Jump Shot: Made (9 PTS) Assist: Delle Donne (2 AST),12,126,1,,203437,203399,1611661322,50,47,3
+03:43,[CON 49-50] Thomas Driving Layup Shot: Made (9 PTS),17,7,1,,202662,,1611661323,50,49,3
+03:26,[WAS 53-49] Hill 3pt Shot: Made (11 PTS) Assist: Ruffin-Pratt (2 AST),96,232,1,,203401,203437,1611661322,53,49,3
+03:07,[CON] Jones 3pt Shot: Missed,74,228,2,,1627673,,1611661323,53,49,3
+03:06,[WAS] Delle Donne Rebound (Off:2 Def:6),0,-80,4,,203399,,1611661322,53,49,3
+02:49,[WAS] Ruffin-Pratt Jump Shot: Missed,15,56,2,,203437,,1611661322,53,49,3
+02:48,[CON] Thomas Rebound (Off:1 Def:4),0,-80,4,,202662,,1611661323,53,49,3
+02:39,[CON] Thomas Jump Shot: Missed,102,90,2,,202662,,1611661323,53,49,3
+02:37,[WAS] Delle Donne Rebound (Off:2 Def:7),0,-80,4,,203399,,1611661322,53,49,3
+02:31,[WAS 55-49] Thomas Cutting Layup Shot: Made (6 PTS) Assist: Delle Donne (3 AST),-4,-1,1,,202663,203399,1611661322,55,49,3
+02:13,[WAS] Thomas Foul: Shooting (3 PF) (2 FTA),25,28,6,1627673,202663,,1611661322,55,49,3
+02:13,[CON 50-55] Jones Free Throw 1 of 2 (10 PTS),0,-80,3,,1627673,,1611661323,55,50,3
+02:13,[WAS] Toliver Substitution replaced by Latta,0,-80,8,,201911,201056,1611661322,55,50,3
+02:13,[WAS] Thomas Substitution replaced by Hawkins,0,-80,8,,202663,203403,1611661322,55,50,3
+02:13,[CON 51-55] Jones Free Throw 2 of 2 (11 PTS),0,-80,3,,1627673,,1611661323,55,51,3
+01:56,[WAS] Latta 3pt Shot: Missed,-130,237,2,,201056,,1611661322,55,51,3
+01:55,[CON] Thomas Rebound (Off:1 Def:5),0,-80,4,,202662,,1611661323,55,51,3
+01:50,[CON 53-55] Williams Pullup Jump shot: Made (4 PTS) Assist: Thomas (5 AST),176,61,1,,1627675,202662,1611661323,55,53,3
+01:31,[WAS] Delle Donne Jump Shot: Missed,-133,36,2,,203399,,1611661322,55,53,3
+01:30,[CON] Kizer Rebound (Off:3 Def:4),0,-80,4,,203041,,1611661323,55,53,3
+01:18,[CON 55-55] Kizer Cutting Layup Shot: Made (10 PTS) Assist: Thomas (6 AST),0,11,1,,203041,202662,1611661323,55,55,3
+00:56.4,[WAS 57-55] Hill Jump Shot: Made (13 PTS) Assist: Delle Donne (4 AST),-101,183,1,,203401,203399,1611661322,57,55,3
+00:45.7,[WAS] Ruffin-Pratt Foul: Personal (4 PF),-19,80,6,202662,203437,,1611661322,57,55,3
+00:45.7,[WAS] Ruffin-Pratt Substitution replaced by Cloud,0,-80,8,,203437,204333,1611661322,57,55,3
+00:45.7,[CON] Thomas Substitution replaced by Banham,0,-80,8,,202662,1627671,1611661323,57,55,3
+00:45.7,[CON] Jones Substitution replaced by Jones,0,-80,8,,1627673,1628280,1611661323,57,55,3
+00:39.9,[CON] Williams Jump Shot: Missed Block: Delle Donne (3 BLK),-138,57,2,203399,1627675,,1611661323,57,55,3
+00:38.6,[CON] Williams Rebound (Off:1 Def:0),0,-80,4,,1627675,,1611661323,57,55,3
+00:36.9,[CON] Williams Reverse Layup Shot: Missed,2,-16,2,,1627675,,1611661323,57,55,3
+00:35.8,[WAS] Cloud Rebound (Off:0 Def:3),0,-80,4,,204333,,1611661322,57,55,3
+00:26.2,[CON] Jones Foul: Shooting (1 PF) (2 FTA),32,38,6,204333,1628280,,1611661323,57,55,3
+00:26.2,[WAS 58-55] Cloud Free Throw 1 of 2 (5 PTS),0,-80,3,,204333,,1611661322,58,55,3
+00:26.2,[WAS] Hill Substitution replaced by Walker-Kimbrough,0,-80,8,,203401,1628278,1611661322,58,55,3
+00:26.2,[WAS 59-55] Cloud Free Throw 2 of 2 (6 PTS),0,-80,3,,204333,,1611661322,59,55,3
+00:02.9,[CON] Jones Jump Shot: Missed,40,11,2,,1628280,,1611661323,59,55,3
+00:01.9,[CON] Team Rebound,0,-80,4,,0,,1611661323,59,55,3
+00:00.5,[CON 57-59] Stricklen Jump Shot: Made (11 PTS) Assist: Kizer (1 AST),-192,62,1,,203015,203041,1611661323,59,57,3
+00:00.0,End Period,0,-80,13,,0,,0,59,57,3
+10:00,Start Period,0,-80,12,,0,,0,59,57,4
+09:47,[WAS] Walker-Kimbrough Foul: Personal (2 PF),97,85,6,1628280,1628278,,1611661322,59,57,4
+09:46,[WAS] Hawkins Foul: Personal (2 PF),37,62,6,1628280,203403,,1611661322,59,57,4
+09:35,[CON] Kizer Layup Shot: Missed Block: Delle Donne (4 BLK),-7,11,2,203399,203041,,1611661323,59,57,4
+09:34,[CON] Kizer Rebound (Off:4 Def:4),0,-80,4,,203041,,1611661323,59,57,4
+09:32,[CON] Kizer Layup Shot: Missed,1,-16,2,,203041,,1611661323,59,57,4
+09:32,[CON] Team Rebound,0,-80,4,,0,,1611661323,59,57,4
+09:22,[CON 60-59] Stricklen 3pt Shot: Made (14 PTS) Assist: Banham (1 AST),-173,160,1,,203015,1627671,1611661323,59,60,4
+09:02,[WAS] Delle Donne 3pt Shot: Missed,119,213,2,,203399,,1611661322,59,60,4
+09:01,[WAS] Hawkins Rebound (Off:1 Def:2),0,-80,4,,203403,,1611661322,59,60,4
+08:51,[WAS] Delle Donne Turnover : Lost Ball (1 TO) Steal:Kizer (4 ST),0,-80,5,203041,203399,,1611661322,59,60,4
+08:41,[CON 63-59] Stricklen 3pt Shot: Made (17 PTS) Assist: Banham (2 AST),-153,214,1,,203015,1627671,1611661323,59,63,4
+08:34,[WAS] Team Timeout : Regular,0,-80,9,,0,,1611661322,59,63,4
+08:34,[CON] Banham Substitution replaced by Bentley,0,-80,8,,1627671,203410,1611661323,59,63,4
+08:17,[WAS] Walker-Kimbrough Jump Shot: Missed,-34,82,2,,1628278,,1611661322,59,63,4
+08:16,[CON] Stricklen Rebound (Off:0 Def:4),0,-80,4,,203015,,1611661323,59,63,4
+07:56,[CON] Jones Layup Shot: Missed,-9,-1,2,,1628280,,1611661323,59,63,4
+07:55,[CON] Jones Rebound (Off:1 Def:0),0,-80,4,,1628280,,1611661323,59,63,4
+07:52,[CON] Jones Layup Shot: Missed,-6,-21,2,,1628280,,1611661323,59,63,4
+07:52,[WAS] Delle Donne Rebound (Off:2 Def:8),0,-80,4,,203399,,1611661322,59,63,4
+07:45,[WAS] Delle Donne Layup Shot: Missed,6,11,2,,203399,,1611661322,59,63,4
+07:44,[WAS] Team Rebound,0,-80,4,,0,,1611661322,59,63,4
+07:43,[WAS] Cloud Substitution replaced by Ruffin-Pratt,0,-80,8,,204333,203437,1611661322,59,63,4
+07:43,[WAS] Walker-Kimbrough Substitution replaced by Hill,0,-80,8,,1628278,203401,1611661322,59,63,4
+07:43,[CON] Jones Substitution replaced by Jones,0,-80,8,,1628280,1627673,1611661323,59,63,4
+07:43,[WAS] Hawkins Substitution replaced by Taylor,0,-80,8,,203403,203859,1611661322,59,63,4
+07:43,[CON] Kizer Foul: Personal (3 PF),-63,67,6,203399,203041,,1611661323,59,63,4
+07:30,[WAS] Ruffin-Pratt Jump Shot: Missed,-104,106,2,,203437,,1611661322,59,63,4
+07:29,[WAS] Taylor Rebound (Off:2 Def:0),0,-80,4,,203859,,1611661322,59,63,4
+07:24,[WAS] Hill 3pt Shot: Missed,112,244,2,,203401,,1611661322,59,63,4
+07:23,[CON] Team Rebound,0,-80,4,,0,,1611661323,59,63,4
+07:11,[CON] Jones 3pt Shot: Missed,120,208,2,,1627673,,1611661323,59,63,4
+07:10,[WAS] Team Rebound,0,-80,4,,0,,1611661322,59,63,4
+06:55,[WAS] Ruffin-Pratt Jump Shot: Missed,-91,120,2,,203437,,1611661322,59,63,4
+06:54,[CON] Bentley Rebound (Off:0 Def:2),0,-80,4,,203410,,1611661323,59,63,4
+06:43,[CON 65-59] Kizer Layup Shot: Made (12 PTS),19,11,1,,203041,,1611661323,59,65,4
+06:33,[CON] Kizer Foul: Personal (4 PF),-4,95,6,203401,203041,,1611661323,59,65,4
+06:33,[CON] Williams Substitution replaced by Thomas,0,-80,8,,1627675,202662,1611661323,59,65,4
+06:33,[CON] Kizer Substitution replaced by Thomas,0,-80,8,,203041,203826,1611661323,59,65,4
+06:22,[CON] Stricklen Foul: Personal (3 PF),9,28,6,203437,203015,,1611661323,59,65,4
+06:13,[CON] Bentley Foul: Shooting Block (2 PF) (2 FTA),12,65,6,201056,203410,,1611661323,59,65,4
+06:13,[WAS 60-65] Latta Free Throw 1 of 2 (4 PTS),0,-80,3,,201056,,1611661322,60,65,4
+06:13,[WAS 61-65] Latta Free Throw 2 of 2 (5 PTS),0,-80,3,,201056,,1611661322,61,65,4
+05:53,[CON] Jones Jump Shot: Missed,76,41,2,,1627673,,1611661323,61,65,4
+05:53,[CON] Team Rebound,0,-80,4,,0,,1611661323,61,65,4
+05:53,[WAS] Taylor Foul: Loose Ball (1 PF),28,11,6,203826,203859,,1611661322,61,65,4
+05:45,[CON] Stricklen Jump Shot: Missed,-22,21,2,,203015,,1611661323,61,65,4
+05:44,[CON] Thomas Rebound (Off:1 Def:1),0,-80,4,,203826,,1611661323,61,65,4
+05:40,[CON 67-61] Thomas Floating Jump shot: Made (6 PTS),37,33,1,,203826,,1611661323,61,67,4
+05:40,[WAS] Delle Donne Foul: Shooting (2 PF) (1 FTA),37,33,6,203826,203399,,1611661322,61,67,4
+05:40,[CON] Thomas Free Throw 1 of 1 Missed,0,-80,3,,203826,,1611661323,61,67,4
+05:39,[WAS] Taylor Rebound (Off:2 Def:1),0,-80,4,,203859,,1611661322,61,67,4
+05:29,[CON] Stricklen Foul: Shooting (4 PF) (2 FTA),15,38,6,203401,203015,,1611661323,61,67,4
+05:29,[WAS] Hill Free Throw 1 of 2 Missed,0,-80,3,,203401,,1611661322,61,67,4
+05:29,[WAS] Team Rebound,0,-80,4,,0,,1611661322,61,67,4
+05:29,[WAS] Taylor Substitution replaced by Thomas,0,-80,8,,203859,202663,1611661322,61,67,4
+05:29,[WAS 62-67] Hill Free Throw 2 of 2 (14 PTS),0,-80,3,,203401,,1611661322,62,67,4
+05:13,[CON 70-62] Jones 3pt Shot: Made (14 PTS) Assist: Stricklen (1 AST),133,223,1,,1627673,203015,1611661323,62,70,4
+04:55,[WAS] Ruffin-Pratt Layup Shot: Missed Block: Jones (4 BLK),15,21,2,1627673,203437,,1611661322,62,70,4
+04:53,[CON] Stricklen Rebound (Off:0 Def:5),0,-80,4,,203015,,1611661323,62,70,4
+04:52,[CON] Stricklen Turnover : Lost Ball (1 TO) Steal:Ruffin-Pratt (2 ST),0,-80,5,203437,203015,,1611661323,62,70,4
+04:50,[WAS] Ruffin-Pratt Jump Shot: Missed,-124,101,2,,203437,,1611661322,62,70,4
+04:49,[WAS] Delle Donne Rebound (Off:3 Def:8),0,-80,4,,203399,,1611661322,62,70,4
+04:48,[CON] Bentley Foul: Shooting (3 PF) (2 FTA),19,28,6,203399,203410,,1611661323,62,70,4
+04:48,[WAS 63-70] Delle Donne Free Throw 1 of 2 (9 PTS),0,-80,3,,203399,,1611661322,63,70,4
+04:48,[WAS 64-70] Delle Donne Free Throw 2 of 2 (10 PTS),0,-80,3,,203399,,1611661322,64,70,4
+04:33,[CON 73-64] Stricklen 3pt Shot: Made (20 PTS) Assist: Thomas (3 AST),-73,244,1,,203015,203826,1611661323,64,73,4
+04:18,[WAS 66-73] Thomas Reverse Layup Shot: Made (8 PTS) Assist: Ruffin-Pratt (3 AST),15,-1,1,,202663,203437,1611661322,66,73,4
+03:56,[CON] Thomas Turnover : Bad Pass (3 TO) Steal:Ruffin-Pratt (3 ST),0,-80,5,203437,203826,,1611661323,66,73,4
+03:50,[CON] Stricklen Foul: Shooting (5 PF) (2 FTA),9,31,6,203401,203015,,1611661323,66,73,4
+03:50,[WAS 67-73] Hill Free Throw 1 of 2 (15 PTS),0,-80,3,,203401,,1611661322,67,73,4
+03:50,[WAS] Ruffin-Pratt Substitution replaced by Toliver,0,-80,8,,203437,201911,1611661322,67,73,4
+03:50,[CON] Jones Substitution replaced by Kizer,0,-80,8,,1627673,203041,1611661323,67,73,4
+03:50,[CON] Stricklen Substitution replaced by Williams,0,-80,8,,203015,1627675,1611661323,67,73,4
+03:50,[WAS 68-73] Hill Free Throw 2 of 2 (16 PTS),0,-80,3,,203401,,1611661322,68,73,4
+03:38,[CON] Kizer Jump Shot: Missed,-99,47,2,,203041,,1611661323,68,73,4
+03:37,[WAS] Toliver Rebound (Off:0 Def:1),0,-80,4,,201911,,1611661322,68,73,4
+03:28,[CON] Williams Foul: Personal Block (1 PF) (2 FTA),105,239,6,201056,1627675,,1611661323,68,73,4
+03:28,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,68,73,4
+03:28,[WAS 69-73] Latta Free Throw 1 of 2 (6 PTS),0,-80,3,,201056,,1611661322,69,73,4
+03:28,[WAS 70-73] Latta Free Throw 2 of 2 (7 PTS),0,-80,3,,201056,,1611661322,70,73,4
+03:13,[CON] Kizer Jump Shot: Missed,22,41,2,,203041,,1611661323,70,73,4
+03:12,[WAS] Latta Rebound (Off:0 Def:2),0,-80,4,,201056,,1611661322,70,73,4
+03:00,[WAS] Delle Donne Jump Shot: Missed,-120,11,2,,203399,,1611661322,70,73,4
+03:00,[WAS] Thomas Rebound (Off:5 Def:3),0,-80,4,,202663,,1611661322,70,73,4
+03:00,[CON] Thomas Foul: Shooting (5 PF) (2 FTA),-43,21,6,202663,203826,,1611661323,70,73,4
+03:00,[WAS] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202663,,1611661322,70,73,4
+03:00,[WAS] Team Rebound,0,-80,4,,0,,1611661322,70,73,4
+03:00,[CON] Kizer Substitution replaced by Jones,0,-80,8,,203041,1627673,1611661323,70,73,4
+03:00,[WAS 71-73] Thomas Free Throw 2 of 2 (9 PTS),0,-80,3,,202663,,1611661322,71,73,4
+02:42,[CON] Jones Jump Shot: Missed,74,23,2,,1627673,,1611661323,71,73,4
+02:41,[WAS] Thomas Rebound (Off:5 Def:4),0,-80,4,,202663,,1611661322,71,73,4
+02:29,[WAS 73-73] Thomas Cutting Layup Shot: Made (11 PTS) Assist: Hill (8 AST),-27,8,1,,202663,203401,1611661322,73,73,4
+02:00,[CON] Williams Jump Shot: Missed Block: Delle Donne (5 BLK),-78,13,2,203399,1627675,,1611661323,73,73,4
+02:00,[CON] Team Rebound,0,-80,4,,0,,1611661323,73,73,4
+02:00,[CON] Team Turnover : Shot Clock Turnover,0,-80,5,,0,,1611661323,73,73,4
+01:36,[WAS] Delle Donne Jump Shot: Missed,-73,26,2,,203399,,1611661322,73,73,4
+01:34,[CON] Jones Rebound (Off:5 Def:7),0,-80,4,,1627673,,1611661323,73,73,4
+01:29,[CON 75-73] Thomas Layup Shot: Made (8 PTS) Assist: Bentley (5 AST),-11,16,1,,203826,203410,1611661323,73,75,4
+01:20,[CON] Williams Substitution replaced by Stricklen,0,-80,8,,1627675,203015,1611661323,73,75,4
+01:15,[CON] Stricklen Foul: Shooting (6 PF) (2 FTA),-35,26,6,203401,203015,,1611661323,73,75,4
+01:15,[CON] Stricklen Substitution replaced by Williams,0,-80,8,,203015,1627675,1611661323,73,75,4
+01:15,[WAS 74-75] Hill Free Throw 1 of 2 (17 PTS),0,-80,3,,203401,,1611661322,74,75,4
+01:15,[WAS 75-75] Hill Free Throw 2 of 2 (18 PTS),0,-80,3,,203401,,1611661322,75,75,4
+01:04,[CON] Bentley Jump Shot: Missed,-130,72,2,,203410,,1611661323,75,75,4
+01:03,[WAS] Team Rebound,0,-80,4,,0,,1611661322,75,75,4
+00:44.8,[WAS 77-75] Delle Donne Layup Shot: Made (12 PTS) Assist: Latta (2 AST),1,2,1,,203399,201056,1611661322,77,75,4
+00:44.8,[CON] Jones Foul: Shooting (4 PF) (1 FTA),1,2,6,203399,1627673,,1611661323,77,75,4
+00:44.8,[WAS 78-75] Delle Donne Free Throw 1 of 1 (13 PTS),0,-80,3,,203399,,1611661322,78,75,4
+00:44.8,[CON] Team Timeout : Regular,0,-80,9,,0,,1611661323,78,75,4
+00:44.8,[WAS] Toliver Substitution replaced by Cloud,0,-80,8,,201911,204333,1611661322,78,75,4
+00:44.8,[WAS] Latta Substitution replaced by Ruffin-Pratt,0,-80,8,,201056,203437,1611661322,78,75,4
+00:31.6,[CON] Thomas Jump Shot: Missed,46,43,2,,203826,,1611661323,78,75,4
+00:30.9,[WAS] Cloud Rebound (Off:0 Def:4),0,-80,4,,204333,,1611661322,78,75,4
+00:24.6,[WAS] Team Timeout : Short,0,-80,9,,0,,1611661322,78,75,4
+00:24.6,[WAS] Ruffin-Pratt Substitution replaced by Hawkins,0,-80,8,,203437,203403,1611661322,78,75,4
+00:24.6,[WAS] Thomas Substitution replaced by Latta,0,-80,8,,202663,201056,1611661322,78,75,4
+00:24.6,[WAS] Cloud Substitution replaced by Toliver,0,-80,8,,204333,201911,1611661322,78,75,4
+00:24.6,[CON] Thomas Violation:Kicked Ball,0,-80,7,,202662,,1611661323,78,75,4
+00:10.0,[WAS] Latta Jump Shot: Missed,69,-16,2,,201056,,1611661322,78,75,4
+00:09.7,[CON] Jones Rebound (Off:5 Def:8),0,-80,4,,1627673,,1611661323,78,75,4
+00:09.6,[CON] Team Timeout : Short,0,-80,9,,0,,1611661323,78,75,4
+00:09.6,[WAS] Toliver Substitution replaced by Cloud,0,-80,8,,201911,204333,1611661322,78,75,4
+00:09.6,[WAS] Hawkins Substitution replaced by Thomas,0,-80,8,,203403,202663,1611661322,78,75,4
+00:09.6,[WAS] Latta Substitution replaced by Ruffin-Pratt,0,-80,8,,201056,203437,1611661322,78,75,4
+00:09.6,[CON] Thomas Substitution replaced by Adams,0,-80,8,,203826,202634,1611661323,78,75,4
+00:09.6,[WAS] Team Timeout : Short,0,-80,9,,0,,1611661322,78,75,4
+00:03.6,[WAS] Delle Donne Foul: Shooting (3 PF) (3 FTA),-91,218,6,203410,203399,,1611661322,78,75,4
+00:03.6,[CON] Bentley Free Throw 1 of 3 Missed,0,-80,3,,203410,,1611661323,78,75,4
+00:03.6,[CON] Team Rebound,0,-80,4,,0,,1611661323,78,75,4
+00:03.6,[CON 76-78] Bentley Free Throw 2 of 3 (9 PTS),0,-80,3,,203410,,1611661323,78,76,4
+00:03.6,[CON] Team Timeout : Short,0,-80,9,,0,,1611661323,78,76,4
+00:03.6,[CON] Adams Substitution replaced by Thomas,0,-80,8,,202634,203826,1611661323,78,76,4
+00:03.6,[WAS] Hill Substitution replaced by Hawkins,0,-80,8,,203401,203403,1611661322,78,76,4
+00:03.6,[CON] Bentley Free Throw 3 of 3 Missed,0,-80,3,,203410,,1611661323,78,76,4
+00:02.9,[WAS] Delle Donne Rebound (Off:3 Def:9),0,-80,4,,203399,,1611661322,78,76,4
+00:01.8,Jump Ball Delle Donne vs Jones (Thomas gains possession),0,-80,10,1627673,203399,203826,1611661322,78,76,4
+00:01.8,[WAS] Delle Donne Turnover : Lost Ball (2 TO) Steal:Jones (1 ST),0,-80,5,1627673,203399,,1611661322,78,76,4
+00:00.7,[CON] Thomas Layup Shot: Missed Block: Thomas (1 BLK),14,26,2,202663,203826,,1611661323,78,76,4
+00:00.0,[CON] Team Rebound,0,-80,4,,0,,1611661323,78,76,4
+00:00.0,End Period,0,-80,13,,0,,0,78,76,4

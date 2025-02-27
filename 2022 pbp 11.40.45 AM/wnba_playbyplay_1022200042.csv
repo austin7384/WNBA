@@ -1,0 +1,432 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:53,Jump Ball Fowles vs Dolson (Shepard gains possession),0,-80,10,203828,201480,1629491,1611661324,0,0,1
+09:47,[MIN] Fowles Reverse Layup Shot: Missed Block: Dolson (1 BLK),-43,-8,2,203828,201480,,1611661324,0,0,1
+09:37,[MIN] Fowles Rebound (Off:1 Def:0),-43,-8,4,,201480,,1611661324,0,0,1
+09:35,[MIN 2-0] Fowles Hook Shot: Made (2 PTS),6,54,1,,201480,,1611661324,2,0,1
+09:27,[NYL] Dolson 3pt Shot: Missed,47,252,2,,203828,,1611661313,2,0,1
+09:18,[MIN] Shepard Rebound (Off:0 Def:1),47,252,4,,1629491,,1611661324,2,0,1
+09:14,[NYL] Ionescu Foul: Shooting (1 PF) (2 FTA),74,126,6,1627672,1629477,100697,1611661313,2,0,1
+09:14,[MIN 3-0] Powers Free Throw 1 of 2 (1 PTS),0,-80,3,,1627672,,1611661324,3,0,1
+09:14,[MIN 4-0] Powers Free Throw 2 of 2 (2 PTS),0,-80,3,,1627672,,1611661324,4,0,1
+09:01,[NYL] Allen Layup Shot: Missed Block: Powers (1 BLK),-9,26,2,1627672,204296,,1611661313,4,0,1
+08:52,[MIN] Powers Rebound (Off:0 Def:1),-9,26,4,,1627672,,1611661324,4,0,1
+08:49,[MIN 7-0] McBride 3pt Shot: Made (3 PTS) Assist: Powers (1 AST),234,6,1,,203825,1627672,1611661324,7,0,1
+08:41,[NYL 3-7] Howard 3pt Shot: Made (3 PTS) Assist: Whitcomb (1 AST),107,232,1,,203827,1628244,1611661313,7,3,1
+08:15,[MIN] McBride Driving Floating Jump Shot: Missed,-2,33,2,,203825,,1611661324,7,3,1
+08:15,[MIN] McBride Rebound (Off:1 Def:0),-2,33,4,,203825,,1611661324,7,3,1
+08:15,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,7,3,1
+08:14,[MIN] McBride Turnover : Out of Bounds - Bad Pass Turnover (1 TO),125,87,5,,203825,,1611661324,7,3,1
+07:55,[NYL] Allen Turnover : Bad Pass (1 TO) Steal:Powers (1 ST),-31,38,5,1627672,204296,,1611661313,7,3,1
+07:47,[MIN 9-3] Fowles Layup Shot: Made (4 PTS) Assist: Shepard (1 AST),-30,-15,1,,201480,1629491,1611661324,9,3,1
+07:38,[MIN] Shepard Foul: Shooting (1 PF) (2 FTA),38,43,6,203827,1629491,100697,1611661324,9,3,1
+07:38,[NYL 4-9] Howard Free Throw 1 of 2 (4 PTS),0,-80,3,,203827,,1611661313,9,4,1
+07:38,[NYL 5-9] Howard Free Throw 2 of 2 (5 PTS),0,-80,3,,203827,,1611661313,9,5,1
+07:24,[MIN 12-5] Jefferson 3pt Shot: Made (3 PTS) Assist: Powers (2 AST),145,192,1,,1627669,1627672,1611661324,12,5,1
+06:54,[NYL 7-12] Allen Cutting Layup Shot: Made (2 PTS) Assist: Ionescu (1 AST),30,38,1,,204296,1629477,1611661313,12,7,1
+06:41,[MIN 14-7] Jefferson Driving Layup Shot: Made (5 PTS),48,22,1,,1627669,,1611661324,14,7,1
+06:41,[NYL] Howard Foul: Shooting (1 PF) (1 FTA),48,22,6,1627669,203827,202025,1611661313,14,7,1
+06:41,[NYL] Whitcomb Substitution replaced by Dangerfield,0,-80,8,,1628244,1630101,1611661313,14,7,1
+06:41,[MIN 15-7] Jefferson Free Throw 1 of 1 (6 PTS),0,-80,3,,1627669,,1611661324,15,7,1
+06:23,[NYL 9-15] Howard Turnaround Hook Shot: Made (7 PTS),-5,83,1,,203827,,1611661313,15,9,1
+06:07,[NYL] Dolson Foul: Shooting (1 PF) (2 FTA),27,10,6,201480,203828,1627526,1611661313,15,9,1
+06:07,[MIN] Fowles Free Throw 1 of 2 Missed,0,-80,3,,201480,,1611661324,15,9,1
+06:07,[MIN] Team Rebound,0,-80,4,,0,,1611661324,15,9,1
+06:07,[MIN 16-9] Fowles Free Throw 2 of 2 (5 PTS),0,-80,3,,201480,,1611661324,16,9,1
+05:48,[NYL] Dangerfield 3pt Shot: Missed,224,82,2,,1630101,,1611661313,16,9,1
+05:44,[MIN] McBride Rebound (Off:1 Def:1),224,82,4,,203825,,1611661324,16,9,1
+05:40,[MIN] McBride Turnover : Out of Bounds - Bad Pass Turnover (2 TO),21,239,5,,203825,,1611661324,16,9,1
+05:27,[NYL 11-16] Ionescu Pullup Jump shot: Made (2 PTS),-118,35,1,,1629477,,1611661313,16,11,1
+05:11,[MIN] Jefferson Turnover : Bad Pass (1 TO) Steal:Howard (1 ST),67,154,5,203827,1627669,,1611661324,16,11,1
+05:07,[NYL 13-16] Allen Running Layup Shot: Made (4 PTS) Assist: Howard (1 AST),40,22,1,,204296,203827,1611661313,16,13,1
+04:45,[MIN] Shepard Cutting Layup Shot: Missed Block: Dolson (2 BLK),55,13,2,203828,1629491,,1611661324,16,13,1
+04:40,[NYL] Dangerfield Rebound (Off:0 Def:1),55,13,4,,1630101,,1611661313,16,13,1
+04:40,[MIN] Jefferson Foul: Shooting (1 PF) (2 FTA),40,11,6,203828,1627669,1627526,1611661324,16,13,1
+04:40,Timeout Officials,0,-80,9,,0,,0,16,13,1
+04:40,[NYL] Allen Substitution replaced by Durr,0,-80,8,,204296,1629476,1611661313,16,13,1
+04:40,[NYL 14-16] Dolson Free Throw 1 of 2 (1 PTS),0,-80,3,,203828,,1611661313,16,14,1
+04:40,[NYL] Dolson Free Throw 2 of 2 Missed,0,-80,3,,203828,,1611661313,16,14,1
+04:36,[MIN] Shepard Rebound (Off:0 Def:2),0,-80,4,,1629491,,1611661324,16,14,1
+04:25,[MIN 18-14] Shepard Driving Layup Shot: Made (2 PTS) Assist: Jefferson (1 AST),-30,1,1,,1629491,1627669,1611661324,18,14,1
+04:03,[NYL] Dangerfield Pullup Jump shot: Missed,-1,108,2,,1630101,,1611661313,18,14,1
+03:59,[MIN] Shepard Rebound (Off:0 Def:3),-1,108,4,,1629491,,1611661324,18,14,1
+03:50,[MIN 20-14] Fowles Driving Finger Roll Layup Shot: Made (7 PTS) Assist: McBride (1 AST),-15,21,1,,201480,203825,1611661324,20,14,1
+03:26,[NYL] Howard Pullup Jump shot: Missed,-116,169,2,,203827,,1611661313,20,14,1
+03:23,[MIN] Jefferson Rebound (Off:0 Def:1),-116,169,4,,1627669,,1611661324,20,14,1
+03:19,[MIN] Fowles Foul: Offensive (1 PF),-19,105,6,1630101,201480,,1611661324,20,14,1
+03:19,[MIN] Fowles Turnover : Offensive Foul Turnover (1 TO),-19,105,5,,201480,,1611661324,20,14,1
+03:19,[MIN] Powers Substitution replaced by Carleton,0,-80,8,,1627672,1629524,1611661324,20,14,1
+03:19,[MIN] Fowles Substitution replaced by Milic,0,-80,8,,201480,1631263,1611661324,20,14,1
+03:19,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,20,14,1
+03:19,[NYL] Ionescu Substitution replaced by Whitcomb,0,-80,8,,1629477,1628244,1611661313,20,14,1
+03:19,[NYL] Dolson Substitution replaced by Xu,0,-80,8,,203828,1629566,1611661313,20,14,1
+03:04,[NYL 17-20] Xu 3pt Shot: Made (3 PTS) Assist: Whitcomb (2 AST),84,238,1,,1629566,1628244,1611661313,20,17,1
+02:45,[MIN 23-17] Jefferson 3pt Shot: Made (9 PTS) Assist: Shepard (2 AST),-125,198,1,,1627669,1629491,1611661324,23,17,1
+02:45,[NYL] Dangerfield Foul: Shooting (1 PF) (1 FTA),-125,198,6,1627669,1630101,1627526,1611661313,23,17,1
+02:45,[MIN 24-17] Jefferson Free Throw 1 of 1 (10 PTS),0,-80,3,,1627669,,1611661324,24,17,1
+02:31,[NYL] Whitcomb 3pt Shot: Missed,-172,180,2,,1628244,,1611661313,24,17,1
+02:27,[NYL] Dangerfield Rebound (Off:1 Def:1),-172,180,4,,1630101,,1611661313,24,17,1
+02:24,[NYL 19-24] Whitcomb Driving Floating Jump Shot: Made (2 PTS) Assist: Dangerfield (1 AST),-117,97,1,,1628244,1630101,1611661313,24,19,1
+02:05,[MIN] Shepard Driving Layup Shot: Missed,17,21,2,,1629491,,1611661324,24,19,1
+01:58,[MIN] Milic Rebound (Off:1 Def:0),17,21,4,,1631263,,1611661324,24,19,1
+01:57,[MIN 26-19] Milic Putback Layup Shot: Made (2 PTS),-8,6,1,,1631263,,1611661324,26,19,1
+01:49,[NYL] Onyenwere Driving Layup Shot: Missed,-28,53,2,,1630446,,1611661313,26,19,1
+01:46,[MIN] Shepard Rebound (Off:0 Def:4),-28,53,4,,1629491,,1611661324,26,19,1
+01:41,[NYL] Durr Foul: Shooting (1 PF) (2 FTA),42,9,6,203825,1629476,202025,1611661313,26,19,1
+01:41,[MIN 27-19] McBride Free Throw 1 of 2 (4 PTS),0,-80,3,,203825,,1611661324,27,19,1
+01:41,[MIN] Jefferson Substitution replaced by Banham,0,-80,8,,1627669,1627671,1611661324,27,19,1
+01:41,[MIN 28-19] McBride Free Throw 2 of 2 (5 PTS),0,-80,3,,203825,,1611661324,28,19,1
+01:37,[MIN] Carleton Foul: Personal (1 PF),191,328,6,1628244,1629524,1627526,1611661324,28,19,1
+01:37,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,28,19,1
+01:37,[MIN] McBride Substitution replaced by Westbrook,0,-80,8,,203825,1631091,1611661324,28,19,1
+01:26,[NYL] Durr 3pt Shot: Missed,-238,35,2,,1629476,,1611661313,28,19,1
+01:23,[MIN] Milic Rebound (Off:1 Def:1),-238,35,4,,1631263,,1611661324,28,19,1
+01:16,[MIN 30-19] Banham Pullup Jump shot: Made (2 PTS),66,137,1,,1627671,,1611661324,30,19,1
+01:03,[NYL] Whitcomb 3pt Shot: Missed,197,151,2,,1628244,,1611661313,30,19,1
+01:01,[MIN] Team Rebound,197,151,4,,0,,1611661324,30,19,1
+01:01,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,30,19,1
+01:01,[NYL] Dangerfield Substitution replaced by Ionescu,0,-80,8,,1630101,1629477,1611661313,30,19,1
+01:01,[NYL] Onyenwere Substitution replaced by Howard,0,-80,8,,1630446,203827,1611661313,30,19,1
+00:53.6,[MIN 32-19] Westbrook Driving Layup Shot: Made (2 PTS),46,14,1,,1631091,,1611661324,32,19,1
+00:43.8,[MIN] Banham Foul: Shooting (1 PF) (2 FTA),-18,168,6,1629477,1627671,202025,1611661324,32,19,1
+00:43.8,[NYL 20-32] Ionescu Free Throw 1 of 2 (3 PTS),0,-80,3,,1629477,,1611661313,32,20,1
+00:43.8,[NYL 21-32] Ionescu Free Throw 2 of 2 (4 PTS),0,-80,3,,1629477,,1611661313,32,21,1
+00:35.7,[MIN 34-21] Shepard Layup Shot: Made (4 PTS) Assist: Westbrook (1 AST),-34,1,1,,1629491,1631091,1611661324,34,21,1
+00:22.6,[NYL] Whitcomb 3pt Shot: Missed,190,153,2,,1628244,,1611661313,34,21,1
+00:20.4,[NYL] Xu Rebound (Off:1 Def:0),190,153,4,,1629566,,1611661313,34,21,1
+00:16.9,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,34,21,1
+00:07.4,[NYL 23-34] Howard Jump Shot: Made (9 PTS) Assist: Whitcomb (3 AST),77,183,1,,203827,1628244,1611661313,34,23,1
+00:01.0,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,34,23,1
+00:00.0,Instant Replay - Support Ruling,0,-80,18,,0,,0,34,23,1
+00:00.0,End Period,0,-80,13,,0,,0,34,23,1
+10:00,Start Period,0,-80,12,,0,,0,34,23,2
+09:47,[NYL 25-34] Xu Layup Shot: Made (5 PTS) Assist: Ionescu (2 AST),-23,32,1,,1629566,1629477,1611661313,34,25,2
+09:28,[MIN] Milic Hook Shot: Missed,1,20,2,,1631263,,1611661324,34,25,2
+09:25,[NYL] Ionescu Rebound (Off:0 Def:1),1,20,4,,1629477,,1611661313,34,25,2
+09:16,[NYL] Ionescu Turnover : Bad Pass (1 TO) Steal:Milic (1 ST),119,233,5,1631263,1629477,,1611661313,34,25,2
+09:09,[MIN] Carleton Running Layup Shot: Missed,22,20,2,,1629524,,1611661324,34,25,2
+09:03,[MIN] Shepard Rebound (Off:1 Def:4),-15,5,4,,1629491,,1611661324,34,25,2
+08:58,[MIN 37-25] Banham 3pt Shot: Made (5 PTS) Assist: Shepard (3 AST),0,229,1,,1627671,1629491,1611661324,37,25,2
+08:49,[NYL 27-37] Xu Jump Shot: Made (7 PTS) Assist: Whitcomb (4 AST),54,47,1,,1629566,1628244,1611661313,37,27,2
+08:33,[NYL] Howard Foul: Personal (2 PF),33,10,6,1629491,203827,1627526,1611661313,37,27,2
+08:23,[MIN] Westbrook Pullup Jump shot: Missed,74,173,2,,1631091,,1611661324,37,27,2
+08:19,[NYL] Ionescu Rebound (Off:0 Def:2),74,173,4,,1629477,,1611661313,37,27,2
+08:07,[NYL 29-37] Howard Driving Floating Jump Shot: Made (11 PTS) Assist: Allen (1 AST),61,103,1,,203827,204296,1611661313,37,29,2
+08:02,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,37,29,2
+08:02,[MIN] Westbrook Substitution replaced by Powers,0,-80,8,,1631091,1627672,1611661324,37,29,2
+08:02,[MIN] Carleton Substitution replaced by Jefferson,0,-80,8,,1629524,1627669,1611661324,37,29,2
+08:02,[MIN] Shepard Substitution replaced by McBride,0,-80,8,,1629491,203825,1611661324,37,29,2
+08:02,[MIN] Banham Substitution replaced by Fowles,0,-80,8,,1627671,201480,1611661324,37,29,2
+07:47,[MIN 39-29] Milic Pullup Jump shot: Made (4 PTS) Assist: McBride (2 AST),7,115,1,,1631263,203825,1611661324,39,29,2
+07:29,[NYL 31-39] Howard Pullup Jump shot: Made (13 PTS) Assist: Whitcomb (5 AST),133,61,1,,203827,1628244,1611661313,39,31,2
+07:05,[MIN] McBride Turnover : Bad Pass (3 TO) Steal:Allen (1 ST),-125,216,5,204296,203825,,1611661324,39,31,2
+06:57,[NYL 33-39] Howard Running Layup Shot: Made (15 PTS) Assist: Allen (2 AST),33,35,1,,203827,204296,1611661313,39,33,2
+06:44,[MIN] Milic Foul: Offensive (1 PF),84,180,6,204296,1631263,,1611661324,39,33,2
+06:44,[MIN] Milic Turnover : Offensive Foul Turnover (1 TO),84,180,5,,1631263,,1611661324,39,33,2
+06:25,[NYL] Ionescu 3pt Shot: Missed,229,40,2,,1629477,,1611661313,39,33,2
+06:18,[NYL] Howard Rebound (Off:1 Def:0),229,40,4,,203827,,1611661313,39,33,2
+06:16,[NYL 36-39] Ionescu 3pt Shot: Made (7 PTS) Assist: Whitcomb (6 AST),232,5,1,,1629477,1628244,1611661313,39,36,2
+05:59,[MIN] Powers Driving Floating Jump Shot: Missed,-6,55,2,,1627672,,1611661324,39,36,2
+05:55,[NYL] Xu Rebound (Off:1 Def:1),-6,55,4,,1629566,,1611661313,39,36,2
+05:45,[NYL] Xu 3pt Shot: Missed,69,244,2,,1629566,,1611661313,39,36,2
+05:42,[MIN] Milic Rebound (Off:1 Def:2),69,244,4,,1631263,,1611661324,39,36,2
+05:32,[MIN] Powers 3pt Shot: Missed,-116,205,2,,1627672,,1611661324,39,36,2
+05:29,[NYL] Ionescu Rebound (Off:0 Def:3),-116,205,4,,1629477,,1611661313,39,36,2
+05:25,[NYL] Allen 3pt Shot: Missed,-159,204,2,,204296,,1611661313,39,36,2
+05:22,[NYL] Ionescu Rebound (Off:1 Def:3),-159,204,4,,1629477,,1611661313,39,36,2
+05:20,[NYL] Ionescu Pullup Jump shot: Missed,5,133,2,,1629477,,1611661313,39,36,2
+05:20,[MIN] Fowles Rebound (Off:1 Def:1),5,133,4,,201480,,1611661324,39,36,2
+05:09,[MIN 41-36] Milic Layup Shot: Made (6 PTS) Assist: Jefferson (2 AST),7,8,1,,1631263,1627669,1611661324,41,36,2
+04:53,[NYL] Howard 3pt Shot: Missed,-44,257,2,,203827,,1611661313,41,36,2
+04:48,[MIN] Milic Rebound (Off:1 Def:3),-44,257,4,,1631263,,1611661324,41,36,2
+04:36,[MIN] Jefferson Step Back Jump shot: Missed,-118,110,2,,1627669,,1611661324,41,36,2
+04:32,[NYL] Whitcomb Rebound (Off:0 Def:1),-118,110,4,,1628244,,1611661313,41,36,2
+04:21,[NYL 38-41] Xu Jump Shot: Made (9 PTS) Assist: Whitcomb (7 AST),-157,6,1,,1629566,1628244,1611661313,41,38,2
+04:12,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,41,38,2
+04:12,[MIN] Milic Substitution replaced by Westbrook,0,-80,8,,1631263,1631091,1611661324,41,38,2
+04:12,[MIN] Powers Substitution replaced by Shepard,0,-80,8,,1627672,1629491,1611661324,41,38,2
+04:12,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,41,38,2
+04:12,[NYL] Xu Substitution replaced by Dolson,0,-80,8,,1629566,203828,1611661313,41,38,2
+04:12,[NYL] Whitcomb Substitution replaced by Dangerfield,0,-80,8,,1628244,1630101,1611661313,41,38,2
+04:03,[MIN] McBride Jump Shot: Missed,-93,128,2,,203825,,1611661324,41,38,2
+03:59,[NYL] Dangerfield Rebound (Off:1 Def:2),-93,128,4,,1630101,,1611661313,41,38,2
+03:51,[NYL] Onyenwere Driving Finger Roll Layup Shot: Missed Block: Fowles (1 BLK),63,23,2,201480,1630446,,1611661313,41,38,2
+03:51,[NYL] Team Rebound,63,23,4,,0,,1611661313,41,38,2
+03:51,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,38,2
+03:46,[NYL] Ionescu Pullup Jump shot: Missed,40,168,2,,1629477,,1611661313,41,38,2
+03:45,[MIN] Team Rebound,40,168,4,,0,,1611661324,41,38,2
+03:45,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,41,38,2
+03:35,[NYL] Dangerfield Foul: Shooting (2 PF) (2 FTA),38,123,6,1627669,1630101,100697,1611661313,41,38,2
+03:35,[MIN 42-38] Jefferson Free Throw 1 of 2 (11 PTS),0,-80,3,,1627669,,1611661324,42,38,2
+03:35,[MIN 43-38] Jefferson Free Throw 2 of 2 (12 PTS),0,-80,3,,1627669,,1611661324,43,38,2
+03:16,[NYL 40-43] Allen Jump Shot: Made (6 PTS) Assist: Ionescu (3 AST),-178,58,1,,204296,1629477,1611661313,43,40,2
+03:05,[MIN] Fowles Foul: Offensive (2 PF),34,155,6,1630101,201480,,1611661324,43,40,2
+03:05,[MIN] Fowles Turnover : Offensive Foul Turnover (2 TO),34,155,5,,201480,,1611661324,43,40,2
+02:46,[NYL] Onyenwere Pullup Jump shot: Missed,-159,64,2,,1630446,,1611661313,43,40,2
+02:42,[MIN] Fowles Rebound (Off:1 Def:2),-159,64,4,,201480,,1611661324,43,40,2
+02:31,[MIN] Jefferson Driving Layup Shot: Missed,49,21,2,,1627669,,1611661324,43,40,2
+02:28,[NYL] Onyenwere Rebound (Off:0 Def:1),49,21,4,,1630446,,1611661313,43,40,2
+02:21,[NYL] Ionescu Turnover : Step Out of Bounds Turnover (2 TO),216,105,5,,1629477,,1611661313,43,40,2
+02:21,[MIN] Westbrook Substitution replaced by Powers,0,-80,8,,1631091,1627672,1611661324,43,40,2
+02:21,[NYL] Ionescu Substitution replaced by Durr,0,-80,8,,1629477,1629476,1611661313,43,40,2
+02:09,[MIN] Shepard Driving Layup Shot: Missed,34,9,2,,1629491,,1611661324,43,40,2
+02:07,[MIN] Shepard Rebound (Off:2 Def:4),34,9,4,,1629491,,1611661324,43,40,2
+02:06,[MIN] Fowles Layup Shot: Missed,11,-1,2,,201480,,1611661324,43,40,2
+02:02,[NYL] Dolson Rebound (Off:0 Def:1),11,-1,4,,203828,,1611661313,43,40,2
+01:47,[NYL] Onyenwere Turnover : Bad Pass (1 TO) Steal:Powers (2 ST),-188,113,5,1627672,1630446,,1611661313,43,40,2
+01:42,[MIN] Powers Driving Floating Jump Shot: Missed,15,10,2,,1627672,,1611661324,43,40,2
+01:38,[MIN] Powers Rebound (Off:1 Def:1),15,10,4,,1627672,,1611661324,43,40,2
+01:37,[MIN] Jefferson Jump Shot: Missed,-126,62,2,,1627669,,1611661324,43,40,2
+01:32,[NYL] Dolson Rebound (Off:0 Def:2),-126,62,4,,203828,,1611661313,43,40,2
+01:29,[NYL] Allen Pullup Jump shot: Missed,182,5,2,,204296,,1611661313,43,40,2
+01:27,[MIN] Fowles Rebound (Off:1 Def:3),182,5,4,,201480,,1611661324,43,40,2
+01:03,[MIN 45-40] Fowles Hook Shot: Made (9 PTS) Assist: Shepard (4 AST),-5,10,1,,201480,1629491,1611661324,45,40,2
+00:58.0,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,45,40,2
+00:58.0,[NYL] Allen Substitution replaced by Howard,0,-80,8,,204296,203827,1611661313,45,40,2
+00:58.0,[NYL] Onyenwere Substitution replaced by Whitcomb,0,-80,8,,1630446,1628244,1611661313,45,40,2
+00:48.7,[NYL] Dolson Jump Shot: Missed,-100,184,2,,203828,,1611661313,45,40,2
+00:45.4,[MIN] Shepard Rebound (Off:2 Def:5),-100,184,4,,1629491,,1611661324,45,40,2
+00:36.1,[MIN] Shepard 3pt Shot: Missed,221,87,2,,1629491,,1611661324,45,40,2
+00:34.9,[NYL] Team Rebound,221,87,4,,0,,1611661313,45,40,2
+00:34.9,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,45,40,2
+00:15.4,[NYL] Whitcomb 3pt Shot: Missed,-148,238,2,,1628244,,1611661313,45,40,2
+00:13.4,[NYL] Howard Rebound (Off:2 Def:0),-148,238,4,,203827,,1611661313,45,40,2
+00:10.1,[NYL 42-45] Howard Putback Layup Shot: Made (17 PTS),-6,27,1,,203827,,1611661313,45,42,2
+00:00.5,[MIN] Powers Pullup Jump shot: Missed,22,67,2,,1627672,,1611661324,45,42,2
+00:00.5,[MIN] Team Rebound,22,67,4,,0,,1611661324,45,42,2
+00:00.0,End Period,0,-80,13,,0,,0,45,42,2
+10:00,Start Period,0,-80,12,,0,,0,45,42,3
+09:42,[NYL] Whitcomb Floating Jump shot: Missed,13,30,2,,1628244,,1611661313,45,42,3
+09:41,[NYL] Dolson Rebound (Off:1 Def:2),13,30,4,,203828,,1611661313,45,42,3
+09:41,[MIN] Fowles Foul: Shooting (3 PF) (2 FTA),68,9,6,203828,201480,100697,1611661324,45,42,3
+09:41,[NYL] Dolson Free Throw 1 of 2 Missed,0,-80,3,,203828,,1611661313,45,42,3
+09:41,[NYL] Team Rebound,0,-80,4,,0,,1611661313,45,42,3
+09:41,[NYL 43-45] Dolson Free Throw 2 of 2 (2 PTS),0,-80,3,,203828,,1611661313,45,43,3
+09:27,[MIN] McBride 3pt Shot: Missed,200,139,2,,203825,,1611661324,45,43,3
+09:22,[NYL] Whitcomb Rebound (Off:0 Def:2),200,139,4,,1628244,,1611661313,45,43,3
+09:12,[NYL] Howard Floating Jump shot: Missed,-28,47,2,,203827,,1611661313,45,43,3
+09:09,[MIN] Shepard Rebound (Off:2 Def:6),-28,47,4,,1629491,,1611661324,45,43,3
+09:04,[NYL] Allen Foul: Shooting (1 PF) (2 FTA),-15,76,6,1627672,204296,100697,1611661313,45,43,3
+09:04,[MIN 46-43] Powers Free Throw 1 of 2 (3 PTS),0,-80,3,,1627672,,1611661324,46,43,3
+09:04,[MIN 47-43] Powers Free Throw 2 of 2 (4 PTS),0,-80,3,,1627672,,1611661324,47,43,3
+08:51,[NYL] Allen Cutting Layup Shot: Missed,9,31,2,,204296,,1611661313,47,43,3
+08:48,[MIN] Powers Rebound (Off:1 Def:2),9,31,4,,1627672,,1611661324,47,43,3
+08:44,[MIN] Powers Pullup Jump shot: Missed,-74,136,2,,1627672,,1611661324,47,43,3
+08:41,[NYL] Ionescu Rebound (Off:1 Def:4),-74,136,4,,1629477,,1611661313,47,43,3
+08:36,[NYL] Allen Turnover : Out of Bounds Lost Ball Turnover (2 TO),-29,-48,5,,204296,,1611661313,47,43,3
+08:16,[MIN] Powers 3pt Shot: Missed,-43,258,2,,1627672,,1611661324,47,43,3
+08:11,[MIN] McBride Rebound (Off:2 Def:1),-43,258,4,,203825,,1611661324,47,43,3
+08:08,[MIN] Shepard Layup Shot: Missed,-32,37,2,,1629491,,1611661324,47,43,3
+08:07,[NYL] Dolson Rebound (Off:1 Def:3),-32,37,4,,203828,,1611661313,47,43,3
+07:57,[NYL] Whitcomb 3pt Shot: Missed,-139,181,2,,1628244,,1611661313,47,43,3
+07:52,[NYL] Howard Rebound (Off:3 Def:0),-139,181,4,,203827,,1611661313,47,43,3
+07:46,[NYL] Dolson Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-4,221,5,,203828,,1611661313,47,43,3
+07:20,[MIN 49-43] Powers Pullup Jump shot: Made (6 PTS) Assist: Jefferson (3 AST),18,205,1,,1627672,1627669,1611661324,49,43,3
+07:00,[NYL 46-49] Allen 3pt Shot: Made (9 PTS) Assist: Ionescu (4 AST),-188,133,1,,204296,1629477,1611661313,49,46,3
+06:34,[NYL] Ionescu Foul: Shooting (2 PF) (2 FTA),-78,86,6,1627672,1629477,202025,1611661313,49,46,3
+06:34,[MIN] Jefferson Substitution replaced by Banham,0,-80,8,,1627669,1627671,1611661324,49,46,3
+06:34,Stoppage: Equipment Malfunction,0,-80,20,,0,,0,49,46,3
+06:34,[MIN 50-46] Powers Free Throw 1 of 2 (7 PTS),0,-80,3,,1627672,,1611661324,50,46,3
+06:34,Stoppage: Court Cleanup,0,-80,20,,0,,0,50,46,3
+06:34,[MIN 51-46] Powers Free Throw 2 of 2 (8 PTS),0,-80,3,,1627672,,1611661324,51,46,3
+06:18,[NYL] Ionescu Cutting Layup Shot: Missed Block: Powers (2 BLK),-27,10,2,1627672,1629477,,1611661313,51,46,3
+06:14,[MIN] Fowles Rebound (Off:1 Def:4),-27,10,4,,201480,,1611661324,51,46,3
+06:09,[MIN 53-46] Shepard Cutting Layup Shot: Made (6 PTS) Assist: Banham (1 AST),44,18,1,,1629491,1627671,1611661324,53,46,3
+05:59,[NYL] Allen Pullup Jump shot: Missed,70,170,2,,204296,,1611661313,53,46,3
+05:55,[MIN] Fowles Rebound (Off:1 Def:5),70,170,4,,201480,,1611661324,53,46,3
+05:49,[MIN] Banham 3pt Shot: Missed,-190,210,2,,1627671,,1611661324,53,46,3
+05:46,[NYL] Dolson Rebound (Off:1 Def:4),-190,210,4,,203828,,1611661313,53,46,3
+05:35,[NYL] Whitcomb Turnover : Bad Pass (1 TO) Steal:Fowles (1 ST),-15,205,5,201480,1628244,,1611661313,53,46,3
+05:20,[MIN] McBride Driving Floating Jump Shot: Missed,119,99,2,,203825,,1611661324,53,46,3
+05:17,[NYL] Howard Rebound (Off:3 Def:1),119,99,4,,203827,,1611661313,53,46,3
+05:09,[MIN] Banham Foul: Shooting (2 PF) (2 FTA),35,33,6,203827,1627671,202025,1611661324,53,46,3
+05:09,[NYL 47-53] Howard Free Throw 1 of 2 (18 PTS),0,-80,3,,203827,,1611661313,53,47,3
+05:09,[NYL] Dolson Substitution replaced by Dangerfield,0,-80,8,,203828,1630101,1611661313,53,47,3
+05:09,[NYL] Whitcomb Substitution replaced by Xu,0,-80,8,,1628244,1629566,1611661313,53,47,3
+05:09,[NYL 48-53] Howard Free Throw 2 of 2 (19 PTS),0,-80,3,,203827,,1611661313,53,48,3
+05:02,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,53,48,3
+04:54,[MIN 56-48] McBride 3pt Shot: Made (8 PTS) Assist: Banham (2 AST),-177,203,1,,203825,1627671,1611661324,56,48,3
+04:35,[MIN] Shepard Foul: Shooting (2 PF) (2 FTA),-100,36,6,1630101,1629491,100697,1611661324,56,48,3
+04:35,Timeout Officials,0,-80,9,,0,,0,56,48,3
+04:35,Instant Replay - Support Ruling,0,-80,18,,0,,0,56,48,3
+04:35,[NYL] Dangerfield Free Throw 1 of 2 Missed,0,-80,3,,1630101,,1611661313,56,48,3
+04:35,[NYL] Team Rebound,0,-80,4,,0,,1611661313,56,48,3
+04:35,[NYL 49-56] Dangerfield Free Throw 2 of 2 (1 PTS),0,-80,3,,1630101,,1611661313,56,49,3
+04:22,[MIN] McBride Turnover : Out of Bounds - Bad Pass Turnover (4 TO),5,255,5,,203825,,1611661324,56,49,3
+04:02,[NYL 52-56] Howard 3pt Shot: Made (22 PTS) Assist: Dangerfield (2 AST),-174,171,1,,203827,1630101,1611661313,56,52,3
+03:39,[MIN 58-52] Powers Pullup Jump shot: Made (10 PTS),-70,174,1,,1627672,,1611661324,58,52,3
+03:19,[NYL 55-58] Allen 3pt Shot: Made (12 PTS) Assist: Ionescu (5 AST),-185,142,1,,204296,1629477,1611661313,58,55,3
+03:02,[MIN] Powers Pullup Jump shot: Missed,75,155,2,,1627672,,1611661324,58,55,3
+02:59,[NYL] Ionescu Rebound (Off:1 Def:5),75,155,4,,1629477,,1611661313,58,55,3
+02:54,[NYL 58-58] Allen 3pt Shot: Made (15 PTS) Assist: Ionescu (6 AST),-65,232,1,,204296,1629477,1611661313,58,58,3
+02:54,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,58,58,3
+02:54,[MIN] Shepard Substitution replaced by Jefferson,0,-80,8,,1629491,1627669,1611661324,58,58,3
+02:54,[MIN] Banham Substitution replaced by Carleton,0,-80,8,,1627671,1629524,1611661324,58,58,3
+02:54,[NYL] Howard Substitution replaced by Onyenwere,0,-80,8,,203827,1630446,1611661313,58,58,3
+02:54,[NYL] Ionescu Substitution replaced by Durr,0,-80,8,,1629477,1629476,1611661313,58,58,3
+02:41,[MIN] Powers Turnover : Bad Pass (1 TO) Steal:Allen (2 ST),-56,40,5,204296,1627672,,1611661324,58,58,3
+02:32,[NYL] Allen 3pt Shot: Missed,154,185,2,,204296,,1611661313,58,58,3
+02:29,[MIN] Fowles Rebound (Off:1 Def:6),154,185,4,,201480,,1611661324,58,58,3
+02:20,[MIN 60-58] Carleton Pullup Jump shot: Made (2 PTS) Assist: Jefferson (4 AST),45,134,1,,1629524,1627669,1611661324,60,58,3
+02:07,[NYL 60-60] Onyenwere Driving Layup Shot: Made (2 PTS) Assist: Dangerfield (3 AST),34,10,1,,1630446,1630101,1611661313,60,60,3
+01:54,[MIN] Jefferson Turnover : Lost Ball (2 TO) Steal:Onyenwere (1 ST),-20,112,5,1630446,1627669,,1611661324,60,60,3
+01:45,[NYL 63-60] Allen 3pt Shot: Made (18 PTS) Assist: Durr (1 AST),-163,167,1,,204296,1629476,1611661313,60,63,3
+01:27,[MIN] Fowles Layup Shot: Missed Block: Xu (1 BLK),-29,48,2,1629566,201480,,1611661324,60,63,3
+01:27,[MIN] Fowles Rebound (Off:2 Def:6),-29,48,4,,201480,,1611661324,60,63,3
+01:27,[MIN 62-63] Fowles Putback Layup Shot: Made (11 PTS),-18,15,1,,201480,,1611661324,62,63,3
+01:27,[NYL] Dangerfield Foul: Shooting (3 PF) (1 FTA),-18,15,6,201480,1630101,100697,1611661313,62,63,3
+01:27,[MIN] McBride Substitution replaced by Milic,0,-80,8,,203825,1631263,1611661324,62,63,3
+01:27,[NYL] Dangerfield Substitution replaced by Ionescu,0,-80,8,,1630101,1629477,1611661313,62,63,3
+01:27,[MIN] Fowles Free Throw 1 of 1 Missed,0,-80,3,,201480,,1611661324,62,63,3
+01:13,[NYL] Ionescu Rebound (Off:1 Def:6),0,-80,4,,1629477,,1611661313,62,63,3
+01:11,[NYL] Allen 3pt Shot: Missed,65,229,2,,204296,,1611661313,62,63,3
+01:11,[MIN] Powers Rebound (Off:1 Def:3),65,229,4,,1627672,,1611661324,62,63,3
+01:11,[NYL] Onyenwere Foul: Personal (1 PF) (2 FTA),17,850,6,1627672,1630446,100697,1611661313,62,63,3
+01:11,[MIN 63-63] Powers Free Throw 1 of 2 (11 PTS),0,-80,3,,1627672,,1611661324,63,63,3
+01:11,[MIN] Powers Free Throw 2 of 2 Missed,0,-80,3,,1627672,,1611661324,63,63,3
+01:07,[NYL] Onyenwere Rebound (Off:0 Def:2),0,-80,4,,1630446,,1611661313,63,63,3
+00:59.4,[NYL] Durr Turnover : Bad Pass (1 TO) Steal:Jefferson (1 ST),85,192,5,1627669,1629476,,1611661313,63,63,3
+00:54.8,[MIN] Jefferson Running Layup Shot: Missed Block: Durr (1 BLK),41,26,2,1629476,1627669,,1611661324,63,63,3
+00:49.8,[MIN] Fowles Rebound (Off:3 Def:6),41,26,4,,201480,,1611661324,63,63,3
+00:48.7,[MIN] Carleton 3pt Shot: Missed,-5,260,2,,1629524,,1611661324,63,63,3
+00:45.6,[NYL] Xu Rebound (Off:1 Def:2),-5,260,4,,1629566,,1611661313,63,63,3
+00:36.9,[NYL] Ionescu 3pt Shot: Missed,39,231,2,,1629477,,1611661313,63,63,3
+00:34.5,[NYL] Onyenwere Rebound (Off:1 Def:2),39,231,4,,1630446,,1611661313,63,63,3
+00:33.6,[NYL 65-63] Onyenwere Putback Layup Shot: Made (4 PTS),22,0,1,,1630446,,1611661313,63,65,3
+00:22.0,[MIN] Jefferson Pullup Jump shot: Missed,40,183,2,,1627669,,1611661324,63,65,3
+00:17.7,[MIN] Fowles Rebound (Off:4 Def:6),40,183,4,,201480,,1611661324,63,65,3
+00:16.6,[MIN] Fowles Putback Layup Shot: Missed Block: Allen (1 BLK),-16,18,2,204296,201480,,1611661324,63,65,3
+00:16.6,[NYL] Xu Rebound (Off:1 Def:3),-16,18,4,,1629566,,1611661313,63,65,3
+00:02.1,[NYL] Allen 3pt Shot: Missed,131,218,2,,204296,,1611661313,63,65,3
+00:02.1,[MIN] Powers Rebound (Off:1 Def:4),131,218,4,,1627672,,1611661324,63,65,3
+00:00.0,End Period,0,-80,13,,0,,0,63,65,3
+10:00,Start Period,0,-80,12,,0,,0,63,65,4
+09:47,[MIN] Westbrook Pullup Jump shot: Missed,111,118,2,,1631091,,1611661324,63,65,4
+09:44,[MIN] Milic Rebound (Off:2 Def:3),111,118,4,,1631263,,1611661324,63,65,4
+09:42,[MIN] Milic Putback Layup Shot: Missed,-29,29,2,,1631263,,1611661324,63,65,4
+09:40,[NYL] Allen Rebound (Off:0 Def:1),-29,29,4,,204296,,1611661313,63,65,4
+09:33,[MIN] Westbrook Foul: Shooting (1 PF) (2 FTA),-39,24,6,1630446,1631091,202025,1611661324,63,65,4
+09:33,[NYL 66-63] Onyenwere Free Throw 1 of 2 (5 PTS),0,-80,3,,1630446,,1611661313,63,66,4
+09:33,[NYL 67-63] Onyenwere Free Throw 2 of 2 (6 PTS),0,-80,3,,1630446,,1611661313,63,67,4
+09:12,[MIN] Shepard Driving Layup Shot: Missed Block: Xu (2 BLK),-44,34,2,1629566,1629491,,1611661324,63,67,4
+09:08,[NYL] Dangerfield Rebound (Off:1 Def:3),-44,34,4,,1630101,,1611661313,63,67,4
+09:04,[NYL 69-63] Onyenwere Driving Layup Shot: Made (8 PTS) Assist: Whitcomb (8 AST),29,13,1,,1630446,1628244,1611661313,63,69,4
+09:01,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,63,69,4
+09:01,[MIN] Carleton Substitution replaced by Powers,0,-80,8,,1629524,1627672,1611661324,63,69,4
+09:01,[MIN] Milic Substitution replaced by McBride,0,-80,8,,1631263,203825,1611661324,63,69,4
+09:01,[MIN] Westbrook Substitution replaced by Fowles,0,-80,8,,1631091,201480,1611661324,63,69,4
+08:49,[MIN] Jefferson Pullup Jump shot: Missed,57,83,2,,1627669,,1611661324,63,69,4
+08:47,[NYL] Xu Rebound (Off:1 Def:4),57,83,4,,1629566,,1611661313,63,69,4
+08:43,[NYL 71-63] Allen Pullup Jump shot: Made (20 PTS) Assist: Dangerfield (4 AST),46,126,1,,204296,1630101,1611661313,63,71,4
+08:30,[MIN] McBride 3pt Shot: Missed,29,257,2,,203825,,1611661324,63,71,4
+08:28,[NYL] Team Rebound,29,257,4,,0,,1611661313,63,71,4
+08:28,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,63,71,4
+08:18,[NYL] Dangerfield Foul: Offensive (4 PF),140,178,6,203825,1630101,,1611661313,63,71,4
+08:18,[NYL] Dangerfield Turnover : Offensive Foul Turnover (1 TO),140,178,5,,1630101,,1611661313,63,71,4
+08:00,[NYL] Whitcomb Foul: Shooting (1 PF) (2 FTA),84,35,6,203825,1628244,202025,1611661313,63,71,4
+08:00,[MIN] McBride Free Throw 1 of 2 Missed,0,-80,3,,203825,,1611661324,63,71,4
+08:00,[MIN] Team Rebound,0,-80,4,,0,,1611661324,63,71,4
+08:00,[MIN] Jefferson Substitution replaced by Banham,0,-80,8,,1627669,1627671,1611661324,63,71,4
+08:00,[MIN 64-71] McBride Free Throw 2 of 2 (9 PTS),0,-80,3,,203825,,1611661324,64,71,4
+07:49,[MIN] Banham Foul: Personal (3 PF),-16,225,6,1630446,1627671,100697,1611661324,64,71,4
+07:41,[NYL] Onyenwere Turnover : Traveling (2 TO),0,46,5,,1630446,,1611661313,64,71,4
+07:35,[MIN] Banham Pullup Jump shot: Missed,62,169,2,,1627671,,1611661324,64,71,4
+07:31,[NYL] Onyenwere Rebound (Off:1 Def:3),62,169,4,,1630446,,1611661313,64,71,4
+07:26,[MIN] Banham Foul: Personal (4 PF),137,198,6,1630101,1627671,202025,1611661324,64,71,4
+07:19,[NYL] Allen Turnaround Fadeaway shot: Missed,-66,15,2,,204296,,1611661313,64,71,4
+07:17,[MIN] Powers Rebound (Off:1 Def:5),-66,15,4,,1627672,,1611661324,64,71,4
+07:10,[NYL] Onyenwere Foul: Shooting (2 PF) (2 FTA),-13,83,6,1627672,1630446,202025,1611661313,64,71,4
+07:10,[MIN 65-71] Powers Free Throw 1 of 2 (12 PTS),0,-80,3,,1627672,,1611661324,65,71,4
+07:10,[NYL] Allen Substitution replaced by Ionescu,0,-80,8,,204296,1629477,1611661313,65,71,4
+07:10,[NYL] Onyenwere Substitution replaced by Howard,0,-80,8,,1630446,203827,1611661313,65,71,4
+07:10,[MIN 66-71] Powers Free Throw 2 of 2 (13 PTS),0,-80,3,,1627672,,1611661324,66,71,4
+06:49,[NYL] Howard 3pt Shot: Missed,6,231,2,,203827,,1611661313,66,71,4
+06:46,[MIN] Powers Rebound (Off:1 Def:6),6,231,4,,1627672,,1611661324,66,71,4
+06:39,[MIN] Powers Driving Floating Jump Shot: Missed,6,75,2,,1627672,,1611661324,66,71,4
+06:39,[NYL] Team Rebound,6,75,4,,0,,1611661313,66,71,4
+06:39,[MIN] Powers Foul: Loose Ball (1 PF),6,800,6,203827,1627672,1627526,1611661324,66,71,4
+06:21,[NYL] Dangerfield Turnover : Lost Ball (2 TO) Steal:Fowles (2 ST),-1,94,5,201480,1630101,,1611661313,66,71,4
+06:15,[MIN] Powers Running Layup Shot: Missed,-28,34,2,,1627672,,1611661324,66,71,4
+06:14,[NYL] Team Rebound,-28,34,4,,0,,1611661313,66,71,4
+06:14,[NYL] Dangerfield Substitution replaced by Allen,0,-80,8,,1630101,204296,1611661313,66,71,4
+06:14,[MIN] Powers Violation:Jump Ball,0,-80,7,,1627672,,1611661324,66,71,4
+05:49,[NYL] Allen Turnaround Fadeaway shot: Missed,42,42,2,,204296,,1611661313,66,71,4
+05:47,[MIN] Shepard Rebound (Off:2 Def:7),42,42,4,,1629491,,1611661324,66,71,4
+05:41,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,71,4
+05:40,[MIN 68-71] Shepard Cutting Layup Shot: Made (8 PTS) Assist: Banham (3 AST),29,31,1,,1629491,1627671,1611661324,68,71,4
+05:35,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,68,71,4
+05:35,[NYL] Xu Substitution replaced by Dolson,0,-80,8,,1629566,203828,1611661313,68,71,4
+05:20,[NYL] Howard Turnover : Traveling (1 TO),-151,49,5,,203827,,1611661313,68,71,4
+05:10,[MIN] McBride 3pt Shot: Missed,-142,226,2,,203825,,1611661324,68,71,4
+05:06,[MIN] Fowles Rebound (Off:5 Def:6),-142,226,4,,201480,,1611661324,68,71,4
+05:05,[MIN] Fowles Putback Layup Shot: Missed,-21,19,2,,201480,,1611661324,68,71,4
+05:02,[NYL] Howard Rebound (Off:3 Def:2),-21,19,4,,203827,,1611661313,68,71,4
+04:54,[NYL] Whitcomb 3pt Shot: Missed,233,21,2,,1628244,,1611661313,68,71,4
+04:49,[MIN] McBride Rebound (Off:2 Def:2),233,21,4,,203825,,1611661324,68,71,4
+04:45,[MIN] McBride Pullup Jump shot: Missed,-63,144,2,,203825,,1611661324,68,71,4
+04:42,[NYL] Ionescu Rebound (Off:1 Def:7),-63,144,4,,1629477,,1611661313,68,71,4
+04:39,[MIN] Shepard Foul: Personal (3 PF) (2 FTA),-85,76,6,203827,1629491,202025,1611661324,68,71,4
+04:39,[NYL 72-68] Howard Free Throw 1 of 2 (23 PTS),0,-80,3,,203827,,1611661313,68,72,4
+04:39,[NYL] Howard Free Throw 2 of 2 Missed,0,-80,3,,203827,,1611661313,68,72,4
+04:37,[MIN] Team Rebound,0,-80,4,,0,,1611661324,68,72,4
+04:27,[NYL] Ionescu Foul: Shooting (3 PF) (2 FTA),-40,26,6,1627672,1629477,1627526,1611661313,68,72,4
+04:27,[MIN 69-72] Powers Free Throw 1 of 2 (14 PTS),0,-80,3,,1627672,,1611661324,69,72,4
+04:27,[MIN 70-72] Powers Free Throw 2 of 2 (15 PTS),0,-80,3,,1627672,,1611661324,70,72,4
+04:10,[NYL] Allen Driving Finger Roll Layup Shot: Missed,-11,62,2,,204296,,1611661313,70,72,4
+04:07,[MIN] McBride Rebound (Off:2 Def:3),-11,62,4,,203825,,1611661324,70,72,4
+03:58,[NYL] Ionescu Foul: Shooting (4 PF) (2 FTA),-4,169,6,1627671,1629477,100697,1611661313,70,72,4
+03:58,[MIN 71-72] Banham Free Throw 1 of 2 (6 PTS),0,-80,3,,1627671,,1611661324,71,72,4
+03:58,[MIN 72-72] Banham Free Throw 2 of 2 (7 PTS),0,-80,3,,1627671,,1611661324,72,72,4
+03:40,[NYL 75-72] Ionescu 3pt Shot: Made (10 PTS) Assist: Whitcomb (9 AST),-196,134,1,,1629477,1628244,1611661313,72,75,4
+03:27,[MIN 74-75] McBride Driving Finger Roll Layup Shot: Made (11 PTS),-20,32,1,,203825,,1611661324,74,75,4
+03:20,[NYL] Ionescu Turnover : Lost Ball (3 TO) Steal:McBride (1 ST),129,269,5,203825,1629477,,1611661313,74,75,4
+03:15,[MIN 76-75] Fowles Running Layup Shot: Made (13 PTS) Assist: McBride (3 AST),24,26,1,,201480,203825,1611661324,76,75,4
+03:15,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,76,75,4
+02:56,[NYL] Allen Jump Shot: Missed,-185,22,2,,204296,,1611661313,76,75,4
+02:52,[MIN] Fowles Rebound (Off:5 Def:7),-228,37,4,,201480,,1611661324,76,75,4
+02:50,[NYL] Dolson Foul: Shooting (2 PF) (2 FTA),-42,13,6,1627672,203828,202025,1611661313,76,75,4
+02:50,[MIN 77-75] Powers Free Throw 1 of 2 (16 PTS),0,-80,3,,1627672,,1611661324,77,75,4
+02:50,[MIN] Powers Free Throw 2 of 2 Missed,0,-80,3,,1627672,,1611661324,77,75,4
+02:49,[MIN] Team Rebound,0,-80,4,,0,,1611661324,77,75,4
+02:49,[NYL] Dolson Foul: Loose Ball (3 PF) (2 FTA),35,8,6,201480,203828,100697,1611661313,77,75,4
+02:49,[NYL] Dolson Substitution replaced by Xu,0,-80,8,,203828,1629566,1611661313,77,75,4
+02:49,[MIN 78-75] Fowles Free Throw 1 of 2 (14 PTS),0,-80,3,,201480,,1611661324,78,75,4
+02:49,[MIN] Fowles Free Throw 2 of 2 Missed,0,-80,3,,201480,,1611661324,78,75,4
+02:49,[NYL] Howard Rebound (Off:3 Def:3),0,-80,4,,203827,,1611661313,78,75,4
+02:31,[NYL] Whitcomb 3pt Shot: Missed,-205,116,2,,1628244,,1611661313,78,75,4
+02:26,[NYL] Xu Rebound (Off:2 Def:4),-205,116,4,,1629566,,1611661313,78,75,4
+02:18,[NYL] Whitcomb 3pt Shot: Missed,-229,25,2,,1628244,,1611661313,78,75,4
+02:14,[MIN] Shepard Rebound (Off:2 Def:8),-229,25,4,,1629491,,1611661324,78,75,4
+01:53,[MIN] McBride 3pt Shot: Missed,45,252,2,,203825,,1611661324,78,75,4
+01:50,[NYL] Whitcomb Rebound (Off:0 Def:3),45,252,4,,1628244,,1611661313,78,75,4
+01:44,[NYL] Ionescu 3pt Shot: Missed,233,57,2,,1629477,,1611661313,78,75,4
+01:42,[MIN] Fowles Rebound (Off:5 Def:8),233,57,4,,201480,,1611661324,78,75,4
+01:42,[MIN] Team Timeout : Short,0,-80,9,,1611661324,,1611661324,78,75,4
+01:26,[MIN] Fowles Turnaround Hook Shot: Missed,-5,69,2,,201480,,1611661324,78,75,4
+01:23,[NYL] Xu Rebound (Off:2 Def:5),-5,69,4,,1629566,,1611661313,78,75,4
+01:15,[NYL 77-78] Xu Jump Shot: Made (11 PTS) Assist: Ionescu (7 AST),-35,173,1,,1629566,1629477,1611661313,78,77,4
+01:03,[MIN 80-77] Powers Jump Shot: Made (18 PTS),78,101,1,,1627672,,1611661324,80,77,4
+00:45.6,[NYL] Ionescu 3pt Shot: Missed,140,236,2,,1629477,,1611661313,80,77,4
+00:42.3,[MIN] Powers Rebound (Off:1 Def:7),140,236,4,,1627672,,1611661324,80,77,4
+00:24.9,[MIN] Powers Driving Floating Jump Shot: Missed,5,86,2,,1627672,,1611661324,80,77,4
+00:24.6,[NYL] Ionescu Rebound (Off:1 Def:8),5,86,4,,1629477,,1611661313,80,77,4
+00:24.6,[NYL] Team Timeout : Regular,0,-80,9,,1611661313,,1611661313,80,77,4
+00:19.5,[MIN] McBride Foul: Personal (1 PF) (2 FTA),156,186,6,204296,203825,100697,1611661324,80,77,4
+00:19.5,[NYL 78-80] Allen Free Throw 1 of 2 (21 PTS),0,-80,3,,204296,,1611661313,80,78,4
+00:19.5,[NYL] Allen Free Throw 2 of 2 Missed,0,-80,3,,204296,,1611661313,80,78,4
+00:18.0,[MIN] Shepard Rebound (Off:2 Def:9),0,-80,4,,1629491,,1611661324,80,78,4
+00:18.0,[MIN] Team Timeout : Regular,0,-80,9,,1611661324,,1611661324,80,78,4
+00:18.0,[NYL] Ionescu Substitution replaced by Onyenwere,0,-80,8,,1629477,1630446,1611661313,80,78,4
+00:15.9,[NYL] Allen Foul: Personal (2 PF) (2 FTA),151,-8,6,203825,204296,202025,1611661313,80,78,4
+00:15.9,[MIN 81-78] McBride Free Throw 1 of 2 (12 PTS),0,-80,3,,203825,,1611661324,81,78,4
+00:15.9,[MIN 82-78] McBride Free Throw 2 of 2 (13 PTS),0,-80,3,,203825,,1611661324,82,78,4
+00:15.9,[NYL] Team Timeout : Short,0,-80,9,,1611661313,,1611661313,82,78,4
+00:12.7,[NYL] Onyenwere Cutting Layup Shot: Missed,61,-1,2,,1630446,,1611661313,82,78,4
+00:09.4,[MIN] Fowles Rebound (Off:5 Def:9),61,-1,4,,201480,,1611661324,82,78,4
+00:09.1,[NYL] Whitcomb Foul: Personal Take (2 PF) (2 FTA),-90,699,6,203825,1628244,202025,1611661313,82,78,4
+00:09.1,[MIN 83-78] McBride Free Throw 1 of 2 (14 PTS),0,-80,3,,203825,,1611661324,83,78,4
+00:09.1,[MIN 84-78] McBride Free Throw 2 of 2 (15 PTS),0,-80,3,,203825,,1611661324,84,78,4
+00:01.5,[NYL] Whitcomb 3pt Shot: Missed,233,47,2,,1628244,,1611661313,84,78,4
+00:01.5,[MIN] Powers Rebound (Off:1 Def:8),233,47,4,,1627672,,1611661324,84,78,4
+00:00.0,End Period,0,-80,13,,0,,0,84,78,4
+00:00.0,Game End,0,-80,0,,0,,0,84,78,4

@@ -1,0 +1,418 @@
+game_clock,description,location_x,location_y,event_type,opp_player_id,player_id,sec_player_id,team_id,home_score,away_score,period
+10:00,Start Period,0,-80,12,,0,,0,0,0,1
+09:53,Jump Ball Thomas vs Turner (Thomas gains possession),0,-80,10,1629488,203826,203826,1611661323,0,0,1
+09:51,[CON 2-0] Thomas Layup Shot: Made (2 PTS) Assist: Jones (1 AST),1,26,1,,203826,1627673,1611661323,0,2,1
+09:40,[PHO] Bonner Driving Layup Shot: Missed,48,0,2,1627673,201886,,1611661317,0,2,1
+09:40,[PHO] Team Rebound,48,0,4,,0,,1611661317,0,2,1
+09:40,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,0,2,1
+09:30,[PHO] Cunningham 3pt Shot: Missed,-239,-3,2,,1629482,,1611661317,0,2,1
+09:25,[CON] Jones Rebound (Off:0 Def:1),-239,-3,4,,1627673,,1611661323,0,2,1
+09:11,[CON 4-0] Jones Driving Reverse Layup Shot: Made (2 PTS) Assist: Williams (1 AST),8,5,1,,1627673,1627675,1611661323,0,4,1
+09:01,[PHO] Turner Jump Shot: Missed,125,184,2,,203389,,1611661317,0,4,1
+09:01,[PHO] Mitchell Rebound (Off:1 Def:0),125,184,4,,201507,,1611661317,0,4,1
+08:48,[PHO 2-4] Turner Cutting Layup Shot: Made (2 PTS) Assist: Turner (1 AST),13,12,1,,1629488,203389,1611661317,2,4,1
+08:28,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (1 TO),61,106,5,,203826,,1611661323,2,4,1
+08:07,[PHO] Bonner 3pt Shot: Missed,161,237,2,,201886,,1611661317,2,4,1
+08:03,[CON] Stricklen Rebound (Off:0 Def:1),161,237,4,,203015,,1611661323,2,4,1
+07:50,[CON 7-2] Thomas 3pt Shot: Made (3 PTS) Assist: Williams (2 AST),190,171,1,,202662,1627675,1611661323,2,7,1
+07:29,[PHO 4-7] Turner Fadeaway Jump Shot: Made (2 PTS),39,117,1,,203389,,1611661317,4,7,1
+07:11,[CON 10-4] Thomas 3pt Shot: Made (6 PTS) Assist: Jones (2 AST),-237,16,1,,202662,1627673,1611661323,4,10,1
+07:01,[CON] Thomas Foul: Personal (1 PF),-69,146,6,203389,202662,,1611661323,4,10,1
+06:55,[PHO] Turner Driving Layup Shot: Missed,31,22,2,,203389,,1611661317,4,10,1
+06:49,[PHO] Turner Rebound (Off:1 Def:0),31,22,4,,1629488,,1611661317,4,10,1
+06:49,[PHO 6-10] Turner Tip Layup Shot: Made (4 PTS),0,-5,1,,1629488,,1611661317,6,10,1
+06:35,[PHO] Bonner Foul: Personal (1 PF),78,40,6,1627673,201886,,1611661317,6,10,1
+06:29,[CON 12-6] Jones Cutting Layup Shot: Made (4 PTS) Assist: Thomas (1 AST),6,8,1,,1627673,203826,1611661323,6,12,1
+06:02,[PHO] Mitchell 3pt Shot: Missed,-223,172,2,,201507,,1611661317,6,12,1
+06:00,[CON] Jones Rebound (Off:0 Def:2),-223,172,4,,1627673,,1611661323,6,12,1
+05:50,[CON] Thomas Driving Floating Bank Jump Shot: Missed,70,32,2,,202662,,1611661323,6,12,1
+05:50,[CON] Williams Rebound (Off:1 Def:0),70,32,4,,1627675,,1611661323,6,12,1
+05:37,[CON 14-6] Thomas Turnaround Hook Shot: Made (4 PTS) Assist: Williams (3 AST),61,27,1,,203826,1627675,1611661323,6,14,1
+05:28,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,6,14,1
+05:28,[PHO] Cunningham Substitution replaced by January,0,-80,8,,1629482,201896,1611661317,6,14,1
+05:23,[PHO] Mitchell Jump Shot: Missed,-82,194,2,,201507,,1611661317,6,14,1
+05:22,[CON] Team Rebound,-82,194,4,,0,,1611661323,6,14,1
+05:22,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,6,14,1
+05:05,[CON] Stricklen 3pt Shot: Missed,-165,171,2,,203015,,1611661323,6,14,1
+05:01,[CON] Thomas Rebound (Off:1 Def:0),-165,171,4,,202662,,1611661323,6,14,1
+04:59,[CON] Williams Turnover : Traveling (1 TO),128,117,5,,1627675,,1611661323,6,14,1
+04:47,[PHO] Bonner Driving Layup Shot: Missed,7,40,2,203826,201886,,1611661317,6,14,1
+04:44,[CON] Thomas Rebound (Off:0 Def:1),7,40,4,,203826,,1611661323,6,14,1
+04:40,[CON] Thomas 3pt Shot: Missed,174,201,2,,202662,,1611661323,6,14,1
+04:37,[CON] Williams Rebound (Off:2 Def:0),174,201,4,,1627675,,1611661323,6,14,1
+04:35,[CON] Williams Turnover : Out of Bounds - Bad Pass Turnover (2 TO),37,111,5,,1627675,,1611661323,6,14,1
+04:15,[CON] Thomas Foul: Shooting (2 PF) (2 FTA),-61,28,6,201507,202662,,1611661323,6,14,1
+04:15,[PHO 7-14] Mitchell Free Throw 1 of 2 (1 PTS),0,-80,3,,201507,,1611661317,7,14,1
+04:15,[PHO] Turner Substitution replaced by Little,0,-80,8,,203389,201067,1611661317,7,14,1
+04:15,[PHO 8-14] Mitchell Free Throw 2 of 2 (2 PTS),0,-80,3,,201507,,1611661317,8,14,1
+03:57,[CON 16-8] Thomas Layup Shot: Made (6 PTS),-3,11,1,,203826,,1611661323,8,16,1
+03:44,[PHO] Turner Reverse Layup Shot: Missed,8,2,2,,1629488,,1611661317,8,16,1
+03:42,[PHO] Bonner Rebound (Off:1 Def:0),8,2,4,,201886,,1611661317,8,16,1
+03:41,[PHO] Bonner Turnover : Lost Ball (1 TO) Steal:Williams (1 ST),-3,2,5,1627675,201886,,1611661317,8,16,1
+03:37,[CON 18-8] Williams Running Reverse Layup Shot: Made (2 PTS) Assist: Thomas (1 AST),1,3,1,,1627675,202662,1611661323,8,18,1
+03:13,[PHO] January Driving Finger Roll Layup Shot: Missed,-62,26,2,,201896,,1611661317,8,18,1
+03:10,[PHO] Turner Rebound (Off:2 Def:0),-62,26,4,,1629488,,1611661317,8,18,1
+03:06,[PHO 10-18] Mitchell Driving Layup Shot: Made (4 PTS),-6,0,1,,201507,,1611661317,10,18,1
+02:38,[CON] Stricklen 3pt Shot: Missed,-220,75,2,,203015,,1611661323,10,18,1
+02:35,[PHO] Mitchell Rebound (Off:1 Def:1),-220,75,4,,201507,,1611661317,10,18,1
+02:23,[CON] Thomas Foul: Personal (1 PF),-1,29,6,201886,203826,,1611661323,10,18,1
+02:23,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,10,18,1
+02:23,[CON] Jones Substitution replaced by Plaisance,0,-80,8,,1627673,203849,1611661323,10,18,1
+02:17,[PHO] Little Turnover : Out of Bounds - Bad Pass Turnover (1 TO),87,210,5,,201067,,1611661317,10,18,1
+02:00,[CON 20-10] Plaisance Cutting Layup Shot: Made (2 PTS) Assist: Williams (4 AST),-74,28,1,,203849,1627675,1611661323,10,20,1
+01:51,[PHO] Little Foul: Offensive Charge (1 PF),104,180,6,1629567,201067,,1611661317,10,20,1
+01:51,[PHO] Little Turnover : Offensive Foul Turnover (2 TO),104,180,5,,201067,,1611661317,10,20,1
+01:51,[PHO] Mitchell Substitution replaced by Turner,0,-80,8,,201507,203389,1611661317,10,20,1
+01:51,[CON] Stricklen Substitution replaced by Holmes,0,-80,8,,203015,1627678,1611661323,10,20,1
+01:39,[PHO] Bonner Foul: Shooting (2 PF) (2 FTA),-2,11,6,1627678,201886,,1611661317,10,20,1
+01:39,[CON] Holmes Free Throw 1 of 2 Missed,0,-80,3,,1627678,,1611661323,10,20,1
+01:39,[CON] Team Rebound,0,-80,4,,0,,1611661323,10,20,1
+01:39,[PHO] Bonner Substitution replaced by Cunningham,0,-80,8,,201886,1629482,1611661317,10,20,1
+01:39,[CON 21-10] Holmes Free Throw 2 of 2 (1 PTS),0,-80,3,,1627678,,1611661323,10,21,1
+01:26,[CON] Thomas Foul: Personal (2 PF),197,147,6,201896,203826,,1611661323,10,21,1
+01:19,[CON] Hiedeman Foul: Personal (1 PF) (2 FTA),-195,166,6,201896,1629567,,1611661323,10,21,1
+01:19,[PHO] January Free Throw 1 of 2 Missed,0,-80,3,,201896,,1611661317,10,21,1
+01:19,[PHO] Team Rebound,0,-80,4,,0,,1611661317,10,21,1
+01:19,[PHO 11-21] January Free Throw 2 of 2 (1 PTS),0,-80,3,,201896,,1611661317,11,21,1
+01:06,[CON] Holmes Driving Layup Shot: Missed,34,36,2,,1627678,,1611661323,11,21,1
+01:04,[PHO] Turner Rebound (Off:0 Def:1),34,36,4,,203389,,1611661317,11,21,1
+00:51.0,[PHO] Turner Turnover : Lost Ball (1 TO) Steal:Williams (2 ST),-192,147,5,1627675,203389,,1611661317,11,21,1
+00:46.8,[CON] Hiedeman Running Layup Shot: Missed,-13,3,2,,1629567,,1611661323,11,21,1
+00:44.0,[CON] Thomas Rebound (Off:1 Def:1),-13,3,4,,203826,,1611661323,11,21,1
+00:43.5,[PHO] Turner Foul: Shooting (1 PF) (2 FTA),4,15,6,203826,1629488,,1611661317,11,21,1
+00:43.5,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,11,21,1
+00:43.5,[CON] Team Rebound,0,-80,4,,0,,1611661323,11,21,1
+00:43.5,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,11,21,1
+00:40.4,[PHO] Turner Rebound (Off:2 Def:1),0,-80,4,,1629488,,1611661317,11,21,1
+00:33.4,[PHO] Turner Alley Oop Layup shot: Missed,-2,1,2,,1629488,,1611661317,11,21,1
+00:30.6,[CON] Thomas Rebound (Off:1 Def:2),-2,1,4,,203826,,1611661323,11,21,1
+00:24.8,[CON] Holmes 3pt Shot: Missed,-228,-8,2,,1627678,,1611661323,11,21,1
+00:23.1,[PHO] Turner Rebound (Off:2 Def:2),-228,-8,4,,1629488,,1611661317,11,21,1
+00:14.0,[PHO 13-21] Turner Cutting Layup Shot: Made (6 PTS) Assist: Turner (2 AST),-1,2,1,,1629488,203389,1611661317,13,21,1
+00:00.6,[CON] Plaisance 3pt Shot: Missed,47,250,2,,203849,,1611661323,13,21,1
+00:00.6,[CON] Team Rebound,47,250,4,,0,,1611661323,13,21,1
+00:00.0,End Period,0,-80,13,,0,,0,13,21,1
+10:00,Start Period,0,-80,12,,0,,0,13,21,2
+09:49,[PHO 16-21] Mitchell 3pt Shot: Made (7 PTS) Assist: Little (1 AST),117,210,1,,201507,201067,1611661317,16,21,2
+09:31,[CON 23-16] Holmes Driving Reverse Layup Shot: Made (3 PTS),-4,11,1,,1627678,,1611661323,16,23,2
+09:15,[PHO] Cunningham Turnover : Step Out of Bounds Turnover (1 TO),-22,-19,5,,1629482,,1611661317,16,23,2
+09:01,[CON 25-16] Plaisance Jump Shot: Made (4 PTS) Assist: Thomas (2 AST),120,-5,1,,203849,203826,1611661323,16,25,2
+08:41,[PHO] Little Turnaround Jump Shot: Missed,109,37,2,,201067,,1611661317,16,25,2
+08:37,[CON] Thomas Rebound (Off:1 Def:3),109,37,4,,203826,,1611661323,16,25,2
+08:24,[CON 28-16] Holmes 3pt Shot: Made (6 PTS) Assist: Hiedeman (1 AST),207,164,1,,1627678,1629567,1611661323,16,28,2
+08:09,[CON] Hiedeman Foul: Shooting (2 PF) (2 FTA),35,13,6,201507,1629567,,1611661323,16,28,2
+08:09,[PHO 17-28] Mitchell Free Throw 1 of 2 (8 PTS),0,-80,3,,201507,,1611661317,17,28,2
+08:09,[CON] Hiedeman Substitution replaced by Banham,0,-80,8,,1629567,1627671,1611661323,17,28,2
+08:09,[CON] Williams Substitution replaced by Thomas,0,-80,8,,1627675,202662,1611661323,17,28,2
+08:09,[CON] Thomas Substitution replaced by Tuck,0,-80,8,,203826,1627670,1611661323,17,28,2
+08:09,[CON] Plaisance Substitution replaced by Jones,0,-80,8,,203849,1627673,1611661323,17,28,2
+08:09,[PHO 18-28] Mitchell Free Throw 2 of 2 (9 PTS),0,-80,3,,201507,,1611661317,18,28,2
+07:56,[CON] Holmes Driving Floating Bank Jump Shot: Missed,84,27,2,,1627678,,1611661323,18,28,2
+07:54,[PHO] Turner Rebound (Off:0 Def:2),84,27,4,,203389,,1611661317,18,28,2
+07:46,[PHO] Mitchell Driving Layup Shot: Missed,30,27,2,,201507,,1611661317,18,28,2
+07:45,[CON] Jones Rebound (Off:0 Def:3),30,27,4,,1627673,,1611661323,18,28,2
+07:35,[CON 31-18] Banham 3pt Shot: Made (3 PTS) Assist: Thomas (2 AST),234,-6,1,,1627671,202662,1611661323,18,31,2
+07:14,[CON] Banham Foul: Shooting (1 PF) (2 FTA),4,-1,6,203389,1627671,,1611661323,18,31,2
+07:14,[PHO 19-31] Turner Free Throw 1 of 2 (3 PTS),0,-80,3,,203389,,1611661317,19,31,2
+07:14,[PHO] Cunningham Substitution replaced by Bonner,0,-80,8,,1629482,201886,1611661317,19,31,2
+07:14,[PHO 20-31] Turner Free Throw 2 of 2 (4 PTS),0,-80,3,,203389,,1611661317,20,31,2
+07:03,[CON] Tuck 3pt Shot: Missed,-35,248,2,,1627670,,1611661323,20,31,2
+06:59,[PHO] Bonner Rebound (Off:1 Def:1),-35,248,4,,201886,,1611661317,20,31,2
+06:53,[PHO 22-31] Bonner Running Layup Shot: Made (2 PTS) Assist: Mitchell (1 AST),0,5,1,,201886,201507,1611661317,22,31,2
+06:31,[CON] Banham Turnover : Bad Pass (1 TO) Steal:Little (1 ST),-20,252,5,201067,1627671,,1611661323,22,31,2
+06:29,[CON] Banham Foul: Personal (2 PF),-14,62,6,201886,1627671,,1611661323,22,31,2
+06:21,[PHO 24-31] Mitchell Jump Shot: Made (11 PTS) Assist: Turner (3 AST),-28,90,1,,201507,203389,1611661317,24,31,2
+06:11,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,24,31,2
+06:02,[PHO] Little Foul: Personal (2 PF),1,25,6,1627673,201067,,1611661317,24,31,2
+05:56,[PHO] Turner Foul: Shooting (1 PF) (2 FTA),-208,36,6,202662,203389,,1611661317,24,31,2
+05:56,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202662,,1611661323,24,31,2
+05:56,[CON] Team Rebound,0,-80,4,,0,,1611661323,24,31,2
+05:56,[PHO] Taylor Substitution replaced by January,0,-80,8,,203859,201896,1611661317,24,31,2
+05:56,[PHO] Turner Substitution replaced by Turner,0,-80,8,,203389,1629488,1611661317,24,31,2
+05:56,[CON 32-24] Thomas Free Throw 2 of 2 (7 PTS),0,-80,3,,202662,,1611661323,24,32,2
+05:35,[PHO] Bonner Jump Bank Shot: Missed,105,38,2,,201886,,1611661317,24,32,2
+05:34,[PHO] Bonner Rebound (Off:2 Def:1),105,38,4,,201886,,1611661317,24,32,2
+05:34,[CON] Tuck Foul: Shooting (1 PF) (2 FTA),26,23,6,201886,1627670,,1611661323,24,32,2
+05:34,[PHO 25-32] Bonner Free Throw 1 of 2 (3 PTS),0,-80,3,,201886,,1611661317,25,32,2
+05:34,[PHO 26-32] Bonner Free Throw 2 of 2 (4 PTS),0,-80,3,,201886,,1611661317,26,32,2
+05:21,[PHO] Little Foul: Personal (3 PF),-117,-30,6,1627673,201067,,1611661317,26,32,2
+05:21,[PHO] Little Substitution replaced by Cunningham,0,-80,8,,201067,1629482,1611661317,26,32,2
+05:16,[CON 34-26] Holmes Cutting Layup Shot: Made (8 PTS) Assist: Tuck (1 AST),0,10,1,,1627678,1627670,1611661323,26,34,2
+05:04,[PHO] Turner Layup Shot: Missed,2,-3,2,,1629488,,1611661317,26,34,2
+05:02,[CON] Banham Rebound (Off:0 Def:1),2,-3,4,,1627671,,1611661323,26,34,2
+04:53,[CON 36-26] Banham Pullup Jump shot: Made (5 PTS),-161,92,1,,1627671,,1611661323,26,36,2
+04:34,[PHO 28-36] Cunningham Driving Layup Shot: Made (2 PTS) Assist: Turner (1 AST),-7,6,1,,1629482,1629488,1611661317,28,36,2
+04:22,[CON 39-28] Thomas 3pt Shot: Made (10 PTS),-125,210,1,,202662,,1611661323,28,39,2
+04:02,[PHO 30-39] Bonner Driving Layup Shot: Made (6 PTS),2,1,1,,201886,,1611661317,30,39,2
+04:02,[CON] Jones Foul: Shooting (1 PF) (1 FTA),10,3,6,1629488,1627673,,1611661323,30,39,2
+04:02,[CON] Tuck Substitution replaced by Thomas,0,-80,8,,1627670,203826,1611661323,30,39,2
+04:02,[PHO 31-39] Bonner Free Throw 1 of 1 (7 PTS),0,-80,3,,201886,,1611661317,31,39,2
+03:53,[CON] Banham Foul: Offensive Charge (3 PF),-3,26,6,1629488,1627671,,1611661323,31,39,2
+03:53,[CON] Banham Turnover : Offensive Foul Turnover (2 TO),-3,26,5,,1627671,,1611661323,31,39,2
+03:35,[PHO] January Turnover : Bad Pass (1 TO) Steal:Holmes (1 ST),41,157,5,1627678,201896,,1611661317,31,39,2
+03:24,[CON] Banham 3pt Shot: Missed,231,16,2,,1627671,,1611661323,31,39,2
+03:20,[PHO] Turner Rebound (Off:2 Def:3),231,16,4,,1629488,,1611661317,31,39,2
+03:16,[PHO] Bonner 3pt Shot: Missed,-200,194,2,,201886,,1611661317,31,39,2
+03:13,[CON] Holmes Rebound (Off:0 Def:1),-200,194,4,,1627678,,1611661323,31,39,2
+03:05,[CON 42-31] Holmes 3pt Shot: Made (11 PTS),145,210,1,,1627678,,1611661323,31,42,2
+02:56,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,31,42,2
+02:56,[CON] Banham Substitution replaced by Williams,0,-80,8,,1627671,1627675,1611661323,31,42,2
+02:47,[PHO] January Turnover : Bad Pass (2 TO) Steal:Thomas (1 ST),131,266,5,202662,201896,,1611661317,31,42,2
+02:44,[CON 44-31] Thomas Running Layup Shot: Made (12 PTS),-2,-8,1,,202662,,1611661323,31,44,2
+02:30,[PHO] Bonner Floating Jump shot: Missed,8,37,2,1627673,201886,,1611661317,31,44,2
+02:30,[CON] Team Rebound,8,37,4,,0,,1611661323,31,44,2
+02:30,[PHO] Bonner Foul: Loose Ball (3 PF),1,784,6,1627673,201886,,1611661317,31,44,2
+02:19,[CON] Holmes Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-204,122,5,,1627678,,1611661323,31,44,2
+02:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,31,44,2
+01:56,[PHO] Mitchell Driving Floating Bank Jump Shot: Missed,-89,103,2,,201507,,1611661317,31,44,2
+01:55,[PHO] Team Rebound,-89,103,4,,0,,1611661317,31,44,2
+01:55,[PHO] Team Turnover : Shot Clock Turnover,-96,124,5,,0,,1611661317,31,44,2
+01:46,[PHO] Mitchell Foul: Personal (1 PF) (2 FTA),14,162,6,203826,201507,,1611661317,31,44,2
+01:46,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,31,44,2
+01:46,[CON] Team Rebound,0,-80,4,,0,,1611661323,31,44,2
+01:46,[PHO] Cunningham Substitution replaced by Taylor,0,-80,8,,1629482,203859,1611661317,31,44,2
+01:46,[CON 45-31] Thomas Free Throw 2 of 2 (7 PTS),0,-80,3,,203826,,1611661323,31,45,2
+01:33,[CON] Holmes Foul: Shooting (1 PF) (2 FTA),82,28,6,203859,1627678,,1611661323,31,45,2
+01:33,[PHO] Taylor Free Throw 1 of 2 Missed,0,-80,3,,203859,,1611661317,31,45,2
+01:33,[PHO] Team Rebound,0,-80,4,,0,,1611661317,31,45,2
+01:33,[PHO 32-45] Taylor Free Throw 2 of 2 (1 PTS),0,-80,3,,203859,,1611661317,32,45,2
+01:17,[CON] Williams Jump Shot: Missed,-97,41,2,,1627675,,1611661323,32,45,2
+01:14,[PHO] Turner Rebound (Off:2 Def:4),-97,41,4,,1629488,,1611661317,32,45,2
+01:07,[PHO] Mitchell Turnover : Bad Pass (1 TO) Steal:Thomas (1 ST),-12,247,5,203826,201507,,1611661317,32,45,2
+01:03,[CON 47-32] Williams Running Layup Shot: Made (4 PTS) Assist: Thomas (3 AST),4,24,1,,1627675,202662,1611661323,32,47,2
+00:52.8,[PHO] Turner Turnover : Bad Pass (1 TO) Steal:Williams (3 ST),109,139,5,1627675,1629488,,1611661317,32,47,2
+00:51.6,[PHO] January Foul: Personal (1 PF) (2 FTA),-108,660,6,1627675,201896,,1611661317,32,47,2
+00:51.6,[CON 48-32] Williams Free Throw 1 of 2 (5 PTS),0,-80,3,,1627675,,1611661323,32,48,2
+00:51.6,[CON 49-32] Williams Free Throw 2 of 2 (6 PTS),0,-80,3,,1627675,,1611661323,32,49,2
+00:40.1,[PHO 34-49] January Pullup Jump shot: Made (3 PTS),-103,152,1,,201896,,1611661317,34,49,2
+00:25.9,[CON] Thomas 3pt Shot: Missed,-38,244,2,,202662,,1611661323,34,49,2
+00:22.0,[PHO] Taylor Rebound (Off:0 Def:1),-38,244,4,,203859,,1611661317,34,49,2
+00:17.7,[PHO] Taylor Turnover : Step Out of Bounds Turnover (1 TO),133,-36,5,,203859,,1611661317,34,49,2
+00:14.1,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,34,49,2
+00:03.6,[CON] Jones 3pt Shot: Missed,141,218,2,,1627673,,1611661323,34,49,2
+00:01.1,[CON] Jones Rebound (Off:1 Def:3),141,218,4,,1627673,,1611661323,34,49,2
+00:00.1,[CON] Jones 3pt Shot: Missed,134,226,2,,1627673,,1611661323,34,49,2
+00:00.1,[CON] Team Rebound,134,226,4,,0,,1611661323,34,49,2
+00:00.0,End Period,0,-80,13,,0,,0,34,49,2
+10:00,Start Period,0,-80,12,,0,,0,34,49,3
+09:48,[PHO] Turner Driving Layup Shot: Missed,34,28,2,1627673,203389,,1611661317,34,49,3
+09:44,[CON] Jones Rebound (Off:1 Def:4),34,28,4,,1627673,,1611661323,34,49,3
+09:43,[CON] Thomas Turnover : Bad Pass (1 TO) Steal:Cunningham (1 ST),-62,517,5,1629482,202662,,1611661323,34,49,3
+09:40,[CON] Thomas Foul: Shooting (3 PF) (2 FTA),1,13,6,201886,202662,,1611661323,34,49,3
+09:40,[PHO 35-49] Bonner Free Throw 1 of 2 (8 PTS),0,-80,3,,201886,,1611661317,35,49,3
+09:40,[PHO 36-49] Bonner Free Throw 2 of 2 (9 PTS),0,-80,3,,201886,,1611661317,36,49,3
+09:28,[CON 51-36] Stricklen Cutting Layup Shot: Made (2 PTS) Assist: Thomas (3 AST),3,11,1,,203015,203826,1611661323,36,51,3
+09:17,[PHO] Mitchell 3pt Shot: Missed,218,116,2,,201507,,1611661317,36,51,3
+09:14,[CON] Williams Rebound (Off:2 Def:1),218,116,4,,1627675,,1611661323,36,51,3
+09:05,[PHO] Turner Foul: Shooting (2 PF) (2 FTA),-1,15,6,203826,203389,,1611661317,36,51,3
+09:05,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,203826,,1611661323,36,51,3
+09:05,[CON] Team Rebound,0,-80,4,,0,,1611661323,36,51,3
+09:05,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,203826,,1611661323,36,51,3
+09:03,[PHO] Mitchell Rebound (Off:1 Def:2),0,-80,4,,201507,,1611661317,36,51,3
+08:52,[PHO] Cunningham 3pt Shot: Missed,141,237,2,,1629482,,1611661317,36,51,3
+08:49,[PHO] Turner Rebound (Off:1 Def:2),141,237,4,,203389,,1611661317,36,51,3
+08:41,[PHO] Turner 3pt Shot: Missed,43,260,2,,203389,,1611661317,36,51,3
+08:38,[CON] Jones Rebound (Off:1 Def:5),43,260,4,,1627673,,1611661323,36,51,3
+08:22,[CON] Stricklen Turnover : Bad Pass (1 TO) Steal:Bonner (1 ST),89,135,5,201886,203015,,1611661323,36,51,3
+08:17,[PHO 38-51] Bonner Running Layup Shot: Made (11 PTS),1,6,1,,201886,,1611661317,38,51,3
+08:05,[CON] Thomas 3pt Shot: Missed,-239,54,2,,202662,,1611661323,38,51,3
+08:03,[PHO] Team Rebound,-239,54,4,,0,,1611661317,38,51,3
+08:03,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,38,51,3
+07:45,[PHO] Cunningham 3pt Shot: Missed,-172,204,2,,1629482,,1611661317,38,51,3
+07:41,[CON] Williams Rebound (Off:2 Def:2),-172,204,4,,1627675,,1611661323,38,51,3
+07:35,[CON 53-38] Williams Pullup Jump shot: Made (8 PTS),-120,54,1,,1627675,,1611661323,38,53,3
+07:26,[PHO] Turner Driving Layup Shot: Missed,35,16,2,1627675,203389,,1611661317,38,53,3
+07:23,[CON] Williams Rebound (Off:2 Def:3),35,16,4,,1627675,,1611661323,38,53,3
+07:20,[CON 55-38] Williams Jump Shot: Made (10 PTS),-132,162,1,,1627675,,1611661323,38,55,3
+07:03,[PHO] Bonner Step Back Jump shot: Missed,37,188,2,,201886,,1611661317,38,55,3
+07:02,[CON] Team Rebound,37,188,4,,0,,1611661323,38,55,3
+07:02,[PHO] Turner Foul: Loose Ball (2 PF),-20,822,6,203826,1629488,,1611661317,38,55,3
+06:50,[CON 58-38] Stricklen 3pt Shot: Made (5 PTS) Assist: Thomas (4 AST),-192,199,1,,203015,203826,1611661323,38,58,3
+06:47,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,38,58,3
+06:47,[PHO] Cunningham Substitution replaced by January,0,-80,8,,1629482,201896,1611661317,38,58,3
+06:47,[PHO] Turner Substitution replaced by Little,0,-80,8,,203389,201067,1611661317,38,58,3
+06:30,[PHO 40-58] January Jump Shot: Made (5 PTS),123,155,1,,201896,,1611661317,40,58,3
+06:30,[CON] Stricklen Foul: Shooting (1 PF) (1 FTA),109,133,6,201896,203015,,1611661323,40,58,3
+06:30,[PHO 41-58] January Free Throw 1 of 1 (6 PTS),0,-80,3,,201896,,1611661317,41,58,3
+06:08,[CON] Jones Cutting Layup Shot: Missed,24,37,2,,1627673,,1611661323,41,58,3
+06:05,[PHO] Mitchell Rebound (Off:1 Def:3),24,37,4,,201507,,1611661317,41,58,3
+06:01,[PHO] Mitchell Turnover : Out of Bounds - Bad Pass Turnover (2 TO),39,256,5,,201507,,1611661317,41,58,3
+05:52,[PHO] Mitchell Foul: Shooting (2 PF) (2 FTA),0,3,6,202662,201507,,1611661317,41,58,3
+05:52,[CON] Thomas Free Throw 1 of 2 Missed,0,-80,3,,202662,,1611661323,41,58,3
+05:52,[CON] Team Rebound,0,-80,4,,0,,1611661323,41,58,3
+05:52,[CON 59-41] Thomas Free Throw 2 of 2 (13 PTS),0,-80,3,,202662,,1611661323,41,59,3
+05:44,[CON] Stricklen Foul: Personal (2 PF),11,-7,6,201886,203015,,1611661323,41,59,3
+05:34,[CON] Thomas Foul: Shooting (3 PF) (2 FTA),2,22,6,1629488,203826,,1611661323,41,59,3
+05:34,[PHO 42-59] Turner Free Throw 1 of 2 (7 PTS),0,-80,3,,1629488,,1611661317,42,59,3
+05:34,[PHO] Turner Free Throw 2 of 2 Missed,0,-80,3,,1629488,,1611661317,42,59,3
+05:32,[CON] Thomas Rebound (Off:1 Def:4),0,-80,4,,203826,,1611661323,42,59,3
+05:22,[CON] Thomas 3pt Shot: Missed,99,212,2,,202662,,1611661323,42,59,3
+05:21,[CON] Team Rebound,99,212,4,,0,,1611661323,42,59,3
+05:21,[PHO] January Foul: Loose Ball (2 PF),10,22,6,1627673,201896,,1611661317,42,59,3
+05:21,[CON] Jones Technical (1 FTA),0,-80,6,,1627673,,1611661323,42,59,3
+05:21,[PHO] Bonner Free Throw Technical Missed,0,-80,3,,201886,,1611661317,42,59,3
+05:21,[CON] Team Rebound,0,-80,4,,0,,1611661323,42,59,3
+05:14,[CON] Stricklen 3pt Shot: Missed,187,176,2,,203015,,1611661323,42,59,3
+05:10,[PHO] Little Rebound (Off:0 Def:1),187,176,4,,201067,,1611661317,42,59,3
+05:01,[PHO 44-59] Little Cutting Layup Shot: Made (2 PTS) Assist: January (1 AST),7,8,1,,201067,201896,1611661317,44,59,3
+04:44,[CON] Williams Pullup Jump shot: Missed,-71,174,2,,1627675,,1611661323,44,59,3
+04:43,[PHO] Team Rebound,-71,174,4,,0,,1611661317,44,59,3
+04:43,[CON] Jones Foul: Loose Ball (3 PF) (2 FTA),0,833,6,201067,1627673,,1611661323,44,59,3
+04:43,[PHO 45-59] Little Free Throw 1 of 2 (3 PTS),0,-80,3,,201067,,1611661317,45,59,3
+04:43,[PHO 46-59] Little Free Throw 2 of 2 (4 PTS),0,-80,3,,201067,,1611661317,46,59,3
+04:28,[CON] Thomas Driving Layup Shot: Missed,5,43,2,,203826,,1611661323,46,59,3
+04:25,[CON] Jones Rebound (Off:2 Def:5),5,43,4,,1627673,,1611661323,46,59,3
+04:24,[CON] Jones Tip Layup Shot: Missed,0,3,2,,1627673,,1611661323,46,59,3
+04:23,[CON] Thomas Rebound (Off:2 Def:0),0,3,4,,202662,,1611661323,46,59,3
+04:21,[CON] Stricklen 3pt Shot: Missed,-39,237,2,,203015,,1611661323,46,59,3
+04:21,[PHO] Mitchell Rebound (Off:1 Def:4),-39,237,4,,201507,,1611661317,46,59,3
+04:06,[PHO] January Jump Shot: Missed,74,149,2,,201896,,1611661317,46,59,3
+04:02,[PHO] Bonner Rebound (Off:3 Def:1),74,149,4,,201886,,1611661317,46,59,3
+03:55,[PHO 48-59] Bonner Layup Shot: Made (13 PTS) Assist: Mitchell (2 AST),2,13,1,,201886,201507,1611661317,48,59,3
+03:55,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,48,59,3
+03:44,[CON 61-48] Williams Pullup Jump shot: Made (12 PTS),-47,107,1,,1627675,,1611661323,48,61,3
+03:23,[PHO] Bonner Turnover : Traveling (2 TO),-16,17,5,,201886,,1611661317,48,61,3
+03:13,[PHO] Turner Foul: Personal (3 PF) (2 FTA),-9,5,6,1627673,1629488,,1611661317,48,61,3
+03:13,[CON 62-48] Jones Free Throw 1 of 2 (5 PTS),0,-80,3,,1627673,,1611661323,48,62,3
+03:13,[CON] Jones Free Throw 2 of 2 Missed,0,-80,3,,1627673,,1611661323,48,62,3
+03:09,[PHO] Little Rebound (Off:0 Def:2),0,-80,4,,201067,,1611661317,48,62,3
+02:54,[PHO] Turner Turnover : Out of Bounds Lost Ball Turnover (2 TO),-21,8,5,,1629488,,1611661317,48,62,3
+02:42,[CON] Stricklen 3pt Shot: Missed,142,220,2,,203015,,1611661323,48,62,3
+02:35,[CON] Jones Rebound (Off:3 Def:5),142,220,4,,1627673,,1611661323,48,62,3
+02:35,[CON 64-48] Jones Tip Layup Shot: Made (7 PTS),0,-5,1,,1627673,,1611661323,48,64,3
+02:28,[PHO] Mitchell 3pt Shot: Missed,104,224,2,,201507,,1611661317,48,64,3
+02:25,[PHO] January Rebound (Off:1 Def:0),104,224,4,,201896,,1611661317,48,64,3
+02:23,[PHO] Bonner 3pt Shot: Missed,-155,191,2,,201886,,1611661317,48,64,3
+02:19,[CON] Thomas Rebound (Off:1 Def:5),-155,191,4,,203826,,1611661323,48,64,3
+02:07,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,48,64,3
+02:07,[CON] Stricklen Substitution replaced by Holmes,0,-80,8,,203015,1627678,1611661323,48,64,3
+02:04,[PHO] Turner Foul: Personal (4 PF) (2 FTA),14,-5,6,1627673,1629488,,1611661317,48,64,3
+02:04,[CON 65-48] Jones Free Throw 1 of 2 (8 PTS),0,-80,3,,1627673,,1611661323,48,65,3
+02:04,[PHO] Mitchell Substitution replaced by Turner,0,-80,8,,201507,203389,1611661317,48,65,3
+02:04,[CON 66-48] Jones Free Throw 2 of 2 (9 PTS),0,-80,3,,1627673,,1611661323,48,66,3
+01:51,[PHO 50-66] Turner Cutting Layup Shot: Made (9 PTS) Assist: January (2 AST),1,16,1,,1629488,201896,1611661317,50,66,3
+01:51,[CON] Jones Foul: Shooting (4 PF) (1 FTA),-2,4,6,1629488,1627673,,1611661323,50,66,3
+01:51,[PHO 51-66] Turner Free Throw 1 of 1 (10 PTS),0,-80,3,,1629488,,1611661317,51,66,3
+01:38,[CON] Thomas Turnover : Bad Pass (2 TO) Steal:Bonner (2 ST),-29,183,5,201886,202662,,1611661323,51,66,3
+01:32,[PHO] Turner Foul: Offensive Charge (3 PF),-5,47,6,202662,203389,,1611661317,51,66,3
+01:32,[PHO] Turner Turnover : Offensive Foul Turnover (2 TO),-5,47,5,,203389,,1611661317,51,66,3
+01:32,[CON] Thomas Substitution replaced by Plaisance,0,-80,8,,202662,203849,1611661323,51,66,3
+01:32,[CON] Jones Substitution replaced by Hiedeman,0,-80,8,,1627673,1629567,1611661323,51,66,3
+01:19,[CON 68-51] Thomas Driving Floating Jump Shot: Made (9 PTS) Assist: Hiedeman (2 AST),-46,113,1,,203826,1629567,1611661323,51,68,3
+01:07,[PHO 53-68] Bonner Reverse Layup Shot: Made (15 PTS) Assist: January (3 AST),9,1,1,,201886,201896,1611661317,53,68,3
+00:52.1,[CON] Plaisance Jump Shot: Missed,26,37,2,,203849,,1611661323,53,68,3
+00:52.1,[PHO] Bonner Rebound (Off:3 Def:2),26,37,4,,201886,,1611661317,53,68,3
+00:35.6,[PHO] Turner Turnover : Out of Bounds Lost Ball Turnover (3 TO),104,16,5,,1629488,,1611661317,53,68,3
+00:35.6,[PHO] Bonner Substitution replaced by Taylor,0,-80,8,,201886,203859,1611661317,53,68,3
+00:17.8,[CON] Plaisance Turnaround Jump Shot: Missed,105,-3,2,,203849,,1611661323,53,68,3
+00:14.9,[PHO] Turner Rebound (Off:2 Def:5),105,-3,4,,1629488,,1611661317,53,68,3
+00:02.1,[PHO] Turner Driving Layup Shot: Missed,-2,10,2,,203389,,1611661317,53,68,3
+00:01.1,[PHO] Team Rebound,-2,10,4,,0,,1611661317,53,68,3
+00:01.1,[CON] Hiedeman Foul: Loose Ball (3 PF) (2 FTA),1,17,6,203389,1629567,,1611661323,53,68,3
+00:01.1,[PHO 54-68] Turner Free Throw 1 of 2 (5 PTS),0,-80,3,,203389,,1611661317,54,68,3
+00:01.1,[PHO 55-68] Turner Free Throw 2 of 2 (6 PTS),0,-80,3,,203389,,1611661317,55,68,3
+00:00.0,End Period,0,-80,13,,0,,0,55,68,3
+10:00,Start Period,0,-80,12,,0,,0,55,68,4
+09:47,[CON] Williams Turnover : Lost Ball (3 TO) Steal:Turner (1 ST),-30,233,5,203389,1627675,,1611661323,55,68,4
+09:44,[PHO 57-68] Turner Running Layup Shot: Made (8 PTS),-4,6,1,,203389,,1611661317,57,68,4
+09:29,[CON] Hiedeman Turnover : Out of Bounds - Bad Pass Turnover (1 TO),-11,236,5,,1629567,,1611661323,57,68,4
+09:18,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,57,68,4
+09:18,[CON] Hiedeman Substitution replaced by Thomas,0,-80,8,,1629567,202662,1611661323,57,68,4
+09:05,[PHO 59-68] Turner Cutting Layup Shot: Made (12 PTS) Assist: Turner (4 AST),-5,16,1,,1629488,203389,1611661317,59,68,4
+08:49,[CON] Holmes Driving Floating Bank Jump Shot: Missed,-26,24,2,,1627678,,1611661323,59,68,4
+08:46,[PHO] Turner Rebound (Off:1 Def:3),-26,24,4,,203389,,1611661317,59,68,4
+08:31,[PHO 61-68] Little Turnaround Fadeaway Bank Jump Shot: Made (6 PTS),68,53,1,,201067,,1611661317,61,68,4
+08:31,[CON] Team Timeout : Regular,0,-80,9,,1611661323,,1611661323,61,68,4
+08:31,[CON] Plaisance Substitution replaced by Jones,0,-80,8,,203849,1627673,1611661323,61,68,4
+08:24,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,61,68,4
+08:16,[CON] Thomas Driving Floating Bank Jump Shot: Missed,3,13,2,,203826,,1611661323,61,68,4
+08:12,[CON] Jones Rebound (Off:4 Def:5),3,13,4,,1627673,,1611661323,61,68,4
+08:09,[CON] Thomas Driving Layup Shot: Missed,-8,3,2,,202662,,1611661323,61,68,4
+08:06,[PHO] Little Rebound (Off:0 Def:3),-8,3,4,,201067,,1611661317,61,68,4
+07:47,[PHO] Turner 3pt Shot: Missed,-147,204,2,,203389,,1611661317,61,68,4
+07:44,[CON] Thomas Rebound (Off:1 Def:6),-147,204,4,,203826,,1611661323,61,68,4
+07:43,[PHO] Mitchell Foul: Personal (3 PF),-223,381,6,202662,201507,,1611661317,61,68,4
+07:34,[CON] Williams Floating Jump shot: Missed,108,-20,2,,1627675,,1611661323,61,68,4
+07:29,[PHO] Taylor Rebound (Off:0 Def:2),108,-20,4,,203859,,1611661317,61,68,4
+07:19,[CON] Williams Foul: Personal (1 PF),97,149,6,203389,1627675,,1611661323,61,68,4
+07:15,[PHO] Turner Turnover : Step Out of Bounds Turnover (3 TO),193,67,5,,203389,,1611661317,61,68,4
+07:02,[CON] Holmes 3pt Shot: Missed,138,207,2,,1627678,,1611661323,61,68,4
+06:59,[CON] Jones Rebound (Off:5 Def:5),138,207,4,,1627673,,1611661323,61,68,4
+06:59,[PHO] Turner Foul: Shooting (5 PF) (2 FTA),-14,3,6,1627673,1629488,,1611661317,61,68,4
+06:59,[CON] Jones Free Throw 1 of 2 Missed,0,-80,3,,1627673,,1611661323,61,68,4
+06:59,[CON] Team Rebound,0,-80,4,,0,,1611661323,61,68,4
+06:59,[PHO] Taylor Substitution replaced by Bonner,0,-80,8,,203859,201886,1611661317,61,68,4
+06:59,[CON 69-61] Jones Free Throw 2 of 2 (10 PTS),0,-80,3,,1627673,,1611661323,61,69,4
+06:49,[CON] Williams Foul: Shooting (2 PF) (2 FTA),23,15,6,203389,1627675,,1611661323,61,69,4
+06:49,[PHO 62-69] Turner Free Throw 1 of 2 (9 PTS),0,-80,3,,203389,,1611661317,62,69,4
+06:49,[PHO] Turner Substitution replaced by Cunningham,0,-80,8,,1629488,1629482,1611661317,62,69,4
+06:49,[PHO 63-69] Turner Free Throw 2 of 2 (10 PTS),0,-80,3,,203389,,1611661317,63,69,4
+06:41,[CON] Thomas Turnover : Out of Bounds - Bad Pass Turnover (3 TO),-28,334,5,,202662,,1611661323,63,69,4
+06:22,[CON] Thomas Foul: Shooting (4 PF) (2 FTA),-26,17,6,201507,202662,,1611661323,63,69,4
+06:22,[PHO 64-69] Mitchell Free Throw 1 of 2 (12 PTS),0,-80,3,,201507,,1611661317,64,69,4
+06:22,[PHO] Mitchell Free Throw 2 of 2 Missed,0,-80,3,,201507,,1611661317,64,69,4
+06:20,[CON] Jones Rebound (Off:5 Def:6),0,-80,4,,1627673,,1611661323,64,69,4
+06:00,[CON] Thomas Pullup Jump shot: Missed,96,136,2,,202662,,1611661323,64,69,4
+05:57,[PHO] Little Rebound (Off:0 Def:4),96,136,4,,201067,,1611661317,64,69,4
+05:46,[PHO] Turner Driving Layup Shot: Missed,0,20,2,,203389,,1611661317,64,69,4
+05:43,[CON] Jones Rebound (Off:5 Def:7),0,20,4,,1627673,,1611661323,64,69,4
+05:35,[CON] Thomas Pullup Jump shot: Missed,69,128,2,,202662,,1611661323,64,69,4
+05:33,[PHO] Cunningham Rebound (Off:0 Def:1),69,128,4,,1629482,,1611661317,64,69,4
+05:18,[PHO 66-69] Bonner Driving Layup Shot: Made (17 PTS) Assist: Mitchell (3 AST),-3,10,1,,201886,201507,1611661317,66,69,4
+04:58,[CON 71-66] Thomas Driving Layup Shot: Made (15 PTS),-1,3,1,,202662,,1611661323,66,71,4
+04:38,[PHO] Bonner 3pt Shot: Missed,31,285,2,,201886,,1611661317,66,71,4
+04:35,[CON] Williams Rebound (Off:2 Def:4),31,285,4,,1627675,,1611661323,66,71,4
+04:25,[CON] Jones 3pt Shot: Missed,-87,233,2,,1627673,,1611661323,66,71,4
+04:20,[CON] Thomas Rebound (Off:2 Def:6),-87,233,4,,203826,,1611661323,66,71,4
+04:16,[CON 73-66] Jones Cutting Layup Shot: Made (12 PTS) Assist: Holmes (1 AST),-14,6,1,,1627673,1627678,1611661323,66,73,4
+04:04,[CON] Williams Foul: Personal (3 PF),125,145,6,203389,1627675,,1611661323,66,73,4
+04:04,[PHO] Cunningham Substitution replaced by Turner,0,-80,8,,1629482,1629488,1611661317,66,73,4
+04:04,[CON] Holmes Substitution replaced by Stricklen,0,-80,8,,1627678,203015,1611661323,66,73,4
+03:47,[PHO] Bonner Jump Shot: Missed,-106,4,2,,201886,,1611661317,66,73,4
+03:45,[CON] Thomas Rebound (Off:2 Def:1),-106,4,4,,202662,,1611661323,66,73,4
+03:27,[CON] Williams Driving Floating Jump Shot: Missed,-13,128,2,,1627675,,1611661323,66,73,4
+03:24,[CON] Jones Rebound (Off:6 Def:7),-13,128,4,,1627673,,1611661323,66,73,4
+03:17,[CON 75-66] Thomas Driving Layup Shot: Made (17 PTS),-7,2,1,,202662,,1611661323,66,75,4
+03:17,[PHO] Team Timeout : Regular,0,-80,9,,1611661317,,1611661317,66,75,4
+02:56,[PHO] Mitchell 3pt Shot: Missed,154,230,2,,201507,,1611661317,66,75,4
+02:52,[PHO] Turner Rebound (Off:3 Def:5),154,230,4,,1629488,,1611661317,66,75,4
+02:45,[PHO] Little Turnover : Out of Bounds Lost Ball Turnover (3 TO),0,22,5,,201067,,1611661317,66,75,4
+02:33,[CON] Thomas Turnover : Out of Bounds Lost Ball Turnover (4 TO),-57,257,5,,202662,,1611661323,66,75,4
+02:22,[PHO] Turner Foul: Offensive Charge (6 PF),-145,186,6,202662,1629488,,1611661317,66,75,4
+02:22,[PHO] Turner Turnover : Offensive Foul Turnover (4 TO),-145,186,5,,1629488,,1611661317,66,75,4
+02:22,[PHO] Turner Substitution replaced by Cunningham,0,-80,8,,1629488,1629482,1611661317,66,75,4
+02:06,[CON] Jones Turnover : Lost Ball (1 TO) Steal:Little (2 ST),-180,50,5,201067,1627673,,1611661323,66,75,4
+02:01,[PHO] Turner 3pt Shot: Missed,-48,237,2,,203389,,1611661317,66,75,4
+01:58,[CON] Jones Rebound (Off:6 Def:8),-48,237,4,,1627673,,1611661323,66,75,4
+01:47,[PHO] Cunningham Foul: Shooting (1 PF) (2 FTA),2,-10,6,202662,1629482,,1611661317,66,75,4
+01:47,[CON 76-66] Thomas Free Throw 1 of 2 (18 PTS),0,-80,3,,202662,,1611661323,66,76,4
+01:47,[PHO] Mitchell Substitution replaced by Taylor,0,-80,8,,201507,203859,1611661317,66,76,4
+01:47,[PHO] Bonner Substitution replaced by Carter,0,-80,8,,201886,1629573,1611661317,66,76,4
+01:47,[CON] Thomas Free Throw 2 of 2 Missed,0,-80,3,,202662,,1611661323,66,76,4
+01:44,[PHO] Little Rebound (Off:0 Def:5),0,-80,4,,201067,,1611661317,66,76,4
+01:31,[PHO] Taylor Foul: Offensive Charge (1 PF),-21,212,6,1627675,203859,,1611661317,66,76,4
+01:31,[PHO] Taylor Turnover : Offensive Foul Turnover (2 TO),-21,212,5,,203859,,1611661317,66,76,4
+01:10,Stoppage: Out-of-Bounds,0,-80,20,,0,,0,66,76,4
+01:08,[CON] Thomas Jump Shot: Missed,-126,-10,2,,202662,,1611661323,66,76,4
+01:07,[CON] Team Rebound,-126,-10,4,,0,,1611661323,66,76,4
+01:07,[CON] Team Turnover : Shot Clock Turnover,-123,2,5,,0,,1611661323,66,76,4
+01:07,[PHO] Team Timeout : Short,0,-80,9,,1611661317,,1611661317,66,76,4
+00:55.3,[CON] Jones Foul: Shooting (5 PF) (2 FTA),48,15,6,203389,1627673,,1611661323,66,76,4
+00:55.3,[PHO] Turner Free Throw 1 of 2 Missed,0,-80,3,,203389,,1611661317,66,76,4
+00:55.3,[PHO] Team Rebound,0,-80,4,,0,,1611661317,66,76,4
+00:55.3,[PHO 67-76] Turner Free Throw 2 of 2 (11 PTS),0,-80,3,,203389,,1611661317,67,76,4
+00:38.4,[CON] Thomas Layup Shot: Missed,-4,1,2,,203826,,1611661323,67,76,4
+00:37.6,[CON] Thomas Rebound (Off:3 Def:6),-4,1,4,,203826,,1611661323,67,76,4
+00:37.6,[CON 78-67] Thomas Putback Layup Shot: Made (11 PTS),0,-14,1,,203826,,1611661323,67,78,4
+00:37.6,[PHO] Taylor Foul: Shooting (2 PF) (1 FTA),0,-14,6,203826,203859,,1611661317,67,78,4
+00:37.6,[CON] Thomas Substitution replaced by Hiedeman,0,-80,8,,202662,1629567,1611661323,67,78,4
+00:37.6,[CON] Jones Substitution replaced by Plaisance,0,-80,8,,1627673,203849,1611661323,67,78,4
+00:37.6,[CON] Thomas Free Throw 1 of 1 Missed,0,-80,3,,203826,,1611661323,67,78,4
+00:35.4,[PHO] Little Rebound (Off:0 Def:6),0,-80,4,,201067,,1611661317,67,78,4
+00:20.9,[PHO 69-78] Turner Driving Layup Shot: Made (13 PTS),12,15,1,,203389,,1611661317,69,78,4
+00:17.3,[CON] Williams Turnover : Bad Pass (4 TO) Steal:Turner (2 ST),174,677,5,203389,1627675,,1611661323,69,78,4
+00:12.7,[CON] Plaisance Foul: Shooting (1 PF) (2 FTA),-14,16,6,203389,203849,,1611661323,69,78,4
+00:12.7,[PHO 70-78] Turner Free Throw 1 of 2 (14 PTS),0,-80,3,,203389,,1611661317,70,78,4
+00:12.7,[PHO 71-78] Turner Free Throw 2 of 2 (15 PTS),0,-80,3,,203389,,1611661317,71,78,4
+00:00.0,End Period,0,-80,13,,0,,0,71,78,4
+00:00.0,Game End,0,-80,0,,0,,0,71,78,4
