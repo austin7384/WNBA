@@ -1,7 +1,6 @@
 # WNBA
 Traditional plus-minus is a noisy measure of a player's impact. This project creates a more stable and predictive metric by first calculating a robust, regularized adjusted plus-minus (RAPM) using Bayesian methods. This "gold standard" RAPM is then used to train a model on common box score statistics, player archetypes (derived via clustering), and positional data. The final output is a WNBA Box Plus-Minus (BPM) metric that estimates a player's per-100-possessions contribution to their team's point differential, based on their observable box score contributions.
 
-Model Workflow
 The model is built in five key stages:
 
 1. Data Collection
@@ -36,9 +35,7 @@ The Bayesian RAPM serves as the target variable for training the descriptive Box
 
 Target Variable: Bayesian RAPM (from Step 2).
 
-Features:
-
-Box Score Stats: Per-100-possession counts for all major statistics.
+Features: Box Score Stats: Per-100-possession counts for all major statistics.
 
 Categorical Features: One-hot encoded player archetypes (from Step 3) and primary position.
 
